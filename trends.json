@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-14T16:46:59.711Z",
+  "updatedAt": "2026-07-14T18:10:40.125Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "도림천",
+      "id": "스마트폰",
       "rank": 1,
-      "keyword": "도림천",
-      "category": "life",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "keyword": "스마트폰",
+      "category": "tech",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "생활 정보와 관련 소식을 확인하려는 검색이 늘며 검색 관심도가 빠르게 올라오고 있어요.",
+      "summary": "신제품과 기술 소식에 대한 관심이 커지며 검색 관심도가 빠르게 올라오고 있어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "“오늘 밤이 고비”…이 시각 서울 도림천",
-        "한강 유역 서울시 너부대교 지점에 홍수주의보 발령",
-        "[날씨][속보] 서울 동북·서북권에도 호우주의보 발령"
+        "‘99만원→254만원’ 가격 ‘폭등’ 난리더니…13년만의 ‘역대급’ 추락",
+        "'300만원짜리 스마트폰 누가 사겠나' 싶더니…터질 게 터졌다",
+        "갤럭시, 아이폰 제치고 세계 1위 탈환… S26 시리즈 통했다"
       ],
       "history": [
         73,
@@ -29,20 +29,20 @@
       ]
     },
     {
-      "id": "하트시그널5",
+      "id": "풍자",
       "rank": 2,
-      "keyword": "하트시그널5",
+      "keyword": "풍자",
       "category": "life",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "생활 정보와 관련 소식을 확인하려는 검색이 늘며 검색 관심도가 빠르게 올라오고 있어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "\"나가서 못 볼 수도 있을 것 같다\" 김민주, 엉켜버린 김성민에 냉담 ('하트시그널5')",
-        "'하트시그널5' 김민주-김성민, 오해와 앙금 풀고 서로 최종 선택할까? - 머니투데이",
-        "김민주 “생각만 많고 행동은…” 김성민에 사이다 팩폭 (하시5)"
+        "'트랜스젠더' 풍자, 생리통 발언에...",
+        "풍자, '생리통 희화화' 논란에 결국 '쇼츠' 삭제...\"여성 고통을 농담으로\" 여진 계속",
+        "풍자, '생리통 희화화' 논란 사과 없이 유튜브·릴스 전부 삭제 [스타이슈]"
       ],
       "history": [
         69,
@@ -54,20 +54,20 @@
       ]
     },
     {
-      "id": "긴급-체포",
+      "id": "gpt-5-6",
       "rank": 3,
-      "keyword": "긴급 체포",
+      "keyword": "gpt-5.6",
       "category": "life",
-      "volumeLabel": "500+",
+      "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "생활 정보와 관련 소식을 확인하려는 검색이 늘며 검색 관심도가 빠르게 올라오고 있어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "자진출석 피의자 밖으로 불러내 “긴급체포”…현직 경찰 기소",
-        "자진 출석 피의자 긴급체포에 허위 영장까지...현직 경찰관 재판行",
-        "'자수자 경찰서 밖 불러내 체포' 영등포서 경위 기소·대기발령(종합)"
+        "GPT-5.6: Frontier intelligence that scales with your ambition",
+        "OpenAI Releases New, More Powerful A.I. Model",
+        "OpenAI's new prompting guide tells users to stop overthinking and start with the result"
       ],
       "history": [
         65,
@@ -79,20 +79,20 @@
       ]
     },
     {
-      "id": "모태솔로지만-연애는-하고싶어-시즌2",
+      "id": "도림천",
       "rank": 4,
-      "keyword": "모태솔로지만 연애는 하고싶어 시즌2",
+      "keyword": "도림천",
       "category": "life",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "생활 정보와 관련 소식을 확인하려는 검색이 늘며 검색 관심도가 빠르게 올라오고 있어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "[Y초점] '모솔연애2' 이은지, 리액션보다 빛난 '상황 번역' 능력",
-        "연애도 이제 선택…‘모솔연애2’로 보는 달라진 청년의 관계 [이슈]",
-        "\"연애 기억 안 난다\"더니…고준희, 스킨십 취향 솔직 \"좋아하는데?\""
+        "“오늘 밤이 고비”…이 시각 서울 도림천",
+        "한강 유역 서울시 너부대교 지점에 홍수주의보 발령",
+        "[날씨][속보] 서울 동북·서북권에도 호우주의보 발령"
       ],
       "history": [
         61,
@@ -104,20 +104,20 @@
       ]
     },
     {
-      "id": "디발라",
+      "id": "긴급-체포",
       "rank": 5,
-      "keyword": "디발라",
+      "keyword": "긴급 체포",
       "category": "life",
-      "volumeLabel": "200+",
+      "volumeLabel": "500+",
       "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "생활 정보와 관련 소식을 확인하려는 검색이 늘며 검색 관심도가 빠르게 올라오고 있어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "[오피셜] 사우디 연봉 1278억 거절하고 로마 잔류, 또 재계약까지…외모만큼 인성도 최고! 디발라, 로마 남는다",
-        "[오피셜] 아르헨티나 국대 FW 디발라, AS로마와 1년 재계약",
-        "‘HERE WE GO’ 로마노 확인…결국 안 떠나고 유럽 잔류한다→’디발라, AS로마와 재계약 유력’"
+        "자진 출석 피의자 긴급체포에 허위 영장까지...현직 경찰관 재판行",
+        "'자수자 경찰서 밖 불러내 체포' 영등포서 경위 기소·대기발령(종합)",
+        "자진출석 피의자 밖으로 불러내 “긴급체포”…현직 경찰 기소"
       ],
       "history": [
         57,
@@ -129,20 +129,20 @@
       ]
     },
     {
-      "id": "고우림",
+      "id": "모태솔로지만-연애는-하고싶어-시즌2",
       "rank": 6,
-      "keyword": "고우림",
+      "keyword": "모태솔로지만 연애는 하고싶어 시즌2",
       "category": "life",
-      "volumeLabel": "500+",
+      "volumeLabel": "200+",
       "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "생활 정보와 관련 소식을 확인하려는 검색이 늘며 검색 관심도가 빠르게 올라오고 있어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "검색 관심도 상승",
-        "관련 검색어 동반 증가",
-        "주기 갱신 데이터"
+        "[Y초점] '모솔연애2' 이은지, 리액션보다 빛난 '상황 번역' 능력",
+        "연애도 이제 선택…‘모솔연애2’로 보는 달라진 청년의 관계 [이슈]",
+        "\"'모솔연애2' 눈치 빨라, 시즌1 울화통 터졌었는데\" 고준희 냉정 평가"
       ],
       "history": [
         53,
@@ -154,20 +154,20 @@
       ]
     },
     {
-      "id": "유아인",
+      "id": "최저시급",
       "rank": 7,
-      "keyword": "유아인",
+      "keyword": "최저시급",
       "category": "life",
-      "volumeLabel": "500+",
+      "volumeLabel": "2000+",
       "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "생활 정보와 관련 소식을 확인하려는 검색이 늘며 검색 관심도가 빠르게 올라오고 있어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "배우 유아인, 나홍진 '호프' 시사회서 포착…복귀 여부 촉각",
-        "\"전과자 복귀 무대냐\"...유아인·곽도원 등장, 호프 VIP 시사회 '시끌' - 머니투데이",
-        "[스경X이슈] 유아인, 장재현 감독과 ‘호프’ 行…‘벌써 자숙 끝?’"
+        "내년 최저임금 1만700원... 올해보다 3.7% 오른다",
+        "105일 걸린 최저임금 심의…1만700원으로 최종 결정(종합)",
+        "최저임금 심의 매년 도돌이표…결정구조 개편 필요성"
       ],
       "history": [
         49,
@@ -179,20 +179,20 @@
       ]
     },
     {
-      "id": "바가지요금",
+      "id": "디발라",
       "rank": 8,
-      "keyword": "바가지요금",
+      "keyword": "디발라",
       "category": "life",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
+      "volumeLabel": "200+",
+      "startedLabel": "4시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "생활 정보와 관련 소식을 확인하려는 검색이 늘며 검색 관심도가 빠르게 올라오고 있어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "\"요금표 안 붙이면 바로 철퇴\"…이제 한 번만 걸려도 '영업정지'",
-        "[와글와글 플러스] '바가지요금' 근절‥첫 위반부터 '영업정지'",
-        "숙박요금표 미부착·바가지 씌우면 바로 영업정지"
+        "[오피셜] 사우디 연봉 1278억 거절하고 로마 잔류, 또 재계약까지…외모만큼 인성도 최고! 디발라, 로마 남는다",
+        "[오피셜] 아르헨티나 국대 FW 디발라, AS로마와 1년 재계약",
+        "‘HERE WE GO’ 로마노 확인…결국 안 떠나고 유럽 잔류한다→’디발라, AS로마와 재계약 유력’"
       ],
       "history": [
         45,
@@ -204,20 +204,20 @@
       ]
     },
     {
-      "id": "이성민",
+      "id": "고우림",
       "rank": 9,
-      "keyword": "이성민",
+      "keyword": "고우림",
       "category": "life",
-      "volumeLabel": "200+",
+      "volumeLabel": "500+",
       "startedLabel": "4시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "생활 정보와 관련 소식을 확인하려는 검색이 늘며 검색 관심도가 빠르게 올라오고 있어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "Lee Sung-min sheds 10kg and stuns at Korea photoshoot - CHOSUNBIZ",
-        "Thin Lee Seong-min wears a skirt after losing 10kg..58-year-old handsome visual [Star Issue]",
-        "Actor Lee Sung-min has become more emaciated after losing 10kg for his work, causing fans to worry.F.."
+        "검색 관심도 상승",
+        "관련 검색어 동반 증가",
+        "주기 갱신 데이터"
       ],
       "history": [
         41,
@@ -229,20 +229,20 @@
       ]
     },
     {
-      "id": "민경욱",
+      "id": "유아인",
       "rank": 10,
-      "keyword": "민경욱",
+      "keyword": "유아인",
       "category": "life",
-      "volumeLabel": "500+",
+      "volumeLabel": "1000+",
       "startedLabel": "5시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "생활 정보와 관련 소식을 확인하려는 검색이 늘며 검색 관심도가 빠르게 올라오고 있어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "부정선거 강연 중 쓰러진 민경욱…“의식불명·뇌병변 의심” 응급 이송",
-        "민경욱 前 의원 부정선거 강연 도중 쓰러져 심폐소생술 후 응급 이송",
-        "민경욱 전 의원, 고애연 포럼 도중 졸도…의식불명 상태로 병원 이송"
+        "배우 유아인, 나홍진 '호프' 시사회서 포착…복귀 여부 촉각",
+        "\"전과자 복귀 무대냐\"...유아인·곽도원 등장, 호프 VIP 시사회 '시끌' - 머니투데이",
+        "[스경X이슈] 유아인, 장재현 감독과 ‘호프’ 行…‘벌써 자숙 끝?’"
       ],
       "history": [
         37,
