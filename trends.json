@@ -1,166 +1,165 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-17T20:11:53.041Z",
+  "updatedAt": "2026-07-17T21:24:06.489Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "김부장-다시보기",
+      "id": "태풍",
       "rank": 1,
-      "keyword": "김부장 다시보기",
-      "volumeLabel": "2000+",
+      "keyword": "태풍",
+      "volumeLabel": "5000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '다음주 종영 '김부장', 스페셜 방송에 소지섭·최대훈·윤경호도 출연 [단독]' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '12호 태풍 노을 발생,현재 위치 및 예상경로.'13호 돌핀', '14호 구지라' 첫 한국행은?...2026년 장마기간!' 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "다음주 종영 '김부장', 스페셜 방송에 소지섭·최대훈·윤경호도 출연 [단독]",
-        "[종합] '김부장' 소지섭 납북 엔딩…주상욱 분노의 복수 예고",
-        "‘무법중년’의 사적응징 액션, 답답한 속 확 뚫어주네"
+        "12호 태풍 노을 발생,현재 위치 및 예상경로.'13호 돌핀', '14호 구지라' 첫 한국행은?...2026년 장마기간!",
+        "제20호 열대저압부, 하루 내 제 12호 태풍 '노을'로 발달 예상…48시간 뒤 다시 약화",
+        "열대저압부 24시간 내 태풍 '노을' 발달 전망…이틀 뒤 다시 세력 약화"
       ]
     },
     {
-      "id": "강릉시",
+      "id": "나성범",
       "rank": 2,
-      "keyword": "강릉시",
+      "keyword": "나성범",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '나성범이 치고 이의리가 지켰다…KIA, 6-3승' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "나성범이 치고 이의리가 지켰다…KIA, 6-3승",
+        "'나성범·박재현 홈런' KIA, SSG에 6-3 역전승…이의리, 시즌 2승",
+        "[스경X현장]나성범 “은퇴할 땐 ‘슈퍼스타’보다 ‘꾸준한 선수’ 소리 듣고 싶다”"
+      ]
+    },
+    {
+      "id": "영화",
+      "rank": 3,
+      "keyword": "영화",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '영화 ‘호프’ 개봉 사흘 만에 100만 돌파... 올해 개봉작 중 가장 빠르다' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "영화 ‘호프’ 개봉 사흘 만에 100만 돌파... 올해 개봉작 중 가장 빠르다",
+        "'호프', 제헌절 하루 59만명 봤다…개봉 3일만 '120만' 돌파 [엑's 이슈]",
+        "나홍진 ‘화려한 귀환’···영화 ‘호프’ 개봉 3일 차에 ‘100만 관객’ 돌파, 올해 개봉작 최단 기록 깼다"
+      ]
+    },
+    {
+      "id": "손담비",
+      "rank": 4,
+      "keyword": "손담비",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''21kg 감량' 손담비, 샌드위치 하나도 다 안 먹네…\"양심에 찔려\"' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "'21kg 감량' 손담비, 샌드위치 하나도 다 안 먹네…\"양심에 찔려\"",
+        "출산 후 21㎏ 감량한 손담비…운동으로 만든 ‘직각 어깨’",
+        "손담비, 충격적인 아침 식단…\"샌드위치 한 개 다 먹으면 양심 찔려\""
+      ]
+    },
+    {
+      "id": "근육",
+      "rank": 5,
+      "keyword": "근육",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“근육만 강해지는 게 아니었다”…운동이 심장 신경까지 바꾼다' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "“근육만 강해지는 게 아니었다”…운동이 심장 신경까지 바꾼다",
+        "근육만 키우는게 아니었다…“운동이 심장 신경 바꿔 부정맥 치료 단서 제공”",
+        "“운동하면 심장 신경도 달라져”...10주간 유산소 운동한 쥐 살펴보니"
+      ]
+    },
+    {
+      "id": "배드민턴",
+      "rank": 6,
+      "keyword": "배드민턴",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '11:3→20:22 김가은, 日 에이스에 통한의 역전패…韓 배드민턴 여자단식, 일본 오픈 8강서 '전원 탈락'' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "11:3→20:22 김가은, 日 에이스에 통한의 역전패…韓 배드민턴 여자단식, 일본 오픈 8강서 '전원 탈락'",
+        "김가은, 16강 상대 기권에 곧바로 8강 진출"
+      ]
+    },
+    {
+      "id": "배구",
+      "rank": 7,
+      "keyword": "배구",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '여자배구 정관장, 지도자 관련 사안에 공식 사과…\"조사에 성실히 협조\"' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "여자배구 정관장, 지도자 관련 사안에 공식 사과…\"조사에 성실히 협조\"",
+        "'충격' 정관장 코치 부적절 행위 일파만파, 구단 사과문 발표...\"관련 구성원 분리조치, 스포츠윤리센터 조사 성실히 협죠\" - 머니투데이",
+        "고개 숙인 여자배구 정관장, “선수단 보호가 최우선, 조사 결과에 따라 필요한 후속 조치를 이행하겠다”"
+      ]
+    },
+    {
+      "id": "김종국",
+      "rank": 8,
+      "keyword": "김종국",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김종국, 결혼 이어 또 깜짝 발표…‘런닝맨’ 초토화' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "김종국, 결혼 이어 또 깜짝 발표…‘런닝맨’ 초토화",
+        "‘바타♥’ 지예은 경사 전하자 김종국도 깜짝 발표 (런닝맨)",
+        "김종국, '극비 결혼' 10개월만에 \"좋은소식 있다\" 깜짝 발표..추측 난무(런닝맨)"
+      ]
+    },
+    {
+      "id": "전략폭격기",
+      "rank": 9,
+      "keyword": "전략폭격기",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '강릉시민사회단체, ‘ITS세계총회 성공 개최’ 한마음' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '젤렌스키 \"우크라, 러 Tu-95 전략폭격기 파괴\"' 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "강릉시민사회단체, ‘ITS세계총회 성공 개최’ 한마음",
-        "‘2026 강릉 ITS 세계총회 성공기원 강릉시민사회단체 결의대회’ 개최",
-        "“ITS 세계총회 성공 위해 강릉시민들의 저력과 헌신 결집”"
+        "젤렌스키 \"우크라, 러 Tu-95 전략폭격기 파괴\"",
+        "젤렌스키 \"러 Tu-95 전략폭격기 파괴\"",
+        "젤렌스키 \"러시아군 Tu-95 전략폭격기 파괴해\""
       ]
     },
     {
-      "id": "kone",
-      "rank": 3,
-      "keyword": "kone",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Man Utd forced into urgent Manu Kone action as source explains why £51m…' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "Man Utd forced into urgent Manu Kone action as source explains why £51m star has 'everything they need'",
-        "Manu Kone: What Man United think about Roma’s incredible midfielder",
-        "Chelsea Set To Battle Man United For World Cup Superstar Midfielder"
-      ]
-    },
-    {
-      "id": "포수",
-      "rank": 4,
-      "keyword": "포수",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '프로야구 SSG, LG에서 방출된 포수 전준호 영입' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "프로야구 SSG, LG에서 방출된 포수 전준호 영입",
-        "‘포수→투수 전향→방출’ LG 10R 유망주, 포수로 다시 기회 얻었다…SSG 영입 “AG 전력 공백 최소화” [공식발표] - 머니투데이",
-        "9위팀은 왜 '0.000' LG 방출 선수를 데려왔나…포수→투수→포수로 재출발 \"입대+대표팀 차출 공백 대비, 안정적이다\" [공식발표]"
-      ]
-    },
-    {
-      "id": "karmine-corp",
-      "rank": 5,
-      "keyword": "karmine corp",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Gen.G leads Korea into EWC League of Legends quarterfinals' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "Gen.G leads Korea into EWC League of Legends quarterfinals",
-        "Defending Champion Gen.G Sweeps JD Gaming 2-0 to Advance to Semifinals",
-        "Gen.G vs JD Gaming: Fearless Draft & Epic Comeback at Esports World Cup 2026"
-      ]
-    },
-    {
-      "id": "프랑스-잉글랜드",
-      "rank": 6,
-      "keyword": "프랑스 잉글랜드",
-      "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"3·4위전 왜 하나? 패자에 대한 모욕\" 월드컵 92년 전통 폐지 요구 속출…\"선수들도 불만, 돈 버는 방송사만 좋아해\"' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "\"3·4위전 왜 하나? 패자에 대한 모욕\" 월드컵 92년 전통 폐지 요구 속출…\"선수들도 불만, 돈 버는 방송사만 좋아해\"",
-        "‘별’은 못 땄지만 ‘새 꿈은 내 가슴에’···‘충격 완패’ 프랑스도 ‘허탈 역전패’ 잉글랜드도 꼭 쟁취해야할 3위",
-        "'결승전보다 더 피 터지는' 프랑스 vs 잉글랜드…3위 쟁탈전"
-      ]
-    },
-    {
-      "id": "강수량",
-      "rank": 7,
-      "keyword": "강수량",
-      "volumeLabel": "2000+",
-      "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '신민호 \"반도체 용수가 '수돗물 불안'으로 이어져선 안 돼\"' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "신민호 \"반도체 용수가 '수돗물 불안'으로 이어져선 안 돼\"",
-        "[간추린 단신] “동복댐 증설 철회…하수 재이용수 활용해야” 외",
-        "광주환경연합 \"반도체 용수 확보 위한 동복댐 국유화 반대\""
-      ]
-    },
-    {
-      "id": "김예림",
-      "rank": 8,
-      "keyword": "김예림",
-      "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''해투' 투개월 도대윤 \"조울증 심했다…장범준 매니저로도 근무\"' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "'해투' 투개월 도대윤 \"조울증 심했다…장범준 매니저로도 근무\"",
-        "투개월, 13년 만에 뭉쳤는데..\"2~3년에 한 번 연락해\" 솔직 ('해투')",
-        "'투개월' 도대윤 \"조울증 심하게 앓아…압박감에 미국행\""
-      ]
-    },
-    {
-      "id": "al",
-      "rank": 9,
-      "keyword": "al",
-      "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Garry Sobers dies, aged 89' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "Garry Sobers dies, aged 89",
-        "Sir Garfield Sobers obituary: West Indies legendary all-rounder remembered",
-        "Garry Sobers was the greatest of all time, a cavalier in an era of roundheads"
-      ]
-    },
-    {
-      "id": "더중앙플러스",
+      "id": "진성준",
       "rank": 10,
-      "keyword": "더중앙플러스",
-      "volumeLabel": "500+",
-      "startedLabel": "6시간 전",
+      "keyword": "진성준",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '창신메모리 상장, '삼전닉스' 주가 하락 부추겼나?' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '대전 자운대에 국군사관학교 창설…“대기업 유치 이상 파급효과”' 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "창신메모리 상장, '삼전닉스' 주가 하락 부추겼나?",
-        "15조 조달한 中 최대 IPO에…CXMT 임직원 2억씩 스톡옵션 챙길 듯 - 머니투데이",
-        "[중국 D램 CXMT 해부] ⑦3대 투자노선, A주 테마주 탐색전 본격화"
+        "대전 자운대에 국군사관학교 창설…“대기업 유치 이상 파급효과”",
+        "[패트롤]영천시-대구시의회-영남이공대-대구보건대",
+        "\"보복이면 육사를 쪼갰을 것\"…진성준, 육·해·공 사관학교 통합 논란에 반박"
       ]
     }
   ]
