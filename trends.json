@@ -1,14 +1,62 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-17T18:36:34.463Z",
+  "updatedAt": "2026-07-17T20:11:53.041Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "포수",
+      "id": "김부장-다시보기",
       "rank": 1,
-      "keyword": "포수",
-      "volumeLabel": "200+",
+      "keyword": "김부장 다시보기",
+      "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '다음주 종영 '김부장', 스페셜 방송에 소지섭·최대훈·윤경호도 출연 [단독]' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "다음주 종영 '김부장', 스페셜 방송에 소지섭·최대훈·윤경호도 출연 [단독]",
+        "[종합] '김부장' 소지섭 납북 엔딩…주상욱 분노의 복수 예고",
+        "‘무법중년’의 사적응징 액션, 답답한 속 확 뚫어주네"
+      ]
+    },
+    {
+      "id": "강릉시",
+      "rank": 2,
+      "keyword": "강릉시",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '강릉시민사회단체, ‘ITS세계총회 성공 개최’ 한마음' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "강릉시민사회단체, ‘ITS세계총회 성공 개최’ 한마음",
+        "‘2026 강릉 ITS 세계총회 성공기원 강릉시민사회단체 결의대회’ 개최",
+        "“ITS 세계총회 성공 위해 강릉시민들의 저력과 헌신 결집”"
+      ]
+    },
+    {
+      "id": "kone",
+      "rank": 3,
+      "keyword": "kone",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Man Utd forced into urgent Manu Kone action as source explains why £51m…' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "Man Utd forced into urgent Manu Kone action as source explains why £51m star has 'everything they need'",
+        "Manu Kone: What Man United think about Roma’s incredible midfielder",
+        "Chelsea Set To Battle Man United For World Cup Superstar Midfielder"
+      ]
+    },
+    {
+      "id": "포수",
+      "rank": 4,
+      "keyword": "포수",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 '프로야구 SSG, LG에서 방출된 포수 전준호 영입' 관련 뉴스가 함께 포착됐어요.",
@@ -20,27 +68,11 @@
       ]
     },
     {
-      "id": "손호영",
-      "rank": 2,
-      "keyword": "손호영",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''손호영 OUT' 롯데, 라인업 변화! '日독립리그 출신' 외야수도 정식 등록했다' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "'손호영 OUT' 롯데, 라인업 변화! '日독립리그 출신' 외야수도 정식 등록했다",
-        "‘퓨처스 맹폭격’ 롯데 조민영, 드디어 정식 선수 전환…삼성전 선발 라인업 공개 [오!쎈 대구]",
-        "롯데 퓨처스 올스타 조민영, 정식 선수 전환! 1군 등록됐다 [대구 현장]"
-      ]
-    },
-    {
       "id": "karmine-corp",
-      "rank": 3,
+      "rank": 5,
       "keyword": "karmine corp",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "4시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 'Gen.G leads Korea into EWC League of Legends quarterfinals' 관련 뉴스가 함께 포착됐어요.",
@@ -53,58 +85,74 @@
     },
     {
       "id": "프랑스-잉글랜드",
-      "rank": 4,
+      "rank": 6,
       "keyword": "프랑스 잉글랜드",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "4시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''결승전보다 더 피 터지는' 프랑스 vs 잉글랜드…3위 쟁탈전' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"3·4위전 왜 하나? 패자에 대한 모욕\" 월드컵 92년 전통 폐지 요구 속출…\"선수들도 불만, 돈 버는 방송사만 좋아해\"' 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "'결승전보다 더 피 터지는' 프랑스 vs 잉글랜드…3위 쟁탈전",
+        "\"3·4위전 왜 하나? 패자에 대한 모욕\" 월드컵 92년 전통 폐지 요구 속출…\"선수들도 불만, 돈 버는 방송사만 좋아해\"",
         "‘별’은 못 땄지만 ‘새 꿈은 내 가슴에’···‘충격 완패’ 프랑스도 ‘허탈 역전패’ 잉글랜드도 꼭 쟁취해야할 3위",
-        "김 빠진 3·4위전? 걸린 게 많다"
+        "'결승전보다 더 피 터지는' 프랑스 vs 잉글랜드…3위 쟁탈전"
+      ]
+    },
+    {
+      "id": "강수량",
+      "rank": 7,
+      "keyword": "강수량",
+      "volumeLabel": "2000+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '신민호 \"반도체 용수가 '수돗물 불안'으로 이어져선 안 돼\"' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "신민호 \"반도체 용수가 '수돗물 불안'으로 이어져선 안 돼\"",
+        "[간추린 단신] “동복댐 증설 철회…하수 재이용수 활용해야” 외",
+        "광주환경연합 \"반도체 용수 확보 위한 동복댐 국유화 반대\""
       ]
     },
     {
       "id": "김예림",
-      "rank": 5,
+      "rank": 8,
       "keyword": "김예림",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "5시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''정신병원 강제입원' 도대윤 \"장범준 매니저로 근무..거절하는 업무만\"[해투][별별TV]' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''해투' 투개월 도대윤 \"조울증 심했다…장범준 매니저로도 근무\"' 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "'정신병원 강제입원' 도대윤 \"장범준 매니저로 근무..거절하는 업무만\"[해투][별별TV]",
-        "'투개월' 도대윤 \"조울증 심하게 앓아…압박감에 미국행\"",
-        "투개월, 13년 만에 뭉쳤는데..\"2~3년에 한 번 연락해\" 솔직 ('해투')"
+        "'해투' 투개월 도대윤 \"조울증 심했다…장범준 매니저로도 근무\"",
+        "투개월, 13년 만에 뭉쳤는데..\"2~3년에 한 번 연락해\" 솔직 ('해투')",
+        "'투개월' 도대윤 \"조울증 심하게 앓아…압박감에 미국행\""
       ]
     },
     {
       "id": "al",
-      "rank": 6,
+      "rank": 9,
       "keyword": "al",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "5시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘Today’ Anchor Craig Melvin Chases Intruder From 30 Rock as Show Airs' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Garry Sobers dies, aged 89' 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "‘Today’ Anchor Craig Melvin Chases Intruder From 30 Rock as Show Airs",
-        "Craig Melvin and Al Roker granted restraining orders against “Today” show intruder",
-        "‘Today’ Show Intruder Arrested After Allegedly Lunging at Craig Melvin and Yelling Racial Slur"
+        "Garry Sobers dies, aged 89",
+        "Sir Garfield Sobers obituary: West Indies legendary all-rounder remembered",
+        "Garry Sobers was the greatest of all time, a cavalier in an era of roundheads"
       ]
     },
     {
       "id": "더중앙플러스",
-      "rank": 7,
+      "rank": 10,
       "keyword": "더중앙플러스",
       "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
+      "startedLabel": "6시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 '창신메모리 상장, '삼전닉스' 주가 하락 부추겼나?' 관련 뉴스가 함께 포착됐어요.",
@@ -113,54 +161,6 @@
         "창신메모리 상장, '삼전닉스' 주가 하락 부추겼나?",
         "15조 조달한 中 최대 IPO에…CXMT 임직원 2억씩 스톡옵션 챙길 듯 - 머니투데이",
         "[중국 D램 CXMT 해부] ⑦3대 투자노선, A주 테마주 탐색전 본격화"
-      ]
-    },
-    {
-      "id": "아덴-만",
-      "rank": 8,
-      "keyword": "아덴 만",
-      "volumeLabel": "2000+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '아덴만 유조선에 무단 승선…\"한국 군함 향하는 중\"' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "아덴만 유조선에 무단 승선…\"한국 군함 향하는 중\"",
-        "영국해사기구 \"예멘 부근 아덴만서 선박에 미승인 인원들 승선\"",
-        "‘아덴만 한국 군함 긴급출동’…유조선에 해적 추정 무단 승선 ‘조난 신고’"
-      ]
-    },
-    {
-      "id": "김송",
-      "rank": 9,
-      "keyword": "김송",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김송, 돌연 사과…\"전액 환불 결정\" 판매 중단 공지 [전문]' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "김송, 돌연 사과…\"전액 환불 결정\" 판매 중단 공지 [전문]",
-        "김송, '공구 제품' 논란에 \"100% 환불\" 사과",
-        "연예인 공구, 또 문제 발생했다…강원래 아내 \"전제품 100% 환불\""
-      ]
-    },
-    {
-      "id": "백령도",
-      "rank": 10,
-      "keyword": "백령도",
-      "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '인천 백령·연평 등 서해5도 20일부터 여객선 야간 운항 허용' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "인천 백령·연평 등 서해5도 20일부터 여객선 야간 운항 허용",
-        "옹진군 서북도서 여객선 운항제한 완화…해상교통 개선",
-        "옹진군, 서북도서 선박운항 규정 개정…야간운항 제한 완화"
       ]
     }
   ]
