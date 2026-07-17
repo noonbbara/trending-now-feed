@@ -1,14 +1,46 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-17T15:59:14.842Z",
+  "updatedAt": "2026-07-17T17:20:21.731Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "더중앙플러스",
+      "id": "프랑스-잉글랜드",
       "rank": 1,
+      "keyword": "프랑스 잉글랜드",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''결승전보다 더 피 터지는' 프랑스 vs 잉글랜드…3위 쟁탈전' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "'결승전보다 더 피 터지는' 프랑스 vs 잉글랜드…3위 쟁탈전",
+        "‘별’은 못 땄지만 ‘새 꿈은 내 가슴에’···‘충격 완패’ 프랑스도 ‘허탈 역전패’ 잉글랜드도 꼭 쟁취해야할 3위",
+        "김 빠진 3·4위전? 걸린 게 많다"
+      ]
+    },
+    {
+      "id": "al",
+      "rank": 2,
+      "keyword": "al",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Amazon's Zoox issues software recall after robotaxi drove into heavy sm…' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "Amazon's Zoox issues software recall after robotaxi drove into heavy smoke",
+        "Zoox Recalls Robotaxis After Incident at Smoky Scene of a Fire",
+        "Zoox recalls self-driving cars because they may not detect smoke"
+      ]
+    },
+    {
+      "id": "더중앙플러스",
+      "rank": 3,
       "keyword": "더중앙플러스",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 '창신메모리 상장, '삼전닉스' 주가 하락 부추겼나?' 관련 뉴스가 함께 포착됐어요.",
@@ -21,10 +53,10 @@
     },
     {
       "id": "아덴-만",
-      "rank": 2,
+      "rank": 4,
       "keyword": "아덴 만",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 '아덴만 유조선에 무단 승선…\"한국 군함 향하는 중\"' 관련 뉴스가 함께 포착됐어요.",
@@ -32,15 +64,15 @@
       "newsSignals": [
         "아덴만 유조선에 무단 승선…\"한국 군함 향하는 중\"",
         "영국해사기구 \"예멘 부근 아덴만서 선박에 미승인 인원들 승선\"",
-        "\"아덴만서 또 선박 피랍 신고…한국 군함 긴급 출동\"(종합)"
+        "‘아덴만 한국 군함 긴급출동’…유조선에 해적 추정 무단 승선 ‘조난 신고’"
       ]
     },
     {
       "id": "김송",
-      "rank": 3,
+      "rank": 5,
       "keyword": "김송",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 '김송, 돌연 사과…\"전액 환불 결정\" 판매 중단 공지 [전문]' 관련 뉴스가 함께 포착됐어요.",
@@ -48,15 +80,15 @@
       "newsSignals": [
         "김송, 돌연 사과…\"전액 환불 결정\" 판매 중단 공지 [전문]",
         "김송, '공구 제품' 논란에 \"100% 환불\" 사과",
-        "“공동구매 제품 문제 발생했다”…강원래 아내 김송이 내린 결단"
+        "연예인 공구, 또 문제 발생했다…강원래 아내 \"전제품 100% 환불\""
       ]
     },
     {
       "id": "백령도",
-      "rank": 4,
+      "rank": 6,
       "keyword": "백령도",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 '인천 백령·연평 등 서해5도 20일부터 여객선 야간 운항 허용' 관련 뉴스가 함께 포착됐어요.",
@@ -68,59 +100,59 @@
       ]
     },
     {
-      "id": "t1-hle",
-      "rank": 5,
-      "keyword": "t1 hle",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'T1, Powered by 'Doran', Defeats MSI Champion Hanwha Life' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "T1, Powered by 'Doran', Defeats MSI Champion Hanwha Life",
-        "T1 Sweep HLE And Eliminate Them From Esports World Cup",
-        "BLG, 단판 승부서 T1 꺾고 8강 진출 성공…T1은 패자조로 [EWC]"
-      ]
-    },
-    {
       "id": "오은영-리포트-결혼지옥",
-      "rank": 6,
+      "rank": 7,
       "keyword": "오은영 리포트 - 결혼지옥",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "4시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '사별한 '배그 부부' 남편, 조수석에 아내 영정사진…\"나만 살아있구나\" 먹먹 (결혼지옥)' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''배그 부부' 아내 투병 끝 사망…\"또 나만 살아있구나\" 남편 근황 - 머니투데이' 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "사별한 '배그 부부' 남편, 조수석에 아내 영정사진…\"나만 살아있구나\" 먹먹 (결혼지옥)",
         "'배그 부부' 아내 투병 끝 사망…\"또 나만 살아있구나\" 남편 근황 - 머니투데이",
+        "사별한 '배그 부부' 남편, 조수석에 아내 영정사진…\"나만 살아있구나\" 먹먹 (결혼지옥)",
         "‘배그 부부’ 아내, 117일 투병 끝 별세…남편 “아이들 위해 버틸 것”"
       ]
     },
     {
-      "id": "t1-한화",
-      "rank": 7,
-      "keyword": "t1 한화",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
+      "id": "도란",
+      "rank": 8,
+      "keyword": "도란",
+      "volumeLabel": "200+",
+      "startedLabel": "4시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '파리서 펼쳐진 LCK 내전…T1, 플레이오프서 한화생명에 완승' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“이번에도 BLG가 이긴다”…中, T1과 EWC 리벤지전서 승리 전망, 해외 예측 플랫폼은?' 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "파리서 펼쳐진 LCK 내전…T1, 플레이오프서 한화생명에 완승",
-        "쵸비의 화려한 백도어…젠지, 징동 2:0 꺾고 EWC 4강 진출",
-        "‘빅게임 헌터’ T1, e스포츠 월드컵 준결승 진출…젠지도 4강"
+        "“이번에도 BLG가 이긴다”…中, T1과 EWC 리벤지전서 승리 전망, 해외 예측 플랫폼은?",
+        "MSI 챔피언도 못 넘었다! T1, 한화생명 2-0 완파하고 준결승 진출…한화생명 2년 연속 8강 탈락 [2026 EWC]",
+        "[오!쎈 인터뷰] 고개 숙인 ‘오너’ 문현준, “팬 분들께 너무 죄송스러워, G2보다 조급했다”"
+      ]
+    },
+    {
+      "id": "t1-한화",
+      "rank": 9,
+      "keyword": "t1 한화",
+      "volumeLabel": "500+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Gen.G leads Korea into EWC League of Legends quarterfinals' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "Gen.G leads Korea into EWC League of Legends quarterfinals",
+        "Defending Champion Gen.G Sweeps JD Gaming 2-0 to Advance to Semifinals",
+        "AG.AL, Gen.G, Bilibili, Hanwha Life barge into LOL World Cup quarters"
       ]
     },
     {
       "id": "김부장-드라마",
-      "rank": 8,
+      "rank": 10,
       "keyword": "김부장 드라마",
       "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "5시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 '[종합] '김부장' 소지섭 납북 엔딩…주상욱 분노의 복수 예고' 관련 뉴스가 함께 포착됐어요.",
@@ -129,38 +161,6 @@
         "[종합] '김부장' 소지섭 납북 엔딩…주상욱 분노의 복수 예고",
         "‘무법중년’의 사적응징 액션, 답답한 속 확 뚫어주네",
         "다음주 종영 '김부장', 스페셜 방송에 소지섭·최대훈·윤경호도 출연 [단독]"
-      ]
-    },
-    {
-      "id": "김상혁",
-      "rank": 9,
-      "keyword": "김상혁",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김상혁, 이혼 6년 만에 재혼 의지…\"좋은 배필 만나고파\"' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "김상혁, 이혼 6년 만에 재혼 의지…\"좋은 배필 만나고파\"",
-        "김상혁, 사업가로 대박 \"월 매출, 대기업 연봉 이상\" [신랑수업2][★밤TView]",
-        "김상혁, ‘신랑수업2’ 최초 돌싱 입학생 등장..“좋은 베필 만나는 동료들 부러워” - 조선비즈"
-      ]
-    },
-    {
-      "id": "문샷",
-      "rank": 10,
-      "keyword": "문샷",
-      "volumeLabel": "1000+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '문샷, 2.8조 매개변수 '키미 K3' 공개...세계 3위 성능으로 도약' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "문샷, 2.8조 매개변수 '키미 K3' 공개...세계 3위 성능으로 도약",
-        "中 문샷 'Kimi K3' 공개…美 AI 선두권 턱밑까지 추격",
-        "중국 AI 스타트업 문샷, 미국 최첨단 모델에 도전하는 오픈소스 AI 공개"
       ]
     }
   ]
