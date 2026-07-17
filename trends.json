@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-17T00:05:12.893Z",
+  "updatedAt": "2026-07-17T03:48:54.201Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "드라마",
+      "id": "송성문",
       "rank": 1,
-      "keyword": "드라마",
-      "category": "entertainment",
-      "volumeLabel": "5000+",
+      "keyword": "송성문",
+      "category": "life",
+      "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "방송, 출연자, 관련 콘텐츠 관심이 늘며 검색 관심도가 빠르게 올라오고 있어요.",
+      "summary": "생활 정보와 관련 소식을 확인하려는 검색이 늘며 검색 관심도가 빠르게 올라오고 있어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "[속보]韓드라마 시청 北청년들, 친구 밀고에 체포…뭘 봤길래",
-        "'폭군의 셰프' 몰래 본 북한 청년들 체포…\"처벌 두려워 친구 밀고\" - 머니투데이",
-        "몰래 본 韓드라마 뭐길래…“꼬리 길면 걸린다” 北청년 공포의 자수"
+        "\"ML 모든 게 힘들다, 다시 한국에 돌아간다면…\" 송성문 솔직 고백, 그런데 이렇게 빨리 적응하다니",
+        "\"올해 최악의 판정\" 송성문 챌린지 요청 무시 심판, 美 십자포화…그런데 이게 처음이 아니다?",
+        "[톱플레이] '오심에 억울할 뻔한' 송성문‥'챌린지 신청했는데‥'"
       ],
       "history": [
         73,
@@ -29,20 +29,20 @@
       ]
     },
     {
-      "id": "유보영",
+      "id": "웨이브",
       "rank": 2,
-      "keyword": "유보영",
+      "keyword": "웨이브",
       "category": "life",
-      "volumeLabel": "100+",
+      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "생활 정보와 관련 소식을 확인하려는 검색이 늘며 검색 관심도가 빠르게 올라오고 있어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "[사진]김현영 치어리더,'공연 연습도 시선 강탈'",
-        "[사진]최정,'11시즌 연속 20홈런 달성! KBO리그 최초'",
-        "조다정 치어리더 '다이어트 욕구 불러일으키는 몸매'[엑's HD포토]"
+        "[가요소식] 브브걸, 신나는 서머송 '보디 웨이브'로 컴백",
+        "브브걸은 역시 여름이 딱이야…1년 2개월 공백 깨고 컴백 [N이슈]",
+        "[문화연예 플러스] 브브걸, 신곡 '바디 웨이브' 뮤직비디오 예고"
       ],
       "history": [
         69,
@@ -54,20 +54,20 @@
       ]
     },
     {
-      "id": "곽튜브",
+      "id": "미니언즈-몬스터즈",
       "rank": 3,
-      "keyword": "곽튜브",
+      "keyword": "미니언즈 몬스터즈",
       "category": "life",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "생활 정보와 관련 소식을 확인하려는 검색이 늘며 검색 관심도가 빠르게 올라오고 있어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "곽튜브, 낯가리는 아내가 유일하게 만난 지인=전현무…\"임신 때부터 계속 챙겨줘\" ('슈돌') [핫피플]",
-        "전현무, 곽튜브 아들 100일 축하…\"얼굴·성격 엄마 닮아 다행\"",
-        "'슈돌' 곽튜브 \"아들 태산이, 100일 만에 뒤집기…천재\""
+        "검색 관심도 상승",
+        "관련 검색어 동반 증가",
+        "주기 갱신 데이터"
       ],
       "history": [
         65,
@@ -79,20 +79,20 @@
       ]
     },
     {
-      "id": "nba",
+      "id": "마사회",
       "rank": 4,
-      "keyword": "nba",
+      "keyword": "마사회",
       "category": "life",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "생활 정보와 관련 소식을 확인하려는 검색이 늘며 검색 관심도가 빠르게 올라오고 있어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "LeBron James not ready to reveal next team, but it will be 'fun'",
-        "NBA Execs Split on Where LeBron James Will End Up",
-        "Cavs reportedly ahead of Warriors in race for LeBron James"
+        "경주퇴역마 생애이력 관리 강화… 한국마사회 \"은퇴 후까지 책임\"",
+        "경주퇴역마 이동·폐사 정보 관리…이력 사각지대 해소",
+        "\"퇴역 경주마 이동 경로 투명화\"…마사회, 이력 관리 종합계획 마련"
       ],
       "history": [
         61,
@@ -104,20 +104,20 @@
       ]
     },
     {
-      "id": "최원준",
+      "id": "로봇",
       "rank": 5,
-      "keyword": "최원준",
+      "keyword": "로봇",
       "category": "life",
-      "volumeLabel": "200+",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "생활 정보와 관련 소식을 확인하려는 검색이 늘며 검색 관심도가 빠르게 올라오고 있어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "최원준, 역전 스리런포…KT, LG 잡고 4연승",
-        "\"내일 모레안에 결정\" 외인 교체 급물살! \"부상 오래 간다더라\" 허탈한 사령탑의 한숨 → 새 얼굴로 이어질까 [잠실포커스]",
-        "프로야구 kt, 왼손 투수 로건 정식 계약 여부 곧 결정"
+        "현대차그룹, ‘아틀라스’ 제조사 완전 자회사로…로봇 생태계 확장 속도낸다",
+        "보스턴다이내믹스 100% 품은 현대차그룹 “로봇 사업 속도”",
+        "[간추린 경제] 1. \"100% 지분 자회사\" 2. \"해군력 높이려 협력\""
       ],
       "history": [
         57,
@@ -129,9 +129,9 @@
       ]
     },
     {
-      "id": "거제대교",
+      "id": "뉴스파이터",
       "rank": 6,
-      "keyword": "거제대교",
+      "keyword": "뉴스파이터",
       "category": "life",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
@@ -140,9 +140,9 @@
       "summary": "생활 정보와 관련 소식을 확인하려는 검색이 늘며 검색 관심도가 빠르게 올라오고 있어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "통영 구 거제대교서 해상 추락 발생…해경 수색 착수",
-        "경남 통영 구 거제대교서 해상 추락사고…해경 수색 중",
-        "\"사람 떨어졌다\" 통영 옛 거제대교서 신원미상 추락자 발생"
+        "\"모두가 버린 정재환 유일하게 챙겼는데 죽이다니…\" 경산 피해자 애도",
+        "'경산 친구 살인' 피의자 신상 공개...24살 정재환",
+        "[속보]친구 죽인 뒤 피범벅 알몸 활보…24세 정재환 신상공개"
       ],
       "history": [
         53,
@@ -154,20 +154,20 @@
       ]
     },
     {
-      "id": "스토킹",
+      "id": "염경엽",
       "rank": 7,
-      "keyword": "스토킹",
+      "keyword": "염경엽",
       "category": "life",
-      "volumeLabel": "200+",
+      "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "생활 정보와 관련 소식을 확인하려는 검색이 늘며 검색 관심도가 빠르게 올라오고 있어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "“어디로 가면 돼?”…양치승, 최강희 스토킹 피해에 분노",
-        "배우 최강희 '스토킹 피해' 토로…\"찾아오지 말라\" 경고",
-        "최강희, 스토킹 피해 호소…“악의 없어도 공포, 찾아오지 마라”"
+        "\"좋은 투수 나오면 바꿀 수도\" 염갈량 의미심장 한마디, LG 후반기 선발진 변수 생기나 [MD잠실]",
+        "염경엽 LG 감독 \"후반기엔 선발 투수 5명 제대로 돌려보겠다\"",
+        "\"문보경 살아나야 한다\" 염경엽 감독이 꼽은 LG 후반기 키플레이어, 국가대표 4번 타자였다 [잠실 현장] - 머니투데이"
       ],
       "history": [
         49,
@@ -179,20 +179,18 @@
       ]
     },
     {
-      "id": "에이치엘비",
+      "id": "cgv",
       "rank": 8,
-      "keyword": "에이치엘비",
-      "category": "weather",
-      "volumeLabel": "500+",
+      "keyword": "cgv",
+      "category": "life",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "날씨 예보와 생활 영향 확인 수요가 겹치며 검색 관심도가 빠르게 올라오고 있어요.",
+      "summary": "생활 정보와 관련 소식을 확인하려는 검색이 늘며 검색 관심도가 빠르게 올라오고 있어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "HLB \"간암 신약, 미국 승인 문제점 대부분 해소\"",
-        "세 번째 FDA 도전까지 실패한 HLB… 무너진 신뢰 회복 가능할까?",
-        "HLB, 간암 신약 보완사유 해소…담관암 신약 기대감 더해지며 반등 - 머니투데이"
+        "'호프' 관객 만나는 나홍진 감독"
       ],
       "history": [
         45,
@@ -204,20 +202,20 @@
       ]
     },
     {
-      "id": "mls",
+      "id": "동복댐",
       "rank": 9,
-      "keyword": "mls",
+      "keyword": "동복댐",
       "category": "life",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "생활 정보와 관련 소식을 확인하려는 검색이 늘며 검색 관심도가 빠르게 올라오고 있어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "MLS return storylines: Berhalter’s future, Son’s goal drought and what’s next for Messi?",
-        "When will Lionel Messi return to Inter Miami? Can Robert Lewandowski transform Chicago Fire? Five questions as MLS returns from its World Cup break",
-        "MLS Elite Predictions For 7/16/2026: Best Bets, Player Props, & Injury Updates"
+        "[단독] 동복댐 높여 반도체 물 공급? 지금 강수량으론 역부족",
+        "신민호 의원 \"산업용수 확보와 시민 물 안전 함께 가야\"",
+        "[간추린 단신] “동복댐 증설 철회…하수 재이용수 활용해야” 외"
       ],
       "history": [
         41,
@@ -229,20 +227,20 @@
       ]
     },
     {
-      "id": "비트코인",
+      "id": "백악관-대변인",
       "rank": 10,
-      "keyword": "비트코인",
-      "category": "weather",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "keyword": "백악관 대변인",
+      "category": "life",
+      "volumeLabel": "5000+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "날씨 예보와 생활 영향 확인 수요가 겹치며 검색 관심도가 빠르게 올라오고 있어요.",
+      "summary": "생활 정보와 관련 소식을 확인하려는 검색이 늘며 검색 관심도가 빠르게 올라오고 있어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "[코인시세] 비트코인, 상승 흐름…6만5천 달러선 안착 시도",
-        "트럼프 \"이란 공격 때마다 20배 보복\"…중동 긴장 재점화, 비트코인 상승세 이어가려면? [강민승의 트레이드나우]",
-        "비트코인 9400만원대 숨 고르기…PCE·중동 변수 주목[코인브리핑]"
+        "백악관, 트럼프 '부정선거론' 연설 앞두고 \"들으면 충격받을 것\"",
+        "트럼프 \"中, 2020년 대선 때 美 유권자 파일 2.2억건 탈취\"(종합)",
+        "[속보] 트럼프 “중국, 미 유권자 파일 2억2000만건 취득”···미 언론은 ‘가짜뉴스’ 경계하며 팩트체크"
       ],
       "history": [
         37,
