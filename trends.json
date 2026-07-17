@@ -1,165 +1,161 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-17T21:24:06.489Z",
+  "updatedAt": "2026-07-17T22:25:18.771Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "태풍",
+      "id": "필라델피아-반도체-지수",
       "rank": 1,
-      "keyword": "태풍",
-      "volumeLabel": "5000+",
+      "keyword": "필라델피아 반도체 지수",
+      "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '12호 태풍 노을 발생,현재 위치 및 예상경로.'13호 돌핀', '14호 구지라' 첫 한국행은?...2026년 장마기간!' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '뉴욕증시, 반도체 매도세 지속에 하락…나스닥 1.4%↓(종합)' 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "12호 태풍 노을 발생,현재 위치 및 예상경로.'13호 돌핀', '14호 구지라' 첫 한국행은?...2026년 장마기간!",
-        "제20호 열대저압부, 하루 내 제 12호 태풍 '노을'로 발달 예상…48시간 뒤 다시 약화",
-        "열대저압부 24시간 내 태풍 '노을' 발달 전망…이틀 뒤 다시 세력 약화"
+        "뉴욕증시, 반도체 매도세 지속에 하락…나스닥 1.4%↓(종합)",
+        "[뉴욕마켓워치] '늪에 빠진 반도체' 하닉 ADR 14% 급락…주식·채권↓달러↑",
+        "AI 열풍 꺾이나…반도체지수 한달새 20% '뚝' 약세장 진입[뉴욕마감] - 머니투데이"
       ]
     },
     {
-      "id": "나성범",
+      "id": "중앙일보",
       "rank": 2,
-      "keyword": "나성범",
-      "volumeLabel": "100+",
+      "keyword": "중앙일보",
+      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '나성범이 치고 이의리가 지켰다…KIA, 6-3승' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '중앙 워크아웃, 계열사 각자도생… JTBC와 통합노조도 분리 수순' 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "나성범이 치고 이의리가 지켰다…KIA, 6-3승",
-        "'나성범·박재현 홈런' KIA, SSG에 6-3 역전승…이의리, 시즌 2승",
-        "[스경X현장]나성범 “은퇴할 땐 ‘슈퍼스타’보다 ‘꾸준한 선수’ 소리 듣고 싶다”"
+        "중앙 워크아웃, 계열사 각자도생… JTBC와 통합노조도 분리 수순",
+        "중앙일보 “부영·중흥건설 인수 절대 아냐” 워크아웃 개시 후 내부공지",
+        "콘텐트리중앙, 중앙일보 워크아웃 개시에 장중 '상한가'"
       ]
     },
     {
-      "id": "영화",
+      "id": "nvda",
       "rank": 3,
-      "keyword": "영화",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '영화 ‘호프’ 개봉 사흘 만에 100만 돌파... 올해 개봉작 중 가장 빠르다' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "영화 ‘호프’ 개봉 사흘 만에 100만 돌파... 올해 개봉작 중 가장 빠르다",
-        "'호프', 제헌절 하루 59만명 봤다…개봉 3일만 '120만' 돌파 [엑's 이슈]",
-        "나홍진 ‘화려한 귀환’···영화 ‘호프’ 개봉 3일 차에 ‘100만 관객’ 돌파, 올해 개봉작 최단 기록 깼다"
-      ]
-    },
-    {
-      "id": "손담비",
-      "rank": 4,
-      "keyword": "손담비",
+      "keyword": "nvda",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''21kg 감량' 손담비, 샌드위치 하나도 다 안 먹네…\"양심에 찔려\"' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Nvidia: The TSMC Earnings Release Was A Warning Shot (NASDAQ:NVDA)' 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "'21kg 감량' 손담비, 샌드위치 하나도 다 안 먹네…\"양심에 찔려\"",
-        "출산 후 21㎏ 감량한 손담비…운동으로 만든 ‘직각 어깨’",
-        "손담비, 충격적인 아침 식단…\"샌드위치 한 개 다 먹으면 양심 찔려\""
+        "Nvidia: The TSMC Earnings Release Was A Warning Shot (NASDAQ:NVDA)",
+        "NVIDIA's 75% Margins vs TSMC's Foundry Gamble: Two Paths to AI Dominance, One Winner",
+        "‘Take This as a Warning,’ Says Investor About Nvidia Stock"
       ]
     },
     {
-      "id": "근육",
+      "id": "tqqq",
+      "rank": 4,
+      "keyword": "tqqq",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Independent Financial Group LLC Buys New Position in ProShares UltraPro…' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "Independent Financial Group LLC Buys New Position in ProShares UltraPro QQQ $TQQQ",
+        "IMC Chicago LLC Grows Position in ProShares UltraPro QQQ $TQQQ",
+        "The Megacap Growth ETF That’s Been Beating the S&P 500 for a Decade Straight"
+      ]
+    },
+    {
+      "id": "애플-주가",
       "rank": 5,
-      "keyword": "근육",
-      "volumeLabel": "200+",
+      "keyword": "애플 주가",
+      "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“근육만 강해지는 게 아니었다”…운동이 심장 신경까지 바꾼다' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '애플, 엔비디아 제치고 장중 글로벌 시총 1위 탈환' 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "“근육만 강해지는 게 아니었다”…운동이 심장 신경까지 바꾼다",
-        "근육만 키우는게 아니었다…“운동이 심장 신경 바꿔 부정맥 치료 단서 제공”",
-        "“운동하면 심장 신경도 달라져”...10주간 유산소 운동한 쥐 살펴보니"
+        "애플, 엔비디아 제치고 장중 글로벌 시총 1위 탈환",
+        "HSBC 목표가·투자의견 상향에도 사상 최고가 경신 후 숨고르기",
+        "애플, 장중 한때 엔비디아 제치고 시총 1위 탈환…AI 반도체 약세 - 머니투데이"
       ]
     },
     {
-      "id": "배드민턴",
+      "id": "종합부동산세",
       "rank": 6,
-      "keyword": "배드민턴",
+      "keyword": "종합부동산세",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“올해 파느냐 내년에 파느냐에 7억 갈린다”…세제 개편 앞둔 ‘1주택자’의 절세법은 [잘살아보세]' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "“올해 파느냐 내년에 파느냐에 7억 갈린다”…세제 개편 앞둔 ‘1주택자’의 절세법은 [잘살아보세]",
+        "부동산 놓고 백가쟁명 3일…시선은 ‘이재명 대토론회’로",
+        "“종부세, 주택수 아닌 가액으로”…초고가 보유세 강화 한목소리"
+      ]
+    },
+    {
+      "id": "현대자동차",
+      "rank": 7,
+      "keyword": "현대자동차",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '현대차그룹, 보스턴다이내믹스 지분 100％로‥로봇 경쟁력 강화' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "현대차그룹, 보스턴다이내믹스 지분 100％로‥로봇 경쟁력 강화",
+        "[김훈기 칼럼] 월드컵 누빈 아틀라스, 다음 무대는 현대차 생산 라인",
+        "보스턴다이나믹스 CEO \"로봇, 궁극적으로 가정에 보급\"…시장 확대 예고"
+      ]
+    },
+    {
+      "id": "spcx",
+      "rank": 8,
+      "keyword": "spcx",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "타릭-스쿠발",
+      "rank": 9,
+      "keyword": "타릭 스쿠발",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '11:3→20:22 김가은, 日 에이스에 통한의 역전패…韓 배드민턴 여자단식, 일본 오픈 8강서 '전원 탈락'' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“스쿠발에 대한 다저스의 관심을 과소평가” 美 쿨하게 버렸던 ML 최고 좌완과 오타니의 만남이 좌절되나' 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "11:3→20:22 김가은, 日 에이스에 통한의 역전패…韓 배드민턴 여자단식, 일본 오픈 8강서 '전원 탈락'",
-        "김가은, 16강 상대 기권에 곧바로 8강 진출"
+        "“스쿠발에 대한 다저스의 관심을 과소평가” 美 쿨하게 버렸던 ML 최고 좌완과 오타니의 만남이 좌절되나",
+        "\"이 전력이면 우승 못할 이유가 없다\" 다저스, 스쿠발 트레이드 충격 시나리오 - 머니투데이",
+        "\"탬파베이, 컵스, 애틀랜타가 선두…다저스는 가능성 낮아\" 현역 최고 투수 스쿠발 영입전은 진행 중"
       ]
     },
     {
-      "id": "배구",
-      "rank": 7,
-      "keyword": "배구",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '여자배구 정관장, 지도자 관련 사안에 공식 사과…\"조사에 성실히 협조\"' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "여자배구 정관장, 지도자 관련 사안에 공식 사과…\"조사에 성실히 협조\"",
-        "'충격' 정관장 코치 부적절 행위 일파만파, 구단 사과문 발표...\"관련 구성원 분리조치, 스포츠윤리센터 조사 성실히 협죠\" - 머니투데이",
-        "고개 숙인 여자배구 정관장, “선수단 보호가 최우선, 조사 결과에 따라 필요한 후속 조치를 이행하겠다”"
-      ]
-    },
-    {
-      "id": "김종국",
-      "rank": 8,
-      "keyword": "김종국",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김종국, 결혼 이어 또 깜짝 발표…‘런닝맨’ 초토화' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "김종국, 결혼 이어 또 깜짝 발표…‘런닝맨’ 초토화",
-        "‘바타♥’ 지예은 경사 전하자 김종국도 깜짝 발표 (런닝맨)",
-        "김종국, '극비 결혼' 10개월만에 \"좋은소식 있다\" 깜짝 발표..추측 난무(런닝맨)"
-      ]
-    },
-    {
-      "id": "전략폭격기",
-      "rank": 9,
-      "keyword": "전략폭격기",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '젤렌스키 \"우크라, 러 Tu-95 전략폭격기 파괴\"' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "젤렌스키 \"우크라, 러 Tu-95 전략폭격기 파괴\"",
-        "젤렌스키 \"러 Tu-95 전략폭격기 파괴\"",
-        "젤렌스키 \"러시아군 Tu-95 전략폭격기 파괴해\""
-      ]
-    },
-    {
-      "id": "진성준",
+      "id": "vix",
       "rank": 10,
-      "keyword": "진성준",
+      "keyword": "vix",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '대전 자운대에 국군사관학교 창설…“대기업 유치 이상 파급효과”' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'SVOL ETF yields 20.7% with steady payouts, but watch VIX futures curve …' 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "대전 자운대에 국군사관학교 창설…“대기업 유치 이상 파급효과”",
-        "[패트롤]영천시-대구시의회-영남이공대-대구보건대",
-        "\"보복이면 육사를 쪼갰을 것\"…진성준, 육·해·공 사관학교 통합 논란에 반박"
+        "SVOL ETF yields 20.7% with steady payouts, but watch VIX futures curve for volatility risks.",
+        "The VIX Futures Curve Signal That Could Cut SVOL’s Yield in Half"
       ]
     }
   ]
