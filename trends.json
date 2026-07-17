@@ -1,161 +1,166 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-17T22:25:18.771Z",
+  "updatedAt": "2026-07-17T23:28:25.140Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "필라델피아-반도체-지수",
+      "id": "수성구",
       "rank": 1,
-      "keyword": "필라델피아 반도체 지수",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '뉴욕증시, 반도체 매도세 지속에 하락…나스닥 1.4%↓(종합)' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "뉴욕증시, 반도체 매도세 지속에 하락…나스닥 1.4%↓(종합)",
-        "[뉴욕마켓워치] '늪에 빠진 반도체' 하닉 ADR 14% 급락…주식·채권↓달러↑",
-        "AI 열풍 꺾이나…반도체지수 한달새 20% '뚝' 약세장 진입[뉴욕마감] - 머니투데이"
-      ]
-    },
-    {
-      "id": "중앙일보",
-      "rank": 2,
-      "keyword": "중앙일보",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '중앙 워크아웃, 계열사 각자도생… JTBC와 통합노조도 분리 수순' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "중앙 워크아웃, 계열사 각자도생… JTBC와 통합노조도 분리 수순",
-        "중앙일보 “부영·중흥건설 인수 절대 아냐” 워크아웃 개시 후 내부공지",
-        "콘텐트리중앙, 중앙일보 워크아웃 개시에 장중 '상한가'"
-      ]
-    },
-    {
-      "id": "nvda",
-      "rank": 3,
-      "keyword": "nvda",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Nvidia: The TSMC Earnings Release Was A Warning Shot (NASDAQ:NVDA)' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "Nvidia: The TSMC Earnings Release Was A Warning Shot (NASDAQ:NVDA)",
-        "NVIDIA's 75% Margins vs TSMC's Foundry Gamble: Two Paths to AI Dominance, One Winner",
-        "‘Take This as a Warning,’ Says Investor About Nvidia Stock"
-      ]
-    },
-    {
-      "id": "tqqq",
-      "rank": 4,
-      "keyword": "tqqq",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Independent Financial Group LLC Buys New Position in ProShares UltraPro…' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "Independent Financial Group LLC Buys New Position in ProShares UltraPro QQQ $TQQQ",
-        "IMC Chicago LLC Grows Position in ProShares UltraPro QQQ $TQQQ",
-        "The Megacap Growth ETF That’s Been Beating the S&P 500 for a Decade Straight"
-      ]
-    },
-    {
-      "id": "애플-주가",
-      "rank": 5,
-      "keyword": "애플 주가",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '애플, 엔비디아 제치고 장중 글로벌 시총 1위 탈환' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "애플, 엔비디아 제치고 장중 글로벌 시총 1위 탈환",
-        "HSBC 목표가·투자의견 상향에도 사상 최고가 경신 후 숨고르기",
-        "애플, 장중 한때 엔비디아 제치고 시총 1위 탈환…AI 반도체 약세 - 머니투데이"
-      ]
-    },
-    {
-      "id": "종합부동산세",
-      "rank": 6,
-      "keyword": "종합부동산세",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“올해 파느냐 내년에 파느냐에 7억 갈린다”…세제 개편 앞둔 ‘1주택자’의 절세법은 [잘살아보세]' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "“올해 파느냐 내년에 파느냐에 7억 갈린다”…세제 개편 앞둔 ‘1주택자’의 절세법은 [잘살아보세]",
-        "부동산 놓고 백가쟁명 3일…시선은 ‘이재명 대토론회’로",
-        "“종부세, 주택수 아닌 가액으로”…초고가 보유세 강화 한목소리"
-      ]
-    },
-    {
-      "id": "현대자동차",
-      "rank": 7,
-      "keyword": "현대자동차",
+      "keyword": "수성구",
       "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '현대차그룹, 보스턴다이내믹스 지분 100％로‥로봇 경쟁력 강화' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[뉴스초점] 대구·경북 100mm 넘는 폭우…침수·고립 속출' 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "현대차그룹, 보스턴다이내믹스 지분 100％로‥로봇 경쟁력 강화",
-        "[김훈기 칼럼] 월드컵 누빈 아틀라스, 다음 무대는 현대차 생산 라인",
-        "보스턴다이나믹스 CEO \"로봇, 궁극적으로 가정에 보급\"…시장 확대 예고"
+        "[뉴스초점] 대구·경북 100mm 넘는 폭우…침수·고립 속출",
+        "대구·경북도 ‘극한호우’…‘재난성 호우 문자’ 첫 발송",
+        "대구·경산·김천에 100mm 넘는 강수량…주말에도 30∼100㎜ 비"
       ]
     },
     {
-      "id": "spcx",
+      "id": "전시-작전통제권",
+      "rank": 2,
+      "keyword": "전시 작전통제권",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '지휘권 넘겨받아도 '지휘 능력'이 없다 … 2028 전작권 조기 전환의 민낯' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "지휘권 넘겨받아도 '지휘 능력'이 없다 … 2028 전작권 조기 전환의 민낯",
+        "[朝鮮칼럼] 전작권 전환, 안보의 시계와 정치의 시계는 다르다",
+        "'다른 내일', \"전시작전통제권 환수에 조건 필요없다...즉시 온전하게 추진해야\""
+      ]
+    },
+    {
+      "id": "홍수",
+      "rank": 3,
+      "keyword": "홍수",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '남양주 등 경기 북부 7곳 호우주의보 발효' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "남양주 등 경기 북부 7곳 호우주의보 발효",
+        "\"예측도 어려운 폭우\" 새벽에 두 번 퍼부었다...수도권도 '비상' [Y녹취록]",
+        "[속보] 경기·인천·서울·강원 300㎜ 폭우 예보…위기경보 '경계' 격상"
+      ]
+    },
+    {
+      "id": "2026",
+      "rank": 4,
+      "keyword": "2026",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Live Updates: 2026 NBA Summer League, Day 9 | Kings-Hornets opens Frida…' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "Live Updates: 2026 NBA Summer League, Day 9 | Kings-Hornets opens Friday's action",
+        "Kings Rule Out 4 Starters for Summer League Finale vs. Hornets",
+        "Kings vs. Hornets Summer League Game Thread"
+      ]
+    },
+    {
+      "id": "tsla",
+      "rank": 5,
+      "keyword": "tsla",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Tesla: The Bull Case Is Falling Apart (NASDAQ:TSLA)' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "Tesla: The Bull Case Is Falling Apart (NASDAQ:TSLA)",
+        "Tesla's robotaxi growth and strong Q2 deliveries boost investor confidence ahead of earnings.",
+        "Elon Musk has never sold his Tesla vision. Should you buy the dip before July 22?"
+      ]
+    },
+    {
+      "id": "weather",
+      "rank": 6,
+      "keyword": "weather",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Dangerous heat incoming, Weather Alert Days for Sunday and Monday' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "Dangerous heat incoming, Weather Alert Days for Sunday and Monday",
+        "Looking like it will be another hot weekend in Omaha",
+        "Temps to reach triple digits early next week"
+      ]
+    },
+    {
+      "id": "테슬라",
+      "rank": 7,
+      "keyword": "테슬라",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '테슬라, 자율주행 구독제 도입…소프트웨어 수익모델 강화' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "테슬라, 자율주행 구독제 도입…소프트웨어 수익모델 강화",
+        "\"곧 열린다\" vs \"아직 멀었다\"…중국산 테슬라 차주, FSD 막판 고민",
+        "\"손 놓아도 된다\"는 착각, 도로 위 시한폭탄을 키운다"
+      ]
+    },
+    {
+      "id": "สภาพอากาศ",
       "rank": 8,
-      "keyword": "spcx",
+      "keyword": "สภาพอากาศ",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'สภาพอากาศวันนี้ -23 ก.ค.ไทยฝนฟ้าคะนอง เหนือ -กลาง เตรียมรับฝนเพิ่ม' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "สภาพอากาศวันนี้ -23 ก.ค.ไทยฝนฟ้าคะนอง เหนือ -กลาง เตรียมรับฝนเพิ่ม",
+        "ช่วงบ่ายถึงค่ำ 17 ก.ค. นี้ จะมีฝนหนักไหม?? ตอบได้เลยว่า...ฝนยังคงมีอยู่ แต่ฝนตกหนักนั้นจะลดน้อยลง #กรมอุตุนิยมวิทยา #พยากรณ์อากาศ #ดิจิทัลเพื่อเศรษฐกิจและสังคม",
+        "ข่าวเฝ้าระวังฝนตก ลมกระโชกแรง"
+      ]
+    },
+    {
+      "id": "天气",
+      "rank": 9,
+      "keyword": "天气",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '政府启动暴雨应急响应……周末“灾难关口”4大脆弱因素叠加(综合)' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "政府启动暴雨应急响应……周末“灾难关口”4大脆弱因素叠加(综合)",
+        "据韩联社18日报道，首都圈首尔、仁川、京畿地区降雨量将达80~150毫米，很多地区降雨量将达200毫米以上。",
+        "梅雨笼罩首尔"
+      ]
+    },
+    {
+      "id": "погода",
+      "rank": 10,
+      "keyword": "погода",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "타릭-스쿠발",
-      "rank": 9,
-      "keyword": "타릭 스쿠발",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“스쿠발에 대한 다저스의 관심을 과소평가” 美 쿨하게 버렸던 ML 최고 좌완과 오타니의 만남이 좌절되나' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Москву ждут жара до +30 °C, а потом снова дожди' 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "“스쿠발에 대한 다저스의 관심을 과소평가” 美 쿨하게 버렸던 ML 최고 좌완과 오타니의 만남이 좌절되나",
-        "\"이 전력이면 우승 못할 이유가 없다\" 다저스, 스쿠발 트레이드 충격 시나리오 - 머니투데이",
-        "\"탬파베이, 컵스, 애틀랜타가 선두…다저스는 가능성 낮아\" 현역 최고 투수 스쿠발 영입전은 진행 중"
-      ]
-    },
-    {
-      "id": "vix",
-      "rank": 10,
-      "keyword": "vix",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'SVOL ETF yields 20.7% with steady payouts, but watch VIX futures curve …' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "SVOL ETF yields 20.7% with steady payouts, but watch VIX futures curve for volatility risks.",
-        "The VIX Futures Curve Signal That Could Cut SVOL’s Yield in Half"
+        "Москву ждут жара до +30 °C, а потом снова дожди",
+        "Погода \"как в пустыне\" прогнозируется в Московском регионе в выходные",
+        "Синоптик Тишковец: Москву и область накроет «хрустальный купол»"
       ]
     }
   ]
