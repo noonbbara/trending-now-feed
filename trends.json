@@ -1,30 +1,120 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-17T10:54:14.907Z",
+  "updatedAt": "2026-07-17T12:16:31.788Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "장한별",
+      "id": "계양구",
       "rank": 1,
-      "keyword": "장한별",
+      "keyword": "계양구",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '인천 계양구 쓰레기집…이웃 피해에 거주자 건강마저 염려 [현장, 그곳&]' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "인천 계양구 쓰레기집…이웃 피해에 거주자 건강마저 염려 [현장, 그곳&]"
+      ]
+    },
+    {
+      "id": "bangladesh-vs-zimbabwe",
+      "rank": 2,
+      "keyword": "bangladesh vs zimbabwe",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Ball by Ball Commentary & Live Score - ZIM vs BAN, 2nd T20I' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "Ball by Ball Commentary & Live Score - ZIM vs BAN, 2nd T20I",
+        "TOSS UPDATE | Zimbabwe v Bangladesh",
+        "ZIM vs BAN, 2nd T20I, Bangladesh tour of Zimbabwe, 2026 - Full Commentary"
+      ]
+    },
+    {
+      "id": "김지유",
+      "rank": 3,
+      "keyword": "김지유",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "정찰기",
+      "rank": 4,
+      "keyword": "정찰기",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '장한별 \"'무명전설' 출연 중 女 연예인에 대시 받아\"[전현무계획4]' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[단독] 바다 감시하던 美무인정찰기, 왜 한국 내륙까지 들어왔나' 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "장한별 \"'무명전설' 출연 중 女 연예인에 대시 받아\"[전현무계획4]",
-        "곽튜브가 만만한가..또 일자리 뺏어가려는 트로트 가수 \"출연료 안 받겠다\" 초강수(전현무계획4)",
-        "[MBN] '무명전설' TOP3와 사천 먹트립"
+        "[단독] 바다 감시하던 美무인정찰기, 왜 한국 내륙까지 들어왔나",
+        "미 해군 무인정찰기 '트라이튼', 한반도 중부 내륙 5시간 비행",
+        "3300억 美정찰기,안산~홍천 5시간 훑고 갔다…왜 날아왔나 [배틀라인]"
+      ]
+    },
+    {
+      "id": "기안84",
+      "rank": 5,
+      "keyword": "기안84",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘나혼산’ 배나라, 펀런에선 에이스였는데…찐런에 당황 “위기의 순간”' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "‘나혼산’ 배나라, 펀런에선 에이스였는데…찐런에 당황 “위기의 순간”",
+        "'한재아와 결혼' 배나라, 에이스였는데 뒤쳐지더니..\"뛰는 내내 위기\" (나혼산)",
+        "기안84, 길거리에서 거침없이 바지 탈의..민호∙배나라 경악 ('나혼산')"
+      ]
+    },
+    {
+      "id": "음문석",
+      "rank": 6,
+      "keyword": "음문석",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '음문석, 영화 '호프' 양배로 변신한 강렬 근황' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "음문석, 영화 '호프' 양배로 변신한 강렬 근황",
+        "영화 ‘호프’ 개봉 사흘째 100만 돌파... 올해 개봉작 중 가장 빠르다",
+        "사람 반, 외계 생명체 반…영화 '호프' 개봉 사흘 만에 100만 관객 돌파 - 뉴스파이터"
+      ]
+    },
+    {
+      "id": "정청래",
+      "rank": 7,
+      "keyword": "정청래",
+      "volumeLabel": "10000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[속보] 민주당, ‘후보 자격 논란’ 송영길·김용 출마 허용 결정' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "[속보] 민주당, ‘후보 자격 논란’ 송영길·김용 출마 허용 결정",
+        "'후보 자격' 놓고 논란…예외 인정에 \"불공정\" 비판 제기",
+        "민주당 당 대표 선거 '5파전'‥최고위원, 14명 도전장"
       ]
     },
     {
       "id": "에코프로-비엠",
-      "rank": 2,
+      "rank": 8,
       "keyword": "에코프로 비엠",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 '에코프로비엠, 유증 추진...“니켈 직접 확보로 원가 격차 실현할 것”' 관련 뉴스가 함께 포착됐어요.",
@@ -32,15 +122,31 @@
       "newsSignals": [
         "에코프로비엠, 유증 추진...“니켈 직접 확보로 원가 격차 실현할 것”",
         "김장우 에코프로비엠 대표 \"수주 가시화…주주가치 제고할 것\"",
-        "\"한 푼도 허투루 안 쓴다\"…주주 앞에 선 에코프로비엠, 투자 밑그림 공개"
+        "에코프로비엠 유상증자 주주간담회"
+      ]
+    },
+    {
+      "id": "장한별",
+      "rank": 9,
+      "keyword": "장한별",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '곽튜브가 만만한가..또 일자리 뺏어가려는 트로트 가수 \"출연료 안 받겠다\" 초강수(전현무계획4)' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "곽튜브가 만만한가..또 일자리 뺏어가려는 트로트 가수 \"출연료 안 받겠다\" 초강수(전현무계획4)",
+        "장한별, 연봉 1억2천 포기…“명문 치대 자퇴” (전현무계획4)",
+        "[MBN] '무명전설' TOP3와 사천 먹트립"
       ]
     },
     {
       "id": "당구",
-      "rank": 3,
+      "rank": 10,
       "keyword": "당구",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 '조명우 ‘24점차 뒤집기’ 16강서 레가즈피와 격돌…김행직-포톰, 허정한-타스데미르[포르투3쿠션월드컵]' 관련 뉴스가 함께 포착됐어요.",
@@ -49,118 +155,6 @@
         "조명우 ‘24점차 뒤집기’ 16강서 레가즈피와 격돌…김행직-포톰, 허정한-타스데미르[포르투3쿠션월드컵]",
         "'세계 1위' 조명우, 포르투 월드컵 2연패 정조준.. \"亞 최초 통산 6승 쏜다\"",
         "허정한, 32강 G조 2위로 16강 안착…타이푼 타스데미르와 맞대결 성사 (포르투 3쿠션 월드컵) [포커스]"
-      ]
-    },
-    {
-      "id": "김다현",
-      "rank": 4,
-      "keyword": "김다현",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '송가인, 257주째 정상..스타랭킹 女트롯 압도적 1위' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "송가인, 257주째 정상..스타랭킹 女트롯 압도적 1위",
-        "김다현, 꾸준한 존재감…스타랭킹 女트롯 3위",
-        "'트롯 여왕' 송가인, 10만표 돌파..스타랭킹 女트롯 1위 질주"
-      ]
-    },
-    {
-      "id": "대전광역시",
-      "rank": 5,
-      "keyword": "대전광역시",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[포토뉴스] 대전시의회 교육위원회, 제10대 의회 본격 의정활동' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "[포토뉴스] 대전시의회 교육위원회, 제10대 의회 본격 의정활동",
-        "대전시의회 \"떡은 되고 빵은 안돼…산단 업종 제한 개선해야\"",
-        "[포토뉴스] 대전시의회 복환위, 제297회 임시회 제3차 회의 개최"
-      ]
-    },
-    {
-      "id": "맷-데이비슨",
-      "rank": 6,
-      "keyword": "맷 데이비슨",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[사진]오재원,'따라잡았다'' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "[사진]오재원,'따라잡았다'",
-        "[사진]황영묵,'이것으로 승부는 원점' - 조선비즈",
-        "데이비슨, 키움 이적 후 첫 홈런포…한화 왕옌청 상대 스리런"
-      ]
-    },
-    {
-      "id": "항공",
-      "rank": 7,
-      "keyword": "항공",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '유류할증료 3개월 연속 인하…9월 재인상 가능성' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "유류할증료 3개월 연속 인하…9월 재인상 가능성",
-        "여름 휴가 앞두고 항공료 '뚝'?…할인 들어간다",
-        "국제선 비행기 8월이 가장 싸다?…중동 리스크에 국제유가 재상승"
-      ]
-    },
-    {
-      "id": "유괴",
-      "rank": 8,
-      "keyword": "유괴",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '성범죄 누범기간 중 9세 여아 유괴 시도한 40대 남성 검찰 송치' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "성범죄 누범기간 중 9세 여아 유괴 시도한 40대 남성 검찰 송치",
-        "학원 가던 9세 아이 유괴 시도한 40대 남성 구속 송치",
-        "마포구 아파트서 초등학생 유괴 시도…지적장애 40대 구속 송치"
-      ]
-    },
-    {
-      "id": "kia-vs-ssg",
-      "rank": 9,
-      "keyword": "kia vs ssg",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[Photo] Park Seong-han hits go-ahead RBI, SSG takes lead - CHOSUNBIZ' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "[Photo] Park Seong-han hits go-ahead RBI, SSG takes lead - CHOSUNBIZ",
-        "[Photo] KIA starter Shirakawa greets SSG - CHOSUNBIZ",
-        "Na Sung-bum Reaches 300 Career Home Runs"
-      ]
-    },
-    {
-      "id": "이동건",
-      "rank": 10,
-      "keyword": "이동건",
-      "volumeLabel": "10000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '진태현 '푸대접' 자막 통보 하차, 이혼'장려'캠프 현실로..이동건, 서장훈과 '돌싱 MC' [스타이슈]' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "진태현 '푸대접' 자막 통보 하차, 이혼'장려'캠프 현실로..이동건, 서장훈과 '돌싱 MC' [스타이슈]",
-        "진태현은 자막 하차, 이동건은 등장 영상…이숙캠, 이게 최선입니까?",
-        "'이혼숙려캠프' 진태현, 작별 인사 없이 자막 하차…이동건 합류 예고"
       ]
     }
   ]
