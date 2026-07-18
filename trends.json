@@ -1,166 +1,162 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-17T23:28:25.140Z",
+  "updatedAt": "2026-07-18T01:01:51.799Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "수성구",
+      "id": "축구-선수",
       "rank": 1,
-      "keyword": "수성구",
+      "keyword": "축구 선수",
       "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[뉴스초점] 대구·경북 100mm 넘는 폭우…침수·고립 속출' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[대학축구]'초대 챔피언의 귀환' 중앙대 통산 6번째 정상 등극, '신흥 세력' 동명대 1-0 제압 '우승 환호'' 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "[뉴스초점] 대구·경북 100mm 넘는 폭우…침수·고립 속출",
-        "대구·경북도 ‘극한호우’…‘재난성 호우 문자’ 첫 발송",
-        "대구·경산·김천에 100mm 넘는 강수량…주말에도 30∼100㎜ 비"
+        "[대학축구]'초대 챔피언의 귀환' 중앙대 통산 6번째 정상 등극, '신흥 세력' 동명대 1-0 제압 '우승 환호'",
+        "[MD포토] 이승준 감독-최성환 코치 '우수 지도자상 수상'",
+        "'무→유 창조 설계자' 최연소 사령탑 동명대 이승준 감독, \"결승전답게 '필사즉생 각오로 끝까지 도전하겠다\""
       ]
     },
     {
-      "id": "전시-작전통제권",
+      "id": "실업",
       "rank": 2,
-      "keyword": "전시 작전통제권",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '지휘권 넘겨받아도 '지휘 능력'이 없다 … 2028 전작권 조기 전환의 민낯' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "지휘권 넘겨받아도 '지휘 능력'이 없다 … 2028 전작권 조기 전환의 민낯",
-        "[朝鮮칼럼] 전작권 전환, 안보의 시계와 정치의 시계는 다르다",
-        "'다른 내일', \"전시작전통제권 환수에 조건 필요없다...즉시 온전하게 추진해야\""
-      ]
-    },
-    {
-      "id": "홍수",
-      "rank": 3,
-      "keyword": "홍수",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '남양주 등 경기 북부 7곳 호우주의보 발효' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "남양주 등 경기 북부 7곳 호우주의보 발효",
-        "\"예측도 어려운 폭우\" 새벽에 두 번 퍼부었다...수도권도 '비상' [Y녹취록]",
-        "[속보] 경기·인천·서울·강원 300㎜ 폭우 예보…위기경보 '경계' 격상"
-      ]
-    },
-    {
-      "id": "2026",
-      "rank": 4,
-      "keyword": "2026",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Live Updates: 2026 NBA Summer League, Day 9 | Kings-Hornets opens Frida…' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "Live Updates: 2026 NBA Summer League, Day 9 | Kings-Hornets opens Friday's action",
-        "Kings Rule Out 4 Starters for Summer League Finale vs. Hornets",
-        "Kings vs. Hornets Summer League Game Thread"
-      ]
-    },
-    {
-      "id": "tsla",
-      "rank": 5,
-      "keyword": "tsla",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Tesla: The Bull Case Is Falling Apart (NASDAQ:TSLA)' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "Tesla: The Bull Case Is Falling Apart (NASDAQ:TSLA)",
-        "Tesla's robotaxi growth and strong Q2 deliveries boost investor confidence ahead of earnings.",
-        "Elon Musk has never sold his Tesla vision. Should you buy the dip before July 22?"
-      ]
-    },
-    {
-      "id": "weather",
-      "rank": 6,
-      "keyword": "weather",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Dangerous heat incoming, Weather Alert Days for Sunday and Monday' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "Dangerous heat incoming, Weather Alert Days for Sunday and Monday",
-        "Looking like it will be another hot weekend in Omaha",
-        "Temps to reach triple digits early next week"
-      ]
-    },
-    {
-      "id": "테슬라",
-      "rank": 7,
-      "keyword": "테슬라",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '테슬라, 자율주행 구독제 도입…소프트웨어 수익모델 강화' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "테슬라, 자율주행 구독제 도입…소프트웨어 수익모델 강화",
-        "\"곧 열린다\" vs \"아직 멀었다\"…중국산 테슬라 차주, FSD 막판 고민",
-        "\"손 놓아도 된다\"는 착각, 도로 위 시한폭탄을 키운다"
-      ]
-    },
-    {
-      "id": "สภาพอากาศ",
-      "rank": 8,
-      "keyword": "สภาพอากาศ",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'สภาพอากาศวันนี้ -23 ก.ค.ไทยฝนฟ้าคะนอง เหนือ -กลาง เตรียมรับฝนเพิ่ม' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "สภาพอากาศวันนี้ -23 ก.ค.ไทยฝนฟ้าคะนอง เหนือ -กลาง เตรียมรับฝนเพิ่ม",
-        "ช่วงบ่ายถึงค่ำ 17 ก.ค. นี้ จะมีฝนหนักไหม?? ตอบได้เลยว่า...ฝนยังคงมีอยู่ แต่ฝนตกหนักนั้นจะลดน้อยลง #กรมอุตุนิยมวิทยา #พยากรณ์อากาศ #ดิจิทัลเพื่อเศรษฐกิจและสังคม",
-        "ข่าวเฝ้าระวังฝนตก ลมกระโชกแรง"
-      ]
-    },
-    {
-      "id": "天气",
-      "rank": 9,
-      "keyword": "天气",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '政府启动暴雨应急响应……周末“灾难关口”4大脆弱因素叠加(综合)' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "政府启动暴雨应急响应……周末“灾难关口”4大脆弱因素叠加(综合)",
-        "据韩联社18日报道，首都圈首尔、仁川、京畿地区降雨量将达80~150毫米，很多地区降雨量将达200毫米以上。",
-        "梅雨笼罩首尔"
-      ]
-    },
-    {
-      "id": "погода",
-      "rank": 10,
-      "keyword": "погода",
+      "keyword": "실업",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Москву ждут жара до +30 °C, а потом снова дожди' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[단독] 최저임금보다 더 받는 실업급여 손본다' 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "Москву ждут жара до +30 °C, а потом снова дожди",
-        "Погода \"как в пустыне\" прогнозируется в Московском регионе в выходные",
-        "Синоптик Тишковец: Москву и область накроет «хрустальный купол»"
+        "[단독] 최저임금보다 더 받는 실업급여 손본다",
+        "‘하루에만 150명’ 경기 침체에 실업급여 창구 ‘북적’",
+        "실업급여 수급 자격 요건"
+      ]
+    },
+    {
+      "id": "mls",
+      "rank": 3,
+      "keyword": "mls",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Licensable picture: MLS Soccer 2026: JUL 16 Seattle Sounders FC Vs Port…' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "Licensable picture: MLS Soccer 2026: JUL 16 Seattle Sounders FC Vs Portland Timbers FC",
+        "Kevin Kelsy Fires Two Goals As Portland Timbers Demolish Seattle Sounders 5-1 In MLS Return",
+        "Match Highlights Seattle - Portland Timbers"
+      ]
+    },
+    {
+      "id": "항공모함",
+      "rank": 4,
+      "keyword": "항공모함",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "오늘의-운세-중앙일보",
+      "rank": 5,
+      "keyword": "오늘의 운세 중앙일보",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[오늘의 운세] 2026년 07월 18일 띠별 운세' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "[오늘의 운세] 2026년 07월 18일 띠별 운세",
+        "[오늘의 운세] 7월 18일 토요일 (음력 6월 5일) 띠별 운세",
+        "[백운산 오늘의 운세] 2026년 7월 18일"
+      ]
+    },
+    {
+      "id": "주차",
+      "rank": 6,
+      "keyword": "주차",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[단독] 열흘째 실종 50대 여성, 운영 중단 오피스텔 주차타워 바닥서 숨진 채 발견 [세상&]' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "[단독] 열흘째 실종 50대 여성, 운영 중단 오피스텔 주차타워 바닥서 숨진 채 발견 [세상&]",
+        "실종 신고 열흘 만에…50대 여성, 주차타워서 숨진 채 발견",
+        "실종 50대 여성, 화곡동 오피스텔 주차타워 바닥서 숨진 채 발견"
+      ]
+    },
+    {
+      "id": "김부장",
+      "rank": 7,
+      "keyword": "김부장",
+      "volumeLabel": "10000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“민지야 왜 말리냐”…김부장 결말에 몰입한 누리꾼' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "“민지야 왜 말리냐”…김부장 결말에 몰입한 누리꾼",
+        "'김부장' 주상욱 무릎 꿇린 소지섭, 딸 구한 행복도 잠시 北 납치 '충격' [종합] - 머니투데이",
+        "'김부장' 시청률 25.5% 또 상승..'북한 송환' 엔딩 발칵"
+      ]
+    },
+    {
+      "id": "투폴-레프-tu-95",
+      "rank": 8,
+      "keyword": "투폴 레프 tu 95",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '젤렌스키 \"우크라, 러 Tu-95 전략폭격기 파괴\"' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "젤렌스키 \"우크라, 러 Tu-95 전략폭격기 파괴\"",
+        "러 \"해군 핵전력 완전한 전투준비태세\"…우크라 공세에 경고",
+        "흑해 씨 운송 차질 속 밀 가격 보합세"
+      ]
+    },
+    {
+      "id": "교통",
+      "rank": 9,
+      "keyword": "교통",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘도로가 주차장됐다’…신도평화대교 개통 사흘 만에 ‘교통대란’' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "‘도로가 주차장됐다’…신도평화대교 개통 사흘 만에 ‘교통대란’",
+        "배 안 타고 신도 나들이···신도평화대교 뚫리자마자 연휴 ‘교통 대란’",
+        "인천 신도평화대교 '교통 대란'에 차량 진입 전면 통제"
+      ]
+    },
+    {
+      "id": "축제",
+      "rank": 10,
+      "keyword": "축제",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '장흥 물축제, K-팝 입고 ‘글로벌 K-축제’ 영토 넓힌다' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "장흥 물축제, K-팝 입고 ‘글로벌 K-축제’ 영토 넓힌다",
+        "\"도약하는 장흥, 함께 여는 미래\"...25일 '정남진 물 축제' 개막",
+        "치유가 물~씬, 여름이 물씬, 씬나는 장흥 제19회 정남진 장흥물축제"
       ]
     }
   ]
