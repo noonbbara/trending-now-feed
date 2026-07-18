@@ -1,20 +1,20 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-18T16:29:21.536Z",
+  "updatedAt": "2026-07-18T17:36:53.064Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
       "id": "man-utd-đấu-với-wrexham",
       "rank": 1,
       "keyword": "man utd đấu với wrexham",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Trực tiếp bóng đá MU - Wrexham: Nỗ lực tấn công' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Trực tiếp bóng đá MU - Wrexham: Nỗ lực không thành (Hết giờ)' 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "Trực tiếp bóng đá MU - Wrexham: Nỗ lực tấn công",
+        "Trực tiếp bóng đá MU - Wrexham: Nỗ lực không thành (Hết giờ)",
         "Nhận định bóng đá MU vs Wrexham, 22h00 ngày 18/7: Quỷ đỏ thắng trận",
         "Trực tiếp giao hữu bóng đá câu lạc bộ hôm nay 18/7/2026: MU, Juventus và Dortmund ra sân"
       ]
@@ -24,14 +24,14 @@
       "rank": 2,
       "keyword": "폐지",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이준우 \"고유정 전 남편 토막살해사건 잊었나...묻힐 뻔, 경찰 '쩔쩔 구멍', 검찰 보완수사로 전모\"[여의도 진검승부]' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '민주당 지지층서도 ‘檢 보완수사 유지해야’ 응답이 더 많아' 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "이준우 \"고유정 전 남편 토막살해사건 잊었나...묻힐 뻔, 경찰 '쩔쩔 구멍', 검찰 보완수사로 전모\"[여의도 진검승부]",
         "민주당 지지층서도 ‘檢 보완수사 유지해야’ 응답이 더 많아",
+        "이준우 \"고유정 전 남편 토막살해사건 잊었나...묻힐 뻔, 경찰 '쩔쩔 구멍', 검찰 보완수사로 전모\"[여의도 진검승부]",
         "부장판사 출신 법조 원로 일갈 \"보완수사권 폐지, 與 '전대 수단' 안돼 … 헌재 '위헌' 나올 것\""
       ]
     },
@@ -40,7 +40,7 @@
       "rank": 3,
       "keyword": "멸망전",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 'SOOP, '2026 리그 오브 레전드 멸망전 with 젠지' 19일 개막' 관련 뉴스가 함께 포착됐어요.",
@@ -48,15 +48,31 @@
       "newsSignals": [
         "SOOP, '2026 리그 오브 레전드 멸망전 with 젠지' 19일 개막",
         "SOOP, ‘2026 LoL 멸망전 with Gen.G’ 본선 막 오른다",
-        "SOOP, LoL·철권·다트로 주말 달군다…스포츠 콘텐츠 외연 확대"
+        "숲, 2026 LoL 멸망전 위드 젠지, 19일 개최"
+      ]
+    },
+    {
+      "id": "2026-國際足總世界盃",
+      "rank": 4,
+      "keyword": "2026 國際足總世界盃",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '法國隊季軍戰前夕爆出「職場危機」：領隊想贏球員想去玩？' 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        "法國隊季軍戰前夕爆出「職場危機」：領隊想贏球員想去玩？",
+        "世界盃19日看點：金靴懸念與主帥告別交織的季軍戰",
+        "英格蘭對法國2026世界盃直播線上看！季軍賽誰會贏？法國勝率略占優勢，姆巴佩拚金靴"
       ]
     },
     {
       "id": "일베",
-      "rank": 4,
+      "rank": 5,
       "keyword": "일베",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
@@ -64,43 +80,41 @@
       "newsSignals": []
     },
     {
-      "id": "2026-國際足總世界盃",
-      "rank": 5,
-      "keyword": "2026 國際足總世界盃",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "id": "로트바이스-오버하우젠-대-도르트문트",
+      "rank": 6,
+      "keyword": "로트바이스 오버하우젠 대 도르트문트",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '世界盃｜別毀了純粹的足球！效法美國職業運動首度推出「冠軍戒」 引爆全球球迷怒火' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '로트바이스 오버하우젠 vs 보루시아 도르트문트 생중계: 로트바이스 오버하우젠 선제골' 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "世界盃｜別毀了純粹的足球！效法美國職業運動首度推出「冠軍戒」 引爆全球球迷怒火",
-        "LV客製打造世足冠軍 「專屬旅行箱」奢華亮相",
-        "大玩美式風！世盃推特製冠軍指環"
+        "로트바이스 오버하우젠 vs 보루시아 도르트문트 생중계: 로트바이스 오버하우젠 선제골"
       ]
     },
     {
       "id": "чемпионат-мира-по-футболу-fifa-2026",
-      "rank": 6,
+      "rank": 7,
       "keyword": "чемпионат мира по футболу fifa 2026",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Кейн – автор самого мощного результативного удара в плей-офф ЧМ-2026' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Финансовые итоги чемпионата мира по футболу: кто выиграл и кто в минусе' 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "Кейн – автор самого мощного результативного удара в плей-офф ЧМ-2026",
         "Финансовые итоги чемпионата мира по футболу: кто выиграл и кто в минусе",
-        "Сколько получат игроки сборной Испании, если выиграют финал у Аргентины?"
+        "Сколько получат игроки сборной Испании, если выиграют финал у Аргентины?",
+        "Аргентина и Испания сразятся не только за Кубок мира, но и за 17 миллионов долларов. Все о призовых..."
       ]
     },
     {
       "id": "김소영",
-      "rank": 7,
+      "rank": 8,
       "keyword": "김소영",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 '김소영♥오상진, 아들 출산 후 첫 가족 사진 \"백일 기념\"('띵그리TV')[순간포착] - 조선비즈' 관련 뉴스가 함께 포착됐어요.",
@@ -112,27 +126,11 @@
       ]
     },
     {
-      "id": "manchester-united",
-      "rank": 8,
-      "keyword": "manchester united",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Ederson and Manchester United: Brazilian extends Atalanta contract afte…' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "Ederson and Manchester United: Brazilian extends Atalanta contract after Old Trafford move collapses",
-        "‘Signs new deal’ – Fabrizio Romano confirms bad news for Newcastle United",
-        "Man United target makes decision over future after transfer stalls"
-      ]
-    },
-    {
       "id": "토트넘",
       "rank": 9,
       "keyword": "토트넘",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 '토트넘 잔류에 '손-케 듀오' 웃었다… \"마지막 날 멋진 결과 축하해\"' 관련 뉴스가 함께 포착됐어요.",
@@ -148,14 +146,14 @@
       "rank": 10,
       "keyword": "แมนย พบ เร กซ แฮม",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'เช็กชื่อ 25 แข้งแมนยูบุกฟินแลนด์! ซานโตส ลุ้นประเดิมอุ่นเร็กซ์แฮม' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'แมนฯ ยูไนเต็ด พบกับ เร็กซ์แฮม: รายชื่อผู้เล่นตัวจริง ช่องถ่ายทอดสด และก…' 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "เช็กชื่อ 25 แข้งแมนยูบุกฟินแลนด์! ซานโตส ลุ้นประเดิมอุ่นเร็กซ์แฮม",
-        "โปรแกรมฟุตบอลวันนี้ 18 กรกฎาคม: อังกฤษ พบ ฝรั่งเศส, เวียดนาม พบ เมียนมาร์",
+        "แมนฯ ยูไนเต็ด พบกับ เร็กซ์แฮม: รายชื่อผู้เล่นตัวจริง ช่องถ่ายทอดสด และการคาดการณ์",
+        "LIVE ดูบอลสด แมนยู พบ เร็กซ์แฮม ฟุตบอลอุ่นเครื่อง วันนี้ 18 ก.ค.69",
         "โปรแกรมถ่ายทอดสด \"แมนยู\" ปรีซีซั่น 2026/27 ตารางอุ่นเครื่อง ล่าสุด"
       ]
     }
