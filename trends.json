@@ -1,166 +1,286 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-19T09:09:57.098Z",
+  "updatedAt": "2026-07-19T10:55:03.897Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "법원",
+      "id": "바지",
       "rank": 1,
-      "keyword": "법원",
-      "volumeLabel": "1000+",
+      "keyword": "바지",
+      "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '2천억 마련 성공한 홈플러스...추후 법적 절차는?' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '하루 5억원 넘게 팔렸다…폭염·폭우에 편의점서 불티난 제품 [류은혁의 유통기한]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "2천억 마련 성공한 홈플러스...추후 법적 절차는?",
-        "김순중 성서홈플러스 입점점주 비상대책위원장…\"임대매장은 정상 영업합니다\"",
-        "홈플러스, 20일 서울회생법원에 즉시항고장 제기"
+        {
+          "title": "하루 5억원 넘게 팔렸다…폭염·폭우에 편의점서 불티난 제품 [류은혁의 유통기한]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202607108188i"
+        },
+        {
+          "title": "소나기·폭염·냉방 한 번에 대비…기능성 아웃도어웨어 경쟁 본격화",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1667838/%EC%86%8C%EB%82%98%EA%B8%B0%ED%8F%AD%EC%97%BC%EB%83%89%EB%B0%A9-%ED%95%9C-%EB%B2%88%EC%97%90-%EB%8C%80%EB%B9%84%EA%B8%B0%EB%8A%A5%EC%84%B1-%EC%95%84-2026"
+        },
+        {
+          "title": "장마철, 짧은 반바지 대신 배기 버뮤다 팬츠가 유행인 이유",
+          "source": "www.cosmopolitan.co.kr",
+          "url": "https://www.cosmopolitan.co.kr/article/1906280"
+        }
       ]
     },
     {
-      "id": "facebook",
+      "id": "부천-대-fc-서울",
       "rank": 2,
-      "keyword": "facebook",
-      "volumeLabel": "1000+",
+      "keyword": "부천 대 fc 서울",
+      "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Thousands of Meta users worldwide report Facebook, Instagram issues, ca…' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''이기면 2위와 8점 차' 김기동 서울 감독, 부천 원정 앞두고 \"포항전 지켜봐...한 번의 실수가 실점 된다\" [현장인터뷰]' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "Thousands of Meta users worldwide report Facebook, Instagram issues, cause uknown",
-        "Social media website suffers major global outage",
-        "Facebook down for users worldwide, Downdetector reports spike"
+        {
+          "title": "'이기면 2위와 8점 차' 김기동 서울 감독, 부천 원정 앞두고 \"포항전 지켜봐...한 번의 실수가 실점 된다\" [현장인터뷰]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/07/19/MM4DINBYHE4WMNBYGFSTQYLDHA/"
+        },
+        {
+          "title": "\"무리한 전방 압박은 없다\" 이영민, 서울전 해법은 밀집 수비 기동력 [현장인터뷰] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/07/19/202607191747778263O"
+        },
+        {
+          "title": "'성예건 선발출전' 부천-'조영욱-클리말라 선발' 서울 선발 라인업 공개 [오!쎈 현장]",
+          "source": "OSEN",
+          "url": ""
+        }
       ]
     },
     {
-      "id": "야구",
+      "id": "현대자동차그룹",
       "rank": 3,
-      "keyword": "야구",
+      "keyword": "현대자동차그룹",
       "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '프로야구 한화, 외국인 투수 에르난데스 퇴출 결정' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '정의선, 사재 1200억 쏟아부었다…나스닥 상장 속도내는 ‘이 기업’' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "프로야구 한화, 외국인 투수 에르난데스 퇴출 결정",
-        "결국 '헤드샷 퇴장'이 마지막이었다, 'ERA 4.92' 에르난데스 한화서 결국 방출 - 머니투데이",
-        "‘키움전 6연패·후반기 3연패’ 위기의 한화, 결국 믿을건 류현진 뿐이다…韓·美 2500K+후반기 첫 승 도전"
+        {
+          "title": "정의선, 사재 1200억 쏟아부었다…나스닥 상장 속도내는 ‘이 기업’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260719111500557"
+        },
+        {
+          "title": "현대차, 보스턴다이내믹스 완전 품는다…피지컬 AI ‘풀액셀’",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260719010006606"
+        },
+        {
+          "title": "정의선, 보스턴다이내믹스 지분에 1200억원 추가 투입…기업 공개에 탄력 붙을까",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607191700001"
+        }
       ]
     },
     {
-      "id": "브라이슨-디섐보",
+      "id": "부동산",
       "rank": 4,
-      "keyword": "브라이슨 디섐보",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "keyword": "부동산",
+      "volumeLabel": "10000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '매킬로이, 디오픈서 벌타받은 디섐보에 \"관심을 구걸하는 선수\"' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“대통령님, 대출 좀 풀어주세요”…대토론회 앞두고 시민제안 쏟아졌다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "매킬로이, 디오픈서 벌타받은 디섐보에 \"관심을 구걸하는 선수\"",
-        "“디섐보는 팬 관심을 구걸하는 선수”…매킬로이 작심 비판",
-        "\"발조심해 브라이슨\" 농담에…\"루스 임페디먼트\" 응수한 디섐보"
+        {
+          "title": "“대통령님, 대출 좀 풀어주세요”…대토론회 앞두고 시민제안 쏟아졌다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260719135701501"
+        },
+        {
+          "title": "김용범 “양도세 인하 감안…재개발·재건축 만능 키는 아냐”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/bluehouse/1268834.html"
+        },
+        {
+          "title": "김용범 “보유세 개편 초고가 주택 기준 곧 발표…단일종목 레버리지 ETF 상폐는 어려워”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8614223"
+        }
       ]
     },
     {
-      "id": "아리엘-후라도",
+      "id": "프로야구-중계",
       "rank": 5,
-      "keyword": "아리엘 후라도",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "keyword": "프로야구 중계",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"대체 외인 언제 오는지\" 후라도 없는 삼성 선발진, '주 1회 등판' 정책 폐기하나 …일단 'KBO 2호' 육성 신인 선발 출…' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'KBO, 관중 이어 TV·OTT 시청률도 '사상 최고'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "\"대체 외인 언제 오는지\" 후라도 없는 삼성 선발진, '주 1회 등판' 정책 폐기하나 …일단 'KBO 2호' 육성 신인 선발 출격 [오!쎈 대구]",
-        "작년 'KS 맞대결' 삼성-한화 후반기 특명, '선발 공백'을 메워라",
-        "`어느 팀 외인 마운드가 강하나` 외국인 투수 기상도"
+        {
+          "title": "KBO, 관중 이어 TV·OTT 시청률도 '사상 최고'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/KZ9GWAaeai"
+        },
+        {
+          "title": "최형우, 역대 최초 2700안타 눈앞... 류현진은 후반기 첫 등판서 2500K 달성 유력",
+          "source": "MSN",
+          "url": "https://www.msn.com/ko-kr/sports/basketball/%EC%B5%9C%ED%98%95%EC%9A%B0-%EC%97%AD%EB%8C%80-%EC%B5%9C%EC%B4%88-2700%EC%95%88%ED%83%80-%EB%88%88%EC%95%9E-%EB%A5%98%ED%98%84%EC%A7%84%EC%9D%80-%ED%9B%84%EB%B0%98%EA%B8%B0-%EC%B2%AB-%EB%93%B1%ED%8C%90%EC%84%9C-2500k-%EB%8B%AC%EC%84%B1-%EC%9C%A0%EB%A0%A5/ar-AA27XRT7"
+        },
+        {
+          "title": "치열한 선두 경쟁·신기록 행진까지…프로야구 첫 1300만 보인다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026071202441"
+        }
       ]
     },
     {
-      "id": "안동시",
+      "id": "kia-vs-ssg",
       "rank": 6,
-      "keyword": "안동시",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "keyword": "kia vs ssg",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '안동, 청년 50인 원탁 토론회 개최' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'SSG Landers seek rebound after roster losses, eyeing cleanup trio again…' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "안동, 청년 50인 원탁 토론회 개최",
-        "광주시, 2027~2031 청년정책 기본계획 수립 착수",
-        "[사진물] 안동시, 청년과 함께 미래 설계…중장기 청년정책 밑그림 본격화"
+        {
+          "title": "SSG Landers seek rebound after roster losses, eyeing cleanup trio against KIA - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/07/19/2WXNVU4CUFFHTL2RTQWV7E4ISE/"
+        },
+        {
+          "title": "[Photo] 'Season 15th Sold-Out Crowd at Incheon Landers Field' Kia vs. SSG Match",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/en/sports/2026/07/18/2026071820044364702"
+        },
+        {
+          "title": "KIA Tigers Chase Second Straight Win Over SSG Landers",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/07/18/4VZG7EVFCVFBLEGO2YWRVELTLE/"
+        }
       ]
     },
     {
-      "id": "오은영",
+      "id": "앤트로픽",
       "rank": 7,
-      "keyword": "오은영",
+      "keyword": "앤트로픽",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''배그 부부' 남편 오열…\"사별 후 죽어야 할 이유가 더 커\" [오은영 리포트]' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '앤트로픽, 메타와 15조원 규모 연산 자원 임대 계약 논의' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "'배그 부부' 남편 오열…\"사별 후 죽어야 할 이유가 더 커\" [오은영 리포트]",
-        "'오은영 리포트' 배그 부부 남편 \"아내 따라가고 싶었다\" 고백",
-        "‘배그 부부’ 남편 “아이들 앞에선 못 운다”…사별 후 첫 근황 (오은영 리포트)"
+        {
+          "title": "앤트로픽, 메타와 15조원 규모 연산 자원 임대 계약 논의",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260719032438376"
+        },
+        {
+          "title": "메타, 앤트로픽과 15조 AI 인프라 임대 논의…클라우드 진출 눈앞",
+          "source": "AI타임스",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=212896"
+        },
+        {
+          "title": "메타, 앤스로픽에 AI 컴퓨팅 파워 판매 논의 중...‘AI 적과의 동침’ 시작",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/tech_it/2026/07/18/OLOUCX4VANDMTHAH6ZDX4MLPCU/"
+        }
       ]
     },
     {
-      "id": "문샷-ai",
+      "id": "제니",
       "rank": 8,
-      "keyword": "문샷 ai",
+      "keyword": "제니",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '제니, 의문의 남성과 투샷' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "제니, 의문의 남성과 투샷",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20260719/134321112/1"
+        },
+        {
+          "title": "제니, 의문의 남성 어깨에 ‘찰칵’…정체 두고 추측 확산",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202607191000003"
+        },
+        {
+          "title": "제니 옆 남성 누구? 신곡 스포일까",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6549872?utm_source=zum&utm_medium=article&utm_campaign=20260719030025"
+        }
+      ]
+    },
+    {
+      "id": "한국일보",
+      "rank": 9,
+      "keyword": "한국일보",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“GPT-4 넘어섰다”…中 가성비 ‘키미 K3’에 AI-반도체업계 발칵' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '경기 여주 소양천서 길이 50㎝ 악어 포획' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "“GPT-4 넘어섰다”…中 가성비 ‘키미 K3’에 AI-반도체업계 발칵",
-        "中 ‘키미 K3’ 충격에 AI 반도체 급락… 월요일 코스피 시험대",
-        "AI 플랫폼 주간 사용량 1~5위 中 싹쓸이…美 고가 AI 흔든다"
+        {
+          "title": "경기 여주 소양천서 길이 50㎝ 악어 포획",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260718030800061"
+        },
+        {
+          "title": "[단독] “하천에 악어가 다닌다”...경기 여주서 악어 출몰",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260718580043"
+        },
+        {
+          "title": "물폭탄에 계곡 고립…하천서 악어 붙잡혀",
+          "source": "매일경제",
+          "url": "https://www.mbn.co.kr/news/society/5206679"
+        }
       ]
     },
     {
-      "id": "덕양구",
-      "rank": 9,
-      "keyword": "덕양구",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '일산 집값 죽 쑤는데… 덕양구 신축은 그나마 선방 - 조선비즈' 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        "일산 집값 죽 쑤는데… 덕양구 신축은 그나마 선방 - 조선비즈",
-        "우유로 고독사 예방…고양시, ‘고양형 통합돌봄’ 첫 민관 협력사업 시동",
-        "고양특별시, 고독사 예방 위해 '어르신 안부 묻는 우유 배달' 추진"
-      ]
-    },
-    {
-      "id": "서희제",
+      "id": "야구순위",
       "rank": 10,
-      "keyword": "서희제",
-      "volumeLabel": "2000+",
+      "keyword": "야구순위",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''구준엽 처제' 서희제, 언니 자녀 둘러싼 루머에 분통 \"정말 지친다\"' 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[프로야구] 중간 순위(18일)' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        "'구준엽 처제' 서희제, 언니 자녀 둘러싼 루머에 분통 \"정말 지친다\"",
-        "故 서희원 가족 소문 뭐길래…서희제 \"정말 지친다\"",
-        "구준엽, 1200억 유산 못 받나…서희원 유언, 유족 반대에 무효"
+        {
+          "title": "[프로야구] 중간 순위(18일)",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/baseball/6231770"
+        },
+        {
+          "title": "[프로야구] 중간 순위(18일)",
+          "source": "MSN",
+          "url": "https://www.msn.com/ko-kr/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%95%99%EC%8A%B5/%EC%9D%BC%EB%B0%98/%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%AC-%EC%A4%91%EA%B0%84-%EC%88%9C%EC%9C%84-18%EC%9D%BC/ar-AA28bhUX"
+        },
+        {
+          "title": "[프로야구] 중간 순위(17일)",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260717n13641"
+        }
       ]
     }
   ]
