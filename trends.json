@@ -1,126 +1,211 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-19T14:04:52.669Z",
+  "rankingMethod": "search-velocity-v1",
+  "updatedAt": "2026-07-19T15:32:47.190Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "국민일보",
+      "id": "김정은",
       "rank": 1,
-      "keyword": "국민일보",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "keyword": "김정은",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[포토] 베네수 지진 피해자들의 장난감' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''파리의 연인' 이동건·김정은·박신양, 20년만 깜짝 재회' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[포토] 베네수 지진 피해자들의 장난감",
+          "title": "'파리의 연인' 이동건·김정은·박신양, 20년만 깜짝 재회",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260719211249995"
+          "url": "https://v.daum.net/v/20260719204316666"
         },
         {
-          "title": "베네수엘라, IMF로부터 지진 재건자금 5천억원 확보",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260718049000087"
+          "title": "김정은, '파리의 연인' 황당 엔딩 때문에 식당 사장한테 혼나…\"이젠 그냥 잘못했다 빌어” ('미우새') - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/07/19/GM3TKMRXHE2DEMTDHE4TAMDDGY/"
         },
         {
-          "title": "5천명 잃은 통곡의 땅에도 어린이날은 왔다",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030129281"
+          "title": "‘박신양 닮은 남편♥’ 김정은 “시父 산소에서 프러포즈” (‘미우새’)",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12102007"
         }
       ]
     },
     {
-      "id": "김정은",
+      "id": "김혜수",
       "rank": 2,
-      "keyword": "김정은",
+      "keyword": "김혜수",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이동건-김정은 무려 20년 만에 다시 입맞춤…진심 고백 (미우새)' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '김혜수, 11세 연하 김지훈과 '부부 케미' 예고…비주얼 커플 [N샷]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이동건-김정은 무려 20년 만에 다시 입맞춤…진심 고백 (미우새)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260719/134321411/1"
-        },
-        {
-          "title": "김정은 \"'파리의 연인' 충격 엔딩, 지금까지도 사과한다\" ('미우새')",
+          "title": "김혜수, 11세 연하 김지훈과 '부부 케미' 예고…비주얼 커플 [N샷]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260719225440092"
+          "url": "https://v.daum.net/v/20260719190049156"
         },
         {
-          "title": "미운 우리 새끼 : [선공개] 김정은, 방송 보고 박신양×이동건 애드리브에 당황",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC480766414?div=live_end"
+          "title": "'천만 배우' 김혜수vs조여정이 한 작품서 격돌…'지금 불륜'서 코믹 대결 펼친다 [IS신작]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260719n04847"
+        },
+        {
+          "title": "\"진짜 인형인 줄\"...김혜수, 55세 안 믿기는 '초근접 도자기 피부' 셀카",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/07/19/GFSDGOJXMU3TMN3DMRRWGYZYGI/"
+        }
+      ]
+    },
+    {
+      "id": "당대표",
+      "rank": 3,
+      "keyword": "당대표",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '퇴행의 여당 전대 “제발 미래를 보라”…과열 경쟁 속 예비경선 시작' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "퇴행의 여당 전대 “제발 미래를 보라”…과열 경쟁 속 예비경선 시작",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1268925.html"
+        },
+        {
+          "title": "[여의도풍향계] 당 대표 뭐길래…총력전 이유는 공천권과 대권",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260719004600038"
+        },
+        {
+          "title": "與 전당대회 예비경선 입박… 金·鄭·宋 연일 공방, 변수는 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/07/19/2026071913092563000"
+        }
+      ]
+    },
+    {
+      "id": "논쟁",
+      "rank": 4,
+      "keyword": "논쟁",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '문희상 “전대 ‘적통 논쟁’ 한심…대통령 뒷받침·직언하는 당 대표 필요”' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "문희상 “전대 ‘적통 논쟁’ 한심…대통령 뒷받침·직언하는 당 대표 필요”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1268923.html"
+        },
+        {
+          "title": "박홍근 \"전대, 누가 사심없이 대통령 떠받칠 사람인지 선택하는 장 돼야\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260719220649719"
+        },
+        {
+          "title": "박홍근 \"이번 전대, 사심 없이 대통령 떠받칠 사람 누군지 곱씹어야\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/politics/assembly/6232202"
+        }
+      ]
+    },
+    {
+      "id": "현대건설",
+      "rank": 5,
+      "keyword": "현대건설",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '반토막 난 현대건설, 목표가 줄하향에도 “사라”…대체 왜? [종목Pick]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "반토막 난 현대건설, 목표가 줄하향에도 “사라”…대체 왜? [종목Pick]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260719170140931"
+        },
+        {
+          "title": "[리포트 브리핑]현대건설, '2분기 호실적, 해외 원전의 첫 결실을 기다리며' 목표가 175,000원 - 미래에셋증권",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260716000631"
+        },
+        {
+          "title": "80년 '위계 문화' 허물고 혁신 구축한 이한우",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026071325111"
         }
       ]
     },
     {
       "id": "운전-기사",
-      "rank": 3,
+      "rank": 6,
       "keyword": "운전 기사",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'CE 및 D급 운전기사 부족 문제 해결.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '운전자 재교육 - 교통사고의 근본 원인 예방.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "CE 및 D급 운전기사 부족 문제 해결.",
+          "title": "운전자 재교육 - 교통사고의 근본 원인 예방.",
           "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/thao-go-tinh-trang-thieu-lai-xe-hang-ce-d"
+          "url": "https://www.vietnam.vn/ko/dao-tao-lai-ky-nang-cho-nguoi-co-giay-phep-lai-xe-phong-ngua-tai-nan-giao-thong-tu-goc"
         },
         {
-          "title": "운전기사 부족 문제를 해결하기 위한 일련의 방안을 제시합니다.",
+          "title": "람동 교통경찰이 교통 단속을 강화해 교통사고를 줄였다.",
           "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/de-xuat-loat-giai-phap-thao-go-tinh-trang-thieu-lai-xe"
+          "url": "https://www.vietnam.vn/ko/canh-sat-giao-thong-lam-dong-siet-kiem-soat-keo-giam-tai-nan-giao-thong"
         },
         {
-          "title": "트랙터 트레일러와 30인승 이상 승용차 운전기사 부족에 대한 우려가 커지고 있다.",
+          "title": "150명에게 안전한 오토바이 및 스쿠터 운전 기술에 대한 정보와 지침을 제공합니다.",
           "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/bao-dong-tinh-trang-thieu-lai-xe-dau-keo-xe-cho-khach-tren-30-cho-ngoi"
+          "url": "https://www.vietnam.vn/ko/tuyen-truyen-huong-dan-ky-nang-lai-xe-moto-xe-gan-may-an-toan-cho-150-nguoi-dan"
         }
       ]
     },
     {
       "id": "한화",
-      "rank": 4,
+      "rank": 7,
       "keyword": "한화",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '프로야구 류현진 한미 통산 2,500K 돌파…전인미답 대기록' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '류현진, 한미 통산 2천500탈삼진 돌파…한국 투수 최초 대기록(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "류현진, 한미 통산 2천500탈삼진 돌파…한국 투수 최초 대기록(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260705033151007"
+        },
+        {
+          "title": "韓·美 2500K 대기록, 류현진도 불펜 방화는 어쩔 수 없었다…8회 5실점 참사, 키움전 6연패 탈출 실패",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/07/20/GU3WCNDDMYZTAMLCG5STAZBQGU/"
+        },
         {
           "title": "프로야구 류현진 한미 통산 2,500K 돌파…전인미답 대기록",
           "source": "KBS 뉴스",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8614347"
-        },
-        {
-          "title": "류현진, 한미 통산 탈삼진 2,500개 달성…한국 투수 최초",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008664281"
-        },
-        {
-          "title": "'류현진 2500K' 한화, 7점 차 리드 놓치고 무승부…롯데는 후반기 첫 승(종합)",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260719_0003714297"
         }
       ]
     },
     {
       "id": "김현준",
-      "rank": 5,
+      "rank": 8,
       "keyword": "김현준",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 ''4연승 도전' 삼성 1위 독주 채비 마치나...'예비역' 김현준, 전역 후 첫 리드오프 출격-강민호 대신 김도환 선발 [오!쎈…' (Daum) 관련 뉴스가 함께 포착됐어요.",
@@ -144,142 +229,58 @@
       ]
     },
     {
-      "id": "야구-순위",
-      "rank": 6,
-      "keyword": "야구 순위",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[프로야구] 중간 순위(19일)' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[프로야구] 중간 순위(19일)",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/baseball/6232211"
-        },
-        {
-          "title": "[프로야구] 중간 순위(18일)",
-          "source": "MSN",
-          "url": "https://www.msn.com/ko-kr/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%95%99%EC%8A%B5/%EC%9D%BC%EB%B0%98/%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%AC-%EC%A4%91%EA%B0%84-%EC%88%9C%EC%9C%84-18%EC%9D%BC/ar-AA28bhUX"
-        },
-        {
-          "title": "[프로야구] 중간 순위(17일)",
-          "source": "MSN",
-          "url": "https://www.msn.com/ko-kr/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%95%99%EC%8A%B5/%EC%9D%BC%EB%B0%98/%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%AC-%EC%A4%91%EA%B0%84-%EC%88%9C%EC%9C%84-17%EC%9D%BC/ar-AA287BbT"
-        }
-      ]
-    },
-    {
-      "id": "수원삼성",
-      "rank": 7,
-      "keyword": "수원삼성",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"정신 차려 수원!\" 이정효 감독도 어렵나?…파주전 0-0 무승부에 야유 쏟아진 빅버드, 올해 첫 3G 연속 무승 [현장리뷰]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"정신 차려 수원!\" 이정효 감독도 어렵나?…파주전 0-0 무승부에 야유 쏟아진 빅버드, 올해 첫 3G 연속 무승 [현장리뷰]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260719213537273"
-        },
-        {
-          "title": "'메시빠지만 우승은 못참지' 스페인 출신 제라드 누스 감독의 미소 \"메시가 결승전서 최악의 경기했으면\"[현장 인터뷰]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/07/19/GZTDAZLBGAZTKZBYMQYTSYRUMU/"
-        },
-        {
-          "title": "슈팅 15개에 무득점…'답답한 결정력' 수원, 파주와 0-0 무승부",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/soccer/6232203"
-        }
-      ]
-    },
-    {
-      "id": "k리그1-순위",
-      "rank": 8,
-      "keyword": "k리그1 순위",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[K리그1] 중간 순위(19일)' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[K리그1] 중간 순위(19일)",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/soccer/6232196"
-        },
-        {
-          "title": "[K리그1] 중간 순위(11일)",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/soccer/6225137"
-        },
-        {
-          "title": "[K리그1] 중간 순위(12일)",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/soccer/6225572"
-        }
-      ]
-    },
-    {
-      "id": "나마디-조엘-진",
+      "id": "케스파컵",
       "rank": 9,
-      "keyword": "나마디 조엘 진",
-      "volumeLabel": "500+",
+      "keyword": "케스파컵",
+      "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '나마디 조엘진, 남자 100ｍ 10초13…선수 기준 역대 2위 타이' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'KeSPA컵 20일 시작… 농심-한진 개막전' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "나마디 조엘진, 남자 100ｍ 10초13…선수 기준 역대 2위 타이",
+          "title": "KeSPA컵 20일 시작… 농심-한진 개막전",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260719162448369"
+          "url": "https://v.daum.net/v/3yv7sTlwWW"
         },
         {
-          "title": "나마디 10초13, 비웨사와 역대 2위 타이…박나연은 1500m 한국기록 34년 만에 경신",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20260719/134324178/1"
+          "title": "2026 EWC 끝나면 KeSPA Cup 시작⋯경기 일정은?",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2604600"
         },
         {
-          "title": "육상 조엘진, 니가타오픈레이스 100m '10초13'…한국 역대 2위 타이",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260719_0003714222"
+          "title": "2026 케스파컵, 20일 개막…농심-한진 맞대결",
+          "source": "쿠키뉴스",
+          "url": "https://www.kukinews.com/article/view/kuk202607160060"
         }
       ]
     },
     {
-      "id": "최정",
+      "id": "국민일보",
       "rank": 10,
-      "keyword": "최정",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "keyword": "국민일보",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[IS 이슈] \"여러 병원 더블 체크\" 기약 없는 전력 이탈…최정 관건은 역시 '수술'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[포토뉴스]설명회장 밖에서까지…입시 열기 ‘후끈’' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[IS 이슈] \"여러 병원 더블 체크\" 기약 없는 전력 이탈…최정 관건은 역시 '수술'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260719140249630"
+          "title": "[포토뉴스]설명회장 밖에서까지…입시 열기 ‘후끈’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607192119005"
         },
         {
-          "title": "[사진]김규성,'몸에 맞는 볼로 출루' - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/07/18/HA4WINBUGQ2GMM3CMUYDAMJSMQ/"
+          "title": "[포토] 학원 구내식당까지 꽉 찬 입시 설명회",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=1784471512&code=11131000&sid1=prj"
         },
         {
-          "title": "프로야구 SSG 최정, 왼쪽 골반 통증으로 엔트리 말소",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260717048600007"
+          "title": "수시-정시 지원전략 설명회",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20260719_0021369296&provider_id=&cID=&type=Main&catg=&idx=4"
         }
       ]
     }
