@@ -1,17 +1,45 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-19T17:07:39.639Z",
+  "updatedAt": "2026-07-19T18:30:33.526Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "공희용",
+      "id": "ewc",
       "rank": 1,
-      "keyword": "공희용",
+      "keyword": "ewc",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 'DK's Narrative Complete: Crowned 2026 Champions' (Inven Global) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "DK's Narrative Complete: Crowned 2026 Champions",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/23927/dks-narrative-complete-crowned-2026-champions"
+        },
+        {
+          "title": "Dplus vs Karmine Corp: Best betting odds, picks for Esports World Cup 2026 grand final",
+          "source": "WIN.GG",
+          "url": "https://win.gg/dplus-vs-karmine-corp-best-betting-odds-picks-for-esports-world-cup-2026-grand-final/"
+        },
+        {
+          "title": "T1 vs Gen.G and KC vs Dplus at LoL EWC 2026: Finals at the tournament of big upsets",
+          "source": "Esports.gg",
+          "url": "https://esports.gg/news/league-of-legends/lol-ewc-2026-winners-overview/"
+        }
+      ]
+    },
+    {
+      "id": "공희용",
+      "rank": 2,
+      "keyword": "공희용",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '배드민턴 세계 1위 서승재·김원호 일본오픈 준우승…2연패 무산' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,41 +61,41 @@
       ]
     },
     {
-      "id": "김혜수",
-      "rank": 2,
-      "keyword": "김혜수",
+      "id": "나-마디-조엘-진",
+      "rank": 3,
+      "keyword": "나 마디 조엘 진",
       "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '김혜수, 11세 연하 김지훈과 '부부 케미' 예고…비주얼 커플 [N샷]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '나마디 조엘진, 남자 100ｍ 10초13…선수 기준 역대 2위 타이' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김혜수, 11세 연하 김지훈과 '부부 케미' 예고…비주얼 커플 [N샷]",
+          "title": "나마디 조엘진, 남자 100ｍ 10초13…선수 기준 역대 2위 타이",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260719190049156"
+          "url": "https://v.daum.net/v/ya6GPdMV1R"
         },
         {
-          "title": "'천만 배우' 김혜수vs조여정이 한 작품서 격돌…'지금 불륜'서 코믹 대결 펼친다 [IS신작]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260719n04847"
+          "title": "나마디 10초13, 비웨사와 역대 2위 타이…박나연은 1500m 한국기록 34년 만에 경신",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260719/134324178/1"
         },
         {
-          "title": "\"진짜 인형인 줄\"...김혜수, 55세 안 믿기는 '초근접 도자기 피부' 셀카 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/07/19/G5RTIOLBGY2DOYRQMZSTSYTGGE/"
+          "title": "육상 조엘진, 니가타오픈레이스 100m '10초13'…한국 역대 2위 타이",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260719_0003714222"
         }
       ]
     },
     {
       "id": "변우석",
-      "rank": 3,
+      "rank": 4,
       "keyword": "변우석",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "1000+",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '파격 장발에 헐벗은 변우석, 누군지 몰라볼 뻔 했네 '깜짝'' (OSEN) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -89,41 +117,81 @@
       ]
     },
     {
-      "id": "담원기아",
-      "rank": 4,
-      "keyword": "담원기아",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'LCK 프로게임단 디플러스 기아 운영난으로 임금체불' (데일리e스포츠) 관련 뉴스가 함께 포착됐어요.",
+      "id": "김혜수",
+      "rank": 5,
+      "keyword": "김혜수",
+      "volumeLabel": "1000+",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-3",
+      "summary": "급상승 시점에 '김혜수, 11세 연하 김지훈과 '부부 케미' 예고…비주얼 커플 [N샷]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "LCK 프로게임단 디플러스 기아 운영난으로 임금체불",
-          "source": "데일리e스포츠",
-          "url": "https://www.dailyesports.com/view.php?ud=202607161324005293b91e133c1f_27"
+          "title": "김혜수, 11세 연하 김지훈과 '부부 케미' 예고…비주얼 커플 [N샷]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260719190049156"
         },
         {
-          "title": "'임금 체불 논란' 디플러스 기아, \"팀 매각 지연으로 자금 계획 차질…선수단 복지 지원 최우선으로 챙길 것\"",
+          "title": "'천만 배우' 김혜수vs조여정이 한 작품서 격돌…'지금 불륜'서 코믹 대결 펼친다 [IS신작]",
           "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260717n01617"
+          "url": "https://news.nate.com/view/20260719n04847"
         },
         {
-          "title": "디플러스 기아, 급여 지연 인정 \"구단 매각 진행 중\"",
-          "source": "게임메카",
-          "url": "https://www.gamemeca.com/view.php?gid=1777947"
+          "title": "\"진짜 인형인 줄\"...김혜수, 55세 안 믿기는 '초근접 도자기 피부' 셀카 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/07/19/G5RTIOLBGY2DOYRQMZSTSYTGGE/"
+        }
+      ]
+    },
+    {
+      "id": "포헨즈",
+      "rank": 6,
+      "keyword": "포헨즈",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "당대표",
+      "rank": 7,
+      "keyword": "당대표",
+      "volumeLabel": "500+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '민주, 연휴 마지막까지 '당심' 공략…'종합특검 연장' 대치' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "민주, 연휴 마지막까지 '당심' 공략…'종합특검 연장' 대치",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260719006700038"
+        },
+        {
+          "title": "민주당 전당대회, 판세가 바뀌고 있다! 승부 가를 결정적 변수 (인물비상구 20260719 방송 민주당 전당대회 편)",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/video/article/202607191545001"
+        },
+        {
+          "title": "퇴행의 여당 전대 “제발 미래를 보라”…과열 경쟁 속 예비경선 시작",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1268925.html"
         }
       ]
     },
     {
       "id": "현대건설",
-      "rank": 5,
+      "rank": 8,
       "keyword": "현대건설",
       "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-3",
       "summary": "급상승 시점에 '반토막 난 현대건설, 목표가 줄하향에도 “사라”…대체 왜? [종목Pick]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -145,87 +213,41 @@
       ]
     },
     {
-      "id": "논쟁",
-      "rank": 6,
-      "keyword": "논쟁",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '문희상 “전대 ‘적통 논쟁’ 한심…대통령 뒷받침·직언하는 당 대표 필요”' (한겨레) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "문희상 “전대 ‘적통 논쟁’ 한심…대통령 뒷받침·직언하는 당 대표 필요”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1268923.html"
-        },
-        {
-          "title": "박홍근 \"전대, 누가 사심없이 대통령 떠받칠 사람인지 선택하는 장 돼야\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260719220649719"
-        },
-        {
-          "title": "박홍근 \"이번 전대, 사심 없이 대통령 떠받칠 사람 누군지 곱씹어야\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/politics/assembly/6232202"
-        }
-      ]
-    },
-    {
-      "id": "포헨즈",
-      "rank": 7,
-      "keyword": "포헨즈",
+      "id": "담원기아",
+      "rank": 9,
+      "keyword": "담원기아",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“하나의 피아노, 두 명의 천재”…송강·이준영 ‘포핸즈’ 듀오 포스터 공개' (insight.co.kr) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-5",
+      "summary": "급상승 시점에 'LCK 프로게임단 디플러스 기아 운영난으로 임금체불' (데일리e스포츠) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“하나의 피아노, 두 명의 천재”…송강·이준영 ‘포핸즈’ 듀오 포스터 공개",
-          "source": "insight.co.kr",
-          "url": "https://www.insight.co.kr/news/563028"
-        }
-      ]
-    },
-    {
-      "id": "김정은-배우",
-      "rank": 8,
-      "keyword": "김정은 배우",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '미운 우리 새끼 : [선공개] 김정은, 방송 보고 박신양×이동건 애드리브에 당황' (programs.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "미운 우리 새끼 : [선공개] 김정은, 방송 보고 박신양×이동건 애드리브에 당황",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/feed-api/rest/clip_hub?co=google&type=ucc&content_id=OC480766414"
+          "title": "LCK 프로게임단 디플러스 기아 운영난으로 임금체불",
+          "source": "데일리e스포츠",
+          "url": "https://www.dailyesports.com/view.php?ud=202607161324005293b91e133c1f_27"
         },
         {
-          "title": "'파리의 연인' 충격 결말에…김정은 \"음식점 사장님도 화내, 혼 많이 났다\" (미우새)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260719222051834"
-        },
-        {
-          "title": "[TVis] 이동건, '파리의 연인' 김정은과 20년만 재회…\"그땐 너무 무서웠다\" (미우새)",
+          "title": "'임금 체불 논란' 디플러스 기아, \"팀 매각 지연으로 자금 계획 차질…선수단 복지 지원 최우선으로 챙길 것\"",
           "source": "네이트",
-          "url": "https://news.nate.com/view/20260719n15492"
+          "url": "https://sports.news.nate.com/view/20260717n01617"
+        },
+        {
+          "title": "디플러스 기아, 급여 지연 인정 \"구단 매각 진행 중\"",
+          "source": "게임메카",
+          "url": "https://www.gamemeca.com/view.php?gid=1777947"
         }
       ]
     },
     {
       "id": "남주혁",
-      "rank": 9,
+      "rank": 10,
       "keyword": "남주혁",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 ''동궁' 노윤서, 미모는 합격 연기력은 숙제 [엑's 초점]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -240,37 +262,9 @@
           "url": "https://www.ytn.co.kr/_cs/_ln_0106_202607182339520930_005.html"
         },
         {
-          "title": "궁궐의 저주·오싹한 로맨스…여름 OTT 달군다 [콘슐랭]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260719n03202"
-        }
-      ]
-    },
-    {
-      "id": "케스파컵",
-      "rank": 10,
-      "keyword": "케스파컵",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'KeSPA컵 20일 시작… 농심-한진 개막전' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "KeSPA컵 20일 시작… 농심-한진 개막전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/3yv7sTlwWW"
-        },
-        {
-          "title": "2026 케스파컵, 20일 개막…농심-한진 맞대결",
-          "source": "쿠키뉴스",
-          "url": "https://www.kukinews.com/article/view/kuk202607160060"
-        },
-        {
-          "title": "2026 EWC 끝나면 KeSPA Cup 시작⋯경기 일정은?",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2604600"
+          "title": "[금주 OTT 신작] '동궁', '오싹한 연애', '디센던츠: 위키드 원더랜드' 등 공개",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260716000982"
         }
       ]
     }
