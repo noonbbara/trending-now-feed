@@ -1,14 +1,240 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-19T10:55:03.897Z",
+  "updatedAt": "2026-07-19T12:02:58.511Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "바지",
+      "id": "서효림",
       "rank": 1,
-      "keyword": "바지",
-      "volumeLabel": "2000+",
+      "keyword": "서효림",
+      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''故김수미 며느리' 서효림, 시모 김치 사업 이어받고 남편과 더 애틋해졌네' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'故김수미 며느리' 서효림, 시모 김치 사업 이어받고 남편과 더 애틋해졌네",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260719163511538"
+        },
+        {
+          "title": "\"이렇게 다정했어?\" 서효림♥정명호, 결혼 후 첫 투샷 공개에 반응 폭발",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260719n14587?issue_sq=3018"
+        },
+        {
+          "title": "故 김수미 떠난 후 더 애틋해진 서효림♥정명호 “사진 찍어줘서 고마워”",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-07-19/202607190100112620007148"
+        }
+      ]
+    },
+    {
+      "id": "이태양",
+      "rank": 2,
+      "keyword": "이태양",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“난 힘든 것도 아니야, 나중에 야구 그만두면…” KIA 이태양은 어깨 다치고 인생을 또 배웠다, 이런 선수 귀합니다[MD인천]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“난 힘든 것도 아니야, 나중에 야구 그만두면…” KIA 이태양은 어깨 다치고 인생을 또 배웠다, 이런 선수 귀합니다[MD인천]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260719163127480"
+        },
+        {
+          "title": "[포토] '시즌 15번째 만원관중 랜더스필드' 기아-SSG전 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/07/18/2026071820044364702"
+        },
+        {
+          "title": "'단 1.5G 차' 이러다 정말 꼴찌 추락하나…\"더 독하게\" 사령탑 선언에도 달라진 게 없다 [인천 현장]",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260719n07388"
+        }
+      ]
+    },
+    {
+      "id": "황목-치승",
+      "rank": 3,
+      "keyword": "황목 치승",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '갑작스러웠던 은퇴 간절함으로 LG 팬들 가슴 뜨겁게 만든 이 선수' (MSN) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "갑작스러웠던 은퇴 간절함으로 LG 팬들 가슴 뜨겁게 만든 이 선수",
+          "source": "MSN",
+          "url": "https://www.msn.com/ko-kr/sports/%EC%9D%BC%EB%B0%98/%EA%B0%91%EC%9E%91%EC%8A%A4%EB%9F%AC%EC%9B%A0%EB%8D%98-%EC%9D%80%ED%87%B4-%EA%B0%84%EC%A0%88%ED%95%A8%EC%9C%BC%EB%A1%9C-lg-%ED%8C%AC%EB%93%A4-%EA%B0%80%EC%8A%B4-%EB%9C%A8%EA%B2%81%EA%B2%8C-%EB%A7%8C%EB%93%A0-%EC%9D%B4-%EC%84%A0%EC%88%98/ar-AA289Hpq"
+        }
+      ]
+    },
+    {
+      "id": "주성치",
+      "rank": 4,
+      "keyword": "주성치",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘한국팀, 화장고치고 외모에만 신경’…주성치 신작에 한국 비하 논란-서경덕 교수도 비판' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘한국팀, 화장고치고 외모에만 신경’…주성치 신작에 한국 비하 논란-서경덕 교수도 비판",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11603482"
+        },
+        {
+          "title": "\"외모만 집착, 반칙 쓰는 이화여자 축구팀\"…주성치 '쿵푸사커' 한국 비하 논란",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6231324"
+        },
+        {
+          "title": "주성치, '소림축구' 후속작서 한국팀 '반칙축구' 비하 논란",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260716177500371"
+        }
+      ]
+    },
+    {
+      "id": "시청률",
+      "rank": 5,
+      "keyword": "시청률",
+      "volumeLabel": "10000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''김부장' 8회 시청률 23.1%로 역대 2위…'펜트하우스2' 기록깨나' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'김부장' 8회 시청률 23.1%로 역대 2위…'펜트하우스2' 기록깨나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260719131713835"
+        },
+        {
+          "title": "소지섭 '김부장', 또 자체 최고 시청률 23.1%…'펜트하우스2' 넘나",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260719_0003714045"
+        },
+        {
+          "title": "'김부장' 8회 시청률 23.1%…'펜트하우스2' 기록 추격",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260719022100005"
+        }
+      ]
+    },
+    {
+      "id": "성과급",
+      "rank": 6,
+      "keyword": "성과급",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '최태원 “하이닉스 성과급, 이해관계자 행복 해치면 바꿔야”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "최태원 “하이닉스 성과급, 이해관계자 행복 해치면 바꿔야”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/35Qcl7pXv8"
+        },
+        {
+          "title": "최태원 “성과급, 이해관계자 행복 침해하면 손 봐야…‘아비규환’ 수준으로 반도체 부족”",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/economy/industry/2026/07/19/20260719500088"
+        },
+        {
+          "title": "‘청천벽력?’…최태원 “영업익 10% 성과급, 부정적 영향있다면 손 볼 필요”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11603456"
+        }
+      ]
+    },
+    {
+      "id": "백악관",
+      "rank": 7,
+      "keyword": "백악관",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '대국민 연설 트럼프 또 부정선거론…\"중국이 대선 개입\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "대국민 연설 트럼프 또 부정선거론…\"중국이 대선 개입\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/F0rlsCsA7l"
+        },
+        {
+          "title": "중국, '대선 개입' 트럼프 주장에 \"꾸며낸 악의적 비방‥미 대선 관심 없어\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6838311_36925.html"
+        },
+        {
+          "title": "이란전 물타기? 부정선거 타령 '황당'..'생중계 거부' 연설 보이콧에 두고 봐! (자막뉴스) / SBS",
+          "source": "MSN",
+          "url": "https://www.msn.com/ko-kr/video/news/%EC%9D%B4%EB%9E%80%EC%A0%84-%EB%AC%BC%ED%83%80%EA%B8%B0-%EB%B6%80%EC%A0%95%EC%84%A0%EA%B1%B0-%ED%83%80%EB%A0%B9-%ED%99%A9%EB%8B%B9%EC%83%9D%EC%A4%91%EA%B3%84-%EA%B1%B0%EB%B6%80-%EC%97%B0%EC%84%A4-%EB%B3%B4%EC%9D%B4%EC%BD%A7%EC%97%90-%EB%91%90%EA%B3%A0-%EB%B4%90-%EC%9E%90%EB%A7%89%EB%89%B4%EC%8A%A4-sbs/vi-AA286nNY"
+        }
+      ]
+    },
+    {
+      "id": "광역급행철도",
+      "rank": 8,
+      "keyword": "광역급행철도",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "오싹한연애",
+      "rank": 9,
+      "keyword": "오싹한연애",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '귀신보는 박은빈·검사 양세종의 만남…'오싹한 연애' 3.0% 출발' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "귀신보는 박은빈·검사 양세종의 만남…'오싹한 연애' 3.0% 출발",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260719017700005"
+        },
+        {
+          "title": "'오싹한 연애' 박은빈·양세종·옹성우, 필연적인 첫 삼자대면 [N컷]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260719140205612"
+        },
+        {
+          "title": "'김부장' 종영 3회 남기고 웃음 싹…박은빈 '오싹한 연애' 등판",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/07/18/MNSGENZVGBRDENJWGA4TKOBXMM/"
+        }
+      ]
+    },
+    {
+      "id": "바지",
+      "rank": 10,
+      "keyword": "바지",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 '하루 5억원 넘게 팔렸다…폭염·폭우에 편의점서 불티난 제품 [류은혁의 유통기한]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
@@ -28,258 +254,6 @@
           "title": "장마철, 짧은 반바지 대신 배기 버뮤다 팬츠가 유행인 이유",
           "source": "www.cosmopolitan.co.kr",
           "url": "https://www.cosmopolitan.co.kr/article/1906280"
-        }
-      ]
-    },
-    {
-      "id": "부천-대-fc-서울",
-      "rank": 2,
-      "keyword": "부천 대 fc 서울",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''이기면 2위와 8점 차' 김기동 서울 감독, 부천 원정 앞두고 \"포항전 지켜봐...한 번의 실수가 실점 된다\" [현장인터뷰]' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'이기면 2위와 8점 차' 김기동 서울 감독, 부천 원정 앞두고 \"포항전 지켜봐...한 번의 실수가 실점 된다\" [현장인터뷰]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/07/19/MM4DINBYHE4WMNBYGFSTQYLDHA/"
-        },
-        {
-          "title": "\"무리한 전방 압박은 없다\" 이영민, 서울전 해법은 밀집 수비 기동력 [현장인터뷰] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/07/19/202607191747778263O"
-        },
-        {
-          "title": "'성예건 선발출전' 부천-'조영욱-클리말라 선발' 서울 선발 라인업 공개 [오!쎈 현장]",
-          "source": "OSEN",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "id": "현대자동차그룹",
-      "rank": 3,
-      "keyword": "현대자동차그룹",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '정의선, 사재 1200억 쏟아부었다…나스닥 상장 속도내는 ‘이 기업’' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "정의선, 사재 1200억 쏟아부었다…나스닥 상장 속도내는 ‘이 기업’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260719111500557"
-        },
-        {
-          "title": "현대차, 보스턴다이내믹스 완전 품는다…피지컬 AI ‘풀액셀’",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260719010006606"
-        },
-        {
-          "title": "정의선, 보스턴다이내믹스 지분에 1200억원 추가 투입…기업 공개에 탄력 붙을까",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607191700001"
-        }
-      ]
-    },
-    {
-      "id": "부동산",
-      "rank": 4,
-      "keyword": "부동산",
-      "volumeLabel": "10000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“대통령님, 대출 좀 풀어주세요”…대토론회 앞두고 시민제안 쏟아졌다' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“대통령님, 대출 좀 풀어주세요”…대토론회 앞두고 시민제안 쏟아졌다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260719135701501"
-        },
-        {
-          "title": "김용범 “양도세 인하 감안…재개발·재건축 만능 키는 아냐”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/bluehouse/1268834.html"
-        },
-        {
-          "title": "김용범 “보유세 개편 초고가 주택 기준 곧 발표…단일종목 레버리지 ETF 상폐는 어려워”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8614223"
-        }
-      ]
-    },
-    {
-      "id": "프로야구-중계",
-      "rank": 5,
-      "keyword": "프로야구 중계",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'KBO, 관중 이어 TV·OTT 시청률도 '사상 최고'' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "KBO, 관중 이어 TV·OTT 시청률도 '사상 최고'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/KZ9GWAaeai"
-        },
-        {
-          "title": "최형우, 역대 최초 2700안타 눈앞... 류현진은 후반기 첫 등판서 2500K 달성 유력",
-          "source": "MSN",
-          "url": "https://www.msn.com/ko-kr/sports/basketball/%EC%B5%9C%ED%98%95%EC%9A%B0-%EC%97%AD%EB%8C%80-%EC%B5%9C%EC%B4%88-2700%EC%95%88%ED%83%80-%EB%88%88%EC%95%9E-%EB%A5%98%ED%98%84%EC%A7%84%EC%9D%80-%ED%9B%84%EB%B0%98%EA%B8%B0-%EC%B2%AB-%EB%93%B1%ED%8C%90%EC%84%9C-2500k-%EB%8B%AC%EC%84%B1-%EC%9C%A0%EB%A0%A5/ar-AA27XRT7"
-        },
-        {
-          "title": "치열한 선두 경쟁·신기록 행진까지…프로야구 첫 1300만 보인다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026071202441"
-        }
-      ]
-    },
-    {
-      "id": "kia-vs-ssg",
-      "rank": 6,
-      "keyword": "kia vs ssg",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'SSG Landers seek rebound after roster losses, eyeing cleanup trio again…' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "SSG Landers seek rebound after roster losses, eyeing cleanup trio against KIA - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/07/19/2WXNVU4CUFFHTL2RTQWV7E4ISE/"
-        },
-        {
-          "title": "[Photo] 'Season 15th Sold-Out Crowd at Incheon Landers Field' Kia vs. SSG Match",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/en/sports/2026/07/18/2026071820044364702"
-        },
-        {
-          "title": "KIA Tigers Chase Second Straight Win Over SSG Landers",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/07/18/4VZG7EVFCVFBLEGO2YWRVELTLE/"
-        }
-      ]
-    },
-    {
-      "id": "앤트로픽",
-      "rank": 7,
-      "keyword": "앤트로픽",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '앤트로픽, 메타와 15조원 규모 연산 자원 임대 계약 논의' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "앤트로픽, 메타와 15조원 규모 연산 자원 임대 계약 논의",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260719032438376"
-        },
-        {
-          "title": "메타, 앤트로픽과 15조 AI 인프라 임대 논의…클라우드 진출 눈앞",
-          "source": "AI타임스",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=212896"
-        },
-        {
-          "title": "메타, 앤스로픽에 AI 컴퓨팅 파워 판매 논의 중...‘AI 적과의 동침’ 시작",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/07/18/OLOUCX4VANDMTHAH6ZDX4MLPCU/"
-        }
-      ]
-    },
-    {
-      "id": "제니",
-      "rank": 8,
-      "keyword": "제니",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '제니, 의문의 남성과 투샷' (동아일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "제니, 의문의 남성과 투샷",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20260719/134321112/1"
-        },
-        {
-          "title": "제니, 의문의 남성 어깨에 ‘찰칵’…정체 두고 추측 확산",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202607191000003"
-        },
-        {
-          "title": "제니 옆 남성 누구? 신곡 스포일까",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6549872?utm_source=zum&utm_medium=article&utm_campaign=20260719030025"
-        }
-      ]
-    },
-    {
-      "id": "한국일보",
-      "rank": 9,
-      "keyword": "한국일보",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '경기 여주 소양천서 길이 50㎝ 악어 포획' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "경기 여주 소양천서 길이 50㎝ 악어 포획",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260718030800061"
-        },
-        {
-          "title": "[단독] “하천에 악어가 다닌다”...경기 여주서 악어 출몰",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260718580043"
-        },
-        {
-          "title": "물폭탄에 계곡 고립…하천서 악어 붙잡혀",
-          "source": "매일경제",
-          "url": "https://www.mbn.co.kr/news/society/5206679"
-        }
-      ]
-    },
-    {
-      "id": "야구순위",
-      "rank": 10,
-      "keyword": "야구순위",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[프로야구] 중간 순위(18일)' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[프로야구] 중간 순위(18일)",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/baseball/6231770"
-        },
-        {
-          "title": "[프로야구] 중간 순위(18일)",
-          "source": "MSN",
-          "url": "https://www.msn.com/ko-kr/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%95%99%EC%8A%B5/%EC%9D%BC%EB%B0%98/%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%AC-%EC%A4%91%EA%B0%84-%EC%88%9C%EC%9C%84-18%EC%9D%BC/ar-AA28bhUX"
-        },
-        {
-          "title": "[프로야구] 중간 순위(17일)",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260717n13641"
         }
       ]
     }
