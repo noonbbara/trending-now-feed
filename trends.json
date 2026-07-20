@@ -1,43 +1,15 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-20T17:00:43.935Z",
+  "updatedAt": "2026-07-20T19:14:57.791Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "둠스데이",
-      "rank": 1,
-      "keyword": "둠스데이",
-      "volumeLabel": "2000+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+4",
-      "summary": "급상승 시점에 ''어벤져스: 둠스데이' 첫 트레일러, 가면 쓴 로버트 다우니 주니어의 닥터 둠 공개' (Hypebeast.KR) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'어벤져스: 둠스데이' 첫 트레일러, 가면 쓴 로버트 다우니 주니어의 닥터 둠 공개",
-          "source": "Hypebeast.KR",
-          "url": "https://hypebeast.kr/2026/7/marvel-studios-avengers-doomsday-official-trailer-stream"
-        },
-        {
-          "title": "‘어벤져스: 둠스데이’ 공식 티저 예고편 최초공개… 로다주의 닥터 둠 공개",
-          "source": "ER 이코노믹리뷰",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=745661"
-        },
-        {
-          "title": "영화 ‘어벤져스: 둠스데이’, 티저 예고편 속 토르→돌아온 스티브 로저스까지…개봉일은?",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16140692"
-        }
-      ]
-    },
-    {
       "id": "치어리더",
-      "rank": 2,
+      "rank": 1,
       "keyword": "치어리더",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
+      "volumeLabel": "2000+",
+      "startedLabel": "5시간 전",
       "change": "up",
       "changeLabel": "+1",
       "summary": "급상승 시점에 '퀸즈아이 서빈,'시구 정말 잘했죠?' [사진]' (Daum) 관련 뉴스가 함께 포착됐어요.",
@@ -62,10 +34,10 @@
     },
     {
       "id": "남도일보",
-      "rank": 3,
+      "rank": 2,
       "keyword": "남도일보",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
+      "volumeLabel": "2000+",
+      "startedLabel": "6시간 전",
       "change": "up",
       "changeLabel": "+1",
       "summary": "급상승 시점에 '손훈모 순천시장 “시민과 함께 미래경제도시 만들 터”' (서울신문) 관련 뉴스가 함께 포착됐어요.",
@@ -82,188 +54,76 @@
           "url": "https://www.namdonews.com/news/articleView.html?idxno=917375"
         },
         {
-          "title": "[전남광주 주간정치] 오승용 “통합의대 결렬 시, 치킨게임 가능성…소지역주의 갈등 우려”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260720195612232"
+          "title": "[어반스케치 남도의 풍경] 광주천 뽕뽕다리[14]",
+          "source": "남도일보",
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=917365"
         }
       ]
     },
     {
-      "id": "정지선",
-      "rank": 4,
-      "keyword": "정지선",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 '2026년 창원아카데미, 정지선 토크콘서트 성황리 개최' (케이에스피뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "2026년 창원아카데미, 정지선 토크콘서트 성황리 개최",
-          "source": "케이에스피뉴스",
-          "url": ""
-        },
-        {
-          "title": "‘딤섬 여왕’ 정지선이 전한 도전과 성장…창원아카데미 성료",
-          "source": "한국금융경제신문",
-          "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=660681"
-        },
-        {
-          "title": "창원시, 정지선 셰프 토크콘서트 성황리 개최 > 뉴스",
-          "source": "더코리아",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "id": "유병호",
-      "rank": 5,
-      "keyword": "유병호",
+      "id": "요르단",
+      "rank": 3,
+      "keyword": "요르단",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘관저 이전 봐주기 감사’ 유병호 구속…“증거인멸 염려”' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '9일 연속 이란 공습한 미국···트럼프 “전사자들, 위대한 애국자”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘관저 이전 봐주기 감사’ 유병호 구속…“증거인멸 염려”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1269128.html"
+          "title": "9일 연속 이란 공습한 미국···트럼프 “전사자들, 위대한 애국자”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607201434011"
         },
         {
-          "title": "[속보] '윤석열 관저 이전 부실 감사' 유병호 위원 구속‥\"증거인멸 염려\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6838759_36918.html"
+          "title": "이라크서 미군 1명 추가 사망… 美·이란 전면전 위기 고조 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/07/21/2026072019515864135"
         },
         {
-          "title": "[속보] 법원, '관저 이전 봐주기 감사' 유병호 감사위원 구속영장 발부",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260720172500004"
+          "title": "‘바다의 드론’ 무인수상정, K방산 새 먹거리로",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721003451867"
         }
       ]
     },
     {
-      "id": "케빈-키건",
-      "rank": 6,
-      "keyword": "케빈 키건",
+      "id": "ps",
+      "rank": 4,
+      "keyword": "ps",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '잉글랜드 축구 레전드 케빈 키건, 암투병 끝 75세로 별세' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'PlayStation Patent Reveals Sony Looking Into Modular Controller With To…' (MP1st) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "잉글랜드 축구 레전드 케빈 키건, 암투병 끝 75세로 별세",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260721001200085"
+          "title": "PlayStation Patent Reveals Sony Looking Into Modular Controller With Touchscren Interface",
+          "source": "MP1st",
+          "url": "https://mp1st.com/news/playstation-patent-reveals-sony-looking-modular-controller-touchscren-interface"
         },
         {
-          "title": "잉글랜드 축구 전설 ’케빈 키건’ 별세…향년 75세",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR2026072101392236w"
+          "title": "PlayStation 6 DualSense 2.0 to feature modular design and touchscreen",
+          "source": "GameGPU",
+          "url": "https://en.gamegpu.com/news/zhelezo/dualsense-2-0-dlya-playstation-6-poluchit-modulnuyu-konstruktsiyu-i-sensornyj-ekran"
         },
         {
-          "title": "英 축구 안타까운 비보, '발롱도르 2회 수상' 키건 암 투병 끝에 향년 75세로 별세…\"전설 그 이상이었다\" 추모 물결",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/football/2026-07-21/202607210100123790007858"
+          "title": "Sony Patents PlayStation Modular Controller With Touchscreen Interface",
+          "source": "PlayStation Universe",
+          "url": "https://www.psu.com/news/sony-patents-playstation-modular-controller-with-touchscreen-interface/"
         }
       ]
     },
     {
-      "id": "은가은",
-      "rank": 7,
-      "keyword": "은가은",
+      "id": "스파이더맨-브랜드-뉴-데이",
+      "rank": 5,
+      "keyword": "스파이더맨 브랜드 뉴 데이",
       "volumeLabel": "200+",
       "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '박현호·은가은, '살림남' 뜬다…딸바보 일상 최초공개' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "박현호·은가은, '살림남' 뜬다…딸바보 일상 최초공개",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260720183037662"
-        },
-        {
-          "title": "은가은♥박현호 “쇼윈도·2년 내 이혼설?”…루머 직접 밝힌다",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260720/134325563/1"
-        },
-        {
-          "title": "\"2년안에 이혼할 것\"..은가은♥박현호, 루머 뚫고 딸과 '살림남' 합류 [공식]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/07/20/MQ2TEMJSG44TMZTBGU3GGN3DGM/"
-        }
-      ]
-    },
-    {
-      "id": "이동진",
-      "rank": 8,
-      "keyword": "이동진",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '봉준호 놀라운 질문에…나홍진 “호프, 서사라는 살 내주고 디테일 ‘뼈’ 얻어”' (한겨레) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "봉준호 놀라운 질문에…나홍진 “호프, 서사라는 살 내주고 디테일 ‘뼈’ 얻어”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/culture/culture_general/1269041.html"
-        },
-        {
-          "title": "‘호프’ 최단 기간 200만 돌파… 호불호 갈려도 흥행 질주",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260721011252096"
-        },
-        {
-          "title": "[AI박스오피스] '호프' 200만 돌파, 흥행 출발…'스파이더맨' 예매율 50% 육박",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260720000827"
-        }
-      ]
-    },
-    {
-      "id": "홍지민",
-      "rank": 9,
-      "keyword": "홍지민",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 ''말자쇼' 홍지민, 출산 후 30㎏ 감량 \"온갖 다이어트 다 해봐\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'말자쇼' 홍지민, 출산 후 30㎏ 감량 \"온갖 다이어트 다 해봐\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260720161855467?f=p"
-        },
-        {
-          "title": "홍지민 “출산 후 30kg 감량”…관리법 대공개 (말자쇼)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260720/134325852/1"
-        },
-        {
-          "title": "홍지민 \"독립운동가 父, 1년 반 수감…경제적 여유 없었다\" ('말자쇼')",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260720n34623"
-        }
-      ]
-    },
-    {
-      "id": "톰홀랜드",
-      "rank": 10,
-      "keyword": "톰홀랜드",
-      "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
       "summary": "급상승 시점에 '다시 예매 오픈 '스파이더맨: 브랜드 뉴 데이' 50% 육박 1위' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -278,9 +138,149 @@
           "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008664997"
         },
         {
-          "title": "[coming soon]",
-          "source": "씨네21",
-          "url": "https://cine21.com/news/view/?mag_id=110362"
+          "title": "개봉 D-9 '스파이더맨: 브랜드 뉴 데이', '호프' 꺾고 예매율 1위",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260720n25172"
+        }
+      ]
+    },
+    {
+      "id": "케빈-키건",
+      "rank": 6,
+      "keyword": "케빈 키건",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '잉글랜드 축구 레전드 케빈 키건, 암투병 끝 75세로 별세' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "잉글랜드 축구 레전드 케빈 키건, 암투병 끝 75세로 별세",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260721001200085"
+        },
+        {
+          "title": "잉글랜드 축구 전설 ’케빈 키건’ 별세…향년 75세",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR2026072101392236w"
+        },
+        {
+          "title": "발롱도르 2회 수상...잉글랜드 레전드 공격수 키건, 암투병 끝 별세",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260720111321974"
+        }
+      ]
+    },
+    {
+      "id": "유병호",
+      "rank": 7,
+      "keyword": "유병호",
+      "volumeLabel": "200+",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 ''윤석열 관저 이전 부실 감사' 유병호 위원 구속‥\"증거인멸 염려\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'윤석열 관저 이전 부실 감사' 유병호 위원 구속‥\"증거인멸 염려\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6838759_36918.html"
+        },
+        {
+          "title": "‘관저 감사 축소’ 유병호 감사위원 구속…특검, 김건희 겨눈다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721001409639"
+        },
+        {
+          "title": "[단독] “대통령실 연락 뒤 21그램 조사 번복”…‘관저 감사’ 유병호 구속",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8615482"
+        }
+      ]
+    },
+    {
+      "id": "은가은",
+      "rank": 8,
+      "keyword": "은가은",
+      "volumeLabel": "200+",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '은가은♥박현호 “쇼윈도·2년 내 이혼설?”…루머 직접 밝힌다' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "은가은♥박현호 “쇼윈도·2년 내 이혼설?”…루머 직접 밝힌다",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260720/134325563/1"
+        },
+        {
+          "title": "\"2년안에 이혼할 것\"..은가은♥박현호, 루머 뚫고 딸과 '살림남' 합류 [공식]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/07/20/MQ2TEMJSG44TMZTBGU3GGN3DGM/"
+        },
+        {
+          "title": "은가은♥박현호, '살림남' 합류, 신혼·육아 최초 공개",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260720n06160?mid=e1200"
+        }
+      ]
+    },
+    {
+      "id": "이동진",
+      "rank": 9,
+      "keyword": "이동진",
+      "volumeLabel": "200+",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '봉준호 놀라운 질문에…나홍진 “호프, 서사라는 살 내주고 디테일 ‘뼈’ 얻어”' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "봉준호 놀라운 질문에…나홍진 “호프, 서사라는 살 내주고 디테일 ‘뼈’ 얻어”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/culture/culture_general/1269041.html"
+        },
+        {
+          "title": "인구 418명 마을에 찾아온 희망…해남, 영화 성지 꿈꾼다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260720215428193"
+        },
+        {
+          "title": "영화 '호프' 개봉 5일째 2백만 관객 돌파...올해 최단기록",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0106_202607191627340071"
+        }
+      ]
+    },
+    {
+      "id": "대구광역시",
+      "rank": 10,
+      "keyword": "대구광역시",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '임인환 의장 “경청하는 의장 될 것, 무리한 시정엔 분명히 제동”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "임인환 의장 “경청하는 의장 될 것, 무리한 시정엔 분명히 제동”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260720144004676"
+        },
+        {
+          "title": "대구시의회, 21일 임시회 개회…조례안 등 8건 심의",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260608118851053"
+        },
+        {
+          "title": "[패트롤]대구시의회-영천시의회-경주시의회-경산시-계명대-iM뱅크",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20260720022203962"
         }
       ]
     }
