@@ -1,286 +1,281 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-20T19:14:57.791Z",
+  "updatedAt": "2026-07-20T20:50:05.055Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "치어리더",
+      "id": "삼성-엑시노스",
       "rank": 1,
-      "keyword": "치어리더",
-      "volumeLabel": "2000+",
-      "startedLabel": "5시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '퀸즈아이 서빈,'시구 정말 잘했죠?' [사진]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "삼성 엑시노스",
+      "volumeLabel": "10000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '삼성, ‘4대3 화면비’ 와이드 폴더블폰 선보인다' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "퀸즈아이 서빈,'시구 정말 잘했죠?' [사진]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260718182011133?f=m"
-        },
-        {
-          "title": "[사진]퀸즈아이 서하,'신나는 무대'",
+          "title": "삼성, ‘4대3 화면비’ 와이드 폴더블폰 선보인다",
           "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/07/18/GIYDQZRXGY2GMZBRMNQTCM3FHE/"
+          "url": "https://www.chosun.com/economy/tech_it/2026/07/20/6PGZDTU3KVCZLPA7JDWERZMN6I/"
         },
         {
-          "title": "해치 '기합과 함께'[포토]",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260718n08613"
+          "title": "공개 임박 삼성전자 8세대 갤럭시 Z…비메모리 반등 이끌까",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260716190800003"
+        },
+        {
+          "title": "삼성전자, 폴더블 다음 승부는 AI 생태계…22일 언팩서 미래 전략 공개",
+          "source": "스트레이트뉴스",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=307279"
         }
       ]
     },
     {
-      "id": "남도일보",
+      "id": "이혼",
       "rank": 2,
-      "keyword": "남도일보",
-      "volumeLabel": "2000+",
-      "startedLabel": "6시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '손훈모 순천시장 “시민과 함께 미래경제도시 만들 터”' (서울신문) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "이혼",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"이혼 도장 찍고 20일 뒤 85억 대박\"...당첨금 노리고 소송 나선 전남편의 최후' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "손훈모 순천시장 “시민과 함께 미래경제도시 만들 터”",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/publicnews/2026/07/20/20260720500109"
+          "title": "\"이혼 도장 찍고 20일 뒤 85억 대박\"...당첨금 노리고 소송 나선 전남편의 최후",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721043209516"
         },
         {
-          "title": "[자치 CEO칼럼] 높이보다 깊이로, 시민과 함께 지역 경제의 심장이 뛰게 하겠습니다",
-          "source": "남도일보",
-          "url": "https://www.namdonews.com/news/articleView.html?idxno=917375"
+          "title": "이혼 3주만 85억 복권당첨…전남편 “절반줘”소송의 결말",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11603756"
         },
         {
-          "title": "[어반스케치 남도의 풍경] 광주천 뽕뽕다리[14]",
-          "source": "남도일보",
-          "url": "https://www.namdonews.com/news/articleView.html?idxno=917365"
+          "title": "이혼 직후 '85억원' 복권 당첨된 여성…법원 \"전 남편 어떤 권리도 없다\"",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026072009594248130"
         }
       ]
     },
     {
-      "id": "요르단",
+      "id": "영아",
       "rank": 3,
-      "keyword": "요르단",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "keyword": "영아",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '9일 연속 이란 공습한 미국···트럼프 “전사자들, 위대한 애국자”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '어린이집 간 1살 영아 낮잠 자다 사망…“CCTV 사각지대서 2시간 방치” 엄마 울분' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "9일 연속 이란 공습한 미국···트럼프 “전사자들, 위대한 애국자”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607201434011"
-        },
-        {
-          "title": "이라크서 미군 1명 추가 사망… 美·이란 전면전 위기 고조 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/07/21/2026072019515864135"
-        },
-        {
-          "title": "‘바다의 드론’ 무인수상정, K방산 새 먹거리로",
+          "title": "어린이집 간 1살 영아 낮잠 자다 사망…“CCTV 사각지대서 2시간 방치” 엄마 울분",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260721003451867"
-        }
-      ]
-    },
-    {
-      "id": "ps",
-      "rank": 4,
-      "keyword": "ps",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'PlayStation Patent Reveals Sony Looking Into Modular Controller With To…' (MP1st) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "PlayStation Patent Reveals Sony Looking Into Modular Controller With Touchscren Interface",
-          "source": "MP1st",
-          "url": "https://mp1st.com/news/playstation-patent-reveals-sony-looking-modular-controller-touchscren-interface"
+          "url": "https://v.daum.net/v/20260720163739261"
         },
         {
-          "title": "PlayStation 6 DualSense 2.0 to feature modular design and touchscreen",
-          "source": "GameGPU",
-          "url": "https://en.gamegpu.com/news/zhelezo/dualsense-2-0-dlya-playstation-6-poluchit-modulnuyu-konstruktsiyu-i-sensornyj-ekran"
-        },
-        {
-          "title": "Sony Patents PlayStation Modular Controller With Touchscreen Interface",
-          "source": "PlayStation Universe",
-          "url": "https://www.psu.com/news/sony-patents-playstation-modular-controller-with-touchscreen-interface/"
-        }
-      ]
-    },
-    {
-      "id": "스파이더맨-브랜드-뉴-데이",
-      "rank": 5,
-      "keyword": "스파이더맨 브랜드 뉴 데이",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '다시 예매 오픈 '스파이더맨: 브랜드 뉴 데이' 50% 육박 1위' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "다시 예매 오픈 '스파이더맨: 브랜드 뉴 데이' 50% 육박 1위",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/tVy5yB71u2"
-        },
-        {
-          "title": "'스파이더맨 4', 심상치 않은 흥행 기운…'호프' 예매율·예매량, 두 배차로 압도",
+          "title": "낮잠 자다 심정지? 19개월 아기 사망…엄마의 절규",
           "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008664997"
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008665334"
         },
         {
-          "title": "개봉 D-9 '스파이더맨: 브랜드 뉴 데이', '호프' 꺾고 예매율 1위",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260720n25172"
+          "title": "\"낮잠 자리가 CCTV 사각지대였다\"…19개월 아들 잃은 어머니의 호소",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260720_0003715502"
         }
       ]
     },
     {
-      "id": "케빈-키건",
-      "rank": 6,
-      "keyword": "케빈 키건",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '잉글랜드 축구 레전드 케빈 키건, 암투병 끝 75세로 별세' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "잉글랜드 축구 레전드 케빈 키건, 암투병 끝 75세로 별세",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260721001200085"
-        },
-        {
-          "title": "잉글랜드 축구 전설 ’케빈 키건’ 별세…향년 75세",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR2026072101392236w"
-        },
-        {
-          "title": "발롱도르 2회 수상...잉글랜드 레전드 공격수 키건, 암투병 끝 별세",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260720111321974"
-        }
-      ]
-    },
-    {
-      "id": "유병호",
-      "rank": 7,
-      "keyword": "유병호",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 ''윤석열 관저 이전 부실 감사' 유병호 위원 구속‥\"증거인멸 염려\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'윤석열 관저 이전 부실 감사' 유병호 위원 구속‥\"증거인멸 염려\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6838759_36918.html"
-        },
-        {
-          "title": "‘관저 감사 축소’ 유병호 감사위원 구속…특검, 김건희 겨눈다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260721001409639"
-        },
-        {
-          "title": "[단독] “대통령실 연락 뒤 21그램 조사 번복”…‘관저 감사’ 유병호 구속",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8615482"
-        }
-      ]
-    },
-    {
-      "id": "은가은",
-      "rank": 8,
-      "keyword": "은가은",
-      "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '은가은♥박현호 “쇼윈도·2년 내 이혼설?”…루머 직접 밝힌다' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "은가은♥박현호 “쇼윈도·2년 내 이혼설?”…루머 직접 밝힌다",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260720/134325563/1"
-        },
-        {
-          "title": "\"2년안에 이혼할 것\"..은가은♥박현호, 루머 뚫고 딸과 '살림남' 합류 [공식]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/07/20/MQ2TEMJSG44TMZTBGU3GGN3DGM/"
-        },
-        {
-          "title": "은가은♥박현호, '살림남' 합류, 신혼·육아 최초 공개",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260720n06160?mid=e1200"
-        }
-      ]
-    },
-    {
-      "id": "이동진",
-      "rank": 9,
-      "keyword": "이동진",
-      "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '봉준호 놀라운 질문에…나홍진 “호프, 서사라는 살 내주고 디테일 ‘뼈’ 얻어”' (한겨레) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "봉준호 놀라운 질문에…나홍진 “호프, 서사라는 살 내주고 디테일 ‘뼈’ 얻어”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/culture/culture_general/1269041.html"
-        },
-        {
-          "title": "인구 418명 마을에 찾아온 희망…해남, 영화 성지 꿈꾼다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260720215428193"
-        },
-        {
-          "title": "영화 '호프' 개봉 5일째 2백만 관객 돌파...올해 최단기록",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0106_202607191627340071"
-        }
-      ]
-    },
-    {
-      "id": "대구광역시",
-      "rank": 10,
-      "keyword": "대구광역시",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
+      "id": "다우지수",
+      "rank": 4,
+      "keyword": "다우지수",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '임인환 의장 “경청하는 의장 될 것, 무리한 시정엔 분명히 제동”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[시사플랫폼] “우리 증시 변곡점 돌입…빅테크 기업실적에 따라 증시 영향”' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "임인환 의장 “경청하는 의장 될 것, 무리한 시정엔 분명히 제동”",
+          "title": "[시사플랫폼] “우리 증시 변곡점 돌입…빅테크 기업실적에 따라 증시 영향”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260720144004676"
+          "url": "https://v.daum.net/v/uumZ9XYCWp"
         },
         {
-          "title": "대구시의회, 21일 임시회 개회…조례안 등 8건 심의",
+          "title": "코스피 이번 주 '운명의 한 주'…알파벳·중동이 가른다",
+          "source": "주간조선",
+          "url": ""
+        },
+        {
+          "title": "빅테크, 이번 주부터 실적 발표…\"AI 지출 성과 시험대 올라\"",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260608118851053"
+          "url": "https://www.yna.co.kr/view/AKR20260720010500009"
+        }
+      ]
+    },
+    {
+      "id": "天气",
+      "rank": 5,
+      "keyword": "天气",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“去年之事这么快就忘了？”……加拿大反驳特朗普“山火关税”言论' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“去年之事这么快就忘了？”……加拿大反驳特朗普“山火关税”言论",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/cn/article/2026071918262071140"
         },
         {
-          "title": "[패트롤]대구시의회-영천시의회-경주시의회-경산시-계명대-iM뱅크",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20260720022203962"
+          "title": "极端天气今夏交叠，热浪洪水与山火烟霾笼罩北美| 乌克兰新闻",
+          "source": "Межа. Новини України.",
+          "url": "https://mezha.net/ch/bukvy/e772d9dc_climate_crisis_intensifies/"
+        },
+        {
+          "title": "吸入野火的煙霧會危害健康 如何保護自己？",
+          "source": "大纪元",
+          "url": "https://www.epochtimes.com/gb/26/7/19/n14812425.htm"
+        }
+      ]
+    },
+    {
+      "id": "장영란",
+      "rank": 6,
+      "keyword": "장영란",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Jang Young-ran stuns with youthful makeover, appears decades younger - …' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Jang Young-ran stuns with youthful makeover, appears decades younger - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-entertainment/2026/07/20/A2TRC4QPT5DRPATLKESDNUVVNU/"
+        },
+        {
+          "title": "Jang Young-ran's 20s-Like Appearance at Exhibition",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/kpop-culture-en/2026/07/20/TGCIYVJYQRAK5ASTL7AFEOYWTI/"
+        }
+      ]
+    },
+    {
+      "id": "회사",
+      "rank": 7,
+      "keyword": "회사",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'TSMC, 美 투자 400조로 늘렸다...\"AI 이제 시작\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "TSMC, 美 투자 400조로 늘렸다...\"AI 이제 시작\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721043001497"
+        },
+        {
+          "title": "TSMC도 증설 경쟁… 美투자 1000억달러 늘려",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20260721/134332692/2"
+        },
+        {
+          "title": "TSMC CFO, 주가 급락에 \"금융시장, 통제 영역 아냐\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4425744"
+        }
+      ]
+    },
+    {
+      "id": "가요무대",
+      "rank": 8,
+      "keyword": "가요무대",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘가요무대’ 출연진 김용빈→손빈아' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘가요무대’ 출연진 김용빈→손빈아",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260720173237522"
+        },
+        {
+          "title": "'가요무대' 오늘(20일) 라인업 공개…진성→정서주 '세대 초월' 무대 예고[Ce:스포]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260720n25353"
+        },
+        {
+          "title": "‘가요무대’ 가수 마이진·미스김·전유진 “나 항상 그대를” 입가에 맴도는 멜로디",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16140644"
+        }
+      ]
+    },
+    {
+      "id": "후티",
+      "rank": 9,
+      "keyword": "후티",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '예멘 후티 반군, 사우디 대상 해상 봉쇄 선언‥\"즉각 발효\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "예멘 후티 반군, 사우디 대상 해상 봉쇄 선언‥\"즉각 발효\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6838748_36925.html"
+        },
+        {
+          "title": "후티, 사우디에 해상 봉쇄 선언...호르무즈·홍해 '동시 차단' 우려",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202607210405509041"
+        },
+        {
+          "title": "“후티반군, 해상 봉쇄 선언”…브렌트유 90달러 재돌파",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260720222539510?f=p"
+        }
+      ]
+    },
+    {
+      "id": "พยากรณ-อากาศ",
+      "rank": 10,
+      "keyword": "พยากรณ อากาศ",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'เปิดพิกัดสีส้ม พื้นที่ภาคเหนือ เฝ้าระวังฝนตกหนัก- ดินโคลนถล่ม' (bangkokbiznews) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "เปิดพิกัดสีส้ม พื้นที่ภาคเหนือ เฝ้าระวังฝนตกหนัก- ดินโคลนถล่ม",
+          "source": "bangkokbiznews",
+          "url": "https://www.bangkokbiznews.com/news/news-update/1243919"
+        },
+        {
+          "title": "สทนช.เตือนแม่น้ำโขงเพิ่ม 1.30 เมตร จับตาฝนหนัก 21–25 ก.ค.",
+          "source": "TNN Thailand",
+          "url": "https://www.tnnthailand.com/tnnexclusive/241644/"
+        },
+        {
+          "title": "ในประเทศ - มาแล้ว!!! กรมอุตุฯคาดหมายอากาศ 7 วันข้างหน้า ตั้งแต่ 20-26 ก.ค.69",
+          "source": "แนวหน้า",
+          "url": "https://www.naewna.com/local/978462"
         }
       ]
     }
