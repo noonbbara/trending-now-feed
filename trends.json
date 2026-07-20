@@ -1,281 +1,270 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-20T20:50:05.055Z",
+  "updatedAt": "2026-07-20T22:07:47.112Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "삼성-엑시노스",
+      "id": "sk하이닉스",
       "rank": 1,
-      "keyword": "삼성 엑시노스",
-      "volumeLabel": "10000+",
+      "keyword": "sk하이닉스",
+      "volumeLabel": "20000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '삼성, ‘4대3 화면비’ 와이드 폴더블폰 선보인다' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'SK하이닉스 '30만 주주' 평단가 181만원…손실 구간 진입' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "삼성, ‘4대3 화면비’ 와이드 폴더블폰 선보인다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/07/20/6PGZDTU3KVCZLPA7JDWERZMN6I/"
-        },
-        {
-          "title": "공개 임박 삼성전자 8세대 갤럭시 Z…비메모리 반등 이끌까",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260716190800003"
-        },
-        {
-          "title": "삼성전자, 폴더블 다음 승부는 AI 생태계…22일 언팩서 미래 전략 공개",
-          "source": "스트레이트뉴스",
-          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=307279"
-        }
-      ]
-    },
-    {
-      "id": "이혼",
-      "rank": 2,
-      "keyword": "이혼",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"이혼 도장 찍고 20일 뒤 85억 대박\"...당첨금 노리고 소송 나선 전남편의 최후' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"이혼 도장 찍고 20일 뒤 85억 대박\"...당첨금 노리고 소송 나선 전남편의 최후",
+          "title": "SK하이닉스 '30만 주주' 평단가 181만원…손실 구간 진입",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260721043209516"
+          "url": "https://v.daum.net/v/20260720170451388"
         },
         {
-          "title": "이혼 3주만 85억 복권당첨…전남편 “절반줘”소송의 결말",
+          "title": "M7 파티 끝나나…엔비디아 내다 판 美 개미들 우르르 몰려간 종목은 바로",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20069734"
+        },
+        {
+          "title": "하닉 평균 181만원에 샀다…손실구간 목전",
           "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11603756"
-        },
-        {
-          "title": "이혼 직후 '85억원' 복권 당첨된 여성…법원 \"전 남편 어떤 권리도 없다\"",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026072009594248130"
+          "url": "https://www.munhwa.com/article/11603541"
         }
       ]
     },
     {
-      "id": "영아",
+      "id": "자동차",
+      "rank": 2,
+      "keyword": "자동차",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"행정 실수인데 가산세 내라고요\"…자동차세 고지 행정 실수 납세자 전가 '황당'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"행정 실수인데 가산세 내라고요\"…자동차세 고지 행정 실수 납세자 전가 '황당'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/pw5K6EAisL?f=p"
+        },
+        {
+          "title": "당진시, 제1기분 자동차세 독촉장 발송 - 보도자료 | 기사",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/releasecopy/2344794.htm"
+        },
+        {
+          "title": "당진시, 제1기분 자동차세 독촉장 발송",
+          "source": "금강일보",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1170056"
+        }
+      ]
+    },
+    {
+      "id": "안세영",
       "rank": 3,
-      "keyword": "영아",
+      "keyword": "안세영",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[오피셜] 안세영 안타까운 소식…중국 오픈 출전 명단서 결국 빠졌다→세계선수권·AG 위해 회복 집중' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[오피셜] 안세영 안타까운 소식…중국 오픈 출전 명단서 결국 빠졌다→세계선수권·AG 위해 회복 집중",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260721n00601"
+        },
+        {
+          "title": "멈춰선 '배드민턴 퀸'…안세영, 발 부상으로 일본오픈 기권",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260715125900007"
+        },
+        {
+          "title": "'안세영 기권' 배드민턴 일본 오픈, 한국 남녀 복식 우승 도전",
+          "source": "MSN",
+          "url": "https://www.msn.com/ko-kr/sports/%EC%9D%BC%EB%B0%98/%EC%95%88%EC%84%B8%EC%98%81-%EA%B8%B0%EA%B6%8C-%EB%B0%B0%EB%93%9C%EB%AF%BC%ED%84%B4-%EC%9D%BC%EB%B3%B8-%EC%98%A4%ED%94%88-%ED%95%9C%EA%B5%AD-%EB%82%A8%EB%85%80-%EB%B3%B5%EC%8B%9D-%EC%9A%B0%EC%8A%B9-%EB%8F%84%EC%A0%84/ar-AA289zhK"
+        }
+      ]
+    },
+    {
+      "id": "สภาพอากาศ",
+      "rank": 4,
+      "keyword": "สภาพอากาศ",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'เตือนระลอกใหม่! สทนช. เผย 21-25 ก.ค. นี้ ไทยเจอฝนถล่มหนักเพิ่มขึ้น' (bangkokbiznews) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "เตือนระลอกใหม่! สทนช. เผย 21-25 ก.ค. นี้ ไทยเจอฝนถล่มหนักเพิ่มขึ้น",
+          "source": "bangkokbiznews",
+          "url": "https://www.bangkokbiznews.com/news/news-update/1243950"
+        },
+        {
+          "title": "พยากรณ์ฝนล่วงหน้า! เตือนฝนเพิ่มขึ้น-ฝนตกหนักบางแห่ง ช่วง 20-25 ก.ค.นี้",
+          "source": "pptvhd36",
+          "url": "https://www.pptvhd36.com/news/%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1/279954"
+        },
+        {
+          "title": "กรมอุตุนิยมวิทยา. . คาดการณ์ล่วงหน้า!!! ฝนจะมีเพิ่มขึ้น การกระจายตัวของฝนเพิ่มขึ้น ในบางพื้นที่ ช่วงวันที่ 22-25 ก.ค.69 #กรมอุตุนิยมวิทยา #พยากรณ์อากาศ #ดิจิทัลเพื่อเศรษฐกิจและสังคม",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/tmd.go.th/videos/%E0%B8%84%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%A5%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2-%E0%B8%9D%E0%B8%99%E0%B8%88%E0%B8%B0%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9D%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99-%E0%B9%83%E0%B8%99%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%99/1054023250356820/"
+        }
+      ]
+    },
+    {
+      "id": "박수홍",
+      "rank": 5,
+      "keyword": "박수홍",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '어린이집 간 1살 영아 낮잠 자다 사망…“CCTV 사각지대서 2시간 방치” 엄마 울분' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "어린이집 간 1살 영아 낮잠 자다 사망…“CCTV 사각지대서 2시간 방치” 엄마 울분",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260720163739261"
-        },
-        {
-          "title": "낮잠 자다 심정지? 19개월 아기 사망…엄마의 절규",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008665334"
-        },
-        {
-          "title": "\"낮잠 자리가 CCTV 사각지대였다\"…19개월 아들 잃은 어머니의 호소",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260720_0003715502"
-        }
-      ]
+      "newsSignals": []
     },
     {
-      "id": "다우지수",
-      "rank": 4,
-      "keyword": "다우지수",
+      "id": "교사",
+      "rank": 6,
+      "keyword": "교사",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[시사플랫폼] “우리 증시 변곡점 돌입…빅테크 기업실적에 따라 증시 영향”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '학생부는 '복붙'·학폭 상담은 '누락'‥서울교육청 관리 부실' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[시사플랫폼] “우리 증시 변곡점 돌입…빅테크 기업실적에 따라 증시 영향”",
+          "title": "학생부는 '복붙'·학폭 상담은 '누락'‥서울교육청 관리 부실",
           "source": "Daum",
-          "url": "https://v.daum.net/v/uumZ9XYCWp"
+          "url": "https://v.daum.net/v/20260720204614093"
         },
         {
-          "title": "코스피 이번 주 '운명의 한 주'…알파벳·중동이 가른다",
-          "source": "주간조선",
-          "url": ""
-        },
-        {
-          "title": "빅테크, 이번 주부터 실적 발표…\"AI 지출 성과 시험대 올라\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260720010500009"
-        }
-      ]
-    },
-    {
-      "id": "天气",
-      "rank": 5,
-      "keyword": "天气",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“去年之事这么快就忘了？”……加拿大反驳特朗普“山火关税”言论' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“去年之事这么快就忘了？”……加拿大反驳特朗普“山火关税”言论",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/cn/article/2026071918262071140"
-        },
-        {
-          "title": "极端天气今夏交叠，热浪洪水与山火烟霾笼罩北美| 乌克兰新闻",
-          "source": "Межа. Новини України.",
-          "url": "https://mezha.net/ch/bukvy/e772d9dc_climate_crisis_intensifies/"
-        },
-        {
-          "title": "吸入野火的煙霧會危害健康 如何保護自己？",
-          "source": "大纪元",
-          "url": "https://www.epochtimes.com/gb/26/7/19/n14812425.htm"
-        }
-      ]
-    },
-    {
-      "id": "장영란",
-      "rank": 6,
-      "keyword": "장영란",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Jang Young-ran stuns with youthful makeover, appears decades younger - …' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Jang Young-ran stuns with youthful makeover, appears decades younger - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-entertainment/2026/07/20/A2TRC4QPT5DRPATLKESDNUVVNU/"
-        },
-        {
-          "title": "Jang Young-ran's 20s-Like Appearance at Exhibition",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/kpop-culture-en/2026/07/20/TGCIYVJYQRAK5ASTL7AFEOYWTI/"
-        }
-      ]
-    },
-    {
-      "id": "회사",
-      "rank": 7,
-      "keyword": "회사",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'TSMC, 美 투자 400조로 늘렸다...\"AI 이제 시작\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "TSMC, 美 투자 400조로 늘렸다...\"AI 이제 시작\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260721043001497"
-        },
-        {
-          "title": "TSMC도 증설 경쟁… 美투자 1000억달러 늘려",
+          "title": "반전체 학생부에 ‘600자 의견’ 복붙한 교사들",
           "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260721/134332692/2"
+          "url": "https://www.donga.com/news/Politics/article/all/20260720/134328136/1"
         },
         {
-          "title": "TSMC CFO, 주가 급락에 \"금융시장, 통제 영역 아냐\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4425744"
+          "title": "생기부 ‘복붙’하고 학폭 기록은 삭제…감사원, 서울교육청 부실 관리 적발",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607202233005"
         }
       ]
     },
     {
-      "id": "가요무대",
+      "id": "통합특별시",
+      "rank": 7,
+      "keyword": "통합특별시",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“추석 전에 1인당 20만원 지급한다”…민생지원금 소식 들리자 난리 났다는데' (서울경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“추석 전에 1인당 20만원 지급한다”…민생지원금 소식 들리자 난리 났다는데",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20068873"
+        },
+        {
+          "title": "[현장in] '전 시민에 20만원'…속초시 민생회복지원금 지급 시작",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260720153851553"
+        },
+        {
+          "title": "'민생지원금 4차 지급일 챙기자'...추석 전 최고 1인당 30만 원",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3639482"
+        }
+      ]
+    },
+    {
+      "id": "황강댐",
       "rank": 8,
-      "keyword": "가요무대",
-      "volumeLabel": "200+",
+      "keyword": "황강댐",
+      "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘가요무대’ 출연진 김용빈→손빈아' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '北, 임진강 상류 황강댐 방류…이번에도 사전통보 없어' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘가요무대’ 출연진 김용빈→손빈아",
+          "title": "北, 임진강 상류 황강댐 방류…이번에도 사전통보 없어",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260720173237522"
+          "url": "https://v.daum.net/v/3MTeqcNdXl"
         },
         {
-          "title": "'가요무대' 오늘(20일) 라인업 공개…진성→정서주 '세대 초월' 무대 예고[Ce:스포]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260720n25353"
+          "title": "임진강 필승교 수위 2.7ｍ로 상승…북한 황강댐 방류 영향",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260721011500060"
         },
         {
-          "title": "‘가요무대’ 가수 마이진·미스김·전유진 “나 항상 그대를” 입가에 맴도는 멜로디",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16140644"
+          "title": "기후부 \"北 황강댐 일부 방류 추정\"…접경지역 대응 강화",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260720_0003715986"
         }
       ]
     },
     {
-      "id": "후티",
+      "id": "schd",
       "rank": 9,
-      "keyword": "후티",
+      "keyword": "schd",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '예멘 후티 반군, 사우디 대상 해상 봉쇄 선언‥\"즉각 발효\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Why Retirees Are Quietly Moving From SCHD to These Two International Di…' (Yahoo Finance) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "예멘 후티 반군, 사우디 대상 해상 봉쇄 선언‥\"즉각 발효\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6838748_36925.html"
+          "title": "Why Retirees Are Quietly Moving From SCHD to These Two International Dividend ETFs Paying More Yield",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-retirees-quietly-moving-schd-203135788.html"
         },
         {
-          "title": "후티, 사우디에 해상 봉쇄 선언...호르무즈·홍해 '동시 차단' 우려",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202607210405509041"
+          "title": "SCHD: Why I'm Still Buying After Strong 2026 Performance (NYSEARCA:SCHD)",
+          "source": "Seeking Alpha",
+          "url": "https://seekingalpha.com/article/4923336-schd-etf-i-am-still-buying-after-strong-2026-performance"
         },
         {
-          "title": "“후티반군, 해상 봉쇄 선언”…브렌트유 90달러 재돌파",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260720222539510?f=p"
+          "title": "This Dividend ETF Yields 3.2% and Is Beating the Nasdaq-100 This Year",
+          "source": "The Motley Fool",
+          "url": "https://www.fool.com/investing/2026/07/18/this-dividend-etf-yields-319-and-is-beating-the-na/"
         }
       ]
     },
     {
-      "id": "พยากรณ-อากาศ",
+      "id": "대구백화점",
       "rank": 10,
-      "keyword": "พยากรณ อากาศ",
+      "keyword": "대구백화점",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'เปิดพิกัดสีส้ม พื้นที่ภาคเหนือ เฝ้าระวังฝนตกหนัก- ดินโคลนถล่ม' (bangkokbiznews) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[대백 82년, 갈림길에 서다-하] “대월동화·제일서적·만경관”…대구 시민의 하루를 만든 기업들' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "เปิดพิกัดสีส้ม พื้นที่ภาคเหนือ เฝ้าระวังฝนตกหนัก- ดินโคลนถล่ม",
-          "source": "bangkokbiznews",
-          "url": "https://www.bangkokbiznews.com/news/news-update/1243919"
+          "title": "[대백 82년, 갈림길에 서다-하] “대월동화·제일서적·만경관”…대구 시민의 하루를 만든 기업들",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260720190112289"
         },
         {
-          "title": "สทนช.เตือนแม่น้ำโขงเพิ่ม 1.30 เมตร จับตาฝนหนัก 21–25 ก.ค.",
-          "source": "TNN Thailand",
-          "url": "https://www.tnnthailand.com/tnnexclusive/241644/"
+          "title": "대구백화점, 57년 만에 주인 바뀐다",
+          "source": "서울Pn",
+          "url": "https://go.seoul.co.kr/news/newsView.php?id=20260721016005"
         },
         {
-          "title": "ในประเทศ - มาแล้ว!!! กรมอุตุฯคาดหมายอากาศ 7 วันข้างหน้า ตั้งแต่ 20-26 ก.ค.69",
-          "source": "แนวหน้า",
-          "url": "https://www.naewna.com/local/978462"
+          "title": "유통·부동산 시장의 몰락…`TK 디스카운트` 참담한 현실",
+          "source": "매일신문",
+          "url": "https://www.imaeil.com/page/view/2026072015220759606"
         }
       ]
     }
