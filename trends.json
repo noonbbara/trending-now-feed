@@ -1,276 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-21T21:19:40.412Z",
+  "updatedAt": "2026-07-21T22:29:12.691Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "현대자동차",
+      "id": "박나래",
       "rank": 1,
-      "keyword": "현대자동차",
-      "volumeLabel": "2000+",
+      "keyword": "박나래",
+      "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '현대차그룹 월드컵 영상 3억뷰 돌파...광고효과 '수십조원' 기대 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''폭로 안할테니 매출 10% 달라' 요구한 박나래 전 매니저 구속' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "현대차그룹 월드컵 영상 3억뷰 돌파...광고효과 '수십조원' 기대 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/07/22/2026072114470712217"
-        },
-        {
-          "title": "'정규직 로봇' 출근 코앞…車 생산라인 변화 가속",
+          "title": "'폭로 안할테니 매출 10% 달라' 요구한 박나래 전 매니저 구속",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20260721000700038"
+          "url": "https://www.yna.co.kr/view/AKR20260721094200004"
         },
         {
-          "title": "\"아틀라스 뭐하니? 30만현차 실화냐?\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202607211135092690"
+          "title": "[잇슈 컬처] “폭로 막으려면 매출 10% 줘”…박나래 전 매니저 구속",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260722070010775"
+        },
+        {
+          "title": "[스경X이슈] ‘前 매니저 구속’ 박나래 갑질 의혹 새 국면 …흔들리는 폭로 신빙성",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202607211729013"
         }
       ]
     },
     {
-      "id": "사관학교",
+      "id": "커피",
       "rank": 2,
-      "keyword": "사관학교",
+      "keyword": "커피",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[기고]‘국군사관학교 창설 지지선언문’에 대한 6가지 반론' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Five Cups of Coffee a Day Is Fine for Most Adults, Heart Association Sa…' (WSJ) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[기고]‘국군사관학교 창설 지지선언문’에 대한 6가지 반론",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11603769"
+          "title": "Five Cups of Coffee a Day Is Fine for Most Adults, Heart Association Says",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/health/wellness/coffee-study-american-heart-association-ab2f6b8c"
         },
         {
-          "title": "“80년 해사도 진해 떠나나”…술렁이는 군항도시",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260720215655213?f=p"
+          "title": "Coffee may lower heart risk; new FDA-approved tech helps spinal cord injuries",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/atlanta/video/coffee-may-lower-heart-risk-new-fda-approved-tech-helps-spinal-cord-injuries/"
         },
         {
-          "title": "예비역장군단과 국군사관학교 창설 지지 선언하는 민주당 박선원 의원",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260720083900013"
+          "title": "Caffeine and Cardiovascular Disease",
+          "source": "professional.heart.org",
+          "url": "https://professional.heart.org/en/science-news/caffeine-and-cardiovascular-disease"
         }
       ]
     },
     {
-      "id": "유시민",
+      "id": "민지",
       "rank": 3,
-      "keyword": "유시민",
-      "volumeLabel": "500+",
+      "keyword": "민지",
+      "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '박지원, ‘또 방송 예고’ 유시민에 “돕지 못할망정 쪽박은…”' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '뉴진스, 데뷔 4주년에 민지 포함 4인 영상…활동 청신호 켜졌나' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "박지원, ‘또 방송 예고’ 유시민에 “돕지 못할망정 쪽박은…”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1269142.html"
-        },
-        {
-          "title": "유시민 \"뉴이재명 행동, '자칭 친명'의 난동 아닌 대통령 기획\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260722054500480"
-        },
-        {
-          "title": "주진우 기자 “유시민 발언 지식인 고뇌 담겨…동의는 안해”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11604060"
-        }
-      ]
-    },
-    {
-      "id": "오현규",
-      "rank": 4,
-      "keyword": "오현규",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“살라는 동의했는데 에이전트가 35% 요구” 베식타스행 무산 주장…오현규도 반전 맞았다' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“살라는 동의했는데 에이전트가 35% 요구” 베식타스행 무산 주장…오현규도 반전 맞았다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260721005011988"
-        },
-        {
-          "title": "\"이번 회담에서 합의 이뤄질 가능성 높아\"…'파라오' 살라 패스→오현규 득점 본다! \"영입 위한 카운트다운에 들어가\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260722n00977"
-        },
-        {
-          "title": "\"살라와 구두 합의\" 베식타시 초대형 영입설…오현규 입지 흔들리면 PL 도전 나서나",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/07/19/GVTDIYLBMUYWGYJVGQYDAOLCMI/"
-        }
-      ]
-    },
-    {
-      "id": "나-혼자-산다",
-      "rank": 5,
-      "keyword": "나 혼자 산다",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '기안84, 마음고생 심했나..\"자책 많이 해\" 결국 '눈물'(나혼산)[순간포착] - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "기안84, 마음고생 심했나..\"자책 많이 해\" 결국 '눈물'(나혼산)[순간포착] - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/07/21/GFSGGZTCMJSTANBVMI2DIMTEGQ/"
-        },
-        {
-          "title": "기안84 '찐런 크루' 통했다…MBC '나 혼자 산다' 2054 시청률 6주 연속 1위",
-          "source": "MBC",
-          "url": "https://m.imbc.com/enews/view/512089"
-        },
-        {
-          "title": "연예인 호의호식→호화 집자랑 빼니 통했다…'나혼산' 6주 연속 시청률 1위",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/0ZTex1XSZD"
-        }
-      ]
-    },
-    {
-      "id": "이자",
-      "rank": 6,
-      "keyword": "이자",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 '“올 것이 왔다”…‘금리 8% 시대’ 되면 벌어지는 일' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“올 것이 왔다”…‘금리 8% 시대’ 되면 벌어지는 일",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/U9inj0tWFM"
-        },
-        {
-          "title": "영끌해서 집샀더니 고금리에 실직까지…채무조정 기준은 '6억'에 꽁꽁",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01905686645517144"
-        },
-        {
-          "title": "금리 인상기인데도 변동금리 선택하는 ‘역주행 대출’ 5년래 최고… “추후 금리 상승 폭 고려해야”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/economy_general/2026/07/20/NPMR2B4YTNBARHGKXTNJIRAY4Y/"
-        }
-      ]
-    },
-    {
-      "id": "대만",
-      "rank": 7,
-      "keyword": "대만",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '대만검찰, 반도체기밀 유출 시도 TSMC 前직원에 징역 7년형 구형' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "대만검찰, 반도체기밀 유출 시도 TSMC 前직원에 징역 7년형 구형",
+          "title": "뉴진스, 데뷔 4주년에 민지 포함 4인 영상…활동 청신호 켜졌나",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260721103800009"
+          "url": "https://www.yna.co.kr/view/AKR20260721186000005"
         },
         {
-          "title": "전 TSMC 직원, 영업비밀 절취 혐의로 기소... 中 유출 의도",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2020891"
-        },
-        {
-          "title": "TSMC 기밀 중국에 넘기려다 덜미…대만 검찰, 前직원 징역 7년 구형",
+          "title": "'수백억 소송 中' 다니엘, 침묵 깼다…\"삶 때론 흐려, 빛 다시 온다\" [MD★스타]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260721143938305"
+          "url": "https://v.daum.net/v/20260722064152554"
+        },
+        {
+          "title": "민지 손잡은 뉴진스…‘퇴출’ 다니엘은 “인생이 흐려질 때 있지만 빛은 찾아온다”",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10815636"
         }
       ]
     },
     {
-      "id": "พยากรณ-อากาศ",
+      "id": "백하나",
+      "rank": 4,
+      "keyword": "백하나",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '女 복식 세계 4위 이소희-백하나, 중국 오픈 32강 힘겹게 통과…25위 장징휘-양징툰에 2-1 역전승' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "女 복식 세계 4위 이소희-백하나, 중국 오픈 32강 힘겹게 통과…25위 장징휘-양징툰에 2-1 역전승",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/YPMdbXYC3H"
+        },
+        {
+          "title": "배드민턴: 백하나-이소희, 여자 복식 16강 진출 - BWF 중국오픈 2026",
+          "source": "Olympic Channel",
+          "url": "https://www.olympics.com/ko/news/baek-hana-lee-sohee-womens-doubles-round32-bwf-china-open-2026"
+        },
+        {
+          "title": "韓 배드민턴 충격패, 中 기권→절호의 우승 찬스 놓쳤다…'여복 세계 3위' 백하나-이소희, 21위 美 듀오에 1-2 역전패",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260716n29745"
+        }
+      ]
+    },
+    {
+      "id": "재건축",
+      "rank": 5,
+      "keyword": "재건축",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '노원구 “상계주공6단지 재건축 정비계획안 주민 설명회 개최”' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "노원구 “상계주공6단지 재건축 정비계획안 주민 설명회 개최”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11604100"
+        },
+        {
+          "title": "노원구, 상계주공6단지(3573세대 건립) 재건축 정비계획안 주민 설명회 개최",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10815626"
+        },
+        {
+          "title": "49층 대단지 변신 상계주공6, '국평' 가려면 분담금 7~8억 쇼크",
+          "source": "땅집고",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/07/20/2026072002761.html"
+        }
+      ]
+    },
+    {
+      "id": "skhy",
+      "rank": 6,
+      "keyword": "skhy",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Samsung Electronics, SK hynix rebound on higher U.S. chip stocks' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Samsung Electronics, SK hynix rebound on higher U.S. chip stocks",
+          "source": "매일경제",
+          "url": "https://pulse.mk.co.kr/news/english/12103153"
+        },
+        {
+          "title": "KRX activates buy-side sidecar for KOSPI on sharp rise",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/AEN20260721005600320"
+        },
+        {
+          "title": "KOSPI Flat After Early Gains, KOSDAQ Turns Lower",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/en/article/market-overview/2026072109523655057"
+        }
+      ]
+    },
+    {
+      "id": "오늘날씨",
+      "rank": 7,
+      "keyword": "오늘날씨",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '중부 시간당 30㎜ 강한 비…남부는 낮 최고 '37도' 무더위(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "중부 시간당 30㎜ 강한 비…남부는 낮 최고 '37도' 무더위(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260722063140409"
+        },
+        {
+          "title": "전국 대부분 비·낮 최고 37도…계속되는 무더위",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260722008400034"
+        },
+        {
+          "title": "[날씨] \"30km 차이가 폭우 갈랐다\"...장맛비 예측 어려운 이유는?",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0108_202607220224060408"
+        }
+      ]
+    },
+    {
+      "id": "소유진",
       "rank": 8,
-      "keyword": "พยากรณ อากาศ",
+      "keyword": "소유진",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '소유진 딸, '100만 뷰' 쇼츠 장인…백종원 닮은 외모에 엄마끼 물려받아' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "소유진 딸, '100만 뷰' 쇼츠 장인…백종원 닮은 외모에 엄마끼 물려받아",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qLaAQu0HwO"
+        },
+        {
+          "title": "[연재] 엑스포츠뉴스 '★해시태그'",
+          "source": "ZUM 뉴스",
+          "url": "https://news.zum.com/photo/58248214/106763562"
+        },
+        {
+          "title": "소유진, 백종원 닮은 막내딸 공개…훌쩍 큰 근황",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260721_0003716590"
+        }
+      ]
+    },
+    {
+      "id": "보스턴다이내믹스",
+      "rank": 9,
+      "keyword": "보스턴다이내믹스",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[김보형의 뷰파인더] 보스턴다이내믹스 美 상장 '파란불현대차그룹 지배구조 개편 나서나' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[김보형의 뷰파인더] 보스턴다이내믹스 美 상장 '파란불현대차그룹 지배구조 개편 나서나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721080537898"
+        },
+        {
+          "title": "[만화경] 토이스토리와 아틀라스",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20070172"
+        },
+        {
+          "title": "거버넌스포럼 “현대차 비핵심 자산 1.7조 팔아 주주에게 돌려야”",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1124418"
+        }
+      ]
+    },
+    {
+      "id": "공소장",
+      "rank": 10,
+      "keyword": "공소장",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'ประจำวันที่ 20 กรกฎาคม 2569 23.00 น.' (กรมอุตุนิยมวิทยา) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '검사 서명 없이 공소장 제출… 6건 줄줄이 공소기각' (법률신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "ประจำวันที่ 20 กรกฎาคม 2569 23.00 น.",
-          "source": "กรมอุตุนิยมวิทยา",
-          "url": "https://www.tmd.go.th/forecast/daily/210720260000"
-        }
-      ]
-    },
-    {
-      "id": "강예원",
-      "rank": 9,
-      "keyword": "강예원",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''11억 빚 고백' 강예원, 확 달라진 분위기' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'11억 빚 고백' 강예원, 확 달라진 분위기",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260721_0003716965"
+          "title": "검사 서명 없이 공소장 제출… 6건 줄줄이 공소기각",
+          "source": "법률신문",
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=223691"
         },
         {
-          "title": "“눈 성형만 7번”…강예원, ‘복원 수술’ 후 확 바뀐 근황",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12103254"
+          "title": "[자막뉴스] \"퇴직해서 사인 못해\" '황당' 변명…재판도 못하고 다 풀려났다",
+          "source": "SBS 뉴스",
+          "url": "https://m.news.sbs.co.kr/news/endPage.do?newsId=N1008667808"
         },
         {
-          "title": "'앞트임 복원' 강예원, 누군지 못 알아보겠네…48세 안 믿기는 역대급 동안 비주얼",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260721134250841"
-        }
-      ]
-    },
-    {
-      "id": "구속",
-      "rank": 10,
-      "keyword": "구속",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[속보]잠실 개표소 홀로 막은 ‘올다르크’ 구속영장 기각' (문화일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[속보]잠실 개표소 홀로 막은 ‘올다르크’ 구속영장 기각",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11604072"
-        },
-        {
-          "title": "‘올다르크’ 구속영장 기각… 법원 “증거인멸·도주 우려 없다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260722054537486"
-        },
-        {
-          "title": "'잠실 개표소 봉쇄' 피의자 동부지법 영장심사 출석",
+          "title": "검사 서명 빠뜨린 공소장에 법원 \"무효\"…줄줄이 '공소기각'",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260721122100013"
+          "url": "https://www.yna.co.kr/view/AKR20260721143800004"
         }
       ]
     }
