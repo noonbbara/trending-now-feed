@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-21T17:54:45.075Z",
+  "updatedAt": "2026-07-21T19:43:16.439Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,16 +9,16 @@
       "rank": 1,
       "keyword": "다이 소",
       "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '\"운동 후 한 잔도 1000원\"…다이소 또 가격파괴' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "\"운동 후 한 잔도 1000원\"…다이소 또 가격파괴",
           "source": "Daum",
-          "url": "https://v.daum.net/v/bgWoMx6b5W"
+          "url": "https://v.daum.net/v/20260721082708471"
         },
         {
           "title": "품절, 품절, 품절…\"이게 1000원?\" 다이소 또 터졌다",
@@ -36,66 +36,122 @@
       "id": "악어",
       "rank": 2,
       "keyword": "악어",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] 여주 80㎝ 악어, 알고 보니 ‘국제 멸종 위기종’' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "volumeLabel": "1000+",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '여주 소양천서 잡힌 악어는 국제 멸종위기종 '샴악어'' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "[단독] 여주 80㎝ 악어, 알고 보니 ‘국제 멸종 위기종’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/YQXsM0FYTU"
-        },
         {
           "title": "여주 소양천서 잡힌 악어는 국제 멸종위기종 '샴악어'",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260721182100061"
         },
         {
-          "title": "[단독] 여주 도심 하천에 나타난 악어…생포까지 긴박했던 42분",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260720580062"
+          "title": "[현장영상] \"AI 영상 아니었어?\"…여주 하천서 발견된 '진짜 악어'",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008666546"
+        },
+        {
+          "title": "여주 하천서 포획 악어, 국제 멸종위기종이었다…\"최대 4m까지 성장\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/07/21/2026072121243967000"
         }
       ]
     },
     {
-      "id": "시리아",
+      "id": "이자",
       "rank": 3,
-      "keyword": "시리아",
+      "keyword": "이자",
       "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '지중해에서 사라진 러시아 해군… 13년 만의 공백에 글로벌 물류망 비상' (글로벌이코노믹) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '울산 시금고 금리 최대 0.38%p 인상… 연 30억 이자수입 추가 확보' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "지중해에서 사라진 러시아 해군… 13년 만의 공백에 글로벌 물류망 비상",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/07/202607191615311267fbbec65dfb_1"
+          "title": "울산 시금고 금리 최대 0.38%p 인상… 연 30억 이자수입 추가 확보",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721153701712"
         },
         {
-          "title": "서방은 러시아를 위해 마지막이자 가장 위험한 함정을 설치했다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/phuong-tay-da-giang-bay-cuoi-cung-nguy-hiem-nhat-cho-nga"
+          "title": "울산시 금고 경남은행·농협은행, 예금금리 상향 조정",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1124218"
         },
         {
-          "title": "우크라이나, 러시아 83개 지역 모두 무릎 꿇렸다",
-          "source": "MSN",
-          "url": "https://www.msn.com/ko-kr/news/other/%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98-%EB%9F%AC%EC%8B%9C%EC%95%84-83%EA%B0%9C-%EC%A7%80%EC%97%AD-%EB%AA%A8%EB%91%90-%EB%AC%B4%EB%A6%8E-%EA%BF%87%EB%A0%B8%EB%8B%A4/vi-AA285qH9?cvid=6a5ac1aa932f429392ae66a096b13993&ocid=hpmsn"
+          "title": "김상욱 울산시장, ‘시금고 재정 혁신’",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030139789&code=61122021&sid1=prj"
+        }
+      ]
+    },
+    {
+      "id": "전쟁",
+      "rank": 4,
+      "keyword": "전쟁",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '홍해 봉쇄선언 후티 “사우디 오가는 모든 선박 표적”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "홍해 봉쇄선언 후티 “사우디 오가는 모든 선박 표적”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260722043505794"
+        },
+        {
+          "title": "사우디 원유선 2척 홍해서 ‘유턴’…후티 위협 현실화",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20260722/134340947/1"
+        },
+        {
+          "title": "예멘 후티 반군 \"사우디 항구 이용 시 표적될 것\"‥해운사에 경고",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6839051_36925.html"
+        }
+      ]
+    },
+    {
+      "id": "스파이더맨-브랜드-뉴-데이",
+      "rank": 5,
+      "keyword": "스파이더맨 브랜드 뉴 데이",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '541m 위에서 히어로 데뷔…서울스카이에 '스파이더맨' 떴다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "541m 위에서 히어로 데뷔…서울스카이에 '스파이더맨' 떴다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721090640685"
+        },
+        {
+          "title": "'스파이더맨: 브랜드 뉴 데이', 팝업 첫날부터 2천명 넘었다...여의도에 뜬 '친절한 이웃'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/movie/2026/07/21/GNQTGOLBMM2TGN3CGE3WKMDBGY/"
+        },
+        {
+          "title": "‘스파이더맨’은 폭염 수칙, ‘엘사’는 폭우 예보",
+          "source": "ER 이코노믹리뷰",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=745697"
         }
       ]
     },
     {
       "id": "앤서니-테일러",
-      "rank": 4,
+      "rank": 6,
       "keyword": "앤서니 테일러",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '[오피셜] '2022 WC 가나전 코너킥 없이 끝→벤투 퇴장' 앤서니 테일러 심판 은퇴 발표…\"압박감 심했어, 도와준 동료들과 …' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -110,20 +166,48 @@
           "url": "https://www.sportschosun.com/football/2026-07-22/202607220100131940008393"
         },
         {
-          "title": "[공식 발표] 벤투 감독 퇴장시킨 '가나전 그 심판' 테일러, 현역 은퇴 선언…\"압박 극심했다, 경력의 새로운 장 열 때\"",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%80%E1%85%A9%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8-%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD-%E1%84%87%E1%85%A6%E1%86%AB%E1%84%90%E1%85%AE-%E1%84%80%E1%85%A1%E1%86%B7%E1%84%83%E1%85%A9%E1%86%A8-%E1%84%90%E1%85%AC%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%89%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB-%E1%84%80%E1%85%A1%E1%84%82%E1%85%A1%E1%84%8C%E1%85%A5%E1%86%AB-%E1%84%80%E1%85%B3-%E1%84%89%E1%85%B5%E1%86%B7%E1%84%91%E1%85%A1%E1%86%AB-%E1%84%90%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%85%E1%85%A5-%E1%84%92%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%A8-%E1%84%8B%E1%85%B3%E1%86%AB%E1%84%90%E1%85%AC-%E1%84%89%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%A5%E1%86%AB--%E1%84%8B%E1%85%A1%E1%86%B8%E1%84%87%E1%85%A1%E1%86%A8-%E1%84%80%E1%85%B3%E1%86%A8%E1%84%89%E1%85%B5%E1%86%B7%E1%84%92%E1%85%A2%E1%86%BB%E1%84%83%E1%85%A1-%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%E1%84%8B%E1%85%B4-%E1%84%89%E1%85%A2%E1%84%85%E1%85%A9%E1%84%8B%E1%85%AE%E1%86%AB-%E1%84%8C%E1%85%A1%E1%86%BC-%E1%84%8B%E1%85%A7%E1%86%AF-%E1%84%84%E1%85%A2/blt4c8c1da410d89615"
+          "title": "손흥민이 심판에 이렇게 폭발한 적 있었나…가나전 '벤투 퇴장' 그 주심, 은퇴한다 \"엄청난 특권이었다\"",
+          "source": "www.xportsnews.com",
+          "url": "https://www.xportsnews.com/article/2174577"
+        }
+      ]
+    },
+    {
+      "id": "하트시그널5",
+      "rank": 7,
+      "keyword": "하트시그널5",
+      "volumeLabel": "200+",
+      "startedLabel": "4시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '\"부정 했는데 어쨌든 오빠\" 강유경 몰표 불구 결국 '폭스남' 박우열 선택('하시5')' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"부정 했는데 어쨌든 오빠\" 강유경 몰표 불구 결국 '폭스남' 박우열 선택('하시5')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721234907069?t=m&x_mn=6a5f89affbddf26a833d5456"
+        },
+        {
+          "title": "'하트 시그널' 강유경이 최종선택 전 눈물 흘린 이유는? - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/07/21/2026072108467277672"
+        },
+        {
+          "title": "한 달 동안 가득 찬 여덟 남녀의 추억들! 이제는 보내줘야 할 시간이 왔다?!",
+          "source": "채널A",
+          "url": "https://ichannela.com/program/clip/000000541025.do"
         }
       ]
     },
     {
       "id": "정철원",
-      "rank": 5,
+      "rank": 8,
       "keyword": "정철원",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-3",
       "summary": "급상승 시점에 ''재정비 마쳤다' 롯데 정철원 전격 콜업…황성빈 결장→한태양 리드오프, 윤동희 중견수 출격' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -146,96 +230,40 @@
     },
     {
       "id": "킬러들의-쇼핑몰-시즌2",
-      "rank": 6,
+      "rank": 9,
       "keyword": "킬러들의 쇼핑몰 시즌2",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이동욱 \"킬러들의 쇼핑몰2, 전작보다 재미있길\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-3",
+      "summary": "급상승 시점에 '충남서 찍은 '킬러들의 쇼핑몰 2'…\"지역 상권 소비로 이어져\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "이동욱 \"킬러들의 쇼핑몰2, 전작보다 재미있길\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/tFoTbnd8Xb"
-        },
         {
           "title": "충남서 찍은 '킬러들의 쇼핑몰 2'…\"지역 상권 소비로 이어져\"",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260721146400063"
         },
         {
-          "title": "디즈니+ ‘킬러들의 쇼핑몰2’ 한계 파괴한 K-액션의 출사표",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260721/134333546/1"
-        }
-      ]
-    },
-    {
-      "id": "코스닥",
-      "rank": 7,
-      "keyword": "코스닥",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '고점 대비 40% 급락…'삼천닥' 외치다 거래 실종된 코스닥' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "고점 대비 40% 급락…'삼천닥' 외치다 거래 실종된 코스닥",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202607217490i"
-        },
-        {
-          "title": "3000스닥은커녕 1000스닥도 요원 ‘백약이 무효’",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/finance/1269291.html"
-        },
-        {
-          "title": "뒤처지는 코스닥… 글로벌 지수 수익률 4위서 38위로",
-          "source": "IT조선",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092166209"
-        }
-      ]
-    },
-    {
-      "id": "하트시그널5",
-      "rank": 8,
-      "keyword": "하트시그널5",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '강유경 이별 암시? \"오빠랑만 울면서 대화\" 최종선택 직전 눈물[하트시그널5]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "강유경 이별 암시? \"오빠랑만 울면서 대화\" 최종선택 직전 눈물[하트시그널5]",
+          "title": "김혜준, 진정한 '액션 퀸'으로",
           "source": "Daum",
-          "url": "https://v.daum.net/v/HcyEoLJ6CM"
+          "url": "https://v.daum.net/v/20260721080550907"
         },
         {
-          "title": "'하트 시그널' 강유경이 최종선택 전 눈물 흘린 이유는? - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/07/21/2026072108467277672"
-        },
-        {
-          "title": "'男3표' 받은 강유경, 최종 선택은 박우열.. '하트5' 두 커플 탄생",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260721082349666"
+          "title": "이동욱, “‘킬러들의 쇼핑몰2’ 시즌2 차별 요소는 각 인물 고유한 액션”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8614934"
         }
       ]
     },
     {
       "id": "박기량",
-      "rank": 9,
+      "rank": 10,
       "keyword": "박기량",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '[사진]박치국, 추격해보자' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
