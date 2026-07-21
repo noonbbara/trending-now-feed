@@ -1,258 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-21T11:52:43.550Z",
+  "updatedAt": "2026-07-21T14:11:24.287Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "동궁",
+      "id": "국립외교원",
       "rank": 1,
-      "keyword": "동궁",
-      "volumeLabel": "5000+",
+      "keyword": "국립외교원",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '좀비 떠난 궁에 악귀가 떠돈다… 넷플릭스 시리즈 ‘동궁’' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '한국 외교관 전원 정보 해킹 추정…최대 1만건 유출' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "좀비 떠난 궁에 악귀가 떠돈다… 넷플릭스 시리즈 ‘동궁’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260721203912509"
-        },
-        {
-          "title": "K오컬트 사극 ‘동궁’의 한국적 미장센, 글로벌 팬 사로잡는다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20260721/134336892/1"
-        },
-        {
-          "title": "'동궁' 감독 \"'콘스탄틴' 비교 영광…한국의 맛 살리려 했죠\"",
+          "title": "한국 외교관 전원 정보 해킹 추정…최대 1만건 유출",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260721112400005"
+          "url": "https://www.yna.co.kr/view/AKR20260721100700504"
+        },
+        {
+          "title": "한국 외교관 명단 통째로 털렸다…국립외교원 10개월간 해킹",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721223901562"
+        },
+        {
+          "title": "[정치]열달 간 1만명 정보 해킹 몰랐던 외교부...대응도 늑장",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0101_202607211830168890_005.html"
         }
       ]
     },
     {
-      "id": "강선우",
+      "id": "파업",
       "rank": 2,
-      "keyword": "강선우",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "keyword": "파업",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘공천 대가 1억’ 구속 강선우... 쪼개기 후원 의혹은 무혐의' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '카카오뱅크 노조, 31일 전일 파업…임금교섭 결렬(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘공천 대가 1억’ 구속 강선우... 쪼개기 후원 의혹은 무혐의",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/07/21/N7ZHRRJ2CNFADIW3WEA2IXEG5U/"
-        },
-        {
-          "title": "경찰, 강선우 '시의원 쪼개기 후원 의혹' 무혐의 처분",
+          "title": "카카오뱅크 노조, 31일 전일 파업…임금교섭 결렬(종합)",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260721162300004"
+          "url": "https://www.yna.co.kr/view/AKR20260721100851017"
         },
         {
-          "title": "경찰, ‘이사장직 대가성 후원 의혹’ 강선우 의원 불송치",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260721191040521"
+          "title": "카카오엔터프라이즈, 노사 협상 타결⋯임금인상률 '5%대' 합의",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260721170714"
+        },
+        {
+          "title": "카카오뱅크 '성과보상 갈등'에 첫 총파업 직면, 윤호영 조직관리 능력 시험대",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=442755"
         }
       ]
     },
     {
-      "id": "초과-근무",
+      "id": "장예원",
       "rank": 3,
-      "keyword": "초과 근무",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "keyword": "장예원",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '공무원 야근 '하루 4시간 상한' 폐지...첫 1시간 공제-월 57시간 제한 유지' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '연 매출 500억, 김지원 드레스 만든 '웨딩 백만장자'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "공무원 야근 '하루 4시간 상한' 폐지...첫 1시간 공제-월 57시간 제한 유지",
+          "title": "연 매출 500억, 김지원 드레스 만든 '웨딩 백만장자'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/4Jz4KZGhjq"
+          "url": "https://v.daum.net/v/20260721084449976"
         },
         {
-          "title": "공무원 초과근무 상한 폐지…\"일한 만큼 보상, 관리 감독은 철저\"",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968521"
+          "title": "서장훈, 장예원 '순백의 웨딩드레스' 자태에 미소..\"이상화 부케 받아\" ('백만장자') - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/07/21/MQZDEZRSMNRWCMDDMMYWMYLEHA/"
         },
         {
-          "title": "인사혁신처, 공무원 수당 등에 관한 규정 개정안 브리핑",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20260721_0021372137"
+          "title": "김지원→박지현 드레스 만든 '웨딩 백만장자'…연매출 500억 신화 공개",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/512196"
         }
       ]
     },
     {
-      "id": "제주-대-강원",
+      "id": "우원식",
       "rank": 4,
-      "keyword": "제주 대 강원",
-      "volumeLabel": "2000+",
+      "keyword": "우원식",
+      "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '포항스틸러스, 제주SK에 1-2 역전패...3연승 실패' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '주진우 \"우원식, 82억 들인 해외출장 14회 모두 배우자 동행\"' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "포항스틸러스, 제주SK에 1-2 역전패...3연승 실패",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/3omnaOrNS5"
-        },
-        {
-          "title": "제주SK 10경기 무승 악연 강원 넘어 \"2연승 가자\"",
-          "source": "한라일보",
-          "url": ""
-        },
-        {
-          "title": "'네게바·이창민 복귀' 제주SK, 강원 징크스 깰 준비 마쳤다",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3640779"
-        }
-      ]
-    },
-    {
-      "id": "부동산-투자",
-      "rank": 5,
-      "keyword": "부동산 투자",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“낡은 빌라 1채로 10배 먹었다” … ‘일확천금’ 재개발 투자의 모든 것' (매일경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“낡은 빌라 1채로 10배 먹었다” … ‘일확천금’ 재개발 투자의 모든 것",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12103526"
-        },
-        {
-          "title": "피에코, 싱가포르 운용사와 한국 상업용 부동산 투자상품 개발 협력",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260721000070"
-        },
-        {
-          "title": "피에코, 루미나스파이낸셜과 한국 부동산 STO 시장 글로벌 협력 강화",
-          "source": "글로벌경제신문",
-          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=875636"
-        }
-      ]
-    },
-    {
-      "id": "k리그1",
-      "rank": 6,
-      "keyword": "k리그1",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '강원 김대원, K리그1 18라운드 MVP…올 시즌 4번째 수상' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "강원 김대원, K리그1 18라운드 MVP…올 시즌 4번째 수상",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/5yvwKZGhG4"
-        },
-        {
-          "title": "[프로축구] '멀티골' 강원 김대원, K리그1 38라운드 MVP...올 시즌 4번째 선정",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260721000644"
-        },
-        {
-          "title": "강원 김대원, K리그1 18R MVP…K리그2는 경남 김현오",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260721_0003716839"
-        }
-      ]
-    },
-    {
-      "id": "반도체-메모리",
-      "rank": 7,
-      "keyword": "반도체 메모리",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '모건스탠리·JP모간 \"반도체 저가매수 기회\"…삼전닉스 반등' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "모건스탠리·JP모간 \"반도체 저가매수 기회\"…삼전닉스 반등",
+          "title": "주진우 \"우원식, 82억 들인 해외출장 14회 모두 배우자 동행\"",
           "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202607216838i"
+          "url": "https://www.hankyung.com/article/202607217035H"
         },
         {
-          "title": "DDR5 램 가격 1년 새 4배…\"3분기 가격 25% 이상 오른다\" [IT썰] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/tech/2026/07/21/2026072108284999257"
+          "title": "우원식, 83억 해외출장 아내 매번 동행 … 주진우 \"배우자가 무슨 역할?\"",
+          "source": "뉴데일리",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/07/21/2026072100287.html"
         },
         {
-          "title": "메모리 반도체 3사, 'HBM4 수율' 경쟁 점화…하반기 수익 판가름",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260721000240"
+          "title": "“노태악 압수수색 수사 선례 있는데”… 우원식 ‘82억·14회 전회 배우자 동행’은?",
+          "source": "인터넷타임즈",
+          "url": "https://www.internettimes.co.kr/38/?idx=172569889&bmode=view"
         }
       ]
     },
     {
-      "id": "원종해",
-      "rank": 8,
-      "keyword": "원종해",
-      "volumeLabel": "200+",
+      "id": "전진",
+      "rank": 5,
+      "keyword": "전진",
+      "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '투타 신인 유망주, 이호준 감독 눈도장 받다…고준휘 “타격 컨디션 제일 좋다”, 좌완 최요한 “구속 빨라졌다” - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''전진♥' 류이서, 4살 아인이 떠난 뒤…\"며칠 내내 아른아른\"' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "투타 신인 유망주, 이호준 감독 눈도장 받다…고준휘 “타격 컨디션 제일 좋다”, 좌완 최요한 “구속 빨라졌다” - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/07/21/202607211809778896O"
+          "title": "'전진♥' 류이서, 4살 아인이 떠난 뒤…\"며칠 내내 아른아른\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/07/19/MIZDGMZWGA3DMNRTGJRDCMTBMY/"
         },
         {
-          "title": "‘퓨처스 ERA 1.88’ 1군 선발 데뷔전 치르는 ‘포스트 이재학’ 원종해, 위기의 NC 구할까",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/sports/12102840"
-        },
-        {
-          "title": "[핌in잠실] NC 신인 고준휘 2번 배치, 이호준 감독 \"본인 타격존 형성된 선수\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260721001082"
-        }
-      ]
-    },
-    {
-      "id": "k리그2",
-      "rank": 9,
-      "keyword": "k리그2",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '전남, 15경기 무승 끊었다' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "전남, 15경기 무승 끊었다",
+          "title": "'시험관 도전' 류이서 \"며칠 내내 아른거렸다\"…4살 아인이 향한 애정 폭발",
           "source": "Daum",
-          "url": "https://v.daum.net/v/ul2afRQ9Tf"
+          "url": "https://v.daum.net/v/20260720091449937"
         },
         {
-          "title": "전남드래곤즈, 10명이 버틴 90분…충남아산전 1-0 승리",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/region/article/all/20260720/134326197/1"
+          "title": "‘시험관 도전’ 류이서♥전진, 육아 첫 도전 후..“며칠동안 아른아른 해”",
+          "source": "OSEN",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "김현태",
+      "rank": 6,
+      "keyword": "김현태",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[단독] '부정선거 주장' 황교안·김현태 대법에 선거무효소송 내' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[단독] '부정선거 주장' 황교안·김현태 대법에 선거무효소송 내",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721115449864"
         },
         {
-          "title": "‘수적 열세 극복’ 임관식 감독 “위기 속 빛난 간절함, 이제 시작일 뿐”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202607191911003"
+          "title": "황교안·김현태, 6·3 선거무효소송 제기…대법 법리 검토",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1669167/%ED%99%A9%EA%B5%90%EC%95%88%EA%B9%80%ED%98%84%ED%83%9C-63-%EC%84%A0%EA%B1%B0%EB%AC%B4%ED%9A%A8%EC%86%8C%EC%86%A1-%EC%A0%9C%EA%B8%B0%EB%8C%80-2026"
+        },
+        {
+          "title": "\"계엄 피해자였다더니 입장 정반대\"‥재판부 질문에 김현태 \"계엄은 정당\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6839002_36918.html"
+        }
+      ]
+    },
+    {
+      "id": "트레킹",
+      "rank": 7,
+      "keyword": "트레킹",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"군인들의 휴양지였던 비밀 계곡, 무료 개방중입니다\"... 수도권 1시간, 협곡 트레킹 코스' (아던트뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"군인들의 휴양지였던 비밀 계곡, 무료 개방중입니다\"... 수도권 1시간, 협곡 트레킹 코스",
+          "source": "아던트뉴스",
+          "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=16982"
+        },
+        {
+          "title": "\"보기만 해도 시원하다\"… 자연이 빚어낸 강원 최고의 절경",
+          "source": "리포테라",
+          "url": "https://www.reportera.co.kr/travel/yeongwol-seondol-paleozoic/"
+        },
+        {
+          "title": "철원 고석정, 수억 년 절벽과 한탄강이 만나는 여름 명소… 전설 품은 철원 9경",
+          "source": "여행레저신문",
+          "url": "https://thetravelnews.co.kr/2026/07/cheorwon-goseokjeong-summer-hantangang-scenic-travel/"
+        }
+      ]
+    },
+    {
+      "id": "k리그1-순위",
+      "rank": 8,
+      "keyword": "k리그1 순위",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[K리그1] 중간 순위(21일)' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[K리그1] 중간 순위(21일)",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260721n35604?mid=s02&list=recent&cpcd="
+        },
+        {
+          "title": "[K리그1] 중간 순위(19일)",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/soccer/6232196"
+        },
+        {
+          "title": "[K리그1] 중간순위(18일)",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202607182232547280"
+        }
+      ]
+    },
+    {
+      "id": "티웨이항공",
+      "rank": 9,
+      "keyword": "티웨이항공",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“피해라!” 이륙 직후 불꽃…172명 탄 티웨이항공기 아찔 소동' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“피해라!” 이륙 직후 불꽃…172명 탄 티웨이항공기 아찔 소동",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721211709327"
+        },
+        {
+          "title": "티웨이 승객 보조배터리서 불꽃…승무원 5분 만에 진압",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260721154551ejr"
+        },
+        {
+          "title": "기내 보조배터리에서 연기 '아찔'...소화기로 진화",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202607211857242744"
+        }
+      ]
+    },
+    {
+      "id": "키움",
+      "rank": 10,
+      "keyword": "키움",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '내가 잡았어' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "내가 잡았어",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260721_0021372635"
+        },
+        {
+          "title": "[사진]김성윤,'땅볼치고 전력 질주'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/07/21/MYYDGNRVMQ2DKNJSGU3WIMZQHA/"
+        },
+        {
+          "title": "[포토] 7회초 책임진 키움 정다훈 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/07/21/2026072121154971209"
         }
       ]
     }
