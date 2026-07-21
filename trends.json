@@ -1,270 +1,258 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-21T09:32:24.259Z",
+  "updatedAt": "2026-07-21T11:52:43.550Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "005930",
+      "id": "동궁",
       "rank": 1,
-      "keyword": "005930",
-      "volumeLabel": "10000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "여론",
-      "rank": 2,
-      "keyword": "여론",
+      "keyword": "동궁",
       "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[속보] 법원, 오세훈 시장직 걸린 ‘여론조사비 대납’ 1심 중계 허가' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '좀비 떠난 궁에 악귀가 떠돈다… 넷플릭스 시리즈 ‘동궁’' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[속보] 법원, 오세훈 시장직 걸린 ‘여론조사비 대납’ 1심 중계 허가",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1269270.html"
-        },
-        {
-          "title": "[속보]법원, 오세훈 시장직 달린 ‘명태균 여론조사 대납 혐의’ 1심 선고 중계 허가",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607211700001"
-        },
-        {
-          "title": "김영배 “오세훈, 명태균 게이트의 마지막 퍼즐…尹과 같은 법리 적용해야”",
+          "title": "좀비 떠난 궁에 악귀가 떠돈다… 넷플릭스 시리즈 ‘동궁’",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260721152736203"
+          "url": "https://v.daum.net/v/20260721203912509"
+        },
+        {
+          "title": "K오컬트 사극 ‘동궁’의 한국적 미장센, 글로벌 팬 사로잡는다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20260721/134336892/1"
+        },
+        {
+          "title": "'동궁' 감독 \"'콘스탄틴' 비교 영광…한국의 맛 살리려 했죠\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260721112400005"
         }
       ]
     },
     {
-      "id": "비트코인",
-      "rank": 3,
-      "keyword": "비트코인",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[코인시세] 비트코인 6만5천 달러선 회복…알트코인 동반 강세' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[코인시세] 비트코인 6만5천 달러선 회복…알트코인 동반 강세",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260721093551038"
-        },
-        {
-          "title": "[EBN 데이터센터] 암호화폐 시총 2조3207억 달러 회복...비트코인 도미넌스 급등 By EBN",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2021972"
-        },
-        {
-          "title": "비트코인, 현물ETF 자금 유입에 6만5000달러 재돌파 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/finance/2026/07/21/LLMNW3OABJGYJJ3MT23JWZSENE/"
-        }
-      ]
-    },
-    {
-      "id": "갤럭시-언팩",
-      "rank": 4,
-      "keyword": "갤럭시 언팩",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘와이드 폴드’가 승부수···런던 700만 눈길 사로잡은 갤럭시 언팩 광고' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘와이드 폴드’가 승부수···런던 700만 눈길 사로잡은 갤럭시 언팩 광고",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607210724001"
-        },
-        {
-          "title": "런던 랜드마크 갤럭시 Z8 물결… 삼성, 폴더블 리더십 굳힌다",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260722010007661"
-        },
-        {
-          "title": "삼성전자, 폴더블 다음 승부는 AI 생태계…22일 언팩서 미래 전략 공개",
-          "source": "스트레이트뉴스",
-          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=307279"
-        }
-      ]
-    },
-    {
-      "id": "신진-서",
-      "rank": 5,
-      "keyword": "신진 서",
+      "id": "강선우",
+      "rank": 2,
+      "keyword": "강선우",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'AI 넘어선 ‘신’의 한 수... 신진서, 카타고에 역전승' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘공천 대가 1억’ 구속 강선우... 쪼개기 후원 의혹은 무혐의' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "AI 넘어선 ‘신’의 한 수... 신진서, 카타고에 역전승",
+          "title": "‘공천 대가 1억’ 구속 강선우... 쪼개기 후원 의혹은 무혐의",
           "source": "조선일보",
-          "url": "https://www.chosun.com/national/people/2026/07/21/CBHVHEW4WZEPTKRPNLLN7Y6XWM/"
+          "url": "https://www.chosun.com/national/national_general/2026/07/21/N7ZHRRJ2CNFADIW3WEA2IXEG5U/"
         },
         {
-          "title": "인내로 거둔 2승…\"이것이 인간의 바둑\" [운명의 기신전]",
+          "title": "경찰, 강선우 '시의원 쪼개기 후원 의혹' 무혐의 처분",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260721162300004"
+        },
+        {
+          "title": "경찰, ‘이사장직 대가성 후원 의혹’ 강선우 의원 불송치",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260721175853341"
-        },
-        {
-          "title": "인간 승리···신진서, AI 카타고에 두 점 접바둑 1패 후 2승 ‘역전 우승’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607211347001"
+          "url": "https://v.daum.net/v/20260721191040521"
         }
       ]
     },
     {
-      "id": "강문경",
-      "rank": 6,
-      "keyword": "강문경",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "id": "초과-근무",
+      "rank": 3,
+      "keyword": "초과 근무",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘전설의 사내’ 톱7 초비상' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '공무원 야근 '하루 4시간 상한' 폐지...첫 1시간 공제-월 57시간 제한 유지' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘전설의 사내’ 톱7 초비상",
+          "title": "공무원 야근 '하루 4시간 상한' 폐지...첫 1시간 공제-월 57시간 제한 유지",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260720075307128"
+          "url": "https://v.daum.net/v/4Jz4KZGhjq"
         },
         {
-          "title": "신성X박현빈X조명섭 등장, TOP7 정면 승부 시작",
-          "source": "데일리스포츠한국",
-          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=431437"
+          "title": "공무원 초과근무 상한 폐지…\"일한 만큼 보상, 관리 감독은 철저\"",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968521"
         },
         {
-          "title": "[MBN] 톱7과 베테랑 가수들의 대결",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/culture/12103615"
+          "title": "인사혁신처, 공무원 수당 등에 관한 규정 개정안 브리핑",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20260721_0021372137"
         }
       ]
     },
     {
-      "id": "nep-vs-nam",
-      "rank": 7,
-      "keyword": "nep vs nam",
+      "id": "제주-대-강원",
+      "rank": 4,
+      "keyword": "제주 대 강원",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '포항스틸러스, 제주SK에 1-2 역전패...3연승 실패' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "포항스틸러스, 제주SK에 1-2 역전패...3연승 실패",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/3omnaOrNS5"
+        },
+        {
+          "title": "제주SK 10경기 무승 악연 강원 넘어 \"2연승 가자\"",
+          "source": "한라일보",
+          "url": ""
+        },
+        {
+          "title": "'네게바·이창민 복귀' 제주SK, 강원 징크스 깰 준비 마쳤다",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3640779"
+        }
+      ]
+    },
+    {
+      "id": "부동산-투자",
+      "rank": 5,
+      "keyword": "부동산 투자",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Nepal resume World Cup bid at crucial Netherlands tri-series' (ICC) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“낡은 빌라 1채로 10배 먹었다” … ‘일확천금’ 재개발 투자의 모든 것' (매일경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Nepal resume World Cup bid at crucial Netherlands tri-series",
-          "source": "ICC",
-          "url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/news/nepal-resume-world-cup-bid-at-crucial-netherlands-tri-series"
+          "title": "“낡은 빌라 1채로 10배 먹었다” … ‘일확천금’ 재개발 투자의 모든 것",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/realestate/12103526"
         },
         {
-          "title": "Gurgaon Woman Got ‘Confidential Photos’ With Blinkit Parcel. She Thought It Was Blackmail Until She Opened It",
-          "source": "News18",
-          "url": "https://www.news18.com/topics/confidential-photos/"
+          "title": "피에코, 싱가포르 운용사와 한국 상업용 부동산 투자상품 개발 협력",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260721000070"
         },
         {
-          "title": "Cricket Photos - NEP vs NAM, 121st Match Pictures",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/world-cup-league-2-2019-2023-1196667/nepal-vs-namibia-121st-match-1358073/match-photo"
+          "title": "피에코, 루미나스파이낸셜과 한국 부동산 STO 시장 글로벌 협력 강화",
+          "source": "글로벌경제신문",
+          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=875636"
         }
       ]
     },
     {
-      "id": "만평",
-      "rank": 8,
-      "keyword": "만평",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "id": "k리그1",
+      "rank": 6,
+      "keyword": "k리그1",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[포토] 집중 호우로 13개 수문이 일제히 개방된 연천 군남댐' (경기신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '강원 김대원, K리그1 18라운드 MVP…올 시즌 4번째 수상' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[포토] 집중 호우로 13개 수문이 일제히 개방된 연천 군남댐",
-          "source": "경기신문",
-          "url": "https://www.kgnews.co.kr/news/article.html?no=904624"
-        },
-        {
-          "title": "박재동의 시사만평 [80]",
-          "source": "경기신문",
-          "url": "https://www.kgnews.co.kr/news/article.html?no=904480"
-        },
-        {
-          "title": "베트남 후에 중앙직할시 대표단 남양주시 방문",
-          "source": "경기신문",
-          "url": "https://www.kgnews.co.kr/mobile/article_comment.html?no=904467&comment_mode=write"
-        }
-      ]
-    },
-    {
-      "id": "닛케이-평균주가",
-      "rank": 9,
-      "keyword": "닛케이 평균주가",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '中 AI 쇼크 진정에 日닛케이지수 3.3% 급반등' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "中 AI 쇼크 진정에 日닛케이지수 3.3% 급반등",
+          "title": "강원 김대원, K리그1 18라운드 MVP…올 시즌 4번째 수상",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260721154210007"
+          "url": "https://v.daum.net/v/5yvwKZGhG4"
         },
         {
-          "title": "[올댓차이나] 中 증시, 반도체주 급등·정책 기대에 대폭 상승 마감…창업판 7.05%↑",
+          "title": "[프로축구] '멀티골' 강원 김대원, K리그1 38라운드 MVP...올 시즌 4번째 선정",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260721000644"
+        },
+        {
+          "title": "강원 김대원, K리그1 18R MVP…K리그2는 경남 김현오",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260721_0003717575"
-        },
-        {
-          "title": "美반도체 훈풍에 닛케이 1.74%↑…중화권 혼조[Asia오전] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/07/21/2026072111371486921"
+          "url": "https://www.newsis.com/view/NISX20260721_0003716839"
         }
       ]
     },
     {
-      "id": "영천시",
-      "rank": 10,
-      "keyword": "영천시",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "id": "반도체-메모리",
+      "rank": 7,
+      "keyword": "반도체 메모리",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '영천 초·중학생 73명, 싱가포르·말레이 간다…'어학연수'' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '모건스탠리·JP모간 \"반도체 저가매수 기회\"…삼전닉스 반등' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "영천 초·중학생 73명, 싱가포르·말레이 간다…'어학연수'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260721_0003717163"
+          "title": "모건스탠리·JP모간 \"반도체 저가매수 기회\"…삼전닉스 반등",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202607216838i"
         },
         {
-          "title": "경북 영천시장학회, 지역 초·중학생 73명 해외어학연수 실시",
-          "source": "매일신문",
-          "url": "https://www.imaeil.com/page/view/2026072116493551048"
+          "title": "DDR5 램 가격 1년 새 4배…\"3분기 가격 25% 이상 오른다\" [IT썰] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/07/21/2026072108284999257"
         },
         {
-          "title": "계룡시 대학생 22명 싱가포르 국외연수…3주간 글로벌 역량 강화",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/daejeon-chungnam/6232650"
+          "title": "메모리 반도체 3사, 'HBM4 수율' 경쟁 점화…하반기 수익 판가름",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260721000240"
+        }
+      ]
+    },
+    {
+      "id": "원종해",
+      "rank": 8,
+      "keyword": "원종해",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '투타 신인 유망주, 이호준 감독 눈도장 받다…고준휘 “타격 컨디션 제일 좋다”, 좌완 최요한 “구속 빨라졌다” - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "투타 신인 유망주, 이호준 감독 눈도장 받다…고준휘 “타격 컨디션 제일 좋다”, 좌완 최요한 “구속 빨라졌다” - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/07/21/202607211809778896O"
+        },
+        {
+          "title": "‘퓨처스 ERA 1.88’ 1군 선발 데뷔전 치르는 ‘포스트 이재학’ 원종해, 위기의 NC 구할까",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/sports/12102840"
+        },
+        {
+          "title": "[핌in잠실] NC 신인 고준휘 2번 배치, 이호준 감독 \"본인 타격존 형성된 선수\"",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260721001082"
+        }
+      ]
+    },
+    {
+      "id": "k리그2",
+      "rank": 9,
+      "keyword": "k리그2",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '전남, 15경기 무승 끊었다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "전남, 15경기 무승 끊었다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/ul2afRQ9Tf"
+        },
+        {
+          "title": "전남드래곤즈, 10명이 버틴 90분…충남아산전 1-0 승리",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/region/article/all/20260720/134326197/1"
+        },
+        {
+          "title": "‘수적 열세 극복’ 임관식 감독 “위기 속 빛난 간절함, 이제 시작일 뿐”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202607191911003"
         }
       ]
     }
