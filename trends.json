@@ -1,62 +1,62 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-21T16:04:36.622Z",
+  "updatedAt": "2026-07-21T17:54:45.075Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "빌라",
+      "id": "다이-소",
       "rank": 1,
-      "keyword": "빌라",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
+      "keyword": "다이 소",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“낡은 빌라 1채로 10배 먹었다” … ‘일확천금’ 재개발 투자의 모든 것' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"운동 후 한 잔도 1000원\"…다이소 또 가격파괴' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“낡은 빌라 1채로 10배 먹었다” … ‘일확천금’ 재개발 투자의 모든 것",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12103526"
-        },
-        {
-          "title": "“빌라라도 사자”… 아파트 포기한 청년들, 강남 빌라촌으로",
+          "title": "\"운동 후 한 잔도 1000원\"…다이소 또 가격파괴",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260721184908922"
+          "url": "https://v.daum.net/v/bgWoMx6b5W"
         },
         {
-          "title": "“신축 못 살바엔”...영끌 막히자 ‘몸테크족’ 몰려간 곳",
-          "source": "한국경제TV",
-          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607210339"
+          "title": "품절, 품절, 품절…\"이게 1000원?\" 다이소 또 터졌다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202607217304g"
+        },
+        {
+          "title": "[이슈프리즘] 신뢰 파는 다이소, 불신 파는 정치",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260720n35301"
         }
       ]
     },
     {
-      "id": "국민의힘",
+      "id": "악어",
       "rank": 2,
-      "keyword": "국민의힘",
-      "volumeLabel": "1000+",
+      "keyword": "악어",
+      "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '선관위 국조특위ㆍ선관위 개혁특위 연석회의에서 발언하는 장동혁 대표' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[단독] 여주 80㎝ 악어, 알고 보니 ‘국제 멸종 위기종’' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "선관위 국조특위ㆍ선관위 개혁특위 연석회의에서 발언하는 장동혁 대표",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260721067500013"
-        },
-        {
-          "title": "선관위 특검법 합의…국회 정상화 물꼬",
+          "title": "[단독] 여주 80㎝ 악어, 알고 보니 ‘국제 멸종 위기종’",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260722003821889"
+          "url": "https://v.daum.net/v/YQXsM0FYTU"
         },
         {
-          "title": "여야, 투표용지 부족 사태 등 선거관리 부실 사태 특검 임명 합의문 서명",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260721_0021371968"
+          "title": "여주 소양천서 잡힌 악어는 국제 멸종위기종 '샴악어'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260721182100061"
+        },
+        {
+          "title": "[단독] 여주 도심 하천에 나타난 악어…생포까지 긴박했던 42분",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260720580062"
         }
       ]
     },
@@ -65,9 +65,9 @@
       "rank": 3,
       "keyword": "시리아",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '지중해에서 사라진 러시아 해군… 13년 만의 공백에 글로벌 물류망 비상' (글로벌이코노믹) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -89,81 +89,86 @@
       ]
     },
     {
-      "id": "천록-담",
+      "id": "앤서니-테일러",
       "rank": 4,
-      "keyword": "천록 담",
-      "volumeLabel": "500+",
+      "keyword": "앤서니 테일러",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“아내는 단골 목욕탕 막내딸, 종이 ‘띵’ 울려” 제주도 가서 인생 바뀐 가수' (헤럴드경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[오피셜] '2022 WC 가나전 코너킥 없이 끝→벤투 퇴장' 앤서니 테일러 심판 은퇴 발표…\"압박감 심했어, 도와준 동료들과 …' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“아내는 단골 목욕탕 막내딸, 종이 ‘띵’ 울려” 제주도 가서 인생 바뀐 가수",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10814978"
-        },
-        {
-          "title": "천록담, 미모의 아내 결혼식 사진 공개 \"단골목욕탕 막내딸, 덕분에 신장암 발견\"(아침마당)",
+          "title": "[오피셜] '2022 WC 가나전 코너킥 없이 끝→벤투 퇴장' 앤서니 테일러 심판 은퇴 발표…\"압박감 심했어, 도와준 동료들과 가족에게 감사해\"",
           "source": "네이트",
-          "url": "https://news.nate.com/view/20260721n06857"
+          "url": "https://sports.news.nate.com/view/20260722n00454"
         },
         {
-          "title": "‘미스터트롯3’ 천록담, 아내 덕분에 신장 암 발견한 이유?…“운이 좋았다”",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16141444"
+          "title": "\"수치스럽다\" 무리뉴 극딜에도 버텼던 앤서니 테일러, 결국 휘슬 내려놓는다…\"압박감 심했다\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/football/2026-07-22/202607220100131940008393"
+        },
+        {
+          "title": "[공식 발표] 벤투 감독 퇴장시킨 '가나전 그 심판' 테일러, 현역 은퇴 선언…\"압박 극심했다, 경력의 새로운 장 열 때\"",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%80%E1%85%A9%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8-%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD-%E1%84%87%E1%85%A6%E1%86%AB%E1%84%90%E1%85%AE-%E1%84%80%E1%85%A1%E1%86%B7%E1%84%83%E1%85%A9%E1%86%A8-%E1%84%90%E1%85%AC%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%89%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%AB-%E1%84%80%E1%85%A1%E1%84%82%E1%85%A1%E1%84%8C%E1%85%A5%E1%86%AB-%E1%84%80%E1%85%B3-%E1%84%89%E1%85%B5%E1%86%B7%E1%84%91%E1%85%A1%E1%86%AB-%E1%84%90%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%85%E1%85%A5-%E1%84%92%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%A8-%E1%84%8B%E1%85%B3%E1%86%AB%E1%84%90%E1%85%AC-%E1%84%89%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%A5%E1%86%AB--%E1%84%8B%E1%85%A1%E1%86%B8%E1%84%87%E1%85%A1%E1%86%A8-%E1%84%80%E1%85%B3%E1%86%A8%E1%84%89%E1%85%B5%E1%86%B7%E1%84%92%E1%85%A2%E1%86%BB%E1%84%83%E1%85%A1-%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%E1%84%8B%E1%85%B4-%E1%84%89%E1%85%A2%E1%84%85%E1%85%A9%E1%84%8B%E1%85%AE%E1%86%AB-%E1%84%8C%E1%85%A1%E1%86%BC-%E1%84%8B%E1%85%A7%E1%86%AF-%E1%84%84%E1%85%A2/blt4c8c1da410d89615"
         }
       ]
     },
     {
-      "id": "관세",
+      "id": "정철원",
       "rank": 5,
-      "keyword": "관세",
+      "keyword": "정철원",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '트럼프, 캐나다에 50% '관세폭탄'‥30일 후 발효' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''재정비 마쳤다' 롯데 정철원 전격 콜업…황성빈 결장→한태양 리드오프, 윤동희 중견수 출격' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "트럼프, 캐나다에 50% '관세폭탄'‥30일 후 발효",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6838934_36925.html"
+          "title": "'재정비 마쳤다' 롯데 정철원 전격 콜업…황성빈 결장→한태양 리드오프, 윤동희 중견수 출격",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/QS653lIkvl"
         },
         {
-          "title": "[W 언박싱] 100년 전 법 꺼내 ‘50% 관세 폭탄’…산불 관세?",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8616605&ref=A"
+          "title": "'벌써 한 달' 전준우 1군 등록 없었다, 정철원 1군 등록...'종아리 통증' 황성빈도 사라졌다 [오!쎈 부산] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/07/21/202607211547779748O"
         },
         {
-          "title": "\"산불 연기 미국으로 넘어오잖아\"...은혜를 관세로 갚은 미국에 '발칵' [자막뉴스]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202607211319524862"
+          "title": "2군 내려간지 한 달 지났다…타율 3할5푼8리 롯데 캡틴, 드디어 1군 콜업 기회 올까",
+          "source": "OSEN",
+          "url": ""
         }
       ]
     },
     {
-      "id": "디아지오",
+      "id": "킬러들의-쇼핑몰-시즌2",
       "rank": 6,
-      "keyword": "디아지오",
+      "keyword": "킬러들의 쇼핑몰 시즌2",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독]위스키 시장 불황에…디아지오코리아, 2년 만에 희망퇴직 단행' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '이동욱 \"킬러들의 쇼핑몰2, 전작보다 재미있길\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[단독]위스키 시장 불황에…디아지오코리아, 2년 만에 희망퇴직 단행",
+          "title": "이동욱 \"킬러들의 쇼핑몰2, 전작보다 재미있길\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260721160929515"
+          "url": "https://v.daum.net/v/tFoTbnd8Xb"
         },
         {
-          "title": "디아지오코리아, 2년 만에 또 희망퇴직…위스키 불황 직격탄",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20070173"
+          "title": "충남서 찍은 '킬러들의 쇼핑몰 2'…\"지역 상권 소비로 이어져\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260721146400063"
+        },
+        {
+          "title": "디즈니+ ‘킬러들의 쇼핑몰2’ 한계 파괴한 K-액션의 출사표",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260721/134333546/1"
         }
       ]
     },
@@ -171,10 +176,10 @@
       "id": "코스닥",
       "rank": 7,
       "keyword": "코스닥",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '고점 대비 40% 급락…'삼천닥' 외치다 거래 실종된 코스닥' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -196,58 +201,58 @@
       ]
     },
     {
-      "id": "레서판다",
+      "id": "하트시그널5",
       "rank": 8,
-      "keyword": "레서판다",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
+      "keyword": "하트시그널5",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '서울대공원에서 멸종위기종 레서판다 두 마리 탄생' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '강유경 이별 암시? \"오빠랑만 울면서 대화\" 최종선택 직전 눈물[하트시그널5]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "서울대공원에서 멸종위기종 레서판다 두 마리 탄생",
+          "title": "강유경 이별 암시? \"오빠랑만 울면서 대화\" 최종선택 직전 눈물[하트시그널5]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260721111651044"
+          "url": "https://v.daum.net/v/HcyEoLJ6CM"
         },
         {
-          "title": "서울대공원, ‘레서판다’ 자연 번식 국내 첫 성공…쌍둥이 태어나",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607212102045"
+          "title": "'하트 시그널' 강유경이 최종선택 전 눈물 흘린 이유는? - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/07/21/2026072108467277672"
         },
         {
-          "title": "[영상] '꼬물꼬물' 아기 레서판다 탄생 순간…국내 첫 자연번식 성공",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260721158500704"
+          "title": "'男3표' 받은 강유경, 최종 선택은 박우열.. '하트5' 두 커플 탄생",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260721082349666"
         }
       ]
     },
     {
-      "id": "배우",
+      "id": "박기량",
       "rank": 9,
-      "keyword": "배우",
+      "keyword": "박기량",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"저 비닐봉지 수상해\"…그 속에 4500만원, 보이스피싱 신고한 아역배우' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[사진]박치국, 추격해보자' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"저 비닐봉지 수상해\"…그 속에 4500만원, 보이스피싱 신고한 아역배우",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260721061641975"
+          "title": "[사진]박치국, 추격해보자",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/07/21/GU3TIZJSGNQTSYZSHEZDGMBVMU/"
         },
         {
-          "title": "\"수상한 봉지 있어\" 열어보니 4500만원…보이스피싱 잡아낸 아역배우 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/07/21/2026072119041152836"
+          "title": "르센느 리브-메이 '아웃송 안무 펼치는 리트와 메트' [MK포토]",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260721n33796"
         },
         {
-          "title": "기차역 보관함서 ‘4500만원’ 찾아낸 10살 소녀…보이스피싱 조직 덜미",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260718580100"
+          "title": "르센느 리브-메이 ‘야구장 나들이’ [MK포토]",
+          "source": "m.mksports.co.kr",
+          "url": "https://www.mksports.co.kr/news/entertain/12103725"
         }
       ]
     }
