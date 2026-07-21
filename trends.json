@@ -1,254 +1,270 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-21T06:36:23.901Z",
+  "updatedAt": "2026-07-21T09:32:24.259Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "화재",
+      "id": "005930",
       "rank": 1,
-      "keyword": "화재",
+      "keyword": "005930",
       "volumeLabel": "10000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '소방청, 인천 쿠팡 물류센터 화재에 합동조사단 꾸려' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "소방청, 인천 쿠팡 물류센터 화재에 합동조사단 꾸려",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260721141803282"
-        },
-        {
-          "title": "[뉴스초점] 쿠팡 물류센터 잔불정리 총력…국가소방동원령 일부 해제",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH202607211525117DQ"
-        },
-        {
-          "title": "'5년전 판박이 화재' 진화에 61시간…물류센터 취약점 여전",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260721132000065"
-        }
-      ]
+      "newsSignals": []
     },
     {
-      "id": "전성애",
+      "id": "여론",
       "rank": 2,
-      "keyword": "전성애",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
+      "keyword": "여론",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '전성애, 욕실 낙상 사고로 응급실행…\"바닥에 쓰러져 못 일어나\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[속보] 법원, 오세훈 시장직 걸린 ‘여론조사비 대납’ 1심 중계 허가' (한겨레) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "전성애, 욕실 낙상 사고로 응급실행…\"바닥에 쓰러져 못 일어나\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/07/21/2026072113485863430"
+          "title": "[속보] 법원, 오세훈 시장직 걸린 ‘여론조사비 대납’ 1심 중계 허가",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1269270.html"
         },
         {
-          "title": "'주식 1억 손실→母응급실'까지..미자, 악재 연속 \"119 오고 난리나\" [핫피플]",
+          "title": "[속보]법원, 오세훈 시장직 달린 ‘명태균 여론조사 대납 혐의’ 1심 선고 중계 허가",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607211700001"
+        },
+        {
+          "title": "김영배 “오세훈, 명태균 게이트의 마지막 퍼즐…尹과 같은 법리 적용해야”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260721060609832?f=p"
-        },
-        {
-          "title": "배우 전성애, 화장실 미끄러져 세면대 머리 부딪쳐…“주먹만한 혹이”",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10814435"
+          "url": "https://v.daum.net/v/20260721152736203"
         }
       ]
     },
     {
-      "id": "신한은행",
+      "id": "비트코인",
       "rank": 3,
-      "keyword": "신한은행",
+      "keyword": "비트코인",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[코인시세] 비트코인 6만5천 달러선 회복…알트코인 동반 강세' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[코인시세] 비트코인 6만5천 달러선 회복…알트코인 동반 강세",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721093551038"
+        },
+        {
+          "title": "[EBN 데이터센터] 암호화폐 시총 2조3207억 달러 회복...비트코인 도미넌스 급등 By EBN",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2021972"
+        },
+        {
+          "title": "비트코인, 현물ETF 자금 유입에 6만5000달러 재돌파 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/stock/finance/2026/07/21/LLMNW3OABJGYJJ3MT23JWZSENE/"
+        }
+      ]
+    },
+    {
+      "id": "갤럭시-언팩",
+      "rank": 4,
+      "keyword": "갤럭시 언팩",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘와이드 폴드’가 승부수···런던 700만 눈길 사로잡은 갤럭시 언팩 광고' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘와이드 폴드’가 승부수···런던 700만 눈길 사로잡은 갤럭시 언팩 광고",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607210724001"
+        },
+        {
+          "title": "런던 랜드마크 갤럭시 Z8 물결… 삼성, 폴더블 리더십 굳힌다",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260722010007661"
+        },
+        {
+          "title": "삼성전자, 폴더블 다음 승부는 AI 생태계…22일 언팩서 미래 전략 공개",
+          "source": "스트레이트뉴스",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=307279"
+        }
+      ]
+    },
+    {
+      "id": "신진-서",
+      "rank": 5,
+      "keyword": "신진 서",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“이자 더 쳐줍니다” 신한은행도 금리 인상…15조 뭉칫돈 예금으로' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'AI 넘어선 ‘신’의 한 수... 신진서, 카타고에 역전승' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“이자 더 쳐줍니다” 신한은행도 금리 인상…15조 뭉칫돈 예금으로",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260721094707539"
-        },
-        {
-          "title": "예금금리 3%대 재진입…증시 떠난 자금 ‘은행 U턴’ 할까",
-          "source": "www.dt.co.kr",
-          "url": "https://www.dt.co.kr/article/12073896?ref=naver"
-        },
-        {
-          "title": "신한은행, 예금 금리 최대 0.4%포인트 인상...5대 은행 정기 예금 이달 16조원 증가",
+          "title": "AI 넘어선 ‘신’의 한 수... 신진서, 카타고에 역전승",
           "source": "조선일보",
-          "url": "https://www.chosun.com/economy/economy_general/2026/07/21/GX76KEZYTRDQNLWGS774D6EGH4/"
+          "url": "https://www.chosun.com/national/people/2026/07/21/CBHVHEW4WZEPTKRPNLLN7Y6XWM/"
+        },
+        {
+          "title": "인내로 거둔 2승…\"이것이 인간의 바둑\" [운명의 기신전]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721175853341"
+        },
+        {
+          "title": "인간 승리···신진서, AI 카타고에 두 점 접바둑 1패 후 2승 ‘역전 우승’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607211347001"
         }
       ]
     },
     {
-      "id": "주주",
-      "rank": 4,
-      "keyword": "주주",
+      "id": "강문경",
+      "rank": 6,
+      "keyword": "강문경",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '엔지켐생명과학 “임시주주지위 확인 가처분 신청 기각”' (서울경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "엔지켐생명과학 “임시주주지위 확인 가처분 신청 기각”",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20069989"
-        },
-        {
-          "title": "엔지켐생명과학, 임시주주지위확인 가처분 승소…\"거래재개·경영정상화 집중\"",
-          "source": "폴리뉴스 Polinews",
-          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=737553"
-        },
-        {
-          "title": "엔지켐생명과학, 이수민 측 임시주주지위 확인 가처분 법원 기각",
-          "source": "livesnews.com",
-          "url": "https://livesnews.com/news/article.html?no=62788"
-        }
-      ]
-    },
-    {
-      "id": "한국수력원자력",
-      "rank": 5,
-      "keyword": "한국수력원자력",
-      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "연애",
-      "rank": 6,
-      "keyword": "연애",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'KBS 시사기획창' (MyloveKBS) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘전설의 사내’ 톱7 초비상' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "KBS 시사기획창",
-          "source": "MyloveKBS",
-          "url": "https://mylovekbs.kbs.co.kr/index.html?source=mylovekbs&sname=mylovekbs&stype=blog&contents_id=70000000403808"
+          "title": "‘전설의 사내’ 톱7 초비상",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260720075307128"
         },
         {
-          "title": "연프 전성시대인데⋯'시사기획창'이 집중한 '연애 실종'",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260721n22790"
+          "title": "신성X박현빈X조명섭 등장, TOP7 정면 승부 시작",
+          "source": "데일리스포츠한국",
+          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=431437"
         },
         {
-          "title": "41세 기안84 연애 시작, 그런데 상대가…‘나의 AI 파트너-기이안 연애’",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260720/134328428/1"
+          "title": "[MBN] 톱7과 베테랑 가수들의 대결",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/culture/12103615"
         }
       ]
     },
     {
-      "id": "태권도",
+      "id": "nep-vs-nam",
       "rank": 7,
-      "keyword": "태권도",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "keyword": "nep vs nam",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '손님 몰고 온 춘천 국제태권도대회에 지역상권 ‘웃음꽃’' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Nepal resume World Cup bid at crucial Netherlands tri-series' (ICC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "손님 몰고 온 춘천 국제태권도대회에 지역상권 ‘웃음꽃’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260721000738535"
+          "title": "Nepal resume World Cup bid at crucial Netherlands tri-series",
+          "source": "ICC",
+          "url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/news/nepal-resume-world-cup-bid-at-crucial-netherlands-tri-series"
         },
         {
-          "title": "세븐틴 호시 “너무 미안하고 죄송”…조직위·시범단도 사과 [종합]",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260719/134321255/1"
+          "title": "Gurgaon Woman Got ‘Confidential Photos’ With Blinkit Parcel. She Thought It Was Blackmail Until She Opened It",
+          "source": "News18",
+          "url": "https://www.news18.com/topics/confidential-photos/"
         },
         {
-          "title": "춘천 코리아오픈 태권도대회 개막…국제 스포츠로 지역경제 ‘활력’",
-          "source": "MTN 머니투데이방송",
-          "url": "https://news.mtn.co.kr/news-detail/2026072011434758800"
+          "title": "Cricket Photos - NEP vs NAM, 121st Match Pictures",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/world-cup-league-2-2019-2023-1196667/nepal-vs-namibia-121st-match-1358073/match-photo"
         }
       ]
     },
     {
-      "id": "허경환",
+      "id": "만평",
       "rank": 8,
-      "keyword": "허경환",
+      "keyword": "만평",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“3년 전 집 팔고 전세…5억 올라” 허경환, 뒤늦은 ‘무주택’ 후회' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[포토] 집중 호우로 13개 수문이 일제히 개방된 연천 군남댐' (경기신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“3년 전 집 팔고 전세…5억 올라” 허경환, 뒤늦은 ‘무주택’ 후회",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/9uP5PdMVvo?f=p"
+          "title": "[포토] 집중 호우로 13개 수문이 일제히 개방된 연천 군남댐",
+          "source": "경기신문",
+          "url": "https://www.kgnews.co.kr/news/article.html?no=904624"
         },
         {
-          "title": "허경환 \"3년 전 판 강남 아파트, 6억 올랐다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260719_0003713849"
+          "title": "박재동의 시사만평 [80]",
+          "source": "경기신문",
+          "url": "https://www.kgnews.co.kr/news/article.html?no=904480"
         },
         {
-          "title": "강남 아파트 팔고 무주택자된 허경환, 한남뉴타운서 땅 치고 후회",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260719010006641"
+          "title": "베트남 후에 중앙직할시 대표단 남양주시 방문",
+          "source": "경기신문",
+          "url": "https://www.kgnews.co.kr/mobile/article_comment.html?no=904467&comment_mode=write"
         }
       ]
     },
     {
-      "id": "청년문화예술패스",
+      "id": "닛케이-평균주가",
       "rank": 9,
-      "keyword": "청년문화예술패스",
-      "volumeLabel": "100+",
+      "keyword": "닛케이 평균주가",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "엘지트윈스",
-      "rank": 10,
-      "keyword": "엘지트윈스",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '하트오브우먼, 잠실구장 뜬다…LG트윈스 승리 기원 시구·시타' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '中 AI 쇼크 진정에 日닛케이지수 3.3% 급반등' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "하트오브우먼, 잠실구장 뜬다…LG트윈스 승리 기원 시구·시타",
+          "title": "中 AI 쇼크 진정에 日닛케이지수 3.3% 급반등",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260720122027098"
+          "url": "https://v.daum.net/v/20260721154210007"
         },
         {
-          "title": "아이딧 장용훈·박원빈, LG트윈스 승리 요정 나선다…데뷔 첫 시구·시타",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/07/20/MFRWKMTFG5TDGYRRHBRTMM3BGA/"
+          "title": "[올댓차이나] 中 증시, 반도체주 급등·정책 기대에 대폭 상승 마감…창업판 7.05%↑",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260721_0003717575"
         },
         {
-          "title": "\"엘린이로서 영광\" LG 트윈스, 잠실 홈 3연전 시구자 라인업 공개 - 머니투데이",
+          "title": "美반도체 훈풍에 닛케이 1.74%↑…중화권 혼조[Asia오전] - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/07/21/2026072014404158407"
+          "url": "https://www.mt.co.kr/world/2026/07/21/2026072111371486921"
+        }
+      ]
+    },
+    {
+      "id": "영천시",
+      "rank": 10,
+      "keyword": "영천시",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '영천 초·중학생 73명, 싱가포르·말레이 간다…'어학연수'' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "영천 초·중학생 73명, 싱가포르·말레이 간다…'어학연수'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260721_0003717163"
+        },
+        {
+          "title": "경북 영천시장학회, 지역 초·중학생 73명 해외어학연수 실시",
+          "source": "매일신문",
+          "url": "https://www.imaeil.com/page/view/2026072116493551048"
+        },
+        {
+          "title": "계룡시 대학생 22명 싱가포르 국외연수…3주간 글로벌 역량 강화",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/daejeon-chungnam/6232650"
         }
       ]
     }
