@@ -1,286 +1,270 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-22T21:16:59.975Z",
+  "updatedAt": "2026-07-22T22:36:05.593Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "한화오션",
+      "id": "안세영",
       "rank": 1,
-      "keyword": "한화오션",
+      "keyword": "안세영",
+      "volumeLabel": "5000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''안세영 빠진 대회'서 이런 일이…2게임 21-1 충격 스코어 나왔다→日 야마구치, 세계랭킹 25위 상대로 압승 '화제'' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'안세영 빠진 대회'서 이런 일이…2게임 21-1 충격 스코어 나왔다→日 야마구치, 세계랭킹 25위 상대로 압승 '화제'",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260722n37284"
+        },
+        {
+          "title": "부상으로 일본 오픈-중국 오픈 기권한 안세영, 다음달 17일 세계선수권 출전 목표로 재활 돌입",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/8MWgq0FYpt"
+        },
+        {
+          "title": "이럴 수가! 대한민국 배드민턴, 결국 '세계 최강' 안세영 없이 뛴다…'AN, 부상으로 중국오픈 기권'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/07/22/MIZTCM3DMJQTEN3EHBSDKMDGGQ/"
+        }
+      ]
+    },
+    {
+      "id": "운세",
+      "rank": 2,
+      "keyword": "운세",
       "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"저희가 부족했습니다\" 캐나다 잠수함 수주전 탈락 한화오션의 ‘홍보’ 역발상' (JTBC) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[오늘의 운세] 2026년 07월 23일 띠별 운세' (YTN) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"저희가 부족했습니다\" 캐나다 잠수함 수주전 탈락 한화오션의 ‘홍보’ 역발상",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12309612"
+          "title": "[오늘의 운세] 2026년 07월 23일 띠별 운세",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0121_202607230000000001"
         },
         {
-          "title": "[차세현의 직격토론] “미국 군함 건조하면 나토 시장 K방산에 활짝 열린다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/BZ7VVyvmWg"
+          "title": "[오늘의 운세/7월 23일]",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20260723/134347581/2"
         },
         {
-          "title": "캐나다 수주 실패로 방산 목표 달성 어려워진 한화·HD현대… “전방위 수주전 나선다” - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/industry/company/2026/07/22/KWRRS6GK7BADNFKHGIPZ3MJXPE/"
+          "title": "[오늘의 운세] 7월 23일 목요일 (음력 6월 10일 戊戌)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/07/22/ROCL2V6IHZCG3LTQ6PX5F2SESE/"
         }
       ]
     },
     {
-      "id": "유조선",
-      "rank": 2,
-      "keyword": "유조선",
+      "id": "spcx",
+      "rank": 3,
+      "keyword": "spcx",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "군체",
+      "rank": 4,
+      "keyword": "군체",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘사우디 해상 봉쇄’ 후티 반군, 선박들에 무전으로 경고' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[클로즈업 필름]'호프'를 이해하기 위하여' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘사우디 해상 봉쇄’ 후티 반군, 선박들에 무전으로 경고",
+          "title": "[클로즈업 필름]'호프'를 이해하기 위하여",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260722_0003719455"
+        },
+        {
+          "title": "'호프', 13만↑ 동원하며 8일 연속 1위…누적 253만 [Nbox]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260723031138971"
+          "url": "https://v.daum.net/v/20260723071127756"
         },
         {
-          "title": "후티의 홍해 봉쇄 선언…사우디 겨냥인가 이란 전쟁 참전인가",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1269531.html"
-        },
-        {
-          "title": "“한국 등 직격탄 맞을 듯”…유조선 2대 ‘유턴’, 호르무즈 이어 홍해도 사실상 봉쇄 [핫이슈]",
-          "source": "나우뉴스",
-          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260722601008"
-        }
-      ]
-    },
-    {
-      "id": "국가수사본부",
-      "rank": 3,
-      "keyword": "국가수사본부",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[뉴스광장 2부 헤드라인]' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[뉴스광장 2부 헤드라인]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8616701"
-        },
-        {
-          "title": "경찰 윗선 향하는 '장윤기 사건'…국수본 '셀프 수사' 논란",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260723050330756"
-        },
-        {
-          "title": "은행에다 왜 이걸? '엉뚱 영장'에 '2차 피해'까지‥\"총체적 부실\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6839358_37004.html"
-        }
-      ]
-    },
-    {
-      "id": "중앙일보",
-      "rank": 4,
-      "keyword": "중앙일보",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '중앙일보 인수 의향사 놓고 언론계 '술렁'' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "중앙일보 인수 의향사 놓고 언론계 '술렁'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260722165538632"
-        },
-        {
-          "title": "[단독] 25년간 13명 죽은 그곳…막으라고 준 50억, 딴 데 썼다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260723050214650"
-        },
-        {
-          "title": "베일 벗은 대통령 세종 집무실…어떤 모습?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/WDsM70FYWz"
-        }
-      ]
-    },
-    {
-      "id": "실종자",
-      "rank": 5,
-      "keyword": "실종자",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '영월서 집중호우로 실종된 40대 숨진 채 발견' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "영월서 집중호우로 실종된 40대 숨진 채 발견",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260722165841745"
-        },
-        {
-          "title": "영월 주천강 실종자 추정 시신 발견…신원 확인 중",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260722077100062"
-        },
-        {
-          "title": "강원도 영월 주천강 실종 40대 남성 수색 닷새 만에 숨진 채 발견",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0115_202607221506363377"
-        }
-      ]
-    },
-    {
-      "id": "일본-엔",
-      "rank": 6,
-      "keyword": "일본 엔",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '엔화 가치 40년 만에 최저…당국 \"필요시 단호한 대응\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "엔화 가치 40년 만에 최저…당국 \"필요시 단호한 대응\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/yQrh4WTsXf"
-        },
-        {
-          "title": "엔화 가치 40년 만 최저…달러당 163엔 돌파",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260723055651hS4"
-        },
-        {
-          "title": "[도쿄환시] 달러-엔, 당국 개입 경계감 속 163엔대 초반",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426256"
-        }
-      ]
-    },
-    {
-      "id": "테슬라-주가",
-      "rank": 7,
-      "keyword": "테슬라 주가",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '테슬라, 기대 이하 분기 순익에 시간외 급락' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "테슬라, 기대 이하 분기 순익에 시간외 급락",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260723053929111"
-        },
-        {
-          "title": "장 마감 후 주요 주식 변동: GOOGL, TSLA, NOW, IBM, TXN, MOH, URI",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-432SI-2025446"
-        },
-        {
-          "title": "테슬라, 2Q 매출 증가에도 순이익 감소 속 '어닝 쇼크'…시간외 3%↓",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01859766645517472"
-        }
-      ]
-    },
-    {
-      "id": "일기예보",
-      "rank": 8,
-      "keyword": "일기예보",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '전국 63개 성 및 시의 일기 예보는 사람들이 매일 더욱 능동적으로 생활할 수 있도록 도와줍니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "전국 63개 성 및 시의 일기 예보는 사람들이 매일 더욱 능동적으로 생활할 수 있도록 도와줍니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/du-bao-thoi-tiet-63-tinh-thanh-giup-nguoi-dan-chu-dong-hon-moi-ngay"
-        },
-        {
-          "title": "폭우 온다더니 왜 우리 동네는 비 안 오나요?···오락가락 날씨에 시민들 혼란",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/tD1VCxPKhL"
-        },
-        {
-          "title": "[도청도설] 강수 예보 적중률",
+          "title": "누가 괴물인가…반전 아닌 역전으로 인간 중심 사고에 킥 날리다",
           "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260723.22018006560"
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0500&key=20260723.22014006506"
         }
       ]
     },
     {
-      "id": "소유진",
-      "rank": 9,
-      "keyword": "소유진",
-      "volumeLabel": "100+",
+      "id": "googl",
+      "rank": 5,
+      "keyword": "googl",
+      "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''배그 부부' 남편, \"사칭 주의\" 한 달 만 공식 후원…\"소액이지만\" 응원 물결 '뭉클' [엑's 이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Google parent Alphabet to report Q2 earnings in latest test of AI trade' (Yahoo Finance) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'배그 부부' 남편, \"사칭 주의\" 한 달 만 공식 후원…\"소액이지만\" 응원 물결 '뭉클' [엑's 이슈]",
+          "title": "Google parent Alphabet to report Q2 earnings in latest test of AI trade",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/article/google-parent-alphabet-to-report-q2-earnings-in-latest-test-of-ai-trade-110000124.html"
+        },
+        {
+          "title": "Google's Q2 earnings of $112.11B beat Wall Street's expectations on AI boom",
+          "source": "NBC Bay Area",
+          "url": "https://www.nbcbayarea.com/news/local/googles-q2-earnings/4117497/"
+        },
+        {
+          "title": "Alphabet Quadruples Profit to $112 Billion, Fueled by A.I. Investments",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/22/technology/alphabet-google-earnings-profit.html"
+        }
+      ]
+    },
+    {
+      "id": "김혜성",
+      "rank": 6,
+      "keyword": "김혜성",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"트레이드 요청하는 게 낫다\" 강정호 말이 맞을까…김혜성, 트리플A 4경기 연속 안타' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"트레이드 요청하는 게 낫다\" 강정호 말이 맞을까…김혜성, 트리플A 4경기 연속 안타",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260722131650823"
+          "url": "https://v.daum.net/v/20260722142508597"
         },
         {
-          "title": "\"냉장고 비지 않게 할게요\"…소유진·백종원, '배그부부'에 따뜻한 약속",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260722_0003717899"
+          "title": "김혜성, 트레이드 요청 권유 받았다⋯\"이제는 떠날 때\"",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2605816"
         },
         {
-          "title": "소유진♥백종원·문세윤·박지민 후원...시한부 아내 잃은 '배그 부부' 감쌌다 [Oh!쎈 이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/07/22/G4ZDOMZSHBQWMM3BME4DAMJQGY/"
+          "title": "김혜성, 트리플A 4경기 연속 안타…후반기 꾸준한 타격감",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260722n21563"
         }
       ]
     },
     {
-      "id": "외동사거리",
-      "rank": 10,
-      "keyword": "외동사거리",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "id": "skhy",
+      "rank": 7,
+      "keyword": "skhy",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김해시 외동사거리교차로 확장 완료…\"교통체증 개선\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'SK hynix accelerates Cheongju P&T7 build to boost AI memory capacity - …' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김해시 외동사거리교차로 확장 완료…\"교통체증 개선\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260721_0003716557"
+          "title": "SK hynix accelerates Cheongju P&T7 build to boost AI memory capacity - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-it/2026/07/22/UBEWHXCOZJCTHJSKSZ2WWQDWPY/"
         },
         {
-          "title": "김해 외동사거리 도로 개선 마무리",
-          "source": "경남매일",
-          "url": "https://www.gnmaeil.com/news/articleView.html?idxno=591162"
+          "title": "SK hynix to Invest 7.0931 Trillion Won in Cheongju P&T7 Production Facility",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/en/article/2026072217302855976"
         },
         {
-          "title": "김해시, 외동사거리 교통체증 해소… 교차로 개선사업 완료",
-          "source": "시사매거진",
-          "url": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=528165"
+          "title": "Sk Hynix Inc. Approves Additional Investment for Construction of Advanced Packaging Plant P&T7 in Cheongju",
+          "source": "www.marketscreener.com",
+          "url": "https://www.marketscreener.com/news/sk-hynix-inc-approves-additional-investment-for-construction-of-advanced-packaging-plant-p-t7-in-ch-ce7f51d9d880f72d"
+        }
+      ]
+    },
+    {
+      "id": "휴대-전화",
+      "rank": 8,
+      "keyword": "휴대 전화",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[맵 브리핑] 내년부터 교내 휴대전화 사용금지' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[맵 브리핑] 내년부터 교내 휴대전화 사용금지",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721154657261"
+        },
+        {
+          "title": "체코 의회는 학교 내 휴대전화 사용을 금지하는 법안을 검토 중입니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/quoc-hoi-sec-xem-xet-du-luat-cam-su-dung-dien-thoai-di-dong-trong-truong-hoc"
+        },
+        {
+          "title": "체코, 내년부터 교내 휴대전화 사용금지",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6838758_36925.html"
+        }
+      ]
+    },
+    {
+      "id": "nvda",
+      "rank": 9,
+      "keyword": "nvda",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'NVIDIA technical analysis: bullish setup across all timeframes' (Investing.com) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "NVIDIA technical analysis: bullish setup across all timeframes",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-technical-analysis-bullish-setup-across-all-timeframes-93CH-4806739"
+        },
+        {
+          "title": "Insights Into NVIDIA's Performance Versus Peers In Semiconductors & Semiconductor Equipment Sector -",
+          "source": "Benzinga",
+          "url": "https://www.benzinga.com/news/26/07/60600240/insights-nvidia-s-performance-versus-peers-semiconductors-amp-semiconductor-equipment-sector"
+        },
+        {
+          "title": "Nvidia’s Brilliant ‘Freemium’ Software Hook is Why I’m Loading Up for The Long Term",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/articles/nvidia-brilliant-freemium-software-hook-140356733.html"
+        }
+      ]
+    },
+    {
+      "id": "바이아웃",
+      "rank": 10,
+      "keyword": "바이아웃",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘맨유 초비상’ 1140억 바이아웃→‘캡틴’ 페르난데스 이적 현실화 가능성 급부상 “재계약 협상 난항, 사우디 리그 관심”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘맨유 초비상’ 1140억 바이아웃→‘캡틴’ 페르난데스 이적 현실화 가능성 급부상 “재계약 협상 난항, 사우디 리그 관심”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Z2mpNq71Fy"
+        },
+        {
+          "title": "'나이 많으니 연봉 깎자'…맨유, 주장+에이스+전설 브루노에 충격 대우→재계약 불발 가능성, 올여름 방출되나",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260723n01246"
+        },
+        {
+          "title": "충격! 맨유 캡틴 흔들린다…\"튀르키예 이적에 OK 신호\" 재계약 불씨도 미지근→맨유 요구액 '1266억' 최대 변수",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=830134"
         }
       ]
     }
