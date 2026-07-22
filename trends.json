@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-22T16:04:04.817Z",
+  "updatedAt": "2026-07-22T17:50:31.025Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,9 +9,9 @@
       "rank": 1,
       "keyword": "이용수",
       "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '[SPO 인터뷰] \"내가 범죄를 저지른 것도 아닌데\" 박지성 비판한 서강일 회장 작심 발언 \"진실은 세상에 알려지지 않았다\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,30 +33,30 @@
       ]
     },
     {
-      "id": "인스타그램",
+      "id": "클럽-친선경기",
       "rank": 2,
-      "keyword": "인스타그램",
-      "volumeLabel": "5000+",
+      "keyword": "클럽 친선경기",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Facebook and Instagram are down — Live updates on massive outage' (Tom's Guide) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '테네리페 vs 헤타페 경기 예측: 예상 라인업' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Facebook and Instagram are down — Live updates on massive outage",
-          "source": "Tom's Guide",
-          "url": "https://www.tomsguide.com/news/live/instagram-down-outage-live-updates-7-22-26"
+          "title": "테네리페 vs 헤타페 경기 예측: 예상 라인업",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-tenerife-vs-getafe-doi-hinh-du-kien"
         },
         {
-          "title": "Is Instagram down right now? Users reporting issues with Instagram",
-          "source": "Asbury Park Press",
-          "url": "https://www.app.com/story/tech/2026/07/22/instagram-down-downdetector-july-22-2026/91006967007/"
+          "title": "토트넘 대 밀턴 케인즈 돈스 경기 예측: 예상 라인업",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-tottenham-vs-milton-keynes-dons-doi-hinh-du-kien"
         },
         {
-          "title": "Global Meta outage disrupts Facebook and Instagram services worldwide",
-          "source": "The Jerusalem Post",
-          "url": "https://www.jpost.com/business-and-innovation/article-902924"
+          "title": "토트넘 대 MK 돈스 축구 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-tottenham-vs-mk-dons-1738989.ldo"
         }
       ]
     },
@@ -64,10 +64,10 @@
       "id": "교사",
       "rank": 3,
       "keyword": "교사",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '17년째 병가 쓴 ‘유령 교사’…“퇴직하라” 명령에 오히려 소송' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -89,198 +89,198 @@
       ]
     },
     {
-      "id": "토트넘",
+      "id": "극한-호우",
       "rank": 4,
-      "keyword": "토트넘",
+      "keyword": "극한 호우",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[속보] '충격' 손흥민에게 받은 '캡틴 완장' 반납 후 떠난다···HERE WE GO \"토트넘과 사실상 결별 확정, 복귀 가능…' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"휴가철 하루 614만 명 이동\"…안전한 휴가 '특별교통대책' 가동' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[속보] '충격' 손흥민에게 받은 '캡틴 완장' 반납 후 떠난다···HERE WE GO \"토트넘과 사실상 결별 확정, 복귀 가능성 없다\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260722n26169"
+          "title": "\"휴가철 하루 614만 명 이동\"…안전한 휴가 '특별교통대책' 가동",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968575"
         },
         {
-          "title": "토트넘 '손흥민 후임' 내보낸다…\"농구였다면 테크니컬 파울\" 1002억 요구→802억도 OK, 이미 '로메로 없는 팀'으로 새 시즌 준비 착수",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/qbGP45HlS1"
-        },
-        {
-          "title": "'책임감 없다 비난' 쏘니 이어 로메로도 이탈! 연이어 떠나는 토트넘 캡틴들…바르셀로나 또는 인터 밀란 고려",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/football/2026-07-23/202607230100139490008881"
-        }
-      ]
-    },
-    {
-      "id": "박동원",
-      "rank": 5,
-      "keyword": "박동원",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''저 공을 왜 안 잡아' 번트 타구 놓친 LG 박동원 문책성 교체?…혼란의 LG, 6연패 수렁' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'저 공을 왜 안 잡아' 번트 타구 놓친 LG 박동원 문책성 교체?…혼란의 LG, 6연패 수렁",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260722155327427"
-        },
-        {
-          "title": "충격의 6연패로 3위도 위태…위기 직면한 '디펜딩 챔프' LG",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260722_0003717908"
-        },
-        {
-          "title": "‘충격 6연패’ 우승팀 LG, 염갈량 부임 이후 최다 연패 불명예…2년 전 후반기 추락 되풀이되나, 새 외국인 투수 오면 달라질까 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/07/22/202607221220771801O"
-        }
-      ]
-    },
-    {
-      "id": "이승우",
-      "rank": 6,
-      "keyword": "이승우",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이승우, '홍명보호' 탈락 심경 고백 \"무릎 꿇고 기도\"..김영광 \"감독 고집\" 돌직구 [라스][★밤TView]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "이승우, '홍명보호' 탈락 심경 고백 \"무릎 꿇고 기도\"..김영광 \"감독 고집\" 돌직구 [라스][★밤TView]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260723000707052"
-        },
-        {
-          "title": "'라디오스타' 김영광, 홍명보 향한 작심 발언⋯\"이상한 고집 있어\"",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2606393"
-        },
-        {
-          "title": "'홍명보호 탈락' 이승우 \"월드컵 명단 발표 때 무릎 꿇고 기도\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260722_0003718061"
-        }
-      ]
-    },
-    {
-      "id": "김준상",
-      "rank": 7,
-      "keyword": "김준상",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘SK하이닉스 출신’ 김준상 아나운서 “8만원에 전재산 올인…동기 성과급 1억↑”' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘SK하이닉스 출신’ 김준상 아나운서 “8만원에 전재산 올인…동기 성과급 1억↑”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260721234951078?f=m"
-        },
-        {
-          "title": "'하닉 출신' 김준상 \"8만원에 산 주식, 10만원에 전량 매도\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260721_0003717705"
-        },
-        {
-          "title": "SK하이닉스 8만 원에 전 재산 베팅…'하이닉스 퇴사' 아나운서, 현재 계좌는?",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2174309"
-        }
-      ]
-    },
-    {
-      "id": "유럽",
-      "rank": 8,
-      "keyword": "유럽",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '프랑스 덮친 6월 폭염에 5천700명 초과 사망…고령층이 65％' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "프랑스 덮친 6월 폭염에 5천700명 초과 사망…고령층이 65％",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260722232452525"
-        },
-        {
-          "title": "40도 펄펄 끓더니, 갑자기 12도 '뚝' 급랭…유럽에 무슨 일이?",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260722000353"
-        },
-        {
-          "title": "스페인·佛 산불, 발칸반도는 우박…널뛰는 날씨에 유럽 신음",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/europe/6235229"
-        }
-      ]
-    },
-    {
-      "id": "모스-탄",
-      "rank": 9,
-      "keyword": "모스 탄",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독]법무부, ‘이 대통령 명예훼손’ 기소된 모스 탄에 추가 출국정지' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[단독]법무부, ‘이 대통령 명예훼손’ 기소된 모스 탄에 추가 출국정지",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260722183609900"
-        },
-        {
-          "title": "\"李대통령은 소년범\" 모스탄 명예훼손 혐의 기소…추가 출국정지(종합)",
+          "title": "인천시, 여름 휴가철 고속버스·시외버스·여객선 증편",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260722143551004"
+          "url": "https://www.yna.co.kr/view/AKR20260722134600065"
         },
         {
-          "title": "檢 \"李 소년원 수감설 허위\"…기소된 모스탄, 추가 출국정지(종합)",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260722_0003719407"
+          "title": "여름휴가철 여행객 4명 중 1명 “동해안으로”… 압도적 1위",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260723000844149"
         }
       ]
     },
     {
-      "id": "한강-벨트",
-      "rank": 10,
-      "keyword": "한강 벨트",
+      "id": "유골함",
+      "rank": 5,
+      "keyword": "유골함",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '고인 얼굴 새겨진 유골함이 쓰레기통 옆에…무슨 일?' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "고인 얼굴 새겨진 유골함이 쓰레기통 옆에…무슨 일?",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260722/134348066/1"
+        },
+        {
+          "title": "\"화장 끝나자 버려졌다\"…흡연장에 유기된 유골함",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260722181756323"
+        },
+        {
+          "title": "\"유골함이 왜 쓰레기통 옆에…\" 장례지도사도 충격, 무슨 일?",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260722_0003719412"
+        }
+      ]
+    },
+    {
+      "id": "가수",
+      "rank": 6,
+      "keyword": "가수",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '도심 주택서 대마 재배한 힙합 가수·작곡가 등 12명 기소' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "도심 주택서 대마 재배한 힙합 가수·작곡가 등 12명 기소",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260722/134344049/1"
+        },
+        {
+          "title": "도심서 대마 재배한 힙합 가수·작곡가 등 12명 기소",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260722104600061"
+        },
+        {
+          "title": "집에서 대마초 공장 차린 힙합 가수·영어 강사 등 12명 재판행 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/07/22/2026072216245468935"
+        }
+      ]
+    },
+    {
+      "id": "홈-플러스-재개-장",
+      "rank": 7,
+      "keyword": "홈 플러스 재개 장",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '종부세 째깍째깍...1주택자도 \"빚 내서 내야\" 발동동 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '김병주 MBK 회장이 韓 PEF종사자들에게 던진 빚 '무한책임'' (인베스트조선) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "종부세 째깍째깍...1주택자도 \"빚 내서 내야\" 발동동 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/07/22/2026072119541116925"
+          "title": "김병주 MBK 회장이 韓 PEF종사자들에게 던진 빚 '무한책임'",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/07/21/2026072180103.html"
         },
         {
-          "title": "양도세 장특공제 ‘실거주 중심’ 개편 강원 영향은?",
+          "title": "홈플러스 “임시휴업 점포 67곳 영업재개 방침”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260723000703047"
+          "url": "https://v.daum.net/v/20260723003200328"
         },
         {
-          "title": "초고가 기준 어떻게‥30억이면 한강벨트, 50억이면 강남 3구에 집중",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6839371_37004.html"
+          "title": "[속보]법원, 홈플러스 회생절차 폐지 취소…회생계획안 가결기간 9월까지 연장",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607211126001"
+        }
+      ]
+    },
+    {
+      "id": "dc",
+      "rank": 8,
+      "keyword": "dc",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘Clayface’ Trailer Sets Up Brutal Horror Origin Story for Classic Batma…' (Gizmodo) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘Clayface’ Trailer Sets Up Brutal Horror Origin Story for Classic Batman Villain",
+          "source": "Gizmodo",
+          "url": "https://gizmodo.com/clayface-trailer-sets-up-brutal-horror-origin-story-for-classic-batman-villain-2000789254"
+        },
+        {
+          "title": "‘Clayface’ close-up: Tom Rhys Harries delves into DC’s R-rated body horror (exclusive)",
+          "source": "Entertainment Weekly",
+          "url": "https://ew.com/clayface-cover-story-tom-rhys-harries-dc-r-rated-body-horror-exclusive-12022249"
+        },
+        {
+          "title": "‘Clayface’ Trailer: Tom Rhys Harries Becomes One of Gotham’s Most Grotesque Villains",
+          "source": "IndieWire",
+          "url": "https://www.indiewire.com/news/trailers/clayface-trailer-1235206594/"
+        }
+      ]
+    },
+    {
+      "id": "fm",
+      "rank": 9,
+      "keyword": "fm",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'N. Korea FM returns home from Russia trip' (Yonhap News Agency) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "N. Korea FM returns home from Russia trip",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/PYH20260721162700315"
+        },
+        {
+          "title": "Russian Foreign Minister Says 'Secret Communication' Between Putin and Kim Jong-un Is Important",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008666130"
+        },
+        {
+          "title": "N. Korean FM returns from trip to Russia: state media",
+          "source": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260722/n-korean-fm-returns-from-trip-to-russia-state-media"
+        }
+      ]
+    },
+    {
+      "id": "fx5",
+      "rank": 10,
+      "keyword": "fx5",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'The Sony FX5 is Here: Is it Instantly the Best Compact Cinema Camera on…' (No Film School) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "The Sony FX5 is Here: Is it Instantly the Best Compact Cinema Camera on the Market?",
+          "source": "No Film School",
+          "url": "https://nofilmschool.com/sony-fx5-announcement"
+        },
+        {
+          "title": "Sony Electronics Launches the FX5, a Cinema Line Camera with a Newly Developed Image Sensor, Open Gate Recording, Internal RAW Recording, and Enhanced Operability",
+          "source": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/sony-electronics-launches-the-fx5-a-cinema-line-camera-with-a-newly-developed-image-sensor-open-gate-recording-internal-raw-recording-and-enhanced-operability-302832238.html"
+        },
+        {
+          "title": "Sony FX5– 5K60 Open Gate (3:2), 5K120 (16:9) & X-OCN Internal RAW Recording",
+          "source": "Newsshooter",
+          "url": "https://www.newsshooter.com/2026/07/22/sony-fx5-5k60-open-gate-32-5k120-169-x-ocn-internal-raw-recording/"
         }
       ]
     }
