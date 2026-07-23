@@ -1,286 +1,281 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-23T00:08:50.436Z",
+  "updatedAt": "2026-07-23T03:56:40.041Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "이자",
+      "id": "엘에이-fc-대-솔트레이크",
       "rank": 1,
-      "keyword": "이자",
+      "keyword": "엘에이 fc 대 솔트레이크",
+      "volumeLabel": "100000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘손흥민 리그 2호골 작렬’ 부앙가 추가골까지 터졌다…LAFC 전반전 2-0 리드(전반종료) - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘손흥민 리그 2호골 작렬’ 부앙가 추가골까지 터졌다…LAFC 전반전 2-0 리드(전반종료) - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/07/23/202607231222778764O"
+        },
+        {
+          "title": "LAFC 손흥민, 솔트레이크 상대로 MLS 2경기 연속골 폭발",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260723_0003720325"
+        },
+        {
+          "title": "[속보] 손흥민 두 경기 연속골 폭발, 홍명보 월드컵 아픔 털어냈다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260723115840321?t=m&x_mn=6a6183efafd4137a09cf0b12"
+        }
+      ]
+    },
+    {
+      "id": "축구-감독",
+      "rank": 2,
+      "keyword": "축구 감독",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"대한민국 차기 사령탑 유력 후보\"… 아르헨 잡았던 레나르 감독 인기 폭발, 남아공·세네갈·알제리도 관심' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"대한민국 차기 사령탑 유력 후보\"… 아르헨 잡았던 레나르 감독 인기 폭발, 남아공·세네갈·알제리도 관심",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260723073650218"
+        },
+        {
+          "title": "\"가장 유력한 사람 중 한 명\"…佛 기자 주장! 월드컵에서 아르헨티나 꺾었던 사령탑 한국 감독 후보 거론",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260723n06413"
+        },
+        {
+          "title": "[속보]\"홍명보 후임 유력 후보 거론\" 초대형 루머 폭발...'메시 제압+아프리카 정복' 르나르 감독 2년 만에 한국행 거론",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/football/2026-07-23/202607230100139910008908"
+        }
+      ]
+    },
+    {
+      "id": "청소차",
+      "rank": 3,
+      "keyword": "청소차",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '쓰레기 수거 작업 중 청소차 ‘펑’…“원인은 무심코 버린 산소통” [잇슈 SNS]' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "쓰레기 수거 작업 중 청소차 ‘펑’…“원인은 무심코 버린 산소통” [잇슈 SNS]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8617857"
+        },
+        {
+          "title": "[영상] 산소통 무심코 버렸다가…블랙박스에 포착된 청소차 폭발 순간",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260722065900704"
+        },
+        {
+          "title": "[쇼츠] 청소차에 실었다가 폭발한 '공포의 쓰레기' · 현장 상황은?",
+          "source": "https://spt.co.kr/",
+          "url": "https://supple.kr/news/cmrvg7r6n006fas97fnnc3tg0"
+        }
+      ]
+    },
+    {
+      "id": "체조-선수",
+      "rank": 4,
+      "keyword": "체조 선수",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"매수자 배려\" 17억을 무이자로…장동혁 \"이런 식이면\"' (JTBC) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '유흥업소 접대부로 새출발한 전 국대 체조선수…일본 발칵' (문화일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"매수자 배려\" 17억을 무이자로…장동혁 \"이런 식이면\"",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12309643"
+          "title": "유흥업소 접대부로 새출발한 전 국대 체조선수…일본 발칵",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11604408"
         },
         {
-          "title": "'17억 원대 근저당' 연일 해명…오늘 부동산 대토론회",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260723063007072"
+          "title": "올림픽도 나간 일본 체조 '천재 소녀'…은퇴 후 유흥업소 택한 이유 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/07/23/2026072308043911606"
         },
         {
-          "title": "“사실거면 5억 빌려드리고요”...‘매도인 대출’ 강남·분당선 벌써 유행",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12104869"
+          "title": "日국가대표 지낸 '체조 천재'의 고백…\"은퇴 후 접대부로 일해\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/northeast-asia/6236580"
         }
       ]
     },
     {
-      "id": "당구",
-      "rank": 2,
-      "keyword": "당구",
+      "id": "안귀령",
+      "rank": 5,
+      "keyword": "안귀령",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '장동혁 “17억 빌려주고 이자 안 받아…‘매수자 관계’ 밝혀야” [지금뉴스]' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "장동혁 “17억 빌려주고 이자 안 받아…‘매수자 관계’ 밝혀야” [지금뉴스]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8618062"
+        },
+        {
+          "title": "개혁신당 “이 대통령, 비판은 ‘입틀막’…근저당권 설정은 ‘내로남불’”​",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260723114337724"
+        },
+        {
+          "title": "\"근저당 매매 사실은‥\" 토론회 앞서 선제 해명",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6839457_37012.html"
+        }
+      ]
+    },
+    {
+      "id": "lafc",
+      "rank": 6,
+      "keyword": "lafc",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'LAFC Transfers Midfielder Amin Boudri to Hammarby IF' (LAFC) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "LAFC Transfers Midfielder Amin Boudri to Hammarby IF",
+          "source": "LAFC",
+          "url": "https://www.lafc.com/news/lafc-transfers-midfielder-amin-boudri-to-hammarby-if"
+        },
+        {
+          "title": "LAFC transfer Amin Boudri to Swedish club",
+          "source": "MLSsoccer.com",
+          "url": "https://www.mlssoccer.com/news/lafc-transfer-amin-boudri-to-swedish-club"
+        },
+        {
+          "title": "Report: LAFC sending F Amin Boudri to Swedish club",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/sports/soccer/report-lafc-sending-f-amin-boudri-swedish-club--flm-2026-07-20/"
+        }
+      ]
+    },
+    {
+      "id": "mls",
+      "rank": 7,
+      "keyword": "mls",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '건설 노동과 프로당구 병행하는 박기호, 드림투어 3차전 우승' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Highlights: Nashville SC 1-0 CF Montréal (MLS)' (OneFootball) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "건설 노동과 프로당구 병행하는 박기호, 드림투어 3차전 우승",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260722050900007"
+          "title": "Highlights: Nashville SC 1-0 CF Montréal (MLS)",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/en/video/highlights-nashville-sc-1-0-cf-montreal-mls-3GsyCtCgLcEFEnpYCF2x80ads39"
         },
         {
-          "title": "건설 현장 오가는 ‘투잡 선수’ 박기호, PBA 2부 투어 정상 올라",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/07/22/GIO5VPA72RGAFGAXM53PYQX3IY/"
+          "title": "APTOPIX MLS Montreal Nashville Soccer",
+          "source": "couriernews.com",
+          "url": "https://www.couriernews.com/sports/aptopix-mls-montreal-nashville-soccer/image_344a31b8-41d1-5782-bdad-eeff4d306758.html"
         },
         {
-          "title": "당구·건설 노동 병행하는 박기호, 드림투어 3차전 우승",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260722_0003718615"
+          "title": "Sam Surridge scores on a PK, Nashville beats Montreal 1-0 for 5th straight win",
+          "source": "The Washington Post",
+          "url": "https://www.washingtonpost.com/sports/soccer/2026/07/22/montreal-nashville-score/4dd3fe80-8640-11f1-9cec-0fb26676f07e_story.html"
         }
       ]
     },
     {
-      "id": "외계-위성",
-      "rank": 3,
-      "keyword": "외계 위성",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[사이테크+] 행성도 달도 아니다?…\"태양계 밖 첫 '외계위성' 후보 발견\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[사이테크+] 행성도 달도 아니다?…\"태양계 밖 첫 '외계위성' 후보 발견\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/UIVtTANdt3"
-        },
-        {
-          "title": "달처럼 도는 목성급 ‘거대 외계 위성’ 첫 발견",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/People/article/all/20260722/134347803/2"
-        },
-        {
-          "title": "[사이언스샷] 태양계 밖에도 달 있다, 외계 위성 첫 포착 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/science-chosun/science/2026/07/23/37ESOTWEFNETZKX4JT62LOOAHA/"
-        }
-      ]
-    },
-    {
-      "id": "이만희",
-      "rank": 4,
-      "keyword": "이만희",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘신천지 신도’ 교도관, 이만희 수감기록 교단에 넘겼나···경찰, 정보유출 의혹 수사' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘신천지 신도’ 교도관, 이만희 수감기록 교단에 넘겼나···경찰, 정보유출 의혹 수사",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607222123001"
-        },
-        {
-          "title": "'이만희 구치소 정보 유출 의혹' 교도관 경찰 수사 착수",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/WmkmwcjJIz"
-        },
-        {
-          "title": "교정당국, 신천지 이만희 수감정보 빼돌린 교도관 고발",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20260722001600038"
-        }
-      ]
-    },
-    {
-      "id": "박지윤",
-      "rank": 5,
-      "keyword": "박지윤",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"자고 일어나면 온몸 붓는다\"…박지윤, '호르몬 이상'→달걀 한 알로 버틴다' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"자고 일어나면 온몸 붓는다\"…박지윤, '호르몬 이상'→달걀 한 알로 버틴다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260722165038382"
-        },
-        {
-          "title": "박지윤 \"엉덩이가 불타요\"…8㎏ 감량 성공 후 유지 비결",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260722_0003718405"
-        },
-        {
-          "title": "'최동석 이혼' 박지윤 \"악으로 깡으로 싸우는 중\" 알고 보니",
-          "source": "스포탈코리아",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553396703"
-        }
-      ]
-    },
-    {
-      "id": "inter-miami-vs-chicago",
-      "rank": 6,
-      "keyword": "inter miami vs chicago",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'talkSPORT tips – Best football bets and expert advice for Wednesday 22 …' (talkSPORT) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "talkSPORT tips – Best football bets and expert advice for Wednesday 22 July",
-          "source": "talkSPORT",
-          "url": "https://talksport.com/football/4445531/talksport-tips-best-football-bets-wednesday-22-july/"
-        },
-        {
-          "title": "You can watch Chicago Fire vs Inter Miami streaming live for free tonight - Here’s how",
-          "source": "OregonLive.com",
-          "url": "https://www.oregonlive.com/tv/2026/07/you-can-watch-chicago-fire-vs-inter-miami-streaming-live-for-free-tonight-heres-how.html"
-        },
-        {
-          "title": "MLS Best Player Prop Picks, Odds, Predictions for Wednesday, July 22, 2026",
-          "source": "Lineups",
-          "url": "https://www.lineups.com/articles/mls-best-player-prop-picks-odds-predictions-for-wednesday-july-22-2026/"
-        }
-      ]
-    },
-    {
-      "id": "통화",
-      "rank": 7,
-      "keyword": "통화",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"금 삽니다\"…13년 만에 마음 바꾼 한은' (이데일리) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"금 삽니다\"…13년 만에 마음 바꾼 한은",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01666246645517472&mediaCodeNo=257"
-        },
-        {
-          "title": "\"외환보유액에 달러·금 많으면 美 금리 인상 환율 충격 적어\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/0Wx8knJ6Hu"
-        },
-        {
-          "title": "“달러·금 많을수록 환율 충격 완화”…美 금리 10bp 오르면 통화가치 0.4%↓",
-          "source": "www.dt.co.kr",
-          "url": "https://www.dt.co.kr/article/12074054"
-        }
-      ]
-    },
-    {
-      "id": "이혜성",
+      "id": "경비원",
       "rank": 8,
-      "keyword": "이혜성",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "keyword": "경비원",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이혜성 \"한 번도 대세였던 적 없어, 신드롬 일으킬 일도 없을 것\" 의외의 소감' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"청소 안 하고 이 XX 어디갔어?\"…입주민 폭언·폭행에 70대 경비원 뇌진탕' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이혜성 \"한 번도 대세였던 적 없어, 신드롬 일으킬 일도 없을 것\" 의외의 소감",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/07/22/HBRTEYJVME3TKNJSGQ3TCOBVME/"
+          "title": "\"청소 안 하고 이 XX 어디갔어?\"…입주민 폭언·폭행에 70대 경비원 뇌진탕",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260722_0003718007"
         },
         {
-          "title": "\"묵묵하게 씨 뿌린다\" 이혜성, 유튜브 구독자 30만 달성",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/5SGzfBztIB"
+          "title": "\"네 월급 내가 줘\" 경비원 폭행한 80대...경찰엔 \"나 치매\" 주장 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/07/22/2026072123400122379"
         },
         {
-          "title": "이혜성, 무슨 일이야…대박 터졌다 \"대세였던 적 없는데\" 명품 선물까지, 구독자 30만 '달성'",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260722n22349"
+          "title": "\"네 월급 내가 준다\"…경비원 폭행한 80대 입주민, 검찰 송치되자 \"나 치매\" 주장",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202607220839437180"
         }
       ]
     },
     {
-      "id": "대우건설",
+      "id": "선관위",
       "rank": 9,
-      "keyword": "대우건설",
-      "volumeLabel": "200+",
+      "keyword": "선관위",
+      "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"대우건설 2Q 실적 양호…주가에 필요한 건 원전\"[클릭 e종목]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '투표율 틀리자 수정 않고 통계 조작…6·3선거 사태 '새 국면'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"대우건설 2Q 실적 양호…주가에 필요한 건 원전\"[클릭 e종목]",
+          "title": "투표율 틀리자 수정 않고 통계 조작…6·3선거 사태 '새 국면'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260723072052919"
+          "url": "https://v.daum.net/v/20260723093452196"
         },
         {
-          "title": "[리포트 브리핑]대우건설, '원전주라면 원전으로 승부를 봐야 한다' 목표가 20,000원 - KB증권",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260723000112"
+          "title": "[속보] 합수본, 중앙선관위 압수수색…‘투표율 허위 입력’ 정황 포착",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/07/23/OWM5W5OBEFELRBGY4T7NQ2P4IY/"
         },
         {
-          "title": "원전 앞세운 김보현 대우건설 대표…체코 넘어 글로벌 영토 확장 [CEO탐구생활]",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2605258"
+          "title": "투표지 합수본, 중앙선관위 압수수색‥통계 임의 조작 의혹",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6839480_36918.html"
         }
       ]
     },
     {
-      "id": "발렌시아-대-엘덴세",
+      "id": "금양",
       "rank": 10,
-      "keyword": "발렌시아 대 엘덴세",
-      "volumeLabel": "100+",
+      "keyword": "금양",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '경기 통계 발렌시아 3-0 엘덴세: 발렌시아가 설득력 있게 승리했습니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[중견기업 해부] 현금 92억 남았는데 1.2조 투자?...상폐 앞둔 금양 ‘빨간불’ - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "경기 통계 발렌시아 3-0 엘덴세: 발렌시아가 설득력 있게 승리했습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/thong-ke-tran-dau-valencia-3-0-eldense-valencia-thang-dam-thuyet-phuc"
+          "title": "[중견기업 해부] 현금 92억 남았는데 1.2조 투자?...상폐 앞둔 금양 ‘빨간불’ - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/industry/business-venture/2026/07/23/23LH66WJF5H5PCSZMATP3EV7UE/"
         },
         {
-          "title": "발렌시아 vs 엘덴세 경기 생중계: 경기가 진행 중입니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-valencia-vs-eldense-tran-dau-dang-dien-ra"
-        },
-        {
-          "title": "발렌시아 vs 엘덴세 생중계: 발렌시아, 3-0으로 리드 확대",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-valencia-vs-eldense-valencia-noi-rong-cach-biet-3-0"
+          "title": "[연속기획] 상장폐지 기업의 '공통 공식' ① 금양·STX·KC그린홀딩스",
+          "source": "kjtimes",
+          "url": "https://www.kjtimes.com/news/article.html?no=79856"
         }
       ]
     }
