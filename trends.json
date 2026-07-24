@@ -1,286 +1,270 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-24T15:14:55.761Z",
+  "updatedAt": "2026-07-24T17:07:58.489Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "동티모르-대-베트남",
+      "id": "로센보르그-대-맨유",
       "rank": 1,
-      "keyword": "동티모르 대 베트남",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
+      "keyword": "로센보르그 대 맨유",
+      "volumeLabel": "10000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김상식호 베트남, 2연속 동남아 최정상 도전…\"방심은 없다\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''2010년생 꼬마'인데...맨유 1군 원정 합류한 '26골 괴물 유망주', 로센보르그전 깜짝 데뷔 눈앞' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김상식호 베트남, 2연속 동남아 최정상 도전…\"방심은 없다\"",
+          "title": "'2010년생 꼬마'인데...맨유 1군 원정 합류한 '26골 괴물 유망주', 로센보르그전 깜짝 데뷔 눈앞",
           "source": "Daum",
-          "url": "https://v.daum.net/v/9XTAGNgRF4"
+          "url": "https://v.daum.net/v/80T7BdRfWD?f=p"
         },
         {
-          "title": "김상식호 베트남, '동남아 월드컵' 현대컵 2연패 도전",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260724072000007"
+          "title": "맨유가 드디어 숨겨둔 재능 꺼냈다! '15세 괴물 유망주' 가브리엘, 프리시즌 첫 1군 명단 포함",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260724n06052"
         },
         {
-          "title": "김상식, 베트남 축구 새 역사 쓴다",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11604750"
+          "title": "로젠보르그 대 맨체스터 유나이티드 경기 생중계: 로젠보르그가 경기를 주도하고 있지만 아직 득점은 없습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-rosenborg-vs-manchester-united-rosenborg-kiem-soat-the-tran-chua-co-ban-thang"
         }
       ]
     },
     {
-      "id": "jp모건-체이스",
+      "id": "르브론",
       "rank": 2,
-      "keyword": "jp모건 체이스",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Jamie Dimon says markets underestimate risks and he wouldn't buy stocks…' (CNBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/21/jpmorgan-chase-ceo-jamie-dimon-market-risk.html"
-        },
-        {
-          "title": "Jamie Dimon says he wouldn’t buy stocks or Treasurys at current prices",
-          "source": "Fox Business",
-          "url": "https://www.foxbusiness.com/markets/jamie-dimon-says-he-wouldnt-buy-stocks-treasurys-current-prices"
-        },
-        {
-          "title": "5 Key Takeaways From Jamie Dimon's Hourlong Podcast Interview",
-          "source": "Business Insider",
-          "url": "https://www.businessinsider.com/5-key-takeaways-from-jamie-dimons-hourlong-podcast-interview-2026-7"
-        }
-      ]
-    },
-    {
-      "id": "빅테크",
-      "rank": 3,
-      "keyword": "빅테크",
+      "keyword": "르브론",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김용범 “삼성·SK하이닉스, 美 빅테크와 새 메모리 장기 계약 발표할 것”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '전쟁같은 르브론 영입경쟁...마지막 우승 꿈꾸는 그의 선택은' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김용범 “삼성·SK하이닉스, 美 빅테크와 새 메모리 장기 계약 발표할 것”",
+          "title": "전쟁같은 르브론 영입경쟁...마지막 우승 꿈꾸는 그의 선택은",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260724210610763"
+          "url": "https://v.daum.net/v/20260724150137835"
         },
         {
-          "title": "김용범 “샌프란 AI행사서 장기 계약 나올 것…4700조 넘을 수도”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260724/134361954/2"
-        },
-        {
-          "title": "'청년 불안' 호소에 박수 쳐준 이 대통령...'반도체 초과세수' 언급도 [현장영상+]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0102_202607231346339597_005.html"
-        }
-      ]
-    },
-    {
-      "id": "서장훈의-이웃집-백만장자",
-      "rank": 4,
-      "keyword": "서장훈의 이웃집 백만장자",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '장예원, 웨딩드레스 자태…서장훈 \"내가 남편도 아닌데\" 미소' (세계일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "장예원, 웨딩드레스 자태…서장훈 \"내가 남편도 아닌데\" 미소",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260723506351"
-        },
-        {
-          "title": "500억 사업가 “삼풍백화점 나온 2시간 뒤 붕괴”…악몽·죄책감 시달렸다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20260723/134349634/2"
-        },
-        {
-          "title": "삼풍백화점 참사가 바꾼 인생…보험왕에서 '연매출 500억' 웨딩왕으로 (백만장자)[종합]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260723113809498?f=p"
-        }
-      ]
-    },
-    {
-      "id": "đông-timor-đấu-với-việt-nam",
-      "rank": 5,
-      "keyword": "đông timor đấu với việt nam",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Timor Leste lột xác với dàn cầu thủ châu Âu trước cuộc chạm trán Việt N…' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Timor Leste lột xác với dàn cầu thủ châu Âu trước cuộc chạm trán Việt Nam",
-          "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/timor-leste-lot-xac-voi-dan-cau-thu-chau-au-truoc-cuoc-cham-tran-viet-nam-c48a1780702.html"
-        },
-        {
-          "title": "'Đội tuyển Việt Nam đang có chiều sâu tốt nhất lịch sử'",
-          "source": "VnExpress",
-          "url": "https://vnexpress.net/doi-tuyen-viet-nam-dang-co-chieu-sau-tot-nhat-lich-su-5101278.html"
-        },
-        {
-          "title": "Đỗ Hoàng Hên mở tài khoản bàn thắng cho tuyển Việt Nam tại ASEAN",
-          "source": "Bongda24h",
-          "url": "https://bongda24h.vn/video-bong-da-viet-nam/do-hoang-hen-mo-tai-khoan-ban-thang-cho-tuyen-viet-nam-tai-asean-cup-2026-325-455900.html"
-        }
-      ]
-    },
-    {
-      "id": "삼성e-a",
-      "rank": 6,
-      "keyword": "삼성e a",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“하루 새 10곳이 목표가 올렸다”…삼성E&A에 무슨 일이' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“하루 새 10곳이 목표가 올렸다”…삼성E&A에 무슨 일이",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202607244637i"
-        },
-        {
-          "title": "삼성E&A, 삼성전자향 증설 및 중동 재건까지…목표가↑-NH",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02735526645517800"
-        },
-        {
-          "title": "[특징주] 삼성E&A, 2분기 호실적에 하락장서도 강세",
+          "title": "NBA 마이애미, 실수로 제임스 입단 예약 링크 올렸다가 삭제",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260724038700008"
+          "url": "https://www.yna.co.kr/view/AKR20260723010000007"
+        },
+        {
+          "title": "\"무료 회원권 줄게\" \"프로 레슨 제공\" 르브론 영입 경쟁에 지역 골프장도 나섰다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/07/23/CTPMOALV4ZAY3IACH62FAXIYVQ/"
         }
       ]
     },
     {
-      "id": "재판",
-      "rank": 7,
-      "keyword": "재판",
+      "id": "1-박-2-일",
+      "rank": 3,
+      "keyword": "1 박 2 일",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''1박2일' 이준, 또 사고 쳤다…독단적 의견 요청에 멤버들 '황당'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'1박2일' 이준, 또 사고 쳤다…독단적 의견 요청에 멤버들 '황당'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260724143446859"
+        },
+        {
+          "title": "‘1박 2일’ 대표 열정맨 이준, 뜨거운 예능 열정",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202607242359003"
+        },
+        {
+          "title": "이준, 제작진에 파격 요청? “더 굴려주세요” (1박 2일)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260724/134356124/1"
+        }
+      ]
+    },
+    {
+      "id": "안주완",
+      "rank": 4,
+      "keyword": "안주완",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''17세 3개월 10일' 서울E 안주완, K리그 최연소 득점 신기록' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'17세 3개월 10일' 서울E 안주완, K리그 최연소 득점 신기록",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260724181300007"
+        },
+        {
+          "title": "K리그2 서울 이랜드, 천안시티에 4-3 진땀승…안주완 최연소 득점",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/soccer/6238602"
+        },
+        {
+          "title": "'뉴캐슬 박승수 기록 깼다!' 서울이랜드 안주완, K리그 최연소 골 신기록... 17세 3개월 10일 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/07/24/2026072421462247789"
+        }
+      ]
+    },
+    {
+      "id": "lebron-james",
+      "rank": 5,
+      "keyword": "lebron james",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'LeBron James joins Philadelphia for final title run - CHOSUNBIZ' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "LeBron James joins Philadelphia for final title run - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/07/25/R3VIB3RFAZGOJCKMVQI5ZXEUYM/"
+        },
+        {
+          "title": "Sixers owner Josh Harris met with LeBron James at Fanatics Fest, source says",
+          "source": "NBC10 Philadelphia",
+          "url": "https://www.nbcphiladelphia.com/nba/philadelphia-76ers/sixers-owner-josh-harris-met-with-lebron-james-at-fanatics-fest-source-says/4435543/"
+        },
+        {
+          "title": "Jaylen Brown, Tyrese Maxey, VJ Edgecombe React to LeBron James' 76ers Contract in New Posts",
+          "source": "Bleacher Report",
+          "url": "https://bleacherreport.com/articles/25457643-jaylen-brown-tyrese-maxey-vj-edgecombe-react-lebron-james-76ers-contract-new-posts"
+        }
+      ]
+    },
+    {
+      "id": "맨유",
+      "rank": 6,
+      "keyword": "맨유",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독]가수 보아 ‘낙서 테러’ 벌인 30대 여성 재판행' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '맨유, '레알 1억 유로 미드필더' 영입 '정조준'...무리뉴도 적정가면 판다 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[단독]가수 보아 ‘낙서 테러’ 벌인 30대 여성 재판행",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607241049001"
-        },
-        {
-          "title": "가수 보아에 “XXX” 성적 모욕 낙서한 30대 女, 재판행",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260724130938030"
-        },
-        {
-          "title": "팬들이 직접 지웠던 '강남역 보아 낙서'…30대 여성 결국 기소",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008673237"
-        }
-      ]
-    },
-    {
-      "id": "안치홍",
-      "rank": 8,
-      "keyword": "안치홍",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[프로야구 광주전적] 키움 8-5 KIA' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[프로야구 광주전적] 키움 8-5 KIA",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260724178300007"
-        },
-        {
-          "title": "4:0→4:5→8:5 재역전극, 더 이상 호랑이 징크스 없다...9연패 끊어낸 설종진 \"선수들 끝까지 집중력 발휘했다\" - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/baseball/2026/07/24/ME2DKYJVHFRDKZTBGU4DCNTGGE/"
-        },
-        {
-          "title": "김도영, 보름 만에 홈런포…공동 선두 복귀",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008673954"
-        }
-      ]
-    },
-    {
-      "id": "원종현",
-      "rank": 9,
-      "keyword": "원종현",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''153km/h 쾅' 던져도 만족 없다…원종현, 불혹 앞두고 회춘한 비결은 '건강'' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'153km/h 쾅' 던져도 만족 없다…원종현, 불혹 앞두고 회춘한 비결은 '건강'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/fG3bzwEoty"
-        },
-        {
-          "title": "[포토] 원종현, 베테랑의 역투 - 머니투데이",
+          "title": "맨유, '레알 1억 유로 미드필더' 영입 '정조준'...무리뉴도 적정가면 판다 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/07/22/2026072222344476203"
+          "url": "https://www.mt.co.kr/sports/2026/07/24/202607232346771060O"
         },
         {
-          "title": "뒷문 단속 나선 키움 원종현",
+          "title": "\"간절히 맨유행 바란다\" 1년 전 개인 합의→ 구단 거부로 무산…브라이턴 발레바, 이번엔 선수 측이 역제안",
           "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260722n35523"
+          "url": "https://sports.news.nate.com/view/20260725n00069"
+        },
+        {
+          "title": "산투스·틸레만스 이어 카마빙가까지?…\"맨유, 대형 영입 모색 중\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260723135350524?f=p"
         }
       ]
     },
     {
-      "id": "크보",
+      "id": "야구여왕",
+      "rank": 7,
+      "keyword": "야구여왕",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '블랙퀸즈, 6:9 호쾌한 역전…송아·김온아, 연속 ‘쓰리런’ 홈런' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "블랙퀸즈, 6:9 호쾌한 역전…송아·김온아, 연속 ‘쓰리런’ 홈런",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260724073951819"
+        },
+        {
+          "title": "역시 삼진 제조기 장수영! 끝내 타자를 잡아낸 원조 에이스의 화려한 귀환",
+          "source": "채널A",
+          "url": "https://ichannela.com/program/clip/000000541437.do"
+        },
+        {
+          "title": "‘야구여왕2’ 박민서, KKKKK 삼구3진 불껐다",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202607240744003"
+        }
+      ]
+    },
+    {
+      "id": "티비",
+      "rank": 8,
+      "keyword": "티비",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘Dungeon Crawler Carl’ TV Series Casts Audiobook Star Jeff Hays as Prin…' (Variety) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘Dungeon Crawler Carl’ TV Series Casts Audiobook Star Jeff Hays as Princess Donut’s Voice",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/dungeon-crawler-carl-tv-series-princess-donut-jeff-hays-1236819828/"
+        },
+        {
+          "title": "'Dungeon Crawler Carl' Peacock Series Casts Audiobook Narrator Jeff Hays",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/dungeon-crawler-carl-peacock-audiobook-narrator-jeff-hays-1236655544/"
+        },
+        {
+          "title": "The Most Anticipated Sci-Fi Adaptation of the Decade Officially Casts Its First Major Star",
+          "source": "Collider",
+          "url": "https://collider.com/dungeon-crawler-carl-series-cast-audiobook-narrator-jeff-hays/"
+        }
+      ]
+    },
+    {
+      "id": "다시보기",
+      "rank": 9,
+      "keyword": "다시보기",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "1달러",
       "rank": 10,
-      "keyword": "크보",
+      "keyword": "1달러",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘야구팬들 분노’ 비도 안 오는데 왜 또 취소인가…그라운드 정비 불가 판정, 수원KT위즈파크 말못할 사연 있었다 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '엔화 대비 원화 환율 100엔당 800원대로… 1년 8개월 만에 최저' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘야구팬들 분노’ 비도 안 오는데 왜 또 취소인가…그라운드 정비 불가 판정, 수원KT위즈파크 말못할 사연 있었다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/07/24/202607231751772403O"
+          "title": "엔화 대비 원화 환율 100엔당 800원대로… 1년 8개월 만에 최저",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/stock-finance/2026/07/23/HRKKYIA56VHCNCEP4BWMRZEX3U/"
         },
         {
-          "title": "\"이렇게 해가 떴어야 게임을 했는데\" 77분 우천 중단→이틀 취소→무더위 속 원정…KT 이번 주 날씨에 중간이 없다 [부산 현장]",
+          "title": "“금리 올렸는데 집값 더 상승” 한국만 그런 줄 알았더니…[나우,어스]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260724175009138"
+          "url": "https://v.daum.net/v/20260724221339559"
         },
         {
-          "title": "[핌in잠실] 비로 2일 휴식, 두산, 김원형 감독 \"선발 투수들 루틴 깨져 마냥 좋다 볼 수 없어\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260724001162"
+          "title": "원·달러 두 달여 만에 최저…원·엔 900원 하회",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260723022400038"
         }
       ]
     }
