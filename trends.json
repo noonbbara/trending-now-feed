@@ -1,45 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-24T17:07:58.489Z",
+  "updatedAt": "2026-07-24T19:01:23.280Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "로센보르그-대-맨유",
-      "rank": 1,
-      "keyword": "로센보르그 대 맨유",
-      "volumeLabel": "10000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''2010년생 꼬마'인데...맨유 1군 원정 합류한 '26골 괴물 유망주', 로센보르그전 깜짝 데뷔 눈앞' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'2010년생 꼬마'인데...맨유 1군 원정 합류한 '26골 괴물 유망주', 로센보르그전 깜짝 데뷔 눈앞",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/80T7BdRfWD?f=p"
-        },
-        {
-          "title": "맨유가 드디어 숨겨둔 재능 꺼냈다! '15세 괴물 유망주' 가브리엘, 프리시즌 첫 1군 명단 포함",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260724n06052"
-        },
-        {
-          "title": "로젠보르그 대 맨체스터 유나이티드 경기 생중계: 로젠보르그가 경기를 주도하고 있지만 아직 득점은 없습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-rosenborg-vs-manchester-united-rosenborg-kiem-soat-the-tran-chua-co-ban-thang"
-        }
-      ]
-    },
-    {
       "id": "르브론",
-      "rank": 2,
+      "rank": 1,
       "keyword": "르브론",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '전쟁같은 르브론 영입경쟁...마지막 우승 꿈꾸는 그의 선택은' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -49,9 +21,9 @@
           "url": "https://v.daum.net/v/20260724150137835"
         },
         {
-          "title": "NBA 마이애미, 실수로 제임스 입단 예약 링크 올렸다가 삭제",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260723010000007"
+          "title": "르브론 제임스, NBA 마지막 시즌 위해 필라델피아 세븐티식서스와 공식 계약",
+          "source": "Hypebeast.KR",
+          "url": "https://hypebeast.kr/2026/7/nba-lebron-james-philadelphia-76ers-signing-announcement-final-24th-season-news"
         },
         {
           "title": "\"무료 회원권 줄게\" \"프로 레슨 제공\" 르브론 영입 경쟁에 지역 골프장도 나섰다",
@@ -61,97 +33,69 @@
       ]
     },
     {
-      "id": "1-박-2-일",
-      "rank": 3,
-      "keyword": "1 박 2 일",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''1박2일' 이준, 또 사고 쳤다…독단적 의견 요청에 멤버들 '황당'' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'1박2일' 이준, 또 사고 쳤다…독단적 의견 요청에 멤버들 '황당'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260724143446859"
-        },
-        {
-          "title": "‘1박 2일’ 대표 열정맨 이준, 뜨거운 예능 열정",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202607242359003"
-        },
-        {
-          "title": "이준, 제작진에 파격 요청? “더 굴려주세요” (1박 2일)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260724/134356124/1"
-        }
-      ]
-    },
-    {
-      "id": "안주완",
-      "rank": 4,
-      "keyword": "안주완",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''17세 3개월 10일' 서울E 안주완, K리그 최연소 득점 신기록' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'17세 3개월 10일' 서울E 안주완, K리그 최연소 득점 신기록",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260724181300007"
-        },
-        {
-          "title": "K리그2 서울 이랜드, 천안시티에 4-3 진땀승…안주완 최연소 득점",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/soccer/6238602"
-        },
-        {
-          "title": "'뉴캐슬 박승수 기록 깼다!' 서울이랜드 안주완, K리그 최연소 골 신기록... 17세 3개월 10일 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/07/24/2026072421462247789"
-        }
-      ]
-    },
-    {
-      "id": "lebron-james",
-      "rank": 5,
-      "keyword": "lebron james",
+      "id": "한국마사회",
+      "rank": 2,
+      "keyword": "한국마사회",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'LeBron James joins Philadelphia for final title run - CHOSUNBIZ' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“과천경마공원 양주로” 정덕영 시장, 마사회장 만나 이전 유치 공식 제안' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "LeBron James joins Philadelphia for final title run - CHOSUNBIZ",
+          "title": "“과천경마공원 양주로” 정덕영 시장, 마사회장 만나 이전 유치 공식 제안",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026072417201919579"
+        },
+        {
+          "title": "1.29 주택공급대책에 따라 과천 경마장 이전을 차질 없이 추진되도록 하겠습니다.",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148968603"
+        },
+        {
+          "title": "정덕영 양주시장, 정부·한국마사회에 경마공원 이전 건의",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030157429"
+        }
+      ]
+    },
+    {
+      "id": "rosenborg-vs-man-united",
+      "rank": 3,
+      "keyword": "rosenborg vs man united",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Rosenborg vs Manchester United: Club friendlies stats & head-to-head' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Rosenborg vs Manchester United: Club friendlies stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cvgjlr6ngzqt"
+        },
+        {
+          "title": "15-year-old JJ Gabriel joins Manchester United first-team trip, may debut vs Rosenborg - CHOSUNBIZ",
           "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/07/25/R3VIB3RFAZGOJCKMVQI5ZXEUYM/"
+          "url": "https://biz.chosun.com/en/en-sports/2026/07/24/URLACOXH3JDNXAFDOWLPBN5I2E/"
         },
         {
-          "title": "Sixers owner Josh Harris met with LeBron James at Fanatics Fest, source says",
-          "source": "NBC10 Philadelphia",
-          "url": "https://www.nbcphiladelphia.com/nba/philadelphia-76ers/sixers-owner-josh-harris-met-with-lebron-james-at-fanatics-fest-source-says/4435543/"
-        },
-        {
-          "title": "Jaylen Brown, Tyrese Maxey, VJ Edgecombe React to LeBron James' 76ers Contract in New Posts",
-          "source": "Bleacher Report",
-          "url": "https://bleacherreport.com/articles/25457643-jaylen-brown-tyrese-maxey-vj-edgecombe-react-lebron-james-76ers-contract-new-posts"
+          "title": "Bryan Mbeumo has told Man United JJ Gabriel's best position ahead of debut chance",
+          "source": "Manchester Evening News",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-jj-gabriel-mbeumo-34333244"
         }
       ]
     },
     {
       "id": "맨유",
-      "rank": 6,
+      "rank": 4,
       "keyword": "맨유",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+2",
       "summary": "급상승 시점에 '맨유, '레알 1억 유로 미드필더' 영입 '정조준'...무리뉴도 적정가면 판다 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -161,110 +105,182 @@
           "url": "https://www.mt.co.kr/sports/2026/07/24/202607232346771060O"
         },
         {
-          "title": "\"간절히 맨유행 바란다\" 1년 전 개인 합의→ 구단 거부로 무산…브라이턴 발레바, 이번엔 선수 측이 역제안",
+          "title": "\"간절히 맨유행 바란다\" 1년 전 개인 합의→ 구단 거부로 무산… 브라이턴 발레바, 이번엔 선수 측이 역제안",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260725000651554"
+        },
+        {
+          "title": "맨유 중원 대개편 마침표 찍나…산투스·틸레만스 이어 코네 영입 근접 \"개인 조건 원칙적 합의\"",
           "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260725n00069"
-        },
-        {
-          "title": "산투스·틸레만스 이어 카마빙가까지?…\"맨유, 대형 영입 모색 중\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260723135350524?f=p"
+          "url": "https://sports.news.nate.com/view/20260724n06973"
         }
       ]
     },
     {
-      "id": "야구여왕",
+      "id": "lebron-james",
+      "rank": 5,
+      "keyword": "lebron james",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 'LeBron James joins Philadelphia for final title run - CHOSUNBIZ' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "LeBron James joins Philadelphia for final title run - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/07/25/R3VIB3RFAZGOJCKMVQI5ZXEUYM/"
+        },
+        {
+          "title": "LeBron James (41)'s last choice is Philadelphia.LeBron said on his social media on the 25th (Korea S..",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/sports/12107123"
+        },
+        {
+          "title": "LeBron James announces he is signing with 76ers",
+          "source": "NBA.com",
+          "url": "https://www.nba.com/news/lebron-james-free-agency-sixers-2026"
+        }
+      ]
+    },
+    {
+      "id": "โรเซนบอร-ก-พบ-แมนย",
+      "rank": 6,
+      "keyword": "โรเซนบอร ก พบ แมนย",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'ผลบอล โรเซนบอร์ก 0-5 แมนยู : เซิร์กซีโชว์เหนือยิง 1 จ่าย 1! ผีประเดิมชั…' (Siamsport) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "ผลบอล โรเซนบอร์ก 0-5 แมนยู : เซิร์กซีโชว์เหนือยิง 1 จ่าย 1! ผีประเดิมชัยปรีซีซั่น",
+          "source": "Siamsport",
+          "url": "https://www.siamsport.co.th/football-international/premierleague/107086/"
+        },
+        {
+          "title": "การทำนายผลการแข่งขันระหว่างโรเซนบอร์กกับแมนเชสเตอร์ยูไนเต็ด: รายชื่อผู้เล่นที่คาดว่าจะลงสนาม",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-rosenborg-vs-manchester-united-doi-hinh-du-kien"
+        },
+        {
+          "title": "LIVE ดูบอลสด โรเซนบอร์ก พบ แมนยู ฟุตบอลอุ่นเครื่อง วันนี้ 24 ก.ค.69",
+          "source": "posttoday",
+          "url": "https://www.posttoday.com/lifestyle/745891"
+        }
+      ]
+    },
+    {
+      "id": "고윤정",
       "rank": 7,
-      "keyword": "야구여왕",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '블랙퀸즈, 6:9 호쾌한 역전…송아·김온아, 연속 ‘쓰리런’ 홈런' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "블랙퀸즈, 6:9 호쾌한 역전…송아·김온아, 연속 ‘쓰리런’ 홈런",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260724073951819"
-        },
-        {
-          "title": "역시 삼진 제조기 장수영! 끝내 타자를 잡아낸 원조 에이스의 화려한 귀환",
-          "source": "채널A",
-          "url": "https://ichannela.com/program/clip/000000541437.do"
-        },
-        {
-          "title": "‘야구여왕2’ 박민서, KKKKK 삼구3진 불껐다",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202607240744003"
-        }
-      ]
-    },
-    {
-      "id": "티비",
-      "rank": 8,
-      "keyword": "티비",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘Dungeon Crawler Carl’ TV Series Casts Audiobook Star Jeff Hays as Prin…' (Variety) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘Dungeon Crawler Carl’ TV Series Casts Audiobook Star Jeff Hays as Princess Donut’s Voice",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/dungeon-crawler-carl-tv-series-princess-donut-jeff-hays-1236819828/"
-        },
-        {
-          "title": "'Dungeon Crawler Carl' Peacock Series Casts Audiobook Narrator Jeff Hays",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/dungeon-crawler-carl-peacock-audiobook-narrator-jeff-hays-1236655544/"
-        },
-        {
-          "title": "The Most Anticipated Sci-Fi Adaptation of the Decade Officially Casts Its First Major Star",
-          "source": "Collider",
-          "url": "https://collider.com/dungeon-crawler-carl-series-cast-audiobook-narrator-jeff-hays/"
-        }
-      ]
-    },
-    {
-      "id": "다시보기",
-      "rank": 9,
-      "keyword": "다시보기",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "1달러",
-      "rank": 10,
-      "keyword": "1달러",
+      "keyword": "고윤정",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '엔화 대비 원화 환율 100엔당 800원대로… 1년 8개월 만에 최저' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘고윤정 효과’ 이 정도라니…젝시믹스 판매량 최대 24배 ‘쑥’' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "엔화 대비 원화 환율 100엔당 800원대로… 1년 8개월 만에 최저",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/stock-finance/2026/07/23/HRKKYIA56VHCNCEP4BWMRZEX3U/"
-        },
-        {
-          "title": "“금리 올렸는데 집값 더 상승” 한국만 그런 줄 알았더니…[나우,어스]",
+          "title": "‘고윤정 효과’ 이 정도라니…젝시믹스 판매량 최대 24배 ‘쑥’",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260724221339559"
+          "url": "https://v.daum.net/v/20260724085139492"
         },
         {
-          "title": "원·달러 두 달여 만에 최저…원·엔 900원 하회",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20260723022400038"
+          "title": "\"고윤정이 입은 크롭탑 23배 더 팔렸다\"...대박 난 젝시믹스 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/07/24/2026072415343070408"
+        },
+        {
+          "title": "“민망해서 어떻게 입어” 했는데…판매 2344% 폭증한 ‘고윤정 옷’ 뭐길래",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20071667"
+        }
+      ]
+    },
+    {
+      "id": "김선태",
+      "rank": 8,
+      "keyword": "김선태",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''충주맨' 김선태 \"삼성전자 평단가 5만8천원에 1000주\"⋯얼마에 팔았나 보니' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'충주맨' 김선태 \"삼성전자 평단가 5만8천원에 1000주\"⋯얼마에 팔았나 보니",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/zoJxtDkLCS"
+        },
+        {
+          "title": "전 충주맨 김선태 “삼전 주식 5만8천원에 1000주 갖고 있었지…”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11604679"
+        },
+        {
+          "title": "김선태, 삼성전자 대주주였는데…\"6만원대에 다 팔아\" 고백 [투데이픽]",
+          "source": "MBC",
+          "url": "https://m.imbc.com/enews/view/512515"
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence-news",
+      "rank": 9,
+      "keyword": "artificial intelligence news",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Open Weights and American AI Leadership' (Microsoft) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Open Weights and American AI Leadership",
+          "source": "Microsoft",
+          "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/"
+        },
+        {
+          "title": "Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html"
+        },
+        {
+          "title": "Jensen Huang: \"China's AI Cannot Be Blocked\"... Directly Rebutting U.S. Regulation Arguments",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008671258"
+        }
+      ]
+    },
+    {
+      "id": "mutv",
+      "rank": 10,
+      "keyword": "mutv",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Man Utd transfer news: Manu Kone and Carlos Baleba strongly considered …' (Sky Sports) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Man Utd transfer news: Manu Kone and Carlos Baleba strongly considered in search for third midfielder signing",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11667/13566243/man-utd-transfer-news-manu-kone-and-carlos-baleba-strongly-considered-in-search-for-third-midfielder-signing"
+        },
+        {
+          "title": "Man Utd pull plug on TWO MORE midfield targets as INEOS turn to sub-£40m star – Exclusive",
+          "source": "TEAMtalk",
+          "url": "https://www.teamtalk.com/manchester-united/man-utd-pull-plug-carlos-baleba-alex-scott-ineos-turn-sub-40m-star-sander-berge"
+        },
+        {
+          "title": "Manchester United consider Camavinga and Berge as midfield overhaul continues",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/23/manchester-united-consider-eduardo-camavinga-sander-berge-midfield-overhaul"
         }
       ]
     }
