@@ -1,15 +1,15 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-24T22:12:11.942Z",
+  "updatedAt": "2026-07-24T23:35:58.552Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "수사",
+      "id": "검찰",
       "rank": 1,
-      "keyword": "수사",
-      "volumeLabel": "10000+",
-      "startedLabel": "1시간 전",
+      "keyword": "검찰",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 '[단독]민주당 의총에서 ‘보완수사권 전면 폐지’ 위헌 소지 우려…“안전장치 마련해야” 의견도' (경향신문) 관련 뉴스가 함께 포착됐어요.",
@@ -21,28 +21,117 @@
           "url": "https://www.khan.co.kr/article/202607242057001"
         },
         {
-          "title": "남인순 \"검찰개혁, 피해자 보호장치도 마련…빈틈없는 개혁 완수\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260724_0003722761"
+          "title": "與, ‘檢 보완수사권 폐지’ 이르면 30일 본회의 처리",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20071689"
         },
         {
-          "title": "'형사소송법 개정 논의' 의원총회 참석하는 민주당 홍기원 의원",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260724097800013"
+          "title": "'완전 폐지' 당론 채택‥\"중수청에 보완 전담팀\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260725012507169"
         }
       ]
     },
     {
-      "id": "혈당",
+      "id": "브룩스-레일리",
       "rank": 2,
-      "keyword": "혈당",
+      "keyword": "브룩스 레일리",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“혈당 잡고 포만감 채워”… 엄지원이 아침에 먹는다는 ‘세 가지 음식’' (헬스조선) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '롯데는 어떻게 이런 선수와 함께한 걸까…ML서 1점대 ERA 맹활약, 트레이드 시장 주목해야 할 이름 됐다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "롯데는 어떻게 이런 선수와 함께한 걸까…ML서 1점대 ERA 맹활약, 트레이드 시장 주목해야 할 이름 됐다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260724205209497"
+        },
+        {
+          "title": "'38세에 ERA 1.96' 롯데 출신 좌완이 트레이드 시장 숨은 '꿀매물' 되나…\"공이 빠르지는 않지만, 약한 타구 잘 유도해\"",
+          "source": "네이트 스포츠",
+          "url": "https://sports.news.nate.com/view/20260724n29942"
+        },
+        {
+          "title": "레일리가 이정후를 도왔다…KBO 출신 빅리거 최초 100홀드 임박, 38세인데 펄펄, KBO 역수출 조상 미쳤다",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026071710594149989"
+        }
+      ]
+    },
+    {
+      "id": "skhy",
+      "rank": 3,
+      "keyword": "skhy",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'U.S. expert slams Korea’s SK hynix ADR rush as self-destructive buying …' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "U.S. expert slams Korea’s SK hynix ADR rush as self-destructive buying - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-finance/2026/07/24/I2HRNOUHRRCIFC4LN2LKYA4M5I/"
+        },
+        {
+          "title": "SK Hynix’s Arbitrage Trade Stymied by Strict Conversion Cap",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-23/sk-hynix-s-51-arbitrage-trade-stymied-by-strict-conversion-cap"
+        },
+        {
+          "title": "\"Is It All Just a Foreigners' Game?\" What Lies Behind the Record SK hynix Sell-Off [Issue Plus]",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/business/12105086"
+        }
+      ]
+    },
+    {
+      "id": "학교-급식",
+      "rank": 4,
+      "keyword": "학교 급식",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“다른 반찬 없이 김만 먹어요”…급식이 무서운 아이들' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“다른 반찬 없이 김만 먹어요”…급식이 무서운 아이들",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8619941"
+        },
+        {
+          "title": "“다른 반찬 없이 김만 먹어요”…급식이 무서운 아이들",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8619721"
+        },
+        {
+          "title": "“다른 반찬 없이 김만 먹어요”…급식이 무서운 아이들",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260724193945350?f=p"
+        }
+      ]
+    },
+    {
+      "id": "엄지원",
+      "rank": 5,
+      "keyword": "엄지원",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '엄지원, 이사 후 집 잃었다..친구 집에서 얹혀사는 중 \"쉴 곳이 없어\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "엄지원, 이사 후 집 잃었다..친구 집에서 얹혀사는 중 \"쉴 곳이 없어\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260724214048163"
+        },
         {
           "title": "“혈당 잡고 포만감 채워”… 엄지원이 아침에 먹는다는 ‘세 가지 음식’",
           "source": "헬스조선",
@@ -52,207 +141,146 @@
           "title": "“혈당 관리에 좋아” 송은이가 아침에 먹는 ‘3가지 음식’",
           "source": "헬스조선",
           "url": "https://health.chosun.com/site/data/html_dir/2026/07/20/2026072002324.html"
-        },
-        {
-          "title": "\"설탕도 안 넣었는데\"…'아아'만 마셔도 혈당 치솟는다면 [닥터톡]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/1lIUtNgRcO"
         }
       ]
     },
     {
-      "id": "홈플러스",
-      "rank": 3,
-      "keyword": "홈플러스",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김병주 MBK 회장이 韓 PEF종사자들에게 던진 빚 '무한책임'' (인베스트조선) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김병주 MBK 회장이 韓 PEF종사자들에게 던진 빚 '무한책임'",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/07/21/2026072180103.html"
-        },
-        {
-          "title": "홈플러스 1.1조 부채가 자본으로…MBK '장부 바꿔치기' 의혹",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260724140042523"
-        },
-        {
-          "title": "홈플러스 회생 폐지 이후 23일까지 1천935건 노동상담 접수",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260724137900002"
-        }
-      ]
-    },
-    {
-      "id": "골프",
-      "rank": 4,
-      "keyword": "골프",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '남해 품은 27홀…실안노을 물드는 오션뷰 명소[파크골프 내비게이션]' (서울경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "남해 품은 27홀…실안노을 물드는 오션뷰 명소[파크골프 내비게이션]",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20071118"
-        },
-        {
-          "title": "창원 대산면파크골프장, 27일부터 오전 5시 30분 개방",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11604662"
-        },
-        {
-          "title": "창원시·파크골프협회, 500홀 조속 추진·이용 편의 증진 등 논의",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260724000763"
-        }
-      ]
-    },
-    {
-      "id": "아틀레티코-마드리드",
-      "rank": 5,
-      "keyword": "아틀레티코 마드리드",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''700억 원의 사나이' 이강인, 아틀레티코 새 시대 연다…한국 축구 역대급 이적 성사' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'700억 원의 사나이' 이강인, 아틀레티코 새 시대 연다…한국 축구 역대급 이적 성사",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260725004809895"
-        },
-        {
-          "title": "이강인, AT마드리드 이적 임박한 듯 \"5년 계약…이적료 670억원\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260723073600007"
-        },
-        {
-          "title": "이강인 오늘 이적 공식 발표⋯축구계 \"PSG보다 기회 많을 것\"",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2607054"
-        }
-      ]
-    },
-    {
-      "id": "lng선",
+      "id": "погода",
       "rank": 6,
-      "keyword": "lng선",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '삼성중공업 2분기 영업익 59%↑…매출 3조2천307억으로 20%↑(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "삼성중공업 2분기 영업익 59%↑…매출 3조2천307억으로 20%↑(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260724120601527"
-        },
-        {
-          "title": "상반기 영업이익만 '6천억' 육박…삼성重, 수익성 개선에 연간 목표 '청신호'",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=345898"
-        },
-        {
-          "title": "삼성중공업, LNG·탱커선 수요 계속…\"매출 목표 12.8조 달성 무난\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426737"
-        }
-      ]
-    },
-    {
-      "id": "사이드카",
-      "rank": 7,
-      "keyword": "사이드카",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '유가 100달러 충격에 검은 금요일...코스피 다시 6천선으로' (YTN) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "유가 100달러 충격에 검은 금요일...코스피 다시 6천선으로",
-          "source": "YTN",
-          "url": "https://m.ytn.co.kr/news_view.php?key=202607241824110739&s_mcd=0102"
-        },
-        {
-          "title": "다시 증시를 덮친 전쟁…블랙데이 살아남은 주식은?[김근희의 증시 랩업] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/07/25/2026072417214215176"
-        },
-        {
-          "title": "[7월 4주차 주간 매매 복기]",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/welvue/parkt/contents/260724175229050ho"
-        }
-      ]
-    },
-    {
-      "id": "농성",
-      "rank": 8,
-      "keyword": "농성",
+      "keyword": "погода",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '전남광주특별시 '부서·기능 분산' 조직개편안 반발 확산' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Какую прогнозируют погоду на 25 июля' (Cursorinfo) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "전남광주특별시 '부서·기능 분산' 조직개편안 반발 확산",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260724150954181"
+          "title": "Какую прогнозируют погоду на 25 июля",
+          "source": "Cursorinfo",
+          "url": "https://cursorinfo.co.il/weather/kakuyu-prognoziruyut-pogodu-na-25-iyulya/"
         },
         {
-          "title": "전남광주특별시 조직개편 두고 노조 간 갈등 표출",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8619633"
+          "title": "Как легче перенести жаркие дни: рекомендации \"Маген Давид Адом\" - NEWSru.co.il",
+          "source": "NEWSru.co.il",
+          "url": "https://www.newsru.co.il/israel/24jul2026/madahot500.html"
         },
         {
-          "title": "전남공무원노조, 비공개 간담회 외부 유출 중단 촉구",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260724_0021376116"
+          "title": "Погода в Израиле на пятницу, 24 июля",
+          "source": "9 Канал Израиль",
+          "url": "https://www.9tv.co.il/item/257062"
         }
       ]
     },
     {
-      "id": "schd",
-      "rank": 9,
-      "keyword": "schd",
+      "id": "인천광역시",
+      "rank": 7,
+      "keyword": "인천광역시",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'What Is SCHD’s New High Really Made Of?' (Trefis) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '인천시교육청, '인천 근대교육의 발자취―인천, 배움의 문을 열다' 전시회 개최' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "What Is SCHD’s New High Really Made Of?",
-          "source": "Trefis",
-          "url": "https://www.trefis.com/stock/schd/articles/608763/what-is-schds-new-high-really-made-of/2026-07-24"
+          "title": "인천시교육청, '인천 근대교육의 발자취―인천, 배움의 문을 열다' 전시회 개최",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/RPR20260724005400353"
         },
         {
-          "title": "Why Retirees Are Choosing This $100.8 Billion ETF Over Individual Dividend Stocks",
+          "title": "인천교육청, 근대교육 특별전 개막... 교육유산·체험 콘텐츠 한자리",
+          "source": "로이슈",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202607241206008877d94aa4ada6_12"
+        },
+        {
+          "title": "인천교육청, 23일 '인천 근대교육의 발자취' 전시회",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3645151"
+        }
+      ]
+    },
+    {
+      "id": "파리-생제르맹-fc",
+      "rank": 8,
+      "keyword": "파리 생제르맹 fc",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '아스날 물 먹였으면 OK.. 리버풀, '1965억' 프랑스 공격수 영입 눈앞.. 살라 반쪽 후계자로 만족?' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "아스날 물 먹였으면 OK.. 리버풀, '1965억' 프랑스 공격수 영입 눈앞.. 살라 반쪽 후계자로 만족?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260723184910099"
+        },
+        {
+          "title": "\"살라 대체할 새로운 윙어 원한다\"…'이강인 대체자' 아클리우슈에게 접근하는 리버풀, 또 PSG와 경쟁?",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260723n21555"
+        },
+        {
+          "title": "英 단독! 이강인, 이런 대형 날벼락이 있나! ATM 입단 비상등?…PSG가 점찍은 LEE 대체자, 리버풀이 가로챈다→공식발표 미뤄지는 이유일까",
+          "source": "엑스포츠뉴스",
+          "url": "https://www.xportsnews.com/article/2175011"
+        }
+      ]
+    },
+    {
+      "id": "한고은",
+      "rank": 9,
+      "keyword": "한고은",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''7년 무직' 한고은 남편 \"맨발로 못 걷는다\"…무지외반증 상태에 '충격'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'7년 무직' 한고은 남편 \"맨발로 못 걷는다\"…무지외반증 상태에 '충격'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260724110849679?f=m"
+        },
+        {
+          "title": "한고은, “무지외반증 말기” 걱정한 남편의 반전…맨발도 못 걷는다더니 댄스 2연승",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/entertain/12106296"
+        },
+        {
+          "title": "`7년째 백수` 한고은 남편, \"스치기만 해도 엄청 아파\" 심각",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026072410391363968"
+        }
+      ]
+    },
+    {
+      "id": "mu",
+      "rank": 10,
+      "keyword": "mu",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Micron: A Generational Short Opportunity With 76% Downside (NASDAQ:MU)' (Seeking Alpha) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Micron: A Generational Short Opportunity With 76% Downside (NASDAQ:MU)",
+          "source": "Seeking Alpha",
+          "url": "https://seekingalpha.com/article/4924359-micron-a-generational-short-opportunity-with-76-percent-downside"
+        },
+        {
+          "title": "Why BofA Thinks Micron Stock Could Be One of AI’s Biggest Long-Term Winners",
+          "source": "Barchart.com",
+          "url": "https://www.barchart.com/story/news/3452447/why-bofa-thinks-micron-stock-could-be-one-of-ais-biggest-long-term-winners"
+        },
+        {
+          "title": "Micron (MU) Is Getting A New China AI Demand Signal From Kimi K3",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-retirees-choosing-100-8-152742170.html"
-        },
-        {
-          "title": "Investing $5,000 in SCHD Now Could Generate Serious Passive Income Over 20 Years",
-          "source": "The Motley Fool",
-          "url": "https://www.fool.com/investing/2026/07/24/investing-5000-schd-now-passive-income-20-years/"
+          "url": "https://finance.yahoo.com/technology/ai/articles/micron-mu-getting-china-ai-031646978.html"
         }
       ]
     }
