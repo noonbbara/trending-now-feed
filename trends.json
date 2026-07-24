@@ -1,260 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-24T03:55:29.130Z",
+  "updatedAt": "2026-07-24T06:34:46.057Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "수호이-su-57",
+      "id": "최태원-노소영",
       "rank": 1,
-      "keyword": "수호이 su-57",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
+      "keyword": "최태원-노소영",
+      "volumeLabel": "20000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '러시아 최신 5세대 전투기 Su-57, 모스크바 인근서 추락' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[속보]法 “최 회장, 노 관장에 9440억 지급하라”' (문화일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "러시아 최신 5세대 전투기 Su-57, 모스크바 인근서 추락",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/europe/6237394"
+          "title": "[속보]法 “최 회장, 노 관장에 9440억 지급하라”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11604864"
         },
         {
-          "title": "러시아 Su-57 전투기가 격추되었다는 것이 사실인가요?",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/thuc-hu-viec-tiem-kich-su-57-nga-bi-ban-roi"
+          "title": "최태원, 노소영에 9440억 지급해야…파기환송심서 4300억 줄어(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260724152643881"
         },
         {
-          "title": "모스크바 앞에서 추락한 러시아 최신 전투기…Su-57 ‘아군 오인사격설’ 확산",
-          "source": "시사프리즘",
-          "url": "https://www.giprism.com/news/articleView.html?idxno=12503"
+          "title": "[속보] 법원 \"최태원, 노소영에 재산분할금 9천440억 원 지급\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6839840_36918.html"
         }
       ]
     },
     {
-      "id": "isps-한다-스코틀랜드-여자-오픈",
+      "id": "여론",
       "rank": 2,
-      "keyword": "isps 한다 스코틀랜드 여자 오픈",
-      "volumeLabel": "2000+",
+      "keyword": "여론",
+      "volumeLabel": "20000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김민석·정청래·송영길 압축‥최고 '친명5·친청3'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김민석·정청래·송영길 압축‥최고 '친명5·친청3'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260724142516489"
+        },
+        {
+          "title": "계파 결집 나선 與당권주자 3인…金 '친명'·鄭 '친문'·宋 '뉴 DJ' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/07/24/2026072413503138418"
+        },
+        {
+          "title": "민주당 당대표 후보에 金·鄭·宋‥친청계 최고위원 후보 3명 모두 통과",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6839666_37004.html"
+        }
+      ]
+    },
+    {
+      "id": "김지민",
+      "rank": 3,
+      "keyword": "김지민",
+      "volumeLabel": "10000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김지민, 방송 사상 가장 큰 오열..\"재혼 위해 어떻게 그러냐\" 시댁사연 울분 ('사이다')' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김지민, 방송 사상 가장 큰 오열..\"재혼 위해 어떻게 그러냐\" 시댁사연 울분 ('사이다')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260724103137846"
+        },
+        {
+          "title": "'시댁 지옥' 사연자, 이호선 위로에 끝내 눈물…김지민도 오열 (사이다)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260724n18130"
+        },
+        {
+          "title": "김지민, “어떻게 그런 사람이 존재하냐” 분노와 눈물 동시에",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16144401"
+        }
+      ]
+    },
+    {
+      "id": "전투기",
+      "rank": 4,
+      "keyword": "전투기",
+      "volumeLabel": "5000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '한국산 훈련기 운용중인 인니 국방부, 공군 조종사 훈련용 이탈리아 전투기 12대 도입' (파이낸셜뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "한국산 훈련기 운용중인 인니 국방부, 공군 조종사 훈련용 이탈리아 전투기 12대 도입",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202607241258211967"
+        },
+        {
+          "title": "전투기·전차 분해해서 옮긴다…‘백전백승’ 방산물류 작전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260722000416364?f=p"
+        },
+        {
+          "title": "韓 FA-50 최대 라이벌인데…인도네시아, 伊 M-346F 경전투기 12대 계약 [밀리터리+]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260724n09297"
+        }
+      ]
+    },
+    {
+      "id": "필리핀",
+      "rank": 5,
+      "keyword": "필리핀",
+      "volumeLabel": "10000+",
       "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '신지은, LPGA 여자 스코틀랜드 오픈 첫날 공동 선두' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘곤봉 폭행’ 파장 사흘 만에 물대포 들고온 중국 [지금뉴스]' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "신지은, LPGA 여자 스코틀랜드 오픈 첫날 공동 선두",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260724010100007"
+          "title": "‘곤봉 폭행’ 파장 사흘 만에 물대포 들고온 중국 [지금뉴스]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8619397"
         },
         {
-          "title": "신지은, 6언더파 몰아치기…'10년 만에 우승 호기'",
+          "title": "중-필리핀 남중국해서 연일 충돌…中, 이틀 연속 필리핀 선박 퇴거",
           "source": "Daum",
-          "url": "https://v.daum.net/v/6bndPANdaE"
+          "url": "https://v.daum.net/v/20260724122327141"
         },
         {
-          "title": "신지은, LPGA 투어 ISPS 한다 위민스 스코티시 오픈 첫날 공동 1위",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260724500032"
+          "title": "필리핀 외교장관 ‘필리핀인 원숭이 묘사’ 중국 관영매체 AI 만평에 “용납할 수 없는 행동” 강력 항의",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607231211001"
         }
       ]
     },
     {
-      "id": "이경규",
-      "rank": 3,
-      "keyword": "이경규",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"1시간 전 먹은 점심도 기억 못 해\"...이경규, 치매 검사 권유에 '충격' - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"1시간 전 먹은 점심도 기억 못 해\"...이경규, 치매 검사 권유에 '충격' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/07/24/2026072407560912107"
-        },
-        {
-          "title": "\"술 한 달에 한두 번만\"…'건강 이상설' 이경규, 뇌 검사 마치고 '파격 선언' ('갓경규') [핫피플]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260724063810809"
-        },
-        {
-          "title": "이경규 \"과거 협심증 앓아…가슴에 스텐트 시술 받았다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260723_0003721212"
-        }
-      ]
-    },
-    {
-      "id": "사이드카",
-      "rank": 4,
-      "keyword": "사이드카",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[속보] 유가와 관세 영향에 코스피, 4%대로 낙폭 확대…매도 사이드카 발동' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[속보] 유가와 관세 영향에 코스피, 4%대로 낙폭 확대…매도 사이드카 발동",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/money/2026/07/24/HFZFBTXPIVHIXBVISVL7BIV7NA/"
-        },
-        {
-          "title": "중동 갈등 심화·유가 급등...코스피 매도 사이드카",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202607241145234195"
-        },
-        {
-          "title": "유가 100달러에 금리 부담↑…코스피·코스닥 동반 사이드카[장중시황]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260724122240134"
-        }
-      ]
-    },
-    {
-      "id": "조원빈",
-      "rank": 5,
-      "keyword": "조원빈",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"미국 오지 말았어야 했는데…\" 한국 떠난 걸 후회하며 방출 걱정했던 거포 유망주, 어떻게 잠재력 폭발했나' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"미국 오지 말았어야 했는데…\" 한국 떠난 걸 후회하며 방출 걱정했던 거포 유망주, 어떻게 잠재력 폭발했나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/YndKF8fzly"
-        },
-        {
-          "title": "조원빈 잡으려면 이 정도는 해야 함 (feat. 시즌 10호포) #shorts #MLB",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=830217"
-        },
-        {
-          "title": "13일 만에 다시 터졌다! '韓 최고 야수 유망주' 20번째 경기에서 10호 홈런 폭발…페이스 다시 끌어 올린다",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260723n29072"
-        }
-      ]
-    },
-    {
-      "id": "범죄자",
+      "id": "슈퍼크리에이티브",
       "rank": 6,
-      "keyword": "범죄자",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "keyword": "슈퍼크리에이티브",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '국민연금 보너스, 범죄자는 안 준다…대상은? [잇슈 머니]' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '〈카제나〉 슈퍼크리에이티브 강기현·김형석 대표, 회사 떠난다' (글로벌E) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "국민연금 보너스, 범죄자는 안 준다…대상은? [잇슈 머니]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8618949"
+          "title": "〈카제나〉 슈퍼크리에이티브 강기현·김형석 대표, 회사 떠난다",
+          "source": "글로벌E",
+          "url": "https://www.globale.co.kr/news/articleView.html?idxno=39494"
         },
         {
-          "title": "아동학대 부모·군 범죄자, 국민연금 크레딧 혜택 못 받는다",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260723580003"
+          "title": "슈퍼크리에이티브 강기현·김형석 공동대표 사의 표명",
+          "source": "인벤",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318846"
         },
         {
-          "title": "부모 재력 따라 벌어진 ‘연금 불평등’ 줄인다···내년부터 만 18세 첫 국민연금 보험료 지원",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/te7dskAiW2?f=p"
+          "title": "카제나 개발사 강기현·김형석 대표, 회사 떠난다",
+          "source": "게임메카",
+          "url": "https://www.gamemeca.com/view.php?gid=1778229"
         }
       ]
     },
     {
-      "id": "하나카드",
+      "id": "배찬승",
       "rank": 7,
-      "keyword": "하나카드",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "레안드로-파레데스",
-      "rank": 8,
-      "keyword": "레안드로 파레데스",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''월드컵 우승하고 고향 갔더니 받은 건 토마토 152kg?' 가비·파비안, 스페인 고향 마을서 대대적 환영…축구장 이름까지 붙었다' (네이트) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'월드컵 우승하고 고향 갔더니 받은 건 토마토 152kg?' 가비·파비안, 스페인 고향 마을서 대대적 환영…축구장 이름까지 붙었다",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260723n32169"
-        },
-        {
-          "title": "'아르헨 레전드' 아얄라 코치, 월드컵 결승전 폭력 추태 사과…\"행동에 책임질 것\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260723152251941"
-        },
-        {
-          "title": "주먹질에 등 돌리기 시상식까지.. '패자'의 추악한 행태 속 '아르헨티나 유일 패배하는 법 아는' 25세 벤치 멤버의 용기",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/07/23/GU4TQODCGY4WCYTFHBRWCOBTGQ/"
-        }
-      ]
-    },
-    {
-      "id": "롯데카드",
-      "rank": 9,
-      "keyword": "롯데카드",
-      "volumeLabel": "200+",
+      "keyword": "배찬승",
+      "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[마켓인]'2000억 수혈' 홈플러스…향후 회생 재개 타임라인은' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[IS 인터뷰] \"왜 이제 왔니\" 형들도 기다린 막내의 복귀, 삼성 배찬승 \"목표는 팀 우승\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[마켓인]'2000억 수혈' 홈플러스…향후 회생 재개 타임라인은",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260720n21053"
-        }
-      ]
-    },
-    {
-      "id": "맥도날드",
-      "rank": 10,
-      "keyword": "맥도날드",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[이코노픽] 맥도날드가 눈독 들이자 시골 밭이 동났다?' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[이코노픽] 맥도날드가 눈독 들이자 시골 밭이 동났다?",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8618418"
-        },
-        {
-          "title": "맥도날드-행안부-홍천 ‘우리쌀 칩’ 협업..홍천강 수라쌀도 인지도 상승 기대",
+          "title": "[IS 인터뷰] \"왜 이제 왔니\" 형들도 기다린 막내의 복귀, 삼성 배찬승 \"목표는 팀 우승\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260724105411904"
+          "url": "https://v.daum.net/v/20260724064128837"
         },
         {
-          "title": "맥도날드 '충주 찰옥수수 버거' 100만개 판매…'클리커' 굿즈 출시 - 머니투데이",
+          "title": "[사진]배찬승,'삼성 두 번째 투수' - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/living/2026/07/24/2026072314584350006"
+          "url": "https://www.mt.co.kr/sports/2026/07/22/202607222015774401O"
+        },
+        {
+          "title": "[사진]미야지,'8회 역투'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/07/22/MRSTCY3CGQYDANJSHE2TKZLEGU/"
+        }
+      ]
+    },
+    {
+      "id": "무안군",
+      "rank": 8,
+      "keyword": "무안군",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '반도체특위 해남·기본사회특위 광주…정책 연계성 ‘엇박자’' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "반도체특위 해남·기본사회특위 광주…정책 연계성 ‘엇박자’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Hpukdp3GhV"
+        },
+        {
+          "title": "무안군 또 군공항 선정위 불참…800조 반도체 클러스터 '어쩌나'",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026072415085827025"
+        },
+        {
+          "title": "기후장관 “2029년 말까지 호남 팹 2기 전력·용수 공급”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8619242"
+        }
+      ]
+    },
+    {
+      "id": "휘발유",
+      "rank": 9,
+      "keyword": "휘발유",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '구 부총리 \"7월 소비자물가 2%대 최선…유류세 인하 9월 말까지\"' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "구 부총리 \"7월 소비자물가 2%대 최선…유류세 인하 9월 말까지\"",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968730"
+        },
+        {
+          "title": "구윤철 “유류세 인하 9월까지 연장”…물가안정법 개정도 추진",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260724000239"
+        },
+        {
+          "title": "정부, 오늘 8차 석유 최고 발표",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260724103251926"
+        }
+      ]
+    },
+    {
+      "id": "태극기",
+      "rank": 10,
+      "keyword": "태극기",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[단독] \"태극 문양·건곤감리가 거꾸로\"…뉴발란스, 불매 조짐에 판매 중단' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[단독] \"태극 문양·건곤감리가 거꾸로\"…뉴발란스, 불매 조짐에 판매 중단",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260724111350888"
+        },
+        {
+          "title": "뉴발란스, ‘태극 문양’ 티셔츠 오류 사과…판매 중단·환불 조치",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260724/134357678/1"
+        },
+        {
+          "title": "뉴발란스, 태극기 훼손 논란 티셔츠 판매중단…“정치적 의도 없었다”",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260724580127"
         }
       ]
     }
