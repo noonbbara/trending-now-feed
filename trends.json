@@ -1,288 +1,251 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-25T12:06:44.289Z",
+  "updatedAt": "2026-07-25T14:12:08.193Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "정몽규",
+      "id": "투자",
       "rank": 1,
-      "keyword": "정몽규",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
+      "keyword": "투자",
+      "volumeLabel": "10000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“정몽규가 뭘 잘못했나” 두둔하더니...청문회 참고인 채택 6시간 만에 불출석 통보' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '네이버·NVIDIA·브룩필드, 한국의 국가 AI 팩토리 인프라를 확대하다' (NVIDIA) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“정몽규가 뭘 잘못했나” 두둔하더니...청문회 참고인 채택 6시간 만에 불출석 통보",
+          "title": "네이버·NVIDIA·브룩필드, 한국의 국가 AI 팩토리 인프라를 확대하다",
+          "source": "NVIDIA",
+          "url": "https://blogs.nvidia.co.kr/blog/naver-nvidia-and-brookfield-to-expand-koreas-national-ai-factory-infrastructure-buildout/"
+        },
+        {
+          "title": "이해진 \"엔비디아·브룩필드, 네이버에 14조6천억원 투자\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260725033600017"
+        },
+        {
+          "title": "판 커지는 국내 AI 데이터센터 시장… 네이버 14조·SKT 2GW 추진",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260725130109737"
-        },
-        {
-          "title": "문체위, 축협청문회 참고인 5명 추가...'박지성 저격' 서강일 포함",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202607241657014949"
-        },
-        {
-          "title": "선동열 국감, 홍명보 청문회[뉴스와 시각]",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11604795"
+          "url": "https://v.daum.net/v/20260725150839419?f=p"
         }
       ]
     },
     {
-      "id": "김천상무-대-대전",
+      "id": "베헨-비스바덴-대-바이에른",
       "rank": 2,
-      "keyword": "김천상무 대 대전",
-      "volumeLabel": "2000+",
+      "keyword": "베헨 비스바덴 대 바이에른",
+      "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김천상무, 홈경기 승리 정조준…한여름 밤 ‘워터 페스티벌’' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '베헨과 바이에른 뮌헨 경기 역사: 카야가 거의 이변을 일으킬 뻔했지만, 케인이 90+4분에 바이에른을 구해냈다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김천상무, 홈경기 승리 정조준…한여름 밤 ‘워터 페스티벌’",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026072410435711476"
+          "title": "베헨과 바이에른 뮌헨 경기 역사: 카야가 거의 이변을 일으킬 뻔했지만, 케인이 90+4분에 바이에른을 구해냈다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/lich-su-1-tran-doi-dau-wehen-vs-bayern-munich-kaya-suyt-tao-dia-chan-kane-cuu-hum-xam-phut-90-4"
         },
         {
-          "title": "\"마지노선\" 선언한 황선홍… 김천戰서 승부 건다",
-          "source": "디트NEWS24",
-          "url": "https://www.dtnews24.com/news/articleView.html?idxno=813585"
-        },
-        {
-          "title": "김천상무, 대전 잡고 순위 도약 노린다! '물오른 고재현+주장 이정택 복귀'…홈에서 워터 페스티벌까지",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260724094138558"
+          "title": "베헨 비스바덴 대 FC 바이에른 뮌헨 예측: 예상 라인업",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-wehen-wiesbaden-vs-fc-bayern-munchen-doi-hinh-du-kien"
         }
       ]
     },
     {
-      "id": "chat-gpt",
+      "id": "sbs",
       "rank": 3,
-      "keyword": "chat gpt",
-      "volumeLabel": "2000+",
+      "keyword": "sbs",
+      "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'ChatGPT Led to a Man’s Near-Fatal Health Crisis, Lawsuit Claims' (The New York Times) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'SBS Returns to Rural Variety After 16 Years with 'Jecheolri Family' Pre…' (mnews.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "ChatGPT Led to a Man’s Near-Fatal Health Crisis, Lawsuit Claims",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/22/well/openai-chatgpt-health-lawsuit.html"
+          "title": "SBS Returns to Rural Variety After 16 Years with 'Jecheolri Family' Premiering on July 26",
+          "source": "mnews.sbs.co.kr",
+          "url": ""
         },
         {
-          "title": "ChatGPT medical advice brought man 'to brink of death', lawsuit alleges",
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cwylp3nxp5yo"
+          "title": "[Official] 16 years after 'Ppattwaedda'.. Song Ga-in joins SBS 'Jecheolri Village Hall'",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/en/broadcast-show/2026/07/24/2026072414102663400"
         },
         {
-          "title": "Don't Blame AI for Your Own Medical Problems",
-          "source": "Reason Magazine",
-          "url": "https://reason.com/2026/07/23/dont-blame-ai-for-your-own-medical-problems/"
+          "title": "Kim Dae-ho and Song Gain team up… SBS’ first rural variety in 16 years since “Family Outing” goes off the air on June 26",
+          "source": "씨네플레이",
+          "url": "https://www.cineplay.co.kr/en-us/articles/28894"
         }
       ]
     },
     {
-      "id": "화성-대-충남-아산-fc",
+      "id": "울산광역시",
       "rank": 4,
-      "keyword": "화성 대 충남 아산 fc",
+      "keyword": "울산광역시",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "ลาว-พบ-ไทย",
+      "rank": 5,
+      "keyword": "ลาว พบ ไทย",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[BE.현장] \"여름 더위 살인적, 너무 덥다. 최대한 지배해야 한다\"…안드레 감독이 짚어준 경기장 더위에서 살아남는 법' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'ถ่ายทอดสดการแข่งขันระหว่างลาวกับไทย (20:00 น. วันที่ 25 กรกฎาคม): สุดยอ…' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[BE.현장] \"여름 더위 살인적, 너무 덥다. 최대한 지배해야 한다\"…안드레 감독이 짚어준 경기장 더위에서 살아남는 법",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260725n11717"
+          "title": "ถ่ายทอดสดการแข่งขันระหว่างลาวกับไทย (20:00 น. วันที่ 25 กรกฎาคม): สุดยอดความท้าทาย",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/truc-tiep-lao-vs-thai-lan-20h00-ngay-25-7-thu-thach-cuc-dai"
         },
         {
-          "title": "‘분위기 반전 나선다!’ 충남아산, 박주영·비티뇨 앞세워 화성 원정서 승점 사냥 도전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260725131809951"
+          "title": "อาเซียน คัพ 2026 ใช้กติกาเดียวกับฟุตบอลโลก แต่ไม่มี Hydration Break",
+          "source": "Mainstand",
+          "url": "https://mainstand.co.th/th/news/1/article/26216"
         },
         {
-          "title": "충남아산FC, 비티뇨 영입…브라질 공격 DNA 장착",
-          "source": "아산데스크",
-          "url": ""
+          "title": "ผลบอล : สดที่นี่ ... จบครึ่งแรก สปป.ลาว ตามหลัง ทีมชาติไทย 0-2 ศึกฟุตบอลชิงแชมป์อาเซียน 2026",
+          "source": "Siamsport",
+          "url": "https://www.siamsport.co.th/football-thailand/thai-national/107121/"
         }
       ]
     },
     {
-      "id": "미얀마-대-말레이시아",
-      "rank": 5,
-      "keyword": "미얀마 대 말레이시아",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '슈퍼컴퓨터가 예측한 라오스 대 태국 경기: 코끼리 군단이 압도적인 경기력을 보이며 개막전 승리를 앞두고 있다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "슈퍼컴퓨터가 예측한 라오스 대 태국 경기: 코끼리 군단이 압도적인 경기력을 보이며 개막전 승리를 앞두고 있다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/sieu-may-tinh-du-doan-lao-vs-thai-lan-voi-chien-ap-dao-cho-chien-thang-ngay-ra-quan"
-        },
-        {
-          "title": "미얀마 대 말레이시아 아세안컵 2026 경기 전망",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-myanmar-vs-malaysia-asean-cup-2026-1740460.ldo"
-        },
-        {
-          "title": "태국 감독은 \"우리는 우승 후보가 아니다\"라며 씁쓸한 심정을 드러냈다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/hlv-thai-lan-noi-loi-cay-dang-chung-toi-khong-phai-ung-vien-vo-dich-sang-gia"
-        }
-      ]
-    },
-    {
-      "id": "두시탈출-컬투쇼",
+      "id": "마라톤",
       "rank": 6,
-      "keyword": "두시탈출 컬투쇼",
+      "keyword": "마라톤",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '소유, '컬투쇼' 특집 공개방송 스페셜 MC 발탁..김태균과 호흡' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '태종대 해안 달린 1986명…'제16회 전국마라톤대회' 성료' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "소유, '컬투쇼' 특집 공개방송 스페셜 MC 발탁..김태균과 호흡",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/music/2026/07/25/GZSDAYLDG5STMN3DGI3TGMZSGI/"
+          "title": "태종대 해안 달린 1986명…'제16회 전국마라톤대회' 성료",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3646200"
         },
         {
-          "title": "소유, '컬투쇼' 특집 MC 출격",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260725091009706"
+          "title": "영도구 바다를 품고 태종대를 달리다…제16회 태종대 전국마라톤대회 성료",
+          "source": "웹이코노미",
+          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2241919"
         },
         {
-          "title": "소유, ‘컬투쇼’ 일일 스페셜 MC 출격…김태균과 호흡",
-          "source": "뉴스엔",
-          "url": "https://m.newsen.com/news_view.php?uid=202607251352272410"
+          "title": "부산 영도병원, 제16회 태종대 혹서기 전국마라톤대회 의료지원",
+          "source": "재활뉴스",
+          "url": "https://www.rehabnews.net/news/articleView.html?idxno=30061"
         }
       ]
     },
     {
-      "id": "김원훈",
+      "id": "météo-demain",
       "rank": 7,
-      "keyword": "김원훈",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "keyword": "météo demain",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''놀뭐' 김원훈, 94세 할머니에게 플러팅 \"3대3으로 수박 한조각 하자\" 폭소' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Attention aux orages violents dans le Sud-Est et en Corse samedi' (Météo-France) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'놀뭐' 김원훈, 94세 할머니에게 플러팅 \"3대3으로 수박 한조각 하자\" 폭소",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260725185930462"
+          "title": "Attention aux orages violents dans le Sud-Est et en Corse samedi",
+          "source": "Météo-France",
+          "url": "https://meteofrance.com/actualites-et-dossiers/actualites/attention-aux-orages-violents-dans-le-sud-est-et-en-corse-samedi"
         },
         {
-          "title": "유재석 번쩍 업은 허경환 \"낙엽보다 가벼워\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260725_0003723005"
+          "title": "Orages violents ce week-end : fortes pluies et grêle, quelles sont les régions concernées ?",
+          "source": "La Chaîne Météo",
+          "url": "https://actualite.lachainemeteo.com/actualite-meteo/2026-07-22/orages-violents-ce-week-end-fortes-pluies-et-grele-quelles-sont-les-regions-concernees-90647"
         },
         {
-          "title": "“아 짜릿해”..유재석, 김원훈 ‘소변실수’ 무리수 개그에 분노 폭발 (‘놀뭐’)[순간포착]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/07/25/GJRDQOJTMMZDAYTGMRSWIZJYMY/"
+          "title": "Midi festival à Hyères, la Kermesse à La Valette… Des événements annulés ou reportés autour de Toulon à cause des orages annoncés",
+          "source": "Nice-Matin",
+          "url": "https://www.nicematin.com/culture/midi-festival-a-hyeres-la-kermesse-a-la-valette-des-evenements-annules-ou-reportes-autour-de-toulon-a-cause-des-orages-annonces-10694820"
         }
       ]
     },
     {
-      "id": "gpt-서버",
+      "id": "괴롭힘",
       "rank": 8,
-      "keyword": "gpt 서버",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '인공지능 해킹, 불과 몇시간 만에 발생...\"강화 학습 예견된 사고\"' (YTN 사이언스) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "괴롭힘",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''충주맨'도 지적한 병폐…젊은 사무관 벼랑 끝 내몰았나' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "인공지능 해킹, 불과 몇시간 만에 발생...\"강화 학습 예견된 사고\"",
-          "source": "YTN 사이언스",
-          "url": "https://m.science.ytn.co.kr/program/view.php?s_mcd=0082&key=202607241104104123"
+          "title": "'충주맨'도 지적한 병폐…젊은 사무관 벼랑 끝 내몰았나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/xTmeqXGhD3"
         },
         {
-          "title": "스스로 남의 서버 뚫은 챗GPT…'스카이넷' 현실로 오나",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260724_0003722343"
+          "title": "세종시 중앙부처 30대 신입 사무관 숨진 채 발견…경찰 조사·자체 감찰 동시 진행",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260722580075"
         },
         {
-          "title": "AI가 통제 벗어나면 정부가 중단... 美 하원 ‘킬스위치법’ 발의",
-          "source": "보안뉴스",
-          "url": "https://m.boannews.com/html/detail.html?tab_type=1&idx=144836"
+          "title": "‘임관 10개월차 어느 사무관의 죽음’…공무원 직장내 괴롭힘일까?",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11604648"
         }
       ]
     },
     {
-      "id": "베트남-u-23-축구-국가대표팀",
+      "id": "폭발",
       "rank": 9,
-      "keyword": "베트남 u-23 축구 국가대표팀",
+      "keyword": "폭발",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '인도네시아 국가대표팀은 소속 클럽의 반대에도 불구하고 귀화한 센터백을 아세안컵 대표팀 명단에 포함시켰다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '年 30조 관리비 어떻게 쓰길래... 아파트 입주민들 전쟁 치른다' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "인도네시아 국가대표팀은 소속 클럽의 반대에도 불구하고 귀화한 센터백을 아세안컵 대표팀 명단에 포함시켰다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/tuyen-indonesia-dien-ten-trung-ve-nhap-tich-du-asean-cup-bat-ke-bi-clb-phan-doi"
+          "title": "年 30조 관리비 어떻게 쓰길래... 아파트 입주민들 전쟁 치른다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/real_estate/2026/07/25/JI5GYPJCT5BGLPPDRWAMLZ7VVQ/"
         },
         {
-          "title": "인도네시아 감독, 아세안컵을 월드컵 목표를 위한 발판으로 간주",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da/hlv-indonesia-xem-asean-cup-la-buoc-dem-cho-muc-tieu-world-cup-1740691.ldo"
+          "title": "경찰 부르자 '시너' 확‥애꿎은 주민 끝내 숨져",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260725072207431"
         },
         {
-          "title": "2026 AFF에서 인도네시아 국가대표팀의 주장은 누구? 이것이 대답입니다.",
-          "source": "VOI.ID",
-          "url": "https://voi.id/kr/sepakbola/586411"
+          "title": "\"환청에 잠 못 자\" 경산 방화사건 아파트 주민들 트라우마 호소",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260724163300053"
         }
       ]
     },
     {
-      "id": "xsmn",
+      "id": "오싹한-연애-드라마",
       "rank": 10,
-      "keyword": "xsmn",
+      "keyword": "오싹한 연애 드라마",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Xổ số miền Nam ngày 25 tháng 7: Một người trúng số 1,6 tỉ đài Hậu Giang' (Báo Thanh Niên) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Xổ số miền Nam ngày 25 tháng 7: Một người trúng số 1,6 tỉ đài Hậu Giang",
-          "source": "Báo Thanh Niên",
-          "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-25-thang-7-mot-nguoi-trung-so-16-ti-dai-hau-giang-185260725163730637.htm"
-        },
-        {
-          "title": "Kết quả xổ số Đà Nẵng, Quảng Ngãi, Đắk Nông hôm nay 25.7",
-          "source": "Laodong.vn",
-          "url": "https://laodong.vn/ban-doc/ket-qua-xo-so-da-nang-quang-ngai-dak-nong-hom-nay-257-1740697.ldo"
-        },
-        {
-          "title": "XSMN 25/7 - Trực tiếp XSMN hôm nay thứ 7 25/7/2026",
-          "source": "CafeF",
-          "url": "https://cafef.vn/xsmn-25-7-truc-tiep-xsmn-hom-nay-thu-7-25-7-2026-188260725170439215.chn"
-        }
-      ]
+      "newsSignals": []
     }
   ]
 }
