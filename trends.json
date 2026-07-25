@@ -1,34 +1,34 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-25T18:29:29.824Z",
+  "updatedAt": "2026-07-25T19:49:31.382Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
       "id": "청계천",
       "rank": 1,
       "keyword": "청계천",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
+      "volumeLabel": "5000+",
+      "startedLabel": "4시간 전",
       "change": "steady",
       "changeLabel": "유지",
-      "summary": "급상승 시점에 '‘청계천에서 중년여성이 때밀어’…대낮에 포착된 모습에 온라인 와글와글' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '청계천 한복판서 비누칠에 때밀이까지…대낮 '목욕 빌런' 등장' (주간조선) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "‘청계천에서 중년여성이 때밀어’…대낮에 포착된 모습에 온라인 와글와글",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11604985"
-        },
         {
           "title": "청계천 한복판서 비누칠에 때밀이까지…대낮 '목욕 빌런' 등장",
           "source": "주간조선",
           "url": ""
         },
         {
-          "title": "청계천서 대낮 '목욕에 때밀이'…'동전 싹쓸이' 이어 또 민폐 [어떻게 생각하세요][영상]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260725091043713"
+          "title": "‘청계천에서 중년여성이 때밀어’…대낮에 포착된 모습에 온라인 와글와글",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11604985"
+        },
+        {
+          "title": "청계천 수난…'동전 싹쓸이' 이어 이번엔 때 미는 '원피스 여성' 등장[영상]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6238347"
         }
       ]
     },
@@ -37,7 +37,7 @@
       "rank": 2,
       "keyword": "구름",
       "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "5시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 ''구름용' 강림하듯...중국 토네이도·기습폭풍 잦아진 이유는?' (YTN 사이언스) 관련 뉴스가 함께 포착됐어요.",
@@ -64,8 +64,8 @@
       "id": "서훈",
       "rank": 3,
       "keyword": "서훈",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
+      "volumeLabel": "1000+",
+      "startedLabel": "5시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 '구리시민, 심점봉 선생 독립유공자 서훈 추진' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
@@ -93,7 +93,7 @@
       "rank": 4,
       "keyword": "추경호",
       "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
+      "startedLabel": "6시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 '대구시장, 기획예산처 장관 만나 국비 반영 요청' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
@@ -121,7 +121,7 @@
       "rank": 5,
       "keyword": "김아영",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "4시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 '김아영, 박근형에게 제대로 혼났다…생애 첫 연극 도전 현장 (전참시)' (MBC) 관련 뉴스가 함께 포착됐어요.",
@@ -149,26 +149,26 @@
       "rank": 6,
       "keyword": "김부장 시즌2",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''재벌X형사2' 안보현, 숨 막히는 추격…\"완전 범죄는 없어\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 ''시청률 11%' 화력 증명한다…2년 만 화려한 귀환→당당히 출사표 던진 韓 드라마 ('재벌X형사2')' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'재벌X형사2' 안보현, 숨 막히는 추격…\"완전 범죄는 없어\"",
+          "title": "'시청률 11%' 화력 증명한다…2년 만 화려한 귀환→당당히 출사표 던진 韓 드라마 ('재벌X형사2')",
           "source": "Daum",
-          "url": "https://v.daum.net/v/KEGuWgLxNB"
+          "url": "https://v.daum.net/v/20260725090137524"
+        },
+        {
+          "title": "[3차 티저] “완전 범죄? 그런 거 없어” 안보현×정은채, 그리고 ‘NEW 재벌캐’ 유승호! 8/7(금) 밤 9시50분 SBS",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/drama/sd243062/clip/88571/OC480835334"
         },
         {
           "title": "SBS 작정했다…‘23% 김부장’ 후속으로 넷플릭스 아닌 디즈니+ 손잡은 韓 드라마 (‘재벌X형사2’)",
           "source": "매일경제",
           "url": "https://www.mk.co.kr/news/entertain/12107246"
-        },
-        {
-          "title": "'재벌X형사2' 유승호, 살 떨리는 나쁜 재벌…\"제일 나쁜 짓? 비밀\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/07/24/2026072416297258235"
         }
       ]
     },
@@ -177,9 +177,9 @@
       "rank": 7,
       "keyword": "블리치",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 'BLEACH: TYBW Part 4 - The Calamity Officially Confirmed for 10 Episodes…' (Anime Corner) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -189,14 +189,14 @@
           "url": "https://animecorner.me/bleach-tybw-part-4-the-calamity-officially-confirmed-for-10-episodes-by-hulu/"
         },
         {
-          "title": "Bleach’s Final Season Confirms Disappointing Episode Count For Hulu Return",
-          "source": "ComicBook.com",
-          "url": "https://comicbook.com/anime/news/bleachs-final-season-confirms-disappointing-episode-count-for-hulu-return/"
+          "title": "Hulu Confirms Bleach's Final Season Will Be Its Shortest in 17 Years",
+          "source": "Comic Book Resources",
+          "url": "https://www.cbr.com/bleach-final-season-shortest-hulu/"
         },
         {
-          "title": "After 10 years, the finale of Bleach finally begins, showcasing the full power of a villain who could even defeat Son Goku",
-          "source": "Mein-MMO",
-          "url": "https://mein-mmo.de/en/after-10-years-the-finale-of-bleach-finally-begins-showcasing-the-full-power-of-a-villain-who-could-even-defeat-son-goku,1579482/"
+          "title": "Bleach: Thousand-Year Blood War Final Part - The Calamity Anime Drops Creditless Opening, Ending Videos",
+          "source": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/news/latest/2026/7/25/bleach-thousand-year-blood-war-final-part-the-calamity-anime-creditless-opening-ending-videos"
         }
       ]
     },
@@ -205,9 +205,9 @@
       "rank": 8,
       "keyword": "나솔사계",
       "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "startedLabel": "6시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '[사계 176회 예고] 마지막 날까지 갈팡질팡 하는 8기 영수.. 과연 그의 최종 선택은? #나솔사계 EP.176ㅣSBS PLU…' (programs.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -233,7 +233,7 @@
       "rank": 9,
       "keyword": "cryptocurrency trading",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "5시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 'BitMEX CEO Calls New Insider Trading Lawsuit 'Spurious and Opportunisti…' (Benzinga) 관련 뉴스가 함께 포착됐어요.",
@@ -261,7 +261,7 @@
       "rank": 10,
       "keyword": "what is bitcoin",
       "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
+      "startedLabel": "5시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 'Bitcoin treasury companies unwind holdings as the DAT model comes under…' (CoinDesk) 관련 뉴스가 함께 포착됐어요.",
