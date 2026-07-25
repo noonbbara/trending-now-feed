@@ -1,270 +1,258 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-25T21:02:06.160Z",
+  "updatedAt": "2026-07-25T22:29:25.136Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "코스닥",
+      "id": "식중독",
       "rank": 1,
-      "keyword": "코스닥",
+      "keyword": "식중독",
       "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"3분기 더 빠진다\" vs \"60만전자·420만닉스 간다\"...증권가 갈라진 이유' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"3분기 더 빠진다\" vs \"60만전자·420만닉스 간다\"...증권가 갈라진 이유",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260725133128103"
-        },
-        {
-          "title": "7천피 붕괴 와중에도...\"55% 올랐다\" 블랙데이 살아남은 주식[김근희의 증시 랩업] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/07/25/2026072417214215176"
-        },
-        {
-          "title": "코스피 5%대 급락…'검은 금요일'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20260724016900038"
-        }
-      ]
-    },
-    {
-      "id": "청계천",
-      "rank": 2,
-      "keyword": "청계천",
-      "volumeLabel": "5000+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '청계천 한복판서 비누칠에 때밀이까지…대낮 '목욕 빌런' 등장' (주간조선) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "청계천 한복판서 비누칠에 때밀이까지…대낮 '목욕 빌런' 등장",
-          "source": "주간조선",
-          "url": ""
-        },
-        {
-          "title": "‘청계천에서 중년여성이 때밀어’…대낮에 포착된 모습에 온라인 와글와글",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11604985"
-        },
-        {
-          "title": "청계천 수난…'동전 싹쓸이' 이어 이번엔 때 미는 '원피스 여성' 등장[영상]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6238347"
-        }
-      ]
-    },
-    {
-      "id": "택시",
-      "rank": 3,
-      "keyword": "택시",
-      "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '국토부, 개인택시 '5년 양도제한' 완화 후속 절차 착수…\"법제처 협의 등 순차 진행\"' (녹색경제신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[더 건강한 나] “단순 배탈 아닐 수도”…식중독 때론 합병증 심각' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "국토부, 개인택시 '5년 양도제한' 완화 후속 절차 착수…\"법제처 협의 등 순차 진행\"",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=345902"
+          "title": "[더 건강한 나] “단순 배탈 아닐 수도”…식중독 때론 합병증 심각",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260725102802O0s"
         },
         {
-          "title": "택시에 지갑·폰 두고 내린 미국인 가족, 경찰 도움으로 되찾아",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260724n09004"
+          "title": "경기 광주시, 여름철 맞아 어린이집 급식·위생 안전 점검",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260724580184"
         },
         {
-          "title": "경찰관이 미국인 관광객 분실 지갑·휴대전화 찾아줘",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260724074800051"
+          "title": "창원시, 여름철 식중독 예방수칙 홍보·특별점검…'손보구가세' 수칙 홍보",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260725000058"
         }
       ]
     },
     {
-      "id": "구름",
-      "rank": 4,
-      "keyword": "구름",
+      "id": "리버풀-대-선덜랜드",
+      "rank": 2,
+      "keyword": "리버풀 대 선덜랜드",
       "volumeLabel": "2000+",
-      "startedLabel": "6시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 ''구름용' 강림하듯...중국 토네이도·기습폭풍 잦아진 이유는?' (YTN 사이언스) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '리버풀 vs 선덜랜드 경기 예측: 예상 라인업' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'구름용' 강림하듯...중국 토네이도·기습폭풍 잦아진 이유는?",
-          "source": "YTN 사이언스",
-          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202607231104277428"
+          "title": "리버풀 vs 선덜랜드 경기 예측: 예상 라인업",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-liverpool-vs-sunderland-doi-hinh-du-kien"
         },
         {
-          "title": "시속 115km 강풍에 자동차 종잇장 처럼 날아가…中 기습 폭풍에 아수라장",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/videos/24357"
+          "title": "월드컵 아쉬움? ‘코리안 유럽 명가’ 빅매치로 달군다!···맨시티·AT마드리드·바이에른 뮌헨 8월 방한",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202607211427003"
         },
         {
-          "title": "비도 안 왔는데…거센 흙탕물 덮친 거리 '물바다'",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260724n04273"
+          "title": "'쿠플 시리즈 티켓팅 꿀팁은?' 쿠팡플레이, '2026 쿠플 시리즈' 맞이 영상·팝업 마련",
+          "source": "테크M",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=153510"
         }
       ]
     },
     {
-      "id": "피의-게임",
-      "rank": 5,
-      "keyword": "피의 게임",
-      "volumeLabel": "100+",
+      "id": "로또-당첨번호",
+      "rank": 3,
+      "keyword": "로또 당첨번호",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘피의게임X’ 신승용, 폭력 논란 사과 “어떤 말로도 정당화 안돼”' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '로또 1234회 당첨번호 15억, '1등만 터지고 2등은 없다니'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘피의게임X’ 신승용, 폭력 논란 사과 “어떤 말로도 정당화 안돼”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20260725/134363074/1"
-        },
-        {
-          "title": "'피의 게임X' 출연자, 게임 중 폭력 논란… \"방송 후 직접 사과\"",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026072516090003654"
-        },
-        {
-          "title": "'피의게임X' 신승용, 서출구→박지민에 '폭력행위' 논란..\"후회·반성\" 사과[Oh!쎈 이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/07/25/HE3TIODCGE4WIMJYGJSDINBUGQ/"
-        }
-      ]
-    },
-    {
-      "id": "김아영",
-      "rank": 6,
-      "keyword": "김아영",
-      "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '김아영, 박근형에게 제대로 혼났다…생애 첫 연극 도전 현장 (전참시)' (MBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김아영, 박근형에게 제대로 혼났다…생애 첫 연극 도전 현장 (전참시)",
-          "source": "MBC",
-          "url": "https://m.imbc.com/enews/view/512625"
-        },
-        {
-          "title": "\"소속사 無\" '맑눈광' 김아영, 1년반 만의 근황…기상 명상하다 '눈물' 이유('전참시')",
+          "title": "로또 1234회 당첨번호 15억, '1등만 터지고 2등은 없다니'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260724103107827"
+          "url": "https://v.daum.net/v/20260726070136770"
         },
         {
-          "title": "김아영, 생애 첫 연극 무대 도전기…대선배들도 인정한 ‘연습벌레’ (전참시)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260725/134363266/1"
+          "title": "1234회 로또 1등 18명…당첨금 각 16억원(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260725056000002"
+        },
+        {
+          "title": "윤정수, '로또 6/45' 황금손 출연 \"진정한 나눔은 필요한 곳에 정확히 전하는 것\"",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/512476"
         }
       ]
     },
     {
-      "id": "블리치",
-      "rank": 7,
-      "keyword": "블리치",
+      "id": "고소영",
+      "rank": 4,
+      "keyword": "고소영",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''55세' 고소영, 행사장 얼빡샷에 설왕설래...\"선명한 팔자-입가 주름\" vs \"자연스런 노화\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'55세' 고소영, 행사장 얼빡샷에 설왕설래...\"선명한 팔자-입가 주름\" vs \"자연스런 노화\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260725115727103"
+        },
+        {
+          "title": "'55세' 고소영, 얼빡샷에 포착된 깊은 주름..\"나이 못속여\"vs\"여전히 동안\"[핫피플]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/07/25/GM4TON3GGY4TINJYG42TINRXME/"
+        },
+        {
+          "title": "\"남자 같다\" 고소영, 때아닌 미모 논란…'리프팅 레이저 600샷' 너무 과했나?",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260725n11735?mid=e0600"
+        }
+      ]
+    },
+    {
+      "id": "오현규",
+      "rank": 5,
+      "keyword": "오현규",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"베식타스도 이적 허용\", 오현규도 '아틀레티코 마드피드 오피셜' 이강인 따라 스페인으로 가나…\"챔피언스리그 복귀한 베티스가 2…' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"베식타스도 이적 허용\", 오현규도 '아틀레티코 마드피드 오피셜' 이강인 따라 스페인으로 가나…\"챔피언스리그 복귀한 베티스가 250억 투입\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260725n13814"
+        },
+        {
+          "title": "'韓 축구 초대형 이적 보인다!…'월드컵 스타' 오현규, 스페인 명문행 급물살→레알 베티스 러브콜 \"이적료 250억, 베식타시도 만족\"",
+          "source": "www.xportsnews.com",
+          "url": "https://www.xportsnews.com/article/2175925"
+        },
+        {
+          "title": "[속보] '韓 대표 ST' 오현규, 벤치로 밀려난다! 베식타스 '1650억 공격수' 누녜스 영입 임박 \"임대 절차 마무리 가까워져\"",
+          "source": "스포탈코리아",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553404818"
+        }
+      ]
+    },
+    {
+      "id": "텐센트",
+      "rank": 6,
+      "keyword": "텐센트",
       "volumeLabel": "200+",
-      "startedLabel": "6시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'BLEACH: TYBW Part 4 - The Calamity Officially Confirmed for 10 Episodes…' (Anime Corner) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘성과급 6억’ 캡처 인증했다가…영원히 해고당한 직원' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "BLEACH: TYBW Part 4 - The Calamity Officially Confirmed for 10 Episodes by Hulu",
-          "source": "Anime Corner",
-          "url": "https://animecorner.me/bleach-tybw-part-4-the-calamity-officially-confirmed-for-10-episodes-by-hulu/"
+          "title": "‘성과급 6억’ 캡처 인증했다가…영원히 해고당한 직원",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20260724/134362462/2"
         },
         {
-          "title": "Hulu Confirms Bleach's Final Season Will Be Its Shortest in 17 Years",
-          "source": "Comic Book Resources",
-          "url": "https://www.cbr.com/bleach-final-season-shortest-hulu/"
+          "title": "\"내 성과급은 6억\" SNS에 인증샷 올렸다가...졸지에",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260725210851810"
         },
         {
-          "title": "Bleach: Thousand-Year Blood War Final Part - The Calamity Anime Drops Creditless Opening, Ending Videos",
-          "source": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/news/latest/2026/7/25/bleach-thousand-year-blood-war-final-part-the-calamity-anime-creditless-opening-ending-videos"
+          "title": "\"6억 8천만 원 보너스 자랑하고 싶어서…\" SNS에 명세서 올린 中 직장인의 최후",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026072415034781626"
         }
       ]
     },
     {
-      "id": "what-to-watch-this-weekend",
+      "id": "중국",
+      "rank": 7,
+      "keyword": "중국",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '美 \"핵심 기술 쏙쏙 훔쳐가\"... 中 AI 훈련법까지 때렸다' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "美 \"핵심 기술 쏙쏙 훔쳐가\"... 中 AI 훈련법까지 때렸다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/tech_it/2026/07/25/SDWBZ4MF3JB7PGKYWUK3BVIHKM/"
+        },
+        {
+          "title": "'키미 K3' AI 열풍은 젠슨 황에 악재, 엔비디아 반도체 중국 수출 당위성 설득력 떨어지나",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=443110"
+        },
+        {
+          "title": "[안광섭 AI 진테제] 미중 AI패권 경쟁...누가 무엇을 잠그나",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260725135947"
+        }
+      ]
+    },
+    {
+      "id": "아리엘-후라도",
       "rank": 8,
-      "keyword": "what to watch this weekend",
-      "volumeLabel": "100+",
-      "startedLabel": "6시간 전",
+      "keyword": "아리엘 후라도",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'New movies to watch this weekend: See 'Her Private Hell' in theaters, r…' (Yahoo) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[포토] 후라도 '동료들과 함께해요'' (스포츠조선) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "New movies to watch this weekend: See 'Her Private Hell' in theaters, rent 'Star Wars: The Mandalorian and Grogu' and 'Disclosure Day,' stream 'The Dink'",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/entertainment/movies/article/new-movies-to-watch-this-weekend-see-her-private-hell-in-theaters-rent-star-wars-the-mandalorian-and-grogu-and-disclosure-day-stream-the-dink-112127780.html"
+          "title": "[포토] 후라도 '동료들과 함께해요'",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/baseball/2026-07-23/202607230100143940009123"
         },
         {
-          "title": "Now Playing: Her Private Hell, Sheep In The Box, Manhunter: The Final Cut",
-          "source": "IMDb",
-          "url": "https://www.imdb.com/it/news/ni65942956/?ref_=int_nwr_4"
+          "title": "'네가 왜 여기서 나와?'…부상중인 후라도가 왜 잠실에 등장? [잠실 현장]",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/baseball/2026-07-24/202607240100150510009605"
         },
         {
-          "title": "5 best new movies to watch this weekend on Netflix, Apple TV, Prime Video and more (July 25-26)",
-          "source": "Tom's Guide",
-          "url": "https://www.tomsguide.com/entertainment/streaming/5-best-new-movies-to-watch-this-weekend-on-netflix-apple-tv-prime-video-and-more-july-25-26"
+          "title": "[포토] 후라도, 원태인-페덱과 함께 훈련",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/baseball/2026-07-23/202607230100143960009125"
         }
       ]
     },
     {
-      "id": "que-hacer-este-fin-de-semana",
+      "id": "염경엽",
       "rank": 9,
-      "keyword": "que hacer este fin de semana",
-      "volumeLabel": "100+",
-      "startedLabel": "6시간 전",
+      "keyword": "염경엽",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "cryptocurrency-trading",
-      "rank": 10,
-      "keyword": "cryptocurrency trading",
-      "volumeLabel": "100+",
-      "startedLabel": "6시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'Arthur Hayes, BitMEX co-founders face fraud claims over alleged 'Inside…' (The Block) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '천적 앞에서 깨어난 LG…‘18년 만의 9연패는 없다?’' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Arthur Hayes, BitMEX co-founders face fraud claims over alleged 'Insider Trading Desk' as exchange winds down",
-          "source": "The Block",
-          "url": "https://www.theblock.co/post/409595/arthur-hayes-bitmex-co-founders-face-fraud-claims-over-alleged-insider-trading-desk-as-exchange-winds-down"
+          "title": "천적 앞에서 깨어난 LG…‘18년 만의 9연패는 없다?’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8620134"
         },
         {
-          "title": "BitMEX Sued Over Alleged Wrongful Liquidations on Day It Announced Shutdown",
-          "source": "bloomingbit",
-          "url": "https://en.bloomingbit.io/feed/news/116912"
+          "title": "마침내 패패패패패패패패 끊었다!…'박해민·오스틴·문정빈 3홈런 12타점 합작' LG, 한화 4연승 저지하며 8연패 탈출＆후반기 첫 승 신고",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260725n13345"
         },
         {
-          "title": "Weekly Roundup: BitMEX to Shut Down; BDSwiss' Possible Exit",
-          "source": "Finance Magnates",
-          "url": "https://www.financemagnates.com/forex/weekly-roundup-bitmex-to-shut-down-bdswiss-possible-exit/"
+          "title": "LG 오스틴·KIA 김도영, 나란히 시즌 29호 홈런 폭발…홈런 공동 선두(종합)",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260725_0003723254"
         }
       ]
     }
