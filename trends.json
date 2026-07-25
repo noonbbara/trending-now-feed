@@ -1,45 +1,101 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-25T15:43:36.885Z",
+  "updatedAt": "2026-07-25T17:09:16.384Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "문재인",
+      "id": "청계천",
       "rank": 1,
-      "keyword": "문재인",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "keyword": "청계천",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘서해 공무원 피격’ 文 전 대통령 불기소…3년 7개월만' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘청계천에서 중년여성이 때밀어’…대낮에 포착된 모습에 온라인 와글와글' (문화일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘서해 공무원 피격’ 文 전 대통령 불기소…3년 7개월만",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260725/134363474/1"
+          "title": "‘청계천에서 중년여성이 때밀어’…대낮에 포착된 모습에 온라인 와글와글",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11604985"
         },
         {
-          "title": "검찰, ‘서해 공무원 피격’ 문재인 전 대통령 불기소···고발 3년7개월만에 “증거 불충분”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607251924001"
+          "title": "청계천 수난…'동전 싹쓸이' 이어 이번엔 때 미는 '원피스 여성' 등장[영상]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6238347"
         },
         {
-          "title": "검찰, '서해 피격' 문재인 불기소...\"증거 불충분\"",
-          "source": "YTN",
-          "url": "https://m.ytn.co.kr/news_view.php?key=202607252158442288&s_mcd=0103"
+          "title": "청계천 한복판서 비누칠에 때밀이까지…대낮 '목욕 빌런' 등장",
+          "source": "주간조선",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "구름",
+      "rank": 2,
+      "keyword": "구름",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''구름용' 강림하듯...중국 토네이도·기습폭풍 잦아진 이유는?' (YTN 사이언스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'구름용' 강림하듯...중국 토네이도·기습폭풍 잦아진 이유는?",
+          "source": "YTN 사이언스",
+          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202607231104277428"
+        },
+        {
+          "title": "시속 115km 강풍에 자동차 종잇장 처럼 날아가…中 기습 폭풍에 아수라장",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/videos/24357"
+        },
+        {
+          "title": "비도 안 왔는데…거센 흙탕물 덮친 거리 '물바다'",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260724n04273"
+        }
+      ]
+    },
+    {
+      "id": "서훈",
+      "rank": 3,
+      "keyword": "서훈",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '구리시민, 심점봉 선생 독립유공자 서훈 추진' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "구리시민, 심점봉 선생 독립유공자 서훈 추진",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260724137400060"
+        },
+        {
+          "title": "경기도 구리 시민들, 3·1운동 숨은 주역 '심점봉 선생' 독립유공자 서훈 재추진",
+          "source": "한국NGO신문",
+          "url": "https://www.ngonews.kr/news/articleView.html?idxno=233739"
+        },
+        {
+          "title": "구리시민, 심점봉 선생 독립유공자 서훈 추진",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260724n22686"
         }
       ]
     },
     {
       "id": "추경호",
-      "rank": 2,
+      "rank": 4,
       "keyword": "추경호",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '추경호, 기획예산처 장관 만나 대구 핵심 국비사업 지원 건의' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -61,32 +117,76 @@
       ]
     },
     {
-      "id": "서훈",
-      "rank": 3,
-      "keyword": "서훈",
+      "id": "김아영",
+      "rank": 5,
+      "keyword": "김아영",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "나솔사계",
-      "rank": 4,
-      "keyword": "나솔사계",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '마침내 17기 영수와 일대일 데이트하는 여자 5호! #나솔사계 EP.175ㅣSBS PLUS X ENAㅣ목요일 밤 10시 30분' (programs.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '김아영, 박근형에게 제대로 혼났다…생애 첫 연극 도전 현장 (전참시)' (MBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "마침내 17기 영수와 일대일 데이트하는 여자 5호! #나솔사계 EP.175ㅣSBS PLUS X ENAㅣ목요일 밤 10시 30분",
+          "title": "김아영, 박근형에게 제대로 혼났다…생애 첫 연극 도전 현장 (전참시)",
+          "source": "MBC",
+          "url": "https://m.imbc.com/enews/view/512625"
+        },
+        {
+          "title": "\"소속사 無\" '맑눈광' 김아영, 1년반 만의 근황…기상 명상하다 '눈물' 이유('전참시')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260724103107827"
+        },
+        {
+          "title": "김아영, 생애 첫 연극 무대 도전기…대선배들도 인정한 ‘연습벌레’ (전참시)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260725/134363266/1"
+        }
+      ]
+    },
+    {
+      "id": "블리치",
+      "rank": 6,
+      "keyword": "블리치",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'BLEACH: TYBW Part 4 - The Calamity Officially Confirmed for 10 Episodes…' (Anime Corner) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "BLEACH: TYBW Part 4 - The Calamity Officially Confirmed for 10 Episodes by Hulu",
+          "source": "Anime Corner",
+          "url": "https://animecorner.me/bleach-tybw-part-4-the-calamity-officially-confirmed-for-10-episodes-by-hulu/"
+        },
+        {
+          "title": "Bleach’s Final Season Confirms Disappointing Episode Count For Hulu Return",
+          "source": "ComicBook.com",
+          "url": "https://comicbook.com/anime/news/bleachs-final-season-confirms-disappointing-episode-count-for-hulu-return/"
+        },
+        {
+          "title": "After 10 years, the finale of Bleach finally begins, showcasing the full power of a villain who could even defeat Son Goku",
+          "source": "Mein-MMO",
+          "url": "https://mein-mmo.de/en/after-10-years-the-finale-of-bleach-finally-begins-showcasing-the-full-power-of-a-villain-who-could-even-defeat-son-goku,1579482/"
+        }
+      ]
+    },
+    {
+      "id": "나솔사계",
+      "rank": 7,
+      "keyword": "나솔사계",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-3",
+      "summary": "급상승 시점에 '[사계 176회 예고] 마지막 날까지 갈팡질팡 하는 8기 영수.. 과연 그의 최종 선택은? #나솔사계 EP.176ㅣSBS PLU…' (programs.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[사계 176회 예고] 마지막 날까지 갈팡질팡 하는 8기 영수.. 과연 그의 최종 선택은? #나솔사계 EP.176ㅣSBS PLUS X ENAㅣ목요일 밤 10시 30분",
           "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/feed-api/rest/clip_hub?co=google&type=ucc&content_id=22000633313"
+          "url": "https://programs.sbs.co.kr/plus/loveforever/clip/74495/22000633311?type=ucc&cooper=google"
         },
         {
           "title": "‘나솔사계’ 8기 영수가 최종 결심했다, 2호냐 3호냐",
@@ -102,12 +202,12 @@
     },
     {
       "id": "twitch",
-      "rank": 5,
+      "rank": 8,
       "keyword": "twitch",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-3",
       "summary": "급상승 시점에 'Twitch Allows Parents To Restrict Teens From Livestreaming 07/22/2026' (MediaPost) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -120,146 +220,67 @@
           "title": "Twitch is now letting parents keep their under-18s from becoming streamers. But there’s nothing stopping adults from posting footage of their kids online.",
           "source": "Tubefilter",
           "url": "https://www.tubefilter.com/2026/07/22/twitch-is-now-letting-parents-keep-their-under-18s-from-becoming-streamers-but-theres-nothing-stopping-adults-from-posting-footage-of-their-kids-online/"
+        },
+        {
+          "title": "Twitch will let parents stop their teens going live",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/968480/twitch-parental-controls-block-streaming-live-dms"
         }
       ]
     },
     {
-      "id": "wehen-wiesbaden-vs-bayern",
-      "rank": 6,
-      "keyword": "wehen wiesbaden vs bayern",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Historie eines Spiels zwischen Wehen und Bayern München: Kaya sorgte be…' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Historie eines Spiels zwischen Wehen und Bayern München: Kaya sorgte beinahe für eine Überraschung, Kane rettete die Bayern in der 90.+4. Minute.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/de/lich-su-1-tran-doi-dau-wehen-vs-bayern-munich-kaya-suyt-tao-dia-chan-kane-cuu-hum-xam-phut-90-4"
-        },
-        {
-          "title": "Fußball: Ohne WM-Stars: Junges Bayern-Team verliert Test in Wiesbaden",
-          "source": "DIE ZEIT",
-          "url": "https://www.zeit.de/news/2026-07/25/ohne-wm-stars-junges-bayern-team-verliert-test-in-wiesbaden"
-        },
-        {
-          "title": "Erster Bayern-Test im Liveticker: Wie präsentieren sich die \"jungen Wilden\"?",
-          "source": "T-Online",
-          "url": "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101356868/sv-wehen-vs-fc-bayern-liveticker-bischof-schiesst-1-1-fuer-bayern.html"
-        }
-      ]
-    },
-    {
-      "id": "라오스-대-태국",
-      "rank": 7,
-      "keyword": "라오스 대 태국",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '라오스 대 태국 축구 경기 영상: '전쟁 코끼리' 라오스가 화려한 시작을 알렸습니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "라오스 대 태국 축구 경기 영상: '전쟁 코끼리' 라오스가 화려한 시작을 알렸습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/video-bong-da-lao-vs-thai-lan-voi-chien-ra-quan-tung-bung"
-        },
-        {
-          "title": "2026 아세안컵 결과: 말레이시아, 미얀마에 역전승",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/ket-qua-asean-cup-2026-malaysia-nguoc-dong-danh-bai-myanmar"
-        },
-        {
-          "title": "탄 청 호 감독은 미얀마와의 개막전을 앞두고 말레이시아 선수단의 단결을 촉구했다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/hlv-tan-cheng-hoe-keu-goi-malaysia-doan-ket-truoc-tran-ra-quan-gap-myanmar"
-        }
-      ]
-    },
-    {
-      "id": "wi-vs-pak",
-      "rank": 8,
-      "keyword": "wi vs pak",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'West Indies slight favourites as Pakistan hope for Test turnaround' (Cricinfo) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "West Indies slight favourites as Pakistan hope for Test turnaround",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/pakistan-in-west-indies-2026-1538621/west-indies-vs-pakistan-1st-test-1538630/match-preview"
-        },
-        {
-          "title": "Joshua Bishop: From Emerging to Elite; Left Arm Spinner Eyes the Big Stage",
-          "source": "Windies",
-          "url": "https://www.windiescricket.com/news/joshua-bishop-from-emerging-to-elite-left-arm-spinner-eyes-the-big-stage/"
-        },
-        {
-          "title": "Sammy wants West Indies to build on winning momentum",
-          "source": "ICC",
-          "url": "https://www.icc-cricket.com/news/sammy-wants-west-indies-to-build-on-winning-momentum"
-        }
-      ]
-    },
-    {
-      "id": "비니시우스",
+      "id": "cryptocurrency-trading",
       "rank": 9,
-      "keyword": "비니시우스",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '초대박 이적설! 英 'BBC급' 보도, 아스널 PL 2연패 시동, 비니시우스 정조준!…레알과 재계약 난항→\"구단 전 단계서 승인\"' (네이트 스포츠) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "초대박 이적설! 英 'BBC급' 보도, 아스널 PL 2연패 시동, 비니시우스 정조준!…레알과 재계약 난항→\"구단 전 단계서 승인\"",
-          "source": "네이트 스포츠",
-          "url": "https://sports.news.nate.com/view/20260726n00014"
-        },
-        {
-          "title": "아스널, 비니시우스 영입 계획 최종 확정.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/arsenal-chot-ke-hoach-mua-vinicius"
-        },
-        {
-          "title": "'연봉 253억→337억 인상에 보너스까지 줘'...비니시우스 선 넘은 요구에 레알과 재계약 협상! 놀랍게도 맨유가 노려 난항",
-          "source": "인터풋볼",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=691051"
-        }
-      ]
-    },
-    {
-      "id": "경기도교육감",
-      "rank": 10,
-      "keyword": "경기도교육감",
+      "keyword": "cryptocurrency trading",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '안민석 교육감, “고양지역 학군 전면 재조정... 북부 교육감도 공모”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'BitMEX CEO Calls New Insider Trading Lawsuit 'Spurious and Opportunisti…' (Benzinga) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "안민석 교육감, “고양지역 학군 전면 재조정... 북부 교육감도 공모”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260725132715068"
+          "title": "BitMEX CEO Calls New Insider Trading Lawsuit 'Spurious and Opportunistic'",
+          "source": "Benzinga",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60669715/bitmex-ceo-calls-new-insider-trading-lawsuit-spurious-and-opportunistic"
         },
         {
-          "title": "안민석 경기도교육감 “제2부교육감은 ‘북부’ 교육감”",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1767881"
+          "title": "BitMEX Sued Over Alleged Wrongful Liquidations on Day It Announced Shutdown",
+          "source": "bloomingbit",
+          "url": "https://en.bloomingbit.io/feed/news/116912"
         },
         {
-          "title": "안민석 경기도교육감, 새벽 5시 호수공원서 '경기북부교육' 걸었다",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2607394"
+          "title": "Arthur Hayes, BitMEX co-founders face fraud claims over alleged 'Insider Trading Desk' as exchange winds down",
+          "source": "The Block",
+          "url": "https://www.theblock.co/post/409595/arthur-hayes-bitmex-co-founders-face-fraud-claims-over-alleged-insider-trading-desk-as-exchange-winds-down"
+        }
+      ]
+    },
+    {
+      "id": "what-is-bitcoin",
+      "rank": 10,
+      "keyword": "what is bitcoin",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Bitcoin treasury companies unwind holdings as the DAT model comes under…' (CoinDesk) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Bitcoin treasury companies unwind holdings as the DAT model comes under pressure",
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/07/24/bitcoin-treasury-companies-sell-up-repay-debt-pivot-to-ai-as-share-prices-collapse"
+        },
+        {
+          "title": "Another crypto company to sell its Bitcoin stash",
+          "source": "TheStreet",
+          "url": "https://www.thestreet.com/crypto/markets/another-crypto-company-to-sell-its-bitcoin-stash"
+        },
+        {
+          "title": "Satsuma Shareholders Approve Bitcoin Liquidation, London Delisting",
+          "source": "Bitcoin Magazine",
+          "url": "https://bitcoinmagazine.com/news/satsuma-shareholders-bitcoin-liquidation"
         }
       ]
     }
