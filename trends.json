@@ -1,157 +1,213 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-25T10:39:49.122Z",
+  "updatedAt": "2026-07-25T12:06:44.289Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "chatgpt",
+      "id": "정몽규",
       "rank": 1,
-      "keyword": "chatgpt",
+      "keyword": "정몽규",
       "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'ChatGPT experiences global outage, including in Israel' (The Times of Israel) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“정몽규가 뭘 잘못했나” 두둔하더니...청문회 참고인 채택 6시간 만에 불출석 통보' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "ChatGPT experiences global outage, including in Israel",
-          "source": "The Times of Israel",
-          "url": "https://www.timesofisrael.com/liveblog_entry/chatgpt-experiences-global-outage-including-in-israel/"
+          "title": "“정몽규가 뭘 잘못했나” 두둔하더니...청문회 참고인 채택 6시간 만에 불출석 통보",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260725130109737"
         },
         {
-          "title": "OpenAI confirms ChatGPT is down worldwide",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/"
+          "title": "문체위, 축협청문회 참고인 5명 추가...'박지성 저격' 서강일 포함",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202607241657014949"
         },
         {
-          "title": "ChatGPT and Codex are currently down for some users",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/07/23/chatgpt-and-codex-are-currently-down-for-some-users/"
+          "title": "선동열 국감, 홍명보 청문회[뉴스와 시각]",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11604795"
         }
       ]
     },
     {
-      "id": "gpt",
+      "id": "김천상무-대-대전",
       "rank": 2,
-      "keyword": "gpt",
+      "keyword": "김천상무 대 대전",
       "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김천상무, 홈경기 승리 정조준…한여름 밤 ‘워터 페스티벌’' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김천상무, 홈경기 승리 정조준…한여름 밤 ‘워터 페스티벌’",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026072410435711476"
+        },
+        {
+          "title": "\"마지노선\" 선언한 황선홍… 김천戰서 승부 건다",
+          "source": "디트NEWS24",
+          "url": "https://www.dtnews24.com/news/articleView.html?idxno=813585"
+        },
+        {
+          "title": "김천상무, 대전 잡고 순위 도약 노린다! '물오른 고재현+주장 이정택 복귀'…홈에서 워터 페스티벌까지",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260724094138558"
+        }
+      ]
+    },
+    {
+      "id": "chat-gpt",
+      "rank": 3,
+      "keyword": "chat gpt",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'ChatGPT Led to a Man’s Near-Fatal Health Crisis, Lawsuit Claims' (The New York Times) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "ChatGPT Led to a Man’s Near-Fatal Health Crisis, Lawsuit Claims",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/22/well/openai-chatgpt-health-lawsuit.html"
+        },
+        {
+          "title": "ChatGPT medical advice brought man 'to brink of death', lawsuit alleges",
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cwylp3nxp5yo"
+        },
+        {
+          "title": "Don't Blame AI for Your Own Medical Problems",
+          "source": "Reason Magazine",
+          "url": "https://reason.com/2026/07/23/dont-blame-ai-for-your-own-medical-problems/"
+        }
+      ]
+    },
+    {
+      "id": "화성-대-충남-아산-fc",
+      "rank": 4,
+      "keyword": "화성 대 충남 아산 fc",
+      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'EXCLUSIVE: Its AI agent spent days hacking a company, but sources say O…' (Reuters) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[BE.현장] \"여름 더위 살인적, 너무 덥다. 최대한 지배해야 한다\"…안드레 감독이 짚어준 경기장 더위에서 살아남는 법' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24/"
-        },
-        {
-          "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/"
-        },
-        {
-          "title": "How a Chinese AI model stopped OpenAI’s ‘unprecedented’ cyber attack",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/24/chinese-ai-model-openai-cyber-attack.html"
-        }
-      ]
-    },
-    {
-      "id": "카를로스-발레바",
-      "rank": 3,
-      "keyword": "카를로스 발레바",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"간절히 맨유행 바란다\" 1년 전 개인 합의→ 구단 거부로 무산… 브라이턴 발레바, 이번엔 선수 측이 역제안' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"간절히 맨유행 바란다\" 1년 전 개인 합의→ 구단 거부로 무산… 브라이턴 발레바, 이번엔 선수 측이 역제안",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260725000651554"
-        },
-        {
-          "title": "중원 추가 보강 절실! 맨유, 1656억 쓰고도 안 멈춘다! 682억 '전천후 MF' 영입 정조준",
+          "title": "[BE.현장] \"여름 더위 살인적, 너무 덥다. 최대한 지배해야 한다\"…안드레 감독이 짚어준 경기장 더위에서 살아남는 법",
           "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260725n08313"
+          "url": "https://sports.news.nate.com/view/20260725n11717"
         },
         {
-          "title": "'비상!' 맨체스터 유나이티드 안 좋은 소식…'HERE WE GO' 기자 확인! \"그는 레알 마드리드를 떠나고 싶지 않다\"",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026072317143240255"
-        }
-      ]
-    },
-    {
-      "id": "엘리베이터",
-      "rank": 4,
-      "keyword": "엘리베이터",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김해 병원 배식 승강기서 60대 추락사…승강기 안왔는데 문열려' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김해 병원 배식 승강기서 60대 추락사…승강기 안왔는데 문열려",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260724155700052"
-        },
-        {
-          "title": "김해 병원서 식기용 엘리베이터 문 열려 60대 직원 추락사",
+          "title": "‘분위기 반전 나선다!’ 충남아산, 박주영·비티뇨 앞세워 화성 원정서 승점 사냥 도전",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260724194827491"
+          "url": "https://v.daum.net/v/20260725131809951"
         },
         {
-          "title": "경남 김해 병원 배식 승강기서 60대 추락해 숨져…고장 여부 등 조사",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8619515"
+          "title": "충남아산FC, 비티뇨 영입…브라질 공격 DNA 장착",
+          "source": "아산데스크",
+          "url": ""
         }
       ]
     },
     {
-      "id": "기술-기업",
+      "id": "미얀마-대-말레이시아",
       "rank": 5,
-      "keyword": "기술 기업",
-      "volumeLabel": "500+",
+      "keyword": "미얀마 대 말레이시아",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '트럼프 \"EU '美기업 약탈'에 301조 관세…큰 대가 치르게 될 것\"(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '슈퍼컴퓨터가 예측한 라오스 대 태국 경기: 코끼리 군단이 압도적인 경기력을 보이며 개막전 승리를 앞두고 있다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "트럼프 \"EU '美기업 약탈'에 301조 관세…큰 대가 치르게 될 것\"(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260725001952071"
+          "title": "슈퍼컴퓨터가 예측한 라오스 대 태국 경기: 코끼리 군단이 압도적인 경기력을 보이며 개막전 승리를 앞두고 있다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/sieu-may-tinh-du-doan-lao-vs-thai-lan-voi-chien-ap-dao-cho-chien-thang-ngay-ra-quan"
         },
         {
-          "title": "트럼프, EU 과징금에 \"큰 대가 치를 것\"… 한국도 남 일 같지 않다",
+          "title": "미얀마 대 말레이시아 아세안컵 2026 경기 전망",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-myanmar-vs-malaysia-asean-cup-2026-1740460.ldo"
+        },
+        {
+          "title": "태국 감독은 \"우리는 우승 후보가 아니다\"라며 씁쓸한 심정을 드러냈다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/hlv-thai-lan-noi-loi-cay-dang-chung-toi-khong-phai-ung-vien-vo-dich-sang-gia"
+        }
+      ]
+    },
+    {
+      "id": "두시탈출-컬투쇼",
+      "rank": 6,
+      "keyword": "두시탈출 컬투쇼",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '소유, '컬투쇼' 특집 공개방송 스페셜 MC 발탁..김태균과 호흡' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "소유, '컬투쇼' 특집 공개방송 스페셜 MC 발탁..김태균과 호흡",
           "source": "조선일보",
-          "url": "https://www.chosun.com/international/us/2026/07/25/GYCNBYJO5RDPJEULLYAG6WEJTU/"
+          "url": "https://www.chosun.com/entertainments/music/2026/07/25/GZSDAYLDG5STMN3DGI3TGMZSGI/"
         },
         {
-          "title": "트럼프, EU에 관세 보복 예고…우크라 방산 행사장 피격",
+          "title": "소유, '컬투쇼' 특집 MC 출격",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260725101954649"
+          "url": "https://v.daum.net/v/20260725091009706"
+        },
+        {
+          "title": "소유, ‘컬투쇼’ 일일 스페셜 MC 출격…김태균과 호흡",
+          "source": "뉴스엔",
+          "url": "https://m.newsen.com/news_view.php?uid=202607251352272410"
+        }
+      ]
+    },
+    {
+      "id": "김원훈",
+      "rank": 7,
+      "keyword": "김원훈",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''놀뭐' 김원훈, 94세 할머니에게 플러팅 \"3대3으로 수박 한조각 하자\" 폭소' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'놀뭐' 김원훈, 94세 할머니에게 플러팅 \"3대3으로 수박 한조각 하자\" 폭소",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260725185930462"
+        },
+        {
+          "title": "유재석 번쩍 업은 허경환 \"낙엽보다 가벼워\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260725_0003723005"
+        },
+        {
+          "title": "“아 짜릿해”..유재석, 김원훈 ‘소변실수’ 무리수 개그에 분노 폭발 (‘놀뭐’)[순간포착]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/07/25/GJRDQOJTMMZDAYTGMRSWIZJYMY/"
         }
       ]
     },
     {
       "id": "gpt-서버",
-      "rank": 6,
+      "rank": 8,
       "keyword": "gpt 서버",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '인공지능 해킹, 불과 몇시간 만에 발생...\"강화 학습 예견된 사고\"' (YTN 사이언스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -173,70 +229,58 @@
       ]
     },
     {
-      "id": "atletico-madrid",
-      "rank": 7,
-      "keyword": "atletico madrid",
-      "volumeLabel": "200+",
+      "id": "베트남-u-23-축구-국가대표팀",
+      "rank": 9,
+      "keyword": "베트남 u-23 축구 국가대표팀",
+      "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Club Atlético de Madrid - Welcome, Kang In Lee!' (Club Atlético de Madrid) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '인도네시아 국가대표팀은 소속 클럽의 반대에도 불구하고 귀화한 센터백을 아세안컵 대표팀 명단에 포함시켰다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Club Atlético de Madrid - Welcome, Kang In Lee!",
-          "source": "Club Atlético de Madrid",
-          "url": "https://en.atleticodemadrid.com/noticias/kang-in-lee-signs-with-atletico-de-madrid"
+          "title": "인도네시아 국가대표팀은 소속 클럽의 반대에도 불구하고 귀화한 센터백을 아세안컵 대표팀 명단에 포함시켰다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/tuyen-indonesia-dien-ten-trung-ve-nhap-tich-du-asean-cup-bat-ke-bi-clb-phan-doi"
         },
         {
-          "title": "Lee Kang-in transfer nears completion but likely to miss Atletico Seoul debut - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/07/25/ATB6LNELRJEGBF2PTIIYWJMT6E/"
+          "title": "인도네시아 감독, 아세안컵을 월드컵 목표를 위한 발판으로 간주",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da/hlv-indonesia-xem-asean-cup-la-buoc-dem-cho-muc-tieu-world-cup-1740691.ldo"
         },
         {
-          "title": "Lee Kang-in, South Korea's top soccer talent, will wear an Atletico Madrid uniform.AT Madrid officia..",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/sports/12107334"
+          "title": "2026 AFF에서 인도네시아 국가대표팀의 주장은 누구? 이것이 대답입니다.",
+          "source": "VOI.ID",
+          "url": "https://voi.id/kr/sepakbola/586411"
         }
       ]
     },
     {
-      "id": "대한민국-기후-에너지-환경부-장관",
-      "rank": 8,
-      "keyword": "대한민국 기후 에너지 환경부 장관",
-      "volumeLabel": "200+",
+      "id": "xsmn",
+      "rank": 10,
+      "keyword": "xsmn",
+      "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "장기수",
-      "rank": 9,
-      "keyword": "장기수",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '장기수 천안시장 \"동부 6개 읍면, 기회의 땅 만든다\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Xổ số miền Nam ngày 25 tháng 7: Một người trúng số 1,6 tỉ đài Hậu Giang' (Báo Thanh Niên) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "장기수 천안시장 \"동부 6개 읍면, 기회의 땅 만든다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260724194643455"
+          "title": "Xổ số miền Nam ngày 25 tháng 7: Một người trúng số 1,6 tỉ đài Hậu Giang",
+          "source": "Báo Thanh Niên",
+          "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-25-thang-7-mot-nguoi-trung-so-16-ti-dai-hau-giang-185260725163730637.htm"
         },
         {
-          "title": "\"천안시의 복지는 우리 손에 있소이다\"",
-          "source": "충청매일",
-          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1089979"
+          "title": "Kết quả xổ số Đà Nẵng, Quảng Ngãi, Đắk Nông hôm nay 25.7",
+          "source": "Laodong.vn",
+          "url": "https://laodong.vn/ban-doc/ket-qua-xo-so-da-nang-quang-ngai-dak-nong-hom-nay-257-1740697.ldo"
         },
         {
-          "title": "장기수 천안시장, 동부 6개 읍·면 주민과 '즉문즉답'…\"충청의 중심으로 성장\"",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/national/2346928.htm"
+          "title": "XSMN 25/7 - Trực tiếp XSMN hôm nay thứ 7 25/7/2026",
+          "source": "CafeF",
+          "url": "https://cafef.vn/xsmn-25-7-truc-tiep-xsmn-hom-nay-thu-7-25-7-2026-188260725170439215.chn"
         }
       ]
     }
