@@ -1,251 +1,267 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-25T14:12:08.193Z",
+  "updatedAt": "2026-07-25T15:43:36.885Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "투자",
+      "id": "문재인",
       "rank": 1,
-      "keyword": "투자",
-      "volumeLabel": "10000+",
+      "keyword": "문재인",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '네이버·NVIDIA·브룩필드, 한국의 국가 AI 팩토리 인프라를 확대하다' (NVIDIA) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘서해 공무원 피격’ 文 전 대통령 불기소…3년 7개월만' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "네이버·NVIDIA·브룩필드, 한국의 국가 AI 팩토리 인프라를 확대하다",
-          "source": "NVIDIA",
-          "url": "https://blogs.nvidia.co.kr/blog/naver-nvidia-and-brookfield-to-expand-koreas-national-ai-factory-infrastructure-buildout/"
+          "title": "‘서해 공무원 피격’ 文 전 대통령 불기소…3년 7개월만",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260725/134363474/1"
         },
         {
-          "title": "이해진 \"엔비디아·브룩필드, 네이버에 14조6천억원 투자\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260725033600017"
+          "title": "검찰, ‘서해 공무원 피격’ 문재인 전 대통령 불기소···고발 3년7개월만에 “증거 불충분”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607251924001"
         },
         {
-          "title": "판 커지는 국내 AI 데이터센터 시장… 네이버 14조·SKT 2GW 추진",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260725150839419?f=p"
+          "title": "검찰, '서해 피격' 문재인 불기소...\"증거 불충분\"",
+          "source": "YTN",
+          "url": "https://m.ytn.co.kr/news_view.php?key=202607252158442288&s_mcd=0103"
         }
       ]
     },
     {
-      "id": "베헨-비스바덴-대-바이에른",
+      "id": "추경호",
       "rank": 2,
-      "keyword": "베헨 비스바덴 대 바이에른",
-      "volumeLabel": "5000+",
+      "keyword": "추경호",
+      "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '베헨과 바이에른 뮌헨 경기 역사: 카야가 거의 이변을 일으킬 뻔했지만, 케인이 90+4분에 바이에른을 구해냈다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '추경호, 기획예산처 장관 만나 대구 핵심 국비사업 지원 건의' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "베헨과 바이에른 뮌헨 경기 역사: 카야가 거의 이변을 일으킬 뻔했지만, 케인이 90+4분에 바이에른을 구해냈다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/lich-su-1-tran-doi-dau-wehen-vs-bayern-munich-kaya-suyt-tao-dia-chan-kane-cuu-hum-xam-phut-90-4"
+          "title": "추경호, 기획예산처 장관 만나 대구 핵심 국비사업 지원 건의",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/VtAX7wEotk"
         },
         {
-          "title": "베헨 비스바덴 대 FC 바이에른 뮌헨 예측: 예상 라인업",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-wehen-wiesbaden-vs-fc-bayern-munchen-doi-hinh-du-kien"
+          "title": "[전북] 이원택, 국가예산·공공기관 지방이전 관련 건의",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0115_202607231527350204"
+        },
+        {
+          "title": "부산 미래산업 지형 바꿀 ‘R＆D 청사진’ 나온다… BISTEP, AI·해양에 승부수",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026072312054974851"
         }
       ]
     },
     {
-      "id": "sbs",
+      "id": "서훈",
       "rank": 3,
-      "keyword": "sbs",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "keyword": "서훈",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'SBS Returns to Rural Variety After 16 Years with 'Jecheolri Family' Pre…' (mnews.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "SBS Returns to Rural Variety After 16 Years with 'Jecheolri Family' Premiering on July 26",
-          "source": "mnews.sbs.co.kr",
-          "url": ""
-        },
-        {
-          "title": "[Official] 16 years after 'Ppattwaedda'.. Song Ga-in joins SBS 'Jecheolri Village Hall'",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/en/broadcast-show/2026/07/24/2026072414102663400"
-        },
-        {
-          "title": "Kim Dae-ho and Song Gain team up… SBS’ first rural variety in 16 years since “Family Outing” goes off the air on June 26",
-          "source": "씨네플레이",
-          "url": "https://www.cineplay.co.kr/en-us/articles/28894"
-        }
-      ]
+      "newsSignals": []
     },
     {
-      "id": "울산광역시",
+      "id": "나솔사계",
       "rank": 4,
-      "keyword": "울산광역시",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "keyword": "나솔사계",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "summary": "급상승 시점에 '마침내 17기 영수와 일대일 데이트하는 여자 5호! #나솔사계 EP.175ㅣSBS PLUS X ENAㅣ목요일 밤 10시 30분' (programs.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": []
+      "newsSignals": [
+        {
+          "title": "마침내 17기 영수와 일대일 데이트하는 여자 5호! #나솔사계 EP.175ㅣSBS PLUS X ENAㅣ목요일 밤 10시 30분",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/feed-api/rest/clip_hub?co=google&type=ucc&content_id=22000633313"
+        },
+        {
+          "title": "‘나솔사계’ 8기 영수가 최종 결심했다, 2호냐 3호냐",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260725095837343"
+        },
+        {
+          "title": "여자 1호, '배신' 26기 영철 면전에 대고 비난 \"인간적으로 별로다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/07/24/2026072404541056280"
+        }
+      ]
     },
     {
-      "id": "ลาว-พบ-ไทย",
+      "id": "twitch",
       "rank": 5,
-      "keyword": "ลาว พบ ไทย",
+      "keyword": "twitch",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'ถ่ายทอดสดการแข่งขันระหว่างลาวกับไทย (20:00 น. วันที่ 25 กรกฎาคม): สุดยอ…' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Twitch Allows Parents To Restrict Teens From Livestreaming 07/22/2026' (MediaPost) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "ถ่ายทอดสดการแข่งขันระหว่างลาวกับไทย (20:00 น. วันที่ 25 กรกฎาคม): สุดยอดความท้าทาย",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/truc-tiep-lao-vs-thai-lan-20h00-ngay-25-7-thu-thach-cuc-dai"
+          "title": "Twitch Allows Parents To Restrict Teens From Livestreaming 07/22/2026",
+          "source": "MediaPost",
+          "url": "https://www.mediapost.com/publications/article/416695/twitch-allows-parents-to-restrict-teens-from-lives.html"
         },
         {
-          "title": "อาเซียน คัพ 2026 ใช้กติกาเดียวกับฟุตบอลโลก แต่ไม่มี Hydration Break",
-          "source": "Mainstand",
-          "url": "https://mainstand.co.th/th/news/1/article/26216"
-        },
-        {
-          "title": "ผลบอล : สดที่นี่ ... จบครึ่งแรก สปป.ลาว ตามหลัง ทีมชาติไทย 0-2 ศึกฟุตบอลชิงแชมป์อาเซียน 2026",
-          "source": "Siamsport",
-          "url": "https://www.siamsport.co.th/football-thailand/thai-national/107121/"
+          "title": "Twitch is now letting parents keep their under-18s from becoming streamers. But there’s nothing stopping adults from posting footage of their kids online.",
+          "source": "Tubefilter",
+          "url": "https://www.tubefilter.com/2026/07/22/twitch-is-now-letting-parents-keep-their-under-18s-from-becoming-streamers-but-theres-nothing-stopping-adults-from-posting-footage-of-their-kids-online/"
         }
       ]
     },
     {
-      "id": "마라톤",
+      "id": "wehen-wiesbaden-vs-bayern",
       "rank": 6,
-      "keyword": "마라톤",
+      "keyword": "wehen wiesbaden vs bayern",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '태종대 해안 달린 1986명…'제16회 전국마라톤대회' 성료' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Historie eines Spiels zwischen Wehen und Bayern München: Kaya sorgte be…' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "태종대 해안 달린 1986명…'제16회 전국마라톤대회' 성료",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3646200"
+          "title": "Historie eines Spiels zwischen Wehen und Bayern München: Kaya sorgte beinahe für eine Überraschung, Kane rettete die Bayern in der 90.+4. Minute.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/de/lich-su-1-tran-doi-dau-wehen-vs-bayern-munich-kaya-suyt-tao-dia-chan-kane-cuu-hum-xam-phut-90-4"
         },
         {
-          "title": "영도구 바다를 품고 태종대를 달리다…제16회 태종대 전국마라톤대회 성료",
-          "source": "웹이코노미",
-          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2241919"
+          "title": "Fußball: Ohne WM-Stars: Junges Bayern-Team verliert Test in Wiesbaden",
+          "source": "DIE ZEIT",
+          "url": "https://www.zeit.de/news/2026-07/25/ohne-wm-stars-junges-bayern-team-verliert-test-in-wiesbaden"
         },
         {
-          "title": "부산 영도병원, 제16회 태종대 혹서기 전국마라톤대회 의료지원",
-          "source": "재활뉴스",
-          "url": "https://www.rehabnews.net/news/articleView.html?idxno=30061"
+          "title": "Erster Bayern-Test im Liveticker: Wie präsentieren sich die \"jungen Wilden\"?",
+          "source": "T-Online",
+          "url": "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101356868/sv-wehen-vs-fc-bayern-liveticker-bischof-schiesst-1-1-fuer-bayern.html"
         }
       ]
     },
     {
-      "id": "météo-demain",
+      "id": "라오스-대-태국",
       "rank": 7,
-      "keyword": "météo demain",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "keyword": "라오스 대 태국",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Attention aux orages violents dans le Sud-Est et en Corse samedi' (Météo-France) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '라오스 대 태국 축구 경기 영상: '전쟁 코끼리' 라오스가 화려한 시작을 알렸습니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Attention aux orages violents dans le Sud-Est et en Corse samedi",
-          "source": "Météo-France",
-          "url": "https://meteofrance.com/actualites-et-dossiers/actualites/attention-aux-orages-violents-dans-le-sud-est-et-en-corse-samedi"
+          "title": "라오스 대 태국 축구 경기 영상: '전쟁 코끼리' 라오스가 화려한 시작을 알렸습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/video-bong-da-lao-vs-thai-lan-voi-chien-ra-quan-tung-bung"
         },
         {
-          "title": "Orages violents ce week-end : fortes pluies et grêle, quelles sont les régions concernées ?",
-          "source": "La Chaîne Météo",
-          "url": "https://actualite.lachainemeteo.com/actualite-meteo/2026-07-22/orages-violents-ce-week-end-fortes-pluies-et-grele-quelles-sont-les-regions-concernees-90647"
+          "title": "2026 아세안컵 결과: 말레이시아, 미얀마에 역전승",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/ket-qua-asean-cup-2026-malaysia-nguoc-dong-danh-bai-myanmar"
         },
         {
-          "title": "Midi festival à Hyères, la Kermesse à La Valette… Des événements annulés ou reportés autour de Toulon à cause des orages annoncés",
-          "source": "Nice-Matin",
-          "url": "https://www.nicematin.com/culture/midi-festival-a-hyeres-la-kermesse-a-la-valette-des-evenements-annules-ou-reportes-autour-de-toulon-a-cause-des-orages-annonces-10694820"
+          "title": "탄 청 호 감독은 미얀마와의 개막전을 앞두고 말레이시아 선수단의 단결을 촉구했다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/hlv-tan-cheng-hoe-keu-goi-malaysia-doan-ket-truoc-tran-ra-quan-gap-myanmar"
         }
       ]
     },
     {
-      "id": "괴롭힘",
+      "id": "wi-vs-pak",
       "rank": 8,
-      "keyword": "괴롭힘",
-      "volumeLabel": "100+",
+      "keyword": "wi vs pak",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''충주맨'도 지적한 병폐…젊은 사무관 벼랑 끝 내몰았나' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'West Indies slight favourites as Pakistan hope for Test turnaround' (Cricinfo) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'충주맨'도 지적한 병폐…젊은 사무관 벼랑 끝 내몰았나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/xTmeqXGhD3"
+          "title": "West Indies slight favourites as Pakistan hope for Test turnaround",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/pakistan-in-west-indies-2026-1538621/west-indies-vs-pakistan-1st-test-1538630/match-preview"
         },
         {
-          "title": "세종시 중앙부처 30대 신입 사무관 숨진 채 발견…경찰 조사·자체 감찰 동시 진행",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260722580075"
+          "title": "Joshua Bishop: From Emerging to Elite; Left Arm Spinner Eyes the Big Stage",
+          "source": "Windies",
+          "url": "https://www.windiescricket.com/news/joshua-bishop-from-emerging-to-elite-left-arm-spinner-eyes-the-big-stage/"
         },
         {
-          "title": "‘임관 10개월차 어느 사무관의 죽음’…공무원 직장내 괴롭힘일까?",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11604648"
+          "title": "Sammy wants West Indies to build on winning momentum",
+          "source": "ICC",
+          "url": "https://www.icc-cricket.com/news/sammy-wants-west-indies-to-build-on-winning-momentum"
         }
       ]
     },
     {
-      "id": "폭발",
+      "id": "비니시우스",
       "rank": 9,
-      "keyword": "폭발",
-      "volumeLabel": "100+",
+      "keyword": "비니시우스",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '年 30조 관리비 어떻게 쓰길래... 아파트 입주민들 전쟁 치른다' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '초대박 이적설! 英 'BBC급' 보도, 아스널 PL 2연패 시동, 비니시우스 정조준!…레알과 재계약 난항→\"구단 전 단계서 승인\"' (네이트 스포츠) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "年 30조 관리비 어떻게 쓰길래... 아파트 입주민들 전쟁 치른다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/real_estate/2026/07/25/JI5GYPJCT5BGLPPDRWAMLZ7VVQ/"
+          "title": "초대박 이적설! 英 'BBC급' 보도, 아스널 PL 2연패 시동, 비니시우스 정조준!…레알과 재계약 난항→\"구단 전 단계서 승인\"",
+          "source": "네이트 스포츠",
+          "url": "https://sports.news.nate.com/view/20260726n00014"
         },
         {
-          "title": "경찰 부르자 '시너' 확‥애꿎은 주민 끝내 숨져",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260725072207431"
+          "title": "아스널, 비니시우스 영입 계획 최종 확정.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/arsenal-chot-ke-hoach-mua-vinicius"
         },
         {
-          "title": "\"환청에 잠 못 자\" 경산 방화사건 아파트 주민들 트라우마 호소",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260724163300053"
+          "title": "'연봉 253억→337억 인상에 보너스까지 줘'...비니시우스 선 넘은 요구에 레알과 재계약 협상! 놀랍게도 맨유가 노려 난항",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=691051"
         }
       ]
     },
     {
-      "id": "오싹한-연애-드라마",
+      "id": "경기도교육감",
       "rank": 10,
-      "keyword": "오싹한 연애 드라마",
+      "keyword": "경기도교육감",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "summary": "급상승 시점에 '안민석 교육감, “고양지역 학군 전면 재조정... 북부 교육감도 공모”' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": []
+      "newsSignals": [
+        {
+          "title": "안민석 교육감, “고양지역 학군 전면 재조정... 북부 교육감도 공모”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260725132715068"
+        },
+        {
+          "title": "안민석 경기도교육감 “제2부교육감은 ‘북부’ 교육감”",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1767881"
+        },
+        {
+          "title": "안민석 경기도교육감, 새벽 5시 호수공원서 '경기북부교육' 걸었다",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2607394"
+        }
+      ]
     }
   ]
 }
