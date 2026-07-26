@@ -1,29 +1,29 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-26T16:08:40.411Z",
+  "updatedAt": "2026-07-26T17:35:34.976Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
       "id": "비비-워터-밤",
       "rank": 1,
       "keyword": "비비 워터 밤",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '비비, 男 댄서 앞 선정적 퍼포먼스…'워터밤' 공연 후폭풍 '갑론을박' [엑's 이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "비비, 男 댄서 앞 선정적 퍼포먼스…'워터밤' 공연 후폭풍 '갑론을박' [엑's 이슈]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/5a7YqkAiX0"
+          "url": "https://v.daum.net/v/20260726184009166"
         },
         {
-          "title": "\"스트립쇼도 아니고\"…비비, 워터밤 파격 연출에 '갑론을박'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026072666517"
+          "title": "비비, 워터밤 파격 연출 퍼포먼스에 '갑론을박'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260726_0003723800"
         },
         {
           "title": "\"'선 넘었다vs비비다운 무대\"…비비 워터밤 파격 퍼포먼스 '갑론을박' [핫피플] - 조선비즈",
@@ -33,41 +33,69 @@
       ]
     },
     {
-      "id": "검사",
+      "id": "김연경",
       "rank": 2,
-      "keyword": "검사",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '김앤장 출신 검사들 “수사 안 해보면 보완수사 요구도 못 해”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "김연경",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '8월 제주 스포츠 이벤트 잇따라…김연경·김민재·박인비 총출동' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김앤장 출신 검사들 “수사 안 해보면 보완수사 요구도 못 해”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260727000737953"
+          "title": "8월 제주 스포츠 이벤트 잇따라…김연경·김민재·박인비 총출동",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260726050200056"
         },
         {
-          "title": "[기자수첩] 현장 검사들의 항변",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202607261830292190"
+          "title": "다음 달 ‘스포츠 메가 이벤트’ 잇따라 열려",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8620458"
         },
         {
-          "title": "공소청이냐 중수청이냐, 아니면 사직이냐…기로에 선 검사들",
-          "source": "시사저널",
-          "url": "https://www.sisajournal.com/news/articleView.html?idxno=380852"
+          "title": "8월 제주서 스포츠 축제 한마당 펼쳐진다",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=840703"
+        }
+      ]
+    },
+    {
+      "id": "디즈니",
+      "rank": 3,
+      "keyword": "디즈니+",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '영화는 OTT로 보는데… 넷플릭스·디즈니 주가는 왜 떨어질까' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "영화는 OTT로 보는데… 넷플릭스·디즈니 주가는 왜 떨어질까",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/stock-finance/2026/07/26/SGO7HIPTVVDPTOHC7GTBL6K2IM/"
+        },
+        {
+          "title": "'아 옛날이여' 저무는 넷플릭스…\"더 볼 게 없다\" 냉혹한 평가",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202607220293i"
+        },
+        {
+          "title": "넷플릭스(NFLX.N) 2분기 실적 양호..단기 노이즈 예상되나 중장기 성장 유효",
+          "source": "알파경제",
+          "url": "https://www.alphabiz.co.kr/news/articleView.html?idxno=164733"
         }
       ]
     },
     {
       "id": "오연수",
-      "rank": 3,
+      "rank": 4,
       "keyword": "오연수",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '군살 없는 오연수의 선택…과식한 다음 날 꼭 먹는 '이 조합'' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -89,41 +117,97 @@
       ]
     },
     {
-      "id": "장윤기",
-      "rank": 4,
-      "keyword": "장윤기",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '\"인생 망하면 여고생 납치\"…'동창과 나눈 대화' 증거로' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "id": "영장",
+      "rank": 5,
+      "keyword": "영장",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“도와달라” 여고생의 다급한 비명…맨발로 뛰쳐나와 흉기 든 10대男 제압한 시민 영웅들' (서울경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"인생 망하면 여고생 납치\"…'동창과 나눈 대화' 증거로",
+          "title": "“도와달라” 여고생의 다급한 비명…맨발로 뛰쳐나와 흉기 든 10대男 제압한 시민 영웅들",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20071672"
+        },
+        {
+          "title": "서울 주택가서 여고생에 흉기 휘두른 10대 남성 구속(종합)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260726201509622"
+          "url": "https://v.daum.net/v/20260725212049932"
         },
         {
-          "title": "장윤기 내일 3차 공판...유족·피해 남학생 증인 신문",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0115_202607262203082346"
+          "title": "여고생 흉기 피습…'살인미수' 10대 남성 구속영장",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260725012100038"
+        }
+      ]
+    },
+    {
+      "id": "경찰관",
+      "rank": 6,
+      "keyword": "경찰관",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '서울 노원구서 차량 6대 추돌사고…무더위 속 물놀이 사고도 잇따라' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "서울 노원구서 차량 6대 추돌사고…무더위 속 물놀이 사고도 잇따라",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8620369"
         },
         {
-          "title": "[속보]‘여고생 살해’ 장윤기, 납치 계획 정황 ‘대화록’ 증거 인정",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11604999"
+          "title": "\"폭탄 터진 듯\"‥차량 6대 연쇄 추돌로 경찰관 등 7명 다쳐",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6840180_37004.html"
+        },
+        {
+          "title": "60대 운전자, 신호대기하던 車 5대 들이받아…9명 다쳐",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260726/134365809/2"
+        }
+      ]
+    },
+    {
+      "id": "영종도",
+      "rank": 7,
+      "keyword": "영종도",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[포토 르포] 신도평화대교 교통체증 해소? 개통 두 번째 주말 영종도 차량 흐름 원활' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[포토 르포] 신도평화대교 교통체증 해소? 개통 두 번째 주말 영종도 차량 흐름 원활",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260726110504639"
+        },
+        {
+          "title": "인천 신도평화대교 개통에 장봉도 배편 '직격탄'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260724092000065"
+        },
+        {
+          "title": "“개통하자마자 주말 마비된 신도평화대교”…경찰, 인천시에 교통시설 개선 촉구",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260726580067"
         }
       ]
     },
     {
       "id": "정전",
-      "rank": 5,
+      "rank": 8,
       "keyword": "정전",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-3",
       "summary": "급상승 시점에 '폭염 속 부산 해운대구 아파트 정전…4명 승강기 갇혀' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -146,141 +230,57 @@
     },
     {
       "id": "앤-트로픽",
-      "rank": 6,
+      "rank": 9,
       "keyword": "앤 트로픽",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '삼성SDS, 앤트로픽과 파트너십 체결…기업용 AI 사업 확대' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-3",
+      "summary": "급상승 시점에 '앤트로픽, 클로드 5 ‘컨텍스트 엔지니어링’ 공개...“규칙 줄여야 성능 올라간다”' (AI타임스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "삼성SDS, 앤트로픽과 파트너십 체결…기업용 AI 사업 확대",
+          "title": "앤트로픽, 클로드 5 ‘컨텍스트 엔지니어링’ 공개...“규칙 줄여야 성능 올라간다”",
+          "source": "AI타임스",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=213178"
+        },
+        {
+          "title": "앤스로픽, 싸고 빠른 AI ‘오퍼스5′ 공개...가성비 AI 경쟁 치열",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/tech_it/2026/07/26/XNPHFE2QJBGMTFIF3QR7EESKVA/"
+        },
+        {
+          "title": "GPT-5.6과 비슷한 가격에 성능은 앞서…앤트로픽 ‘오퍼스5’ 출시",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260726123937477"
-        },
-        {
-          "title": "삼성SDS, 오픈AI 이어 앤트로픽 맞손…\"AI 풀스택 사업 강화\"",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260725143028"
-        },
-        {
-          "title": "클로드 이용 100만건 넘어…삼성SDS·앤트로픽 '기업용 AI' 사업 확대",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6553251"
+          "url": "https://v.daum.net/v/1XxtpbqFNF?f=p"
         }
       ]
     },
     {
       "id": "한상진",
-      "rank": 7,
+      "rank": 10,
       "keyword": "한상진",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"친구 폭로로 연락 끊겼다 다시 만나\"...남창희, '아이유 닮은꼴' 아내♥와 러브스토리 ('미우새') [순간포착] - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-3",
+      "summary": "급상승 시점에 '\"친구 폭로로 연락 끊겼다 다시 만나\"...남창희, '아이유 닮은꼴' 아내♥와 러브스토리 ('미우새') [순간포착]' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"친구 폭로로 연락 끊겼다 다시 만나\"...남창희, '아이유 닮은꼴' 아내♥와 러브스토리 ('미우새') [순간포착] - 조선비즈",
+          "title": "\"친구 폭로로 연락 끊겼다 다시 만나\"...남창희, '아이유 닮은꼴' 아내♥와 러브스토리 ('미우새') [순간포착]",
           "source": "Chosunbiz",
           "url": "https://biz.chosun.com/entertainment/enter_general/2026/07/26/HFSDOMBTGI3DMOLEGQ3GIZBZMU/"
         },
         {
           "title": "\"큰 용변 보다가\"…한상진, 신혼여행가서 이혼할 뻔한 일화 (미우새) [TV나우]",
           "source": "네이트",
-          "url": "https://news.nate.com/view/20260726n15767?mid=e0600"
+          "url": "https://news.nate.com/view/20260726n15767?mid=e0100"
         },
         {
           "title": "“DM으로 사랑이 오냐고” 남창희 ‘한강 아이유’ 아내 러브스토리 공개 (‘미우새’)",
           "source": "매일경제",
           "url": "https://www.mk.co.kr/news/broadcasting-service/12107876"
-        }
-      ]
-    },
-    {
-      "id": "헝가리-그랑프리",
-      "rank": 8,
-      "keyword": "헝가리 그랑프리",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'F1-GRAND-PRIX-OF-HUNGARY' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "F1-GRAND-PRIX-OF-HUNGARY",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3646666"
-        },
-        {
-          "title": "APTOPIX Hungary F1 GP Auto Racing",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260726n01541?mid=n1101"
-        },
-        {
-          "title": "AUTO-PRIX-F1-HUN-RACE-PODIUM",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3646663"
-        }
-      ]
-    },
-    {
-      "id": "k리그1-순위",
-      "rank": 9,
-      "keyword": "k리그1 순위",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[K리그1] 중간 순위(26일)' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[K리그1] 중간 순위(26일)",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/soccer/6239413"
-        },
-        {
-          "title": "[K리그1] 중간 순위(25일)",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260725n13200"
-        },
-        {
-          "title": "[K리그1] 중간 순위(22일)",
-          "source": "네이트 스포츠",
-          "url": "https://sports.news.nate.com/view/20260722n35397"
-        }
-      ]
-    },
-    {
-      "id": "오싹한-연애-드라마",
-      "rank": 10,
-      "keyword": "오싹한 연애 드라마",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 ''오싹한 연애' 박은빈, 발칙한 일탈...양세종 얼음 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'오싹한 연애' 박은빈, 발칙한 일탈...양세종 얼음 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/07/25/2026072514237241438"
-        },
-        {
-          "title": "[MD포토] 아쉬운 표정의 브라질 배구 대표팀",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260726n08943"
-        },
-        {
-          "title": "'오싹한 연애' '쫄보 검사' 양세종, 귀신 월드 적응 훈련 돌입",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/512692"
         }
       ]
     }
