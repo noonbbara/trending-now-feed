@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-26T19:23:12.299Z",
+  "updatedAt": "2026-07-26T20:31:33.432Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,7 +9,7 @@
       "rank": 1,
       "keyword": "비비 워터 밤",
       "volumeLabel": "2000+",
-      "startedLabel": "4시간 전",
+      "startedLabel": "6시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 '비비, 男 댄서 앞 선정적 퍼포먼스…'워터밤' 공연 후폭풍 '갑론을박' [엑's 이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
@@ -18,7 +18,7 @@
         {
           "title": "비비, 男 댄서 앞 선정적 퍼포먼스…'워터밤' 공연 후폭풍 '갑론을박' [엑's 이슈]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/5a7YqkAiX0"
+          "url": "https://v.daum.net/v/20260726184009166"
         },
         {
           "title": "비비, 워터밤 파격 연출 퍼포먼스에 '갑론을박'",
@@ -33,20 +33,104 @@
       ]
     },
     {
-      "id": "디즈니",
+      "id": "영장",
       "rank": 2,
-      "keyword": "디즈니+",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
+      "keyword": "영장",
+      "volumeLabel": "1000+",
+      "startedLabel": "4시간 전",
       "change": "up",
       "changeLabel": "+1",
-      "summary": "급상승 시점에 '영화는 OTT로 보는데… 넷플릭스·디즈니 주가는 왜 떨어질까' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '여고생 흉기 피습…'살인미수' 10대 남성 구속영장' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "영화는 OTT로 보는데… 넷플릭스·디즈니 주가는 왜 떨어질까",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/stock-finance/2026/07/26/SGO7HIPTVVDPTOHC7GTBL6K2IM/"
+          "title": "여고생 흉기 피습…'살인미수' 10대 남성 구속영장",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260725012100038"
+        },
+        {
+          "title": "서울 주택가서 여고생에 흉기 휘두른 10대 남성 구속(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260725212049932"
+        },
+        {
+          "title": "화곡동 여고생에 흉기 휘두른 10대 남성 구속 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/07/25/2026072520320393466"
+        }
+      ]
+    },
+    {
+      "id": "경찰관",
+      "rank": 3,
+      "keyword": "경찰관",
+      "volumeLabel": "1000+",
+      "startedLabel": "5시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '경찰서 1곳서 10년이상 근무한 ‘향찰’ 1만7000명' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "경찰서 1곳서 10년이상 근무한 ‘향찰’ 1만7000명",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260726/134368307/2"
+        },
+        {
+          "title": "‘순환인사 확대’에 맞선 대전경찰 “대책 없는 제도 대응”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260726171728758"
+        },
+        {
+          "title": "한 곳 10년 이상 근무 '향찰' 만7천 명...'유착' 원인 지적",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0115_202607261430170647"
+        }
+      ]
+    },
+    {
+      "id": "육군사관학교",
+      "rank": 4,
+      "keyword": "육군사관학교",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '부모들은 왜 ‘통합사관학교’를 반대하나?…“육해공 성적 구분 안돼”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "부모들은 왜 ‘통합사관학교’를 반대하나?…“육해공 성적 구분 안돼”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9SP2GQ6bHT"
+        },
+        {
+          "title": "[오동룡의 밀리터리 인사이드] KIDA 보고서에 나타난 '고비용 저효율' 사관생도 양성의 '민낯'",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260726000168"
+        },
+        {
+          "title": "창원대 교수회 “해사 이전은 교육 본질 훼손”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8619817"
+        }
+      ]
+    },
+    {
+      "id": "디즈니",
+      "rank": 5,
+      "keyword": "디즈니+",
+      "volumeLabel": "500+",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-3",
+      "summary": "급상승 시점에 '영화는 OTT로 보는데…넷플릭스·디즈니 주가는 왜 떨어질까' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "영화는 OTT로 보는데…넷플릭스·디즈니 주가는 왜 떨어질까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260726100707403"
         },
         {
           "title": "'아 옛날이여' 저무는 넷플릭스…\"더 볼 게 없다\" 냉혹한 평가",
@@ -61,69 +145,13 @@
       ]
     },
     {
-      "id": "영장",
-      "rank": 3,
-      "keyword": "영장",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 '손팻말 든 민주당 법사위원들' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "손팻말 든 민주당 법사위원들",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260726066200013"
-        },
-        {
-          "title": "경찰, '아동 성매매 혐의' 최영중 전 청주시의원 소환 조사",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260726192210893"
-        },
-        {
-          "title": "與 임미애 \"국힘 시의원 '미성년 성매수' 영장 반려한 검사, 기막혀\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260726000094"
-        }
-      ]
-    },
-    {
-      "id": "경찰관",
-      "rank": 4,
-      "keyword": "경찰관",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 '\"폭탄 터진 듯\"‥차량 6대 연쇄 추돌로 경찰관 등 7명 다쳐' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"폭탄 터진 듯\"‥차량 6대 연쇄 추돌로 경찰관 등 7명 다쳐",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6840180_37004.html"
-        },
-        {
-          "title": "서울 노원구서 차량 6대 추돌사고…무더위 속 물놀이 사고도 잇따라",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260726211810496"
-        },
-        {
-          "title": "60대 운전자, 신호대기하던 車 5대 들이받아…9명 다쳐",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260726/134365809/2"
-        }
-      ]
-    },
-    {
       "id": "김연경",
-      "rank": 5,
+      "rank": 6,
       "keyword": "김연경",
       "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
+      "startedLabel": "5시간 전",
       "change": "down",
-      "changeLabel": "-3",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '8월 제주 스포츠 이벤트 잇따라…김연경·김민재·박인비 총출동' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -145,125 +173,69 @@
       ]
     },
     {
-      "id": "오연수",
-      "rank": 6,
-      "keyword": "오연수",
-      "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '군살 없는 오연수의 선택…과식한 다음 날 꼭 먹는 '이 조합'' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "군살 없는 오연수의 선택…과식한 다음 날 꼭 먹는 '이 조합'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260726_0003723591"
-        },
-        {
-          "title": "\"50대에도 군살 없는 이유?\"…오연수, 과식 다음 날 '이렇게' 먹는다",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260726n05283"
-        },
-        {
-          "title": "‘살 안찌는 비결’은 아점? 배우 오연수가 과식 후 먹는 ‘식단’",
-          "source": "헬스조선",
-          "url": "https://health.chosun.com/site/data/html_dir/2026/07/22/2026072201008.html"
-        }
-      ]
-    },
-    {
-      "id": "정전",
+      "id": "백하나",
       "rank": 7,
-      "keyword": "정전",
-      "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '폭염 속 부산 해운대구 아파트 정전…4명 승강기 갇혀' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "백하나",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘류성수-탄닝전 5연패’ 이소희-백하나, 만리장성 격파 없인 AG-올림픽 金도 없다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "폭염 속 부산 해운대구 아파트 정전…4명 승강기 갇혀",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260726006900051"
-        },
-        {
-          "title": "'폭염' 부산 아파트 정전...주민 불편 2시간 만에 복구",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0115_202607260048365466"
-        },
-        {
-          "title": "열대야 속 부산 해운대구 아파트 정전…4명 승강기 갇히기도",
-          "source": "부산일보",
-          "url": "https://www.busan.com/view/busan/view.php?code=2026072609445043432"
-        }
-      ]
-    },
-    {
-      "id": "앤-트로픽",
-      "rank": 8,
-      "keyword": "앤 트로픽",
-      "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '삼성SDS, 앤트로픽과 파트너십 체결…기업용 AI 사업 확대' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "삼성SDS, 앤트로픽과 파트너십 체결…기업용 AI 사업 확대",
+          "title": "‘류성수-탄닝전 5연패’ 이소희-백하나, 만리장성 격파 없인 AG-올림픽 金도 없다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260726123937477"
+          "url": "https://v.daum.net/v/20260726161251723"
         },
         {
-          "title": "삼성SDS, 앤트로픽과 전략적 협력…20개 관계사에 '클로드' 공급",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426838"
+          "title": "배드민턴: 백하나-이소희, 준결승에서 디펜딩 챔피언 류셩슈-탄닝 상대 - BWF 중국오픈 2026",
+          "source": "Olympic Channel",
+          "url": "https://www.olympics.com/ko/news/baek-hana-lee-so-hee-advance-to-womens-doubles-semis-badminton-bwf-china-open-2026"
         },
         {
-          "title": "삼성SDS, 오픈AI 이어 앤트로픽 맞손…\"AI 풀스택 사업 강화\"",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260725143028"
+          "title": "패패패패패 5연패…韓 배드민턴 '통곡의 벽' 생겼다→여복 백하나-이소희, '세계 1위' 中 류탄 조에 0-2 완패+2026년 5연속 눈물",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260725n08292?sect=spo&list=rank&cate=interest"
         }
       ]
     },
     {
-      "id": "한상진",
-      "rank": 9,
-      "keyword": "한상진",
-      "volumeLabel": "200+",
-      "startedLabel": "6시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '\"친구 폭로로 연락 끊겼다 다시 만나\"...남창희, '아이유 닮은꼴' 아내♥와 러브스토리 ('미우새') [순간포착]' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "id": "표범",
+      "rank": 8,
+      "keyword": "표범",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '손님인 줄 알았는데 ’표범’…직원들 셔터 내리고 극적 탈출' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"친구 폭로로 연락 끊겼다 다시 만나\"...남창희, '아이유 닮은꼴' 아내♥와 러브스토리 ('미우새') [순간포착]",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/07/26/HFSDOMBTGI3DMOLEGQ3GIZBZMU/"
+          "title": "손님인 줄 알았는데 ’표범’…직원들 셔터 내리고 극적 탈출",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260723160458ArL"
         },
         {
-          "title": "\"큰 용변 보다가\"…한상진, 신혼여행가서 이혼할 뻔한 일화 (미우새) [TV나우]",
+          "title": "[잇슈 SNS] 인도 주류가게 난입한 야생 표범…직원 몸싸움 끝에 극적 탈출",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8618973"
+        },
+        {
+          "title": "베란다서 자다가 새벽에 \"악!\"…표범에 500m 물려가 목숨 잃은 '이 나라' 80대",
           "source": "네이트",
-          "url": "https://news.nate.com/view/20260726n15767?mid=e0100"
-        },
-        {
-          "title": "“DM으로 사랑이 오냐고” 남창희 ‘한강 아이유’ 아내 러브스토리 공개 (‘미우새’)",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12107876"
+          "url": "https://news.nate.com/view/20260723n30701"
         }
       ]
     },
     {
       "id": "영종도",
-      "rank": 10,
+      "rank": 9,
       "keyword": "영종도",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-3",
+      "volumeLabel": "200+",
+      "startedLabel": "4시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '[포토 르포] 신도평화대교 교통체증 해소? 개통 두 번째 주말 영종도 차량 흐름 원활' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -273,14 +245,42 @@
           "url": "https://v.daum.net/v/20260726110504639"
         },
         {
+          "title": "신도평화대교 개통 열흘 만에 교통대란",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/article/all/20260726/134367788/2"
+        },
+        {
           "title": "인천 신도평화대교 개통에 장봉도 배편 '직격탄'",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260724092000065"
+        }
+      ]
+    },
+    {
+      "id": "공효진",
+      "rank": 10,
+      "keyword": "공효진",
+      "volumeLabel": "100+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''유부녀' 공효진, 연하 남편과 다정하게 끌어 안고 '다정'..\"'유부녀 킬러'세계관으로\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'유부녀' 공효진, 연하 남편과 다정하게 끌어 안고 '다정'..\"'유부녀 킬러'세계관으로\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/YYqtmzu5CC"
         },
         {
-          "title": "“개통하자마자 주말 마비된 신도평화대교”…경찰, 인천시에 교통시설 개선 촉구",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260726580067"
+          "title": "공효진과 정준원, 세상에서 가장 수상한 부부",
+          "source": "엘르 코리아 │ ELLE KOREA",
+          "url": "https://www.elle.co.kr/article/1906800"
+        },
+        {
+          "title": "MBC '유부녀 킬러' 세계관, 게임으로 즐긴다…'킹피셔의 하루' 공개",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/512514"
         }
       ]
     }
