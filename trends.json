@@ -1,286 +1,270 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-27T22:13:16.956Z",
+  "updatedAt": "2026-07-27T23:36:59.867Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "선수",
+      "id": "양도소득세",
       "rank": 1,
-      "keyword": "선수",
+      "keyword": "양도소득세",
       "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '신태용 감독, 자격정지 1년 징계…소속팀 페르시자 “한국 밖에선 영향 없다”' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[단독] 양도세 실거주 공제 10억대로 제한' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "신태용 감독, 자격정지 1년 징계…소속팀 페르시자 “한국 밖에선 영향 없다”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8621034"
-        },
-        {
-          "title": "‘선수 폭행 논란’ 신태용 감독, 자격 정지 1년 징계",
+          "title": "[단독] 양도세 실거주 공제 10억대로 제한",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/07/27/IEWZV5BJ55HCXFJAPE3ZFQTROA/"
+          "url": "https://www.chosun.com/economy/economy_general/2026/07/28/Z5TXDYDB5JAPNEXLB67NZR2WPQ/"
         },
         {
-          "title": "신태용 '10년 자격정지' 징계 소문에 인도네시아 매체 \"1년 징계가 맞다, 한국 내에서만 적용\" 확인",
+          "title": "초고가에 쏠리는 '장특공제' 역진‥개편 초읽기",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260728000307315"
+          "url": "https://v.daum.net/v/20260728062210524"
+        },
+        {
+          "title": "장특공 '거주 중심' 손질 시사…12억 넘는 집주인들 촉각",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/realestate/general/6240542"
         }
       ]
     },
     {
-      "id": "사고",
+      "id": "노르웨이",
       "rank": 2,
-      "keyword": "사고",
+      "keyword": "노르웨이",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '서해안고속도로 서천요금소 부근서 황산 누출…\"안전 조치 중\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'United States, Norway Complete North Atlantic Interoperability Exercise' (Marine News Magazine) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "서해안고속도로 서천요금소 부근서 황산 누출…\"안전 조치 중\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260727174853273"
+          "title": "United States, Norway Complete North Atlantic Interoperability Exercise",
+          "source": "Marine News Magazine",
+          "url": "https://www.marinelink.com/news/united-states-norway-complete-north-541555"
         },
         {
-          "title": "충남 서천군서 '황산 누출' 사고‥주민 77명 긴급 대피",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6840465_36918.html"
+          "title": "Norway’s Defense Chief Visits USNORTHCOM To Strengthen High North Ties",
+          "source": "Eurasia Review",
+          "url": "https://www.eurasiareview.com/28072026-norways-defense-chief-visits-usnorthcom-to-strengthen-high-north-ties/"
         },
         {
-          "title": "[속보]서해안고속도로 서천 구간 탱크로리 파손...황산 누출 추정",
-          "source": "뉴스스토리",
-          "url": ""
+          "title": "US, Norwegian coast guards conclude interoperability exercise in North Atlantic",
+          "source": "Baird Maritime",
+          "url": "https://www.bairdmaritime.com/security/non-naval-security/coast-guard/us-norwegian-coast-guards-conclude-interoperability-exercise-in-north-atlantic"
         }
       ]
     },
     {
-      "id": "종합부동산세",
+      "id": "아이폰",
       "rank": 3,
-      "keyword": "종합부동산세",
+      "keyword": "아이폰",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '부동산 세제개편 밑그림 나왔다…'1주택 보호·초고가 조정' 무게' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '5000mAh 품은 갤Z8…사용시간 26%↑ 배터리수명 40%↓' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "부동산 세제개편 밑그림 나왔다…'1주택 보호·초고가 조정' 무게",
+          "title": "5000mAh 품은 갤Z8…사용시간 26%↑ 배터리수명 40%↓",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260728050320260"
+          "url": "https://v.daum.net/v/20260728063146648"
         },
         {
-          "title": "종부세 인상 전 ‘다주택’ 퇴로 열어준다…'양도세 중과' 한시 완화 유력",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01705606645519112"
+          "title": "\"82억명이 매일 쓴다\"…삼성 폴더블의 미래, '여권'에서 찾은 이유 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/07/28/2026072721145429460"
         },
         {
-          "title": "‘똘똘한 한 채’ 겨냥… 보유세·거래세 결국 다 올린다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/economy_general/2026/07/28/INIDVOSCNZAKHNHG34FTHU73E4/"
+          "title": "더 얇은 디스플레이, 더 오래가는 배터리… “갤럭시 Z8 시리즈는 가장 진화한 폴더블”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20260727/134373940/2"
         }
       ]
     },
     {
-      "id": "skhy",
+      "id": "워싱턴-내셔널스",
       "rank": 4,
-      "keyword": "skhy",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'MU, SNDK, SKHY, DRAM: Memory Chip Stocks Surge In Relief Rally As U.S.-…' (Yahoo Finance) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "MU, SNDK, SKHY, DRAM: Memory Chip Stocks Surge In Relief Rally As U.S.-Iran Reportedly Halt Strikes",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mu-sndk-skhy-dram-memory-092936168.html"
-        },
-        {
-          "title": "Micron, Western Digital, and Sandisk Just Jumped 12% to 14%. Here's the Forecast That Did It.",
-          "source": "The Motley Fool",
-          "url": "https://www.fool.com/investing/2026/07/22/micron-western-digital-and-sandisk-jumped-12-to-14/"
-        },
-        {
-          "title": "QUICK SPARK: Intel And Micron Lead Semi Stock Rebound — Expert Blames Hegde Funds For Sell Off",
-          "source": "Benzinga",
-          "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60590744/quick-spark-intel-and-micron-lead-semi-stock-rebound-expert-blames-hegde-funds-for-sell-off"
-        }
-      ]
-    },
-    {
-      "id": "고은아",
-      "rank": 5,
-      "keyword": "고은아",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '미르, 신혼집 공개.. 고은아 \"아직 결혼한 줄 모르는 사람도 있어\"[방가네]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "미르, 신혼집 공개.. 고은아 \"아직 결혼한 줄 모르는 사람도 있어\"[방가네]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260727225537661?f=p"
-        },
-        {
-          "title": "미르 \"한물간 전 연예인이라 매니저 하라고?\"…조카 오디션 동행 '발끈' (방가네)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260727043138129"
-        },
-        {
-          "title": "'고은아 조카' 조하진, '동궁' 셋째 왕자 출연…오디션 후 \"연습보다 못해\" (방가네)",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260726n14152"
-        }
-      ]
-    },
-    {
-      "id": "롯데-자이언츠",
-      "rank": 6,
-      "keyword": "롯데 자이언츠",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '가슴 쓸어내린 롯데…김진욱, 허벅지 검진 결과 '이상 무'' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "가슴 쓸어내린 롯데…김진욱, 허벅지 검진 결과 '이상 무'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260727119900007"
-        },
-        {
-          "title": "김진욱 햄스트링 미스터리? → 완전히 깨끗한데 '반복 경련' 도대체 무슨 일일까",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/07/28/HE3TKZDDGNRDCYLFGYYTGM3CHE/"
-        },
-        {
-          "title": "[오피셜] 롯데 안도의 한숨! AG 국대 좌완, 햄스트링 검진→이상 없음 소견 \"정상적 훈련 소화\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260727144107382"
-        }
-      ]
-    },
-    {
-      "id": "nvda",
-      "rank": 7,
-      "keyword": "nvda",
+      "keyword": "워싱턴 내셔널스",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'NVIDIA Corp (NVDA) Shares Fall 5.0% -- What GF Score of 95 Tells Invest…' (GuruFocus) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "nec",
+      "rank": 5,
+      "keyword": "nec",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Champions League veteran Dusan Tadić joins Dutch club NEC Nijmegen ahea…' (The Joplin Globe) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "NVIDIA Corp (NVDA) Shares Fall 5.0% -- What GF Score of 95 Tells Investors",
-          "source": "GuruFocus",
-          "url": "https://www.gurufocus.com/news/8981370/nvidia-corp-nvda-shares-fall-50-what-gf-score-of-95-tells-investors"
+          "title": "Champions League veteran Dusan Tadić joins Dutch club NEC Nijmegen ahead of qualifying rounds",
+          "source": "The Joplin Globe",
+          "url": "https://www.joplinglobe.com/region/national_sports/champions-league-veteran-dusan-tadi-joins-dutch-club-nec-nijmegen-ahead-of-qualifying-rounds/article_93874576-d23f-5fcb-8994-83045b2c1512.html"
         },
         {
-          "title": "Nvidia drops nearly 5%, leading chip stocks lower amid renewed worries of circular financing",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/article/nvidia-drops-nearly-5-leading-chip-stocks-lower-amid-renewed-worries-of-circular-financing-193309793.html"
+          "title": "Champions League veteran Dusan Tadić joins Dutch club NEC Nijmegen ahead of qualifying rounds",
+          "source": "The Daily Gazette",
+          "url": "https://www.dailygazette.com/ap/sports/champions-league-veteran-dusan-tadi-joins-dutch-club-nec-nijmegen-ahead-of-qualifying-rounds/article_f22135c4-cd06-5bf0-a47f-e6ca5909416e.html"
         },
         {
-          "title": "Nvidia’s Margins are Safe This Decade So I Keep Loading Up as Fear Resonates",
+          "title": "Champions League veteran Dusan Tadić joins Dutch club NEC Nijmegen ahead of qualifying rounds",
+          "source": "Newsday",
+          "url": "https://www.newsday.com/sports/soccer/champions-league-nec-tadic-serbia-dutch-x52387"
+        }
+      ]
+    },
+    {
+      "id": "sndk",
+      "rank": 6,
+      "keyword": "sndk",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Sandisk: Why NAND May Have More Room To Run Than DRAM (NASDAQ:SNDK)' (Seeking Alpha) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Sandisk: Why NAND May Have More Room To Run Than DRAM (NASDAQ:SNDK)",
+          "source": "Seeking Alpha",
+          "url": "https://seekingalpha.com/article/4924580-sandisk-why-nand-may-have-more-room-to-run-than-dram"
+        },
+        {
+          "title": "SNDK Just Dropped 12%: Here Is the 1 Number That Tells You Whether to Panic or Buy",
           "source": "24/7 Wall St.",
-          "url": "https://247wallst.com/investing/2026/07/27/nvidias-margins-are-safe-this-decade-so-i-keep-loading-up-as-fear-resonates/"
+          "url": "https://247wallst.com/investing/2026/07/27/sndk-just-dropped-12-here-is-the-1-number-that-tells-you-whether-to-panic-or-buy/"
+        },
+        {
+          "title": "Why Sandisk Stock Crashed on Monday",
+          "source": "The Motley Fool",
+          "url": "https://www.fool.com/investing/2026/07/27/why-sandisk-stock-crashed-on-monday/"
         }
       ]
     },
     {
-      "id": "테일러-프리츠",
-      "rank": 8,
-      "keyword": "테일러 프리츠",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "id": "한소희",
+      "rank": 7,
+      "keyword": "한소희",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Fritz serves out of trouble in Washington R1, earns 250th hard-court win' (ATP Tour) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '휴가 갈 때 수영복, 슬기·김나영처럼 일상에서도 입어보세요' (하퍼스 바자 코리아) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Fritz serves out of trouble in Washington R1, earns 250th hard-court win",
-          "source": "ATP Tour",
-          "url": "https://www.atptour.com/en/news/fritz-bergs-washington-2026-monday"
+          "title": "휴가 갈 때 수영복, 슬기·김나영처럼 일상에서도 입어보세요",
+          "source": "하퍼스 바자 코리아",
+          "url": "https://www.harpersbazaar.co.kr/article/1906897"
         },
         {
-          "title": "ATP Washington Day 1 Predictions Including Taylor Fritz vs Zizou Bergs",
-          "source": "Last Word On Sports",
-          "url": "https://lastwordonsports.com/tennis/2026/07/26/atp-washington-day-1-predictions-fritz-vs-bergs/"
+          "title": "스타들 수영복& 비치룩 - 포토슬라이드",
+          "source": "네이트",
+          "url": "https://news.nate.com/photo/slideShow?cid=1184495&mid=n0809"
         },
         {
-          "title": "Fritz vs. Bergs Prediction at the Citi Open – Monday, July 27",
-          "source": "Bleacher Nation",
-          "url": "https://www.bleachernation.com/picks/2026/07/26/fritz-vs-bergs-prediction-at-the-citi-open-monday-july-27/"
-        }
-      ]
-    },
-    {
-      "id": "베트남-축구-국가대표팀",
-      "rank": 9,
-      "keyword": "베트남 축구 국가대표팀",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''베트남 마법사' 김상식 감독의 질주는 또 시작됐다...현대컵 첫 경기에서 동티모르 7-0 대파' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'베트남 마법사' 김상식 감독의 질주는 또 시작됐다...현대컵 첫 경기에서 동티모르 7-0 대파",
+          "title": "여름은 비키니의 계절?…너도나도 몸매 자랑에 빠진 ★들 [MD포커스]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/Hj3fgmwaCy"
-        },
-        {
-          "title": "김상식 감독의 베트남,동티모르에 7-0 대승…19경기 연속 무패 새역사",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620045"
-        },
-        {
-          "title": "동남아의 월드컵 아세안 현대컵, 24일 개막…김상식호 베트남 2연패 도전",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20260722143907344"
+          "url": "https://v.daum.net/v/20260726060837436"
         }
       ]
     },
     {
-      "id": "중동신도시",
-      "rank": 10,
-      "keyword": "중동신도시",
+      "id": "pltr",
+      "rank": 8,
+      "keyword": "pltr",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Palantir shares may move 9.6% on Aug. 3 earnings report' (Investing.com) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Palantir shares may move 9.6% on Aug. 3 earnings report",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/palantir-shares-may-move-96-on-aug-3-earnings-report-93CH-4814665"
+        },
+        {
+          "title": "Still Down 26% in 2026, Is Palantir’s Rebound Just Getting Started?",
+          "source": "24/7 Wall St.",
+          "url": "https://247wallst.com/investing/2026/07/27/still-down-26-in-2026-is-palantirs-rebound-just-getting-started/"
+        },
+        {
+          "title": "Palantir’s US Commercial Engine Is Driving The Next Forecast Raise",
+          "source": "Finimize",
+          "url": "https://finimize.com/content/palantirs-us-commercial-engine-is-driving-the-next-forecast-raise"
+        }
+      ]
+    },
+    {
+      "id": "의과대학",
+      "rank": 9,
+      "keyword": "의과대학",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '부천 중동신도시 재정비 청사진…보행·스마트·미래형 도시로' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '의대 설립 전제, 전남광주 초광역의료벨트 '현실성 있나'(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "부천 중동신도시 재정비 청사진…보행·스마트·미래형 도시로",
+          "title": "의대 설립 전제, 전남광주 초광역의료벨트 '현실성 있나'(종합)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/VtO0SMQ9GN"
+          "url": "https://v.daum.net/v/20260727193255873"
         },
         {
-          "title": "부천시, 중동 1기 신도시 재정비 본격화…주민과 함께 미래도시 청사진 그린다",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260727580100"
+          "title": "국립목포대·순천대, 통합 협상 결렬…의대 신설 '빨간불'",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/gwangju-jeonnam/6240766"
         },
         {
-          "title": "조용익 \"부천 중동 1기 신도시 재정비 속도\"…주민설명회 개최",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6553647"
+          "title": "순천시·지역 정치권 “순천대 의대·대학병원 설립” 한마음으로 뭉쳐",
+          "source": "서울Pn",
+          "url": "https://go.seoul.co.kr/news/newsView.php?id=20260727500055"
+        }
+      ]
+    },
+    {
+      "id": "한국지엠",
+      "rank": 10,
+      "keyword": "한국지엠",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“믿고 싶다, 믿게 해달라” 한국지엠 노조, 정부에 미래를 당부한 이유…국회서 토론회 개최' (전기신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“믿고 싶다, 믿게 해달라” 한국지엠 노조, 정부에 미래를 당부한 이유…국회서 토론회 개최",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=370706"
+        },
+        {
+          "title": "일감 확보 ‘변수’ 커지는 완성차업계…한국GM·르노코리아 노사 쟁점",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260727163706006"
+        },
+        {
+          "title": "허성무 의원 측 \"GM먹티방지법 조속히 처리해야\"",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260727.99099007907"
         }
       ]
     }
