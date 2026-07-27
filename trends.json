@@ -1,230 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-27T20:39:49.035Z",
+  "updatedAt": "2026-07-27T22:13:16.956Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "은행",
+      "id": "선수",
       "rank": 1,
-      "keyword": "은행",
-      "volumeLabel": "2000+",
-      "startedLabel": "5시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '소상공인 특화 신용평가체계, 8월말부터 16개 은행서 시범운영' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "소상공인 특화 신용평가체계, 8월말부터 16개 은행서 시범운영",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968828"
-        },
-        {
-          "title": "소상공인 대출문턱 낮춰… 16개 은행서 2.2조 공급 [경제 레이더]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728050318258"
-        },
-        {
-          "title": "“담보 부족해도 상권 받쳐주면 더 많은 대출”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260727/134374708/2"
-        }
-      ]
-    },
-    {
-      "id": "철구",
-      "rank": 2,
-      "keyword": "철구",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''왕 지킨' 유해진, 영부인 저격사건 수사 '암살자(들)' 형사 변신' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'왕 지킨' 유해진, 영부인 저격사건 수사 '암살자(들)' 형사 변신",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/bxWgVIsAFU"
-        },
-        {
-          "title": "'5천만 배우' 유해진, 영부인 저격범 잡는다...'암살자(들)' 형사 변신 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/movie/2026/07/27/MRTDANZUHA2DCY3CGEZTMMTFGE/"
-        },
-        {
-          "title": "유해진, ‘왕사남’ 이어 흥행 정조준…‘암살자(들)’ 진실 추적 형사 변신",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260727/134368905/1"
-        }
-      ]
-    },
-    {
-      "id": "치마",
-      "rank": 3,
-      "keyword": "치마",
+      "keyword": "선수",
       "volumeLabel": "1000+",
-      "startedLabel": "5시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '물놀이 갈 때나 입던 ‘이 치마’가 유행이라고?' (엘르 코리아 │ ELLE KOREA) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '신태용 감독, 자격정지 1년 징계…소속팀 페르시자 “한국 밖에선 영향 없다”' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "물놀이 갈 때나 입던 ‘이 치마’가 유행이라고?",
-          "source": "엘르 코리아 │ ELLE KOREA",
-          "url": "https://www.elle.co.kr/article/1906945"
+          "title": "신태용 감독, 자격정지 1년 징계…소속팀 페르시자 “한국 밖에선 영향 없다”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8621034"
         },
         {
-          "title": "'경주기행' 공효진 \"무엇을 예상하든, 예상 뛰어넘는 엔딩\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260727086300005"
+          "title": "‘선수 폭행 논란’ 신태용 감독, 자격 정지 1년 징계",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/07/27/IEWZV5BJ55HCXFJAPE3ZFQTROA/"
         },
         {
-          "title": "[Y현장] \"연기로 주름 찢는 네 모녀\"…2년 기다린 '경주기행', 독하고 뜨겁다(종합)",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0117_202607271304492125"
+          "title": "신태용 '10년 자격정지' 징계 소문에 인도네시아 매체 \"1년 징계가 맞다, 한국 내에서만 적용\" 확인",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260728000307315"
         }
       ]
     },
     {
-      "id": "중국-duv",
-      "rank": 4,
-      "keyword": "중국 duv",
+      "id": "사고",
+      "rank": 2,
+      "keyword": "사고",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '서해안고속도로 서천요금소 부근서 황산 누출…\"안전 조치 중\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "서해안고속도로 서천요금소 부근서 황산 누출…\"안전 조치 중\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260727174853273"
+        },
+        {
+          "title": "충남 서천군서 '황산 누출' 사고‥주민 77명 긴급 대피",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6840465_36918.html"
+        },
+        {
+          "title": "[속보]서해안고속도로 서천 구간 탱크로리 파손...황산 누출 추정",
+          "source": "뉴스스토리",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "종합부동산세",
+      "rank": 3,
+      "keyword": "종합부동산세",
       "volumeLabel": "500+",
-      "startedLabel": "6시간 전",
-      "change": "up",
-      "changeLabel": "+3",
-      "summary": "급상승 시점에 '\"中, DUV 노광장비 올해 양산 개시\"…ASML 주가 6% 급락' (연합인포맥스) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '부동산 세제개편 밑그림 나왔다…'1주택 보호·초고가 조정' 무게' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"中, DUV 노광장비 올해 양산 개시\"…ASML 주가 6% 급락",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427124"
+          "title": "부동산 세제개편 밑그림 나왔다…'1주택 보호·초고가 조정' 무게",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260728050320260"
         },
         {
-          "title": "[미국 특징주] ASML, 중국發 경쟁 위협 보도에 7%대 급락",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260727001367"
-        },
-        {
-          "title": "ASML, 中 반도체 제조 장비 양산 소식에 급락",
+          "title": "종부세 인상 전 ‘다주택’ 퇴로 열어준다…'양도세 중과' 한시 완화 유력",
           "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01312006645519112"
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01705606645519112"
+        },
+        {
+          "title": "‘똘똘한 한 채’ 겨냥… 보유세·거래세 결국 다 올린다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/economy_general/2026/07/28/INIDVOSCNZAKHNHG34FTHU73E4/"
         }
       ]
     },
     {
-      "id": "스포티비뉴스",
+      "id": "skhy",
+      "rank": 4,
+      "keyword": "skhy",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'MU, SNDK, SKHY, DRAM: Memory Chip Stocks Surge In Relief Rally As U.S.-…' (Yahoo Finance) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "MU, SNDK, SKHY, DRAM: Memory Chip Stocks Surge In Relief Rally As U.S.-Iran Reportedly Halt Strikes",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mu-sndk-skhy-dram-memory-092936168.html"
+        },
+        {
+          "title": "Micron, Western Digital, and Sandisk Just Jumped 12% to 14%. Here's the Forecast That Did It.",
+          "source": "The Motley Fool",
+          "url": "https://www.fool.com/investing/2026/07/22/micron-western-digital-and-sandisk-jumped-12-to-14/"
+        },
+        {
+          "title": "QUICK SPARK: Intel And Micron Lead Semi Stock Rebound — Expert Blames Hegde Funds For Sell Off",
+          "source": "Benzinga",
+          "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60590744/quick-spark-intel-and-micron-lead-semi-stock-rebound-expert-blames-hegde-funds-for-sell-off"
+        }
+      ]
+    },
+    {
+      "id": "고은아",
       "rank": 5,
-      "keyword": "스포티비뉴스",
-      "volumeLabel": "200+",
+      "keyword": "고은아",
+      "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''비매너 뭇매' 손담비 \"적당히 하시길\"…호텔 객실 안 신발 직접 해명 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '미르, 신혼집 공개.. 고은아 \"아직 결혼한 줄 모르는 사람도 있어\"[방가네]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'비매너 뭇매' 손담비 \"적당히 하시길\"…호텔 객실 안 신발 직접 해명 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/07/27/2026072717550562075"
+          "title": "미르, 신혼집 공개.. 고은아 \"아직 결혼한 줄 모르는 사람도 있어\"[방가네]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260727225537661?f=p"
         },
         {
-          "title": "손담비, 연이은 SNS 논란에 분노 \"적당히 하시길\"",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026072717360005751"
+          "title": "미르 \"한물간 전 연예인이라 매니저 하라고?\"…조카 오디션 동행 '발끈' (방가네)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260727043138129"
         },
         {
-          "title": "\"뭐가 비매너일까요?\"…손담비, 호텔 사진 논란에 정면 반박",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260727_0003725207"
+          "title": "'고은아 조카' 조하진, '동궁' 셋째 왕자 출연…오디션 후 \"연습보다 못해\" (방가네)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260726n14152"
         }
       ]
     },
     {
-      "id": "성리",
+      "id": "롯데-자이언츠",
       "rank": 6,
-      "keyword": "성리",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 ''52초 전석 매진' 성리, 첫 팬미팅으로 증명한 압도적 티켓 파워' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "롯데 자이언츠",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '가슴 쓸어내린 롯데…김진욱, 허벅지 검진 결과 '이상 무'' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'52초 전석 매진' 성리, 첫 팬미팅으로 증명한 압도적 티켓 파워",
+          "title": "가슴 쓸어내린 롯데…김진욱, 허벅지 검진 결과 '이상 무'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260727119900007"
+        },
+        {
+          "title": "김진욱 햄스트링 미스터리? → 완전히 깨끗한데 '반복 경련' 도대체 무슨 일일까",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/07/28/HE3TKZDDGNRDCYLFGYYTGM3CHE/"
+        },
+        {
+          "title": "[오피셜] 롯데 안도의 한숨! AG 국대 좌완, 햄스트링 검진→이상 없음 소견 \"정상적 훈련 소화\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/BnViQGWIjR"
-        },
-        {
-          "title": "성리, 첫 개인 팬미팅 52초 매진…감성 보컬 향한 결집",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16147114"
-        },
-        {
-          "title": "성리, 전설적 티켓 파워…단독 팬미팅 52초 만에 매진",
-          "source": "비즈엔터",
-          "url": "https://enter.etoday.co.kr/news/view/300285"
+          "url": "https://v.daum.net/v/20260727144107382"
         }
       ]
     },
     {
-      "id": "ps",
+      "id": "nvda",
       "rank": 7,
-      "keyword": "ps",
-      "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 'First PS Plus Essential Game for August 2026 Already Confirmed' (Push Square) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "nvda",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'NVIDIA Corp (NVDA) Shares Fall 5.0% -- What GF Score of 95 Tells Invest…' (GuruFocus) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "First PS Plus Essential Game for August 2026 Already Confirmed",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/07/first-ps-plus-essential-game-for-august-2026-already-confirmed"
+          "title": "NVIDIA Corp (NVDA) Shares Fall 5.0% -- What GF Score of 95 Tells Investors",
+          "source": "GuruFocus",
+          "url": "https://www.gurufocus.com/news/8981370/nvidia-corp-nvda-shares-fall-50-what-gf-score-of-95-tells-investors"
         },
         {
-          "title": "PlayStation Plus' August 2026 lineup is already killer, thanks to one confirmed game",
-          "source": "Polygon.com",
-          "url": "https://www.polygon.com/ps-plus-august-2026-games-ps5/"
+          "title": "Nvidia drops nearly 5%, leading chip stocks lower amid renewed worries of circular financing",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-drops-nearly-5-leading-chip-stocks-lower-amid-renewed-worries-of-circular-financing-193309793.html"
         },
         {
-          "title": "PlayStation Plus August 2026 Free Game Revealed Early",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/news/videos/playstation-plus-august-2026-free-164622182.html"
+          "title": "Nvidia’s Margins are Safe This Decade So I Keep Loading Up as Fear Resonates",
+          "source": "24/7 Wall St.",
+          "url": "https://247wallst.com/investing/2026/07/27/nvidias-margins-are-safe-this-decade-so-i-keep-loading-up-as-fear-resonates/"
         }
       ]
     },
     {
-      "id": "정선희",
+      "id": "테일러-프리츠",
       "rank": 8,
-      "keyword": "정선희",
+      "keyword": "테일러 프리츠",
       "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 '정선희, 日 남친과 3개월 만에 결별?…\"무섭다며 오사카로 돌아가\" [마데핫리뷰]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Fritz serves out of trouble in Washington R1, earns 250th hard-court win' (ATP Tour) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "정선희, 日 남친과 3개월 만에 결별?…\"무섭다며 오사카로 돌아가\" [마데핫리뷰]",
+          "title": "Fritz serves out of trouble in Washington R1, earns 250th hard-court win",
+          "source": "ATP Tour",
+          "url": "https://www.atptour.com/en/news/fritz-bergs-washington-2026-monday"
+        },
+        {
+          "title": "ATP Washington Day 1 Predictions Including Taylor Fritz vs Zizou Bergs",
+          "source": "Last Word On Sports",
+          "url": "https://lastwordonsports.com/tennis/2026/07/26/atp-washington-day-1-predictions-fritz-vs-bergs/"
+        },
+        {
+          "title": "Fritz vs. Bergs Prediction at the Citi Open – Monday, July 27",
+          "source": "Bleacher Nation",
+          "url": "https://www.bleachernation.com/picks/2026/07/26/fritz-vs-bergs-prediction-at-the-citi-open-monday-july-27/"
+        }
+      ]
+    },
+    {
+      "id": "베트남-축구-국가대표팀",
+      "rank": 9,
+      "keyword": "베트남 축구 국가대표팀",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''베트남 마법사' 김상식 감독의 질주는 또 시작됐다...현대컵 첫 경기에서 동티모르 7-0 대파' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'베트남 마법사' 김상식 감독의 질주는 또 시작됐다...현대컵 첫 경기에서 동티모르 7-0 대파",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260727220153235"
+          "url": "https://v.daum.net/v/Hj3fgmwaCy"
         },
         {
-          "title": "정선희 \"아버지 빚 10년 넘게 갚아…항상 빚에 쪼들려\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260727_0003725491"
+          "title": "김상식 감독의 베트남,동티모르에 7-0 대승…19경기 연속 무패 새역사",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620045"
         },
         {
-          "title": "정선희, 홍진경·소지섭 소개팅 주선자였다 \"이상형이...\" 폭소 ('짠한형')",
-          "source": "OSEN",
-          "url": ""
+          "title": "동남아의 월드컵 아세안 현대컵, 24일 개막…김상식호 베트남 2연패 도전",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20260722143907344"
+        }
+      ]
+    },
+    {
+      "id": "중동신도시",
+      "rank": 10,
+      "keyword": "중동신도시",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '부천 중동신도시 재정비 청사진…보행·스마트·미래형 도시로' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "부천 중동신도시 재정비 청사진…보행·스마트·미래형 도시로",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/VtO0SMQ9GN"
+        },
+        {
+          "title": "부천시, 중동 1기 신도시 재정비 본격화…주민과 함께 미래도시 청사진 그린다",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260727580100"
+        },
+        {
+          "title": "조용익 \"부천 중동 1기 신도시 재정비 속도\"…주민설명회 개최",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6553647"
         }
       ]
     }
