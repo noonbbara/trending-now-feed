@@ -1,73 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-28T16:19:43.510Z",
+  "updatedAt": "2026-07-28T17:58:38.584Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "유해란",
-      "rank": 1,
-      "keyword": "유해란",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '유해란, 메이저 대회 3연승 이룰까…AIG 여자오픈 30일 개막' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "유해란, 메이저 대회 3연승 이룰까…AIG 여자오픈 30일 개막",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260728110200007"
-        },
-        {
-          "title": "넘버 3 유해란의 위대한 도전…'이번엔 메이저 3연승'",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026072821394569591"
-        },
-        {
-          "title": "유해란의 메이저 3승이냐, 코르다의 커리어 그랜드슬램이냐…‘AIG 여자오픈’ 대격돌",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20260728/134380007/1"
-        }
-      ]
-    },
-    {
-      "id": "나는-solo",
-      "rank": 2,
-      "keyword": "나는 solo",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘나는 솔로’ 32기 영자, 영철에 뒤늦은 고백…“오빠 진짜 좋아했어”' (이투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘나는 솔로’ 32기 영자, 영철에 뒤늦은 고백…“오빠 진짜 좋아했어”",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2608228"
-        },
-        {
-          "title": "‘나솔’ 영철·영자, 끝난 줄 알았던 인연 다시 이어질까… ‘슈퍼 데이트권’ 변수",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3420436"
-        },
-        {
-          "title": "‘나는 솔로’ 32기 영자, 맨발 투혼 끝 영철에 직진 “나는 오빠 진짜 좋아했어” 막판 대반전",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202607280947003"
-        }
-      ]
-    },
-    {
       "id": "어-도어",
-      "rank": 3,
+      "rank": 1,
       "keyword": "어 도어",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+2",
       "summary": "급상승 시점에 '어도어, 하니 비자정보 유출 혐의로 피고발…\"불법체류자 낙인\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -89,41 +33,125 @@
       ]
     },
     {
-      "id": "문희준",
-      "rank": 4,
-      "keyword": "문희준",
+      "id": "리그오브레전드",
+      "rank": 2,
+      "keyword": "리그오브레전드",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''동상이몽2' 문희준, 40번째 다이어트…\"샐러드 싫어\" 울상' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[오피셜] 'LS' 닉 드 체사레, T1 리프트바운드 선수로 입단' (인벤) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'동상이몽2' 문희준, 40번째 다이어트…\"샐러드 싫어\" 울상",
+          "title": "[오피셜] 'LS' 닉 드 체사레, T1 리프트바운드 선수로 입단",
+          "source": "인벤",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318924"
+        },
+        {
+          "title": "T1 홈그라운드, LCK 경기 홈 좌석 전석 매진…8월 DK·젠지 빅매치 예고",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260728230839705"
+          "url": "https://v.daum.net/v/20260728105653506"
+        },
+        {
+          "title": "T1 홈그라운드, LCK 경기 전석 매진…`피프티피프티`·`텐즈` 출격",
+          "source": "디지털데일리",
+          "url": "https://m.ddaily.co.kr/page/view/2026072815534795354"
+        }
+      ]
+    },
+    {
+      "id": "문희준",
+      "rank": 3,
+      "keyword": "문희준",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '동상이몽2_너는 내 운명 : 박소율, 39번의 요요로 얻게 된 패션 철학으로 옷장 정리 거부한 문희준에 날린 쓴소리' (programs.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "동상이몽2_너는 내 운명 : 박소율, 39번의 요요로 얻게 된 패션 철학으로 옷장 정리 거부한 문희준에 날린 쓴소리",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC480890100"
+        },
+        {
+          "title": "\"유혹하는 거야?\" 문희준, 스킨십하는 박소율에 '셋째 임신' 떠봤더니… - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/07/29/2026072902354557808"
         },
         {
           "title": "굶지 않는 '장원영 다이어트'…문희준, 19㎏ 감량 도전장",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20260728_0003726225"
+        }
+      ]
+    },
+    {
+      "id": "싸이",
+      "rank": 4,
+      "keyword": "싸이",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''싸이 흠뻑쇼' 여학생 \"저 연습생 아닙니다\" 직접 입 열었다[스타이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'싸이 흠뻑쇼' 여학생 \"저 연습생 아닙니다\" 직접 입 열었다[스타이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/2FbSaCOclu"
         },
         {
-          "title": "동상이몽2_너는 내 운명 : 문희준, 조우종×정다은이 준비해 준 ‘무염식사’에 나온 헛웃음↘ (ft. 카무트)",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC480890194"
+          "title": "싸이, 흠뻑쇼 온 여학생 즉석 캐스팅…매니저에 “연락처 받아와라”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20260728/134378134/2"
+        },
+        {
+          "title": "싸이 콘서트 즉석 캐스팅 여중생 \"저 연습생 아닙니다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/2026/07/28/GJ6T2BNJHZHPHNPSFSX6GOCXLM/"
+        }
+      ]
+    },
+    {
+      "id": "롤렉스",
+      "rank": 5,
+      "keyword": "롤렉스",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘친구 살해’ 정재환, 알몸으로 돌아와 롤렉스부터 챙겼다' (JTBC) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘친구 살해’ 정재환, 알몸으로 돌아와 롤렉스부터 챙겼다",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12310459"
+        },
+        {
+          "title": "피범벅 상태로 챙긴 '롤렉스'…모친은 \"팔 수 있었는데\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260728114205258?f=p"
+        },
+        {
+          "title": "’친구 살해’ 정재환, 체포 직전 집에서 롤렉스부터 챙겼다",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260728141313cVz"
         }
       ]
     },
     {
       "id": "샌디스크-주가",
-      "rank": 5,
+      "rank": 6,
       "keyword": "샌디스크 주가",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 'SanDisk 주가, 오늘 왜 하락할까?' (Investing.com 한국어) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -146,12 +174,12 @@
     },
     {
       "id": "최권",
-      "rank": 6,
+      "rank": 7,
       "keyword": "최권",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '‘김수현 절친’ 최권, 부친상 비보…슬픔 속 빈소 지키며 조문객 맞이 [단독]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -161,126 +189,70 @@
           "url": "https://v.daum.net/v/20260728133508825"
         },
         {
-          "title": "배우 최권, 전해진 '부친상' 비보…가족과 빈소 지키는 중",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728150826140"
-        },
-        {
-          "title": "'프로듀사' 최권, 어제(27일) 부친상 비보",
+          "title": "'프로듀사 신디 매니저' 최권, 부친상 비보",
           "source": "네이트",
-          "url": "https://news.nate.com/view/20260728n30013"
+          "url": "https://news.nate.com/view/20260728n25359"
+        },
+        {
+          "title": "‘김수현 절친’ 최권, 3년 만 복귀 앞두고 부친상 비보…애도 이어져",
+          "source": "TV리포트",
+          "url": "https://tvreport.co.kr/breaking/article/1064383/"
         }
       ]
     },
     {
-      "id": "나스닥",
-      "rank": 7,
-      "keyword": "나스닥",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[뉴욕증시]반도체 매도 지속…나스닥 1% 하락' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[뉴욕증시]반도체 매도 지속…나스닥 1% 하락",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728232151816"
-        },
-        {
-          "title": "뉴욕증시, 반도체주 매도세에 혼조 출발",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260728174600009"
-        },
-        {
-          "title": "[속보]SK하이닉스 ADR 7%·엔비디아 5% 급락…유가 급락에도 반도체에 발목잡힌 뉴욕증시 혼조 마감",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11605374"
-        }
-      ]
-    },
-    {
-      "id": "fear-and-greed",
+      "id": "요시다-슈헤이",
       "rank": 8,
-      "keyword": "fear and greed",
+      "keyword": "요시다 슈헤이",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Crypto fear and greed index falls to 35 as sentiment weakens' (CoinNess) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '요시다 슈헤이가 ‘블러드본 PC판 미출시'에 대해 언급했다' (게임메카) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Crypto fear and greed index falls to 35 as sentiment weakens",
-          "source": "CoinNess",
-          "url": "https://coinness.com/en/news/1164046"
+          "title": "요시다 슈헤이가 ‘블러드본 PC판 미출시'에 대해 언급했다",
+          "source": "게임메카",
+          "url": "https://www.gamemeca.com/view.php?gid=1778379"
         },
         {
-          "title": "Crypto Fear And Greed Index Edges Up To 38, But Market Sentiment Remains Cautious",
-          "source": "Bitcoin World",
-          "url": "https://bitcoinworld.co.in/crypto-fear-greed-index-38-fear-persists/"
+          "title": "블러드본 PC 출시: 요시다 슈헤이 전 플스 수장도 모르는",
+          "source": "Observatório do Cinema",
+          "url": "https://observatoriodocinema.com.br/kr/bloodborne-pc-release-mystery-yoshida/"
         },
         {
-          "title": "Crypto Fear and Greed Index Drops to 35 as Market Sentiment Sours",
-          "source": "Bitget",
-          "url": "https://www.bitget.com/news/detail/12560605552226"
+          "title": "요시다 슈헤이가 묻고 답하다, 인디 게임의 과거·현재·미래",
+          "source": "게임뷰",
+          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=59599"
         }
       ]
     },
     {
-      "id": "만치니",
+      "id": "기아-셀토스",
       "rank": 9,
-      "keyword": "만치니",
+      "keyword": "기아 셀토스",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이탈리아 축구대표팀 감독에 만치니 선임…3년만에 복귀' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“넓어진 공간과 첨단 기능… 패밀리카로 진화”' (미주한국일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이탈리아 축구대표팀 감독에 만치니 선임…3년만에 복귀",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8622669"
+          "title": "“넓어진 공간과 첨단 기능… 패밀리카로 진화”",
+          "source": "미주한국일보",
+          "url": ""
         },
         {
-          "title": "'러 베팅업체 연루' 피를로, 이탈리아 감독 후보군 제외",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728093708389"
+          "title": "[2027 올 뉴 셀토스 시승기] 더 커지고 조용해진 기아 콤팩트 SUV",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260726200113878"
         },
         {
-          "title": "진짜 한국보다 망했구나...\"TV 보고 알았다\" 말디니, 16일 만에 충격 사임! '막장 그 자체' 피를로 선임 무산→디렉터·기술 고문 다 나갔다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/07/28/HAZWIMBTHEZWEMRVMRRGMNZYME/"
-        }
-      ]
-    },
-    {
-      "id": "qqq",
-      "rank": 10,
-      "keyword": "qqq",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Estate Counselors LLC Trims Position in Invesco QQQ $QQQ' (MarketBeat) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Estate Counselors LLC Trims Position in Invesco QQQ $QQQ",
-          "source": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-estate-counselors-llc-trims-position-in-invesco-qqq-qqq-2026-07-28/"
-        },
-        {
-          "title": "Allspring Global Investments Holdings LLC Sells 2,770 Shares of Invesco QQQ $QQQ",
-          "source": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-allspring-global-investments-holdings-llc-sells-2770-shares-of-invesco-qqq-qqq-2026-07-27/"
-        },
-        {
-          "title": "Parker Investment Management LLC Cuts Stake in Invesco QQQ $QQQ",
-          "source": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-parker-investment-management-llc-cuts-stake-in-invesco-qqq-qqq-2026-07-23/"
+          "title": "미국 차값 5만 달러 시대…한국차, 2만 달러대 SUV로 승부",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12310105"
         }
       ]
     }
