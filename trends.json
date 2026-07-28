@@ -1,270 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-27T23:36:59.867Z",
+  "updatedAt": "2026-07-28T03:23:21.147Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "양도소득세",
+      "id": "악어거북",
       "rank": 1,
-      "keyword": "양도소득세",
+      "keyword": "악어거북",
+      "volumeLabel": "20000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“일광욕 시키던중 사라졌다”…여주 하천 샴악어 30대 주인 검거' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“일광욕 시키던중 사라졌다”…여주 하천 샴악어 30대 주인 검거",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260727/134375228/2"
+        },
+        {
+          "title": "'샴악어' 주인 찾았다…진술서 \"유기한 게 아니라\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260728073604605"
+        },
+        {
+          "title": "“일광욕시키다 사라져”···‘국제 멸종위기종 1급’ 샴악어 불법 사육 소유주 입건",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607272051001"
+        }
+      ]
+    },
+    {
+      "id": "태풍-돌핀",
+      "rank": 2,
+      "keyword": "태풍 돌핀",
+      "volumeLabel": "20000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[속보] 제13호 태풍 '돌핀' 세력 키우며 온다…한반도 향할까 '촉각'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[속보] 제13호 태풍 '돌핀' 세력 키우며 온다…한반도 향할까 '촉각'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260728103510453"
+        },
+        {
+          "title": "괌 동쪽 먼 해상에서 13호 태풍 ’돌핀’ 발생",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260727205613IyS"
+        },
+        {
+          "title": "제13호 태풍 '돌핀' 내일 발생.. 폭염 멈춰 세울까",
+          "source": "한라일보",
+          "url": "https://m.ihalla.com/article.php?aid=1785119810788597044&page=1"
+        }
+      ]
+    },
+    {
+      "id": "쿠키뉴스",
+      "rank": 3,
+      "keyword": "쿠키뉴스",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '예금·대출금리 동반 상승…주담대 고정금리 비중 12년여 만에 최저 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "예금·대출금리 동반 상승…주담대 고정금리 비중 12년여 만에 최저 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/07/28/2026072810461861587"
+        },
+        {
+          "title": "'긴축 터널' 돌입도 전에···주담대·신용대출 금리 동반 '점프'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260728120136251"
+        },
+        {
+          "title": "주담대 한도 축소 유예 기준은 ‘접수일’…기존 계약자 사각지대",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=346001"
+        }
+      ]
+    },
+    {
+      "id": "sk하이닉스-주가",
+      "rank": 4,
+      "keyword": "sk하이닉스 주가",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'NXT 프리마켓서 SK하이닉스 단 1주로 '하한가'…주문 실수 추정' (연합인포맥스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "NXT 프리마켓서 SK하이닉스 단 1주로 '하한가'…주문 실수 추정",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427151"
+        },
+        {
+          "title": "SK하닉, 단 1주에 하한가 직행…프리마켓 ‘딜 미스 소동’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260728091127119"
+        },
+        {
+          "title": "SK하이닉스 무기한선물, 한때 추락…'규제밖 베팅' 취약성 입증",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03758886645519112"
+        }
+      ]
+    },
+    {
+      "id": "육상-경기",
+      "rank": 5,
+      "keyword": "육상 경기",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"스타트 자세인데 카메라가 다리 사이로...\" 충격적 행태에도 네덜란드 미녀 육상 스타 소신 발언 \"여성 몸 금기시하면 안 된다…' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"스타트 자세인데 카메라가 다리 사이로...\" 충격적 행태에도 네덜란드 미녀 육상 스타 소신 발언 \"여성 몸 금기시하면 안 된다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/07/28/2026072810473572791"
+        },
+        {
+          "title": "\"엉덩이 왜 찍지 말라고 하나?…경기 일부라면 카메라에 담겨야\"→네덜란드 女 육상 최고 스타, 방송연맹 규제에 소신 발언",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260728013107166"
+        },
+        {
+          "title": "“엉덩이 찍혀도 괜찮아”…육상 스타, 새 중계 지침에 공개 반발",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/world/12109150"
+        }
+      ]
+    },
+    {
+      "id": "콘-페리-투어",
+      "rank": 6,
+      "keyword": "콘 페리 투어",
       "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] 양도세 실거주 공제 10억대로 제한' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'PGA 콘페리 투어서 352야드 ‘파4 홀인원’ 탄생…역대 6번째' (서울경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[단독] 양도세 실거주 공제 10억대로 제한",
+          "title": "PGA 콘페리 투어서 352야드 ‘파4 홀인원’ 탄생…역대 6번째",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20072587"
+        },
+        {
+          "title": "미친 장타력! 美 콘페리 투어서 '파4 홀인원' 나왔다…\"역대 2위 기록\", 1위는?",
           "source": "조선일보",
-          "url": "https://www.chosun.com/economy/economy_general/2026/07/28/Z5TXDYDB5JAPNEXLB67NZR2WPQ/"
+          "url": "https://www.chosun.com/sports/golf/2026/07/28/MEYTIZBZGQ2WCYJXMEYTAOJWMM/"
         },
         {
-          "title": "초고가에 쏠리는 '장특공제' 역진‥개편 초읽기",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728062210524"
-        },
-        {
-          "title": "장특공 '거주 중심' 손질 시사…12억 넘는 집주인들 촉각",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/realestate/general/6240542"
+          "title": "PGA 복귀 도전하는 ‘왕년의 골프천재’ 이시카와 료, “그 때는 미국 무대에서 어떻게 플레이해야 할지 몰랐다”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202607281117003"
         }
       ]
     },
     {
-      "id": "노르웨이",
-      "rank": 2,
-      "keyword": "노르웨이",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'United States, Norway Complete North Atlantic Interoperability Exercise' (Marine News Magazine) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "United States, Norway Complete North Atlantic Interoperability Exercise",
-          "source": "Marine News Magazine",
-          "url": "https://www.marinelink.com/news/united-states-norway-complete-north-541555"
-        },
-        {
-          "title": "Norway’s Defense Chief Visits USNORTHCOM To Strengthen High North Ties",
-          "source": "Eurasia Review",
-          "url": "https://www.eurasiareview.com/28072026-norways-defense-chief-visits-usnorthcom-to-strengthen-high-north-ties/"
-        },
-        {
-          "title": "US, Norwegian coast guards conclude interoperability exercise in North Atlantic",
-          "source": "Baird Maritime",
-          "url": "https://www.bairdmaritime.com/security/non-naval-security/coast-guard/us-norwegian-coast-guards-conclude-interoperability-exercise-in-north-atlantic"
-        }
-      ]
-    },
-    {
-      "id": "아이폰",
-      "rank": 3,
-      "keyword": "아이폰",
+      "id": "조혜련",
+      "rank": 7,
+      "keyword": "조혜련",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '5000mAh 품은 갤Z8…사용시간 26%↑ 배터리수명 40%↓' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '조혜련, 술·담배 못 끊었던 이유…\"결핍 있었다, 현실 만족하지 못해\" (못간다)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "5000mAh 품은 갤Z8…사용시간 26%↑ 배터리수명 40%↓",
+          "title": "조혜련, 술·담배 못 끊었던 이유…\"결핍 있었다, 현실 만족하지 못해\" (못간다)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260728063146648"
+          "url": "https://v.daum.net/v/20260728093737415"
         },
         {
-          "title": "\"82억명이 매일 쓴다\"…삼성 폴더블의 미래, '여권'에서 찾은 이유 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/tech/2026/07/28/2026072721145429460"
+          "title": "다이어트한 스타들|풍자, ‘다이어트 주사’ 고백 후 “쳐진 살에 리프팅, 레이저 시술까지..온갖 돈 노력”(풍자테레비)",
+          "source": "ZUM 뉴스",
+          "url": "https://m.news.zum.com/photo/60493378/106869387?cm=news_edit&r=1&thumb=1"
         },
         {
-          "title": "더 얇은 디스플레이, 더 오래가는 배터리… “갤럭시 Z8 시리즈는 가장 진화한 폴더블”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260727/134373940/2"
+          "title": "조혜련 “현실에 만족 못해…술·담배에 의지했다”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260728/134378082/1"
         }
       ]
     },
     {
-      "id": "워싱턴-내셔널스",
-      "rank": 4,
-      "keyword": "워싱턴 내셔널스",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "nec",
-      "rank": 5,
-      "keyword": "nec",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Champions League veteran Dusan Tadić joins Dutch club NEC Nijmegen ahea…' (The Joplin Globe) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Champions League veteran Dusan Tadić joins Dutch club NEC Nijmegen ahead of qualifying rounds",
-          "source": "The Joplin Globe",
-          "url": "https://www.joplinglobe.com/region/national_sports/champions-league-veteran-dusan-tadi-joins-dutch-club-nec-nijmegen-ahead-of-qualifying-rounds/article_93874576-d23f-5fcb-8994-83045b2c1512.html"
-        },
-        {
-          "title": "Champions League veteran Dusan Tadić joins Dutch club NEC Nijmegen ahead of qualifying rounds",
-          "source": "The Daily Gazette",
-          "url": "https://www.dailygazette.com/ap/sports/champions-league-veteran-dusan-tadi-joins-dutch-club-nec-nijmegen-ahead-of-qualifying-rounds/article_f22135c4-cd06-5bf0-a47f-e6ca5909416e.html"
-        },
-        {
-          "title": "Champions League veteran Dusan Tadić joins Dutch club NEC Nijmegen ahead of qualifying rounds",
-          "source": "Newsday",
-          "url": "https://www.newsday.com/sports/soccer/champions-league-nec-tadic-serbia-dutch-x52387"
-        }
-      ]
-    },
-    {
-      "id": "sndk",
-      "rank": 6,
-      "keyword": "sndk",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Sandisk: Why NAND May Have More Room To Run Than DRAM (NASDAQ:SNDK)' (Seeking Alpha) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Sandisk: Why NAND May Have More Room To Run Than DRAM (NASDAQ:SNDK)",
-          "source": "Seeking Alpha",
-          "url": "https://seekingalpha.com/article/4924580-sandisk-why-nand-may-have-more-room-to-run-than-dram"
-        },
-        {
-          "title": "SNDK Just Dropped 12%: Here Is the 1 Number That Tells You Whether to Panic or Buy",
-          "source": "24/7 Wall St.",
-          "url": "https://247wallst.com/investing/2026/07/27/sndk-just-dropped-12-here-is-the-1-number-that-tells-you-whether-to-panic-or-buy/"
-        },
-        {
-          "title": "Why Sandisk Stock Crashed on Monday",
-          "source": "The Motley Fool",
-          "url": "https://www.fool.com/investing/2026/07/27/why-sandisk-stock-crashed-on-monday/"
-        }
-      ]
-    },
-    {
-      "id": "한소희",
-      "rank": 7,
-      "keyword": "한소희",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '휴가 갈 때 수영복, 슬기·김나영처럼 일상에서도 입어보세요' (하퍼스 바자 코리아) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "휴가 갈 때 수영복, 슬기·김나영처럼 일상에서도 입어보세요",
-          "source": "하퍼스 바자 코리아",
-          "url": "https://www.harpersbazaar.co.kr/article/1906897"
-        },
-        {
-          "title": "스타들 수영복& 비치룩 - 포토슬라이드",
-          "source": "네이트",
-          "url": "https://news.nate.com/photo/slideShow?cid=1184495&mid=n0809"
-        },
-        {
-          "title": "여름은 비키니의 계절?…너도나도 몸매 자랑에 빠진 ★들 [MD포커스]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260726060837436"
-        }
-      ]
-    },
-    {
-      "id": "pltr",
+      "id": "cxmt-stock",
       "rank": 8,
-      "keyword": "pltr",
+      "keyword": "cxmt stock",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Editorial: China’s Regulation-Free Chip Boom, Korea’s Reform-Free AI Vi…' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Editorial: China’s Regulation-Free Chip Boom, Korea’s Reform-Free AI Vision",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/opinion-en/2026/07/28/3JECOKOZCJESNFIFJCV24BXBVM/"
+        },
+        {
+          "title": "Chinese IPO Rattles Chip Stocks",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/finance/stocks/chinese-ipo-rattles-chip-stocks-a563c5f6"
+        },
+        {
+          "title": "China's Semiconductor Rise Symbol CXMT Surges 466% on Debut, Market Cap Surpasses Intel",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008677148"
+        }
+      ]
+    },
+    {
+      "id": "아이온큐",
+      "rank": 9,
+      "keyword": "아이온큐",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Palantir shares may move 9.6% on Aug. 3 earnings report' (Investing.com) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '디웨이브퀀텀 등 양자컴주, AT&T의 양자기술 확대 소식에 상승' (연합인포맥스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Palantir shares may move 9.6% on Aug. 3 earnings report",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/palantir-shares-may-move-96-on-aug-3-earnings-report-93CH-4814665"
+          "title": "디웨이브퀀텀 등 양자컴주, AT&T의 양자기술 확대 소식에 상승",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427223"
         },
         {
-          "title": "Still Down 26% in 2026, Is Palantir’s Rebound Just Getting Started?",
-          "source": "24/7 Wall St.",
-          "url": "https://247wallst.com/investing/2026/07/27/still-down-26-in-2026-is-palantirs-rebound-just-getting-started/"
+          "title": "벤치마크, D-웨이브 퀀텀 주식 ’매수’ 의견으로 커버리지 개시",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/analyst-ratings/article-93CH-2030602"
         },
         {
-          "title": "Palantir’s US Commercial Engine Is Driving The Next Forecast Raise",
-          "source": "Finimize",
-          "url": "https://finimize.com/content/palantirs-us-commercial-engine-is-driving-the-next-forecast-raise"
+          "title": "디웨이브퀀텀, AT&T와 양자컴퓨팅 확대 계약…네트워크 최적화 시간 240배 단축 입증",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1127747"
         }
       ]
     },
     {
-      "id": "의과대학",
-      "rank": 9,
-      "keyword": "의과대학",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '의대 설립 전제, 전남광주 초광역의료벨트 '현실성 있나'(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "의대 설립 전제, 전남광주 초광역의료벨트 '현실성 있나'(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260727193255873"
-        },
-        {
-          "title": "국립목포대·순천대, 통합 협상 결렬…의대 신설 '빨간불'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/gwangju-jeonnam/6240766"
-        },
-        {
-          "title": "순천시·지역 정치권 “순천대 의대·대학병원 설립” 한마음으로 뭉쳐",
-          "source": "서울Pn",
-          "url": "https://go.seoul.co.kr/news/newsView.php?id=20260727500055"
-        }
-      ]
-    },
-    {
-      "id": "한국지엠",
+      "id": "두산베어스",
       "rank": 10,
-      "keyword": "한국지엠",
+      "keyword": "두산베어스",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“믿고 싶다, 믿게 해달라” 한국지엠 노조, 정부에 미래를 당부한 이유…국회서 토론회 개최' (전기신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''삼성→두산' 트레이드 주인공 사라졌다!…'애증의 1차 지명' 깜짝 기회 잡나→\"공 보는 자세와 타구 방향 예년과 달라져\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“믿고 싶다, 믿게 해달라” 한국지엠 노조, 정부에 미래를 당부한 이유…국회서 토론회 개최",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=370706"
-        },
-        {
-          "title": "일감 확보 ‘변수’ 커지는 완성차업계…한국GM·르노코리아 노사 쟁점",
+          "title": "'삼성→두산' 트레이드 주인공 사라졌다!…'애증의 1차 지명' 깜짝 기회 잡나→\"공 보는 자세와 타구 방향 예년과 달라져\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260727163706006"
+          "url": "https://v.daum.net/v/20260728082537637"
         },
         {
-          "title": "허성무 의원 측 \"GM먹티방지법 조속히 처리해야\"",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260727.99099007907"
+          "title": "[스경X현장]김원형 감독 “김대한 많이 좋아져, 기대하고 있다”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202607261609003"
+        },
+        {
+          "title": "한일전 스리런 기억 생생한데 어느새 8년 차…김대한 향한 사령탑 기대감, 올해는 정말 다르다? \"계속 이야기가 들린다\" [MD수원]",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026072410100582492"
         }
       ]
     }
