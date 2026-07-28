@@ -1,101 +1,185 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-28T17:58:38.584Z",
+  "updatedAt": "2026-07-28T19:46:59.670Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "어-도어",
+      "id": "열대야",
       "rank": 1,
-      "keyword": "어 도어",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 '어도어, 하니 비자정보 유출 혐의로 피고발…\"불법체류자 낙인\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "어도어, 하니 비자정보 유출 혐의로 피고발…\"불법체류자 낙인\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260728140600004"
-        },
-        {
-          "title": "“뉴진스 하니 비자 정보 유출했다”…문화평론가, 어도어 경찰 고발",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607281409001"
-        },
-        {
-          "title": "\"뉴진스 하니 비자 정보 유출 의혹\"…문화평론가 경찰 고발",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/07/28/VOTMAHB6HJCMLJB5TKWSPDVPYQ/"
-        }
-      ]
-    },
-    {
-      "id": "리그오브레전드",
-      "rank": 2,
-      "keyword": "리그오브레전드",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
+      "keyword": "열대야",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[오피셜] 'LS' 닉 드 체사레, T1 리프트바운드 선수로 입단' (인벤) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '거리는 '텅' 관광객은 실내로…'40도 육박' 극한더위 계속' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[오피셜] 'LS' 닉 드 체사레, T1 리프트바운드 선수로 입단",
-          "source": "인벤",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318924"
-        },
-        {
-          "title": "T1 홈그라운드, LCK 경기 홈 좌석 전석 매진…8월 DK·젠지 빅매치 예고",
+          "title": "거리는 '텅' 관광객은 실내로…'40도 육박' 극한더위 계속",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260728105653506"
+          "url": "https://v.daum.net/v/20260728080622183?f=p"
         },
         {
-          "title": "T1 홈그라운드, LCK 경기 전석 매진…`피프티피프티`·`텐즈` 출격",
-          "source": "디지털데일리",
-          "url": "https://m.ddaily.co.kr/page/view/2026072815534795354"
+          "title": "열대야 벌써 7.8일 ‘역대 최장’… 대관령 등 일부 뺀 전국 폭염특보",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260729/134383595/2"
+        },
+        {
+          "title": "[2026년 07월 29일 날씨]최고 38도 ‘대프리카’…열대야에 전국이 ‘헉헉’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607282118025"
         }
       ]
     },
     {
-      "id": "문희준",
+      "id": "애스턴-빌라-대-레알-소시에다드",
+      "rank": 2,
+      "keyword": "애스턴 빌라 대 레알 소시에다드",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '아스톤 빌라 대 레알 소시에다드: 우나이 에메리 감독의 임시방편으로 구성된 스쿼드를 시험하는 월솔 원정 경기.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "아스톤 빌라 대 레알 소시에다드: 우나이 에메리 감독의 임시방편으로 구성된 스쿼드를 시험하는 월솔 원정 경기.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/aston-villa-gap-real-sociedad-bai-kiem-tra-doi-hinh-chap-va-cua-unai-emery-tai-walsall"
+        },
+        {
+          "title": "아스톤 빌라 대 레알 소시에다드 축구 점수 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/du-doan-ti-so-bong-da-aston-villa-vs-real-sociedad-1741998.ldo"
+        },
+        {
+          "title": "아스톤 빌라 대 레알 소시에다드: 선수 부족에 시달리는 우나이 에메리 감독에게 닥친 시험대.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/aston-villa-gap-real-sociedad-bai-kiem-tra-cho-unai-emery-giua-con-thieu-hut-nhan-su"
+        }
+      ]
+    },
+    {
+      "id": "중국",
       "rank": 3,
-      "keyword": "문희준",
-      "volumeLabel": "500+",
+      "keyword": "중국",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'CXMT, 애플에 “싸게 줄 이유 없다”…삼성·SK하이닉스보다 비싼 값 제시' (테크월드) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "CXMT, 애플에 “싸게 줄 이유 없다”…삼성·SK하이닉스보다 비싼 값 제시",
+          "source": "테크월드",
+          "url": "https://www.epnc.co.kr/news/articleView.html?idxno=404816"
+        },
+        {
+          "title": "창신메모리 상장, 메모리 사이클까지 바꾸나[광화문] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/opinion/2026/07/29/2026072816072072468"
+        },
+        {
+          "title": "AI 피로감에 기름 부은 중국 반도체 충격‥\"낙폭 너무 과도해\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6840708_37004.html"
+        }
+      ]
+    },
+    {
+      "id": "롤렉스",
+      "rank": 4,
+      "keyword": "롤렉스",
+      "volumeLabel": "200+",
       "startedLabel": "3시간 전",
       "change": "up",
       "changeLabel": "+1",
-      "summary": "급상승 시점에 '동상이몽2_너는 내 운명 : 박소율, 39번의 요요로 얻게 된 패션 철학으로 옷장 정리 거부한 문희준에 날린 쓴소리' (programs.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘친구 살해’ 정재환, 알몸으로 돌아와 롤렉스부터 챙겼다' (JTBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "동상이몽2_너는 내 운명 : 박소율, 39번의 요요로 얻게 된 패션 철학으로 옷장 정리 거부한 문희준에 날린 쓴소리",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC480890100"
+          "title": "‘친구 살해’ 정재환, 알몸으로 돌아와 롤렉스부터 챙겼다",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12310459"
         },
         {
-          "title": "\"유혹하는 거야?\" 문희준, 스킨십하는 박소율에 '셋째 임신' 떠봤더니… - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/07/29/2026072902354557808"
+          "title": "“시계부터 챙겨야”…‘친구 살해’ 정재환, 알몸 상태로 롤렉스 찾았다",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20072992"
         },
         {
-          "title": "굶지 않는 '장원영 다이어트'…문희준, 19㎏ 감량 도전장",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260728_0003726225"
+          "title": "피범벅 상태로 챙긴 '롤렉스'…모친은 \"팔 수 있었는데\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260728114205258?f=p"
+        }
+      ]
+    },
+    {
+      "id": "김하성",
+      "rank": 5,
+      "keyword": "김하성",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"데려갈 팀도 없다\" 김하성 향한 냉정한 현실...美 매체 \"ATL, 헐값 처분 또는 방출 가능성\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"데려갈 팀도 없다\" 김하성 향한 냉정한 현실...美 매체 \"ATL, 헐값 처분 또는 방출 가능성\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260728125051751"
+        },
+        {
+          "title": "로아주는 복귀했는데…김하성은 과연? 일단 전망은 나쁘지 않다, 하지만...",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/07/28/GI4WKOBZGZTDSYZYMRRDKNBXGI/"
+        },
+        {
+          "title": "김하성, 재활경기 무안타에도 볼넷·도루…8경기 연속 출루",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2607828"
+        }
+      ]
+    },
+    {
+      "id": "기아-셀토스",
+      "rank": 6,
+      "keyword": "기아 셀토스",
+      "volumeLabel": "200+",
+      "startedLabel": "4시간 전",
+      "change": "up",
+      "changeLabel": "+3",
+      "summary": "급상승 시점에 '“넓어진 공간과 첨단 기능… 패밀리카로 진화”' (미주한국일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“넓어진 공간과 첨단 기능… 패밀리카로 진화”",
+          "source": "미주한국일보",
+          "url": ""
+        },
+        {
+          "title": "[2027 올 뉴 셀토스 시승기] 더 커지고 조용해진 기아 콤팩트 SUV",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260726200113878"
+        },
+        {
+          "title": "미국 차값 5만 달러 시대…한국차, 2만 달러대 SUV로 승부",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12310105"
         }
       ]
     },
     {
       "id": "싸이",
-      "rank": 4,
+      "rank": 7,
       "keyword": "싸이",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-3",
       "summary": "급상승 시점에 ''싸이 흠뻑쇼' 여학생 \"저 연습생 아닙니다\" 직접 입 열었다[스타이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -117,97 +201,41 @@
       ]
     },
     {
-      "id": "롤렉스",
-      "rank": 5,
-      "keyword": "롤렉스",
+      "id": "레알마드리드",
+      "rank": 8,
+      "keyword": "레알마드리드",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘친구 살해’ 정재환, 알몸으로 돌아와 롤렉스부터 챙겼다' (JTBC) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"2부 뛰던 애한테 1951억이라고?\" PSG, 디오망데 영입전 전격 철수.. 레알의 과도한 머니게임 대놓고 비판' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘친구 살해’ 정재환, 알몸으로 돌아와 롤렉스부터 챙겼다",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12310459"
-        },
-        {
-          "title": "피범벅 상태로 챙긴 '롤렉스'…모친은 \"팔 수 있었는데\"",
+          "title": "\"2부 뛰던 애한테 1951억이라고?\" PSG, 디오망데 영입전 전격 철수.. 레알의 과도한 머니게임 대놓고 비판",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260728114205258?f=p"
+          "url": "https://v.daum.net/v/20260728092009555"
         },
         {
-          "title": "’친구 살해’ 정재환, 체포 직전 집에서 롤렉스부터 챙겼다",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260728141313cVz"
-        }
-      ]
-    },
-    {
-      "id": "샌디스크-주가",
-      "rank": 6,
-      "keyword": "샌디스크 주가",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'SanDisk 주가, 오늘 왜 하락할까?' (Investing.com 한국어) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "SanDisk 주가, 오늘 왜 하락할까?",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2031521"
+          "title": "이적료 2250억원… 레알 마드리드, 초신성 디오망데 영입 임박",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11605477"
         },
         {
-          "title": "샌디스크 실적 발표 앞두고 기대·부담 교차",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/07/2026072700172036959a1f309431_1"
-        },
-        {
-          "title": "샌디스크 주가, 1,278.23달러 11.02% 하락 마감",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16147452"
-        }
-      ]
-    },
-    {
-      "id": "최권",
-      "rank": 7,
-      "keyword": "최권",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '‘김수현 절친’ 최권, 부친상 비보…슬픔 속 빈소 지키며 조문객 맞이 [단독]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘김수현 절친’ 최권, 부친상 비보…슬픔 속 빈소 지키며 조문객 맞이 [단독]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728133508825"
-        },
-        {
-          "title": "'프로듀사 신디 매니저' 최권, 부친상 비보",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260728n25359"
-        },
-        {
-          "title": "‘김수현 절친’ 최권, 3년 만 복귀 앞두고 부친상 비보…애도 이어져",
-          "source": "TV리포트",
-          "url": "https://tvreport.co.kr/breaking/article/1064383/"
+          "title": "'이강인 OUT' PSG 제대로 날벼락…'1억 4000만 파운드' 브래들리 바르콜라 이적설→얀 디오만데 영입전 철수",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/07/28/HAZDONBWHFSWGOBYMJRDCNZWMU/"
         }
       ]
     },
     {
       "id": "요시다-슈헤이",
-      "rank": 8,
+      "rank": 9,
       "keyword": "요시다 슈헤이",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '요시다 슈헤이가 ‘블러드본 PC판 미출시'에 대해 언급했다' (게임메카) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -225,34 +253,6 @@
           "title": "요시다 슈헤이가 묻고 답하다, 인디 게임의 과거·현재·미래",
           "source": "게임뷰",
           "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=59599"
-        }
-      ]
-    },
-    {
-      "id": "기아-셀토스",
-      "rank": 9,
-      "keyword": "기아 셀토스",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“넓어진 공간과 첨단 기능… 패밀리카로 진화”' (미주한국일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“넓어진 공간과 첨단 기능… 패밀리카로 진화”",
-          "source": "미주한국일보",
-          "url": ""
-        },
-        {
-          "title": "[2027 올 뉴 셀토스 시승기] 더 커지고 조용해진 기아 콤팩트 SUV",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260726200113878"
-        },
-        {
-          "title": "미국 차값 5만 달러 시대…한국차, 2만 달러대 SUV로 승부",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12310105"
         }
       ]
     }
