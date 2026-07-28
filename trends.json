@@ -1,126 +1,70 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-28T21:15:39.474Z",
+  "updatedAt": "2026-07-28T22:35:55.012Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "중위소득",
+      "id": "박문성",
       "rank": 1,
-      "keyword": "중위소득",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '내년 기준 중위소득 역대 최대 6.7% 인상…'K자형 양극화' 대응' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "내년 기준 중위소득 역대 최대 6.7% 인상…'K자형 양극화' 대응",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968956"
-        },
-        {
-          "title": "내년 ‘기준 중위소득’ 역대최고 6.7% 올려… 생계급여 221만원",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260728/134383555/2"
-        },
-        {
-          "title": "\"정부, '최대 인상' 강조말고 저소득층 지키는 적정기준선 제시해야\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728202249051"
-        }
-      ]
-    },
-    {
-      "id": "백승호",
-      "rank": 2,
-      "keyword": "백승호",
-      "volumeLabel": "1000+",
+      "keyword": "박문성",
+      "volumeLabel": "10000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''韓 국가대표 미드필더' 백승호, '친정팀' FC 바르셀로나와 9년 만에 재회...\"데이비스 감독, PAIK 친선전 출전할 수 …' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘홍명보 선임 주도’ 이임생, 청문회 불참...\"캄보디아 취업해 참석 어렵다\"' (JTBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'韓 국가대표 미드필더' 백승호, '친정팀' FC 바르셀로나와 9년 만에 재회...\"데이비스 감독, PAIK 친선전 출전할 수 있을 것\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728233252878"
+          "title": "‘홍명보 선임 주도’ 이임생, 청문회 불참...\"캄보디아 취업해 참석 어렵다\"",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12310518"
         },
         {
-          "title": "'韓 국가대표 미드필더' 백승호 \"중대 국면, 프리미어리그 진출 원한다면 스텝업 보여줘야\" 英 매체, PAIK 향해 진심 조언",
-          "source": "스포탈코리아",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553394219"
-        },
-        {
-          "title": "'충격 한국도 원했던' 사비, 이라크 차기 감독 후보, '홍명보 후임' 유력 후보들 하나둘 사라진다...사비 이라크·르나르 세네갈 관심 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/baseball/2026/07/28/MNRWKOLGGM2TMOBQGA3TIODBGU/"
-        }
-      ]
-    },
-    {
-      "id": "대통령",
-      "rank": 3,
-      "keyword": "대통령",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '7월 27일 (월) 브라질 브라질리아 현장 📸 | 카드뉴스 | 뉴스룸' (대한민국 청와대) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "7월 27일 (월) 브라질 브라질리아 현장 📸 | 카드뉴스 | 뉴스룸",
-          "source": "대한민국 청와대",
-          "url": "https://www.president.go.kr/card-news/jCdoWAqC"
-        },
-        {
-          "title": "이 대통령 “한·브라질, 안정적 공급망·미래산업 함께 이끄는 최적의 파트너로”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8622722"
-        },
-        {
-          "title": "룰라 대통령 내외 주최 문화공연 및 리셉션 - 사진 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=72779"
-        }
-      ]
-    },
-    {
-      "id": "아틀레티코-마드리드",
-      "rank": 4,
-      "keyword": "아틀레티코 마드리드",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이강인, AT 마드리드 합류시기는?…\"병무청 승인에 달렸다\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "이강인, AT 마드리드 합류시기는?…\"병무청 승인에 달렸다\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260728046400007"
-        },
-        {
-          "title": "'그리즈만 7번 상속'에 '케데헌'까지.. AT 마드리드, '코리안' 이강인 날개 달고 글로벌 최고 구단 도약 노린다 - 머니투데이",
+          "title": "'이럴줄 알았다'... \"홍명보 선임 내가 주도했다\"더니 청문회 불참, 월드컵 망친 장본인 '해외 도피' 논란 활활 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/07/29/202607281439772057O"
+          "url": "https://www.mt.co.kr/sports/2026/07/29/2026072816494145382"
         },
         {
-          "title": "아틀레티코 이적한 이강인, 한국서 맨시티 상대로 데뷔전 갖나",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260727_0003725129"
+          "title": "축구협회 국회 청문회 30일 개최…정몽규·홍명보 등 출석할 듯",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260728120300007"
         }
       ]
     },
     {
-      "id": "다우지수",
-      "rank": 5,
-      "keyword": "다우지수",
-      "volumeLabel": "500+",
+      "id": "tsmc",
+      "rank": 2,
+      "keyword": "tsmc",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Live updates: Rescuers race to find survivors in collapsed shopping mal…' (CNN) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Live updates: Rescuers race to find survivors in collapsed shopping mall after Japan earthquake",
+          "source": "CNN",
+          "url": "https://www.cnn.com/2026/07/28/world/live-news/japan-earthquake-kumamoto"
+        },
+        {
+          "title": "Japan Kumamoto earthquake: What happened, damage, victims, latest updates",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/28/japan-kumamoto-earthquake-what-happened-damage-victims-latest-updates"
+        },
+        {
+          "title": "Live Updates: Earthquake in Japan caused buildings to collapse as dozens reportedly injured",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/world/japan/live-blog/live-updates-earthquake-strikes-japan-injuring-dozens-collapsing-build-rcna589583"
+        }
+      ]
+    },
+    {
+      "id": "다우-존스-산업평균지수",
+      "rank": 3,
+      "keyword": "다우 존스 산업평균지수",
+      "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
@@ -133,107 +77,51 @@
           "url": "https://v.daum.net/v/20260729051537697"
         },
         {
-          "title": "[뉴욕증시] 흔들리는 기술주와 탄력 붙는 우량주…혼조 마감",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427356"
-        },
-        {
           "title": "뉴욕증시, 유가 급락 속 혼조 마감…반도체주 하락(종합)",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260728006251072"
+        },
+        {
+          "title": "[속보]SK하이닉스 ADR 7%·엔비디아 5% 급락…유가 급락에도 반도체에 발목잡힌 뉴욕증시 혼조 마감",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11605374"
         }
       ]
     },
     {
-      "id": "바가지요금",
-      "rank": 6,
-      "keyword": "바가지요금",
+      "id": "티엔엔터테인먼트",
+      "rank": 4,
+      "keyword": "티엔엔터테인먼트",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '숙박업소 걸리면 바로 문 닫고, 택시는 자격정지 30일···“휴가철 ‘바가지’ 이젠 안 봐줘”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "숙박업소 걸리면 바로 문 닫고, 택시는 자격정지 30일···“휴가철 ‘바가지’ 이젠 안 봐줘”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607281414001"
-        },
-        {
-          "title": "도시민박·한옥체험업도 '바가지 요금' 1차 적발 시 영업정지 5일",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968925"
-        },
-        {
-          "title": "한옥체험업·외국인관광 도시민박 '바가지요금' 첫 적발부터 영업정지 가능해져",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6840643_36932.html"
-        }
-      ]
-    },
-    {
-      "id": "에코프로",
-      "rank": 7,
-      "keyword": "에코프로",
-      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '에코프로비엠, 캐나다 양극재 공장 매각 검토…회수액 1600억원 추산' (PRESS9) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '장윤정·이찬원 떠난 티엔엔터, 사내이사 3명 배임 혐의 포착…“조사 협조할 것” - 스타투데이' (매일경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "에코프로비엠, 캐나다 양극재 공장 매각 검토…회수액 1600억원 추산",
-          "source": "PRESS9",
-          "url": "https://www.press9.kr/news/articleView.html?idxno=80165"
+          "title": "장윤정·이찬원 떠난 티엔엔터, 사내이사 3명 배임 혐의 포착…“조사 협조할 것” - 스타투데이",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12108796"
         },
         {
-          "title": "에코프로에이치엔, 삼성E&A에 330억 규모 RCS 공급",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=370710"
+          "title": "김숙·이영자·홍진경 소속사, 임원 3명 배임 의혹 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/07/28/2026072814013958448"
         },
         {
-          "title": "에코프로에이치엔, 삼성E&A에 330억 온실가스 저감시스템 공급",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260727146600003"
+          "title": "이영자·김숙·허경환 소속사, 임원 3명 배임 의혹 제기 [Oh!쎈 이슈] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/07/28/GBQTANJTMYYWENRUGZSWMN3GMQ/"
         }
       ]
     },
     {
-      "id": "종합격투기",
-      "rank": 8,
-      "keyword": "종합격투기",
-      "volumeLabel": "200+",
+      "id": "브로드컴",
+      "rank": 5,
+      "keyword": "브로드컴",
+      "volumeLabel": "500+",
       "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '종합격투기 블랙컴뱃 잠실학생체육관대회 계체 결과' (매일경제TV) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "종합격투기 블랙컴뱃 잠실학생체육관대회 계체 결과",
-          "source": "매일경제TV",
-          "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005886949"
-        },
-        {
-          "title": "[블랙컴뱃 포토] 신예 신창현, 펀치로 랭커 김성웅에 KO승",
-          "source": "랭크파이브",
-          "url": "https://www.rank5.kr/news/articleView.html?idxno=20803"
-        },
-        {
-          "title": "블랙컴뱃- 싸이코 또 계체 실패…이겨도 무효 처리(No Contest)",
-          "source": "랭크파이브",
-          "url": "https://www.rank5.kr/news/articleView.html?idxno=20787"
-        }
-      ]
-    },
-    {
-      "id": "sk그룹",
-      "rank": 9,
-      "keyword": "sk그룹",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 '대체불가 대한민국, 대도약 위한 글로벌 AI투자 이니셔티브 - 전체 | 카드/한컷 | 멀티미디어' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
@@ -257,30 +145,142 @@
       ]
     },
     {
-      "id": "흥국생명",
+      "id": "김경문",
+      "rank": 6,
+      "keyword": "김경문",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'KIA 이래서 깜짝 트레이드했구나…이범호가 본 하주석? 내야 활용도 상당하네, 여름이라 더' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "KIA 이래서 깜짝 트레이드했구나…이범호가 본 하주석? 내야 활용도 상당하네, 여름이라 더",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260728180841672"
+        },
+        {
+          "title": "[한번에쓱] 6회초 거인 상대하러 마운드 오른 '이젠 독수리다!' 이형범 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/07/28/2026072821275192559"
+        },
+        {
+          "title": "수비하는 이형범",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8030117"
+        }
+      ]
+    },
+    {
+      "id": "하이닉스-실적",
+      "rank": 7,
+      "keyword": "하이닉스 실적",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'SK하이닉스, 오늘 2Q 성적표…영업이익, '역대 최대' 64조 전망' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "SK하이닉스, 오늘 2Q 성적표…영업이익, '역대 최대' 64조 전망",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729060204313"
+        },
+        {
+          "title": "'155만닉스'에 개미들 멘붕인데…SK하닉 '반전 카드' 있다 [종목+]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026072807816"
+        },
+        {
+          "title": "■7월 29일 수 경제 캘린더",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0102_202607290517236260"
+        }
+      ]
+    },
+    {
+      "id": "schd",
+      "rank": 8,
+      "keyword": "schd",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Here's How Much You'd Need to Invest in SCHD to Generate $1,000 per Mon…' (Yahoo Finance) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Here's How Much You'd Need to Invest in SCHD to Generate $1,000 per Month in Dividends",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-much-youd-invest-schd-202800578.html"
+        },
+        {
+          "title": "Prediction: This Dividend ETF Will Thrive After 20 Years No Matter What the Market Does",
+          "source": "The Motley Fool",
+          "url": "https://www.fool.com/investing/2026/07/28/prediction-dividend-etf-thrive-20-years-schd/"
+        },
+        {
+          "title": "Here’s Why SCHD is Beating the S&P 500 in 2026 YTD",
+          "source": "24/7 Wall St.",
+          "url": "https://247wallst.com/investing/2026/07/26/heres-why-schd-is-beating-the-sp-500-in-2026-ytd/"
+        }
+      ]
+    },
+    {
+      "id": "mu",
+      "rank": 9,
+      "keyword": "mu",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Why is Micron Technology stock sliding today?' (Investing.com) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Why is Micron Technology stock sliding today?",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-micron-technology-stock-sliding-today-93CH-4815809"
+        },
+        {
+          "title": "Micron’s 30% July Washout Just Sparked a Single-Digit P/E— Is it a Buying Signal?",
+          "source": "24/7 Wall St.",
+          "url": "https://247wallst.com/investing/2026/07/27/microns-30-july-washout-just-sparked-a-single-digit-p-e-is-it-a-buying-signal/"
+        },
+        {
+          "title": "Micron: The Boom And Bust Memory Cycle Could Finally Be Dead (NASDAQ:MU)",
+          "source": "Seeking Alpha",
+          "url": "https://seekingalpha.com/article/4926314-micron-the-boom-and-bust-memory-cycle-could-finally-be-dead"
+        }
+      ]
+    },
+    {
+      "id": "쯔양",
       "rank": 10,
-      "keyword": "흥국생명",
+      "keyword": "쯔양",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '방출된 1R 특급 재능, 어떻게 프로 복귀 가능했나…실업배구 평정하자 日명장이 불렀다 “고민지 팀 운영에 큰 도움될 것”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''전참시 출연' 쯔양 매니저, 퇴사 결정…'불화설' 직접 입 열었다 \"각자의 길 응원, 그동안 감사\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "방출된 1R 특급 재능, 어떻게 프로 복귀 가능했나…실업배구 평정하자 日명장이 불렀다 “고민지 팀 운영에 큰 도움될 것”",
+          "title": "'전참시 출연' 쯔양 매니저, 퇴사 결정…'불화설' 직접 입 열었다 \"각자의 길 응원, 그동안 감사\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/2oOgnEcnhs?f=p"
+          "url": "https://v.daum.net/v/20260728221609186"
         },
         {
-          "title": "여자배구 흥국생명, '실업 무대 MVP' 고민지 영입해 수비 보강",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260727090500007"
+          "title": "불화설 시달리더니…쯔양 매니저, 오열 속 결국 퇴사 [스타이슈]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260728n35864"
         },
         {
-          "title": "실업배구 고민지, 프로팀 흥국생명 입단",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3030004"
+          "title": "쯔양 매니저 결국 눈물 속 퇴사한다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260729_0003727221"
         }
       ]
     }
