@@ -1,157 +1,101 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-29T12:08:17.129Z",
+  "updatedAt": "2026-07-29T14:53:42.641Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "어머니",
+      "id": "이투데이",
       "rank": 1,
-      "keyword": "어머니",
-      "volumeLabel": "20000+",
-      "startedLabel": "2시간 전",
+      "keyword": "이투데이",
+      "volumeLabel": "10000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''47세 임신' 한다감, 子 미래 얼굴 공개 \"복숭아같이 예뻐\" [슈돌]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '4조원이 62조원으로... 키옥시아로 대박낸 SK하이닉스' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'47세 임신' 한다감, 子 미래 얼굴 공개 \"복숭아같이 예뻐\" [슈돌]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729204411492"
-        },
-        {
-          "title": "'슈돌' 한다감 \"아들 육아 궁금해\"…황보라·정이랑 출격",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6243246"
-        },
-        {
-          "title": "'연예계 최고령 산모' 한다감…첫 아이 임신한 비결은? - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/07/29/2026072914545261923"
-        }
-      ]
-    },
-    {
-      "id": "보이콧",
-      "rank": 2,
-      "keyword": "보이콧",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'BTS “내년 그래미 출품 안 한다” 선언…사실상 ‘보이콧’ 왜?' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "BTS “내년 그래미 출품 안 한다” 선언…사실상 ‘보이콧’ 왜?",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607291621001"
-        },
-        {
-          "title": "BTS, 그래미 보이콧…\"음악 출품하지 않기로\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729201132607"
-        },
-        {
-          "title": "'아시안 팝' 논란에 보이콧?…방탄소년단 \"그래미 출품 안 해\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/07/29/2026072915131916088"
-        }
-      ]
-    },
-    {
-      "id": "김천상무-대-수원fc",
-      "rank": 3,
-      "keyword": "김천상무 대 수원fc",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '18경기 무승 늪 … 광주FC, 코리아컵서 ‘반등의 슛’ 쏜다' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "18경기 무승 늪 … 광주FC, 코리아컵서 ‘반등의 슛’ 쏜다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728220435038"
-        },
-        {
-          "title": "\"나에게 어필할 기회 됐으면\" 김기동→김현석 감독, 빡빡한 일정 속 K리그1 8개 팀 코리아컵 출격",
+          "title": "4조원이 62조원으로... 키옥시아로 대박낸 SK하이닉스",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/07/29/MIYDOYTEMQ2GIYTBGNQTKNTDGA/"
+          "url": "https://www.chosun.com/economy/tech_it/2026/07/29/AN57OBJHN5AMNPY7JJZJ6UERUQ/"
         },
         {
-          "title": "[토토 투데이] 부산-서울 빅매치 포함…스포츠토토, 코리아컵 3라운드 프로토 89회차 출시 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/07/29/202607291249778648O"
+          "title": "SK하이닉스 ADR 나흘만에 상승…차가운 AI 투심 딛고 2% 반등",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427625"
+        },
+        {
+          "title": "하닉, 영업이익률 76%…폭락장에 빛바랜 ‘신기록’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607292125015"
         }
       ]
     },
     {
-      "id": "윤경호",
-      "rank": 4,
-      "keyword": "윤경호",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "id": "잠수함",
+      "rank": 2,
+      "keyword": "잠수함",
+      "volumeLabel": "5000+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '윤경호 \"지금 인기 로또 같아…국수 가락처럼 길게 연기할래요\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '국방부, 핵잠 도입·운영 특별법 입법예고…\"연내 제정 목표\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "윤경호 \"지금 인기 로또 같아…국수 가락처럼 길게 연기할래요\"",
+          "title": "국방부, 핵잠 도입·운영 특별법 입법예고…\"연내 제정 목표\"",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260727101600005"
+          "url": "https://www.yna.co.kr/view/AKR20260729121900504"
         },
         {
-          "title": "[Y터뷰] '김부장' 윤경호, 끝내 눈시울 붉혔다...\"딸 보며 버틴 시간들\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0117_202607280800019604"
-        },
-        {
-          "title": "[인터뷰] 윤경호 “무명 시절 알바만 30개…아빠 되며 새 세상 열려”",
+          "title": "국방부, 핵잠 도입·운영 특별법 입법예고",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260728170229786?f=p"
+          "url": "https://v.daum.net/v/20260729203210185"
+        },
+        {
+          "title": "핵잠특별법에 “핵무기 목적 아니다” 명시…‘비확산’ 첫 법제화",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607282135015"
         }
       ]
     },
     {
-      "id": "국립목포대학교",
-      "rank": 5,
-      "keyword": "국립목포대학교",
+      "id": "선거법",
+      "rank": 3,
+      "keyword": "선거법",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '목포대 \"본부 양보할 테니 의대 달라\"…순천대 수용 거부(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[단독] '尹 유죄' 논리 그대로‥\"집사람은 손해 봤다\" 발언 송치' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "목포대 \"본부 양보할 테니 의대 달라\"…순천대 수용 거부(종합)",
+          "title": "[단독] '尹 유죄' 논리 그대로‥\"집사람은 손해 봤다\" 발언 송치",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6841036_37004.html"
+        },
+        {
+          "title": "윤석열 실형 판결에 “이재명 파기환송” 강조한 조선일보",
+          "source": "미디어오늘",
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336060"
+        },
+        {
+          "title": "‘김건희 주가 조작 부인’ 윤석열 송치",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260729202755064"
-        },
-        {
-          "title": "목포시, 전남광주시 '서부권 메디컬타운' 제안 환영",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260729119900054"
-        },
-        {
-          "title": "동부권 ‘부글’…“통합시는 결정권자 아닌 조정자”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8622927"
+          "url": "https://v.daum.net/v/20260729122540552"
         }
       ]
     },
     {
       "id": "수의사",
-      "rank": 6,
+      "rank": 4,
       "keyword": "수의사",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "2000+",
+      "startedLabel": "4시간 전",
+      "change": "up",
+      "changeLabel": "+2",
       "summary": "급상승 시점에 ''길고양이 다 없애자' 주장에…수의사들 데이터로 맞섰다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -173,41 +117,125 @@
       ]
     },
     {
-      "id": "파키스탄",
-      "rank": 7,
-      "keyword": "파키스탄",
+      "id": "임금",
+      "rank": 5,
+      "keyword": "임금",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Pakistan accused of fatally shooting 30 unarmed protesters in Kashmir' (The Guardian) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '카카오 노사, 임금 협상 잠정 합의...\"최종 타결시 내용 공개\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Pakistan accused of fatally shooting 30 unarmed protesters in Kashmir",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/jul/28/pakistan-accused-firing-unarmed-protesters-kashmir-killings"
+          "title": "카카오 노사, 임금 협상 잠정 합의...\"최종 타결시 내용 공개\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729194410006"
         },
         {
-          "title": "Pakistan Defence Minister says PoK protesters ‘enemies' like India, rules out dialogue",
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/pakistan-defence-minister-says-pok-protesters-enemies-like-india-rules-out-dialogue/article71281359.ece"
+          "title": "카카오 노사, 임금교섭 잠정 합의…조합원 투표 거쳐 최종 확정",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260729000443"
         },
         {
-          "title": "Clashes Erupt in Pakistani Kashmir as Voting in Local Election Begins",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/28/world/asia/pakistan-kashmir-election-violence.html"
+          "title": "‘인터넷은행 첫 파업’ 눈앞…카카오뱅크 노사합의가 표준될까",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04942966645519112"
+        }
+      ]
+    },
+    {
+      "id": "원자력",
+      "rank": 6,
+      "keyword": "원자력",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '한수원-영덕군, 신규원전 상생협약…지역발전 첫걸음' (전기신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "한수원-영덕군, 신규원전 상생협약…지역발전 첫걸음",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=370783"
+        },
+        {
+          "title": "영덕 신규 원전 상생협약…영양고추유통공사 혁신 토론회",
+          "source": "에너지경제신문",
+          "url": "https://www.ekn.kr/web/view.php?key=20260729024037469"
+        },
+        {
+          "title": "조주홍 영덕군수, 국가보훈부·국회 방문…'국비 확보에 잰걸음'",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6555161"
+        }
+      ]
+    },
+    {
+      "id": "전북특별자치도지사",
+      "rank": 7,
+      "keyword": "전북특별자치도지사",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이원택 전북지사 ‘김관영 내란 방조 의혹 제기’ 혐의 경찰 조사···피고발인 신분 출석' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이원택 전북지사 ‘김관영 내란 방조 의혹 제기’ 혐의 경찰 조사···피고발인 신분 출석",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607291900001"
+        },
+        {
+          "title": "전북경찰청 소환조사 위해 장내 들어서는 이원택 전북특별자치도지사",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20260729_0002199459"
+        },
+        {
+          "title": "이원택 전북지사 경찰 출석…‘내란 방조 허위사실공표’ 피의자 신분",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8623360"
+        }
+      ]
+    },
+    {
+      "id": "최정원",
+      "rank": 8,
+      "keyword": "최정원",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[단독]검찰, 그룹 UN 출신 최정원 ‘연인 특수협박’ 기소유예…스토킹은 무혐의' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[단독]검찰, 그룹 UN 출신 최정원 ‘연인 특수협박’ 기소유예…스토킹은 무혐의",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607290600091"
+        },
+        {
+          "title": "최정원 \"상간남·스토킹남 소송…인간 이하 소리 들으며 버텨\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260729_0003728199"
+        },
+        {
+          "title": "최정원 “5년 캄캄한 늪 끝났다”…상간남 소송 승소·전 연인 사건 종결",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729162810982?f=p"
         }
       ]
     },
     {
       "id": "spurs-vs-sydney-fc",
-      "rank": 8,
+      "rank": 9,
       "keyword": "spurs vs sydney fc",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "500+",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 'Tottenham Hotspur 1-1 Sydney: Spurs win pre-season match on penalties' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -222,65 +250,37 @@
           "url": "https://www.tottenhamhotspur.com/spursplay/video/986118"
         },
         {
-          "title": "Archie Gray and Lucas Bergvall go on an adventure and the unusual thing Tottenham found in Sydney",
-          "source": "Football London",
-          "url": "https://www.football.london/tottenham-hotspur-fc/news/archie-gray-lucas-bergvall-go-34362840"
+          "title": "VIDEO: Mathys Tel scores incredible 25-yard free-kick for Tottenham in pre-season win over Sydney FC",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/en-ca/lists/video-mathys-tel-scores-25-yards-free-kick-tottenham-pre-season-sydney-fc/bltc9d5f64664c72825"
         }
       ]
     },
     {
-      "id": "킥보드",
-      "rank": 9,
-      "keyword": "킥보드",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '킥보드 타고 행인에 침 뱉고 욕설한 중학생들…한 명은 ‘촉법소년’' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "킥보드 타고 행인에 침 뱉고 욕설한 중학생들…한 명은 ‘촉법소년’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729103740376"
-        },
-        {
-          "title": "전동킥보드 타고 행인에 침 뱉고 욕설…중학생 2명 경찰 조사",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260729045400061"
-        },
-        {
-          "title": "임산부·노인에게 침 뱉고 낄낄…킥보드 난동 중학생들 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/07/29/2026072910262246341"
-        }
-      ]
-    },
-    {
-      "id": "돈선태",
+      "id": "키움",
       "rank": 10,
-      "keyword": "돈선태",
+      "keyword": "키움",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '또 '무섭노' 내걸었다 아차차...리센느+'돈선태' 썸네일 긴급 수정' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '양 팀 합계 40안타·29득점…키움, 난타전 끝에 LG에 승리' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "또 '무섭노' 내걸었다 아차차...리센느+'돈선태' 썸네일 긴급 수정",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/07/29/GM4WEMJZGMZGKODDMU3TEN3EGU/"
+          "title": "양 팀 합계 40안타·29득점…키움, 난타전 끝에 LG에 승리",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260729186100007"
         },
         {
-          "title": "KBS ‘돈선태’, 섬네일에 리센느 ‘무섭노?’… 누리꾼들 갑론을박 [왓IS]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729174450530"
+          "title": "[사진]서건창, '안치홍 인정 2루타에 홈에서 다시 3루로' - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/07/29/MRSTMNDCGEYDQZRVMNSGCM3BHA/"
         },
         {
-          "title": "[화요초대석-김영수] `노`라고 말하기 무서운 한국 사회",
-          "source": "매일신문",
-          "url": "https://www.imaeil.com/page/view/2026071908403553081"
+          "title": "[사진]최현우 '역투'",
+          "source": "OSEN",
+          "url": ""
         }
       ]
     }
