@@ -1,286 +1,270 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-29T06:39:44.458Z",
+  "updatedAt": "2026-07-29T09:44:11.137Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "애플",
+      "id": "방탄소년단",
       "rank": 1,
-      "keyword": "애플",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "keyword": "방탄소년단",
+      "volumeLabel": "5000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '애플 \"한국은 세계서 가장 역동적 개발자 커뮤니티\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'BTS “내년 그래미 출품 안 한다” 선언…사실상 ‘보이콧’ 왜?' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "애플 \"한국은 세계서 가장 역동적 개발자 커뮤니티\"",
+          "title": "BTS “내년 그래미 출품 안 한다” 선언…사실상 ‘보이콧’ 왜?",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607291621001"
+        },
+        {
+          "title": "\"아리랑>그래미\" 타블로, 방탄소년단 美 그래미 보이콧 응원",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260729133050182"
+          "url": "https://v.daum.net/v/20260729182108941"
         },
         {
-          "title": "애플, 국내 개발사 글로벌 진출 지원…AI 개발도구 개방 확대",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260729000251"
-        },
-        {
-          "title": "애플 \"한국, 역동적인 개발자 커뮤티니 보유\"…국내 생태계 지원 강화",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026072910090961798"
+          "title": "BTS 7인 SNS에 일제히 올렸다…“그래미 안 나가” 왜? [이런뉴스]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8623326"
         }
       ]
     },
     {
-      "id": "태국",
+      "id": "서동주",
       "rank": 2,
-      "keyword": "태국",
+      "keyword": "서동주",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"한국 안 갈래\" 돌아선 동남아 '큰 손님'...태국인들 '한국 거부', 왜 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“난 글렀어”…SK하닉 251만원에 산 서동주, 주식 언급하자 남편이 한 말' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"한국 안 갈래\" 돌아선 동남아 '큰 손님'...태국인들 '한국 거부', 왜 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/policy/2026/07/29/2026072820061431139"
+          "title": "“난 글렀어”…SK하닉 251만원에 산 서동주, 주식 언급하자 남편이 한 말",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729073902105"
         },
         {
-          "title": "[NNA] 태국 1~6월 외국인 관광객 수, 3% 감소한 1,587만 명",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20260723152944307"
+          "title": "서동주, 하닉 251층 물렸는데…\"남편 '주식 안 해' 손절\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260729_0003727228"
         },
         {
-          "title": "'한국 대신 일본 갈래'…동남아에서 유일하게 안 오는 태국, 왜?",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260728n25965"
+          "title": "SK하이닉스 폭락에 38% 손실…서동주 “전쟁 같은 국장” - 스타투데이",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12109526"
         }
       ]
     },
     {
-      "id": "명예훼손",
+      "id": "강민호",
       "rank": 3,
-      "keyword": "명예훼손",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "keyword": "강민호",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '아들 친구 엄마와 바람난 남편…\"상간녀, 망신 줘 동네 떠나게 하고 싶다\"' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"선수들이 보스 가만 안 둬, 특히 강민호\"…그래서 강민호에게 물었다, 왜 그랬어요?' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "아들 친구 엄마와 바람난 남편…\"상간녀, 망신 줘 동네 떠나게 하고 싶다\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6242182"
-        },
-        {
-          "title": "\"당장 머리채 잡고 싶은데\" 아들 친구 엄마와 바람 난 남편…아내는 폭발 직전 '피울음'",
+          "title": "\"선수들이 보스 가만 안 둬, 특히 강민호\"…그래서 강민호에게 물었다, 왜 그랬어요?",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260729121127121"
+          "url": "https://v.daum.net/v/20260729102337574"
         },
         {
-          "title": "\"남편 불륜 상대가 아들 친구 엄마…머리채 잡고 싶지만 아들 상처받을까 참고 있다\" [이런 法]",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202607291002016143"
+          "title": "KBO리그 데뷔전을 치르는 삼성의 오스틴 보스",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260726079400013"
+        },
+        {
+          "title": "\"편안하게 봤다\" 박진만 감독도 합격점, 보스 향한 기대 \"벤치가 믿을 수 있는 투수\" [오!쎈 대구] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/baseball/2026/07/28/MRQTAZTFMJRTQNBQMU2TSNRZMI/"
         }
       ]
     },
     {
-      "id": "고우석",
+      "id": "에이밍",
       "rank": 4,
-      "keyword": "고우석",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "keyword": "에이밍",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“고우석 영구 추방, 한국 대표 선수들도 다 확인해야” 日 여론 억지 주장, 노력 수포로 돌아갔다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'KT, 2군 ‘펜리르’ 박강준 콜업·기용 예고' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“고우석 영구 추방, 한국 대표 선수들도 다 확인해야” 日 여론 억지 주장, 노력 수포로 돌아갔다",
+          "title": "KT, 2군 ‘펜리르’ 박강준 콜업·기용 예고",
           "source": "Daum",
-          "url": "https://v.daum.net/v/uR1XLEcnT3"
+          "url": "https://v.daum.net/v/7bMrO5XSvo"
         },
         {
-          "title": "'고우석 충격 징계' 현역 투수들은 어떻게 볼까 \"말도 안된다. 진짜 억울할 것\"[SC핫이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/07/29/MVRTGYZSMVQWKNBXMQZDMM3CMM/"
+          "title": "KT, 3라운드 첫 경기서 에이밍 대신 펜리르 선발 기용…\"내부 갈등 있었다\" [쿠키 현장]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260729n32649?mid=n1101"
         },
         {
-          "title": "고우석, 마이너리그서 '글러브 이물질' 적발...10경기 출전정지",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202607270906509392"
+          "title": "KT 롤스터, ‘에이밍’ 대신 ‘펜리르’ 박강준 콜업 “내부 갈등 있었다”",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16149088"
         }
       ]
     },
     {
-      "id": "인천지하철",
+      "id": "mlb",
       "rank": 5,
-      "keyword": "인천지하철",
+      "keyword": "mlb",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Will Brewers be aggressive? What's Mets' strategy? Your Trade Deadline …' (MLB.com) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Will Brewers be aggressive? What's Mets' strategy? Your Trade Deadline questions answered",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/trade-deadline-2026-questions-answered"
+        },
+        {
+          "title": "Top 50 Deadline Trade Candidates",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/07/top-50-deadline-trade-candidates.html"
+        },
+        {
+          "title": "4 Fantasy Baseball Trade Targets to Buy or Sell (2026)",
+          "source": "FantasyPros",
+          "url": "https://www.fantasypros.com/2026/07/4-fantasy-baseball-trade-targets-to-buy-or-sell-2026/"
+        }
+      ]
+    },
+    {
+      "id": "레미콘",
+      "rank": 6,
+      "keyword": "레미콘",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“에스컬레이터만으론 부족하다”… 인천교통공사, 열차 손잡이 교차감염 대책도 서둘러야' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '호반건설, 인공지능 기반한 '레미콘 물량 자동 산출' 기술 개발' (비즈니스포스트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“에스컬레이터만으론 부족하다”… 인천교통공사, 열차 손잡이 교차감염 대책도 서둘러야",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260727180814035"
+          "title": "호반건설, 인공지능 기반한 '레미콘 물량 자동 산출' 기술 개발",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=443346"
         },
         {
-          "title": "인천도시철도 손잡이 살균장치 6대 추가…4개 역 14대 운영",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260727000224"
+          "title": "호반건설, AI로 레미콘 물량 산출…내달부터 전 현장 확대",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20072984"
         },
         {
-          "title": "실증에서 상용화까지…인천 스타트업 혁신기술 공공시장 안착",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1671020/%EC%8B%A4%EC%A6%9D-%EC%83%81%EC%9A%A9%ED%99%94%EA%B9%8C%EC%A7%80%EC%9D%B8%EC%B2%9C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%ED%98%81%EC%8B%A0%EA%B8%B0%EC%88%A0-2026"
-        }
-      ]
-    },
-    {
-      "id": "르노-콜레오스",
-      "rank": 6,
-      "keyword": "르노 콜레오스",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '르노 그랑 콜레오스, 경찰 순찰차 된다…르노코리아 “공공 공급 확대”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "르노 그랑 콜레오스, 경찰 순찰차 된다…르노코리아 “공공 공급 확대”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607290947001"
-        },
-        {
-          "title": "르노코리아, 경찰청 다목적 순찰차 시장 첫 진입",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729080351679"
-        },
-        {
-          "title": "\"저 경찰차, 그랑 콜레오스네?\"…르노코리아, 사업자 선정 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/07/29/2026072909284844749"
-        }
-      ]
-    },
-    {
-      "id": "양정원",
-      "rank": 7,
-      "keyword": "양정원",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '검찰, '양정원 사건 무마 의혹' 강남경찰서 추가 유착 수사' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "검찰, '양정원 사건 무마 의혹' 강남경찰서 추가 유착 수사",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728183757491"
-        },
-        {
-          "title": "‘양정원 사건 수사 무마 의혹’ 강남서, 연루 의혹 경찰관 더 있었다",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000000189"
-        },
-        {
-          "title": "검찰, '양정원 수사 무마 의혹' 강남경찰서 추가 유착 수사",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/court-prosecution/6241928"
-        }
-      ]
-    },
-    {
-      "id": "김나라",
-      "rank": 8,
-      "keyword": "김나라",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘킬잇’ 우승자 권나라, ♥8년 교제 동성 연인과 결혼 발표…차정원도 축하' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘킬잇’ 우승자 권나라, ♥8년 교제 동성 연인과 결혼 발표…차정원도 축하",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202607291415003"
-        },
-        {
-          "title": "최미나수, ‘킬잇’ 최종 4위로 여정 마무리…“너무 후련하다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729145040669"
-        },
-        {
-          "title": "김나라, '킬잇' 우승 후 깜짝 커밍아웃에 프러포즈",
+          "title": "호반건설, AI로 레미콘 수량 산출…'호반써밋' 현장 적용",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260729_0003727282"
+          "url": "https://www.newsis.com/view/NISX20260728_0003725882"
         }
       ]
     },
     {
-      "id": "삼전주가",
-      "rank": 9,
-      "keyword": "삼전주가",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "id": "아시아-여자-배구-선수권-대회",
+      "rank": 7,
+      "keyword": "아시아 여자 배구 선수권 대회",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '단일종목 레버리지 '금융위·금감원발 人災' 지적에 금융당국 두 수장 \"책임통감\"... 전문투자자로 제한도 검토' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '여자배구, 아시아선수권 조별리그서 일본과 격돌…올림픽 출전권 경쟁' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "단일종목 레버리지 '금융위·금감원발 人災' 지적에 금융당국 두 수장 \"책임통감\"... 전문투자자로 제한도 검토",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/economy_general/2026/07/29/RHTIMCZ5VNEPTPRMRXV7BGFSXY/"
+          "title": "여자배구, 아시아선수권 조별리그서 일본과 격돌…올림픽 출전권 경쟁",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260729/134385153/1"
         },
         {
-          "title": "與 \"대책 발표 늦어\"·野 \"선거에 졸속도입\"…정무위서 ETF 질타",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729150454570"
-        },
-        {
-          "title": "“삼전닉스 레버리지, 주가 돌아와도 최대 75% 손실”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8622949"
-        }
-      ]
-    },
-    {
-      "id": "중국-반도체",
-      "rank": 10,
-      "keyword": "중국 반도체",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'CXMT, 애플에 “싸게 줄 이유 없다”…삼성·SK하이닉스보다 비싼 값 제시' (테크월드) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "CXMT, 애플에 “싸게 줄 이유 없다”…삼성·SK하이닉스보다 비싼 값 제시",
-          "source": "테크월드",
-          "url": "https://www.epnc.co.kr/news/articleView.html?idxno=404816"
-        },
-        {
-          "title": "\"중국 기술추격에 ASML 시총 증발? 서방의 맹신 흔들려\"-中 매체 - 머니투데이",
+          "title": "[오피셜] '차상현호' 여자배구, 일본·베트남 등과 격돌... 올림픽 출전권 걸린 亞선수권 한 조 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/07/29/2026072911023763973"
+          "url": "https://www.mt.co.kr/sports/2026/07/29/2026072909155249253"
         },
         {
-          "title": "'물 한 방울'로 삼전닉스 자리 넘본다…中 '극강의 기술' 정체 [강경주의 테크X]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026072800656"
+          "title": "여자배구 대표팀, 아시아선수권서 일본과 한 조…LA 올림픽 티켓 경쟁",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008679822"
+        }
+      ]
+    },
+    {
+      "id": "네오플",
+      "rank": 8,
+      "keyword": "네오플",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "nep-vs-ned",
+      "rank": 9,
+      "keyword": "nep vs ned",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'NEP vs NED Nepal vs Netherlands LIVE Streaming: Where To Watch Nepal Na…' (The Sunday Guardian) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "NEP vs NED Nepal vs Netherlands LIVE Streaming: Where To Watch Nepal National Cricket Team vs Netherlands National Cricket Team ICC Cricket World Cup League 2 Match Live in India",
+          "source": "The Sunday Guardian",
+          "url": "https://sundayguardianlive.com/sports/nep-vs-ned-nepal-vs-netherlands-live-streaming-where-to-watch-nepal-national-cricket-team-vs-netherlands-national-cricket-team-icc-cricket-world-cup-league-2-match-live-in-india-248680/"
+        },
+        {
+          "title": "How Nepal’s batting collapse has derailed its League 2 campaign",
+          "source": "The Kathmandu Post",
+          "url": "https://kathmandupost.com/cricket/2026/07/26/how-nepal-s-batting-collapse-has-derailed-its-league-2-campaign"
+        },
+        {
+          "title": "Nepal Cricket Team Slips to 18th in ODI Rankings After Poor Performance",
+          "source": "Ratopati",
+          "url": "https://english.ratopati.com/story/72050/impact-of-consecutive-losses-nepal-drops-to-18th-place-in-icc-odi-rankings"
+        }
+      ]
+    },
+    {
+      "id": "오승환",
+      "rank": 10,
+      "keyword": "오승환",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''끝판대장' 오승환, 야구 인생 2막 시작…대구에 최첨단 스포츠 과학 입힌 '오승환 퍼포먼스 랩' 오픈' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'끝판대장' 오승환, 야구 인생 2막 시작…대구에 최첨단 스포츠 과학 입힌 '오승환 퍼포먼스 랩' 오픈",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729124259006"
+        },
+        {
+          "title": "‘원정 오승환’ 김재윤의 고백 “우승 헹가래? 필요 없어요”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260728072054380?f=p"
+        },
+        {
+          "title": "`단단해진 뒷문 빗장` 삼성 라이온즈 불펜의 중심, 김재윤과 이승민",
+          "source": "매일신문",
+          "url": "https://www.imaeil.com/page/view/2026072809335558546"
         }
       ]
     }
