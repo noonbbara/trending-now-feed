@@ -1,80 +1,52 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-29T14:53:42.641Z",
+  "updatedAt": "2026-07-29T16:27:06.936Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "이투데이",
+      "id": "임금",
       "rank": 1,
-      "keyword": "이투데이",
-      "volumeLabel": "10000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '4조원이 62조원으로... 키옥시아로 대박낸 SK하이닉스' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "4조원이 62조원으로... 키옥시아로 대박낸 SK하이닉스",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/07/29/AN57OBJHN5AMNPY7JJZJ6UERUQ/"
-        },
-        {
-          "title": "SK하이닉스 ADR 나흘만에 상승…차가운 AI 투심 딛고 2% 반등",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427625"
-        },
-        {
-          "title": "하닉, 영업이익률 76%…폭락장에 빛바랜 ‘신기록’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607292125015"
-        }
-      ]
-    },
-    {
-      "id": "잠수함",
-      "rank": 2,
-      "keyword": "잠수함",
-      "volumeLabel": "5000+",
+      "keyword": "임금",
+      "volumeLabel": "1000+",
       "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '국방부, 핵잠 도입·운영 특별법 입법예고…\"연내 제정 목표\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "change": "up",
+      "changeLabel": "+4",
+      "summary": "급상승 시점에 '\"월 200 남는데…\" 최저임금 이어 새벽배송까지 '사면초가' 소상공인' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "국방부, 핵잠 도입·운영 특별법 입법예고…\"연내 제정 목표\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260729121900504"
-        },
-        {
-          "title": "국방부, 핵잠 도입·운영 특별법 입법예고",
+          "title": "\"월 200 남는데…\" 최저임금 이어 새벽배송까지 '사면초가' 소상공인",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260729203210185"
+          "url": "https://v.daum.net/v/20260728154940429?f=p"
         },
         {
-          "title": "핵잠특별법에 “핵무기 목적 아니다” 명시…‘비확산’ 첫 법제화",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607282135015"
+          "title": "알바보다 못 버는 사장...정부가 지원 나서야",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02056566645519440"
+        },
+        {
+          "title": "870만 명 운명 결정하는 자료가 '비밀'... 근거도 황당",
+          "source": "OhmyNews",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003254823"
         }
       ]
     },
     {
       "id": "선거법",
-      "rank": 3,
+      "rank": 2,
       "keyword": "선거법",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] '尹 유죄' 논리 그대로‥\"집사람은 손해 봤다\" 발언 송치' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "4시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '‘김건희 주가 조작 부인’ 윤석열 송치' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[단독] '尹 유죄' 논리 그대로‥\"집사람은 손해 봤다\" 발언 송치",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6841036_37004.html"
+          "title": "‘김건희 주가 조작 부인’ 윤석열 송치",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729122540552"
         },
         {
           "title": "윤석열 실형 판결에 “이재명 파기환송” 강조한 조선일보",
@@ -82,76 +54,48 @@
           "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336060"
         },
         {
-          "title": "‘김건희 주가 조작 부인’ 윤석열 송치",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729122540552"
+          "title": "[단독] 경찰, \"집사람 손해 봤다\" 尹 발언 송치 결정‥\"선거법 위반\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6840861_36918.html"
         }
       ]
     },
     {
-      "id": "수의사",
-      "rank": 4,
-      "keyword": "수의사",
-      "volumeLabel": "2000+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 ''길고양이 다 없애자' 주장에…수의사들 데이터로 맞섰다' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'길고양이 다 없애자' 주장에…수의사들 데이터로 맞섰다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729122553559"
-        },
-        {
-          "title": "'길고양이 살처분' 주장에 나응식 직격…\"혐오가 해법 아니다\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6238402"
-        },
-        {
-          "title": "시청자 게시판",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/news/freeEndPage.do?no=121652&cooper=RSS"
-        }
-      ]
-    },
-    {
-      "id": "임금",
-      "rank": 5,
-      "keyword": "임금",
+      "id": "글렌-한사드",
+      "rank": 3,
+      "keyword": "글렌 한사드",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '카카오 노사, 임금 협상 잠정 합의...\"최종 타결시 내용 공개\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '영화 ‘원스’ 주인공 글렌 핸사드, 오토바이 사고로 사망···향년 56세' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "카카오 노사, 임금 협상 잠정 합의...\"최종 타결시 내용 공개\"",
+          "title": "영화 ‘원스’ 주인공 글렌 핸사드, 오토바이 사고로 사망···향년 56세",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607292136001"
+        },
+        {
+          "title": "'원스' 남주인공, 오토바이 사고로 별세 충격…향년 56세",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260729194410006"
+          "url": "https://v.daum.net/v/20260729231447354"
         },
         {
-          "title": "카카오 노사, 임금교섭 잠정 합의…조합원 투표 거쳐 최종 확정",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260729000443"
-        },
-        {
-          "title": "‘인터넷은행 첫 파업’ 눈앞…카카오뱅크 노사합의가 표준될까",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04942966645519112"
+          "title": "불협화음 거리서 길어 올린 영원의 화음…'원스' 글렌 핸사드, 낭만의 철학 '폴링 슬로울리'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260729_0003728908"
         }
       ]
     },
     {
       "id": "원자력",
-      "rank": 6,
+      "rank": 4,
       "keyword": "원자력",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "4시간 전",
+      "change": "up",
+      "changeLabel": "+2",
       "summary": "급상승 시점에 '한수원-영덕군, 신규원전 상생협약…지역발전 첫걸음' (전기신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -174,40 +118,40 @@
     },
     {
       "id": "전북특별자치도지사",
-      "rank": 7,
+      "rank": 5,
       "keyword": "전북특별자치도지사",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이원택 전북지사 ‘김관영 내란 방조 의혹 제기’ 혐의 경찰 조사···피고발인 신분 출석' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+2",
+      "summary": "급상승 시점에 '이원택 전북지사 '김관영 내란 방조 의혹 제기' 혐의 경찰 조사' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이원택 전북지사 ‘김관영 내란 방조 의혹 제기’ 혐의 경찰 조사···피고발인 신분 출석",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607291900001"
+          "title": "이원택 전북지사 '김관영 내란 방조 의혹 제기' 혐의 경찰 조사",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260729173000055"
         },
         {
-          "title": "전북경찰청 소환조사 위해 장내 들어서는 이원택 전북특별자치도지사",
+          "title": "이원택 전북지사 경찰 출석…허위사실 유포 혐의",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260730004212587"
+        },
+        {
+          "title": "'김관영 내란 동조 의혹 제기' 이원택 전북도지사, 경찰 출석",
           "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20260729_0002199459"
-        },
-        {
-          "title": "이원택 전북지사 경찰 출석…‘내란 방조 허위사실공표’ 피의자 신분",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8623360"
+          "url": "https://www.newsis.com/view/NISX20260729_0003728803"
         }
       ]
     },
     {
       "id": "최정원",
-      "rank": 8,
+      "rank": 6,
       "keyword": "최정원",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+2",
       "summary": "급상승 시점에 '[단독]검찰, 그룹 UN 출신 최정원 ‘연인 특수협박’ 기소유예…스토킹은 무혐의' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -222,65 +166,121 @@
           "url": "https://www.newsis.com/view/NISX20260729_0003728199"
         },
         {
-          "title": "최정원 “5년 캄캄한 늪 끝났다”…상간남 소송 승소·전 연인 사건 종결",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729162810982?f=p"
+          "title": "최정원, '흉기 협박' 기소유예 처분…동영상 유포 협박은 무혐의",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1672029/%EC%B5%9C%EC%A0%95%EC%9B%90-%ED%9D%89%EA%B8%B0-%ED%98%91%EB%B0%95-%EA%B8%B0%EC%86%8C%EC%9C%A0%EC%98%88-%EC%B2%98%EB%B6%84%EB%8F%99%EC%98%81%EC%83%81-2026"
         }
       ]
     },
     {
-      "id": "spurs-vs-sydney-fc",
-      "rank": 9,
-      "keyword": "spurs vs sydney fc",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'Tottenham Hotspur 1-1 Sydney: Spurs win pre-season match on penalties' (BBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Tottenham Hotspur 1-1 Sydney: Spurs win pre-season match on penalties",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c86np7j9x5jt"
-        },
-        {
-          "title": "Auckland matchday and travel to Australia | Behind the scenes with Spurs in Sydney",
-          "source": "Tottenham Hotspur",
-          "url": "https://www.tottenhamhotspur.com/spursplay/video/986118"
-        },
-        {
-          "title": "VIDEO: Mathys Tel scores incredible 25-yard free-kick for Tottenham in pre-season win over Sydney FC",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en-ca/lists/video-mathys-tel-scores-25-yards-free-kick-tottenham-pre-season-sydney-fc/bltc9d5f64664c72825"
-        }
-      ]
-    },
-    {
-      "id": "키움",
-      "rank": 10,
-      "keyword": "키움",
-      "volumeLabel": "200+",
+      "id": "차영현",
+      "rank": 7,
+      "keyword": "차영현",
+      "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '양 팀 합계 40안타·29득점…키움, 난타전 끝에 LG에 승리' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '치어리더 차영현 '날씨만큼 핫한 패션'[엑's HD포토]' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "양 팀 합계 40안타·29득점…키움, 난타전 끝에 LG에 승리",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260729186100007"
+          "title": "치어리더 차영현 '날씨만큼 핫한 패션'[엑's HD포토]",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260729n34106"
         },
         {
-          "title": "[사진]서건창, '안치홍 인정 2루타에 홈에서 다시 3루로' - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/07/29/MRSTMNDCGEYDQZRVMNSGCM3BHA/"
+          "title": "[ST포토] 김태희 치어리더, '물놀이 준비완료'",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260729n36859"
         },
         {
-          "title": "[사진]최현우 '역투'",
-          "source": "OSEN",
-          "url": ""
+          "title": "서건창 '3타수 3안타'[포토]",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260729n34716"
+        }
+      ]
+    },
+    {
+      "id": "노웨이홈",
+      "rank": 8,
+      "keyword": "노웨이홈",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Spider-Man: Brand New Day First Reviews: The Most Grounded, Mature Spid…' (Rotten Tomatoes) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Spider-Man: Brand New Day First Reviews: The Most Grounded, Mature Spider-Man Story Yet",
+          "source": "Rotten Tomatoes",
+          "url": "https://editorial.rottentomatoes.com/article/spider-man-brand-new-day-first-reviews/"
+        },
+        {
+          "title": "‘Spider-Man: Brand New Day’ review: A thrilling evolution in the MCU",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/spider-man-brand-day-review-151838876.html"
+        },
+        {
+          "title": "‘Spider-Man: Brand New Day’ remembers what makes Spidey special",
+          "source": "The Washington Post",
+          "url": "https://www.washingtonpost.com/entertainment/movies/2026/07/28/spider-man-brand-new-day-remembers-what-makes-spidey-special/"
+        }
+      ]
+    },
+    {
+      "id": "sadie-sink",
+      "rank": 9,
+      "keyword": "sadie sink",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Marvel’s Kevin Feige says Sadie Sink’s name ‘solidified the idea’ of he…' (Entertainment Weekly) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Marvel’s Kevin Feige says Sadie Sink’s name ‘solidified the idea’ of her Spider-Man character",
+          "source": "Entertainment Weekly",
+          "url": "https://ew.com/saide-sink-spider-man-soldified-the-idea-of-her-character-12027953"
+        },
+        {
+          "title": "'Spider-Man: Brand New Day' Fan Theories That Have Us Scratching Our Heads",
+          "source": "Elle India",
+          "url": "https://elle.in/life-culture/spider-man-brand-new-day-fan-theories-12208929"
+        },
+        {
+          "title": "Sadie Sink Hints at MCU Future After Spider-Man: Brand New Day",
+          "source": "Epicstream",
+          "url": "https://epicstream.com/article/sadie-sink-hints-at-mcu-future-after-spider-man-brand-new-day"
+        }
+      ]
+    },
+    {
+      "id": "donald-trump",
+      "rank": 10,
+      "keyword": "donald trump",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Trump Media fast feed for president’s posts sparks Wall Street backlash' (Financial Times) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Trump Media fast feed for president’s posts sparks Wall Street backlash",
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/019ce313-00c5-4d7d-a26c-acd7250de84a?syn-25a6b1a6=1"
+        },
+        {
+          "title": "DJT Stock Surges on Plan to Sell Early Access to Trump’s Truth Social Posts - Growth Acceleration Report",
+          "source": "po-news-eg.net",
+          "url": "https://po-news-eg.net/first-dry/DJT-Stock-Surges-on-Plan-to-Sell-Early-Access-to-Trumps-Truth-Social-Posts-44-10879"
+        },
+        {
+          "title": "Democrats urge SEC to investigate Trump’s ‘outrageous’ Truth Social fast feed plan",
+          "source": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-media-truth-social-fast-feed-sec-elizabeth-warren-adam-schiff-b3023862.html"
         }
       ]
     }
