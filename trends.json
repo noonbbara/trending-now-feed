@@ -1,15 +1,43 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-29T09:44:11.137Z",
+  "updatedAt": "2026-07-29T12:08:17.129Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "방탄소년단",
+      "id": "어머니",
       "rank": 1,
-      "keyword": "방탄소년단",
+      "keyword": "어머니",
+      "volumeLabel": "20000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''47세 임신' 한다감, 子 미래 얼굴 공개 \"복숭아같이 예뻐\" [슈돌]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'47세 임신' 한다감, 子 미래 얼굴 공개 \"복숭아같이 예뻐\" [슈돌]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729204411492"
+        },
+        {
+          "title": "'슈돌' 한다감 \"아들 육아 궁금해\"…황보라·정이랑 출격",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6243246"
+        },
+        {
+          "title": "'연예계 최고령 산모' 한다감…첫 아이 임신한 비결은? - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/07/29/2026072914545261923"
+        }
+      ]
+    },
+    {
+      "id": "보이콧",
+      "rank": 2,
+      "keyword": "보이콧",
       "volumeLabel": "5000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 'BTS “내년 그래미 출품 안 한다” 선언…사실상 ‘보이콧’ 왜?' (경향신문) 관련 뉴스가 함께 포착됐어요.",
@@ -21,250 +49,238 @@
           "url": "https://www.khan.co.kr/article/202607291621001"
         },
         {
-          "title": "\"아리랑>그래미\" 타블로, 방탄소년단 美 그래미 보이콧 응원",
+          "title": "BTS, 그래미 보이콧…\"음악 출품하지 않기로\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260729182108941"
+          "url": "https://v.daum.net/v/20260729201132607"
         },
         {
-          "title": "BTS 7인 SNS에 일제히 올렸다…“그래미 안 나가” 왜? [이런뉴스]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8623326"
-        }
-      ]
-    },
-    {
-      "id": "서동주",
-      "rank": 2,
-      "keyword": "서동주",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“난 글렀어”…SK하닉 251만원에 산 서동주, 주식 언급하자 남편이 한 말' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“난 글렀어”…SK하닉 251만원에 산 서동주, 주식 언급하자 남편이 한 말",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729073902105"
-        },
-        {
-          "title": "서동주, 하닉 251층 물렸는데…\"남편 '주식 안 해' 손절\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260729_0003727228"
-        },
-        {
-          "title": "SK하이닉스 폭락에 38% 손실…서동주 “전쟁 같은 국장” - 스타투데이",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12109526"
-        }
-      ]
-    },
-    {
-      "id": "강민호",
-      "rank": 3,
-      "keyword": "강민호",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"선수들이 보스 가만 안 둬, 특히 강민호\"…그래서 강민호에게 물었다, 왜 그랬어요?' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"선수들이 보스 가만 안 둬, 특히 강민호\"…그래서 강민호에게 물었다, 왜 그랬어요?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729102337574"
-        },
-        {
-          "title": "KBO리그 데뷔전을 치르는 삼성의 오스틴 보스",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260726079400013"
-        },
-        {
-          "title": "\"편안하게 봤다\" 박진만 감독도 합격점, 보스 향한 기대 \"벤치가 믿을 수 있는 투수\" [오!쎈 대구] - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/baseball/2026/07/28/MRQTAZTFMJRTQNBQMU2TSNRZMI/"
-        }
-      ]
-    },
-    {
-      "id": "에이밍",
-      "rank": 4,
-      "keyword": "에이밍",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'KT, 2군 ‘펜리르’ 박강준 콜업·기용 예고' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "KT, 2군 ‘펜리르’ 박강준 콜업·기용 예고",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/7bMrO5XSvo"
-        },
-        {
-          "title": "KT, 3라운드 첫 경기서 에이밍 대신 펜리르 선발 기용…\"내부 갈등 있었다\" [쿠키 현장]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260729n32649?mid=n1101"
-        },
-        {
-          "title": "KT 롤스터, ‘에이밍’ 대신 ‘펜리르’ 박강준 콜업 “내부 갈등 있었다”",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16149088"
-        }
-      ]
-    },
-    {
-      "id": "mlb",
-      "rank": 5,
-      "keyword": "mlb",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Will Brewers be aggressive? What's Mets' strategy? Your Trade Deadline …' (MLB.com) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Will Brewers be aggressive? What's Mets' strategy? Your Trade Deadline questions answered",
-          "source": "MLB.com",
-          "url": "https://www.mlb.com/news/trade-deadline-2026-questions-answered"
-        },
-        {
-          "title": "Top 50 Deadline Trade Candidates",
-          "source": "MLB Trade Rumors",
-          "url": "https://www.mlbtraderumors.com/2026/07/top-50-deadline-trade-candidates.html"
-        },
-        {
-          "title": "4 Fantasy Baseball Trade Targets to Buy or Sell (2026)",
-          "source": "FantasyPros",
-          "url": "https://www.fantasypros.com/2026/07/4-fantasy-baseball-trade-targets-to-buy-or-sell-2026/"
-        }
-      ]
-    },
-    {
-      "id": "레미콘",
-      "rank": 6,
-      "keyword": "레미콘",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '호반건설, 인공지능 기반한 '레미콘 물량 자동 산출' 기술 개발' (비즈니스포스트) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "호반건설, 인공지능 기반한 '레미콘 물량 자동 산출' 기술 개발",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=443346"
-        },
-        {
-          "title": "호반건설, AI로 레미콘 물량 산출…내달부터 전 현장 확대",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20072984"
-        },
-        {
-          "title": "호반건설, AI로 레미콘 수량 산출…'호반써밋' 현장 적용",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260728_0003725882"
-        }
-      ]
-    },
-    {
-      "id": "아시아-여자-배구-선수권-대회",
-      "rank": 7,
-      "keyword": "아시아 여자 배구 선수권 대회",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '여자배구, 아시아선수권 조별리그서 일본과 격돌…올림픽 출전권 경쟁' (동아일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "여자배구, 아시아선수권 조별리그서 일본과 격돌…올림픽 출전권 경쟁",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20260729/134385153/1"
-        },
-        {
-          "title": "[오피셜] '차상현호' 여자배구, 일본·베트남 등과 격돌... 올림픽 출전권 걸린 亞선수권 한 조 - 머니투데이",
+          "title": "'아시안 팝' 논란에 보이콧?…방탄소년단 \"그래미 출품 안 해\" - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/07/29/2026072909155249253"
-        },
-        {
-          "title": "여자배구 대표팀, 아시아선수권서 일본과 한 조…LA 올림픽 티켓 경쟁",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008679822"
+          "url": "https://www.mt.co.kr/society/2026/07/29/2026072915131916088"
         }
       ]
     },
     {
-      "id": "네오플",
-      "rank": 8,
-      "keyword": "네오플",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "id": "김천상무-대-수원fc",
+      "rank": 3,
+      "keyword": "김천상무 대 수원fc",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "nep-vs-ned",
-      "rank": 9,
-      "keyword": "nep vs ned",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'NEP vs NED Nepal vs Netherlands LIVE Streaming: Where To Watch Nepal Na…' (The Sunday Guardian) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '18경기 무승 늪 … 광주FC, 코리아컵서 ‘반등의 슛’ 쏜다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "NEP vs NED Nepal vs Netherlands LIVE Streaming: Where To Watch Nepal National Cricket Team vs Netherlands National Cricket Team ICC Cricket World Cup League 2 Match Live in India",
-          "source": "The Sunday Guardian",
-          "url": "https://sundayguardianlive.com/sports/nep-vs-ned-nepal-vs-netherlands-live-streaming-where-to-watch-nepal-national-cricket-team-vs-netherlands-national-cricket-team-icc-cricket-world-cup-league-2-match-live-in-india-248680/"
+          "title": "18경기 무승 늪 … 광주FC, 코리아컵서 ‘반등의 슛’ 쏜다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260728220435038"
         },
         {
-          "title": "How Nepal’s batting collapse has derailed its League 2 campaign",
-          "source": "The Kathmandu Post",
-          "url": "https://kathmandupost.com/cricket/2026/07/26/how-nepal-s-batting-collapse-has-derailed-its-league-2-campaign"
+          "title": "\"나에게 어필할 기회 됐으면\" 김기동→김현석 감독, 빡빡한 일정 속 K리그1 8개 팀 코리아컵 출격",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/07/29/MIYDOYTEMQ2GIYTBGNQTKNTDGA/"
         },
         {
-          "title": "Nepal Cricket Team Slips to 18th in ODI Rankings After Poor Performance",
-          "source": "Ratopati",
-          "url": "https://english.ratopati.com/story/72050/impact-of-consecutive-losses-nepal-drops-to-18th-place-in-icc-odi-rankings"
+          "title": "[토토 투데이] 부산-서울 빅매치 포함…스포츠토토, 코리아컵 3라운드 프로토 89회차 출시 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/07/29/202607291249778648O"
         }
       ]
     },
     {
-      "id": "오승환",
-      "rank": 10,
-      "keyword": "오승환",
+      "id": "윤경호",
+      "rank": 4,
+      "keyword": "윤경호",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '윤경호 \"지금 인기 로또 같아…국수 가락처럼 길게 연기할래요\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "윤경호 \"지금 인기 로또 같아…국수 가락처럼 길게 연기할래요\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260727101600005"
+        },
+        {
+          "title": "[Y터뷰] '김부장' 윤경호, 끝내 눈시울 붉혔다...\"딸 보며 버틴 시간들\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202607280800019604"
+        },
+        {
+          "title": "[인터뷰] 윤경호 “무명 시절 알바만 30개…아빠 되며 새 세상 열려”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260728170229786?f=p"
+        }
+      ]
+    },
+    {
+      "id": "국립목포대학교",
+      "rank": 5,
+      "keyword": "국립목포대학교",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '목포대 \"본부 양보할 테니 의대 달라\"…순천대 수용 거부(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "목포대 \"본부 양보할 테니 의대 달라\"…순천대 수용 거부(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729202755064"
+        },
+        {
+          "title": "목포시, 전남광주시 '서부권 메디컬타운' 제안 환영",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260729119900054"
+        },
+        {
+          "title": "동부권 ‘부글’…“통합시는 결정권자 아닌 조정자”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8622927"
+        }
+      ]
+    },
+    {
+      "id": "수의사",
+      "rank": 6,
+      "keyword": "수의사",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''길고양이 다 없애자' 주장에…수의사들 데이터로 맞섰다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'길고양이 다 없애자' 주장에…수의사들 데이터로 맞섰다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729122553559"
+        },
+        {
+          "title": "'길고양이 살처분' 주장에 나응식 직격…\"혐오가 해법 아니다\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6238402"
+        },
+        {
+          "title": "시청자 게시판",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/news/freeEndPage.do?no=121652&cooper=RSS"
+        }
+      ]
+    },
+    {
+      "id": "파키스탄",
+      "rank": 7,
+      "keyword": "파키스탄",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Pakistan accused of fatally shooting 30 unarmed protesters in Kashmir' (The Guardian) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Pakistan accused of fatally shooting 30 unarmed protesters in Kashmir",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jul/28/pakistan-accused-firing-unarmed-protesters-kashmir-killings"
+        },
+        {
+          "title": "Pakistan Defence Minister says PoK protesters ‘enemies' like India, rules out dialogue",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/pakistan-defence-minister-says-pok-protesters-enemies-like-india-rules-out-dialogue/article71281359.ece"
+        },
+        {
+          "title": "Clashes Erupt in Pakistani Kashmir as Voting in Local Election Begins",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/28/world/asia/pakistan-kashmir-election-violence.html"
+        }
+      ]
+    },
+    {
+      "id": "spurs-vs-sydney-fc",
+      "rank": 8,
+      "keyword": "spurs vs sydney fc",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''끝판대장' 오승환, 야구 인생 2막 시작…대구에 최첨단 스포츠 과학 입힌 '오승환 퍼포먼스 랩' 오픈' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Tottenham Hotspur 1-1 Sydney: Spurs win pre-season match on penalties' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'끝판대장' 오승환, 야구 인생 2막 시작…대구에 최첨단 스포츠 과학 입힌 '오승환 퍼포먼스 랩' 오픈",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729124259006"
+          "title": "Tottenham Hotspur 1-1 Sydney: Spurs win pre-season match on penalties",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c86np7j9x5jt"
         },
         {
-          "title": "‘원정 오승환’ 김재윤의 고백 “우승 헹가래? 필요 없어요”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728072054380?f=p"
+          "title": "Auckland matchday and travel to Australia | Behind the scenes with Spurs in Sydney",
+          "source": "Tottenham Hotspur",
+          "url": "https://www.tottenhamhotspur.com/spursplay/video/986118"
         },
         {
-          "title": "`단단해진 뒷문 빗장` 삼성 라이온즈 불펜의 중심, 김재윤과 이승민",
+          "title": "Archie Gray and Lucas Bergvall go on an adventure and the unusual thing Tottenham found in Sydney",
+          "source": "Football London",
+          "url": "https://www.football.london/tottenham-hotspur-fc/news/archie-gray-lucas-bergvall-go-34362840"
+        }
+      ]
+    },
+    {
+      "id": "킥보드",
+      "rank": 9,
+      "keyword": "킥보드",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '킥보드 타고 행인에 침 뱉고 욕설한 중학생들…한 명은 ‘촉법소년’' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "킥보드 타고 행인에 침 뱉고 욕설한 중학생들…한 명은 ‘촉법소년’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729103740376"
+        },
+        {
+          "title": "전동킥보드 타고 행인에 침 뱉고 욕설…중학생 2명 경찰 조사",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260729045400061"
+        },
+        {
+          "title": "임산부·노인에게 침 뱉고 낄낄…킥보드 난동 중학생들 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/07/29/2026072910262246341"
+        }
+      ]
+    },
+    {
+      "id": "돈선태",
+      "rank": 10,
+      "keyword": "돈선태",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '또 '무섭노' 내걸었다 아차차...리센느+'돈선태' 썸네일 긴급 수정' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "또 '무섭노' 내걸었다 아차차...리센느+'돈선태' 썸네일 긴급 수정",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/07/29/GM4WEMJZGMZGKODDMU3TEN3EGU/"
+        },
+        {
+          "title": "KBS ‘돈선태’, 섬네일에 리센느 ‘무섭노?’… 누리꾼들 갑론을박 [왓IS]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729174450530"
+        },
+        {
+          "title": "[화요초대석-김영수] `노`라고 말하기 무서운 한국 사회",
           "source": "매일신문",
-          "url": "https://www.imaeil.com/page/view/2026072809335558546"
+          "url": "https://www.imaeil.com/page/view/2026071908403553081"
         }
       ]
     }
