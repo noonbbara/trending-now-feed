@@ -1,286 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-29T00:03:58.826Z",
+  "updatedAt": "2026-07-29T03:52:30.568Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "강서구",
+      "id": "하이닉스-주가",
       "rank": 1,
-      "keyword": "강서구",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
+      "keyword": "하이닉스 주가",
+      "volumeLabel": "20000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '강서구, '2026 정비사업 아카데미' 운영…내달 25일 개강' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"SK하이닉스 과격한 조정이지만 목표가 420만→280만 하향\"…삼성전자, 급락에 커진 배당 매력 [株토피아]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "강서구, '2026 정비사업 아카데미' 운영…내달 25일 개강",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026072907292140904"
+          "title": "\"SK하이닉스 과격한 조정이지만 목표가 420만→280만 하향\"…삼성전자, 급락에 커진 배당 매력 [株토피아]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729104316688"
         },
         {
-          "title": "강서구, 정비사업 이해 돕는 ‘2026 정비사업 아카데미’ 운영",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11605659"
+          "title": "SK하이닉스·삼전 눈높이 '뚝'…미래證, 목표가 33%씩 낮췄다",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427392"
         },
         {
-          "title": "우리집 재개발·재건축 '쾌속추진'… 서울시, 전 자치구 현장 교육 - 머니투데이",
+          "title": "\"37만전자·280만닉스\"...중국발 반도체 쇼크에 눈높이 낮췄다-미래 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/07/27/2026072616014013000"
+          "url": "https://www.mt.co.kr/stock/2026/07/29/2026072909264719666"
         }
       ]
     },
     {
-      "id": "종합부동산세",
+      "id": "코스피지수",
       "rank": 2,
-      "keyword": "종합부동산세",
+      "keyword": "코스피지수",
+      "volumeLabel": "20000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '코스피·코스닥 급락에 매도 사이드카‥이번 주에만 두 번째' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "코스피·코스닥 급락에 매도 사이드카‥이번 주에만 두 번째",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6840874_36932.html"
+        },
+        {
+          "title": "속보 어제에 이어 코스닥 급락에 서킷브레이커",
+          "source": "YTN",
+          "url": "https://m.ytn.co.kr/news_view.php?key=202607291234134148&s_mcd=0102"
+        },
+        {
+          "title": "\"지금 팔면 후회한다\"…고수들 '역대급 반등' 전망한 이유",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026072925136"
+        }
+      ]
+    },
+    {
+      "id": "안정환",
+      "rank": 3,
+      "keyword": "안정환",
       "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] 1주택 종부세 세액공제 줄인다…천만원 이내로 한도 검토' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '박지성 저격한 인물은 안 오고 '안정환 감독설'만 남았다...청문회 산으로 가나' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[단독] 1주택 종부세 세액공제 줄인다…천만원 이내로 한도 검토",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1270378.html"
-        },
-        {
-          "title": "“50억 집 보유세 5000만원?”…강남 ‘똘똘한 한 채’ 세금 폭탄 예고",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12110138"
-        },
-        {
-          "title": "'똘똘한 한 채' 세 부담 강화 예고...강남 관망세↑",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202607282244231684"
-        }
-      ]
-    },
-    {
-      "id": "코너-맥그리거",
-      "rank": 3,
-      "keyword": "코너 맥그리거",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '69초 만에 KO패+450억 수입→1년 출전 정지 '대형 징계'…격투기 들끓게 했던 맥그리거, '깜짝 발표'→1년 재활 뒤 UF…' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "69초 만에 KO패+450억 수입→1년 출전 정지 '대형 징계'…격투기 들끓게 했던 맥그리거, '깜짝 발표'→1년 재활 뒤 UFC 떠난다+'라스트 댄스' 공식 선언",
+          "title": "박지성 저격한 인물은 안 오고 '안정환 감독설'만 남았다...청문회 산으로 가나",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260729014707186"
+          "url": "https://v.daum.net/v/20260729080138621"
         },
         {
-          "title": "‘경착륙’ 맥그리거, 내년 7월 할러웨이 3차전 재복귀 청사진",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10822205"
+          "title": "[단독] 이승우도 기성용도…프로선수 전원에 축구협회장 투표권",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202607281438582eU"
         },
         {
-          "title": "‘UFC 역대급 스타’ 맥그리거 직접 ‘라스트 댄스’ 밝혔다…“2027년 여름 IFW” 공언",
-          "source": "일간스포츠",
-          "url": "https://isplus.com/article/view/isp202607280035"
+          "title": "서강일 회장도 청문회 불참…“박지성, 이영표 위원님께 사과…개혁에 동의”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8621095"
         }
       ]
     },
     {
-      "id": "롤-패치노트",
+      "id": "네이마르",
       "rank": 4,
-      "keyword": "롤 패치노트",
+      "keyword": "네이마르",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '브라질 발칵! 네이마르, 산투스 영웅 맞나…'폭언 스캔들' 일파만파 \"어린 유망주에게 막말\" 구단 진상조사 착수' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "브라질 발칵! 네이마르, 산투스 영웅 맞나…'폭언 스캔들' 일파만파 \"어린 유망주에게 막말\" 구단 진상조사 착수",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/12itI64qCm"
+        },
+        {
+          "title": "\"월드컵 탈락하고 대표팀 은퇴 선언 후 바로 포커판\" 네이마르, '카드 돌리기 세리머니'로 자신 비판에 정면 대립",
+          "source": "OSEN",
+          "url": ""
+        },
+        {
+          "title": "\"거짓말하지 마, 더는 안 참는다\" 네이마르, 어린 팀 동료 폭언 의혹 정면 반박…\"팀 전체 피드백이었을 뿐\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260727n13925"
+        }
+      ]
+    },
+    {
+      "id": "mc몽",
+      "rank": 5,
+      "keyword": "mc몽",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '리그 오브 레전드 26.15 패치 노트' (League of Legends) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '경찰 신청 3번 만에…檢, 연예기획사 대표 차가원 구속영장 청구(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "리그 오브 레전드 26.15 패치 노트",
-          "source": "League of Legends",
-          "url": "https://www.leagueoflegends.com/ko-kr/news/game-updates/league-of-legends-patch-26-15-notes/"
-        },
-        {
-          "title": "롤 점검 시간 확인…26.15 패치노트 업데이트",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2608497"
-        },
-        {
-          "title": "롤 서버 점검... 시간·패치노트는? (+클래식 출시 시간)",
-          "source": "금강일보",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1171868"
-        }
-      ]
-    },
-    {
-      "id": "중국-축구-국가대표팀",
-      "rank": 5,
-      "keyword": "중국 축구 국가대표팀",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''FIFA 랭킹 추락→월드컵 진출 확률 2~3%' 中 눈물 펑펑 흘린다…'11년 만의 굴욕' 韓→日 격차 더 벌어졌다' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'FIFA 랭킹 추락→월드컵 진출 확률 2~3%' 中 눈물 펑펑 흘린다…'11년 만의 굴욕' 韓→日 격차 더 벌어졌다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/07/27/HFTDCNTCGM3TEYRSMM3TSMRUGU/"
-        },
-        {
-          "title": "중국 축구 국가대표팀이 2026 FIFA 아세안컵에서 기권했습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/doi-tuyen-trung-quoc-rut-khoi-giai-fifa-asean-cup-2026"
-        },
-        {
-          "title": "중국 축구 FIFA 랭킹 91위 추락, 11년 만의 최저…中 매체 \"월드컵 직행 가능성은 단 2~3%\"→탈락 확률 최대 71%",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260727121209631"
-        }
-      ]
-    },
-    {
-      "id": "배종옥",
-      "rank": 6,
-      "keyword": "배종옥",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '배종옥, 과거 싱글맘 심경 고백 “홀가분했다…재혼 생각 없어”' (매일경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "배종옥, 과거 싱글맘 심경 고백 “홀가분했다…재혼 생각 없어”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12109873"
-        },
-        {
-          "title": "배종옥, 결혼 1년 반만에 이혼…싱글맘 심경 \"홀가분, 더 편했다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728204839575"
-        },
-        {
-          "title": "배종옥 \"이혼 후 힘든 적 없어…홀가분했다\" (원더풀라이프)",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260729n03055"
-        }
-      ]
-    },
-    {
-      "id": "msft",
-      "rank": 7,
-      "keyword": "msft",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Microsoft to report Q4 earnings as investors look for return on AI inve…' (Yahoo Finance) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Microsoft to report Q4 earnings as investors look for return on AI investments",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/article/microsoft-to-report-q4-earnings-as-investors-look-for-return-on-ai-investments-120144134.html"
-        },
-        {
-          "title": "Microsoft and Amazon earnings outlook: capex story above all else",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/microsoft-and-amazon-earnings-outlook-capex-story-above-all-else-93CH-4816778"
-        },
-        {
-          "title": "Tech Giants Are Getting Caught in a Compute Conundrum",
-          "source": "Business Insider",
-          "url": "https://www.businessinsider.com/microsoft-nadella-ai-compute-meta-spacexcloud-7-2026"
-        }
-      ]
-    },
-    {
-      "id": "오마이뉴스",
-      "rank": 8,
-      "keyword": "오마이뉴스",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '가족 여행 중 발견한 봉투, 머릿속이 하얘졌다' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "가족 여행 중 발견한 봉투, 머릿속이 하얘졌다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728165250334"
-        },
-        {
-          "title": "조정식, 이 대통령 연임 개헌론 논란에 “개헌 논의 대상 아냐”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607290748001"
-        },
-        {
-          "title": "[손병관의 뉴스프레소] 조정식 '대통령 연임' 발언에 민주당 \"의장이 대형 사고\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729072737930"
-        }
-      ]
-    },
-    {
-      "id": "사업",
-      "rank": 9,
-      "keyword": "사업",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '2026년 여름방학, 더 커진 온동네 초등돌봄·교육! - 전체 | 카드/한컷 | 멀티미디어' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "2026년 여름방학, 더 커진 온동네 초등돌봄·교육! - 전체 | 카드/한컷 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148968809&pWise=sub&pWiseSub=R3"
-        },
-        {
-          "title": "“맞벌이 부모 방학 걱정 던다”…영등포구, 방학 중 돌봄·교육 프로그램 운영",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11605652"
-        },
-        {
-          "title": "이천시 24시간 아이돌봄센터 '아이다봄' 방학 맞춤 돌봄",
+          "title": "경찰 신청 3번 만에…檢, 연예기획사 대표 차가원 구속영장 청구(종합)",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/RPR20260727006500353"
+          "url": "https://www.yna.co.kr/view/AKR20260728155951004"
+        },
+        {
+          "title": "300억원대 사기 혐의 기획사 대표 차가원 내달 3일 구속심사",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729113701632"
+        },
+        {
+          "title": "‘MC몽과 불륜설’ 차가원 ‘300억 사기’ 구속영장 청구에…“무리한 수사 종지부 찍겠다”",
+          "source": "헤럴드경제",
+          "url": "https://mbiz.heraldcorp.com/article/10823565"
         }
       ]
     },
     {
-      "id": "wti",
-      "rank": 10,
-      "keyword": "wti",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "id": "최준용",
+      "rank": 6,
+      "keyword": "최준용",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'U.S. crude oil falls below $80 as Iran discusses Strait of Hormuz with …' (CNBC) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'KCC 최준용, 미국 진출 도전…\"지금 아니면 안 될 것 같아 결심\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "U.S. crude oil falls below $80 as Iran discusses Strait of Hormuz with Saudi Arabia and Oman",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html"
+          "title": "KCC 최준용, 미국 진출 도전…\"지금 아니면 안 될 것 같아 결심\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260729095300007"
         },
         {
-          "title": "Global Oil Prices Plummet After US Halts Airstrikes on Iran; Brent Falls Below $90 for First Time in a Week",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008677530"
+          "title": "'맨땅에 헤딩' 최준용, 미국 진출 선언 \"300억+NBA 유니폼 입고 돌아오고 싶다\" [여의도 현장]",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260729n15826"
         },
         {
-          "title": "Oil markets are on edge again",
-          "source": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics/2026/07/26/oil-markets-are-on-edge-again"
+          "title": "[사진]박범영, 미국 도전 선언한 최준용에 질문",
+          "source": "OSEN",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "구자현",
+      "rank": 7,
+      "keyword": "구자현",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '검찰총장 대행 \"보완수사권 폐지 깊은 우려‥진실 은폐·국민 피해 부담\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "검찰총장 대행 \"보완수사권 폐지 깊은 우려‥진실 은폐·국민 피해 부담\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6840848_36918.html"
+        },
+        {
+          "title": "민주, 보완수사권 폐지·패스트트랙 단축 입법 질주…野, 필리버스터 예고",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260729000640"
+        },
+        {
+          "title": "한동훈 “민주당이 소주는 술 아닌 음료수라고 하면 그런 것”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11605637"
+        }
+      ]
+    },
+    {
+      "id": "이재명-지지율",
+      "rank": 8,
+      "keyword": "이재명 지지율",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[속보]연임개헌론 가운데…李, 긍정47.4%·부정49.5%-조원씨앤아이' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[속보]연임개헌론 가운데…李, 긍정47.4%·부정49.5%-조원씨앤아이",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11605689"
+        },
+        {
+          "title": "이 대통령 지지율 47.4%…민주 46.3%·국힘 36.0% [조원씨앤아이]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729094813514"
+        },
+        {
+          "title": "[스트레이트뉴스 여론조사] 李 국정평가 긍·부정 팽팽…민주당 상승세는 이어져",
+          "source": "스트레이트뉴스",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=307861"
+        }
+      ]
+    },
+    {
+      "id": "kospi",
+      "rank": 9,
+      "keyword": "kospi",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'KRX activates sell-side sidecar for KOSPI on sharp decline' (The Korea Times) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "KRX activates sell-side sidecar for KOSPI on sharp decline",
+          "source": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/economy/20260729/krx-activates-sell-side-sidecar-for-kospi-on-sharp-decline"
+        },
+        {
+          "title": "Yonhap News Summary",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/AEN20260728011200315"
+        },
+        {
+          "title": "\"Please Spare Me, I'll Never Do It Again\"... Fear Index Spikes",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008679276"
+        }
+      ]
+    },
+    {
+      "id": "인버스",
+      "rank": 10,
+      "keyword": "인버스",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '금융위원장 \"단일종목 레버리지 ETF 배수조정·전문투자자 제한 검토\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "금융위원장 \"단일종목 레버리지 ETF 배수조정·전문투자자 제한 검토\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/07/29/2026072912053912936"
+        },
+        {
+          "title": "이억원 \"단일종목 레버리지 변동성 확대, 매우 무겁게 생각\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729122337486"
+        },
+        {
+          "title": "금융위원장 \"레버리지 진정 안되면 추가 조치…투자한도 제한 등\"",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968933&pWise=sub&pWiseSub=R2"
         }
       ]
     }
