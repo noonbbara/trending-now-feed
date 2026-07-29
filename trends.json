@@ -1,185 +1,73 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-29T17:51:12.384Z",
+  "updatedAt": "2026-07-29T19:35:46.724Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "임금",
+      "id": "금리",
       "rank": 1,
-      "keyword": "임금",
-      "volumeLabel": "1000+",
-      "startedLabel": "5시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '\"월 200 남는데…\" 최저임금 이어 새벽배송까지 '사면초가' 소상공인' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"월 200 남는데…\" 최저임금 이어 새벽배송까지 '사면초가' 소상공인",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728154940429?f=p"
-        },
-        {
-          "title": "알바보다 못 버는 사장...정부가 지원 나서야",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02056566645519440"
-        },
-        {
-          "title": "870만 명 운명 결정하는 자료가 '비밀'... 근거도 황당",
-          "source": "OhmyNews",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003254823"
-        }
-      ]
-    },
-    {
-      "id": "글렌-한사드",
-      "rank": 2,
-      "keyword": "글렌 한사드",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '영화 ‘원스’ 주인공 글렌 핸사드, 오토바이 사고로 사망···향년 56세' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "영화 ‘원스’ 주인공 글렌 핸사드, 오토바이 사고로 사망···향년 56세",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607292136001"
-        },
-        {
-          "title": "'원스' 남주인공, 오토바이 사고로 별세 충격…향년 56세",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729231447354"
-        },
-        {
-          "title": "불협화음 거리서 길어 올린 영원의 화음…'원스' 글렌 핸사드, 낭만의 철학 '폴링 슬로울리'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260729_0003728908"
-        }
-      ]
-    },
-    {
-      "id": "전북특별자치도지사",
-      "rank": 3,
-      "keyword": "전북특별자치도지사",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 '이원택 전북지사 경찰 출석…허위사실 유포 혐의' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "이원택 전북지사 경찰 출석…허위사실 유포 혐의",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260730004212587"
-        },
-        {
-          "title": "'허위사실 공표 혐의' 이원택 전북지사 소환 조사…혐의 부인(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260729173051055"
-        },
-        {
-          "title": "이원택 전북지사 ‘김관영 내란 방조 의혹 제기’ 혐의 경찰 조사···피고발인 신분 출석",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607291900001"
-        }
-      ]
-    },
-    {
-      "id": "glen-hansard",
-      "rank": 4,
-      "keyword": "glen hansard",
+      "keyword": "금리",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Glen Hansard died in single-vehicle crash in Dublin shortly before 4.30…' (The Irish Times) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '美연준 '깜짝 금리인상' 없었지만 '매파적 동결'…인상의견 3명' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Glen Hansard died in single-vehicle crash in Dublin shortly before 4.30am",
-          "source": "The Irish Times",
-          "url": "https://www.irishtimes.com/culture/music/2026/07/29/glen-hansard-dies-in-dublin-motorbike-crash/"
-        },
-        {
-          "title": "Glen Hansard, Oscar-winning Irish singer-songwriter, dies aged 56 in motorcycle crash",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/music/2026/jul/29/glen-hansard-oscar-winning-irish-singer-songwriter-dies-aged-56-in-motorcycle-crash"
-        },
-        {
-          "title": "Glen Hansard, Irish Musician and ‘Once’ Star Who Won Oscar for Best Song, Dies at 56",
-          "source": "Variety",
-          "url": "https://variety.com/2026/music/global/glen-hansard-dead-once-best-song-oscar-winner-1236823238/"
-        }
-      ]
-    },
-    {
-      "id": "최정원",
-      "rank": 5,
-      "keyword": "최정원",
-      "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '[단독]검찰, 그룹 UN 출신 최정원 ‘연인 특수협박’ 기소유예…스토킹은 무혐의' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[단독]검찰, 그룹 UN 출신 최정원 ‘연인 특수협박’ 기소유예…스토킹은 무혐의",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607290600091"
-        },
-        {
-          "title": "최정원 \"상간남·스토킹남 소송…인간 이하 소리 들으며 버텨\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260729_0003728199"
-        },
-        {
-          "title": "최정원 “5년 캄캄한 늪 끝났다”…상간남 소송 승소·전 연인 사건 종결",
+          "title": "美연준 '깜짝 금리인상' 없었지만 '매파적 동결'…인상의견 3명",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260729162810982?f=p"
+          "url": "https://v.daum.net/v/20260730040740850"
+        },
+        {
+          "title": "'매의 발톱' 든 워시 \"느슨한 물가 목표는 없다…연준 목표는 오직 2%\"",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01584246645519768"
+        },
+        {
+          "title": "모건스탠리 \"FOMC, 금리 동결 전망…6월보다 인상 근거 약해\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427501"
         }
       ]
     },
     {
-      "id": "노웨이홈",
-      "rank": 6,
-      "keyword": "노웨이홈",
-      "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 'Spider-Man: Brand New Day First Reviews: The Most Grounded, Mature Spid…' (Rotten Tomatoes) 관련 뉴스가 함께 포착됐어요.",
+      "id": "stock-market-news-today",
+      "rank": 2,
+      "keyword": "stock market news today",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Dow dives, S&P 500 trades lower in volatile market following Fed decisi…' (CNBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Spider-Man: Brand New Day First Reviews: The Most Grounded, Mature Spider-Man Story Yet",
-          "source": "Rotten Tomatoes",
-          "url": "https://editorial.rottentomatoes.com/article/spider-man-brand-new-day-first-reviews/"
+          "title": "Dow dives, S&P 500 trades lower in volatile market following Fed decision: Live updates",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/28/stock-market-today-live-updates.html"
         },
         {
-          "title": "Ranking Every ‘Spider-Man’ Movie By Rotten Tomatoes Score After ‘Brand New Day’",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/entertainment/movies/articles/ranking-every-spider-man-movie-162449702.html"
+          "title": "Equities Lower Intraday Ahead of Fed Decision, Major Tech Earnings",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/equities-lower-intraday-ahead-fed-180032148.html"
         },
         {
-          "title": "‘Spider-Man: Brand New Day’ remembers what makes Spidey special",
-          "source": "The Washington Post",
-          "url": "https://www.washingtonpost.com/entertainment/movies/2026/07/28/spider-man-brand-new-day-remembers-what-makes-spidey-special/"
+          "title": "Oil prices jump following fighting with Iran, while sinking AI stocks drag Wall Street lower",
+          "source": "AP News",
+          "url": "https://apnews.com/article/stocks-markets-ai-oil-trump-rates-b8bfaf782877957bbaa7196b70a4d725"
         }
       ]
     },
     {
       "id": "차영현",
-      "rank": 7,
+      "rank": 3,
       "keyword": "차영현",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "volumeLabel": "200+",
+      "startedLabel": "5시간 전",
+      "change": "up",
+      "changeLabel": "+4",
       "summary": "급상승 시점에 '문보경 '6점차로 따라잡는 홈런'[포토]' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -202,12 +90,12 @@
     },
     {
       "id": "허경민",
-      "rank": 8,
+      "rank": 4,
       "keyword": "허경민",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "200+",
+      "startedLabel": "5시간 전",
+      "change": "up",
+      "changeLabel": "+4",
       "summary": "급상승 시점에 'kt 허경민, 공에 얼굴 맞아 병원 이송…NC 테일러 헤드샷 퇴장' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -229,58 +117,170 @@
       ]
     },
     {
-      "id": "sadie-sink",
-      "rank": 9,
-      "keyword": "sadie sink",
+      "id": "what-is-a-data-breach",
+      "rank": 5,
+      "keyword": "what is a data breach",
       "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'Marvel’s Kevin Feige says Sadie Sink’s name ‘solidified the idea’ of he…' (Entertainment Weekly) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Download the Cost of a Data Breach Report 2026' (IBM) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Marvel’s Kevin Feige says Sadie Sink’s name ‘solidified the idea’ of her Spider-Man character",
-          "source": "Entertainment Weekly",
-          "url": "https://ew.com/saide-sink-spider-man-soldified-the-idea-of-her-character-12027953"
+          "title": "Download the Cost of a Data Breach Report 2026",
+          "source": "IBM",
+          "url": "https://www.ibm.com/forms/mkt-whitepaper-90d12"
         },
         {
-          "title": "'Spider-Man: Brand New Day' Fan Theories That Have Us Scratching Our Heads",
-          "source": "Elle India",
-          "url": "https://elle.in/life-culture/spider-man-brand-new-day-fan-theories-12208929"
+          "title": "US companies face rise in cyber attacks",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/legal/government/us-companies-face-rise-cyber-attacks-2026-07-27/"
         },
         {
-          "title": "Sadie Sink Hints at MCU Future After Spider-Man: Brand New Day",
-          "source": "Epicstream",
-          "url": "https://epicstream.com/article/sadie-sink-hints-at-mcu-future-after-spider-man-brand-new-day"
+          "title": "One In Four Breaches Are AI-Enabled, And That’s Before Hugging Face",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/timkeary/2026/07/29/one-in-four-breaches-are-ai-enabled-and-thats-before-hugging-face/"
         }
       ]
     },
     {
-      "id": "donald-trump",
-      "rank": 10,
-      "keyword": "donald trump",
+      "id": "best-shows-on-hbo-max",
+      "rank": 6,
+      "keyword": "best shows on hbo max",
       "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'Lawrence: Day 150 shows what happens when a madman starts a war' (MS NOW) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Ted Lasso to The Shards: 10 of the best TV shows to watch this August' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Lawrence: Day 150 shows what happens when a madman starts a war",
-          "source": "MS NOW",
-          "url": "https://www.ms.now/the-last-word/watch/lawrence-day-150-shows-what-happens-when-a-madman-starts-a-war-2508707395635"
+          "title": "Ted Lasso to The Shards: 10 of the best TV shows to watch this August",
+          "source": "BBC",
+          "url": "https://www.bbc.com/culture/article/20260727-10-of-the-best-tv-shows-to-watch-this-august"
         },
         {
-          "title": "Donald Trump and Wars of Choice",
-          "source": "The Intercept",
-          "url": "https://theintercept.com/2026/07/29/trump-wars-of-choice-iran/"
+          "title": "Everything That’s Streaming in August 2026",
+          "source": "Book and Film Globe",
+          "url": "https://bookandfilmglobe.com/streaming/everything-thats-streaming-in-august-2026/"
         },
         {
-          "title": "Letters to the editor: ‘No more wars’; Trump’s self-indulgence",
-          "source": "Greeley Tribune",
-          "url": "https://www.greeleytribune.com/2026/07/25/letters-to-the-editor-no-more-wars-trumps-self-indulgence/"
+          "title": "The Ultimate Guide to What to Watch on Netflix, Hulu, Prime Video, HBO Max, and More in August 2026",
+          "source": "TVGuide.com",
+          "url": "https://www.tvguide.com/news/ultimate-guide-what-to-watch-netflix-hulu-prime-video-hbo-max-more-august-2026/"
+        }
+      ]
+    },
+    {
+      "id": "cryptocurrency-trading",
+      "rank": 7,
+      "keyword": "cryptocurrency trading",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''Sleepy July': K33 says bitcoin spot volume on track for weakest month …' (The Block) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'Sleepy July': K33 says bitcoin spot volume on track for weakest month since late 2023",
+          "source": "The Block",
+          "url": "https://www.theblock.co/post/410017/sleepy-july-k33-says-bitcoin-spot-volume-on-track-for-weakest-month-since-late-2023"
+        },
+        {
+          "title": "Analyst says BTC exchange inflows near multi-year lows, with selling pressure still limited",
+          "source": "CoinNess",
+          "url": "https://coinness.com/en/news/1164217"
+        },
+        {
+          "title": "Cryptocurrency Trading Volumes Near Three-Year Low",
+          "source": "ForkLog",
+          "url": "https://forklog.com/en/cryptocurrency-trading-volumes-near-three-year-low/"
+        }
+      ]
+    },
+    {
+      "id": "when-is-daylight-saving-time",
+      "rank": 8,
+      "keyword": "when is daylight saving time",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Why Some Orthodox Jews Oppose Permanent Daylight Saving Time' (The New York Times) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Why Some Orthodox Jews Oppose Permanent Daylight Saving Time",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/29/nyregion/daylight-saving-time-jewish.html"
+        },
+        {
+          "title": "Daylight Saving Time: Trump urges Senate to pass legislation ending clock changes",
+          "source": "CNN",
+          "url": "https://www.cnn.com/2026/07/27/politics/daylight-saving-time-donald-trump"
+        },
+        {
+          "title": "The Eleven-Inch Foot – Amy Peikoff",
+          "source": "Law & Liberty",
+          "url": "https://lawliberty.org/the-eleven-inch-foot/"
+        }
+      ]
+    },
+    {
+      "id": "upcoming-meteor-showers",
+      "rank": 9,
+      "keyword": "upcoming meteor showers",
+      "volumeLabel": "100+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Rare meteor shower could deliver one of the best sky shows in years' (St. Albert Gazette) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Rare meteor shower could deliver one of the best sky shows in years",
+          "source": "St. Albert Gazette",
+          "url": "https://www.stalbertgazette.com/local-news/rare-meteor-shower-could-deliver-one-of-the-best-sky-shows-in-years-12581795"
+        },
+        {
+          "title": "Perseid meteor shower is here. How long you'll be able to see it in SC",
+          "source": "Greenville Online",
+          "url": "https://www.greenvilleonline.com/story/news/2026/07/27/perseid-meteor-shower-when-it-peaks-how-to-view-how-long-it-lasts/90959016007/"
+        },
+        {
+          "title": "‘Best meteor shower of the year’ to light up CA sky. Here are best times to watch",
+          "source": "Sacramento Bee",
+          "url": "https://www.sacbee.com/news/local/article316689631.html"
+        }
+      ]
+    },
+    {
+      "id": "김규성",
+      "rank": 10,
+      "keyword": "김규성",
+      "volumeLabel": "100+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '마운드 이상 조짐 KIA 대위기? 삼성-NC-KT-LG-삼성-두산, 이 일정 누가 짰냐' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "마운드 이상 조짐 KIA 대위기? 삼성-NC-KT-LG-삼성-두산, 이 일정 누가 짰냐",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/07/29/GAZDMNRXGQ2GKMZUGEYWMZTBGE/"
+        },
+        {
+          "title": "1점차든 6점차든 이기든 지든 꽃범호의 메시지는 같다…KIA 김규성 문책성 교체, 최대위기라도 야구다운 야구를 해야 한다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729150128338"
+        },
+        {
+          "title": "[사진] 3점 홈런 이재현, 김영웅 류지혁과 하이파이브",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260728n33100"
         }
       ]
     }
