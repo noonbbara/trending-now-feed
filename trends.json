@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-29T16:27:06.936Z",
+  "updatedAt": "2026-07-29T17:51:12.384Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,9 +9,9 @@
       "rank": 1,
       "keyword": "임금",
       "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+4",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '\"월 200 남는데…\" 최저임금 이어 새벽배송까지 '사면초가' 소상공인' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,41 +33,13 @@
       ]
     },
     {
-      "id": "선거법",
-      "rank": 2,
-      "keyword": "선거법",
-      "volumeLabel": "1000+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '‘김건희 주가 조작 부인’ 윤석열 송치' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘김건희 주가 조작 부인’ 윤석열 송치",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729122540552"
-        },
-        {
-          "title": "윤석열 실형 판결에 “이재명 파기환송” 강조한 조선일보",
-          "source": "미디어오늘",
-          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336060"
-        },
-        {
-          "title": "[단독] 경찰, \"집사람 손해 봤다\" 尹 발언 송치 결정‥\"선거법 위반\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6840861_36918.html"
-        }
-      ]
-    },
-    {
       "id": "글렌-한사드",
-      "rank": 3,
+      "rank": 2,
       "keyword": "글렌 한사드",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '영화 ‘원스’ 주인공 글렌 핸사드, 오토바이 사고로 사망···향년 56세' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -89,69 +61,69 @@
       ]
     },
     {
-      "id": "원자력",
-      "rank": 4,
-      "keyword": "원자력",
+      "id": "전북특별자치도지사",
+      "rank": 3,
+      "keyword": "전북특별자치도지사",
       "volumeLabel": "500+",
       "startedLabel": "4시간 전",
       "change": "up",
       "changeLabel": "+2",
-      "summary": "급상승 시점에 '한수원-영덕군, 신규원전 상생협약…지역발전 첫걸음' (전기신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '이원택 전북지사 경찰 출석…허위사실 유포 혐의' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "한수원-영덕군, 신규원전 상생협약…지역발전 첫걸음",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=370783"
-        },
-        {
-          "title": "영덕 신규 원전 상생협약…영양고추유통공사 혁신 토론회",
-          "source": "에너지경제신문",
-          "url": "https://www.ekn.kr/web/view.php?key=20260729024037469"
-        },
-        {
-          "title": "조주홍 영덕군수, 국가보훈부·국회 방문…'국비 확보에 잰걸음'",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6555161"
-        }
-      ]
-    },
-    {
-      "id": "전북특별자치도지사",
-      "rank": 5,
-      "keyword": "전북특별자치도지사",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 '이원택 전북지사 '김관영 내란 방조 의혹 제기' 혐의 경찰 조사' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "이원택 전북지사 '김관영 내란 방조 의혹 제기' 혐의 경찰 조사",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260729173000055"
-        },
         {
           "title": "이원택 전북지사 경찰 출석…허위사실 유포 혐의",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260730004212587"
         },
         {
-          "title": "'김관영 내란 동조 의혹 제기' 이원택 전북도지사, 경찰 출석",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260729_0003728803"
+          "title": "'허위사실 공표 혐의' 이원택 전북지사 소환 조사…혐의 부인(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260729173051055"
+        },
+        {
+          "title": "이원택 전북지사 ‘김관영 내란 방조 의혹 제기’ 혐의 경찰 조사···피고발인 신분 출석",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607291900001"
+        }
+      ]
+    },
+    {
+      "id": "glen-hansard",
+      "rank": 4,
+      "keyword": "glen hansard",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Glen Hansard died in single-vehicle crash in Dublin shortly before 4.30…' (The Irish Times) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Glen Hansard died in single-vehicle crash in Dublin shortly before 4.30am",
+          "source": "The Irish Times",
+          "url": "https://www.irishtimes.com/culture/music/2026/07/29/glen-hansard-dies-in-dublin-motorbike-crash/"
+        },
+        {
+          "title": "Glen Hansard, Oscar-winning Irish singer-songwriter, dies aged 56 in motorcycle crash",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/music/2026/jul/29/glen-hansard-oscar-winning-irish-singer-songwriter-dies-aged-56-in-motorcycle-crash"
+        },
+        {
+          "title": "Glen Hansard, Irish Musician and ‘Once’ Star Who Won Oscar for Best Song, Dies at 56",
+          "source": "Variety",
+          "url": "https://variety.com/2026/music/global/glen-hansard-dead-once-best-song-oscar-winner-1236823238/"
         }
       ]
     },
     {
       "id": "최정원",
-      "rank": 6,
+      "rank": 5,
       "keyword": "최정원",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "5시간 전",
       "change": "up",
-      "changeLabel": "+2",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '[단독]검찰, 그룹 UN 출신 최정원 ‘연인 특수협박’ 기소유예…스토킹은 무혐의' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -166,9 +138,37 @@
           "url": "https://www.newsis.com/view/NISX20260729_0003728199"
         },
         {
-          "title": "최정원, '흉기 협박' 기소유예 처분…동영상 유포 협박은 무혐의",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1672029/%EC%B5%9C%EC%A0%95%EC%9B%90-%ED%9D%89%EA%B8%B0-%ED%98%91%EB%B0%95-%EA%B8%B0%EC%86%8C%EC%9C%A0%EC%98%88-%EC%B2%98%EB%B6%84%EB%8F%99%EC%98%81%EC%83%81-2026"
+          "title": "최정원 “5년 캄캄한 늪 끝났다”…상간남 소송 승소·전 연인 사건 종결",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729162810982?f=p"
+        }
+      ]
+    },
+    {
+      "id": "노웨이홈",
+      "rank": 6,
+      "keyword": "노웨이홈",
+      "volumeLabel": "200+",
+      "startedLabel": "5시간 전",
+      "change": "up",
+      "changeLabel": "+2",
+      "summary": "급상승 시점에 'Spider-Man: Brand New Day First Reviews: The Most Grounded, Mature Spid…' (Rotten Tomatoes) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Spider-Man: Brand New Day First Reviews: The Most Grounded, Mature Spider-Man Story Yet",
+          "source": "Rotten Tomatoes",
+          "url": "https://editorial.rottentomatoes.com/article/spider-man-brand-new-day-first-reviews/"
+        },
+        {
+          "title": "Ranking Every ‘Spider-Man’ Movie By Rotten Tomatoes Score After ‘Brand New Day’",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/ranking-every-spider-man-movie-162449702.html"
+        },
+        {
+          "title": "‘Spider-Man: Brand New Day’ remembers what makes Spidey special",
+          "source": "The Washington Post",
+          "url": "https://www.washingtonpost.com/entertainment/movies/2026/07/28/spider-man-brand-new-day-remembers-what-makes-spidey-special/"
         }
       ]
     },
@@ -177,16 +177,16 @@
       "rank": 7,
       "keyword": "차영현",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '치어리더 차영현 '날씨만큼 핫한 패션'[엑's HD포토]' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '문보경 '6점차로 따라잡는 홈런'[포토]' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "치어리더 차영현 '날씨만큼 핫한 패션'[엑's HD포토]",
+          "title": "문보경 '6점차로 따라잡는 홈런'[포토]",
           "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260729n34106"
+          "url": "https://sports.news.nate.com/view/20260729n36385"
         },
         {
           "title": "[ST포토] 김태희 치어리더, '물놀이 준비완료'",
@@ -201,30 +201,30 @@
       ]
     },
     {
-      "id": "노웨이홈",
+      "id": "허경민",
       "rank": 8,
-      "keyword": "노웨이홈",
-      "volumeLabel": "200+",
+      "keyword": "허경민",
+      "volumeLabel": "100+",
       "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Spider-Man: Brand New Day First Reviews: The Most Grounded, Mature Spid…' (Rotten Tomatoes) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'kt 허경민, 공에 얼굴 맞아 병원 이송…NC 테일러 헤드샷 퇴장' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Spider-Man: Brand New Day First Reviews: The Most Grounded, Mature Spider-Man Story Yet",
-          "source": "Rotten Tomatoes",
-          "url": "https://editorial.rottentomatoes.com/article/spider-man-brand-new-day-first-reviews/"
+          "title": "kt 허경민, 공에 얼굴 맞아 병원 이송…NC 테일러 헤드샷 퇴장",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729195250164"
         },
         {
-          "title": "‘Spider-Man: Brand New Day’ review: A thrilling evolution in the MCU",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/entertainment/movies/articles/spider-man-brand-day-review-151838876.html"
+          "title": "투구에 얼굴 맞은 KT 허경민, 검사 결과 단순 타박…\"어지럼증 증세\"(종합)",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260729_0003728847"
         },
         {
-          "title": "‘Spider-Man: Brand New Day’ remembers what makes Spidey special",
-          "source": "The Washington Post",
-          "url": "https://www.washingtonpost.com/entertainment/movies/2026/07/28/spider-man-brand-new-day-remembers-what-makes-spidey-special/"
+          "title": "'이럴 수가' KT 허경민 147km 헤드샷 맞고 쓰러졌다. 구급차로 병원 후송...NC 테일러, 헤드샷 퇴장 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/07/29/202607291942770017O"
         }
       ]
     },
@@ -233,9 +233,9 @@
       "rank": 9,
       "keyword": "sadie sink",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 'Marvel’s Kevin Feige says Sadie Sink’s name ‘solidified the idea’ of he…' (Entertainment Weekly) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -261,26 +261,26 @@
       "rank": 10,
       "keyword": "donald trump",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Trump Media fast feed for president’s posts sparks Wall Street backlash' (Financial Times) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 'Lawrence: Day 150 shows what happens when a madman starts a war' (MS NOW) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Trump Media fast feed for president’s posts sparks Wall Street backlash",
-          "source": "Financial Times",
-          "url": "https://www.ft.com/content/019ce313-00c5-4d7d-a26c-acd7250de84a?syn-25a6b1a6=1"
+          "title": "Lawrence: Day 150 shows what happens when a madman starts a war",
+          "source": "MS NOW",
+          "url": "https://www.ms.now/the-last-word/watch/lawrence-day-150-shows-what-happens-when-a-madman-starts-a-war-2508707395635"
         },
         {
-          "title": "DJT Stock Surges on Plan to Sell Early Access to Trump’s Truth Social Posts - Growth Acceleration Report",
-          "source": "po-news-eg.net",
-          "url": "https://po-news-eg.net/first-dry/DJT-Stock-Surges-on-Plan-to-Sell-Early-Access-to-Trumps-Truth-Social-Posts-44-10879"
+          "title": "Donald Trump and Wars of Choice",
+          "source": "The Intercept",
+          "url": "https://theintercept.com/2026/07/29/trump-wars-of-choice-iran/"
         },
         {
-          "title": "Democrats urge SEC to investigate Trump’s ‘outrageous’ Truth Social fast feed plan",
-          "source": "The Independent",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-media-truth-social-fast-feed-sec-elizabeth-warren-adam-schiff-b3023862.html"
+          "title": "Letters to the editor: ‘No more wars’; Trump’s self-indulgence",
+          "source": "Greeley Tribune",
+          "url": "https://www.greeleytribune.com/2026/07/25/letters-to-the-editor-no-more-wars-trumps-self-indulgence/"
         }
       ]
     }
