@@ -1,286 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-29T03:52:30.568Z",
+  "updatedAt": "2026-07-29T06:39:44.458Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "하이닉스-주가",
+      "id": "애플",
       "rank": 1,
-      "keyword": "하이닉스 주가",
-      "volumeLabel": "20000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"SK하이닉스 과격한 조정이지만 목표가 420만→280만 하향\"…삼성전자, 급락에 커진 배당 매력 [株토피아]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"SK하이닉스 과격한 조정이지만 목표가 420만→280만 하향\"…삼성전자, 급락에 커진 배당 매력 [株토피아]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729104316688"
-        },
-        {
-          "title": "SK하이닉스·삼전 눈높이 '뚝'…미래證, 목표가 33%씩 낮췄다",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427392"
-        },
-        {
-          "title": "\"37만전자·280만닉스\"...중국발 반도체 쇼크에 눈높이 낮췄다-미래 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/07/29/2026072909264719666"
-        }
-      ]
-    },
-    {
-      "id": "코스피지수",
-      "rank": 2,
-      "keyword": "코스피지수",
-      "volumeLabel": "20000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '코스피·코스닥 급락에 매도 사이드카‥이번 주에만 두 번째' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "코스피·코스닥 급락에 매도 사이드카‥이번 주에만 두 번째",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6840874_36932.html"
-        },
-        {
-          "title": "속보 어제에 이어 코스닥 급락에 서킷브레이커",
-          "source": "YTN",
-          "url": "https://m.ytn.co.kr/news_view.php?key=202607291234134148&s_mcd=0102"
-        },
-        {
-          "title": "\"지금 팔면 후회한다\"…고수들 '역대급 반등' 전망한 이유",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026072925136"
-        }
-      ]
-    },
-    {
-      "id": "안정환",
-      "rank": 3,
-      "keyword": "안정환",
+      "keyword": "애플",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '박지성 저격한 인물은 안 오고 '안정환 감독설'만 남았다...청문회 산으로 가나' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "박지성 저격한 인물은 안 오고 '안정환 감독설'만 남았다...청문회 산으로 가나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729080138621"
-        },
-        {
-          "title": "[단독] 이승우도 기성용도…프로선수 전원에 축구협회장 투표권",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH202607281438582eU"
-        },
-        {
-          "title": "서강일 회장도 청문회 불참…“박지성, 이영표 위원님께 사과…개혁에 동의”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8621095"
-        }
-      ]
-    },
-    {
-      "id": "네이마르",
-      "rank": 4,
-      "keyword": "네이마르",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '브라질 발칵! 네이마르, 산투스 영웅 맞나…'폭언 스캔들' 일파만파 \"어린 유망주에게 막말\" 구단 진상조사 착수' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "브라질 발칵! 네이마르, 산투스 영웅 맞나…'폭언 스캔들' 일파만파 \"어린 유망주에게 막말\" 구단 진상조사 착수",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/12itI64qCm"
-        },
-        {
-          "title": "\"월드컵 탈락하고 대표팀 은퇴 선언 후 바로 포커판\" 네이마르, '카드 돌리기 세리머니'로 자신 비판에 정면 대립",
-          "source": "OSEN",
-          "url": ""
-        },
-        {
-          "title": "\"거짓말하지 마, 더는 안 참는다\" 네이마르, 어린 팀 동료 폭언 의혹 정면 반박…\"팀 전체 피드백이었을 뿐\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260727n13925"
-        }
-      ]
-    },
-    {
-      "id": "mc몽",
-      "rank": 5,
-      "keyword": "mc몽",
-      "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '경찰 신청 3번 만에…檢, 연예기획사 대표 차가원 구속영장 청구(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '애플 \"한국은 세계서 가장 역동적 개발자 커뮤니티\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "경찰 신청 3번 만에…檢, 연예기획사 대표 차가원 구속영장 청구(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260728155951004"
-        },
-        {
-          "title": "300억원대 사기 혐의 기획사 대표 차가원 내달 3일 구속심사",
+          "title": "애플 \"한국은 세계서 가장 역동적 개발자 커뮤니티\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260729113701632"
+          "url": "https://v.daum.net/v/20260729133050182"
         },
         {
-          "title": "‘MC몽과 불륜설’ 차가원 ‘300억 사기’ 구속영장 청구에…“무리한 수사 종지부 찍겠다”",
-          "source": "헤럴드경제",
-          "url": "https://mbiz.heraldcorp.com/article/10823565"
+          "title": "애플, 국내 개발사 글로벌 진출 지원…AI 개발도구 개방 확대",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260729000251"
+        },
+        {
+          "title": "애플 \"한국, 역동적인 개발자 커뮤티니 보유\"…국내 생태계 지원 강화",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026072910090961798"
         }
       ]
     },
     {
-      "id": "최준용",
-      "rank": 6,
-      "keyword": "최준용",
-      "volumeLabel": "500+",
+      "id": "태국",
+      "rank": 2,
+      "keyword": "태국",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'KCC 최준용, 미국 진출 도전…\"지금 아니면 안 될 것 같아 결심\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"한국 안 갈래\" 돌아선 동남아 '큰 손님'...태국인들 '한국 거부', 왜 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "KCC 최준용, 미국 진출 도전…\"지금 아니면 안 될 것 같아 결심\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260729095300007"
-        },
-        {
-          "title": "'맨땅에 헤딩' 최준용, 미국 진출 선언 \"300억+NBA 유니폼 입고 돌아오고 싶다\" [여의도 현장]",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260729n15826"
-        },
-        {
-          "title": "[사진]박범영, 미국 도전 선언한 최준용에 질문",
-          "source": "OSEN",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "id": "구자현",
-      "rank": 7,
-      "keyword": "구자현",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '검찰총장 대행 \"보완수사권 폐지 깊은 우려‥진실 은폐·국민 피해 부담\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "검찰총장 대행 \"보완수사권 폐지 깊은 우려‥진실 은폐·국민 피해 부담\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6840848_36918.html"
-        },
-        {
-          "title": "민주, 보완수사권 폐지·패스트트랙 단축 입법 질주…野, 필리버스터 예고",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260729000640"
-        },
-        {
-          "title": "한동훈 “민주당이 소주는 술 아닌 음료수라고 하면 그런 것”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11605637"
-        }
-      ]
-    },
-    {
-      "id": "이재명-지지율",
-      "rank": 8,
-      "keyword": "이재명 지지율",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[속보]연임개헌론 가운데…李, 긍정47.4%·부정49.5%-조원씨앤아이' (문화일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[속보]연임개헌론 가운데…李, 긍정47.4%·부정49.5%-조원씨앤아이",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11605689"
-        },
-        {
-          "title": "이 대통령 지지율 47.4%…민주 46.3%·국힘 36.0% [조원씨앤아이]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729094813514"
-        },
-        {
-          "title": "[스트레이트뉴스 여론조사] 李 국정평가 긍·부정 팽팽…민주당 상승세는 이어져",
-          "source": "스트레이트뉴스",
-          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=307861"
-        }
-      ]
-    },
-    {
-      "id": "kospi",
-      "rank": 9,
-      "keyword": "kospi",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'KRX activates sell-side sidecar for KOSPI on sharp decline' (The Korea Times) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "KRX activates sell-side sidecar for KOSPI on sharp decline",
-          "source": "The Korea Times",
-          "url": "https://www.koreatimes.co.kr/economy/20260729/krx-activates-sell-side-sidecar-for-kospi-on-sharp-decline"
-        },
-        {
-          "title": "Yonhap News Summary",
-          "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/AEN20260728011200315"
-        },
-        {
-          "title": "\"Please Spare Me, I'll Never Do It Again\"... Fear Index Spikes",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008679276"
-        }
-      ]
-    },
-    {
-      "id": "인버스",
-      "rank": 10,
-      "keyword": "인버스",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '금융위원장 \"단일종목 레버리지 ETF 배수조정·전문투자자 제한 검토\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "금융위원장 \"단일종목 레버리지 ETF 배수조정·전문투자자 제한 검토\" - 머니투데이",
+          "title": "\"한국 안 갈래\" 돌아선 동남아 '큰 손님'...태국인들 '한국 거부', 왜 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/07/29/2026072912053912936"
+          "url": "https://www.mt.co.kr/policy/2026/07/29/2026072820061431139"
         },
         {
-          "title": "이억원 \"단일종목 레버리지 변동성 확대, 매우 무겁게 생각\"",
+          "title": "[NNA] 태국 1~6월 외국인 관광객 수, 3% 감소한 1,587만 명",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20260723152944307"
+        },
+        {
+          "title": "'한국 대신 일본 갈래'…동남아에서 유일하게 안 오는 태국, 왜?",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260728n25965"
+        }
+      ]
+    },
+    {
+      "id": "명예훼손",
+      "rank": 3,
+      "keyword": "명예훼손",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '아들 친구 엄마와 바람난 남편…\"상간녀, 망신 줘 동네 떠나게 하고 싶다\"' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "아들 친구 엄마와 바람난 남편…\"상간녀, 망신 줘 동네 떠나게 하고 싶다\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6242182"
+        },
+        {
+          "title": "\"당장 머리채 잡고 싶은데\" 아들 친구 엄마와 바람 난 남편…아내는 폭발 직전 '피울음'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260729122337486"
+          "url": "https://v.daum.net/v/20260729121127121"
         },
         {
-          "title": "금융위원장 \"레버리지 진정 안되면 추가 조치…투자한도 제한 등\"",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968933&pWise=sub&pWiseSub=R2"
+          "title": "\"남편 불륜 상대가 아들 친구 엄마…머리채 잡고 싶지만 아들 상처받을까 참고 있다\" [이런 法]",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202607291002016143"
+        }
+      ]
+    },
+    {
+      "id": "고우석",
+      "rank": 4,
+      "keyword": "고우석",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“고우석 영구 추방, 한국 대표 선수들도 다 확인해야” 日 여론 억지 주장, 노력 수포로 돌아갔다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“고우석 영구 추방, 한국 대표 선수들도 다 확인해야” 日 여론 억지 주장, 노력 수포로 돌아갔다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/uR1XLEcnT3"
+        },
+        {
+          "title": "'고우석 충격 징계' 현역 투수들은 어떻게 볼까 \"말도 안된다. 진짜 억울할 것\"[SC핫이슈]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/07/29/MVRTGYZSMVQWKNBXMQZDMM3CMM/"
+        },
+        {
+          "title": "고우석, 마이너리그서 '글러브 이물질' 적발...10경기 출전정지",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202607270906509392"
+        }
+      ]
+    },
+    {
+      "id": "인천지하철",
+      "rank": 5,
+      "keyword": "인천지하철",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“에스컬레이터만으론 부족하다”… 인천교통공사, 열차 손잡이 교차감염 대책도 서둘러야' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“에스컬레이터만으론 부족하다”… 인천교통공사, 열차 손잡이 교차감염 대책도 서둘러야",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260727180814035"
+        },
+        {
+          "title": "인천도시철도 손잡이 살균장치 6대 추가…4개 역 14대 운영",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260727000224"
+        },
+        {
+          "title": "실증에서 상용화까지…인천 스타트업 혁신기술 공공시장 안착",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1671020/%EC%8B%A4%EC%A6%9D-%EC%83%81%EC%9A%A9%ED%99%94%EA%B9%8C%EC%A7%80%EC%9D%B8%EC%B2%9C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%ED%98%81%EC%8B%A0%EA%B8%B0%EC%88%A0-2026"
+        }
+      ]
+    },
+    {
+      "id": "르노-콜레오스",
+      "rank": 6,
+      "keyword": "르노 콜레오스",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '르노 그랑 콜레오스, 경찰 순찰차 된다…르노코리아 “공공 공급 확대”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "르노 그랑 콜레오스, 경찰 순찰차 된다…르노코리아 “공공 공급 확대”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607290947001"
+        },
+        {
+          "title": "르노코리아, 경찰청 다목적 순찰차 시장 첫 진입",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729080351679"
+        },
+        {
+          "title": "\"저 경찰차, 그랑 콜레오스네?\"…르노코리아, 사업자 선정 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/07/29/2026072909284844749"
+        }
+      ]
+    },
+    {
+      "id": "양정원",
+      "rank": 7,
+      "keyword": "양정원",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '검찰, '양정원 사건 무마 의혹' 강남경찰서 추가 유착 수사' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "검찰, '양정원 사건 무마 의혹' 강남경찰서 추가 유착 수사",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260728183757491"
+        },
+        {
+          "title": "‘양정원 사건 수사 무마 의혹’ 강남서, 연루 의혹 경찰관 더 있었다",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000000189"
+        },
+        {
+          "title": "검찰, '양정원 수사 무마 의혹' 강남경찰서 추가 유착 수사",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/court-prosecution/6241928"
+        }
+      ]
+    },
+    {
+      "id": "김나라",
+      "rank": 8,
+      "keyword": "김나라",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘킬잇’ 우승자 권나라, ♥8년 교제 동성 연인과 결혼 발표…차정원도 축하' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘킬잇’ 우승자 권나라, ♥8년 교제 동성 연인과 결혼 발표…차정원도 축하",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202607291415003"
+        },
+        {
+          "title": "최미나수, ‘킬잇’ 최종 4위로 여정 마무리…“너무 후련하다”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729145040669"
+        },
+        {
+          "title": "김나라, '킬잇' 우승 후 깜짝 커밍아웃에 프러포즈",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260729_0003727282"
+        }
+      ]
+    },
+    {
+      "id": "삼전주가",
+      "rank": 9,
+      "keyword": "삼전주가",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '단일종목 레버리지 '금융위·금감원발 人災' 지적에 금융당국 두 수장 \"책임통감\"... 전문투자자로 제한도 검토' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "단일종목 레버리지 '금융위·금감원발 人災' 지적에 금융당국 두 수장 \"책임통감\"... 전문투자자로 제한도 검토",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/economy_general/2026/07/29/RHTIMCZ5VNEPTPRMRXV7BGFSXY/"
+        },
+        {
+          "title": "與 \"대책 발표 늦어\"·野 \"선거에 졸속도입\"…정무위서 ETF 질타",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729150454570"
+        },
+        {
+          "title": "“삼전닉스 레버리지, 주가 돌아와도 최대 75% 손실”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8622949"
+        }
+      ]
+    },
+    {
+      "id": "중국-반도체",
+      "rank": 10,
+      "keyword": "중국 반도체",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'CXMT, 애플에 “싸게 줄 이유 없다”…삼성·SK하이닉스보다 비싼 값 제시' (테크월드) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "CXMT, 애플에 “싸게 줄 이유 없다”…삼성·SK하이닉스보다 비싼 값 제시",
+          "source": "테크월드",
+          "url": "https://www.epnc.co.kr/news/articleView.html?idxno=404816"
+        },
+        {
+          "title": "\"중국 기술추격에 ASML 시총 증발? 서방의 맹신 흔들려\"-中 매체 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/07/29/2026072911023763973"
+        },
+        {
+          "title": "'물 한 방울'로 삼전닉스 자리 넘본다…中 '극강의 기술' 정체 [강경주의 테크X]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026072800656"
         }
       ]
     }
