@@ -1,210 +1,70 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-30T09:35:27.319Z",
+  "updatedAt": "2026-07-30T11:56:56.700Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "윤용근",
+      "id": "농지",
       "rank": 1,
-      "keyword": "윤용근",
-      "volumeLabel": "5000+",
+      "keyword": "농지",
+      "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '홍명보 “연봉 38억 절대 아냐…훨씬 적다” [이런뉴스]' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '사상 처음 진행되는 농지 전수조사, 농지 4곳 중 1곳은 ‘위법농지’' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "홍명보 “연봉 38억 절대 아냐…훨씬 적다” [이런뉴스]",
+          "title": "사상 처음 진행되는 농지 전수조사, 농지 4곳 중 1곳은 ‘위법농지’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260730163727822"
+        },
+        {
+          "title": "전국 농지 27% 불법임대 등 농지법 위반 의심‥내달 심층 조사",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6841269_36932.html"
+        },
+        {
+          "title": "“전국 농지 27%, 불법 임대차 등 농지법 위반 의심”",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8624372"
-        },
-        {
-          "title": "이용수 축구협회장 직무대행 \"중징계 불복 항소 취하 않겠다\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260730175000007"
-        },
-        {
-          "title": "[단독] 문체위 위원, 정몽규에 “더 배려해야 하는데... 송구합니다” 문자 포착",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/politics/congress/2026/07/30/20260730500233"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8624414"
         }
       ]
     },
     {
-      "id": "롯데-자이언츠",
+      "id": "예금",
       "rank": 2,
-      "keyword": "롯데 자이언츠",
-      "volumeLabel": "2000+",
+      "keyword": "예금",
+      "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '115구→119구 역투, 이러다 리그 첫 120구 던지겠네…투혼에 걸맞는 성적도 따라올까' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '한은, 예금토큰 지급 시스템 '프로젝트 아고라' 실거래 테스트' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "115구→119구 역투, 이러다 리그 첫 120구 던지겠네…투혼에 걸맞는 성적도 따라올까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260730094110314"
-        },
-        {
-          "title": "'무려 119개 던졌다' KKKKKKKKKKK 투혼, 그런데 6승 실패라니…156km 롯데 외인 아쉬워서 어쩌나 [MD대전]",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260729n38077"
-        },
-        {
-          "title": "선발 등판한 로드리게스",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260729n33608?mid=n1101"
-        }
-      ]
-    },
-    {
-      "id": "이원택",
-      "rank": 3,
-      "keyword": "이원택",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이원택 전북지사 '김관영 내란 방조 의혹 제기' 혐의 경찰 조사' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "이원택 전북지사 '김관영 내란 방조 의혹 제기' 혐의 경찰 조사",
+          "title": "한은, 예금토큰 지급 시스템 '프로젝트 아고라' 실거래 테스트",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260729173000055"
+          "url": "https://www.yna.co.kr/view/AKR20260730149200002"
         },
         {
-          "title": "전북경찰청 소환조사 위해 장내 들어서는 이원택 전북특별자치도지사",
+          "title": "KB국민은행, 일본 MUFG은행과 '프로젝트 아고라' 검증 성공",
           "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20260729_0002199459"
+          "url": "https://www.newsis.com/view/NISX20260730_0003730484"
         },
         {
-          "title": "'허위사실 공표 혐의' 이원택 전북지사 경찰 조사‥\"무죄 충분히 입증\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6841082_36918.html"
+          "title": "한은, 토큰화 지급준비금으로 이체 실험…국경 간 결제망 검증 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/07/30/2026073015360880654"
         }
       ]
     },
     {
-      "id": "하한가",
-      "rank": 4,
-      "keyword": "하한가",
+      "id": "이동석",
+      "rank": 3,
+      "keyword": "이동석",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '하이닉스 '1주 하한가' 반토막…826억 가상자산 파생상품 '우르르'' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "하이닉스 '1주 하한가' 반토막…826억 가상자산 파생상품 '우르르'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260730172950488"
-        },
-        {
-          "title": "SK하이닉스 1주 하한가 거래에 코인 선물 830억원 청산 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/finance/2026/07/30/AISYO4LTHJEO7M74CWSQLENXZE/"
-        },
-        {
-          "title": "단 1주 거래에 돌연 '폭락'…\"내 돈 800억 어째\" 분노",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008682660"
-        }
-      ]
-    },
-    {
-      "id": "sk텔레콤",
-      "rank": 5,
-      "keyword": "sk텔레콤",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '개보위, ‘개인정보 1만6000명 유출’ KT에 과징금 539억원 부과···조사 방해로 고발도' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "개보위, ‘개인정보 1만6000명 유출’ KT에 과징금 539억원 부과···조사 방해로 고발도",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607301100001"
-        },
-        {
-          "title": "'금전 피해' 해킹 과징금에…KT, 법정 다툼 가능성도 [MTN 리포트 ②]",
-          "source": "MTN 머니투데이방송",
-          "url": "https://news.mtn.co.kr/news-detail/2026073016424171077"
-        },
-        {
-          "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260730121900011"
-        }
-      ]
-    },
-    {
-      "id": "6세대-전투기",
-      "rank": 6,
-      "keyword": "6세대 전투기",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '영·일·이탈리아 6세대 전투기, 실증기 동체 절반 완성…2027년 비행' (글로벌이코노믹) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "영·일·이탈리아 6세대 전투기, 실증기 동체 절반 완성…2027년 비행",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/07/202607301029433421fbbec65dfb_1"
-        },
-        {
-          "title": "\"KF-21이 최적\" 외신도 주목, 캐나다 국방 결국 선 곳은‥",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6839866_36925.html"
-        },
-        {
-          "title": "美 술 81% 끊고 차는 멕시코산으로… 캐나다 ‘선택적 탈미국’ - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/international/international_economy/2026/07/22/E3T4FQK2LVCZFJSCHFDQYWFLDY/"
-        }
-      ]
-    },
-    {
-      "id": "대피소",
-      "rank": 7,
-      "keyword": "대피소",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '일본 구마모토 지진 사망자 28명으로 증가' (주간조선) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "일본 구마모토 지진 사망자 28명으로 증가",
-          "source": "주간조선",
-          "url": ""
-        },
-        {
-          "title": "“구마모토 강진 사망 34명”…여진·정전에 차 안으로",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260730182214427"
-        },
-        {
-          "title": "'강진 사망자' 최소 34명‥폭염 속 추가 강진 우려",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6841284_36981.html"
-        }
-      ]
-    },
-    {
-      "id": "홍영기",
-      "rank": 8,
-      "keyword": "홍영기",
-      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
@@ -213,58 +73,198 @@
       "newsSignals": []
     },
     {
-      "id": "373220",
-      "rank": 9,
-      "keyword": "373220",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "id": "박맹우",
+      "rank": 4,
+      "keyword": "박맹우",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'LG Energy Solution swings to profit in Q2' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '박맹우 \"트램 건설 중단해야\"…울산시장 공약 지지 '촉각'' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "LG Energy Solution swings to profit in Q2",
-          "source": "매일경제",
-          "url": "https://pulse.mk.co.kr/news/english/12111742"
+          "title": "박맹우 \"트램 건설 중단해야\"…울산시장 공약 지지 '촉각'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260730148200057"
         },
         {
-          "title": "(LEAD) LG Energy swings to Q2 loss on EV market slowdown",
-          "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/AEN20260730002351320"
+          "title": "박맹우 전 울산시장 \"울산도시철도 백지화 하라\"...김상욱 시장, 31일 재개 여부 결론",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260730152746801"
         },
         {
-          "title": "LG Energy Solution swings to loss in Q2",
-          "source": "The Korea Times",
-          "url": "https://www.koreatimes.co.kr/business/companies/20260730/lg-energy-solution-swings-to-loss-in-q2"
+          "title": "울산트램사업재검토추진연대, \"트램1호선 사업 전면 백지화\" 촉구",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202607305748h"
         }
       ]
     },
     {
-      "id": "이호재",
+      "id": "lck",
+      "rank": 5,
+      "keyword": "lck",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''LCK Legend Match': The Players We Loved Back Then' (Inven Global) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'LCK Legend Match': The Players We Loved Back Then",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/24234/lck-legend-match-the-players-we-loved-back-then"
+        },
+        {
+          "title": "SOOP Expands Multilingual Broadcasts, Fan Engagement for LCK 3rd Round",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/07/28/M2DANZPMAJG5FMIW2IZBVGVOLA/"
+        },
+        {
+          "title": "SOOP announced on the 28th that it will hold multilingual broadcasts and fan-participating events in..",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/it/12109135"
+        }
+      ]
+    },
+    {
+      "id": "허태정",
+      "rank": 6,
+      "keyword": "허태정",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '충청권 초광역 협력 오찬 간담회 - 사진 | 멀티미디어' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "충청권 초광역 협력 오찬 간담회 - 사진 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=72797&pageIndex=1"
+        },
+        {
+          "title": "대전시장, 총리에 '3대 메가' 선도 국가반도체연구소 구축 건의",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260730171049609"
+        },
+        {
+          "title": "한성숙 “반도체 산업 경쟁력 강화, 이제 국가적 과제”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20260730/134395237/1"
+        }
+      ]
+    },
+    {
+      "id": "마이클-캐릭",
+      "rank": 7,
+      "keyword": "마이클 캐릭",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '무려 ‘이적료 0원’ 맨체스터 유나이티드 ‘대어’ 낚을 준비 중 “캐릭 감독이 꿈꾸는 가장 이상적인 조합”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "무려 ‘이적료 0원’ 맨체스터 유나이티드 ‘대어’ 낚을 준비 중 “캐릭 감독이 꿈꾸는 가장 이상적인 조합”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/54wTeaoM0T"
+        },
+        {
+          "title": "맨유서 '대폭망'하고 쓸쓸히 고향 돌아가나 했는데 무산…\"야약스, 지르크지 영입 포기\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260729n35805"
+        },
+        {
+          "title": "맨유, FA 대어 품나...'2년간 9골 703억 공격수' 내보내고 '0원 세르비아 폭격기' 정조준!",
+          "source": "스포탈코리아",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553416952"
+        }
+      ]
+    },
+    {
+      "id": "코끼리",
+      "rank": 8,
+      "keyword": "코끼리",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '케냐 집단폐사 코끼리들이 먹은 토마토에 청산가리?' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "케냐 집단폐사 코끼리들이 먹은 토마토에 청산가리?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260730114011383"
+        },
+        {
+          "title": "케냐 코끼리 15마리 떼죽음…독극물 오염 토마토 먹었나",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11606173"
+        },
+        {
+          "title": "[뉴스의 2면] 코끼리 14마리 집단 폐사…원인은 오리무중",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8623253"
+        }
+      ]
+    },
+    {
+      "id": "뷰익",
+      "rank": 9,
+      "keyword": "뷰익",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[단독] 부평공장에서 뷰익 ‘일렉트라 E7’ 포착…4000만원대 PHEV 중형 SUV 나오나' (전기신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[단독] 부평공장에서 뷰익 ‘일렉트라 E7’ 포착…4000만원대 PHEV 중형 SUV 나오나",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=370787"
+        },
+        {
+          "title": "美 최장수 브랜드 ‘뷰익’ 내년 韓 상륙",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/UweliDkLYL"
+        },
+        {
+          "title": "GM 뷰익, 1600km 주행 PHEV '일렉트라 E7' 국내 투입 '만지작'",
+          "source": "지피코리아",
+          "url": "https://www.gpkorea.com/news/articleView.html?idxno=145112"
+        }
+      ]
+    },
+    {
+      "id": "페라리",
       "rank": 10,
-      "keyword": "이호재",
+      "keyword": "페라리",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"차범근의 친정팀으로\"…포항 공격수 이호재, 독일 다름슈타트 이적' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '디자인 조롱받던 페라리 전기차, 중국 덕에 목표 완판 '반전'' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"차범근의 친정팀으로\"…포항 공격수 이호재, 독일 다름슈타트 이적",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260730070049276?f=p"
-        },
-        {
-          "title": "이호재 떠난 K리그1 포항, 베테랑 공격수 원기종 영입",
+          "title": "디자인 조롱받던 페라리 전기차, 중국 덕에 목표 완판 '반전'",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260730034500007"
+          "url": "https://www.yna.co.kr/view/AKR20260730101600009"
         },
         {
-          "title": "K리그1 포항 이호재, 독일 2부 다름슈타트로 이적‥등번호 9번",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6841056_36946.html"
+          "title": "\"페라리 맞아?\" 혹평 받더니…중국서 수요 폭발 '대반전'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202607304546i"
+        },
+        {
+          "title": "[유럽 특징주] 페라리, 첫 전기차 모델 '루체' 출시 두 달 만에 올해 판매 목표 달성",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260730000006"
         }
       ]
     }
