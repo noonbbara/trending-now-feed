@@ -1,270 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-30T11:56:56.700Z",
+  "updatedAt": "2026-07-30T14:25:37.048Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "농지",
+      "id": "치매",
       "rank": 1,
-      "keyword": "농지",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
+      "keyword": "치매",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '사상 처음 진행되는 농지 전수조사, 농지 4곳 중 1곳은 ‘위법농지’' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Limiting sugar before age two linked to better brain health' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "사상 처음 진행되는 농지 전수조사, 농지 4곳 중 1곳은 ‘위법농지’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260730163727822"
+          "title": "Limiting sugar before age two linked to better brain health",
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/clyx85z1ld5o"
         },
         {
-          "title": "전국 농지 27% 불법임대 등 농지법 위반 의심‥내달 심층 조사",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6841269_36932.html"
+          "title": "Britons conceived during sugar rationing had lower chance of dementia",
+          "source": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/news/2026/07/29/britons-sugar-rationing-dementia/"
         },
         {
-          "title": "“전국 농지 27%, 불법 임대차 등 농지법 위반 의심”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8624414"
+          "title": "Low-Sugar Diet Early in Life Linked to 46% Lower Alzheimer's Risk",
+          "source": "ScienceAlert",
+          "url": "https://www.sciencealert.com/low-sugar-diet-early-in-life-linked-to-46-lower-alzheimers-risk"
         }
       ]
     },
     {
-      "id": "예금",
+      "id": "노웨이홈",
       "rank": 2,
-      "keyword": "예금",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한은, 예금토큰 지급 시스템 '프로젝트 아고라' 실거래 테스트' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "한은, 예금토큰 지급 시스템 '프로젝트 아고라' 실거래 테스트",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260730149200002"
-        },
-        {
-          "title": "KB국민은행, 일본 MUFG은행과 '프로젝트 아고라' 검증 성공",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260730_0003730484"
-        },
-        {
-          "title": "한은, 토큰화 지급준비금으로 이체 실험…국경 간 결제망 검증 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/economy/2026/07/30/2026073015360880654"
-        }
-      ]
-    },
-    {
-      "id": "이동석",
-      "rank": 3,
-      "keyword": "이동석",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "박맹우",
-      "rank": 4,
-      "keyword": "박맹우",
+      "keyword": "노웨이홈",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '박맹우 \"트램 건설 중단해야\"…울산시장 공약 지지 '촉각'' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘범죄도시4·인피니티 워’ 급으로 무섭게 질주···‘스파이더맨4’ 개봉 이틀 만에 100만 돌파' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "박맹우 \"트램 건설 중단해야\"…울산시장 공약 지지 '촉각'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260730148200057"
+          "title": "‘범죄도시4·인피니티 워’ 급으로 무섭게 질주···‘스파이더맨4’ 개봉 이틀 만에 100만 돌파",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607301725001"
         },
         {
-          "title": "박맹우 전 울산시장 \"울산도시철도 백지화 하라\"...김상욱 시장, 31일 재개 여부 결론",
+          "title": "극장가 휘감은 거미줄",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260730152746801"
+          "url": "https://v.daum.net/v/20260730220411705"
         },
         {
-          "title": "울산트램사업재검토추진연대, \"트램1호선 사업 전면 백지화\" 촉구",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202607305748h"
-        }
-      ]
-    },
-    {
-      "id": "lck",
-      "rank": 5,
-      "keyword": "lck",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''LCK Legend Match': The Players We Loved Back Then' (Inven Global) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'LCK Legend Match': The Players We Loved Back Then",
-          "source": "Inven Global",
-          "url": "https://www.invenglobal.com/articles/24234/lck-legend-match-the-players-we-loved-back-then"
-        },
-        {
-          "title": "SOOP Expands Multilingual Broadcasts, Fan Engagement for LCK 3rd Round",
+          "title": "‘스파이더맨4’ 개봉 이틀째 100만 돌파... 올해 최단 기록",
           "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/07/28/M2DANZPMAJG5FMIW2IZBVGVOLA/"
-        },
-        {
-          "title": "SOOP announced on the 28th that it will hold multilingual broadcasts and fan-participating events in..",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/it/12109135"
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/07/30/PNOWQWWZDJDKVHVUISTGK2SIHU/"
         }
       ]
     },
     {
-      "id": "허태정",
-      "rank": 6,
-      "keyword": "허태정",
-      "volumeLabel": "200+",
+      "id": "이도윤",
+      "rank": 3,
+      "keyword": "이도윤",
+      "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '충청권 초광역 협력 오찬 간담회 - 사진 | 멀티미디어' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''10만달러의 기적' 왕옌청, 아시안게임서 한국에 부메랑되나' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "충청권 초광역 협력 오찬 간담회 - 사진 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=72797&pageIndex=1"
-        },
-        {
-          "title": "대전시장, 총리에 '3대 메가' 선도 국가반도체연구소 구축 건의",
+          "title": "'10만달러의 기적' 왕옌청, 아시안게임서 한국에 부메랑되나",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260730171049609"
+          "url": "https://v.daum.net/v/20260730091255736"
         },
         {
-          "title": "한성숙 “반도체 산업 경쟁력 강화, 이제 국가적 과제”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260730/134395237/1"
+          "title": "'미쳤다' 이도윤 끝내기타 폭발! 한화, 롯데에 9회말 뒤집기쇼…21일 만에 5할 승률 복귀 [대전 리뷰]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/07/30/MZTDIMRXGA3GMZTGGM2DOMZRGM/"
+        },
+        {
+          "title": "'아쿼가 다승왕 경쟁할 줄은...' 연봉 1억 4천, 이런 '복덩이' 또 있을까 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/07/30/2026073011380899733"
         }
       ]
     },
     {
-      "id": "마이클-캐릭",
-      "rank": 7,
-      "keyword": "마이클 캐릭",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "id": "sh공사",
+      "rank": 4,
+      "keyword": "sh공사",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '무려 ‘이적료 0원’ 맨체스터 유나이티드 ‘대어’ 낚을 준비 중 “캐릭 감독이 꿈꾸는 가장 이상적인 조합”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'SH, 재개발 임대주택 3천421세대 청약…내년 2월 입주 예정' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "무려 ‘이적료 0원’ 맨체스터 유나이티드 ‘대어’ 낚을 준비 중 “캐릭 감독이 꿈꾸는 가장 이상적인 조합”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/54wTeaoM0T"
-        },
-        {
-          "title": "맨유서 '대폭망'하고 쓸쓸히 고향 돌아가나 했는데 무산…\"야약스, 지르크지 영입 포기\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260729n35805"
-        },
-        {
-          "title": "맨유, FA 대어 품나...'2년간 9골 703억 공격수' 내보내고 '0원 세르비아 폭격기' 정조준!",
-          "source": "스포탈코리아",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553416952"
-        }
-      ]
-    },
-    {
-      "id": "코끼리",
-      "rank": 8,
-      "keyword": "코끼리",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '케냐 집단폐사 코끼리들이 먹은 토마토에 청산가리?' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "케냐 집단폐사 코끼리들이 먹은 토마토에 청산가리?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260730114011383"
-        },
-        {
-          "title": "케냐 코끼리 15마리 떼죽음…독극물 오염 토마토 먹었나",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11606173"
-        },
-        {
-          "title": "[뉴스의 2면] 코끼리 14마리 집단 폐사…원인은 오리무중",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8623253"
-        }
-      ]
-    },
-    {
-      "id": "뷰익",
-      "rank": 9,
-      "keyword": "뷰익",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] 부평공장에서 뷰익 ‘일렉트라 E7’ 포착…4000만원대 PHEV 중형 SUV 나오나' (전기신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[단독] 부평공장에서 뷰익 ‘일렉트라 E7’ 포착…4000만원대 PHEV 중형 SUV 나오나",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=370787"
-        },
-        {
-          "title": "美 최장수 브랜드 ‘뷰익’ 내년 韓 상륙",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/UweliDkLYL"
-        },
-        {
-          "title": "GM 뷰익, 1600km 주행 PHEV '일렉트라 E7' 국내 투입 '만지작'",
-          "source": "지피코리아",
-          "url": "https://www.gpkorea.com/news/articleView.html?idxno=145112"
-        }
-      ]
-    },
-    {
-      "id": "페라리",
-      "rank": 10,
-      "keyword": "페라리",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '디자인 조롱받던 페라리 전기차, 중국 덕에 목표 완판 '반전'' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "디자인 조롱받던 페라리 전기차, 중국 덕에 목표 완판 '반전'",
+          "title": "SH, 재개발 임대주택 3천421세대 청약…내년 2월 입주 예정",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260730101600009"
+          "url": "https://www.yna.co.kr/view/AKR20260730151500004"
         },
         {
-          "title": "\"페라리 맞아?\" 혹평 받더니…중국서 수요 폭발 '대반전'",
+          "title": "서울 재개발 임대주택 3421세대 모집···내년 2월 입주",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260730162928398"
+        },
+        {
+          "title": "SH, 재개발임대주택 3421가구 입주자 모집…'청년·1인 가구 기회 확대'",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260730501223"
+        }
+      ]
+    },
+    {
+      "id": "음료",
+      "rank": 5,
+      "keyword": "음료",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '일상 속에서 부담없이…하이트진로음료, 김원훈과 '테라제로' 광고 공개 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "일상 속에서 부담없이…하이트진로음료, 김원훈과 '테라제로' 광고 공개 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/07/30/2026073016214847629"
+        },
+        {
+          "title": "\"왜, 안 돼?\" 김원훈과 함께 0.00% 무알코올 '테라 제로' 신규 광고",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260730_0003729374"
+        },
+        {
+          "title": "\"군인이 마셔도 되나\"…하이트진로, '테라 제로' 음용 장면 넓힌다",
           "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202607304546i"
+          "url": "https://www.hankyung.com/article/202607306302i"
+        }
+      ]
+    },
+    {
+      "id": "대한전선",
+      "rank": 6,
+      "keyword": "대한전선",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '대한전선, 2Q 영업이익 608억 4200만원…전년比 113.01% 증가(1보)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "대한전선, 2Q 영업이익 608억 4200만원…전년比 113.01% 증가(1보)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260730153440198"
         },
         {
-          "title": "[유럽 특징주] 페라리, 첫 전기차 모델 '루체' 출시 두 달 만에 올해 판매 목표 달성",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260730000006"
+          "title": "대한전선, 창사 이래 최대 분기 실적… 수주잔고 첫 4조원 돌파",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=370819"
+        },
+        {
+          "title": "대한전선, 2분기 매출·영업익 역대 최대…수주잔고 첫 4조원",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260730149600003"
+        }
+      ]
+    },
+    {
+      "id": "krx",
+      "rank": 7,
+      "keyword": "krx",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'South Korea’s stock-market boom is collapsing spectacularly' (The Economist) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "South Korea’s stock-market boom is collapsing spectacularly",
+          "source": "The Economist",
+          "url": "https://www.economist.com/business/2026/07/29/south-koreas-stock-market-boom-is-collapsing-spectacularly"
+        },
+        {
+          "title": "Why did South Korean stocks just crash?",
+          "source": "Noahpinion",
+          "url": "https://www.noahpinion.blog/p/why-did-south-korean-stocks-just"
+        },
+        {
+          "title": "South Korea $2 trillion stock rout breaks records as SK Hynix results disappoint",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/south-korea-stock-rout-breaks-records-sk-hynix-earnings-disappoint-2026-07-29/"
+        }
+      ]
+    },
+    {
+      "id": "언니네-산지직송3",
+      "rank": 8,
+      "keyword": "언니네 산지직송3",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김선영 \"태어나서 한 번도 이불 갠 적 없어\"..염정아 '경악' [언니네3][별별TV]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김선영 \"태어나서 한 번도 이불 갠 적 없어\"..염정아 '경악' [언니네3][별별TV]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260730211050370"
+        },
+        {
+          "title": "\"복수할 것\" 노윤서, 포스터 촬영 속았다···조업 배에 납치 당해('언니네 산지직송')[순간포착] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/07/30/ME2DSN3BMM4TKNDFGVSWIYJRGI/"
+        },
+        {
+          "title": "'산지직송3' 노윤서, '멍게 까기' 에이스 됐다…역시 금손",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6244681"
+        }
+      ]
+    },
+    {
+      "id": "순천향대학교-의과대학",
+      "rank": 9,
+      "keyword": "순천향대학교 의과대학",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[단독]의대 11명 초과 선발 순천향대…징계는 경고·주의에 그쳐(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[단독]의대 11명 초과 선발 순천향대…징계는 경고·주의에 그쳐(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/X4vTJ9b0wG"
+        },
+        {
+          "title": "\"부정입학 통로 아닌지 규명해야\"…의대협, 순천향의대 11명 '초과 선발' 비판",
+          "source": "MEDI:GATE NEWS",
+          "url": "https://www.medigatenews.com/news/3021845405"
+        },
+        {
+          "title": "순천향대 의대 정원 초과 선발에…의대협 \"행정착오 면죄부 안 돼\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/bio/general/6244282"
+        }
+      ]
+    },
+    {
+      "id": "광역철도",
+      "rank": 10,
+      "keyword": "광역철도",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '민경선 고양시장, 국토부 2차관에게 고양은평선 일산 연장 등 건의' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "민경선 고양시장, 국토부 2차관에게 고양은평선 일산 연장 등 건의",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729182403025?f=p"
+        },
+        {
+          "title": "고양시, 한준호 국회의원과 광역철도사업 현안 해결 공조 강화",
+          "source": "뉴데일리 경기",
+          "url": "https://gg.newdaily.co.kr/svc/article_print.html?no=2026073000243"
+        },
+        {
+          "title": "민경선 시장, 제주서 UAM·광역교통 '투트랙 세일즈'…국토부에 지원 요청",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026072915431053676"
         }
       ]
     }
