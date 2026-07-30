@@ -1,98 +1,98 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-30T03:42:56.613Z",
+  "updatedAt": "2026-07-30T06:35:07.269Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "이재정",
+      "id": "방탄소년단",
       "rank": 1,
-      "keyword": "이재정",
+      "keyword": "방탄소년단",
+      "volumeLabel": "10000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'BTS, 내년 그래미 보이콧...\"지역·언어로 음악 구분 말길\"' (YTN) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "BTS, 내년 그래미 보이콧...\"지역·언어로 음악 구분 말길\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0106_202607300316364969"
+        },
+        {
+          "title": "BTS “그래미 안 가” 하루 만에…그래미 CEO 해명 내놨다 [이런뉴스]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8624363"
+        },
+        {
+          "title": "[이슈]'그래미의 선' 거부한 BTS, '에일리언스' 차트 정상…아미도 연대했다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260730145428992"
+        }
+      ]
+    },
+    {
+      "id": "sk하이닉스-주가",
+      "rank": 2,
+      "keyword": "sk하이닉스 주가",
       "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '청문회 출석한 홍명보…굳은 표정으로 내밷은 첫마디 [현장영상]' (JTBC) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"148만원? 470만원?\"…SK하이닉스 깜짝 전망에 '술렁' [종목+]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "청문회 출석한 홍명보…굳은 표정으로 내밷은 첫마디 [현장영상]",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12310866"
+          "title": "\"148만원? 470만원?\"…SK하이닉스 깜짝 전망에 '술렁' [종목+]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026073048596"
         },
         {
-          "title": "김진규 코치 \"손흥민 남아공전 선발 제외, 홍명보의 보복 아니다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260730_0003729796"
+          "title": "혼돈의 하닉 주가… ‘220만원 VS 470만원’ 목표가도 천지 차이",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030184439&code=61141211&sid1=eco"
         },
         {
-          "title": "[청문회] 정몽규 \"월드컵 결과 미흡 죄송\"‥홍명보 \"있는 그대로 말씀드릴 것\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6841185_36946.html"
+          "title": "'최대 실적' SK하이닉스, 중장기 메모리 수요 확신…장기공급·투자 확대 나선다",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260729122141"
         }
       ]
     },
     {
-      "id": "푸들",
-      "rank": 2,
-      "keyword": "푸들",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '5500명 사망, ‘숨진 엄마 곁’ 29일 지킨 푸들…기적처럼 살아 돌아왔다' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "5500명 사망, ‘숨진 엄마 곁’ 29일 지킨 푸들…기적처럼 살아 돌아왔다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729230538265"
-        },
-        {
-          "title": "[이슈클릭] 지진 잔해에서 한 달을 버틴 강아지 극적 구조",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8623346"
-        },
-        {
-          "title": "[영상] 베네수엘라 울린 '29일 기적'…잔해 속 구조된 푸들 '베일리'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260729092200704"
-        }
-      ]
-    },
-    {
-      "id": "김민석",
+      "id": "김진규",
       "rank": 3,
-      "keyword": "김민석",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "keyword": "김진규",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '정청래 21% 김민석 19% 송영길 6%…민주당 대표 적합도 [NBS]' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"빵집 면접 안 부끄럽나?\"‥홍명보 입술 꽉 '단칼에' [현장영상]' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "정청래 21% 김민석 19% 송영길 6%…민주당 대표 적합도 [NBS]",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1270641.html"
+          "title": "\"빵집 면접 안 부끄럽나?\"‥홍명보 입술 꽉 '단칼에' [현장영상]",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6841229_36911.html"
         },
         {
-          "title": "與 차기 당대표 적합도…정청래 21% 김민석 19% 송영길 6% [NBS]",
+          "title": "\"연봉 38억 맞나?\" 묻자 '펄쩍'...홍명보 \"특혜 요구 안 해\" 의혹 전면 부인",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260730121127864"
+          "url": "https://v.daum.net/v/20260730150701706"
         },
         {
-          "title": "김민석 “정청래, 유시민에 한마디도 못 해” 정청래 “십자가 밟기 안돼”…8·17 전대 첫 TV 토론서 공방",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607292153001"
+          "title": "정몽규·홍명보 축구협회 청문회, 패인 못 밝히고 황당한 질문",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/politics_general/2026/07/30/RCBSNWF6HFED3ODX4GI6GTWZ3Q/"
         }
       ]
     },
     {
-      "id": "손나은",
+      "id": "손-나은",
       "rank": 4,
-      "keyword": "손나은",
-      "volumeLabel": "500+",
+      "keyword": "손 나은",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
@@ -117,170 +117,170 @@
       ]
     },
     {
-      "id": "배현진",
+      "id": "캠퍼스",
       "rank": 5,
-      "keyword": "배현진",
+      "keyword": "캠퍼스",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"공소기각? 이재명 위한 플랜\" 한동훈 공격에 서영교 \"헛소리\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '넷플릭스 ‘동궁’ 속 연못이 대학 캠퍼스라고?…해외 관광객도 찾는다' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"공소기각? 이재명 위한 플랜\" 한동훈 공격에 서영교 \"헛소리\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260730115252944"
-        },
-        {
-          "title": "'보완수사권 폐지' 오늘 상정‥여야 '대치'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6841200_36967.html"
-        },
-        {
-          "title": "[단독]범인 놓쳐도 경고, 수사 뭉개도 견책…정말 보완수사 ‘요구권’으로 충분할까[형소법 개정]",
+          "title": "넷플릭스 ‘동궁’ 속 연못이 대학 캠퍼스라고?…해외 관광객도 찾는다",
           "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607300600051"
+          "url": "https://www.khan.co.kr/article/202607301120001"
+        },
+        {
+          "title": "\"미간 일부러 더 찡그렸죠\" 노윤서의 첫 사극 '동궁'[왓더OTT]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260730050328713"
+        },
+        {
+          "title": "\"거기가 거기였어?\"…넷플릭스 '동궁' 흥행에 뜬 호서대 아산캠퍼스 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/07/30/2026073011443271433"
         }
       ]
     },
     {
-      "id": "인천해양경찰서",
+      "id": "현대-아반떼",
       "rank": 6,
-      "keyword": "인천해양경찰서",
+      "keyword": "현대 아반떼",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '해경 뜨자 '튀어라'… 밤마다 갯벌서 펼쳐지는 '죽음의 눈치게임'' (한국일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '차체는 커지고 기름은 덜 먹고… 신기술 품은 ‘국민 첫 차’' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "해경 뜨자 '튀어라'… 밤마다 갯벌서 펼쳐지는 '죽음의 눈치게임'",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026072916300002509"
+          "title": "차체는 커지고 기름은 덜 먹고… 신기술 품은 ‘국민 첫 차’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260730060309551"
         },
         {
-          "title": "인천해경서장, '해루질 할땐 간절해!' 숏폼 릴레이 동참",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260730_0003729354"
+          "title": "현대자동차, '디 올 뉴 아반떼 테크 데이' 개최",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260729182900013"
         },
         {
-          "title": "부안해경, 민·관·군 합동 순찰 9차례 실시…연안사고 예방 강화",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3650611"
+          "title": "급발진 방지에 스마트크루즈2… 첨단기능 도배한 ‘8세대 아반떼’",
+          "source": "www.dt.co.kr",
+          "url": "https://www.dt.co.kr/article/12075470"
         }
       ]
     },
     {
-      "id": "유혜주",
+      "id": "존-존스",
       "rank": 7,
-      "keyword": "유혜주",
+      "keyword": "존 존스",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '유혜주, 부친상 딛고 활동 재개 \"父도 씩씩한 모습 바랄 것…격려 감사\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '존 존스 “스테로이드 쓴 적 없다” ‘뽕 존스’ 오명 거부' (헤럴드경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "유혜주, 부친상 딛고 활동 재개 \"父도 씩씩한 모습 바랄 것…격려 감사\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260730115242932?t=m&x_mn=6a6abe70a2e9ff7ce6229544"
+          "title": "존 존스 “스테로이드 쓴 적 없다” ‘뽕 존스’ 오명 거부",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10823640"
         },
         {
-          "title": "유혜주, 돌연 활동 중단 이유…19일 둘째 子 출산 후 23일 부친상",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260730n09275"
+          "title": "3주 전 웃으며 인사했는데 “페레이라, 서브미션으로 쉽게 이길 것”…존 존스의 자신감",
+          "source": "일간스포츠",
+          "url": "https://isplus.com/article/view/isp202607290118"
         },
         {
-          "title": "'얼짱' 유혜주, 유튜버 3자매 '활동 중단' 이유는 부친상…나란히 빈소 지켰다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/07/30/ME4TGZJSGE4DSMBUG4ZTSNBSGY/"
+          "title": "'UFC 최악의 악동' 존 존스, '뽕존스' 논란에 “난 스테로이드 복용한 적 없다” 뒤늦은 해명→팬들 “믿을 걸 믿어라” 싸늘한 반응",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=691455"
         }
       ]
     },
     {
-      "id": "김석기",
+      "id": "디스패치-황정민",
       "rank": 8,
-      "keyword": "김석기",
+      "keyword": "디스패치 황정민",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '폭염에 비까지 끊긴 경남…농업용수 가뭄 '경계' 단계 확대' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[단독] \"죽어죽어죽어버려\"…황정민, 스토킹 범죄의 증거' (디스패치) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "폭염에 비까지 끊긴 경남…농업용수 가뭄 '경계' 단계 확대",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260730112806630"
+          "title": "[단독] \"죽어죽어죽어버려\"…황정민, 스토킹 범죄의 증거",
+          "source": "디스패치",
+          "url": "https://www.dispatch.co.kr/2345772"
         },
         {
-          "title": "짧은 장마, 강한 폭염에…경상권 가뭄 '심각' 저수율 10%대도",
+          "title": "'황정민 폭로' A씨, '호프' 美 배급사→칸영화제도 접촉…\"사생활 유출 아닌 법적 분쟁\"",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260730n24366"
+        },
+        {
+          "title": "\"황정민과 성관계 없이 4번 만났다…'밀수' 시사회서 처음, 스토킹 아냐\"",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/society/environment/6243808"
-        },
-        {
-          "title": "경주시, SNS 콘텐츠로 생활 속 실천 확산...\"최신 밈으로 물 절약 알려\"",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=710711"
+          "url": "https://www.news1.kr/society/general-society/6243910"
         }
       ]
     },
     {
-      "id": "신유열",
+      "id": "코오롱그룹",
       "rank": 9,
-      "keyword": "신유열",
+      "keyword": "코오롱그룹",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] 신유열 롯데지주 부사장, 강남 5성급 호텔에 주소지 둔 까닭' (비즈한국) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '법원 \"코오롱·이웅열회장, 인보사 환자들에게 6억6천만원 배상\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[단독] 신유열 롯데지주 부사장, 강남 5성급 호텔에 주소지 둔 까닭",
-          "source": "비즈한국",
-          "url": "https://bizhankook.com/articles/shin-yoo-yeol-lotte-hotel-residence.html"
-        },
-        {
-          "title": "일본 손잡은 '원롯데'…신동빈, 한일 시너지로 성장동력 찾는다",
+          "title": "법원 \"코오롱·이웅열회장, 인보사 환자들에게 6억6천만원 배상\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260728170849078"
+          "url": "https://v.daum.net/v/20260729202050863"
         },
         {
-          "title": "후계자 신유열이 이사회 의장 맡은 '싱가포르롯데제과' 설립 살펴보니, 롯데웰푸드 자회사 활용해 '원롯데' 틀 세웠다",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=443301"
+          "title": "법원 \"코오롱·이웅열 회장, 인보사 투여 환자들에 배상해야\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260729_0003728849"
+        },
+        {
+          "title": "법원 “코오롱·이웅열 회장, 인보사 투여 환자·유족에 6억6천만원 배상하라”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1270581.html"
         }
       ]
     },
     {
-      "id": "레드삭스-대-애슬레틱스",
+      "id": "리버풀-fc",
       "rank": 10,
-      "keyword": "레드삭스 대 애슬레틱스",
+      "keyword": "리버풀 fc",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '보스턴 미드, 트레이드 후 첫 경기서 손목 골절…부상자명단 등재' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''역시 손흥민이다!'…지난 10시즌 동안 EPL '최다 기회 창출' 베스트 일레븐 선정, 4명이나 배출한 리버풀' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "보스턴 미드, 트레이드 후 첫 경기서 손목 골절…부상자명단 등재",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260729_0003727607"
+          "title": "'역시 손흥민이다!'…지난 10시즌 동안 EPL '최다 기회 창출' 베스트 일레븐 선정, 4명이나 배출한 리버풀",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260729n06145"
         },
         {
-          "title": "MLB 보스턴 미드, 트레이드 후 첫 경기서 손목 골절 '날벼락'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/overseas-baseball/6242199"
+          "title": "손흥민은 프리미어리그 전설이다, 토트넘 떠났어도 기록이 기억...지난 10년간 기회창출 부문 좌측 윙어 1위!",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=691521"
         },
         {
-          "title": "김혜성 딱인데…'유격수 부재' 보스턴, 트레이드 자원이 데뷔전 손목골절이라니...美매체 \"협상 쉽지 않다\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/07/29/MMZWENBSG5QTQYRYMVRGENRQGM/"
+          "title": "손흥민은 프리미어리그 전설이다, 토트넘 떠났어도 기록이 기억…지난 10년간 기회창출 부문 좌측 윙어 1위!",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260730n16129"
         }
       ]
     }
