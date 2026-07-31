@@ -1,286 +1,258 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-30T22:38:43.515Z",
+  "updatedAt": "2026-07-31T00:10:45.978Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "아파트",
+      "id": "박서진",
       "rank": 1,
-      "keyword": "아파트",
+      "keyword": "박서진",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '세제 발표 직전 '숨 고르기'...서울 등 집값 상승폭 둔화세' (YTN) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '김의영, 역전 성공..김다현 꺾고 스타랭킹 女트롯 3위' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "세제 발표 직전 '숨 고르기'...서울 등 집값 상승폭 둔화세",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202607302326108356"
-        },
-        {
-          "title": "서울 아파트값, 역대 최장 ‘불장’보다 최근 1년 반 두 배 더 뛰었다",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02322246645520096"
-        },
-        {
-          "title": "[그래픽] 15억 이하로 몰린 수요…중랑구 상승률 10년만에 최고",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20260730_0002199983"
-        }
-      ]
-    },
-    {
-      "id": "주상욱",
-      "rank": 2,
-      "keyword": "주상욱",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''김부장' 최대 수혜자인데..'악역' 주상욱, 소탈한 반전 근황 \"마누라 생일 축하해\" 차예련과 MZ샷' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'김부장' 최대 수혜자인데..'악역' 주상욱, 소탈한 반전 근황 \"마누라 생일 축하해\" 차예련과 MZ샷",
+          "title": "김의영, 역전 성공..김다현 꺾고 스타랭킹 女트롯 3위",
           "source": "Daum",
-          "url": "https://v.daum.net/v/ttwUMq71hN"
+          "url": "https://v.daum.net/v/20260730174936251"
         },
         {
-          "title": "악역 벗고 사랑꾼 복귀…주상욱, ♥차예련 생일 공개 '달달' - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/07/30/GRSDQMLEGI4DSYZVME3TOYZVGA/"
+          "title": "폭염엔 영탁 생각으로 버텨..스타랭킹 男트롯 '1위'",
+          "source": "스포탈코리아",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553419994"
         },
         {
-          "title": "주상욱, ♥차예련 생일 맞아 '주장금' 변신…돌돔회 케이크까지 정성 가득",
+          "title": "송가인, 스타랭킹 女트롯 259주째 1위…'넘사벽' 철옹성",
           "source": "네이트",
-          "url": "https://news.nate.com/view/20260730n38281"
+          "url": "https://news.nate.com/view/20260730n33058"
         }
       ]
     },
     {
-      "id": "skhy",
-      "rank": 3,
-      "keyword": "skhy",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "id": "야구",
+      "rank": 2,
+      "keyword": "야구",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'SK Hynix leverages Nasdaq ADR to court global investors and AI partners…' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'U-12 리틀야구, 7년 만에 월드시리즈 진출…KBO·SSG, 1000만원 상당 지원' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "SK Hynix leverages Nasdaq ADR to court global investors and AI partners - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-it/2026/07/29/BX7K5W67PVEYBGUTLEBZED62PI/"
+          "title": "U-12 리틀야구, 7년 만에 월드시리즈 진출…KBO·SSG, 1000만원 상당 지원",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260730/134394935/1"
         },
         {
-          "title": "Trending Stocks Today | Nuwellis Shoots up 187.3%",
-          "source": "Moomoo",
-          "url": "https://www.moomoo.com/news/post/73823032/trending-stocks-today-nuwellis-shoots-up-187-3"
-        },
-        {
-          "title": "What SK Hynix’s Share Conversion Will Mean for Its US Premium",
-          "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-29/what-will-sk-hynix-s-share-conversion-mean-for-its-us-premium"
-        }
-      ]
-    },
-    {
-      "id": "사회-보장",
-      "rank": 4,
-      "keyword": "사회 보장",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '완도군, 군민 체감 100% '행복 복지' 시동' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "완도군, 군민 체감 100% '행복 복지' 시동",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026073017400622537"
-        },
-        {
-          "title": "이천시, ‘제6기 지역사회보장계획’ 수립 중간보고회 개최…추진 과정·향후 계획 공유",
-          "source": "주간한국",
-          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7176693"
-        },
-        {
-          "title": "남동구, 제2차 지역사회보장대표협의체 회의 개최",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/RPR20260728004000353"
-        }
-      ]
-    },
-    {
-      "id": "박재현",
-      "rank": 5,
-      "keyword": "박재현",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘삼성 킬러’ 박재현이 ‘삼성 수호신’ 양창섭 잡았다…1회에만 양창섭에 2안타 무너뜨려' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘삼성 킬러’ 박재현이 ‘삼성 수호신’ 양창섭 잡았다…1회에만 양창섭에 2안타 무너뜨려",
+          "title": "‘와 대단하네’ 한국리틀야구, 7년 만에 세계 월드시리즈 진출…KBO도 축하했다, 1천만원 야구용품 전달",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260730051750936"
+          "url": "https://v.daum.net/v/20260730141817725"
         },
         {
-          "title": "[포토]'대구 날씨 참 덥다!' 박상준 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/07/30/2026073016481973225"
-        },
-        {
-          "title": "“핑계 대지 마 콜신호 더 크게 해”…멀티히트+2타점에도 혼난 박재현, 왜? [SD 대구 브리핑]",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20260730/134397156/1"
+          "title": "KBO, 리틀야구 월드시리즈 출전팀에 격려 물품 전달",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11606177"
         }
       ]
     },
     {
-      "id": "mu",
+      "id": "최태원-매수",
+      "rank": 3,
+      "keyword": "최태원 매수",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“가만히 갖고 있으라”던 최태원, 48억 투자… SK하이닉스 첫 직접 매수' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“가만히 갖고 있으라”던 최태원, 48억 투자… SK하이닉스 첫 직접 매수",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731082002674"
+        },
+        {
+          "title": "\"규정상 최대치\" 최태원 SK하이닉스株 첫 매수 '50억원 아래'로 묶인 까닭",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260731_0003730817"
+        },
+        {
+          "title": "최태원, 처음으로 SK하이닉스 주식 샀다···보통주 3620주 매수 “책임경영 차원”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607301943001"
+        }
+      ]
+    },
+    {
+      "id": "나는-solo-그-후-사랑은-계속된다",
+      "rank": 4,
+      "keyword": "나는 solo 그 후 사랑은 계속된다",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“왔어~♡” 8기 영수에게 답한 여자 2호! 커플미 낭낭한 데이트 #나솔사계 EP.176ㅣSBS PLUS X ENAㅣ목요일 밤 …' (programs.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“왔어~♡” 8기 영수에게 답한 여자 2호! 커플미 낭낭한 데이트 #나솔사계 EP.176ㅣSBS PLUS X ENAㅣ목요일 밤 10시 30분",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/plus/loveforever/clip/74495/22000633619"
+        },
+        {
+          "title": "‘나솔사계’ 최종커플 2쌍",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731074209902"
+        },
+        {
+          "title": "8기 영수♥여자 2호 최종 커플···8기 영수·여자 2호·여자 3호 삼각관계 드디어 끝('나솔사계')[순간포착]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/07/30/MRQTQYRUG5RWGOBRGU4DQOLDMU/"
+        }
+      ]
+    },
+    {
+      "id": "전지",
+      "rank": 5,
+      "keyword": "전지",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '배터리 3사 “적자 터널 끝”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "배터리 3사 “적자 터널 끝”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607302033045"
+        },
+        {
+          "title": "NH투자證 \"삼성SDI, 3분기 실적도 기대…목표가 60만원\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731082103692"
+        },
+        {
+          "title": "배터리 3사, 모두 흑자전환 성공했다",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=370826"
+        }
+      ]
+    },
+    {
+      "id": "모아타운",
       "rank": 6,
-      "keyword": "mu",
+      "keyword": "모아타운",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Michael Burry Is Doubling Down His Short Bets Against Micron and Nvidia…' (Barchart.com) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '서울시, 구의·신길·갈현동 '신통기획' 후보지 3곳 추가 선정' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Michael Burry Is Doubling Down His Short Bets Against Micron and Nvidia. What That Tells Us About the Future of Chip Stocks.",
-          "source": "Barchart.com",
-          "url": "https://www.barchart.com/story/news/3522554/michael-burry-is-doubling-down-his-short-bets-against-micron-and-nvidia-what-that-tells-us-about-the-future-of-chip-stocks"
+          "title": "서울시, 구의·신길·갈현동 '신통기획' 후보지 3곳 추가 선정",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260730093600004"
         },
         {
-          "title": "AM Markets Need to Know: AI firms back open-weight models, Burry expands chip shorts, and more (SP500:)",
-          "source": "Seeking Alpha",
-          "url": "https://seekingalpha.com/news/4618585-am-markets-need-to-know-ai-firms-back-open-weight-models-burry-expands-chip-shorts-and-more"
+          "title": "오세훈표 정비사업 속도전…서울 재건축·재개발 어디까지",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731053010421"
         },
         {
-          "title": "Michael Burry Doubles Down On MU, NVDA Shorts While Holding TSLA, PLTR Bets — Here’s What He’s Buying",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-doubles-down-mu-225656653.html"
+          "title": "구의·신길·갈현 신통기획 후보지…2년 내 정비구역 지정",
+          "source": "MTN 머니투데이방송",
+          "url": "https://news.mtn.co.kr/news-detail/2026073017530598598"
         }
       ]
     },
     {
-      "id": "koru",
+      "id": "아마존-실적발표",
       "rank": 7,
-      "keyword": "koru",
-      "volumeLabel": "200+",
+      "keyword": "아마존 실적발표",
+      "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'SK Hynix’s Record Profit Misses Investors’ Lofty AI Expectations' (Bloomberg.com) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '아마존, 분기매출 2천억불 돌파…현금흐름 적자전환에도 주가↑(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "SK Hynix’s Record Profit Misses Investors’ Lofty AI Expectations",
-          "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-28/sk-hynix-s-record-profit-misses-investors-lofty-ai-expectations"
+          "title": "아마존, 분기매출 2천억불 돌파…현금흐름 적자전환에도 주가↑(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731060338365"
         },
         {
-          "title": "Micron Stock Is Getting Hit After SK Hynix’s Fumbled Earnings Moment",
-          "source": "Barron's",
-          "url": "https://www.barrons.com/articles/micron-stock-price-sk-hynix-earnings-ec869b5f"
+          "title": "아마존 사상 첫 분기 매출 2000억달러 넘어...AI인프라 투자에 현금흐름은 적자 전환",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/tech_it/2026/07/31/KSTVUUG23BD33E77MGJNCHIINI/"
         },
         {
-          "title": "Even $64 Billion in Quarterly Profit Is a Disappointment for Chip Investors",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/even-64-billion-quarterly-profit-103300938.html"
+          "title": "'역대급 매출' 아마존도 AI 인프라 투자 확대…반도체 급반등",
+          "source": "MTN 머니투데이방송",
+          "url": "https://news.mtn.co.kr/news-detail/2026073107491180410"
         }
       ]
     },
     {
-      "id": "iren",
+      "id": "leopold-aschenbrenner",
       "rank": 8,
-      "keyword": "iren",
+      "keyword": "leopold aschenbrenner",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'IREN's 5-Gigawatt Roadmap Could Be a Massive Growth Catalyst' (The Motley Fool) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Fonds liquidiert: In wenigen Wochen verlor er Milliarden – Der rasante …' (WELT) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "IREN's 5-Gigawatt Roadmap Could Be a Massive Growth Catalyst",
-          "source": "The Motley Fool",
-          "url": "https://www.fool.com/investing/2026/07/29/irens-5-gigawatt-roadmap-could-be-a-massive-growth/"
+          "title": "Fonds liquidiert: In wenigen Wochen verlor er Milliarden – Der rasante Absturz des deutschen KI-Wunderkinds",
+          "source": "WELT",
+          "url": "https://www.welt.de/wirtschaft/plus6a6b73b3e097baffab33390f/fonds-liquidiert-in-wenigen-wochen-verlor-er-milliarden-der-rasante-absturz-des-deutschen-ki-wunderkinds.html"
         },
         {
-          "title": "Why Is IREN Stock Surging on Thursday?",
-          "source": "Benzinga",
-          "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60798830/why-is-iren-stock-surging-on-thursday"
+          "title": "Situational Awareness: KI-Verluste bringen prominenten Hedgefonds in Not",
+          "source": "Handelsblatt",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/situational-awareness-ki-verluste-bringen-prominenten-hedgefonds-in-not/100244077.html"
         },
         {
-          "title": "Infrastructure Vs. Software: Can IREN Limited Capture The Real Value In AI",
-          "source": "Seeking Alpha",
-          "url": "https://seekingalpha.com/article/4926104-infrastructure-software-iren-stock-capture-real-value-ai"
+          "title": "Asien-Aktienfonds unter Stock-Pickern steuern auf Rekordverlust im Monat zu, sagt Goldman",
+          "source": "MarketScreener Deutschland",
+          "url": "https://de.marketscreener.com/boerse-nachrichten/asien-aktienfonds-unter-stock-pickern-steuern-auf-rekordverlust-im-monat-zu-sagt-goldman-ce7f50dad98cf620"
         }
       ]
     },
     {
-      "id": "배드민턴-선수",
+      "id": "rottach-egern-vs-bayern",
       "rank": 9,
-      "keyword": "배드민턴 선수",
+      "keyword": "rottach-egern vs bayern",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '투이린의 다음 상대는 누구일까요? 바로 타이베이 배드민턴 대회 1번 시드 선수입니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'How & Where to Watch Rottach-Egern vs. Bayern Munich? Start Time, Live …' (Athlon Sports) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "투이린의 다음 상대는 누구일까요? 바로 타이베이 배드민턴 대회 1번 시드 선수입니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/xac-dinh-doi-thu-tiep-theo-cua-thuy-linh-hat-giong-so-1-giai-cau-long-dai-bac"
+          "title": "How & Where to Watch Rottach-Egern vs. Bayern Munich? Start Time, Live Streaming and TV Channels for Pre-Season Friendly",
+          "source": "Athlon Sports",
+          "url": "https://athlonsports.com/soccer/how-where-to-watch-rottach-egern-vs-bayern-munich-time-live-streaming-tv-channels"
         },
         {
-          "title": "응우옌 투이 린, 대만 국제 배드민턴 대회(중국) 8강 진출",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/the-thao/nguyen-thuy-linh-thang-tran-vao-tu-ket-giai-cau-long-quoc-te-dai-loan-trung-quoc-1743270.ldo"
+          "title": "First World Cup participants start pre-season with performance diagnostics tests",
+          "source": "FC Bayern",
+          "url": "https://fcbayern.com/en/news/2026/07/first-world-cup-participants-start-pre-season-with-performance-diagnostics-tests"
         },
         {
-          "title": "베트남 테니스 선수 응우옌 투이 린이 2026 타이베이 오픈 8강에 진출했습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/tay-vot-nguyen-thuy-linh-lot-vao-tu-ket-taipei-open-2026"
-        }
-      ]
-    },
-    {
-      "id": "aapl",
-      "rank": 10,
-      "keyword": "aapl",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Apple's stock drops 8% as supply constraints lead to weak revenue guida…' (CNBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Apple's stock drops 8% as supply constraints lead to weak revenue guidance: Live updates",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/30/apple-earnings-live-updates.html"
-        },
-        {
-          "title": "Apple Slides After Supply Shortages Hurt Its Sales Forecast",
-          "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-30/apple-s-sales-disappoint-in-china-unit-services-business"
-        },
-        {
-          "title": "Apple Guidance Disappoints. The Stock Sinks Further.",
-          "source": "Barron's",
-          "url": "https://www.barrons.com/livecoverage/apple-earnings-stock-price-ai-iphones-tim-cook/card/apple-guidance-disappoints-the-stock-sinks-further--j7rTmt0vkyhxQqMH1X6Q"
+          "title": "Today’s match schedule and broadcast channels: Bayern Munich vs Rot-Egern",
+          "source": "صوت الإمارات",
+          "url": "https://www.voiceofemirates.com/en/sport/2026/07/30/todays-match-schedule-and-broadcast-channels-bayern-munich-vs-rot-egern/"
         }
       ]
     }
