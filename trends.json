@@ -1,34 +1,34 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-31T17:07:23.334Z",
+  "updatedAt": "2026-07-31T18:55:20.745Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "데드캣",
+      "id": "버밍엄-대-바르셀로나",
       "rank": 1,
-      "keyword": "데드캣",
+      "keyword": "버밍엄 대 바르셀로나",
       "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '코스피 역대 기록 다 깼다…‘단숨에 1001p’ 사상 최대 폭등' (JTBC) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"FIFA 징계 받았던 그 한국인\"…바르셀로나와 역대 두 번째 맞대결→\"EPL 복귀 원하는 버밍엄서 빛난다\" 西 매체 조명' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "코스피 역대 기록 다 깼다…‘단숨에 1001p’ 사상 최대 폭등",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12311174"
-        },
-        {
-          "title": "7월 내 눌렸던 코스피‥1천 포인트 '세찬' 반등",
+          "title": "\"FIFA 징계 받았던 그 한국인\"…바르셀로나와 역대 두 번째 맞대결→\"EPL 복귀 원하는 버밍엄서 빛난다\" 西 매체 조명",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260801011912468"
+          "url": "https://v.daum.net/v/20260731184809157"
         },
         {
-          "title": "“공포에 던졌더니 상한가”...삼전닉스 시총, 하루 새 ‘615兆’ 불었다",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20260731027368382"
+          "title": "버밍엄 시티 vs FC 바르셀로나 경기 예측: 예상 라인업",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-birmingham-city-vs-fc-barcelona-doi-hinh-du-kien"
+        },
+        {
+          "title": "버밍엄 시티 대 바르셀로나 축구 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-birmingham-city-vs-barcelona-1743632.ldo"
         }
       ]
     },
@@ -37,16 +37,16 @@
       "rank": 2,
       "keyword": "복도",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '작년에도 그러더니…\"집 좁아\" 아파트 복도에 에어컨 '실외기' 둔 이웃' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '\"미쳤나봐요…아파트 복도에 에어컨 설치\" 황당 주민에 '고통'' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "작년에도 그러더니…\"집 좁아\" 아파트 복도에 에어컨 '실외기' 둔 이웃",
+          "title": "\"미쳤나봐요…아파트 복도에 에어컨 설치\" 황당 주민에 '고통'",
           "source": "네이트",
-          "url": "https://news.nate.com/view/20260731n17224"
+          "url": "https://news.nate.com/view/20260731n30992"
         },
         {
           "title": "\"내 집 좁아\" 아파트 복도에 실외기 둔 입주민…\"전선 잘라라\" 뜻밖의 결과",
@@ -54,20 +54,76 @@
           "url": "https://realty.chosun.com/site/data/html_dir/2026/07/31/2026073102437.html"
         },
         {
-          "title": "“복도 한복판에 에어컨 실외기”…아파트 주민 분통, “지진 난 줄 알았다”",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260731010011653"
+          "title": "아파트 복도에 에어컨 실외기 설치…돌릴 때마다 '가마솥' 열기 , 이웃들 분통 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/07/31/2026073113505289126"
+        }
+      ]
+    },
+    {
+      "id": "데드캣",
+      "rank": 3,
+      "keyword": "데드캣",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 '“믿음이 없어요” 개미 오늘 10조 던졌다…역대 최대' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“믿음이 없어요” 개미 오늘 10조 던졌다…역대 최대",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11606477"
+        },
+        {
+          "title": "7월 내 눌렸던 코스피‥1천 포인트 '세찬' 반등",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260801011912468"
+        },
+        {
+          "title": "코스피 17.91% 역대 최고 폭등‥삼전 26%↑, 하닉 상한가도 최초",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6841591_37004.html"
+        }
+      ]
+    },
+    {
+      "id": "사극",
+      "rank": 4,
+      "keyword": "사극",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '진짜 이게 공개된다고?…넷플릭스에 풀리는 한국 사극 최고의 ‘대작 영화’' (위키트리) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "진짜 이게 공개된다고?…넷플릭스에 풀리는 한국 사극 최고의 ‘대작 영화’",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1149712"
+        },
+        {
+          "title": "\"미간 일부러 더 찡그렸죠\" 노윤서의 첫 사극 '동궁'[왓더OTT]",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6555569"
+        },
+        {
+          "title": "넷플릭스 ‘동궁’ 속 연못이 대학 캠퍼스라고?…해외 관광객도 찾는다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607301120001"
         }
       ]
     },
     {
       "id": "넥슨",
-      "rank": 3,
+      "rank": 5,
       "keyword": "넥슨",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '넥슨, 화상 아동 18명 첫 수술 돕는다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -82,28 +138,23 @@
           "url": "https://zdnet.co.kr/view/?no=20260731144814"
         },
         {
-          "title": "넥슨코리아·임직원 837명, 화상 아동 치료비 8800만원 기부",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260731_0003732120"
+          "title": "넥슨코리아, ‘더블유’ 캠페인 통해 저소득가정 화상 아동 치료비 8800만원 전달",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260731500547"
         }
       ]
     },
     {
       "id": "덕분",
-      "rank": 4,
+      "rank": 6,
       "keyword": "덕분",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“명퇴 후 체인점 2곳 운영… 철저한 시장 분석 덕분”[은퇴 레시피]' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "volumeLabel": "500+",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 '황정민 측 \"스토킹 피해\" vs 폭로자 \"첫 만남부터 스킨십\" 진실공방' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "“명퇴 후 체인점 2곳 운영… 철저한 시장 분석 덕분”[은퇴 레시피]",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260731/134403611/2"
-        },
         {
           "title": "황정민 측 \"스토킹 피해\" vs 폭로자 \"첫 만남부터 스킨십\" 진실공방",
           "source": "뉴시스",
@@ -113,17 +164,50 @@
           "title": "황정민 폭로女 “첫 만남때 스킨십, 고양이 사체 사진은 모욕에 응답한 것”",
           "source": "헤럴드경제",
           "url": "https://biz.heraldcorp.com/article/10826886"
+        },
+        {
+          "title": "[단독] \"살인자로 남아라, 평생\"…황정민, 고양이 사진의 맥락",
+          "source": "디스패치",
+          "url": "https://www.dispatch.co.kr/2345850"
+        }
+      ]
+    },
+    {
+      "id": "디즈니",
+      "rank": 7,
+      "keyword": "디즈니",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '머더클럽' (Disney Plus) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "머더클럽",
+          "source": "Disney Plus",
+          "url": "https://www.disneyplus.com/ko-kr/browse/entity-02b192fc-8bd3-498e-ac64-65245666fc39"
+        },
+        {
+          "title": "‘머더클럽’ 공개하자마자 몰아친 미스터리 추리전‥충주맨 김선태 출격",
+          "source": "뉴스엔",
+          "url": "https://www.newsen.com/news_view.php?uid=202607301702596710"
+        },
+        {
+          "title": "빠니보틀·최양락·최강창민·김선태·김현수, 살인 용의자로…‘머더클럽’ 29일 공개",
+          "source": "싱글리스트",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=754635"
         }
       ]
     },
     {
       "id": "제주항공",
-      "rank": 5,
+      "rank": 8,
       "keyword": "제주항공",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-3",
       "summary": "급상승 시점에 '스카이스캐너, ‘스마트 트래블 어워즈’ 한국에서 최초로 선보여' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -145,114 +229,30 @@
       ]
     },
     {
-      "id": "코스피-야간선물",
-      "rank": 6,
-      "keyword": "코스피 야간선물",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[특징주] '반도체 투 톱' 폭등에 SK스퀘어 등 관련주도 강세' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[특징주] '반도체 투 톱' 폭등에 SK스퀘어 등 관련주도 강세",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260731039500008"
-        },
-        {
-          "title": "[뉴욕증시 전략] MS가 살린 뉴욕증시…반도체주 매도 압력 완화",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260731164211943"
-        },
-        {
-          "title": "[속보]마소가 AI랠리 살렸다…SK하닉ADR 17% 급등, 뉴욕증시 강세 마감",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11606230"
-        }
-      ]
-    },
-    {
-      "id": "은중과-상연",
-      "rank": 7,
-      "keyword": "은중과 상연",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김고은, 제5회 청룡시리즈어워즈 대상…\"매 작품 절실해\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김고은, 제5회 청룡시리즈어워즈 대상…\"매 작품 절실해\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260731174700005"
-        },
-        {
-          "title": "김고은, 대상 받고 오열 \"박지현, 김재원 고마워…당연한 적 없어\" [청룡시리즈어워즈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260731225951742?f=m"
-        },
-        {
-          "title": "김고은, 청룡시리즈어워즈 대상…\"많은 기회 달라\" 눈물 소감 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/07/31/2026073123510579398"
-        }
-      ]
-    },
-    {
       "id": "이선민",
-      "rank": 8,
+      "rank": 9,
       "keyword": "이선민",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''나혼산' 구성환 \"이선민, 개그계의 최수종\"…집들이 선물에 감동' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '\"어떤 미친X이 이걸…\" 구성환, 이선민 집들이 선물에 경악 '뭐길래?' - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'나혼산' 구성환 \"이선민, 개그계의 최수종\"…집들이 선물에 감동",
+          "title": "\"어떤 미친X이 이걸…\" 구성환, 이선민 집들이 선물에 경악 '뭐길래?' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/01/2026080102412237921"
+        },
+        {
+          "title": "구성환, 시장 뒤집은 이선민 인기에 깜짝 \"20대에 서태지급\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/01/2026080102144338561"
+        },
+        {
+          "title": "'44kg 요요' 김신영, '덩어리 3인방' 조롱에 \"효리수 같아\" 너스레[나혼산]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260731234928393"
-        },
-        {
-          "title": "‘나혼산’ 구성환-이선민, 앞치마 맞춰 입었다…김신영 “둘이 포차 하면 대박”",
-          "source": "MBC",
-          "url": "https://m.imbc.com/enews/view/513291"
-        },
-        {
-          "title": "구성환, 집 옥상에 꽃분이 그림+이름 새겼다…뭉클한 추모(나혼산)",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260731n34269?mid=e1200"
-        }
-      ]
-    },
-    {
-      "id": "김혜준",
-      "rank": 9,
-      "keyword": "김혜준",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''킬러들의 쇼핑몰' 시즌2, 김혜준 매력 성장' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'킬러들의 쇼핑몰' 시즌2, 김혜준 매력 성장",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260731221414008"
-        },
-        {
-          "title": "“잘 들어, 정지안” 디즈니+ 1위의 원작은 ‘살인자의 쇼핑몰’이야 [도서 PICK]",
-          "source": "ER 이코노믹리뷰",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=745552"
-        },
-        {
-          "title": "일도류 검술도 대역 없이…'킬러들의 쇼핑몰2' 현리의 존재감",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202607318239H"
+          "url": "https://v.daum.net/v/20260731233737262"
         }
       ]
     }
