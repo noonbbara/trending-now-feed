@@ -1,270 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-31T10:08:21.166Z",
+  "updatedAt": "2026-07-31T12:30:04.007Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "괴산군",
+      "id": "김창옥",
       "rank": 1,
-      "keyword": "괴산군",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
+      "keyword": "김창옥",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "예금",
-      "rank": 2,
-      "keyword": "예금",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '하나은행, 예·적금 기본금리 최대 0.3%포인트 인상' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '김창옥, 얼굴 상처에 팬들 걱정…\"도대체 무슨 일?\" - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "하나은행, 예·적금 기본금리 최대 0.3%포인트 인상",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260731123050958"
-        },
-        {
-          "title": "시중은행 예금금리 릴레이 인상…하나은행도 최대 0.30%P↑ - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/finance/2026/07/31/2026073110174681382"
-        },
-        {
-          "title": "금리 올리는 금융사들…증시 이탈 자금 선점 경쟁",
-          "source": "스트레이트뉴스",
-          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=308072"
-        }
-      ]
-    },
-    {
-      "id": "정념",
-      "rank": 3,
-      "keyword": "정념",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“AI 시대, 종단 해법 없다”… 정념 스님, 총무원장 도전장' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“AI 시대, 종단 해법 없다”… 정념 스님, 총무원장 도전장",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260731163925793"
-        },
-        {
-          "title": "정념 스님, 월정사주지 사직서 제출…“더 넓은 곳으로 나아가”",
-          "source": "법보신문",
-          "url": "https://www.beopbo.com/news/articleView.html?idxno=336928"
-        },
-        {
-          "title": "정념 스님, 월정사 주지 22년 만에 사퇴…총무원장 도전 본격화",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607311355001"
-        }
-      ]
-    },
-    {
-      "id": "암호화폐",
-      "rank": 4,
-      "keyword": "암호화폐",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'IRS 암호화폐 컴플라이언스 서한 받았나…진짜 아닐 수도' (BeInCrypto) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "IRS 암호화폐 컴플라이언스 서한 받았나…진짜 아닐 수도",
-          "source": "BeInCrypto",
-          "url": "https://kr.beincrypto.com/irs-fake-letters-crypto-scam-warning/"
-        },
-        {
-          "title": "암호화폐는 AI의 도구로 설계 된 것입니다.",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/joosikstudy/coinschool/contents/260731170444232eo"
-        },
-        {
-          "title": "비자 최신 연구: 1.1억 건 거래 뒤에서, 에이전트 결제가 인터넷 상업을 재구성...｜Visa, 대리 결제",
-          "source": "链捕手ChainCatcher",
-          "url": "https://www.chaincatcher.com/ko/article/2278782"
-        }
-      ]
-    },
-    {
-      "id": "대학-입시",
-      "rank": 5,
-      "keyword": "대학 입시",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독][2027대입] '사탐런 유리할까?' 주요22개대 가운데 '사탐런 불가'..서울대 등 7개 '수시 수능최저 과탐지정'' (베리타스알파) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[단독][2027대입] '사탐런 유리할까?' 주요22개대 가운데 '사탐런 불가'..서울대 등 7개 '수시 수능최저 과탐지정'",
-          "source": "베리타스알파",
-          "url": "https://www.veritas-a.com/news/articleView.html?idxno=621662"
-        },
-        {
-          "title": "사탐런 확산에도…서울 9개대 자연계 합격권 78%는 '과탐 2과목 응시자'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260726134842697"
-        },
-        {
-          "title": "사탐런 속에도 자연계열 정시 합격권은 과탐이 주도",
-          "source": "https://www.2news.co.kr/",
-          "url": "https://www.2news.co.kr/news/articleView.html?idxno=17817"
-        }
-      ]
-    },
-    {
-      "id": "로베르토-데-제르비",
-      "rank": 6,
-      "keyword": "로베르토 데 제르비",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '손흥민 뛰던 그 토트넘 맞아? \"폭탄 영입 남았다\" 4500억 쓰고도 깜짝 선언...데 제르비 감독 \"이제 60% 완료했다\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "손흥민 뛰던 그 토트넘 맞아? \"폭탄 영입 남았다\" 4500억 쓰고도 깜짝 선언...데 제르비 감독 \"이제 60% 완료했다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260731113136451"
-        },
-        {
-          "title": "\"원하는 선수가 생기면 상어처럼 변한다\"…공격수 영입 시사한 데 제르비 토트넘 감독, \"득점력 있는 선수 필요\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260731n10672"
-        },
-        {
-          "title": "4600억원 쓴 토트넘⋯판더펜 “새로운 야심 보인다”",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2608431"
-        }
-      ]
-    },
-    {
-      "id": "비상-착륙",
-      "rank": 7,
-      "keyword": "비상 착륙",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“원인 모를 악취”…승무원 줄줄이 이상 증세에 비상착륙한 항공기' (전자신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“원인 모를 악취”…승무원 줄줄이 이상 증세에 비상착륙한 항공기",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260730000412"
-        },
-        {
-          "title": "아메리칸항공 여객기, '악취' 탓에 승무원 집단 어지럼증…결국 '비상착륙'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260729_0003728248"
-        },
-        {
-          "title": "승무원 6명이 갑자기 병에 걸려 비행기가 비상 착륙을 해야 했습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/6-tiep-vien-do-benh-dot-ngot-may-bay-ha-canh-khan-cap"
-        }
-      ]
-    },
-    {
-      "id": "제주시장",
-      "rank": 8,
-      "keyword": "제주시장",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '민선9기 첫 제주시장 발표 앞두고 도의회 이상기류...무슨일?' (헤드라인제주) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "민선9기 첫 제주시장 발표 앞두고 도의회 이상기류...무슨일?",
-          "source": "헤드라인제주",
-          "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596774"
-        },
-        {
-          "title": "제주 기후경제부지사에 이창흠·제주시장에 이상봉 지명",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260731115145127"
-        },
-        {
-          "title": "“어쩔 수 없이 尹정부 파견”, “의장 출신이 왜?” 정면돌파 나선 위성곤",
-          "source": "제주의소리",
-          "url": "https://www.jejusori.net/news/articleView.html?idxno=505182"
-        }
-      ]
-    },
-    {
-      "id": "휴림로봇",
-      "rank": 9,
-      "keyword": "휴림로봇",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"휴림로봇 최대주주 변경 후…\" 제이케이시냅스 경영진 '자사주 매입'' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"휴림로봇 최대주주 변경 후…\" 제이케이시냅스 경영진 '자사주 매입'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260731091329415"
-        },
-        {
-          "title": "제이케이시냅스 대표이사·부대표, 장내 매수로 지분 확대… 주주가치 제고 - 조선비즈",
+          "title": "김창옥, 얼굴 상처에 팬들 걱정…\"도대체 무슨 일?\" - 조선비즈",
           "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/stock_general/2026/07/31/4LMWQF2TYJFUPNALN5RDDXHF4M/"
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/07/30/MZTGCNJQGU3DMNTEHA2DAN3GGY/"
         },
         {
-          "title": "[더벨]제이케이시냅스 경영진, 자사주 12만6872주 장내매수 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/07/31/2026073108509624850"
+          "title": "'치매 증상' 김창옥, 퉁퉁 부은 모습…\"얼굴에 손님 오셨네\" 깜짝 [RE:스타]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260731n19336"
+        },
+        {
+          "title": "‘156만 유튜버’ 김창옥, 얼굴 무슨 일…“손님이 오셨네요” [IS하이컷]",
+          "source": "일간스포츠",
+          "url": "https://isplus.com/article/view/isp202607300267"
         }
       ]
     },
     {
-      "id": "이소영",
-      "rank": 10,
-      "keyword": "이소영",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "id": "폭염",
+      "rank": 2,
+      "keyword": "폭염",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '포천시, GTX-G 유치 승부수…국가철도망 포함 정부에 촉구' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '오후 1시 40분 경남 양산 41.4도‥기상 관측사상 역대 최고 기록' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "포천시, GTX-G 유치 승부수…국가철도망 포함 정부에 촉구",
+          "title": "오후 1시 40분 경남 양산 41.4도‥기상 관측사상 역대 최고 기록",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6841496_36918.html"
+        },
+        {
+          "title": "경남 양산 41.4도…국내 관측 사상 ‘최고’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8625714"
+        },
+        {
+          "title": "[날씨] 내일도 전국 무더위·열대야…경남권 극단적 더위",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260731145300004"
+        }
+      ]
+    },
+    {
+      "id": "박성재",
+      "rank": 3,
+      "keyword": "박성재",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '내란특검, 박성재 징역 25년 1심 판결 전부 항소 취하' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "내란특검, 박성재 징역 25년 1심 판결 전부 항소 취하",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1270922.html"
+        },
+        {
+          "title": "종합특검 \"박성재 청탁금지법 위반, 이첩 대상 아냐\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260731210243FF4"
+        },
+        {
+          "title": "공소기각된 박성재 '김건희 수사 무마 청탁' 의혹‥특검끼리 이첩 입장 갈려",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6841535_36918.html"
+        }
+      ]
+    },
+    {
+      "id": "뉴데일리",
+      "rank": 4,
+      "keyword": "뉴데일리",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"결국 대역전\" \"노 대통령께\" \"노무현처럼\"…전대 첫 개표 촉각' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"결국 대역전\" \"노 대통령께\" \"노무현처럼\"…전대 첫 개표 촉각",
           "source": "Daum",
-          "url": "https://v.daum.net/v/8LXOVF1yyu"
+          "url": "https://v.daum.net/v/20260731201347480"
         },
         {
-          "title": "이소영 의원, 국토부 차관 전격 면담…의왕·과천 교통난 해법 '압박'",
+          "title": "김민석 \"7% 역전극 될 것‥첫 주에 10% 밀리면 박빙 혈전\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6841499_36911.html"
+        },
+        {
+          "title": "민주당 당 대표 후보자들, JTBC TV 토론서 ‘정책ㆍ공약’ 겨룬다...실무 협의 돌입",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12311132"
+        }
+      ]
+    },
+    {
+      "id": "이승영",
+      "rank": 5,
+      "keyword": "이승영",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“아빠가 딸에게 문제 생기면 못 참는 건 만국 공통이니까···액션, 몸 괜찮을 때 더 하고 싶었다”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“아빠가 딸에게 문제 생기면 못 참는 건 만국 공통이니까···액션, 몸 괜찮을 때 더 하고 싶었다”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607310700001"
+        },
+        {
+          "title": "“사이다 액션 덕분? 아니죠”…소지섭이 밝힌 ‘김부장’ 23.1% 진짜 이유",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/culture/culture_general/1270802.html"
+        },
+        {
+          "title": "'김부장' 감독 \"삼고초려 끝 만난 소지섭, 연기 깊이에 놀랐죠\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260730180500005"
+        }
+      ]
+    },
+    {
+      "id": "스파이더맨-쿠키영상",
+      "rank": 6,
+      "keyword": "스파이더맨 쿠키영상",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[특집] 브랜드 뉴 외화가 온다, 와 4편의 외화들' (씨네21) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[특집] 브랜드 뉴 외화가 온다, 와 4편의 외화들",
+          "source": "씨네21",
+          "url": "https://cine21.com/news/view/?mag_id=110426"
+        },
+        {
+          "title": "'스파이더맨' 톰 홀랜드, 韓 팬들에 당부 \"스포일러 빌런 되지 말길\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731182809676"
+        },
+        {
+          "title": "스크린으로 달려온 BMW…스파이더맨서 뉴 iX3 첫 공개",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260731094758"
+        }
+      ]
+    },
+    {
+      "id": "허재원",
+      "rank": 7,
+      "keyword": "허재원",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'K리그1 제주 GK 허재원, 뮌헨에 6개월 임대…완전이적 옵션 포함' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "K리그1 제주 GK 허재원, 뮌헨에 6개월 임대…완전이적 옵션 포함",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260731165800007"
+        },
+        {
+          "title": "[오피셜] 'K리그→뮌헨 직행' 골키퍼 나왔다! 제주 SK 허재원 '깜짝' 임대 이적 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/07/31/2026073119072521676"
+        },
+        {
+          "title": "K리그1 제주 골키퍼 허재원, 독일 바이에른 뮌헨 임대 이적",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260731/134404235/1"
+        }
+      ]
+    },
+    {
+      "id": "청룡시리즈어워즈-2026",
+      "rank": 8,
+      "keyword": "청룡시리즈어워즈 2026",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '제5회 청룡시리즈어워즈 빛낸 스타들' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "제5회 청룡시리즈어워즈 빛낸 스타들",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/photo/202607312024202201"
+        },
+        {
+          "title": "신민아가 반한 김우빈",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260731_0003730783"
+          "url": "https://www.newsis.com/view/NISI20260731_0021384719"
         },
         {
-          "title": "김성제 의왕시장, 국토부 2차관 면담...'위례~과천선 연장' 등 철도망 건의",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260731001390"
+          "title": "주우재, 빛나는 등장 [사진]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731184009914"
+        }
+      ]
+    },
+    {
+      "id": "한식대첩",
+      "rank": 9,
+      "keyword": "한식대첩",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"북에 있는 자녀에 보냈는데\"…'한식대첩3' 탈북 셰프, 사기 피해 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"북에 있는 자녀에 보냈는데\"…'한식대첩3' 탈북 셰프, 사기 피해 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/07/31/2026073108195519876"
+        },
+        {
+          "title": "특종세상 - 탈북 요리사 허진, 가족을 두고 홀로 탈북한 사연은?",
+          "source": "www.mbn.co.kr",
+          "url": "https://www.mbn.co.kr/vod/programContents/previewlist/566/2829/1155121"
+        },
+        {
+          "title": "[MBN] 탈북 1호 된장 명인과 유기견 집사",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729171504374"
+        }
+      ]
+    },
+    {
+      "id": "문정빈",
+      "rank": 10,
+      "keyword": "문정빈",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '위기의 LG…염경엽 감독 \"난 쓴맛·단맛 다 본 사람…일어설 것\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "위기의 LG…염경엽 감독 \"난 쓴맛·단맛 다 본 사람…일어설 것\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260730165303627?f=p"
+        },
+        {
+          "title": "'천만다행' 손등 사구 교체→병원 검진 결과, LG 문정빈 \"뼈에 이상 없다. 단순 타박\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/07/30/G5STOMDBG44DEYJSHEYDCNTFMM/"
+        },
+        {
+          "title": "7번 타자로 내려간 LG 문보경…\"당분간 그 자리에서 쓸 수도\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260729154400007"
         }
       ]
     }
