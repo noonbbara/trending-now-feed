@@ -1,15 +1,15 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-31T20:24:35.386Z",
+  "updatedAt": "2026-07-31T21:41:10.618Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
       "id": "버밍엄-대-바르셀로나",
       "rank": 1,
       "keyword": "버밍엄 대 바르셀로나",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
+      "volumeLabel": "5000+",
+      "startedLabel": "4시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 '\"FIFA 징계 받았던 그 한국인\"…바르셀로나와 역대 두 번째 맞대결→\"EPL 복귀 원하는 버밍엄서 빛난다\" 西 매체 조명' (Daum) 관련 뉴스가 함께 포착됐어요.",
@@ -18,7 +18,7 @@
         {
           "title": "\"FIFA 징계 받았던 그 한국인\"…바르셀로나와 역대 두 번째 맞대결→\"EPL 복귀 원하는 버밍엄서 빛난다\" 西 매체 조명",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260731184809157"
+          "url": "https://v.daum.net/v/20260731184809157?f=p"
         },
         {
           "title": "버밍엄 시티 vs FC 바르셀로나 경기 예측: 예상 라인업",
@@ -36,94 +36,150 @@
       "id": "주식시장",
       "rank": 2,
       "keyword": "주식시장",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''코스피 폭등의 역설' 돈 필요한 기업들 \"주식시장 No, 은행 대출 Yes!\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '[이슈]코스피 17% 폭등? 데드캣 바운스 우려 이유' (문화일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'코스피 폭등의 역설' 돈 필요한 기업들 \"주식시장 No, 은행 대출 Yes!\"",
+          "title": "[이슈]코스피 17% 폭등? 데드캣 바운스 우려 이유",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11606475"
+        },
+        {
+          "title": "외국인 \"지금이 기회\" 8.7조 폭풍 매수할 때...10조 털고 나간 개미들 '눈물'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/uaUHCid8jf"
+          "url": "https://v.daum.net/v/20260801054130737"
         },
         {
-          "title": "기업 43% “은행 자금차입 가장 어려워져”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/article/all/20260730/134397780/2"
+          "title": "'18% 상승' 코스피, 역대급 반등...SK하이닉스, 사상 첫 상한가 기록",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0102_202607312236571304"
+        }
+      ]
+    },
+    {
+      "id": "아틀레티코-마드리드",
+      "rank": 3,
+      "keyword": "아틀레티코 마드리드",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '마드리드보다 빨랐던 ‘이강인’ 도림동 피셜의 전말은?' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "마드리드보다 빨랐던 ‘이강인’ 도림동 피셜의 전말은?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8622574"
         },
         {
-          "title": "직·간접금융 다 어려워진 기업 자금조달⋯ “은행·증권 기업금융 확대 필요”",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260730500406"
+          "title": "[오피셜] “이강인의 시간은 끝났다” 결국 현실로···AT 마드리드 합류 실패 “맨유전 소집 명단 제외” 한국에...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608010525003"
+        },
+        {
+          "title": "'아틀레티코 이적' 이강인, 결국 현지 합류 불발…한국서 데뷔전 유력",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260731_0003731316"
+        }
+      ]
+    },
+    {
+      "id": "대통령",
+      "rank": 4,
+      "keyword": "대통령",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '아르헨서 내년부터 원유 수입‥이중과세 방지협정 최종 타결' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "아르헨서 내년부터 원유 수입‥이중과세 방지협정 최종 타결",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260801055100776"
+        },
+        {
+          "title": "李 대통령, '아르헨티나의 트럼프' 밀레이와 케미는? \"공감 컸고 화기애애\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/08/01/2026080106174394076"
+        },
+        {
+          "title": "기념 촬영하는 이재명 대통령과 하비에르 밀레이 대통령",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260801_0021384966"
+        }
+      ]
+    },
+    {
+      "id": "아성다이소",
+      "rank": 5,
+      "keyword": "아성다이소",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"또 품절될라\"…다이소, 5000원 '초가성비 가전' 내놨다 [권 기자의 장바구니]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"또 품절될라\"…다이소, 5000원 '초가성비 가전' 내놨다 [권 기자의 장바구니]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202607292298i"
+        },
+        {
+          "title": "[고물가 시대 초저가 생존전략] 3%대 물가에 달라진 장바구니…일상이 된 초저가 소비",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/pLBo0vlwlW"
+        },
+        {
+          "title": "다이소 여름철 품절대란 품목 3가지",
+          "source": "톱클래스",
+          "url": ""
         }
       ]
     },
     {
       "id": "birmingham-vs-barcelona",
-      "rank": 3,
+      "rank": 6,
       "keyword": "birmingham vs barcelona",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '¿Cómo ver el partido del Barcelona vs Birmingham en TV y streaming?' (Sports Illustrated) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "¿Cómo ver el partido del Barcelona vs Birmingham en TV y streaming?",
-          "source": "Sports Illustrated",
-          "url": "https://www.si.com/es-us/futbol/como-ver-el-partido-del-barcelona-vs-birmingham-en-tv-y-streaming-31-07-2026"
-        },
-        {
-          "title": "¿Por qué no juegan Lamine Yamal y Raphinha en Birmingham vs. Barcelona?",
-          "source": "Bolavip",
-          "url": "https://bolavip.com/laliga/por-que-no-juegan-lamine-yamal-y-raphinha-en-birmingham-vs-barcelona"
-        },
-        {
-          "title": "Debuta un fichaje del Barça: el once de Hansi Flick para el primer amistoso de pretemporada en Birmingham",
-          "source": "Crónica Global",
-          "url": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260731/hansi-flick-estrenar-pretemporada-barca-birmingham-city/1003742783894_0.html"
-        }
-      ]
-    },
-    {
-      "id": "데드캣",
-      "rank": 4,
-      "keyword": "데드캣",
       "volumeLabel": "1000+",
-      "startedLabel": "5시간 전",
+      "startedLabel": "3시간 전",
       "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '악몽의 7월 끝, 8월은 웃을까…팔란티어·샌디스크 실적까지 확인해야 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "changeLabel": "-3",
+      "summary": "급상승 시점에 'El faraón Hamza presenta candidatura para el '9'' (Mundo Deportivo) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "악몽의 7월 끝, 8월은 웃을까…팔란티어·샌디스크 실적까지 확인해야 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/07/31/2026073116493843008"
+          "title": "El faraón Hamza presenta candidatura para el '9'",
+          "source": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260731/1004212121/faraon-presenta-candidatura-9.html"
         },
         {
-          "title": "“믿음이 없어요” 개미 오늘 10조 던졌다…역대 최대",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11606477"
+          "title": "Birmingham vs. Barcelona: Cuotas de Apuestas – 31 de Julio",
+          "source": "Gambling 911",
+          "url": "https://www.gambling911.com/birmingham-vs-barcelona-cuotas-de-apuestas-31-de-julio"
         },
         {
-          "title": "[속보] 코스피, 사상최대 폭등 마감…17.9% 오른 6,595",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260731118300008"
+          "title": "Karim Adeyemi debuta como titular ante Birmingham City con el dorsal 14; Raphinha inicia en la banca",
+          "source": "beIN SPORTS",
+          "url": "https://www.beinsports.com/es-us/football/amistosos/articles/karim-adeyemi-titular-ante-birmingham-city-y-estrenar%C3%A1-el-dorsal-14-con-el-barcelona-2026-07-31"
         }
       ]
     },
     {
       "id": "사극",
-      "rank": 5,
+      "rank": 7,
       "keyword": "사극",
       "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "5시간 전",
       "change": "down",
-      "changeLabel": "-1",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '진짜 이게 공개된다고?…넷플릭스에 풀리는 한국 사극 최고의 ‘대작 영화’' (위키트리) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -133,53 +189,53 @@
           "url": "https://www.wikitree.co.kr/articles/1149712"
         },
         {
-          "title": "\"미간 일부러 더 찡그렸죠\" 노윤서의 첫 사극 '동궁'[왓더OTT]",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6555569"
-        },
-        {
           "title": "넷플릭스 ‘동궁’ 속 연못이 대학 캠퍼스라고?…해외 관광객도 찾는다",
           "source": "경향신문",
           "url": "https://www.khan.co.kr/article/202607301120001"
+        },
+        {
+          "title": "\"미간 일부러 더 찡그렸죠\" 노윤서의 첫 사극 '동궁'[왓더OTT]",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6555569"
         }
       ]
     },
     {
-      "id": "넥슨",
-      "rank": 6,
-      "keyword": "넥슨",
-      "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '넥슨, 화상 아동 18명 첫 수술 돕는다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "id": "염정아",
+      "rank": 8,
+      "keyword": "염정아",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '염정아, SNS 개설 후 반전 일상…남편·동료와 다정한 투샷 공개' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "넥슨, 화상 아동 18명 첫 수술 돕는다",
+          "title": "염정아, SNS 개설 후 반전 일상…남편·동료와 다정한 투샷 공개",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260731_0003732033"
+        },
+        {
+          "title": "염정아, 결혼 20주년에도…의사 ♥남편과 손잡고 다니는 일상",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260731105250775"
+          "url": "https://v.daum.net/v/20260731191137855"
         },
         {
-          "title": "넥슨코리아, 임직원과 함께 만드는 나눔 문화 '더블유 캠페인' 전개",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260731144814"
-        },
-        {
-          "title": "넥슨코리아, ‘더블유’ 캠페인 통해 저소득가정 화상 아동 치료비 8800만원 전달",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260731500547"
+          "title": "염정아, ♥병원장 남편과 20년만에 공개 데이트..알고보니 둘만의 생일 파티 [핫피플] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/07/31/GJRTAMZUMQZWMMRSHA3DOZTDMM/"
         }
       ]
     },
     {
       "id": "바르셀로나",
-      "rank": 7,
+      "rank": 9,
       "keyword": "바르셀로나",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '바르셀로나 전설 테어 슈테겐, 아약스 1년 임대 임박···선수단 작별 인사 후 바르셀로나 훈련장 떠나' (매일경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -196,63 +252,35 @@
         {
           "title": "\"FIFA 징계 받았던 그 한국인\"…바르셀로나와 역대 두 번째 맞대결→\"EPL 복귀 원하는 버밍엄서 빛난다\" 西 매체 조명",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260731184809157"
+          "url": "https://v.daum.net/v/20260731184809157?f=p"
         }
       ]
     },
     {
       "id": "디즈니",
-      "rank": 8,
+      "rank": 10,
       "keyword": "디즈니",
       "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
+      "startedLabel": "6시간 전",
       "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '머더클럽' (Disney Plus) 관련 뉴스가 함께 포착됐어요.",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 '절박한 디즈니+ 구원투수로 떠오른 MLB와 롤라팔루자 [엔터그알]' (MTN 머니투데이방송) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "머더클럽",
-          "source": "Disney Plus",
-          "url": "https://www.disneyplus.com/ko-kr/browse/entity-02b192fc-8bd3-498e-ac64-65245666fc39"
+          "title": "절박한 디즈니+ 구원투수로 떠오른 MLB와 롤라팔루자 [엔터그알]",
+          "source": "MTN 머니투데이방송",
+          "url": "https://news.mtn.co.kr/news-detail/2026072916122161334"
         },
         {
-          "title": "‘머더클럽’ 공개하자마자 몰아친 미스터리 추리전‥충주맨 김선태 출격",
-          "source": "뉴스엔",
-          "url": "https://www.newsen.com/news_view.php?uid=202607301702596710"
+          "title": "디즈니플러스 전면 개편…현지 콘텐츠 투자 두 배 늘려",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167008"
         },
         {
-          "title": "빠니보틀·최양락·최강창민·김선태·김현수, 살인 용의자로…‘머더클럽’ 29일 공개",
-          "source": "싱글리스트",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=754635"
-        }
-      ]
-    },
-    {
-      "id": "제주항공",
-      "rank": 9,
-      "keyword": "제주항공",
-      "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '외국인에 인천~제주 항공권 무료 지원…지역관광 활성화 나선다' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "외국인에 인천~제주 항공권 무료 지원…지역관광 활성화 나선다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260730173304610"
-        },
-        {
-          "title": "외국인만 공짜로 태워준다…제주행 비행기에 1억 쏜다는 한국공항공사, 왜?",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20074079"
-        },
-        {
-          "title": "한국공항공사,인천-제주노선 외국인 관광객에 항공권 지원",
-          "source": "세계일보",
-          "url": "https://m.segye.com/view/20260730511392"
+          "title": "넷플·티빙 이어 디플도 참전…OTT, '라이브 콘텐츠' 전쟁",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260728n30841?mid=n1101"
         }
       ]
     }
