@@ -1,286 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-31T04:03:07.584Z",
+  "updatedAt": "2026-07-31T07:25:00.693Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "며느리",
+      "id": "죽음",
       "rank": 1,
-      "keyword": "며느리",
-      "volumeLabel": "1000+",
+      "keyword": "죽음",
+      "volumeLabel": "5000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '주말 외벌이 아들 일 시킨 며느리 향해 \"집에서 놀면서 뭐하냐\" 못마땅' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '휴가철 교통사고 사망자 평소보다 8.3% 급증…강원 '전국 최고'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "주말 외벌이 아들 일 시킨 며느리 향해 \"집에서 놀면서 뭐하냐\" 못마땅",
+          "title": "휴가철 교통사고 사망자 평소보다 8.3% 급증…강원 '전국 최고'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260730175150336"
+        },
+        {
+          "title": "휴가철 강원 교통사고 급증…외지 운전자 사고 32.7%↑",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260730_0003729310"
+        },
+        {
+          "title": "여름철 교통사고 증가율 1위는 '강원'…\"피서지 초행길 조심\"",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6244223"
-        },
-        {
-          "title": "남편이 스트레스 받아 퇴사했는데…시어머니는 \"며느리가 부추긴 탓\"",
-          "source": "아이뉴스24",
-          "url": ""
-        },
-        {
-          "title": "남편이 스트레스 받아 퇴사했는데…시어머니는 \"며느리가 부추긴 탓\"",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260731n09476"
+          "url": "https://www.news1.kr/local/kangwon/6244450"
         }
       ]
     },
     {
-      "id": "aig-여자-오픈",
+      "id": "설-영우",
       "rank": 2,
-      "keyword": "aig 여자 오픈",
-      "volumeLabel": "1000+",
+      "keyword": "설 영우",
+      "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '유해란, 메이저 3연승 '시동'…AIG 여자오픈서 1R 공동 2위' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"대표팀에서 자진 하차해라\" 비판에 고소 선언한 설영우, 소속팀에서는 핵심 선수로 분류 \"빠지면 가장 티가 난다\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "유해란, 메이저 3연승 '시동'…AIG 여자오픈서 1R 공동 2위",
+          "title": "\"대표팀에서 자진 하차해라\" 비판에 고소 선언한 설영우, 소속팀에서는 핵심 선수로 분류 \"빠지면 가장 티가 난다\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260731084639439"
+          "url": "https://v.daum.net/v/20260731100307588"
         },
         {
-          "title": "동반한 윤이나·양윤서, AIG여자오픈 첫날 어땠나? [LPGA 메이저]",
-          "source": "골프한국",
-          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021313"
-        },
-        {
-          "title": "AIG 여자오픈 우승 공식은…‘전초전 톱10’과 ‘퍼팅 이득 타수 2타’[정문영의 데이터골프]",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20073725"
-        }
-      ]
-    },
-    {
-      "id": "고소",
-      "rank": 3,
-      "keyword": "고소",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '검찰, ’양정원 사건 무마 의혹’ 강남경찰서 추가 유착 수사' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "검찰, ’양정원 사건 무마 의혹’ 강남경찰서 추가 유착 수사",
+          "title": "설영우, UCL 예선서 1호 도움…팀은 5-0 승",
           "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260729054821ikr"
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260730232450aDZ"
         },
         {
-          "title": "‘양정원 사건 수사 무마 의혹’ 강남서, 연루 의혹 경찰관 더 있었다",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000000189"
-        },
-        {
-          "title": "양정원 수사 무마 청탁 녹취 나왔다…\"고소 취소시키겠다\"",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=831843"
+          "title": "설영우, 시즌 1호 도움‥즈베즈다 챔스리그 3차 예선 진출",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6841128_36946.html"
         }
       ]
     },
     {
-      "id": "체포",
+      "id": "손주",
+      "rank": 3,
+      "keyword": "손주",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"부모님께 아이 맡기기 수월해졌어요\".. 손주돌봄수당 90%가 '만족'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"부모님께 아이 맡기기 수월해졌어요\".. 손주돌봄수당 90%가 '만족'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731112629230"
+        },
+        {
+          "title": "제주 손주돌봄수당 호응…서귀포 참여자 만족도 90%",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260731_0003731300"
+        },
+        {
+          "title": "서귀포시 손주돌봄수당 지원사업 호응...수혜자 90% '만족'",
+          "source": "헤드라인제주",
+          "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596782"
+        }
+      ]
+    },
+    {
+      "id": "장동주",
       "rank": 4,
-      "keyword": "체포",
-      "volumeLabel": "500+",
+      "keyword": "장동주",
+      "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '말다툼하던 지인 머리 10㎏ 덤벨로 내리친 70대 현행범 체포' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[단독] '은퇴 선언' 장동주, 본격 크리에이터 전향…\"채무 다 갚으면 배우 복귀할 것\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "말다툼하던 지인 머리 10㎏ 덤벨로 내리친 70대 현행범 체포",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260730165200064"
+          "title": "[단독] '은퇴 선언' 장동주, 본격 크리에이터 전향…\"채무 다 갚으면 배우 복귀할 것\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731085657720"
         },
         {
-          "title": "말다툼하다 10kg 덤벨로 지인 내려친 70대 체포",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8624472"
-        },
-        {
-          "title": "말다툼하던 지인 머리 10kg 덤벨로 내리친 70대…‘살인미수’ 체포",
+          "title": "'돌연 은퇴' 장동주, 새 소속사 찾았다…40억 빚 청산 눈앞 \"다 갚고 복귀 염원\" [핫피플]",
           "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260730022920430"
+          "url": "https://www.koreadaily.com/article/20260730170358723"
+        },
+        {
+          "title": "‘돌연 은퇴’ 장동주, 배우 접고 크리에이터로…틱톡서 월 3000만~4000만원 수익",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10826600"
         }
       ]
     },
     {
-      "id": "서장훈",
+      "id": "소녀시대",
       "rank": 5,
-      "keyword": "서장훈",
-      "volumeLabel": "200+",
+      "keyword": "소녀시대",
+      "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''이숙캠' 서장훈, 1년에 차 7번 바꾼 남편에 \"돈 개뿔도 없으면서\" 일갈' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[공식] 권유리, 소녀시대 20주년 1년 앞두고 SM과 전속계약 종료' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'이숙캠' 서장훈, 1년에 차 7번 바꾼 남편에 \"돈 개뿔도 없으면서\" 일갈",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260730224642341"
+          "title": "[공식] 권유리, 소녀시대 20주년 1년 앞두고 SM과 전속계약 종료",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260731/134400706/1"
         },
         {
-          "title": "1년에 차만 7번 바꾸고 장모 명의 대출도…'코인 중독' 남편, 충격 실태",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260731_0003731006"
+          "title": "유리, 19년 만에 SM 떠난다 \"소녀시대 활동은 계속\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6245322"
         },
         {
-          "title": "“가식 떨지마요 역겨우니까”…시모에 막말문자 며느리에 분노한 서장훈의 한마디",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/culture/12113159"
+          "title": "[공식] 유리, SM과 19년 전속계약 종료 \"소녀시대 활동은 계속\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/07/31/GQ3WMYZWGVTDQOJUMZSGKMJWGE/"
         }
       ]
     },
     {
-      "id": "노동",
+      "id": "개인정보",
       "rank": 6,
-      "keyword": "노동",
-      "volumeLabel": "200+",
+      "keyword": "개인정보",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독]민주당 반대했던 ‘52시간 예외’ 살리고 기간제 연장까지···반도체 메가특구 ‘노동 실험장’ 되나' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '소비자분쟁조정위 \"쿠팡, 정보유출 피해자에 현금 10만원씩 배상해야\"' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[단독]민주당 반대했던 ‘52시간 예외’ 살리고 기간제 연장까지···반도체 메가특구 ‘노동 실험장’ 되나",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607310600031"
+          "title": "소비자분쟁조정위 \"쿠팡, 정보유출 피해자에 현금 10만원씩 배상해야\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/economy_general/2026/07/31/XZOXGZ57QJGTDHR6RHT4OGAGNQ/"
         },
         {
-          "title": "與, '메가특구 52시간 예외'에 \"결론 안나…당내 일부 이견\"",
+          "title": "\"쿠팡 개인정보 유출 배상\" 첫 인정…소비자원, 1인당 10만원 지급 결정",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260731121448719"
+          "url": "https://v.daum.net/v/20260731155929344"
         },
         {
-          "title": "고동진 의원 '반도체 특별법 개정안 국회 제출 관련 기자회견'",
+          "title": "쿠팡 개인정보 유출 첫 배상 인정…쿠팡 \"조정안 면밀 검토\"(종합)",
           "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20260731_0021384086"
+          "url": "https://www.newsis.com/view/NISX20260731_0003731723"
         }
       ]
     },
     {
-      "id": "일본-금리",
+      "id": "기아",
       "rank": 7,
-      "keyword": "일본 금리",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '일본은행, 기준금리 동결…1% 유지' (매일경제 마켓) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "일본은행, 기준금리 동결…1% 유지",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1131640"
-        },
-        {
-          "title": "코스피지수 급반등·BOJ 금리 동결…아시아 증시 일제히 상승",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2038827"
-        },
-        {
-          "title": "[노현우의 채권분석] '내 델타 너무 큰가' 걱정 들던 찰나",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427975"
-        }
-      ]
-    },
-    {
-      "id": "네이처셀",
-      "rank": 8,
-      "keyword": "네이처셀",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '네이처셀, 조인트스템 FDA pre-BLA 미팅 신청…美 허가 속도' (프라임경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "네이처셀, 조인트스템 FDA pre-BLA 미팅 신청…美 허가 속도",
-          "source": "프라임경제",
-          "url": "https://m.newsprime.co.kr/section_view.html?no=742187&menu=1"
-        },
-        {
-          "title": "식약처, 줄기세포치료제 허가 반려…법원 “기존 치료제보다 우월할 필요 없어”",
-          "source": "MEDI:GATE NEWS",
-          "url": "https://medigatenews.com/news/1330018466"
-        },
-        {
-          "title": "네이처셀, 조인트스템 미국 FDA에 PRE-BLD미팅 신청서 제출",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=710913"
-        }
-      ]
-    },
-    {
-      "id": "월가",
-      "rank": 9,
-      "keyword": "월가",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“수학 전공할 걸 그랬나”…AI 기업 신입, 연봉 14억 이하는 쳐다도 안 봐' (매일경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“수학 전공할 걸 그랬나”…AI 기업 신입, 연봉 14억 이하는 쳐다도 안 봐",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12113084"
-        },
-        {
-          "title": "“초봉 100만 달러 받아도 안 놀란다”…美 퀀트·AI 기업 인재 쟁탈전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260731121213675"
-        },
-        {
-          "title": "신입 연봉이 14억…美 금융·테크기업 ‘수학 인재’ 쟁탈전",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20260731/134399652/1"
-        }
-      ]
-    },
-    {
-      "id": "경상남도",
-      "rank": 10,
-      "keyword": "경상남도",
-      "volumeLabel": "100+",
+      "keyword": "기아",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '국립세종수목원, 광복절 맞아 나라꽃 무궁화 행사' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '현대차·기아, 칠레 '한국의 거리' 순찰용 전기차 기증…교민 사회 안전 지원' (전기신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "국립세종수목원, 광복절 맞아 나라꽃 무궁화 행사",
+          "title": "현대차·기아, 칠레 '한국의 거리' 순찰용 전기차 기증…교민 사회 안전 지원",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=370849"
+        },
+        {
+          "title": "현대차·기아, 칠레 한인회에 전기차 2대 기증해 ‘한국의 거리’ 순찰 지원",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20260731/134401166/1"
+        },
+        {
+          "title": "칠레 ‘한국의 거리’ 지키는 아이오닉 5·EV5…현대차·기아, 순찰차 기증",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/auto/2026/07/31/IF76DJUFTZFH7OOPUUME5UN254/"
+        }
+      ]
+    },
+    {
+      "id": "구마유시",
+      "rank": 8,
+      "keyword": "구마유시",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '페이커·구마유시와 함께한 마리끌레르 ‘e스포츠 에디션’ 커버 공개!' (마리끌레르 코리아) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "페이커·구마유시와 함께한 마리끌레르 ‘e스포츠 에디션’ 커버 공개!",
+          "source": "마리끌레르 코리아",
+          "url": "https://www.marieclairekorea.com/celebrity/2026/07/esports-edition-cover/"
+        },
+        {
+          "title": "T1: BEYOND WINNING | 레드불 게이밍 팀 T1 단체 화보",
+          "source": "마리끌레르 코리아",
+          "url": "https://www.marieclairekorea.com/culture/2026/07/t1-beyond-winning-red-bull-gaming/"
+        },
+        {
+          "title": "T1, 승리를 넘어서 | '케리아' 류민석 선수 화보와 인터뷰",
+          "source": "마리끌레르 코리아",
+          "url": "https://www.marieclairekorea.com/culture/2026/07/t1-beyond-winning-keria/"
+        }
+      ]
+    },
+    {
+      "id": "매머드",
+      "rank": 9,
+      "keyword": "매머드",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '가뭄에 말라붙은 다뉴브강…'매머드 뼈' 발견' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "가뭄에 말라붙은 다뉴브강…'매머드 뼈' 발견",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260731090842183?t=m&x_mn=6a6c0d1cafd4137a09cf2127"
+          "url": "https://v.daum.net/v/20260731122105806"
         },
         {
-          "title": "6000그루 무궁화 물든 서울식물원…광복절 특별전 열린다",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04073766645520096"
+          "title": "폭염에 말라붙은 강, 빙하기 ‘매머드’ 나왔다…턱뼈·대퇴골 우르르 [포토]",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1270847.html"
         },
         {
-          "title": "[보령소식] '충남도 무궁화 우수분화 품평회' 4년 연속 대상 등",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260731_0003730796"
+          "title": "가뭄에 강 말라붙자…수천년 전 멸종한 매머드 뼈 발견",
+          "source": "매일경제",
+          "url": "https://www.mbn.co.kr/news/all/5209376"
+        }
+      ]
+    },
+    {
+      "id": "프랑코-바레시",
+      "rank": 10,
+      "keyword": "프랑코 바레시",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''레전드 사망?' 발칵 뒤집어진 伊, AC밀란 해명 \"사실무근\"…대체 왜 이런 소문이' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'레전드 사망?' 발칵 뒤집어진 伊, AC밀란 해명 \"사실무근\"…대체 왜 이런 소문이",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/07/31/GUYDGNZTGQ4GEZRUGU4TOMTEMM/"
+        },
+        {
+          "title": "밀란·이탈리아 레전드 프랑코 바레시, 향년 66세로 별세…\"구단의 모든 역사가 눈물을 흘리고 있다\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260731n22823"
+        },
+        {
+          "title": "전설적인 뮤지션 프랑코 바레시가 별세했습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/huyen-thoai-franco-baresi-qua-doi"
         }
       ]
     }
