@@ -1,286 +1,270 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-31T07:25:00.693Z",
+  "updatedAt": "2026-07-31T10:08:21.166Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "죽음",
+      "id": "괴산군",
       "rank": 1,
-      "keyword": "죽음",
-      "volumeLabel": "5000+",
+      "keyword": "괴산군",
+      "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '휴가철 교통사고 사망자 평소보다 8.3% 급증…강원 '전국 최고'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "휴가철 교통사고 사망자 평소보다 8.3% 급증…강원 '전국 최고'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260730175150336"
-        },
-        {
-          "title": "휴가철 강원 교통사고 급증…외지 운전자 사고 32.7%↑",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260730_0003729310"
-        },
-        {
-          "title": "여름철 교통사고 증가율 1위는 '강원'…\"피서지 초행길 조심\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/kangwon/6244450"
-        }
-      ]
+      "newsSignals": []
     },
     {
-      "id": "설-영우",
+      "id": "예금",
       "rank": 2,
-      "keyword": "설 영우",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
+      "keyword": "예금",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"대표팀에서 자진 하차해라\" 비판에 고소 선언한 설영우, 소속팀에서는 핵심 선수로 분류 \"빠지면 가장 티가 난다\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '하나은행, 예·적금 기본금리 최대 0.3%포인트 인상' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"대표팀에서 자진 하차해라\" 비판에 고소 선언한 설영우, 소속팀에서는 핵심 선수로 분류 \"빠지면 가장 티가 난다\"",
+          "title": "하나은행, 예·적금 기본금리 최대 0.3%포인트 인상",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260731100307588"
+          "url": "https://v.daum.net/v/20260731123050958"
         },
         {
-          "title": "설영우, UCL 예선서 1호 도움…팀은 5-0 승",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260730232450aDZ"
+          "title": "시중은행 예금금리 릴레이 인상…하나은행도 최대 0.30%P↑ - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/finance/2026/07/31/2026073110174681382"
         },
         {
-          "title": "설영우, 시즌 1호 도움‥즈베즈다 챔스리그 3차 예선 진출",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6841128_36946.html"
+          "title": "금리 올리는 금융사들…증시 이탈 자금 선점 경쟁",
+          "source": "스트레이트뉴스",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=308072"
         }
       ]
     },
     {
-      "id": "손주",
+      "id": "정념",
       "rank": 3,
-      "keyword": "손주",
-      "volumeLabel": "2000+",
+      "keyword": "정념",
+      "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"부모님께 아이 맡기기 수월해졌어요\".. 손주돌봄수당 90%가 '만족'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“AI 시대, 종단 해법 없다”… 정념 스님, 총무원장 도전장' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"부모님께 아이 맡기기 수월해졌어요\".. 손주돌봄수당 90%가 '만족'",
+          "title": "“AI 시대, 종단 해법 없다”… 정념 스님, 총무원장 도전장",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260731112629230"
+          "url": "https://v.daum.net/v/20260731163925793"
         },
         {
-          "title": "제주 손주돌봄수당 호응…서귀포 참여자 만족도 90%",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260731_0003731300"
+          "title": "정념 스님, 월정사주지 사직서 제출…“더 넓은 곳으로 나아가”",
+          "source": "법보신문",
+          "url": "https://www.beopbo.com/news/articleView.html?idxno=336928"
         },
         {
-          "title": "서귀포시 손주돌봄수당 지원사업 호응...수혜자 90% '만족'",
-          "source": "헤드라인제주",
-          "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596782"
+          "title": "정념 스님, 월정사 주지 22년 만에 사퇴…총무원장 도전 본격화",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607311355001"
         }
       ]
     },
     {
-      "id": "장동주",
+      "id": "암호화폐",
       "rank": 4,
-      "keyword": "장동주",
-      "volumeLabel": "2000+",
+      "keyword": "암호화폐",
+      "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] '은퇴 선언' 장동주, 본격 크리에이터 전향…\"채무 다 갚으면 배우 복귀할 것\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'IRS 암호화폐 컴플라이언스 서한 받았나…진짜 아닐 수도' (BeInCrypto) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[단독] '은퇴 선언' 장동주, 본격 크리에이터 전향…\"채무 다 갚으면 배우 복귀할 것\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260731085657720"
+          "title": "IRS 암호화폐 컴플라이언스 서한 받았나…진짜 아닐 수도",
+          "source": "BeInCrypto",
+          "url": "https://kr.beincrypto.com/irs-fake-letters-crypto-scam-warning/"
         },
         {
-          "title": "'돌연 은퇴' 장동주, 새 소속사 찾았다…40억 빚 청산 눈앞 \"다 갚고 복귀 염원\" [핫피플]",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260730170358723"
+          "title": "암호화폐는 AI의 도구로 설계 된 것입니다.",
+          "source": "네이버 프리미엄콘텐츠",
+          "url": "https://contents.premium.naver.com/joosikstudy/coinschool/contents/260731170444232eo"
         },
         {
-          "title": "‘돌연 은퇴’ 장동주, 배우 접고 크리에이터로…틱톡서 월 3000만~4000만원 수익",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10826600"
+          "title": "비자 최신 연구: 1.1억 건 거래 뒤에서, 에이전트 결제가 인터넷 상업을 재구성...｜Visa, 대리 결제",
+          "source": "链捕手ChainCatcher",
+          "url": "https://www.chaincatcher.com/ko/article/2278782"
         }
       ]
     },
     {
-      "id": "소녀시대",
+      "id": "대학-입시",
       "rank": 5,
-      "keyword": "소녀시대",
-      "volumeLabel": "2000+",
+      "keyword": "대학 입시",
+      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[공식] 권유리, 소녀시대 20주년 1년 앞두고 SM과 전속계약 종료' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[단독][2027대입] '사탐런 유리할까?' 주요22개대 가운데 '사탐런 불가'..서울대 등 7개 '수시 수능최저 과탐지정'' (베리타스알파) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[공식] 권유리, 소녀시대 20주년 1년 앞두고 SM과 전속계약 종료",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260731/134400706/1"
+          "title": "[단독][2027대입] '사탐런 유리할까?' 주요22개대 가운데 '사탐런 불가'..서울대 등 7개 '수시 수능최저 과탐지정'",
+          "source": "베리타스알파",
+          "url": "https://www.veritas-a.com/news/articleView.html?idxno=621662"
         },
         {
-          "title": "유리, 19년 만에 SM 떠난다 \"소녀시대 활동은 계속\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6245322"
+          "title": "사탐런 확산에도…서울 9개대 자연계 합격권 78%는 '과탐 2과목 응시자'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260726134842697"
         },
         {
-          "title": "[공식] 유리, SM과 19년 전속계약 종료 \"소녀시대 활동은 계속\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/07/31/GQ3WMYZWGVTDQOJUMZSGKMJWGE/"
+          "title": "사탐런 속에도 자연계열 정시 합격권은 과탐이 주도",
+          "source": "https://www.2news.co.kr/",
+          "url": "https://www.2news.co.kr/news/articleView.html?idxno=17817"
         }
       ]
     },
     {
-      "id": "개인정보",
+      "id": "로베르토-데-제르비",
       "rank": 6,
-      "keyword": "개인정보",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "keyword": "로베르토 데 제르비",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '소비자분쟁조정위 \"쿠팡, 정보유출 피해자에 현금 10만원씩 배상해야\"' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '손흥민 뛰던 그 토트넘 맞아? \"폭탄 영입 남았다\" 4500억 쓰고도 깜짝 선언...데 제르비 감독 \"이제 60% 완료했다\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "소비자분쟁조정위 \"쿠팡, 정보유출 피해자에 현금 10만원씩 배상해야\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/economy_general/2026/07/31/XZOXGZ57QJGTDHR6RHT4OGAGNQ/"
-        },
-        {
-          "title": "\"쿠팡 개인정보 유출 배상\" 첫 인정…소비자원, 1인당 10만원 지급 결정",
+          "title": "손흥민 뛰던 그 토트넘 맞아? \"폭탄 영입 남았다\" 4500억 쓰고도 깜짝 선언...데 제르비 감독 \"이제 60% 완료했다\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260731155929344"
+          "url": "https://v.daum.net/v/20260731113136451"
         },
         {
-          "title": "쿠팡 개인정보 유출 첫 배상 인정…쿠팡 \"조정안 면밀 검토\"(종합)",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260731_0003731723"
-        }
-      ]
-    },
-    {
-      "id": "기아",
-      "rank": 7,
-      "keyword": "기아",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '현대차·기아, 칠레 '한국의 거리' 순찰용 전기차 기증…교민 사회 안전 지원' (전기신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "현대차·기아, 칠레 '한국의 거리' 순찰용 전기차 기증…교민 사회 안전 지원",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=370849"
-        },
-        {
-          "title": "현대차·기아, 칠레 한인회에 전기차 2대 기증해 ‘한국의 거리’ 순찰 지원",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260731/134401166/1"
-        },
-        {
-          "title": "칠레 ‘한국의 거리’ 지키는 아이오닉 5·EV5…현대차·기아, 순찰차 기증",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/auto/2026/07/31/IF76DJUFTZFH7OOPUUME5UN254/"
-        }
-      ]
-    },
-    {
-      "id": "구마유시",
-      "rank": 8,
-      "keyword": "구마유시",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '페이커·구마유시와 함께한 마리끌레르 ‘e스포츠 에디션’ 커버 공개!' (마리끌레르 코리아) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "페이커·구마유시와 함께한 마리끌레르 ‘e스포츠 에디션’ 커버 공개!",
-          "source": "마리끌레르 코리아",
-          "url": "https://www.marieclairekorea.com/celebrity/2026/07/esports-edition-cover/"
-        },
-        {
-          "title": "T1: BEYOND WINNING | 레드불 게이밍 팀 T1 단체 화보",
-          "source": "마리끌레르 코리아",
-          "url": "https://www.marieclairekorea.com/culture/2026/07/t1-beyond-winning-red-bull-gaming/"
-        },
-        {
-          "title": "T1, 승리를 넘어서 | '케리아' 류민석 선수 화보와 인터뷰",
-          "source": "마리끌레르 코리아",
-          "url": "https://www.marieclairekorea.com/culture/2026/07/t1-beyond-winning-keria/"
-        }
-      ]
-    },
-    {
-      "id": "매머드",
-      "rank": 9,
-      "keyword": "매머드",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '가뭄에 말라붙은 다뉴브강…'매머드 뼈' 발견' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "가뭄에 말라붙은 다뉴브강…'매머드 뼈' 발견",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260731122105806"
-        },
-        {
-          "title": "폭염에 말라붙은 강, 빙하기 ‘매머드’ 나왔다…턱뼈·대퇴골 우르르 [포토]",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1270847.html"
-        },
-        {
-          "title": "가뭄에 강 말라붙자…수천년 전 멸종한 매머드 뼈 발견",
-          "source": "매일경제",
-          "url": "https://www.mbn.co.kr/news/all/5209376"
-        }
-      ]
-    },
-    {
-      "id": "프랑코-바레시",
-      "rank": 10,
-      "keyword": "프랑코 바레시",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''레전드 사망?' 발칵 뒤집어진 伊, AC밀란 해명 \"사실무근\"…대체 왜 이런 소문이' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'레전드 사망?' 발칵 뒤집어진 伊, AC밀란 해명 \"사실무근\"…대체 왜 이런 소문이",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/07/31/GUYDGNZTGQ4GEZRUGU4TOMTEMM/"
-        },
-        {
-          "title": "밀란·이탈리아 레전드 프랑코 바레시, 향년 66세로 별세…\"구단의 모든 역사가 눈물을 흘리고 있다\"",
+          "title": "\"원하는 선수가 생기면 상어처럼 변한다\"…공격수 영입 시사한 데 제르비 토트넘 감독, \"득점력 있는 선수 필요\"",
           "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260731n22823"
+          "url": "https://sports.news.nate.com/view/20260731n10672"
         },
         {
-          "title": "전설적인 뮤지션 프랑코 바레시가 별세했습니다.",
+          "title": "4600억원 쓴 토트넘⋯판더펜 “새로운 야심 보인다”",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2608431"
+        }
+      ]
+    },
+    {
+      "id": "비상-착륙",
+      "rank": 7,
+      "keyword": "비상 착륙",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“원인 모를 악취”…승무원 줄줄이 이상 증세에 비상착륙한 항공기' (전자신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“원인 모를 악취”…승무원 줄줄이 이상 증세에 비상착륙한 항공기",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260730000412"
+        },
+        {
+          "title": "아메리칸항공 여객기, '악취' 탓에 승무원 집단 어지럼증…결국 '비상착륙'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260729_0003728248"
+        },
+        {
+          "title": "승무원 6명이 갑자기 병에 걸려 비행기가 비상 착륙을 해야 했습니다.",
           "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/huyen-thoai-franco-baresi-qua-doi"
+          "url": "https://www.vietnam.vn/ko/6-tiep-vien-do-benh-dot-ngot-may-bay-ha-canh-khan-cap"
+        }
+      ]
+    },
+    {
+      "id": "제주시장",
+      "rank": 8,
+      "keyword": "제주시장",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '민선9기 첫 제주시장 발표 앞두고 도의회 이상기류...무슨일?' (헤드라인제주) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "민선9기 첫 제주시장 발표 앞두고 도의회 이상기류...무슨일?",
+          "source": "헤드라인제주",
+          "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596774"
+        },
+        {
+          "title": "제주 기후경제부지사에 이창흠·제주시장에 이상봉 지명",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731115145127"
+        },
+        {
+          "title": "“어쩔 수 없이 尹정부 파견”, “의장 출신이 왜?” 정면돌파 나선 위성곤",
+          "source": "제주의소리",
+          "url": "https://www.jejusori.net/news/articleView.html?idxno=505182"
+        }
+      ]
+    },
+    {
+      "id": "휴림로봇",
+      "rank": 9,
+      "keyword": "휴림로봇",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"휴림로봇 최대주주 변경 후…\" 제이케이시냅스 경영진 '자사주 매입'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"휴림로봇 최대주주 변경 후…\" 제이케이시냅스 경영진 '자사주 매입'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731091329415"
+        },
+        {
+          "title": "제이케이시냅스 대표이사·부대표, 장내 매수로 지분 확대… 주주가치 제고 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/07/31/4LMWQF2TYJFUPNALN5RDDXHF4M/"
+        },
+        {
+          "title": "[더벨]제이케이시냅스 경영진, 자사주 12만6872주 장내매수 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/07/31/2026073108509624850"
+        }
+      ]
+    },
+    {
+      "id": "이소영",
+      "rank": 10,
+      "keyword": "이소영",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '포천시, GTX-G 유치 승부수…국가철도망 포함 정부에 촉구' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "포천시, GTX-G 유치 승부수…국가철도망 포함 정부에 촉구",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/8LXOVF1yyu"
+        },
+        {
+          "title": "이소영 의원, 국토부 차관 전격 면담…의왕·과천 교통난 해법 '압박'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260731_0003730783"
+        },
+        {
+          "title": "김성제 의왕시장, 국토부 2차관 면담...'위례~과천선 연장' 등 철도망 건의",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260731001390"
         }
       ]
     }
