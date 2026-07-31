@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-07-31T18:55:20.745Z",
+  "updatedAt": "2026-07-31T20:24:35.386Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,9 +9,9 @@
       "rank": 1,
       "keyword": "버밍엄 대 바르셀로나",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '\"FIFA 징계 받았던 그 한국인\"…바르셀로나와 역대 두 번째 맞대결→\"EPL 복귀 원하는 버밍엄서 빛난다\" 西 매체 조명' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,69 +33,97 @@
       ]
     },
     {
-      "id": "복도",
+      "id": "주식시장",
       "rank": 2,
-      "keyword": "복도",
-      "volumeLabel": "2000+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '\"미쳤나봐요…아파트 복도에 에어컨 설치\" 황당 주민에 '고통'' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "주식시장",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''코스피 폭등의 역설' 돈 필요한 기업들 \"주식시장 No, 은행 대출 Yes!\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"미쳤나봐요…아파트 복도에 에어컨 설치\" 황당 주민에 '고통'",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260731n30992"
+          "title": "'코스피 폭등의 역설' 돈 필요한 기업들 \"주식시장 No, 은행 대출 Yes!\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/uaUHCid8jf"
         },
         {
-          "title": "\"내 집 좁아\" 아파트 복도에 실외기 둔 입주민…\"전선 잘라라\" 뜻밖의 결과",
-          "source": "땅집고",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/07/31/2026073102437.html"
+          "title": "기업 43% “은행 자금차입 가장 어려워져”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/article/all/20260730/134397780/2"
         },
         {
-          "title": "아파트 복도에 에어컨 실외기 설치…돌릴 때마다 '가마솥' 열기 , 이웃들 분통 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/07/31/2026073113505289126"
+          "title": "직·간접금융 다 어려워진 기업 자금조달⋯ “은행·증권 기업금융 확대 필요”",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260730500406"
+        }
+      ]
+    },
+    {
+      "id": "birmingham-vs-barcelona",
+      "rank": 3,
+      "keyword": "birmingham vs barcelona",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '¿Cómo ver el partido del Barcelona vs Birmingham en TV y streaming?' (Sports Illustrated) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "¿Cómo ver el partido del Barcelona vs Birmingham en TV y streaming?",
+          "source": "Sports Illustrated",
+          "url": "https://www.si.com/es-us/futbol/como-ver-el-partido-del-barcelona-vs-birmingham-en-tv-y-streaming-31-07-2026"
+        },
+        {
+          "title": "¿Por qué no juegan Lamine Yamal y Raphinha en Birmingham vs. Barcelona?",
+          "source": "Bolavip",
+          "url": "https://bolavip.com/laliga/por-que-no-juegan-lamine-yamal-y-raphinha-en-birmingham-vs-barcelona"
+        },
+        {
+          "title": "Debuta un fichaje del Barça: el once de Hansi Flick para el primer amistoso de pretemporada en Birmingham",
+          "source": "Crónica Global",
+          "url": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260731/hansi-flick-estrenar-pretemporada-barca-birmingham-city/1003742783894_0.html"
         }
       ]
     },
     {
       "id": "데드캣",
-      "rank": 3,
+      "rank": 4,
       "keyword": "데드캣",
       "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "5시간 전",
       "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '“믿음이 없어요” 개미 오늘 10조 던졌다…역대 최대' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '악몽의 7월 끝, 8월은 웃을까…팔란티어·샌디스크 실적까지 확인해야 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "악몽의 7월 끝, 8월은 웃을까…팔란티어·샌디스크 실적까지 확인해야 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/07/31/2026073116493843008"
+        },
         {
           "title": "“믿음이 없어요” 개미 오늘 10조 던졌다…역대 최대",
           "source": "문화일보",
           "url": "https://www.munhwa.com/article/11606477"
         },
         {
-          "title": "7월 내 눌렸던 코스피‥1천 포인트 '세찬' 반등",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260801011912468"
-        },
-        {
-          "title": "코스피 17.91% 역대 최고 폭등‥삼전 26%↑, 하닉 상한가도 최초",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6841591_37004.html"
+          "title": "[속보] 코스피, 사상최대 폭등 마감…17.9% 오른 6,595",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260731118300008"
         }
       ]
     },
     {
       "id": "사극",
-      "rank": 4,
+      "rank": 5,
       "keyword": "사극",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '진짜 이게 공개된다고?…넷플릭스에 풀리는 한국 사극 최고의 ‘대작 영화’' (위키트리) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -118,12 +146,12 @@
     },
     {
       "id": "넥슨",
-      "rank": 5,
+      "rank": 6,
       "keyword": "넥슨",
       "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
+      "startedLabel": "5시간 전",
       "change": "down",
-      "changeLabel": "-2",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '넥슨, 화상 아동 18명 첫 수술 돕는다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -145,41 +173,41 @@
       ]
     },
     {
-      "id": "덕분",
-      "rank": 6,
-      "keyword": "덕분",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '황정민 측 \"스토킹 피해\" vs 폭로자 \"첫 만남부터 스킨십\" 진실공방' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "id": "바르셀로나",
+      "rank": 7,
+      "keyword": "바르셀로나",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '바르셀로나 전설 테어 슈테겐, 아약스 1년 임대 임박···선수단 작별 인사 후 바르셀로나 훈련장 떠나' (매일경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "황정민 측 \"스토킹 피해\" vs 폭로자 \"첫 만남부터 스킨십\" 진실공방",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260731_0003731569"
+          "title": "바르셀로나 전설 테어 슈테겐, 아약스 1년 임대 임박···선수단 작별 인사 후 바르셀로나 훈련장 떠나",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/sports/12114062"
         },
         {
-          "title": "황정민 폭로女 “첫 만남때 스킨십, 고양이 사체 사진은 모욕에 응답한 것”",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10826886"
+          "title": "고별전까지 치렀는데...‘바르셀로나 GK’ 테어 슈테겐, 아약스행 무산 위기",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95359"
         },
         {
-          "title": "[단독] \"살인자로 남아라, 평생\"…황정민, 고양이 사진의 맥락",
-          "source": "디스패치",
-          "url": "https://www.dispatch.co.kr/2345850"
+          "title": "\"FIFA 징계 받았던 그 한국인\"…바르셀로나와 역대 두 번째 맞대결→\"EPL 복귀 원하는 버밍엄서 빛난다\" 西 매체 조명",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731184809157"
         }
       ]
     },
     {
       "id": "디즈니",
-      "rank": 7,
+      "rank": 8,
       "keyword": "디즈니",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '머더클럽' (Disney Plus) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -202,57 +230,29 @@
     },
     {
       "id": "제주항공",
-      "rank": 8,
+      "rank": 9,
       "keyword": "제주항공",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 '스카이스캐너, ‘스마트 트래블 어워즈’ 한국에서 최초로 선보여' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "스카이스캐너, ‘스마트 트래블 어워즈’ 한국에서 최초로 선보여",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260730104440876"
-        },
-        {
-          "title": "스카이스캐너, 한국 여행객 위한 최우수 항공사·여행사 발표",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10823969"
-        },
-        {
-          "title": "'대한항공·하나투어·제주항공'…스카이스캐너가 '콕' 찍은 이유",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202607293594g"
-        }
-      ]
-    },
-    {
-      "id": "이선민",
-      "rank": 9,
-      "keyword": "이선민",
-      "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
+      "startedLabel": "5시간 전",
       "change": "down",
       "changeLabel": "-1",
-      "summary": "급상승 시점에 '\"어떤 미친X이 이걸…\" 구성환, 이선민 집들이 선물에 경악 '뭐길래?' - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '외국인에 인천~제주 항공권 무료 지원…지역관광 활성화 나선다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"어떤 미친X이 이걸…\" 구성환, 이선민 집들이 선물에 경악 '뭐길래?' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/01/2026080102412237921"
-        },
-        {
-          "title": "구성환, 시장 뒤집은 이선민 인기에 깜짝 \"20대에 서태지급\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/01/2026080102144338561"
-        },
-        {
-          "title": "'44kg 요요' 김신영, '덩어리 3인방' 조롱에 \"효리수 같아\" 너스레[나혼산]",
+          "title": "외국인에 인천~제주 항공권 무료 지원…지역관광 활성화 나선다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260731233737262"
+          "url": "https://v.daum.net/v/20260730173304610"
+        },
+        {
+          "title": "외국인만 공짜로 태워준다…제주행 비행기에 1억 쏜다는 한국공항공사, 왜?",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20074079"
+        },
+        {
+          "title": "한국공항공사,인천-제주노선 외국인 관광객에 항공권 지원",
+          "source": "세계일보",
+          "url": "https://m.segye.com/view/20260730511392"
         }
       ]
     }
