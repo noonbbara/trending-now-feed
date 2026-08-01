@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-01T13:44:54.345Z",
+  "updatedAt": "2026-08-01T15:07:52.050Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,54 +9,54 @@
       "rank": 1,
       "keyword": "당대표",
       "volumeLabel": "10000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '민주당 충청서 경선 시작‥오후 첫 결과 발표' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '김민석, 대표 경선 기선제압... 정청래 고향 충청에서 승리' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "민주당 충청서 경선 시작‥오후 첫 결과 발표",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6841688_36967.html"
+          "title": "김민석, 대표 경선 기선제압... 정청래 고향 충청에서 승리",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/assembly/2026/08/01/676KGCBVYVH65ASCOVCDCN7UZQ/"
         },
         {
-          "title": "김민석, ‘정청래 고향’ 충청서 예상 밖 박빙 승…“변화·혁신 요구 보여준 결과”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1270965.html"
-        },
-        {
-          "title": "金 \"명청대전 지옥문 닫아야\"…鄭 \"盧배신이 최악의 자기 정치\"(종합)",
+          "title": "'친명후보' 내건 金, 예상외 303표차 승리…'석패' 鄭 저력도 확인",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260801030951001"
+          "url": "https://www.yna.co.kr/view/AKR20260801052800001"
+        },
+        {
+          "title": "민주당 당대표 첫 경선지 충청권서 김민석 1위···정청래와 불과 0.44%P차 ‘초박빙’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608012054001"
         }
       ]
     },
     {
-      "id": "로또1235",
+      "id": "하비에르-아기레",
       "rank": 2,
-      "keyword": "로또1235",
-      "volumeLabel": "10000+",
-      "startedLabel": "2시간 전",
+      "keyword": "하비에르 아기레",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '로또 1235회 1등 '9명' 30.9억씩 받는다…당첨번호는? - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''명문 클럽 거절, 韓 대표팀 원한다'…\"이강인 내 아들!\" 외쳤던 그 감독, 태극전사 지휘하나→\"한국 축구에 매력 느껴\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "로또 1235회 1등 '9명' 30.9억씩 받는다…당첨번호는? - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/01/2026080119140324843"
+          "title": "'명문 클럽 거절, 韓 대표팀 원한다'…\"이강인 내 아들!\" 외쳤던 그 감독, 태극전사 지휘하나→\"한국 축구에 매력 느껴\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260801182809885"
         },
         {
-          "title": "1235회 로또 1등 9명…당첨금 각 30억9천만원(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260801050300002"
+          "title": "\"대한축구협회의 일부 행정적 변화가 이뤄지기를 기다리고 있다\"…이강인 아꼈던 아기레, 한국 대표팀 지휘 관심",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260801n11615?mid=n0100"
         },
         {
-          "title": "[오늘 로또]1,235회 로또 1등 9명… 30억9천만 원씩",
-          "source": "남도일보",
-          "url": "https://www.namdonews.com/news/articleView.html?idxno=918678"
+          "title": "'명문 클럽 거절, 韓 대표팀 원한다'…\"이강인 내 아들!\" 외쳤던 그 감독, 태극전사 지휘하나→\"한국 축구에 매력 느껴\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260801n09369"
         }
       ]
     },
@@ -65,9 +65,9 @@
       "rank": 3,
       "keyword": "lck",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 'Nongshim Defeats BFX 2-1, Secures Second Consecutive Win in Round 3' (Inven Global) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -80,29 +80,80 @@
           "title": "Aiming traded to Kiwoom DRX as Jiwoo joins KT Rolster",
           "source": "Sheep Esports",
           "url": "https://www.sheepesports.com/en/all/articles/jiwoo-joins-kt-rolster-as-aiming-heads-the-other-way-to-kiwoom-drx/en"
+        }
+      ]
+    },
+    {
+      "id": "맨유-아틀레티코",
+      "rank": 4,
+      "keyword": "맨유 아틀레티코",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[오피셜] 맨유 역대급 재능 나오나? '16세 유망주' JJ 가브리엘, ATM전 명단 포함…\"데뷔 가능성 크다\"' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[오피셜] 맨유 역대급 재능 나오나? '16세 유망주' JJ 가브리엘, ATM전 명단 포함…\"데뷔 가능성 크다\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260801n05252"
         },
         {
-          "title": "DK Siwoo: \"If we keep polishing our form, I think we can win everything\"",
-          "source": "Sheep Esports",
-          "url": "https://www.sheepesports.com/us/lol/articles/dk-siwoo-if-we-keep-polishing-our-form-i-think-we-can-win-everything/en"
+          "title": "‘이강인+월드컵 10명 결장’ 아틀레티코, 맨유에 1-2 역전패 ‘음뵈모 멀티골’ [리뷰]",
+          "source": "풋볼리스트",
+          "url": ""
+        },
+        {
+          "title": "스톡홀롬 원정 스쿼드",
+          "source": "Manchester United Website",
+          "url": "https://www.manutd.com/ko/news/travelling-man-utd-squad-for-stockholm"
+        }
+      ]
+    },
+    {
+      "id": "옥수수-버거",
+      "rank": 5,
+      "keyword": "옥수수 버거",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '“돌 씹힌다”…출시 2주만에 100만개나 팔린 인기 버거 ‘조기 종료’' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“돌 씹힌다”…출시 2주만에 100만개나 팔린 인기 버거 ‘조기 종료’",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/society/12114299"
+        },
+        {
+          "title": "기업과 지역의 맞손…충주 옥수수, 햄버거와 만났다",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/reporterView.do?newsId=148969111&pWise=sub&pWiseSub=R4"
+        },
+        {
+          "title": "특산물 담고 경제 살리고…식품업계, '로코노미' 넘어 '지역상생' 확장",
+          "source": "데일리한국",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1391700"
         }
       ]
     },
     {
       "id": "원자력",
-      "rank": 4,
+      "rank": 6,
       "keyword": "원자력",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '한수원 포천양수건설소, 발전소 주변 지역 지원사업 공모' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "한수원 포천양수건설소, 발전소 주변 지역 지원사업 공모",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260731150752662"
+          "url": "https://v.daum.net/v/qouZbEcn58"
         },
         {
           "title": "포천양수건설소, 발전소 인근 주민 체감사업에 3억5천만원 지원",
@@ -117,69 +168,13 @@
       ]
     },
     {
-      "id": "옥수수-버거",
-      "rank": 5,
-      "keyword": "옥수수 버거",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '기업과 지역의 맞손…충주 옥수수, 햄버거와 만났다' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "기업과 지역의 맞손…충주 옥수수, 햄버거와 만났다",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/reporterView.do?newsId=148969111&pWise=sub&pWiseSub=R4"
-        },
-        {
-          "title": "특산물 담고 경제 살리고…식품업계, '로코노미' 넘어 '지역상생' 확장",
-          "source": "데일리한국",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1391700"
-        },
-        {
-          "title": "[단독]한국맥도날드, 충주 찰옥수수 버거 판매 조기 종료…\"돌 알갱이 발견\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260801_0003732688"
-        }
-      ]
-    },
-    {
-      "id": "수원삼성",
-      "rank": 6,
-      "keyword": "수원삼성",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''우승 후보' 수원, 충북청주와 극적 2-2 무승부…화성은 대구 대파' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'우승 후보' 수원, 충북청주와 극적 2-2 무승부…화성은 대구 대파",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260801_0003732712"
-        },
-        {
-          "title": "'헤이스 극장 동점골' 수원, 청주와 2-2 무승부…K리그2 선두 도약",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/soccer/6246242"
-        },
-        {
-          "title": "[프로축구] 수원 삼성 헤이스 극장골로 선두 탈환...화성은 플라나 4골 쇼, 충남아산도 완승",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260801000191"
-        }
-      ]
-    },
-    {
       "id": "표승주",
       "rank": 7,
       "keyword": "표승주",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '흥국생명·현대건설, 여자배구 슈퍼매치서 나란히 패배(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -189,70 +184,70 @@
           "url": "https://www.yna.co.kr/view/AKR20260801036151007"
         },
         {
+          "title": "한중일 여자배구 슈퍼매치…한 여름의 배구축제",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8626165"
+        },
+        {
           "title": "'신인감독 김연경'과 다르네…'1년만 프로컴백' 표승주, 복귀전 어땠나[스한 이슈人]",
           "source": "네이트",
           "url": "https://sports.news.nate.com/view/20260801n06990"
-        },
-        {
-          "title": "흥국생명 이어 현대건설까지 무너졌다… 현대건설, 中 상하이 브라이트에 완패",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260801170137080"
         }
       ]
     },
     {
-      "id": "원이-논란",
+      "id": "mutv",
       "rank": 8,
-      "keyword": "원이 논란",
+      "keyword": "mutv",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘충주맨’ 김선태, ‘돈선태 성공시대’ 자진 하차···리센느 ‘사투리 논란’에 “능력 부족”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Travelling squad for Stockholm' (Manchester United Website) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘충주맨’ 김선태, ‘돈선태 성공시대’ 자진 하차···리센느 ‘사투리 논란’에 “능력 부족”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607311730001"
+          "title": "Travelling squad for Stockholm",
+          "source": "Manchester United Website",
+          "url": "https://www.manutd.com/en/news/travelling-man-utd-squad-for-stockholm"
         },
         {
-          "title": "'무섭노'부터 '탈출은 지능순'까지..KBS 유튜브, 왜 계속 선 넘나 [★FOCUS]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260801063107224"
+          "title": "How to Watch Manchester United Versus Athletico Madrid Madrid",
+          "source": "Read Man Utd",
+          "url": "https://readmanutd.com/2026/08/01/how-to-watch-manchester-united-athletico-madrid/"
         },
         {
-          "title": "원이 2차 가해 논란 KBS '돈선태', 결국 1회 만에 폐지",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260731_0003732166"
+          "title": "Manchester United 2-1 Atletico Madrid: Bryan Mbeumo hits brace in comeback victory",
+          "source": "Yahoo Sports UK",
+          "url": "https://uk.sports.yahoo.com/news/manchester-united-2-1-atletico-145317658.html"
         }
       ]
     },
     {
-      "id": "젠지",
+      "id": "수원삼성",
       "rank": 9,
-      "keyword": "젠지",
+      "keyword": "수원삼성",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘페이즈’ 김수환이 말하는 젠지전 승리 비결, “헤맸던 팀적 교전과 운영, 둘 다 잘 돼” [LCK 톡톡]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-3",
+      "summary": "급상승 시점에 'K리그2 수원 팬들, 역전골 취소 판정에 \"심판 나와\" 점거 시위' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘페이즈’ 김수환이 말하는 젠지전 승리 비결, “헤맸던 팀적 교전과 운영, 둘 다 잘 돼” [LCK 톡톡]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260731221138963"
+          "title": "K리그2 수원 팬들, 역전골 취소 판정에 \"심판 나와\" 점거 시위",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260801053900064"
         },
         {
-          "title": "스탬프 투어부터 룰러 10주년 토크쇼까지⋯팬들로 북적인 젠지 홈스탠드 [현장]",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2609706"
+          "title": "'우승 후보' 수원, 충북청주와 극적 2-2 무승부…화성은 대구 대파",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260801_0003732712"
         },
         {
-          "title": "[LCK] ‘EWC 챔프’ DK, ‘호랑이 굴’에서 호랑이 셧아웃 사냥…6연승 질주(종합)",
+          "title": "두 골 먼저 내주고도 살아났다...수원삼성, 헤이스 연속골로 극적 무승부",
           "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112850898"
+          "url": "https://www.osen.co.kr/article/G1112850894"
         }
       ]
     },
@@ -261,9 +256,9 @@
       "rank": 10,
       "keyword": "시바이누코인",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '시바이누, 일주일간 13% '쑥'…韓 투자자 '인기 코인' 부상[코인현미경]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
