@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-01T19:45:31.448Z",
+  "updatedAt": "2026-08-01T21:02:31.275Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,7 +9,7 @@
       "rank": 1,
       "keyword": "하비에르 아기레",
       "volumeLabel": "2000+",
-      "startedLabel": "6시간 전",
+      "startedLabel": "7시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 ''명문 클럽 거절, 韓 대표팀 원한다'…\"이강인 내 아들!\" 외쳤던 그 감독, 태극전사 지휘하나→\"한국 축구에 매력 느껴\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
@@ -37,12 +37,17 @@
       "rank": 2,
       "keyword": "lg에너지솔루션",
       "volumeLabel": "1000+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '‘캐즘’ 빠졌던 K배터리 3사, ESS 등 AI 수요 업고 흑자 전환' (동아비즈니스리뷰 | DBR) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "6시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '배터리 3사 다시 질주하나…시장 침체 뚫고 흑자전환 성공' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "배터리 3사 다시 질주하나…시장 침체 뚫고 흑자전환 성공",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/GvbvmdRfcK"
+        },
         {
           "title": "‘캐즘’ 빠졌던 K배터리 3사, ESS 등 AI 수요 업고 흑자 전환",
           "source": "동아비즈니스리뷰 | DBR",
@@ -52,11 +57,6 @@
           "title": "LG엔솔, 하반기 개선 요소가 있을까? [기업평판] By 알파경제 alphabiz",
           "source": "Investing.com 한국어",
           "url": "https://kr.investing.com/news/stock-market-news/article-2038855"
-        },
-        {
-          "title": "배터리 3사, 전기차 위기에도 동반 흑자 달성…7개 분기 만",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260801070603612"
         }
       ]
     },
@@ -65,9 +65,9 @@
       "rank": 3,
       "keyword": "맨유",
       "volumeLabel": "1000+",
-      "startedLabel": "7시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "startedLabel": "8시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '오른쪽 아닌 중앙에서도 통했다...음뵈모, ATM전 멀티골 \"명확한 계획이 있었다\"' (OSEN) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -82,9 +82,9 @@
           "url": "https://biz.chosun.com/sports/football/2026/08/02/MMZDIYJTGM3WKZDEMM3WIMLGGQ/"
         },
         {
-          "title": "아틀레티코 시메오네, 이번 시즌도 '시그니처' 4-4-2 유력… 이강인은 세컨 ST 예상",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/zoYscf4qTf"
+          "title": "[오피셜] 맨유 역대급 재능 나오나? '16세 유망주' JJ 가브리엘, ATM전 명단 포함…\"데뷔 가능성 크다\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260801n05252"
         }
       ]
     },
@@ -93,9 +93,9 @@
       "rank": 4,
       "keyword": "아스날",
       "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+2",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '전 세계 뒤흔드는 ‘세기의 이적’ 나온다, ESPN “비니시우스 레알 떠날 가능성…아스널 영입 검토”' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -105,81 +105,53 @@
           "url": "https://v.daum.net/v/4F7SIckLhj"
         },
         {
-          "title": "올 여름 최고 이적 성사? '디펜딩 챔프' 아스널, '브라질 특급' 비니시우스와 개인 합의 완료...'디오망데 러브콜' 레알 마드리드도 이적 허용 분위기",
+          "title": "이럴 수가! '반전의 반전' 아스널 웃는다…개인 조건에 합의→비니시우스 주니오르 영입 위해 거액 제시 계획",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/08/01/MI2TIYRUGE4TGZJRMM3TAYRZHA/"
+          "url": "https://www.chosun.com/sports/world-football/2026/08/01/GFQTKNDDMZQTKODGMU4GGZTGMY/"
         },
         {
-          "title": "\"개인 조건 합의 완료!\" 비니시우스, 아스날로 '역대급' 이적 폭탄 눈앞.. 이제 레알의 결정만 남았다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/01/202607311804779873O"
+          "title": "레알, 비니시우스에 재계약 최종선 통보…거부하면 올여름 이적시장서 매각 검토 돌입",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112850438"
         }
       ]
     },
     {
-      "id": "맨유-아틀레티코",
+      "id": "고우림",
       "rank": 5,
-      "keyword": "맨유 아틀레티코",
-      "volumeLabel": "1000+",
-      "startedLabel": "7시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[오피셜] “이강인의 시간은 끝났다” 결국 현실로···AT 마드리드 합류 실패 “맨유전 소집 명단 제외” 한국에...' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[오피셜] “이강인의 시간은 끝났다” 결국 현실로···AT 마드리드 합류 실패 “맨유전 소집 명단 제외” 한국에...",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608010525003"
-        },
-        {
-          "title": "\"PSG는 중요한 로테이션 자원 잃었지만 ATM 경영진은 벌써부터 미소를..\" 이강인 이적이 마냥 부러운 佛언론",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260801201609879"
-        },
-        {
-          "title": "'아틀레티코 이적' 이강인, 결국 현지 합류 불발…한국서 데뷔전 유력",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260731_0003731316"
-        }
-      ]
-    },
-    {
-      "id": "latest-iphone-rumors",
-      "rank": 6,
-      "keyword": "latest iphone rumors",
+      "keyword": "고우림",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'iPhone 18 Pro may launch at $1,399 starting price, per report' (9to5Mac) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''고우림♥' 김연아, D사 행사 뜨자 감탄…명품보다 빛난 미모 [★해시태그]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "iPhone 18 Pro may launch at $1,399 starting price, per report",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/07/31/iphone-18-pro-may-launch-at-1399-starting-price-per-report/"
+          "title": "'고우림♥' 김연아, D사 행사 뜨자 감탄…명품보다 빛난 미모 [★해시태그]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260801135938898"
         },
         {
-          "title": "Apple may change its iPhone launch strategy, and the standard iPhone could be affected the most",
-          "source": "Digital Trends",
-          "url": "https://www.digitaltrends.com/phones/apple-may-change-its-iphone-launch-strategy-and-the-standard-iphone-could-be-affected-the-most/"
+          "title": "\"숨 막히는 미모\", \"압도적 아름다움\"...'日 화끈한 반응' 피겨 여왕 김연아 파격 변신에 '감탄 쇄도'",
+          "source": "스포탈코리아",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553413198"
         },
         {
-          "title": "2027 iPhone 18 rumors: Smaller Dynamic Island, 12GB or 9GB RAM, 2nm A20 chip",
-          "source": "AppleInsider",
-          "url": "https://appleinsider.com/articles/26/07/31/2027-iphone-18-rumors-smaller-dynamic-island-12gb-or-9gb-ram-2nm-a20-chip"
+          "title": "'고우림♥' 김연아, 이래서 퀸연아…명품보다 더 빛나는 아우라",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260801n11018"
         }
       ]
     },
     {
       "id": "uap",
-      "rank": 7,
+      "rank": 6,
       "keyword": "uap",
       "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-3",
+      "startedLabel": "7시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 'UAP Disclosure is No Longer Optional' (Avi Loeb – Medium) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -201,13 +173,41 @@
       ]
     },
     {
+      "id": "세이디싱크",
+      "rank": 7,
+      "keyword": "세이디싱크",
+      "volumeLabel": "500+",
+      "startedLabel": "7시간 전",
+      "change": "up",
+      "changeLabel": "+2",
+      "summary": "급상승 시점에 '’스파이더맨 4’, 개봉 4일 만에 200만 돌파…올해 최단 기록' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "’스파이더맨 4’, 개봉 4일 만에 200만 돌파…올해 최단 기록",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR2026080109340608b"
+        },
+        {
+          "title": "영화 ‘스파이더맨’ 개봉 나흘 만에 200만 돌파... 올해 최단 기록",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/08/01/2SRRKR655NHK3JY5VABG7RNY4Q/"
+        },
+        {
+          "title": "‘스파이더맨 4’ 올해 최단기간 200만 돌파···군체·호프보다도 하루 더 빨라",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608011009001"
+        }
+      ]
+    },
+    {
       "id": "아옳이",
       "rank": 8,
       "keyword": "아옳이",
       "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-3",
+      "startedLabel": "7시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '아옳이, 커플 사진 공개…열애 상대는 한의사 김형배' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -229,30 +229,30 @@
       ]
     },
     {
-      "id": "세이디싱크",
+      "id": "latest-iphone-rumors",
       "rank": 9,
-      "keyword": "세이디싱크",
+      "keyword": "latest iphone rumors",
       "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '’스파이더맨 4’, 개봉 4일 만에 200만 돌파…올해 최단 기록' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-3",
+      "summary": "급상승 시점에 'iPhone 18 Pro may launch at $1,399 starting price, per report' (9to5Mac) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "’스파이더맨 4’, 개봉 4일 만에 200만 돌파…올해 최단 기록",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR2026080109340608b"
+          "title": "iPhone 18 Pro may launch at $1,399 starting price, per report",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/07/31/iphone-18-pro-may-launch-at-1399-starting-price-per-report/"
         },
         {
-          "title": "영화 ‘스파이더맨’ 개봉 나흘 만에 200만 돌파... 올해 최단 기록",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/08/01/2SRRKR655NHK3JY5VABG7RNY4Q/"
+          "title": "Apple Rewind: Price upgrade for iPhone, Apple sues OpenAI, and new updates for iOS",
+          "source": "Neowin",
+          "url": "https://www.neowin.net/news/apple-rewind-price-upgrade-for-iphone-apple-sues-openai-and-new-updates-for-ios/"
         },
         {
-          "title": "‘스파이더맨’ 관객 200만 명 돌파…“올해 개봉작 중 가장 빨라”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8626062"
+          "title": "Apple may change its iPhone launch strategy, and the standard iPhone could be affected the most",
+          "source": "Digital Trends",
+          "url": "https://www.digitaltrends.com/phones/apple-may-change-its-iphone-launch-strategy-and-the-standard-iphone-could-be-affected-the-most/"
         }
       ]
     },
@@ -261,21 +261,21 @@
       "rank": 10,
       "keyword": "mutv",
       "volumeLabel": "200+",
-      "startedLabel": "7시간 전",
+      "startedLabel": "8시간 전",
       "change": "steady",
       "changeLabel": "유지",
-      "summary": "급상승 시점에 'Departures: Reds leave for Stockholm' (Manchester United Website) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Man United overturns Atlético 2-1 as Mbeumo scores twice before Lee Kan…' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "Departures: Reds leave for Stockholm",
-          "source": "Manchester United Website",
-          "url": "https://www.manutd.com/en/mutv/videos/detail/departures-reds-leave-for-stockholm"
-        },
         {
           "title": "Man United overturns Atlético 2-1 as Mbeumo scores twice before Lee Kang-in joins - CHOSUNBIZ",
           "source": "Chosunbiz",
           "url": "https://biz.chosun.com/en/en-sports/2026/08/02/MS3UZ2UF2JH3NGEPUSX3KIR4IQ/"
+        },
+        {
+          "title": "Departures: Reds leave for Stockholm",
+          "source": "Manchester United Website",
+          "url": "https://www.manutd.com/en/mutv/videos/detail/departures-reds-leave-for-stockholm"
         },
         {
           "title": "Man Utd vs Atletico Madrid team news LIVE! Pre-season fixture, score, live updates and team news",
