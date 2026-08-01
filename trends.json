@@ -1,17 +1,45 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-01T22:28:58.868Z",
+  "updatedAt": "2026-08-01T23:33:23.995Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "이천수",
+      "id": "삼성전자",
       "rank": 1,
-      "keyword": "이천수",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "keyword": "삼성전자",
+      "volumeLabel": "10000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[비즈토크] 삼성전자 DX부문 사상 첫 적자…하반기 돌파구는' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[비즈토크] 삼성전자 DX부문 사상 첫 적자…하반기 돌파구는",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802000448846"
+        },
+        {
+          "title": "삼성전자 영업이익 89.5조...메모리 훈풍 속 스마트폰은 '적자 쇼크'",
+          "source": "YTN 사이언스",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202607311606296679"
+        },
+        {
+          "title": "한투증권, 삼전 목표가 '59만원→65만원'…\"다년계약으로 안정성↑\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260731026000008"
+        }
+      ]
+    },
+    {
+      "id": "이천수",
+      "rank": 2,
+      "keyword": "이천수",
+      "volumeLabel": "5000+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '청문회 향한 이천수의 작심 발언! \"질문하는 사람과 대답하는 사람 꼬여 있어\"…'왜 졌냐'는 황당 질문엔 \"지려고 나가는 사람은…' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,41 +61,13 @@
       ]
     },
     {
-      "id": "박진만",
-      "rank": 2,
-      "keyword": "박진만",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''연패 끊은' 1위 삼성·'4연승' 2위 kt…반게임 차 선두 경쟁(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'연패 끊은' 1위 삼성·'4연승' 2위 kt…반게임 차 선두 경쟁(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260731171351007"
-        },
-        {
-          "title": "\"야구 그만해야 하나 했는데\"…데뷔 첫 세이브에 홀드왕 도전, 푸른 피의 믿을맨 인생이 달라졌다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260801134108748"
-        },
-        {
-          "title": "\"감독님과 400승, 500승도 함께\"→\"자욱이가 있으면 하지 않을까\"…예비 FA와 우승 도전 감독, 누가 유혹하는 것일까 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/baseball/2026/08/02/MEZGKYZXGI3WCMDCMMYWCN3EGM/"
-        }
-      ]
-    },
-    {
       "id": "로스앤젤레스-fc",
       "rank": 3,
       "keyword": "로스앤젤레스 fc",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '손흥민 어쩌나...요리스 분노 터뜨렸는데, '오히려 악화'된 밴쿠버 홈구장 잔디 상태→LAFC '승점 6' 맞대결 앞두고 변수 …' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -77,25 +77,53 @@
           "url": "https://v.daum.net/v/20260802002307961"
         },
         {
-          "title": "'와' 손흥민 이 정도야? \"메시 대신 MVP 줘야…이젠 SON 돌아왔냐고 묻지 마라, MLS 최고 선수인가 논해야\"→美 현지 극찬 쏟아졌다",
+          "title": "\"손흥민과 뛰는 건 너무 쉽고 편해\"…LAFC 부앙가, SON과 '환상 호흡' 이렇게 기다렸다→\"그는 모든 걸 알고 있어\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260801130137395"
+          "url": "https://v.daum.net/v/20260802012107157"
         },
         {
-          "title": "'별 중의 별' 손흥민, 뮐러와 다시 적으로…LAFC-밴쿠버 맞대결",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260731058600007"
+          "title": "손흥민 '4경기 연속골 도전'…지난해 MLS컵 탈락 아픔 씻을까",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/overseas-soccer/6245770"
+        }
+      ]
+    },
+    {
+      "id": "김희철",
+      "rank": 4,
+      "keyword": "김희철",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김희철, 수입 고백 \"13인조 슈퍼주니어 보다 '아형' 때 더 벌어\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김희철, 수입 고백 \"13인조 슈퍼주니어 보다 '아형' 때 더 벌어\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/02/2026080207491830231"
+        },
+        {
+          "title": "김희철, 솔직한 수입 고백..\"슈퍼주니어보다 '아형' 할때 더 많이 벌어\"('에겐남 스윙스')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260801231249586"
+        },
+        {
+          "title": "김희철 \"슈퍼주니어 활동보다 '아는 형님'으로 돈 더 벌어\"",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260802n01272?mid=n0100"
         }
       ]
     },
     {
       "id": "송혜교",
-      "rank": 4,
+      "rank": 5,
       "keyword": "송혜교",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '송혜교, 여행을 간 거야 화보를 찍는 거야…일본 뒤집은 '여신 비주얼' [MD★스타]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -117,13 +145,41 @@
       ]
     },
     {
-      "id": "대한민국-축구-국가대표팀",
-      "rank": 5,
-      "keyword": "대한민국 축구 국가대표팀",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "id": "햄버거",
+      "rank": 6,
+      "keyword": "햄버거",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"햄버거 3만원=사치\"?…중학생 혼낸 부모, 역풍 맞았다' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"햄버거 3만원=사치\"?…중학생 혼낸 부모, 역풍 맞았다",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260731n08658"
+        },
+        {
+          "title": "용돈 아껴 3만원짜리 햄버거세트 사먹은 중학생한테 ‘사치’라고 혼낸 부모, ‘역풍’ 맞았다",
+          "source": "인사이트",
+          "url": "https://www.insight.co.kr/news/565835"
+        },
+        {
+          "title": "“돌 씹힌다”…출시 2주만에 100만개나 팔린 인기 버거 ‘조기 종료’",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/society/12114299"
+        }
+      ]
+    },
+    {
+      "id": "대한민국-축구-국가대표팀",
+      "rank": 7,
+      "keyword": "대한민국 축구 국가대표팀",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '고대 출신에 놀고 계신 선배는 정진석? 정몽규 동공지진' (JTBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -133,25 +189,53 @@
           "url": "https://news.jtbc.co.kr/article/NB12311183"
         },
         {
-          "title": "'가장 비겁한 韓 축구인' 홍명보·정몽규도 아니다, 기어이 청문회도 피해버리다니... '해외 도피성 취업'→쥐 죽은 듯 잠적 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/02/2026080114321957216"
+          "title": "'가장 비겁한 韓 축구인' 홍명보·정몽규도 아니다, 기어이 청문회도 피해버리다니…'해외 도피성 취업'→쥐 죽은 듯 잠적",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260802n00731"
         },
         {
-          "title": "\"홍명보 감독이 불쌍하다\" 청문회 보고 깜짝 놀란 일본 반응 \"사실상 공개 망신\"",
+          "title": "김병지, 추가 입장 표명 \"청문회서 충분히 설명 드리지 못해 아쉬움\"...시·도민구단 가치, 강원FC 성과 소명",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260801060341054"
+          "url": "https://v.daum.net/v/20260801213251759"
+        }
+      ]
+    },
+    {
+      "id": "살림하는-남자들",
+      "rank": 8,
+      "keyword": "살림하는 남자들",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '박서진, 유재석x임영웅과 어깨 나란히...\"감개무량해\" [살림남]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "박서진, 유재석x임영웅과 어깨 나란히...\"감개무량해\" [살림남]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260801224307474"
+        },
+        {
+          "title": "이요원, 예능인상 후보 등극…\"남부끄럽다\" (살림남)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260801n11661"
+        },
+        {
+          "title": "박서진, 유재석 전현무 기안84 쟁쟁한 ★들 사이 최우수 예능인 후보 “감개무량”(살림남)",
+          "source": "뉴스엔",
+          "url": "https://m.newsen.com/news_view.php?uid=202608012236102110"
         }
       ]
     },
     {
       "id": "아리아나-그란데",
-      "rank": 6,
+      "rank": 9,
       "keyword": "아리아나 그란데",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-3",
       "summary": "급상승 시점에 '아리아나 그란데, 8집 '페탈' 발매…2년 만 정규앨범' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -173,114 +257,30 @@
       ]
     },
     {
-      "id": "일본인",
-      "rank": 7,
-      "keyword": "일본인",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"이런 적은 처음\" 일본인이 사라지고 있다는데…대체 무슨 일' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"이런 적은 처음\" 일본인이 사라지고 있다는데…대체 무슨 일",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/41UfzANdga?f=p"
-        },
-        {
-          "title": "\"이런 적은 처음\" 경고음 터지더니…일본 '마지노선' 무너졌다",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260801n04089"
-        },
-        {
-          "title": "일본인 인구, 42년 만에 1억2000만명 선 붕괴…인구절벽 가속",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2609131"
-        }
-      ]
-    },
-    {
-      "id": "정경호",
-      "rank": 8,
-      "keyword": "정경호",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '효연, '정경호와 결별' 수영 걱정…\"기력 없어 보여\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "효연, '정경호와 결별' 수영 걱정…\"기력 없어 보여\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260801_0003732673"
-        },
-        {
-          "title": "효연, ‘효리수’ 유리·수영 건강까지 챙겼다…“기력이 없어 보인다”",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260801508807"
-        },
-        {
-          "title": "“기운 없어 보여”…효연, ‘결별’ 수영 안타까운 근황 전했다",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/entertainment/starinterN/2026/08/01/20260801500037"
-        }
-      ]
-    },
-    {
-      "id": "장동민",
-      "rank": 9,
-      "keyword": "장동민",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '장동민 “가정의 평화 깨지지 않길…” 눈물 (독박투어)' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "장동민 “가정의 평화 깨지지 않길…” 눈물 (독박투어)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260801/134405076/1"
-        },
-        {
-          "title": "‘독박투어’ 양상국 “좋은 예능 프로그램에 고정으로 들어가고파”",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/513355"
-        },
-        {
-          "title": "장동민, 무릎 부상 투혼 속 눈물… “피해 준 것 같아 죄송” (‘독박투어’)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260801101841818"
-        }
-      ]
-    },
-    {
-      "id": "김원형",
+      "id": "김요한",
       "rank": 10,
-      "keyword": "김원형",
+      "keyword": "김요한",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[IS 잠실] 승기 잡고도 무승부...김원형 두산 베어스 감독은 왜 격분했나' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘건물주’ 김요한, 집에서 만화만 본다..탁재훈 “일 안 하니?” (‘신랑수업2’)[순간포착]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[IS 잠실] 승기 잡고도 무승부...김원형 두산 베어스 감독은 왜 격분했나",
+          "title": "‘건물주’ 김요한, 집에서 만화만 본다..탁재훈 “일 안 하니?” (‘신랑수업2’)[순간포착]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/xOqQKyWIri"
+          "url": "https://v.daum.net/v/4lqQg4V7vU"
         },
         {
-          "title": "[사진]3피트 위반으로 아웃되는 정수빈",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112850874"
+          "title": "김요한, 오연희와 핑크빛 무드…순항 중인 관계 고백",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260801_0003732652"
         },
         {
-          "title": "[AI상보] 잠실 LG-두산전 2-2 무승부, LG 카라스코 데뷔전 위력투",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260801000186"
+          "title": "[예고] “우리 연희가 좋아?” 요한 앞에 등장한 살벌한 형님들?!",
+          "source": "채널A",
+          "url": "https://ichannela.com/program/clip/000000542859.do"
         }
       ]
     }
