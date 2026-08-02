@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-02T16:07:48.442Z",
+  "updatedAt": "2026-08-02T17:34:58.844Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,7 +9,7 @@
       "rank": 1,
       "keyword": "재벌x형사",
       "volumeLabel": "5000+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "4시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 'SBS 작정했다…최고 시청률 11% 흥행 신화→2년 만에 '도파민' 서사로 돌아오는 韓 드라마 ('재벌X형사2')' (Daum) 관련 뉴스가 함께 포착됐어요.",
@@ -28,58 +28,30 @@
         {
           "title": "정은채 눈빛 돌변, 이유는 금 때문?! (런닝맨)",
           "source": "네이트",
-          "url": "https://news.nate.com/view/20260802n03138?mid=e0400"
-        }
-      ]
-    },
-    {
-      "id": "박소현",
-      "rank": 2,
-      "keyword": "박소현",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '“실버타운 가면 받아주지도 않아” 양정아, 나이 공격하는 신봉선에 언짢♨' (programs.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“실버타운 가면 받아주지도 않아” 양정아, 나이 공격하는 신봉선에 언짢♨",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC480941624"
-        },
-        {
-          "title": "‘55세’ 박소현, 父와 즉석밥 한 공기 나눠 먹는다…“라면에 계란도 못 풀어” (‘미우새’)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802231010475"
-        },
-        {
-          "title": "47세 신봉선, 핑크빛 사심 고백에 허경환 묘한 분위기 ‘뭐야뭐야’ (미우새)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260731/134403362/1"
+          "url": "https://news.nate.com/view/20260802n03138?mid=n1101"
         }
       ]
     },
     {
       "id": "lck",
-      "rank": 3,
+      "rank": 2,
       "keyword": "lck",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'HanJin BRION Head Coach Kim Sang-soo: \"Our performance was poor... we n…' (Inven Global) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "4시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 'DNS jungler Sharvel's LCK breakout highlights esports' growing talent p…' (Crypto Briefing) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "HanJin BRION Head Coach Kim Sang-soo: \"Our performance was poor... we need to regroup\"",
-          "source": "Inven Global",
-          "url": "https://www.invenglobal.com/articles/24385/hanjin-brion-head-coach-kim-sang-soo-our-performance-was-poor-we-need-to-regroup"
-        },
         {
           "title": "DNS jungler Sharvel's LCK breakout highlights esports' growing talent pipeline, but where's the crypto?",
           "source": "Crypto Briefing",
           "url": "https://cryptobriefing.com/sharvel-lck-esports-crypto-sponsorship/"
+        },
+        {
+          "title": "HanJin BRION Head Coach Kim Sang-soo: \"Our performance was poor... we need to regroup\"",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/24385/hanjin-brion-head-coach-kim-sang-soo-our-performance-was-poor-we-need-to-regroup"
         },
         {
           "title": "'Aiming' Kim Ha-ram to Start Against Hanjin Brion Immediately After KRX Trade",
@@ -89,30 +61,58 @@
       ]
     },
     {
-      "id": "제임스-네일",
-      "rank": 4,
-      "keyword": "제임스 네일",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'KIA 선수들은 왜 텅 빈 경기장에 나왔을까… 네일은 맨발로 뛰었다, 운명의 15연전 기다린다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "id": "여객선",
+      "rank": 3,
+      "keyword": "여객선",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '여객선 화재에 승객들 바다로 '풍덩'...5명 사망·41명 실종' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "KIA 선수들은 왜 텅 빈 경기장에 나왔을까… 네일은 맨발로 뛰었다, 운명의 15연전 기다린다",
+          "title": "여객선 화재에 승객들 바다로 '풍덩'...5명 사망·41명 실종",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260802183137841"
+          "url": "https://v.daum.net/v/20260802202450516"
         },
         {
-          "title": "프로야구 창원 경기 2일 연속 폭염 취소‥부산은 30분 지연 시작",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6841836_36918.html"
-        },
-        {
-          "title": "선수·관중을 지켜라!…'폭염과 전쟁'에 나선 프로스포츠 종목들",
+          "title": "인니 동자바주서 271명 탄 여객선에 큰불…5명 사망·41명 실종(종합)",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260802035500007"
+          "url": "https://www.yna.co.kr/view/AKR20260802039551104"
+        },
+        {
+          "title": "인도네시아 여객선 화재…5명 사망·41명 실종, 225명 구조",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/asia-australia/6246656"
+        }
+      ]
+    },
+    {
+      "id": "히샬리송",
+      "rank": 4,
+      "keyword": "히샬리송",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '손흥민 “토트넘 내가 필요하냐” 물어봤는데, 히샬리송 ‘가끔 토트넘 떠나길 원한다’…데 제르브 감독 작심발언' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "손흥민 “토트넘 내가 필요하냐” 물어봤는데, 히샬리송 ‘가끔 토트넘 떠나길 원한다’…데 제르브 감독 작심발언",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802194736973"
+        },
+        {
+          "title": "'양민혁 결장' 토트넘, 프리시즌 친선경기서 첼시에 2-1 승리...히샬리송 결승골 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/01/202608012100778431O"
+        },
+        {
+          "title": "'韓 최고재능' 양민혁 날벼락! 첼시전 충격의 0분…일찌감치 경쟁 빨간불 '또 임대?'→토트넘에 자리 보이질 않는다",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260802n00354"
         }
       ]
     },
@@ -121,9 +121,9 @@
       "rank": 5,
       "keyword": "달 탐사",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '유럽은 달 탐사 임무에서 미국과 협력하기를 원한다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -138,9 +138,9 @@
           "url": "https://www.jayupress.com/news/articleView.html?idxno=53142"
         },
         {
-          "title": "우주청·NASA, 달 기지 건설 맞손…공동참여의향서 체결",
-          "source": "뉴시스",
-          "url": "https://nwww.newsis.com/view/NISX20260730_0003729287"
+          "title": "초거대 고철 덩어리, 시속 8700km 속도로 달에 ‘쾅’···폭발 땐 27m 분화구 생긴다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608012103001"
         }
       ]
     },
@@ -149,26 +149,26 @@
       "rank": 6,
       "keyword": "잠실대교",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한강서 수영하다 수문에 빨려 들어간 30대...20분 만에 심정지 상태로 구조' (경기일보) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '한강서 수영하다 수문에 빨려 들어간 30대...20분 만에 심정지 상태로 구조' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "한강서 수영하다 수문에 빨려 들어간 30대...20분 만에 심정지 상태로 구조",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260802580286"
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802181440512"
+        },
+        {
+          "title": "잠실대교 수문으로 빨려 들어간 30대…심정지 상태로 구조",
+          "source": "주간조선",
+          "url": "https://weekly.chosun.com/news/articleView.html?idxno=53976"
         },
         {
           "title": "한강 잠실대교서 수영하던 30대 남성 수문으로 빨려들어가 심정지",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/1eduDRe477?f=p"
-        },
-        {
-          "title": "잠실대교 인근서 수영하던 30대 심정지…\"수문에 빨려 들어가\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/02/2026080220385197103"
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260802n08960"
         }
       ]
     },
@@ -177,9 +177,9 @@
       "rank": 7,
       "keyword": "박기량",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '박기량 치어리더 '두플래쉬에 래쉬가드 입고'[포토]' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -189,14 +189,14 @@
           "url": "https://sports.news.nate.com/view/20260802n14647"
         },
         {
-          "title": "“변함없이 그 자리에”...두치 박기량, 응원 진심 “멋져부러!” [SS리플레이]",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1625932"
-        },
-        {
           "title": "박기량 치어리더 ‘변함없는 미모’[포토]",
           "source": "www.xportsnews.com",
           "url": "https://www.xportsnews.com/article/2179434"
+        },
+        {
+          "title": "“변함없이 그 자리에”...두치 박기량, 응원 진심 “멋져부러!” [SS리플레이]",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1625932"
         }
       ]
     },
@@ -205,21 +205,21 @@
       "rank": 8,
       "keyword": "앤드류 가필드",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Exclusive | How Andrew Garfield feels about successor Tom Holland’s Spi…' (Page Six) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 'How Andrew Garfield feels about successor Tom Holland’s Spider-Man port…' (Yahoo) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Exclusive | How Andrew Garfield feels about successor Tom Holland’s Spider-Man portrayal",
-          "source": "Page Six",
-          "url": "https://pagesix.com/2026/07/30/celebrity-news/how-andrew-garfield-feels-about-successor-tom-hollands-spider-man-portrayal/"
+          "title": "How Andrew Garfield feels about successor Tom Holland’s Spider-Man portrayal",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/andrew-garfield-feels-successor-tom-200709948.html"
         },
         {
           "title": "Andrew Garfield’s Tom Holland Verdict Should End the Spider-Man Debate",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/entertainment/movies/articles/andrew-garfield-tom-holland-verdict-150000651.html"
+          "source": "AOL.com",
+          "url": "https://www.aol.com/articles/andrew-garfield-tom-holland-verdict-150000000.html"
         },
         {
           "title": "Andrew Garfield heaps praise on Tom Holland’s Spider-Man: ‘I love him’",
@@ -233,9 +233,9 @@
       "rank": 9,
       "keyword": "마이클세일러",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '마이크로스트래티지, 비트코인 미실현손실 83억 달러 반영…2분기 순손실 82억 달러 기록' (매일경제 마켓) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -261,9 +261,9 @@
       "rank": 10,
       "keyword": "서주원",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '아옳이, 이혼 4년만에 한의사 새 남친 김형배 공개…\"예쁘게 봐주세요\"' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -273,14 +273,14 @@
           "url": "https://www.news1.kr/entertain/celebrity-topic/6246534"
         },
         {
-          "title": "인플루언서 아옳이, ‘189cm 훈남 한의사’ 새 연인 알고 보니",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802160001046?f=p"
-        },
-        {
           "title": "아옳이, 커플 사진 공개…열애 상대는 한의사 김형배",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20260801_0003732667"
+        },
+        {
+          "title": "아옳이♥︎김형배, 재혼각? 대놓고 럽스타 시작 \"이왕 이렇게 된 거\" [핫피플]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/02/GQ2TEZDDGFSTAMTCMU2TEZLCHE/"
         }
       ]
     }
