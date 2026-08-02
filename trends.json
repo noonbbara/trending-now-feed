@@ -1,41 +1,41 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-02T06:40:11.949Z",
+  "updatedAt": "2026-08-02T09:15:15.374Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "차은우",
+      "id": "여론조작",
       "rank": 1,
-      "keyword": "차은우",
-      "volumeLabel": "5000+",
-      "startedLabel": "3시간 전",
+      "keyword": "여론조작",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '차은우, 130억 세금 전액 납부 후 '불복' 청구' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''명태균 대선 여론조작' 주장한 신용한 충북지사 불송치' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "차은우, 130억 세금 전액 납부 후 '불복' 청구",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260802_0003732952"
-        },
-        {
-          "title": "차은우 “추징금 냈지만 납득 못해”…국세청 과세 불복 [지금뉴스]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8626307"
-        },
-        {
-          "title": "130억 세금 낸 차은우, 조세심판 청구…\"법률적 판단 받겠다\"",
+          "title": "'명태균 대선 여론조작' 주장한 신용한 충북지사 불송치",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260802017000005"
+          "url": "https://www.yna.co.kr/view/AKR20260802016700064"
+        },
+        {
+          "title": "'명태균 여론조작 의혹 제기' 신용한, 경찰서 '불송치'…\"공공의 이익 인정\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qLaCeQx2oj"
+        },
+        {
+          "title": "경찰, '명태균 대선 여론조작' 발언 신용한 충북지사 불송치",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260802000155"
         }
       ]
     },
     {
-      "id": "코오롱-티슈-진",
+      "id": "포-헨즈",
       "rank": 2,
-      "keyword": "코오롱 티슈 진",
+      "keyword": "포 헨즈",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
@@ -45,198 +45,226 @@
       "newsSignals": []
     },
     {
-      "id": "태풍-루사",
+      "id": "종합-부동산-세",
       "rank": 3,
-      "keyword": "태풍 루사",
+      "keyword": "종합 부동산 세",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[꼬꼬무 찐리뷰] \"아빠 꽉 잡아\" 거친 물살 속 놓쳐버린 딸의 손…태풍 '루사', 우리가 잊고 있던 그날의 비극' (SBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '1가구 1주택, 세금 '억 소리' 났다…집값 얼마길래[세금GO]' (이데일리) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[꼬꼬무 찐리뷰] \"아빠 꽉 잡아\" 거친 물살 속 놓쳐버린 딸의 손…태풍 '루사', 우리가 잊고 있던 그날의 비극",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008684240"
+          "title": "1가구 1주택, 세금 '억 소리' 났다…집값 얼마길래[세금GO]",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01144726645543384&mediaCodeNo=257"
         },
         {
-          "title": "'꼬꼬무', 강릉 소멸 위기 '태풍 루사' 재조명...산다라박 오열 [종합] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/07/31/2026073109497290557"
+          "title": "참여연대, 1세대 1주택자 종부세 평균 부담 월 9만원 \"세금 폭탄 아님”",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260725500266"
         },
         {
-          "title": "[스브스夜] '꼬꼬무' 역대 최악의 태풍 '루사'···태풍 이름은 사라졌지만 영원히 잊히지 말아야 할 이들의 그날 '추적'",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260731n03819?mid=e1200"
+          "title": "\"강남에 살아요\" 한숨...은퇴자 위한 '똘똘한 한채', 서울에 많이 있다 [부동산 산책]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802090214519"
         }
       ]
     },
     {
-      "id": "띠별-운세",
+      "id": "mlb",
       "rank": 4,
-      "keyword": "띠별 운세",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "keyword": "mlb",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[오늘의 운세] 2026년 08월 02일 별자리 운세' (YTN) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Dodgers deliver blockbuster, set to acquire Skubal from Tigers (source)' (MLB.com) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[오늘의 운세] 2026년 08월 02일 별자리 운세",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0121_202608020000000002"
+          "title": "Dodgers deliver blockbuster, set to acquire Skubal from Tigers (source)",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/tarik-skubal-dodgers-tigers-trade"
         },
         {
-          "title": "[오늘의 운세] 8월 2일 일요일 (음력 6월 20일) 띠별 운세",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260730580586"
+          "title": "Dodgers To Acquire Tarik Skubal",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/08/dodgers-to-acquire-tarik-skubal.html"
         },
         {
-          "title": "2026년 08월 02일, 오늘의 띠별 운세 [인포그래픽]",
-          "source": "시선뉴스",
-          "url": "https://www.sisunnews.co.kr/news/articleView.html?idxno=243144"
-        }
-      ]
-    },
-    {
-      "id": "이준수",
-      "rank": 5,
-      "keyword": "이준수",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''아형' 이탁수, '아빠! 어디가?' 동생 이준수 키 공개 \"194㎝\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'아형' 이탁수, '아빠! 어디가?' 동생 이준수 키 공개 \"194㎝\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802084952301"
-        },
-        {
-          "title": "이탁수, '이종혁子' 부담 고백 \"父 정체 탄로…주변 눈빛 달라져\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/02/2026080202072681345"
-        },
-        {
-          "title": "연정훈, ♥한가인 첫인상 고백 \"예쁘다고 생각했지만 반하진 않아\" ('아는 형님')[어저께 TV]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112850844"
-        }
-      ]
-    },
-    {
-      "id": "스쿠발",
-      "rank": 6,
-      "keyword": "스쿠발",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '다저스 스쿠발 영입 임박했나? 특급유망주 2명 갑자기 선발 제외 \"트레이드 조치 가능성 높아\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "다저스 스쿠발 영입 임박했나? 특급유망주 2명 갑자기 선발 제외 \"트레이드 조치 가능성 높아\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802102908080"
-        },
-        {
-          "title": "MLB 다저스, FA 앞둔 좌완 특급 스쿠벌 영입…대형 트레이드",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260802024900007"
-        },
-        {
-          "title": "다저스, WS 3연패 마지막 퍼즐은 ‘사이영상 2연패’ 스쿠발 ... 1대3 트레이드 단행",
+          "title": "Dodgers Land Skubal, Aiming for Third Title",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/08/02/GUCQMDLBSZFN3EYY6MHKVWCMMM/"
+          "url": "https://www.chosun.com/english/sports-en/2026/08/02/I7VZWGSEUFFKFIRW6BXSXFF5OI/"
         }
       ]
     },
     {
-      "id": "지석진",
+      "id": "광주광역시",
+      "rank": 5,
+      "keyword": "광주광역시",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '2026년 양궁 청소년 대표, 12일간 하계 합숙훈련 진행' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "2026년 양궁 청소년 대표, 12일간 하계 합숙훈련 진행",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260731_0003731575"
+        },
+        {
+          "title": "광주, 국내외 전지훈련 메카 ‘우뚝’…씨름·양궁 선수단 잇단 방문",
+          "source": "남도일보",
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=918688"
+        },
+        {
+          "title": "[기획취재] 스포츠 도시 예천…부족한 숙박 인프라, 해결책은?",
+          "source": "시사일보",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "해군",
+      "rank": 6,
+      "keyword": "해군",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '태평양 군사판 다시 짜는 美…한국은 어디에 설 것인가 [Focus 인사이드]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "태평양 군사판 다시 짜는 美…한국은 어디에 설 것인가 [Focus 인사이드]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/HtCjQVfzWq"
+        },
+        {
+          "title": "대전함, 림팩 포술부문 최우수 전투함 영예…세종대왕함 이후 16년만",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20260802/134407447/1"
+        },
+        {
+          "title": "해군 대전함, 16년 만에 ‘바다의 탑건’ 선정됐다···7.2km 밖 표적에 함포",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608021057001"
+        }
+      ]
+    },
+    {
+      "id": "레알-마드리드-cf",
       "rank": 7,
-      "keyword": "지석진",
+      "keyword": "레알 마드리드 cf",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''60세' 지석진 \"30㎝ 샌드위치 3개 먹는다\" 충격…이성민 \"그러니 살 찌셨지\" (풍향중)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '레알 초비상! '아센시오, 결국 법정 간다' 미성년자 성관계 영상 유포 혐의로 9월 재판…고소 취하에도 \"법정서 재확인 필요\"' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'60세' 지석진 \"30㎝ 샌드위치 3개 먹는다\" 충격…이성민 \"그러니 살 찌셨지\" (풍향중)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/QvgUFmsAZD"
-        },
-        {
-          "title": "지석진 \"샌드위치 30㎝ 3개 먹어\" 고백에 이성민 \"그러니까 살 찌지\" 팩폭 참교육(풍향중)",
+          "title": "레알 초비상! '아센시오, 결국 법정 간다' 미성년자 성관계 영상 유포 혐의로 9월 재판…고소 취하에도 \"법정서 재확인 필요\"",
           "source": "네이트",
-          "url": "https://news.nate.com/view/20260801n07936?mid=n0100"
+          "url": "https://sports.news.nate.com/view/20260801n07370?mid=s0406&isq=11472"
         },
         {
-          "title": "‘참교육’ 대박난 이성민, 유재석·양세찬 앞 꺼드럭..“글로벌 1위 해본 적 없죠?” (‘풍향중’) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/01/MFSTAMLEMZSGGOJRG5STANLFHA/"
+          "title": "레알 마드리드 수비수가 미성년자가 등장하는 성관계 동영상을 배포한 혐의로 재판에 직면해 있다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/hau-ve-real-madrid-hau-toa-vi-cao-buoc-phat-tan-video-sex-co-tre-vi-thanh-nien"
+        },
+        {
+          "title": "이럴 수가! \"성관계 영상 불법 공유 혐의\" 결국 법정에 선다...'레알 마드리드 수비수' 아센시오, 9월 피고인 신분으로 재판",
+          "source": "Your Field",
+          "url": "https://yourfield.nexon.com/today/view/2025052909553424356?type=all"
         }
       ]
     },
     {
-      "id": "양산-날씨",
+      "id": "김-라경",
       "rank": 8,
-      "keyword": "양산 날씨",
+      "keyword": "김 라경",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '양산 초유의 42.5도 , 닷새째 40도…얼마나 더울까' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '여자야구 김라경, 72년만의 미국 여자프로야구 개막전에서 4이닝 4실점' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "양산 초유의 42.5도 , 닷새째 40도…얼마나 더울까",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/environment/1271008.html"
+          "title": "여자야구 김라경, 72년만의 미국 여자프로야구 개막전에서 4이닝 4실점",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8626336"
         },
         {
-          "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1132341"
+          "title": "김라경, '72년 만 부활' 미국 여자프로야구 개막전 선발 등판…첫 탈삼진 기록 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/02/2026080215143020578"
         },
         {
-          "title": "양산 기온 기상관측 사상 초유 '42.5도'까지 올라…43도선 위협",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260802026600530"
+          "title": "72년 만의 첫 공 던진 김라경… 4이닝 4탈삼진, 첫 승은 놓쳤다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/08/02/2W5HQNOFINERLHBNXXUCZ3G5YE/"
         }
       ]
     },
     {
-      "id": "지원이",
+      "id": "의료과실",
       "rank": 9,
-      "keyword": "지원이",
+      "keyword": "의료과실",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''전국노래자랑' 광주 남구 편, 초대가수 라인업 장민호→지원이' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '병원서 8시간에 270mL 먹은 신생아 숨져…法 “과다수유 의료과실”' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'전국노래자랑' 광주 남구 편, 초대가수 라인업 장민호→지원이",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3653040"
+          "title": "병원서 8시간에 270mL 먹은 신생아 숨져…法 “과다수유 의료과실”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260802/134406098/1"
         },
         {
-          "title": "‘전국노래자랑’ 장민호·전유진·손빈아·지원이·유민 총출동",
-          "source": "비즈엔터",
-          "url": "https://m.enter.etoday.co.kr/view/news_view.php?varAtcId=300483"
+          "title": "생후 3일 만에 병원서 숨진 아기…법원 \"과다 수유 등 의료과실\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260801041700004"
         },
         {
-          "title": "장민호, “풍악을 울려라”로 전국노래자랑 광주 남구 달군다",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16150552"
+          "title": "\"수유 잘함\" 기록도 수정…생후 3일만에 신생아 사망 병원에 5억 배상 판결",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260802580030"
+        }
+      ]
+    },
+    {
+      "id": "베트남-축구-국가대표팀",
+      "rank": 10,
+      "keyword": "베트남 축구 국가대표팀",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김상식호 베트남, 싱가포르와 0-0 무승부…현대컵 조 3위로 하락' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김상식호 베트남, 싱가포르와 0-0 무승부…현대컵 조 3위로 하락",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260801081552311?f=p"
+        },
+        {
+          "title": "김상식의 베트남, ’20경기 무패’…싱가포르와 무승부",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260801184250Ewv"
+        },
+        {
+          "title": "'현대컵 조3위 추락' 김상식의 베트남, 슈팅수 15대7 맹공에도 싱가포르와 0-0 무승부 '20경기 무패만 만족'...\"긍정적인 부분 찾기 어려워\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/08/01/MNQWCMDCMY3DAMJVGM3TMMTCMM/"
         }
       ]
     }
