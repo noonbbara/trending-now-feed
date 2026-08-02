@@ -1,45 +1,57 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-02T11:02:54.151Z",
+  "updatedAt": "2026-08-02T12:36:51.047Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "경제",
+      "id": "산악인",
       "rank": 1,
-      "keyword": "경제",
-      "volumeLabel": "5000+",
+      "keyword": "산악인",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '중국도 우주 AI 데이터센터 눈 돌려… “컴퓨팅 격차 해소” [차이나우]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''히말라야 14좌 6개월 등정' 네팔 산악인 눈사태로 사망' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "중국도 우주 AI 데이터센터 눈 돌려… “컴퓨팅 격차 해소” [차이나우]",
+          "title": "'히말라야 14좌 6개월 등정' 네팔 산악인 눈사태로 사망",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260801193309389"
+          "url": "https://v.daum.net/v/20260802163327656"
         },
         {
-          "title": "[ET시론] 미래우주경제 선도를 위한 우주AI 전략",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260802000049"
+          "title": "\"최고 등반가 잃었다\"…네팔 용병부대 출신 산악인 사망에 애도",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260802023600104"
         },
         {
-          "title": "우주 데이터센터서 냉각이 어려운 이유는… “방열판으로 식히고 칩 발열 줄인다” - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/science-chosun/science/2026/08/01/7VZEF6UNHBDLRC4BXQJV5OEN2A/"
+          "title": "파키스탄 눈사태, 14좌 최단기 완등 니르말 푸르자 등 10명 전원 사망",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260802010000191"
         }
       ]
     },
     {
-      "id": "울산-대-안양",
+      "id": "대전-대-광주",
       "rank": 2,
+      "keyword": "대전 대 광주",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+2",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "울산-대-안양",
+      "rank": 3,
       "keyword": "울산 대 안양",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '2일 울산 HD, FC안양과 맞대결' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -61,121 +73,125 @@
       ]
     },
     {
-      "id": "송아지",
-      "rank": 3,
-      "keyword": "송아지",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '송아지 우유 주던 70대 농장주, 어미 소에 들이받혀 숨져' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "송아지 우유 주던 70대 농장주, 어미 소에 들이받혀 숨져",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260802033400055"
-        },
-        {
-          "title": "축산농가에서 70대 사망…CCTV에 찍힌 당시 상황",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008686537"
-        },
-        {
-          "title": "송아지 우유 주던 70대 농장주 어미 소에 참변",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608021639001"
-        }
-      ]
-    },
-    {
-      "id": "대전-대-광주",
+      "id": "맥도날드",
       "rank": 4,
-      "keyword": "대전 대 광주",
+      "keyword": "맥도날드",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "summary": "급상승 시점에 '맥도날드 충주찰옥수수버거, '돌 씹힌다' 민원에 판매 조기 종료' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": []
+      "newsSignals": [
+        {
+          "title": "맥도날드 충주찰옥수수버거, '돌 씹힌다' 민원에 판매 조기 종료",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260801050900030"
+        },
+        {
+          "title": "기업과 지역의 맞손…충주 옥수수, 햄버거와 만났다",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/reporterView.do?newsId=148969111"
+        },
+        {
+          "title": "100만개 팔린 맥날 버거 조기 판매 중단…충주 찰옥수수버거 “돌이 씹혀”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1270996.html"
+        }
+      ]
     },
     {
-      "id": "트럼프-이란",
+      "id": "맷-데이비슨",
       "rank": 5,
-      "keyword": "트럼프 이란",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '트럼프, 이란 공격 취소…\"호르무즈 개방·핵 종식 조건 협상\"(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "트럼프, 이란 공격 취소…\"호르무즈 개방·핵 종식 조건 협상\"(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802114039782"
-        },
-        {
-          "title": "트럼프, 이란 공습 전격 취소…’신속 합의’ 전제",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260802193024HON"
-        },
-        {
-          "title": "트럼프, ‘주말 대공습’ 일단 보류···극단적 위협 후 취소 반복하는 오락가락 행보가 협상 최대 걸림돌",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608021320001"
-        }
-      ]
-    },
-    {
-      "id": "원이",
-      "rank": 6,
-      "keyword": "원이",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[스경X이슈] 리센느 원이, 일진설 제기에 중학교 담임 직접 반박…“근거 없는 비난 멈춰달라”' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[스경X이슈] 리센느 원이, 일진설 제기에 중학교 담임 직접 반박…“근거 없는 비난 멈춰달라”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608021026003"
-        },
-        {
-          "title": "리센느 원이 '일진설'에 중학교 담임 직접 등판 \"비난 멈춰\"…폭로글 '빛삭' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/02/2026080212440166654"
-        },
-        {
-          "title": "원이 ‘수난 시대’ 멈춰…학폭 논란에 담임쌤이 직접 반박",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260802/134407498/1"
-        }
-      ]
-    },
-    {
-      "id": "정은채",
-      "rank": 7,
-      "keyword": "정은채",
+      "keyword": "맷 데이비슨",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "summary": "급상승 시점에 '데이비슨·김웅빈 '쾅쾅'…꼴찌 키움, 9위 SSG에 설욕' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": []
+      "newsSignals": [
+        {
+          "title": "데이비슨·김웅빈 '쾅쾅'…꼴찌 키움, 9위 SSG에 설욕",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802172956651"
+        },
+        {
+          "title": "[2일 프리뷰] ‘위닝시리즈 걸렸다’ 전준표, 시즌 첫 승 도전",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112850990"
+        },
+        {
+          "title": "맷 데이비슨-김웅빈 7회 동반 홈런...키움, SSG에 5대3 승리",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/08/02/SYLJNMQGOZFNLMKF67IGEVE3LM/"
+        }
+      ]
+    },
+    {
+      "id": "김채현",
+      "rank": 6,
+      "keyword": "김채현",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[사진] 케플러(Kep1er) 김채현, 깜찍한 시구' (OSEN) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[사진] 케플러(Kep1er) 김채현, 깜찍한 시구",
+          "source": "OSEN",
+          "url": ""
+        },
+        {
+          "title": "롯데칠성, '펩시 엑스트라 피즈' 홍보",
+          "source": "보건신문",
+          "url": ""
+        },
+        {
+          "title": "[식음료 Pick] 신제품부터 사회공헌 통해 소비자 공략",
+          "source": "라이센스뉴스",
+          "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=205774"
+        }
+      ]
+    },
+    {
+      "id": "월명공원",
+      "rank": 7,
+      "keyword": "월명공원",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '장기미집행 ‘청주 월명공원’ 58년 만에 시민 품으로' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "장기미집행 ‘청주 월명공원’ 58년 만에 시민 품으로",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802133815019"
+        },
+        {
+          "title": "청주 월명공원 준공…58년 만에 시민 품으로",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260731059000064"
+        },
+        {
+          "title": "'장기 미집행' 청주 월명공원, 시민 휴식공간 재탄생",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6556753"
+        }
+      ]
     },
     {
       "id": "대한불교조계종-삼화사",
       "rank": 8,
       "keyword": "대한불교조계종 삼화사",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '동해 삼화사 템플스테이 건물서 화재…진화 중(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -185,42 +201,42 @@
           "url": "https://v.daum.net/v/20260801165852041?f=p"
         },
         {
-          "title": "강원 동해 삼화사 화재 2시간 만에 초진‥6명 대피",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6841713_36918.html"
-        },
-        {
           "title": "동해 삼화사 화재 진화하는 소방 당국",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/PYH20260801050000062"
+        },
+        {
+          "title": "강원 동해 삼화사 화재 2시간 만에 초진‥6명 대피",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6841713_36918.html"
         }
       ]
     },
     {
-      "id": "정지선",
+      "id": "시내버스",
       "rank": 9,
-      "keyword": "정지선",
-      "volumeLabel": "200+",
+      "keyword": "시내버스",
+      "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''사당귀' 정지선 \"5년 이상 근속자에 고급차·명품백 선물\" 통큰 복지' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '2030년까지 BRT 노선 38개 구축…전용 주행로 2배 확대' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'사당귀' 정지선 \"5년 이상 근속자에 고급차·명품백 선물\" 통큰 복지",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802134503152"
+          "title": "2030년까지 BRT 노선 38개 구축…전용 주행로 2배 확대",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148969010"
         },
         {
-          "title": "'사당귀' 정지선 \"5년 근속자에게 고급 자동차 선물\" 사내 복지 공개",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260802n08644"
+          "title": "광주 시내버스 9년만에 전면개편…103→118개로 노선 늘린다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260731167200054"
         },
         {
-          "title": "정지선 \"5년 근속시 고급자동차 선물…최근에도 5명 사줘\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260802_0003733099"
+          "title": "[뭐라노] 부산·경남 8곳 등 지방 BRT에 국비 4000억 투입",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/contents/newsbody.asp?code=0300&clss_cd=320500&key=20260730.99099008908"
         }
       ]
     },
@@ -229,26 +245,26 @@
       "rank": 10,
       "keyword": "마이크론 테크놀로지",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '하이닉스ADR 3.5% 마이크론 5.90% 급락 … 또 '잿빛 월요일' 공포 떠는 韓 증시' (뉴데일리 경제) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 'Where Will Micron Stock Be in 2030?' (Yahoo Finance) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "하이닉스ADR 3.5% 마이크론 5.90% 급락 … 또 '잿빛 월요일' 공포 떠는 韓 증시",
-          "source": "뉴데일리 경제",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/01/2026080100027.html"
+          "title": "Where Will Micron Stock Be in 2030?",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/where-micron-stock-2030-175100084.html"
         },
         {
-          "title": "마이크론테크놀로지, 금리 우려·차익실현 매도세 겹치며 주가 급락세",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01272646645543056"
+          "title": "Micron Technology slips 6% after sharp rebound fades (MU:NASDAQ)",
+          "source": "Seeking Alpha",
+          "url": "https://seekingalpha.com/news/4622906-micron-technology-slips-6-after-sharp-rebound-fades"
         },
         {
-          "title": "마이크론 주가 급락… 연준 긴축 우려가 AI 호재 삼켰다",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/08/202608011548264734fbbec65dfb_1"
+          "title": "Intel Continues to Get Pummeled: Why One Analyst Maintains His Conviction That 130% Gains Will Come",
+          "source": "24/7 Wall St.",
+          "url": "https://247wallst.com/investing/2026/07/29/intel-continues-to-get-pummeled-why-one-analyst-maintains-his-conviction-that-130-gains-will-come/"
         }
       ]
     }
