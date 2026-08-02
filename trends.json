@@ -1,286 +1,242 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-02T03:39:47.761Z",
+  "updatedAt": "2026-08-02T06:40:11.949Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "스마트폰",
+      "id": "차은우",
       "rank": 1,
-      "keyword": "스마트폰",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"사생활 보호 기능 빠져\" \"오히려 다행\"... 갤폴드8 엇갈린 반응 왜?' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"사생활 보호 기능 빠져\" \"오히려 다행\"... 갤폴드8 엇갈린 반응 왜?",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/08/01/DMNVZPAYR5FK7OQ3GAOP3Q64SU/"
-        },
-        {
-          "title": "폴드8에 프라이버시 디스플레이 빠져서 다행인 이유",
-          "source": "베타뉴스",
-          "url": "https://www.betanews.net/article/view/beta202608010003"
-        },
-        {
-          "title": "삼성은 정말 심각한 위기에 처해 있다. Galaxy Z Fold8은 일부 지역에서 전혀 작동하지 않는 앱을 ​​홍보합니다.",
-          "source": "Samsung Magazine",
-          "url": "https://samsungmagazine.eu/ko/2026/07/27/samsung-ma-poradny-trapas-galaxy-z-fold8-propaguje-aplikaci-ktera-v-nekterych-regionech-vubec-nefunguje/"
-        }
-      ]
-    },
-    {
-      "id": "조카",
-      "rank": 2,
-      "keyword": "조카",
-      "volumeLabel": "2000+",
+      "keyword": "차은우",
+      "volumeLabel": "5000+",
       "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '조카 선물 챙기던 미혼 이모의 씁쓸한 깨달음…\"재산, 피 한 방울 안 섞인 곳에 줄 겁니다\"' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '차은우, 130억 세금 전액 납부 후 '불복' 청구' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "조카 선물 챙기던 미혼 이모의 씁쓸한 깨달음…\"재산, 피 한 방울 안 섞인 곳에 줄 겁니다\"",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260802n01242"
-        },
-        {
-          "title": "\"언니 잘못되면 유산 우리 애 몫\"...우연히 들은 동생 부부 속내 '충격' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/07/31/2026073108053874627"
-        },
-        {
-          "title": "\"언니 잘못되면 유산은 우리 애한테\"…동생 부부 대화에 배신감 느낀 40대 미혼女 [이런 法]",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202607311439501166"
-        }
-      ]
-    },
-    {
-      "id": "경주기행",
-      "rank": 3,
-      "keyword": "경주기행",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''경주기행' 공효진, 母 이정은 조력자 활약…\"K장녀 완벽히 구현\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'경주기행' 공효진, 母 이정은 조력자 활약…\"K장녀 완벽히 구현\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/qjgAMupXEY"
-        },
-        {
-          "title": "1000만도 부족하다… '7000만' 흥행 공약까지 나온 한국 영화",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1148680"
-        },
-        {
-          "title": "이정은 \"'기생충' 땐 한 대 패주고 싶었던 박소담, '경주기행'선 둘째 딸\"",
-          "source": "뉴스1",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "id": "lafc",
-      "rank": 4,
-      "keyword": "lafc",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Son Heung-min pushes MLS scoring streak to 4 matches' (Yonhap News Agency) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Son Heung-min pushes MLS scoring streak to 4 matches",
-          "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/AEN20260802000900315"
-        },
-        {
-          "title": "Son Heung-min Scores Fourth Straight, LAFC Leads Vancouver",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/08/02/IBFDGKEBFVDT3AG7AB5CG23DG4/"
-        },
-        {
-          "title": "Muller's penalty kick salvages draw for Whitecaps vs. Los Angeles FC",
-          "source": "Sportsnet.ca",
-          "url": "https://www.sportsnet.ca/mls/article/mullers-penalty-kick-salvages-draw-for-whitecaps-vs-los-angeles-fc/"
-        }
-      ]
-    },
-    {
-      "id": "학림도",
-      "rank": 5,
-      "keyword": "학림도",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '통영섬 잇는 세 번째 해상보도교 “바다 위 170m 트레킹 즐기세요”' (국제신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "통영섬 잇는 세 번째 해상보도교 “바다 위 170m 트레킹 즐기세요”",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260731.22008009039"
-        },
-        {
-          "title": "\"걸어서 갈 수 없던 옆 마을 이제는 10분\"…통영 송도~학림도 연결",
+          "title": "차은우, 130억 세금 전액 납부 후 '불복' 청구",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260731_0003732267"
+          "url": "https://www.newsis.com/view/NISX20260802_0003732952"
         },
         {
-          "title": "통영 송도-학림도 연결 170ｍ 다리 개통…걸어서 왕래 가능",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260731100857865"
+          "title": "차은우 “추징금 냈지만 납득 못해”…국세청 과세 불복 [지금뉴스]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8626307"
+        },
+        {
+          "title": "130억 세금 낸 차은우, 조세심판 청구…\"법률적 판단 받겠다\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260802017000005"
         }
       ]
     },
     {
-      "id": "네이마르",
-      "rank": 6,
-      "keyword": "네이마르",
-      "volumeLabel": "500+",
+      "id": "코오롱-티슈-진",
+      "rank": 2,
+      "keyword": "코오롱 티슈 진",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '안첼로티, 월드컵 16강 탈락 뒤 네이마르·카세미루·다닐루 구상 제외…2028 세대교체' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "태풍-루사",
+      "rank": 3,
+      "keyword": "태풍 루사",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[꼬꼬무 찐리뷰] \"아빠 꽉 잡아\" 거친 물살 속 놓쳐버린 딸의 손…태풍 '루사', 우리가 잊고 있던 그날의 비극' (SBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "안첼로티, 월드컵 16강 탈락 뒤 네이마르·카세미루·다닐루 구상 제외…2028 세대교체",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260801115137792?f=p"
+          "title": "[꼬꼬무 찐리뷰] \"아빠 꽉 잡아\" 거친 물살 속 놓쳐버린 딸의 손…태풍 '루사', 우리가 잊고 있던 그날의 비극",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008684240"
         },
         {
-          "title": "“내 시간은 끝났다” 네이마르 국대 은퇴 선언…안첼로티, 카세미루·다닐루도 계획서 제외 - 머니투데이",
+          "title": "'꼬꼬무', 강릉 소멸 위기 '태풍 루사' 재조명...산다라박 오열 [종합] - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/07/31/202607311758776710O"
+          "url": "https://www.mt.co.kr/entertainment/2026/07/31/2026073109497290557"
         },
         {
-          "title": "\"내 시간 끝\" 네이마르가 직접 입 열었다…\"내 피와 삶을 바쳤어, 더 이상 원하지 않아\" 국대 은퇴 선언",
+          "title": "[스브스夜] '꼬꼬무' 역대 최악의 태풍 '루사'···태풍 이름은 사라졌지만 영원히 잊히지 말아야 할 이들의 그날 '추적'",
           "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260730n31246?sect=s22&list=rank&cate=interest"
+          "url": "https://news.nate.com/view/20260731n03819?mid=e1200"
         }
       ]
     },
     {
-      "id": "지방-선거",
-      "rank": 7,
-      "keyword": "지방 선거",
+      "id": "띠별-운세",
+      "rank": 4,
+      "keyword": "띠별 운세",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[오늘의 운세] 2026년 08월 02일 별자리 운세' (YTN) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[오늘의 운세] 2026년 08월 02일 별자리 운세",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0121_202608020000000002"
+        },
+        {
+          "title": "[오늘의 운세] 8월 2일 일요일 (음력 6월 20일) 띠별 운세",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260730580586"
+        },
+        {
+          "title": "2026년 08월 02일, 오늘의 띠별 운세 [인포그래픽]",
+          "source": "시선뉴스",
+          "url": "https://www.sisunnews.co.kr/news/articleView.html?idxno=243144"
+        }
+      ]
+    },
+    {
+      "id": "이준수",
+      "rank": 5,
+      "keyword": "이준수",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''아형' 이탁수, '아빠! 어디가?' 동생 이준수 키 공개 \"194㎝\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'아형' 이탁수, '아빠! 어디가?' 동생 이준수 키 공개 \"194㎝\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802084952301"
+        },
+        {
+          "title": "이탁수, '이종혁子' 부담 고백 \"父 정체 탄로…주변 눈빛 달라져\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/02/2026080202072681345"
+        },
+        {
+          "title": "연정훈, ♥한가인 첫인상 고백 \"예쁘다고 생각했지만 반하진 않아\" ('아는 형님')[어저께 TV]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112850844"
+        }
+      ]
+    },
+    {
+      "id": "스쿠발",
+      "rank": 6,
+      "keyword": "스쿠발",
       "volumeLabel": "1000+",
       "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '목포·광양·포항도 지방선거 당일 수시간 동안 '투표자 0명'' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '다저스 스쿠발 영입 임박했나? 특급유망주 2명 갑자기 선발 제외 \"트레이드 조치 가능성 높아\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "목포·광양·포항도 지방선거 당일 수시간 동안 '투표자 0명'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260801048400001"
-        },
-        {
-          "title": "국힘 주진우 \"선관위, 지난 대선 투표율 조작…신속히 강제수사 하라\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/politics/2026/08/02/2026080210033483705"
-        },
-        {
-          "title": "주진우 “지난 대선, 일부 투표소 투표자 수 시간당 100명씩 증가…허위 입력 정황”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8626285"
-        }
-      ]
-    },
-    {
-      "id": "방파제",
-      "rank": 8,
-      "keyword": "방파제",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '하귀 포구서 60대 남성 심정지…수영하던 관광객들도 구조' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "하귀 포구서 60대 남성 심정지…수영하던 관광객들도 구조",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8626160"
-        },
-        {
-          "title": "방파제 벽 잡고 버텨.. 제주 해안가서 40·50대 물놀이객 5명 구조",
+          "title": "다저스 스쿠발 영입 임박했나? 특급유망주 2명 갑자기 선발 제외 \"트레이드 조치 가능성 높아\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260801101259755"
+          "url": "https://v.daum.net/v/20260802102908080"
         },
         {
-          "title": "제주 바다에 뛰어들었다가…40·50대 남성 5명 구조",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/jeju/6246019"
+          "title": "MLB 다저스, FA 앞둔 좌완 특급 스쿠벌 영입…대형 트레이드",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260802024900007"
+        },
+        {
+          "title": "다저스, WS 3연패 마지막 퍼즐은 ‘사이영상 2연패’ 스쿠발 ... 1대3 트레이드 단행",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/08/02/GUCQMDLBSZFN3EYY6MHKVWCMMM/"
         }
       ]
     },
     {
-      "id": "앙투안-그리즈만",
-      "rank": 9,
-      "keyword": "앙투안 그리즈만",
+      "id": "지석진",
+      "rank": 7,
+      "keyword": "지석진",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[오피셜] “이강인의 시간은 끝났다” 결국 현실로···AT 마드리드 합류 실패 “맨유전 소집 명단 제외” 한국에...' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''60세' 지석진 \"30㎝ 샌드위치 3개 먹는다\" 충격…이성민 \"그러니 살 찌셨지\" (풍향중)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[오피셜] “이강인의 시간은 끝났다” 결국 현실로···AT 마드리드 합류 실패 “맨유전 소집 명단 제외” 한국에...",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608010525003"
-        },
-        {
-          "title": "'이강인에게 7번 부여한' AT 마드리드, '리버풀과 결별' 살라까지 노린다 '2+1년 제안 계획'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/08/02/MRSTQYZQGY3GIMLBMU4TCNLDMI/"
-        },
-        {
-          "title": "\"PSG는 중요한 로테이션 자원 잃었지만 ATM 경영진은 벌써부터 미소를..\" 이강인 이적이 마냥 부러운 佛언론",
+          "title": "'60세' 지석진 \"30㎝ 샌드위치 3개 먹는다\" 충격…이성민 \"그러니 살 찌셨지\" (풍향중)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260801201609879"
+          "url": "https://v.daum.net/v/QvgUFmsAZD"
+        },
+        {
+          "title": "지석진 \"샌드위치 30㎝ 3개 먹어\" 고백에 이성민 \"그러니까 살 찌지\" 팩폭 참교육(풍향중)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260801n07936?mid=n0100"
+        },
+        {
+          "title": "‘참교육’ 대박난 이성민, 유재석·양세찬 앞 꺼드럭..“글로벌 1위 해본 적 없죠?” (‘풍향중’) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/01/MFSTAMLEMZSGGOJRG5STANLFHA/"
         }
       ]
     },
     {
-      "id": "박동빈",
-      "rank": 10,
-      "keyword": "박동빈",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "id": "양산-날씨",
+      "rank": 8,
+      "keyword": "양산 날씨",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '故 박동빈 아내, 남편 향한 그리움 \"보고 싶어 사랑해\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '양산 초유의 42.5도 , 닷새째 40도…얼마나 더울까' (한겨레) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "故 박동빈 아내, 남편 향한 그리움 \"보고 싶어 사랑해\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260802_0003732887"
+          "title": "양산 초유의 42.5도 , 닷새째 40도…얼마나 더울까",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/environment/1271008.html"
         },
         {
-          "title": "\"보고싶어 사랑해\" 故 박동빈 아내 이상이, 사별 95일만 '먹먹' 첫 심경 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/02/GAYTSOJWMNTGGY3GMUZTINBQGY/"
+          "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1132341"
         },
         {
-          "title": "‘故 박동빈 사별’ 이상이, 첫 근황... “보고 싶어…사랑해” 먹먹",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802084451256"
+          "title": "양산 기온 기상관측 사상 초유 '42.5도'까지 올라…43도선 위협",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260802026600530"
+        }
+      ]
+    },
+    {
+      "id": "지원이",
+      "rank": 9,
+      "keyword": "지원이",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''전국노래자랑' 광주 남구 편, 초대가수 라인업 장민호→지원이' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'전국노래자랑' 광주 남구 편, 초대가수 라인업 장민호→지원이",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3653040"
+        },
+        {
+          "title": "‘전국노래자랑’ 장민호·전유진·손빈아·지원이·유민 총출동",
+          "source": "비즈엔터",
+          "url": "https://m.enter.etoday.co.kr/view/news_view.php?varAtcId=300483"
+        },
+        {
+          "title": "장민호, “풍악을 울려라”로 전국노래자랑 광주 남구 달군다",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16150552"
         }
       ]
     }
