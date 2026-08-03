@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-03T17:26:21.243Z",
+  "updatedAt": "2026-08-03T19:08:29.366Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,66 +9,66 @@
       "rank": 1,
       "keyword": "화산분화",
       "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": []
     },
     {
-      "id": "인도네시아-대-베트남",
+      "id": "종부세-개편안",
       "rank": 2,
-      "keyword": "인도네시아 대 베트남",
-      "volumeLabel": "2000+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 ''싱가포르와 무승부' 김상식, 오늘 인니전 필승 각오...인니 매체는 \"당황한 듯\" 직격' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "종부세 개편안",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '450만원이던 종부세가 1970만원…결국 '최후의 수단' 꺼냈다' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'싱가포르와 무승부' 김상식, 오늘 인니전 필승 각오...인니 매체는 \"당황한 듯\" 직격",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260803142233030"
+          "title": "450만원이던 종부세가 1970만원…결국 '최후의 수단' 꺼냈다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026080325421"
         },
         {
-          "title": "韓 명장 정조준! \"부담은 김상식호가 더 크다\" 지면 4강행 빨간불 '운명의 한판'…\"베트남 도전 기꺼이 받아들일 것\" 인니 감독 공개 도발",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=832576"
+          "title": "거주용 1주택, 시가 20억 원까지 종부세 과세 대상서 제외",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148969278"
         },
         {
-          "title": "[현대컵 REVIEW] 김상식 감독, 전술도 용병술도 완벽!…'디펜딩 챔피언' 베트남, 인도네시아 3-0 완파→압도적 공격력으로 A조 1위 도약",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260804n00199?mid=n0100"
+          "title": "\"절세 가능한 덜 똘똘한 한채로 몰릴 것\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/real_estate/2026/08/04/LRTLMKUNKJB5NFUVDXGL5SQFGU/"
         }
       ]
     },
     {
-      "id": "indonesia-đấu-với-việt-nam",
+      "id": "물고기",
       "rank": 3,
-      "keyword": "indonesia đấu với việt nam",
-      "volumeLabel": "2000+",
-      "startedLabel": "5시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 'Indonesia 0-3 Việt Nam: Xuân Son tỏa sáng' (Znews) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "물고기",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Global Fish Box 시장 규모 상위 20개 기업' (Spherical Insights) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Indonesia 0-3 Việt Nam: Xuân Son tỏa sáng",
-          "source": "Znews",
-          "url": "https://znews.vn/indonesia-0-3-viet-nam-xuan-son-toa-sang-post1674483.html"
+          "title": "Global Fish Box 시장 규모 상위 20개 기업",
+          "source": "Spherical Insights",
+          "url": "https://www.sphericalinsights.com/ko/blogs/top-20-companies-in-the-global-fish-box-market-2026-2035-spherical-insights-analysis"
         },
         {
-          "title": "CĐV Campuchia phản ứng gắt khi Việt Nam đại thắng 3-0 Indonesia",
-          "source": "Thể Thao 247",
-          "url": "https://thethao247.vn/aff-cup/175391-cdv-campuchia-phan-ung-gat-khi-viet-nam-dai-thang-3-0-indonesia-d430786.html"
+          "title": "낚시에 ‘우두머리 수컷’ 잡혀가자, 어린 암컷 때이른 성전환…“알 낳을 기회 사라져”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/animalpeople/wild_animal/1271175.html"
         },
         {
-          "title": "Phản ứng của CĐV Đông Nam Á khi tuyển Việt Nam thắng đậm Indonesia",
-          "source": "Báo Dân trí",
-          "url": "https://dantri.com.vn/the-thao/phan-ung-cua-cdv-dong-nam-a-khi-tuyen-viet-nam-thang-dam-indonesia-20260803235548037.htm"
+          "title": "갑천에서 만난 15종의 물고기가 전한 이야기",
+          "source": "OhmyNews",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003256093"
         }
       ]
     },
@@ -77,17 +77,12 @@
       "rank": 4,
       "keyword": "대피소",
       "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+3",
-      "summary": "급상승 시점에 'TSMC 구마모토 공장 지진 피해 복구 완료' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '“한국·대만을 봐라”…열악한 대피소에 일본 내 ‘불만’' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "TSMC 구마모토 공장 지진 피해 복구 완료",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260804_0003734935"
-        },
         {
           "title": "“한국·대만을 봐라”…열악한 대피소에 일본 내 ‘불만’",
           "source": "KBS 뉴스",
@@ -97,45 +92,22 @@
           "title": "“금고에 돈넣으래” 대피했다 재진입 사망 女직원",
           "source": "문화일보",
           "url": "https://www.munhwa.com/article/11606681"
-        }
-      ]
-    },
-    {
-      "id": "반포자이",
-      "rank": 5,
-      "keyword": "반포자이",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '비싼 집 가진 은퇴자에 퇴로…\"이 나이에 어디로\" 반응도' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "비싼 집 가진 은퇴자에 퇴로…\"이 나이에 어디로\" 반응도",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260803194726569"
         },
         {
-          "title": "부동산 세금 기준 '거주'로 대전환‥'양도세 보유 공제' 없앤다",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6842105_37004.html"
-        },
-        {
-          "title": "450만원이던 종부세가 1970만원…결국 '최후의 수단' 꺼냈다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026080325421"
+          "title": "\"금고 챙겨라\"...지진 대피한 직원 사지로 보낸 회사 [자막뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0134_202608031333100418_005"
         }
       ]
     },
     {
       "id": "제이든-산초",
-      "rank": 6,
+      "rank": 5,
       "keyword": "제이든 산초",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '한때 잉글랜드 최고 재능, 이렇게까지 몰락할 수가...맨유와 결별→'10부리그 팀' 훈련장 이용 중' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -150,20 +122,20 @@
           "url": "https://www.besteleven.com/news/articleView.html?idxno=310722"
         },
         {
-          "title": "'1400억의 사나이' 산초 끝없는 추락!…英 10부리그서 홀로 훈련→구단은 \"입단 테스트 아니다\" 황당 성명",
+          "title": "'英 국대 출신' 산초가 잉글랜드 10부리그 팀에?…\"분명히 말하자면 테스트 아니야, 협상도 없었어\"",
           "source": "네이트",
-          "url": "https://news.nate.com/view/20260804n00521?mid=n0100"
+          "url": "https://m.news.nate.com/view/20260803n24214"
         }
       ]
     },
     {
       "id": "lg이노텍",
-      "rank": 7,
+      "rank": 6,
       "keyword": "lg이노텍",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "5시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '\"피지컬 AI 시대 전환점… '위닝 테크'로 핵심 파트너가 될 것\" [오늘의 DT인]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -186,12 +158,12 @@
     },
     {
       "id": "인터-마이애미-cf",
-      "rank": 8,
+      "rank": 7,
       "keyword": "인터 마이애미 cf",
       "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "startedLabel": "5시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 ''손흥민 우승 경쟁팀' 인터 마이애미, 드림팀 결성한다...메시+수아레즈+카세미루 이어 더 브라위너 영입 작업 착수' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -214,40 +186,40 @@
     },
     {
       "id": "내-남은-연애",
-      "rank": 9,
+      "rank": 8,
       "keyword": "내 남은 연애",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''소아암 투병 ' 최예나, 시한부 선고 출연자에 \"마음 이상해\" ('내 남은 연애')' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "5시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '\"머리 밀고 자기혐오 심해져\"...친언니 골수 이식 받은 미모의 청순녀[내남은연애][별별TV]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'소아암 투병 ' 최예나, 시한부 선고 출연자에 \"마음 이상해\" ('내 남은 연애')",
+          "title": "\"머리 밀고 자기혐오 심해져\"...친언니 골수 이식 받은 미모의 청순녀[내남은연애][별별TV]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260803231537338"
+          "url": "https://v.daum.net/v/20260803230049220"
         },
         {
-          "title": "내 남은 연애 : 정예지, 같은 아픔 가진 사람들과 이야기하며 ‘치유의 과정’이 될 만남에 기대",
+          "title": "‘모태 솔로’ 서로빈, 투병 경험 가진 분들과 함께 할 새로운 경험에 두근♥",
           "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/loveagainsttime/clip/90011/OC480954445"
+          "url": "https://programs.sbs.co.kr/enter/loveagainsttime/clip/90011/OC480954571"
         },
         {
-          "title": "\"머리 밀고 자기혐오 심해져\"…친언니 골수 이식 받은 미모의 청순녀[내남은연애][별별TV]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260803n32823"
+          "title": "'소아암 투병 ' 최예나, 시한부 선고 출연자에 \"마음 이상해\" ('내 남은 연애')",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/03/HA4TENRZMMYWENBZHA4WKYZZGQ/"
         }
       ]
     },
     {
       "id": "김용빈",
-      "rank": 10,
+      "rank": 9,
       "keyword": "김용빈",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "startedLabel": "5시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '\"아티스트의 행사 일정과 중복\"…김용빈 첫 단독 콘서트 '세레나데', 예매 오픈일 변경' (톱스타뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
