@@ -1,17 +1,29 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-03T15:08:19.574Z",
+  "updatedAt": "2026-08-03T17:26:21.243Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "인도네시아-대-베트남",
+      "id": "화산분화",
       "rank": 1,
-      "keyword": "인도네시아 대 베트남",
+      "keyword": "화산분화",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "인도네시아-대-베트남",
+      "rank": 2,
+      "keyword": "인도네시아 대 베트남",
+      "volumeLabel": "2000+",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 ''싱가포르와 무승부' 김상식, 오늘 인니전 필승 각오...인니 매체는 \"당황한 듯\" 직격' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -26,163 +38,56 @@
           "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=832576"
         },
         {
-          "title": "베트남 국가대표팀 호텔 근처에서 자정 무렵 이례적인 불꽃놀이가 펼쳐졌습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/phao-hoa-bat-thuong-canh-khach-san-cua-tuyen-viet-nam-luc-nua-dem"
-        }
-      ]
-    },
-    {
-      "id": "순천향대학교-의과대학",
-      "rank": 2,
-      "keyword": "순천향대학교 의과대학",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '순천향대 의대 11명 이어…대학 과실 초과선발 56명(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "순천향대 의대 11명 이어…대학 과실 초과선발 56명(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260803091803683"
-        },
-        {
-          "title": "순천향의대 '11명 초과 선발' 후폭풍…의협·의대협 \"덮을 일 아니다\"",
-          "source": "의협신문",
-          "url": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=165667"
-        },
-        {
-          "title": "[단독]순천향대 사태 파문 확산…교육부 \"유사 사례 종종 발생\"",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6557046"
-        }
-      ]
-    },
-    {
-      "id": "전현무",
-      "rank": 3,
-      "keyword": "전현무",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''연 수입 40억' 전현무, 결정사 나이·외모 '최하점 1점' 굴욕' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'연 수입 40억' 전현무, 결정사 나이·외모 '최하점 1점' 굴욕",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260802_0003733153"
-        },
-        {
-          "title": "전현무, 결혼정보회사 최하위 판정받았다…원인은 '50세' 나이 ('사당귀')[종합]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260803140107052"
-        },
-        {
-          "title": "전현무, 사내연애 과몰입…결정사 점수 공개에 ‘굴욕’ (사당귀)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260803/134410080/1"
+          "title": "[현대컵 REVIEW] 김상식 감독, 전술도 용병술도 완벽!…'디펜딩 챔피언' 베트남, 인도네시아 3-0 완파→압도적 공격력으로 A조 1위 도약",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260804n00199?mid=n0100"
         }
       ]
     },
     {
       "id": "indonesia-đấu-với-việt-nam",
-      "rank": 4,
+      "rank": 3,
       "keyword": "indonesia đấu với việt nam",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Indonesia – Việt Nam: Cuộc chiến sinh tử ở ASEAN Cup' (VnExpress) 관련 뉴스가 함께 포착됐어요.",
+      "volumeLabel": "2000+",
+      "startedLabel": "5시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 'Indonesia 0-3 Việt Nam: Xuân Son tỏa sáng' (Znews) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Indonesia – Việt Nam: Cuộc chiến sinh tử ở ASEAN Cup",
-          "source": "VnExpress",
-          "url": "https://vnexpress.net/indonesia-viet-nam-cuoc-chien-sinh-tu-o-asean-cup-5104643.html"
+          "title": "Indonesia 0-3 Việt Nam: Xuân Son tỏa sáng",
+          "source": "Znews",
+          "url": "https://znews.vn/indonesia-0-3-viet-nam-xuan-son-toa-sang-post1674483.html"
         },
         {
-          "title": "Clip: Nguyễn Văn Vĩ lập công, mở tỷ số cho ĐT Việt Nam",
-          "source": "Báo Dân Việt",
-          "url": "https://danviet.vn/clip-nguyen-van-vi-lap-cong-mo-ty-so-cho-dt-viet-nam-d1448575.html"
+          "title": "CĐV Campuchia phản ứng gắt khi Việt Nam đại thắng 3-0 Indonesia",
+          "source": "Thể Thao 247",
+          "url": "https://thethao247.vn/aff-cup/175391-cdv-campuchia-phan-ung-gat-khi-viet-nam-dai-thang-3-0-indonesia-d430786.html"
         },
         {
-          "title": "Không khí cuồng nhiệt lan tỏa từ mặt đất đến độ cao 10.000 mét trên chuyến bay Vietjet hoà cùng ASEAN United FC",
-          "source": "VTV.vn",
-          "url": "https://vtv.vn/khong-khi-cuong-nhiet-lan-toa-tu-mat-dat-den-do-cao-10000-met-tren-chuyen-bay-vietjet-hoa-cung-asean-united-fc-100260803181828967.htm"
-        }
-      ]
-    },
-    {
-      "id": "반포자이",
-      "rank": 5,
-      "keyword": "반포자이",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '비싼 집 가진 은퇴자에 퇴로…\"이 나이에 어디로\" 반응도' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "비싼 집 가진 은퇴자에 퇴로…\"이 나이에 어디로\" 반응도",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260803194726569"
-        },
-        {
-          "title": "반포 84㎡ 1주택 양도세 내년 2.4억→2029년 9.4억",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260803233250tsn"
-        },
-        {
-          "title": "450만원이던 종부세가 1970만원…결국 '최후의 수단' 꺼냈다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026080325421"
-        }
-      ]
-    },
-    {
-      "id": "낚시",
-      "rank": 6,
-      "keyword": "낚시",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '포항 낚시객 2명 사망‥전국 곳곳 수난사고' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "포항 낚시객 2명 사망‥전국 곳곳 수난사고",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802120413418"
-        },
-        {
-          "title": "“연락이 안돼요”…저수지 낚시 60대男 2명 수중서 숨진채 발견",
-          "source": "www.dt.co.kr",
-          "url": "https://www.dt.co.kr/article/12076010"
-        },
-        {
-          "title": "[사건사고] 폭염·휴가철 물가 찾았다가…수난사고 잇따라",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260802190416Izf"
+          "title": "Phản ứng của CĐV Đông Nam Á khi tuyển Việt Nam thắng đậm Indonesia",
+          "source": "Báo Dân trí",
+          "url": "https://dantri.com.vn/the-thao/phan-ung-cua-cdv-dong-nam-a-khi-tuyen-viet-nam-thang-dam-indonesia-20260803235548037.htm"
         }
       ]
     },
     {
       "id": "대피소",
-      "rank": 7,
+      "rank": 4,
       "keyword": "대피소",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“한국·대만을 봐라”…열악한 대피소에 일본 내 ‘불만’' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+3",
+      "summary": "급상승 시점에 'TSMC 구마모토 공장 지진 피해 복구 완료' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "TSMC 구마모토 공장 지진 피해 복구 완료",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260804_0003734935"
+        },
         {
           "title": "“한국·대만을 봐라”…열악한 대피소에 일본 내 ‘불만’",
           "source": "KBS 뉴스",
@@ -192,11 +97,90 @@
           "title": "“금고에 돈넣으래” 대피했다 재진입 사망 女직원",
           "source": "문화일보",
           "url": "https://www.munhwa.com/article/11606681"
+        }
+      ]
+    },
+    {
+      "id": "반포자이",
+      "rank": 5,
+      "keyword": "반포자이",
+      "volumeLabel": "500+",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '비싼 집 가진 은퇴자에 퇴로…\"이 나이에 어디로\" 반응도' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "비싼 집 가진 은퇴자에 퇴로…\"이 나이에 어디로\" 반응도",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260803194726569"
         },
         {
-          "title": "강진에 최악 폭염까지 덮친 구마모토…다카이치 \"예비비 투입\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260803153700073"
+          "title": "부동산 세금 기준 '거주'로 대전환‥'양도세 보유 공제' 없앤다",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6842105_37004.html"
+        },
+        {
+          "title": "450만원이던 종부세가 1970만원…결국 '최후의 수단' 꺼냈다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026080325421"
+        }
+      ]
+    },
+    {
+      "id": "제이든-산초",
+      "rank": 6,
+      "keyword": "제이든 산초",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '한때 잉글랜드 최고 재능, 이렇게까지 몰락할 수가...맨유와 결별→'10부리그 팀' 훈련장 이용 중' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "한때 잉글랜드 최고 재능, 이렇게까지 몰락할 수가...맨유와 결별→'10부리그 팀' 훈련장 이용 중",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260803230150236"
+        },
+        {
+          "title": "“제이든 산초와 이적 논의 없었다”… 10부 리그팀 플릭스턴, 조롱 섞인 추측에 “우리 시설 사용했을 뿐”",
+          "source": "www.besteleven.com",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=310722"
+        },
+        {
+          "title": "'1400억의 사나이' 산초 끝없는 추락!…英 10부리그서 홀로 훈련→구단은 \"입단 테스트 아니다\" 황당 성명",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260804n00521?mid=n0100"
+        }
+      ]
+    },
+    {
+      "id": "lg이노텍",
+      "rank": 7,
+      "keyword": "lg이노텍",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"피지컬 AI 시대 전환점… '위닝 테크'로 핵심 파트너가 될 것\" [오늘의 DT인]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"피지컬 AI 시대 전환점… '위닝 테크'로 핵심 파트너가 될 것\" [오늘의 DT인]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802100328639"
+        },
+        {
+          "title": "LG이노텍, 첫 상반기 매출 10조 돌파…문혁수 사장 \"사업 구조 진화\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/08/02/2026080213452354854"
+        },
+        {
+          "title": "7월 마지막주 LG이노텍 주가, 가파른 하락세 딛고 반등",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16152166"
         }
       ]
     },
@@ -205,9 +189,9 @@
       "rank": 8,
       "keyword": "인터 마이애미 cf",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 ''손흥민 우승 경쟁팀' 인터 마이애미, 드림팀 결성한다...메시+수아레즈+카세미루 이어 더 브라위너 영입 작업 착수' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -229,58 +213,58 @@
       ]
     },
     {
-      "id": "김용빈",
+      "id": "내-남은-연애",
       "rank": 9,
-      "keyword": "김용빈",
+      "keyword": "내 남은 연애",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김용빈 89점 충격…춘길, 100점으로 제2대 골든컵 등극' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''소아암 투병 ' 최예나, 시한부 선고 출연자에 \"마음 이상해\" ('내 남은 연애')' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김용빈 89점 충격…춘길, 100점으로 제2대 골든컵 등극",
+          "title": "'소아암 투병 ' 최예나, 시한부 선고 출연자에 \"마음 이상해\" ('내 남은 연애')",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260801082951400"
+          "url": "https://v.daum.net/v/20260803231537338"
         },
         {
-          "title": "“회식 쏘겠다” 춘길, 손빈아·정수라 꺾고 제2대 골든컵 주인공 등극 (금타는 금요일)",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/513341"
+          "title": "내 남은 연애 : 정예지, 같은 아픔 가진 사람들과 이야기하며 ‘치유의 과정’이 될 만남에 기대",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/loveagainsttime/clip/90011/OC480954445"
         },
         {
-          "title": "춘길, 정수라까지 제친 100점 레이스로 제2대 골든컵 차지",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16152023"
+          "title": "\"머리 밀고 자기혐오 심해져\"…친언니 골수 이식 받은 미모의 청순녀[내남은연애][별별TV]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260803n32823"
         }
       ]
     },
     {
-      "id": "방시혁",
+      "id": "김용빈",
       "rank": 10,
-      "keyword": "방시혁",
-      "volumeLabel": "200+",
+      "keyword": "김용빈",
+      "volumeLabel": "100+",
       "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“방시혁 1조 증발” 41만원 주식이 17만원된 사연' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '\"아티스트의 행사 일정과 중복\"…김용빈 첫 단독 콘서트 '세레나데', 예매 오픈일 변경' (톱스타뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“방시혁 1조 증발” 41만원 주식이 17만원된 사연",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11606916"
+          "title": "\"아티스트의 행사 일정과 중복\"…김용빈 첫 단독 콘서트 '세레나데', 예매 오픈일 변경",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16154010"
         },
         {
-          "title": "설마했는데…“방시혁 어쩌다 1조원 증발” 믿었던 투자자들 ‘망연자실’",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10828320"
+          "title": "\"감사와 진심을 담은 무대\"…김용빈, 첫 단독 콘서트 '세레나데' 개최",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16150179"
         },
         {
-          "title": "[오늘의 딜 PICK][영상] 반도체에 가려진 '역대급 반등'…엔터주, BTS·빅뱅 등에 업고 날까 : 네이버 블로그",
-          "source": "Naver Blog",
-          "url": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224366705918&redirect=Dlog"
+          "title": "김용빈 89점 충격…춘길, 100점으로 제2대 골든컵 등극",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260801/134404980/1"
         }
       ]
     }
