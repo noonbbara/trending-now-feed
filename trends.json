@@ -1,272 +1,288 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-04T14:33:47.536Z",
+  "updatedAt": "2026-08-04T16:58:34.382Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "저축",
+      "id": "장동건",
       "rank": 1,
-      "keyword": "저축",
-      "volumeLabel": "1000+",
+      "keyword": "장동건",
+      "volumeLabel": "5000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '오은영, 몰라보게 날씬해진 모습…고소영도 깜짝 [마데핫리뷰]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "오은영, 몰라보게 날씬해진 모습…고소영도 깜짝 [마데핫리뷰]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804203150662"
+        },
+        {
+          "title": "‘고소영♥’ 장동건, ‘얼굴 퉁퉁’ 시술 의혹 끝…카메라+각도 문제였네",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260804/134421304/1"
+        },
+        {
+          "title": "\"자기 채널이야?\" 고소영♥장동건, 역사적 투샷…이정재까지 '황금 인맥' 총출동",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/04/GM3DAMBWHA2DQNJRGVSTANBTGU/"
+        }
+      ]
+    },
+    {
+      "id": "삼성-갤럭시-z-폴드-6",
+      "rank": 2,
+      "keyword": "삼성 갤럭시 z 폴드 6",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[써보니] 대박 난 ‘삼성 여권폰’ 4 대 3 화면비·착붙 그립감까지 참신하긴 한데···' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[써보니] 대박 난 ‘삼성 여권폰’ 4 대 3 화면비·착붙 그립감까지 참신하긴 한데···",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608041700001"
+        },
+        {
+          "title": "갤럭시 Z8 시리즈, 사전 판매 144만대 신기록",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/tech_it/2026/08/05/GS6LHDWP2NFXRAEKQHT6PMPGSA/"
+        },
+        {
+          "title": "아이폰 세대도 홀렸다…갤Z폴드8, 역대 최다 판매에 '한달 대기'(종합)",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/it-science/mobile/6248510"
+        }
+      ]
+    },
+    {
+      "id": "감염",
+      "rank": 3,
+      "keyword": "감염",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '미국서 기생충 감염사태 사망자 2명 발생' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "미국서 기생충 감염사태 사망자 2명 발생",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804052354707"
+        },
+        {
+          "title": "\"양상추 때문?\" 美 덮친 기생충 감염에 2명 사망‥환자 2만 명 육박",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6842374_36925.html"
+        },
+        {
+          "title": "미시간 주, 얌브랜드에 7월 2일 기생충 발병 연락 - 블룸버그",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2042265"
+        }
+      ]
+    },
+    {
+      "id": "비행기",
+      "rank": 4,
+      "keyword": "비행기",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[이원주의 하늘속談]비행기도 ‘하이브리드’ 있습니다' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[이원주의 하늘속談]비행기도 ‘하이브리드’ 있습니다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Opinion/article/all/20260804/134421408/2"
+        },
+        {
+          "title": "[김창덕의 미래항공교통] 쏟아지는 '수직이착륙기', 한국형 도심항공교통은 무엇을 검증할 것인가",
+          "source": "오피니언뉴스",
+          "url": "https://www.opinionnews.co.kr/news/articleView.html?idxno=142295"
+        },
+        {
+          "title": "글로벌 eVTOL 항공기 시장 규모 상위 20개 기업",
+          "source": "Spherical Insights",
+          "url": "https://www.sphericalinsights.com/ko/blogs/top-20-companies-in-global-evtol-aircraft-market-2026-2035-expert-view-by-spherical-insights"
+        }
+      ]
+    },
+    {
+      "id": "양희은",
+      "rank": 5,
+      "keyword": "양희은",
+      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"수신고 넉넉해서\"… 예금금리 낮추는 저축銀' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '양희은, 지팡이 짚고 생일 모임' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"수신고 넉넉해서\"… 예금금리 낮추는 저축銀",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804182712678"
-        },
-        {
-          "title": "[포토]시중은행-저축은행 예금금리 3-4%대 진입",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260804n25508?mid=n1101"
-        },
-        {
-          "title": "[2금융 돈줄 경색/하]자금난 버텨라…저축銀도 카드사도 '진땀'",
-          "source": "비즈니스플러스",
-          "url": "https://www.businessplus.kr/news/articleView.html?idxno=114908"
-        }
-      ]
-    },
-    {
-      "id": "고용노동부",
-      "rank": 2,
-      "keyword": "고용노동부",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '자발적 퇴사 청년에도 실업급여 준다… 정년연장은 연내 입법' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "자발적 퇴사 청년에도 실업급여 준다… 정년연장은 연내 입법",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804175609602"
-        },
-        {
-          "title": "산재·체불 반복 근절한다...노동부, 동일재해 반복 기업 183곳 밀착 관리",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=370957"
-        },
-        {
-          "title": "자발적 퇴사 청년도 구직급여‥정년연장 입법 추진",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6842360_36918.html"
-        }
-      ]
-    },
-    {
-      "id": "산골총각-영웅",
-      "rank": 3,
-      "keyword": "산골총각 영웅",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘산골총각 영웅’ 임영웅, 특별 신청곡으로 마지막 산골 콘서트' (매일경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘산골총각 영웅’ 임영웅, 특별 신청곡으로 마지막 산골 콘서트",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12116298"
-        },
-        {
-          "title": "[다시보기] 산골총각 영웅 7회",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/mountainshero/vod/89787/22000633734"
-        },
-        {
-          "title": "임영웅, 김도훈과 형제 케미 뽐내더니..대형사고 터지자 남 탓 ‘폭소’(‘산골총각’)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/04/MZQWENJVMY4TMZTBME4WMOLDGE/"
-        }
-      ]
-    },
-    {
-      "id": "서범수",
-      "rank": 4,
-      "keyword": "서범수",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '서범수, ‘돌려차기’ 피해자 참석 간담회서 실언…“전적으로 제 잘못” 사죄' (경기일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "서범수, ‘돌려차기’ 피해자 참석 간담회서 실언…“전적으로 제 잘못” 사죄",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260804580691"
-        },
-        {
-          "title": "서범수·진종오, 돌려차기 피해자 불러놓고 “돌려차기 한번 하죠”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804202409481"
-        },
-        {
-          "title": "‘돌려차기’ 피해자 앞에서 “돌려차기 한 번”…농담한 국힘 서범수·진종오",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1271413.html"
-        }
-      ]
-    },
-    {
-      "id": "ฟ-ล-ปป-นส-พบ-ไทย",
-      "rank": 5,
-      "keyword": "ฟ ล ปป นส พบ ไทย",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'ตารางการถ่ายทอดสดการแข่งขันฟุตบอลอาเซียนคัพ 2026 วันที่ 4-8 สิงหาคม: ฟิ…' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "ตารางการถ่ายทอดสดการแข่งขันฟุตบอลอาเซียนคัพ 2026 วันที่ 4-8 สิงหาคม: ฟิลิปปินส์ พบกับ ไทย",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/lich-truc-tiep-asean-cup-2026-ngay-4-8-philippines-dau-thai-lan"
-        },
-        {
-          "title": "อาเซียนคัพ 2026 ฟิลิปปินส์พบไทย เกมเยือนที่ไม่ง่ายของช้างศึก",
-          "source": "Thai PBS",
-          "url": "https://www.thaipbs.or.th/now/content/4278"
-        },
-        {
-          "title": "🇹🇭 ช้างศึกบุกเยือนปินส์! มาส่งกำลังใจให้กับ 2 ผู้เล่น เมืองทอง ยูไนเต็ด ทั้ง กรกฏ พิพัฒน์นัดดา และ คคนะ คำยก รวมไปถึงแข้ง “ช้างศึก” ทุกคน ในการแข่งขันฟุตบอลชิงแชมป์อาเซียน 2026 𝗔𝗦𝗘𝗔𝗡 𝗖𝗨𝗣 𝟮𝟬𝟮𝟲 รอบแบ่งกลุ่ม กลุ่มบี นัดที่สาม 🇵🇭 ฟิลิปปินส์ พบ ไทย 🇹🇭 🗓 วันที่ 4 สิงหาคม 2",
-          "source": "Facebook",
-          "url": "https://www.facebook.com/MuangthongUnitedFootballClub/posts/-%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%9A%E0%B8%B8%E0%B8%81%E0%B9%80%E0%B8%A2%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%9B%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B9%8C-%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%88%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%81%E0%B8%B1%E0%B8%9A-2-%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%87-%E0%B8%A2%E0%B8%B9%E0%B9%84%E0%B8%99%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%94-%E0%B8%97%E0%B8%B1%E0%B9%89%E0%B8%87-%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%8F-%E0%B8%9E/1604461884673601/"
-        }
-      ]
-    },
-    {
-      "id": "조선일보",
-      "rank": 6,
-      "keyword": "조선일보",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '노영희 \"노무현이라면? 형소법 이렇게 안 했을 것\"[한판승부]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "노영희 \"노무현이라면? 형소법 이렇게 안 했을 것\"[한판승부]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804073307484"
-        },
-        {
-          "title": "[이슈]李 지지 최저인데…줍줍도 못하는 국힘, 왜?",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11607247"
-        },
-        {
-          "title": "이 대통령 지지율 45.9% 취임 후 최저‥\"증시폭락·연임 개헌 논란 영향\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6841984_36911.html"
-        }
-      ]
-    },
-    {
-      "id": "한유라",
-      "rank": 7,
-      "keyword": "한유라",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '정형돈, 기러기 아빠 생활 청산…아내 한유라, 쌍둥이 딸과 5년 만에 귀국' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "정형돈, 기러기 아빠 생활 청산…아내 한유라, 쌍둥이 딸과 5년 만에 귀국",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804140338797"
-        },
-        {
-          "title": "정형돈, 기러기 아빠 생활 끝…아내 한유라 귀국 \"미친듯이 설레\"",
+          "title": "양희은, 지팡이 짚고 생일 모임",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260804_0003735757"
+          "url": "https://www.newsis.com/view/NISX20260804_0003736317"
         },
         {
-          "title": "‘정형돈♥’ 한유라, 5년만 하와이 생활 끝…‘기러기 부부’ 불화설 종식",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608041635003"
+          "title": "양희은, 지팡이 짚고 외출한 근황‥최측근 이성미X박미선과 보낸 생일",
+          "source": "뉴스엔",
+          "url": "https://www.newsen.com/news_view.php?uid=202608041708272510&code=100100"
+        },
+        {
+          "title": "양희은, 각막이식 후 밝은 미소… 김신영 만나 “생이 최초로 덕질” [IS하이컷]",
+          "source": "일간스포츠",
+          "url": "https://isplus.com/article/view/isp202607280031"
         }
       ]
     },
     {
-      "id": "허재원",
-      "rank": 8,
-      "keyword": "허재원",
-      "volumeLabel": "200+",
+      "id": "정몽준",
+      "rank": 6,
+      "keyword": "정몽준",
+      "volumeLabel": "500+",
       "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '제주SK 유망주들 독일로…세계 축구 꿈나무와 기량 겨룬다' (제민일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '정몽준, 아들 정기선에게 주식 280만주 증여…HD현대 승계 가속화' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "제주SK 유망주들 독일로…세계 축구 꿈나무와 기량 겨룬다",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=841300"
+          "title": "정몽준, 아들 정기선에게 주식 280만주 증여…HD현대 승계 가속화",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608041814001"
         },
         {
-          "title": "[사진]구자철 제주 유스 어드바이저, '바이에른 뮌헨 향하는 허재원 향한 뜨거운 격려'",
-          "source": "OSEN",
-          "url": ""
+          "title": "정몽준, 정기선에 HD현대 지분 3.54% 증여… 승계 작업 속도내나",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/industry-company/2026/08/04/3VEYEGFKZRDZNBOG4YHBINNKZM/"
         },
         {
-          "title": "제주 U-18, 바이에른 뮌헨과 'R&G 글로벌 트로피' 참가...독일로 출국",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260803154449911"
+          "title": "정몽준, HD현대 주식 280만주 정기선에 증여…증여세 3500억 전망",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/economy/marketing/1271397.html"
         }
       ]
     },
     {
-      "id": "한문철",
-      "rank": 9,
-      "keyword": "한문철",
+      "id": "양산시",
+      "rank": 7,
+      "keyword": "양산시",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '갑자기 튀어나온 우산에 차량 파손…\"운이 나빴을 뿐 누구 잘못도 아냐\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "갑자기 튀어나온 우산에 차량 파손…\"운이 나빴을 뿐 누구 잘못도 아냐\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804095613024"
-        },
-        {
-          "title": "도로 나뒹군 우산에 차량 하부 ‘와그작’…책임 누구에게?",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260804/134417927/2"
-        },
-        {
-          "title": "도로 나뒹구는 우산에 차량 파손됐는데…\"구제 방법 없다\" 왜? - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/03/2026080322460413130"
-        }
-      ]
-    },
-    {
-      "id": "광명시",
-      "rank": 10,
-      "keyword": "광명시",
-      "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "summary": "급상승 시점에 '40도 폭염, 수도권까지 확산‥'2018년 재현' 넘어 '여름철 일상'될까?' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": []
+      "newsSignals": [
+        {
+          "title": "40도 폭염, 수도권까지 확산‥'2018년 재현' 넘어 '여름철 일상'될까?",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6842394_37004.html"
+        },
+        {
+          "title": "부·울·경 무더위·열대야 계속…경남 서부 내륙 오후 소나기",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260804008000052"
+        },
+        {
+          "title": "[단독] “양산, 공식 기록만큼 덥지 않다”… 양산시, 기상청에 관측장비 이동 요청",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804153454296"
+        }
+      ]
+    },
+    {
+      "id": "이투데이",
+      "rank": 8,
+      "keyword": "이투데이",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[이투데이 말투데이] 자강불식(自强不息)/A7' (이투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[이투데이 말투데이] 자강불식(自强不息)/A7",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2610561"
+        },
+        {
+          "title": "\"삼전닉스 또 8% 급락했는데\"…폭등도 폭락도 비켜간 '목표가'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804063041593"
+        },
+        {
+          "title": "20% 넘는 폭등에도…삼전닉스 주가, 목표가의 반토막 수준",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260801014400008"
+        }
+      ]
+    },
+    {
+      "id": "투신",
+      "rank": 9,
+      "keyword": "투신",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '인천대교서 투신 사고 잇따라…11일 동안 3건 발생' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "인천대교서 투신 사고 잇따라…11일 동안 3건 발생",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804101552093"
+        },
+        {
+          "title": "[속보] 인천대교 송도방향 교통사고 발생…전면 통제",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2610669"
+        },
+        {
+          "title": "인천대교, 추락 사고 잇따라···안전난간 설치 시급",
+          "source": "전국매일신문",
+          "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1280730"
+        }
+      ]
+    },
+    {
+      "id": "이윤지",
+      "rank": 10,
+      "keyword": "이윤지",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이윤지, 한쪽 눈 퉁퉁 부은 치과의사 남편 공개…“제가 친 거 아닙니다”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이윤지, 한쪽 눈 퉁퉁 부은 치과의사 남편 공개…“제가 친 거 아닙니다”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/zhVb3AcnoB"
+        },
+        {
+          "title": "이윤지, 눈 퉁퉁 부은 ♥정한울 근황..혹시 오해 살까 “제가 친 거 아니고요” - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/04/MI4GCMJVHEYWKNRUGUZWCZBSGY/"
+        },
+        {
+          "title": "'이윤지 남편' 정한울, 치과의사인데..눈수술 근황 \"고장난 정선비\"",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112851082"
+        }
+      ]
     }
   ]
 }
