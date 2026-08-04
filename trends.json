@@ -1,270 +1,253 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-04T06:12:59.819Z",
+  "updatedAt": "2026-08-04T09:23:05.959Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "박현주",
+      "id": "한국경제tv",
       "rank": 1,
-      "keyword": "박현주",
+      "keyword": "한국경제tv",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '아름다운재단-미래에셋박현주재단, 가족돌봄청년 위한 금융투자 특강 개최' (소셜임팩트뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''SK하닉 420만원→280만원' 증권가 돌변하더니…폭탄 전망 [분석+]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "아름다운재단-미래에셋박현주재단, 가족돌봄청년 위한 금융투자 특강 개최",
-          "source": "소셜임팩트뉴스",
-          "url": "https://www.socialimpactnews.net/news/articleView.html?idxno=6941"
+          "title": "'SK하닉 420만원→280만원' 증권가 돌변하더니…폭탄 전망 [분석+]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026080323126"
         },
         {
-          "title": "미래에셋 청년 씨드온 프로젝트, ETF로 청년 금융자립 돕는다",
-          "source": "Queen 이코노미퀸",
-          "url": "https://www.queen.co.kr/news/articleView.html?idxno=460857"
-        },
-        {
-          "title": "\" 돈 모으는 법부터 배운다\" 미래에셋박현주재단, 금융소외 청년에 AI 투자 지원",
-          "source": "이넷뉴스",
-          "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=52816"
-        }
-      ]
-    },
-    {
-      "id": "실종자",
-      "rank": 2,
-      "keyword": "실종자",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '속초시, 해양 사고 실종자 위치 예측 기술 개발 추진…공모 선정' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "속초시, 해양 사고 실종자 위치 예측 기술 개발 추진…공모 선정",
+          "title": "“코스피 6000선은 매수 기회…연내 9300선 회복 가능”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260804110222739"
+          "url": "https://v.daum.net/v/20260803172930298"
         },
         {
-          "title": "속초시, 해양 실종자 수색 기술 개발로 5억 8000만 원 확보…디지털 안전 모델 구축",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260804000633"
-        },
-        {
-          "title": "속초시, 해상 실종자 이동 경로 디지털로 예측한다",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030204768&code=61121111&sid1=pol%EF%BF"
+          "title": "목표가 낮춘 리포트, 15개월 만에 상향보다 많아져",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20075519"
         }
       ]
     },
     {
-      "id": "거부권",
+      "id": "에릭-라우-어",
+      "rank": 2,
+      "keyword": "에릭 라우 어",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"더는 안 쓰겠구나\" 강정호 진단 현실로? 김혜성, 트리플A에서도 이틀 연속 무안타' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"더는 안 쓰겠구나\" 강정호 진단 현실로? 김혜성, 트리플A에서도 이틀 연속 무안타",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260803153609496"
+        },
+        {
+          "title": "김혜성 트레이드 가능성 있나, 폭풍전야 다저스 \"로스터 건들지는 않겠지만...\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/04/2026080313231763188"
+        },
+        {
+          "title": "'뜬공-뜬공-뜬공-땅볼' 김혜성 무안타 침묵…이러면 ML 문 열리지 않는다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/08/02/GU2GIMLBGVTGIOBVGVSGIYZWGM/"
+        }
+      ]
+    },
+    {
+      "id": "다영",
       "rank": 3,
-      "keyword": "거부권",
+      "keyword": "다영",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '스타쉽엔터 우주소녀 다영, 오늘(4일) '플러티' 발매' (뉴스타운) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "스타쉽엔터 우주소녀 다영, 오늘(4일) '플러티' 발매",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=711308"
+        },
+        {
+          "title": "우주소녀 다영 \"박재범 목소리 떠올라 직접 제안\"…'플러티' 비하인드",
+          "source": "MBC",
+          "url": "https://m.imbc.com/enews/view/513647"
+        },
+        {
+          "title": "다영·박재범, 드디어 베일 벗은 열애 의혹..오늘(4일) 공식 입맞춤",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804090452817"
+        }
+      ]
+    },
+    {
+      "id": "교통-사고",
+      "rank": 4,
+      "keyword": "교통 사고",
       "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘검찰 수사권 폐지’ 형소법 개정안 국무회의 통과' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '교통사고 '나이롱환자' 거른다…염좌·타박 장기치료 심사받아야' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘검찰 수사권 폐지’ 형소법 개정안 국무회의 통과",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1271294.html"
-        },
-        {
-          "title": "민주 \"검찰개혁 전환점\"...국힘 \"피해자 절규 외면\"",
-          "source": "YTN",
-          "url": "https://m.ytn.co.kr/news_view.php?key=202608041442172140&s_mcd=0101"
-        },
-        {
-          "title": "李대통령 \"경찰에 엄청난 권한, 안전할까 우려…철저히 대비\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260804082400001"
-        }
-      ]
-    },
-    {
-      "id": "압수수색",
-      "rank": 4,
-      "keyword": "압수수색",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '공수처, '서해 피격 국회 위증' 제주해경 압수수색 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "공수처, '서해 피격 국회 위증' 제주해경 압수수색 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/04/2026080413551143099"
-        },
-        {
-          "title": "[단독] 공수처, ‘서해 공무원 피격 위증’ 관련 제주해경청 압수수색",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628022"
-        },
-        {
-          "title": "‘서해공무원 피격 위증 의혹’…공수처, 제주해경청 압수수색",
+          "title": "교통사고 '나이롱환자' 거른다…염좌·타박 장기치료 심사받아야",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260804140305760"
+          "url": "https://v.daum.net/v/20260804121340981"
+        },
+        {
+          "title": "교통사고 경증환자 8주 초과 치료 땐 전문의료인 검토 거쳐야",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148969341&pWise=sub&pWiseSub=R6"
+        },
+        {
+          "title": "디스크 터져도 경상인가? 자동차보험환자치료권익연대, 청와대 항의집회",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20260803023249087"
         }
       ]
     },
     {
-      "id": "송성문",
+      "id": "학대",
       "rank": 5,
-      "keyword": "송성문",
-      "volumeLabel": "200+",
+      "keyword": "학대",
+      "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이정후, 코리안더비서 멀티히트 작렬…송성문은 무안타' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[단독] “침핀으로 찌르고 입 틀어막고”…어린이집 아동학대 또' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이정후, 코리안더비서 멀티히트 작렬…송성문은 무안타",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260803085729780"
-        },
-        {
-          "title": "샌프란시스코 이정후, 송성문과 코리안 더비서 2안타‥3할 타율 복귀",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6841980_36946.html"
-        },
-        {
-          "title": "[오늘의 영상] 송성문 앞에서 바람처럼 질주",
+          "title": "[단독] “침핀으로 찌르고 입 틀어막고”…어린이집 아동학대 또",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8627515"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8627201"
+        },
+        {
+          "title": "경북 성주 어린이집서 상습 아동 학대…경찰, 원장·교사 송치",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260803161600053"
+        },
+        {
+          "title": "순천시 “부모가 안심하는 보육 만들자” 어린이집 원장들 ‘자정결의’",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/region/article/all/20260804/134420260/1"
         }
       ]
     },
     {
-      "id": "사장님-귀는-당나귀-귀",
+      "id": "브라이언-존슨",
       "rank": 6,
-      "keyword": "사장님 귀는 당나귀 귀",
+      "keyword": "브라이언 존슨",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '정지선, 역대급 '통 큰' 사내 복지…장기 근속자에 '고급 자동차' 선물 (사당귀)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '회춘에 年 30억 쏟던 美 억만장자 “내가 너무 지나쳤다”' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "정지선, 역대급 '통 큰' 사내 복지…장기 근속자에 '고급 자동차' 선물 (사당귀)",
+          "title": "회춘에 年 30억 쏟던 美 억만장자 “내가 너무 지나쳤다”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260803172250037"
+          "url": "https://v.daum.net/v/20260803181210550"
         },
         {
-          "title": "정지선 셰프 “장기근속 직원에 고급 세단-명품백” 통큰 선물",
+          "title": "“장수에 너무 집착했나”…‘회춘 전도사’ 美 억만장자의 첫 고백",
           "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20260803/134411363/2"
-        },
-        {
-          "title": "정지선, 직원들에 고급 세단→명품백 통큰 선물..\"3개월마다 인센티브\" 깜짝 (사당귀) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/03/HEYDIZTCGJTDSNTBHFRTQYTCGE/"
+          "url": "https://www.donga.com/news/Inter/article/all/20260804/134416960/1"
         }
       ]
     },
     {
-      "id": "대한민국-해군",
+      "id": "이재영",
       "rank": 7,
-      "keyword": "대한민국 해군",
+      "keyword": "이재영",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '해군, 대령 지휘 함장에 여군 최초로 ‘배선영 대령’ 임명' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[공식발표] '日 무대 떠난' 이재영 새 둥지 찾았다, 유럽 무대 도전→투란VC 입단' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "해군, 대령 지휘 함장에 여군 최초로 ‘배선영 대령’ 임명",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260804/134416587/1"
-        },
-        {
-          "title": "대형 함정 함장에 여군 첫 임명…독도함 지휘 배선영 대령",
+          "title": "[공식발표] '日 무대 떠난' 이재영 새 둥지 찾았다, 유럽 무대 도전→투란VC 입단",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260804105852503"
+          "url": "https://v.daum.net/v/20260804002441109?f=p"
         },
         {
-          "title": "대령급 함정에 첫 女함장 탄생…대형수송함 독도함 지휘",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6557683"
+          "title": "이재영, 투란VC 입단…일본 떠나 유럽 무대 도전",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260804n17626?mid=n1101"
+        },
+        {
+          "title": "[공식발표] '日 무대 떠난' 이재영 새 둥지 찾았다, 유럽 무대 도전→투란VC 입단",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260804n00188"
         }
       ]
     },
     {
-      "id": "롯데콘서트홀",
+      "id": "중수청",
       "rank": 8,
-      "keyword": "롯데콘서트홀",
+      "keyword": "중수청",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "조선의-사랑꾼",
-      "rank": 9,
-      "keyword": "조선의 사랑꾼",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘심혜진 조카’ 심재원, 00년생 소개팅녀 앞 상의 탈의 “웃통 벗은 사람 처음 봐?”(조선의 사랑꾼)[순간포착]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '중수청 2874명 확정… 10년차 미만 검사는 직급 낮아져' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘심혜진 조카’ 심재원, 00년생 소개팅녀 앞 상의 탈의 “웃통 벗은 사람 처음 봐?”(조선의 사랑꾼)[순간포착]",
+          "title": "중수청 2874명 확정… 10년차 미만 검사는 직급 낮아져",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/08/04/5P5KZRA3RBB6TLTV46ANHOTP3I/"
+        },
+        {
+          "title": "[그래픽] 중대범죄수사청(본청) 기구도",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260804074052590"
+          "url": "https://v.daum.net/v/20260804163445279"
         },
         {
-          "title": "'11세차' 아나운서·배우 커플 탄생‥이유빈, 유일한 선택했다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260804_0003734965"
-        },
-        {
-          "title": "양상국, ♥호감녀에 조심스레 밝힌 진심 “조금 오래 보는 스타일”(조선의 사랑꾼)",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112851746"
+          "title": "중수청 “현직 검사, 무시험 임용”…내일부터 ‘순회 임용 설명회’ [지금뉴스]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8628191"
         }
       ]
     },
     {
-      "id": "심현섭",
-      "rank": 10,
-      "keyword": "심현섭",
+      "id": "유영하",
+      "rank": 9,
+      "keyword": "유영하",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '심현섭 \"하루에 3.2억 벌었는데…母 빚 15억 떠안아\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '유영하 “박근혜, ‘어른 역할’ 생각 많이 갖고 있어…그렇게 하실 것”' (한겨레) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "심현섭 \"하루에 3.2억 벌었는데…母 빚 15억 떠안아\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/03/2026080313351352936"
+          "title": "유영하 “박근혜, ‘어른 역할’ 생각 많이 갖고 있어…그렇게 하실 것”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1271306.html"
         },
         {
-          "title": "“그 많던 돈 어디로 갔을까”…‘하루 3억2천’ 벌었던 심현섭이 밝힌 안타까운 사연",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/culture/12116161"
+          "title": "인터뷰 전문: 유영하 “한동훈에 필리버스터 앞번호?… 특별 대우 적절치 않아” [정치시그널]",
+          "source": "채널A",
+          "url": "https://ichannela.com/news/detail/000000543275.do"
         },
         {
-          "title": "심현섭 ‘압구정 APT 1.5채 값’ 하루에 벌어…화려했던 전성기 회상",
+          "title": "한동훈 앞 필리버스터 11번 유영하 \"내 차례 안 오고 7번서 끝날 듯\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260802133211892"
+          "url": "https://v.daum.net/v/20260731085550696"
         }
       ]
     }
