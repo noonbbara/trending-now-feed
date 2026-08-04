@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-04T16:58:34.382Z",
+  "updatedAt": "2026-08-04T18:45:32.159Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,21 +9,21 @@
       "rank": 1,
       "keyword": "장동건",
       "volumeLabel": "5000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '오은영, 몰라보게 날씬해진 모습…고소영도 깜짝 [마데핫리뷰]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '장동건, 볼 빵빵 '얼굴 시술' 의혹 종결…여전히 조각 같은 외모 [마데핫리뷰]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "오은영, 몰라보게 날씬해진 모습…고소영도 깜짝 [마데핫리뷰]",
+          "title": "장동건, 볼 빵빵 '얼굴 시술' 의혹 종결…여전히 조각 같은 외모 [마데핫리뷰]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260804203150662"
+          "url": "https://v.daum.net/v/79N7GOIkmU"
         },
         {
-          "title": "‘고소영♥’ 장동건, ‘얼굴 퉁퉁’ 시술 의혹 끝…카메라+각도 문제였네",
+          "title": "고소영, 장동건과 다정한 투샷 공개…달라진 얼굴 의혹 잠재웠다",
           "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260804/134421304/1"
+          "url": "https://sports.donga.com/ent/article/all/20260804/134422081/1"
         },
         {
           "title": "\"자기 채널이야?\" 고소영♥장동건, 역사적 투샷…이정재까지 '황금 인맥' 총출동",
@@ -37,9 +37,9 @@
       "rank": 2,
       "keyword": "삼성 갤럭시 z 폴드 6",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '[써보니] 대박 난 ‘삼성 여권폰’ 4 대 3 화면비·착붙 그립감까지 참신하긴 한데···' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -49,9 +49,9 @@
           "url": "https://www.khan.co.kr/article/202608041700001"
         },
         {
-          "title": "갤럭시 Z8 시리즈, 사전 판매 144만대 신기록",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/08/05/GS6LHDWP2NFXRAEKQHT6PMPGSA/"
+          "title": "갤럭시Z8 사전예약자 절반 이상 '폴드8' 찜했다",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260804093625"
         },
         {
           "title": "아이폰 세대도 홀렸다…갤Z폴드8, 역대 최다 판매에 '한달 대기'(종합)",
@@ -61,13 +61,41 @@
       ]
     },
     {
-      "id": "감염",
+      "id": "돼지",
       "rank": 3,
-      "keyword": "감염",
+      "keyword": "돼지",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 '입찰가 가리자 열린 단톡방‥\"삼겹살 1만 8천 원 하시죠\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "입찰가 가리자 열린 단톡방‥\"삼겹살 1만 8천 원 하시죠\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6842325_36932.html"
+        },
+        {
+          "title": "\"돼지고깃값 20% 올렸다\"…1.2조원 담합 도드람 등 업체들 기소(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260804059451004"
+        },
+        {
+          "title": "텔레방 폭파 후 \"잡아떼라\"…'금겹살' 이유 있었다",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008690269"
+        }
+      ]
+    },
+    {
+      "id": "감염",
+      "rank": 4,
+      "keyword": "감염",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '미국서 기생충 감염사태 사망자 2명 발생' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -77,9 +105,9 @@
           "url": "https://v.daum.net/v/20260804052354707"
         },
         {
-          "title": "\"양상추 때문?\" 美 덮친 기생충 감염에 2명 사망‥환자 2만 명 육박",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6842374_36925.html"
+          "title": "양상추 먹었다가 2명 사망, 193명 입원…미국서 확산한 '감염증' 비상 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/08/04/2026080413022944643"
         },
         {
           "title": "미시간 주, 얌브랜드에 7월 2일 기생충 발병 연락 - 블룸버그",
@@ -89,41 +117,69 @@
       ]
     },
     {
-      "id": "비행기",
-      "rank": 4,
-      "keyword": "비행기",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
+      "id": "유가증권",
+      "rank": 5,
+      "keyword": "유가증권",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[이원주의 하늘속談]비행기도 ‘하이브리드’ 있습니다' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '거래소, 내달 14일 주식선물 18종목·옵션 2종목 추가 상장' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[이원주의 하늘속談]비행기도 ‘하이브리드’ 있습니다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Opinion/article/all/20260804/134421408/2"
+          "title": "거래소, 내달 14일 주식선물 18종목·옵션 2종목 추가 상장",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804111702482"
         },
         {
-          "title": "[김창덕의 미래항공교통] 쏟아지는 '수직이착륙기', 한국형 도심항공교통은 무엇을 검증할 것인가",
-          "source": "오피니언뉴스",
-          "url": "https://www.opinionnews.co.kr/news/articleView.html?idxno=142295"
+          "title": "한국거래소, 내달 14일 주식선물 18종목·주식옵션 2종목 추가상장",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260804000209"
         },
         {
-          "title": "글로벌 eVTOL 항공기 시장 규모 상위 20개 기업",
-          "source": "Spherical Insights",
-          "url": "https://www.sphericalinsights.com/ko/blogs/top-20-companies-in-global-evtol-aircraft-market-2026-2035-expert-view-by-spherical-insights"
+          "title": "거래소, 내달 14일 주식선물 18종목 추가 상장…옵션도 2종목 확대 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/08/04/M7ECZ3E7YZBM3HTOSHIX2YJKME/"
+        }
+      ]
+    },
+    {
+      "id": "토비-맥과이어",
+      "rank": 6,
+      "keyword": "토비 맥과이어",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '또 올해 최단 기록... ‘스파이더맨’ 개봉 7일 만에 400만 돌파' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "또 올해 최단 기록... ‘스파이더맨’ 개봉 7일 만에 400만 돌파",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/08/04/VLHUAAJ2JFBX3BHVRWSXGYHBSU/"
+        },
+        {
+          "title": "‘스파이더맨4’ 7일만에 400만 돌파…북미선 마블 신기록",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804204254878"
+        },
+        {
+          "title": "‘Spider-Man: Brand New Day’, ‘Avengers: Endgame’ 제치고 역대 북미 최고 오프닝 기록",
+          "source": "Hypebeast.KR",
+          "url": "https://hypebeast.kr/2026/8/mcu-marvel-sony-pictures-tom-holland-spider-man-brand-new-day-surpasses-avengers-endgame-largest-domestic-opening-in-history"
         }
       ]
     },
     {
       "id": "양희은",
-      "rank": 5,
+      "rank": 7,
       "keyword": "양희은",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '양희은, 지팡이 짚고 생일 모임' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -133,53 +189,25 @@
           "url": "https://www.newsis.com/view/NISX20260804_0003736317"
         },
         {
-          "title": "양희은, 지팡이 짚고 외출한 근황‥최측근 이성미X박미선과 보낸 생일",
-          "source": "뉴스엔",
-          "url": "https://www.newsen.com/news_view.php?uid=202608041708272510&code=100100"
+          "title": "지팡이 짚고 활짝…'73세' 女배우, 이성미→박미선과 생일 모임 만났다 [MHN:피드]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804230056217"
         },
         {
-          "title": "양희은, 각막이식 후 밝은 미소… 김신영 만나 “생이 최초로 덕질” [IS하이컷]",
-          "source": "일간스포츠",
-          "url": "https://isplus.com/article/view/isp202607280031"
-        }
-      ]
-    },
-    {
-      "id": "정몽준",
-      "rank": 6,
-      "keyword": "정몽준",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '정몽준, 아들 정기선에게 주식 280만주 증여…HD현대 승계 가속화' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "정몽준, 아들 정기선에게 주식 280만주 증여…HD현대 승계 가속화",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608041814001"
-        },
-        {
-          "title": "정몽준, 정기선에 HD현대 지분 3.54% 증여… 승계 작업 속도내나",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/industry-company/2026/08/04/3VEYEGFKZRDZNBOG4YHBINNKZM/"
-        },
-        {
-          "title": "정몽준, HD현대 주식 280만주 정기선에 증여…증여세 3500억 전망",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/marketing/1271397.html"
+          "title": "'74세' 양희은, 지팡이 짚고 환한 미소…이성미·박미선 만났다",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260804n28993?mid=e1100"
         }
       ]
     },
     {
       "id": "양산시",
-      "rank": 7,
+      "rank": 8,
       "keyword": "양산시",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '40도 폭염, 수도권까지 확산‥'2018년 재현' 넘어 '여름철 일상'될까?' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -202,12 +230,12 @@
     },
     {
       "id": "이투데이",
-      "rank": 8,
+      "rank": 9,
       "keyword": "이투데이",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '[이투데이 말투데이] 자강불식(自强不息)/A7' (이투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -217,42 +245,14 @@
           "url": "https://www.etoday.co.kr/news/view/2610561"
         },
         {
+          "title": "[이투데이 말투데이] 광음여전(光陰如箭)/반도체 슈퍼사이클",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2610120"
+        },
+        {
           "title": "\"삼전닉스 또 8% 급락했는데\"…폭등도 폭락도 비켜간 '목표가'",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260804063041593"
-        },
-        {
-          "title": "20% 넘는 폭등에도…삼전닉스 주가, 목표가의 반토막 수준",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260801014400008"
-        }
-      ]
-    },
-    {
-      "id": "투신",
-      "rank": 9,
-      "keyword": "투신",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '인천대교서 투신 사고 잇따라…11일 동안 3건 발생' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "인천대교서 투신 사고 잇따라…11일 동안 3건 발생",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804101552093"
-        },
-        {
-          "title": "[속보] 인천대교 송도방향 교통사고 발생…전면 통제",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2610669"
-        },
-        {
-          "title": "인천대교, 추락 사고 잇따라···안전난간 설치 시급",
-          "source": "전국매일신문",
-          "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1280730"
         }
       ]
     },
@@ -261,9 +261,9 @@
       "rank": 10,
       "keyword": "이윤지",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '이윤지, 한쪽 눈 퉁퉁 부은 치과의사 남편 공개…“제가 친 거 아닙니다”' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
