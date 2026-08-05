@@ -1,17 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-05T16:17:22.212Z",
+  "updatedAt": "2026-08-05T18:07:12.079Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
       "id": "고현정",
       "rank": 1,
       "keyword": "고현정",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '\"김밥 2알 겨우 먹어\"...앙상하게 마른 고현정, 다이어트 아닌 '음식 공포증' 고백 [헬스톡]' (파이낸셜뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,13 +33,41 @@
       ]
     },
     {
-      "id": "장항준",
+      "id": "계엄",
       "rank": 2,
+      "keyword": "계엄",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+2",
+      "summary": "급상승 시점에 ''尹계엄' 반란수괴 적용 불가 근거는…\"1980년 5·17 내란 판례\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'尹계엄' 반란수괴 적용 불가 근거는…\"1980년 5·17 내란 판례\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260804165800004"
+        },
+        {
+          "title": "체포방해부터 반란죄까지…내란·종합특검 '불협화음' 언제까지",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/court-prosecution/6249991"
+        },
+        {
+          "title": "'옥신각신' 종합-내란특검, 비상계엄에 '반란죄' 적용 문제 두고 또 신경전",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1674592/%EC%98%A5%EC%8B%A0%EA%B0%81%EC%8B%A0-%EC%A2%85%ED%95%A9-%EB%82%B4%EB%9E%80%ED%8A%B9%EA%B2%80-%EB%B9%84%EC%83%81%EA%B3%84%EC%97%84-%EB%B0%98%EB%9E%80-2026"
+        }
+      ]
+    },
+    {
+      "id": "장항준",
+      "rank": 3,
       "keyword": "장항준",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '장항준, '태도논란' 정준원에 \"인사성 없고 무례했다\" 농담 재조명' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -62,63 +90,152 @@
     },
     {
       "id": "lck",
-      "rank": 3,
+      "rank": 4,
       "keyword": "lck",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'BRO Roamer on his time in Brazil: \"There were fights between teammates,…' (Sheep Esports) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 'DNS Sharvel: \"I'm confident I can play Qiyana better than anyone in the…' (Sheep Esports) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "DNS Sharvel: \"I'm confident I can play Qiyana better than anyone in the world\"",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/en/all/articles/dns-sharvel-i-m-confident-i-can-play-qiyana-better-than-anyone-in-the-world/en"
+        },
+        {
+          "title": "LCK Round 3 Day 5 Recap: DN SOOPers Finally Get Their First Series Victory",
+          "source": "Yardbarker",
+          "url": "https://www.yardbarker.com/entertainment/articles/lck_round_3_day_5_recap_dn_soopers_finally_get_their_first_series_victory/s1_17456_44138290"
+        },
         {
           "title": "BRO Roamer on his time in Brazil: \"There were fights between teammates, that kind of thing\"",
           "source": "Sheep Esports",
           "url": "https://www.sheepesports.com/en/all/articles/bro-roamer-on-his-time-in-brazil-there-were-fights-between-teammates-that-kind-of-thing/en"
-        },
-        {
-          "title": "A Hard-Fought Victory... HanJin Brion Snaps 7-Game Losing Streak Against Nongshim",
-          "source": "Inven Global",
-          "url": "https://www.invenglobal.com/articles/24487/a-hard-fought-victory-hanjin-brion-snaps-7-game-losing-streak-against-nongshim"
         }
       ]
     },
     {
-      "id": "계엄",
-      "rank": 4,
-      "keyword": "계엄",
+      "id": "채리나",
+      "rank": 5,
+      "keyword": "채리나",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] 종합특검, 'HID 북파 훈련' 의혹 속초서 현장 검증' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "4시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '민낯 처음 공개한 채리나 “성형괴물 악플에 상처” 눈물' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[단독] 종합특검, 'HID 북파 훈련' 의혹 속초서 현장 검증",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6842656_36918.html"
-        },
-        {
-          "title": "종합특검, HID 부대 현장검증…'계엄 전 북파훈련' 실체 확인 나서",
+          "title": "민낯 처음 공개한 채리나 “성형괴물 악플에 상처” 눈물",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260805202352103"
+          "url": "https://v.daum.net/v/20260805163251932"
         },
         {
-          "title": "종합특검, '북파 훈련' HID 부대 현장검증…문상호 전 사령관 체포",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/court-prosecution/6250482"
+          "title": "‘터치미’ 채리나, 데뷔 31년만 민낯 공개 “성괴라고…”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12117770"
+        },
+        {
+          "title": "[예고] 데뷔 31년 만의 첫 민낯 공개! 감춰왔던 채리나의 고민을 해결할 수 있을까?",
+          "source": "채널A",
+          "url": "https://ichannela.com/program/clip/000000543325.do"
+        }
+      ]
+    },
+    {
+      "id": "알테오젠",
+      "rank": 6,
+      "keyword": "알테오젠",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[특징주] 알테오젠, 5천억원 규모 라이선스 계약에 상승(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[특징주] 알테오젠, 5천억원 규모 라이선스 계약에 상승(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260805154007236?sicode=01"
+        },
+        {
+          "title": "1조8000억 '겹호재' 터졌다…'주가 28% 상승' 반전 쓴 회사 [종목+]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026080568326"
+        },
+        {
+          "title": "알테오젠, 5200억원 규모 플랫폼 기술수출 계약 체결…누적 기술수출 12조원 돌파",
+          "source": "팜이데일리",
+          "url": "https://pharm.edaily.co.kr/News/Read?newsId=04929846645544368"
+        }
+      ]
+    },
+    {
+      "id": "덕분",
+      "rank": 7,
+      "keyword": "덕분",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+2",
+      "summary": "급상승 시점에 '고양이 덕분에 힐링…통영 용호도서 축제' (국제신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "고양이 덕분에 힐링…통영 용호도서 축제",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260804.22008000630"
+        },
+        {
+          "title": "용호도서 펼쳐지는 감성 공연…통영시, '음악을 만난 섬' 관람객 맞이",
+          "source": "STN SPORTS",
+          "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=320134"
+        },
+        {
+          "title": "통영시 2026 음악을 만난 섬-용호도에서 만나는 여름밤",
+          "source": "경남도민신문",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "fa컵",
+      "rank": 8,
+      "keyword": "fa컵",
+      "volumeLabel": "200+",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '2026-27 FA Cup Fixture Finder Map' (TheFA.com) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "2026-27 FA Cup Fixture Finder Map",
+          "source": "TheFA.com",
+          "url": "https://www.thefa.com/news/2026/aug/03/emirates-fa-cup-fixture-finder-map-2025-26-season"
+        },
+        {
+          "title": "Thai footballer killed in lighting strike during match in Narathiwat province; Malaysian among 12 others injured",
+          "source": "CNA",
+          "url": "https://www.channelnewsasia.com/asia/malaysia-thai-footballer-died-lightning-strike-sungai-golok-6300346"
+        },
+        {
+          "title": "Thai footballer dies, Malaysian injured after lightning strike during match",
+          "source": "The Star",
+          "url": "https://www.thestar.com.my/news/world/2026/08/05/thai-footballer-dies-malaysian-injured-after-lightning-strike-during-match"
         }
       ]
     },
     {
       "id": "주소",
-      "rank": 5,
+      "rank": 9,
       "keyword": "주소",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "200+",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-4",
       "summary": "급상승 시점에 '고양시, 교차로 길 찾기 쉬워진다...신규 도로명판 231개 설치 완료' (인천일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -140,142 +257,30 @@
       ]
     },
     {
-      "id": "채리나",
-      "rank": 6,
-      "keyword": "채리나",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '민낯 처음 공개한 채리나 “성형괴물 악플에 상처” 눈물' (동아일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "민낯 처음 공개한 채리나 “성형괴물 악플에 상처” 눈물",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20260805/134425603/2"
-        },
-        {
-          "title": "채리나, 31년 만에 민낯 공개 ‘성괴·실패자’ 악플에 눈물 펑펑 (뷰티 클리닉 터치미)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260805134127526"
-        },
-        {
-          "title": "[예고] 데뷔 31년 만의 첫 민낯 공개! 감춰왔던 채리나의 고민을 해결할 수 있을까?",
-          "source": "채널A",
-          "url": "https://ichannela.com/program/clip/000000543325.do"
-        }
-      ]
-    },
-    {
-      "id": "나는솔로",
-      "rank": 7,
-      "keyword": "나는솔로",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"평생 겪어보지 못한 일\"…모솔男, 첫인상 3표 받고 감격('나는솔로')' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"평생 겪어보지 못한 일\"…모솔男, 첫인상 3표 받고 감격('나는솔로')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260805101127080"
-        },
-        {
-          "title": "33기 모솔남, ‘몰표남’ 등극에 얼떨떨…“평생 겪어보지 못한 일” (나는솔로)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260805/134423049/1"
-        },
-        {
-          "title": "‘나는 솔로’ 33기 초강력 등장, 여자보다 수학이 좋았던 모솔남",
-          "source": "데일리스포츠한국",
-          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432207"
-        }
-      ]
-    },
-    {
-      "id": "fa컵",
-      "rank": 8,
-      "keyword": "fa컵",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '2026-27 FA Cup Fixture Finder Map' (TheFA.com) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "2026-27 FA Cup Fixture Finder Map",
-          "source": "TheFA.com",
-          "url": "https://www.thefa.com/news/2026/aug/03/emirates-fa-cup-fixture-finder-map-2025-26-season"
-        },
-        {
-          "title": "When is the FA Cup final 2027? Wembley date and kick-off time",
-          "source": "Paddy Power",
-          "url": "https://news.paddypower.com/football/2026/08/05/fa-cup-final-2027-wembley-date-kick-off-time/"
-        },
-        {
-          "title": "Thai footballer killed in lighting strike during match in Narathiwat province; Malaysian among 12 others injured",
-          "source": "CNA",
-          "url": "https://www.channelnewsasia.com/asia/malaysia-thai-footballer-died-lightning-strike-sungai-golok-6300346"
-        }
-      ]
-    },
-    {
-      "id": "덕분",
-      "rank": 9,
-      "keyword": "덕분",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'K기업과 초밀착…머스크, 한국 찾나' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "K기업과 초밀착…머스크, 한국 찾나",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026080447761"
-        },
-        {
-          "title": "HBM 초호황에도 성장세 꺾인 한미반도체…하이브리드본더 전환 시험대 [재무포커스]",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20075671"
-        },
-        {
-          "title": "머스크, 테슬라 실적 발표 절반이 AI·로봇 이야기…정작 매출 70%는 자동차",
-          "source": "AI 매터스",
-          "url": "https://aimatters.co.kr/news-report/47906/"
-        }
-      ]
-    },
-    {
-      "id": "lý-nhã-kỳ",
+      "id": "경로당",
       "rank": 10,
-      "keyword": "lý nhã kỳ",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "keyword": "경로당",
+      "volumeLabel": "200+",
+      "startedLabel": "4시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '2 viên kim cương gần 1500 tỷ của Lý Nhã Kỳ' (CafeF) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '최정호 익산시장, 폭염 속 무더위쉼터 찾아' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "2 viên kim cương gần 1500 tỷ của Lý Nhã Kỳ",
-          "source": "CafeF",
-          "url": "https://cafef.vn/2-vien-kim-cuong-gan-1500-ty-cua-ly-nha-ky-18826080414242779.chn"
+          "title": "최정호 익산시장, 폭염 속 무더위쉼터 찾아",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/RPR20260805006600353"
         },
         {
-          "title": "Cuộc sống giàu có, độc thân của Lý Nhã Kỳ ở tuổi 44",
-          "source": "Báo Dân Việt",
-          "url": "https://danviet.vn/cuoc-song-giau-co-doc-than-cua-ly-nha-ky-o-tuoi-44-d1449169.html"
+          "title": "화성시 효행구, 기록적 무더위 총력 대응…생활권 냉방시설 안전 강화",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=711508"
         },
         {
-          "title": "Lý Nhã Kỳ hiện tại thế nào: Động thái mới nhất có gì HOT mà đang khiến dân mạng rần rần?",
-          "source": "Ngôi Sao VN",
-          "url": "https://ngoisao.vn/hau-truong/chuyen-lang-sao/ly-nha-ky-hien-tai-the-nao-dong-thai-moi-nhat-co-gi-hot-ma-dang-khien-dan-mang-ran-ran-d489636.html"
+          "title": "울산시, 경로당 연장 운영 등 노인 폭염 피해 예방",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628556"
         }
       ]
     }
