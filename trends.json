@@ -1,17 +1,45 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-05T18:07:12.079Z",
+  "updatedAt": "2026-08-05T20:10:57.622Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "고현정",
+      "id": "마요르카-대-psg",
       "rank": 1,
+      "keyword": "마요르카 대 psg",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''강인이는 어디 있나요?' 주인공 빠진 친선경기, 졸지에 '무의미 맞대결'이 된 마요르카-PSG전, \"LEE는 한국에 있다\"' (스포츠조선) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'강인이는 어디 있나요?' 주인공 빠진 친선경기, 졸지에 '무의미 맞대결'이 된 마요르카-PSG전, \"LEE는 한국에 있다\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/football/2026-08-05/202608050100030060001847"
+        },
+        {
+          "title": "챔피언스 트로피 : 렌스-파리생제르맹 중계는 어느 채널에서 볼 수 있나요 ?",
+          "source": "Sortir à Paris",
+          "url": "https://www.sortiraparis.com/ko/palieseo-hal-il/seupocheu-welbing/articles/275899-syupeokeob-jung-gye-lenseu-pali-saengjeleumaeng-gyeong-gineun-eotteon-chaeneol-eseo-sicheonghal-su-issnayo"
+        },
+        {
+          "title": "이강인은 떠났지만 흔적은 지워지지 않았다…‘트레블’ PSG, 2부 강등 마요르카와 친선전 치르는 이유 “이적 과정에서 협의된 조건”",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=691942"
+        }
+      ]
+    },
+    {
+      "id": "고현정",
+      "rank": 2,
       "keyword": "고현정",
       "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '\"김밥 2알 겨우 먹어\"...앙상하게 마른 고현정, 다이어트 아닌 '음식 공포증' 고백 [헬스톡]' (파이낸셜뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,13 +61,41 @@
       ]
     },
     {
+      "id": "아스날",
+      "rank": 3,
+      "keyword": "아스날",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '아스날, 1345억 거절에도 포기 없다...BBC, \"기마랑이스 영입 위해 뉴캐슬과 직접 협상\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "아스날, 1345억 거절에도 포기 없다...BBC, \"기마랑이스 영입 위해 뉴캐슬과 직접 협상\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804211707592?f=p"
+        },
+        {
+          "title": "'상한선, 더이상은 무리다' 아스널, 브라질 국대 미드필더 기마랑이스 이적료 1000만파운드 인상 두번째 제안..'7000만→8000만파운드'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/08/04/MUYDAMLGMI3GEYRXGIZTMYJWME/"
+        },
+        {
+          "title": "\"이적이 성사되기만을 기다리고 있다\"…아스널 초대박 소식 'HERE WE GO' 기자가 밝혔다 \"최종 단계 진입\"",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026080410042832281"
+        }
+      ]
+    },
+    {
       "id": "계엄",
-      "rank": 2,
+      "rank": 4,
       "keyword": "계엄",
       "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+2",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 ''尹계엄' 반란수괴 적용 불가 근거는…\"1980년 5·17 내란 판례\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -61,97 +117,97 @@
       ]
     },
     {
-      "id": "장항준",
-      "rank": 3,
-      "keyword": "장항준",
-      "volumeLabel": "1000+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '장항준, '태도논란' 정준원에 \"인사성 없고 무례했다\" 농담 재조명' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "장항준, '태도논란' 정준원에 \"인사성 없고 무례했다\" 농담 재조명",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260805_0003737839"
-        },
-        {
-          "title": "공효진, 정준원 논란 5일째..'투샷 화보' 올리며 '묵묵히 응원' [스타이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260805174848366"
-        },
-        {
-          "title": "'태도 논란' 정준원 \"난 배우 하면 안 되는 사람인가? 생각 들었다\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/05/2026080521134923293"
-        }
-      ]
-    },
-    {
-      "id": "lck",
-      "rank": 4,
-      "keyword": "lck",
-      "volumeLabel": "1000+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'DNS Sharvel: \"I'm confident I can play Qiyana better than anyone in the…' (Sheep Esports) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "DNS Sharvel: \"I'm confident I can play Qiyana better than anyone in the world\"",
-          "source": "Sheep Esports",
-          "url": "https://www.sheepesports.com/en/all/articles/dns-sharvel-i-m-confident-i-can-play-qiyana-better-than-anyone-in-the-world/en"
-        },
-        {
-          "title": "LCK Round 3 Day 5 Recap: DN SOOPers Finally Get Their First Series Victory",
-          "source": "Yardbarker",
-          "url": "https://www.yardbarker.com/entertainment/articles/lck_round_3_day_5_recap_dn_soopers_finally_get_their_first_series_victory/s1_17456_44138290"
-        },
-        {
-          "title": "BRO Roamer on his time in Brazil: \"There were fights between teammates, that kind of thing\"",
-          "source": "Sheep Esports",
-          "url": "https://www.sheepesports.com/en/all/articles/bro-roamer-on-his-time-in-brazil-there-were-fights-between-teammates-that-kind-of-thing/en"
-        }
-      ]
-    },
-    {
-      "id": "채리나",
+      "id": "김하성",
       "rank": 5,
-      "keyword": "채리나",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '민낯 처음 공개한 채리나 “성형괴물 악플에 상처” 눈물' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "김하성",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김하성, 빅리그 돌아왔지만 현실은 냉혹…자비스 선발·듀본 교체 투입에도 출장 불발...팀은 4-2 승리 [ATL 리뷰]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "민낯 처음 공개한 채리나 “성형괴물 악플에 상처” 눈물",
+          "title": "김하성, 빅리그 돌아왔지만 현실은 냉혹…자비스 선발·듀본 교체 투입에도 출장 불발...팀은 4-2 승리 [ATL 리뷰]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260805163251932"
+          "url": "https://v.daum.net/v/7jXhu48Byn"
         },
         {
-          "title": "‘터치미’ 채리나, 데뷔 31년만 민낯 공개 “성괴라고…”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12117770"
+          "title": "빅리그 뛸자리 없는 김하성, 부상 복귀했지만 벤치行",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260806/134427977/2"
         },
         {
-          "title": "[예고] 데뷔 31년 만의 첫 민낯 공개! 감춰왔던 채리나의 고민을 해결할 수 있을까?",
-          "source": "채널A",
-          "url": "https://ichannela.com/program/clip/000000543325.do"
+          "title": "김하성, 빅리그 복귀 당일 마이애미전 결장…현지 전망도 '암울'(종합)",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260805_0003737128"
+        }
+      ]
+    },
+    {
+      "id": "엔비디아-주가",
+      "rank": 6,
+      "keyword": "엔비디아 주가",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '스페이스X, 로켓은 달로 추락하고 주가는 폭락하고…사상 최저 경신' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "스페이스X, 로켓은 달로 추락하고 주가는 폭락하고…사상 최저 경신",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806040136820"
+        },
+        {
+          "title": "11조 매출 스페이스X, AI에 22조 투자",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20260805/134427922/2"
+        },
+        {
+          "title": "스페이스X 첫 실적 매출 92% 증가 발표...머스크 \"2030년 매출 1조 달러 전망\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202608050859451606"
+        }
+      ]
+    },
+    {
+      "id": "파업",
+      "rank": 7,
+      "keyword": "파업",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '현대제철 임단협 마무리…노조, 잠정합의안 가결' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "현대제철 임단협 마무리…노조, 잠정합의안 가결",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260805155316935"
+        },
+        {
+          "title": "작년과는 다르다…'호실적' 韓 철강, 올해 성과급은?",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260804000188"
+        },
+        {
+          "title": "상반기 외형 성장에도 못넘은 ‘4%의 벽’…K철강 하반기 반등 카드는?",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20260804025359342"
         }
       ]
     },
     {
       "id": "알테오젠",
-      "rank": 6,
+      "rank": 8,
       "keyword": "알테오젠",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '[특징주] 알테오젠, 5천억원 규모 라이선스 계약에 상승(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -161,126 +217,70 @@
           "url": "https://v.daum.net/v/20260805154007236?sicode=01"
         },
         {
+          "title": "MSD·화이자·사노피가 가른 K제약·바이오…기술수출 이후 ‘진짜 승부’ 시작됐다 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/science-chosun/bio/2026/08/05/N4ZW732WSRAAVBIFDFGIWNLILA/"
+        },
+        {
           "title": "1조8000억 '겹호재' 터졌다…'주가 28% 상승' 반전 쓴 회사 [종목+]",
           "source": "한국경제",
           "url": "https://www.hankyung.com/article/2026080568326"
-        },
-        {
-          "title": "알테오젠, 5200억원 규모 플랫폼 기술수출 계약 체결…누적 기술수출 12조원 돌파",
-          "source": "팜이데일리",
-          "url": "https://pharm.edaily.co.kr/News/Read?newsId=04929846645544368"
         }
       ]
     },
     {
-      "id": "덕분",
-      "rank": 7,
-      "keyword": "덕분",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 '고양이 덕분에 힐링…통영 용호도서 축제' (국제신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "고양이 덕분에 힐링…통영 용호도서 축제",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260804.22008000630"
-        },
-        {
-          "title": "용호도서 펼쳐지는 감성 공연…통영시, '음악을 만난 섬' 관람객 맞이",
-          "source": "STN SPORTS",
-          "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=320134"
-        },
-        {
-          "title": "통영시 2026 음악을 만난 섬-용호도에서 만나는 여름밤",
-          "source": "경남도민신문",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "id": "fa컵",
-      "rank": 8,
-      "keyword": "fa컵",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '2026-27 FA Cup Fixture Finder Map' (TheFA.com) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "2026-27 FA Cup Fixture Finder Map",
-          "source": "TheFA.com",
-          "url": "https://www.thefa.com/news/2026/aug/03/emirates-fa-cup-fixture-finder-map-2025-26-season"
-        },
-        {
-          "title": "Thai footballer killed in lighting strike during match in Narathiwat province; Malaysian among 12 others injured",
-          "source": "CNA",
-          "url": "https://www.channelnewsasia.com/asia/malaysia-thai-footballer-died-lightning-strike-sungai-golok-6300346"
-        },
-        {
-          "title": "Thai footballer dies, Malaysian injured after lightning strike during match",
-          "source": "The Star",
-          "url": "https://www.thestar.com.my/news/world/2026/08/05/thai-footballer-dies-malaysian-injured-after-lightning-strike-during-match"
-        }
-      ]
-    },
-    {
-      "id": "주소",
+      "id": "lg-의인상",
       "rank": 9,
-      "keyword": "주소",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-4",
-      "summary": "급상승 시점에 '고양시, 교차로 길 찾기 쉬워진다...신규 도로명판 231개 설치 완료' (인천일보) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "lg 의인상",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '수심 3m 가라앉던 19개월 아기 구한 60대… ‘LG 의인상’ 포상금도 기부' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "고양시, 교차로 길 찾기 쉬워진다...신규 도로명판 231개 설치 완료",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1328924"
+          "title": "수심 3m 가라앉던 19개월 아기 구한 60대… ‘LG 의인상’ 포상금도 기부",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260805181732463"
         },
         {
-          "title": "[군포소식]주소정보시설 일제조사·정비 완료",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1674861/%EA%B5%B0%ED%8F%AC%EC%86%8C%EC%8B%9D%EC%A3%BC%EC%86%8C%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%84%A4-%EC%9D%BC%EC%A0%9C%EC%A1%B0%EC%82%AC%EC%A0%95%EB%B9%84-%EC%99%84%EB%A3%8C-2026"
+          "title": "호수 빠진 세살배기 구한 의인, 포상금도 취약층과 나눴다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260805/134427658/2"
         },
         {
-          "title": "“틀린 도로명주소 바로잡았습니다”…군포시, 관내 주소정보시설 정비 완료",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260805010001669"
+          "title": "호수 빠진 19개월 여아 구조한 의인 김경호씨, 포상금도 기부",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/gyeonggi/6250429"
         }
       ]
     },
     {
-      "id": "경로당",
+      "id": "프랑스",
       "rank": 10,
-      "keyword": "경로당",
-      "volumeLabel": "200+",
+      "keyword": "프랑스",
+      "volumeLabel": "100+",
       "startedLabel": "4시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '최정호 익산시장, 폭염 속 무더위쉼터 찾아' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Tour de France Femmes 2026: Officials check riders' clothing amid conce…' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "최정호 익산시장, 폭염 속 무더위쉼터 찾아",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/RPR20260805006600353"
+          "title": "Tour de France Femmes 2026: Officials check riders' clothing amid concerns about bra padding",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/cycling/articles/cvg0krdek3zo"
         },
         {
-          "title": "화성시 효행구, 기록적 무더위 총력 대응…생활권 냉방시설 안전 강화",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=711508"
+          "title": "Bra Boosters Are Causing a Clothing Controversy at the Tour de France Femmes",
+          "source": "Outside Magazine",
+          "url": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/bra-boosters-tour-de-france-femmes/"
         },
         {
-          "title": "울산시, 경로당 연장 운영 등 노인 폭염 피해 예방",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628556"
+          "title": "Tour de France Femmes cyclists face checks for aerodynamic-boosting chest padding",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/sport/2026/aug/04/tour-de-france-femmes-cyclists-face-checks-after-claims-that-padded-bras-aid-aerodynamics-cycling"
         }
       ]
     }
