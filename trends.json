@@ -1,286 +1,281 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-05T14:26:39.778Z",
+  "updatedAt": "2026-08-05T16:17:22.212Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "낙뢰",
+      "id": "고현정",
       "rank": 1,
-      "keyword": "낙뢰",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '충청권도 첫 '폭염중대경보'⋯\"극한 폭염에 하필 14시간 정전\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "충청권도 첫 '폭염중대경보'⋯\"극한 폭염에 하필 14시간 정전\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260805214901842"
-        },
-        {
-          "title": "극한 열대야 속 곳곳 정전‥한밤 대피행렬",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6842456_37012.html"
-        },
-        {
-          "title": "이 폭염에 냉방 '뚝'…서산서 낙뢰로 아파트 1980세대 정전 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/05/2026080510341025572"
-        }
-      ]
-    },
-    {
-      "id": "kbs",
-      "rank": 2,
-      "keyword": "kbs",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Rhee Minjung and Kim Ji-seok ignite divorce battle in KBS comedy - CHOS…' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Rhee Minjung and Kim Ji-seok ignite divorce battle in KBS comedy - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-entertainment/2026/08/05/FGKFQGPGFNGIRM57ZRA34LJ5VI/"
-        },
-        {
-          "title": "Actor Lee Min-jung is returning to the small screen after six years with \"Yes, Let's Divorce.\" In ad..",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/entertain/12109155"
-        },
-        {
-          "title": "Lee Min-jung Reveals 'Boys Over Flowers' Hairstyle in New Drama Stills",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/kpop-culture-en/2026/08/03/BB2QZLDF2VECTHKE3UZJIQJPPE/"
-        }
-      ]
-    },
-    {
-      "id": "엘니뇨",
-      "rank": 3,
-      "keyword": "엘니뇨",
+      "keyword": "고현정",
       "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '폭염에 파나마 운하 통행까지 비상…‘수퍼 엘니뇨’ 우려에 통행 제한' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "폭염에 파나마 운하 통행까지 비상…‘수퍼 엘니뇨’ 우려에 통행 제한",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260805160609620"
-        },
-        {
-          "title": "\"초강력 엘니뇨, 아르헨 등 일부 중남미엔 농업수출 확대 기회\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260804008200009"
-        },
-        {
-          "title": "인도네시아 기상청(BMKG), 공식적 ‘강한 엘니뇨’ 국면 진입 선언… 국가적 비상 대응 체제 가동",
-          "source": "Haninpost",
-          "url": "https://haninpost.com/archives/130355"
-        }
-      ]
-    },
-    {
-      "id": "마이클-버리",
-      "rank": 4,
-      "keyword": "마이클 버리",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''빅쇼트' 버리 \"변동성 추종 펀드가 증시 대규모 매도 촉발할 수도\"' (연합인포맥스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'빅쇼트' 버리 \"변동성 추종 펀드가 증시 대규모 매도 촉발할 수도\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428389"
-        },
-        {
-          "title": "\"1987년 최악 폭락 재연될 수도\"…'빅쇼트' 버리, 美 S&P500지수 최고치 경신에도 경고",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026080510443795005"
-        },
-        {
-          "title": "'빅쇼트' 마이클 버리, 美 증시 급락 경고…\"1987년 같은 하락장 올 수도\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260805212929501"
-        }
-      ]
-    },
-    {
-      "id": "음문석",
-      "rank": 5,
-      "keyword": "음문석",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''호프' 기괴한 비밀병기 음문석, 순수惡이 만든 인생캐' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'호프' 기괴한 비밀병기 음문석, 순수惡이 만든 인생캐",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260805171002726"
-        },
-        {
-          "title": "'호프' 음문석, 가정사 고백 \"암으로 떠난 아버지, 최근 꿈에 나와\" 울컥",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026080414560001012"
-        },
-        {
-          "title": "음문석 “‘유퀴즈’ 출연 원했는데…가문의 영광”[MK★인터뷰]",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12117699"
-        }
-      ]
-    },
-    {
-      "id": "첼시",
-      "rank": 6,
-      "keyword": "첼시",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '첼시는 엔조 페르난데스를 대체할 알렉스 스콧을 시급히 영입해야 한다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "첼시는 엔조 페르난데스를 대체할 알렉스 스콧을 시급히 영입해야 한다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/chelsea-mua-gap-alex-scott-thay-enzo-fernandez"
-        },
-        {
-          "title": "\"제발 팀에 남아줘!” 첼시 동료 카이세도, 엔조에게 공개 잔류 촉구… 로드리 레알행 기류 속 이적은 '미지수'",
-          "source": "베스트일레븐",
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=310836"
-        },
-        {
-          "title": "'첼시·맨유도 노리지만' 리버풀은 다르다?… 안도니 이라올라 감독 인맥이 스콧 영입 열쇠!",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95655"
-        }
-      ]
-    },
-    {
-      "id": "구성윤",
-      "rank": 7,
-      "keyword": "구성윤",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '팀 K리그서 이동경 재회한 정정용 감독 \"1년 만에 선물 전달\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "팀 K리그서 이동경 재회한 정정용 감독 \"1년 만에 선물 전달\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260804151900007"
-        },
-        {
-          "title": "\"이런 말 해도 될지 모르겠는데...\" 맨시티와 붙은 정정용 감독, '딱 한 명' 콕 집어 극찬 \"더 좋은 팀 가야 할 선수\" [상암 현장] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/05/2026080517304314132"
-        },
-        {
-          "title": "'이승우-기성용 벤치' 팀K리그, 쿠플 시리즈 선발 명단 공개…'홀란 불참' 맨시티는 '세메뇨-포든' 1.5군 먼저 나선다 [현장라인업]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260805190609616"
-        }
-      ]
-    },
-    {
-      "id": "황보라",
-      "rank": 8,
-      "keyword": "황보라",
-      "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '황보라, 시험관 재도전…\"폐경까지 1년, 시한부 선고 받은 느낌\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"김밥 2알 겨우 먹어\"...앙상하게 마른 고현정, 다이어트 아닌 '음식 공포증' 고백 [헬스톡]' (파이낸셜뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "황보라, 시험관 재도전…\"폐경까지 1년, 시한부 선고 받은 느낌\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260804_0003736469"
+          "title": "\"김밥 2알 겨우 먹어\"...앙상하게 마른 고현정, 다이어트 아닌 '음식 공포증' 고백 [헬스톡]",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202608051426257305"
         },
         {
-          "title": "하정우, 통 큰 조카 사랑..황보라 \"옷 하나도 안 사도 돼\"[보라이어티]",
+          "title": "고현정이 강조한 '기운 있는 몸'…\"무리한 체중 감량 안 해\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260803_0003733752"
+        },
+        {
+          "title": "고현정, 사망설까지 해명했는데…또 건강이상설, 염려일까 오지랖일까 [MD이슈]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260805161142881"
-        },
-        {
-          "title": "황보라, 정자 채취 전날 술마신 남편 김영훈에 분노 \"넌 하는 게 뭐가 있냐고\"[순간포착]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/05/G42TEMLCGNRTSZBYGBSTQYJQG4/"
+          "url": "https://v.daum.net/v/20260803232249379"
         }
       ]
     },
     {
-      "id": "이은결",
-      "rank": 9,
-      "keyword": "이은결",
-      "volumeLabel": "200+",
+      "id": "장항준",
+      "rank": 2,
+      "keyword": "장항준",
+      "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이은결, 200억 쏟은 마술 인생…‘9:1 노예계약’ 눈물 고백' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '장항준, '태도논란' 정준원에 \"인사성 없고 무례했다\" 농담 재조명' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이은결, 200억 쏟은 마술 인생…‘9:1 노예계약’ 눈물 고백",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260805/134423561/1"
-        },
-        {
-          "title": "이은결, 10년 노예계약 사기 당해 \"믿었던 형에게 인감 맡겨…수익 0원\" [유퀴즈]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260805n33425"
-        },
-        {
-          "title": "시청률 3%대로 다시 ‘뚝’…각종 유명 인사→특별한 사연으로 반등 노린 韓 예능",
-          "source": "TV리포트",
-          "url": "https://tvreport.co.kr/broadcast/article/1066512/"
-        }
-      ]
-    },
-    {
-      "id": "현역가왕3",
-      "rank": 10,
-      "keyword": "현역가왕3",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '홍지윤, ‘현역가왕3’ 우승 상금 전액 기부…“누군가에게 작은 힘 되길”' (매일경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "홍지윤, ‘현역가왕3’ 우승 상금 전액 기부…“누군가에게 작은 힘 되길”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12117594"
-        },
-        {
-          "title": "홍지윤, '현역가왕3' 우승상금 1억 전액 기부…팬들과 약속 실천",
+          "title": "장항준, '태도논란' 정준원에 \"인사성 없고 무례했다\" 농담 재조명",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260805_0003737464"
+          "url": "https://www.newsis.com/view/NISX20260805_0003737839"
         },
         {
-          "title": "가수 홍지윤, '현역가왕3' 우승 상금 전액 초록우산에 기부",
-          "source": "바끄로뉴스",
-          "url": "https://www.baccro.com/news/articleView.html?idxno=65088"
+          "title": "공효진, 정준원 논란 5일째..'투샷 화보' 올리며 '묵묵히 응원' [스타이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260805174848366"
+        },
+        {
+          "title": "'태도 논란' 정준원 \"난 배우 하면 안 되는 사람인가? 생각 들었다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/05/2026080521134923293"
+        }
+      ]
+    },
+    {
+      "id": "lck",
+      "rank": 3,
+      "keyword": "lck",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'BRO Roamer on his time in Brazil: \"There were fights between teammates,…' (Sheep Esports) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "BRO Roamer on his time in Brazil: \"There were fights between teammates, that kind of thing\"",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/en/all/articles/bro-roamer-on-his-time-in-brazil-there-were-fights-between-teammates-that-kind-of-thing/en"
+        },
+        {
+          "title": "A Hard-Fought Victory... HanJin Brion Snaps 7-Game Losing Streak Against Nongshim",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/24487/a-hard-fought-victory-hanjin-brion-snaps-7-game-losing-streak-against-nongshim"
+        }
+      ]
+    },
+    {
+      "id": "계엄",
+      "rank": 4,
+      "keyword": "계엄",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[단독] 종합특검, 'HID 북파 훈련' 의혹 속초서 현장 검증' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[단독] 종합특검, 'HID 북파 훈련' 의혹 속초서 현장 검증",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6842656_36918.html"
+        },
+        {
+          "title": "종합특검, HID 부대 현장검증…'계엄 전 북파훈련' 실체 확인 나서",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260805202352103"
+        },
+        {
+          "title": "종합특검, '북파 훈련' HID 부대 현장검증…문상호 전 사령관 체포",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/court-prosecution/6250482"
+        }
+      ]
+    },
+    {
+      "id": "주소",
+      "rank": 5,
+      "keyword": "주소",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '고양시, 교차로 길 찾기 쉬워진다...신규 도로명판 231개 설치 완료' (인천일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "고양시, 교차로 길 찾기 쉬워진다...신규 도로명판 231개 설치 완료",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1328924"
+        },
+        {
+          "title": "[군포소식]주소정보시설 일제조사·정비 완료",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1674861/%EA%B5%B0%ED%8F%AC%EC%86%8C%EC%8B%9D%EC%A3%BC%EC%86%8C%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%84%A4-%EC%9D%BC%EC%A0%9C%EC%A1%B0%EC%82%AC%EC%A0%95%EB%B9%84-%EC%99%84%EB%A3%8C-2026"
+        },
+        {
+          "title": "“틀린 도로명주소 바로잡았습니다”…군포시, 관내 주소정보시설 정비 완료",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260805010001669"
+        }
+      ]
+    },
+    {
+      "id": "채리나",
+      "rank": 6,
+      "keyword": "채리나",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '민낯 처음 공개한 채리나 “성형괴물 악플에 상처” 눈물' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "민낯 처음 공개한 채리나 “성형괴물 악플에 상처” 눈물",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20260805/134425603/2"
+        },
+        {
+          "title": "채리나, 31년 만에 민낯 공개 ‘성괴·실패자’ 악플에 눈물 펑펑 (뷰티 클리닉 터치미)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260805134127526"
+        },
+        {
+          "title": "[예고] 데뷔 31년 만의 첫 민낯 공개! 감춰왔던 채리나의 고민을 해결할 수 있을까?",
+          "source": "채널A",
+          "url": "https://ichannela.com/program/clip/000000543325.do"
+        }
+      ]
+    },
+    {
+      "id": "나는솔로",
+      "rank": 7,
+      "keyword": "나는솔로",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"평생 겪어보지 못한 일\"…모솔男, 첫인상 3표 받고 감격('나는솔로')' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"평생 겪어보지 못한 일\"…모솔男, 첫인상 3표 받고 감격('나는솔로')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260805101127080"
+        },
+        {
+          "title": "33기 모솔남, ‘몰표남’ 등극에 얼떨떨…“평생 겪어보지 못한 일” (나는솔로)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260805/134423049/1"
+        },
+        {
+          "title": "‘나는 솔로’ 33기 초강력 등장, 여자보다 수학이 좋았던 모솔남",
+          "source": "데일리스포츠한국",
+          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432207"
+        }
+      ]
+    },
+    {
+      "id": "fa컵",
+      "rank": 8,
+      "keyword": "fa컵",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '2026-27 FA Cup Fixture Finder Map' (TheFA.com) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "2026-27 FA Cup Fixture Finder Map",
+          "source": "TheFA.com",
+          "url": "https://www.thefa.com/news/2026/aug/03/emirates-fa-cup-fixture-finder-map-2025-26-season"
+        },
+        {
+          "title": "When is the FA Cup final 2027? Wembley date and kick-off time",
+          "source": "Paddy Power",
+          "url": "https://news.paddypower.com/football/2026/08/05/fa-cup-final-2027-wembley-date-kick-off-time/"
+        },
+        {
+          "title": "Thai footballer killed in lighting strike during match in Narathiwat province; Malaysian among 12 others injured",
+          "source": "CNA",
+          "url": "https://www.channelnewsasia.com/asia/malaysia-thai-footballer-died-lightning-strike-sungai-golok-6300346"
+        }
+      ]
+    },
+    {
+      "id": "덕분",
+      "rank": 9,
+      "keyword": "덕분",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'K기업과 초밀착…머스크, 한국 찾나' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "K기업과 초밀착…머스크, 한국 찾나",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026080447761"
+        },
+        {
+          "title": "HBM 초호황에도 성장세 꺾인 한미반도체…하이브리드본더 전환 시험대 [재무포커스]",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20075671"
+        },
+        {
+          "title": "머스크, 테슬라 실적 발표 절반이 AI·로봇 이야기…정작 매출 70%는 자동차",
+          "source": "AI 매터스",
+          "url": "https://aimatters.co.kr/news-report/47906/"
+        }
+      ]
+    },
+    {
+      "id": "lý-nhã-kỳ",
+      "rank": 10,
+      "keyword": "lý nhã kỳ",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '2 viên kim cương gần 1500 tỷ của Lý Nhã Kỳ' (CafeF) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "2 viên kim cương gần 1500 tỷ của Lý Nhã Kỳ",
+          "source": "CafeF",
+          "url": "https://cafef.vn/2-vien-kim-cuong-gan-1500-ty-cua-ly-nha-ky-18826080414242779.chn"
+        },
+        {
+          "title": "Cuộc sống giàu có, độc thân của Lý Nhã Kỳ ở tuổi 44",
+          "source": "Báo Dân Việt",
+          "url": "https://danviet.vn/cuoc-song-giau-co-doc-than-cua-ly-nha-ky-o-tuoi-44-d1449169.html"
+        },
+        {
+          "title": "Lý Nhã Kỳ hiện tại thế nào: Động thái mới nhất có gì HOT mà đang khiến dân mạng rần rần?",
+          "source": "Ngôi Sao VN",
+          "url": "https://ngoisao.vn/hau-truong/chuyen-lang-sao/ly-nha-ky-hien-tai-the-nao-dong-thai-moi-nhat-co-gi-hot-ma-dang-khien-dan-mang-ran-ran-d489636.html"
         }
       ]
     }
