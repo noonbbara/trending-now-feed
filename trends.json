@@ -1,258 +1,281 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-05T06:08:28.701Z",
+  "updatedAt": "2026-08-05T09:20:21.490Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "lg화학",
+      "id": "민생지원금",
       "rank": 1,
-      "keyword": "lg화학",
-      "volumeLabel": "1000+",
+      "keyword": "민생지원금",
+      "volumeLabel": "20000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] 검찰, ‘석유화학제품 담합’ 압수수색…한화솔루션·엘지화학 등 7곳' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '의령군, 모든 군민 ‘50만 원’ 민생안정지원금' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[단독] 검찰, ‘석유화학제품 담합’ 압수수색…한화솔루션·엘지화학 등 7곳",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1271457.html"
+          "title": "의령군, 모든 군민 ‘50만 원’ 민생안정지원금",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628429"
         },
         {
-          "title": "검찰, 석유화학업계 가격 담합 의혹 압수수색",
-          "source": "MTN 머니투데이방송",
-          "url": "https://news.mtn.co.kr/news-detail/2026080514182680576"
+          "title": "추석 앞두고 또 민생지원금…“1인당 최대 50만원” 어디서 받나",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10830885"
         },
         {
-          "title": "검찰, '전쟁 틈타 PVC 등 담합' 의혹으로 석화업체 7곳 압수수색",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260805060700004"
-        }
-      ]
-    },
-    {
-      "id": "롯데시네마",
-      "rank": 2,
-      "keyword": "롯데시네마",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '롯데시네마, 8월 '롯시픽'·광음시네마 라인업 공개' (뉴스핌) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "롯데시네마, 8월 '롯시픽'·광음시네마 라인업 공개",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260804000395"
-        },
-        {
-          "title": "롯데시네마, 8월 단독 콘텐츠·음향 특화 상영작 라인업 공개",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=202608041123146114204ead0791_12"
-        },
-        {
-          "title": "‘오디세이’→‘귀멸의 칼날: 무한성편’, 롯데시네마 8월 광음시네마 라인업",
-          "source": "싱글리스트",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=756313"
-        }
-      ]
-    },
-    {
-      "id": "형사소송법",
-      "rank": 3,
-      "keyword": "형사소송법",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''수사 검사' 사라졌다‥이젠 경찰에 강력 경고' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'수사 검사' 사라졌다‥이젠 경찰에 강력 경고",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6842458_37012.html"
-        },
-        {
-          "title": "[이진영 칼럼]민주당의 시험에 든 이재명",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Opinion/article/all/20260804/134421697/2"
-        },
-        {
-          "title": "[속보] 李대통령 \"폭염 상황 국가재난 사태로 보고 국민보호 총력\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260804054500001"
-        }
-      ]
-    },
-    {
-      "id": "무기",
-      "rank": 4,
-      "keyword": "무기",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"미군, 사드 미사일 80% 소진…'위험할 정도로 부족' 경고\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"미군, 사드 미사일 80% 소진…'위험할 정도로 부족' 경고\"",
+          "title": "고물가에 1인당 최대 50만원 받는다…지자체별 민생안정지원금 지급 본격화",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260805070849021"
-        },
-        {
-          "title": "美, 이란전서 사드 80% 소진…중·러·북 억지력 약화 우려",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20260805/134423866/1"
-        },
-        {
-          "title": "“美, 장거리 고정밀 미사일 모두 소진...중러 억제 차질 빚나”[이태규의 워싱턴 플레이북]",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20075807"
+          "url": "https://v.daum.net/v/20260804230300240"
         }
       ]
     },
     {
-      "id": "kbo",
+      "id": "정성호",
+      "rank": 2,
+      "keyword": "정성호",
+      "volumeLabel": "10000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '법무부, ‘배임죄 손질’ 추진…정성호 “이 대통령 사법 리스크 우려는 소설”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "법무부, ‘배임죄 손질’ 추진…정성호 “이 대통령 사법 리스크 우려는 소설”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260805174009028"
+        },
+        {
+          "title": "업무보고 참석한 정성호 장관",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260805_0021389517"
+        },
+        {
+          "title": "“‘숲’ 보던 마약수사, 다시 나무만 보게 될 것”",
+          "source": "법률신문",
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=224233"
+        }
+      ]
+    },
+    {
+      "id": "테슬라",
+      "rank": 3,
+      "keyword": "테슬라",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '테슬라 '카메라 모듈' 공급 싹쓸이에…삼성전기·LG이노텍 동반 급등' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "테슬라 '카메라 모듈' 공급 싹쓸이에…삼성전기·LG이노텍 동반 급등",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608056518i"
+        },
+        {
+          "title": "[오늘의 주목주] '반도체 투심 회복' 삼성전기 주가 14%대 상승, 코스피 외국인 매수에 6590선 상승 마감",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444049"
+        },
+        {
+          "title": "삼성전기·LG이노텍 동반 14% 급등…AI 부품 랠리 재시동[핫종목]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/finance/general-stock/6250168"
+        }
+      ]
+    },
+    {
+      "id": "부모",
+      "rank": 4,
+      "keyword": "부모",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '부모 외출한 사이 여동생에 '몹쓸 짓'…20대 남성 징역 5년' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "부모 외출한 사이 여동생에 '몹쓸 짓'…20대 남성 징역 5년",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804145334285"
+        },
+        {
+          "title": "“친동생을 성욕 해소 수단으로” 부모 외출한 틈 성폭행한 20대男… 실형 받자 ‘항소’",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/society/law/2026/08/05/20260805500010"
+        },
+        {
+          "title": "부모 집 비우자 여동생에 ‘몹쓸 짓’…징역 5년 받은 20대 항소",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260804070452530"
+        }
+      ]
+    },
+    {
+      "id": "쿠데타",
       "rank": 5,
-      "keyword": "kbo",
+      "keyword": "쿠데타",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '2 baseball games canceled due to severe heat' (The Korea Times) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '李 “육사 세번의 쿠데타, 책임 물은적 있나…그냥 넘길 일 아냐”' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "2 baseball games canceled due to severe heat",
-          "source": "The Korea Times",
-          "url": "https://www.koreatimes.co.kr/sports/20260804/2-baseball-games-canceled-due-to-severe-heat"
+          "title": "李 “육사 세번의 쿠데타, 책임 물은적 있나…그냥 넘길 일 아냐”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260805122249846"
         },
         {
-          "title": "KIA, KT Managers Share Heatwave, Schedule Concerns",
+          "title": "“쿠데타 또 할 수도 있잖아요”…‘육사 카르텔’ 직격한 이 대통령 [지금뉴스]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8629254"
+        },
+        {
+          "title": "\"육사 쿠데타 책임 물은적 없어\"... 사관학교 통합에 힘실은 李",
           "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/08/05/HAIKTX4WHVHBXHQSZRNOST5FKQ/"
-        },
-        {
-          "title": "[Photo] \"Hot weather, take a short rest behind the clouds\"",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/en/sports/2026/08/04/2026080419214949211"
+          "url": "https://www.chosun.com/politics/politics_general/2026/08/05/GWAS5S7L4NAQLFZAYMPALJD63Y/"
         }
       ]
     },
     {
-      "id": "대탈출",
+      "id": "만평",
       "rank": 6,
-      "keyword": "대탈출",
+      "keyword": "만평",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"대통령 말 믿고 일찍 팔았는데 수천만원 손해\" …양도세 중과 한시 완화에 민심 '부글부글'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"대통령 말 믿고 일찍 팔았는데 수천만원 손해\" …양도세 중과 한시 완화에 민심 '부글부글'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260805094449604"
+        },
+        {
+          "title": "재정학계 \"부동산 세제, 정책목표 불분명…보유세는 '프랑스식 부유세\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/08/05/2026080516022965776"
+        },
+        {
+          "title": "‘세컨드홈’ 특례 광역시 전체로 확대해야 ‘인구유입’ 가능하다",
+          "source": "영남일보",
+          "url": "https://www.yeongnam.com/web/view.php?key=20260804020190189"
+        }
+      ]
+    },
+    {
+      "id": "솔리다임",
+      "rank": 7,
+      "keyword": "솔리다임",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[단독] SK하이닉스 美 자회사 솔리다임, 프리 IPO 추진' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[단독] SK하이닉스 美 자회사 솔리다임, 프리 IPO 추진",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608056378i"
+        },
+        {
+          "title": "솔리다임 5조 프리IPO설, SK하이닉스 \"확정된 사항 없다\"",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260805001468"
+        }
+      ]
+    },
+    {
+      "id": "블랙록",
+      "rank": 8,
+      "keyword": "블랙록",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '스테이블코인 준비금이 '새 먹거리'…블랙록, 운용시장 선점 경쟁 가세' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "스테이블코인 준비금이 '새 먹거리'…블랙록, 운용시장 선점 경쟁 가세",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804165355099"
+        },
+        {
+          "title": "블랙록, 유럽서 445조원 규모 MMF 토큰 출시",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05159446645544040"
+        },
+        {
+          "title": "블랙록, 토큰화 MMF 'BSTBL·BRSRV' 출시…스테이블코인 준비자산 시장 공략",
+          "source": "시사매거진",
+          "url": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=528506"
+        }
+      ]
+    },
+    {
+      "id": "스콧-베선트",
+      "rank": 9,
+      "keyword": "스콧 베선트",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''대탈출' 새 시즌에 김종민·신동 복귀…승관 합류' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"코스피 10% 폭락\" 2년 전 악몽 생각나...엔캐리 청산 재현 우려 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'대탈출' 새 시즌에 김종민·신동 복귀…승관 합류",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026080510285068419"
-        },
-        {
-          "title": "강호동 빠진 ‘대탈출’…김종민·신동 복귀→고경표·승관 합류",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260805/134424212/1"
-        },
-        {
-          "title": "'대탈출' 김종민·신동 컴백, 승관 합류…하반기 공개",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260805000375"
-        }
-      ]
-    },
-    {
-      "id": "바나나킥-아기",
-      "rank": 7,
-      "keyword": "바나나킥 아기",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[영상] \"에휴우\" 과자 제지하자 한숨 '바나나킥 아기'에…농심, 깜짝 선물' (네이트) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[영상] \"에휴우\" 과자 제지하자 한숨 '바나나킥 아기'에…농심, 깜짝 선물",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260805n13265"
-        },
-        {
-          "title": "\"치명적 귀여움\" 바나나킥 먹으려다 머쓱…아기가 받은 특별 선물 - 머니투데이",
+          "title": "\"코스피 10% 폭락\" 2년 전 악몽 생각나...엔캐리 청산 재현 우려 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/05/2026080510402126215"
+          "url": "https://www.mt.co.kr/stock/2026/08/05/2026080515001117727"
         },
         {
-          "title": "엄마 몰래 바나나킥 먹다 들킨 아기…농심도 움직인 '머쓱 표정'",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026080514095581001"
+          "title": "美 \"원화도 흔들리면 안 된다\"…환율정책, 엔화 넘어 아시아로",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260805104645904"
+        },
+        {
+          "title": "미국도 엔캐리 청산은 싫어. 왜?",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/stock-finance/2026/08/05/7ZX63GTJZZGRXNERR2NATMHL3A/"
         }
       ]
     },
     {
-      "id": "홍진영",
-      "rank": 8,
-      "keyword": "홍진영",
+      "id": "송영길",
+      "rank": 10,
+      "keyword": "송영길",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '홍진영, 수산시장서 소탈한 '파란 민소매'…\"1일1식으로 관리\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '김민석 후보, 송영길 후보의 조희대 대법원장 탄핵 추진에 ‘공감’' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "홍진영, 수산시장서 소탈한 '파란 민소매'…\"1일1식으로 관리\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260804_0003735148"
-        },
-        {
-          "title": "홍진영, 폭염 뚫고 '생새우 먹방' 펼쳤다…\"안 먹으려고 참다참다가\" [MHN:피드]",
+          "title": "김민석 후보, 송영길 후보의 조희대 대법원장 탄핵 추진에 ‘공감’",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260804174149057"
+          "url": "https://v.daum.net/v/20260805135002828"
         },
         {
-          "title": "‘똥배·임신설’ 풀더니…홍진영, 날것 참다 결국 생새우 한입",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12115892"
-        }
-      ]
-    },
-    {
-      "id": "하원미",
-      "rank": 9,
-      "keyword": "하원미",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''美5500평 대저택' 하원미, 세상 다 가졌네..추신수 똑닮은 아들에 흐뭇' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'美5500평 대저택' 하원미, 세상 다 가졌네..추신수 똑닮은 아들에 흐뭇",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804203056640"
+          "title": "송영길, “헌정질서 유린한 조희대 탄핵···민주국가 법복 입을 자격 없어”",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202608051058001"
         },
         {
-          "title": "‘추신수♥’ 하원미, 신발 바꿔신은 둘째 子에 업혔다 “철딱서니 없는 나란 엄마”",
-          "source": "뉴스엔",
-          "url": "https://m.newsen.com/news_view.php?uid=202608041718002310"
-        },
-        {
-          "title": "추신수, 아내 하원미 육아 방식에 입 열었다",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260803n30206?mid=n0100"
+          "title": "송영길 \"당 대표 되면 조희대 탄핵 추진하겠다\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6842522_36911.html"
         }
       ]
     }
