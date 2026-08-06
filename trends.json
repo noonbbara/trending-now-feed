@@ -1,272 +1,272 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-06T07:19:04.788Z",
+  "updatedAt": "2026-08-06T10:12:26.188Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "대통령",
+      "id": "화악산",
       "rank": 1,
-      "keyword": "대통령",
-      "volumeLabel": "20000+",
-      "startedLabel": "4시간 전",
+      "keyword": "화악산",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '가뭄-폭염 대처현황 현장점검 - 사진 | 멀티미디어' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '가평 화악산서 실종 60대, 신고 13시간 만에 숨진 채 발견' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "가뭄-폭염 대처현황 현장점검 - 사진 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=72845&pWise=sub&pWiseSub=D4"
+          "title": "가평 화악산서 실종 60대, 신고 13시간 만에 숨진 채 발견",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608061146011"
         },
         {
-          "title": "李대통령, 폭염 장기화에 행정력 총동원 지시... \"경험못한 극심한 폭염 피해 최소화 노력\"",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=202608061606057987b3279dfb36_12"
-        },
-        {
-          "title": "李 “사실상 국가적 기후 재난 상황…국민생명 최우선”",
+          "title": "가평 화악산 올랐다 실종된 60대, 13시간만에 숨진채 발견",
           "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260806/134431415/1"
+          "url": "https://www.donga.com/news/Society/article/all/20260806/134430948/1"
+        },
+        {
+          "title": "가평 화악산서 등산하다 실종된 60대, 숨진 채 발견",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8630272"
         }
       ]
     },
     {
-      "id": "태국",
+      "id": "비트코인",
       "rank": 2,
-      "keyword": "태국",
-      "volumeLabel": "5000+",
+      "keyword": "비트코인",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[코인시세] 비트코인 6만4천 달러 선 박스권…규제 불확실성·고용 지표 우려' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[코인시세] 비트코인 6만4천 달러 선 박스권…규제 불확실성·고용 지표 우려",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260805095458BTu"
+        },
+        {
+          "title": "글로벌 증시 최고치에도...비트코인 6만4000달러 횡보 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/stock/finance/2026/08/06/WV5PEAVDZNGBRPWJVLJGJT2HXY/"
+        },
+        {
+          "title": "시들해진 美 기관 매수세…비트코인, 6만3000달러대 횡보[코인브리핑]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260805111531454"
+        }
+      ]
+    },
+    {
+      "id": "음문석",
+      "rank": 3,
+      "keyword": "음문석",
+      "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"손녀딸 같아 밥 사주고 싶었어\"…태국 여행객 밥값 6만원 내준 한국 할아버지 [따뜻했슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘호프’ 음문석 “무명 때 하루 5천원 벌어…1년 330일 라면”' (한겨레) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"손녀딸 같아 밥 사주고 싶었어\"…태국 여행객 밥값 6만원 내준 한국 할아버지 [따뜻했슈]",
+          "title": "‘호프’ 음문석 “무명 때 하루 5천원 벌어…1년 330일 라면”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1271726.html"
+        },
+        {
+          "title": "'호프' 음문석, 19년 무명 깬 것은 스스로였다 \"가수·댄서·연기·영화 제작까지\"('유퀴즈')",
           "source": "Daum",
-          "url": "https://v.daum.net/v/XI7p42V7AB"
+          "url": "https://v.daum.net/v/20260806081654284?t=m&x_mn=6a73cd9da2e9ff7ce622a7dd"
         },
         {
-          "title": "\"손녀들 같아서\"…한국 온 태국 관광객 밥값 6만원 계산한 어르신",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6250818"
-        },
-        {
-          "title": "“손녀 같아서 밥 사주는 거야”…식당서 태국 관광객 울린 할아버지",
+          "title": "“父, 죽어도 여한 없다고”…‘호프’ 광기 그 배우, 19년 무명의 눈물",
           "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12118926"
+          "url": "https://www.mk.co.kr/news/culture/12118788"
         }
       ]
     },
     {
-      "id": "테슬라",
-      "rank": 3,
-      "keyword": "테슬라",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '그랜저도 제치고 잘나가는 테슬라' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "그랜저도 제치고 잘나가는 테슬라",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260805204329571"
-        },
-        {
-          "title": "테슬라 1만대 질주…7월 수입차 2대 중 1대는 전기차",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260805121553"
-        },
-        {
-          "title": "7월 수입 승용차 3만976대 신규 등록…전월 대비 18.6%↓",
-          "source": "매일경제TV",
-          "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005894435"
-        }
-      ]
-    },
-    {
-      "id": "이찬원",
+      "id": "현대-투싼",
       "rank": 4,
-      "keyword": "이찬원",
-      "volumeLabel": "2000+",
+      "keyword": "현대 투싼",
+      "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이찬원, 연예계 마당발 맞네…전화 한통에 '韓 최고 걸그룹' 출격 [편스토랑]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"화재·충돌 위험\" 현대·기아·스텔란티스·혼다 51만대 리콜' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이찬원, 연예계 마당발 맞네…전화 한통에 '韓 최고 걸그룹' 출격 [편스토랑]",
+          "title": "\"화재·충돌 위험\" 현대·기아·스텔란티스·혼다 51만대 리콜",
           "source": "Daum",
-          "url": "https://v.daum.net/v/uA9wbDwaDM"
+          "url": "https://v.daum.net/v/20260806060316835"
         },
         {
-          "title": "'술 빚는 윤주모' 윤나라 셰프 \"이찬원의 미래 아내가 부럽다\" 깜짝 발언 (편스토랑) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/08/05/GUZDKOJVMEYDCNRUMY4WENTEMY/"
+          "title": "그랜저 하이브리드 14만1825대·카니발 9만9889대 등 51만여대 ‘리콜’ 실시",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608060730001"
         },
         {
-          "title": "이찬원, 광고만 23개였다…“저도 몰랐는데” 팬 한마디에 깜짝",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260806/134431727/1"
+          "title": "투싼·아반떼·그랜저 등 51만대 자발적 시정조치",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260805_0003736751"
         }
       ]
     },
     {
-      "id": "구윤철",
+      "id": "김정관",
       "rank": 5,
-      "keyword": "구윤철",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '구윤철 \"기초·퇴직연금 개편 방안 조만간 발표\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "구윤철 \"기초·퇴직연금 개편 방안 조만간 발표\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260806038400002"
-        },
-        {
-          "title": "[포토] 비상경제본부회의 회의겸 경제구조혁신 장관회의",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260806085750480"
-        },
-        {
-          "title": "‘증시 안정되고 있다‘ 발언 후 시장은 ’매도 사이트카‘",
-          "source": "매일경제TV",
-          "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005895298"
-        }
-      ]
-    },
-    {
-      "id": "전술-핵무기",
-      "rank": 6,
-      "keyword": "전술 핵무기",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '美, 한국 방어에 핵 꺼내드나…중·러 대비 ‘단거리 전술핵’ 검토' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "美, 한국 방어에 핵 꺼내드나…중·러 대비 ‘단거리 전술핵’ 검토",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260806144907686"
-        },
-        {
-          "title": "“미국, 중·러의 동맹 공격 대비…단거리전술핵 강조 새 전략 논의”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8629991"
-        },
-        {
-          "title": "미국, 한국 방어에 전술핵 꺼내나…'사용 가능한 핵' 전략 검토",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202608060855582833"
-        }
-      ]
-    },
-    {
-      "id": "엘에이-fc",
-      "rank": 7,
-      "keyword": "엘에이 fc",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'CF Monterrey vs. Orlando City enters weather delay' (MLSsoccer.com) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "CF Monterrey vs. Orlando City enters weather delay",
-          "source": "MLSsoccer.com",
-          "url": "https://www.mlssoccer.com/competitions/leagues-cup/news/cf-monterrey-vs-orlando-city-enters-weather-delay"
-        },
-        {
-          "title": "WATCH: Lionel Messi breaks all-time Leagues Cup goalscoring record",
-          "source": "MLSsoccer.com",
-          "url": "https://www.mlssoccer.com/video/watch-lionel-messi-breaks-all-time-leagues-cup-goalscoring-record"
-        },
-        {
-          "title": "WATCH: Lionel Messi ties all-time Leagues Cup goalscoring record",
-          "source": "MLSsoccer.com",
-          "url": "https://www.mlssoccer.com/video/watch-lionel-messi-ties-all-time-leagues-cup-goalscoring-record"
-        }
-      ]
-    },
-    {
-      "id": "인플루언서",
-      "rank": 8,
-      "keyword": "인플루언서",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '용산 거주 일본인 인플루언서, 라이브방송 도중 사망' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "용산 거주 일본인 인플루언서, 라이브방송 도중 사망",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260805145500004"
-        },
-        {
-          "title": "한국 살던 20대 일본인 여성, 틱톡 라이브 도중 숨져…네티즌 추모 행렬",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260805204441586"
-        },
-        {
-          "title": "용산 거주 일본인 인플루언서, SNS 라이브방송 도중 사망",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/incident-accident/6250467"
-        }
-      ]
-    },
-    {
-      "id": "엘에이-fc-vs-과달라하라",
-      "rank": 9,
-      "keyword": "엘에이 fc vs 과달라하라",
+      "keyword": "김정관",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘4경기 연속골’ 손흥민, 북중미 리그스컵 경기에서 침묵… LAFC는 승부차기 승리' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '김정관 “메가특구 주52시간 특례 필요…제도가 일할 의지 꺾어선 안 돼”' (한겨레) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘4경기 연속골’ 손흥민, 북중미 리그스컵 경기에서 침묵… LAFC는 승부차기 승리",
+          "title": "김정관 “메가특구 주52시간 특례 필요…제도가 일할 의지 꺾어선 안 돼”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1271732.html"
+        },
+        {
+          "title": "산업장관 \"주52시간 손봐야…일하려는 의지 막아선 안돼\"(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806183253259"
+        },
+        {
+          "title": "산업장관 \"일하겠다는 의지 막아선 안 돼\"…노동장관과 공개적 시각차",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/08/06/3M6GGMJICJB6ZAELSBVUKJ6CBE/"
-        },
-        {
-          "title": "[전반 REVIEW] '몸놀림 가벼운 손흥민, 날카롭다' LAFC, 부앙가 선제골 후 동점골 허용...리그스컵서 과달라하라와 1-1로 전반 마쳐",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260806123107715"
-        },
-        {
-          "title": "'5G 연속골 무산' 손흥민, 한국 울린 멕시코 GK에 또 막혔다…LAFC는 승부차기 혈투 끝 치바스 제압→승점 2 획득",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260806n17685"
+          "url": "https://www.chosun.com/economy/economy_general/2026/08/06/UJ35ES5RWRC4XJCXJPF2CADIBY/"
         }
       ]
     },
     {
-      "id": "아동수당",
-      "rank": 10,
-      "keyword": "아동수당",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
+      "id": "축협",
+      "rank": 6,
+      "keyword": "축협",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[르포] 극한 폭염 속 사과도 검게 타들어갔다…추석 앞두고 '비상'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[르포] 극한 폭염 속 사과도 검게 타들어갔다…추석 앞두고 '비상'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806135352635"
+        },
+        {
+          "title": "사과도, 포도도 불에 데인 듯…‘일소’ 피해 확대",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8629014"
+        },
+        {
+          "title": "장흥군, 폭염 대응 축산농가 현장점검 실시",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/RPR20260806006400353"
+        }
+      ]
+    },
+    {
+      "id": "입법고시",
+      "rank": 7,
+      "keyword": "입법고시",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[인터뷰] 2026년 입법고시 재경직 수석 최원준 씨 “내가 할 수 있는 노력에 집중”' (법률저널) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[인터뷰] 2026년 입법고시 재경직 수석 최원준 씨 “내가 할 수 있는 노력에 집중”",
+          "source": "법률저널",
+          "url": "https://www.lec.co.kr/news/articleView.html?idxno=752513"
+        },
+        {
+          "title": "입법고시 최종합격자 15명 발표…일반행정 8명·재경 6명·사서 1명",
+          "source": "피앤피뉴스",
+          "url": "https://www.gosiweek.com/article/1065590285406634"
+        },
+        {
+          "title": "[인터뷰] 2026년 입법고시 일반행정 수석 김현지 씨 “최대한 많이, 최대한 논리적으로”",
+          "source": "법률저널",
+          "url": "https://www.lec.co.kr/news/articleView.html?idxno=752521"
+        }
+      ]
+    },
+    {
+      "id": "김택연",
+      "rank": 8,
+      "keyword": "김택연",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“고맙고 미안한 마음” 되찾은 ‘구위’→어린왕자 ‘넘버원 카드’ 거듭나는 중인 김택연 [SS시선집중]' (스포츠서울) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“고맙고 미안한 마음” 되찾은 ‘구위’→어린왕자 ‘넘버원 카드’ 거듭나는 중인 김택연 [SS시선집중]",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1626990"
+        },
+        {
+          "title": "두산의 한탄, 하필 이때 다 몰리냐… 마음 속의 AG 선수 또 있다, 대표보다 더 낫다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731111329676"
+        },
+        {
+          "title": "[포토] 김택연 '감독님 기대 저버리지 않아'",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260802n02485?mid=n1101"
+        }
+      ]
+    },
+    {
+      "id": "경찰대",
+      "rank": 9,
+      "keyword": "경찰대",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": []
+    },
+    {
+      "id": "삼성-갤럭시-z-시리즈",
+      "rank": 10,
+      "keyword": "삼성 갤럭시 z 시리즈",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[박진영의 비즈+] 1030 사로잡은 삼성 폴더블폰…9월 공개 앞둔 애플 묘수는' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[박진영의 비즈+] 1030 사로잡은 삼성 폴더블폰…9월 공개 앞둔 애플 묘수는",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806183003195"
+        },
+        {
+          "title": "[비즈&] 삼성 갤럭시 Z 폴드8·플립8 내일 공식 출시 外",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260806172708i2R"
+        },
+        {
+          "title": "실리콘 카본 배터리, 스마트폰 배터리 혁신 이뤄낼까",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260805161449"
+        }
+      ]
     }
   ]
 }
