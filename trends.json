@@ -1,286 +1,260 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-06T12:28:10.155Z",
+  "updatedAt": "2026-08-06T14:57:25.697Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "이임생",
+      "id": "현대-그랜저",
       "rank": 1,
-      "keyword": "이임생",
+      "keyword": "현대 그랜저",
       "volumeLabel": "20000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"정몽규가 지시\" 새 주장 나왔다…\"내 책임 아니야\" 결국' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[시승기] 리터당 22km 연비에 AI 비서까지...더 완벽해진 현대차 '그랜저 하이브리드'' (글로벌이코노믹) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"정몽규가 지시\" 새 주장 나왔다…\"내 책임 아니야\" 결국",
+          "title": "[시승기] 리터당 22km 연비에 AI 비서까지...더 완벽해진 현대차 '그랜저 하이브리드'",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Industry/2026/08/20260805145723698831a5c2dd38_1"
+        },
+        {
+          "title": "4393만원 신형 그랜저 LPG, ‘깡통 사양' 직접 타보니[카미경]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/5UuE0ChDFb"
+          "url": "https://v.daum.net/v/9qt7BEDgGN"
         },
         {
-          "title": "유력인 수사 하세월이더니... 홍명보·스타벅스 수사 속도내는 경찰",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/08/06/JOF7U7TP75BNZF5FWEPNST6LXQ/"
-        },
-        {
-          "title": "월드컵 졸전·국회 청문회·압수수색까지...'쑥대밭' 된 축구협회",
-          "source": "YTN",
-          "url": "https://m.ytn.co.kr/news_view.php?key=202608061852252266&s_mcd=0107"
+          "title": "[시승기] 신형 그랜저 하이브리드, 이전 모델과 완전히 달라졌다⋯ 핵심 변화는?",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260804500727"
         }
       ]
     },
     {
-      "id": "치지직",
+      "id": "양육비",
       "rank": 2,
-      "keyword": "치지직",
-      "volumeLabel": "10000+",
-      "startedLabel": "2시간 전",
+      "keyword": "양육비",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이터널 리턴 긴급 사과방송 “갬빗, 다이아 이하에만 적용”' (게임메카) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘월 7000만원’ 벌다가 이혼 후 ‘수입 0원’…‘카페 알바’로 딸 양육비 버는 女유튜버' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이터널 리턴 긴급 사과방송 “갬빗, 다이아 이하에만 적용”",
-          "source": "게임메카",
-          "url": "https://www.gamemeca.com/view.php?gid=1778755"
-        },
-        {
-          "title": "치지직 공식 이터널 리턴 대회, ‘치지직 오픈컵’ 개최",
-          "source": "게임플",
-          "url": "https://www.gameple.co.kr/news/articleView.html?idxno=216197"
-        },
-        {
-          "title": "이터널 리턴 “부족한 모습 보여드려 죄송합니다”",
-          "source": "게임톡",
-          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=110427"
-        }
-      ]
-    },
-    {
-      "id": "초과근무",
-      "rank": 3,
-      "keyword": "초과근무",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '근무하지도 않았는데…월 50시간 초과근무수당 챙긴 현직 경찰관들' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "근무하지도 않았는데…월 50시간 초과근무수당 챙긴 현직 경찰관들",
+          "title": "‘월 7000만원’ 벌다가 이혼 후 ‘수입 0원’…‘카페 알바’로 딸 양육비 버는 女유튜버",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260806104450112"
+          "url": "https://v.daum.net/v/20260806123309735?f=p"
         },
         {
-          "title": "초과근무 부당 수령 현직 경찰관 2명, 검찰 송치(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260806025851054"
-        },
-        {
-          "title": "[속보] 매달 100시간 초과근무 신청…기록 조작해 수당 받아챙긴 현직 경찰관 2명 송치",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260806.99099001418"
-        }
-      ]
-    },
-    {
-      "id": "김건희",
-      "rank": 4,
-      "keyword": "김건희",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[시선집중] 윤건영 “김건희, 尹 생일잔치에 반려견 데려와. 김대기 실장이 행사 내내 반려견 케어”' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[시선집중] 윤건영 “김건희, 尹 생일잔치에 반려견 데려와. 김대기 실장이 행사 내내 반려견 케어”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260806095657261"
-        },
-        {
-          "title": "특검 “용산에 10억 들인 ‘김건희 집무실’ 있었다”",
+          "title": "최고 월수입 7천만원→0원…유깻잎, 양육비 위해 '열일' 씩씩한 엄마",
           "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/08/05/3P3QUP3V7NEETIWMW4CF2O4WKI/"
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/06/GFRTKYTBHA2GKYZRGFQWKNJSMQ/"
         },
         {
-          "title": "\"尹정부 초기 대통령실에 김건희 집무실\"…특검, 진술 확보",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260805103400004"
+          "title": "'수입 0원' 유깻잎, 이혼 후 남친 생기더니 건강 관리까지 [IS하이컷]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260806n15513?mid=e1100"
         }
       ]
     },
     {
-      "id": "세계일보",
-      "rank": 5,
-      "keyword": "세계일보",
+      "id": "폐암",
+      "rank": 3,
+      "keyword": "폐암",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'KNN 쇼트폼 다큐 ‘오래된 미래’… TV 지역 부문 이달의 PD상 수상' (세계일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '19년 무명·330일 라면·아버지 그리움…음문석, 눈물의 삶' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "KNN 쇼트폼 다큐 ‘오래된 미래’… TV 지역 부문 이달의 PD상 수상",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260806519621?OutUrl=google"
-        },
-        {
-          "title": "\"'AI 드라마-부활수업', 기술적 실험 넘어 가치 담고파\"",
-          "source": "PD저널",
-          "url": "https://www.pdjournal.com/news/articleView.html?idxno=90058"
-        },
-        {
-          "title": "[단독] 종합특검 '통일교 수사 무마 의혹' 관련 세계일보 전 부회장 조사",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6842588_36918.html"
-        }
-      ]
-    },
-    {
-      "id": "징역형",
-      "rank": 6,
-      "keyword": "징역형",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘민주당 돈봉투 의혹’ 송영길 전 보좌관, 대법서 징역형 확정' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘민주당 돈봉투 의혹’ 송영길 전 보좌관, 대법서 징역형 확정",
+          "title": "19년 무명·330일 라면·아버지 그리움…음문석, 눈물의 삶",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260806123127718"
+          "url": "https://v.daum.net/v/yPRCphlwDB"
         },
         {
-          "title": "'정치자금법 위반' 송영길의 전 보좌관, 대법서 징역형 확정",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260806059900004"
+          "title": "[SC인터뷰] \"우리 집에 있대니께유\"…'호프' 음문석, 나홍진이 '픽'하고 봉준호가 '샤라웃'한 남자(종합)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/movie/2026/08/06/GA3WCN3GHEZDONBRMEYDSYTGGY/"
         },
         {
-          "title": "‘민주당 돈봉투 의혹’ 송영길 前보좌관, 징역 1년 2개월 확정",
+          "title": "음문석 “꿈에서도 가지 말라 붙잡았다”…아버지 임종 떠올리며 눈물",
           "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260806/134430303/1"
+          "url": "https://www.donga.com/news/Culture/article/all/20260806/134431348/2"
         }
       ]
     },
     {
-      "id": "재판",
-      "rank": 7,
-      "keyword": "재판",
+      "id": "코로나-바이러스",
+      "rank": 4,
+      "keyword": "코로나 바이러스",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '박나래 전 매니저 2명 재판행…협박·회삿돈 횡령 혐의' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[사이언스샷] 코로나가 깨웠다, 잠복 바이러스가 중증 유발' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "박나래 전 매니저 2명 재판행…협박·회삿돈 횡령 혐의",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260806135200004"
+          "title": "[사이언스샷] 코로나가 깨웠다, 잠복 바이러스가 중증 유발",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/science-chosun/medicine-health/2026/08/06/GVMJW6OYBVBVZMKRZGFYGI54XY/"
         },
         {
-          "title": "’매출 10% 요구’ 박나래 전 매니저 2명 기소",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260806210400vfA"
+          "title": "코로나19가 깨뜨린 체내 바이러스 균형…잠복 바이러스 재활성화 확인",
+          "source": "ABC뉴스",
+          "url": "https://www.abcn.kr/news/articleView.html?idxno=90205"
         },
         {
-          "title": "박나래에게 “사생활 폭로하겠다”…매출 10% 요구한 전 매니저 2명 기소",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1271736.html"
+          "title": "진원생명과학, '코로나19 DNA 백신 플랫폼' 美 특허 확보",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260806000912"
         }
       ]
     },
     {
-      "id": "안재현",
-      "rank": 8,
-      "keyword": "안재현",
+      "id": "가사-도우미",
+      "rank": 5,
+      "keyword": "가사 도우미",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''끼리끼리' 해남 여행…보양먹방부터 쇼핑까지 '꽉 채운 하루'' (전자신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'끼리끼리' 해남 여행…보양먹방부터 쇼핑까지 '꽉 채운 하루'",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260806000027"
-        },
-        {
-          "title": "‘끼리끼리’ 안재현, 여행 시작부터 위기 조성?",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608052107003"
-        },
-        {
-          "title": "김풍, 전립선염 치료 고백… \"걸리면 안 되는 병, 진찰 과정 너무 치욕\" ('끼리끼리')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260805215507939"
-        }
-      ]
+      "newsSignals": []
     },
     {
-      "id": "키이우",
-      "rank": 9,
-      "keyword": "키이우",
+      "id": "이수",
+      "rank": 6,
+      "keyword": "이수",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '빌어도 뒤쫓아가 '쾅'…\"그냥 야채인데\" 온몸 파편상' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '이수, 하반기 장기 프로젝트 돌입…첫 여름 단독 콘서트·정규 컴백' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "빌어도 뒤쫓아가 '쾅'…\"그냥 야채인데\" 온몸 파편상",
+          "title": "이수, 하반기 장기 프로젝트 돌입…첫 여름 단독 콘서트·정규 컴백",
           "source": "Daum",
-          "url": "https://v.daum.net/v/2iTDsrmj7a"
+          "url": "https://v.daum.net/v/Q6rMA0pXGa"
         },
         {
-          "title": "러 미사일 모두 놓친 우크라···“동맹국 방공망 지원 지난해 30% 수준”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608060738001"
+          "title": "엠씨더맥스 이수, 하반기 신곡·콘서트·정규앨범 잇는 프로젝트 시작",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260806000119"
         },
         {
-          "title": "채소 상인에 '펑' 자폭드론이 쫓아온다‥민간인 노린 드론 난타전",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6842697_37004.html"
+          "title": "이수, 8년 만에 정규 발매…첫 여름콘서트도 개최",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11607622"
         }
       ]
     },
     {
-      "id": "장기하",
-      "rank": 10,
-      "keyword": "장기하",
+      "id": "마테우스-누네스",
+      "rank": 7,
+      "keyword": "마테우스 누네스",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '아이유, 장기하 '별일 없이 산다' 선곡…쿨한 일상 공개' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[현장핫피플] \"'탑 플레이어' 이강인, 더 뛰어도 좋을 것 같다…상대하는 건 좋은 경험\" 아틀레티코전 앞둔 누네스, LEE 향…' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "아이유, 장기하 '별일 없이 산다' 선곡…쿨한 일상 공개",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260806_0003739234"
+          "title": "[현장핫피플] \"'탑 플레이어' 이강인, 더 뛰어도 좋을 것 같다…상대하는 건 좋은 경험\" 아틀레티코전 앞둔 누네스, LEE 향해 '호평'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806184737580"
         },
         {
-          "title": "'이종석과 결별' 아이유, SNS엔 전남친 장기하 곡…팬들 '깜짝' - 머니투데이",
+          "title": "맨시티 누네스 “이강인은 탑 플레이어, 황희찬은 ‘퍼니가이’”",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1675527/%EB%A7%A8%EC%8B%9C%ED%8B%B0-%EB%88%84%EB%84%A4%EC%8A%A4-%E2%80%9C%EC%9D%B4%EA%B0%95%EC%9D%B8-%ED%83%91-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4-2026"
+        },
+        {
+          "title": "\"골키퍼로 세워도 최선 다할 것\"···맨시티 누네스, 주전 경쟁 각오 [인터뷰]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260806n30773?mid=n1101"
+        }
+      ]
+    },
+    {
+      "id": "무역",
+      "rank": 8,
+      "keyword": "무역",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '영원무역, 국내 섬유장비 도입 확대…100억원 규모 환편기 계약 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "영원무역, 국내 섬유장비 도입 확대…100억원 규모 환편기 계약 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/06/2026080617464560128"
+          "url": "https://www.mt.co.kr/living/2026/08/06/2026080615440887980"
         },
         {
-          "title": "아이유, 근황 게시물에 ‘전 연인’ 장기하 노래 넣었다…“쿨하다” 화제",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608061550003"
+          "title": "영원무역, 삼에스기계 환편기 180대 구입 계약",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608068727i"
+        },
+        {
+          "title": "영원무역, 글로벌 생산기지에 환편기 180대 도입…100억원 규모",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026080615023639671"
+        }
+      ]
+    },
+    {
+      "id": "트로이-전쟁",
+      "rank": 9,
+      "keyword": "트로이 전쟁",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '트로이 목마 교훈과 호남반도체 성패[시평]' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "트로이 목마 교훈과 호남반도체 성패[시평]",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11607069"
+        }
+      ]
+    },
+    {
+      "id": "지승현",
+      "rank": 10,
+      "keyword": "지승현",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '영탁, 지승현 노래 듣다 녹음 중단 선언 (편스토랑) - 스타투데이' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "영탁, 지승현 노래 듣다 녹음 중단 선언 (편스토랑) - 스타투데이",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12117821"
+        },
+        {
+          "title": "\"팬이 내 여자\" 영탁, 결혼운과 맞바꾼 '일복' 화제..열일 행보ing - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/06/G43DOMZQMQYTCMJYMU2TKZTGMY/"
+        },
+        {
+          "title": "\"결혼운 있나요?\"… 영탁, 무속인에 '사주팔자' 물어보며 기대감 증폭→현장 '술렁' ('편스토랑')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806161244738"
         }
       ]
     }
