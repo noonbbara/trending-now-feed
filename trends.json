@@ -1,288 +1,272 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-06T04:20:13.763Z",
+  "updatedAt": "2026-08-06T07:19:04.788Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "아침",
+      "id": "대통령",
       "rank": 1,
-      "keyword": "아침",
+      "keyword": "대통령",
+      "volumeLabel": "20000+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '가뭄-폭염 대처현황 현장점검 - 사진 | 멀티미디어' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "가뭄-폭염 대처현황 현장점검 - 사진 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=72845&pWise=sub&pWiseSub=D4"
+        },
+        {
+          "title": "李대통령, 폭염 장기화에 행정력 총동원 지시... \"경험못한 극심한 폭염 피해 최소화 노력\"",
+          "source": "로이슈",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202608061606057987b3279dfb36_12"
+        },
+        {
+          "title": "李 “사실상 국가적 기후 재난 상황…국민생명 최우선”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20260806/134431415/1"
+        }
+      ]
+    },
+    {
+      "id": "태국",
+      "rank": 2,
+      "keyword": "태국",
+      "volumeLabel": "5000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"손녀딸 같아 밥 사주고 싶었어\"…태국 여행객 밥값 6만원 내준 한국 할아버지 [따뜻했슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"손녀딸 같아 밥 사주고 싶었어\"…태국 여행객 밥값 6만원 내준 한국 할아버지 [따뜻했슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/XI7p42V7AB"
+        },
+        {
+          "title": "\"손녀들 같아서\"…한국 온 태국 관광객 밥값 6만원 계산한 어르신",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6250818"
+        },
+        {
+          "title": "“손녀 같아서 밥 사주는 거야”…식당서 태국 관광객 울린 할아버지",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/society/12118926"
+        }
+      ]
+    },
+    {
+      "id": "테슬라",
+      "rank": 3,
+      "keyword": "테슬라",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[김현아의 아는 맛] 아침밥에 진심인 버거집들…'모닝' 공들이는 이유' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '그랜저도 제치고 잘나가는 테슬라' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[김현아의 아는 맛] 아침밥에 진심인 버거집들…'모닝' 공들이는 이유",
+          "title": "그랜저도 제치고 잘나가는 테슬라",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260805173833961"
+          "url": "https://v.daum.net/v/20260805204329571"
         },
         {
-          "title": "\"아침 안 먹는 거 아니었어?\"…광고 스타일 바꾸자 매출 5배 뛴 버거킹",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026080415333608767"
-        },
-        {
-          "title": "“간단하게 한 끼”…햄버거업계, 아침 시장 경쟁 본격화",
-          "source": "아시아타임즈",
-          "url": "https://www.asiatime.co.kr/article/20260804500154"
-        }
-      ]
-    },
-    {
-      "id": "말복",
-      "rank": 2,
-      "keyword": "말복",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''말복에는 해남 전복' 특별전…1㎏ 사면 2㎏ 준다' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'말복에는 해남 전복' 특별전…1㎏ 사면 2㎏ 준다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260805134131529"
-        },
-        {
-          "title": "해남군, 말복 맞아 전복 1+1 특별전…최대 4kg까지 혜택",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/region/article/all/20260805/134425161/1"
-        },
-        {
-          "title": "“말복엔 해남 전복”해남군 말복맞이 전복 1+1 특별전",
-          "source": "메트로신문",
-          "url": "https://www.metroseoul.co.kr/article/20260805500313"
-        }
-      ]
-    },
-    {
-      "id": "lafc-vs-guadalajara",
-      "rank": 3,
-      "keyword": "lafc vs guadalajara",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Captain Son Heung-min Seeks Fifth Straight Goal in Leagues Cup' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Captain Son Heung-min Seeks Fifth Straight Goal in Leagues Cup",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/08/06/NJMSQLOCV5CWLGUYZRJIKQ7WBU/"
-        },
-        {
-          "title": "Preview | LAFC vs. Chivas de Guadalajara - Leagues Cup 2026 - Phase One",
-          "source": "Los Angeles Football Club",
-          "url": "https://www.lafc.com/news/preview-lafc-vs-chivas-de-guadalajara-2026-leagues-cup-phase-one-august-5"
-        },
-        {
-          "title": "MLS: Leagues Cup Phase One-CD Guadalajara at LAFC",
-          "source": "The Lufkin Daily News",
-          "url": "https://lufkindailynews.com/news_reuters/sports/mls-leagues-cup-phase-one-cd-guadalajara-at-lafc/image_f54b3685-fcaa-5464-a24f-1c1b7971caee.html"
-        }
-      ]
-    },
-    {
-      "id": "태양광-발전",
-      "rank": 4,
-      "keyword": "태양광 발전",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '해남에 전국 최대 태양광 들어선다…1500억 수익 지역주민과 공유 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "해남에 전국 최대 태양광 들어선다…1500억 수익 지역주민과 공유 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/economy/2026/08/06/2026080610594758201"
-        },
-        {
-          "title": "국내 최대 400MW 해남 태양광단지 착공…2028년 준공 목표",
-          "source": "기후에너지데이터뱅크",
-          "url": "https://edata.ekn.kr/article/view/ekn202608060003"
-        },
-        {
-          "title": "국내 최대 400㎿ 해남 태양광단지 착공…RE100 전력공급·지역상생 '시동'",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260806000162"
-        }
-      ]
-    },
-    {
-      "id": "무죄",
-      "rank": 5,
-      "keyword": "무죄",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '함께 술 마신 친구 질식사…폭행치사 혐의 30대 무죄' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "함께 술 마신 친구 질식사…폭행치사 혐의 30대 무죄",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260805161810178"
-        },
-        {
-          "title": "친구끼리 만취 몸싸움, 1명 숨졌다…\"사고일 수도\" 법원은 '무죄' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/05/2026080516550755621"
-        },
-        {
-          "title": "함께 술 먹은 초등 동창 질식사…폭행치사 혐의 30대 무죄",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260805103900065"
-        }
-      ]
-    },
-    {
-      "id": "윤건영",
-      "rank": 6,
-      "keyword": "윤건영",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '李 대통령 '부정 평가' 일주일새 4.9%p 상승 … 20대 '긍정 평가' 18.8%p 폭락' (뉴데일리) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "李 대통령 '부정 평가' 일주일새 4.9%p 상승 … 20대 '긍정 평가' 18.8%p 폭락",
-          "source": "뉴데일리",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/08/06/2026080600031.html"
-        },
-        {
-          "title": "[속보]李지지 47.7%…20대 지지율 18%p 폭락-미디어토마토",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11607594"
-        },
-        {
-          "title": "김영진, 與전대 과열에 “두번의 분당, 반면교사 삼아야”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260806/134429829/1"
-        }
-      ]
-    },
-    {
-      "id": "그늘로",
-      "rank": 7,
-      "keyword": "그늘로",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“출근길 땡볕 고통에서 해방”…서울대생이 살렸다? [잇슈#태그]' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“출근길 땡볕 고통에서 해방”…서울대생이 살렸다? [잇슈#태그]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8630214"
-        },
-        {
-          "title": "\"집이 경기도라\" 땀 뻘뻘…서울대생 만든 앱 '인기'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260805203631414"
-        },
-        {
-          "title": "(기자의눈) ‘그늘로’ 찾는 시대, 그늘 없는 사람들의 기후재난",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=371001"
-        }
-      ]
-    },
-    {
-      "id": "정보사령부",
-      "rank": 8,
-      "keyword": "정보사령부",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '종합특검, '계엄 직전 정보사 북파훈련' 속초 HID 부대 현장검증' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "종합특검, '계엄 직전 정보사 북파훈련' 속초 HID 부대 현장검증",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260805152100004"
-        },
-        {
-          "title": "종합특검, '북풍 공작' 문상호 지난 3일 체포해 조사…현장검증도",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260805_0003738094"
-        },
-        {
-          "title": "특검, '정보사 외환 의혹' HID 부대 현장검증 실시",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2611497"
-        }
-      ]
-    },
-    {
-      "id": "알렉산드라-에알라",
-      "rank": 9,
-      "keyword": "알렉산드라 에알라",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘테니스 아이돌’ 이알라, 감격의 첫 우승' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘테니스 아이돌’ 이알라, 감격의 첫 우승",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/08/05/LI4XTM7SPJEZJIDCPF5CGQKPQ4/"
-        },
-        {
-          "title": "이알라, 워싱턴오픈 테니스 정상…필리핀인으로 WTA 단식 첫 우승",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804105108083?f=p"
-        },
-        {
-          "title": "\"마침내 파퀴아오급 국민 영웅의 탄생\"...세계 랭킹 3위 꺾은 '초신성' 이알라, WTA 우승, 필리핀 역사상 첫 쾌거",
-          "source": "스포탈코리아",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553431287"
-        }
-      ]
-    },
-    {
-      "id": "사업",
-      "rank": 10,
-      "keyword": "사업",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '카카오 \"AI 수익화 내년부터...카톡서 '쿠팡이츠' 음식주문·결제 추진\"' (지디넷코리아) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "카카오 \"AI 수익화 내년부터...카톡서 '쿠팡이츠' 음식주문·결제 추진\"",
+          "title": "테슬라 1만대 질주…7월 수입차 2대 중 1대는 전기차",
           "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260806094507"
+          "url": "https://zdnet.co.kr/view/?no=20260805121553"
         },
         {
-          "title": "카카오, 2026년 2분기 매출액 2조 985억원-영업이익 2,770억원 기록",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=711532"
-        },
-        {
-          "title": "게임·헬스케어 빠진 카카오, 2분기 성적표는?(종합)",
-          "source": "디지털데일리",
-          "url": "https://www.ddaily.co.kr/page/view/2026080608330917320"
+          "title": "7월 수입 승용차 3만976대 신규 등록…전월 대비 18.6%↓",
+          "source": "매일경제TV",
+          "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005894435"
         }
       ]
+    },
+    {
+      "id": "이찬원",
+      "rank": 4,
+      "keyword": "이찬원",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이찬원, 연예계 마당발 맞네…전화 한통에 '韓 최고 걸그룹' 출격 [편스토랑]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이찬원, 연예계 마당발 맞네…전화 한통에 '韓 최고 걸그룹' 출격 [편스토랑]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/uA9wbDwaDM"
+        },
+        {
+          "title": "'술 빚는 윤주모' 윤나라 셰프 \"이찬원의 미래 아내가 부럽다\" 깜짝 발언 (편스토랑) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/08/05/GUZDKOJVMEYDCNRUMY4WENTEMY/"
+        },
+        {
+          "title": "이찬원, 광고만 23개였다…“저도 몰랐는데” 팬 한마디에 깜짝",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260806/134431727/1"
+        }
+      ]
+    },
+    {
+      "id": "구윤철",
+      "rank": 5,
+      "keyword": "구윤철",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '구윤철 \"기초·퇴직연금 개편 방안 조만간 발표\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "구윤철 \"기초·퇴직연금 개편 방안 조만간 발표\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260806038400002"
+        },
+        {
+          "title": "[포토] 비상경제본부회의 회의겸 경제구조혁신 장관회의",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806085750480"
+        },
+        {
+          "title": "‘증시 안정되고 있다‘ 발언 후 시장은 ’매도 사이트카‘",
+          "source": "매일경제TV",
+          "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005895298"
+        }
+      ]
+    },
+    {
+      "id": "전술-핵무기",
+      "rank": 6,
+      "keyword": "전술 핵무기",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '美, 한국 방어에 핵 꺼내드나…중·러 대비 ‘단거리 전술핵’ 검토' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "美, 한국 방어에 핵 꺼내드나…중·러 대비 ‘단거리 전술핵’ 검토",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806144907686"
+        },
+        {
+          "title": "“미국, 중·러의 동맹 공격 대비…단거리전술핵 강조 새 전략 논의”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8629991"
+        },
+        {
+          "title": "미국, 한국 방어에 전술핵 꺼내나…'사용 가능한 핵' 전략 검토",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202608060855582833"
+        }
+      ]
+    },
+    {
+      "id": "엘에이-fc",
+      "rank": 7,
+      "keyword": "엘에이 fc",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'CF Monterrey vs. Orlando City enters weather delay' (MLSsoccer.com) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "CF Monterrey vs. Orlando City enters weather delay",
+          "source": "MLSsoccer.com",
+          "url": "https://www.mlssoccer.com/competitions/leagues-cup/news/cf-monterrey-vs-orlando-city-enters-weather-delay"
+        },
+        {
+          "title": "WATCH: Lionel Messi breaks all-time Leagues Cup goalscoring record",
+          "source": "MLSsoccer.com",
+          "url": "https://www.mlssoccer.com/video/watch-lionel-messi-breaks-all-time-leagues-cup-goalscoring-record"
+        },
+        {
+          "title": "WATCH: Lionel Messi ties all-time Leagues Cup goalscoring record",
+          "source": "MLSsoccer.com",
+          "url": "https://www.mlssoccer.com/video/watch-lionel-messi-ties-all-time-leagues-cup-goalscoring-record"
+        }
+      ]
+    },
+    {
+      "id": "인플루언서",
+      "rank": 8,
+      "keyword": "인플루언서",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '용산 거주 일본인 인플루언서, 라이브방송 도중 사망' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "용산 거주 일본인 인플루언서, 라이브방송 도중 사망",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260805145500004"
+        },
+        {
+          "title": "한국 살던 20대 일본인 여성, 틱톡 라이브 도중 숨져…네티즌 추모 행렬",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260805204441586"
+        },
+        {
+          "title": "용산 거주 일본인 인플루언서, SNS 라이브방송 도중 사망",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/incident-accident/6250467"
+        }
+      ]
+    },
+    {
+      "id": "엘에이-fc-vs-과달라하라",
+      "rank": 9,
+      "keyword": "엘에이 fc vs 과달라하라",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘4경기 연속골’ 손흥민, 북중미 리그스컵 경기에서 침묵… LAFC는 승부차기 승리' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘4경기 연속골’ 손흥민, 북중미 리그스컵 경기에서 침묵… LAFC는 승부차기 승리",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/08/06/3M6GGMJICJB6ZAELSBVUKJ6CBE/"
+        },
+        {
+          "title": "[전반 REVIEW] '몸놀림 가벼운 손흥민, 날카롭다' LAFC, 부앙가 선제골 후 동점골 허용...리그스컵서 과달라하라와 1-1로 전반 마쳐",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806123107715"
+        },
+        {
+          "title": "'5G 연속골 무산' 손흥민, 한국 울린 멕시코 GK에 또 막혔다…LAFC는 승부차기 혈투 끝 치바스 제압→승점 2 획득",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260806n17685"
+        }
+      ]
+    },
+    {
+      "id": "아동수당",
+      "rank": 10,
+      "keyword": "아동수당",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
     }
   ]
 }
