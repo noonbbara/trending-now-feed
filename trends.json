@@ -1,286 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-07T11:25:57.680Z",
+  "updatedAt": "2026-08-07T12:24:22.395Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "교도관",
+      "id": "유조선",
       "rank": 1,
-      "keyword": "교도관",
+      "keyword": "유조선",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '조폭 수용자 뇌물받고 불닭 소스 건넨 교도관, 1심 징역 7년' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '유엔 제재 북한 유조선 3척 중국 해역 진입…이례적 위치 노출' (VOA 한국어 홈페이지) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "조폭 수용자 뇌물받고 불닭 소스 건넨 교도관, 1심 징역 7년",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/08/07/NFZSRQHLNNDMHJ77Q5E7Z3J6Y4/"
+          "title": "유엔 제재 북한 유조선 3척 중국 해역 진입…이례적 위치 노출",
+          "source": "VOA 한국어 홈페이지",
+          "url": "https://www.voakorea.com/a/nk-sanctioned-vessels-china-20260806/8183536.html"
         },
         {
-          "title": "수용자에 햄버거·불닭소스 몰래 넣어주고 7천만원 '꿀꺽'…교도관 징역 7년",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260807580250"
+          "title": "北 서해에서 中 어선 연일 포착...\"환적 추정 움직임도\"",
+          "source": "SPN 서울평양뉴스",
+          "url": "https://www.spnews.co.kr/news/articleView.html?idxno=109540"
         },
         {
-          "title": "감방서 햄버거 먹고 나이키 입은 조폭…교도관이 집사였다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260807/134437276/1"
+          "title": "북한 서해서 중국 어선 4척 동시 포착…대북제재 위반 여부 주목",
+          "source": "VOA 한국어 홈페이지",
+          "url": "https://www.voakorea.com/a/nk-china-fishing-080326/8182110.html"
         }
       ]
     },
     {
-      "id": "투표율",
+      "id": "온도",
       "rank": 2,
-      "keyword": "투표율",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '윤상현 \"투표율 허위 입력을 득표수 조작이라고 하는 것은 선동\"(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "윤상현 \"투표율 허위 입력을 득표수 조작이라고 하는 것은 선동\"(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807172950416"
-        },
-        {
-          "title": "[단독] ’투표율 조작’ 지침 발송자 입건…수사 전국으로 확대",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260807194323XGd"
-        },
-        {
-          "title": "6시간동안 투표자 수 증가 0명…강남·서초도 허위 입력 정황",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260807/134437506/1"
-        }
-      ]
-    },
-    {
-      "id": "중앙은행",
-      "rank": 3,
-      "keyword": "중앙은행",
+      "keyword": "온도",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+3",
-      "summary": "급상승 시점에 '엔화 숏 2조엔 돌파…2024년 캐리 청산 악몽 재연되나 [Deep Spot]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "엔화 숏 2조엔 돌파…2024년 캐리 청산 악몽 재연되나 [Deep Spot]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/FTLp2SvmH7"
-        },
-        {
-          "title": "엔화 개입에 원화도 20원 하락…'수혜'는 언제까지",
-          "source": "MTN 머니투데이방송",
-          "url": "https://news.mtn.co.kr/news-detail/2026080716071087453"
-        },
-        {
-          "title": "일본, 지난 4월 56조 규모 엔화 매수...외환시장 개입",
-          "source": "YTN",
-          "url": "https://m.ytn.co.kr/news_view.php?key=202608071543482218&s_mcd=0104"
-        }
-      ]
-    },
-    {
-      "id": "고척스카이돔",
-      "rank": 4,
-      "keyword": "고척스카이돔",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+3",
-      "summary": "급상승 시점에 '에스파, 고척돔 콘서트 오늘(8월 7일) 개막' (뉴스타운) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "에스파, 고척돔 콘서트 오늘(8월 7일) 개막",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=711663"
-        },
-        {
-          "title": "에스파, 고척돔 달구고 세계로 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/07/2026080711297221639"
-        },
-        {
-          "title": "에스파, 첫 고척돔 입성…네 번째 월드투어 포문 연다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807151809546"
-        }
-      ]
-    },
-    {
-      "id": "남궁민",
-      "rank": 5,
-      "keyword": "남궁민",
-      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '남궁민 믿고 본 '결혼의 완성'…시청률 이탈없는 뒷심 [N이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“여름엔 이 차 사는 거 다시 생각해야”...차량 내부온도, 85도까지 올랐다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "남궁민 믿고 본 '결혼의 완성'…시청률 이탈없는 뒷심 [N이슈]",
+          "title": "“여름엔 이 차 사는 거 다시 생각해야”...차량 내부온도, 85도까지 올랐다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260807133640259"
+          "url": "https://v.daum.net/v/20260807073601942"
         },
         {
-          "title": "'결혼의 완성' 남궁민, 이설과 화해 후 눈맞춤...의미심장 미소 투샷 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/07/2026080714017281479"
-        },
-        {
-          "title": "‘결혼의 완성’ 결말 앞둔 마지막 승부… 남궁민·우지현 정면충돌, 남은 퍼즐 풀릴까",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3423251"
-        }
-      ]
-    },
-    {
-      "id": "농협은행",
-      "rank": 6,
-      "keyword": "농협은행",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'NH농협은행, 'NH모두트래블리적금' 조기 완판' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "NH농협은행, 'NH모두트래블리적금' 조기 완판",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026080710003555539"
-        },
-        {
-          "title": "은행권 최고금리 7.3% 여행적금에 항공권 이벤트까지, 여름 휴가철 마케팅 경쟁 '활활'",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444225"
-        },
-        {
-          "title": "[금융 풍향계] NH농협은행, 최고 연 7.3% ‘모두트래블리적금’ 조기 완판 外",
-          "source": "에너지경제신문",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "id": "벨기에",
-      "rank": 7,
-      "keyword": "벨기에",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '벨기에 ‘월급 330만원에 1년 군복무’ 인기 폭발…경쟁률 6대 1' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "벨기에 ‘월급 330만원에 1년 군복무’ 인기 폭발…경쟁률 6대 1",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260806115249577"
-        },
-        {
-          "title": "\"군인 월급 330만원 준대\" 파격 조건...단숨에 3천명 몰렸다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/08/06/2026080613470543368"
-        },
-        {
-          "title": "“군대가면 월급 330만원 준대”…이 나라에선 서로 입대하러 난리",
+          "title": "뜨겁게 달궈진 도로에 타이어 펑…마르고 부풀어 터진다",
           "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/world/12118965"
+          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5211037"
+        },
+        {
+          "title": "[생생뉴스] 폭염 속 자동차 관리 요령은?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8631394"
         }
       ]
     },
     {
-      "id": "미드필더",
-      "rank": 8,
-      "keyword": "미드필더",
+      "id": "충남-아산-fc-대-안산-그리너스",
+      "rank": 3,
+      "keyword": "충남 아산 fc 대 안산 그리너스",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '광주FC, 중원 강화 위해 김종석 영입…충남아산·용인서 활약' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '안산그리너스, ‘공격축구’ 충남아산 원정서 승점 3점 정조준' (데일리안) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "광주FC, 중원 강화 위해 김종석 영입…충남아산·용인서 활약",
+          "title": "안산그리너스, ‘공격축구’ 충남아산 원정서 승점 3점 정조준",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1675634/%EC%95%88%EC%82%B0%EA%B7%B8%EB%A6%AC%EB%84%88%EC%8A%A4-%E2%80%98%EA%B3%B5%EA%B2%A9%EC%B6%95%EA%B5%AC%E2%80%99-%EC%B6%A9%EB%82%A8%EC%95%84%EC%82%B0-%EC%9B%90-2026"
+        },
+        {
+          "title": "막강한 ‘외국인 공격수 트리오’ 앞세운 충남아산, 안방에서 2연승 도전!",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260806150743929"
+          "url": "https://v.daum.net/v/20260807072809820"
         },
         {
-          "title": "[공식발표] \"K리그1 도전 기회 감사하다\" 광주FC, 경험 많은 '멀티 MF' 김종석 영입...활동량·중원 조율 더했다 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_general/2026/08/06/GQYGKYLFGEZGEMDGMVSWKMZSHE/"
-        },
-        {
-          "title": "'베테랑 만능 미드필더' 김종석 광주 입단 \"K리그1 뛸 기회 얻어 감사\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/06/2026080614193813551"
+          "title": "‘외국인 공격수 트리오’ 불붙은 충남아산FC, 안산과 격돌",
+          "source": "충청매일",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1092637"
         }
       ]
     },
     {
-      "id": "태풍-돌핀-경로",
-      "rank": 9,
-      "keyword": "태풍 돌핀 경로",
+      "id": "화성-대-서울e",
+      "rank": 4,
+      "keyword": "화성 대 서울e",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '제13호 태풍 ‘돌핀’ 제주도 강풍 몰아친다…휴가철 안전 ‘비상’' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[그래도 K리그] 차두리 매직, 선두까지 넘본다...화성-서울E '운명의 빅매치'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "제13호 태풍 ‘돌핀’ 제주도 강풍 몰아친다…휴가철 안전 ‘비상’",
+          "title": "[그래도 K리그] 차두리 매직, 선두까지 넘본다...화성-서울E '운명의 빅매치'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260807175155180"
+          "url": "https://v.daum.net/v/20260807103736035"
         },
         {
-          "title": "다음 주 기온 뚝 떨어진다…태풍도 없이 열돔 박살 낸 이것",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20260807084240372"
+          "title": "[K리그2 프리뷰]'이기면 선두도 보인다' 잘나가는 화성-이랜드, 프라이데이 나이트 '빅뱅'...'오심 충격' 수원, '1위 지킨다' 각오[K리그2 프리뷰]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/08/07/GE4GGOBXGA3GCNLGGU2DCYLFGU/"
         },
         {
-          "title": "태풍 비껴가지만…제주에 단비 예고, 타들어가던 농심 달랠까",
-          "source": "헤드라인제주",
-          "url": "https://headlinejeju.co.kr/news/articleView.html?idxno=597151"
-        }
-      ]
-    },
-    {
-      "id": "규제",
-      "rank": 10,
-      "keyword": "규제",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '李대통령, 이병태 후임 규제합리화위 부위원장에 김태유 교수' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "李대통령, 이병태 후임 규제합리화위 부위원장에 김태유 교수",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807143251983"
-        },
-        {
-          "title": "李 대통령, 규제혁신·실용외교 이끌 전문가 인선",
+          "title": "‘승격 전쟁’ 뛰어든 화성FC, 서울이랜드 잡으면 3위 보인다",
           "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260807580190"
+          "url": "https://www.kyeonggi.com/article/20260806580048"
+        }
+      ]
+    },
+    {
+      "id": "노원구",
+      "rank": 5,
+      "keyword": "노원구",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '서울 40도 뚫었다…'119년 신기록' 역대 가장 뜨거운 입추' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "서울 40도 뚫었다…'119년 신기록' 역대 가장 뜨거운 입추",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807184510643"
         },
         {
-          "title": "[속보]규제합리화위원회 부위원장에 김태유 서울대 공대 교수…이병태 후임",
+          "title": "펄펄 끓은 도심…‘극한 폭염’에 ‘이글이글’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8631619"
+        },
+        {
+          "title": "서울 노원 40.2도‥올여름 서울 최고 기온 경신",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6843179_36918.html"
+        }
+      ]
+    },
+    {
+      "id": "오재원",
+      "rank": 6,
+      "keyword": "오재원",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '힘 빠진 한화 타선에 '반깁스' 오재원 언제 오나… \"상체 훈련 중, 시즌 내 복귀 가능\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "힘 빠진 한화 타선에 '반깁스' 오재원 언제 오나… \"상체 훈련 중, 시즌 내 복귀 가능\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807120442632"
+        },
+        {
+          "title": "'좀비 담배 파문' 日히로시마 쑥대밭 됐다! 2024 두산 '오재원 사태'와 판박이→팀도 최하위 추락 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/07/2026080718070764675"
+        },
+        {
+          "title": "\"죄송합니다, 정말 죄송합니다\" 구단주까지 눈물의 사죄…히로시마 좀비담배 파문 일파만파",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/07/30/HAZDENBQMFSGCOJYG43TEMJYGU/"
+        }
+      ]
+    },
+    {
+      "id": "교도소",
+      "rank": 7,
+      "keyword": "교도소",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"에어컨 설치 중단\" 수용자에 얼음물 지급…37도까지 치솟은 교도소 상황' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"에어컨 설치 중단\" 수용자에 얼음물 지급…37도까지 치솟은 교도소 상황",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260807n09699"
+        },
+        {
+          "title": "“감방이 무슨 호텔이냐” 교도소 에어컨 설치 결국 무산…얼음물로 버틴다",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20077147"
+        },
+        {
+          "title": "\"수용자들 덥다고 소란, 싸움도...\" 교도관들의 '피·땀·눈물' [자막뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0134_202608071528386540"
+        }
+      ]
+    },
+    {
+      "id": "데이브-로버츠",
+      "rank": 8,
+      "keyword": "데이브 로버츠",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '투수 복귀에 신중한 다저스 오타니 \"서두르다가 후퇴는 안 돼\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "투수 복귀에 신중한 다저스 오타니 \"서두르다가 후퇴는 안 돼\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260806104800007"
+        },
+        {
+          "title": "\"너도? 나도!\" MVP 경쟁자들 홈런 2방씩",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/08/07/YCJVALGZANE2FMPMJRGJTS2P6Y/"
+        },
+        {
+          "title": "'오타니와 MVP 경쟁' 크로암스트롱, '발'로 끝내기 승리 견인",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807090253886"
+        }
+      ]
+    },
+    {
+      "id": "훈련",
+      "rank": 9,
+      "keyword": "훈련",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '제13호 태풍 '돌핀' 대비…'배수 펌프장' 8곳 대응 훈련 등[울진소식]' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "제13호 태풍 '돌핀' 대비…'배수 펌프장' 8곳 대응 훈련 등[울진소식]",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260807_0003740490"
+          "url": "https://www.newsis.com/view/NISX20260807_0003740921"
+        },
+        {
+          "title": "울진군, 태풍 '돌핀' 대비 배수펌프장 8곳 비상 훈련",
+          "source": "www.gukjenews.com",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3658776"
+        },
+        {
+          "title": "당진시, 읍내동 배수펌프장 임시 가동…태풍·집중호우 선제 대응",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260803n10801"
+        }
+      ]
+    },
+    {
+      "id": "동전주",
+      "rank": 10,
+      "keyword": "동전주",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '주식병합 꼼수도 안 통했다... ‘동전주 퇴출’ 공포 덮친 63곳 - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "주식병합 꼼수도 안 통했다... ‘동전주 퇴출’ 공포 덮친 63곳 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/08/06/7LFXCFESCRCH7J5AQKLMUGQH5M/"
+        },
+        {
+          "title": "코스닥 퇴출 규정 현실화…바이오헬스 8곳 '경고등'",
+          "source": "데일리팜",
+          "url": "https://www.dailypharm.com/user/news/341191"
+        },
+        {
+          "title": "벼랑 끝 몰린 동전주…'상폐 위기' 기업 왜 급증했나",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/visual-news/article/2026080709003887929"
         }
       ]
     }
