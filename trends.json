@@ -1,141 +1,85 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-07T07:35:42.738Z",
+  "updatedAt": "2026-08-07T09:08:51.301Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "군사-기지",
+      "id": "주상욱",
       "rank": 1,
-      "keyword": "군사 기지",
+      "keyword": "주상욱",
       "volumeLabel": "10000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '北 군사기지, 홍수로 심각한 피해…주택 수백채 파괴' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“너무 많이 맞아 불쌍하다”…주상욱 위해 차예련이 준비한 보양식' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "北 군사기지, 홍수로 심각한 피해…주택 수백채 파괴",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260807046400009"
+          "title": "“너무 많이 맞아 불쌍하다”…주상욱 위해 차예련이 준비한 보양식",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807100303309"
         },
         {
-          "title": "댐 붕괴로 북 군사기지 '물바다'...수백 채 파괴에도 당국은 '침묵'",
-          "source": "YTN",
-          "url": "https://m.ytn.co.kr/news_view.php?key=202608071045373799&s_mcd=0104"
+          "title": "차예련, ♥주상욱 대박에 '초특급' 내조 \"쥐 죽은 듯이 있기\" ('차장금')",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112853181"
         },
         {
-          "title": "北 포병 군사기지, 홍수로 심각한 피해…주택 수백채도 파괴된 듯",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260807/134436902/1"
+          "title": "“모든 과정 즐거워”…‘김부장’ 주상욱, 첫 악역으로 느낀 쾌감 [인터뷰]",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1675074/%E2%80%9C%EB%AA%A8%EB%93%A0-%EA%B3%BC%EC%A0%95-%EC%A6%90%EA%B1%B0%EC%9B%8C%E2%80%9D%E2%80%98%EA%B9%80%EB%B6%80%EC%9E%A5%E2%80%99-%EC%A3%BC%EC%83%81%EC%9A%B1-2026"
         }
       ]
     },
     {
-      "id": "결혼식",
+      "id": "고흥군",
       "rank": 2,
-      "keyword": "결혼식",
+      "keyword": "고흥군",
       "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '톰 홀랜드·젠데이아, 9억 들여 극비리에 피로연…\"휴대폰 소지 금지\"' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '전남광주 '섬 반값여행'…관광경비 50%, 지역화폐 환급' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "톰 홀랜드·젠데이아, 9억 들여 극비리에 피로연…\"휴대폰 소지 금지\"",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608070124H"
-        },
-        {
-          "title": "‘결혼’ 톰 홀랜드♥젠데이아, ‘스파이더맨’ 홍보 중 9억 들여 초호화 결혼 피로연[Oh!llywood]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/08/07/MM3DKZTCGQ3WIMJRMVSWCMJYGI/"
-        },
-        {
-          "title": "톰 홀랜드, ‘스파이더맨’ 흥행에 돈방석 앉나…최대 356억 출연료 전망 [IS해외연예]",
+          "title": "전남광주 '섬 반값여행'…관광경비 50%, 지역화폐 환급",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260806174128411"
+          "url": "https://v.daum.net/v/20260806162055105"
+        },
+        {
+          "title": "고흥군, 반값여행 4차 신청 시작···가을 관광객 유치 '시동'",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=347138"
+        },
+        {
+          "title": "산청군, 지역사랑 휴가지원사업 공모 선정",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260807500179"
         }
       ]
     },
     {
-      "id": "재건축",
+      "id": "현금",
       "rank": 3,
-      "keyword": "재건축",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '금융위 \"한국주택금융공사의 PF보증 한도 상향 확정된 바 없어\"' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "금융위 \"한국주택금융공사의 PF보증 한도 상향 확정된 바 없어\"",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148969534"
-        },
-        {
-          "title": "유의동 \"김용범, 주식·부동산 문제에서 너무 비춰져…'청와대 정부' 우려\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260807_0003740215"
-        },
-        {
-          "title": "서울시, 정비사업 규제 완화 건의…“이주비 대출 LTV 40→70%”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8631383"
-        }
-      ]
-    },
-    {
-      "id": "송성문",
-      "rank": 4,
-      "keyword": "송성문",
-      "volumeLabel": "1000+",
+      "keyword": "현금",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한국인 향한 폭언 쏟아지네 \"타율 0.068인데 왜 남겼어?\"…냉혹 시선 더 커졌다→\"실력 아닌 투자 금액 때문에 살아남아\" 美…' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'SK하이닉스, 주당 375원 분기배당…추가 주주환원 예고' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "한국인 향한 폭언 쏟아지네 \"타율 0.068인데 왜 남겼어?\"…냉혹 시선 더 커졌다→\"실력 아닌 투자 금액 때문에 살아남아\" 美 매체 작심 비판",
+          "title": "SK하이닉스, 주당 375원 분기배당…추가 주주환원 예고",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260807101610000"
+          "url": "https://v.daum.net/v/20260807163847573"
         },
         {
-          "title": "MLB 송성문·김하성, 팀은 이겼는데 나란히 벤치 신세",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260807081600007"
-        },
-        {
-          "title": "MLB 애틀랜타, 마이애미 11-3 대파 '8연승'…김하성 또 결장",
+          "title": "SK하이닉스, 주당 375원 분기배당…\"3분기 중 주주환원 방안 발표\"",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/overseas-baseball/6252306"
-        }
-      ]
-    },
-    {
-      "id": "주주",
-      "rank": 5,
-      "keyword": "주주",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '삼전닉스 개미들 좋겠네…'역대급 배당' 약속에 두근두근' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "삼전닉스 개미들 좋겠네…'역대급 배당' 약속에 두근두근",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026080676716"
-        },
-        {
-          "title": "SK하이닉스, 주당 375원 분기 배당 공시…\"3분기 중 주주환원 방안 확정\"",
-          "source": "매일신문",
-          "url": "https://www.imaeil.com/page/view/2026080716031847641"
+          "url": "https://www.news1.kr/industry/general-industry/6252665"
         },
         {
           "title": "\"삼전·닉스 연말 순현금 375조원...엔비디아의 2배\"",
@@ -145,142 +89,198 @@
       ]
     },
     {
-      "id": "멕시코",
-      "rank": 6,
-      "keyword": "멕시코",
+      "id": "구금",
+      "rank": 4,
+      "keyword": "구금",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"메타, 청소년 SNS 사용 피해 구제 위해 1.3조원 내라\" 美 법원 명령 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '특검, '계엄 수용공간 점검' 신용해 前교정본부장 불구속 기소' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"메타, 청소년 SNS 사용 피해 구제 위해 1.3조원 내라\" 美 법원 명령 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/08/07/2026080713544717914"
-        },
-        {
-          "title": "“메타, 아동 보호 실패”…美법원, 8100억원 기금 조성 명령",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20260807/134437139/1"
-        },
-        {
-          "title": "뉴멕시코주 법원, 메타에 8천억원 배상명령…‘공공 위해’ 판결",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8631347"
-        }
-      ]
-    },
-    {
-      "id": "사미자",
-      "rank": 7,
-      "keyword": "사미자",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"일 없어 서러워\" '원로배우' 사미자, 전원주·선우용여 따라 유튜버 도전' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"일 없어 서러워\" '원로배우' 사미자, 전원주·선우용여 따라 유튜버 도전",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/07/MJSDQYTBHBQTCNJUGY4WEZJUME/"
-        },
-        {
-          "title": "사미자, 86세에 유튜브 도전… ‘오미자 말고 사미자’ 채널명 직접 지었다",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3423158"
-        },
-        {
-          "title": "'데뷔 63주년' 사미자, 건강이상설 종식 \"'탈지팡이' 했다\" ('오미자 말고')",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112853168"
-        }
-      ]
-    },
-    {
-      "id": "시바이누코인",
-      "rank": 8,
-      "keyword": "시바이누코인",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '시바이누 1700% 대폭발 시나리오 떴다…분석가가 본 '운명의 저항선'' (네이트) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "시바이누 1700% 대폭발 시나리오 떴다…분석가가 본 '운명의 저항선'",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260807n00171?mid=n0100"
-        },
-        {
-          "title": "\"소각률 1400% 폭증\"… 시바이누, 급등 후 차익 실현",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Securities/2026/08/202608040559241252e7e8286d56_1"
-        },
-        {
-          "title": "시바이누(SHIB), 매수세 부활...\"50일선만 넘으면 강한 회복\"",
-          "source": "코인리더스",
-          "url": "https://www.coinreaders.com/251543"
-        }
-      ]
-    },
-    {
-      "id": "여자-배구",
-      "rank": 9,
-      "keyword": "여자 배구",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'U-17 여자배구, 세계선수권서 푸에르토리코 3-1로 제압' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "U-17 여자배구, 세계선수권서 푸에르토리코 3-1로 제압",
+          "title": "특검, '계엄 수용공간 점검' 신용해 前교정본부장 불구속 기소",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260807013500007"
+          "url": "https://www.yna.co.kr/view/AKR20260807103300004"
         },
         {
-          "title": "김연경 재림, 세계 놀랐다…'손서연 28점' 한국, U-17 세계선수권 첫 승",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260807n06850"
+          "title": "종합특검, '포고령 위반자 수용공간 확보' 신용해 전 교정본부장 기소 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/08/07/2026080714564886955"
         },
         {
-          "title": "U17 여자배구대표팀, '리틀 김연경' 손서연 앞세워 세계무대 도전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260805185249303"
+          "title": "종합특검, 신용해 불구속 기소…“계엄 포고령 위반자 구금 공간 확보”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1271911.html"
         }
       ]
     },
     {
-      "id": "데이터-센터",
-      "rank": 10,
-      "keyword": "데이터 센터",
+      "id": "의사",
+      "rank": 5,
+      "keyword": "의사",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '제주, 행정 AI 산업·생활로 확대…13일 워크숍' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '女배우, 알고 보니 '4대째 의사 집안' 고백…\"증조부는 한양 첫 양의사\" [MHN:픽]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "제주, 행정 AI 산업·생활로 확대…13일 워크숍",
+          "title": "女배우, 알고 보니 '4대째 의사 집안' 고백…\"증조부는 한양 첫 양의사\" [MHN:픽]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260807104028176"
+          "url": "https://v.daum.net/v/20260807110223245"
         },
         {
-          "title": "제주도청 공직자마다 개인 생성형 AI로 업무",
-          "source": "한라일보",
-          "url": "https://app.ihalla.com/article.php?aid=1786078425789050073"
+          "title": "'옥문아' 하영, 금수저 엘리트였다 \"의사였던 증조부께서 고종 황제 진료했다\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6252035"
         },
         {
-          "title": "인천 남동구, 행정에 생성형 AI 입힌다…‘AI 행정혁신’ 본격화",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260807500535"
+          "title": "'옥문아' 하영, \"증조부, 고종 진료\"...뇌섹녀의 남다른 집안 이력 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/07/2026080711007211778"
+        }
+      ]
+    },
+    {
+      "id": "위원장",
+      "rank": 6,
+      "keyword": "위원장",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '성남시의회, 행사별 의회 대표 역할 새롭게 정비…상임위원회 중심 운영 강화' (시사일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "성남시의회, 행사별 의회 대표 역할 새롭게 정비…상임위원회 중심 운영 강화",
+          "source": "시사일보",
+          "url": ""
+        },
+        {
+          "title": "[기획 | 10대 상임위원장에게 듣는다] 성남시의회 정봉규 의회운영위원장 ② 4년의 공백이 남긴 것, 그리고 다시 돌아온 이유",
+          "source": "투데이경제",
+          "url": "https://www.tookyung.com/news/articleView.html?idxno=731697"
+        },
+        {
+          "title": "성남시의회, 상임위원회 중심 현장 의정활동 강화",
+          "source": "이뉴스투데이",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "설리해수욕장",
+      "rank": 7,
+      "keyword": "설리해수욕장",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '남해 설리해수욕장서 물놀이하던 50대 남성 숨져' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "남해 설리해수욕장서 물놀이하던 50대 남성 숨져",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260807029500052"
+        },
+        {
+          "title": "남해 해수욕장서 물놀이 사고…50대 사망",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260807102322aqU"
+        },
+        {
+          "title": "경남 남해 해수욕장서 물놀이 하던 50대 숨져",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030218941&code=61121211&sid1=soc&cp=nv2"
+        }
+      ]
+    },
+    {
+      "id": "사직야구장",
+      "rank": 8,
+      "keyword": "사직야구장",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '롯데, 16일 NC전 '한여름밤의 사직' 이벤트 개최…멜로망스 김민석, 시구·콘서트' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "롯데, 16일 NC전 '한여름밤의 사직' 이벤트 개최…멜로망스 김민석, 시구·콘서트",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/08/07/MU4TGN3BMU4GINBQHEZDINBSGM/"
+        },
+        {
+          "title": "사직구장에서 보낼 ‘낭만의 여름밤’…롯데, ‘한여름밤의 사직’ 이벤트 진행",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1627206"
+        },
+        {
+          "title": "`한여름밤의 사직구장` 롯데, 16일 NC와 홈 경기 특별한 행사 마련",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026080711585248660"
+        }
+      ]
+    },
+    {
+      "id": "뇌물",
+      "rank": 9,
+      "keyword": "뇌물",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '美민주, 트럼프 측에 30억원 건넨 韓기업 정조준…\"잠재적 뇌물\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "美민주, 트럼프 측에 30억원 건넨 韓기업 정조준…\"잠재적 뇌물\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/z4JPYinQtK"
+        },
+        {
+          "title": "“트럼프 일가에 30억 왜 줬나”…美 민주, 韓 기업 “잠재적 뇌물” 조사",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260807000300"
+        },
+        {
+          "title": "트럼프 측에 30억원 건넨 한국 기업…미 민주 \"잠재적 뇌물\"",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12312141"
+        }
+      ]
+    },
+    {
+      "id": "manga-million",
+      "rank": 10,
+      "keyword": "manga million",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[PRNewswire] Shueisha Launches MANGA MILLION Globally' (Yonhap News Agency) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[PRNewswire] Shueisha Launches MANGA MILLION Globally",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/RPR20260806008500353?section=press-release/index"
+        },
+        {
+          "title": "MANGA MILLION launches with nearly 400 titles… and uncredited translators",
+          "source": "Comics Beat",
+          "url": "https://www.comicsbeat.com/manga-million-launches-with-nearly-400-titles-and-uncredited-translators/"
+        },
+        {
+          "title": "Interview: MANGA Plus Editor-in-Chief Shuhei Hosono on Shueisha’s MANGA MILLION",
+          "source": "Anime Corner",
+          "url": "https://animecorner.me/interview-manga-plus-editor-in-chief-shuhei-hosono-on-shueishas-manga-million/"
         }
       ]
     }
