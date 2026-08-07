@@ -1,286 +1,281 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-07T22:46:00.351Z",
+  "updatedAt": "2026-08-07T23:40:11.265Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "날씨",
+      "id": "신유빈",
       "rank": 1,
-      "keyword": "날씨",
-      "volumeLabel": "200000+",
-      "startedLabel": "1시간 전",
+      "keyword": "신유빈",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '올해가 제일 시원했다?…119년 서울 기온의 경고' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[스포츠 영상] 인도 복병 제친 신유빈‥세계랭킹 3위와 8강전' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "올해가 제일 시원했다?…119년 서울 기온의 경고",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8631482"
+          "title": "[스포츠 영상] 인도 복병 제친 신유빈‥세계랭킹 3위와 8강전",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6843249_37004.html"
         },
         {
-          "title": "[오늘 날씨] 35도 안팎 무더위 속 소나기…동해안엔 폭우 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/08/2026080717182172622"
-        },
-        {
-          "title": "[날씨/XR] 입추인데…하남 41도·서울 40.2도 '극한 폭염",
+          "title": "신유빈, WTT 요코하마 단식 8강행… '세계 3위' 일본 탁구 천재 잡으러 간다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260807213919834"
-        }
-      ]
-    },
-    {
-      "id": "погода",
-      "rank": 2,
-      "keyword": "погода",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'В Бишкеке и Чуйской области ожидаются гроза и сильный ветер' (24.KG) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "В Бишкеке и Чуйской области ожидаются гроза и сильный ветер",
-          "source": "24.KG",
-          "url": "https://24.kg/proisshestvija/384090_vbishkeke_ichuyskoy_oblasti_ojidayutsya_groza_isilnyiy_veter/"
+          "url": "https://v.daum.net/v/20260807174149847"
         },
         {
-          "title": "До +39°C, а затем резкое понижение температуры. Прогноз погоды по Кыргызстану на 8-17 августа",
-          "source": "Akipress",
-          "url": "https://eco.akipress.org/news:2513889"
-        },
-        {
-          "title": "Какой будет погода в Бишкеке и на Иссык-Куле на неделе?",
-          "source": "Кактус.медиа",
-          "url": "https://kaktus.media/doc/550792_kakoy_bydet_pogoda_v_bishkeke_i_na_issyk_kyle_na_nedele.html"
-        }
-      ]
-    },
-    {
-      "id": "전차",
-      "rank": 3,
-      "keyword": "전차",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] 육군 5기갑여단 사격훈련 중 전차 ‘전소’…합동 감식 예정' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[단독] 육군 5기갑여단 사격훈련 중 전차 ‘전소’…합동 감식 예정",
+          "title": "[오늘의 영상] 거침없는 신유빈…우승 도전 순항",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8630213"
-        },
-        {
-          "title": "[영상] 육군 K1E1 전차 사격 훈련 중 화재…\"인명피해 없어\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260806119400704"
-        },
-        {
-          "title": "사격 훈련 마친 육군 K1 전차서 불길…\"열기 안 식어 접근 어려워\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/politics/2026/08/06/2026080613041780098"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8631725"
         }
       ]
     },
     {
-      "id": "드래프트",
-      "rank": 4,
-      "keyword": "드래프트",
+      "id": "박서진",
+      "rank": 2,
+      "keyword": "박서진",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '박서진, 2000만원 쏟아부은 '취미방' 공개('살림남')' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "박서진, 2000만원 쏟아부은 '취미방' 공개('살림남')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807104637508"
+        },
+        {
+          "title": "박서진, 무려 2천만원이나? 만화 그리기에 쏟아부은 돈…효정 \"소비 다이어트\" (살림남) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/08/07/GE2GMZJWGFTDCYJZGU3DGNBWMY/"
+        },
+        {
+          "title": "‘살림남’ 박서진, 효정과 ‘1만 6500원의 행복’ 도전",
+          "source": "비즈엔터",
+          "url": "https://enter.etoday.co.kr/news/view/300705"
+        }
+      ]
+    },
+    {
+      "id": "정청래",
+      "rank": 3,
+      "keyword": "정청래",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'KBO 드래프트에 155㎞ 던지는 20대 중반 투수 등장한다고? “도대체 무슨 문제였을까” 관심' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '민주당 전대, 오늘 제주·인천 경선…정청래·김민석 '초접전' 속 2차전' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "KBO 드래프트에 155㎞ 던지는 20대 중반 투수 등장한다고? “도대체 무슨 문제였을까” 관심",
+          "title": "민주당 전대, 오늘 제주·인천 경선…정청래·김민석 '초접전' 속 2차전",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260807210137361"
+          "url": "https://v.daum.net/v/20260808061933095"
         },
         {
-          "title": "MLB 메츠 소속 심준석 또 방출돼…장현석·조원빈·김성준은?",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/sports/baseball/1270666.html"
+          "title": "鄭·金·宋, 수도권서 첫 승부…‘0.99%P’ 양강구도 균열 생기나",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20077130"
         },
         {
-          "title": "“김서현 안 부럽다” 미국 성공 자신했는데…트레이드→방출→방출, '계약금 10억' 157km 파이어볼러 충격 몰락 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/baseball/2026/07/30/GA3TEYZXHBSDMNZSG43WMMLEMU/"
+          "title": "“누가 되든 한쪽은 공천 학살”…선 넘은 ‘석청대전’, 분당 역사까지 소환했다",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20260807021130623"
         }
       ]
     },
     {
-      "id": "天气",
+      "id": "thời-tiết",
+      "rank": 4,
+      "keyword": "thời tiết",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Thời tiết ngày 8/8: Bắc Bộ có nơi nắng nóng, Trung Bộ và Nam Bộ cảnh bá…' (Thuonghieucongluan.com.vn) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Thời tiết ngày 8/8: Bắc Bộ có nơi nắng nóng, Trung Bộ và Nam Bộ cảnh báo mưa dông cục bộ",
+          "source": "Thuonghieucongluan.com.vn",
+          "url": "https://thuonghieucongluan.com.vn/thoi-tiet-ngay-8-8-bac-bo-co-noi-nang-nong-trung-bo-va-nam-bo-canh-bao-mua-dong-cuc-bo-a329610.html"
+        },
+        {
+          "title": "Cảnh báo mưa lớn tại nhiều khu vực trên cả nước và lũ trên sông Thao",
+          "source": "Tiin.vn",
+          "url": "https://tiin.vn/chuyen-muc/24/canh-bao-mua-lon-tai-nhieu-khu-vuc-tren-ca-nuoc-va-lu-tren-song-thao.html"
+        },
+        {
+          "title": "Cảnh báo dông, lốc, sét, mưa đá và mưa lớn cục bộ",
+          "source": "Báo Cao Bằng",
+          "url": "https://baocaobang.vn/canh-bao-dong-loc-set-mua-da-va-mua-lon-cuc-bo-3191107.html"
+        }
+      ]
+    },
+    {
+      "id": "활옥동굴",
       "rank": 5,
-      "keyword": "天气",
+      "keyword": "활옥동굴",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '韩国高温天气持续发威 首尔等地气温超40℃' (韩联社) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '이동석 충주시장 \"활옥동굴 불법 운영 용납할 수 없어\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "韩国高温天气持续发威 首尔等地气温超40℃",
-          "source": "韩联社",
-          "url": "https://cn.yna.co.kr/view/ACK20260807004000881"
+          "title": "이동석 충주시장 \"활옥동굴 불법 운영 용납할 수 없어\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/yWeVMZ5TY0"
         },
         {
-          "title": "李在明要求全力动员行政力量减少酷暑损失强调须直接走访棚户区等地确认安危| 东亚日报",
-          "source": "동아일보",
-          "url": "https://www.donga.com/cn/article/all/20260807/6338275/1"
+          "title": "“47만 찾는데 문 닫나”… 활옥동굴 불법·낙석 파문에 충주시 칼 빼들었다",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3423422"
         },
         {
-          "title": "东京热岛、台北湿度、曼谷热带夜…加起来就是首尔",
-          "source": "朝鮮日報中文版",
-          "url": "https://cnnews.chosun.com/client/news/viw.asp?nNewsNumb=20260865181&cate=C01&mcate=M1001"
+          "title": "이동석 충주시장 \"활옥동굴 불법 운영 눈감을 수 없다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260807_0003740219"
         }
       ]
     },
     {
-      "id": "포스코홀딩스",
+      "id": "나는-solo-그-후-사랑은-계속된다",
       "rank": 6,
-      "keyword": "포스코홀딩스",
+      "keyword": "나는 solo 그 후 사랑은 계속된다",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '포스코홀딩스, 포스코인터·DX 지분매각…2.5조원 투자재원 마련' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '국화, 14기 경수와 결별 후 재출연…첫인상 선택 '3표' 몰표 (나솔사계)[종합]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "포스코홀딩스, 포스코인터·DX 지분매각…2.5조원 투자재원 마련",
+          "title": "국화, 14기 경수와 결별 후 재출연…첫인상 선택 '3표' 몰표 (나솔사계)[종합]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260807183252379"
+          "url": "https://v.daum.net/v/9Xlw3kEotc"
         },
         {
-          "title": "키움증권 \"포스코인터내셔널 주식 4천727억원에 추가취득\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260807136000008"
+          "title": "‘나솔사계’ 국화, 결별 후 재등장⋯첫인상 투표 휩쓸고 ‘인기녀’ 등극",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2611987"
         },
         {
-          "title": "포스코홀딩스 포스코인터내셔널과 포스코DX 지분 일부 매각, 투자 재원 2조5천억 확보",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444275"
+          "title": "‘43세’ 7기 옥순 “아직도 모태솔로…연애 경험無” (나솔사계)",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/513954"
         }
       ]
     },
     {
-      "id": "송혜교",
+      "id": "이한범",
       "rank": 7,
-      "keyword": "송혜교",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '송혜교, 흰티에 청바지 일상 사진 공개하자..절친 다 몰려왔다' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "송혜교, 흰티에 청바지 일상 사진 공개하자..절친 다 몰려왔다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260806151007109"
-        },
-        {
-          "title": "송혜교 입술 쭈욱...선글라스 속 감출 수 없는 미모 - 스타투데이",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12119307"
-        },
-        {
-          "title": "흰 티에 청바지…송혜교, 폭염 속에도 빛나는 비주얼 [N샷]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6251253"
-        }
-      ]
-    },
-    {
-      "id": "ionq",
-      "rank": 8,
-      "keyword": "ionq",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'IonQ Stock Falls After Revenue Nearly Quadruples' (Barron's) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "IonQ Stock Falls After Revenue Nearly Quadruples",
-          "source": "Barron's",
-          "url": "https://www.barrons.com/articles/ionq-earnings-stock-price-f61c493a"
-        },
-        {
-          "title": "IONQ, QBTS, INFQ: IonQ Stock Leads Gains In Quantum Stocks As Jefferies Eyes September Catalyst",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-qbts-infq-ionq-stock-103559500.html"
-        },
-        {
-          "title": "IonQ Shows Progress in Commercial Breadth, Execution in Q2, Wedbush Says",
-          "source": "marketscreener.com",
-          "url": "https://www.marketscreener.com/news/ionq-shows-progress-in-commercial-breadth-execution-in-q2-wedbush-says-ce7f50ddde8dff26"
-        }
-      ]
-    },
-    {
-      "id": "이혼숙려캠프-새로고침",
-      "rank": 9,
-      "keyword": "이혼숙려캠프 새로고침",
+      "keyword": "이한범",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''알코올 중독' 남편, 술 취한 채 밥솥에다가 소변을? \"제정신이냐\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '그야말로 '미친 데뷔전' 韓 수비 미래 이한범, 리그 개막전부터 '팀 내 최고 평점'…현지 팬들도 \"LEE! LEE!\" 연호' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'알코올 중독' 남편, 술 취한 채 밥솥에다가 소변을? \"제정신이냐\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/07/2026080702043285129"
+          "title": "그야말로 '미친 데뷔전' 韓 수비 미래 이한범, 리그 개막전부터 '팀 내 최고 평점'…현지 팬들도 \"LEE! LEE!\" 연호",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260808n02146"
         },
         {
-          "title": "이동건, 위험한 발언한 아내 향해 '뼈' 있는 한마디...\"아이들 앞에선 참아야죠\" ('이혼숙려캠프')",
+          "title": "'제2의 김민재' 이한범, 벨기에 명문팀 브뤼헤 입단",
+          "source": "스포츠한국",
+          "url": "https://sports.hankooki.com/news/articleView.html?idxno=6937447"
+        },
+        {
+          "title": "'구단 역대 수비수 최고 이적료' 韓 대표 이한범… 대형 투자에 현지에선 \"적응할 시간 없을 것\" 우려도",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260807075108184?f=p"
-        },
-        {
-          "title": "'이혼숙려캠프' 코인부부 상담 솔루션 결과→23기 두번째 부부 등장",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3658083"
+          "url": "https://v.daum.net/v/20260806150209516"
         }
       ]
     },
     {
-      "id": "수술실",
-      "rank": 10,
-      "keyword": "수술실",
+      "id": "디지털-자산",
+      "rank": 8,
+      "keyword": "디지털 자산",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '두나무, 경찰청 '압수 가상자산 커스터디' 최종 낙찰' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "두나무, 경찰청 '압수 가상자산 커스터디' 최종 낙찰",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260807112500002"
+        },
+        {
+          "title": "경찰 압수 코인, 두나무가 보관한다…최종 낙찰자 선정",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260807000282"
+        },
+        {
+          "title": "두나무, 경찰청 압수 가상자산 보관·관리 사업자로 선정",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429187"
+        }
+      ]
+    },
+    {
+      "id": "쓰레기봉투",
+      "rank": 9,
+      "keyword": "쓰레기봉투",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"환자 끌어안는 모습에 울컥\"…구마모토 지진 순간 日 수술실 CCTV 영상 [따뜻했슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '日 유명 관광지에 '경기 안산시 쓰레기봉투' 투척 논란…韓 \"부끄럽다\"[이런일이]' (노컷뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"환자 끌어안는 모습에 울컥\"…구마모토 지진 순간 日 수술실 CCTV 영상 [따뜻했슈]",
+          "title": "日 유명 관광지에 '경기 안산시 쓰레기봉투' 투척 논란…韓 \"부끄럽다\"[이런일이]",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6559810"
+        },
+        {
+          "title": "日 유명 관광지에 '경기 안산시 쓰레기봉투' 투척 논란…韓 \"부끄럽다\"[이런일이]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260807154733558"
+          "url": "https://v.daum.net/v/20260807150302010"
+        }
+      ]
+    },
+    {
+      "id": "기술",
+      "rank": 10,
+      "keyword": "기술",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“안마의자만 잘 만들면 끝?”…세라젬·바디프랜드·코웨이 ‘연구소 전쟁’' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“안마의자만 잘 만들면 끝?”…세라젬·바디프랜드·코웨이 ‘연구소 전쟁’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808061644068"
         },
         {
-          "title": "日강진에 수술실 난리…몸 던져 환자 지킨 의료진 (영상)",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20260807/134439537/2"
+          "title": "'셀트론 순환 체어' 혈액순환 개선 효과 입증",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260807000170"
         },
         {
-          "title": "[엠빅뉴스] 지진이 강타한 순간 환자부터 생각했다",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/original/mbig/6843164_29041.html"
+          "title": "30분 사용에 손등 혈류량 8.01%↑…세라젬 \"임상 효과 확인\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/press/press-release/6251967"
         }
       ]
     }
