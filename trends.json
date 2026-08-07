@@ -1,286 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-07T12:24:22.395Z",
+  "updatedAt": "2026-08-07T13:52:11.053Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "유조선",
+      "id": "기상",
       "rank": 1,
-      "keyword": "유조선",
-      "volumeLabel": "2000+",
+      "keyword": "기상",
+      "volumeLabel": "100000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '유엔 제재 북한 유조선 3척 중국 해역 진입…이례적 위치 노출' (VOA 한국어 홈페이지) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '서울 노원 40.2도‥올여름 서울 최고 기온 경신' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "유엔 제재 북한 유조선 3척 중국 해역 진입…이례적 위치 노출",
-          "source": "VOA 한국어 홈페이지",
-          "url": "https://www.voakorea.com/a/nk-sanctioned-vessels-china-20260806/8183536.html"
-        },
-        {
-          "title": "北 서해에서 中 어선 연일 포착...\"환적 추정 움직임도\"",
-          "source": "SPN 서울평양뉴스",
-          "url": "https://www.spnews.co.kr/news/articleView.html?idxno=109540"
-        },
-        {
-          "title": "북한 서해서 중국 어선 4척 동시 포착…대북제재 위반 여부 주목",
-          "source": "VOA 한국어 홈페이지",
-          "url": "https://www.voakorea.com/a/nk-china-fishing-080326/8182110.html"
-        }
-      ]
-    },
-    {
-      "id": "온도",
-      "rank": 2,
-      "keyword": "온도",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“여름엔 이 차 사는 거 다시 생각해야”...차량 내부온도, 85도까지 올랐다' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“여름엔 이 차 사는 거 다시 생각해야”...차량 내부온도, 85도까지 올랐다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807073601942"
-        },
-        {
-          "title": "뜨겁게 달궈진 도로에 타이어 펑…마르고 부풀어 터진다",
-          "source": "매일경제",
-          "url": "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5211037"
-        },
-        {
-          "title": "[생생뉴스] 폭염 속 자동차 관리 요령은?",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8631394"
-        }
-      ]
-    },
-    {
-      "id": "충남-아산-fc-대-안산-그리너스",
-      "rank": 3,
-      "keyword": "충남 아산 fc 대 안산 그리너스",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '안산그리너스, ‘공격축구’ 충남아산 원정서 승점 3점 정조준' (데일리안) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "안산그리너스, ‘공격축구’ 충남아산 원정서 승점 3점 정조준",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1675634/%EC%95%88%EC%82%B0%EA%B7%B8%EB%A6%AC%EB%84%88%EC%8A%A4-%E2%80%98%EA%B3%B5%EA%B2%A9%EC%B6%95%EA%B5%AC%E2%80%99-%EC%B6%A9%EB%82%A8%EC%95%84%EC%82%B0-%EC%9B%90-2026"
-        },
-        {
-          "title": "막강한 ‘외국인 공격수 트리오’ 앞세운 충남아산, 안방에서 2연승 도전!",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807072809820"
-        },
-        {
-          "title": "‘외국인 공격수 트리오’ 불붙은 충남아산FC, 안산과 격돌",
-          "source": "충청매일",
-          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1092637"
-        }
-      ]
-    },
-    {
-      "id": "화성-대-서울e",
-      "rank": 4,
-      "keyword": "화성 대 서울e",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[그래도 K리그] 차두리 매직, 선두까지 넘본다...화성-서울E '운명의 빅매치'' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[그래도 K리그] 차두리 매직, 선두까지 넘본다...화성-서울E '운명의 빅매치'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807103736035"
-        },
-        {
-          "title": "[K리그2 프리뷰]'이기면 선두도 보인다' 잘나가는 화성-이랜드, 프라이데이 나이트 '빅뱅'...'오심 충격' 수원, '1위 지킨다' 각오[K리그2 프리뷰]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/08/07/GE4GGOBXGA3GCNLGGU2DCYLFGU/"
-        },
-        {
-          "title": "‘승격 전쟁’ 뛰어든 화성FC, 서울이랜드 잡으면 3위 보인다",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260806580048"
-        }
-      ]
-    },
-    {
-      "id": "노원구",
-      "rank": 5,
-      "keyword": "노원구",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '서울 40도 뚫었다…'119년 신기록' 역대 가장 뜨거운 입추' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "서울 40도 뚫었다…'119년 신기록' 역대 가장 뜨거운 입추",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807184510643"
-        },
-        {
-          "title": "펄펄 끓은 도심…‘극한 폭염’에 ‘이글이글’",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8631619"
-        },
         {
           "title": "서울 노원 40.2도‥올여름 서울 최고 기온 경신",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/news/2026/society/article/6843179_36918.html"
-        }
-      ]
-    },
-    {
-      "id": "오재원",
-      "rank": 6,
-      "keyword": "오재원",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '힘 빠진 한화 타선에 '반깁스' 오재원 언제 오나… \"상체 훈련 중, 시즌 내 복귀 가능\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "힘 빠진 한화 타선에 '반깁스' 오재원 언제 오나… \"상체 훈련 중, 시즌 내 복귀 가능\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807120442632"
         },
         {
-          "title": "'좀비 담배 파문' 日히로시마 쑥대밭 됐다! 2024 두산 '오재원 사태'와 판박이→팀도 최하위 추락 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/07/2026080718070764675"
-        },
-        {
-          "title": "\"죄송합니다, 정말 죄송합니다\" 구단주까지 눈물의 사죄…히로시마 좀비담배 파문 일파만파",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/07/30/HAZDENBQMFSGCOJYG43TEMJYGU/"
-        }
-      ]
-    },
-    {
-      "id": "교도소",
-      "rank": 7,
-      "keyword": "교도소",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"에어컨 설치 중단\" 수용자에 얼음물 지급…37도까지 치솟은 교도소 상황' (네이트) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"에어컨 설치 중단\" 수용자에 얼음물 지급…37도까지 치솟은 교도소 상황",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260807n09699"
-        },
-        {
-          "title": "“감방이 무슨 호텔이냐” 교도소 에어컨 설치 결국 무산…얼음물로 버틴다",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20077147"
-        },
-        {
-          "title": "\"수용자들 덥다고 소란, 싸움도...\" 교도관들의 '피·땀·눈물' [자막뉴스]",
+          "title": "119년 만에 가장 더운 '입추', 노원구 40.2℃...주말 동쪽 호우",
           "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202608071528386540"
-        }
-      ]
-    },
-    {
-      "id": "데이브-로버츠",
-      "rank": 8,
-      "keyword": "데이브 로버츠",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '투수 복귀에 신중한 다저스 오타니 \"서두르다가 후퇴는 안 돼\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
+          "url": "https://m.ytn.co.kr/news_view.php?key=202608072148421005&s_mcd=0108"
+        },
         {
-          "title": "투수 복귀에 신중한 다저스 오타니 \"서두르다가 후퇴는 안 돼\"",
+          "title": "[날씨] 무더위 이어지는 토요일…강원 동해안 '폭우' 최고 150㎜↑",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260806104800007"
-        },
-        {
-          "title": "\"너도? 나도!\" MVP 경쟁자들 홈런 2방씩",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/08/07/YCJVALGZANE2FMPMJRGJTS2P6Y/"
-        },
-        {
-          "title": "'오타니와 MVP 경쟁' 크로암스트롱, '발'로 끝내기 승리 견인",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807090253886"
+          "url": "https://www.yna.co.kr/view/AKR20260807136700004"
         }
       ]
     },
     {
-      "id": "훈련",
-      "rank": 9,
-      "keyword": "훈련",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "id": "변기",
+      "rank": 2,
+      "keyword": "변기",
+      "volumeLabel": "10000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '제13호 태풍 '돌핀' 대비…'배수 펌프장' 8곳 대응 훈련 등[울진소식]' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[속보]변기 고쳐주던 70대 집주인 찌른 30대女 검거' (문화일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "제13호 태풍 '돌핀' 대비…'배수 펌프장' 8곳 대응 훈련 등[울진소식]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260807_0003740921"
+          "title": "[속보]변기 고쳐주던 70대 집주인 찌른 30대女 검거",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11608078"
         },
         {
-          "title": "울진군, 태풍 '돌핀' 대비 배수펌프장 8곳 비상 훈련",
-          "source": "www.gukjenews.com",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3658776"
+          "title": "부산 다세대주택서 변기 수리 중 흉기 사건… 30대 여성 현행범 체포",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807170449538"
         },
         {
-          "title": "당진시, 읍내동 배수펌프장 임시 가동…태풍·집중호우 선제 대응",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260803n10801"
+          "title": "70대 집주인에 흉기 휘두른 30대 여성 세입자 체포",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260807125800051"
         }
       ]
     },
     {
-      "id": "동전주",
-      "rank": 10,
-      "keyword": "동전주",
+      "id": "사과",
+      "rank": 3,
+      "keyword": "사과",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '🍚 [오밥뉴] 🍎 폭염에 과일도 화상 입었다! 타들어 가는 사과·포도 농가 비상 🌞 | 오늘의 밥 친구 뉴스 (2026. …' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "🍚 [오밥뉴] 🍎 폭염에 과일도 화상 입었다! 타들어 가는 사과·포도 농가 비상 🌞 | 오늘의 밥 친구 뉴스 (2026. 08. 07)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807103044665"
+        },
+        {
+          "title": "'휴가 중단' 박완수 경남지사, 폭염 속 도민 살피기 전념 … \"도민 생명·안전 최우선\"",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026080721522511287"
+        },
+        {
+          "title": "\"폭염에 젖소 원유 생산 급감\"...가축 13만 마리 폐사",
+          "source": "YTN",
+          "url": "https://m.ytn.co.kr/news_view.php?key=202608071907324597&s_mcd=0115"
+        }
+      ]
+    },
+    {
+      "id": "베트남-대-캄보디아",
+      "rank": 4,
+      "keyword": "베트남 대 캄보디아",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''이게 김상식 매직' 30년 새 역사 쓰자, 신태용 감독 대체 '잉글랜드 출신' 세계적 지도자 엄지척...\"존경을 표했다\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'이게 김상식 매직' 30년 새 역사 쓰자, 신태용 감독 대체 '잉글랜드 출신' 세계적 지도자 엄지척...\"존경을 표했다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807061510717"
+        },
+        {
+          "title": "한국인이 3-0으로 이겼는데…이젠 한국인에 0-3으로 무너지네→인니 홈 30년 징크스 '와르르', STY 끝내 소환",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260806n32114"
+        },
+        {
+          "title": "'박항서도 못했던 30년 한 풀었다' 김상식, 베트남 축구 최초 21G 무패→30년 만의 인도네시아 원정 승리까지 '역사 그 자체' - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/baseball/2026/08/05/G5SDAZTFMNTGCZTDMJRTAM3BMI/"
+        }
+      ]
+    },
+    {
+      "id": "김상혁",
+      "rank": 5,
+      "keyword": "김상혁",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''신랑수업2' 47세 돌싱 김상혁, 소개팅女 첫만남…\"하얀 튤립 같아\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'신랑수업2' 47세 돌싱 김상혁, 소개팅女 첫만남…\"하얀 튤립 같아\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807115653404"
+        },
+        {
+          "title": "김상혁, 이혼 후 소개팅…\"둘이 잘 맞네\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260807_0003740140"
+        },
+        {
+          "title": "47세 김상혁, 홀로서기 6년만..인터넷 쇼핑몰 CEO와 소개팅 (‘신랑수업’) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/07/GUZWMNJVGM4DMYRWMQYDIY3CGM/"
+        }
+      ]
+    },
+    {
+      "id": "엘니뇨",
+      "rank": 6,
+      "keyword": "엘니뇨",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''찜통 더위' 언제 끝나나…전문가 \"올해가 가장 덜 더운 여름 될 수도\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'찜통 더위' 언제 끝나나…전문가 \"올해가 가장 덜 더운 여름 될 수도\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807044110452"
+        },
+        {
+          "title": "폭염과 사투…시민도 기업도 동참",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8631686"
+        },
+        {
+          "title": "\"너무 더워 태풍도 비껴간다\"...사라진 '절기 매직' [Y녹취록]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0134_202608070840414545"
+        }
+      ]
+    },
+    {
+      "id": "구급차",
+      "rank": 7,
+      "keyword": "구급차",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '폭염에 쓰러진 배달라이더가 구급차 거부하며 남긴 한마디' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "폭염에 쓰러진 배달라이더가 구급차 거부하며 남긴 한마디",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807134253445"
+        },
+        {
+          "title": "폭염에 쓰러진 온열질환자, 집배원 신속 대처로 위기 넘겨",
+          "source": "충청투데이",
+          "url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2234521"
+        },
+        {
+          "title": "폭염 속 배달하다 쓰러진 기사 …'열탈진' 추정",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260804022600038"
+        }
+      ]
+    },
+    {
+      "id": "하영",
+      "rank": 8,
+      "keyword": "하영",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '女배우, 알고 보니 '4대째 의사 집안' 고백…\"증조부는 한양 첫 양의사\" [MHN:픽]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "女배우, 알고 보니 '4대째 의사 집안' 고백…\"증조부는 한양 첫 양의사\" [MHN:픽]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807110223245"
+        },
+        {
+          "title": "'옥문아' 하영, 금수저 엘리트였다 \"의사였던 증조부께서 고종 황제 진료했다\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6252035"
+        },
+        {
+          "title": "'옥문아' 하영, \"증조부, 고종 진료\"...뇌섹녀의 남다른 집안 이력 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/07/2026080711007211778"
+        }
+      ]
+    },
+    {
+      "id": "배틀그라운드",
+      "rank": 9,
+      "keyword": "배틀그라운드",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '주식병합 꼼수도 안 통했다... ‘동전주 퇴출’ 공포 덮친 63곳 - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '배틀그라운드 모바일 국제대회 'PMWC' 개막…EWC와 연계' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "주식병합 꼼수도 안 통했다... ‘동전주 퇴출’ 공포 덮친 63곳 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/stock_general/2026/08/06/7LFXCFESCRCH7J5AQKLMUGQH5M/"
+          "title": "배틀그라운드 모바일 국제대회 'PMWC' 개막…EWC와 연계",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260806108800017"
         },
         {
-          "title": "코스닥 퇴출 규정 현실화…바이오헬스 8곳 '경고등'",
-          "source": "데일리팜",
-          "url": "https://www.dailypharm.com/user/news/341191"
+          "title": "‘배그 모바일’ 세계 최강은 누구?…‘2026 PMWC’ 개막[오늘의 게임 업데이트]",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20076586"
         },
         {
-          "title": "벼랑 끝 몰린 동전주…'상폐 위기' 기업 왜 급증했나",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/visual-news/article/2026080709003887929"
+          "title": "배틀그라운드 모바일 월드컵 파리서 개막",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260806001110"
+        }
+      ]
+    },
+    {
+      "id": "이준영",
+      "rank": 10,
+      "keyword": "이준영",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '송강·이준영 아름다운 화음 끝→비극의 변주 시작 (포핸즈)' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "송강·이준영 아름다운 화음 끝→비극의 변주 시작 (포핸즈)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260807/134435532/1"
+        },
+        {
+          "title": "‘포핸즈’ 친구에서 라이벌로",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807082409836"
+        },
+        {
+          "title": "'포핸즈' 송강·이준영·장규리, 스물일곱으로 성장한 세 청춘",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/entertain/2350832.htm"
         }
       ]
     }
