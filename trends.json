@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-07T18:25:29.269Z",
+  "updatedAt": "2026-08-07T19:32:55.512Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,35 +9,63 @@
       "rank": 1,
       "keyword": "하한가",
       "volumeLabel": "1000+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '하이닉스, 전날 10% 폭락이어 또 4.8% 급락…삼전 0.2%↑(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '프리마켓 하이닉스 하한가 논란…넥스트레이드 \"재발 막겠다\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "하이닉스, 전날 10% 폭락이어 또 4.8% 급락…삼전 0.2%↑(종합)",
+          "title": "프리마켓 하이닉스 하한가 논란…넥스트레이드 \"재발 막겠다\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260807155539851"
+          "url": "https://v.daum.net/v/20260807160902365"
         },
         {
-          "title": "하이닉스 단 1주 하한가, 실수인가 조작인가? \"상하한가 주문 금지\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6843240_37004.html"
+          "title": "11주에 SK하닉 '하한가' 직행…프리마켓 상·하한가 주문, 한달간 금지 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/08/07/2026080716173453746"
         },
         {
-          "title": "\"주가 반토막 났는데\" … 시총 100위 유한양행보다 못한 SK하닉 주주환원",
-          "source": "뉴데일리",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/05/2026080500068.html"
+          "title": "하이닉스, 전날 10% 폭락이어 또 4.8% 급락…삼전 0.2%↑(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260807040351008"
+        }
+      ]
+    },
+    {
+      "id": "이시영",
+      "rank": 2,
+      "keyword": "이시영",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+4",
+      "summary": "급상승 시점에 '이시영, '이혼 후 임신' 9개월 딸 없이...첫째와 한 달 캐나다 떠났다 \"내년엔 같이\" [엑's 이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이시영, '이혼 후 임신' 9개월 딸 없이...첫째와 한 달 캐나다 떠났다 \"내년엔 같이\" [엑's 이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807150938276"
+        },
+        {
+          "title": "이시영, 9개월 딸 놔두고 캐나다 떠났다…아들과 '한달살이' 근황 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/07/2026080718242071697"
+        },
+        {
+          "title": "이시영, 子와 함께 폭염 피했다 \"한 달째 캐나다···에어컨 없어도 시원\"",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112853264"
         }
       ]
     },
     {
       "id": "류혜영",
-      "rank": 2,
+      "rank": 3,
       "keyword": "류혜영",
       "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "5시간 전",
       "change": "down",
       "changeLabel": "-1",
       "summary": "급상승 시점에 '류혜영 머리 정리해주는 고경표, '찐친'이 설레도 되나요?' (Daum) 관련 뉴스가 함께 포착됐어요.",
@@ -62,12 +90,12 @@
     },
     {
       "id": "김구라",
-      "rank": 3,
+      "rank": 4,
       "keyword": "김구라",
       "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '김구라 딸, 연예인 사주라더니…MC그리도 \"끼 정말 많다\" 눈길' (OSEN) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -90,12 +118,12 @@
     },
     {
       "id": "블랙핑크",
-      "rank": 4,
+      "rank": 5,
       "keyword": "블랙핑크",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '블랙핑크 완전체, 데뷔 10주년 맞아 ‘국중박’에서 팬들 만난다' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -118,12 +146,12 @@
     },
     {
       "id": "최현석",
-      "rank": 5,
+      "rank": 6,
       "keyword": "최현석",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '최현석 딸 최연수 \"제왕절개 한 달 전이 제일 무서웠다\" 출산 회상' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -145,39 +173,11 @@
       ]
     },
     {
-      "id": "이시영",
-      "rank": 6,
-      "keyword": "이시영",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '한국은 폭염인데…이시영 “캐나다는 에어컨 필요 없어” 근황' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "한국은 폭염인데…이시영 “캐나다는 에어컨 필요 없어” 근황",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807113149517"
-        },
-        {
-          "title": "이시영, 9개월 딸 놔두고 캐나다 떠났다…아들과 '한달살이' 근황 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/07/2026080718242071697"
-        },
-        {
-          "title": "이시영, '이혼 후 임신' 9개월 딸 없이…첫째와 한 달 캐나다 떠났다 \"내년엔 같이\" [엑's 이슈]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260807n18225"
-        }
-      ]
-    },
-    {
       "id": "정해인",
       "rank": 7,
       "keyword": "정해인",
       "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
+      "startedLabel": "6시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 '정해인, 김해숙 집까지 초대받았는데…\"너 나가\" 쫓겨날 뻔 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
@@ -189,14 +189,14 @@
           "url": "https://www.mt.co.kr/entertainment/2026/08/08/2026080801435929297"
         },
         {
-          "title": "송은이, 정해인 '찐팬' 인정 \"한때 같은 소속사, 내가 질척거렸다\" ('옥문아') - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/07/GZRWKZRTGEYTAZBVMJRWCYJUME/"
-        },
-        {
           "title": "정해인, 예능이 이렇게까지 긴장됐나…녹화 전 '급체'까지 (옥문아)",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260807223107453"
+        },
+        {
+          "title": "송은이, 정해인 '찐팬' 인정 \"한때 같은 소속사, 내가 질척거렸다\" ('옥문아') - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/07/GZRWKZRTGEYTAZBVMJRWCYJUME/"
         }
       ]
     },
@@ -205,9 +205,9 @@
       "rank": 8,
       "keyword": "놀면 뭐하니",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-2",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 ''놀면 뭐하니?' 유재석, 정준하 향수 냄새에 폭발 \"왜 이렇게 뿌려\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -233,26 +233,26 @@
       "rank": 9,
       "keyword": "기사",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '최휘영 장관 강원도 방문, 문화·체육 현안 지원 논의(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '민선 9기 강원도지사-18개 시장·군수 첫 간담회…\"초당적 협력\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "최휘영 장관 강원도 방문, 문화·체육 현안 지원 논의(종합)",
+          "title": "민선 9기 강원도지사-18개 시장·군수 첫 간담회…\"초당적 협력\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/7e7g7HXS1c"
+          "url": "https://v.daum.net/v/qUGElckLGn"
         },
         {
-          "title": "문체부 장관, 강원 찾아 문화·체육·관광 현장 소통 나서",
-          "source": "서울Pn",
-          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=441301"
-        },
-        {
-          "title": "최휘영 장관, 우상호 강원지사와 지역 문화 현안 논의",
+          "title": "원주시, 지역첨단의료복합단진 지정 준비 본격 나서",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260807120300005"
+          "url": "https://www.yna.co.kr/view/AKR20260807146400062"
+        },
+        {
+          "title": "우상호 도지사-시장군수, ‘강원 동행 원팀’ 협의",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8631550"
         }
       ]
     }
