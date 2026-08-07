@@ -1,85 +1,141 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-07T15:01:32.321Z",
+  "updatedAt": "2026-08-07T16:26:21.401Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "베트남-대-캄보디아",
+      "id": "류혜영",
       "rank": 1,
-      "keyword": "베트남 대 캄보디아",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+3",
-      "summary": "급상승 시점에 ''이게 김상식 매직' 30년 새 역사 쓰자, 신태용 감독 대체 '잉글랜드 출신' 세계적 지도자 엄지척...\"존경을 표했다\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "류혜영",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '류혜영 머리 정리해주는 고경표, '찐친'이 설레도 되나요?' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'이게 김상식 매직' 30년 새 역사 쓰자, 신태용 감독 대체 '잉글랜드 출신' 세계적 지도자 엄지척...\"존경을 표했다\"",
+          "title": "류혜영 머리 정리해주는 고경표, '찐친'이 설레도 되나요?",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260807061510717"
+          "url": "https://v.daum.net/v/20260807205639312"
         },
         {
-          "title": "한국인이 3-0으로 이겼는데…이젠 한국인에 0-3으로 무너지네→인니 홈 30년 징크스 '와르르', STY 끝내 소환",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260806n32114"
+          "title": "'16년 우정' 고경표·류혜영, 커플 같네…'김삼순 계단'도 찾았다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260807_0003740952"
         },
         {
-          "title": "'박항서도 못했던 30년 한 풀었다' 김상식, 베트남 축구 최초 21G 무패→30년 만의 인도네시아 원정 승리까지 '역사 그 자체' - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/baseball/2026/08/05/G5SDAZTFMNTGCZTDMJRTAM3BMI/"
+          "title": "'나혼산' 류혜영 \"일본 한 달 살기 후 짐 버리기 프로젝트 시작\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6252850"
+        }
+      ]
+    },
+    {
+      "id": "하한가",
+      "rank": 2,
+      "keyword": "하한가",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '하이닉스, 전날 10% 폭락이어 또 4.8% 급락…삼전 0.2%↑(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "하이닉스, 전날 10% 폭락이어 또 4.8% 급락…삼전 0.2%↑(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807155539851"
+        },
+        {
+          "title": "하이닉스 단 1주 하한가, 실수인가 조작인가? \"상하한가 주문 금지\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6843240_37004.html"
+        },
+        {
+          "title": "\"주가 반토막 났는데\" … 시총 100위 유한양행보다 못한 SK하닉 주주환원",
+          "source": "뉴데일리",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/05/2026080500068.html"
+        }
+      ]
+    },
+    {
+      "id": "김구라",
+      "rank": 3,
+      "keyword": "김구라",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김구라 딸, 연예인 사주라더니…MC그리도 \"끼 정말 많다\" 눈길' (OSEN) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김구라 딸, 연예인 사주라더니…MC그리도 \"끼 정말 많다\" 눈길",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112853635"
+        },
+        {
+          "title": "'김구라 子' 그리, 할머니가 물은 친母 근황 \"나뿐이라 연락 잘 드려\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-08-07/202608070100043440002689"
+        },
+        {
+          "title": "'김구라 子' 그리, 87세 할머니 모시고 5성급 호텔 호캉스…\"유럽도 보내드릴게\"",
+          "source": "텐아시아",
+          "url": "https://www.tenasia.co.kr/article/2026080714994"
         }
       ]
     },
     {
       "id": "việt-nam-đấu-với-campuchia",
-      "rank": 2,
+      "rank": 4,
       "keyword": "việt nam đấu với campuchia",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Trực tiếp Việt Nam và Campuchia 1-0 (Hiệp 2): Các cơ hội đang đến nhiều…' (Báo điện tử Tiền Phong) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 'Một số cầu thủ Campuchia rời đội tuyển trước trận gặp Việt Nam' (Znews) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Trực tiếp Việt Nam và Campuchia 1-0 (Hiệp 2): Các cơ hội đang đến nhiều hơn",
+          "title": "Một số cầu thủ Campuchia rời đội tuyển trước trận gặp Việt Nam",
+          "source": "Znews",
+          "url": "https://lifestyle.znews.vn/mot-so-cau-thu-campuchia-roi-doi-tuyen-truoc-tran-gap-viet-nam-post1675206.html"
+        },
+        {
+          "title": "Báo Indonesia ngả mũ trước thành tích xuất sắc của đội tuyển Việt Nam",
           "source": "Báo điện tử Tiền Phong",
-          "url": "https://tienphong.vn/truc-tiep-viet-nam-va-campuchia-1-0-hiep-2-cac-co-hoi-dang-den-nhieu-hon-post1866029.tpo"
+          "url": "https://tienphong.vn/bao-indonesia-nga-mu-truoc-thanh-tich-xuat-sac-cua-doi-tuyen-viet-nam-post1866096.tpo"
         },
         {
-          "title": "Link xem trực tiếp trận tuyển Việt Nam đối đầu Campuchia tại ASEAN Cup 2026",
+          "title": "Trực tiếp họp báo sau trận đấu: HLV Kim Sang-sik trả lời phỏng vấn",
           "source": "Laodong.vn",
-          "url": "https://laodong.vn/ldt/the-thao/link-xem-truc-tiep-tran-tuyen-viet-nam-doi-dau-campuchia-tai-asean-cup-2026-1747458.ldo"
-        },
-        {
-          "title": "[Ảnh] Không khí sôi động trên khán đài Mỹ Đình trước trận Việt Nam-Campuchia",
-          "source": "Báo Nhân Dân điện tử",
-          "url": "https://nhandan.vn/anh-khong-khi-soi-dong-tren-khan-dai-my-dinh-truoc-tran-viet-nam-campuchia-post980518.html"
+          "url": "https://laodong.vn/bong-da/truc-tiep-hop-bao-sau-tran-dau-hlv-kim-sang-sik-tra-loi-phong-van-1747583.ldo"
         }
       ]
     },
     {
       "id": "뉴데일리",
-      "rank": 3,
+      "rank": 5,
       "keyword": "뉴데일리",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '[뉴스 분석] 취임 후 지지율 최저치 기록한 이재명 대통령…왜?' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "[뉴스 분석] 취임 후 지지율 최저치 기록한 이재명 대통령…왜?",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260807101502943"
+          "url": "https://v.daum.net/v/G0eB4yWIwP"
         },
         {
-          "title": "여론조사 7곳서 이 대통령 지지도 50% 붕괴 … 2030여론 악화도",
+          "title": "이 대통령 지지율 하락, 한국경제 “30대 분노” 경향신문 “지지층도 이탈”",
           "source": "미디어오늘",
-          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336276"
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336251"
         },
         {
           "title": "'보완수사·부동산·주식' 동시 타격 … 李 지지율 30%대 급락 땐 국정 동력 급속 약화",
@@ -90,19 +146,19 @@
     },
     {
       "id": "재벌형사",
-      "rank": 4,
+      "rank": 6,
       "keyword": "재벌형사",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''재벌X형사2' 안보현, 첫방부터 위기...'인간 시한폭탄' - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 '[1회 선공개 2] “이번 기수 돌아이는 너구나?” 안보현×정은채, 경찰학교에서 시작된 지독한 악연!' (programs.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'재벌X형사2' 안보현, 첫방부터 위기...'인간 시한폭탄' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/07/2026080713167227354"
+          "title": "[1회 선공개 2] “이번 기수 돌아이는 너구나?” 안보현×정은채, 경찰학교에서 시작된 지독한 악연!",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/drama/sd243062/clip/88571/OC480984313?div=live_end"
         },
         {
           "title": "안보현·정은채, '김부장' 흥행 바통 이어받는다..살 떨리는 첫 만남(재벌X형사2)",
@@ -110,121 +166,65 @@
           "url": "https://www.chosun.com/entertainments/broadcast/2026/08/07/HFRGENBQMJSDMMRQHBSTSMLDGA/"
         },
         {
-          "title": "안보현 ‘재벌X형사2’ 오늘 첫방..지성vs남궁민vs공효진vs박은빈 ‘시청률 전쟁’ 참전 [Oh!쎈 이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807161137457"
+          "title": "한식 브랜드 ‘계근상’, SBS 금토드라마 ‘재벌X형사 2’ 제작지원",
+          "source": "시선뉴스",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "기사",
+      "rank": 7,
+      "keyword": "기사",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[단독] 쿠팡 배송하다 또 쓰러져…삼성 설치기사 “땀냄새로 평점 깎아”' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[단독] 쿠팡 배송하다 또 쓰러져…삼성 설치기사 “땀냄새로 평점 깎아”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/labor/1271900.html"
+        },
+        {
+          "title": "폭염에 또 쓰러진 쿠팡 택배기사···“앞서 2명 응급실 실려갔지만 아무런 대책 안 나와”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608071942001"
+        },
+        {
+          "title": "[와글와글] 쿠팡 택배기사의 절규‥\"현장 목소리 들어달라\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6843052_37012.html"
         }
       ]
     },
     {
       "id": "정해인",
-      "rank": 5,
+      "rank": 8,
       "keyword": "정해인",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '송은이, 정해인 '찐팬' 인정 \"한때 같은 소속사, 내가 질척거렸다\" ('옥문아') - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-3",
+      "summary": "급상승 시점에 '정해인, 예능이 이렇게까지 긴장됐나…녹화 전 '급체'까지 (옥문아)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "정해인, 예능이 이렇게까지 긴장됐나…녹화 전 '급체'까지 (옥문아)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807223107453"
+        },
+        {
+          "title": "정해인 “홍진경 누나가 야관문주 담가줬다”…송은이 질투 폭발",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260806/134428668/1"
+        },
         {
           "title": "송은이, 정해인 '찐팬' 인정 \"한때 같은 소속사, 내가 질척거렸다\" ('옥문아') - 조선비즈",
           "source": "Chosunbiz",
           "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/07/GZRWKZRTGEYTAZBVMJRWCYJUME/"
-        },
-        {
-          "title": "정해인 미담 나왔다…송은이 \"소속사 전 직원에게 패딩 선물\"('옥문아')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/UIjniHXSWE"
-        },
-        {
-          "title": "정해인 \"홍진경, 야관문주 만들어줬다\"…'옥문아' 술렁",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6250782"
-        }
-      ]
-    },
-    {
-      "id": "전고체-전지",
-      "rank": 6,
-      "keyword": "전고체 전지",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '삼성SDI·SK온, 솔리드파워와 전고체 배터리 상용화 '성큼'' (더구루) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "삼성SDI·SK온, 솔리드파워와 전고체 배터리 상용화 '성큼'",
-          "source": "더구루",
-          "url": "https://www.theguru.co.kr/news/article.html?no=105428"
-        },
-        {
-          "title": "솔리드 파워, 2분기 매출 환입에 적자 지속…\"한국 내 합작법인 설립 논의 중\"",
-          "source": "데이터투자",
-          "url": "https://www.datatooza.com/article/202608050707574163cd1e7aaf3a_80"
-        },
-        {
-          "title": "동화기업 주가, 상한가... 무슨 회사길래?",
-          "source": "금강일보",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1174033"
-        }
-      ]
-    },
-    {
-      "id": "김상혁",
-      "rank": 7,
-      "keyword": "김상혁",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 ''신랑수업2' 47세 돌싱 김상혁, 소개팅女 첫만남…\"하얀 튤립 같아\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'신랑수업2' 47세 돌싱 김상혁, 소개팅女 첫만남…\"하얀 튤립 같아\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807115653404"
-        },
-        {
-          "title": "김상혁, 이혼 후 소개팅…\"둘이 잘 맞네\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260807_0003740140"
-        },
-        {
-          "title": "47세 김상혁, 홀로서기 6년만..인터넷 쇼핑몰 CEO와 소개팅 (‘신랑수업’) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/07/GUZWMNJVGM4DMYRWMQYDIY3CGM/"
-        }
-      ]
-    },
-    {
-      "id": "엘니뇨",
-      "rank": 8,
-      "keyword": "엘니뇨",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 ''찜통 더위' 언제 끝나나…전문가 \"올해가 가장 덜 더운 여름 될 수도\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'찜통 더위' 언제 끝나나…전문가 \"올해가 가장 덜 더운 여름 될 수도\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807044110452"
-        },
-        {
-          "title": "폭염과 사투…시민도 기업도 동참",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8631686"
-        },
-        {
-          "title": "\"너무 더워 태풍도 비껴간다\"...사라진 '절기 매직' [Y녹취록]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202608070840414545"
         }
       ]
     },
@@ -233,9 +233,9 @@
       "rank": 9,
       "keyword": "싱가포르 대 인도네시아",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '8월 7일 저녁 8시에 열리는 싱가포르와 인도네시아의 축구 경기를 생중계로 시청할 수 있는 링크입니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -261,9 +261,9 @@
       "rank": 10,
       "keyword": "박항서",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '박항서, 태국 2부리그서 새 도전 \"원팀 이끌어 반드시 승격\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
