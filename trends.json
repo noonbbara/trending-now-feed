@@ -1,45 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-07T17:26:41.707Z",
+  "updatedAt": "2026-08-07T18:25:29.269Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "류혜영",
-      "rank": 1,
-      "keyword": "류혜영",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '류혜영 머리 정리해주는 고경표, '찐친'이 설레도 되나요?' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "류혜영 머리 정리해주는 고경표, '찐친'이 설레도 되나요?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807205639312"
-        },
-        {
-          "title": "'16년 우정' 고경표·류혜영, 커플 같네…'김삼순 계단'도 찾았다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260807_0003740952"
-        },
-        {
-          "title": "'나혼산' 류혜영 \"일본 한 달 살기 후 짐 버리기 프로젝트 시작\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6252850"
-        }
-      ]
-    },
-    {
       "id": "하한가",
-      "rank": 2,
+      "rank": 1,
       "keyword": "하한가",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "volumeLabel": "1000+",
+      "startedLabel": "4시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '하이닉스, 전날 10% 폭락이어 또 4.8% 급락…삼전 0.2%↑(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -61,11 +33,39 @@
       ]
     },
     {
+      "id": "류혜영",
+      "rank": 2,
+      "keyword": "류혜영",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '류혜영 머리 정리해주는 고경표, '찐친'이 설레도 되나요?' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "류혜영 머리 정리해주는 고경표, '찐친'이 설레도 되나요?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807205639312"
+        },
+        {
+          "title": "'16년 우정' 고경표·류혜영, 커플 같네…'김삼순 계단'도 찾았다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260807_0003740952"
+        },
+        {
+          "title": "'나혼산' 고경표 \"父, 족보 다 태워…온전히 네 삶 살라고 해\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6252851"
+        }
+      ]
+    },
+    {
       "id": "김구라",
       "rank": 3,
       "keyword": "김구라",
       "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "4시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 '김구라 딸, 연예인 사주라더니…MC그리도 \"끼 정말 많다\" 눈길' (OSEN) 관련 뉴스가 함께 포착됐어요.",
@@ -77,42 +77,42 @@
           "url": "https://www.osen.co.kr/article/G1112853635"
         },
         {
-          "title": "'김구라 子' 그리, 87세 할머니 모시고 5성급 호텔 호캉스…\"유럽도 보내드릴게\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807222847417"
-        },
-        {
           "title": "'김구라 子' 그리, 할머니가 물은 친母 근황 \"나뿐이라 연락 잘 드려\"",
           "source": "스포츠조선",
           "url": "https://www.sportschosun.com/entertainment/2026-08-07/202608070100043440002689"
+        },
+        {
+          "title": "'김구라 子' 그리, 87세 할머니 모시고 5성급 호텔 호캉스…\"유럽도 보내드릴게\"",
+          "source": "텐아시아",
+          "url": "https://www.tenasia.co.kr/article/2026080714994"
         }
       ]
     },
     {
-      "id": "이시영",
+      "id": "블랙핑크",
       "rank": 4,
-      "keyword": "이시영",
+      "keyword": "블랙핑크",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이시영, '이혼 후 임신' 9개월 딸 없이...첫째와 한 달 캐나다 떠났다 \"내년엔 같이\" [엑's 이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '블랙핑크 완전체, 데뷔 10주년 맞아 ‘국중박’에서 팬들 만난다' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이시영, '이혼 후 임신' 9개월 딸 없이...첫째와 한 달 캐나다 떠났다 \"내년엔 같이\" [엑's 이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807150938276"
+          "title": "블랙핑크 완전체, 데뷔 10주년 맞아 ‘국중박’에서 팬들 만난다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608071756001"
         },
         {
-          "title": "이시영, 9개월 딸 놔두고 캐나다 떠났다…아들과 '한달살이' 근황 - 머니투데이",
+          "title": "[단독] 블랙핑크, 급조된 10주년…\"팬 이벤트 장소는, 국중박\"",
+          "source": "디스패치",
+          "url": "https://www.dispatch.co.kr/2346099"
+        },
+        {
+          "title": "\"멤버 불참 없다\"…블랙핑크, '완전체'로 데뷔 10주년 이벤트 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/07/2026080718242071697"
-        },
-        {
-          "title": "이시영, 子와 함께 폭염 피했다 \"한 달째 캐나다···에어컨 없어도 시원\"",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112853264"
+          "url": "https://www.mt.co.kr/entertainment/2026/08/07/2026080711281356924"
         }
       ]
     },
@@ -121,54 +121,54 @@
       "rank": 5,
       "keyword": "최현석",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '최현석 셰프 딸, 파혼 위로했다…누리꾼 고민에 \"맞는 사람 있어\" 조언' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '최현석 딸 최연수 \"제왕절개 한 달 전이 제일 무서웠다\" 출산 회상' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "최현석 셰프 딸, 파혼 위로했다…누리꾼 고민에 \"맞는 사람 있어\" 조언",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807100122188"
+          "title": "최현석 딸 최연수 \"제왕절개 한 달 전이 제일 무서웠다\" 출산 회상",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260807_0003739877"
         },
         {
-          "title": "“술 금지” 최현석 딸 최연수, 헤어진 여자친구 잊는 법 조언",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026080717173807899"
+          "title": "'최현석 딸' 최연수, 조기 출산 후 체중 고민 \"28kg 증량…12kg가 남았어요\" - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/07/MJRTQNBWHBSTKMBRMMYWENLDMY/"
         },
         {
-          "title": "‘김태현♥’ 최연수, ‘파혼 고백’ 팬에 진심 어린 위로…”나도 밥도 못 먹고 난리” [RE:스타]",
-          "source": "TV리포트",
-          "url": "https://tvreport.co.kr/breaking/article/1067049/"
+          "title": "최현석 손자 맞네…최연수 子, 할아버지와 웃는 표정이 ‘복붙’ 수준",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608071143003"
         }
       ]
     },
     {
-      "id": "놀면-뭐하니",
+      "id": "이시영",
       "rank": 6,
-      "keyword": "놀면 뭐하니",
-      "volumeLabel": "100+",
+      "keyword": "이시영",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''놀면 뭐하니?' 유재석, 정준하 향수 냄새에 폭발 \"왜 이렇게 뿌려\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 '한국은 폭염인데…이시영 “캐나다는 에어컨 필요 없어” 근황' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'놀면 뭐하니?' 유재석, 정준하 향수 냄새에 폭발 \"왜 이렇게 뿌려\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/07/2026080710427213010"
-        },
-        {
-          "title": "유재석, 폭염 탈출 솔루션은? \"땀이 쏙 들어갔네\" (놀뭐)",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/514021"
-        },
-        {
-          "title": "유재석, 진상 행위 지적했다…\"5만 원 회비 내고 너무 까탈스러워\" 향수 냄새에 고통 ('놀뭐')",
+          "title": "한국은 폭염인데…이시영 “캐나다는 에어컨 필요 없어” 근황",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260807143114940"
+          "url": "https://v.daum.net/v/20260807113149517"
+        },
+        {
+          "title": "이시영, 9개월 딸 놔두고 캐나다 떠났다…아들과 '한달살이' 근황 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/07/2026080718242071697"
+        },
+        {
+          "title": "이시영, '이혼 후 임신' 9개월 딸 없이…첫째와 한 달 캐나다 떠났다 \"내년엔 같이\" [엑's 이슈]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260807n18225"
         }
       ]
     },
@@ -177,9 +177,9 @@
       "rank": 7,
       "keyword": "정해인",
       "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '정해인, 김해숙 집까지 초대받았는데…\"너 나가\" 쫓겨날 뻔 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -189,70 +189,70 @@
           "url": "https://www.mt.co.kr/entertainment/2026/08/08/2026080801435929297"
         },
         {
+          "title": "송은이, 정해인 '찐팬' 인정 \"한때 같은 소속사, 내가 질척거렸다\" ('옥문아') - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/07/GZRWKZRTGEYTAZBVMJRWCYJUME/"
+        },
+        {
           "title": "정해인, 예능이 이렇게까지 긴장됐나…녹화 전 '급체'까지 (옥문아)",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260807223107453"
+        }
+      ]
+    },
+    {
+      "id": "놀면-뭐하니",
+      "rank": 8,
+      "keyword": "놀면 뭐하니",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 ''놀면 뭐하니?' 유재석, 정준하 향수 냄새에 폭발 \"왜 이렇게 뿌려\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'놀면 뭐하니?' 유재석, 정준하 향수 냄새에 폭발 \"왜 이렇게 뿌려\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/07/2026080710427213010"
         },
         {
-          "title": "정해인 “홍진경 누나가 야관문주 담가줬다”…송은이 질투 폭발",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260806/134428668/1"
+          "title": "역시 유재석, 기가 막힌 폭염 솔루션 내렸다…“땀이 쏙 들어갔네” (놀뭐)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/KVkptBb0u4"
+        },
+        {
+          "title": "유재석, 폭염 탈출 솔루션은? \"땀이 쏙 들어갔네\" (놀뭐)",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/514021"
         }
       ]
     },
     {
       "id": "기사",
-      "rank": 8,
+      "rank": 9,
       "keyword": "기사",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "down",
       "changeLabel": "-1",
-      "summary": "급상승 시점에 '폭염에 또 쓰러진 쿠팡 택배기사···“앞서 2명 응급실 실려갔지만 아무런 대책 안 나와”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '최휘영 장관 강원도 방문, 문화·체육 현안 지원 논의(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "폭염에 또 쓰러진 쿠팡 택배기사···“앞서 2명 응급실 실려갔지만 아무런 대책 안 나와”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608071942001"
+          "title": "최휘영 장관 강원도 방문, 문화·체육 현안 지원 논의(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/7e7g7HXS1c"
         },
         {
-          "title": "[와글와글] 쿠팡 택배기사의 절규‥\"현장 목소리 들어달라\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6843052_37012.html"
+          "title": "문체부 장관, 강원 찾아 문화·체육·관광 현장 소통 나서",
+          "source": "서울Pn",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=441301"
         },
         {
-          "title": "‘42도’ 쿠팡 물류캠프 하루 2명 쓰러져…“에어컨 없고, 선풍기도 안 돌아“",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/labor/1271504.html"
-        }
-      ]
-    },
-    {
-      "id": "싱가포르-대-인도네시아",
-      "rank": 9,
-      "keyword": "싱가포르 대 인도네시아",
-      "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '8월 7일 저녁 8시에 열리는 싱가포르와 인도네시아의 축구 경기를 생중계로 시청할 수 있는 링크입니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "8월 7일 저녁 8시에 열리는 싱가포르와 인도네시아의 축구 경기를 생중계로 시청할 수 있는 링크입니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/link-xem-truc-tiep-bong-da-singapore-vs-indonesia-20h00-ngay-7-8"
-        },
-        {
-          "title": "2026 아세안컵 싱가포르 대 인도네시아 축구 생중계",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/the-thao/truc-tiep-bong-da-singapore-vs-indonesia-tai-asean-cup-2026-1747517.ldo"
-        },
-        {
-          "title": "베트남전 패배 이후 싱가포르와의 경기에서 탈락 위기에 놓이게 된 인도네시아의 세 가지 실수.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/3-sai-lam-khien-indonesia-de-bi-loai-truoc-singapore-tu-tran-thua-doi-tuyen-viet-nam"
+          "title": "최휘영 장관, 우상호 강원지사와 지역 문화 현안 논의",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260807120300005"
         }
       ]
     }
