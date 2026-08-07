@@ -1,34 +1,34 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-07T19:32:55.512Z",
+  "updatedAt": "2026-08-07T20:50:45.135Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "하한가",
+      "id": "북한이탈주민",
       "rank": 1,
-      "keyword": "하한가",
-      "volumeLabel": "1000+",
-      "startedLabel": "5시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '프리마켓 하이닉스 하한가 논란…넥스트레이드 \"재발 막겠다\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "북한이탈주민",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '경인방송 '북한이탈주민' 이야기 담은 음악 방송 선보인다' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "프리마켓 하이닉스 하한가 논란…넥스트레이드 \"재발 막겠다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807160902365"
+          "title": "경인방송 '북한이탈주민' 이야기 담은 음악 방송 선보인다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260807_0003740794"
         },
         {
-          "title": "11주에 SK하닉 '하한가' 직행…프리마켓 상·하한가 주문, 한달간 금지 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/08/07/2026080716173453746"
+          "title": "“북한이탈주민 새 삶과 희망, 음악으로” 경인방송, 힐링 음악프로그램 첫 방송",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260806580415"
         },
         {
-          "title": "하이닉스, 전날 10% 폭락이어 또 4.8% 급락…삼전 0.2%↑(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260807040351008"
+          "title": "경인방송, 북한이탈주민 '시즌1 그 노래, 그 사람' 첫 방송",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/gyeonggi/6251461"
         }
       ]
     },
@@ -36,10 +36,10 @@
       "id": "이시영",
       "rank": 2,
       "keyword": "이시영",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+4",
+      "volumeLabel": "1000+",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '이시영, '이혼 후 임신' 9개월 딸 없이...첫째와 한 달 캐나다 떠났다 \"내년엔 같이\" [엑's 이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -61,97 +61,13 @@
       ]
     },
     {
-      "id": "류혜영",
-      "rank": 3,
-      "keyword": "류혜영",
-      "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '류혜영 머리 정리해주는 고경표, '찐친'이 설레도 되나요?' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "류혜영 머리 정리해주는 고경표, '찐친'이 설레도 되나요?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807205639312"
-        },
-        {
-          "title": "'16년 우정' 고경표·류혜영, 커플 같네…'김삼순 계단'도 찾았다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260807_0003740952"
-        },
-        {
-          "title": "'나혼산' 고경표 \"父, 족보 다 태워…온전히 네 삶 살라고 해\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6252851"
-        }
-      ]
-    },
-    {
-      "id": "김구라",
-      "rank": 4,
-      "keyword": "김구라",
-      "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '김구라 딸, 연예인 사주라더니…MC그리도 \"끼 정말 많다\" 눈길' (OSEN) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김구라 딸, 연예인 사주라더니…MC그리도 \"끼 정말 많다\" 눈길",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112853635"
-        },
-        {
-          "title": "'김구라 子' 그리, 할머니가 물은 친母 근황 \"나뿐이라 연락 잘 드려\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-08-07/202608070100043440002689"
-        },
-        {
-          "title": "'김구라 子' 그리, 87세 할머니 모시고 5성급 호텔 호캉스…\"유럽도 보내드릴게\"",
-          "source": "텐아시아",
-          "url": "https://www.tenasia.co.kr/article/2026080714994"
-        }
-      ]
-    },
-    {
-      "id": "블랙핑크",
-      "rank": 5,
-      "keyword": "블랙핑크",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '블랙핑크 완전체, 데뷔 10주년 맞아 ‘국중박’에서 팬들 만난다' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "블랙핑크 완전체, 데뷔 10주년 맞아 ‘국중박’에서 팬들 만난다",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608071756001"
-        },
-        {
-          "title": "[단독] 블랙핑크, 급조된 10주년…\"팬 이벤트 장소는, 국중박\"",
-          "source": "디스패치",
-          "url": "https://www.dispatch.co.kr/2346099"
-        },
-        {
-          "title": "\"멤버 불참 없다\"…블랙핑크, '완전체'로 데뷔 10주년 이벤트 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/07/2026080711281356924"
-        }
-      ]
-    },
-    {
       "id": "최현석",
-      "rank": 6,
+      "rank": 3,
       "keyword": "최현석",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "volumeLabel": "500+",
+      "startedLabel": "5시간 전",
+      "change": "up",
+      "changeLabel": "+3",
       "summary": "급상승 시점에 '최현석 딸 최연수 \"제왕절개 한 달 전이 제일 무서웠다\" 출산 회상' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -173,41 +89,153 @@
       ]
     },
     {
-      "id": "정해인",
-      "rank": 7,
-      "keyword": "정해인",
-      "volumeLabel": "200+",
-      "startedLabel": "6시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '정해인, 김해숙 집까지 초대받았는데…\"너 나가\" 쫓겨날 뻔 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "id": "latest-iphone-rumors",
+      "rank": 4,
+      "keyword": "latest iphone rumors",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Apple Gears Up for September iPhone Launch With Retail Employee Lottery' (Bloomberg.com) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "정해인, 김해숙 집까지 초대받았는데…\"너 나가\" 쫓겨날 뻔 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/08/2026080801435929297"
+          "title": "Apple Gears Up for September iPhone Launch With Retail Employee Lottery",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-04/apple-gears-up-for-september-iphone-launch-with-retail-employee-lottery"
         },
         {
-          "title": "정해인, 예능이 이렇게까지 긴장됐나…녹화 전 '급체'까지 (옥문아)",
+          "title": "Apple maybe this year they will change the September one keynote. Spectators are in for a more lively spectacle",
+          "source": "Letem světem Applem",
+          "url": "https://www.letemsvetemapplem.eu/en/2026/08/07/apple-mozna-letos-zmeni-zarijovou-keynote-divaky-ceka-zivejsi-podivana/"
+        },
+        {
+          "title": "Skipping this year’s iPhone is completely fine – here’s why nobody will judge you for it",
+          "source": "Stuff",
+          "url": "https://www.stuff.tv/features/skipping-this-years-iphone-is-completely-fine-heres-why-nobody-will-judge-you-for-it/"
+        }
+      ]
+    },
+    {
+      "id": "노사모",
+      "rank": 5,
+      "keyword": "노사모",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[비하인드 뉴스] \"주석야청!\" 이성윤 호남 비하 논란…\"당원을 뭘로 보고\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[비하인드 뉴스] \"주석야청!\" 이성윤 호남 비하 논란…\"당원을 뭘로 보고\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260807223107453"
+          "url": "https://v.daum.net/v/20260807211304538"
         },
         {
-          "title": "송은이, 정해인 '찐팬' 인정 \"한때 같은 소속사, 내가 질척거렸다\" ('옥문아') - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/07/GZRWKZRTGEYTAZBVMJRWCYJUME/"
+          "title": "與전대, 오늘 제주·인천 경선…정청래·김민석 박빙 속 2차전",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260807155200001"
+        },
+        {
+          "title": "정청래 ‘노무현 정신’ 강조에 노사모 전 대표 반발…“전당대회, 비전 제시를”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1271939.html"
+        }
+      ]
+    },
+    {
+      "id": "lottery-results-today",
+      "rank": 6,
+      "keyword": "lottery results today",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[OUT] EuroMillions Lottery Results Today, 07 August 2026: Friday Winnin…' (The Sunday Guardian) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[OUT] EuroMillions Lottery Results Today, 07 August 2026: Friday Winning Numbers Announced, £94 Million Jackpot to Roll Over – Millionaire Maker Code, Full Draw Details | Here’s How to Claim",
+          "source": "The Sunday Guardian",
+          "url": "https://sundayguardianlive.com/world/out-euromillions-lottery-results-today-07-august-2026-friday-winning-numbers-announced-94-million-jackpot-to-roll-over-millionaire-maker-code-full-draw-details-heres-how-to-claim-256054/"
+        },
+        {
+          "title": "Winning EuroMillions and Thunderball numbers for Tuesday's £84m jackpot",
+          "source": "Chronicle Live",
+          "url": "https://www.chroniclelive.co.uk/news/uk-news/winning-euromillions-thunderball-numbers-tuesdays-34404963"
+        },
+        {
+          "title": "£84m EuroMillions jackpot tonight as £8 Wowcher deal offers 500 entries",
+          "source": "NationalWorld",
+          "url": "https://www.nationalworld.com/recommended/euromillions-jackpot-tonight-84m-wowcher-500-lines-deal-silentmode-8837790"
+        }
+      ]
+    },
+    {
+      "id": "블랙핑크",
+      "rank": 7,
+      "keyword": "블랙핑크",
+      "volumeLabel": "200+",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 '블랙핑크 완전체, 데뷔 10주년 맞아 ‘국중박’에서 팬들 만난다' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "블랙핑크 완전체, 데뷔 10주년 맞아 ‘국중박’에서 팬들 만난다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608071756001"
+        },
+        {
+          "title": "[공식] \"큰 섭섭함 안겨\" 블핑 지수, 총대 메고 공개 사과 [스타이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808021409867"
+        },
+        {
+          "title": "[단독] 블랙핑크, 급조된 10주년…\"팬 이벤트 장소는, 국중박\"",
+          "source": "디스패치",
+          "url": "https://www.dispatch.co.kr/2346099"
+        }
+      ]
+    },
+    {
+      "id": "제드-스펜스",
+      "rank": 8,
+      "keyword": "제드 스펜스",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '맨유, 이게 웬 떡? 왼쪽 풀백 영입해야 하는데...토트넘 '월드컵 스타' 직접 역제안! \"새로운 선택지 등장\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "맨유, 이게 웬 떡? 왼쪽 풀백 영입해야 하는데...토트넘 '월드컵 스타' 직접 역제안! \"새로운 선택지 등장\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807131248731"
+        },
+        {
+          "title": "월드컵서 잉글랜드 핵심으로 떴는데 토트넘에선 벤치?…리버풀 스펜스에 눈독, 몸값은 670억 거론",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260807n00251"
+        },
+        {
+          "title": "월드컵 한 번에 인생역전...'前 손흥민 파트너' 토트넘 탈출 예고→리버풀-인터 밀란 영입 관심, \"이적료 670억 요구 예정\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/football/2026-08-07/202608070100041130002549"
         }
       ]
     },
     {
       "id": "놀면-뭐하니",
-      "rank": 8,
+      "rank": 9,
       "keyword": "놀면 뭐하니",
       "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 ''놀면 뭐하니?' 유재석, 정준하 향수 냄새에 폭발 \"왜 이렇게 뿌려\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -225,34 +253,6 @@
           "title": "유재석, 폭염 탈출 솔루션은? \"땀이 쏙 들어갔네\" (놀뭐)",
           "source": "iMBC 연예",
           "url": "https://enews.imbc.com/News/RetrieveNewsInfo/514021"
-        }
-      ]
-    },
-    {
-      "id": "기사",
-      "rank": 9,
-      "keyword": "기사",
-      "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '민선 9기 강원도지사-18개 시장·군수 첫 간담회…\"초당적 협력\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "민선 9기 강원도지사-18개 시장·군수 첫 간담회…\"초당적 협력\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/qUGElckLGn"
-        },
-        {
-          "title": "원주시, 지역첨단의료복합단진 지정 준비 본격 나서",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260807146400062"
-        },
-        {
-          "title": "우상호 도지사-시장군수, ‘강원 동행 원팀’ 협의",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8631550"
         }
       ]
     }
