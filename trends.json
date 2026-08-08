@@ -1,258 +1,242 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-08T08:52:03.950Z",
+  "updatedAt": "2026-08-08T09:46:07.825Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "열대야",
+      "id": "치지직",
       "rank": 1,
-      "keyword": "열대야",
-      "volumeLabel": "500000+",
+      "keyword": "치지직",
+      "volumeLabel": "10000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '전국 폭염 난리인데…동해안, 태풍 돌핀으로 '폭우'' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "전국 폭염 난리인데…동해안, 태풍 돌핀으로 '폭우'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026080818047"
-        },
-        {
-          "title": "낮 최고 35도 '무더위'…동해안 시간당 30㎜ '강한 비'[내일날씨]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260808_0003741432"
-        },
-        {
-          "title": "경북 영덕·울진 산지에 호우주의보",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260808027000527"
-        }
-      ]
+      "newsSignals": []
     },
     {
-      "id": "당구",
+      "id": "최우수산",
       "rank": 2,
-      "keyword": "당구",
-      "volumeLabel": "5000+",
+      "keyword": "최우수산",
+      "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“스코어는 40:10, 유쾌했던 당구 父子 대결” 조명우-조지언 양구 전국당구대회서 첫 대결' (mkbn.mk.co.kr) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“더럽게 재미없다” 시청률 1% ‘최우수산’, 90도 사과 이어 추가연장 소원 ‘마지막 몸부림’' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“스코어는 40:10, 유쾌했던 당구 父子 대결” 조명우-조지언 양구 전국당구대회서 첫 대결",
-          "source": "mkbn.mk.co.kr",
-          "url": "https://mkbn.mk.co.kr/news/sports/12119706"
-        },
-        {
-          "title": "“톱랭커들 우수수” 男3쿠션 톱10중 6명 탈락…허정한 조명우 김행직 이범열 32강[대한당구연맹회장배]",
+          "title": "“더럽게 재미없다” 시청률 1% ‘최우수산’, 90도 사과 이어 추가연장 소원 ‘마지막 몸부림’",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260806233600843"
+          "url": "https://v.daum.net/v/8h2I2f4qSi"
         },
         {
-          "title": "\"18세 김도현 이어 이번엔 16세 슈퍼 루키\" 송윤도, 세계최강 조명우에 도전장[대한당구연맹회장배]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260808n06902?mid=n0100"
+          "title": "양세형, “분당 최고 시청률 40%”…‘최우수산’ 마지막 회 회상",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16158109"
+        },
+        {
+          "title": "‘최우수산’ 유세윤→양세형, 추가 연장 향한 마지막 몸부림",
+          "source": "뉴스엔",
+          "url": "https://m.newsen.com/news_view.php?uid=202608081409382410"
         }
       ]
     },
     {
-      "id": "오너",
+      "id": "배구",
       "rank": 3,
-      "keyword": "오너",
+      "keyword": "배구",
       "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[현장 SNS] 실험실 가동한 T1, ‘오너’ 문현준 선발 제외…2007년 생 신인 ‘페인터’ 출전' (OSEN) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '여자배구 이재영-다영 쌍둥이 자매, 아제르바이잔 투란VC 입단' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[현장 SNS] 실험실 가동한 T1, ‘오너’ 문현준 선발 제외…2007년 생 신인 ‘페인터’ 출전",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112853798"
-        },
-        {
-          "title": "T1, 한화생명전 정글러 '페인터' 김은후 선발…'오너' 대신 출전",
-          "source": "www.xportsnews.com",
-          "url": "https://www.xportsnews.com/article/2181398"
-        },
-        {
-          "title": "초고속 승격 T1 '페인터' 김윤후, LCK 데뷔전...\"교전력서 돋보이는 실력\"",
-          "source": "데일리e스포츠",
-          "url": "https://www.dailyesports.com/view.php?ud=202608081634239403b91e133c1f_27"
-        }
-      ]
-    },
-    {
-      "id": "조중연",
-      "rank": 4,
-      "keyword": "조중연",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이임생이 밝힌 홍명보 선임 내막…\"정몽규, TD판단 믿는다고 해\"(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "이임생이 밝힌 홍명보 선임 내막…\"정몽규, TD판단 믿는다고 해\"(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260807140751004"
-        },
-        {
-          "title": "청문회.압수수색.성접대 파문까지...축구협회 \"참담한 상황\" 대국민 사과",
+          "title": "여자배구 이재영-다영 쌍둥이 자매, 아제르바이잔 투란VC 입단",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260808165103337"
+          "url": "https://v.daum.net/v/qYAqmyWIGM"
         },
         {
-          "title": "‘심판 성접대 의혹’ 대한축구협회 공식 사과···“현재는 부적절 행위 없다”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608081354001"
-        }
-      ]
-    },
-    {
-      "id": "이은형",
-      "rank": 5,
-      "keyword": "이은형",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''작가 데뷔' 이은형, 정식 출간 전인데…벌써 베스트셀러 \"무슨 일이고\" [★해시태그]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'작가 데뷔' 이은형, 정식 출간 전인데…벌써 베스트셀러 \"무슨 일이고\" [★해시태그]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260806171137226"
+          "title": "‘학폭 논란’ 이다영·이재영 자매, 아제르바이잔 리그서 한솥밥",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/sports/volleyball/1271909.html"
         },
         {
-          "title": "강재준, 아내 이은형 신간 출간 응원…\"읽고 소름 돋았다\"[셀럽샷]",
+          "title": "이재영·이다영 자매, 끝 아니었다! 中 196cm 국대+쿠바 스타까지 싹쓸이…창단 1년 만에 유럽 정조준",
           "source": "네이트",
-          "url": "https://news.nate.com/view/20260806n34367"
-        },
-        {
-          "title": "이은형, ‘엄마의 기록’으로 돌아왔다...첫 육아 에세이 ‘오늘의 현조’ 출간",
-          "source": "뉴스컬처",
-          "url": "https://www.nc.press/news/articleView.html?idxno=622734"
+          "url": "https://sports.news.nate.com/view/20260808n08009"
         }
       ]
     },
     {
-      "id": "최애의-사원",
-      "rank": 6,
-      "keyword": "최애의 사원",
+      "id": "lck",
+      "rank": 4,
+      "keyword": "lck",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Kiin becomes the first toplaner to reach 500 wins in LCK' (Sheep Esports) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Kiin becomes the first toplaner to reach 500 wins in LCK",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/de/lol/articles/kiin-becomes-the-first-toplaner-to-reach-500-wins-in-lck/en"
+        },
+        {
+          "title": "T1 bench Oner for LCK debut of 18-year-old academy jungler Painter",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/fr/all/articles/t1-bench-oner-for-lck-debut-of-18-year-old-academy-jungler-painter/en"
+        },
+        {
+          "title": "'Namgung' on His First Career POM: \"I'm Grateful to My Teammates for Playing So Well\"",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/24575/namgung-on-his-first-career-pom-im-grateful-to-my-teammates-for-playing-so-well"
+        }
+      ]
+    },
+    {
+      "id": "간호사",
+      "rank": 5,
+      "keyword": "간호사",
       "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '강훈vs차우민 판타지 충족…김혜준 선택장애 서막 (최애의 사원)' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '응급실 난동범 주짓수로 한번에 제압한 호주 간호사 화제 [잇슈 SNS]' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "강훈vs차우민 판타지 충족…김혜준 선택장애 서막 (최애의 사원)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260807/134435794/1"
+          "title": "응급실 난동범 주짓수로 한번에 제압한 호주 간호사 화제 [잇슈 SNS]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8629874"
         },
         {
-          "title": "김혜준·강훈 '최애의 사원', 제법 설레고 재밌는 덕질 로맨스 [드라마 쪼개보기] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/06/2026080612027252054"
+          "title": "\"주먹 날리다 되레 제압됐다\"…호주 응급실 난동 환자, 주짓수로 제압한 간호사 [영상]",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202608072214238382"
         },
         {
-          "title": "'매운맛' 김혜준vs'달달한맛' 김혜준..'킬쇼2'→'최애의 사원' 천의 얼굴 '인증'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/06/G42GGYJZGBTDCYJSGQYWGYZQMU/"
+          "title": "응급실서 침 뱉고 폭언…주짓수로 난동범 제압한 호주 간호사",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260806104420yX7"
         }
       ]
     },
     {
-      "id": "고려아연",
+      "id": "mlb",
+      "rank": 6,
+      "keyword": "mlb",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Dodgers' Seventh Straight Loss: Walk-Off Homer' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Dodgers' Seventh Straight Loss: Walk-Off Homer",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/08/08/FFVMDV6AMJBGXH3BTFK5EAFEGA/"
+        },
+        {
+          "title": "Dodgers’ Edwin Diaz identifies his biggest issue in blown save vs. Diamondbacks",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/dodgers-edwin-diaz-identifies-biggest-052048917.html"
+        },
+        {
+          "title": "Arizona walk-off: Dodgers’ misery continues with 7th straight loss",
+          "source": "True Blue LA",
+          "url": "https://www.truebluela.com/dodgers-scores-standings/121510/arizona-walk-off-dodgers-misery-continues-with-7th-straight-loss"
+        }
+      ]
+    },
+    {
+      "id": "배지환",
       "rank": 7,
-      "keyword": "고려아연",
+      "keyword": "배지환",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''방출된 해외파, 다 KBO로 오라고?' 최지만, 배지환, 심준석의 엇갈린 거취와 현실' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'방출된 해외파, 다 KBO로 오라고?' 최지만, 배지환, 심준석의 엇갈린 거취와 현실",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808061048043"
+        },
+        {
+          "title": "배지환, 메츠 산하 트리플A 마이너리그 팀에서 방출",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260805089400007"
+        },
+        {
+          "title": "“배지환, 타격이 못 따라가” 메츠 충격 손절 이유 나왔다… 하지만 한국 복귀는 없다고?",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=833320"
+        }
+      ]
+    },
+    {
+      "id": "페이즈",
+      "rank": 8,
+      "keyword": "페이즈",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[주간사모펀드] 영풍·MBK vs 고려아연, 美 제련소 이름 두고 고발전' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '몬스타엑스, 9월 가요계 컴백 확정…'더 페이즈' 발매' (MBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[주간사모펀드] 영풍·MBK vs 고려아연, 美 제련소 이름 두고 고발전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260808000219146"
+          "title": "몬스타엑스, 9월 가요계 컴백 확정…'더 페이즈' 발매",
+          "source": "MBC",
+          "url": "https://m.imbc.com/enews/view/514030"
         },
         {
-          "title": "“사업 알리는 건 최대주주 권리”…영풍·MBK, 고려아연 고발에 반박 [시그널]",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20076070"
+          "title": "몬스타엑스, 신보 '더 페이즈' 스케줄러 공개…컴백 카운트다운 시작",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/music/6253029"
         },
         {
-          "title": "영풍 \"최윤범 회장, 경영권 위해 주주권 탄압\"… 고려아연은 고발 맞불",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=346923"
+          "title": "몬스타엑스, 미니 앨범 ‘더 페이즈’로 9월 컴백 카운트다운",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16158164"
         }
       ]
     },
     {
-      "id": "신구",
-      "rank": 8,
-      "keyword": "신구",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '아내 발인 당일에도 무대에…신구가 전한 연극의 의미' (노컷뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "아내 발인 당일에도 무대에…신구가 전한 연극의 의미",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6557459"
-        },
-        {
-          "title": "‘91세’ 신구 “살아 있으면 해야지” 현역 최고령 배우의 뭉클한 연기 투혼",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608061654003"
-        },
-        {
-          "title": "EBS 다큐멘터리 '시대목격', 포스터·티저 공개…신구부터 이경규까지 시대를 만든 12인 조명",
-          "source": "한국강사신문",
-          "url": "https://www.lecturernews.com/news/articleView.html?idxno=207393"
-        }
-      ]
-    },
-    {
-      "id": "청주날씨",
+      "id": "페이커",
       "rank": 9,
-      "keyword": "청주날씨",
+      "keyword": "페이커",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[오늘의 날씨] 충북 청주시 흥덕구 지역 날씨 및 주간 전망' (뉴스인사이드) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[오!쎈 인터뷰] “결국 프로는 멘탈 싸움”… 흔들림 끝낸 ‘도란’ 최현준의 다짐' (OSEN) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[오늘의 날씨] 충북 청주시 흥덕구 지역 날씨 및 주간 전망",
-          "source": "뉴스인사이드",
-          "url": "https://www.newsinside.kr/news/articleView.html?idxno=4903747"
+          "title": "[오!쎈 인터뷰] “결국 프로는 멘탈 싸움”… 흔들림 끝낸 ‘도란’ 최현준의 다짐",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112853784"
         },
         {
-          "title": "[오늘의 날씨] 충북 청주시 흥덕구 지역 날씨 및 주간 전망",
-          "source": "뉴스인사이드",
-          "url": "https://www.newsinside.kr/news/articleView.html?idxno=4885138"
+          "title": "'페이즈' 맹활약 펼친 T1, DK 완파하며 종합 1위 사수 [LCK] (종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/6E71YRe41m"
         },
         {
-          "title": "[오늘의 날씨] 충북 청주시 상당구 지역 날씨 및 주간 전망",
-          "source": "뉴스인사이드",
-          "url": "https://www.newsinside.kr/news/articleView.html?idxno=4903745"
+          "title": "'페이커' 이상혁 \"유리할 때 역전당하던 단점 보완, 패배 통한 성장이 반등 계기\"",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260807170043565"
         }
       ]
     }
