@@ -1,230 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-08T21:37:59.636Z",
+  "updatedAt": "2026-08-08T22:37:10.700Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "민생지원금",
+      "id": "이임생",
       "rank": 1,
-      "keyword": "민생지원금",
-      "volumeLabel": "20000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''추석 설렌다! 1인당 50만원'...지원금 소식에 들썩이는 '이곳'' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'추석 설렌다! 1인당 50만원'...지원금 소식에 들썩이는 '이곳'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809060303669"
-        },
-        {
-          "title": "2026 민생지원금 4차 우리지역도 줄까.. 최대 50만원 누가 받나?",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/findnstory/findstory/contents/260808205407073xa"
-        },
-        {
-          "title": "고창군 1인당 30만 원, 군민활력지원금 추석 전 지급",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6559023"
-        }
-      ]
-    },
-    {
-      "id": "로또-1236",
-      "rank": 2,
-      "keyword": "로또 1236",
+      "keyword": "이임생",
       "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '1236회 로또 1등 ‘12, 18, 21, 29, 34, 38’···1등 11명 당첨금 각 24억4191만원' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘축협 성접대’ 해외도 발칵…일본은 ‘심판 3명’ 실명 공개' (JTBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "1236회 로또 1등 ‘12, 18, 21, 29, 34, 38’···1등 11명 당첨금 각 24억4191만원",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608082123001"
+          "title": "‘축협 성접대’ 해외도 발칵…일본은 ‘심판 3명’ 실명 공개",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12312359"
         },
         {
-          "title": "\"24억 대박\" 로또 1등 '11명' 나왔다…당첨번호는? - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/08/2026080819575627561"
+          "title": "이임생 '홍명보 면담' 기록엔…\"4-2-3-1 기본에 4-3-3도\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809055649515"
         },
         {
-          "title": "1236회 로또 1등 11명…당첨금 각 24억4천만원(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260808050500002"
+          "title": "주말에 사과문 올린 축구협회…“큰 실망과 걱정 안겨드려 죄송” [이런뉴스]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8631954"
         }
       ]
     },
     {
-      "id": "배드민턴",
+      "id": "주가",
+      "rank": 2,
+      "keyword": "주가",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이 대통령 ‘ISA 개편안’ 재검토 지시…야 “비겁한 책임 회피”' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이 대통령 ‘ISA 개편안’ 재검토 지시…야 “비겁한 책임 회피”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8632031"
+        },
+        {
+          "title": "개미들 반발에‥\"ISA 개편도 원점 재검토\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809071310156"
+        },
+        {
+          "title": "\"생산적 금융 ISA, 투자 대상 제한 문제\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260807_0003740486"
+        }
+      ]
+    },
+    {
+      "id": "한화-이글스",
       "rank": 3,
-      "keyword": "배드민턴",
+      "keyword": "한화 이글스",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '스포츠로 하나 되다…다문화가족 배드민턴대회' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''대반전' 한화 33살 원클럽맨 혼자 남다니…정우주-김서현-김범수-한승혁 아무도 없는데, 김경문 믿음 \"큰 탈 안 나면 계속 간…' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "스포츠로 하나 되다…다문화가족 배드민턴대회",
+          "title": "'대반전' 한화 33살 원클럽맨 혼자 남다니…정우주-김서현-김범수-한승혁 아무도 없는데, 김경문 믿음 \"큰 탈 안 나면 계속 간다\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260808155133835"
+          "url": "https://v.daum.net/v/20260808214251370"
         },
         {
-          "title": "\"우승 비결, 셔틀콕 진심\"…다문화 배드민턴대회 베트남 돌풍",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260808044000371"
-        },
-        {
-          "title": "폭염 뚫고 코트로…\"매일 연습했어요\" 다문화가족 셔틀콕 대결(종합)",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202608081708440055"
-        }
-      ]
-    },
-    {
-      "id": "범죄",
-      "rank": 4,
-      "keyword": "범죄",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[의학:너머] 폭염에 불안 초조…마음 건강도 ‘비상’' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[의학:너머] 폭염에 불안 초조…마음 건강도 ‘비상’",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8632037"
-        },
-        {
-          "title": "“말다툼하다 홧김에 살해”…폭염에 높아지는 공격성, 범죄로 번지나",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260807/134436919/1"
-        },
-        {
-          "title": "[정정엽의 마음 처방] 폭염에 지친 뇌를 회복하려면",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/editOpinion/opinion/jungjungyeb-mind-prescription/2026/08/07/20260807026003"
-        }
-      ]
-    },
-    {
-      "id": "우크라이나",
-      "rank": 5,
-      "keyword": "우크라이나",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '불가리아 영공 침범한 드론 폭발…우크라 모델 추정' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "불가리아 영공 침범한 드론 폭발…우크라 모델 추정",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809004652533"
-        },
-        {
-          "title": "불가리아 영공 침범한 드론 폭발…\"우크라이나 모델 추정\"",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260809010904mHx"
-        },
-        {
-          "title": "우크라발 추정 드론, 불가리아서 폭발…\"고의적 공격 아냐\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/europe/6253234"
-        }
-      ]
-    },
-    {
-      "id": "디에고-시메오네",
-      "rank": 6,
-      "keyword": "디에고 시메오네",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"이강인의 새 출발 응원\"…아틀레티코 훈련 달군 뜨거운 팬심' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"이강인의 새 출발 응원\"…아틀레티코 훈련 달군 뜨거운 팬심",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260808049400007"
-        },
-        {
-          "title": "‘7번의 무게감?’ 이강인 “난 발전하고 싶어 안달난 선수”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8632064"
-        },
-        {
-          "title": "이강인, AT마드리드 이적 후 첫 기자회견‥\"발전하기 위해 안달 난 선수\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6843378_36946.html"
-        }
-      ]
-    },
-    {
-      "id": "도경완",
-      "rank": 7,
-      "keyword": "도경완",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '도경완, ♥장윤정·두 자녀 생각뿐…美서 신차 보더니 “아빠 열심히 할게” [SD톡톡]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "도경완, ♥장윤정·두 자녀 생각뿐…美서 신차 보더니 “아빠 열심히 할게” [SD톡톡]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260808151051460"
-        },
-        {
-          "title": "'도경완♥' 장윤정, 앞머리 자르고 어려졌다…근황 공개 [N샷]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6253199"
-        },
-        {
-          "title": "'도경완♥' 장윤정, 앞머리 변신으로 산뜻하게 출발",
+          "title": "가을야구, 하위권 딱 그 중간의 한화...폭염 브레이크 후 운명의 3연전 다가온다",
           "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/music/2026/08/08/GZTDMOJRGNQTAN3EHA2TSMRSHA/"
+          "url": "https://www.chosun.com/sports/baseball/2026/08/08/MJRGGZRUGMYWMZTEGM3WKNZRGU/"
+        },
+        {
+          "title": "한화 걱정이네! '만루 14타수 무안타'+'득점권 0.215' 문현빈 해결사 본능 되찾을까→'페문강노채' 폭발력 열쇠",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260807n26853"
         }
       ]
     },
     {
-      "id": "기사",
-      "rank": 8,
-      "keyword": "기사",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "id": "임영웅",
+      "rank": 4,
+      "keyword": "임영웅",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이재명 대통령, 부동산 정책 점검 2차 회의 관련 강유정 수석대변인 서면 브리핑' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''최고의 가수' 꿈꾸던 임영웅, 데뷔 10주년 소감 \"사랑합니다 영웅시대\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이재명 대통령, 부동산 정책 점검 2차 회의 관련 강유정 수석대변인 서면 브리핑",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/briefing/presidentView.do?newsId=148969717"
-        },
-        {
-          "title": "수도권 공급 늘리고 금융·세제 지원도…'닥치고 속도전'",
+          "title": "'최고의 가수' 꿈꾸던 임영웅, 데뷔 10주년 소감 \"사랑합니다 영웅시대\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260809053259401"
+          "url": "https://v.daum.net/v/20260808174200817"
         },
         {
-          "title": "PF확대·규제완화로 '과감한 공급'…투기적 비거주 선별은 신중",
+          "title": "‘데뷔 10주년’ 임영웅, “20여명 팬들로 시작...영웅시대, 부족한 저를 최고로”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/music/2026/08/08/VUJHCZSN6FBLJO36WV4DNYELXU/"
+        },
+        {
+          "title": "‘신드롬’ 넘어 ‘아이콘’으로…임영웅이 다시 쓴 韓 대중음악 생태계",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10834899"
+        }
+      ]
+    },
+    {
+      "id": "대전광역시",
+      "rank": 5,
+      "keyword": "대전광역시",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘꿈씨상회’ 팝업스토어 운영…성심당 한정빵도 판매' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘꿈씨상회’ 팝업스토어 운영…성심당 한정빵도 판매",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8631078"
+        },
+        {
+          "title": "대전시, 지역 우수기업 판로 확대 '꿈씨상회 팝업스토어' 운영",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260806000088"
+        },
+        {
+          "title": "[대전소식] 대전의 맛과 매력, ‘꿈씨상회’에서 만난다",
+          "source": "데일리한국",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1393179"
+        }
+      ]
+    },
+    {
+      "id": "환자",
+      "rank": 6,
+      "keyword": "환자",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '폭염보다 무서운 적, 온열질환 - 전체 | 카드/한컷 | 멀티미디어' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "폭염보다 무서운 적, 온열질환 - 전체 | 카드/한컷 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148969406"
+        },
+        {
+          "title": "경기도서 입추에 온열질환자 68명 발생…의정부서 60대 사망",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808223952915"
+        },
+        {
+          "title": "폭염에 서울지역 전날 온열질환 사망자 2명…올해 최다",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260808049500002"
+          "url": "https://www.yna.co.kr/view/AKR20260808053900004"
+        }
+      ]
+    },
+    {
+      "id": "부산날씨",
+      "rank": 7,
+      "keyword": "부산날씨",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '부산·울산·경남 폭염 속 소나기·비…낮 최고 31∼34도' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "부산·울산·경남 폭염 속 소나기·비…낮 최고 31∼34도",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260809004300057"
+        },
+        {
+          "title": "[오늘의 날씨] 부산·경남(9일, 일)…낮 최고 32~34도, 최대 60㎜ 비",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/busan-gyeongnam/6253164"
+        },
+        {
+          "title": "부산 울산 경남 구름 많고 경남 북서내륙 소나기…폭염·열대야 계속",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260808.99099001954"
+        }
+      ]
+    },
+    {
+      "id": "경마공원",
+      "rank": 8,
+      "keyword": "경마공원",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“경마공원 이전 끝까지 막는다”…뿔난 과천 시민들, 정부에 전면 철회 촉구' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“경마공원 이전 끝까지 막는다”…뿔난 과천 시민들, 정부에 전면 철회 촉구",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807161025419"
+        },
+        {
+          "title": "이소영 “지난 6년, 교통은 그대로인 과천시에 3만5천세대 주택공급 추진”",
+          "source": "이슈게이트",
+          "url": "https://issuegate.com/m/view.php?idx=18104&mcode="
+        },
+        {
+          "title": "지자체 12곳 앞다퉈 유치전 벌이는데… 정작 마사회는 \"이전 사실상 불가능\"",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Real-Estate/2026/07/202607311529324862a9fc143920_1"
+        }
+      ]
+    },
+    {
+      "id": "에너지",
+      "rank": 9,
+      "keyword": "에너지",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Zelenskyy visits Moscow-friendly Serbia as Russian attacks on Kyiv regi…' (AP News) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Zelenskyy visits Moscow-friendly Serbia as Russian attacks on Kyiv region kill 4",
+          "source": "AP News",
+          "url": "https://apnews.com/article/russia-ukraine-war-missiles-patriot-zelenskyy-492d334e26b5485dbf74d7ae9c9d33ce"
+        },
+        {
+          "title": "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal"
+        },
+        {
+          "title": "Zelenskyy Makes Debut Trip to Serbia as Russian Influence Wanes",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-08/zelenskyy-makes-debut-trip-to-serbia-as-russian-influence-wanes"
+        }
+      ]
+    },
+    {
+      "id": "노동조합",
+      "rank": 10,
+      "keyword": "노동조합",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“폭언·폭행 더는 개인 몫 아니다”…홍성군청 노조, ‘안전한 일터’ 전면에' (녹색경제신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“폭언·폭행 더는 개인 몫 아니다”…홍성군청 노조, ‘안전한 일터’ 전면에",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=347123"
+        },
+        {
+          "title": "홍성군청공무원노동조합 9대 출범… \"조합원 안전 최우선\"",
+          "source": "뉴데일리 충청세종",
+          "url": "https://cc.newdaily.co.kr/site/data/html/2026/08/07/2026080700018.html"
+        },
+        {
+          "title": "제9대 홍성군청공무원노동조합 출범식 개최",
+          "source": "한국미디어뉴스",
+          "url": "https://www.kitvnews.co.kr/news/article.html?no=1651561"
         }
       ]
     }
