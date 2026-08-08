@@ -1,57 +1,62 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-08T18:50:10.758Z",
+  "updatedAt": "2026-08-08T19:36:29.468Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
       "id": "페렌츠바로시-대-레알-마드리드",
       "rank": 1,
       "keyword": "페렌츠바로시 대 레알 마드리드",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '페렌츠바로시 대 레알 마드리드 예측: 예상 라인업' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 'Hungary Ferencvaros Real Madrid Soccer' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "페렌츠바로시 대 레알 마드리드 예측: 예상 라인업",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-ferencvarosi-vs-real-madrid-doi-hinh-du-kien"
+          "title": "Hungary Ferencvaros Real Madrid Soccer",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260809n00537?mid=n1101"
         },
         {
           "title": "페렌츠바로시 대 레알 마드리드 축구 생중계 링크",
           "source": "Laodong.vn",
           "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-ferencvaros-vs-real-madrid-1747893.ldo"
+        },
+        {
+          "title": "페렌츠바로시 대 레알 마드리드 예측: 예상 라인업",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-ferencvarosi-vs-real-madrid-doi-hinh-du-kien"
         }
       ]
     },
     {
-      "id": "맨유",
+      "id": "오상진",
       "rank": 2,
-      "keyword": "맨유",
-      "volumeLabel": "1000+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '이럴 수가! 최소 '1330억' 몸값 절대 고수…맨체스터 유나이티드 '초비상', '1순위' 타깃 영입 난이도 최상이다→뉴캐슬 '…' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "오상진",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"수학 최우수상\" 김소영♥오상진 딸, 연세대 핏줄 어디 안 가네('띵그리TV')' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이럴 수가! 최소 '1330억' 몸값 절대 고수…맨체스터 유나이티드 '초비상', '1순위' 타깃 영입 난이도 최상이다→뉴캐슬 '매각 불가'",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260808n00254"
-        },
-        {
-          "title": "바르셀로나가 돈 아끼는 사이 맨유가 낚아챈다! '19세 스페인 특급 LB' 260억 바이아웃 \"지불할 준비 돼 있어\"",
-          "source": "스포탈코리아",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553442483"
-        },
-        {
-          "title": "맨체스터 유나이티드의 '미친' 결단! 이적료 최대 '1140억' 장전, 레프트백 보강에 사활...끝내 뉴캐슬 '요구 이적료' 수용",
+          "title": "\"수학 최우수상\" 김소영♥오상진 딸, 연세대 핏줄 어디 안 가네('띵그리TV')",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260806150128463"
+          "url": "https://v.daum.net/v/PaTsKckLvh"
+        },
+        {
+          "title": "\"수학 최우수상\" 김소영♥오상진 딸, 연세대 핏줄 어디 안 가네('띵그리TV')",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112853938"
+        },
+        {
+          "title": "\"수학 최우수상\" 김소영♥오상진 딸, 연세대 핏줄 어디 안 가네('띵그리TV')",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260808n09842"
         }
       ]
     },
@@ -60,9 +65,9 @@
       "rank": 3,
       "keyword": "가능한 사랑",
       "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '여름엔 '호프', 가을엔 '가능한 사랑'…국제영화제 수상 기대감 [N이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -89,8 +94,8 @@
       "keyword": "면목동",
       "volumeLabel": "500+",
       "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+2",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '면목동 주택가서 60대 지인간 흉기 난동… 둘 다 사망' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -100,14 +105,14 @@
           "url": "https://www.chosun.com/national/national_general/2026/08/08/3UWOHFLA4BF3XNO7JK6L47LB3A/"
         },
         {
-          "title": "서울서 60대 지인끼리 서로 칼부림…2명 모두 사망",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/uzySickLp6"
-        },
-        {
           "title": "서울 중랑구서 지인끼리 흉기 휘둘러‥2명 사망",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/news/2026/society/article/6843326_36918.html"
+        },
+        {
+          "title": "서울서 60대 지인끼리 서로 칼부림…2명 모두 사망",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/NewsStand/article/all/20260808/134441603/1?utm_source=newsstand&utm_medium=referral&utm_campaign=right_photo1"
         }
       ]
     },
@@ -116,110 +121,110 @@
       "rank": 5,
       "keyword": "김소영",
       "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '김소영♥오상진, 순한 둘째 子..얼굴로도 효도하네 “아기가 너무 잘생겨”' (OSEN) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '김소영♥오상진, 순한 둘째 子..얼굴로도 효도하네 “아기가 너무 잘생겨” - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김소영♥오상진, 순한 둘째 子..얼굴로도 효도하네 “아기가 너무 잘생겨”",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112853900"
+          "title": "김소영♥오상진, 순한 둘째 子..얼굴로도 효도하네 “아기가 너무 잘생겨” - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/08/GYZWGZRVGZRDAYJZMQ3GGOBSMM/"
+        },
+        {
+          "title": "'오상진♥' 김소영, 둘째 子 얼마나 순하길래...\"너무 수월해서 놀라워\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-08-03/202608030100011810000693"
         },
         {
           "title": "'오상진♥' 김소영, 생후 3개월 子 효심에 감동 \"카페·쇼핑 수월해\"('띵그리TV')",
           "source": "조선일보",
           "url": "https://www.chosun.com/entertainments/broadcast/2026/08/01/ME3TQMBSMZSGEYLEGZTDAMLBGU/"
-        },
-        {
-          "title": "김소영♥오상진 子, 4개월에 눈망울이 얼굴 절반...순한데 비주얼도 훈훈",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-08-08/202608080100046810002912"
         }
       ]
     },
     {
-      "id": "ewc-철권",
+      "id": "ps",
       "rank": 6,
-      "keyword": "ewc 철권",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 ''EWC 2026 철권' DNS '울산' 3연패 도전' (더게임스) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "ps",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'App turns Steam Deck into PS Portal, cloud streaming owned PS5 games wi…' (Notebookcheck) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'EWC 2026 철권' DNS '울산' 3연패 도전",
-          "source": "더게임스",
-          "url": "https://www.tgdaily.co.kr/news/articleView.html?idxno=406185"
+          "title": "App turns Steam Deck into PS Portal, cloud streaming owned PS5 games without console",
+          "source": "Notebookcheck",
+          "url": "https://www.notebookcheck.net/App-turns-Steam-Deck-into-PS-Portal-cloud-streaming-owned-PS5-games-without-console.1363768.0.html"
         },
         {
-          "title": "EWC 2026 철권8, 디펜딩 챔피언 울산 생존···무릎 등 우승 후보 대거 탈락",
-          "source": "경향게임스",
-          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=307080"
+          "title": "Take-Two Boss Defends No Disc Version of GTA 6, Equates Physical Releases to Vinyl Records",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/take-two-boss-defends-no-disc-version-of-gta-6-equates-physical-releases-to-vinyl-records"
         },
         {
-          "title": "[인터뷰] DNS 울산 “세계 유일 EWC 3연속 우승 이뤄보겠다”",
-          "source": "게임톡",
-          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=109570"
+          "title": "‘GTA 6’ Publisher Dismisses Digital Replacing Discs Controversy",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/08/07/gta-6-publisher-dismisses-digital-replacing-discs-controversy/"
         }
       ]
     },
     {
-      "id": "psg",
+      "id": "정가은",
       "rank": 7,
-      "keyword": "psg",
+      "keyword": "정가은",
       "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
+      "startedLabel": "3시간 전",
       "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 'Mercato : Ferran Torres s'est mis d'accord avec le PSG pour un contrat …' (L'Équipe) 관련 뉴스가 함께 포착됐어요.",
+      "changeLabel": "+3",
+      "summary": "급상승 시점에 '‘갱년기 약 복용’ 정가은, 동안 메이크업으로 아이돌 미모 자신감 “20대 같냐”(롤코언니 가은이)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Mercato : Ferran Torres s'est mis d'accord avec le PSG pour un contrat de 5 ans, négociations en cours entre Paris et le Barça",
-          "source": "L'Équipe",
-          "url": "https://www.lequipe.fr/Football/Actualites/Mercato-ferran-torres-s-est-mis-d-accord-avec-le-psg-pour-un-contrat-de-5-ans-negociations-en-cours-entre-paris-et-le-barca/1709669"
+          "title": "‘갱년기 약 복용’ 정가은, 동안 메이크업으로 아이돌 미모 자신감 “20대 같냐”(롤코언니 가은이)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808194737256"
         },
         {
-          "title": "Arsenal se tourne vers un attaquant surprise de Barcelone après avoir manqué l’énorme transfert de Vinicius Junior",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/fr/listes/arsenal-se-tourne-vers-un-attaquant-surprise-de-barcelone-apres-avoir-manque-l-enorme-transfert-de-vinicius-junior/blt3b55bb7b8bbdeb74"
+          "title": "‘송혜교 닮은꼴’ 미녀 정가은, 갱년기 약 복용 고백 “버티다 버티다”(롤코언니)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/01/GRTDIZBUGQ2DKYZVGZRTGYZXGY/"
         },
         {
-          "title": "Humilié par Vinicius, Arsenal se venge sur le PSG",
-          "source": "Foot01",
-          "url": "https://www.foot01.com/angleterre/humilie-par-vinicius-arsenal-se-venge-sur-le-psg"
+          "title": "정가은 “여름에 ‘이것’ 안 먹어”…8등신 바비인형 몸매 유지 비결?",
+          "source": "코메디닷컴",
+          "url": "https://kormedi.com/2842620/"
         }
       ]
     },
     {
-      "id": "mutv",
+      "id": "레알마드리드",
       "rank": 8,
-      "keyword": "mutv",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 'Man Utd 1-1 Paris Saint-Germain: How Michael Carrick's players rated' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "레알마드리드",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''코치에서 사령탑으로' 마레스카와 재회한 루이스, \"명확한 방향성 갖고 있어\"...로드리 바르셀로나 이적설에는 \"축구의 일부\" …' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Man Utd 1-1 Paris Saint-Germain: How Michael Carrick's players rated",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cdx7rvr4z3yt"
+          "title": "'코치에서 사령탑으로' 마레스카와 재회한 루이스, \"명확한 방향성 갖고 있어\"...로드리 바르셀로나 이적설에는 \"축구의 일부\" [MD현장]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808213149274"
         },
         {
-          "title": "Reds go for pre-match walk as PSG confirm squad",
-          "source": "Manchester United Website",
-          "url": "https://www.manutd.com/en/news/reds-go-for-pre-match-walk-as-psg-confirm-squad-gothenburg-2026"
+          "title": "[속보] “합의 완료”→HERE WE GO-확인, 바르셀로나 개인 조건 조율 끝, 곧바로 맨시티와 ‘공식 협상’...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608071721003"
         },
         {
-          "title": "Luis Enrique : \"We saw some good things\"",
-          "source": "Paris Saint-Germain",
-          "url": "https://www.psg.fr/en/content/luis-enrique-we-saw-some-good-things-dro-fernandez-david-boly-reactions-paris-saint-germain-manchester-united-amical-2026-2027/"
+          "title": "레알 마드리드 ‘초비상’… 영입 1순위 MF 로드리, 바르셀로나 이적 임박",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1627335"
         }
       ]
     },
@@ -228,9 +233,9 @@
       "rank": 9,
       "keyword": "서점가",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '인기 없던 소설, 다시 '역주행' 중…판매량 2배 훌쩍, 서점가에 무슨일 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -252,30 +257,30 @@
       ]
     },
     {
-      "id": "정가은",
+      "id": "fotmob",
       "rank": 10,
-      "keyword": "정가은",
+      "keyword": "fotmob",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "4시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘갱년기 약 복용’ 정가은, 동안 메이크업으로 아이돌 미모 자신감 “20대 같냐”(롤코언니 가은이)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'How the Real Madrid Dressing Room Has Reacted as Jose Mourinho Introduc…' (GiveMeSport) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘갱년기 약 복용’ 정가은, 동안 메이크업으로 아이돌 미모 자신감 “20대 같냐”(롤코언니 가은이)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260808194737256"
+          "title": "How the Real Madrid Dressing Room Has Reacted as Jose Mourinho Introduces Three Strict New Rules",
+          "source": "GiveMeSport",
+          "url": "https://www.givemesport.com/real-madrid-dressing-room-reaction-jose-mourinho-strict-new-rules/"
         },
         {
-          "title": "‘송혜교 닮은꼴’ 미녀 정가은, 갱년기 약 복용 고백 “버티다 버티다”(롤코언니)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/01/GRTDIZBUGQ2DKYZVGZRTGYZXGY/"
+          "title": "From the kitchen to the pitch: how Mourinho changed the rules of life at Real Madrid",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/en/news/from-the-kitchen-to-the-pitch-how-mourinho-changed-the-rules-of-life-at-real-madrid/bltb1dcbb333f5ee64c"
         },
         {
-          "title": "정가은 “여름에 ‘이것’ 안 먹어”…8등신 바비인형 몸매 유지 비결?",
-          "source": "코메디닷컴",
-          "url": "https://kormedi.com/2842620/"
+          "title": "Mourinho Lays Down 4 Strict Rules To Restore Discipline At Real Madrid",
+          "source": "LEADERSHIP Newspapers",
+          "url": "https://leadership.ng/mourinho-lays-down-4-strict-rules-to-restore-discipline-at-real-madrid/"
         }
       ]
     }
