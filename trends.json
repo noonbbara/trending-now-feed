@@ -1,254 +1,258 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-08T07:31:35.331Z",
+  "updatedAt": "2026-08-08T08:52:03.950Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "한국경제",
+      "id": "열대야",
       "rank": 1,
-      "keyword": "한국경제",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
+      "keyword": "열대야",
+      "volumeLabel": "500000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '트럼프 2년 차엔 주식이 춥다?…내년 '큰 장' 노리려면' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '전국 폭염 난리인데…동해안, 태풍 돌핀으로 '폭우'' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "트럼프 2년 차엔 주식이 춥다?…내년 '큰 장' 노리려면",
+          "title": "전국 폭염 난리인데…동해안, 태풍 돌핀으로 '폭우'",
           "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608071490i"
+          "url": "https://www.hankyung.com/article/2026080818047"
         },
         {
-          "title": "“반도체 폭락은 일단락됐다”…전문가가 꼽은 ‘8월 반등’ 시그널",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260808102400568"
-        },
-        {
-          "title": "“하반기 코스피, 7000 선에서 박스권 등락 전망… 반도체는 공급 증가 선반영 주시해야”",
-          "source": "주간동아",
-          "url": "https://weekly.donga.com/3/all/11/6337243/1"
-        }
-      ]
-    },
-    {
-      "id": "회사",
-      "rank": 2,
-      "keyword": "회사",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"삼전닉스 아니었네\"…'숨은 연봉 1.2억' 1위 등극한 회사 [오피스 텔②]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"삼전닉스 아니었네\"…'숨은 연봉 1.2억' 1위 등극한 회사 [오피스 텔②]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608044031g"
-        },
-        {
-          "title": "신의 직장도 불만 폭발…'좋은 회사' vs '나쁜 회사' 가른 한끗 [오피스 텔④]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260807n15506?mid=n0105"
-        },
-        {
-          "title": "'이직 시도' 줄었는데 회사 만족도는…3만 직장인 불편한 속사정 [오피스 텔③]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608056603g"
-        }
-      ]
-    },
-    {
-      "id": "서정희",
-      "rank": 3,
-      "keyword": "서정희",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '서정희, 으리으리한 자택 공개..\"앞치마 둘렀는데도 드레스 자태!\" 화보급 근황' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "서정희, 으리으리한 자택 공개..\"앞치마 둘렀는데도 드레스 자태!\" 화보급 근황",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260808100528386"
-        },
-        {
-          "title": "서정희, 김태현과 동거 중인 2층집 공개",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260801500014"
-        },
-        {
-          "title": "서정희, 딸 서동주 향한 각별한 모정…\"동주 생각하며 만들었다\" ('또도동')",
-          "source": "텐아시아",
-          "url": "https://www.tenasia.co.kr/article/2026080555064"
-        }
-      ]
-    },
-    {
-      "id": "입양",
-      "rank": 4,
-      "keyword": "입양",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '해외 입양 떠난 지 사흘 만에 숨진 구조견 '도담'…관리 공백 드러났다' (네이트) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "해외 입양 떠난 지 사흘 만에 숨진 구조견 '도담'…관리 공백 드러났다",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260808n04288"
-        },
-        {
-          "title": "“유기묘와 교감하며 입양까지”… 소노 신사옥 내 ‘퍼라운지’ 개소",
-          "source": "스포츠월드",
-          "url": "https://www.sportsworldi.com/newsView/20260806508295"
-        },
-        {
-          "title": "[마이펫] 소노인터내셔널, 마곡에 유기묘 입양 지원 공간 ‘퍼라운지’ 개소",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026080519284719216"
-        }
-      ]
-    },
-    {
-      "id": "해군-특수전전단",
-      "rank": 5,
-      "keyword": "해군 특수전전단",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "손현보",
-      "rank": 6,
-      "keyword": "손현보",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+3",
-      "summary": "급상승 시점에 '[속보] 손현보 목사 “백악관에서 트럼프 대통령 접견”' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[속보] 손현보 목사 “백악관에서 트럼프 대통령 접견”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260808070323525"
-        },
-        {
-          "title": "[속보]‘尹 탄핵 반대’ 세계로교회 손현보, 백악관서 트럼프 접견",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20260808.99099001970"
-        },
-        {
-          "title": "'尹 탄핵반대' 손현보 목사 트럼프 대통령과 면담…\"힘 합쳐 자유 지켜야\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/economy/2026/08/08/2026080813590695857"
-        }
-      ]
-    },
-    {
-      "id": "김포시",
-      "rank": 7,
-      "keyword": "김포시",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김포 구도심 10곳 정비예정구역 지정…축구장 52개 면적' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김포 구도심 10곳 정비예정구역 지정…축구장 52개 면적",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260808071855667"
-        },
-        {
-          "title": "김포 지속가능발전협 복원 공감대 확산… 정책토론회서 재설립 방향 논의",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1768644"
-        },
-        {
-          "title": "김포시 지속가능발전협의회 복원 논의 본격화…민관 거버넌스 재구축 시동",
-          "source": "뉴스프리존",
-          "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=703052"
-        }
-      ]
-    },
-    {
-      "id": "남규리",
-      "rank": 8,
-      "keyword": "남규리",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '표창원, 남규리에 15년 만에 사과…\"제가 틀렸습니다\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "표창원, 남규리에 15년 만에 사과…\"제가 틀렸습니다\"",
+          "title": "낮 최고 35도 '무더위'…동해안 시간당 30㎜ '강한 비'[내일날씨]",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260807_0003740052"
+          "url": "https://www.newsis.com/view/NISX20260808_0003741432"
         },
         {
-          "title": "남규리, “뭐든 이길 때까지 한다”…‘히든아이’서 숨겨둔 승부욕",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16157198"
-        },
-        {
-          "title": "\"제가 틀렸습니다\" 표창원, 남규리에 뭐라고 했길래..15년만에 공개사과(히든아이)",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260806171223876"
+          "title": "경북 영덕·울진 산지에 호우주의보",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260808027000527"
         }
       ]
     },
     {
-      "id": "대전날씨",
-      "rank": 9,
-      "keyword": "대전날씨",
+      "id": "당구",
+      "rank": 2,
+      "keyword": "당구",
+      "volumeLabel": "5000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“스코어는 40:10, 유쾌했던 당구 父子 대결” 조명우-조지언 양구 전국당구대회서 첫 대결' (mkbn.mk.co.kr) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“스코어는 40:10, 유쾌했던 당구 父子 대결” 조명우-조지언 양구 전국당구대회서 첫 대결",
+          "source": "mkbn.mk.co.kr",
+          "url": "https://mkbn.mk.co.kr/news/sports/12119706"
+        },
+        {
+          "title": "“톱랭커들 우수수” 男3쿠션 톱10중 6명 탈락…허정한 조명우 김행직 이범열 32강[대한당구연맹회장배]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806233600843"
+        },
+        {
+          "title": "\"18세 김도현 이어 이번엔 16세 슈퍼 루키\" 송윤도, 세계최강 조명우에 도전장[대한당구연맹회장배]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260808n06902?mid=n0100"
+        }
+      ]
+    },
+    {
+      "id": "오너",
+      "rank": 3,
+      "keyword": "오너",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[현장 SNS] 실험실 가동한 T1, ‘오너’ 문현준 선발 제외…2007년 생 신인 ‘페인터’ 출전' (OSEN) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[현장 SNS] 실험실 가동한 T1, ‘오너’ 문현준 선발 제외…2007년 생 신인 ‘페인터’ 출전",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112853798"
+        },
+        {
+          "title": "T1, 한화생명전 정글러 '페인터' 김은후 선발…'오너' 대신 출전",
+          "source": "www.xportsnews.com",
+          "url": "https://www.xportsnews.com/article/2181398"
+        },
+        {
+          "title": "초고속 승격 T1 '페인터' 김윤후, LCK 데뷔전...\"교전력서 돋보이는 실력\"",
+          "source": "데일리e스포츠",
+          "url": "https://www.dailyesports.com/view.php?ud=202608081634239403b91e133c1f_27"
+        }
+      ]
+    },
+    {
+      "id": "조중연",
+      "rank": 4,
+      "keyword": "조중연",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이임생이 밝힌 홍명보 선임 내막…\"정몽규, TD판단 믿는다고 해\"(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이임생이 밝힌 홍명보 선임 내막…\"정몽규, TD판단 믿는다고 해\"(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260807140751004"
+        },
+        {
+          "title": "청문회.압수수색.성접대 파문까지...축구협회 \"참담한 상황\" 대국민 사과",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808165103337"
+        },
+        {
+          "title": "‘심판 성접대 의혹’ 대한축구협회 공식 사과···“현재는 부적절 행위 없다”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608081354001"
+        }
+      ]
+    },
+    {
+      "id": "이은형",
+      "rank": 5,
+      "keyword": "이은형",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''작가 데뷔' 이은형, 정식 출간 전인데…벌써 베스트셀러 \"무슨 일이고\" [★해시태그]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'작가 데뷔' 이은형, 정식 출간 전인데…벌써 베스트셀러 \"무슨 일이고\" [★해시태그]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806171137226"
+        },
+        {
+          "title": "강재준, 아내 이은형 신간 출간 응원…\"읽고 소름 돋았다\"[셀럽샷]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260806n34367"
+        },
+        {
+          "title": "이은형, ‘엄마의 기록’으로 돌아왔다...첫 육아 에세이 ‘오늘의 현조’ 출간",
+          "source": "뉴스컬처",
+          "url": "https://www.nc.press/news/articleView.html?idxno=622734"
+        }
+      ]
+    },
+    {
+      "id": "최애의-사원",
+      "rank": 6,
+      "keyword": "최애의 사원",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '강훈vs차우민 판타지 충족…김혜준 선택장애 서막 (최애의 사원)' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "강훈vs차우민 판타지 충족…김혜준 선택장애 서막 (최애의 사원)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260807/134435794/1"
+        },
+        {
+          "title": "김혜준·강훈 '최애의 사원', 제법 설레고 재밌는 덕질 로맨스 [드라마 쪼개보기] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/06/2026080612027252054"
+        },
+        {
+          "title": "'매운맛' 김혜준vs'달달한맛' 김혜준..'킬쇼2'→'최애의 사원' 천의 얼굴 '인증'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/06/G42GGYJZGBTDCYJSGQYWGYZQMU/"
+        }
+      ]
+    },
+    {
+      "id": "고려아연",
+      "rank": 7,
+      "keyword": "고려아연",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "summary": "급상승 시점에 '[주간사모펀드] 영풍·MBK vs 고려아연, 美 제련소 이름 두고 고발전' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": []
+      "newsSignals": [
+        {
+          "title": "[주간사모펀드] 영풍·MBK vs 고려아연, 美 제련소 이름 두고 고발전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808000219146"
+        },
+        {
+          "title": "“사업 알리는 건 최대주주 권리”…영풍·MBK, 고려아연 고발에 반박 [시그널]",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20076070"
+        },
+        {
+          "title": "영풍 \"최윤범 회장, 경영권 위해 주주권 탄압\"… 고려아연은 고발 맞불",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=346923"
+        }
+      ]
     },
     {
-      "id": "무명전설",
-      "rank": 10,
-      "keyword": "무명전설",
+      "id": "신구",
+      "rank": 8,
+      "keyword": "신구",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''전설의 사내' 성리, 1억 상금·제주 집 계약 고백..4주 연속 水 예능 1위[종합]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '아내 발인 당일에도 무대에…신구가 전한 연극의 의미' (노컷뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'전설의 사내' 성리, 1억 상금·제주 집 계약 고백..4주 연속 水 예능 1위[종합]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/0CgiiBb0Sx"
+          "title": "아내 발인 당일에도 무대에…신구가 전한 연극의 의미",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6557459"
         },
         {
-          "title": "황윤성, 가족애부터 로맨틱한 케미까지 다채로운 매력 선보여 (전설의 사내)",
+          "title": "‘91세’ 신구 “살아 있으면 해야지” 현역 최고령 배우의 뭉클한 연기 투혼",
           "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608062156013"
+          "url": "https://sports.khan.co.kr/article/202608061654003"
         },
         {
-          "title": "'전설의 사내', 전 채널 통합 트로트 예능 1위...'무명전설2' vs '미트4' 앞두고 우위 선점 [초점S]",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=833527"
+          "title": "EBS 다큐멘터리 '시대목격', 포스터·티저 공개…신구부터 이경규까지 시대를 만든 12인 조명",
+          "source": "한국강사신문",
+          "url": "https://www.lecturernews.com/news/articleView.html?idxno=207393"
+        }
+      ]
+    },
+    {
+      "id": "청주날씨",
+      "rank": 9,
+      "keyword": "청주날씨",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[오늘의 날씨] 충북 청주시 흥덕구 지역 날씨 및 주간 전망' (뉴스인사이드) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[오늘의 날씨] 충북 청주시 흥덕구 지역 날씨 및 주간 전망",
+          "source": "뉴스인사이드",
+          "url": "https://www.newsinside.kr/news/articleView.html?idxno=4903747"
+        },
+        {
+          "title": "[오늘의 날씨] 충북 청주시 흥덕구 지역 날씨 및 주간 전망",
+          "source": "뉴스인사이드",
+          "url": "https://www.newsinside.kr/news/articleView.html?idxno=4885138"
+        },
+        {
+          "title": "[오늘의 날씨] 충북 청주시 상당구 지역 날씨 및 주간 전망",
+          "source": "뉴스인사이드",
+          "url": "https://www.newsinside.kr/news/articleView.html?idxno=4903745"
         }
       ]
     }
