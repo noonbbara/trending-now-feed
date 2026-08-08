@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-08T16:43:32.261Z",
+  "updatedAt": "2026-08-08T17:37:24.871Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -10,8 +10,8 @@
       "keyword": "psg 대 맨유",
       "volumeLabel": "2000+",
       "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '클럽 친선경기: PSG는 캐릭 감독의 맨유가 얼마나 잘 할 수 있을지 시험한다' (티스토리) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,41 +33,13 @@
       ]
     },
     {
-      "id": "김소영",
-      "rank": 2,
-      "keyword": "김소영",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김소영♥오상진, 순한 둘째 子..얼굴로도 효도하네 “아기가 너무 잘생겨”' (OSEN) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김소영♥오상진, 순한 둘째 子..얼굴로도 효도하네 “아기가 너무 잘생겨”",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112853900"
-        },
-        {
-          "title": "'오상진♥' 김소영, 생후 3개월 子 효심에 감동 \"카페·쇼핑 수월해\"('띵그리TV')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/01/ME3TQMBSMZSGEYLEGZTDAMLBGU/"
-        },
-        {
-          "title": "김소영♥오상진 子, 4개월에 눈망울이 얼굴 절반...순한데 비주얼도 훈훈",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-08-08/202608080100046810002912"
-        }
-      ]
-    },
-    {
       "id": "맨유",
-      "rank": 3,
+      "rank": 2,
       "keyword": "맨유",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '바르셀로나가 돈 아끼는 사이 맨유가 낚아챈다! '19세 스페인 특급 LB' 260억 바이아웃 \"지불할 준비 돼 있어\"' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -89,49 +61,100 @@
       ]
     },
     {
+      "id": "김소영",
+      "rank": 3,
+      "keyword": "김소영",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '김소영♥오상진, 순한 둘째 子..얼굴로도 효도하네 “아기가 너무 잘생겨”' (OSEN) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김소영♥오상진, 순한 둘째 子..얼굴로도 효도하네 “아기가 너무 잘생겨”",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112853900"
+        },
+        {
+          "title": "'오상진♥' 김소영, 생후 3개월 子 효심에 감동 \"카페·쇼핑 수월해\"('띵그리TV')",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/01/ME3TQMBSMZSGEYLEGZTDAMLBGU/"
+        },
+        {
+          "title": "김소영♥오상진 子, 4개월에 눈망울이 얼굴 절반...순한데 비주얼도 훈훈",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-08-08/202608080100046810002912"
+        }
+      ]
+    },
+    {
       "id": "가능한-사랑",
       "rank": 4,
       "keyword": "가능한 사랑",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '광주 호명한 영국 록밴드에 \"따지겠다\"는 국힘, 유감입니다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '여름엔 '호프', 가을엔 '가능한 사랑'…국제영화제 수상 기대감 [N이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "광주 호명한 영국 록밴드에 \"따지겠다\"는 국힘, 유감입니다",
+          "title": "여름엔 '호프', 가을엔 '가능한 사랑'…국제영화제 수상 기대감 [N이슈]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/t9h2fqB3zv"
+          "url": "https://v.daum.net/v/20260807153857272"
         },
         {
-          "title": "음악으로 세계를 잇는 글로벌 축제!🌏 2026 인천펜타포트 락 페스티벌😎",
-          "source": "Naver Blog",
-          "url": "https://blog.naver.com/PostView.naver?blogId=mcstkorea&logNo=224370866563&redirect=Dlog"
+          "title": "[문화연예 플러스] 이창동 감독 '가능한 사랑', 뉴욕영화제 초청",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6843063_37012.html"
         },
         {
-          "title": "록 몰라도 1분 만에 어깨동무하고 “어이”…‘록린이’도 빠진 펜타포트 [리뷰로그]",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20260807/134424115/2"
+          "title": "이창동 감독 '가능한 사랑', 뉴욕영화제 공식 초청…베니스·토론토 이어 글로벌 행보",
+          "source": "YTN",
+          "url": "https://m.ytn.co.kr/news_view.amp.php?version=1&param=0117_202608061125444876"
+        }
+      ]
+    },
+    {
+      "id": "fotmob",
+      "rank": 5,
+      "keyword": "fotmob",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Pre-season friendly LIVE: Chelsea vs AC Milan - text commentary, score …' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Pre-season friendly LIVE: Chelsea vs AC Milan - text commentary, score updates, match stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c330p1p84e3t"
+        },
+        {
+          "title": "Xabi Alonso on building a Chelsea side 'that can compete anywhere' | News | Official Site",
+          "source": "Chelsea Football Club",
+          "url": "https://www.chelseafc.com/en/news/article/xabi-alonso-building-a-chelsea-side-that-can-compete-anywhere"
+        },
+        {
+          "title": "Moisés Caicedo volley helps Chelsea past Milan in preseason",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49560861/moises-caicedo-volley-helps-chelsea-milan-preseason"
         }
       ]
     },
     {
       "id": "면목동",
-      "rank": 5,
+      "rank": 6,
       "keyword": "면목동",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '서로 칼부림하던 2명 모두 사망…10대 아들이 흉기로 어머니 살해' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '면목동 주택가서 60대 지인간 흉기 난동… 둘 다 사망' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "서로 칼부림하던 2명 모두 사망…10대 아들이 흉기로 어머니 살해",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260808200552452"
-        },
         {
           "title": "면목동 주택가서 60대 지인간 흉기 난동… 둘 다 사망",
           "source": "조선일보",
@@ -141,17 +164,50 @@
           "title": "서울 중랑구서 흉기 난동···지인 사이 60대 2명 사망",
           "source": "경향신문",
           "url": "https://www.khan.co.kr/article/202608081329001"
+        },
+        {
+          "title": "[속보]새벽 면목동서 ‘흉기 난동’ 사건…男 2명 모두 사망",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11608147"
+        }
+      ]
+    },
+    {
+      "id": "ewc-철권",
+      "rank": 7,
+      "keyword": "ewc 철권",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+2",
+      "summary": "급상승 시점에 ''EWC 2026 철권' DNS '울산' 3연패 도전' (더게임스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'EWC 2026 철권' DNS '울산' 3연패 도전",
+          "source": "더게임스",
+          "url": "https://www.tgdaily.co.kr/news/articleView.html?idxno=406185"
+        },
+        {
+          "title": "EWC 2026 철권8, 디펜딩 챔피언 울산 생존···무릎 등 우승 후보 대거 탈락",
+          "source": "경향게임스",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=307080"
+        },
+        {
+          "title": "[인터뷰] DNS 울산 “세계 유일 EWC 3연속 우승 이뤄보겠다”",
+          "source": "게임톡",
+          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=109570"
         }
       ]
     },
     {
       "id": "psg",
-      "rank": 6,
+      "rank": 8,
       "keyword": "psg",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 'Mercato : Ferran Torres s'est mis d'accord avec le PSG pour un contrat …' (L'Équipe) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -174,12 +230,12 @@
     },
     {
       "id": "mutv",
-      "rank": 7,
+      "rank": 9,
       "keyword": "mutv",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 'Paris Saint-Germain' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -189,70 +245,14 @@
           "url": "https://www.bbc.com/sport/football/live/cdx7rvr4z3yt"
         },
         {
-          "title": "Carrick’s Nordic tour ends in Gothenburg, and PSG have one eye on Salzburg",
-          "source": "SportsAdda",
-          "url": "https://www.sportsadda.asia/football/news-football/carricks-nordic-tour-ends-in-gothenburg-and-psg-have-one-eye-on-salzburg/"
+          "title": "How to watch Man Utd vs PSG: live stream the 2026/27 pre-season friendly from anywhere",
+          "source": "TechRadar",
+          "url": "https://www.techradar.com/how-to-watch/football/man-utd-vs-psg-live-stream-2026-27-pre-season-friendly"
         },
         {
-          "title": "PSG vs Man Utd betting offer: Bet £10 get £40 in free bets on Betway",
-          "source": "talkSPORT",
-          "url": "https://talksport.com/betting/4490803/psg-vs-man-utd-offer-40-free-bets-betway/"
-        }
-      ]
-    },
-    {
-      "id": "토트넘-헤타페",
-      "rank": 8,
-      "keyword": "토트넘 헤타페",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '토트넘 홋스퍼와 헤타페의 경기 통계: 1-1 무승부로 두 팀은 승점 1점씩을 나눠 가졌습니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "토트넘 홋스퍼와 헤타페의 경기 통계: 1-1 무승부로 두 팀은 승점 1점씩을 나눠 가졌습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/thong-ke-tran-dau-tottenham-hotspur-1-1-getafe-hai-doi-chia-diem"
-        },
-        {
-          "title": "토트넘 대 헤타페 축구 생중계 링크",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-tottenham-vs-getafe-1747898.ldo"
-        },
-        {
-          "title": "토트넘 홋스퍼 vs 헤타페 경기 예측: 예상 라인업",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-tottenham-hotspur-vs-getafe-doi-hinh-du-kien"
-        }
-      ]
-    },
-    {
-      "id": "ewc-철권",
-      "rank": 9,
-      "keyword": "ewc 철권",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''EWC 2026 철권' DNS '울산' 3연패 도전' (더게임스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'EWC 2026 철권' DNS '울산' 3연패 도전",
-          "source": "더게임스",
-          "url": "https://www.tgdaily.co.kr/news/articleView.html?idxno=406185"
-        },
-        {
-          "title": "EWC 2026 철권8, 디펜딩 챔피언 울산 생존···무릎 등 우승 후보 대거 탈락",
-          "source": "경향게임스",
-          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=307080"
-        },
-        {
-          "title": "[인터뷰] DNS 울산 “세계 유일 EWC 3연속 우승 이뤄보겠다”",
-          "source": "게임톡",
-          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=109570"
+          "title": "WATCH: Bryan Mbeumo equalises for Man Utd against PSG",
+          "source": "Read Man Utd",
+          "url": "https://readmanutd.com/2026/08/08/watch-bryan-mbeumo-equalises-for-man-utd-against-psg/"
         }
       ]
     },
@@ -261,9 +261,9 @@
       "rank": 10,
       "keyword": "서하얀",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '임창정, 재혼하길 정말 잘했네..더 어려진 ♥서하얀과 달달 투샷 “맛난 것 먹자”' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
