@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-08T14:59:54.539Z",
+  "updatedAt": "2026-08-08T15:40:03.575Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,9 +9,9 @@
       "rank": 1,
       "keyword": "토트넘",
       "volumeLabel": "20000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '손흥민 다음은 이강인! '쏘니 후임' 아틀레티코와 개인 합의 완료...선수 매각으로 이적 자금 확보, 토트넘에 '660억' 제안…' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -21,14 +21,14 @@
           "url": "https://v.daum.net/v/20260808053549295"
         },
         {
-          "title": "'도색' 손흥민 좀 배워라 \"아스널에 열려있다\" 로메로 충격 이적설…토트넘 아닌 '로메로 측'에서 시작됐다",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=833598"
+          "title": "로메로 이적은 못 막아도 아스널행은 막는다…'솔 캠벨 악몽' 토트넘, 북런던 라이벌과 거래 거부 방침",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260808n07181"
         },
         {
-          "title": "\"첫 제안 거절→ 수정안 준비\" HWG 로마노 속보!…이강인 포지션 경쟁자 팔아 자금 확보한 아틀레티코 마드리드, 로메로와 협상 진행 중",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260807n19039"
+          "title": "손흥민 다음 ‘토트넘 캡틴’→이강인과 한솥밥, HERE WE GO “아틀레티코의 최우선 영입 후보, 공식 제안 ...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608061242003"
         }
       ]
     },
@@ -37,9 +37,9 @@
       "rank": 2,
       "keyword": "리그컵",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 ''2부 강등' 울버햄튼 황희찬, 새 시즌 공식 첫 경기 결장' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -61,30 +61,30 @@
       ]
     },
     {
-      "id": "슈퍼주니어",
+      "id": "트로이",
       "rank": 3,
-      "keyword": "슈퍼주니어",
-      "volumeLabel": "1000+",
+      "keyword": "트로이",
+      "volumeLabel": "500+",
       "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '[스경X이슈] 슈퍼주니어 김희철, 거꾸로 단 태극기에 일침…“쳐돌았네”' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''오디세이' 벌써 백만영화…놀런 감독 의도대로 보려면?' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[스경X이슈] 슈퍼주니어 김희철, 거꾸로 단 태극기에 일침…“쳐돌았네”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608081519003"
-        },
-        {
-          "title": "인천시 ‘81주년 광복절 현수막’에 뒤집힌 태극기 논란",
-          "source": "인천투데이",
-          "url": "https://www.incheontoday.com/news/articleView.html?idxno=322142"
-        },
-        {
-          "title": "'거꾸로 태극기 일침' 김희철, 정치색 오해에 입장 밝혔다 \"좌우 떠나 우리나라 국기\"",
+          "title": "'오디세이' 벌써 백만영화…놀런 감독 의도대로 보려면?",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260808220307615?f=m"
+          "url": "https://v.daum.net/v/20260808204206784"
+        },
+        {
+          "title": "[특집] 신화 그리고 영화 - 호메로스의 가 크리스토퍼 놀런의 가 되기까지",
+          "source": "씨네21",
+          "url": "https://cine21.com/news/view/?mag_id=110467"
+        },
+        {
+          "title": "10ｍ 트로이 목마에 실제 항해까지…'오디세이' 제작 이모저모",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260808032900005"
         }
       ]
     },
@@ -93,17 +93,12 @@
       "rank": 4,
       "keyword": "정화조",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '제주 양돈장서 정화조 빠진 외국인 근로자 2명 숨져' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '제주 양돈장서 정화조에 빠져…외국인 근로자 2명 사망' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "제주 양돈장서 정화조 빠진 외국인 근로자 2명 숨져",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/incident/2026/08/08/EQUONXBG5FCN7FEWVVYNNIVKAE/"
-        },
         {
           "title": "제주 양돈장서 정화조에 빠져…외국인 근로자 2명 사망",
           "source": "동아일보",
@@ -113,6 +108,11 @@
           "title": "제주 양돈장 정화조서 추락한 외국인 노동자 2명 질식사 - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/society/2026/08/08/2026080816365463615"
+        },
+        {
+          "title": "제주 양돈장 정화조서 외국인 근로자 2명 추락, 심정지 이송",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260808_0003741388"
         }
       ]
     },
@@ -121,9 +121,9 @@
       "rank": 5,
       "keyword": "k리그1",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 'K리그1 울산, 동해안 더비 2-0 완승…3연승·선두와 승점 7 차이' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -145,13 +145,41 @@
       ]
     },
     {
-      "id": "chelsea-vs-milan",
+      "id": "대한당구연맹",
       "rank": 6,
+      "keyword": "대한당구연맹",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+3",
+      "summary": "급상승 시점에 '하민욱, 3년1개월만에 전국대회 포켓 우승…대한당구연맹회장배 男9볼 결승 이대규 제압' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "하민욱, 3년1개월만에 전국대회 포켓 우승…대한당구연맹회장배 男9볼 결승 이대규 제압",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260807n26230?mid=n0100"
+        },
+        {
+          "title": "“첫 호흡부터 완벽했다” 이대규-김수웅, 대한당구연맹회장배 포켓9볼 복식 정상",
+          "source": "mkbn.mk.co.kr",
+          "url": "https://mkbn.mk.co.kr/news/sports/12119040"
+        },
+        {
+          "title": "\"무려 7년4개월만의 우승\" 권보미, 김정현 꺾고 대한당구연맹회장배 女9볼 정상",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260808n04424"
+        }
+      ]
+    },
+    {
+      "id": "chelsea-vs-milan",
+      "rank": 7,
       "keyword": "chelsea vs milan",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 'Chelsea 3-0 AC Milan: Joao Pedro scores twice in pre-season win' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -166,20 +194,20 @@
           "url": "https://www.chelseafc.com/en/news/article/xabi-alonso-building-a-chelsea-side-that-can-compete-anywhere"
         },
         {
-          "title": "Terracciano, Jashari and Musah: How Milan should line up vs. Chelsea",
-          "source": "SempreMilan",
-          "url": "https://sempremilan.com/how-milan-should-line-up-chelsea-pre-season"
+          "title": "Indonesia Chelsea AC Milan Soccer",
+          "source": "Journal-News.com",
+          "url": "https://www.journal-news.com/nation-world/indonesia-chelsea-ac-milan-soccer/image_eb1581d6-dd8a-5735-8dee-1c24df3bdee9.html"
         }
       ]
     },
     {
       "id": "효성중공업",
-      "rank": 7,
+      "rank": 8,
       "keyword": "효성중공업",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '60% 빠졌던 효성중공업의 반전…주가 되살린 ‘12조 수주’의 힘 [이주의 Bull기둥]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -202,10 +230,10 @@
     },
     {
       "id": "k리그1-순위",
-      "rank": 8,
+      "rank": 9,
       "keyword": "k리그1 순위",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "down",
       "changeLabel": "-1",
       "summary": "급상승 시점에 '[K리그1] 중간 순위(8일)' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
@@ -229,53 +257,25 @@
       ]
     },
     {
-      "id": "대한당구연맹",
-      "rank": 9,
-      "keyword": "대한당구연맹",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“무려 7년4개월만의 우승” 권보미, 김정현 꺾고 대한당구연맹회장배 女9볼 정상' (mkbn.mk.co.kr) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“무려 7년4개월만의 우승” 권보미, 김정현 꺾고 대한당구연맹회장배 女9볼 정상",
-          "source": "mkbn.mk.co.kr",
-          "url": "https://mkbn.mk.co.kr/news/sports/12121687"
-        },
-        {
-          "title": "하민욱, 3년1개월만에 전국대회 포켓 우승…대한당구연맹회장배 男9볼 결승 이대규 제압",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260807n26230?mid=n0100"
-        },
-        {
-          "title": "“첫 호흡부터 완벽했다” 이대규-김수웅, 대한당구연맹회장배 포켓9볼 복식 정상",
-          "source": "mkbn.mk.co.kr",
-          "url": "https://mkbn.mk.co.kr/news/sports/12119040"
-        }
-      ]
-    },
-    {
       "id": "라스트-하우스",
       "rank": 10,
       "keyword": "라스트 하우스",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'Does the Delgado Family Survive in The Last House ? Inside the Thriller…' (People.com) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '‘The Last House’ Review: An Unthrilling Thriller on Netflix' (WSJ) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "Does the Delgado Family Survive in The Last House ? Inside the Thriller’s Dramatic Ending",
-          "source": "People.com",
-          "url": "https://people.com/the-last-house-ending-explained-12036417"
-        },
         {
           "title": "‘The Last House’ Review: An Unthrilling Thriller on Netflix",
           "source": "WSJ",
           "url": "https://www.wsj.com/arts-culture/television/the-last-house-review-an-unthrilling-thriller-on-netflix-74c1374f"
+        },
+        {
+          "title": "Does the Delgado Family Survive in The Last House ? Inside the Thriller’s Dramatic Ending",
+          "source": "People.com",
+          "url": "https://people.com/the-last-house-ending-explained-12036417"
         },
         {
           "title": "‘The Last House’ Ending Breakdown: Why Is the Family Trapped Inside Their Home?",
