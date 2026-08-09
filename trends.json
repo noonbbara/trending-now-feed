@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-09T15:59:37.192Z",
+  "updatedAt": "2026-08-09T16:49:32.276Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,9 +9,9 @@
       "rank": 1,
       "keyword": "트로이",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '영웅담 아니었다…놀런이 다시 쓴 고전' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -21,9 +21,9 @@
           "url": "https://v.daum.net/v/20260810000737280"
         },
         {
-          "title": "'오디세이' 100만 관객 동원…박스오피스 1위",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20260809005200038"
+          "title": "‘오디세이’ 흥행에 서점가도 들썩… ‘오디세이아’ 베스트셀러 역주행",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810010652791"
         },
         {
           "title": "[이 책 어때]영웅을 알아본 것은 활이 아니라 침대였다",
@@ -33,41 +33,13 @@
       ]
     },
     {
-      "id": "저수지",
-      "rank": 2,
-      "keyword": "저수지",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '“위성으로 찍어보니 너무 처참했다”…남부 저수지 90% 사라져, 비가 안 오더니 결국' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“위성으로 찍어보니 너무 처참했다”…남부 저수지 90% 사라져, 비가 안 오더니 결국",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/yVILK86bHZ"
-        },
-        {
-          "title": "남부 가뭄 위성서도 선명…저수지 바닥 드러났다",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260808047200017"
-        },
-        {
-          "title": "\"하늘에서 보니 더 심각하네\"…1년 새 물 89% 사라진 남부 저수지",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026080912112949410"
-        }
-      ]
-    },
-    {
       "id": "피부암",
-      "rank": 3,
+      "rank": 2,
       "keyword": "피부암",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '선크림, 그렇게 바르면 차단이 아니라 차단 당해요! - 영상 | 멀티미디어' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -89,41 +61,41 @@
       ]
     },
     {
-      "id": "경기도",
-      "rank": 4,
-      "keyword": "경기도",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '[사설]‘재정 비상’ 바람 잡더니 ‘반도체 세금’ 내놓으라는 秋' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "id": "liverpool-vs-monaco",
+      "rank": 3,
+      "keyword": "liverpool vs monaco",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Liverpool 2-3 Monaco: How players rated as Isak and Wirtz impress' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[사설]‘재정 비상’ 바람 잡더니 ‘반도체 세금’ 내놓으라는 秋",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Opinion/article/all/20260809/134445979/2"
+          "title": "Liverpool 2-3 Monaco: How players rated as Isak and Wirtz impress",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cj75g1p2dpr7t"
         },
         {
-          "title": "[김병철 기자수첩] “지방채도 기금도 썼는데 민생예산은 부족”…경기도 재정자료 공개해야",
-          "source": "뉴스타운",
-          "url": ""
+          "title": "Liverpool’s lack of depth bites them as they squander two-goal lead again in defeat by Monaco",
+          "source": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/football/2026/08/09/liverpool-vs-monaco-live-score-latest-preseason-friendly/"
         },
         {
-          "title": "소방은 국가직, 비용은 지방이?…추미애 “권한 주려면 재원도 줘야”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809144002404"
+          "title": "Andoni Iraola's Anfield Record Ahead of Liverpool Home Debut",
+          "source": "This Is Anfield",
+          "url": "https://www.thisisanfield.com/2026/08/andoni-iraola-anfield-record-liverpool-home-debut/"
         }
       ]
     },
     {
       "id": "전주시",
-      "rank": 5,
+      "rank": 4,
       "keyword": "전주시",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '전주 송천동 농수산물시장 활어동에서 화재…대응 2단계 발령' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -133,60 +105,60 @@
           "url": "https://v.daum.net/v/20260809235747012"
         },
         {
-          "title": "속보 전주 송천동 농수산물시장서 불...소방 대응 2단계 발령",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0115_202608100008119604"
+          "title": "전주 송천동 농수산시장서 불…소방 진화 중",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6560293"
         },
         {
-          "title": "전주 송천동 농수산물시장서 불…소방 \"진화 중\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/jeonbuk/6253577"
+          "title": "전주 송천동 농수산물시장에서 큰불...한때 대응 2단계 발령",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0115_202608100114234128"
         }
       ]
     },
     {
       "id": "관리종목",
-      "rank": 6,
+      "rank": 5,
       "keyword": "관리종목",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "up",
-      "changeLabel": "+3",
-      "summary": "급상승 시점에 '1000원 미만 ‘동전주’ 상폐 초읽기... 48곳 관리 종목 우려 공시' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '이르면 10월 동전주 첫 퇴출… 39곳 ‘관리종목 우려’ 대상에' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "1000원 미만 ‘동전주’ 상폐 초읽기... 48곳 관리 종목 우려 공시",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/money/2026/08/09/YPAPDTPOWFD43IINPP6NOR2J3I/"
-        },
-        {
           "title": "이르면 10월 동전주 첫 퇴출… 39곳 ‘관리종목 우려’ 대상에",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260809/134445151/2"
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810003211572"
         },
         {
-          "title": "‘동전주’ 상장폐지 절차 임박…주가 미달 48곳 관리종목 우려 공시",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/GurhahlwTs"
+          "title": "상폐 시계 째깍…163개사 “나 떨고있니”",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260810.22012002313"
+        },
+        {
+          "title": "동전주 상폐 첫 절차 임박‥48곳 관리종목 우려 공시",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6843406_36932.html"
         }
       ]
     },
     {
       "id": "혼전연애",
-      "rank": 7,
+      "rank": 6,
       "keyword": "혼전연애",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '최다니엘, 日유명 여배우 카호와 재회했다...이번엔 도쿄 데이트' (OSEN) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "최다니엘, 日유명 여배우 카호와 재회했다...이번엔 도쿄 데이트",
           "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112854351"
+          "url": ""
         },
         {
           "title": "\"첫 데이트 때랑 비슷\" 최다니엘, 혼전연애 ♥카호와 日서 다시 만났다",
@@ -201,41 +173,53 @@
       ]
     },
     {
-      "id": "탁재훈",
-      "rank": 8,
-      "keyword": "탁재훈",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 ''5개월 뒤 환갑' 탁재훈, 지팡이 선물 받았다…\"완전 노인 취급하네\" ('미우새')' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "id": "ล-เวอร-พ-ล-พบ-มอนาโก",
+      "rank": 7,
+      "keyword": "ล เวอร พ ล พบ มอนาโก",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'ถ่ายทอดสด ลิเวอร์พูล พบ โมนาโก: รายชื่อผู้เล่นตัวจริง' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'5개월 뒤 환갑' 탁재훈, 지팡이 선물 받았다…\"완전 노인 취급하네\" ('미우새')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809225851613"
+          "title": "ถ่ายทอดสด ลิเวอร์พูล พบ โมนาโก: รายชื่อผู้เล่นตัวจริง",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/truc-tieptruc-tiep-liverpool-vs-monaco-doi-hinh-xuat-phat"
         },
         {
-          "title": "'미우새' 탁재훈, 생일 맞이 제주 비치클럽 방문",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260809n16126?mid=e02&list=recent&cpcd="
+          "title": "อิราโอลา หวังสร้างทีมที่แฟนบอล ลิเวอร์พูล จะผูกพันและภูมิใจ | Khaosod",
+          "source": "LINE TODAY",
+          "url": "https://today.line.me/th/v3/article/9mGZ5BR"
         },
         {
-          "title": "59세 탁재훈, 50대 마지막 생일에 “주식 마이너스 37%” 탄식 (미우새)",
-          "source": "뉴스엔",
-          "url": "https://m.newsen.com/news_view.php?uid=202608092246541710"
+          "title": "บอลวันนี้ โปรแกรมบอล ดูบอลสด ถ่ายทอดสด วันอาทิตย์ที่ 9 ส.ค. 69",
+          "source": "posttoday",
+          "url": "https://www.posttoday.com/lifestyle/746660"
         }
       ]
+    },
+    {
+      "id": "앤-해서웨이",
+      "rank": 8,
+      "keyword": "앤 해서웨이",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
     },
     {
       "id": "arsenal",
       "rank": 9,
       "keyword": "arsenal",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 'Cristian Romero OPEN to controversial Arsenal transfer and become first…' (The Sun) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -261,7 +245,7 @@
       "rank": 10,
       "keyword": "교회",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 '\"침대에 묶여 있었다\"...교회서 사망한 11세, 아동학대 정황 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
