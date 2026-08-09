@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-09T17:38:10.538Z",
+  "updatedAt": "2026-08-09T18:52:27.340Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,9 +9,9 @@
       "rank": 1,
       "keyword": "피부암",
       "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '선크림, 그렇게 바르면 차단이 아니라 차단 당해요! - 영상 | 멀티미디어' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,69 +33,153 @@
       ]
     },
     {
-      "id": "관리종목",
+      "id": "유격수",
       "rank": 2,
-      "keyword": "관리종목",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+3",
-      "summary": "급상승 시점에 '이르면 10월 동전주 첫 퇴출… 39곳 ‘관리종목 우려’ 대상에' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "유격수",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '2타석 기회 주고 다시 벤치…김하성, ‘PS 유력’ 애틀랜타에 자리 있나' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이르면 10월 동전주 첫 퇴출… 39곳 ‘관리종목 우려’ 대상에",
+          "title": "2타석 기회 주고 다시 벤치…김하성, ‘PS 유력’ 애틀랜타에 자리 있나",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260809/134443022/1"
+        },
+        {
+          "title": "'타율 0.067' 김하성, 양키스전 결장…8연승 달리던 애틀랜타, 연패",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260809_0003741559"
+        },
+        {
+          "title": "\"ATL, 유격수 바꿔야\" 그런데 김하성은 당장 빼라니…경쟁자 흔들려도 설 자리 없는 운명",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/08/10/MJQWCMTDMFQWMMJUHFSTKOJSGM/"
+        }
+      ]
+    },
+    {
+      "id": "liverpool-vs-monaco",
+      "rank": 3,
+      "keyword": "liverpool vs monaco",
+      "volumeLabel": "500+",
+      "startedLabel": "5시간 전",
+      "change": "up",
+      "changeLabel": "+2",
+      "summary": "급상승 시점에 'Liverpool 2-3 Monaco: How players rated as Isak and Wirtz impress' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Liverpool 2-3 Monaco: How players rated as Isak and Wirtz impress",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cj75g1p2dpr7t"
+        },
+        {
+          "title": "Andoni Iraola: I want us to all enjoy this journey together",
+          "source": "Liverpool FC",
+          "url": "https://www.liverpoolfc.com/news/andoni-iraola-i-want-us-all-enjoy-journey-together"
+        },
+        {
+          "title": "Monaco come from behind to beat Liverpool at Anfield",
+          "source": "beIN SPORTS",
+          "url": "https://www.beinsports.com/en-us/soccer/ligue-1/articles/a-preseason-match-slips-away-from-liverpool-and-raises-warning-signs-at-anfield-2026-08-09"
+        }
+      ]
+    },
+    {
+      "id": "관리종목",
+      "rank": 4,
+      "keyword": "관리종목",
+      "volumeLabel": "500+",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 '동전주 상폐 첫 절차 임박…48곳 관리종목 우려 공시' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "동전주 상폐 첫 절차 임박…48곳 관리종목 우려 공시",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260810003211572"
+          "url": "https://v.daum.net/v/37q6086bYK"
+        },
+        {
+          "title": "밸류업 솎아내기 본격화…‘동전주·시총 미달’ 무더기 퇴출 위기",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260809580005"
         },
         {
           "title": "상폐 시계 째깍…163개사 “나 떨고있니”",
           "source": "국제신문",
           "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260810.22012002313"
-        },
-        {
-          "title": "‘동전주 솎아내기’에 무더기 상폐 위기… 코스닥 10% ‘시총 미달’ [마켓시그널]",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20077263"
         }
       ]
     },
     {
-      "id": "트로이",
-      "rank": 3,
-      "keyword": "트로이",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '영웅담 아니었다…놀런이 다시 쓴 고전' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "id": "뱅크-오브-아메리카",
+      "rank": 5,
+      "keyword": "뱅크 오브 아메리카",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '뱅크 오브 아메리카 \"주식시장 강력 매도 신호…21세기 최고 수준\"' (블록미디어) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "영웅담 아니었다…놀런이 다시 쓴 고전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810000737280"
+          "title": "뱅크 오브 아메리카 \"주식시장 강력 매도 신호…21세기 최고 수준\"",
+          "source": "블록미디어",
+          "url": "https://www.blockmedia.co.kr/archives/1125768"
         },
         {
-          "title": "‘오디세이’ 흥행에 서점가도 들썩… ‘오디세이아’ 베스트셀러 역주행",
+          "title": "BofA, 직원 비만치료에 연 3500억원 쓴다…\"가치 있는 투자\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260810010652791"
+          "url": "https://v.daum.net/v/20260809140645350"
         },
         {
-          "title": "'The Odyssey', 글로벌 박스오피스 10억 달러 돌파 | Hypebeast.KR",
-          "source": "Hypebeast.KR",
-          "url": "https://hypebeast.kr/2026/8/christopher-nolan-the-odyssey-surpasses-1-billion-usd-global-box-office"
+          "title": "“직원들 위고비·마운자로 지원에 年 3500억 쓴다”는 ‘이 회사’ 어디?",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20260809/134442285/1"
+        }
+      ]
+    },
+    {
+      "id": "한혜진",
+      "rank": 6,
+      "keyword": "한혜진",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '젠슨황 누군지 몰랐던 화사…손편지로 감사 인사했다' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "젠슨황 누군지 몰랐던 화사…손편지로 감사 인사했다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/celebrity/2026/08/09/RHWW34PAEBHVLNIUJWQN43GCFY/"
+        },
+        {
+          "title": "화사, 결혼하면 남편과 목욕? 한혜진 \"욕조 크게 공사해야겠다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/10/2026081002483477959"
+        },
+        {
+          "title": "미운 우리 새끼 : [선공개] “시작해볼게요!” 화사, 돌게장 속살 분해 후 게장 밥 만들며 텐션 UP",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC481012893?div=live_end"
         }
       ]
     },
     {
       "id": "혼전연애",
-      "rank": 4,
+      "rank": 7,
       "keyword": "혼전연애",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+2",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-3",
       "summary": "급상승 시점에 '최다니엘, 日유명 여배우 카호와 재회했다...이번엔 도쿄 데이트' (OSEN) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -117,76 +201,48 @@
       ]
     },
     {
-      "id": "liverpool-vs-monaco",
-      "rank": 5,
-      "keyword": "liverpool vs monaco",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 'Liverpool 2-3 Monaco: How players rated as Isak and Wirtz impress' (BBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Liverpool 2-3 Monaco: How players rated as Isak and Wirtz impress",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cj75g1p2dpr7t"
-        },
-        {
-          "title": "Liverpool’s lack of depth bites them as they squander two-goal lead again in defeat by Monaco",
-          "source": "The Telegraph",
-          "url": "https://www.telegraph.co.uk/football/2026/08/09/liverpool-vs-monaco-live-score-latest-preseason-friendly/"
-        },
-        {
-          "title": "Andoni Iraola's Anfield Record Ahead of Liverpool Home Debut",
-          "source": "This Is Anfield",
-          "url": "https://www.thisisanfield.com/2026/08/andoni-iraola-anfield-record-liverpool-home-debut/"
-        }
-      ]
-    },
-    {
       "id": "전주시",
-      "rank": 6,
+      "rank": 8,
       "keyword": "전주시",
       "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
+      "startedLabel": "5시간 전",
       "change": "down",
       "changeLabel": "-2",
-      "summary": "급상승 시점에 '전주시의회, AI·영화영상산업 활성화에 머리 맞댄다' (아주경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '전주 송천동 농수산물시장서 화재…1시간 50분 만에 초진(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "전주시의회, AI·영화영상산업 활성화에 머리 맞댄다",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20260809102552399"
+          "title": "전주 송천동 농수산물시장서 화재…1시간 50분 만에 초진(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810015950897"
         },
         {
-          "title": "249억 들이는 전주 버추얼스튜디오···“짓는 것보다 운영이 관건”",
-          "source": "전민일보",
-          "url": ""
+          "title": "전주 송천동 농수산시장서 불…소방 진화 중",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6560293"
         },
         {
-          "title": "전주시의회 AI·영화영상산업연구회 출범…버추얼스튜디오 활용 모색",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260807_0003740310"
+          "title": "전주 송천동 농수산물시장에서 큰불...한때 대응 2단계 발령",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0115_202608100114234128"
         }
       ]
     },
     {
       "id": "ล-เวอร-พ-ล-พบ-มอนาโก",
-      "rank": 7,
+      "rank": 9,
       "keyword": "ล เวอร พ ล พบ มอนาโก",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'ถ่ายทอดสด ลิเวอร์พูล พบ โมนาโก: รายชื่อผู้เล่นตัวจริง' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 'ลิเวอร์พูลประสบความพ่ายแพ้อย่างไม่น่าเชื่อที่แอนฟิลด์' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "ถ่ายทอดสด ลิเวอร์พูล พบ โมนาโก: รายชื่อผู้เล่นตัวจริง",
+          "title": "ลิเวอร์พูลประสบความพ่ายแพ้อย่างไม่น่าเชื่อที่แอนฟิลด์",
           "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/truc-tieptruc-tiep-liverpool-vs-monaco-doi-hinh-xuat-phat"
+          "url": "https://www.vietnam.vn/th/liverpool-that-bai-kho-tin-ngay-tai-anfield"
         },
         {
           "title": "สรุปผลบอลอุ่นเครื่อง ปรีซีซัน ลีกยุโรป ประจำวันที่ 10 ส.ค. 69",
@@ -202,71 +258,15 @@
     },
     {
       "id": "앤-해서웨이",
-      "rank": 8,
+      "rank": 10,
       "keyword": "앤 해서웨이",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": []
-    },
-    {
-      "id": "arsenal",
-      "rank": 9,
-      "keyword": "arsenal",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'Cristian Romero OPEN to controversial Arsenal transfer and become first…' (The Sun) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Cristian Romero OPEN to controversial Arsenal transfer and become first Tottenham ace to join fierce rivals in 25 years",
-          "source": "The Sun",
-          "url": "https://www.thesun.co.uk/sport/40002944/cristiano-romero-tottenham-arsenal-roberto-de-zerbi-transfer/"
-        },
-        {
-          "title": "Atletico Madrid renew Cristian Romero pursuit, Arsenal also interested in Tottenham captain - The Athletic",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/athletic/7497282/2026/08/06/cristian-romero-tottenham-arsenal-transfer-atletico-madrid-inter/"
-        },
-        {
-          "title": "Tottenham Refuses to Sell Romero to Arch-Rival Arsenal",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/08/09/LWBWXM54N5CWFFHARRHYERW5SU/"
-        }
-      ]
-    },
-    {
-      "id": "교회",
-      "rank": 10,
-      "keyword": "교회",
-      "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '\"침대에 묶여 있었다\"...교회서 사망한 11세, 아동학대 정황 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"침대에 묶여 있었다\"...교회서 사망한 11세, 아동학대 정황 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/economy/2026/08/08/2026080815195488974"
-        },
-        {
-          "title": "천안 교회서 생활하던 11살 남아, 왜 숨졌나…경찰 학대 여부 수사",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/regional/2026/08/09/Z5LUFOK5NZEBZLOKVMMHRUPPXM/"
-        },
-        {
-          "title": "교회서 지내던 11세 아동 고열·의식 저하 뒤 숨져···경찰 수사",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608072325001"
-        }
-      ]
     }
   ]
 }
