@@ -1,288 +1,272 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-09T07:36:06.706Z",
+  "updatedAt": "2026-08-09T08:53:58.098Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "채무",
+      "id": "오마이-뉴스",
       "rank": 1,
-      "keyword": "채무",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
+      "keyword": "오마이 뉴스",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '충북도, 700억원 규모 소상공인 육성자금 융자 지원' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '껌팔이에서 공무원, 그리고 지금은... '불사조'의 삶 사는 사람' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "충북도, 700억원 규모 소상공인 육성자금 융자 지원",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260809_0003741716"
+          "title": "껌팔이에서 공무원, 그리고 지금은... '불사조'의 삶 사는 사람",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808150247363"
         },
         {
-          "title": "충북도, 올해 중소기업육성자금 확대…10개 자금, 4320억원 규모",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6558820"
+          "title": "'취재방해' 논란에 최민희 \"너무 큰 관심에 감사\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809150740254"
         },
         {
-          "title": "충북도, 소상공인 육성 자금 700억 원 지원… 경영 안정 총력",
-          "source": "중도일보",
-          "url": "https://m.joongdo.co.kr/view.php?key=20260809010002613"
+          "title": "문 열자마자 소나무 향 솔솔, 정말 시원합니다",
+          "source": "OhmyNews",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003257526"
         }
       ]
     },
     {
-      "id": "볼로디미르-젤렌스키",
+      "id": "고기",
       "rank": 2,
-      "keyword": "볼로디미르 젤렌스키",
+      "keyword": "고기",
       "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '축산물 원산지 위반 106곳 적발…돼지고기 최다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "축산물 원산지 위반 106곳 적발…돼지고기 최다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809135411011"
+        },
+        {
+          "title": "외국산을 국내산으로···휴가철 축산물 원산지 위반 106곳 적발",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608091415001"
+        },
+        {
+          "title": "호주산 소 볼살·멕시코산 우족이 ‘한우 곰탕’…4억7600만원어치 팔았다",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2612437"
+        }
+      ]
+    },
+    {
+      "id": "공동-명의-다주택자",
+      "rank": 3,
+      "keyword": "공동 명의 다주택자",
+      "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '젤렌스키 “北, 러시아에 최대 5만명 파병 결정…韓, 방공 지원해달라”' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“수십년 한집 살았는데 투기꾼이냐”…강남 노인들의 분노' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "젤렌스키 “北, 러시아에 최대 5만명 파병 결정…韓, 방공 지원해달라”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20260809/134443273/1"
-        },
-        {
-          "title": "젤렌스키 \"北, 러시아에 5만명 파병…韓, 방공 지원해달라\"",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02460006645545680"
-        },
-        {
-          "title": "“북한군 최대 5만명 몰려온다”… 젤렌스키가 폭로한 ‘전쟁터의 새 변수’ [밀리터리노트]",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/international/europe/2026/08/09/20260809500050"
-        }
-      ]
-    },
-    {
-      "id": "결혼의-완성",
-      "rank": 3,
-      "keyword": "결혼의 완성",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''결혼의 완성' 남궁민, 김대명의 배신에 또 죽을 위기....자체 최고 시청률 경신 [종합] - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'결혼의 완성' 남궁민, 김대명의 배신에 또 죽을 위기....자체 최고 시청률 경신 [종합] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/09/2026080909277214256"
-        },
-        {
-          "title": "‘결혼의 완성’ 웰메이드 주역 4인, 벅찬 꽃다발 소감",
+          "title": "“수십년 한집 살았는데 투기꾼이냐”…강남 노인들의 분노",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260809144928671"
+          "url": "https://v.daum.net/v/20260809165707714"
         },
         {
-          "title": "소지섭 떠나고 남궁민 막판 스퍼트…종영 앞둔 '결혼의 완성', 자체 최고 시청률 [美친 시청률]",
+          "title": "\"손주 보느라 집 비워도 안 되나요?\" 세금 폭탄 맞을까 민원 쏟아졌다",
           "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/09/GZSDQOBWGY3WMNRVMJSGCYZUGU/"
+          "url": "https://www.chosun.com/economy/economy_general/2026/08/09/XPUI45MKLRDY3NLKQ5M6NDQ3QQ/"
+        },
+        {
+          "title": "\"손주 봐주러 이사했는데\" 민원 폭발…집주인들 '부글부글'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026080926107"
         }
       ]
     },
     {
-      "id": "휴대-전화",
+      "id": "에코프로비엠",
       "rank": 4,
-      "keyword": "휴대 전화",
+      "keyword": "에코프로비엠",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''1.2조 유증' 에코프로비엠, 금감원에 자진정정…\"BNSI 제련소 내년 3월 완공\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'1.2조 유증' 에코프로비엠, 금감원에 자진정정…\"BNSI 제련소 내년 3월 완공\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808221007727"
+        },
+        {
+          "title": "에코프로비엠, 1.2조 유증 자진정정…＂니켈 제련소 내년 3월 완공＂",
+          "source": "한국경제TV",
+          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608080551"
+        },
+        {
+          "title": "배터리 실적 개선에 소재사도 반등…하반기 쏠리는 눈",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/economy/2351416.htm"
+        }
+      ]
+    },
+    {
+      "id": "고용",
+      "rank": 5,
+      "keyword": "고용",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] \"정몽규, 32강 탈락 이후 휴대전화 교체\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '취업자 증가폭 21만→10.8만명 반토막…반도체 쏠림에 고용은 ‘뒷걸음’' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[단독] \"정몽규, 32강 탈락 이후 휴대전화 교체\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6843364_37004.html"
-        },
-        {
-          "title": "\"정몽규 전 회장, 월드컵 32강 실패 뒤 휴대전화 교체…출국금지 조치도 있었다가 해제\"",
+          "title": "취업자 증가폭 21만→10.8만명 반토막…반도체 쏠림에 고용은 ‘뒷걸음’",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260809030209868"
+          "url": "https://v.daum.net/v/20260809152949765"
         },
         {
-          "title": "정몽규 전 회장, 월드컵 32강 탈락 후 휴대전화 교체",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10834964"
-        }
-      ]
-    },
-    {
-      "id": "전한길",
-      "rank": 5,
-      "keyword": "전한길",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 '전한길, 출국금지 반발해 소송했지만 패소‥법원 \"수사 차질 우려\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "전한길, 출국금지 반발해 소송했지만 패소‥법원 \"수사 차질 우려\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6843423_36918.html"
+          "title": "“올해 취업자 증가 10.3만명 전망” 그쳐",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260806500818"
         },
         {
-          "title": "'李대통령 명예훼손 혐의' 전한길, “출국 금지 취소 소송 패소”",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260809580038"
-        },
-        {
-          "title": "출국금지된 전한길, 소송냈으나 패소…법원 \"수사 차질 우려\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809055655518"
-        }
-      ]
-    },
-    {
-      "id": "열사병",
-      "rank": 6,
-      "keyword": "열사병",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-5",
-      "summary": "급상승 시점에 '피지 출신 日 럭비선수, 35도 폭염속 야외 훈련하다 열사병 사망(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "피지 출신 日 럭비선수, 35도 폭염속 야외 훈련하다 열사병 사망(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260808050751704"
-        },
-        {
-          "title": "35도 폭염 속 50분 달리기…日럭비선수, 훈련 중 열사병 사망",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809102209360"
-        },
-        {
-          "title": "'충격' 196㎝ 117㎏ 럭비 선수, 폭염 속 러닝→열사병 사망 \"수차례 물도 마셨는데...\" - 머니투데이",
+          "title": "[사설]일자리 전망 반토막, '반도체 착시' 경고음 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/09/2026080910222698890"
+          "url": "https://www.mt.co.kr/opinion/2026/08/07/2026080609373489953"
         }
       ]
     },
     {
-      "id": "가요대전",
+      "id": "옥순이",
+      "rank": 6,
+      "keyword": "옥순이",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''나솔' 29기 옥순, 연하남 사로잡던 미모 어디가나…단아함으로 부산 접수 제대로 했다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'나솔' 29기 옥순, 연하남 사로잡던 미모 어디가나…단아함으로 부산 접수 제대로 했다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809110225058"
+        },
+        {
+          "title": "'나솔' 29기 옥순, 민낯 같은 청순 비주얼에 안경도 찰떡…부산 홀리는 미모",
+          "source": "텐아시아",
+          "url": "https://www.tenasia.co.kr/article/2026080299044"
+        },
+        {
+          "title": "'나솔' 29기 옥순, '두부'와 함께한 일상 공개…청순한 여름 감성 물씬",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260801151707755"
+        }
+      ]
+    },
+    {
+      "id": "크리스티안-로메로",
       "rank": 7,
-      "keyword": "가요대전",
+      "keyword": "크리스티안 로메로",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[사진]베이비몬스터 아현-치키타,'함께 손가락 깨물며' - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"아스날에 영입 요청\" 충격 폭로! '손흥민 후임' 로메로, 최악의 주장 맞다...\"차라리 2군 박아둘 것\" 토트넘은 절대 불가…' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[사진]베이비몬스터 아현-치키타,'함께 손가락 깨물며' - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/08/09/G42TINZXGNRWGODEGA3TOMBQHE/"
+          "title": "\"아스날에 영입 요청\" 충격 폭로! '손흥민 후임' 로메로, 최악의 주장 맞다...\"차라리 2군 박아둘 것\" 토트넘은 절대 불가 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/09/202608091355775704O"
         },
         {
-          "title": "넥스지, 팬들과의 만남",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1676269/%EB%84%A5%EC%8A%A4%EC%A7%80-%ED%8C%AC%EB%93%A4%EA%B3%BC-%EB%A7%8C%EB%82%A8-2026"
-        },
-        {
-          "title": "아이린 '여신 등장' [MK포토]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260809n09982?mid=e1100"
-        }
-      ]
-    },
-    {
-      "id": "데미스-허사-비스",
-      "rank": 8,
-      "keyword": "데미스 허사 비스",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '구글, AI 리더십 대대적 개편…연구 중심→수익화 압박' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "구글, AI 리더십 대대적 개편…연구 중심→수익화 압박",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809120258201"
-        },
-        {
-          "title": "‘구글 AI 구원투수’에 세르게이 브린 공동 창업자 복귀",
+          "title": "\"아스널 보내줘→절대 안 팔아→2군으로 가\" 부끄러운 손흥민 '주장 완장', 영혼 없는 행보 '대충격'…로메로, 토트넘 떠난다",
           "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/08/07/FGOW3U2255CUXIMVXCDB4ERVAQ/"
+          "url": "https://www.chosun.com/sports/world-football/2026/08/09/GBTGMODGHE4TAMBVHA4DAOJVG4/"
         },
         {
-          "title": "[8월7일] “챗GPT 충격 이후 최대 개편”…구글, AI 경쟁 ‘두 번째 대전환’ 나섰다",
-          "source": "AI타임스",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=213652"
+          "title": "손흥민 다음은 이강인! '쏘니 후임' 아틀레티코와 개인 합의 완료...선수 매각으로 이적 자금 확보, 토트넘에 '660억' 제안 예정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808053549295?f=p"
         }
       ]
     },
     {
-      "id": "엘에이-fc",
-      "rank": 9,
-      "keyword": "엘에이 fc",
+      "id": "이현중",
+      "rank": 8,
+      "keyword": "이현중",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Preview | Toluca vs. LAFC - Leagues Cup 2026 - Phase One' (Los Angeles Football Club) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '농구 국가대표 이현중, NBA 뉴올리언스·보스턴 캠프 초청받아' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Preview | Toluca vs. LAFC - Leagues Cup 2026 - Phase One",
-          "source": "Los Angeles Football Club",
-          "url": "https://www.lafc.com/news/preview-toluca-vs-lafc-leagues-cup-2026-phase-one-august-8"
+          "title": "농구 국가대표 이현중, NBA 뉴올리언스·보스턴 캠프 초청받아",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260809019300007"
         },
         {
-          "title": "Deportivo Toluca FC vs Los Angeles FC Prediction & Picks - Leagues Cup",
-          "source": "SportyTrader",
-          "url": "https://www.sportytrader.com/us/picks/deportivo-toluca-los-angeles-364063/"
+          "title": "남자농구, 아시안게임 조별리그부터 개최국 일본과 경쟁",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6843372_37004.html"
         },
         {
-          "title": "Leagues Cup Toluca LAFC Soccer",
-          "source": "couriernews.com",
-          "url": "https://www.couriernews.com/sports/leagues-cup-toluca-lafc-soccer/image_92d5faef-c9ac-5337-92cb-b67ef794de37.html"
+          "title": "남자 농구, 나고야 아시안게임서 '홈팀' 일본과 한일전",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260808_0003741314"
         }
       ]
     },
     {
-      "id": "경찰학교",
+      "id": "fc-바르셀로나",
+      "rank": 9,
+      "keyword": "fc 바르셀로나",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '라피냐는 FC 바르셀로나가 캄프 누에서 노팅엄 포레스트를 꺾는 경기에서 득점을 기록했습니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "라피냐는 FC 바르셀로나가 캄프 누에서 노팅엄 포레스트를 꺾는 경기에서 득점을 기록했습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/raphinha-lap-cong-fc-barcelona-danh-bai-nottingham-forest-tai-camp-nou"
+        },
+        {
+          "title": "클럽 친선경기: 포레스트는 바르셀로나를 측정 지표로 삼을 수 있다",
+          "source": "티스토리",
+          "url": "https://sbotopkr.tistory.com/2466"
+        },
+        {
+          "title": "라피냐는 캄프 누에서 열린 노팅엄 포레스트와의 경기에서 유일한 골을 기록하며 FC 바르셀로나의 승리를 이끌었다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/raphinha-ghi-ban-duy-nhat-fc-barcelona-ha-nottingham-forest-tren-san-camp-nou"
+        }
+      ]
+    },
+    {
+      "id": "파주시장",
       "rank": 10,
-      "keyword": "경찰학교",
+      "keyword": "파주시장",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '명문대도 마다하고 경찰대 간다…中청년들 몰리는 ‘무서운 신호’' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "명문대도 마다하고 경찰대 간다…中청년들 몰리는 ‘무서운 신호’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809080219509"
-        },
-        {
-          "title": "“취업 안 되면 명문대가 무슨 소용”…中 고3들 몰린 곳은",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12121840"
-        },
-        {
-          "title": "\"간판이 무슨 소용\"…명문대 마다하고 경찰대 가는 中청년들",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/northeast-asia/6253420"
-        }
-      ]
+      "newsSignals": []
     }
   ]
 }
