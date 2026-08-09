@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-09T18:52:27.340Z",
+  "updatedAt": "2026-08-09T19:39:43.726Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,7 +9,7 @@
       "rank": 1,
       "keyword": "피부암",
       "volumeLabel": "1000+",
-      "startedLabel": "4시간 전",
+      "startedLabel": "5시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 '선크림, 그렇게 바르면 차단이 아니라 차단 당해요! - 영상 | 멀티미디어' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
@@ -36,10 +36,10 @@
       "id": "유격수",
       "rank": 2,
       "keyword": "유격수",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '2타석 기회 주고 다시 벤치…김하성, ‘PS 유력’ 애틀랜타에 자리 있나' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -61,69 +61,81 @@
       ]
     },
     {
-      "id": "liverpool-vs-monaco",
+      "id": "ai",
       "rank": 3,
-      "keyword": "liverpool vs monaco",
-      "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 'Liverpool 2-3 Monaco: How players rated as Isak and Wirtz impress' (BBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Liverpool 2-3 Monaco: How players rated as Isak and Wirtz impress",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cj75g1p2dpr7t"
-        },
-        {
-          "title": "Andoni Iraola: I want us to all enjoy this journey together",
-          "source": "Liverpool FC",
-          "url": "https://www.liverpoolfc.com/news/andoni-iraola-i-want-us-all-enjoy-journey-together"
-        },
-        {
-          "title": "Monaco come from behind to beat Liverpool at Anfield",
-          "source": "beIN SPORTS",
-          "url": "https://www.beinsports.com/en-us/soccer/ligue-1/articles/a-preseason-match-slips-away-from-liverpool-and-raises-warning-signs-at-anfield-2026-08-09"
-        }
-      ]
-    },
-    {
-      "id": "관리종목",
-      "rank": 4,
-      "keyword": "관리종목",
-      "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '동전주 상폐 첫 절차 임박…48곳 관리종목 우려 공시' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "동전주 상폐 첫 절차 임박…48곳 관리종목 우려 공시",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/37q6086bYK"
-        },
-        {
-          "title": "밸류업 솎아내기 본격화…‘동전주·시총 미달’ 무더기 퇴출 위기",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260809580005"
-        },
-        {
-          "title": "상폐 시계 째깍…163개사 “나 떨고있니”",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260810.22012002313"
-        }
-      ]
-    },
-    {
-      "id": "뱅크-오브-아메리카",
-      "rank": 5,
-      "keyword": "뱅크 오브 아메리카",
+      "keyword": "ai",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 '5 big analyst AI moves: Pullback in this stock is an ’enhanced buying o…' (Investing.com) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "5 big analyst AI moves: Pullback in this stock is an ’enhanced buying opportunity’",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-pullback-in-this-stock-is-an-enhanced-buying-opportunity-4847661"
+        },
+        {
+          "title": "Turbulent Month Leaves Stock Funds Up 10.6% So Far in 2026",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/finance/investing/stock-funds-increase-year-to-date-4085a35d"
+        },
+        {
+          "title": "AI Narrative Risk: The Hyperscaler Story Changes Again",
+          "source": "Seeking Alpha",
+          "url": "https://seekingalpha.com/article/4933886-ai-narrative-risk-hyperscaler-story-changes-again"
+        }
+      ]
+    },
+    {
+      "id": "한혜진",
+      "rank": 4,
+      "keyword": "한혜진",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+2",
+      "summary": "급상승 시점에 '\"경제에 무지…누군지 몰랐다\" 화사, 젠슨 황에게 직접 편지 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"경제에 무지…누군지 몰랐다\" 화사, 젠슨 황에게 직접 편지 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/10/2026081003053136095"
+        },
+        {
+          "title": "화사, 결혼하면 남편과 목욕? 한혜진 \"욕조 크게 공사해야겠다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/10/2026081002483477959"
+        },
+        {
+          "title": "미운 우리 새끼 : [선공개] “시작해볼게요!” 화사, 돌게장 속살 분해 후 게장 밥 만들며 텐션 UP",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC481012893?div=live_end"
+        }
+      ]
+    },
+    {
+      "id": "다음-뉴스",
+      "rank": 5,
+      "keyword": "다음 뉴스",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "뱅크-오브-아메리카",
+      "rank": 6,
+      "keyword": "뱅크 오브 아메리카",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '뱅크 오브 아메리카 \"주식시장 강력 매도 신호…21세기 최고 수준\"' (블록미디어) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -145,41 +157,13 @@
       ]
     },
     {
-      "id": "한혜진",
-      "rank": 6,
-      "keyword": "한혜진",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '젠슨황 누군지 몰랐던 화사…손편지로 감사 인사했다' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "젠슨황 누군지 몰랐던 화사…손편지로 감사 인사했다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/celebrity/2026/08/09/RHWW34PAEBHVLNIUJWQN43GCFY/"
-        },
-        {
-          "title": "화사, 결혼하면 남편과 목욕? 한혜진 \"욕조 크게 공사해야겠다\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/10/2026081002483477959"
-        },
-        {
-          "title": "미운 우리 새끼 : [선공개] “시작해볼게요!” 화사, 돌게장 속살 분해 후 게장 밥 만들며 텐션 UP",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC481012893?div=live_end"
-        }
-      ]
-    },
-    {
       "id": "혼전연애",
       "rank": 7,
       "keyword": "혼전연애",
       "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-3",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '최다니엘, 日유명 여배우 카호와 재회했다...이번엔 도쿄 데이트' (OSEN) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -201,41 +185,13 @@
       ]
     },
     {
-      "id": "전주시",
-      "rank": 8,
-      "keyword": "전주시",
-      "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '전주 송천동 농수산물시장서 화재…1시간 50분 만에 초진(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "전주 송천동 농수산물시장서 화재…1시간 50분 만에 초진(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810015950897"
-        },
-        {
-          "title": "전주 송천동 농수산시장서 불…소방 진화 중",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6560293"
-        },
-        {
-          "title": "전주 송천동 농수산물시장에서 큰불...한때 대응 2단계 발령",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0115_202608100114234128"
-        }
-      ]
-    },
-    {
       "id": "ล-เวอร-พ-ล-พบ-มอนาโก",
-      "rank": 9,
+      "rank": 8,
       "keyword": "ล เวอร พ ล พบ มอนาโก",
       "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-2",
+      "startedLabel": "5시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 'ลิเวอร์พูลประสบความพ่ายแพ้อย่างไม่น่าเชื่อที่แอนฟิลด์' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -258,15 +214,43 @@
     },
     {
       "id": "앤-해서웨이",
-      "rank": 10,
+      "rank": 9,
       "keyword": "앤 해서웨이",
       "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-2",
+      "startedLabel": "5시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": []
+    },
+    {
+      "id": "arsenal",
+      "rank": 10,
+      "keyword": "arsenal",
+      "volumeLabel": "100+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Guimarães Welcomed by Rice at Arsenal' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Guimarães Welcomed by Rice at Arsenal",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/08/09/TSJDPW4YHZB6FL7LDAJJ7H55YE/"
+        },
+        {
+          "title": "Bruno Guimaraes joins Arsenal from Newcastle",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/articles/c1719r079rjo"
+        },
+        {
+          "title": "Arsenal nearing agreement for Bruno Guimaraes transfer from Newcastle - The Athletic",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/7433264/2026/08/04/arsenal-bruno-guimaraes-transfer-newcastle/"
+        }
+      ]
     }
   ]
 }
