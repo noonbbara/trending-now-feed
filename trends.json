@@ -1,62 +1,62 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-09T08:53:58.098Z",
+  "updatedAt": "2026-08-09T09:49:17.019Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "오마이-뉴스",
+      "id": "폭염-경보",
       "rank": 1,
-      "keyword": "오마이 뉴스",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
+      "keyword": "폭염 경보",
+      "volumeLabel": "200000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '껌팔이에서 공무원, 그리고 지금은... '불사조'의 삶 사는 사람' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[날씨] 전국 곳곳 폭염경보…동해안·제주 비' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "껌팔이에서 공무원, 그리고 지금은... '불사조'의 삶 사는 사람",
+          "title": "[날씨] 전국 곳곳 폭염경보…동해안·제주 비",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260808150247363"
+          "url": "https://v.daum.net/v/20260809142704979"
         },
         {
-          "title": "'취재방해' 논란에 최민희 \"너무 큰 관심에 감사\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809150740254"
+          "title": "7월 중부호우, 남부폭염에서 8월 서부폭염, 동해안 폭우 왜",
+          "source": "서울Pn",
+          "url": "https://m.go.seoul.co.kr/news/society/2026/08/10/20260810010003"
         },
         {
-          "title": "문 열자마자 소나무 향 솔솔, 정말 시원합니다",
-          "source": "OhmyNews",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003257526"
+          "title": "[날씨] 35℃ 더위 여전...경북 울진 호우주의보",
+          "source": "YTN",
+          "url": "https://m.ytn.co.kr/news_view.php?key=202608091557567106&s_mcd=0108"
         }
       ]
     },
     {
-      "id": "고기",
+      "id": "볼로디미르-젤-렌스키",
       "rank": 2,
-      "keyword": "고기",
-      "volumeLabel": "2000+",
+      "keyword": "볼로디미르 젤 렌스키",
+      "volumeLabel": "10000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '축산물 원산지 위반 106곳 적발…돼지고기 최다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '젤렌스키 “北, 러시아에 최대 5만명 파병 결정…韓, 방공 지원해달라”' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "축산물 원산지 위반 106곳 적발…돼지고기 최다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809135411011"
+          "title": "젤렌스키 “北, 러시아에 최대 5만명 파병 결정…韓, 방공 지원해달라”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20260809/134443273/1"
         },
         {
-          "title": "외국산을 국내산으로···휴가철 축산물 원산지 위반 106곳 적발",
+          "title": "젤렌스키 “북한군 3~5만명 러시아 추가 파병 결정”···한국에 방공 무기 지원 요청",
           "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608091415001"
+          "url": "https://www.khan.co.kr/article/202608091834001"
         },
         {
-          "title": "호주산 소 볼살·멕시코산 우족이 ‘한우 곰탕’…4억7600만원어치 팔았다",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2612437"
+          "title": "“북한, 러에 최대 5만명 파병”…한국에 ‘방공 지원’ 요청한 젤렌스키",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809175701041"
         }
       ]
     },
@@ -64,22 +64,22 @@
       "id": "공동-명의-다주택자",
       "rank": 3,
       "keyword": "공동 명의 다주택자",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“수십년 한집 살았는데 투기꾼이냐”…강남 노인들의 분노' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '\"손주 보느라 집 비워도 안 되나요?\" 세금 폭탄 맞을까 민원 쏟아졌다' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "“수십년 한집 살았는데 투기꾼이냐”…강남 노인들의 분노",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809165707714"
-        },
         {
           "title": "\"손주 보느라 집 비워도 안 되나요?\" 세금 폭탄 맞을까 민원 쏟아졌다",
           "source": "조선일보",
           "url": "https://www.chosun.com/economy/economy_general/2026/08/09/XPUI45MKLRDY3NLKQ5M6NDQ3QQ/"
+        },
+        {
+          "title": "“수십년 한집 살았는데 투기꾼이냐”…강남 노인들의 분노",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809165707714"
         },
         {
           "title": "\"손주 봐주러 이사했는데\" 민원 폭발…집주인들 '부글부글'",
@@ -92,10 +92,10 @@
       "id": "에코프로비엠",
       "rank": 4,
       "keyword": "에코프로비엠",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 ''1.2조 유증' 에코프로비엠, 금감원에 자진정정…\"BNSI 제련소 내년 3월 완공\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -105,53 +105,25 @@
           "url": "https://v.daum.net/v/20260808221007727"
         },
         {
+          "title": "에코프로비엠 자진 정정…유증심사 또 밀린다",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20077369"
+        },
+        {
           "title": "에코프로비엠, 1.2조 유증 자진정정…＂니켈 제련소 내년 3월 완공＂",
           "source": "한국경제TV",
           "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608080551"
-        },
-        {
-          "title": "배터리 실적 개선에 소재사도 반등…하반기 쏠리는 눈",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/economy/2351416.htm"
-        }
-      ]
-    },
-    {
-      "id": "고용",
-      "rank": 5,
-      "keyword": "고용",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '취업자 증가폭 21만→10.8만명 반토막…반도체 쏠림에 고용은 ‘뒷걸음’' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "취업자 증가폭 21만→10.8만명 반토막…반도체 쏠림에 고용은 ‘뒷걸음’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809152949765"
-        },
-        {
-          "title": "“올해 취업자 증가 10.3만명 전망” 그쳐",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260806500818"
-        },
-        {
-          "title": "[사설]일자리 전망 반토막, '반도체 착시' 경고음 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/opinion/2026/08/07/2026080609373489953"
         }
       ]
     },
     {
       "id": "옥순이",
-      "rank": 6,
+      "rank": 5,
       "keyword": "옥순이",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 ''나솔' 29기 옥순, 연하남 사로잡던 미모 어디가나…단아함으로 부산 접수 제대로 했다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -173,100 +145,144 @@
       ]
     },
     {
-      "id": "크리스티안-로메로",
-      "rank": 7,
-      "keyword": "크리스티안 로메로",
+      "id": "부산-날씨",
+      "rank": 6,
+      "keyword": "부산 날씨",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"아스날에 영입 요청\" 충격 폭로! '손흥민 후임' 로메로, 최악의 주장 맞다...\"차라리 2군 박아둘 것\" 토트넘은 절대 불가…' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[르포]\"조금 추울 수도…\" 폭염 한풀 꺾인 부산, 거리 나선 시민들' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"아스날에 영입 요청\" 충격 폭로! '손흥민 후임' 로메로, 최악의 주장 맞다...\"차라리 2군 박아둘 것\" 토트넘은 절대 불가 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/09/202608091355775704O"
-        },
-        {
-          "title": "\"아스널 보내줘→절대 안 팔아→2군으로 가\" 부끄러운 손흥민 '주장 완장', 영혼 없는 행보 '대충격'…로메로, 토트넘 떠난다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/08/09/GBTGMODGHE4TAMBVHA4DAOJVG4/"
-        },
-        {
-          "title": "손흥민 다음은 이강인! '쏘니 후임' 아틀레티코와 개인 합의 완료...선수 매각으로 이적 자금 확보, 토트넘에 '660억' 제안 예정",
+          "title": "[르포]\"조금 추울 수도…\" 폭염 한풀 꺾인 부산, 거리 나선 시민들",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260808053549295?f=p"
+          "url": "https://v.daum.net/v/20260809150900279"
+        },
+        {
+          "title": "부산·울산·경남 폭염 속 소나기·비…무더위는 지속",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260809.99099002002"
+        },
+        {
+          "title": "극한 날씨 한풀 꺾여...폭염의 정점 지났나",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0108_202608091107002289"
         }
       ]
     },
     {
-      "id": "이현중",
-      "rank": 8,
-      "keyword": "이현중",
+      "id": "미국-국방부",
+      "rank": 7,
+      "keyword": "미국 국방부",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '농구 국가대표 이현중, NBA 뉴올리언스·보스턴 캠프 초청받아' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '미군 패트리엇 재고 1700기 아래로…NYT “한국 자체 핵무장 유인 커져”' (한겨레) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "농구 국가대표 이현중, NBA 뉴올리언스·보스턴 캠프 초청받아",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260809019300007"
+          "title": "미군 패트리엇 재고 1700기 아래로…NYT “한국 자체 핵무장 유인 커져”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/international/asiapacific/1272058.html"
         },
         {
-          "title": "남자농구, 아시안게임 조별리그부터 개최국 일본과 경쟁",
+          "title": "美 패트리엇 1700발뿐… 주한미군 무기 차출에 안보 공백 우려",
+          "source": "서울Pn",
+          "url": "https://m.go.seoul.co.kr/news/international/2026/08/10/20260810008001"
+        },
+        {
+          "title": "\"미, 이란 전쟁으로 패트리엇 급감‥한국 전력 이전해 대북 태세 우려\"",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6843372_37004.html"
-        },
-        {
-          "title": "남자 농구, 나고야 아시안게임서 '홈팀' 일본과 한일전",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260808_0003741314"
+          "url": "https://imnews.imbc.com/news/2026/world/article/6843398_36925.html"
         }
       ]
     },
     {
-      "id": "fc-바르셀로나",
-      "rank": 9,
-      "keyword": "fc 바르셀로나",
+      "id": "이더리움",
+      "rank": 8,
+      "keyword": "이더리움",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '라피냐는 FC 바르셀로나가 캄프 누에서 노팅엄 포레스트를 꺾는 경기에서 득점을 기록했습니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '11년 잠자던 이더리움 지갑 움직였다…6184배 수익 실현' (블록미디어) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "라피냐는 FC 바르셀로나가 캄프 누에서 노팅엄 포레스트를 꺾는 경기에서 득점을 기록했습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/raphinha-lap-cong-fc-barcelona-danh-bai-nottingham-forest-tai-camp-nou"
+          "title": "11년 잠자던 이더리움 지갑 움직였다…6184배 수익 실현",
+          "source": "블록미디어",
+          "url": "https://www.blockmedia.co.kr/archives/1125747"
         },
         {
-          "title": "클럽 친선경기: 포레스트는 바르셀로나를 측정 지표로 삼을 수 있다",
-          "source": "티스토리",
-          "url": "https://sbotopkr.tistory.com/2466"
+          "title": "신규 주소, 이더리움 2000개 381만달러어치 사들였다",
+          "source": "토큰포스트",
+          "url": "https://www.tokenpost.kr/news/breaking/386983"
         },
         {
-          "title": "라피냐는 캄프 누에서 열린 노팅엄 포레스트와의 경기에서 유일한 골을 기록하며 FC 바르셀로나의 승리를 이끌었다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/raphinha-ghi-ban-duy-nhat-fc-barcelona-ha-nottingham-forest-tren-san-camp-nou"
+          "title": "신규 주소, 바이낸스서 2,000 ETH 출금 후 이체",
+          "source": "토큰포스트",
+          "url": "https://www.tokenpost.kr/news/breaking/386975"
         }
       ]
     },
     {
-      "id": "파주시장",
+      "id": "윤혜진",
+      "rank": 9,
+      "keyword": "윤혜진",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘엄태웅♥’ 윤혜진, 14년만에 발레리나 복귀…엄정화 “자랑스러워”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘엄태웅♥’ 윤혜진, 14년만에 발레리나 복귀…엄정화 “자랑스러워”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808171709567"
+        },
+        {
+          "title": "10년 만에 복귀하는 윤혜진…고국 무대 서는 전민철",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008694904"
+        },
+        {
+          "title": "윤혜진, 14년 만에 토슈즈 신는다···♥엄태웅 아내, 엄지온 엄마 아닌 발레리나 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/06/GIZWMN3DMY3TGZBZME2DMZBVGY/"
+        }
+      ]
+    },
+    {
+      "id": "가요대전-썸머",
       "rank": 10,
-      "keyword": "파주시장",
+      "keyword": "가요대전 썸머",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "summary": "급상승 시점에 '[E포토] 레드벨벳, '아름다운 가요대전의 여신들'' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": []
+      "newsSignals": [
+        {
+          "title": "[E포토] 레드벨벳, '아름다운 가요대전의 여신들'",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260809n11738"
+        },
+        {
+          "title": "조이, 순백의 원피스 입고",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1676336/%EC%A1%B0%EC%9D%B4-%EC%88%9C%EB%B0%B1-%EC%9B%90%ED%94%BC%EC%8A%A4-%EC%9E%85%EA%B3%A0-2026"
+        },
+        {
+          "title": "[포토] '화제의 뼈말라 몸매' 웬디, 밝은 미소로~",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260809n09856?mid=e1200"
+        }
+      ]
     }
   ]
 }
