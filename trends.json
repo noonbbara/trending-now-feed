@@ -1,29 +1,85 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-09T20:42:00.022Z",
+  "updatedAt": "2026-08-09T21:40:13.431Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "계엄",
+      "id": "여행",
       "rank": 1,
-      "keyword": "계엄",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "keyword": "여행",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '대통령기록관, '윤석열 페이지' 추가…12·3 비상계엄담화 제외' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '전남광주, 섬 여행비 절반 지역화폐로 환급' (서울경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "전남광주, 섬 여행비 절반 지역화폐로 환급",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20077332"
+        },
+        {
+          "title": "고흥군 “가을 관광객 잡는다”… ‘반값여행’ 4차 사전신청",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/region/article/all/20260809/134442936/1"
+        },
+        {
+          "title": "경북 영천시, 지역사랑 휴가지원 시범사업에 선정… 경비 50% 환급",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260809511485"
+        }
+      ]
+    },
+    {
+      "id": "반도체",
+      "rank": 2,
+      "keyword": "반도체",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[中반도체굴기] ① 강력한 美제재 뚫고…'추격자'에서 '경쟁자'로' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[中반도체굴기] ① 강력한 美제재 뚫고…'추격자'에서 '경쟁자'로",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810061141565"
+        },
+        {
+          "title": "[中반도체굴기] ② 14조원 '실탄' 쥔 CXMT, 심야에도 공장 건설 속도",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260808047500089"
+        },
+        {
+          "title": "\"애플, 창신메모리 칩 적용 테스트‥부품공급 초기논의\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6843523_36925.html"
+        }
+      ]
+    },
+    {
+      "id": "계엄",
+      "rank": 3,
+      "keyword": "계엄",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 '대통령기록관, ’윤석열 페이지’ 추가…계엄선포문 제외' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "대통령기록관, ’윤석열 페이지’ 추가…계엄선포문 제외",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260810053658lYL"
+        },
         {
           "title": "대통령기록관, '윤석열 페이지' 추가…12·3 비상계엄담화 제외",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260809130950219"
-        },
-        {
-          "title": "대통령기록관, ’윤석열 페이지’ 추가…계엄 선포 담화문 제외",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260809171956yqg"
         },
         {
           "title": "[단독]대통령기록관, '尹 추가' 홈페이지 공개…계엄 선포문은 빠져",
@@ -33,86 +89,30 @@
       ]
     },
     {
-      "id": "유격수",
-      "rank": 2,
-      "keyword": "유격수",
-      "volumeLabel": "2000+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 ''초대형 트레이드' 메인 칩은 결국 '거포 유격수'였나…1년 만에 넘어간 무게중심, '신인왕' 투수 다시 가치 증명할 수 있나' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'초대형 트레이드' 메인 칩은 결국 '거포 유격수'였나…1년 만에 넘어간 무게중심, '신인왕' 투수 다시 가치 증명할 수 있나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809194650811"
-        },
-        {
-          "title": "'이럴수가' 롯데 ↔ 두산 '대형 트레이드' 승자가 이번에 또 바뀌었다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/10/2026080916385340349"
-        },
-        {
-          "title": "폭염으로 리그는 멈췄지만…롯데 신인왕 출신 정철원·삼성 '제2의 강명구' 이진용, 1군 엔트리 말소",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112853824"
-        }
-      ]
-    },
-    {
-      "id": "뱅크-오브-아메리카",
-      "rank": 3,
-      "keyword": "뱅크 오브 아메리카",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+3",
-      "summary": "급상승 시점에 '뱅크 오브 아메리카 \"주식시장 강력 매도 신호…21세기 최고 수준\"' (블록미디어) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "뱅크 오브 아메리카 \"주식시장 강력 매도 신호…21세기 최고 수준\"",
-          "source": "블록미디어",
-          "url": "https://www.blockmedia.co.kr/archives/1125768"
-        },
-        {
-          "title": "직원들 살 빼는 데 3500억 쓴다고?…\"퇴사해도 괜찮아\" 파격 복지로 화제인 '美 회사'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/xTeAQChDNc"
-        },
-        {
-          "title": "직원 마운자로에 3500억 쓰는 BofA…\"가치 있는 투자\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260807_0003740494"
-        }
-      ]
-    },
-    {
-      "id": "한혜진",
+      "id": "이재룡",
       "rank": 4,
-      "keyword": "한혜진",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '젠슨 황의 굴욕, 화사 \"누군지 몰랐다\"…샤라웃 후 손편지로 인사 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "이재룡",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“소주 4잔” 자백한 이재룡 무혐의…“자네 부인 잘 끝날거야” 강남서 경찰 구속 [금주의 사건사고]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "젠슨 황의 굴욕, 화사 \"누군지 몰랐다\"…샤라웃 후 손편지로 인사 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/09/2026080912282565465"
-        },
-        {
-          "title": "\"벌 만큼 버는데\"…한혜진, 화사 '게장 폭풍 먹방'에 한마디 ('미우새')",
+          "title": "“소주 4잔” 자백한 이재룡 무혐의…“자네 부인 잘 끝날거야” 강남서 경찰 구속 [금주의 사건사고]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/76osQJiPIr?f=p"
+          "url": "https://v.daum.net/v/20260809221311114"
         },
         {
-          "title": "미운 우리 새끼 : [선공개] “시작해볼게요!” 화사, 돌게장 속살 분해 후 게장 밥 만들며 텐션 UP",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC481012893?div=live_end"
+          "title": "'술타기 의혹' 이재룡 재판행…음주운전은 무혐의",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260806017300038"
+        },
+        {
+          "title": "이재룡 재판行…다시 떠오른 연예계 사고 후 미조치 사례",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20260806134906983"
         }
       ]
     },
@@ -120,10 +120,10 @@
       "id": "쓰레기-봉투",
       "rank": 5,
       "keyword": "쓰레기 봉투",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '\"너무 부끄럽다…이러니 한국인 욕먹지\" 日 유명 관광지서 발견된 쓰레기 '충격'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -145,126 +145,98 @@
       ]
     },
     {
-      "id": "ai",
+      "id": "광주광역시",
       "rank": 6,
-      "keyword": "ai",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 '5 big analyst AI moves: Pullback in this stock is an ’enhanced buying o…' (Investing.com) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "5 big analyst AI moves: Pullback in this stock is an ’enhanced buying opportunity’",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-pullback-in-this-stock-is-an-enhanced-buying-opportunity-4847661"
-        },
-        {
-          "title": "Turbulent Month Leaves Stock Funds Up 10.6% So Far in 2026",
-          "source": "WSJ",
-          "url": "https://www.wsj.com/finance/investing/stock-funds-increase-year-to-date-4085a35d"
-        },
-        {
-          "title": "'The market has voted': Michael Burry says Big Tech's AI spending is dragging down the S&P 500 — while Apple wins",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/market-voted-michael-burry-says-101000304.html"
-        }
-      ]
-    },
-    {
-      "id": "혼전연애",
-      "rank": 7,
-      "keyword": "혼전연애",
+      "keyword": "광주광역시",
       "volumeLabel": "200+",
-      "startedLabel": "6시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '최다니엘, 日유명 여배우 카호와 재회했다...이번엔 도쿄 데이트' (OSEN) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "최다니엘, 日유명 여배우 카호와 재회했다...이번엔 도쿄 데이트",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112854351"
-        },
-        {
-          "title": "\"첫 데이트 때랑 비슷\" 최다니엘, 혼전연애 ♥카호와 日서 다시 만났다",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-08-09/202608090100050030003108"
-        },
-        {
-          "title": "최다니엘, 日유명 여배우 카호와 재회했다…이번엔 도쿄 데이트",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260809n15306"
-        }
-      ]
-    },
-    {
-      "id": "ล-เวอร-พ-ล-พบ-มอนาโก",
-      "rank": 8,
-      "keyword": "ล เวอร พ ล พบ มอนาโก",
-      "volumeLabel": "200+",
-      "startedLabel": "6시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'ผลบอลสด 'ลิเวอร์พูล พบ โมนาโก' ดูบอลสดช่อง Monomax 9 ส.ค.69 เวลา 20.30 …' (thansettakij) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "ผลบอลสด 'ลิเวอร์พูล พบ โมนาโก' ดูบอลสดช่อง Monomax 9 ส.ค.69 เวลา 20.30 น.",
-          "source": "thansettakij",
-          "url": "https://www.thansettakij.com/sport/665993"
-        },
-        {
-          "title": "\"อีราโอลา\" เซ็ง \"หงส์แดง\" รักษาระดับการเล่นไม่ได้ 90 นาที",
-          "source": "เดลินิวส์",
-          "url": "https://www.dailynews.co.th/news/6094731/"
-        },
-        {
-          "title": "บอลวันนี้ โปรแกรมบอล ดูบอลสด ถ่ายทอดสด วันอาทิตย์ที่ 9 ส.ค. 69",
-          "source": "posttoday",
-          "url": "https://www.posttoday.com/lifestyle/746660"
-        }
-      ]
-    },
-    {
-      "id": "다음-뉴스",
-      "rank": 9,
-      "keyword": "다음 뉴스",
-      "volumeLabel": "100+",
       "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-4",
+      "change": "new",
+      "changeLabel": "NEW",
       "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": []
     },
     {
-      "id": "앤-해서웨이",
-      "rank": 10,
-      "keyword": "앤 해서웨이",
+      "id": "홍콩",
+      "rank": 7,
+      "keyword": "홍콩",
       "volumeLabel": "100+",
-      "startedLabel": "6시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 ''누적 흥행 1조' 대세 女배우, 한계 없는 미친 도전→역대급 파격 변신…반응 뜨거운 美 영화' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"168명 사망 홍콩 아파트 화재원인은 담뱃불\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'누적 흥행 1조' 대세 女배우, 한계 없는 미친 도전→역대급 파격 변신…반응 뜨거운 美 영화",
+          "title": "\"168명 사망 홍콩 아파트 화재원인은 담뱃불\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/0M832DwaYk"
+          "url": "https://v.daum.net/v/20260810054053013"
         },
         {
-          "title": "누적 1조 대세 女배우 파격 변신 주인공은 앤 해서웨이, 첫 생존 액션 어디까지 공개됐나 : 네이버 블로그",
-          "source": "Naver Blog",
-          "url": "https://blog.naver.com/PostView.naver?blogId=yooju0913&logNo=224373018686&redirect=Dlog"
+          "title": "\"168명 사망 홍콩 아파트 화재 참사, 담뱃불서 시작\"‥조사결과 발표",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6843477_36925.html"
         },
         {
-          "title": "이완 맥그리거, '오크 스트리트의 마지막 날'로 스크린 복귀",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260806000070"
+          "title": "168명 숨진 홍콩 아파트 화재…“담배 꽁초가 원인” - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/international/international_general/2026/08/09/Q2CGEK36LREIRA3CI26G7V2JBI/"
+        }
+      ]
+    },
+    {
+      "id": "베트남-축구-국가대표팀",
+      "rank": 8,
+      "keyword": "베트남 축구 국가대표팀",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '꽝하이 선수가 베트남 국가대표팀에서 제 기량을 잃지 않도록 해야 합니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "꽝하이 선수가 베트남 국가대표팀에서 제 기량을 잃지 않도록 해야 합니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/dung-de-quang-hai-lac-nhip-o-doi-tuyen-viet-nam"
+        },
+        {
+          "title": "김상식 감독과 꽝해를 상대하는 어려운 과제.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/hlv-kim-sang-sik-va-bai-toan-kho-quang-hai"
+        },
+        {
+          "title": "꽝하이 선수는 꽁빈 선수의 베트남 국가대표팀 최다 기록을 경신할 수 있을 것이다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/quang-hai-co-the-vuot-ky-luc-cua-cong-vinh-o-doi-tuyen-viet-nam"
+        }
+      ]
+    },
+    {
+      "id": "나마디-조엘-진",
+      "rank": 9,
+      "keyword": "나마디 조엘 진",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '육상 나마디 조엘진, 100ｍ 비공인 10초07…한국 기록 보인다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "육상 나마디 조엘진, 100ｍ 비공인 10초07…한국 기록 보인다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809211659346"
+        },
+        {
+          "title": "’육상 기대주’ 조엘진, 100m 비공식 10초 07…한국 타이 기록 레이스",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260810061202pwO"
+        },
+        {
+          "title": "나마디 조엘진, 100ｍ 10초07… 韓 신기록 가시권",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/08/09/MS6DQSZ435AFDGKTRTVHQFFS7M/"
         }
       ]
     }
