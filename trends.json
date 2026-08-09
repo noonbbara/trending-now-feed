@@ -1,43 +1,15 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-09T16:49:32.276Z",
+  "updatedAt": "2026-08-09T17:38:10.538Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "트로이",
-      "rank": 1,
-      "keyword": "트로이",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '영웅담 아니었다…놀런이 다시 쓴 고전' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "영웅담 아니었다…놀런이 다시 쓴 고전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810000737280"
-        },
-        {
-          "title": "‘오디세이’ 흥행에 서점가도 들썩… ‘오디세이아’ 베스트셀러 역주행",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810010652791"
-        },
-        {
-          "title": "[이 책 어때]영웅을 알아본 것은 활이 아니라 침대였다",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026080612215182005"
-        }
-      ]
-    },
-    {
       "id": "피부암",
-      "rank": 2,
+      "rank": 1,
       "keyword": "피부암",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "up",
       "changeLabel": "+1",
       "summary": "급상승 시점에 '선크림, 그렇게 바르면 차단이 아니라 차단 당해요! - 영상 | 멀티미디어' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
@@ -61,13 +33,97 @@
       ]
     },
     {
-      "id": "liverpool-vs-monaco",
+      "id": "관리종목",
+      "rank": 2,
+      "keyword": "관리종목",
+      "volumeLabel": "500+",
+      "startedLabel": "4시간 전",
+      "change": "up",
+      "changeLabel": "+3",
+      "summary": "급상승 시점에 '이르면 10월 동전주 첫 퇴출… 39곳 ‘관리종목 우려’ 대상에' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이르면 10월 동전주 첫 퇴출… 39곳 ‘관리종목 우려’ 대상에",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810003211572"
+        },
+        {
+          "title": "상폐 시계 째깍…163개사 “나 떨고있니”",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260810.22012002313"
+        },
+        {
+          "title": "‘동전주 솎아내기’에 무더기 상폐 위기… 코스닥 10% ‘시총 미달’ [마켓시그널]",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20077263"
+        }
+      ]
+    },
+    {
+      "id": "트로이",
       "rank": 3,
-      "keyword": "liverpool vs monaco",
+      "keyword": "트로이",
+      "volumeLabel": "500+",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 '영웅담 아니었다…놀런이 다시 쓴 고전' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "영웅담 아니었다…놀런이 다시 쓴 고전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810000737280"
+        },
+        {
+          "title": "‘오디세이’ 흥행에 서점가도 들썩… ‘오디세이아’ 베스트셀러 역주행",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810010652791"
+        },
+        {
+          "title": "'The Odyssey', 글로벌 박스오피스 10억 달러 돌파 | Hypebeast.KR",
+          "source": "Hypebeast.KR",
+          "url": "https://hypebeast.kr/2026/8/christopher-nolan-the-odyssey-surpasses-1-billion-usd-global-box-office"
+        }
+      ]
+    },
+    {
+      "id": "혼전연애",
+      "rank": 4,
+      "keyword": "혼전연애",
       "volumeLabel": "200+",
       "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "up",
+      "changeLabel": "+2",
+      "summary": "급상승 시점에 '최다니엘, 日유명 여배우 카호와 재회했다...이번엔 도쿄 데이트' (OSEN) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "최다니엘, 日유명 여배우 카호와 재회했다...이번엔 도쿄 데이트",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112854351"
+        },
+        {
+          "title": "\"첫 데이트 때랑 비슷\" 최다니엘, 혼전연애 ♥카호와 日서 다시 만났다",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-08-09/202608090100050030003108"
+        },
+        {
+          "title": "최다니엘, 日유명 여배우 카호와 재회했다…이번엔 도쿄 데이트",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260809n15306"
+        }
+      ]
+    },
+    {
+      "id": "liverpool-vs-monaco",
+      "rank": 5,
+      "keyword": "liverpool vs monaco",
+      "volumeLabel": "200+",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 'Liverpool 2-3 Monaco: How players rated as Isak and Wirtz impress' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -90,85 +146,29 @@
     },
     {
       "id": "전주시",
-      "rank": 4,
+      "rank": 6,
       "keyword": "전주시",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '전주 송천동 농수산물시장 활어동에서 화재…대응 2단계 발령' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 '전주시의회, AI·영화영상산업 활성화에 머리 맞댄다' (아주경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "전주 송천동 농수산물시장 활어동에서 화재…대응 2단계 발령",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809235747012"
+          "title": "전주시의회, AI·영화영상산업 활성화에 머리 맞댄다",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20260809102552399"
         },
         {
-          "title": "전주 송천동 농수산시장서 불…소방 진화 중",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6560293"
-        },
-        {
-          "title": "전주 송천동 농수산물시장에서 큰불...한때 대응 2단계 발령",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0115_202608100114234128"
-        }
-      ]
-    },
-    {
-      "id": "관리종목",
-      "rank": 5,
-      "keyword": "관리종목",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '이르면 10월 동전주 첫 퇴출… 39곳 ‘관리종목 우려’ 대상에' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "이르면 10월 동전주 첫 퇴출… 39곳 ‘관리종목 우려’ 대상에",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810003211572"
-        },
-        {
-          "title": "상폐 시계 째깍…163개사 “나 떨고있니”",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260810.22012002313"
-        },
-        {
-          "title": "동전주 상폐 첫 절차 임박‥48곳 관리종목 우려 공시",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6843406_36932.html"
-        }
-      ]
-    },
-    {
-      "id": "혼전연애",
-      "rank": 6,
-      "keyword": "혼전연애",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '최다니엘, 日유명 여배우 카호와 재회했다...이번엔 도쿄 데이트' (OSEN) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "최다니엘, 日유명 여배우 카호와 재회했다...이번엔 도쿄 데이트",
-          "source": "OSEN",
+          "title": "249억 들이는 전주 버추얼스튜디오···“짓는 것보다 운영이 관건”",
+          "source": "전민일보",
           "url": ""
         },
         {
-          "title": "\"첫 데이트 때랑 비슷\" 최다니엘, 혼전연애 ♥카호와 日서 다시 만났다",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-08-09/202608090100050030003108"
-        },
-        {
-          "title": "최다니엘, 日유명 여배우 카호와 재회했다…이번엔 도쿄 데이트",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260809n15306"
+          "title": "전주시의회 AI·영화영상산업연구회 출범…버추얼스튜디오 활용 모색",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260807_0003740310"
         }
       ]
     },
@@ -177,9 +177,9 @@
       "rank": 7,
       "keyword": "ล เวอร พ ล พบ มอนาโก",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 'ถ่ายทอดสด ลิเวอร์พูล พบ โมนาโก: รายชื่อผู้เล่นตัวจริง' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -189,14 +189,14 @@
           "url": "https://www.vietnam.vn/th/truc-tieptruc-tiep-liverpool-vs-monaco-doi-hinh-xuat-phat"
         },
         {
-          "title": "อิราโอลา หวังสร้างทีมที่แฟนบอล ลิเวอร์พูล จะผูกพันและภูมิใจ | Khaosod",
-          "source": "LINE TODAY",
-          "url": "https://today.line.me/th/v3/article/9mGZ5BR"
+          "title": "สรุปผลบอลอุ่นเครื่อง ปรีซีซัน ลีกยุโรป ประจำวันที่ 10 ส.ค. 69",
+          "source": "Sanook.com",
+          "url": "https://www.sanook.com/sport/1668043/"
         },
         {
-          "title": "บอลวันนี้ โปรแกรมบอล ดูบอลสด ถ่ายทอดสด วันอาทิตย์ที่ 9 ส.ค. 69",
-          "source": "posttoday",
-          "url": "https://www.posttoday.com/lifestyle/746660"
+          "title": "\"หงส์แดง\" เข่าทรุดนำ 2 เม็ดสุดท้ายโดน \"โมนาโก\" สอยร่วง",
+          "source": "เดลินิวส์",
+          "url": "https://www.dailynews.co.th/news/6094686/"
         }
       ]
     },
@@ -205,9 +205,9 @@
       "rank": 8,
       "keyword": "앤 해서웨이",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": []
@@ -245,7 +245,7 @@
       "rank": 10,
       "keyword": "교회",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "4시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 '\"침대에 묶여 있었다\"...교회서 사망한 11세, 아동학대 정황 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
