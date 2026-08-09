@@ -1,213 +1,169 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-09T09:49:17.019Z",
+  "updatedAt": "2026-08-09T10:42:18.435Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "폭염-경보",
+      "id": "오스틴-딘",
       "rank": 1,
-      "keyword": "폭염 경보",
-      "volumeLabel": "200000+",
-      "startedLabel": "1시간 전",
+      "keyword": "오스틴 딘",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[날씨] 전국 곳곳 폭염경보…동해안·제주 비' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'LG의 추락…구단 최초 MVP, 오스틴의 꿈도 사라지나, 강력한 경쟁자 등장하다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[날씨] 전국 곳곳 폭염경보…동해안·제주 비",
+          "title": "LG의 추락…구단 최초 MVP, 오스틴의 꿈도 사라지나, 강력한 경쟁자 등장하다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260809142704979"
+          "url": "https://v.daum.net/v/20260809115411973"
         },
         {
-          "title": "7월 중부호우, 남부폭염에서 8월 서부폭염, 동해안 폭우 왜",
-          "source": "서울Pn",
-          "url": "https://m.go.seoul.co.kr/news/society/2026/08/10/20260810010003"
+          "title": "최악의 흐름은 ‘폭염’으로 끊었다… 10위 키움·9위 SSG 만나는 LG, 반등 위한 마지막 기회",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608091551003"
         },
         {
-          "title": "[날씨] 35℃ 더위 여전...경북 울진 호우주의보",
-          "source": "YTN",
-          "url": "https://m.ytn.co.kr/news_view.php?key=202608091557567106&s_mcd=0108"
+          "title": "반등 노리는 ‘주장’ LG 박해민 “도움 될 휴식기, 올라갈 수 있는 힘 만드는 게 중요해”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20260809/134444821/1"
         }
       ]
     },
     {
-      "id": "볼로디미르-젤-렌스키",
+      "id": "수건",
       "rank": 2,
-      "keyword": "볼로디미르 젤 렌스키",
-      "volumeLabel": "10000+",
+      "keyword": "수건",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '젤렌스키 “北, 러시아에 최대 5만명 파병 결정…韓, 방공 지원해달라”' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '사용한 호텔 수건, 어디에 둬야 하나···침대 위? 바닥? 수건 걸이? 직원이 말하는 정답은' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "젤렌스키 “北, 러시아에 최대 5만명 파병 결정…韓, 방공 지원해달라”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20260809/134443273/1"
-        },
-        {
-          "title": "젤렌스키 “북한군 3~5만명 러시아 추가 파병 결정”···한국에 방공 무기 지원 요청",
+          "title": "사용한 호텔 수건, 어디에 둬야 하나···침대 위? 바닥? 수건 걸이? 직원이 말하는 정답은",
           "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608091834001"
+          "url": "https://www.khan.co.kr/article/202608091400001"
         },
         {
-          "title": "“북한, 러에 최대 5만명 파병”…한국에 ‘방공 지원’ 요청한 젤렌스키",
+          "title": "휴가 때 호텔에서 이렇게 생긴 물건 보셨죠? 의자도, 수건 걸이도 아니고 ‘진짜 용도’ 따로 있어요",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260809175701041"
+          "url": "https://v.daum.net/v/20260801083107404"
+        },
+        {
+          "title": "체크아웃할 때 ‘다 쓴 수건’ 어디에 두시나요?...300만 명이 무릎 친 의외의 정답",
+          "source": "인사이트",
+          "url": "https://www.insight.co.kr/news/567233"
         }
       ]
     },
     {
-      "id": "공동-명의-다주택자",
+      "id": "김지유",
       "rank": 3,
-      "keyword": "공동 명의 다주택자",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '\"손주 보느라 집 비워도 안 되나요?\" 세금 폭탄 맞을까 민원 쏟아졌다' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"손주 보느라 집 비워도 안 되나요?\" 세금 폭탄 맞을까 민원 쏟아졌다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/economy_general/2026/08/09/XPUI45MKLRDY3NLKQ5M6NDQ3QQ/"
-        },
-        {
-          "title": "“수십년 한집 살았는데 투기꾼이냐”…강남 노인들의 분노",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809165707714"
-        },
-        {
-          "title": "\"손주 봐주러 이사했는데\" 민원 폭발…집주인들 '부글부글'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026080926107"
-        }
-      ]
-    },
-    {
-      "id": "에코프로비엠",
-      "rank": 4,
-      "keyword": "에코프로비엠",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 ''1.2조 유증' 에코프로비엠, 금감원에 자진정정…\"BNSI 제련소 내년 3월 완공\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'1.2조 유증' 에코프로비엠, 금감원에 자진정정…\"BNSI 제련소 내년 3월 완공\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260808221007727"
-        },
-        {
-          "title": "에코프로비엠 자진 정정…유증심사 또 밀린다",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20077369"
-        },
-        {
-          "title": "에코프로비엠, 1.2조 유증 자진정정…＂니켈 제련소 내년 3월 완공＂",
-          "source": "한국경제TV",
-          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608080551"
-        }
-      ]
-    },
-    {
-      "id": "옥순이",
-      "rank": 5,
-      "keyword": "옥순이",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 ''나솔' 29기 옥순, 연하남 사로잡던 미모 어디가나…단아함으로 부산 접수 제대로 했다' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'나솔' 29기 옥순, 연하남 사로잡던 미모 어디가나…단아함으로 부산 접수 제대로 했다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809110225058"
-        },
-        {
-          "title": "'나솔' 29기 옥순, 민낯 같은 청순 비주얼에 안경도 찰떡…부산 홀리는 미모",
-          "source": "텐아시아",
-          "url": "https://www.tenasia.co.kr/article/2026080299044"
-        },
-        {
-          "title": "'나솔' 29기 옥순, '두부'와 함께한 일상 공개…청순한 여름 감성 물씬",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260801151707755"
-        }
-      ]
-    },
-    {
-      "id": "부산-날씨",
-      "rank": 6,
-      "keyword": "부산 날씨",
+      "keyword": "김지유",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[르포]\"조금 추울 수도…\" 폭염 한풀 꺾인 부산, 거리 나선 시민들' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''런닝맨' 김지유, 유재석 옆에 찰싹…야무진 '분량 사수'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[르포]\"조금 추울 수도…\" 폭염 한풀 꺾인 부산, 거리 나선 시민들",
+          "title": "'런닝맨' 김지유, 유재석 옆에 찰싹…야무진 '분량 사수'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260809150900279"
+          "url": "https://v.daum.net/v/20260809184352875"
         },
         {
-          "title": "부산·울산·경남 폭염 속 소나기·비…무더위는 지속",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260809.99099002002"
+          "title": "'런닝맨' 하하, 홍진호 작전 그대로 실행했지만…양세찬에 '풀스윙' 굴욕",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6253515"
         },
         {
-          "title": "극한 날씨 한풀 꺾여...폭염의 정점 지났나",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0108_202608091107002289"
+          "title": "런닝맨 : [선공개] ‘딕션의 거장’ 홍진호, 창의적인 입놀림으로 발음 게임 실패",
+          "source": "m.programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/runningman/clip/52880/OC481012613?div=live_end"
         }
       ]
     },
     {
-      "id": "미국-국방부",
-      "rank": 7,
-      "keyword": "미국 국방부",
+      "id": "지안",
+      "rank": 4,
+      "keyword": "지안",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '배우 지안 깜짝 '결혼' 발표…신랑은 '광속구' 투수 엄정욱' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "배우 지안 깜짝 '결혼' 발표…신랑은 '광속구' 투수 엄정욱",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809151503429?f=m"
+        },
+        {
+          "title": "배우 지안, 야구선수 출신 엄정욱과 결혼 '깜짝 발표'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026080926087"
+        },
+        {
+          "title": "'42세 초혼' 지안 누구? 한국판 '색, 계' 출연…\"파격 베드신에 초점 속상해\" 발언 재조명",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260809n11306"
+        }
+      ]
+    },
+    {
+      "id": "포헨즈",
+      "rank": 5,
+      "keyword": "포헨즈",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "허가",
+      "rank": 6,
+      "keyword": "허가",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '미군 패트리엇 재고 1700기 아래로…NYT “한국 자체 핵무장 유인 커져”' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '올해 끝나는 토허제 실거주 유예 연장될까…세법 후속책도 속도' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "미군 패트리엇 재고 1700기 아래로…NYT “한국 자체 핵무장 유인 커져”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/international/asiapacific/1272058.html"
+          "title": "올해 끝나는 토허제 실거주 유예 연장될까…세법 후속책도 속도",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809102443395"
         },
         {
-          "title": "美 패트리엇 1700발뿐… 주한미군 무기 차출에 안보 공백 우려",
-          "source": "서울Pn",
-          "url": "https://m.go.seoul.co.kr/news/international/2026/08/10/20260810008001"
+          "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260809015500011"
         },
         {
-          "title": "\"미, 이란 전쟁으로 패트리엇 급감‥한국 전력 이전해 대북 태세 우려\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6843398_36925.html"
+          "title": "\"다주택자 매물 출회 걸림돌\"…12월 종료되는 토허제 실거주 유예 연장될까",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026080911524511601"
         }
       ]
     },
     {
       "id": "이더리움",
-      "rank": 8,
+      "rank": 7,
       "keyword": "이더리움",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '11년 잠자던 이더리움 지갑 움직였다…6184배 수익 실현' (블록미디어) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -217,9 +173,9 @@
           "url": "https://www.blockmedia.co.kr/archives/1125747"
         },
         {
-          "title": "신규 주소, 이더리움 2000개 381만달러어치 사들였다",
+          "title": "622달러에 산 ETH 2000개, 11년 만에 테스트 전송했다",
           "source": "토큰포스트",
-          "url": "https://www.tokenpost.kr/news/breaking/386983"
+          "url": "https://www.tokenpost.kr/news/breaking/387128"
         },
         {
           "title": "신규 주소, 바이낸스서 2,000 ETH 출금 후 이체",
@@ -229,58 +185,86 @@
       ]
     },
     {
-      "id": "윤혜진",
-      "rank": 9,
-      "keyword": "윤혜진",
+      "id": "포수",
+      "rank": 8,
+      "keyword": "포수",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘엄태웅♥’ 윤혜진, 14년만에 발레리나 복귀…엄정화 “자랑스러워”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"형들, 코치님들께 감사해요\" 주전 포수를 키우려면 온 마을이 필요하다, 삼성 26세 포수도 그렇다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘엄태웅♥’ 윤혜진, 14년만에 발레리나 복귀…엄정화 “자랑스러워”",
+          "title": "\"형들, 코치님들께 감사해요\" 주전 포수를 키우려면 온 마을이 필요하다, 삼성 26세 포수도 그렇다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260808171709567"
+          "url": "https://v.daum.net/v/20260808120749688?f=p"
         },
         {
-          "title": "10년 만에 복귀하는 윤혜진…고국 무대 서는 전민철",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008694904"
+          "title": "\"이제 네가 삼성 주전 포수다\" 강민호도 인정, 드디어 후계자 찾았나…2000년생 후배 대답은",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=833728"
         },
         {
-          "title": "윤혜진, 14년 만에 토슈즈 신는다···♥엄태웅 아내, 엄지온 엄마 아닌 발레리나 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/06/GIZWMN3DMY3TGZBZME2DMZBVGY/"
+          "title": "\"약점이 강점됐다\" 무려 4할 육박, 도루저지율 1위가 삼성에 있다...새 안방마님이 선사한 '여유'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/08/05/MM3WENRWGYYDCOBQG5QTQYJVGA/"
         }
       ]
     },
     {
-      "id": "가요대전-썸머",
+      "id": "삼성-갤럭시-z-시리즈",
+      "rank": 9,
+      "keyword": "삼성 갤럭시 z 시리즈",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“기대했던 모습 아닌데”…‘갤Z8’ 반대로 접은 유튜버, 당황한 이유는' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“기대했던 모습 아닌데”…‘갤Z8’ 반대로 접은 유튜버, 당황한 이유는",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/it/12122116"
+        },
+        {
+          "title": "[테크톡노트] 폴드는 어떻게 '아재폰'에서 'MZ폰'이 됐나",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260807094200017"
+        },
+        {
+          "title": "“네쇼라 뜨면 완판”…네이버서 '갤럭시 Z8' 사전판매 흥행 돌풍",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260809000008"
+        }
+      ]
+    },
+    {
+      "id": "초등교사",
       "rank": 10,
-      "keyword": "가요대전 썸머",
+      "keyword": "초등교사",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[E포토] 레드벨벳, '아름다운 가요대전의 여신들'' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[OK제보] 학교민원 매뉴얼 배포 넉달…\"초등교사 10명 중 7명 존재 몰라\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[E포토] 레드벨벳, '아름다운 가요대전의 여신들'",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260809n11738"
+          "title": "[OK제보] 학교민원 매뉴얼 배포 넉달…\"초등교사 10명 중 7명 존재 몰라\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809060206590"
         },
         {
-          "title": "조이, 순백의 원피스 입고",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1676336/%EC%A1%B0%EC%9D%B4-%EC%88%9C%EB%B0%B1-%EC%9B%90%ED%94%BC%EC%8A%A4-%EC%9E%85%EA%B3%A0-2026"
+          "title": "‘사진 찍고 기록하느라’ 정작 아이 못 보는 유치원 교사들···10명 중 3명 “안전지도 공백”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608071412001"
         },
         {
-          "title": "[포토] '화제의 뼈말라 몸매' 웬디, 밝은 미소로~",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260809n09856?mid=e1200"
+          "title": "“유치원 교사 절반 이상, 보건휴가·가족 돌봄 휴가 못써”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/area/capital/1272020.html"
         }
       ]
     }
