@@ -1,286 +1,258 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-10T05:57:19.774Z",
+  "updatedAt": "2026-08-10T07:58:05.116Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "대통령",
+      "id": "베트남",
       "rank": 1,
-      "keyword": "대통령",
-      "volumeLabel": "10000+",
+      "keyword": "베트남",
+      "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '李대통령 \"호남 반도체 속도전 넘어 전격전…2028년까지 광주기지 기능 이전\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'aT, 베트남 시장 공략…K-푸드 수출상담 3538만弗 달성' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "李대통령 \"호남 반도체 속도전 넘어 전격전…2028년까지 광주기지 기능 이전\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810142753758"
-        },
-        {
-          "title": "[속보]이 대통령 “2028년 중순까지 광주 군공항 기능 다른 데로 임시배치”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608101421001"
-        },
-        {
-          "title": "전남광주시장·무안군수, 주말 비공개 회동…군공항 이전 협의",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810059700054"
-        }
-      ]
-    },
-    {
-      "id": "고의정",
-      "rank": 2,
-      "keyword": "고의정",
-      "volumeLabel": "5000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '여자배구 SOOP, 트레이드로 고의정·서지혜 영입…\"경쟁력 상승\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "여자배구 SOOP, 트레이드로 고의정·서지혜 영입…\"경쟁력 상승\"",
+          "title": "aT, 베트남 시장 공략…K-푸드 수출상담 3538만弗 달성",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260810_0003742748"
+          "url": "https://www.newsis.com/view/NISX20260810_0003743100"
         },
         {
-          "title": "여자배구 SOOP, 정솔민·지명권 내주고 고의정·서지혜 영입",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008698201&plink=RSSLINK&cooper=GSTAND"
+          "title": "K-푸드, 베트남 식음료박람회서 3538만 달러 수출상담",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260810501066"
         },
         {
-          "title": "IBK기업은행-SOOP, 고의정+2R 지명권⇔정솔민 트레이드 단행 [공식 발표]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810111907632"
+          "title": "라면 넘어 샤인머스켓·홍삼까지…베트남서 3538만달러 수출상담",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2612888"
         }
       ]
     },
     {
-      "id": "상장폐지",
+      "id": "도라-이버",
+      "rank": 2,
+      "keyword": "도라 이버",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''활동 중단' 조세호, 또 품었다…시즌6로 돌아오는 '도라이버' 오늘(8일) 첫 공개' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'활동 중단' 조세호, 또 품었다…시즌6로 돌아오는 '도라이버' 오늘(8일) 첫 공개",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808070140437"
+        },
+        {
+          "title": "‘도라이버’ 청룡 2관왕 찍고 시즌6로 기세 잇는다",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/514082"
+        },
+        {
+          "title": "주우재, 정체성 입증할 파격 패션 선보였는데…\"개그맨 아니야?\" (도라이버)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260808n04186"
+        }
+      ]
+    },
+    {
+      "id": "보험",
       "rank": 3,
-      "keyword": "상장폐지",
+      "keyword": "보험",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“코스닥 장투했다가 날벼락”…13일, 무더기 상폐 위기 [잇슈 머니]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '29세 이하 고용보험 가입자 47개월째 감소…청년 고용한파 지속' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“코스닥 장투했다가 날벼락”…13일, 무더기 상폐 위기 [잇슈 머니]",
+          "title": "29세 이하 고용보험 가입자 47개월째 감소…청년 고용한파 지속",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260810068700530"
+        },
+        {
+          "title": "반도체 호황에도 제조업 고용 '마이너스'⋯기존 주력산업 부진에 발복",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260810070455313"
+          "url": "https://v.daum.net/v/20260810145806300"
         },
         {
-          "title": "상폐 1차 관문 이번 주 열린다…살아남아도 내년엔 '300억 시험대'",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260810000308"
-        },
-        {
-          "title": "이르면 10월 동전주 첫 퇴출… 39곳 ‘관리종목 우려’ 대상에",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260809/134445151/2"
+          "title": "취업자 수 26만9000명↑…40대, 33개월 만에 증가 전환",
+          "source": "MTN 머니투데이방송",
+          "url": "https://news.mtn.co.kr/news-detail/2026081011195013726"
         }
       ]
     },
     {
-      "id": "제시카",
+      "id": "가정폭력",
       "rank": 4,
-      "keyword": "제시카",
+      "keyword": "가정폭력",
       "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''소녀시대 탈퇴' 제시카, 재결합 한 달 앞두고 美 길거리서 포착 [스타이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[게시판] 애경산업, 가정폭력 피해자 보호시설에 3억원 상당 물품 지원' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'소녀시대 탈퇴' 제시카, 재결합 한 달 앞두고 美 길거리서 포착 [스타이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/8i96wJiPWv"
+          "title": "[게시판] 애경산업, 가정폭력 피해자 보호시설에 3억원 상당 물품 지원",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260810086100030"
         },
         {
-          "title": "17년 만에 '냉면' 무대 서는 제시카, 뉴욕서 여유로운 근황",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260810_0003742456"
+          "title": "애경산업, 가정폭력 피해자 보호 시설에 3억원 상당 물품 지원",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260810000284"
         },
         {
-          "title": "제시카, 박명수와 17년만의 '냉면' 무대 앞두고 뉴욕서 상큼발랄 매력 발산",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6253953"
+          "title": "애경산업 ‘가정폭력 예방의 날’ 맞아 보호시설에 화장품 등 3억 물품 기부",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12122867"
         }
       ]
     },
     {
-      "id": "정의선",
+      "id": "휴대-전화",
       "rank": 5,
-      "keyword": "정의선",
+      "keyword": "휴대 전화",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '정의선의 아이오닉 6년...3종 카드가 이렇게 커졌다 [나우앤덴]' (데일리안) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '종합특검, 수사종료 2주 앞두고 '기소 대상 선별'…40명 안팎 관측' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "정의선의 아이오닉 6년...3종 카드가 이렇게 커졌다 [나우앤덴]",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1676638/%EC%A0%95%EC%9D%98%EC%84%A0-%EC%95%84%EC%9D%B4%EC%98%A4%EB%8B%89-6%EB%85%843%EC%A2%85-%EC%B9%B4%EB%93%9C-%EC%9D%B4%EB%A0%87%EA%B2%8C-2026"
+          "title": "종합특검, 수사종료 2주 앞두고 '기소 대상 선별'…40명 안팎 관측",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810144908862"
         },
         {
-          "title": "[모빌리티 인사이트] 아이오닉 3 진짜 승부처 '배터리보다 튀르키예 공장'",
-          "source": "다나와 자동차",
-          "url": "https://auto.danawa.com/news/?Work=detail&no=6042609&Tab=N1&p=&NewsGroup=M"
+          "title": "[단독]종합특검, ‘공소유지 변호사’ 선발 절차 돌입…‘50명 기소 후 재판’ 대비",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608101355001"
         },
         {
-          "title": "현대차·기아, 상반기 유럽 전기차 판매 10만대 첫 돌파",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260802504006"
+          "title": "수사종료 앞둔 2차특검, 국정원·도이치 관련자 등 줄기소 예고",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260810/134451137/1"
         }
       ]
     },
     {
-      "id": "구속",
+      "id": "찬홈",
       "rank": 6,
-      "keyword": "구속",
+      "keyword": "찬홈",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“가출 막으려 결박, 샤워할 땐 풀었다가 다시 채워”···11살 어린이 숨지게 한 교회 목사 구속' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '태풍 ‘찬홈’ 일본 뚫고 동해 진입...폭염 기세 꺾일까' (경기일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“가출 막으려 결박, 샤워할 땐 풀었다가 다시 채워”···11살 어린이 숨지게 한 교회 목사 구속",
+          "title": "태풍 ‘찬홈’ 일본 뚫고 동해 진입...폭염 기세 꺾일까",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260809580088"
+        },
+        {
+          "title": "'열돔' 깨지자 태풍 변수...중국·일본서 비구름 오나",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0108_202608101347222990"
+        },
+        {
+          "title": "\"차라리 태풍 왔으면\"…말라가는 작물에 애타는 농민들",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260810140441752"
-        },
-        {
-          "title": "천안 교회 어린이 사망 사건, 앞서 4차례 ‘아동학대’ 신고",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8632834"
-        },
-        {
-          "title": "'어린이 사망' 천안 교회 목사 구속…이달 초에만 학대 신고 2건",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260810n15518"
+          "url": "https://v.daum.net/v/20260809190642208"
         }
       ]
     },
     {
-      "id": "버크셔-해서웨이",
+      "id": "로드리고-메시",
       "rank": 7,
-      "keyword": "버크셔 해서웨이",
+      "keyword": "로드리고 메시",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '버핏 떠난 버크셔, 현금쌓기 끝났다… 3600억달러 실탄 풀리나 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '아들을 ‘축구의 신’으로 키운 아버지, 하늘로' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "버핏 떠난 버크셔, 현금쌓기 끝났다… 3600억달러 실탄 풀리나 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/08/10/2026080919504849612"
-        },
-        {
-          "title": "버크셔, 3년 만에 주식 순매수… 198억달러 달해",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/int_economy/2026/08/10/Q52SFQORPREBHKB4MBELIMEFYU/"
-        },
-        {
-          "title": "버핏은 81.7%↑, 돈나무 언니는 33.9%↓…엇갈린 5년 성적표",
+          "title": "아들을 ‘축구의 신’으로 키운 아버지, 하늘로",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260810090308909"
+          "url": "https://v.daum.net/v/20260810043331242"
+        },
+        {
+          "title": "'축구의 신' 메시 부친 별세…스타 아들 뒤에 선 조용한 조력자",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260808054100009"
+        },
+        {
+          "title": "부친 장례식 열린 묘소 걷는 리오넬 메시",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20260810_0002208205&pID=1&cID=&sID=1&type=photoMain&idx=5"
         }
       ]
     },
     {
-      "id": "문지인",
+      "id": "twitch",
       "rank": 8,
-      "keyword": "문지인",
+      "keyword": "twitch",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] 문지인♥김기리, 유산 아픔 딛고 결혼 2년 만에 부모됐다…7일 득남' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[단독] 문지인♥김기리, 유산 아픔 딛고 결혼 2년 만에 부모됐다…7일 득남",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6253762"
-        },
-        {
-          "title": "김기리·문지인 부부 득남…\"산모와 아이 모두 건강\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810125938707"
-        },
-        {
-          "title": "유산 아픔 2년 만에…김기리·문지인, 부모됐다",
-          "source": "한국경제TV",
-          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608100193"
-        }
-      ]
-    },
-    {
-      "id": "박현경",
-      "rank": 9,
-      "keyword": "박현경",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '박현경, 1주만에 평균타수 1위로 복귀 [KLPGA 제주삼다수]' (골프한국) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "박현경, 1주만에 평균타수 1위로 복귀 [KLPGA 제주삼다수]",
-          "source": "골프한국",
-          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021442"
-        },
-        {
-          "title": "'정규투어 200회 출전' 박현경 \"KLPGA 챔피언십 2연패 가장 기억에 남아…목표는 15승\" [ST현장]",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260810n01741"
-        },
-        {
-          "title": "[포토] 박현경, 정규투어 200번째 대회서 평균타수 1위 복귀",
-          "source": "프라임경제",
-          "url": "https://m.newsprime.co.kr/section_view.html?no=743198&menu=1"
-        }
-      ]
-    },
-    {
-      "id": "통장",
-      "rank": 10,
-      "keyword": "통장",
-      "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '저축은행들 7% 고금리 파킹통장 내세운 '낚시'…까다로운 우대조건에 200만 원 한도' (소비자가 만드는 신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'The Super Hero Team-based PVP Shooter' (Marvel Rivals) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "저축은행들 7% 고금리 파킹통장 내세운 '낚시'…까다로운 우대조건에 200만 원 한도",
-          "source": "소비자가 만드는 신문",
-          "url": "https://www.consumernews.co.kr/news/articleView.html?idxno=761040"
+          "title": "The Super Hero Team-based PVP Shooter",
+          "source": "Marvel Rivals",
+          "url": "https://www.marvelrivals.com/20260805/41525_1310120.html"
         },
         {
-          "title": "SBI저축은행, 최대 연 7.7% ‘생활파킹통장’ 선보여",
-          "source": "SR타임스",
+          "title": "Marvel Rivals Season 9.5 Buffs and Nerfs: Every Hero Changes",
+          "source": "games.gg",
+          "url": "https://games.gg/marvel-rivals/guides/marvel-rivals-season-9-5-buffs-and-nerfs/"
+        },
+        {
+          "title": "Marvel Rivals executive producer talks Path to Doomsday, Jubilee, and The Hood",
+          "source": "Shacknews",
           "url": ""
+        }
+      ]
+    },
+    {
+      "id": "kick",
+      "rank": 9,
+      "keyword": "kick",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Drake Barks for Goth Girl' (Consequence of Sound) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Drake Barks for Goth Girl",
+          "source": "Consequence of Sound",
+          "url": "https://consequence.net/2026/08/drake-barks-for-goth-girl/"
         },
         {
-          "title": "SBI저축은행, 소액 여유자금에 최고 연 7.7% ‘생활파킹통장’ 출시",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026080610090909411"
+          "title": "Famous rapper Drake barked like a dog on a dating show.",
+          "source": "Haberler.com",
+          "url": "https://en.haberler.com/famous-rapper-drake-barked-like-a-dog-on-a-dating-2295890/"
+        },
+        {
+          "title": "Drake, Stake to Host $1M Giveaway Livestream for Company's 9th Anniversary",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/drake-stake-host-1m-giveaway-182500327.html"
         }
       ]
     }
