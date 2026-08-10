@@ -1,101 +1,73 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-10T22:47:46.157Z",
+  "updatedAt": "2026-08-10T23:41:46.323Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "최우수산",
+      "id": "축구-감독",
       "rank": 1,
-      "keyword": "최우수산",
-      "volumeLabel": "10000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"안 봐주신 덕에 실업자 됐다\"…'최우수산' 시청률 부진에 종영 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"안 봐주신 덕에 실업자 됐다\"…'최우수산' 시청률 부진에 종영 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/10/2026081009383625272"
-        },
-        {
-          "title": "'시청률1%'대에 결국 폐지…\"누가 결정한 거냐\" 최우수산 종영에 폭주",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Kp3dEed8SW"
-        },
-        {
-          "title": "유세윤·장동민·허경환·붐·양세형 영정사진까지…결국 끝났다 (최우수산)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260810/134447172/1"
-        }
-      ]
-    },
-    {
-      "id": "탁구",
-      "rank": 2,
-      "keyword": "탁구",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '제15회 인천시장배 전국장애인탁구대회, 역대 최대 규모로 열려' (미디어생활) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "제15회 인천시장배 전국장애인탁구대회, 역대 최대 규모로 열려",
-          "source": "미디어생활",
-          "url": "https://www.imedialife.co.kr/news/articleView.html?idxno=68168"
-        },
-        {
-          "title": "전국 장애인 탁구 최강자 인천서 열전…750명 역대 최대 규모",
-          "source": "세계뉴스통신",
-          "url": "https://www.segyenewsagency.com/news/articleView.html?idxno=639761"
-        },
-        {
-          "title": "日 탁구 '세계 최초' 역사, 중국이 발칵 뒤집혔다…中 젊은 선수들 기량 엉망 \"격차 직시해야\", 직격탄 나왔다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Xm79lgaeH8"
-        }
-      ]
-    },
-    {
-      "id": "재건축",
-      "rank": 3,
-      "keyword": "재건축",
+      "keyword": "축구 감독",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '강남구 '정비사업 세금 안내서' 발간…\"전국 최초\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''홍명보 후임' 드디어 찾았다! '전북 우승 명장' 포옛, 韓 대표팀 사령탑 부임 사실상 확정→\"9~11월 A매치 6경기 임시 …' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "강남구 '정비사업 세금 안내서' 발간…\"전국 최초\"",
+          "title": "'홍명보 후임' 드디어 찾았다! '전북 우승 명장' 포옛, 韓 대표팀 사령탑 부임 사실상 확정→\"9~11월 A매치 6경기 임시 지휘 전망\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260810142632695"
+          "url": "https://v.daum.net/v/20260811000025508"
         },
         {
-          "title": "강남구, 정비사업 103곳 ‘재건축 공정관리 현황판’ 구축",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11608573"
+          "title": "이제 서류 접수했는데…日 매체 \"포옛, 한국 축구대표팀 새 감독 유력\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/soccer/6254847"
         },
         {
-          "title": "강남구, 전국 최초 ‘정비사업 세금 안내서’ 발간…조합원 답답함 해소",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=711823"
+          "title": "축구협회, 임시감독 공개채용 접수 마감…다음 주 온라인 면접",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260810137500007"
+        }
+      ]
+    },
+    {
+      "id": "삼전닉스",
+      "rank": 2,
+      "keyword": "삼전닉스",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '코스피 꺾였지만 10곳 중 9곳은 올랐다…코스닥·비반도체에 ‘온기’' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "코스피 꺾였지만 10곳 중 9곳은 올랐다…코스닥·비반도체에 ‘온기’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608101734011"
+        },
+        {
+          "title": "\"삼전닉스 주식 다시 오를까요?\" 전문가에 물었더니…",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026081050241"
+        },
+        {
+          "title": "주가 크게 떨어진 삼전닉스…“반도체 사이클 상승 국면 종료는 아냐”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810150306622"
         }
       ]
     },
     {
       "id": "이다해",
-      "rank": 4,
+      "rank": 3,
       "keyword": "이다해",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 ''세븐♥’ 이다해, 눈물 마를 날 없네..출산 앞두고 딸 선물에 감동' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -110,20 +82,32 @@
           "url": "https://www.mk.co.kr/news/entertain/12123371"
         },
         {
-          "title": "이다해, 태명 ‘해븐’ 위해 준비한 선물…첫 딸 맞이 설렘 가득한 일상",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16159933"
+          "title": "'임신' 이다해, 손녀 옷에 유별난 친정엄마 \"까슬거릴까 봐 택 다 떼\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-08-10/202608100100057180003566"
         }
       ]
+    },
+    {
+      "id": "치어리더",
+      "rank": 4,
+      "keyword": "치어리더",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
     },
     {
       "id": "손담비",
       "rank": 5,
       "keyword": "손담비",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '\"적당히 하시길\" 성난 손담비, 1300만 원 'C사 가방' 들고 웃었다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -145,97 +129,13 @@
       ]
     },
     {
-      "id": "육군사관학교",
-      "rank": 6,
-      "keyword": "육군사관학교",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[기고]“국군사관학교, 국민혈세 낭비 하책 중 하책”…사관학교 통합, 정치 논리 아닌 국방 논리로 풀어야' (문화일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[기고]“국군사관학교, 국민혈세 낭비 하책 중 하책”…사관학교 통합, 정치 논리 아닌 국방 논리로 풀어야",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11608251"
-        },
-        {
-          "title": "[뉴스레터K] “범야권 의원 42명, 사관학교 통합 반대 결의…이유는?“",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810202339135"
-        },
-        {
-          "title": "\"국군사관학교 철회 안 하면 장외집회\"…육사 총동창회, 집단행동 예고",
-          "source": "주간조선",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "id": "schd",
-      "rank": 7,
-      "keyword": "schd",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'How a 61-Year-Old Built a $3,500 Monthly Paycheck From Just Two Funds: …' (Yahoo Finance) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "How a 61-Year-Old Built a $3,500 Monthly Paycheck From Just Two Funds: SCHD and JEPQ",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/61-old-built-3-500-223240630.html"
-        },
-        {
-          "title": "Realty Income, Energy Transfer, JEPQ, and SCHD: A good portfolio for income?",
-          "source": "Invezz",
-          "url": "https://invezz.com/in/news/2026/08/05/realty-income-energy-transfer-jepq-and-schd-a-good-portfolio-for-income/"
-        },
-        {
-          "title": "How a 61-Year-Old Built a $3,500 Monthly Paycheck From Just Two Funds: SCHD and JEPQ",
-          "source": "24/7 Wall St.",
-          "url": "https://247wallst.com/personal-finance/2026/08/09/how-a-61-year-old-built-a-3500-monthly-paycheck-from-just-two-funds-schd-and-jepq/"
-        }
-      ]
-    },
-    {
-      "id": "위원장",
-      "rank": 8,
-      "keyword": "위원장",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '취임 1년 앞두고 \"장동혁 나가라\"…全당원 투표 제안 왜?' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "취임 1년 앞두고 \"장동혁 나가라\"…全당원 투표 제안 왜?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811050335302"
-        },
-        {
-          "title": "국힘 당협위원장 대대적 물갈이, 친한-개혁그룹 쳐내나",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260810/134452480/1"
-        },
-        {
-          "title": "국민의힘, 조강특위 재가동...당 조직 정비 착수",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202608101829154109"
-        }
-      ]
-    },
-    {
       "id": "등반",
-      "rank": 9,
+      "rank": 6,
       "keyword": "등반",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+3",
       "summary": "급상승 시점에 '“실내 클라이밍 성공!”…강북구, 느린학습자를 위한 스포츠 활동 지원' (문화일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -257,30 +157,98 @@
       ]
     },
     {
-      "id": "번트",
-      "rank": 10,
-      "keyword": "번트",
-      "volumeLabel": "200+",
+      "id": "호스피스",
+      "rank": 7,
+      "keyword": "호스피스",
+      "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"이정후한테 묻고 싶다, 한국서 번트를 몇 번이나…\" 이런 바보 같은 감독을 봤나, 중계진도 당황했다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“죽기 직전 뇌가 요동친다”… 호스피스 의사가 목격한 임종 전 ‘뜻밖의 현상’' (헬스조선) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"이정후한테 묻고 싶다, 한국서 번트를 몇 번이나…\" 이런 바보 같은 감독을 봤나, 중계진도 당황했다",
+          "title": "“죽기 직전 뇌가 요동친다”… 호스피스 의사가 목격한 임종 전 ‘뜻밖의 현상’",
+          "source": "헬스조선",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/08/10/2026081002520.html"
+        },
+        {
+          "title": "[생각의 주파수] 기억",
+          "source": "원주신문",
+          "url": ""
+        },
+        {
+          "title": "죽음이라는 기억, 죽음이라는 기록",
+          "source": "브런치",
+          "url": "https://brunch.co.kr/@nowyan/63"
+        }
+      ]
+    },
+    {
+      "id": "장기-기증",
+      "rank": 8,
+      "keyword": "장기 기증",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '뇌사 50대의 생명나눔.. 9년 기다리던 60대, 새 삶 선물 받아' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "뇌사 50대의 생명나눔.. 9년 기다리던 60대, 새 삶 선물 받아",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260811001142846"
+          "url": "https://v.daum.net/v/20260810113401345"
         },
         {
-          "title": "배지환, 밀워키 이적과 동시에 번트 안타로 MLB 복귀 신고(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810005851007"
+          "title": "제주서 50대 뇌사 장기기증으로 5명에 새생명",
+          "source": "한라일보",
+          "url": ""
         },
         {
-          "title": "\"배지환 2019년 가정폭력 징계…메츠가 트리플A에 숨겨둔 이유\" 美폭로, 1위 밀워키는 꼴찌 메츠와 다르다",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260811n01849"
+          "title": "엄마 살리더니…34년 누워 지낸 뇌전증 ‘미소천사’ 4명에 새 생명",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1271679.html"
+        }
+      ]
+    },
+    {
+      "id": "이솔이",
+      "rank": 9,
+      "keyword": "이솔이",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "소유",
+      "rank": 10,
+      "keyword": "소유",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '소유, 삼전닉스 팔아 마련한 집 공개…사우나·헬스장까지' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "소유, 삼전닉스 팔아 마련한 집 공개…사우나·헬스장까지",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260810_0003743550"
+        },
+        {
+          "title": "소유 \"삼전닉스 10년 묵혀 새집 마련\"…사우나·헬스장까지",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811072731535"
+        },
+        {
+          "title": "소유 “10년 전 1억 넣어뒀다”…삼전닉스 주식 팔아 새 집 이사",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260810060623989"
         }
       ]
     }
