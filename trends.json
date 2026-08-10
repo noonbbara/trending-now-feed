@@ -1,258 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-10T09:42:57.968Z",
+  "updatedAt": "2026-08-10T11:14:35.081Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "권영찬",
+      "id": "며느리",
       "rank": 1,
-      "keyword": "권영찬",
+      "keyword": "며느리",
       "volumeLabel": "10000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독]\"김수현 명예훼손\" 팬들이 고발...개그맨 출신 유튜버 검찰 일부 송치 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '차고 바닥에 앉아 쉬던 90대, 며느리 주차 차량에 치여 숨져' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[단독]\"김수현 명예훼손\" 팬들이 고발...개그맨 출신 유튜버 검찰 일부 송치 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/10/2026081013420255968"
-        },
-        {
-          "title": "김수현 팬들에게 고발당한 개그맨 출신 유튜버 檢 송치",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/08/10/SRBZK2Q2XRBDXMN3T56ANWTJB4/"
-        },
-        {
-          "title": "코미디언 출신 유튜버, '김수현 명예훼손' 사건 일부 송치(종합)",
+          "title": "차고 바닥에 앉아 쉬던 90대, 며느리 주차 차량에 치여 숨져",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810131251004"
+          "url": "https://www.yna.co.kr/view/AKR20260810099300064"
+        },
+        {
+          "title": "주차하다 90대 시어머니 치어 숨지게 한 며느리…“차에서 내리고서 알았다”",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260810580591"
+        },
+        {
+          "title": "주택 차고서 쉬고 있던 90대, 가족 승용차에 치여 숨져",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810173900265"
         }
       ]
     },
     {
-      "id": "이재명-지지율",
+      "id": "외국인",
       "rank": 2,
-      "keyword": "이재명 지지율",
+      "keyword": "외국인",
       "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[속보]여론조사꽃, ‘李잘한다’ 53.8% 최저…60대 지지율 폭락' (문화일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[속보]여론조사꽃, ‘李잘한다’ 53.8% 최저…60대 지지율 폭락",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11608470"
-        },
-        {
-          "title": "“이재명도, 장동혁도 싫다” 여야 모두 불신 드러낸 PK 민심",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810182417831"
-        },
-        {
-          "title": "李대통령 지지도 4주 연속 하락한 43.3%…취임 후 최저[리얼미터](종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810017351001"
-        }
-      ]
-    },
-    {
-      "id": "홍경민",
-      "rank": 3,
-      "keyword": "홍경민",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[선공개] “가장 이상적인 코스” 홍경민, ‘국악 엘리트’ 아내 김유나 자랑하며 뿌듯↗ (ft. 지하철 환승음)' (programs.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[선공개] “가장 이상적인 코스” 홍경민, ‘국악 엘리트’ 아내 김유나 자랑하며 뿌듯↗ (ft. 지하철 환승음)",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC481022754"
-        },
-        {
-          "title": "홍경민 아내 김유나, 지하철 환승음 ‘얼씨구야’ 연주자였다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810154949715"
-        },
-        {
-          "title": "김유나 “남편 홍경민, 두딸 학원 다 끊어…다 버려놨다” 분통",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20260805/134422886/2"
-        }
-      ]
-    },
-    {
-      "id": "문어",
-      "rank": 4,
-      "keyword": "문어",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '문어와 선비 문화' (전라일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "문어와 선비 문화",
-          "source": "전라일보",
-          "url": "https://www.jeollailbo.com/news/articleView.html?idxno=807640"
-        },
-        {
-          "title": "\"10미터 앞 안 보여!\" 우지끈‥태풍 강타 100만 긴급대피",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6843622_36925.html"
-        },
-        {
-          "title": "한반도 보다 큰 태풍이 中 덮쳤다…100만 명 긴급 대피",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810182251790"
-        }
-      ]
-    },
-    {
-      "id": "기온",
-      "rank": 5,
-      "keyword": "기온",
-      "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘이중 열돔’ 깨지자 아침기온 17도까지 뚝…‘트리플 태풍’ 영향은?' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '여주서 밭일하던 30대 외국인 여성노동자 실종 하루 만에 숨져' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘이중 열돔’ 깨지자 아침기온 17도까지 뚝…‘트리플 태풍’ 영향은?",
+          "title": "여주서 밭일하던 30대 외국인 여성노동자 실종 하루 만에 숨져",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260810161507993"
+          "url": "https://v.daum.net/v/20260810112537964"
         },
         {
-          "title": "오늘의 날씨- 2026년 8월 11일",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260811.22016002656"
+          "title": "여주서 30대 여성 외국인 계절노동자 숨진채 발견",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1768770"
         },
         {
-          "title": "화요일 태백은 아침 16도…폭염서는 벗어나는데 가뭄은 심화",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810131500530"
+          "title": "여주서 밭일하던 30대 이주노동자 실종 하루 만에 숨진 채 발견",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6843636_36918.html"
         }
       ]
     },
     {
-      "id": "김지원",
-      "rank": 6,
-      "keyword": "김지원",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "id": "노소영",
+      "rank": 3,
+      "keyword": "노소영",
+      "volumeLabel": "5000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '배우 김지원, 서울대어린이병원에 후원금 1억원 기부' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '''9440억 재산분할 앞둔' 노소영 관장, 최수종 옆 깜짝 근황' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "배우 김지원, 서울대어린이병원에 후원금 1억원 기부",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810083400530"
-        },
-        {
-          "title": "“촬영장서 들은 아이들 이야기 못 잊어”…김지원, 서울대어린이병원에 1억 기부",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20077696"
-        },
-        {
-          "title": "김지원, 서울대어린이병원에 1억원 기부",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810172548710"
-        }
-      ]
-    },
-    {
-      "id": "브루노-페르난데스",
-      "rank": 7,
-      "keyword": "브루노 페르난데스",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '2분 만에 실점해도 스스로 해답 찾았다… '유럽 챔피언' PSG와 비긴 캐릭 맨유 감독 \"좋은 시그널 확인\" 만족' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "2분 만에 실점해도 스스로 해답 찾았다… '유럽 챔피언' PSG와 비긴 캐릭 맨유 감독 \"좋은 시그널 확인\" 만족",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809110049988"
-        },
-        {
-          "title": "지난 시즌보다 더 날카로워졌다…'맨유 2년차' 음뵈모, ATM전 멀티골 이어 PSG 상대로도 득점! BBC \"가장 위협적인 선수였어\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260809n06067?mid=n0000"
-        },
-        {
-          "title": "\"내가 카세미루 역할 해줄 수 있다! 무조건 트로피 들겠다\"...955억에 첼시 떠나 맨유 온 산투스, 놀라운 자신감 밝혀",
-          "source": "인터풋볼",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=692240"
-        }
-      ]
-    },
-    {
-      "id": "로드리고-메시",
-      "rank": 8,
-      "keyword": "로드리고 메시",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '아들을 ‘축구의 신’으로 키운 아버지, 하늘로' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "아들을 ‘축구의 신’으로 키운 아버지, 하늘로",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810043331242"
-        },
-        {
-          "title": "'축구의 신' 메시 부친 별세…스타 아들 뒤에 선 조용한 조력자",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260808054100009"
-        },
-        {
-          "title": "부친 장례식 열린 묘소 걷는 리오넬 메시",
+          "title": "''9440억 재산분할 앞둔' 노소영 관장, 최수종 옆 깜짝 근황",
           "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20260810_0002208205&pID=1&cID=&sID=1&type=photoMain&idx=5"
+          "url": "https://www.newsis.com/view/NISX20260810_0003742854"
+        },
+        {
+          "title": "[이슈]노소영 관장이 최수종 연극 응원 온 이유",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11608497"
+        },
+        {
+          "title": "최태원, 노소영에 약 1조 원 지급하나...14일 재상고 기한 만료",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202608091606201533"
         }
       ]
     },
     {
-      "id": "new-york-times",
-      "rank": 9,
-      "keyword": "new york times",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "id": "15-호-태풍",
+      "rank": 4,
+      "keyword": "15 호 태풍",
+      "volumeLabel": "5000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Opinion | BTS’s Grammys Boycott Highlights the Perils of Pop Music' (The New York Times) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''이중 열돔' 깨졌다...13호·15호 태풍 변수' (YTN) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Opinion | BTS’s Grammys Boycott Highlights the Perils of Pop Music",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/09/opinion/bts-grammys-pop-genre-racism.html"
+          "title": "'이중 열돔' 깨졌다...13호·15호 태풍 변수",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0108_202608101747431538"
         },
         {
-          "title": "The New York Times: \"BTS, seeking to break down racial barriers just as Michael Jackson did\" [K-EYES]",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/en/music/2026/08/10/2026081017002115201"
+          "title": "'이중 열돔' 깬 3개의 태풍…\"낮에는 덥지만 이제 견딜 만해\"",
+          "source": "www.mbn.co.kr",
+          "url": "https://www.mbn.co.kr/pages/vod/programView.mbn?bcastSeqNo=1426227"
         },
         {
-          "title": "BTS Boycotts 2027 Grammys Over New Asian Pop Category, Challenges Recording Academy | AA1G Survivor 50 Recap (xGe9pdoayE)",
-          "source": "Mshale",
-          "url": "https://mshale.com/98f6e720/1a81cf9bgvqNVSqB2uk"
+          "title": "\"19도까지 떨어진다\"…'입추' 아니라 원인은 따로?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810155704096"
+        }
+      ]
+    },
+    {
+      "id": "김미현",
+      "rank": 5,
+      "keyword": "김미현",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘슈퍼 땅콩’ 김미현 운영 골프연습장, 불법 전대 혐의로 피고발' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘슈퍼 땅콩’ 김미현 운영 골프연습장, 불법 전대 혐의로 피고발",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810135421319"
+        },
+        {
+          "title": "'슈퍼땅콩' 김미현 골프장, 16년간 무단임대 의혹…구청에 고발당해 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/08/10/2026081018415819957"
+        },
+        {
+          "title": "유명 골퍼 김미현 측 운영 대형골프연습장 '불법전대' 피고발",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260810082500065"
+        }
+      ]
+    },
+    {
+      "id": "ssg-랜더스",
+      "rank": 6,
+      "keyword": "ssg 랜더스",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'SSG, 13일 롯데전서 ‘플러스 데이’ 개최' (기호일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "SSG, 13일 롯데전서 ‘플러스 데이’ 개최",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3031227"
+        },
+        {
+          "title": "SSG 랜더스, 13일 롯데전 공식 협력 의료기관과 '플러스 데이'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/08/10/GUYDQMTFHFSDGMDFMRRDGYLDGA/"
+        },
+        {
+          "title": "SSG, 13일 롯데전 공식 협력 의료기관과 ‘플러스 데이’ 이벤트 개최…팬들에게 종합검진권 선물 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/10/202608101007771765O"
+        }
+      ]
+    },
+    {
+      "id": "빅뱅",
+      "rank": 7,
+      "keyword": "빅뱅",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '데뷔 20주년 빅뱅, 4년 만에 신곡 '빅' 예고' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "데뷔 20주년 빅뱅, 4년 만에 신곡 '빅' 예고",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810090310912?f=p"
+        },
+        {
+          "title": "롯데백화점·YG, 잠실서 10일간 ‘빅뱅 20주년’ 기념 행사",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608101430001"
+        },
+        {
+          "title": "빅뱅, 20주년 신곡으로 4년 만에 컴백…초대형 월드투어 예고",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202608101004205429"
+        }
+      ]
+    },
+    {
+      "id": "남구",
+      "rank": 8,
+      "keyword": "남구",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '웅양면 주민자치회, 자매도시 울산 남구 삼호동 방문' (뉴스팟) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "웅양면 주민자치회, 자매도시 울산 남구 삼호동 방문",
+          "source": "뉴스팟",
+          "url": ""
+        },
+        {
+          "title": "거창 웅양면 주민자치회, 울산 남구 삼호동과 자매결연 교류행사",
+          "source": "한국사회복지저널",
+          "url": ""
+        },
+        {
+          "title": "거창군 웅양면 주민자치회, 자매도시 교류행사 위해 울산 남구 삼호동 방문 > 뉴스",
+          "source": "더코리아",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "한국경제신문사",
+      "rank": 9,
+      "keyword": "한국경제신문사",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '삼전 ‘웃고’·SK하닉 ‘울고’…엇갈린 삼전닉스 뚫고 코스피 구원할 깜짝 실적주는?' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "삼전 ‘웃고’·SK하닉 ‘울고’…엇갈린 삼전닉스 뚫고 코스피 구원할 깜짝 실적주는?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810053209928"
+        },
+        {
+          "title": "실적 성장株 부활…코스피 빠질 때 올랐다",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1138701"
+        },
+        {
+          "title": "\"반도체만 오른다\" 곡소리 났는데…'대반전' 예고한 종목들",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026080928631"
+        }
+      ]
+    },
+    {
+      "id": "최저시급",
+      "rank": 10,
+      "keyword": "최저시급",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '최저임금 1만700원 확정, 소상공인 생존과 지역경제 연착륙 대책 시급하다' (울산종합일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "최저임금 1만700원 확정, 소상공인 생존과 지역경제 연착륙 대책 시급하다",
+          "source": "울산종합일보",
+          "url": "https://www.ujnews.co.kr/news/newsview.php?ncode=1065587148018684"
+        },
+        {
+          "title": "“알바 대신 키오스크”…외식·유통업계 무인화 전환 급물살",
+          "source": "www.dt.co.kr",
+          "url": "https://www.dt.co.kr/article/12077010"
+        },
+        {
+          "title": "9년 만에 최저임금 소송 나선 소상공인계…쟁점은 '금액·결정구조'",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260807n02075"
         }
       ]
     }
