@@ -1,286 +1,270 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-10T02:24:50.687Z",
+  "updatedAt": "2026-08-10T04:15:06.546Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "양파",
+      "id": "최우수산",
       "rank": 1,
-      "keyword": "양파",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "keyword": "최우수산",
+      "volumeLabel": "10000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“학대 아닙니다”…양파망 씌워 진드기 막은 견주' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '시청률 부진에 고개 숙이더니…MBC 예능, 결국 막 내렸다→3개월 만에 종영한 '최우수산' [종합]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“학대 아닙니다”…양파망 씌워 진드기 막은 견주",
+          "title": "시청률 부진에 고개 숙이더니…MBC 예능, 결국 막 내렸다→3개월 만에 종영한 '최우수산' [종합]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260810072247554"
+          "url": "https://v.daum.net/v/20260810080307345"
         },
         {
-          "title": "\"곰팡이 핀 양파, 다 버려야 할까?\"... '여기' 보고 판단할 수 있습니다",
-          "source": "아던트뉴스",
-          "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=17769"
+          "title": "\"안 봐주신 덕에 실업자 됐다\"…'최우수산' 시청률 부진에 종영 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/10/2026081009383625272"
         },
         {
-          "title": "농업재해보험, 기후위기시대 ‘농가소득 안정’ 효과 톡톡",
-          "source": "농민신문",
-          "url": "https://www.nongmin.com/article/20260807500627"
+          "title": "'시청률1%'대에 결국 폐지…\"누가 결정한 거냐\" 최우수산 종영에 폭주",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260810n02735"
         }
       ]
     },
     {
-      "id": "간식",
+      "id": "kf-21-보라매",
       "rank": 2,
-      "keyword": "간식",
+      "keyword": "kf-21 보라매",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "이다-영",
+      "rank": 3,
+      "keyword": "이다 영",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'GS25, 베트남에 바나나 지정농장 운영…\"안정적 공급 기반 마련\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘학폭 논란’ 韓배구계 뒤흔든 쌍둥이 아직 현역이다! 나란히 아제르바이잔행→5년 만에 한솥밥 확정' (OSEN) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "GS25, 베트남에 바나나 지정농장 운영…\"안정적 공급 기반 마련\"",
+          "title": "‘학폭 논란’ 韓배구계 뒤흔든 쌍둥이 아직 현역이다! 나란히 아제르바이잔행→5년 만에 한솥밥 확정",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112853514"
+        },
+        {
+          "title": "'학폭 논란→사실상 韓 퇴출' 이재영·이다영, 보란 듯 밝힌 '새 시즌 각오'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260810084156237"
+          "url": "https://v.daum.net/v/95dgIJiPWh"
         },
         {
-          "title": "신세계라이브쇼핑, 13일까지 '여름 간식 대전'…\"최대 60% 할인\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810017100030"
-        },
-        {
-          "title": "\"농장부터 소포장으로\"…GS25, 베트남 바나나 지정농장 확보",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/industry/distribution/6253691"
-        }
-      ]
-    },
-    {
-      "id": "원태인",
-      "rank": 3,
-      "keyword": "원태인",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '나이 '깡패'에 포스팅비 없는 FA 원태인, 빅리그 보장 연봉 600만 달러면 도장 찍어야...샌디에이고 유력' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "나이 '깡패'에 포스팅비 없는 FA 원태인, 빅리그 보장 연봉 600만 달러면 도장 찍어야...샌디에이고 유력",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810043252218"
-        },
-        {
-          "title": "'FA로이드' 틀렸나? 삼성 원태인, 후반기 ERA 6.62, 7월 ERA 5.86...시즌 ERA도 4점대",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260801073249952"
-        },
-        {
-          "title": "'6년 만의 최악투' 원태인 해외진출 물 건너 갔다고? \"ML의 판단은 다르던데요\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260806101813520?f=p"
-        }
-      ]
-    },
-    {
-      "id": "신봉선",
-      "rank": 4,
-      "keyword": "신봉선",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '하우스 푸어 겪은 신봉선, 매달 100만원씩 10년 묻어두자 벌어진 일' (세계일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "하우스 푸어 겪은 신봉선, 매달 100만원씩 10년 묻어두자 벌어진 일",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260706517383"
-        },
-        {
-          "title": "닮은꼴 아이유 뛰어넘었나...'11kg 감량' 신봉선, 물오른 미모",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260808220210603"
-        },
-        {
-          "title": "아이유인 줄…신봉선, 100일 만 '체지방 11kg' 삭제→날렵한 턱선에 '미모 포텐' 터졌다 [RE:스타]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260809n06071"
-        }
-      ]
-    },
-    {
-      "id": "알렉산드라-에알라",
-      "rank": 5,
-      "keyword": "알렉산드라 에알라",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"세계 5위도 가능해\" 1억1600만 필리핀이 열광한다…21세 女 테니스 스타, 7연승 질주→\"밤잠 설치며 생중계 지켜봐\" 온국…' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"세계 5위도 가능해\" 1억1600만 필리핀이 열광한다…21세 女 테니스 스타, 7연승 질주→\"밤잠 설치며 생중계 지켜봐\" 온국민 응원까지",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/bbbKOvTsHE"
-        },
-        {
-          "title": "\"마침내 파퀴아오급 국민 영웅의 탄생\"...세계 랭킹 3위 꺾은 '초신성' 이알라, WTA 우승, 필리핀 역사상 첫 쾌거",
-          "source": "스포탈코리아",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553431287"
-        },
-        {
-          "title": "라파엘 나달, 역사적인 워싱턴 오픈 우승 후 이알라에게 축하 메시지 전해",
-          "source": "테니스코리아",
-          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=53409"
-        }
-      ]
-    },
-    {
-      "id": "코스닥",
-      "rank": 6,
-      "keyword": "코스닥",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '코스닥 4%대 급등에 매수 사이드카 발동‥올해 18번째' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "코스닥 4%대 급등에 매수 사이드카 발동‥올해 18번째",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6843593_36932.html"
-        },
-        {
-          "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810051900011"
-        },
-        {
-          "title": "[이 시각 시황] 코스피·코스닥 동반 반등…우주항공·반도체주 강세",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810094020440"
-        }
-      ]
-    },
-    {
-      "id": "이솔이",
-      "rank": 7,
-      "keyword": "이솔이",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''암 투병' 이솔이 \"내 마음대로 살 거야\"..박성광과 이혼설 부인 후 근황' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'암 투병' 이솔이 \"내 마음대로 살 거야\"..박성광과 이혼설 부인 후 근황",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810094650698"
-        },
-        {
-          "title": "마른 몸매 이정도였어?…‘박성광♥’ 이솔이, 시선 사로잡은 '역대급 슬립룩'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/10/GVRDKN3CGUZGGYTBMQ3GCYRUMY/"
-        },
-        {
-          "title": "♥이솔이와 번갈아 케어…박성광, 심장병 투병 광복이 근황 \"응원 덕 조금 회복\"",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260806n11992"
-        }
-      ]
-    },
-    {
-      "id": "구자욱",
-      "rank": 8,
-      "keyword": "구자욱",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'FA? 다년계약? 구자욱 \"단장님, 우승부터 하겠습니다\"…구 주장 6일 선수단 소집→무슨 이야기 했나' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "FA? 다년계약? 구자욱 \"단장님, 우승부터 하겠습니다\"…구 주장 6일 선수단 소집→무슨 이야기 했나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807012349034"
-        },
-        {
-          "title": "머리 짧게 자른 구자욱, 오직 삼성 우승만 생각한다…\"나부터 더 집중하겠다는 의미\" [대구 인터뷰]",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260807n03095"
-        },
-        {
-          "title": "단호한 구자욱 \"디아즈 못하는 것 아니다\" 옹호…50홈런-150타점이 비현실적이었지, 믿음 굳건하다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/7pOq8dJ6Cl"
-        }
-      ]
-    },
-    {
-      "id": "노화",
-      "rank": 9,
-      "keyword": "노화",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“늙은 세포를 다시 젊게”…바다에서 찾는 ‘역노화’ 가능성' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“늙은 세포를 다시 젊게”…바다에서 찾는 ‘역노화’ 가능성",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810103012989"
-        },
-        {
-          "title": "KIOST, 해파리 등 바다생물에서 노화극복 기술 찾는다",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260806n27775"
-        },
-        {
-          "title": "해양과학기술원, 노화를 되돌릴 해양소재 개발 착수",
-          "source": "중도일보",
-          "url": "https://www.joongdo.co.kr/web/view.php?key=20260806010002142"
-        }
-      ]
-    },
-    {
-      "id": "화가",
-      "rank": 10,
-      "keyword": "화가",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '박한별, 미술대회 본선 진출 \"다시봐도 안믿김\" 경사 터졌다[스타이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "박한별, 미술대회 본선 진출 \"다시봐도 안믿김\" 경사 터졌다[스타이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809203209556"
-        },
-        {
-          "title": "화가 된 박한별 \"첫 도전에 인사동 전시, 파리 초대까지\"",
+          "title": "'아제르바이잔행' 여자배구 이다영 \"이적해 행복…좋은 모습으로 보답\"",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260809_0003741950"
+          "url": "https://www.newsis.com/view/NISX20260809_0003741885"
+        }
+      ]
+    },
+    {
+      "id": "크리스-페덱",
+      "rank": 4,
+      "keyword": "크리스 페덱",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '경산 간 페덱, 2군 유망주들에게 구종·루틴·노하우 다 퍼줬다…삼성에 왜 이리 진심이야' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "경산 간 페덱, 2군 유망주들에게 구종·루틴·노하우 다 퍼줬다…삼성에 왜 이리 진심이야",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qKzii51yl1?f=p"
         },
         {
-          "title": "박한별, 여전한 얼짱 \"말도 안되는 일 벌어져..현실감 제로\" - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/09/GEZGGOLGMVTDQM3EMM4TSOLEGM/"
+          "title": "◇내일의 경기(11일)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260809005600007"
+        },
+        {
+          "title": "‘야구야 반갑다!’ 프로야구 재개… KIA·NC는 11일 만에 실전",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3423765"
+        }
+      ]
+    },
+    {
+      "id": "후티-예멘",
+      "rank": 5,
+      "keyword": "후티 예멘",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '후티 반군 \"사우디 아람코 정유시설 드론으로 타격\"(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "후티 반군 \"사우디 아람코 정유시설 드론으로 타격\"(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260809019651009"
+        },
+        {
+          "title": "후티 반군, 예멘 항구도시 모카 또 공격…사상자 37명(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810115927313"
+        },
+        {
+          "title": "사우디와 전면전? 후티, 예멘·사우디 공격... 11명 사망",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/08/10/5WWD3F75NRCLFIGWRP3DH22J7E/"
+        }
+      ]
+    },
+    {
+      "id": "보트",
+      "rank": 6,
+      "keyword": "보트",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '인천 앞바다서 연락 두절된 모터보트 구조…3명 모두 무사(종합2보)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "인천 앞바다서 연락 두절된 모터보트 구조…3명 모두 무사(종합2보)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810123855361"
+        },
+        {
+          "title": "전복된 모터보트 부여잡고 밤새 7시간 버텨…낚시꾼 3명 ‘구명조끼’가 살렸다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608100830001"
+        },
+        {
+          "title": "어둠 속 바다서 11시간 버틴 낚시객 3명…구명조끼가 살렸다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260810063200065"
+        }
+      ]
+    },
+    {
+      "id": "발전소",
+      "rank": 7,
+      "keyword": "발전소",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '한국동서발전, 국산 ‘피지컬 AI’ 발전소 현장 투입한다' (울산종합일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "한국동서발전, 국산 ‘피지컬 AI’ 발전소 현장 투입한다",
+          "source": "울산종합일보",
+          "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065579345386213"
+        },
+        {
+          "title": "동서발전, 국산 물리 인공지능 기업과 업무협약 체결",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1676639/%EB%8F%99%EC%84%9C%EB%B0%9C%EC%A0%84-%EA%B5%AD%EC%82%B0-%EB%AC%BC%EB%A6%AC-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B8%B0%EC%97%85%EA%B3%BC-2026"
+        },
+        {
+          "title": "동서발전, 스마트 발전소 전환 가속화",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10836011"
+        }
+      ]
+    },
+    {
+      "id": "집행유예",
+      "rank": 8,
+      "keyword": "집행유예",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '치매노인 은행 데려간 간병인, 체크카드 발급받아 2000만원 꿀꺽' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "치매노인 은행 데려간 간병인, 체크카드 발급받아 2000만원 꿀꺽",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260810/134447598/2"
+        },
+        {
+          "title": "치매 노인 예금 2000만원 가로챈 70대 간병인, 집유 4년",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/regional/2026/08/09/IH36SI6LUNHTPDTTNGMPT6ZJGM/"
+        },
+        {
+          "title": "담당하던 치매 환자 요양원 가자…카드 빼돌려 2000만원 펑펑 쓴 간병인",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/08/10/2026081008145228494"
+        }
+      ]
+    },
+    {
+      "id": "중대범죄-수사청",
+      "rank": 9,
+      "keyword": "중대범죄 수사청",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“시험 면제” 안 먹힌다…‘중수청 이직’ 시큰둥한 검사들' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“시험 면제” 안 먹힌다…‘중수청 이직’ 시큰둥한 검사들",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810050221587"
+        },
+        {
+          "title": "근무여건 깜깜이 중수청…檢수사관 이직 놓고 혼란",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260810.22002002302"
+        },
+        {
+          "title": "전국 6개 '중수청' 지방청 명단 속 인천 없다",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1329169"
+        }
+      ]
+    },
+    {
+      "id": "미국",
+      "rank": 10,
+      "keyword": "미국",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '트럼프 “이란 문제 조용히 대응 중”…협상 난항 속 여론도 악화' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "트럼프 “이란 문제 조용히 대응 중”…협상 난항 속 여론도 악화",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810123214286"
+        },
+        {
+          "title": "트럼프 \"차분하게 대응\"…대이란 경제 압박 선회",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202608101245088M0"
+        },
+        {
+          "title": "[인사] 한국원자력의학원",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260810057400017"
         }
       ]
     }
