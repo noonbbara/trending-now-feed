@@ -1,270 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-10T04:15:06.546Z",
+  "updatedAt": "2026-08-10T05:57:19.774Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "최우수산",
+      "id": "대통령",
       "rank": 1,
-      "keyword": "최우수산",
+      "keyword": "대통령",
       "volumeLabel": "10000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '시청률 부진에 고개 숙이더니…MBC 예능, 결국 막 내렸다→3개월 만에 종영한 '최우수산' [종합]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "시청률 부진에 고개 숙이더니…MBC 예능, 결국 막 내렸다→3개월 만에 종영한 '최우수산' [종합]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810080307345"
-        },
-        {
-          "title": "\"안 봐주신 덕에 실업자 됐다\"…'최우수산' 시청률 부진에 종영 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/10/2026081009383625272"
-        },
-        {
-          "title": "'시청률1%'대에 결국 폐지…\"누가 결정한 거냐\" 최우수산 종영에 폭주",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260810n02735"
-        }
-      ]
-    },
-    {
-      "id": "kf-21-보라매",
-      "rank": 2,
-      "keyword": "kf-21 보라매",
-      "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "이다-영",
-      "rank": 3,
-      "keyword": "이다 영",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘학폭 논란’ 韓배구계 뒤흔든 쌍둥이 아직 현역이다! 나란히 아제르바이잔행→5년 만에 한솥밥 확정' (OSEN) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '李대통령 \"호남 반도체 속도전 넘어 전격전…2028년까지 광주기지 기능 이전\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘학폭 논란’ 韓배구계 뒤흔든 쌍둥이 아직 현역이다! 나란히 아제르바이잔행→5년 만에 한솥밥 확정",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112853514"
-        },
-        {
-          "title": "'학폭 논란→사실상 韓 퇴출' 이재영·이다영, 보란 듯 밝힌 '새 시즌 각오'",
+          "title": "李대통령 \"호남 반도체 속도전 넘어 전격전…2028년까지 광주기지 기능 이전\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/95dgIJiPWh"
+          "url": "https://v.daum.net/v/20260810142753758"
         },
         {
-          "title": "'아제르바이잔행' 여자배구 이다영 \"이적해 행복…좋은 모습으로 보답\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260809_0003741885"
-        }
-      ]
-    },
-    {
-      "id": "크리스-페덱",
-      "rank": 4,
-      "keyword": "크리스 페덱",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '경산 간 페덱, 2군 유망주들에게 구종·루틴·노하우 다 퍼줬다…삼성에 왜 이리 진심이야' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "경산 간 페덱, 2군 유망주들에게 구종·루틴·노하우 다 퍼줬다…삼성에 왜 이리 진심이야",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/qKzii51yl1?f=p"
-        },
-        {
-          "title": "◇내일의 경기(11일)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260809005600007"
-        },
-        {
-          "title": "‘야구야 반갑다!’ 프로야구 재개… KIA·NC는 11일 만에 실전",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3423765"
-        }
-      ]
-    },
-    {
-      "id": "후티-예멘",
-      "rank": 5,
-      "keyword": "후티 예멘",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '후티 반군 \"사우디 아람코 정유시설 드론으로 타격\"(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "후티 반군 \"사우디 아람코 정유시설 드론으로 타격\"(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260809019651009"
-        },
-        {
-          "title": "후티 반군, 예멘 항구도시 모카 또 공격…사상자 37명(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810115927313"
-        },
-        {
-          "title": "사우디와 전면전? 후티, 예멘·사우디 공격... 11명 사망",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/08/10/5WWD3F75NRCLFIGWRP3DH22J7E/"
-        }
-      ]
-    },
-    {
-      "id": "보트",
-      "rank": 6,
-      "keyword": "보트",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '인천 앞바다서 연락 두절된 모터보트 구조…3명 모두 무사(종합2보)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "인천 앞바다서 연락 두절된 모터보트 구조…3명 모두 무사(종합2보)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810123855361"
-        },
-        {
-          "title": "전복된 모터보트 부여잡고 밤새 7시간 버텨…낚시꾼 3명 ‘구명조끼’가 살렸다",
+          "title": "[속보]이 대통령 “2028년 중순까지 광주 군공항 기능 다른 데로 임시배치”",
           "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608100830001"
+          "url": "https://www.khan.co.kr/article/202608101421001"
         },
         {
-          "title": "어둠 속 바다서 11시간 버틴 낚시객 3명…구명조끼가 살렸다",
+          "title": "전남광주시장·무안군수, 주말 비공개 회동…군공항 이전 협의",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810063200065"
+          "url": "https://www.yna.co.kr/view/AKR20260810059700054"
         }
       ]
     },
     {
-      "id": "발전소",
-      "rank": 7,
-      "keyword": "발전소",
-      "volumeLabel": "200+",
+      "id": "고의정",
+      "rank": 2,
+      "keyword": "고의정",
+      "volumeLabel": "5000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한국동서발전, 국산 ‘피지컬 AI’ 발전소 현장 투입한다' (울산종합일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '여자배구 SOOP, 트레이드로 고의정·서지혜 영입…\"경쟁력 상승\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "한국동서발전, 국산 ‘피지컬 AI’ 발전소 현장 투입한다",
-          "source": "울산종합일보",
-          "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065579345386213"
+          "title": "여자배구 SOOP, 트레이드로 고의정·서지혜 영입…\"경쟁력 상승\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260810_0003742748"
         },
         {
-          "title": "동서발전, 국산 물리 인공지능 기업과 업무협약 체결",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1676639/%EB%8F%99%EC%84%9C%EB%B0%9C%EC%A0%84-%EA%B5%AD%EC%82%B0-%EB%AC%BC%EB%A6%AC-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B8%B0%EC%97%85%EA%B3%BC-2026"
+          "title": "여자배구 SOOP, 정솔민·지명권 내주고 고의정·서지혜 영입",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008698201&plink=RSSLINK&cooper=GSTAND"
         },
         {
-          "title": "동서발전, 스마트 발전소 전환 가속화",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10836011"
+          "title": "IBK기업은행-SOOP, 고의정+2R 지명권⇔정솔민 트레이드 단행 [공식 발표]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810111907632"
         }
       ]
     },
     {
-      "id": "집행유예",
-      "rank": 8,
-      "keyword": "집행유예",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "id": "상장폐지",
+      "rank": 3,
+      "keyword": "상장폐지",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '치매노인 은행 데려간 간병인, 체크카드 발급받아 2000만원 꿀꺽' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“코스닥 장투했다가 날벼락”…13일, 무더기 상폐 위기 [잇슈 머니]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "치매노인 은행 데려간 간병인, 체크카드 발급받아 2000만원 꿀꺽",
+          "title": "“코스닥 장투했다가 날벼락”…13일, 무더기 상폐 위기 [잇슈 머니]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810070455313"
+        },
+        {
+          "title": "상폐 1차 관문 이번 주 열린다…살아남아도 내년엔 '300억 시험대'",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260810000308"
+        },
+        {
+          "title": "이르면 10월 동전주 첫 퇴출… 39곳 ‘관리종목 우려’ 대상에",
           "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260810/134447598/2"
+          "url": "https://www.donga.com/news/Economy/article/all/20260809/134445151/2"
+        }
+      ]
+    },
+    {
+      "id": "제시카",
+      "rank": 4,
+      "keyword": "제시카",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''소녀시대 탈퇴' 제시카, 재결합 한 달 앞두고 美 길거리서 포착 [스타이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'소녀시대 탈퇴' 제시카, 재결합 한 달 앞두고 美 길거리서 포착 [스타이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/8i96wJiPWv"
         },
         {
-          "title": "치매 노인 예금 2000만원 가로챈 70대 간병인, 집유 4년",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/regional/2026/08/09/IH36SI6LUNHTPDTTNGMPT6ZJGM/"
+          "title": "17년 만에 '냉면' 무대 서는 제시카, 뉴욕서 여유로운 근황",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260810_0003742456"
         },
         {
-          "title": "담당하던 치매 환자 요양원 가자…카드 빼돌려 2000만원 펑펑 쓴 간병인",
+          "title": "제시카, 박명수와 17년만의 '냉면' 무대 앞두고 뉴욕서 상큼발랄 매력 발산",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6253953"
+        }
+      ]
+    },
+    {
+      "id": "정의선",
+      "rank": 5,
+      "keyword": "정의선",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '정의선의 아이오닉 6년...3종 카드가 이렇게 커졌다 [나우앤덴]' (데일리안) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "정의선의 아이오닉 6년...3종 카드가 이렇게 커졌다 [나우앤덴]",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1676638/%EC%A0%95%EC%9D%98%EC%84%A0-%EC%95%84%EC%9D%B4%EC%98%A4%EB%8B%89-6%EB%85%843%EC%A2%85-%EC%B9%B4%EB%93%9C-%EC%9D%B4%EB%A0%87%EA%B2%8C-2026"
+        },
+        {
+          "title": "[모빌리티 인사이트] 아이오닉 3 진짜 승부처 '배터리보다 튀르키예 공장'",
+          "source": "다나와 자동차",
+          "url": "https://auto.danawa.com/news/?Work=detail&no=6042609&Tab=N1&p=&NewsGroup=M"
+        },
+        {
+          "title": "현대차·기아, 상반기 유럽 전기차 판매 10만대 첫 돌파",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260802504006"
+        }
+      ]
+    },
+    {
+      "id": "구속",
+      "rank": 6,
+      "keyword": "구속",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“가출 막으려 결박, 샤워할 땐 풀었다가 다시 채워”···11살 어린이 숨지게 한 교회 목사 구속' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“가출 막으려 결박, 샤워할 땐 풀었다가 다시 채워”···11살 어린이 숨지게 한 교회 목사 구속",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810140441752"
+        },
+        {
+          "title": "천안 교회 어린이 사망 사건, 앞서 4차례 ‘아동학대’ 신고",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8632834"
+        },
+        {
+          "title": "'어린이 사망' 천안 교회 목사 구속…이달 초에만 학대 신고 2건",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260810n15518"
+        }
+      ]
+    },
+    {
+      "id": "버크셔-해서웨이",
+      "rank": 7,
+      "keyword": "버크셔 해서웨이",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '버핏 떠난 버크셔, 현금쌓기 끝났다… 3600억달러 실탄 풀리나 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "버핏 떠난 버크셔, 현금쌓기 끝났다… 3600억달러 실탄 풀리나 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/10/2026081008145228494"
+          "url": "https://www.mt.co.kr/world/2026/08/10/2026080919504849612"
+        },
+        {
+          "title": "버크셔, 3년 만에 주식 순매수… 198억달러 달해",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/int_economy/2026/08/10/Q52SFQORPREBHKB4MBELIMEFYU/"
+        },
+        {
+          "title": "버핏은 81.7%↑, 돈나무 언니는 33.9%↓…엇갈린 5년 성적표",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810090308909"
         }
       ]
     },
     {
-      "id": "중대범죄-수사청",
+      "id": "문지인",
+      "rank": 8,
+      "keyword": "문지인",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[단독] 문지인♥김기리, 유산 아픔 딛고 결혼 2년 만에 부모됐다…7일 득남' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[단독] 문지인♥김기리, 유산 아픔 딛고 결혼 2년 만에 부모됐다…7일 득남",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6253762"
+        },
+        {
+          "title": "김기리·문지인 부부 득남…\"산모와 아이 모두 건강\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810125938707"
+        },
+        {
+          "title": "유산 아픔 2년 만에…김기리·문지인, 부모됐다",
+          "source": "한국경제TV",
+          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608100193"
+        }
+      ]
+    },
+    {
+      "id": "박현경",
       "rank": 9,
-      "keyword": "중대범죄 수사청",
+      "keyword": "박현경",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“시험 면제” 안 먹힌다…‘중수청 이직’ 시큰둥한 검사들' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '박현경, 1주만에 평균타수 1위로 복귀 [KLPGA 제주삼다수]' (골프한국) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“시험 면제” 안 먹힌다…‘중수청 이직’ 시큰둥한 검사들",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810050221587"
+          "title": "박현경, 1주만에 평균타수 1위로 복귀 [KLPGA 제주삼다수]",
+          "source": "골프한국",
+          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021442"
         },
         {
-          "title": "근무여건 깜깜이 중수청…檢수사관 이직 놓고 혼란",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260810.22002002302"
+          "title": "'정규투어 200회 출전' 박현경 \"KLPGA 챔피언십 2연패 가장 기억에 남아…목표는 15승\" [ST현장]",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260810n01741"
         },
         {
-          "title": "전국 6개 '중수청' 지방청 명단 속 인천 없다",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1329169"
+          "title": "[포토] 박현경, 정규투어 200번째 대회서 평균타수 1위 복귀",
+          "source": "프라임경제",
+          "url": "https://m.newsprime.co.kr/section_view.html?no=743198&menu=1"
         }
       ]
     },
     {
-      "id": "미국",
+      "id": "통장",
       "rank": 10,
-      "keyword": "미국",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "keyword": "통장",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '트럼프 “이란 문제 조용히 대응 중”…협상 난항 속 여론도 악화' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '저축은행들 7% 고금리 파킹통장 내세운 '낚시'…까다로운 우대조건에 200만 원 한도' (소비자가 만드는 신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "트럼프 “이란 문제 조용히 대응 중”…협상 난항 속 여론도 악화",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810123214286"
+          "title": "저축은행들 7% 고금리 파킹통장 내세운 '낚시'…까다로운 우대조건에 200만 원 한도",
+          "source": "소비자가 만드는 신문",
+          "url": "https://www.consumernews.co.kr/news/articleView.html?idxno=761040"
         },
         {
-          "title": "트럼프 \"차분하게 대응\"…대이란 경제 압박 선회",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH202608101245088M0"
+          "title": "SBI저축은행, 최대 연 7.7% ‘생활파킹통장’ 선보여",
+          "source": "SR타임스",
+          "url": ""
         },
         {
-          "title": "[인사] 한국원자력의학원",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810057400017"
+          "title": "SBI저축은행, 소액 여유자금에 최고 연 7.7% ‘생활파킹통장’ 출시",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026080610090909411"
         }
       ]
     }
