@@ -1,45 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-10T16:25:06.356Z",
+  "updatedAt": "2026-08-10T17:29:10.387Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "레임덕",
-      "rank": 1,
-      "keyword": "레임덕",
-      "volumeLabel": "20000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[뉴스 추적] 내지르고 안되면 거둬들이고... 이재명표 정책에 민심 폭발 지지율 취임 후 최저 또 갱신' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[뉴스 추적] 내지르고 안되면 거둬들이고... 이재명표 정책에 민심 폭발 지지율 취임 후 최저 또 갱신",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/2j7yJICEaU"
-        },
-        {
-          "title": "[사설] 李 지지율 또 최저치 경신…매서운 ‘부동산 민심’ 새기길",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20077732"
-        },
-        {
-          "title": "李대통령 지지도 4주 연속 하락한 43.3%…취임 후 최저[리얼미터](종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810017351001"
-        }
-      ]
-    },
-    {
       "id": "대한-광통신",
-      "rank": 2,
+      "rank": 1,
       "keyword": "대한 광통신",
       "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "startedLabel": "4시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '[특징주] 광통신주, 미국의 중국산 수입규제 추진에 장초반 급등' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -62,10 +34,10 @@
     },
     {
       "id": "케스파컵",
-      "rank": 3,
+      "rank": 2,
       "keyword": "케스파컵",
       "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "4시간 전",
       "change": "up",
       "changeLabel": "+1",
       "summary": "급상승 시점에 '협곡에 나타난 '괴물 로크'⋯'제카' 18/0/2으로 젠지 제압' (이투데이) 관련 뉴스가 함께 포착됐어요.",
@@ -90,12 +62,12 @@
     },
     {
       "id": "아이맥스-영화관",
-      "rank": 4,
+      "rank": 3,
       "keyword": "아이맥스 영화관",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 ''오디세이' 아이맥스 전석 매진‥영화 '경험'하러 극장간다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -110,76 +82,76 @@
           "url": "https://cine21.com/news/view/?mag_id=110472"
         },
         {
-          "title": "“용산 CGV 아이맥스 명당 10만원에 삽니다”… 고퀄관람에 지갑여는 관객",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11608331"
+          "title": "“‘오디세이’ 보러 순천·전주로”···광주권 아이맥스관 부재에 원정 관람 잇따라",
+          "source": "무등일보",
+          "url": "https://m.mdilbo.com/detail/EHdc4G/757806"
         }
       ]
     },
     {
-      "id": "한우",
-      "rank": 5,
-      "keyword": "한우",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '기록적 폭염에 가축도 비명…두달 새 재해보험 접수 2100건 넘어' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "기록적 폭염에 가축도 비명…두달 새 재해보험 접수 2100건 넘어",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/052MVF3GTm"
-        },
-        {
-          "title": "[찾아가는K] 더위 취약한 가축 폐사 잇따라…축산 농가 비상",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628507"
-        },
-        {
-          "title": "지금도 축산물값 높은데 잇따르는 폐사 신고…'이른 추석' 밥상물가 비상",
-          "source": "MBN",
-          "url": "https://www.mbn.co.kr/news/economy/5211529"
-        }
-      ]
-    },
-    {
-      "id": "콜롬비아",
-      "rank": 6,
-      "keyword": "콜롬비아",
+      "id": "에어부산",
+      "rank": 4,
+      "keyword": "에어부산",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '콜롬비아 규모 7.4 강진...최소한 18명 사망' (YTN) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '에어부산, '동계 스케줄 오픈' 국내선 항공권 할인 프로모션' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "콜롬비아 규모 7.4 강진...최소한 18명 사망",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202608110024421092"
-        },
-        {
-          "title": "콜롬비아 강진 사망자 최소 20명…\"붕괴 건물에 사람들 갇혀\"",
+          "title": "에어부산, '동계 스케줄 오픈' 국내선 항공권 할인 프로모션",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260811000700072"
+          "url": "https://www.yna.co.kr/view/AKR20260810068200051"
         },
         {
-          "title": "[속보] “콜롬비아서 규모 6.8 지진…수도 보고타도 흔들”",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20077849"
+          "title": "에어부산, 부산-김포·부산-제주·김포-제주·울산-제주 할인",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810080010263"
+        },
+        {
+          "title": "에어부산, 동계 스케줄 오픈 기념 '국내선 특가 프로모션'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260810_0003742252"
+        }
+      ]
+    },
+    {
+      "id": "베스테를로",
+      "rank": 5,
+      "keyword": "베스테를로",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '양민혁 또 0분, 대체 어디로 가는가…헤타페와 70분 연습경기, 교체 명단 들고도 또 결장→2G 연속 OUT, EPL 데뷔 올해…' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "양민혁 또 0분, 대체 어디로 가는가…헤타페와 70분 연습경기, 교체 명단 들고도 또 결장→2G 연속 OUT, EPL 데뷔 올해 안에 어렵나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809170136828?f=p"
+        },
+        {
+          "title": "[속보] 충격! 양민혁 EPL 떠난다!…벨기에 베스테를로 임대 '오피셜' 눈앞→메디컬 완료→'韓 프리미어리거 0명' 비극 온다",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260811n00194"
+        },
+        {
+          "title": "韓 축구 대형 비극! 양민혁, 또 '0분 출전' 날벼락...데 제르비 계획에서 완전히 제외됐나, \"임대 임박 경쟁자 선발 출전\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/football/2026-08-09/202608090100050130003111"
         }
       ]
     },
     {
       "id": "더트롯쇼",
-      "rank": 7,
+      "rank": 6,
       "keyword": "더트롯쇼",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "startedLabel": "4시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '‘더트롯쇼’, 신곡‧개성 무대 ..10일 한 자리에 모여' (세계일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -189,37 +161,37 @@
           "url": "https://www.segye.com/newsView/20260810508965"
         },
         {
+          "title": "성리, '더트롯쇼' 출격 인증샷 \"학자 사랑으로 멋지게 완료\"",
+          "source": "비즈엔터",
+          "url": "https://enter.etoday.co.kr/news/view/300874"
+        },
+        {
           "title": "[스타 영상] 성리, 성리학자들과 팬미팅! 신곡 응원법 연습 & 친필사인 포토카드 추첨행사 (SBS Life '더 트롯쇼' 미니 팬미팅)",
           "source": "뉴스인스타",
           "url": "https://www.newsinstar.com/news/article.html?no=83671"
-        },
-        {
-          "title": "손태진의 ‘더트롯쇼’, 성리-양지은→오유진-홍지윤 무대 예고…1위는?",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16159399"
         }
       ]
     },
     {
       "id": "컴퓨터-공학",
-      "rank": 8,
+      "rank": 7,
       "keyword": "컴퓨터 공학",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '서울대 공대생 89%, ‘삼전닉스’ 취업 유리한 전기·정보공학부 선택' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "4시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '서울대 공대 광역모집 90% 전기·정보공학 선택…반도체·AI 영향' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "서울대 공대생 89%, ‘삼전닉스’ 취업 유리한 전기·정보공학부 선택",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260810/134453294/1"
-        },
         {
           "title": "서울대 공대 광역모집 90% 전기·정보공학 선택…반도체·AI 영향",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260810141500004"
+        },
+        {
+          "title": "서울대 공대생 89%, ‘삼전닉스’ 취업 유리한 전기·정보공학부 선택",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260810/134453294/1"
         },
         {
           "title": "'삼전닉스 성과급 터진다'…서울대생들 '우르르' 몰리는 곳",
@@ -229,25 +201,53 @@
       ]
     },
     {
+      "id": "콜롬비아",
+      "rank": 8,
+      "keyword": "콜롬비아",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 '[속보]콜롬비아서 규모 7.4 강진···최소 20명 사망·건물 20채 붕괴' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[속보]콜롬비아서 규모 7.4 강진···최소 20명 사망·건물 20채 붕괴",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608102156001"
+        },
+        {
+          "title": "콜롬비아 강진 사망자 최소 20명…\"붕괴 건물에 사람들 갇혀\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260811000700072"
+        },
+        {
+          "title": "콜롬비아서 7.4 강진… \"건물들 무너지고 사상자 속출\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/08/11/6MDIN3M2SFEVPCBRU7Z3M5ZE5I/"
+        }
+      ]
+    },
+    {
       "id": "김유재",
       "rank": 9,
       "keyword": "김유재",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '피겨 선수 이모저모' (ZUM 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '김유성 金메달·김유재 銀메달!…'韓 17세 여자피겨 쌍둥이 자매' 시니어 첫 국제대회 1~2위 싹쓸이→트리플 악셀 성공+성공+성…' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "피겨 선수 이모저모",
-          "source": "ZUM 뉴스",
-          "url": "https://m.news.zum.com/photo/57980086/107113555?cm=news_photolist&r=3&thumb=1"
-        },
         {
           "title": "김유성 金메달·김유재 銀메달!…'韓 17세 여자피겨 쌍둥이 자매' 시니어 첫 국제대회 1~2위 싹쓸이→트리플 악셀 성공+성공+성공 미쳤다",
           "source": "네이트",
           "url": "https://sports.news.nate.com/view/20260810n22071"
+        },
+        {
+          "title": "피겨 선수 이모저모",
+          "source": "ZUM 뉴스",
+          "url": "https://m.news.zum.com/photo/57980086/107113555?cm=news_photolist&r=3&thumb=1"
         },
         {
           "title": "'빙상의 꽃' 피겨스케이팅 - 포토슬라이드",
@@ -257,30 +257,30 @@
       ]
     },
     {
-      "id": "전북특별자치도교육청",
+      "id": "수능",
       "rank": 10,
-      "keyword": "전북특별자치도교육청",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '천호성 교육감 \"수업 우수교사 발굴·포상 시스템 마련해야\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "수능",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '전남광주 통합에도 수능 시험지구 지난해와 동일' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "천호성 교육감 \"수업 우수교사 발굴·포상 시스템 마련해야\"",
+          "title": "전남광주 통합에도 수능 시험지구 지난해와 동일",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260810114200054"
+        },
+        {
+          "title": "수능 100일 앞…\"아침 먹고 기름진 음식 피해야\"",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260810_0003742885"
+          "url": "https://www.newsis.com/view/NISX20260810_0003742961"
         },
         {
-          "title": "전북교육청, 향후 4년 청사진 공개…‘주민참여예산’ 19억 첫 투입",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=347236"
-        },
-        {
-          "title": "“위원회 제대로 안 할 거면 다 없애라”…천호성 교육감 조직 대수술 예고",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/YFBFaWYCEj"
+          "title": "2027학년도 대학수학능력시험 D-101일, 끝까지 힘내자 [포토뉴스]",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260810580567"
         }
       ]
     }
