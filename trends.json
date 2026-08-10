@@ -1,34 +1,34 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-10T15:10:04.413Z",
+  "updatedAt": "2026-08-10T16:25:06.356Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "트럭",
+      "id": "레임덕",
       "rank": 1,
-      "keyword": "트럭",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
+      "keyword": "레임덕",
+      "volumeLabel": "20000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''국민 트럭' 마저 안 팔린다…'38년 만에 최악' 무슨 일이' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[뉴스 추적] 내지르고 안되면 거둬들이고... 이재명표 정책에 민심 폭발 지지율 취임 후 최저 또 갱신' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'국민 트럭' 마저 안 팔린다…'38년 만에 최악' 무슨 일이",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026081051041"
-        },
-        {
-          "title": "[통계] 트럭·특장차·특수차량 연도별·차종별 등록현황(영업용)",
-          "source": "상용차매거진",
-          "url": "https://www.cvinfo.com/news/articleView.html?idxno=31592"
-        },
-        {
-          "title": "불모지 한국서 ‘픽업트럭 열풍’",
+          "title": "[뉴스 추적] 내지르고 안되면 거둬들이고... 이재명표 정책에 민심 폭발 지지율 취임 후 최저 또 갱신",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260810003159565"
+          "url": "https://v.daum.net/v/2j7yJICEaU"
+        },
+        {
+          "title": "[사설] 李 지지율 또 최저치 경신…매서운 ‘부동산 민심’ 새기길",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20077732"
+        },
+        {
+          "title": "李대통령 지지도 4주 연속 하락한 43.3%…취임 후 최저[리얼미터](종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260810017351001"
         }
       ]
     },
@@ -37,65 +37,37 @@
       "rank": 2,
       "keyword": "대한 광통신",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"고점서 40% 폭락했는데 지금 사라고?\"…증권가가 다시 찍은 '이 종목'[주末머니]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"고점서 40% 폭락했는데 지금 사라고?\"…증권가가 다시 찍은 '이 종목'[주末머니]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809104641725"
-        },
-        {
-          "title": "특징주, RFHIC-광통신(광케이블/광섬유 등) 테마 상승세에 7.33% ↑",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1138286"
-        },
-        {
-          "title": "대한광통신 주가, 급등세... 왜?",
-          "source": "금강일보",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1174398"
-        }
-      ]
-    },
-    {
-      "id": "교도소",
-      "rank": 3,
-      "keyword": "교도소",
-      "volumeLabel": "1000+",
       "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '[단독] 간병도, 진료비도 무료… ‘요양원’이 된 감옥 [탐사기획-노인과 교도소]' (세계일보) 관련 뉴스가 함께 포착됐어요.",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '[특징주] 광통신주, 미국의 중국산 수입규제 추진에 장초반 급등' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[단독] 간병도, 진료비도 무료… ‘요양원’이 된 감옥 [탐사기획-노인과 교도소]",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260810518720"
+          "title": "[특징주] 광통신주, 미국의 중국산 수입규제 추진에 장초반 급등",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260810039000008"
         },
         {
-          "title": "[단독] 고령에 갇힌 교정… 80세 이상 9년새 3배로 [탐사기획-노인과 교도소]",
+          "title": "미국, 반도체 넘어 ‘피지컬 AI’ 봉쇄...기술 패권 전선 확대",
           "source": "Daum",
-          "url": "https://v.daum.net/v/QsI9792uaW"
+          "url": "https://v.daum.net/v/20260810162851511"
         },
         {
-          "title": "[단독] 사형수 평균 나이 57.2세…'소멸 공포' 가장 컸다 [탐사기획-노인과 교도소]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260809n13054"
+          "title": "美 규제에 삼성전자·LG전자 '로청' 글로벌 출시 늦춘다…“공급망 재편부터”",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260807000185"
         }
       ]
     },
     {
       "id": "케스파컵",
-      "rank": 4,
+      "rank": 3,
       "keyword": "케스파컵",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '협곡에 나타난 '괴물 로크'⋯'제카' 18/0/2으로 젠지 제압' (이투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -117,20 +89,48 @@
       ]
     },
     {
+      "id": "아이맥스-영화관",
+      "rank": 4,
+      "keyword": "아이맥스 영화관",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''오디세이' 아이맥스 전석 매진‥영화 '경험'하러 극장간다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'오디세이' 아이맥스 전석 매진‥영화 '경험'하러 극장간다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810205405548"
+        },
+        {
+          "title": "[특집] 2700년 전의 번개를 마주하다 – 김우형 촬영감독의 촬영 분석",
+          "source": "씨네21",
+          "url": "https://cine21.com/news/view/?mag_id=110472"
+        },
+        {
+          "title": "“용산 CGV 아이맥스 명당 10만원에 삽니다”… 고퀄관람에 지갑여는 관객",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11608331"
+        }
+      ]
+    },
+    {
       "id": "한우",
       "rank": 5,
       "keyword": "한우",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '닭·돼지 폐사 속출…가축 폭염피해 보험접수 이미 2천건 훌쩍' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '기록적 폭염에 가축도 비명…두달 새 재해보험 접수 2100건 넘어' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "닭·돼지 폐사 속출…가축 폭염피해 보험접수 이미 2천건 훌쩍",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260808049000002"
+          "title": "기록적 폭염에 가축도 비명…두달 새 재해보험 접수 2100건 넘어",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/052MVF3GTm"
         },
         {
           "title": "[찾아가는K] 더위 취약한 가축 폐사 잇따라…축산 농가 비상",
@@ -138,20 +138,48 @@
           "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628507"
         },
         {
-          "title": "땡볕 아래 농사도 멈춰야 한다…화순군, ‘폭염과의 전쟁’ 현장으로",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260810500623"
+          "title": "지금도 축산물값 높은데 잇따르는 폐사 신고…'이른 추석' 밥상물가 비상",
+          "source": "MBN",
+          "url": "https://www.mbn.co.kr/news/economy/5211529"
+        }
+      ]
+    },
+    {
+      "id": "콜롬비아",
+      "rank": 6,
+      "keyword": "콜롬비아",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '콜롬비아 규모 7.4 강진...최소한 18명 사망' (YTN) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "콜롬비아 규모 7.4 강진...최소한 18명 사망",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202608110024421092"
+        },
+        {
+          "title": "콜롬비아 강진 사망자 최소 20명…\"붕괴 건물에 사람들 갇혀\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260811000700072"
+        },
+        {
+          "title": "[속보] “콜롬비아서 규모 6.8 지진…수도 보고타도 흔들”",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20077849"
         }
       ]
     },
     {
       "id": "더트롯쇼",
-      "rank": 6,
+      "rank": 7,
       "keyword": "더트롯쇼",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '‘더트롯쇼’, 신곡‧개성 무대 ..10일 한 자리에 모여' (세계일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -174,12 +202,12 @@
     },
     {
       "id": "컴퓨터-공학",
-      "rank": 7,
+      "rank": 8,
       "keyword": "컴퓨터 공학",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '서울대 공대생 89%, ‘삼전닉스’ 취업 유리한 전기·정보공학부 선택' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -202,24 +230,24 @@
     },
     {
       "id": "김유재",
-      "rank": 8,
+      "rank": 9,
       "keyword": "김유재",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김유성 金메달·김유재 銀메달!…'韓 17세 여자피겨 쌍둥이 자매' 시니어 첫 국제대회 1~2위 싹쓸이→트리플 악셀 성공+성공+성…' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '피겨 선수 이모저모' (ZUM 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "김유성 金메달·김유재 銀메달!…'韓 17세 여자피겨 쌍둥이 자매' 시니어 첫 국제대회 1~2위 싹쓸이→트리플 악셀 성공+성공+성공 미쳤다",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260810n22071"
-        },
         {
           "title": "피겨 선수 이모저모",
           "source": "ZUM 뉴스",
           "url": "https://m.news.zum.com/photo/57980086/107113555?cm=news_photolist&r=3&thumb=1"
+        },
+        {
+          "title": "김유성 金메달·김유재 銀메달!…'韓 17세 여자피겨 쌍둥이 자매' 시니어 첫 국제대회 1~2위 싹쓸이→트리플 악셀 성공+성공+성공 미쳤다",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260810n22071"
         },
         {
           "title": "'빙상의 꽃' 피겨스케이팅 - 포토슬라이드",
@@ -230,12 +258,12 @@
     },
     {
       "id": "전북특별자치도교육청",
-      "rank": 9,
+      "rank": 10,
       "keyword": "전북특별자치도교육청",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '천호성 교육감 \"수업 우수교사 발굴·포상 시스템 마련해야\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -253,34 +281,6 @@
           "title": "“위원회 제대로 안 할 거면 다 없애라”…천호성 교육감 조직 대수술 예고",
           "source": "Daum",
           "url": "https://v.daum.net/v/YFBFaWYCEj"
-        }
-      ]
-    },
-    {
-      "id": "조원태",
-      "rank": 10,
-      "keyword": "조원태",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '조원태와 불과 0.42%p 차이…한진칼 파고드는 호반 2세들' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "조원태와 불과 0.42%p 차이…한진칼 파고드는 호반 2세들",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810103503270"
-        },
-        {
-          "title": "진격의 호반, 한진칼 지분 20% 돌파…조원태 턱밑 추격",
-          "source": "데이터뉴스",
-          "url": "https://datanews.co.kr/news/article.html?no=145945"
-        },
-        {
-          "title": "[공익과 사익 경계선-②] '학교 돈으로 오너 지켰나'…정석인하학원, 배임 책임론 불붙었다",
-          "source": "뉴시안",
-          "url": ""
         }
       ]
     }
