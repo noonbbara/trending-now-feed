@@ -1,17 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-10T19:35:54.368Z",
+  "updatedAt": "2026-08-10T20:53:01.575Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
       "id": "레임덕",
       "rank": 1,
       "keyword": "레임덕",
-      "volumeLabel": "10000+",
-      "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "20000+",
+      "startedLabel": "7시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '[뉴스 추적] 내지르고 안되면 거둬들이고... 이재명표 정책에 민심 폭발 지지율 취임 후 최저 또 갱신' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -21,14 +21,14 @@
           "url": "https://v.daum.net/v/2j7yJICEaU"
         },
         {
+          "title": "[그래픽] 이 대통령 국정수행 지지율 44.3%",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20260810_0002208652"
+        },
+        {
           "title": "[속보]여론조사꽃, ‘李잘한다’ 53.8% 최저…60대 지지율 폭락",
           "source": "문화일보",
           "url": "https://www.munhwa.com/article/11608470"
-        },
-        {
-          "title": "李대통령 지지도 4주 연속 하락한 43.3%…취임 후 최저[리얼미터](종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810017351001"
         }
       ]
     },
@@ -37,9 +37,9 @@
       "rank": 2,
       "keyword": "대한 광통신",
       "volumeLabel": "1000+",
-      "startedLabel": "6시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "startedLabel": "8시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '[특징주] 광통신주, 미국의 중국산 수입규제 추진에 장초반 급등' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -61,13 +61,69 @@
       ]
     },
     {
-      "id": "케스파컵",
+      "id": "대한민국-축구-국가대표팀",
       "rank": 3,
+      "keyword": "대한민국 축구 국가대표팀",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '포옛 \"축구대표팀 임시감독 공개채용 지원 완료\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "포옛 \"축구대표팀 임시감독 공개채용 지원 완료\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/38qCaBb00M"
+        },
+        {
+          "title": "축구협회, 임시감독 공개채용 접수 마감…다음 주 온라인 면접",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260810137500007"
+        },
+        {
+          "title": "축구협회 \"임시 감독 서류 접수 마감…차주내 후보자 적정성 검토\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260810_0003743377"
+        }
+      ]
+    },
+    {
+      "id": "윤상현",
+      "rank": 4,
+      "keyword": "윤상현",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"득표수 조작은 비약\" \"선관위 편 들어주나\"‥국힘 의원끼리 충돌' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"득표수 조작은 비약\" \"선관위 편 들어주나\"‥국힘 의원끼리 충돌",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6843753_37004.html"
+        },
+        {
+          "title": "현장 입력-최종 투표자수… 읍면동 절반 이상서 달라",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811043644057"
+        },
+        {
+          "title": "마감땐 “2105명 투표” 개표결과 1494명… 100명이상 差 전국 29곳",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260811/134454030/2"
+        }
+      ]
+    },
+    {
+      "id": "케스파컵",
+      "rank": 5,
       "keyword": "케스파컵",
       "volumeLabel": "500+",
-      "startedLabel": "6시간 전",
+      "startedLabel": "7시간 전",
       "change": "down",
-      "changeLabel": "-1",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '한화생명, 젠지에 2-1 역전승⋯KeSPA컵 결선 스테이지 2 직행' (이투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -90,12 +146,12 @@
     },
     {
       "id": "아이맥스-영화관",
-      "rank": 4,
+      "rank": 6,
       "keyword": "아이맥스 영화관",
       "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
+      "startedLabel": "6시간 전",
       "change": "down",
-      "changeLabel": "-1",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '[특집] 2700년 전의 번개를 마주하다 – 김우형 촬영감독의 촬영 분석' (씨네21) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -118,12 +174,12 @@
     },
     {
       "id": "더트롯쇼",
-      "rank": 5,
+      "rank": 7,
       "keyword": "더트롯쇼",
       "volumeLabel": "200+",
-      "startedLabel": "6시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "startedLabel": "8시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '‘더트롯쇼’, 신곡‧개성 무대 ..10일 한 자리에 모여' (세계일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -145,41 +201,13 @@
       ]
     },
     {
-      "id": "컴퓨터-공학",
-      "rank": 6,
-      "keyword": "컴퓨터 공학",
-      "volumeLabel": "200+",
-      "startedLabel": "6시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '서울대 공대 광역모집 90% 전기·정보공학 선택…반도체·AI 영향' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "서울대 공대 광역모집 90% 전기·정보공학 선택…반도체·AI 영향",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810141500004"
-        },
-        {
-          "title": "서울대 공대생 89%, ‘삼전닉스’ 취업 유리한 전기·정보공학부 선택",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260810/134453294/1"
-        },
-        {
-          "title": "'삼전닉스 성과급 터진다'…서울대생들 '우르르' 몰리는 곳",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026081052737"
-        }
-      ]
-    },
-    {
       "id": "에어부산",
-      "rank": 7,
+      "rank": 8,
       "keyword": "에어부산",
       "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
+      "startedLabel": "5시간 전",
       "change": "down",
-      "changeLabel": "-3",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '에어부산, '동계 스케줄 오픈' 국내선 항공권 할인 프로모션' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -202,12 +230,12 @@
     },
     {
       "id": "베스테를로",
-      "rank": 8,
+      "rank": 9,
       "keyword": "베스테를로",
       "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
+      "startedLabel": "5시간 전",
       "change": "down",
-      "changeLabel": "-3",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '양민혁 또 0분, 대체 어디로 가는가…헤타페와 70분 연습경기, 교체 명단 들고도 또 결장→2G 연속 OUT, EPL 데뷔 올해…' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -229,39 +257,11 @@
       ]
     },
     {
-      "id": "콜롬비아",
-      "rank": 9,
-      "keyword": "콜롬비아",
-      "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '[속보]콜롬비아서 규모 7.4 강진···최소 20명 사망·건물 20채 붕괴' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[속보]콜롬비아서 규모 7.4 강진···최소 20명 사망·건물 20채 붕괴",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608102156001"
-        },
-        {
-          "title": "콜롬비아서 규모 7.4 지진…\"수도 보고타도 흔들려\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810215708589"
-        },
-        {
-          "title": "콜롬비아 강진 사망자 최소 20명…\"붕괴 건물에 사람들 갇혀\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260811000700072"
-        }
-      ]
-    },
-    {
       "id": "수능",
       "rank": 10,
       "keyword": "수능",
       "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
+      "startedLabel": "6시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 '전남광주 통합에도 수능 시험지구 지난해와 동일' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
@@ -273,9 +273,9 @@
           "url": "https://www.yna.co.kr/view/AKR20260810114200054"
         },
         {
-          "title": "수험생을 위한 기도",
+          "title": "\"대학 입시 합격을 기원하며\"",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260810_0021393916"
+          "url": "https://www.newsis.com/view/NISI20260810_0021393914"
         },
         {
           "title": "2027학년도 대학수학능력시험 D-101일, 끝까지 힘내자 [포토뉴스]",
