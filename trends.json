@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-10T17:29:10.387Z",
+  "updatedAt": "2026-08-10T18:28:42.260Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,9 +9,9 @@
       "rank": 1,
       "keyword": "대한 광통신",
       "volumeLabel": "1000+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '[특징주] 광통신주, 미국의 중국산 수입규제 추진에 장초반 급등' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -26,9 +26,9 @@
           "url": "https://v.daum.net/v/20260810162851511"
         },
         {
-          "title": "美 규제에 삼성전자·LG전자 '로청' 글로벌 출시 늦춘다…“공급망 재편부터”",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260807000185"
+          "title": "[특징주] 美 중국산 광트랜시버 규제 추진에 대한광통신 등 광통신株 강세",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2612680"
         }
       ]
     },
@@ -37,16 +37,16 @@
       "rank": 2,
       "keyword": "케스파컵",
       "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '협곡에 나타난 '괴물 로크'⋯'제카' 18/0/2으로 젠지 제압' (이투데이) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '한화생명, 젠지에 2-1 역전승⋯KeSPA컵 결선 스테이지 2 직행' (이투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "협곡에 나타난 '괴물 로크'⋯'제카' 18/0/2으로 젠지 제압",
+          "title": "한화생명, 젠지에 2-1 역전승⋯KeSPA컵 결선 스테이지 2 직행",
           "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2612902"
+          "url": "https://www.etoday.co.kr/news/view/2612919"
         },
         {
           "title": "2026 케스파컵 경기 일정…한화생명 vs 젠지 격돌",
@@ -54,9 +54,9 @@
           "url": "https://v.daum.net/v/20260810150209555?f=p"
         },
         {
-          "title": "'룰러' 이즈리얼 '슈퍼 무빙'···젠지, 한화생명에 1세트 승리",
+          "title": "협곡에 나타난 '괴물 로크'···'제카' 18/0/2으로 젠지 제압",
           "source": "네이트",
-          "url": "https://news.nate.com/view/20260810n23562"
+          "url": "https://news.nate.com/view/20260810n25685"
         }
       ]
     },
@@ -65,17 +65,12 @@
       "rank": 3,
       "keyword": "아이맥스 영화관",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 ''오디세이' 아이맥스 전석 매진‥영화 '경험'하러 극장간다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '[특집] 2700년 전의 번개를 마주하다 – 김우형 촬영감독의 촬영 분석' (씨네21) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "'오디세이' 아이맥스 전석 매진‥영화 '경험'하러 극장간다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810205405548"
-        },
         {
           "title": "[특집] 2700년 전의 번개를 마주하다 – 김우형 촬영감독의 촬영 분석",
           "source": "씨네21",
@@ -85,6 +80,11 @@
           "title": "“‘오디세이’ 보러 순천·전주로”···광주권 아이맥스관 부재에 원정 관람 잇따라",
           "source": "무등일보",
           "url": "https://m.mdilbo.com/detail/EHdc4G/757806"
+        },
+        {
+          "title": "“용산 CGV 아이맥스 명당 10만원에 삽니다”… 고퀄관람에 지갑여는 관객",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11608331"
         }
       ]
     },
@@ -93,9 +93,9 @@
       "rank": 4,
       "keyword": "에어부산",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '에어부산, '동계 스케줄 오픈' 국내선 항공권 할인 프로모션' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -121,16 +121,16 @@
       "rank": 5,
       "keyword": "베스테를로",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '양민혁 또 0분, 대체 어디로 가는가…헤타페와 70분 연습경기, 교체 명단 들고도 또 결장→2G 연속 OUT, EPL 데뷔 올해…' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "양민혁 또 0분, 대체 어디로 가는가…헤타페와 70분 연습경기, 교체 명단 들고도 또 결장→2G 연속 OUT, EPL 데뷔 올해 안에 어렵나",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260809170136828?f=p"
+          "url": "https://v.daum.net/v/p6spnlSr1r?f=p"
         },
         {
           "title": "[속보] 충격! 양민혁 EPL 떠난다!…벨기에 베스테를로 임대 '오피셜' 눈앞→메디컬 완료→'韓 프리미어리거 0명' 비극 온다",
@@ -149,9 +149,9 @@
       "rank": 6,
       "keyword": "더트롯쇼",
       "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '‘더트롯쇼’, 신곡‧개성 무대 ..10일 한 자리에 모여' (세계일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -177,9 +177,9 @@
       "rank": 7,
       "keyword": "컴퓨터 공학",
       "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '서울대 공대 광역모집 90% 전기·정보공학 선택…반도체·AI 영향' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -201,41 +201,13 @@
       ]
     },
     {
-      "id": "콜롬비아",
-      "rank": 8,
-      "keyword": "콜롬비아",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '[속보]콜롬비아서 규모 7.4 강진···최소 20명 사망·건물 20채 붕괴' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[속보]콜롬비아서 규모 7.4 강진···최소 20명 사망·건물 20채 붕괴",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608102156001"
-        },
-        {
-          "title": "콜롬비아 강진 사망자 최소 20명…\"붕괴 건물에 사람들 갇혀\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260811000700072"
-        },
-        {
-          "title": "콜롬비아서 7.4 강진… \"건물들 무너지고 사상자 속출\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/08/11/6MDIN3M2SFEVPCBRU7Z3M5ZE5I/"
-        }
-      ]
-    },
-    {
       "id": "김유재",
-      "rank": 9,
+      "rank": 8,
       "keyword": "김유재",
       "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "startedLabel": "5시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '김유성 金메달·김유재 銀메달!…'韓 17세 여자피겨 쌍둥이 자매' 시니어 첫 국제대회 1~2위 싹쓸이→트리플 악셀 성공+성공+성…' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -257,13 +229,41 @@
       ]
     },
     {
+      "id": "콜롬비아",
+      "rank": 9,
+      "keyword": "콜롬비아",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '[속보]콜롬비아서 규모 7.4 강진···최소 20명 사망·건물 20채 붕괴' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[속보]콜롬비아서 규모 7.4 강진···최소 20명 사망·건물 20채 붕괴",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608102156001"
+        },
+        {
+          "title": "콜롬비아 강진 사망자 최소 20명…\"붕괴 건물에 사람들 갇혀\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260811000700072"
+        },
+        {
+          "title": "콜롬비아서 7.4 강진… \"건물들 무너지고 사상자 속출\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/08/11/6MDIN3M2SFEVPCBRU7Z3M5ZE5I/"
+        }
+      ]
+    },
+    {
       "id": "수능",
       "rank": 10,
       "keyword": "수능",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '전남광주 통합에도 수능 시험지구 지난해와 동일' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -273,9 +273,9 @@
           "url": "https://www.yna.co.kr/view/AKR20260810114200054"
         },
         {
-          "title": "수능 100일 앞…\"아침 먹고 기름진 음식 피해야\"",
+          "title": "수험생을 위한 기도",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260810_0003742961"
+          "url": "https://www.newsis.com/view/NISI20260810_0021393916"
         },
         {
           "title": "2027학년도 대학수학능력시험 D-101일, 끝까지 힘내자 [포토뉴스]",
