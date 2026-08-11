@@ -1,17 +1,185 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-11T20:11:14.068Z",
+  "updatedAt": "2026-08-11T21:24:23.163Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "함소원",
+      "id": "경기도",
       "rank": 1,
+      "keyword": "경기도",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[사설] 경기도 재정 비상 선언…세수보다 방만 재정이 문제다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[사설] 경기도 재정 비상 선언…세수보다 방만 재정이 문제다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812002538751"
+        },
+        {
+          "title": "[패트롤] 경기도의회-수원시의회-안성시의회-이천시의회",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20260812020111884"
+        },
+        {
+          "title": "추모·재난대응까지…경기도 소방사업 긴축 논란에 우려 확산",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1329374"
+        }
+      ]
+    },
+    {
+      "id": "김용건",
+      "rank": 2,
+      "keyword": "김용건",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '황보라, 시父 김용건 별장 클래스…3층 규모·하정우 트로피까지' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "황보라, 시父 김용건 별장 클래스…3층 규모·하정우 트로피까지",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260811/134461567/1"
+        },
+        {
+          "title": "황보라, 시아버지 김용건 ‘프라이빗 별장’ 최초 공개… ‘감탄’",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/11/MFRTOMDDGMYTQNBRMNQTKMJXMM/"
+        },
+        {
+          "title": "김용건 별장, '산+강 뷰' 으리으리하네…며느리 황보라 \"아기 낳고 무조건 여기\" (보라이어티)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811204737644"
+        }
+      ]
+    },
+    {
+      "id": "상장폐지",
+      "rank": 3,
+      "keyword": "상장폐지",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘상폐 기준 강화’ 한 달…상장사 10곳 중 1곳 ‘퇴출 위험’' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘상폐 기준 강화’ 한 달…상장사 10곳 중 1곳 ‘퇴출 위험’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608112039015"
+        },
+        {
+          "title": "내 계좌 속 종목 괜찮을까…코스닥 무더기 퇴출 '임박'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812060132572"
+        },
+        {
+          "title": "상장폐지 기준 강화 한달…상장사 7.8% ‘동전주’",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/mobile/view.asp?gbn=v&code=0200&key=20260811.99099002778"
+        }
+      ]
+    },
+    {
+      "id": "신지",
+      "rank": 4,
+      "keyword": "신지",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '신지 “의자에 발 올린 거 아니고 들고 있는 거” 사진 속 포즈 해명' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "신지 “의자에 발 올린 거 아니고 들고 있는 거” 사진 속 포즈 해명",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20260811/134455688/1"
+        },
+        {
+          "title": "‘44세’ 신지, 볼빵빵 표정으로 논란 미리 차단 “의자에 발 올린거 아냐”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811143708730"
+        },
+        {
+          "title": "신지 “의자에 발 올린 거 아니고 들고 있는 거”…민폐 논란 사전 차단",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10837583"
+        }
+      ]
+    },
+    {
+      "id": "김승현",
+      "rank": 5,
+      "keyword": "김승현",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김승현, 귀신 본 후 父 공장에 불 나..결국 이사했다 “무서운 기운 들어와”(광산김씨패밀리)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김승현, 귀신 본 후 父 공장에 불 나..결국 이사했다 “무서운 기운 들어와”(광산김씨패밀리)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810195910649"
+        },
+        {
+          "title": "'장정윤♥' 김승현, 어린 시절 '시골 마을' 이사→처녀 귀신 목격…\"의문의 사고 잇따라\" [RE:뷰]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260811n03501"
+        },
+        {
+          "title": "김승현, 어릴 때 처녀귀신 만난 후 부친 공장 화재 등 불행",
+          "source": "미디어파인",
+          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=86238"
+        }
+      ]
+    },
+    {
+      "id": "마이크론-테크놀로지",
+      "rank": 6,
+      "keyword": "마이크론 테크놀로지",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '삼성·SK, 美 투자 확대에 마이크론 “미국산 메모리는 우리가 유일…장기계약 더 늘어”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "삼성·SK, 美 투자 확대에 마이크론 “미국산 메모리는 우리가 유일…장기계약 더 늘어”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811084814447"
+        },
+        {
+          "title": "마이크론, 메모리 공급 부족 장기화 기대…주가↑",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02236966645546664"
+        },
+        {
+          "title": "삼전닉스 대미투자 트집 잡는 마이크론",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20260811/134459532/2"
+        }
+      ]
+    },
+    {
+      "id": "함소원",
+      "rank": 7,
       "keyword": "함소원",
       "volumeLabel": "2000+",
-      "startedLabel": "5시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "startedLabel": "6시간 전",
+      "change": "down",
+      "changeLabel": "-6",
       "summary": "급상승 시점에 ''교통사고' 함소원 \"두 달 가까이 입원…9세 딸 책임지게 살려달라 기도\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,254 +201,86 @@
       ]
     },
     {
-      "id": "임-라라",
-      "rank": 2,
-      "keyword": "임 라라",
-      "volumeLabel": "2000+",
-      "startedLabel": "7시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '손민수♥임라라 쌍둥이, 생애 첫 여권 사진 도전…근엄한데 귀여워 (슈돌)' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "손민수♥임라라 쌍둥이, 생애 첫 여권 사진 도전…근엄한데 귀여워 (슈돌)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260811/134461224/1"
-        },
-        {
-          "title": "손민수♥임라라 쌍둥이 남매, 생애 첫 여권사진에 미모 '감탄'(슈돌)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/biHjlhlwvl?f=p"
-        },
-        {
-          "title": "‘슈돌’ 강단둥이 남매, 첫 여권사진 공개… 강이는 ‘근엄’ 단이는 ‘브이’",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3424064"
-        }
-      ]
-    },
-    {
-      "id": "투자가",
-      "rank": 3,
-      "keyword": "투자가",
-      "volumeLabel": "1000+",
-      "startedLabel": "7시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '패밀리 캐피탈의 3륜 전기차 베팅' (뉴스N연합) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "패밀리 캐피탈의 3륜 전기차 베팅",
-          "source": "뉴스N연합",
-          "url": "https://newsyonhap.com/news/119014"
-        },
-        {
-          "title": "쓰레기 수거 및 운송을 위한 전기 삼륜차 시범 운행 제안.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/de-xuat-thi-diem-xe-3-banh-chay-dien-chuyen-thu-gom-van-chuyen-rac"
-        },
-        {
-          "title": "삼륜 전기차에 베팅한 패밀리 캐피탈: 도심 모빌리티 틈새 전략의 실체",
-          "source": "얼리어답터뉴스",
-          "url": "https://www.eanews.kr/news/986907"
-        }
-      ]
-    },
-    {
-      "id": "갈소원",
-      "rank": 4,
-      "keyword": "갈소원",
-      "volumeLabel": "1000+",
-      "startedLabel": "7시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '‘7번방의 선물 예승이' 갈소원, 폭풍 성장한 21살 근황…미모에 '깜짝'' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘7번방의 선물 예승이' 갈소원, 폭풍 성장한 21살 근황…미모에 '깜짝'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811071040299"
-        },
-        {
-          "title": "'7번방' 예승이 갈소원, 훌쩍 자란 근황…\"정말 잘 컸다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260810_0003743589"
-        },
-        {
-          "title": "'21세 배우' 갈소원 \"7번방 선물 예승이, 기억해주시면 감사해\"",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008700195"
-        }
-      ]
-    },
-    {
-      "id": "광-통신",
-      "rank": 5,
-      "keyword": "광 통신",
-      "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '잘 나가던 광통신주, 하루만에 '우수수' 하락 무슨 일' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "잘 나가던 광통신주, 하루만에 '우수수' 하락 무슨 일",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608114360i"
-        },
-        {
-          "title": "[특징주] 광통신주, 미국의 중국산 수입규제 추진 소식에 급등(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810039051008"
-        },
-        {
-          "title": "[특징주] 광통신株, 전날 급등분 일부 반납",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20260811023321481"
-        }
-      ]
-    },
-    {
-      "id": "진수-화",
-      "rank": 6,
-      "keyword": "진수 화",
-      "volumeLabel": "500+",
-      "startedLabel": "7시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '진수화 치어리더 '신나게 야호~'[엑's 숏폼]' (네이트) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "진수화 치어리더 '신나게 야호~'[엑's 숏폼]",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260811n16238"
-        },
-        {
-          "title": "진수화 치어리더 '신나게 야호~'[엑's 숏폼]",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2182324"
-        },
-        {
-          "title": "진수화 치어리더 '신나게 야호~'[엑's 숏폼]",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260811n16238?issue_sq=11310"
-        }
-      ]
-    },
-    {
-      "id": "고소영",
-      "rank": 7,
-      "keyword": "고소영",
-      "volumeLabel": "200+",
-      "startedLabel": "6시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '고소영, 22살에 첫 억대 광고료 받아…\"몸값이라는 게 생겨\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "고소영, 22살에 첫 억대 광고료 받아…\"몸값이라는 게 생겨\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260811_0003745191"
-        },
-        {
-          "title": "고소영 \"남편 장동건과 과거 CF라이벌 관계, 일은 일이다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811213951869"
-        },
-        {
-          "title": "고소영 \"90년대 노예계약 많았다\"…소속사 없이 '모친=매니저'로 활동한 이유 (고소영)",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260811n33105?mid=e1100"
-        }
-      ]
-    },
-    {
-      "id": "테이",
+      "id": "삼전-닉스",
       "rank": 8,
-      "keyword": "테이",
-      "volumeLabel": "200+",
-      "startedLabel": "7시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '테이 “친형 같은 매니저였는데…” 전성기때 돌연 활동 접은 사연' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "삼전 닉스",
+      "volumeLabel": "500+",
+      "startedLabel": "6시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“89조 벌었는데 목표가 4만원 뚝”…삼성전자 덮친 ‘2027년 경고’ [숫자 뒤의 진실]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "테이 “친형 같은 매니저였는데…” 전성기때 돌연 활동 접은 사연",
+          "title": "“89조 벌었는데 목표가 4만원 뚝”…삼성전자 덮친 ‘2027년 경고’ [숫자 뒤의 진실]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260812005409959"
+          "url": "https://v.daum.net/v/20260812050315915"
         },
         {
-          "title": "가수 테이, 가까운 사람 떠나보낸 아픔 고백 “3년간 외면…슬픈 노래도 못 불러”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20260811/134458321/2"
+          "title": "\"사라더니 목표가 30% 낮추나\"…증권가 엇갈린 '삼전닉스' 전망",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/finance/general-stock/6256066"
         },
         {
-          "title": "테이, 돌연 활동 중단한 이유 “친형 같은 매니저 세상 떠나..못 견디게 힘들어”(플레이리스트109) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/11/HAYDMMLEGNSGMOJRGJQTAYLEGY/"
+          "title": "“내 주식 어떡하나” 키움證, 삼전·닉스 목표가 함께 낮춰",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11608635"
+        }
+      ]
+    },
+    {
+      "id": "네이-마르",
+      "rank": 9,
+      "keyword": "네이 마르",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘MSN 트리오’ 미국서 재결합하나?···네이마르, 내년 1월 마이애미행 솔솔 ‘바르사 이후 재결성’ 주목' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘MSN 트리오’ 미국서 재결합하나?···네이마르, 내년 1월 마이애미행 솔솔 ‘바르사 이후 재결성’ 주목",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810142528644"
+        },
+        {
+          "title": "손흥민 우승 도전에 적신호…MLS서 '역대급 공격 트리오' MSN 재결합 가능성 \"1월부터 네이마르는 마이애미로 간다\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260812n00671"
+        },
+        {
+          "title": "손흥민 초대형 악재 터졌다! \"네이마르 MLS로 이동\"…하필 경쟁팀서 '전설의 MSN 라인' 구축 유력",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/football/2026-08-12/202608120100066760004158"
         }
       ]
     },
     {
       "id": "cpi",
-      "rank": 9,
+      "rank": 10,
       "keyword": "cpi",
       "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'Dollar gains, yen weakens as markets eye US CPI' (Reuters) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "6시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 'S&P 500 falls amid Iran uncertainty, Big Tech losses: Live updates' (CNBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Dollar gains, yen weakens as markets eye US CPI",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/dollar-near-two-month-trough-us-inflation-data-awaited-2026-08-10/"
+          "title": "S&P 500 falls amid Iran uncertainty, Big Tech losses: Live updates",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html"
         },
         {
-          "title": "Dollar and euro flatline as FX traders await inflation test and Hormuz fallout",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/forex-news/asia-fx-dollar-muted-with-us-cpi-on-tap-rba-holds-rates-4850775"
+          "title": "Hormuz Uncertainty, Oil Rise Drag Down New York Stocks",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/market-money-en/2026/08/12/W3IWAQZXSJDKFD3VFNZWJ2236Y/"
         },
         {
-          "title": "Chart USD Index DXY Update: Cautious trade - any gains to re",
-          "source": "Continuum Economics",
-          "url": "https://continuumeconomics.com/a/5197dd08/chart-usd-index-dxy-update-cautious-trade-any-gains-to-remain-limited"
-        }
-      ]
-    },
-    {
-      "id": "슈퍼맨이-돌아왔다",
-      "rank": 10,
-      "keyword": "슈퍼맨이 돌아왔다",
-      "volumeLabel": "100+",
-      "startedLabel": "7시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 ''심형탁 子' 하루, 굿즈 앞에서 말문 활짝…아빠 닮은 덕질 DNA 폭발 \"그거 줘\" [슈돌]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'심형탁 子' 하루, 굿즈 앞에서 말문 활짝…아빠 닮은 덕질 DNA 폭발 \"그거 줘\" [슈돌]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811132842054"
-        },
-        {
-          "title": "‘심형탁 子’ 하루, 아빠 닮아 덕질 본능 폭발…“그거 줘” (슈돌)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260811/134458104/1"
-        },
-        {
-          "title": "'심형탁 子' 하루, 코르티스 룩 입고 성수동 떴다..'힙스터 베이비'",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260810235310914"
+          "title": "Wall Street Closes Lower on Concerns Over Stalled US-Iran Talks",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008699271"
         }
       ]
     }
