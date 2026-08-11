@@ -1,286 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-11T21:24:23.163Z",
+  "updatedAt": "2026-08-11T22:20:15.733Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "경기도",
+      "id": "뉴스",
       "rank": 1,
-      "keyword": "경기도",
-      "volumeLabel": "2000+",
+      "keyword": "뉴스",
+      "volumeLabel": "5000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[사설] 경기도 재정 비상 선언…세수보다 방만 재정이 문제다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '20도 내외라야 잘자라는데…극한 폭염에 1∼2년생 인삼 '직격탄'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[사설] 경기도 재정 비상 선언…세수보다 방만 재정이 문제다",
+          "title": "20도 내외라야 잘자라는데…극한 폭염에 1∼2년생 인삼 '직격탄'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260812002538751"
+          "url": "https://v.daum.net/v/20260812060152612"
         },
         {
-          "title": "[패트롤] 경기도의회-수원시의회-안성시의회-이천시의회",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20260812020111884"
-        },
-        {
-          "title": "추모·재난대응까지…경기도 소방사업 긴축 논란에 우려 확산",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1329374"
-        }
-      ]
-    },
-    {
-      "id": "김용건",
-      "rank": 2,
-      "keyword": "김용건",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '황보라, 시父 김용건 별장 클래스…3층 규모·하정우 트로피까지' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "황보라, 시父 김용건 별장 클래스…3층 규모·하정우 트로피까지",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260811/134461567/1"
-        },
-        {
-          "title": "황보라, 시아버지 김용건 ‘프라이빗 별장’ 최초 공개… ‘감탄’",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/11/MFRTOMDDGMYTQNBRMNQTKMJXMM/"
-        },
-        {
-          "title": "김용건 별장, '산+강 뷰' 으리으리하네…며느리 황보라 \"아기 낳고 무조건 여기\" (보라이어티)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811204737644"
-        }
-      ]
-    },
-    {
-      "id": "상장폐지",
-      "rank": 3,
-      "keyword": "상장폐지",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘상폐 기준 강화’ 한 달…상장사 10곳 중 1곳 ‘퇴출 위험’' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘상폐 기준 강화’ 한 달…상장사 10곳 중 1곳 ‘퇴출 위험’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608112039015"
-        },
-        {
-          "title": "내 계좌 속 종목 괜찮을까…코스닥 무더기 퇴출 '임박'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812060132572"
-        },
-        {
-          "title": "상장폐지 기준 강화 한달…상장사 7.8% ‘동전주’",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/mobile/view.asp?gbn=v&code=0200&key=20260811.99099002778"
-        }
-      ]
-    },
-    {
-      "id": "신지",
-      "rank": 4,
-      "keyword": "신지",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '신지 “의자에 발 올린 거 아니고 들고 있는 거” 사진 속 포즈 해명' (동아일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "신지 “의자에 발 올린 거 아니고 들고 있는 거” 사진 속 포즈 해명",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20260811/134455688/1"
-        },
-        {
-          "title": "‘44세’ 신지, 볼빵빵 표정으로 논란 미리 차단 “의자에 발 올린거 아냐”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811143708730"
-        },
-        {
-          "title": "신지 “의자에 발 올린 거 아니고 들고 있는 거”…민폐 논란 사전 차단",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10837583"
-        }
-      ]
-    },
-    {
-      "id": "김승현",
-      "rank": 5,
-      "keyword": "김승현",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김승현, 귀신 본 후 父 공장에 불 나..결국 이사했다 “무서운 기운 들어와”(광산김씨패밀리)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김승현, 귀신 본 후 父 공장에 불 나..결국 이사했다 “무서운 기운 들어와”(광산김씨패밀리)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810195910649"
-        },
-        {
-          "title": "'장정윤♥' 김승현, 어린 시절 '시골 마을' 이사→처녀 귀신 목격…\"의문의 사고 잇따라\" [RE:뷰]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260811n03501"
-        },
-        {
-          "title": "김승현, 어릴 때 처녀귀신 만난 후 부친 공장 화재 등 불행",
-          "source": "미디어파인",
-          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=86238"
-        }
-      ]
-    },
-    {
-      "id": "마이크론-테크놀로지",
-      "rank": 6,
-      "keyword": "마이크론 테크놀로지",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '삼성·SK, 美 투자 확대에 마이크론 “미국산 메모리는 우리가 유일…장기계약 더 늘어”' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "삼성·SK, 美 투자 확대에 마이크론 “미국산 메모리는 우리가 유일…장기계약 더 늘어”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811084814447"
-        },
-        {
-          "title": "마이크론, 메모리 공급 부족 장기화 기대…주가↑",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02236966645546664"
-        },
-        {
-          "title": "삼전닉스 대미투자 트집 잡는 마이크론",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260811/134459532/2"
-        }
-      ]
-    },
-    {
-      "id": "함소원",
-      "rank": 7,
-      "keyword": "함소원",
-      "volumeLabel": "2000+",
-      "startedLabel": "6시간 전",
-      "change": "down",
-      "changeLabel": "-6",
-      "summary": "급상승 시점에 ''교통사고' 함소원 \"두 달 가까이 입원…9세 딸 책임지게 살려달라 기도\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'교통사고' 함소원 \"두 달 가까이 입원…9세 딸 책임지게 살려달라 기도\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811181037699"
-        },
-        {
-          "title": "함소원, 교통사고로 의식 잃었다…“9살 딸 결혼할 때까지만 살려달라” [SD톡톡]",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260811/134461508/1"
-        },
-        {
-          "title": "함소원, 교통사고 후 의식 잃었다..\"살려달라 신께 기도\" 딸 끌어안고 '눈물'",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112855038"
-        }
-      ]
-    },
-    {
-      "id": "삼전-닉스",
-      "rank": 8,
-      "keyword": "삼전 닉스",
-      "volumeLabel": "500+",
-      "startedLabel": "6시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“89조 벌었는데 목표가 4만원 뚝”…삼성전자 덮친 ‘2027년 경고’ [숫자 뒤의 진실]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“89조 벌었는데 목표가 4만원 뚝”…삼성전자 덮친 ‘2027년 경고’ [숫자 뒤의 진실]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812050315915"
-        },
-        {
-          "title": "\"사라더니 목표가 30% 낮추나\"…증권가 엇갈린 '삼전닉스' 전망",
+          "title": "금산군 \"인삼 고온피해 예방하려면 해 진 후 점적관수를\"",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/finance/general-stock/6256066"
+          "url": "https://www.news1.kr/local/daejeon-chungnam/6255244"
         },
         {
-          "title": "“내 주식 어떡하나” 키움證, 삼전·닉스 목표가 함께 낮춰",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11608635"
+          "title": "\"온도 높은 낮에 물 주면 피해가 커질\"…군농기센터, 인삼 점적관수 해가 진 후 실시 당부",
+          "source": "중도일보",
+          "url": "https://www.joongdo.co.kr/web/view.php?key=20260811010003359"
         }
       ]
     },
     {
-      "id": "네이-마르",
-      "rank": 9,
-      "keyword": "네이 마르",
-      "volumeLabel": "100+",
+      "id": "김혜수",
+      "rank": 2,
+      "keyword": "김혜수",
+      "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘MSN 트리오’ 미국서 재결합하나?···네이마르, 내년 1월 마이애미행 솔솔 ‘바르사 이후 재결성’ 주목' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"제니 옷 아니었어?\"…김혜수가 입자 난리 난 857만원 재킷 [트렌드+]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘MSN 트리오’ 미국서 재결합하나?···네이마르, 내년 1월 마이애미행 솔솔 ‘바르사 이후 재결성’ 주목",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810142528644"
+          "title": "\"제니 옷 아니었어?\"…김혜수가 입자 난리 난 857만원 재킷 [트렌드+]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608116362g"
         },
         {
-          "title": "손흥민 우승 도전에 적신호…MLS서 '역대급 공격 트리오' MSN 재결합 가능성 \"1월부터 네이마르는 마이애미로 간다\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260812n00671"
+          "title": "김혜수 존재만으로 막장도 체급이 올라간다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/11/2026081109167289866"
         },
         {
-          "title": "손흥민 초대형 악재 터졌다! \"네이마르 MLS로 이동\"…하필 경쟁팀서 '전설의 MSN 라인' 구축 유력",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/football/2026-08-12/202608120100066760004158"
+          "title": "김혜수, 11살 연하 김지훈과 실제 부부인 줄…다정한 웨딩 화보 공개",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260810_0003743352"
         }
       ]
     },
     {
-      "id": "cpi",
-      "rank": 10,
-      "keyword": "cpi",
-      "volumeLabel": "100+",
-      "startedLabel": "6시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'S&P 500 falls amid Iran uncertainty, Big Tech losses: Live updates' (CNBC) 관련 뉴스가 함께 포착됐어요.",
+      "id": "박지성",
+      "rank": 3,
+      "keyword": "박지성",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'K-축구 혁신위 \"2만명 선거인단 축구협회장 선거, 올해 중 실시\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "S&P 500 falls amid Iran uncertainty, Big Tech losses: Live updates",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html"
+          "title": "K-축구 혁신위 \"2만명 선거인단 축구협회장 선거, 올해 중 실시\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260811158900007"
         },
         {
-          "title": "Hormuz Uncertainty, Oil Rise Drag Down New York Stocks",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/market-money-en/2026/08/12/W3IWAQZXSJDKFD3VFNZWJ2236Y/"
+          "title": "[스포츠]박지성 \"축구협회 '심판 성접대'로 안 좋은 상황 맞이해\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0107_202608112338334566_005.html"
         },
         {
-          "title": "Wall Street Closes Lower on Concerns Over Stalled US-Iran Talks",
+          "title": "K-축구 혁신위원회, 다음 주 수요일 공청회 개최",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6844003_36946.html"
+        }
+      ]
+    },
+    {
+      "id": "범죄",
+      "rank": 4,
+      "keyword": "범죄",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '텔레그램 마약 채널 ‘마석도’ 운영 총책 등 2명 구속기소' (인천일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "텔레그램 마약 채널 ‘마석도’ 운영 총책 등 2명 구속기소",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1329356"
+        },
+        {
+          "title": "회원 3천 명 거느린 '마석도'…수십억대 마약 유통 20대 총책 구속",
           "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008699271"
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008700981"
+        },
+        {
+          "title": "전국적으로 마약류 유통한 범죄조직 ‘마석도’ 총책 구속 기소",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8633996"
+        }
+      ]
+    },
+    {
+      "id": "김도영",
+      "rank": 5,
+      "keyword": "김도영",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '오스틴 독주냐, 김도영 탈환이냐, 힐리어드 반란이냐' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "오스틴 독주냐, 김도영 탈환이냐, 힐리어드 반란이냐",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811200044642?f=p"
+        },
+        {
+          "title": "폭염이 날린 8경기…그래도 욕심난다, 40홈런",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608110500016"
+        },
+        {
+          "title": "[사진]오지환, 다시 시작",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/08/11/MEYDKOLBMQYTIYJWGA3DEZDGMU/"
+        }
+      ]
+    },
+    {
+      "id": "홈플러스",
+      "rank": 6,
+      "keyword": "홈플러스",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '다시 물건 채우는 홈플러스… 정식 오픈 앞둔 매장 가보니' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "다시 물건 채우는 홈플러스… 정식 오픈 앞둔 매장 가보니",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811060441944"
+        },
+        {
+          "title": "\"매대 꽉 채운다\"...홈플러스 13일 대규모 할인전으로 정상화 시동 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/08/11/2026081113271235579"
+        },
+        {
+          "title": "“홈플러스 의정부점, 단골인데 살려야죠” 장바구니 채운 주민들",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1768765"
+        }
+      ]
+    },
+    {
+      "id": "디에고-포를란",
+      "rank": 7,
+      "keyword": "디에고 포를란",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[스포츠머그] \"축구협회 방패막이죠?\"…'임시 감독' 포를란에게 날아든 돌직구 (ft.수아레스 복귀?)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[스포츠머그] \"축구협회 방패막이죠?\"…'임시 감독' 포를란에게 날아든 돌직구 (ft.수아레스 복귀?)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811165112507"
+        },
+        {
+          "title": "‘핵이빨’ 수아레스, 9월 한국전서 대표팀 복귀하나?···우루과이 포를란 감독 “선택 가능한 선수”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608111059013"
+        },
+        {
+          "title": "\"골 넣는다면 왜 고려하지 않겠나\"…9월 한국 원정 앞둔 포를란 우루과이 감독대행, 수아레스 대표팀 복귀 문 열었다",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260811n03276"
+        }
+      ]
+    },
+    {
+      "id": "김민석",
+      "rank": 8,
+      "keyword": "김민석",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김민석 “조작 기소, 취소가 원칙…지난 1년간 방식으론 정부 성공 못해” [인터뷰]' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김민석 “조작 기소, 취소가 원칙…지난 1년간 방식으론 정부 성공 못해” [인터뷰]",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1272471.html"
+        },
+        {
+          "title": "宋·鄭·金, 오늘 마지막 TV토론…사활 건 난타전 예고",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260811148300001"
+        },
+        {
+          "title": "'승부처' 호남 투표 돌입...과열에 최고위도 중단",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202608112328053965"
+        }
+      ]
+    },
+    {
+      "id": "나솔",
+      "rank": 9,
+      "keyword": "나솔",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''나솔' 22기 옥순♥경수, 또 출연 결심 할까…40대 순수 직진 매력 관전평 ('순수우유')' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'나솔' 22기 옥순♥경수, 또 출연 결심 할까…40대 순수 직진 매력 관전평 ('순수우유')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811010250291"
+        },
+        {
+          "title": "'나솔' 32기 상철, 솔로나라 마지막 날 편지썼다…감동의 눈물 속 작별 ('촌장')",
+          "source": "텐아시아",
+          "url": "https://www.tenasia.co.kr/article/2026081052574"
+        },
+        {
+          "title": "(나는솔로32) “일단 마음이 가야 하잖아” 옥순이 답답했던 이유 : 호감이 부담으로 바뀌는 ‘불안의 악순환’ Oklahoma City Thunder Vs Lakers Match Player Stats (cDhO8Rge4c)",
+          "source": "Mshale",
+          "url": "https://mshale.com/228a7b84/a8ff1d99utZwyEKGegA"
+        }
+      ]
+    },
+    {
+      "id": "휴머노이드-로봇",
+      "rank": 10,
+      "keyword": "휴머노이드 로봇",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '세계 97% 장악한 중국 로봇…'5000대 1' 청약 경쟁률 폭발' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "세계 97% 장악한 중국 로봇…'5000대 1' 청약 경쟁률 폭발",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811203306352"
+        },
+        {
+          "title": "애지봇, 유니트리 제치고 출하 세계 1위…中 휴머노이드 경쟁 양강 구도",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260811094132AGN"
+        },
+        {
+          "title": "\"빨래 널고 야채 씻고 바쁘다 바빠\"…하루 200번 반복 연습하는 中 로봇",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026081115250471888"
         }
       ]
     }
