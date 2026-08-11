@@ -1,57 +1,29 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-11T17:32:01.711Z",
+  "updatedAt": "2026-08-11T19:12:39.261Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "넥슨",
-      "rank": 1,
-      "keyword": "넥슨",
-      "volumeLabel": "5000+",
-      "startedLabel": "6시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '탈론의 지배 - 4시즌: 부산의 영웅이 진면목을 드러냅니다 - 새소식 - 오버워치' (Blizzard Entertainment) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "탈론의 지배 - 4시즌: 부산의 영웅이 진면목을 드러냅니다 - 새소식 - 오버워치",
-          "source": "Blizzard Entertainment",
-          "url": "https://overwatch.blizzard.com/ko-kr/news/24295381/"
-        },
-        {
-          "title": "넥슨이 만들어갈 ‘오버워치’…제2의 전성기 오나",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20260811021071249"
-        },
-        {
-          "title": "넥슨, '오버워치' 사전 다운로드 개시 및 신규 영웅 '디몬(D.Mon)' 공개",
-          "source": "디스이즈게임",
-          "url": "https://www.thisisgame.com/articles/428711"
-        }
-      ]
-    },
-    {
       "id": "함소원",
-      "rank": 2,
+      "rank": 1,
       "keyword": "함소원",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "volumeLabel": "2000+",
+      "startedLabel": "4시간 전",
       "change": "up",
       "changeLabel": "+1",
-      "summary": "급상승 시점에 '함소원, 교통사고로 의식 잃었다…“9살 딸 결혼할 때까지만 살려달라” [SD톡톡]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''교통사고' 함소원 \"두 달 가까이 입원…9세 딸 책임지게 살려달라 기도\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "함소원, 교통사고로 의식 잃었다…“9살 딸 결혼할 때까지만 살려달라” [SD톡톡]",
+          "title": "'교통사고' 함소원 \"두 달 가까이 입원…9세 딸 책임지게 살려달라 기도\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260811232650992"
+          "url": "https://v.daum.net/v/20260811181037699?f=m"
         },
         {
-          "title": "'교통사고' 함소원 \"두 달 가까이 입원…9세 딸 책임지게 살려달라 기도\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6255953"
+          "title": "함소원, 교통사고로 의식 잃었다…“9살 딸 결혼할 때까지만 살려달라” [SD톡톡]",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260811/134461508/1"
         },
         {
           "title": "함소원, 교통사고 후 의식 잃었다..\"살려달라 신께 기도\" 딸 끌어안고 '눈물'",
@@ -62,15 +34,20 @@
     },
     {
       "id": "임-라라",
-      "rank": 3,
+      "rank": 2,
       "keyword": "임 라라",
       "volumeLabel": "2000+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '손민수♥임라라 쌍둥이 남매, 생애 첫 여권사진에 미모 '감탄'(슈돌)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "6시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '손민수♥임라라 쌍둥이, 생애 첫 여권 사진 도전…근엄한데 귀여워 (슈돌)' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "손민수♥임라라 쌍둥이, 생애 첫 여권 사진 도전…근엄한데 귀여워 (슈돌)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260811/134461224/1"
+        },
         {
           "title": "손민수♥임라라 쌍둥이 남매, 생애 첫 여권사진에 미모 '감탄'(슈돌)",
           "source": "Daum",
@@ -80,50 +57,45 @@
           "title": "‘슈돌’ 강단둥이 남매, 첫 여권사진 공개… 강이는 ‘근엄’ 단이는 ‘브이’",
           "source": "천지일보",
           "url": "https://www.newscj.com/news/articleView.html?idxno=3424064"
-        },
-        {
-          "title": "강단둥이남매, 생애 첫 여권 사진 촬영…물만두 강이 카메라 아이컨택",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16160200"
         }
       ]
     },
     {
       "id": "투자가",
-      "rank": 4,
+      "rank": 3,
       "keyword": "투자가",
       "volumeLabel": "1000+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '[김덕우의 생활 속 AI] AI는 메모리에 산다… 버블 논쟁이 놓치고 있는 것' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "6시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '패밀리 캐피탈의 3륜 전기차 베팅' (뉴스N연합) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[김덕우의 생활 속 AI] AI는 메모리에 산다… 버블 논쟁이 놓치고 있는 것",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811003707078"
+          "title": "패밀리 캐피탈의 3륜 전기차 베팅",
+          "source": "뉴스N연합",
+          "url": "https://newsyonhap.com/news/119014"
         },
         {
-          "title": "빅테크들의 데이터센터 부채 “과소평가됐다”…지역 주민 반대도 부담",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/finance/1272375.html"
+          "title": "쓰레기 수거 및 운송을 위한 전기 삼륜차 시범 운행 제안.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/de-xuat-thi-diem-xe-3-banh-chay-dien-chuyen-thu-gom-van-chuyen-rac"
         },
         {
-          "title": "골드만삭스, AI 투자가 다른 기업 지출을 잠식할 수 있다고 경고",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2056007"
+          "title": "삼륜 전기차에 베팅한 패밀리 캐피탈: 도심 모빌리티 틈새 전략의 실체",
+          "source": "얼리어답터뉴스",
+          "url": "https://www.eanews.kr/news/986907"
         }
       ]
     },
     {
       "id": "갈소원",
-      "rank": 5,
+      "rank": 4,
       "keyword": "갈소원",
-      "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
+      "volumeLabel": "1000+",
+      "startedLabel": "6시간 전",
       "change": "up",
-      "changeLabel": "+2",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '‘7번방의 선물 예승이' 갈소원, 폭풍 성장한 21살 근황…미모에 '깜짝'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -145,11 +117,39 @@
       ]
     },
     {
+      "id": "진수-화",
+      "rank": 5,
+      "keyword": "진수 화",
+      "volumeLabel": "500+",
+      "startedLabel": "6시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '진수화 치어리더 '신나게 야호~'[엑's 숏폼]' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "진수화 치어리더 '신나게 야호~'[엑's 숏폼]",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260811n16238"
+        },
+        {
+          "title": "진수화 치어리더 '신나게 야호~'[엑's 숏폼]",
+          "source": "엑스포츠뉴스",
+          "url": "https://www.xportsnews.com/article/2182324"
+        },
+        {
+          "title": "진수화 치어리더 '신나게 야호~'[엑's 숏폼]",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260811n16238?issue_sq=11310"
+        }
+      ]
+    },
+    {
       "id": "광-통신",
       "rank": 6,
       "keyword": "광 통신",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "4시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 '잘 나가던 광통신주, 하루만에 '우수수' 하락 무슨 일' (한국경제) 관련 뉴스가 함께 포착됐어요.",
@@ -161,14 +161,14 @@
           "url": "https://www.hankyung.com/article/202608114360i"
         },
         {
-          "title": "특징주, 파이버프로-광통신(광케이블/광섬유 등) 테마 상승세에 5.11% ↑",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1138293"
+          "title": "[특징주] 광통신주, 미국의 중국산 수입규제 추진 소식에 급등(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260810039051008"
         },
         {
-          "title": "\"고점서 40% 폭락했는데 지금 사라고?\"…증권가가 다시 찍은 '이 종목'[주末머니]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809104641725?f=p"
+          "title": "[특징주] 광통신株, 전날 급등분 일부 반납",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20260811023321481"
         }
       ]
     },
@@ -177,9 +177,9 @@
       "rank": 7,
       "keyword": "고소영",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '고소영, 22살에 첫 억대 광고료 받아…\"몸값이라는 게 생겨\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -196,53 +196,25 @@
         {
           "title": "고소영 \"90년대 노예계약 많았다\"…소속사 없이 '모친=매니저'로 활동한 이유 (고소영)",
           "source": "네이트",
-          "url": "https://news.nate.com/view/20260811n33105?mid=e1100"
-        }
-      ]
-    },
-    {
-      "id": "cpi",
-      "rank": 8,
-      "keyword": "cpi",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'S&P 500 falls into the red as unraveling Iran situation overhangs marke…' (CNBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "S&P 500 falls into the red as unraveling Iran situation overhangs market: Live updates",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html"
-        },
-        {
-          "title": "Wall Street Closes Lower on Concerns Over Stalled US-Iran Talks",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008699271"
-        },
-        {
-          "title": "Wall Street snaps record-high rally amid doubts over Strait of Hormuz reopening",
-          "source": "헤럴드경제",
-          "url": "https://mbiz.heraldcorp.com/article/10836627"
+          "url": "https://news.nate.com/view/20260811n33105"
         }
       ]
     },
     {
       "id": "테이",
-      "rank": 9,
+      "rank": 8,
       "keyword": "테이",
       "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '테이, 전성기 돌연 사라진 이유…“친형 같던 매니저 떠나고 3년간 현실 회피”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "6시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '테이 “친형 같은 매니저였는데…” 전성기때 돌연 활동 접은 사연' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "테이, 전성기 돌연 사라진 이유…“친형 같던 매니저 떠나고 3년간 현실 회피”",
+          "title": "테이 “친형 같은 매니저였는데…” 전성기때 돌연 활동 접은 사연",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260811134450535"
+          "url": "https://v.daum.net/v/20260812005409959"
         },
         {
           "title": "가수 테이, 가까운 사람 떠나보낸 아픔 고백 “3년간 외면…슬픈 노래도 못 불러”",
@@ -250,37 +222,65 @@
           "url": "https://www.donga.com/news/Culture/article/all/20260811/134458321/2"
         },
         {
-          "title": "테이, 3년 활동 중단 사연 고백… 차인표 미국 이민사 눈물",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3662087"
+          "title": "테이, 3년 공백 이유…\"친형 같던 매니저 세상 떠나\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260811_0003744297"
         }
       ]
     },
     {
-      "id": "정호연",
-      "rank": 10,
-      "keyword": "정호연",
-      "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '황정민, 사생활 피해 속 '틈만 나면' 출연…\"욱하지 말라더라\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "id": "cpi",
+      "rank": 9,
+      "keyword": "cpi",
+      "volumeLabel": "100+",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 'Inflation Reports Could Test Warsh’s Tough Talk' (WSJ) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "황정민, 사생활 피해 속 '틈만 나면' 출연…\"욱하지 말라더라\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260811_0003745214"
+          "title": "Inflation Reports Could Test Warsh’s Tough Talk",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/economy/central-banking/inflation-reports-could-test-warshs-tough-talk-3866e365"
         },
         {
-          "title": "틈만나면, : 유재석×유연석×정호연×황정민, 첫 미션 3단계에서 아쉬운 최종 실패",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/teum/clip/82063/OC481046947"
+          "title": "Weak July Employment Data... Eyes Turn to Inflation Indexes",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008697324"
         },
         {
-          "title": "유재석, 알까기 명사수 등극…'틈만나면,' 시즌5 첫방부터 웃음 폭발",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260811000084"
+          "title": "BTIG’s Krinsky says risk/reward for equities looks ‘quite poor’",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/btigs-krinsky-says-riskreward-for-equities-looks-quite-poor-4852443"
+        }
+      ]
+    },
+    {
+      "id": "슈퍼맨이-돌아왔다",
+      "rank": 10,
+      "keyword": "슈퍼맨이 돌아왔다",
+      "volumeLabel": "100+",
+      "startedLabel": "6시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''심형탁 子' 하루, 굿즈 앞에서 말문 활짝…아빠 닮은 덕질 DNA 폭발 \"그거 줘\" [슈돌]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'심형탁 子' 하루, 굿즈 앞에서 말문 활짝…아빠 닮은 덕질 DNA 폭발 \"그거 줘\" [슈돌]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811132842054"
+        },
+        {
+          "title": "‘심형탁 子’ 하루, 아빠 닮아 덕질 본능 폭발…“그거 줘” (슈돌)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260811/134458104/1"
+        },
+        {
+          "title": "'심형탁 子' 하루, 코르티스 룩 입고 성수동 떴다..'힙스터 베이비'",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260810235310914"
         }
       ]
     }
