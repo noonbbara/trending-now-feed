@@ -1,241 +1,101 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-11T22:20:15.733Z",
+  "updatedAt": "2026-08-11T23:20:26.601Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "뉴스",
+      "id": "아이폰",
       "rank": 1,
-      "keyword": "뉴스",
-      "volumeLabel": "5000+",
+      "keyword": "아이폰",
+      "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '20도 내외라야 잘자라는데…극한 폭염에 1∼2년생 인삼 '직격탄'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“400만원 아이폰 누가 사나”…‘올글래스’ 삐끗한 애플, 폴더블도 틈새제품 전망' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "20도 내외라야 잘자라는데…극한 폭염에 1∼2년생 인삼 '직격탄'",
+          "title": "“400만원 아이폰 누가 사나”…‘올글래스’ 삐끗한 애플, 폴더블도 틈새제품 전망",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260812060152612"
+          "url": "https://v.daum.net/v/20260811151108419"
         },
         {
-          "title": "금산군 \"인삼 고온피해 예방하려면 해 진 후 점적관수를\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/daejeon-chungnam/6255244"
+          "title": "'아이폰 20주년' 기념 올글래스 아이폰 출시 무산",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260811n20993"
         },
         {
-          "title": "\"온도 높은 낮에 물 주면 피해가 커질\"…군농기센터, 인삼 점적관수 해가 진 후 실시 당부",
-          "source": "중도일보",
-          "url": "https://www.joongdo.co.kr/web/view.php?key=20260811010003359"
+          "title": "물거품된 애플의 야심작…목표 주가도 '와르르' [지금이뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0545_202608111920018161"
         }
       ]
     },
     {
-      "id": "김혜수",
+      "id": "최여진",
       "rank": 2,
-      "keyword": "김혜수",
-      "volumeLabel": "5000+",
+      "keyword": "최여진",
+      "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"제니 옷 아니었어?\"…김혜수가 입자 난리 난 857만원 재킷 [트렌드+]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '최여진, 가평 신혼집 수영장서 포착…탄탄한 등근육 ‘깜짝’' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"제니 옷 아니었어?\"…김혜수가 입자 난리 난 857만원 재킷 [트렌드+]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608116362g"
+          "title": "최여진, 가평 신혼집 수영장서 포착…탄탄한 등근육 ‘깜짝’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812072528233"
         },
         {
-          "title": "김혜수 존재만으로 막장도 체급이 올라간다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/11/2026081109167289866"
+          "title": "수영복 입은 최여진, 운동으로 만든 탄탄 등근육…리지와 '꽃받침' [N샷]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6255394"
         },
         {
-          "title": "김혜수, 11살 연하 김지훈과 실제 부부인 줄…다정한 웨딩 화보 공개",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260810_0003743352"
+          "title": "“착시 아닌 진짜?” 최여진, 비키니 어디 갔나…절친도 놀란 ‘가평 천국’",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/entertain/12123981"
         }
       ]
     },
     {
-      "id": "박지성",
+      "id": "제니",
       "rank": 3,
-      "keyword": "박지성",
+      "keyword": "제니",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'K-축구 혁신위 \"2만명 선거인단 축구협회장 선거, 올해 중 실시\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '제니, 옷 입은 거야? 천 조각 두른 듯..역대급 파격 노출[스타이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "K-축구 혁신위 \"2만명 선거인단 축구협회장 선거, 올해 중 실시\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260811158900007"
-        },
-        {
-          "title": "[스포츠]박지성 \"축구협회 '심판 성접대'로 안 좋은 상황 맞이해\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0107_202608112338334566_005.html"
-        },
-        {
-          "title": "K-축구 혁신위원회, 다음 주 수요일 공청회 개최",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6844003_36946.html"
-        }
-      ]
-    },
-    {
-      "id": "범죄",
-      "rank": 4,
-      "keyword": "범죄",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '텔레그램 마약 채널 ‘마석도’ 운영 총책 등 2명 구속기소' (인천일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "텔레그램 마약 채널 ‘마석도’ 운영 총책 등 2명 구속기소",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1329356"
-        },
-        {
-          "title": "회원 3천 명 거느린 '마석도'…수십억대 마약 유통 20대 총책 구속",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008700981"
-        },
-        {
-          "title": "전국적으로 마약류 유통한 범죄조직 ‘마석도’ 총책 구속 기소",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8633996"
-        }
-      ]
-    },
-    {
-      "id": "김도영",
-      "rank": 5,
-      "keyword": "김도영",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '오스틴 독주냐, 김도영 탈환이냐, 힐리어드 반란이냐' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "오스틴 독주냐, 김도영 탈환이냐, 힐리어드 반란이냐",
+          "title": "제니, 옷 입은 거야? 천 조각 두른 듯..역대급 파격 노출[스타이슈]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260811200044642?f=p"
+          "url": "https://v.daum.net/v/20260811184409779"
         },
         {
-          "title": "폭염이 날린 8경기…그래도 욕심난다, 40홈런",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608110500016"
+          "title": "제니, 과감한 드레스 입고 美 매거진 커버…\"내 몸 사랑해\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608055730H"
         },
         {
-          "title": "[사진]오지환, 다시 시작",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/08/11/MEYDKOLBMQYTIYJWGA3DEZDGMU/"
-        }
-      ]
-    },
-    {
-      "id": "홈플러스",
-      "rank": 6,
-      "keyword": "홈플러스",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '다시 물건 채우는 홈플러스… 정식 오픈 앞둔 매장 가보니' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "다시 물건 채우는 홈플러스… 정식 오픈 앞둔 매장 가보니",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811060441944"
-        },
-        {
-          "title": "\"매대 꽉 채운다\"...홈플러스 13일 대규모 할인전으로 정상화 시동 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/living/2026/08/11/2026081113271235579"
-        },
-        {
-          "title": "“홈플러스 의정부점, 단골인데 살려야죠” 장바구니 채운 주민들",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1768765"
-        }
-      ]
-    },
-    {
-      "id": "디에고-포를란",
-      "rank": 7,
-      "keyword": "디에고 포를란",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[스포츠머그] \"축구협회 방패막이죠?\"…'임시 감독' 포를란에게 날아든 돌직구 (ft.수아레스 복귀?)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[스포츠머그] \"축구협회 방패막이죠?\"…'임시 감독' 포를란에게 날아든 돌직구 (ft.수아레스 복귀?)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811165112507"
-        },
-        {
-          "title": "‘핵이빨’ 수아레스, 9월 한국전서 대표팀 복귀하나?···우루과이 포를란 감독 “선택 가능한 선수”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608111059013"
-        },
-        {
-          "title": "\"골 넣는다면 왜 고려하지 않겠나\"…9월 한국 원정 앞둔 포를란 우루과이 감독대행, 수아레스 대표팀 복귀 문 열었다",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260811n03276"
-        }
-      ]
-    },
-    {
-      "id": "김민석",
-      "rank": 8,
-      "keyword": "김민석",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김민석 “조작 기소, 취소가 원칙…지난 1년간 방식으론 정부 성공 못해” [인터뷰]' (한겨레) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김민석 “조작 기소, 취소가 원칙…지난 1년간 방식으론 정부 성공 못해” [인터뷰]",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1272471.html"
-        },
-        {
-          "title": "宋·鄭·金, 오늘 마지막 TV토론…사활 건 난타전 예고",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260811148300001"
-        },
-        {
-          "title": "'승부처' 호남 투표 돌입...과열에 최고위도 중단",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202608112328053965"
+          "title": "‘솔로’로 시작해 ‘라이크 제니’로…제니가 완성한 자기 브랜드",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260811/134457368/1"
         }
       ]
     },
     {
       "id": "나솔",
-      "rank": 9,
+      "rank": 4,
       "keyword": "나솔",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+5",
       "summary": "급상승 시점에 ''나솔' 22기 옥순♥경수, 또 출연 결심 할까…40대 순수 직진 매력 관전평 ('순수우유')' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -257,30 +117,170 @@
       ]
     },
     {
-      "id": "휴머노이드-로봇",
-      "rank": 10,
-      "keyword": "휴머노이드 로봇",
-      "volumeLabel": "100+",
+      "id": "아시아경제",
+      "rank": 5,
+      "keyword": "아시아경제",
+      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '세계 97% 장악한 중국 로봇…'5000대 1' 청약 경쟁률 폭발' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '오디오페이퍼' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "세계 97% 장악한 중국 로봇…'5000대 1' 청약 경쟁률 폭발",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811203306352"
-        },
-        {
-          "title": "애지봇, 유니트리 제치고 출하 세계 1위…中 휴머노이드 경쟁 양강 구도",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260811094132AGN"
-        },
-        {
-          "title": "\"빨래 널고 야채 씻고 바쁘다 바빠\"…하루 200번 반복 연습하는 中 로봇",
+          "title": "오디오페이퍼",
           "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026081115250471888"
+          "url": "https://www.asiae.co.kr/papernews/index.htm?dt=20260810"
+        },
+        {
+          "title": "한강 야경 여유롭게 즐기세요…15일부터 한강버스 야간운항 확대",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260811135100004"
+        },
+        {
+          "title": "\"한강버스 타고 서울 야경 즐긴다\"…15일부터 야간운행 확대",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812060130569"
+        }
+      ]
+    },
+    {
+      "id": "안민석",
+      "rank": 6,
+      "keyword": "안민석",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '안민석, 독립운동가 안희제·최재형 업적 알리는 역사탐방' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "안민석, 독립운동가 안희제·최재형 업적 알리는 역사탐방",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260811152900061"
+        },
+        {
+          "title": "안민석 교육감, 하얼빈 안중근 기념관 방문…4박5일 만주·연해주 탐방",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260811580608"
+        },
+        {
+          "title": "경기교육청, ‘교육 독립운동가’의 숭고한 헌신 기린다",
+          "source": "프레시안",
+          "url": "https://www.pressian.com/pages/articles/2026081118351466065"
+        }
+      ]
+    },
+    {
+      "id": "smr",
+      "rank": 7,
+      "keyword": "smr",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'NuScale Power Stock Barely Budged After Earnings. Time to Buy?' (The Motley Fool) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "NuScale Power Stock Barely Budged After Earnings. Time to Buy?",
+          "source": "The Motley Fool",
+          "url": "https://www.fool.com/investing/2026/08/10/nuscale-power-stock-barely-budged-after-earnings/"
+        },
+        {
+          "title": "NuScale Power (NYSE: SMR) Faces Long Road Back To $15 As Revenue Collapses And Dilution Mounts",
+          "source": "Foreign Policy Journal",
+          "url": "https://www.foreignpolicyjournal.com/2026/08/11/nuscale-power-nyse-smr-faces-long-road-back-to-15-as-revenue-collapses-and-dilution-mounts/"
+        },
+        {
+          "title": "NuScale builds $1.9B capital cushion as it seeks customer",
+          "source": "The Business Journals",
+          "url": "https://www.bizjournals.com/portland/news/2026/08/11/nuscale-19-billion-nuclear-ai-energy.html"
+        }
+      ]
+    },
+    {
+      "id": "다우-존스-산업평균지수",
+      "rank": 8,
+      "keyword": "다우 존스 산업평균지수",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[뉴욕증시] 3대 지수 이틀 연속 약세…'CPI' 발표에 관심' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[뉴욕증시] 3대 지수 이틀 연속 약세…'CPI' 발표에 관심",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812075709848"
+        },
+        {
+          "title": "[뉴욕증시] CPI는 확인하고 가자…이틀째 약세 마감",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429652"
+        },
+        {
+          "title": "뉴욕증시, 호르무즈 불확실성 지속에 하락…다우 0.3%↓(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260812004751072"
+        }
+      ]
+    },
+    {
+      "id": "달러",
+      "rank": 9,
+      "keyword": "달러",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '원·달러 환율 1,300원대 눈앞...하락 반전 'U턴', 왜? [앵커리포트]' (YTN) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "원·달러 환율 1,300원대 눈앞...하락 반전 'U턴', 왜? [앵커리포트]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0102_202608100821017548"
+        },
+        {
+          "title": "원·달러 NDF 4.25원 하락..엔화 강보합+강세 관성",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2613459"
+        },
+        {
+          "title": "[외환-마감] 수출기업·역외 '팔자'로 하락…2.40원↓",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429630"
+        }
+      ]
+    },
+    {
+      "id": "호날두",
+      "rank": 10,
+      "keyword": "호날두",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '축구스타 호날두, 로드리게스와 10년 열애 끝 결혼…비공개 예식' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "축구스타 호날두, 로드리게스와 10년 열애 끝 결혼…비공개 예식",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260812016200007"
+        },
+        {
+          "title": "호날두 결혼식?…2천 명 몰린 마데이라 성당 발칵 [잇슈 SNS]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/6mzEMwrNTL?f=p"
+        },
+        {
+          "title": "“호날두 결혼식이라며?” 엉뚱한 결혼식장으로 몰려든 팬들...호날두는 ‘폭소’ - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/11/202608112114778636O"
         }
       ]
     }
