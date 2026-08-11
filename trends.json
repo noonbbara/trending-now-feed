@@ -1,45 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-11T15:10:25.425Z",
+  "updatedAt": "2026-08-11T16:25:57.651Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "임-라라",
-      "rank": 1,
-      "keyword": "임 라라",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '손민수♥임라라 쌍둥이 남매, 생애 첫 여권사진에 미모 '감탄'(슈돌)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "손민수♥임라라 쌍둥이 남매, 생애 첫 여권사진에 미모 '감탄'(슈돌)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/biHjlhlwvl?f=p"
-        },
-        {
-          "title": "‘슈돌’ 강단둥이 남매, 첫 여권사진 공개… 강이는 ‘근엄’ 단이는 ‘브이’",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3424064"
-        },
-        {
-          "title": "강단둥이남매, 생애 첫 여권 사진 촬영…물만두 강이 카메라 아이컨택",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16160200"
-        }
-      ]
-    },
-    {
       "id": "넥슨",
-      "rank": 2,
+      "rank": 1,
       "keyword": "넥슨",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "volumeLabel": "5000+",
+      "startedLabel": "4시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '탈론의 지배 - 4시즌: 부산의 영웅이 진면목을 드러냅니다 - 새소식 - 오버워치' (Blizzard Entertainment) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -61,30 +33,58 @@
       ]
     },
     {
-      "id": "더벤티-초계국수",
-      "rank": 3,
-      "keyword": "더벤티 초계국수",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[오늘의신상]\"카페서 파는 컵국수\"…더벤티 '별미 냉초계국수'' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
+      "id": "임-라라",
+      "rank": 2,
+      "keyword": "임 라라",
+      "volumeLabel": "2000+",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '손민수♥임라라 쌍둥이 남매, 생애 첫 여권사진에 미모 '감탄'(슈돌)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[오늘의신상]\"카페서 파는 컵국수\"…더벤티 '별미 냉초계국수'",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026081009015258691"
-        },
-        {
-          "title": "1500원 커피 사려다 '깜짝'…\"초계국수 팝니다\" 파격 변신 [권용훈의 트렌드워치]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608103361i"
-        },
-        {
-          "title": "“커피 내리다 면까지 삶는다”…‘초계국수’까지 선보인 저가커피",
+          "title": "손민수♥임라라 쌍둥이 남매, 생애 첫 여권사진에 미모 '감탄'(슈돌)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260810150602746"
+          "url": "https://v.daum.net/v/biHjlhlwvl?f=p"
+        },
+        {
+          "title": "‘슈돌’ 강단둥이 남매, 첫 여권사진 공개… 강이는 ‘근엄’ 단이는 ‘브이’",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3424064"
+        },
+        {
+          "title": "강단둥이남매, 생애 첫 여권 사진 촬영…물만두 강이 카메라 아이컨택",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16160200"
+        }
+      ]
+    },
+    {
+      "id": "함소원",
+      "rank": 3,
+      "keyword": "함소원",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '함소원, 교통사고로 의식 잃었다…“9살 딸 결혼할 때까지만 살려달라” [SD톡톡]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "함소원, 교통사고로 의식 잃었다…“9살 딸 결혼할 때까지만 살려달라” [SD톡톡]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811232650992"
+        },
+        {
+          "title": "'교통사고' 함소원 \"두 달 가까이 입원…9세 딸 책임지게 살려달라 기도\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6255953"
+        },
+        {
+          "title": "함소원, 교통사고 후 의식 잃었다..\"살려달라 신께 기도\" 딸 끌어안고 '눈물'",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112855038"
         }
       ]
     },
@@ -93,9 +93,9 @@
       "rank": 4,
       "keyword": "투자가",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '골드만삭스, AI 투자가 다른 기업 지출을 잠식할 수 있다고 경고' (Investing.com 한국어) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -105,53 +105,25 @@
           "url": "https://kr.investing.com/news/stock-market-news/article-2056007"
         },
         {
-          "title": "빅테크들의 데이터센터 부채 “과소평가됐다”…지역 주민 반대도 부담",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/finance/1272375.html"
-        },
-        {
           "title": "[김덕우의 생활 속 AI] AI는 메모리에 산다… 버블 논쟁이 놓치고 있는 것",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260811003707078"
-        }
-      ]
-    },
-    {
-      "id": "민주노동조합총연맹",
-      "rank": 5,
-      "keyword": "민주노동조합총연맹",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '이 대통령, 검찰 보완수사권 폐지에 \"국민 우려 어떻게 할지 대책 보고해달라\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "이 대통령, 검찰 보완수사권 폐지에 \"국민 우려 어떻게 할지 대책 보고해달라\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6843884_36911.html"
         },
         {
-          "title": "李 “경찰 수사, 국민 걱정 많아” 범죄 대응책 주문",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11608860"
-        },
-        {
-          "title": "李, 노동부에 \"노란봉투법 쟁의 범위 법령 만들라\" 재차 지시",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/labor/2026/08/11/Q5F5MSWANJHW3I3JGDEJW2SSCQ/"
+          "title": "빅테크들의 데이터센터 부채 “과소평가됐다”…지역 주민 반대도 부담",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/economy/finance/1272375.html"
         }
       ]
     },
     {
       "id": "진수-화",
-      "rank": 6,
+      "rank": 5,
       "keyword": "진수 화",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '진수화 치어리더 '신나게 야호~'[엑's 숏폼]' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -173,69 +145,41 @@
       ]
     },
     {
-      "id": "유성우",
-      "rank": 7,
-      "keyword": "유성우",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '여름밤 수놓는 유성우…시간당 100개 별빛쇼' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "여름밤 수놓는 유성우…시간당 100개 별빛쇼",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260811172355qAo"
-        },
-        {
-          "title": "밤하늘 별똥비 안방서 본다…서대문자연사박물관 12∼13일 생중계",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811162351257"
-        },
-        {
-          "title": "시간당 최대 100개 '별빛쇼'…페르세우스자리 유성우 이번 주 정점",
-          "source": "동아사이언스",
-          "url": "https://www.dongascience.com/ko/news/79356"
-        }
-      ]
-    },
-    {
-      "id": "테이",
-      "rank": 8,
-      "keyword": "테이",
+      "id": "광-통신",
+      "rank": 6,
+      "keyword": "광 통신",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“친형 같던 매니저 먼저 떠나보내”…테이, 돌연 활동 중단한 이유' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '잘 나가던 광통신주, 하루만에 '우수수' 하락 무슨 일' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“친형 같던 매니저 먼저 떠나보내”…테이, 돌연 활동 중단한 이유",
+          "title": "잘 나가던 광통신주, 하루만에 '우수수' 하락 무슨 일",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608114360i"
+        },
+        {
+          "title": "특징주, 파이버프로-광통신(광케이블/광섬유 등) 테마 상승세에 5.11% ↑",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1138293"
+        },
+        {
+          "title": "\"고점서 40% 폭락했는데 지금 사라고?\"…증권가가 다시 찍은 '이 종목'[주末머니]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260811091212463"
-        },
-        {
-          "title": "가수 테이, 가까운 사람 떠나보낸 아픔 고백 “3년간 외면…슬픈 노래도 못 불러”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20260811/134458321/2"
-        },
-        {
-          "title": "테이, 3년 활동 중단 사연 고백… 차인표 미국 이민사 눈물",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3662087"
+          "url": "https://v.daum.net/v/20260809104641725?f=p"
         }
       ]
     },
     {
       "id": "갈소원",
-      "rank": 9,
+      "rank": 7,
       "keyword": "갈소원",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
+      "volumeLabel": "500+",
+      "startedLabel": "4시간 전",
+      "change": "up",
+      "changeLabel": "+2",
       "summary": "급상승 시점에 '‘7번방의 선물 예승이' 갈소원, 폭풍 성장한 21살 근황…미모에 '깜짝'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -257,30 +201,86 @@
       ]
     },
     {
+      "id": "고소영",
+      "rank": 8,
+      "keyword": "고소영",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '고소영, 22살에 첫 억대 광고료 받아…\"몸값이라는 게 생겨\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "고소영, 22살에 첫 억대 광고료 받아…\"몸값이라는 게 생겨\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260811_0003745191"
+        },
+        {
+          "title": "고소영 \"남편 장동건과 과거 CF라이벌 관계, 일은 일이다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811213951869"
+        },
+        {
+          "title": "고소영 \"90년대 노예계약 많았다\"…소속사 없이 '모친=매니저'로 활동한 이유 (고소영)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260811n33105?mid=e1100"
+        }
+      ]
+    },
+    {
+      "id": "테이",
+      "rank": 9,
+      "keyword": "테이",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '“친형 같던 매니저 먼저 떠나보내”…테이, 돌연 활동 중단한 이유' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“친형 같던 매니저 먼저 떠나보내”…테이, 돌연 활동 중단한 이유",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811091212463"
+        },
+        {
+          "title": "가수 테이, 가까운 사람 떠나보낸 아픔 고백 “3년간 외면…슬픈 노래도 못 불러”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20260811/134458321/2"
+        },
+        {
+          "title": "테이, 3년 활동 중단 사연 고백… 차인표 미국 이민사 눈물",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3662087"
+        }
+      ]
+    },
+    {
       "id": "정호연",
       "rank": 10,
       "keyword": "정호연",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-4",
-      "summary": "급상승 시점에 '스토커 벌금 1000만원 구형된 날…황정민 '틈만나면' 출격' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '황정민, 사생활 피해 속 '틈만 나면' 출연…\"욱하지 말라더라\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "황정민, 사생활 피해 속 '틈만 나면' 출연…\"욱하지 말라더라\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260811_0003745214"
+        },
+        {
+          "title": "‘틈만나면’ 정호연 “밥값 내기부터 하자”…‘게임광’ 면모",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20260812/134461654/1"
+        },
         {
           "title": "스토커 벌금 1000만원 구형된 날…황정민 '틈만나면' 출격",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260811205640874"
-        },
-        {
-          "title": "유재석, 알까기 명사수 등극…'틈만나면,' 시즌5 첫방부터 웃음 폭발",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260811000084"
-        },
-        {
-          "title": "유재석·유연석 '틈만나면' 재회…논란 속 황정민도 예능 나들이",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260810_0003742802"
         }
       ]
     }
