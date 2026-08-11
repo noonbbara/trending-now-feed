@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-11T19:12:39.261Z",
+  "updatedAt": "2026-08-11T20:11:14.068Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,16 +9,16 @@
       "rank": 1,
       "keyword": "함소원",
       "volumeLabel": "2000+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 ''교통사고' 함소원 \"두 달 가까이 입원…9세 딸 책임지게 살려달라 기도\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "'교통사고' 함소원 \"두 달 가까이 입원…9세 딸 책임지게 살려달라 기도\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260811181037699?f=m"
+          "url": "https://v.daum.net/v/20260811181037699"
         },
         {
           "title": "함소원, 교통사고로 의식 잃었다…“9살 딸 결혼할 때까지만 살려달라” [SD톡톡]",
@@ -37,9 +37,9 @@
       "rank": 2,
       "keyword": "임 라라",
       "volumeLabel": "2000+",
-      "startedLabel": "6시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "startedLabel": "7시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '손민수♥임라라 쌍둥이, 생애 첫 여권 사진 도전…근엄한데 귀여워 (슈돌)' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -65,9 +65,9 @@
       "rank": 3,
       "keyword": "투자가",
       "volumeLabel": "1000+",
-      "startedLabel": "6시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "startedLabel": "7시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '패밀리 캐피탈의 3륜 전기차 베팅' (뉴스N연합) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -93,9 +93,9 @@
       "rank": 4,
       "keyword": "갈소원",
       "volumeLabel": "1000+",
-      "startedLabel": "6시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "startedLabel": "7시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '‘7번방의 선물 예승이' 갈소원, 폭풍 성장한 21살 근황…미모에 '깜짝'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -117,41 +117,13 @@
       ]
     },
     {
-      "id": "진수-화",
-      "rank": 5,
-      "keyword": "진수 화",
-      "volumeLabel": "500+",
-      "startedLabel": "6시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '진수화 치어리더 '신나게 야호~'[엑's 숏폼]' (네이트) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "진수화 치어리더 '신나게 야호~'[엑's 숏폼]",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260811n16238"
-        },
-        {
-          "title": "진수화 치어리더 '신나게 야호~'[엑's 숏폼]",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2182324"
-        },
-        {
-          "title": "진수화 치어리더 '신나게 야호~'[엑's 숏폼]",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260811n16238?issue_sq=11310"
-        }
-      ]
-    },
-    {
       "id": "광-통신",
-      "rank": 6,
+      "rank": 5,
       "keyword": "광 통신",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "volumeLabel": "500+",
+      "startedLabel": "5시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '잘 나가던 광통신주, 하루만에 '우수수' 하락 무슨 일' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -173,11 +145,39 @@
       ]
     },
     {
+      "id": "진수-화",
+      "rank": 6,
+      "keyword": "진수 화",
+      "volumeLabel": "500+",
+      "startedLabel": "7시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '진수화 치어리더 '신나게 야호~'[엑's 숏폼]' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "진수화 치어리더 '신나게 야호~'[엑's 숏폼]",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260811n16238"
+        },
+        {
+          "title": "진수화 치어리더 '신나게 야호~'[엑's 숏폼]",
+          "source": "엑스포츠뉴스",
+          "url": "https://www.xportsnews.com/article/2182324"
+        },
+        {
+          "title": "진수화 치어리더 '신나게 야호~'[엑's 숏폼]",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260811n16238?issue_sq=11310"
+        }
+      ]
+    },
+    {
       "id": "고소영",
       "rank": 7,
       "keyword": "고소영",
       "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
+      "startedLabel": "6시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 '고소영, 22살에 첫 억대 광고료 받아…\"몸값이라는 게 생겨\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
@@ -196,7 +196,7 @@
         {
           "title": "고소영 \"90년대 노예계약 많았다\"…소속사 없이 '모친=매니저'로 활동한 이유 (고소영)",
           "source": "네이트",
-          "url": "https://news.nate.com/view/20260811n33105"
+          "url": "https://news.nate.com/view/20260811n33105?mid=e1100"
         }
       ]
     },
@@ -205,9 +205,9 @@
       "rank": 8,
       "keyword": "테이",
       "volumeLabel": "200+",
-      "startedLabel": "6시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "startedLabel": "7시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '테이 “친형 같은 매니저였는데…” 전성기때 돌연 활동 접은 사연' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -222,9 +222,9 @@
           "url": "https://www.donga.com/news/Culture/article/all/20260811/134458321/2"
         },
         {
-          "title": "테이, 3년 공백 이유…\"친형 같던 매니저 세상 떠나\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260811_0003744297"
+          "title": "테이, 돌연 활동 중단한 이유 “친형 같은 매니저 세상 떠나..못 견디게 힘들어”(플레이리스트109) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/11/HAYDMMLEGNSGMOJRGJQTAYLEGY/"
         }
       ]
     },
@@ -233,26 +233,26 @@
       "rank": 9,
       "keyword": "cpi",
       "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'Inflation Reports Could Test Warsh’s Tough Talk' (WSJ) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 'Dollar gains, yen weakens as markets eye US CPI' (Reuters) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Inflation Reports Could Test Warsh’s Tough Talk",
-          "source": "WSJ",
-          "url": "https://www.wsj.com/economy/central-banking/inflation-reports-could-test-warshs-tough-talk-3866e365"
+          "title": "Dollar gains, yen weakens as markets eye US CPI",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/dollar-near-two-month-trough-us-inflation-data-awaited-2026-08-10/"
         },
         {
-          "title": "Weak July Employment Data... Eyes Turn to Inflation Indexes",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008697324"
-        },
-        {
-          "title": "BTIG’s Krinsky says risk/reward for equities looks ‘quite poor’",
+          "title": "Dollar and euro flatline as FX traders await inflation test and Hormuz fallout",
           "source": "Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/btigs-krinsky-says-riskreward-for-equities-looks-quite-poor-4852443"
+          "url": "https://www.investing.com/news/forex-news/asia-fx-dollar-muted-with-us-cpi-on-tap-rba-holds-rates-4850775"
+        },
+        {
+          "title": "Chart USD Index DXY Update: Cautious trade - any gains to re",
+          "source": "Continuum Economics",
+          "url": "https://continuumeconomics.com/a/5197dd08/chart-usd-index-dxy-update-cautious-trade-any-gains-to-remain-limited"
         }
       ]
     },
@@ -261,9 +261,9 @@
       "rank": 10,
       "keyword": "슈퍼맨이 돌아왔다",
       "volumeLabel": "100+",
-      "startedLabel": "6시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "7시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 ''심형탁 子' 하루, 굿즈 앞에서 말문 활짝…아빠 닮은 덕질 DNA 폭발 \"그거 줘\" [슈돌]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
