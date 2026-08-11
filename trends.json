@@ -1,157 +1,73 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-11T12:24:19.955Z",
+  "updatedAt": "2026-08-11T13:58:16.235Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "주사",
+      "id": "부대",
       "rank": 1,
-      "keyword": "주사",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "keyword": "부대",
+      "volumeLabel": "5000+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '비만 주사 맞던 여대생, 구토 하다 돌연 사망[아하미국]' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '해병대 1사단 병사 담 넘어 도주…4시간 만에 붙잡혀' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "비만 주사 맞던 여대생, 구토 하다 돌연 사망[아하미국]",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11608789"
-        },
-        {
-          "title": "“구토 후 쓰러졌다”…다이어트 주사 맞은 美 법대생, 유학 중 사망",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260811000235"
-        },
-        {
-          "title": "\"토하다 숨졌다\"…다이어트 주사 맞은 19세 미국 여대생, 유학 중 급사",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260810_0003743159"
-        }
-      ]
-    },
-    {
-      "id": "관광객",
-      "rank": 2,
-      "keyword": "관광객",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '횡성군·원주시, 제주공항서 관광 홍보…지역 관광 활로 모색' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "횡성군·원주시, 제주공항서 관광 홍보…지역 관광 활로 모색",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811093550682"
-        },
-        {
-          "title": "\"제주 관광객 잡아라\"…횡성군, 원주공항 연계 관광마케팅",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260811_0003743938"
-        },
-        {
-          "title": "횡성군, 제주국제공항서 8월 관광지·지역축제 공동 프로모션 '추진'",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3661144"
-        }
-      ]
-    },
-    {
-      "id": "스토킹",
-      "rank": 3,
-      "keyword": "스토킹",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '황정민 스토킹 혐의 40대 여성, 벌금 1000만 원 구형' (문화일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "황정민 스토킹 혐의 40대 여성, 벌금 1000만 원 구형",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11608836"
-        },
-        {
-          "title": "검찰, '황정민 스토킹' 40대 여성에게 벌금 1천만 원 구형",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6844015_36918.html"
-        },
-        {
-          "title": "한정수 \"얼굴 알려진 황정민만 피해…폭로자도 신분 공개하라\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/09/2026080912194387906"
-        }
-      ]
-    },
-    {
-      "id": "당진시",
-      "rank": 4,
-      "keyword": "당진시",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '530억 드는 '인당 30만원 지원' 당진시장 공약, 시의회서 제동' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "530억 드는 '인당 30만원 지원' 당진시장 공약, 시의회서 제동",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811134559602"
-        },
-        {
-          "title": "김기재 당진시장, “아끼는 것만이 책임 있는 재정 운영 아니다” 경제회복지원금 530억 원 요청",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=711910"
-        },
-        {
-          "title": "\"민생 골든타임\" 호소에도... 당진시 경제회복지원금 부결",
-          "source": "OhmyNews",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003258336"
-        }
-      ]
-    },
-    {
-      "id": "압구정-현대아파트",
-      "rank": 5,
-      "keyword": "압구정 현대아파트",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '집 안 팔고 \"바꾸실 분?\"…압구정 초고가 '꼼수' 등장' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "집 안 팔고 \"바꾸실 분?\"…압구정 초고가 '꼼수' 등장",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811200808834"
-        },
-        {
-          "title": "국힘 \"세제개편안, 징벌적 세금폭력…사과하고 원점 재검토하라\"(종합)",
+          "title": "해병대 1사단 병사 담 넘어 도주…4시간 만에 붙잡혀",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260811066151001"
+          "url": "https://www.yna.co.kr/view/AKR20260811152500053"
         },
         {
-          "title": "대체불가 대한민국을 위한 경제대도약 지원 - 전체 | 카드/한컷 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148969827&pWise=sub&pWiseSub=R3"
+          "title": "부대 울타리 넘어 KTX 탄 해병대 이병···4시간 만에 붙잡혀",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608111832001"
+        },
+        {
+          "title": "탈영·총기사고·부상자 훈련참가 강요…해병 1사단 무슨 일이",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811195154387"
+        }
+      ]
+    },
+    {
+      "id": "넥슨",
+      "rank": 2,
+      "keyword": "넥슨",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '탈론의 지배 - 4시즌: 부산의 영웅이 진면목을 드러냅니다 - 새소식 - 오버워치' (Blizzard Entertainment) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "탈론의 지배 - 4시즌: 부산의 영웅이 진면목을 드러냅니다 - 새소식 - 오버워치",
+          "source": "Blizzard Entertainment",
+          "url": "https://overwatch.blizzard.com/ko-kr/news/24295381/"
+        },
+        {
+          "title": "넥슨이 만들어갈 ‘오버워치’…제2의 전성기 오나",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20260811021071249"
+        },
+        {
+          "title": "넥슨, '오버워치' 사전 다운로드 개시 및 신규 영웅 '디몬(D.Mon)' 공개",
+          "source": "디스이즈게임",
+          "url": "https://www.thisisgame.com/articles/428711"
         }
       ]
     },
     {
       "id": "임라라",
-      "rank": 6,
+      "rank": 3,
       "keyword": "임라라",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+3",
       "summary": "급상승 시점에 '손민수♥임라라 쌍둥이 남매, 생애 첫 여권사진에 미모 '감탄'(슈돌)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -173,41 +89,137 @@
       ]
     },
     {
-      "id": "무지개",
-      "rank": 7,
-      "keyword": "무지개",
+      "id": "민주노동조합총연맹",
+      "rank": 4,
+      "keyword": "민주노동조합총연맹",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이 대통령, 검찰 보완수사권 폐지에 \"국민 우려 어떻게 할지 대책 보고해달라\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이 대통령, 검찰 보완수사권 폐지에 \"국민 우려 어떻게 할지 대책 보고해달라\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6843884_36911.html"
+        },
+        {
+          "title": "李, 노동부에 \"노란봉투법 쟁의 범위 법령 만들라\" 재차 지시",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/labor/2026/08/11/Q5F5MSWANJHW3I3JGDEJW2SSCQ/"
+        },
+        {
+          "title": "李대통령 \"수사 문제 국민 걱정 많아…경찰, 책임 많이 커져\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/07HiTvTsXe?f=p"
+        }
+      ]
+    },
+    {
+      "id": "김설현",
+      "rank": 5,
+      "keyword": "김설현",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '파란 하늘에 뜬 ’무지개구름’…“좋은 일 있으려나“' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "정호연",
+      "rank": 6,
+      "keyword": "정호연",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''틈만나면' 유재석 \"SBS 상 받은 유연석, 소처럼 일하라고\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "파란 하늘에 뜬 ’무지개구름’…“좋은 일 있으려나“",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260811142418smq"
-        },
-        {
-          "title": "충북 진천 하늘서 '무지갯빛 구름' 채운 관측",
+          "title": "'틈만나면' 유재석 \"SBS 상 받은 유연석, 소처럼 일하라고\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260811161648942"
+          "url": "https://v.daum.net/v/20260811212600588"
         },
         {
-          "title": "[포토] 전국 하늘에 대형 원형무지개 관측…시민들 “행복한 날 되길”",
-          "source": "K뉴스통신",
-          "url": "https://www.knewstv.kr/news/articleView.html?idxno=13159"
+          "title": "정호연, ‘호프’ 위해 수동면허까지 땄다… “시즌2 투자 좀 해달라” - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/11/GRSGGNJYMEZTSMBSHFQWCZDBGM/"
+        },
+        {
+          "title": "‘사생활 논란’ 황정민, ‘틈만나면’ 무편집 등장 “나보고 욱하지 말라고”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12124536"
+        }
+      ]
+    },
+    {
+      "id": "갈소원",
+      "rank": 7,
+      "keyword": "갈소원",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘7번방의 선물 예승이' 갈소원, 폭풍 성장한 21살 근황…미모에 '깜짝'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘7번방의 선물 예승이' 갈소원, 폭풍 성장한 21살 근황…미모에 '깜짝'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811071040299"
+        },
+        {
+          "title": "'7번방' 예승이 갈소원, 훌쩍 자란 근황…\"정말 잘 컸다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260810_0003743589"
+        },
+        {
+          "title": "'21세 배우' 갈소원 \"7번방 선물 예승이, 기억해주시면 감사해\"",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008700195"
+        }
+      ]
+    },
+    {
+      "id": "유성우",
+      "rank": 8,
+      "keyword": "유성우",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '여름밤 수놓는 유성우…시간당 100개 별빛쇼' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "여름밤 수놓는 유성우…시간당 100개 별빛쇼",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260811172355qAo"
+        },
+        {
+          "title": "밤하늘 별똥비 안방서 본다…서대문자연사박물관 12∼13일 생중계",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811162351257"
+        },
+        {
+          "title": "시간당 최대 100개 '별빛쇼'…페르세우스자리 유성우 이번 주 정점",
+          "source": "동아사이언스",
+          "url": "https://www.dongascience.com/ko/news/79356"
         }
       ]
     },
     {
       "id": "최지만",
-      "rank": 8,
+      "rank": 9,
       "keyword": "최지만",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 ''불꽃야구2' 이대호 vs 최지만…무려 21만 5천명 몰렸다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -229,30 +241,30 @@
       ]
     },
     {
-      "id": "롯데마트",
-      "rank": 9,
-      "keyword": "롯데마트",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '롯데마트, 광복절 연휴 '통큰데이'…완판 '통짜장어' 2차 판매' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "id": "복지부",
+      "rank": 10,
+      "keyword": "복지부",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '지역·필수의료 거점 국립대병원…20일부터 복지부가 맡는다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "롯데마트, 광복절 연휴 '통큰데이'…완판 '통짜장어' 2차 판매",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260811024700030"
-        },
-        {
-          "title": "[똑똑한소비] 롯데마트, G마켓, 이브자리, 쿠팡, 크림, 우아한형제들",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20260811021551542"
-        },
-        {
-          "title": "[비즈&트렌드] 삼계버거에 장어 도시락‥'가성비' 보양식 인기",
+          "title": "지역·필수의료 거점 국립대병원…20일부터 복지부가 맡는다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260810070110197"
+          "url": "https://v.daum.net/v/20260811131803777"
+        },
+        {
+          "title": "국립대학병원 설치법 시행령·국립대학치과병원 설치법 시행령 일부개정령안 국무회의 통과",
+          "source": "www.dt.co.kr",
+          "url": "https://www.dt.co.kr/article/12077682"
+        },
+        {
+          "title": "국립대병원 소관 '교육부→복지부' 이관 마무리…20일 시행",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260811054900530"
         }
       ]
     }
