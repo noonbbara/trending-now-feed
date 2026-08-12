@@ -1,17 +1,73 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-12T15:09:19.131Z",
+  "updatedAt": "2026-08-12T16:28:18.376Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "돌싱글즈",
+      "id": "더불어민주당",
       "rank": 1,
-      "keyword": "돌싱글즈",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "keyword": "더불어민주당",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 '국정과제 1호는 뭐냐 질문에 그럼 50호는? 마지막 토론도 설전' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "국정과제 1호는 뭐냐 질문에 그럼 50호는? 마지막 토론도 설전",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6844318_37004.html"
+        },
+        {
+          "title": "김민석 호남서 승기 굳히기 vs 정청래 ‘도청농석’ 뒤집기",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813003248868"
+        },
+        {
+          "title": "배신 공방에 '전화방' 의혹까지...마지막 토론회 난타전",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202608122256563769"
+        }
+      ]
+    },
+    {
+      "id": "온유",
+      "rank": 2,
+      "keyword": "온유",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '경찰, ‘주사 이모’ 의혹 샤이니 온유·전현무 소환 조사' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "경찰, ‘주사 이모’ 의혹 샤이니 온유·전현무 소환 조사",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/08/12/WIXOR7OABNBNHFZMB3PBDTZO7Q/"
+        },
+        {
+          "title": "'주사 이모' 의혹 수사 경찰, 키·온유·전현무 등 피의자 조사",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6844266_36918.html"
+        },
+        {
+          "title": "[공식] 온유, '주사 이모'에 피부 진료 받았다…\"의사인 줄 알았다\"",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260812n35575"
+        }
+      ]
+    },
+    {
+      "id": "돌싱글즈",
+      "rank": 3,
+      "keyword": "돌싱글즈",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 ''돌싱글즈6' 문방글♥염시영, 현커 2년만에 \"각자의 시간 갖는중\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,153 +89,153 @@
       ]
     },
     {
+      "id": "주진우",
+      "rank": 4,
+      "keyword": "주진우",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '주진우의원 \"비상계엄 해제 표결 당시 150석 찼는데 이재명 기다려\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "주진우의원 \"비상계엄 해제 표결 당시 150석 찼는데 이재명 기다려\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260812162100004"
+        },
+        {
+          "title": "추경호 ‘국회 계엄해제 방해’ 재판서 주진우 “계엄 직후, 위헌·위법 판단 불가능했다”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812174808815?f=p"
+        },
+        {
+          "title": "주진우 \"우원식, 계엄해제 정족수 찼는데 李 올 때까지 표결 안해\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/08/12/6WRGMFY7Q5F5NNGVGF6Y2LIT2E/"
+        }
+      ]
+    },
+    {
       "id": "kbo-리그",
-      "rank": 2,
+      "rank": 5,
       "keyword": "kbo 리그",
       "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-3",
+      "summary": "급상승 시점에 ''최고 인기 두 팀만 관중 감소 왜?' 롯데-한화에 '당분간 없을' 1300만 명 돌파 달렸다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'최고 인기 두 팀만 관중 감소 왜?' 롯데-한화에 '당분간 없을' 1300만 명 돌파 달렸다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812151409598"
+        },
+        {
+          "title": "기다렸던 프로야구",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260811184300052"
+        },
+        {
+          "title": "다시 시작한 KBO리그, 첫날부터 900만 관중 돌파..역대 최소 경기",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6844062_36946.html"
+        }
+      ]
+    },
+    {
+      "id": "배재고등학교",
+      "rank": 6,
+      "keyword": "배재고등학교",
+      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '실력도 품격도 메이저리거… LG 웃게 만드는 카라스코' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“스벅 가야지” 외쳤던 그곳서, 배재고 ‘90도 인사 복귀전’···고요한 더그아웃에 “기죽지 마” 응원 소리만' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "실력도 품격도 메이저리거… LG 웃게 만드는 카라스코",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812141107221?f=p"
-        },
-        {
-          "title": "[포토]'7회말 임찬규 구원한' 김진성 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/12/2026081221520473898"
-        },
-        {
-          "title": "\"형, 모자 벗어야지\", 112승 투수 카라스코에 KBO 4년 차 오스틴이 알려준 것 [박준형의 ZZOOM]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/08/12/HE3WIZJXHE3TAOLBGAYDSOBQMI/"
-        }
-      ]
-    },
-    {
-      "id": "한화",
-      "rank": 3,
-      "keyword": "한화",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''연장 10회 결승타' 한화 허인서 \"콘택트에 신경 썼다\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'연장 10회 결승타' 한화 허인서 \"콘택트에 신경 썼다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260812_0003746928"
-        },
-        {
-          "title": "[프로야구 잠실전적] 한화 4-3 두산",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260812171400007"
-        },
-        {
-          "title": "김민석 '미친 슬라이딩' 선보였지만…'연장 혈전' 결국 한화가 웃었다! 두산 제압 [잠실 리뷰]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/08/12/HFRTAZRVGEYDIMLCGEZDEOBZMQ/"
-        }
-      ]
-    },
-    {
-      "id": "괴롭힘",
-      "rank": 4,
-      "keyword": "괴롭힘",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독]근거도 없이 “내부고발했지?”···직원 왕따시킨 KBO 임직원들' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[단독]근거도 없이 “내부고발했지?”···직원 왕따시킨 KBO 임직원들",
+          "title": "“스벅 가야지” 외쳤던 그곳서, 배재고 ‘90도 인사 복귀전’···고요한 더그아웃에 “기죽지 마” 응원 소리만",
           "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608121538001"
+          "url": "https://www.khan.co.kr/article/202608121756001"
         },
         {
-          "title": "KBOP 문정균 대표이사, 일신상의 이유로 사임",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260812097800007"
+          "title": "'징계 복귀' 배재고 야구부, 봉황대기 1회전 탈락으로 시즌 마감",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6844344_36946.html"
         },
         {
-          "title": "KBO 임직원 2명 '직장 내 괴롭힘'…스포츠윤리센터 중징계 요구",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812165903639"
+          "title": "고교야구 배재고, 징계 끝내고 45일 만에 그라운드 복귀",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/08/12/O4EZ523ZHREUPASXB47FS75SCE/"
         }
       ]
     },
     {
-      "id": "총장",
-      "rank": 5,
-      "keyword": "총장",
+      "id": "정국",
+      "rank": 7,
+      "keyword": "정국",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '장기수 천안시장 “12개 대학과 손잡고 ‘AI 행정수도’ 만든다”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'BTS 뷔 \"오른쪽 30%만 들려\" 청력 이상 고백' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "장기수 천안시장 “12개 대학과 손잡고 ‘AI 행정수도’ 만든다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812195133235"
+          "title": "BTS 뷔 \"오른쪽 30%만 들려\" 청력 이상 고백",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/08/12/ZJJUPZEBRFGUBNV5Q46H723JJQ/"
         },
         {
-          "title": "천안시, 지역 12개 대학과 청년정책·대학도시 발전 방안 논의",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3662424"
+          "title": "BTS 뷔, 청력 이상 호소…\"오른쪽 30%밖에 안 들려 병원 치료\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260812137200005"
         },
         {
-          "title": "천안시, 12개 대학 총장 간담회…'유니브시티 천안' 상생 모색",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/national/2353469.htm"
+          "title": "BTS 뷔, 청력 저하 고백 \"한쪽 귀 30％ 밖에 안들려\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260812_0003746365"
         }
       ]
     },
     {
-      "id": "kbo-순위",
-      "rank": 6,
-      "keyword": "kbo 순위",
-      "volumeLabel": "200+",
+      "id": "이동국",
+      "rank": 8,
+      "keyword": "이동국",
+      "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[영상] 새로운 거포 포수 안현민?…너무 잘 어울리는 안현민' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''브라질 行' 앞둔 이동국 아들, 클수록 아빠 얼굴…엄마 눈에는 그저 아기 '대박이'' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[영상] 새로운 거포 포수 안현민?…너무 잘 어울리는 안현민",
+          "title": "'브라질 行' 앞둔 이동국 아들, 클수록 아빠 얼굴…엄마 눈에는 그저 아기 '대박이'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/11/GQYDCMLDMNQTAZJZGRSTCNLCHE/"
+        },
+        {
+          "title": "'이동국 子' 이시안, 언제 이렇게 컸어? \"클수록 아빠 얼굴이 나오는 것 같아\"",
+          "source": "https://spt.co.kr/",
+          "url": "https://supple.kr/news/cmsmy2zxx00b0qvt8zmc1a0ug"
+        },
+        {
+          "title": "'이동국 아들' 이시안, 축구 유망주→브라질行 확정하더니…머리 반강제 잘린 사연 [MHN:피드]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260812121419868"
-        },
-        {
-          "title": "'9회 6득점' kt, 60승 선착…재개된 프로야구서 7연승 질주(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260811169700007"
-        },
-        {
-          "title": "‘막내’ KT는 KS 직행 62.5% vs ‘맏이’ 롯데는 PS 진출 1.6% [어제의 프로야구]",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20260812/134461788/1"
+          "url": "https://v.daum.net/v/20260812164914257"
         }
       ]
     },
     {
       "id": "야구순위",
-      "rank": 7,
+      "rank": 9,
       "keyword": "야구순위",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '[프로야구] 중간 순위(12일)' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -202,12 +258,12 @@
     },
     {
       "id": "요나단-페라자",
-      "rank": 8,
+      "rank": 10,
       "keyword": "요나단 페라자",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '한화 김경문 감독 \"페라자, 부친 방한 효과 내심 기대…정우주는 1~2G 보고 콜업 결정\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -222,65 +278,9 @@
           "url": "https://sports.news.nate.com/view/20260811n30758"
         },
         {
-          "title": "KIA-두산이 버린 선수들, 마이너리그 평정할 기세라니… 페라자처럼 두 번째 기회 있을까?",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=833015"
-        }
-      ]
-    },
-    {
-      "id": "두산",
-      "rank": 9,
-      "keyword": "두산",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[사진]'7이닝 2실점' 포효하는 화이트 - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[사진]'7이닝 2실점' 포효하는 화이트 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/08/12/HEZDIYZTGZQWCNJWGI2WGY3GGM/"
-        },
-        {
-          "title": "[포토] 박찬호 '허인서를 얕보다가 그만' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/12/2026081221473954217"
-        },
-        {
-          "title": "[AI그래픽] 한화 화이트 7이닝 2실점 역투, 8월 12일 잠실 두산전 투구 분석",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260812001308"
-        }
-      ]
-    },
-    {
-      "id": "박주아",
-      "rank": 10,
-      "keyword": "박주아",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“저 머리 어때요?” 박주아, 의지 불태우며 헤어스타일 파격 변신★ (ft. 로이킴)' (programs.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“저 머리 어때요?” 박주아, 의지 불태우며 헤어스타일 파격 변신★ (ft. 로이킴)",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/kickagoal/clip/67995/OC481061498"
-        },
-        {
-          "title": "골 때리는 그녀들 : 마시마 유, 골대 구석 정확히 겨냥한 ‘로빙 슈팅’으로 선제골 강타",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/kickagoal/clip/67995/OC481061640"
-        },
-        {
-          "title": "소유미 집, ‘골때녀’ 아지트 됐다…원더우먼, 비장한 합숙 돌입",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/514579"
+          "title": "[SW포커스] 또 맞닥뜨린 후반기 시험대…페라자 반등 없이 한화의 가을도 없다",
+          "source": "스포츠월드",
+          "url": "https://www.sportsworldi.com/newsView/20260809508712"
         }
       ]
     }
