@@ -1,17 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-12T19:12:18.656Z",
+  "updatedAt": "2026-08-12T20:10:30.497Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
       "id": "맨유-대-리즈-유나이티드",
       "rank": 1,
       "keyword": "맨유 대 리즈 유나이티드",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "5000+",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '맨유 초비상 피했다! 월드컵서 '또 부상' 리산드로, 복귀 청신호 \"잔디 위 개인 훈련 진행\"' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,20 +33,76 @@
       ]
     },
     {
-      "id": "운전",
+      "id": "psg-대-애스턴-빌라",
       "rank": 2,
-      "keyword": "운전",
+      "keyword": "psg 대 애스턴 빌라",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 'PSG, 슈퍼컵 앞두고 \"라커룸 좁다\" 불만…결국 추가 배정' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "PSG, 슈퍼컵 앞두고 \"라커룸 좁다\" 불만…결국 추가 배정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/2LrzQKEo3b"
+        },
+        {
+          "title": "'조커 이강인을 팔아버린' 파리생제르맹, UCL 3연패로 레알 마드리드와 동급이 될까..'2연패 우승 주역 10명 그대로 보유, LEE와 하무스 둘만 떠났다'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/08/12/GUZDKYTGMYYDQNBXGVQTCYJSMY/"
+        },
+        {
+          "title": "내일 PSG-애스턴 빌라 UEFA 슈퍼컵…다시 유럽 축구 시작",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/overseas-soccer/6257003"
+        }
+      ]
+    },
+    {
+      "id": "데포르티보-대-레알-마드리드",
+      "rank": 3,
+      "keyword": "데포르티보 대 레알 마드리드",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '데포르티보 라 코루냐 대 레알 마드리드 예측: 예상 라인업' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "데포르티보 라 코루냐 대 레알 마드리드 예측: 예상 라인업",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-deportivo-la-coruna-vs-real-madrid-doi-hinh-du-kien"
+        },
+        {
+          "title": "데포르티보 대 레알 마드리드 축구 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-deportivo-vs-real-madrid-1749922.ldo"
+        },
+        {
+          "title": "데포르티보 vs 레알 마드리드 예측: 무리뉴 감독, 리아소르에서 선수단 문제 해결에 성공",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-deportivo-vs-real-madrid-hlv-mourinho-giai-bai-toan-luc-luong-tai-riazor"
+        }
+      ]
+    },
+    {
+      "id": "운전",
+      "rank": 4,
+      "keyword": "운전",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '음주운전만 3번째, 결국 두 아이 엄마 숨졌다…가해자 \"1억 원에 합의하자\" 공분 ('한블리')' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "음주운전만 3번째, 결국 두 아이 엄마 숨졌다…가해자 \"1억 원에 합의하자\" 공분 ('한블리')",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260812130250871"
+          "url": "https://v.daum.net/v/Qf4A7h9Uto"
         },
         {
           "title": "이수근 눈물, 만취 운전자에 아내 잃은 사연 듣고…현장 숙연 (한블리)",
@@ -61,69 +117,13 @@
       ]
     },
     {
-      "id": "이찬원",
-      "rank": 3,
-      "keyword": "이찬원",
-      "volumeLabel": "2000+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '가왕 조용필? 이찬원이 모신 특급 손님 정체 (편스토랑)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "가왕 조용필? 이찬원이 모신 특급 손님 정체 (편스토랑)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812154127962"
-        },
-        {
-          "title": "이찬원 큰 거 준비했네, K팝 간판급 걸그룹도 출격 (편스토랑)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260812/134464195/1"
-        },
-        {
-          "title": "이찬원 \"대한민국 최고 걸그룹 멤버 초대\" 정체는? (편스토랑)",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/514543"
-        }
-      ]
-    },
-    {
-      "id": "주진우",
-      "rank": 4,
-      "keyword": "주진우",
-      "volumeLabel": "2000+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '주진우의원 \"비상계엄 해제 표결 당시 150석 찼는데 이재명 기다려\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "주진우의원 \"비상계엄 해제 표결 당시 150석 찼는데 이재명 기다려\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260812162100004"
-        },
-        {
-          "title": "추경호 ‘국회 계엄해제 방해’ 재판서 주진우 “계엄 직후, 위헌·위법 판단 불가능했다”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608121746001"
-        },
-        {
-          "title": "주진우 “12·3 계엄해제 표결, 정족수 한참 전 찼는데…李 기다린 듯”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812182053141"
-        }
-      ]
-    },
-    {
       "id": "아스널-대-코모",
       "rank": 5,
       "keyword": "아스널 대 코모",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '‘또 미드필더?’ 아스널이 기마랑이스에 1500억원 쓴 이유… 알고 보면 라이스가 더 편해진다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -145,142 +145,142 @@
       ]
     },
     {
-      "id": "더불어민주당",
+      "id": "이찬원",
       "rank": 6,
-      "keyword": "더불어민주당",
-      "volumeLabel": "500+",
+      "keyword": "이찬원",
+      "volumeLabel": "2000+",
       "startedLabel": "5시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '민주당, 오늘 의원총회 열고 세제 개편안·부동산 공급 대책 의견 수렴' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "down",
+      "changeLabel": "-3",
+      "summary": "급상승 시점에 '가왕 조용필? 이찬원이 모신 특급 손님 정체 (편스토랑)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "민주당, 오늘 의원총회 열고 세제 개편안·부동산 공급 대책 의견 수렴",
+          "title": "가왕 조용필? 이찬원이 모신 특급 손님 정체 (편스토랑)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260813010253065"
+          "url": "https://v.daum.net/v/20260812154127962"
         },
         {
-          "title": "민주 \"국민의힘, 내일 본회의 개최·공급 법안 처리 협조해야\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202608130231282549"
+          "title": "이찬원 큰 거 준비했네, K팝 간판급 걸그룹도 출격 (편스토랑)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260812/134464195/1"
         },
         {
-          "title": "與 \"주택공급·금융대책 내일 발표…모듈러 도입 과감한 공급\"(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260812107251001"
+          "title": "'편스토랑' 이찬원, 황윤성 위한 서프라이즈 이벤트…특급 손님 초대",
+          "source": "비즈엔터",
+          "url": "https://enter.etoday.co.kr/news/view/300971"
         }
       ]
     },
     {
-      "id": "정국",
+      "id": "맨유",
       "rank": 7,
-      "keyword": "정국",
-      "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 'BTS 뷔, 청력 이상 호소…\"오른쪽 30%밖에 안 들려 병원 치료\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "맨유",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''삼고초려' 끝에 맨유 입단…'만능 MF' 틸레만스 \"이미 두 차례 무산돼서 이번에도 기대 안 했어\"' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "BTS 뷔, 청력 이상 호소…\"오른쪽 30%밖에 안 들려 병원 치료\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260812137200005"
+          "title": "'삼고초려' 끝에 맨유 입단…'만능 MF' 틸레만스 \"이미 두 차례 무산돼서 이번에도 기대 안 했어\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260812n36030?isq=8249&mid=s0401"
         },
         {
-          "title": "[문화]BTS 뷔, 청력 이상 호소...\"오른쪽 30%밖에 안 들려 병원 치료\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0106_202608130324063571_005.html"
+          "title": "\"왜 이제야 데려온 거야!\" 맨체스터 유나이티드 '666억 신입생' 제대로 터졌다→틸레망스 데뷔전부터 존재감 폭발 \"더 일찍 영입했어야\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/GpQF0bKpex?f=p"
         },
         {
-          "title": "BTS 뷔, 청력 저하 고백 \"한쪽 귀 30％ 밖에 안들려\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260812_0003746365"
+          "title": "티엘레망스, 아스톤 빌라 떠나 맨유행…“많은 걸 기대하지 않았다”",
+          "source": "Martin Cid Magazine",
+          "url": "https://ko.martincid.com/sports-ko/youri-tielemans-aston-villa-manchester-united/"
         }
       ]
     },
     {
-      "id": "배재고등학교",
+      "id": "man-utd-đấu-với-leeds",
       "rank": 8,
-      "keyword": "배재고등학교",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '“스벅 가야지” 외쳤던 그곳서, 배재고 ‘90도 인사 복귀전’···고요한 더그아웃에 “기죽지 마” 응원 소리만' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "man utd đấu với leeds",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Trực tiếp bóng đá MU - Leeds: Mbeumo lĩnh xướng hàng công, tân binh And…' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“스벅 가야지” 외쳤던 그곳서, 배재고 ‘90도 인사 복귀전’···고요한 더그아웃에 “기죽지 마” 응원 소리만",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608121756001"
+          "title": "Trực tiếp bóng đá MU - Leeds: Mbeumo lĩnh xướng hàng công, tân binh Andrey Santos đá chính",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-mu-leeds-derby-lam-nong-truoc-mua-c48a1786060.html"
         },
         {
-          "title": "'징계 복귀' 배재고 야구부, 봉황대기 1회전 탈락으로 시즌 마감",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6844344_36946.html"
+          "title": "Mason Mount lại dính chấn thương bàn chân, đối mặt nguy cơ lỡ trận đấu giữa MU và Leeds",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/mason-mount-lai-dinh-chan-thuong-ban-chan-doi-mat-nguy-co-lo-tran-dau-giua-mu-va-leeds"
         },
         {
-          "title": "\"20년도 살지 않았지만 말·행동 신중해야\"…배재고 주장의 반성",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/UtOL3EpXtv?f=p"
+          "title": "Benjamin Sesko tiếp tục vắng mặt trong trận Manchester United gặp Leeds tại Croke Park",
+          "source": "Báo Hà Tĩnh",
+          "url": "https://baohatinh.vn/tv/benjamin-sesko-tiep-tuc-vang-mat-trong-tran-manchester-united-gap-leeds-tai-croke-park-49901.html"
+        }
+      ]
+    },
+    {
+      "id": "watch",
+      "rank": 9,
+      "keyword": "watch",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Solar Eclipse Live Updates: Europe’s First Total Eclipse in Decades Sta…' (The New York Times) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Solar Eclipse Live Updates: Europe’s First Total Eclipse in Decades Starts on Path to Darkness",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates"
+        },
+        {
+          "title": "Photos: Europe basks in total solar eclipse",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/world/spain/solar-eclipse-2026-photos-images-europe-rcna592072"
+        },
+        {
+          "title": "WATCH: Total solar eclipse darkens skies over Spain, Iceland",
+          "source": "PBS",
+          "url": "https://www.pbs.org/newshour/science/watch-live-total-solar-eclipse-darkens-skies-over-spain-iceland"
         }
       ]
     },
     {
       "id": "국제선",
-      "rank": 9,
+      "rank": 10,
       "keyword": "국제선",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "4시간 전",
       "change": "down",
       "changeLabel": "-1",
-      "summary": "급상승 시점에 '김해공항 외국인 400만 눈앞…\"에어부산 지키고 외항사 띄워야\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '아이바다패스 타 시도 지원 중단… 여름 성수기 섬 관광업체 날벼락' (경인일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김해공항 외국인 400만 눈앞…\"에어부산 지키고 외항사 띄워야\"",
+          "title": "아이바다패스 타 시도 지원 중단… 여름 성수기 섬 관광업체 날벼락",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1768931"
+        },
+        {
+          "title": "인천 연안여객선 유류할증료, 9월도 최고단계…5개월 연속",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260812095408348"
+          "url": "https://v.daum.net/v/20260810071852494?f=p"
         },
         {
-          "title": "7월 김해공항 국제선 100만 명 돌파…역대 최다",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8634522"
-        },
-        {
-          "title": "김해공항 외국인 이용객 급증…상반기 사상 첫 200만 명 돌파",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260812.99099003178"
-        }
-      ]
-    },
-    {
-      "id": "이동국",
-      "rank": 10,
-      "keyword": "이동국",
-      "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 ''브라질 行' 앞둔 이동국 아들, 클수록 아빠 얼굴…엄마 눈에는 그저 아기 '대박이'' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'브라질 行' 앞둔 이동국 아들, 클수록 아빠 얼굴…엄마 눈에는 그저 아기 '대박이'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/11/GQYDCMLDMNQTAZJZGRSTCNLCHE/"
-        },
-        {
-          "title": "'이동국 子' 이시안, 언제 이렇게 컸어? \"클수록 아빠 얼굴이 나오는 것 같아\"",
-          "source": "https://spt.co.kr/",
-          "url": "https://supple.kr/news/cmsmy2zxx00b0qvt8zmc1a0ug"
-        },
-        {
-          "title": "'이동국 아들' 이시안, 축구 유망주→브라질行 확정하더니…머리 반강제 잘린 사연 [MHN:피드]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/V0BnfBcnMH"
+          "title": "“국제선 유류할증료 내달 20단계로 상승”",
+          "source": "부산일보",
+          "url": "https://www.busan.com/view/busan/view.php?code=2026081117515275578&recCode=lRPBtMYa&invenCode=RHHxQkPg&pageSeq=eab81420d541c0446099d37a9fdd2257"
         }
       ]
     }
