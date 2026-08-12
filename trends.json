@@ -1,270 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-12T09:42:52.611Z",
+  "updatedAt": "2026-08-12T11:04:55.391Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "태풍-찬홈-경로",
+      "id": "사기",
       "rank": 1,
-      "keyword": "태풍 찬홈 경로",
+      "keyword": "사기",
       "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '日 통과하며 힘 빠진 ‘찬홈’…역대급 태풍 시즌, 한국만 비켜간 이유' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '은행권 덮친 대출사기…추가 피해 드러나며 사고액 '눈덩이'(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "日 통과하며 힘 빠진 ‘찬홈’…역대급 태풍 시즌, 한국만 비켜간 이유",
+          "title": "은행권 덮친 대출사기…추가 피해 드러나며 사고액 '눈덩이'(종합)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260812164939277"
+          "url": "https://v.daum.net/v/20260812182452274"
         },
         {
-          "title": "태풍이 남긴 비구름 동해안 최대 60mm…폭염특보 대부분 해제",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8635042"
-        },
-        {
-          "title": "15호 태풍 찬홈 일본 도쿄 상륙…17호 태풍 낭카도 발생, 이동 경로 보니",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20260812063631763"
-        }
-      ]
-    },
-    {
-      "id": "택시",
-      "rank": 2,
-      "keyword": "택시",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '만취승객 대로변에 내려주고 떠난 택시기사, 징역형 구형' (동아일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "만취승객 대로변에 내려주고 떠난 택시기사, 징역형 구형",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260812/134464165/2"
-        },
-        {
-          "title": "[사회]검찰, 만취 승객 대로변에 버려둔 택시운전사에 징역형 구형",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202608121421405199_005.html"
-        },
-        {
-          "title": "“토할 것 같아” 만취 승객 왕복 16차로에 버린 택시…징역형 구형",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812124737553"
-        }
-      ]
-    },
-    {
-      "id": "대우건설",
-      "rank": 3,
-      "keyword": "대우건설",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '873% 상승 뒤 3분의1 토막난 대우건설…전고점 다시 밟을 수 있을까' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "873% 상승 뒤 3분의1 토막난 대우건설…전고점 다시 밟을 수 있을까",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608126660i"
-        },
-        {
-          "title": "BNK證 “대우건설, 역대급 수주 모멘텀 임박…목표가 2만7000원 유지” - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/stock_general/2026/08/11/MPMPY6C7YBHLZG4STKWJFTXJAQ/"
-        },
-        {
-          "title": "'주택 저마진' 벗어났지만…건설업 활로는 반도체·데이터센터",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429388"
-        }
-      ]
-    },
-    {
-      "id": "트로트",
-      "rank": 4,
-      "keyword": "트로트",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘트로트 스타’ 김용빈, 5연승 도전···전유진·영탁·이찬원·박서진, ‘K 베스트 싱어–트롯 No.1’ 1위 경쟁中' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘트로트 스타’ 김용빈, 5연승 도전···전유진·영탁·이찬원·박서진, ‘K 베스트 싱어–트롯 No.1’ 1위 경쟁中",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/QsXSXdJ6zz"
-        },
-        {
-          "title": "김용빈, 유픽 'K 베스트 싱어–트롯 No.1' 5연승 도전",
-          "source": "전자신문",
-          "url": ""
-        },
-        {
-          "title": "‘트롯 전쟁’ 32강 개막…임영웅·영탁·이찬원·손태진·황영웅 총출동, 최후의 왕좌는 누구?",
-          "source": "진주인터넷뉴스",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "id": "염경엽",
-      "rank": 5,
-      "keyword": "염경엽",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '염갈량의 확고한 믿음, 주전들이 살아야 LG가 산다…\"커리어 있는 선수들이 해줘야 이겨\" [고척 현장]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "염갈량의 확고한 믿음, 주전들이 살아야 LG가 산다…\"커리어 있는 선수들이 해줘야 이겨\" [고척 현장]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/0R1DwgZvtn"
-        },
-        {
-          "title": "카라스코 10이닝 연속 퍼펙트 = 역대 ‘공동 2위’…1위는 ‘그 이름’[베이스볼 비키니]",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20260812/134463636/1"
-        },
-        {
-          "title": "LG 베테랑 김진성, 개인 통산 178홀드 달성…KBO 역대 최다 홀드 신기록",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260811_0003745209"
-        }
-      ]
-    },
-    {
-      "id": "김승연",
-      "rank": 6,
-      "keyword": "김승연",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김승연 한화 회장, 사재 30억 들여 전직원 6만9000명에 보양식 선물' (동아일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김승연 한화 회장, 사재 30억 들여 전직원 6만9000명에 보양식 선물",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260812/134465367/1"
-        },
-        {
-          "title": "한화 김승연 회장, 사비 30억 들여 임직원 6만9천명에 보양식",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608121645001"
-        },
-        {
-          "title": "김승연 회장, 사재 30억 털어 임직원에 보양식…\"임직원과 가족에 보탬 되길\"",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260812n24404"
-        }
-      ]
-    },
-    {
-      "id": "유주상",
-      "rank": 7,
-      "keyword": "유주상",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "삼성동-화재",
-      "rank": 8,
-      "keyword": "삼성동 화재",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“에어컨 실외기서 불”… 강남 삼성동 빌딩 대피 소동 - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“에어컨 실외기서 불”… 강남 삼성동 빌딩 대피 소동 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/topics/topics_social/2026/08/12/L5OMC3J76NCWXAZUUHEUCRTJZA/"
-        },
-        {
-          "title": "[속보] 삼성역 인근 빌딩서 대형 화재 발생...붉은 화염·검은 연기 솟구쳐",
-          "source": "포인트경제",
-          "url": "https://www.pointe.co.kr/news/articleView.html?idxno=83159"
-        },
-        {
-          "title": "강남구 포스코사거리 건물 상가서 화재…28명 자력대피(종합)",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260812_0003746721"
-        }
-      ]
-    },
-    {
-      "id": "왕옌청",
-      "rank": 9,
-      "keyword": "왕옌청",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''안타-안타-안타-안타' 비법이라도 있나? 어린왕자 선택 통했다…왕옌청 상대 타율 0.636 '천적 인증'' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'안타-안타-안타-안타' 비법이라도 있나? 어린왕자 선택 통했다…왕옌청 상대 타율 0.636 '천적 인증'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812073215356"
-        },
-        {
-          "title": "[사진]김원형 감독 '박지훈 4안타 대단해' - 머니투데이",
+          "title": "국민은행, 36억 규모 금융사고…신한·우리·IBK 등 총 490억 피해 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/11/202608112201777698O"
+          "url": "https://www.mt.co.kr/finance/2026/08/12/2026081218233584163"
         },
         {
-          "title": "'4안타' 물세례 받는 박지훈",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8051406"
+          "title": "KB국민은행 36억 금융사고 발생…\"대출 사기로 수사 중\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260812140600002"
         }
       ]
     },
     {
-      "id": "전력",
-      "rank": 10,
-      "keyword": "전력",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "id": "포스코",
+      "rank": 2,
+      "keyword": "포스코",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '호남권·용인 반도체 메가프로젝트, 전력 적기에 공급한다' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '공장 지붕부터 수중펌프까지…포항제철소, 태풍 대비 특별점검' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "호남권·용인 반도체 메가프로젝트, 전력 적기에 공급한다",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148969951&pWise=sub&pWiseSub=R2"
+          "title": "공장 지붕부터 수중펌프까지…포항제철소, 태풍 대비 특별점검",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/daegu-gyeongbuk/6256772"
         },
         {
-          "title": "[포토] 참석자들과 대화하는 김성환 장관",
+          "title": "포스코 포항제철소, 태풍·집중호우 선제 대응…특별점검 나서",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6561798"
+        },
+        {
+          "title": "\"힌남노 비극 다시는 없다\"… 포스코 포항제철소, 태풍·집중호우 선제 대응 방벽 세운다",
+          "source": "스트레이트뉴스",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=308779"
+        }
+      ]
+    },
+    {
+      "id": "안판석",
+      "rank": 3,
+      "keyword": "안판석",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '안판석 감독 별세, 향년 65세…'하얀거탑'·'밀회' 드라마 명장' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "안판석 감독 별세, 향년 65세…'하얀거탑'·'밀회' 드라마 명장",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260812_0003746818"
+        },
+        {
+          "title": "안판석 감독 뇌출혈 투병 중 별세…'하얀거탑'·'밥누나' 연출",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260812158500005"
+        },
+        {
+          "title": "'거장' 안판석, 뇌출혈 투병 중 별세…새 드라마 두 달 앞두고 영영 눈 감았다[종합]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260812n31739"
+        }
+      ]
+    },
+    {
+      "id": "적금",
+      "rank": 4,
+      "keyword": "적금",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '카카오뱅크, '우리아이통장·적금' 이용자 80만명 넘어' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "카카오뱅크, '우리아이통장·적금' 이용자 80만명 넘어",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260812067100002"
+        },
+        {
+          "title": "카카오뱅크 '우리아이' 이용자, 10개월 만에 80만명 돌파",
           "source": "전자신문",
-          "url": "https://www.etnews.com/20260812000424"
+          "url": "https://www.etnews.com/20260812000184"
         },
         {
-          "title": "삼성전자 \"호남권 투자, 매우 당겨질 것\"…SK하닉 \"광주팹, 제2의 용인\"(종합)",
+          "title": "“금융 첫걸음 잡았다”…카카오뱅크 ‘우리아이통장·적금’ 80만명 돌파",
+          "source": "에너지경제신문",
+          "url": "https://www.ekn.kr/web/view.php?key=20260812026282036"
+        }
+      ]
+    },
+    {
+      "id": "유시춘",
+      "rank": 5,
+      "keyword": "유시춘",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘법카 사적 유용’ 유시춘 전 EBS 이사장 1심 무죄···“증거 불충분”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘법카 사적 유용’ 유시춘 전 EBS 이사장 1심 무죄···“증거 불충분”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608121358001"
+        },
+        {
+          "title": "'업무추진비 부정 사용 혐의' 유시춘 전 EBS 이사장 무죄",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260812_0003745851"
+        },
+        {
+          "title": "유시춘 EBS 이사장 법카 무단 사용? 1심 재판부 무죄 선고",
+          "source": "미디어오늘",
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336386"
+        }
+      ]
+    },
+    {
+      "id": "박정희",
+      "rank": 6,
+      "keyword": "박정희",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '육영수 피격에 “박정희 온건하게 가지 않을것”…1974년 美비밀문서 공개' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "육영수 피격에 “박정희 온건하게 가지 않을것”…1974년 美비밀문서 공개",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20260811/134459970/1"
+        },
+        {
+          "title": "“1974년 박정희 긴급조치… 주한美대사관, 언질 못받았다”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11608756"
+        },
+        {
+          "title": "\"박정희 긴급조치, 사전 언질 못 받아\"…1974년 미 비밀문서 공개",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260811018000038"
+        }
+      ]
+    },
+    {
+      "id": "이준혁",
+      "rank": 7,
+      "keyword": "이준혁",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''로또 1등' 이준혁, 13억 당첨에도 출근하는 이유' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'로또 1등' 이준혁, 13억 당첨에도 출근하는 이유",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812093537252"
+        },
+        {
+          "title": "이준혁 로또 1등 당첨 ‘띠용’…티저 공개 (로또 1등도 출근합니다)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260812/134462105/1"
+        },
+        {
+          "title": "이준혁, 13억 당첨돼도 '퇴사 대신 출근'…'로또 1등도 출근합니다', 9월 첫 방송",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008701399"
+        }
+      ]
+    },
+    {
+      "id": "한강버스",
+      "rank": 8,
+      "keyword": "한강버스",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[단독] 오세훈표 한강버스 ‘3천원+α’ 주말요금 인상 추진' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[단독] 오세훈표 한강버스 ‘3천원+α’ 주말요금 인상 추진",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/area/capital/1272545.html"
+        },
+        {
+          "title": "한강버스 주말·휴일요금 인상 검토…무료 셔틀버스는 운행종료(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812173256234"
+        },
+        {
+          "title": "서울시, 한강버스 운항 시간 밤까지 늘린다··· 한강 노을·야경 수요 고려",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608111106001"
+        }
+      ]
+    },
+    {
+      "id": "손연재",
+      "rank": 9,
+      "keyword": "손연재",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '출산 후 더 말랐네…손연재, 흰색 민소매로 완성한 '극세사' 청순 자태' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "출산 후 더 말랐네…손연재, 흰색 민소매로 완성한 '극세사' 청순 자태",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/K5I2uOIky8"
+        },
+        {
+          "title": "'아들 맘' 손연재, 현역 시절 체형 그대로…화이트 톤온톤 사복 패션 화제",
+          "source": "스타패션",
+          "url": "https://www.kstarfashion.com/ko-kr/articles/254649"
+        },
+        {
+          "title": "손연재, 여리여리 로맨틱! 화이트 시스루에 브라운 숄더백 꿀조합 청순 올드머니룩",
+          "source": "패션엔",
+          "url": "https://m.fashionn.com/board/read.php?table=style&number=61997"
+        }
+      ]
+    },
+    {
+      "id": "미래에셋",
+      "rank": 10,
+      "keyword": "미래에셋",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '증권사들, '역대급 증시' 2분기 실적 잔치…순익 141%↑' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "증권사들, '역대급 증시' 2분기 실적 잔치…순익 141%↑",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812174217615"
+        },
+        {
+          "title": "美로빈후드보다 더 번 미래에셋 …\"5년내 자기자본 40조\"",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1140697"
+        },
+        {
+          "title": "미래에셋증권 \"스페이스X 평가이익 1조6천억…평균 취득단가 34달러\"",
           "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429775"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429781"
         }
       ]
     }
