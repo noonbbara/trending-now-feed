@@ -1,57 +1,85 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-12T16:28:18.376Z",
+  "updatedAt": "2026-08-12T17:34:23.831Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "더불어민주당",
+      "id": "이찬원",
       "rank": 1,
-      "keyword": "더불어민주당",
+      "keyword": "이찬원",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '국정과제 1호는 뭐냐 질문에 그럼 50호는? 마지막 토론도 설전' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '이찬원 \"인생 잘못 살았다\" 착잡한 심경 고백(편스토랑)' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "국정과제 1호는 뭐냐 질문에 그럼 50호는? 마지막 토론도 설전",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6844318_37004.html"
+          "title": "이찬원 \"인생 잘못 살았다\" 착잡한 심경 고백(편스토랑)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/12/GFRDKZTCGE4GEOJYGE4TENDGGM/"
         },
         {
-          "title": "김민석 호남서 승기 굳히기 vs 정청래 ‘도청농석’ 뒤집기",
+          "title": "이찬원 큰 거 준비했네, K팝 간판급 걸그룹도 출격 (편스토랑)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260812/134464195/1"
+        },
+        {
+          "title": "이찬원, 해방촌서 깜짝 팬미팅...‘시절인연’ 라이브까지",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260813003248868"
+          "url": "https://v.daum.net/v/zAEWvBb0jj?f=p"
+        }
+      ]
+    },
+    {
+      "id": "주진우",
+      "rank": 2,
+      "keyword": "주진우",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+2",
+      "summary": "급상승 시점에 '주진우 “12·3 계엄해제 표결, 정족수 한참 전 찼는데…李 기다린 듯”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "주진우 “12·3 계엄해제 표결, 정족수 한참 전 찼는데…李 기다린 듯”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812182053141"
         },
         {
-          "title": "배신 공방에 '전화방' 의혹까지...마지막 토론회 난타전",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202608122256563769"
+          "title": "주진우의원 \"비상계엄 해제 표결 당시 150석 찼는데 이재명 기다려\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260812162100004"
+        },
+        {
+          "title": "추경호 ‘국회 계엄해제 방해’ 재판서 주진우 “계엄 직후, 위헌·위법 판단 불가능했다”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608121746001"
         }
       ]
     },
     {
       "id": "온유",
-      "rank": 2,
+      "rank": 3,
       "keyword": "온유",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '경찰, ‘주사 이모’ 의혹 샤이니 온유·전현무 소환 조사' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 ''주사 이모' 의혹 수사 경찰, 키·온유·전현무 등 피의자 조사' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "경찰, ‘주사 이모’ 의혹 샤이니 온유·전현무 소환 조사",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/08/12/WIXOR7OABNBNHFZMB3PBDTZO7Q/"
-        },
         {
           "title": "'주사 이모' 의혹 수사 경찰, 키·온유·전현무 등 피의자 조사",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/news/2026/society/article/6844266_36918.html"
+        },
+        {
+          "title": "경찰, '주사 이모' 의혹 연루 샤이니 키·입짧은햇님 조사",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260812114100004"
         },
         {
           "title": "[공식] 온유, '주사 이모'에 피부 진료 받았다…\"의사인 줄 알았다\"",
@@ -62,12 +90,12 @@
     },
     {
       "id": "돌싱글즈",
-      "rank": 3,
+      "rank": 4,
       "keyword": "돌싱글즈",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "4시간 전",
       "change": "down",
-      "changeLabel": "-2",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 ''돌싱글즈6' 문방글♥염시영, 현커 2년만에 \"각자의 시간 갖는중\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -89,58 +117,30 @@
       ]
     },
     {
-      "id": "주진우",
-      "rank": 4,
-      "keyword": "주진우",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '주진우의원 \"비상계엄 해제 표결 당시 150석 찼는데 이재명 기다려\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "주진우의원 \"비상계엄 해제 표결 당시 150석 찼는데 이재명 기다려\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260812162100004"
-        },
-        {
-          "title": "추경호 ‘국회 계엄해제 방해’ 재판서 주진우 “계엄 직후, 위헌·위법 판단 불가능했다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812174808815?f=p"
-        },
-        {
-          "title": "주진우 \"우원식, 계엄해제 정족수 찼는데 李 올 때까지 표결 안해\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/08/12/6WRGMFY7Q5F5NNGVGF6Y2LIT2E/"
-        }
-      ]
-    },
-    {
-      "id": "kbo-리그",
+      "id": "정국",
       "rank": 5,
-      "keyword": "kbo 리그",
+      "keyword": "정국",
       "volumeLabel": "500+",
       "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 ''최고 인기 두 팀만 관중 감소 왜?' 롯데-한화에 '당분간 없을' 1300만 명 돌파 달렸다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "up",
+      "changeLabel": "+2",
+      "summary": "급상승 시점에 'BTS 뷔, 청력 이상 호소…\"오른쪽 30%밖에 안 들려 병원 치료\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'최고 인기 두 팀만 관중 감소 왜?' 롯데-한화에 '당분간 없을' 1300만 명 돌파 달렸다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812151409598"
-        },
-        {
-          "title": "기다렸던 프로야구",
+          "title": "BTS 뷔, 청력 이상 호소…\"오른쪽 30%밖에 안 들려 병원 치료\"",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260811184300052"
+          "url": "https://www.yna.co.kr/view/AKR20260812137200005"
         },
         {
-          "title": "다시 시작한 KBO리그, 첫날부터 900만 관중 돌파..역대 최소 경기",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6844062_36946.html"
+          "title": "BTS 뷔, 청력 저하 고백 \"한쪽 귀 30％ 밖에 안들려\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260812_0003746365"
+        },
+        {
+          "title": "방탄소년단 뷔, 청력 이상 고백…“오른쪽 30% 밖에 안 들려”",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10839415"
         }
       ]
     },
@@ -149,9 +149,9 @@
       "rank": 6,
       "keyword": "배재고등학교",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '“스벅 가야지” 외쳤던 그곳서, 배재고 ‘90도 인사 복귀전’···고요한 더그아웃에 “기죽지 마” 응원 소리만' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -173,44 +173,77 @@
       ]
     },
     {
-      "id": "정국",
+      "id": "더불어민주당",
       "rank": 7,
-      "keyword": "정국",
+      "keyword": "더불어민주당",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'BTS 뷔 \"오른쪽 30%만 들려\" 청력 이상 고백' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-6",
+      "summary": "급상승 시점에 '민주당, 오늘 의원총회 열고 세제 개편안·부동산 공급 대책 의견 수렴' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "BTS 뷔 \"오른쪽 30%만 들려\" 청력 이상 고백",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/08/12/ZJJUPZEBRFGUBNV5Q46H723JJQ/"
+          "title": "민주당, 오늘 의원총회 열고 세제 개편안·부동산 공급 대책 의견 수렴",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813010253065"
         },
         {
-          "title": "BTS 뷔, 청력 이상 호소…\"오른쪽 30%밖에 안 들려 병원 치료\"",
+          "title": "與 \"주택공급·금융대책 내일 발표…모듈러 도입 과감한 공급\"(종합)",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260812137200005"
+          "url": "https://www.yna.co.kr/view/AKR20260812107251001"
         },
         {
-          "title": "BTS 뷔, 청력 저하 고백 \"한쪽 귀 30％ 밖에 안들려\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260812_0003746365"
+          "title": "\"공급 발목잡기 그만\" vs \"집값 대신 국민만 잡아\"",
+          "source": "YTN",
+          "url": "https://m.ytn.co.kr/news_view.php?key=202608121800390504&s_mcd=0101"
+        }
+      ]
+    },
+    {
+      "id": "국제선",
+      "rank": 8,
+      "keyword": "국제선",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김해공항 외국인 400만 눈앞…\"에어부산 지키고 외항사 띄워야\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김해공항 외국인 400만 눈앞…\"에어부산 지키고 외항사 띄워야\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812095408348"
+        },
+        {
+          "title": "7월 김해공항 국제선 100만 명 돌파…역대 최다",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8634522"
+        },
+        {
+          "title": "김해공항 외국인 이용객 급증…상반기 사상 첫 200만 명 돌파",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260812.99099003178"
         }
       ]
     },
     {
       "id": "이동국",
-      "rank": 8,
+      "rank": 9,
       "keyword": "이동국",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''브라질 行' 앞둔 이동국 아들, 클수록 아빠 얼굴…엄마 눈에는 그저 아기 '대박이'' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 ''이동국 아들' 이시안, 축구 유망주→브라질行 확정하더니…머리 반강제 잘린 사연 [MHN:피드]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "'이동국 아들' 이시안, 축구 유망주→브라질行 확정하더니…머리 반강제 잘린 사연 [MHN:피드]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812164914257"
+        },
         {
           "title": "'브라질 行' 앞둔 이동국 아들, 클수록 아빠 얼굴…엄마 눈에는 그저 아기 '대박이'",
           "source": "조선일보",
@@ -220,22 +253,17 @@
           "title": "'이동국 子' 이시안, 언제 이렇게 컸어? \"클수록 아빠 얼굴이 나오는 것 같아\"",
           "source": "https://spt.co.kr/",
           "url": "https://supple.kr/news/cmsmy2zxx00b0qvt8zmc1a0ug"
-        },
-        {
-          "title": "'이동국 아들' 이시안, 축구 유망주→브라질行 확정하더니…머리 반강제 잘린 사연 [MHN:피드]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812164914257"
         }
       ]
     },
     {
       "id": "야구순위",
-      "rank": 9,
+      "rank": 10,
       "keyword": "야구순위",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "4시간 전",
       "change": "down",
-      "changeLabel": "-2",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '[프로야구] 중간 순위(12일)' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -253,34 +281,6 @@
           "title": "[프로야구] 중간 순위(12일)",
           "source": "네이트",
           "url": "https://sports.news.nate.com/view/20260812n35875"
-        }
-      ]
-    },
-    {
-      "id": "요나단-페라자",
-      "rank": 10,
-      "keyword": "요나단 페라자",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '한화 김경문 감독 \"페라자, 부친 방한 효과 내심 기대…정우주는 1~2G 보고 콜업 결정\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "한화 김경문 감독 \"페라자, 부친 방한 효과 내심 기대…정우주는 1~2G 보고 콜업 결정\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/fd0oN30HsV"
-        },
-        {
-          "title": "'충격' 한화 외국인타자 갑자기 왜, 타율 .314→.182…야구 하셨던 아버지가 한국 오셨다 \"내심 기대한다, 편안할 것\" [MD잠실]",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260811n30758"
-        },
-        {
-          "title": "[SW포커스] 또 맞닥뜨린 후반기 시험대…페라자 반등 없이 한화의 가을도 없다",
-          "source": "스포츠월드",
-          "url": "https://www.sportsworldi.com/newsView/20260809508712"
         }
       ]
     }
