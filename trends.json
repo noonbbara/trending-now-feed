@@ -1,281 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-12T13:59:56.835Z",
+  "updatedAt": "2026-08-12T15:09:19.131Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "음식",
+      "id": "돌싱글즈",
       "rank": 1,
-      "keyword": "음식",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“뇌혈관에 치명적”… 저녁에 피해야 할 ‘최악의 음식’, 뭐야?' (헬스조선) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“뇌혈관에 치명적”… 저녁에 피해야 할 ‘최악의 음식’, 뭐야?",
-          "source": "헬스조선",
-          "url": "https://health.chosun.com/site/data/html_dir/2026/08/11/2026081102427.html"
-        },
-        {
-          "title": "“오늘 저녁 식탁에서 당장 치워라”… 뇌졸중 위험 2배 높이는 ‘이 반찬’ [헬시타임]",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20078340"
-        },
-        {
-          "title": "[밴쿠버 조선일보]병원서 혈압 잴 때, 하지 말아야 할 행동 있다··· 뭐지? | 밴쿠버 뉴스",
-          "source": "밴쿠버 조선일보",
-          "url": "https://www.vanchosun.com/news/main/frame.php?main=1&boardId=17&bdId=87316&cpage1=1&search_title=bapzmkzbjsfmev"
-        }
-      ]
-    },
-    {
-      "id": "허웅",
-      "rank": 2,
-      "keyword": "허웅",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"농구인생 망치지 말아달라고\"…허웅 전 여친, 법정서 눈물 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"농구인생 망치지 말아달라고\"…허웅 전 여친, 법정서 눈물 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/12/2026081211175224372"
-        },
-        {
-          "title": "허웅 전 여자친구 법정서 오열…\"여성으로서 존재 무너져\"",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/life/2353600.htm"
-        }
-      ]
-    },
-    {
-      "id": "국가교육위원회",
-      "rank": 3,
-      "keyword": "국가교육위원회",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '차정인 \"수능 서·논술형 도입하면 학원 필요없어…독서로 충분\"(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "차정인 \"수능 서·논술형 도입하면 학원 필요없어…독서로 충분\"(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812173852477"
-        },
-        {
-          "title": "[포토] 도성훈 인천시교육감, 미래 대입제도 토론",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1329409"
-        },
-        {
-          "title": "\"사교육 유발·공정성 우려…수능 서·논술형 신중해야\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260812_0003746243"
-        }
-      ]
-    },
-    {
-      "id": "신원식",
-      "rank": 4,
-      "keyword": "신원식",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '종합특검, '계엄 정당화 메시지' 尹·신원식 불구속 기소‥내란 혐의 적용' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "종합특검, '계엄 정당화 메시지' 尹·신원식 불구속 기소‥내란 혐의 적용",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6844287_36918.html"
-        },
-        {
-          "title": "[속보]‘비상계엄 정당’ 메시지 우방국에 전파… 尹, 또 기소",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11609141"
-        },
-        {
-          "title": "[사설]수사주체간 볼썽 사나운 잡음, 특검 신뢰 떨어뜨린다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812181127771"
-        }
-      ]
-    },
-    {
-      "id": "박소영",
-      "rank": 5,
-      "keyword": "박소영",
+      "keyword": "돌싱글즈",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''신랑수업2' 두 딸 아빠 오종혁, 코미디언 박소영 '만삭' 보자 \"100% 딸\" 확신' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''돌싱글즈6' 문방글♥염시영, 현커 2년만에 \"각자의 시간 갖는중\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'신랑수업2' 두 딸 아빠 오종혁, 코미디언 박소영 '만삭' 보자 \"100% 딸\" 확신",
+          "title": "'돌싱글즈6' 문방글♥염시영, 현커 2년만에 \"각자의 시간 갖는중\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260812114101553?f=p"
+          "url": "https://v.daum.net/v/20260812095707495"
         },
         {
-          "title": "오종혁 \"두 딸 이름 '오로지·오모나\" 왜?..\"출산 26일 전\" 박소영, 만삭 D라인 공개 ('신랑수업2') - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/12/G5TDIOJUGMYGKZTFGI2DIZJWMY/"
-        },
-        {
-          "title": "‘신랑수업2’ 클릭비 오종혁, 두 딸 아빠의 촉? “박소영 2세, 100% 딸” - 스타투데이",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12125322"
-        }
-      ]
-    },
-    {
-      "id": "사건반장",
-      "rank": 6,
-      "keyword": "사건반장",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '택시 탔더니 \"뚱뚱하면 머리 나빠\"…승객에 몸매 이야기 반복' (네이트) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "택시 탔더니 \"뚱뚱하면 머리 나빠\"…승객에 몸매 이야기 반복",
+          "title": "'돌싱글즈6' 문방글, 염시영과 결별설에 \"각자 삶에 집중…시간 갖는 중\"[셀럽톡]",
           "source": "네이트",
-          "url": "https://news.nate.com/view/20260812n34632?isq=11492&mid=n0411"
+          "url": "https://news.nate.com/view/20260812n29294"
         },
         {
-          "title": "\"뚱뚱하면 머리 나빠\" 택시기사 폄하 발언에 ‘공포’",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/video/ND10766556"
-        },
-        {
-          "title": "택시 탔더니 \"뚱뚱하면 머리 나빠\"…승객에 몸매 이야기 반복",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12313086"
+          "title": "‘돌싱글즈6’ 현커 문방글♥염시영, 결별?…“제 첫사랑이 너무 늦게 와”",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16161357"
         }
       ]
     },
     {
-      "id": "원자력-발전소",
-      "rank": 7,
-      "keyword": "원자력 발전소",
+      "id": "kbo-리그",
+      "rank": 2,
+      "keyword": "kbo 리그",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“작년에 오더니 또?”…해파리 떼 유입으로 다시 멈춘 프랑스 원전' (에너지경제신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '실력도 품격도 메이저리거… LG 웃게 만드는 카라스코' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“작년에 오더니 또?”…해파리 떼 유입으로 다시 멈춘 프랑스 원전",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20260812024091922"
-        },
-        {
-          "title": "해파리 떼가 냉각펌프 막아서…프랑스 그라벨린 원전 가동중단",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/europe/6256929"
-        },
-        {
-          "title": "기후변화 재앙인가.…해파리 떼 수십t에 프랑스 원전 또 멈췄다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260812_0003745898"
-        }
-      ]
-    },
-    {
-      "id": "크리스토퍼-놀란",
-      "rank": 8,
-      "keyword": "크리스토퍼 놀란",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''오디세이' 놀런 감독 \"아이맥스서 꼭 안 봐도 돼\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'오디세이' 놀런 감독 \"아이맥스서 꼭 안 봐도 돼\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260812_0003746761"
-        },
-        {
-          "title": "'유퀴즈' 크리스토퍼 놀란 \"첫 내한, 한국 팬 만나고 싶어서\"",
+          "title": "실력도 품격도 메이저리거… LG 웃게 만드는 카라스코",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260812214849957"
+          "url": "https://v.daum.net/v/20260812141107221?f=p"
         },
         {
-          "title": "'유퀴즈' 맷 데이먼 \"주말마다 '오디세이' 망친 필름값 청구서 날라와\" - 머니투데이",
+          "title": "[포토]'7회말 임찬규 구원한' 김진성 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/12/2026081214007254817"
+          "url": "https://www.mt.co.kr/sports/2026/08/12/2026081221520473898"
+        },
+        {
+          "title": "\"형, 모자 벗어야지\", 112승 투수 카라스코에 KBO 4년 차 오스틴이 알려준 것 [박준형의 ZZOOM]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/08/12/HE3WIZJXHE3TAOLBGAYDSOBQMI/"
         }
       ]
     },
     {
-      "id": "공무원시험",
-      "rank": 9,
-      "keyword": "공무원시험",
-      "volumeLabel": "500+",
+      "id": "한화",
+      "rank": 3,
+      "keyword": "한화",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '공무원 공개채용, 한국사능력검정시험으로 대체' (뉴스핌) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''연장 10회 결승타' 한화 허인서 \"콘택트에 신경 썼다\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "공무원 공개채용, 한국사능력검정시험으로 대체",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260809000023"
+          "title": "'연장 10회 결승타' 한화 허인서 \"콘택트에 신경 썼다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260812_0003746928"
         },
         {
-          "title": "맥주당부터 강아지·바퀴벌레당까지···장난에서 시작된 ‘풍자정당’의 혁명 [농담이 정치가 될 수 있을까?]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812060809891"
-        },
-        {
-          "title": "인도 경찰, ‘공무원 시험 부정행위’ 시위에 최루탄 진압",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608111709011"
-        }
-      ]
-    },
-    {
-      "id": "cpi-발표",
-      "rank": 10,
-      "keyword": "cpi 발표",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[속보] 미 7월 소비자물가 전년比 3.4% 올라…예상치 부합' (매일경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[속보] 미 7월 소비자물가 전년比 3.4% 올라…예상치 부합",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/world/12125809"
-        },
-        {
-          "title": "[속보] 美 7월 CPI 0.1%p↑…연율 3.4%로 '예상치 부합'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608127808i"
-        },
-        {
-          "title": "美7월 소비자물가 상승률 3.4%로 둔화…연준 금리동결 기대↑(종합)",
+          "title": "[프로야구 잠실전적] 한화 4-3 두산",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260812167252072"
+          "url": "https://www.yna.co.kr/view/AKR20260812171400007"
+        },
+        {
+          "title": "김민석 '미친 슬라이딩' 선보였지만…'연장 혈전' 결국 한화가 웃었다! 두산 제압 [잠실 리뷰]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/08/12/HFRTAZRVGEYDIMLCGEZDEOBZMQ/"
+        }
+      ]
+    },
+    {
+      "id": "괴롭힘",
+      "rank": 4,
+      "keyword": "괴롭힘",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[단독]근거도 없이 “내부고발했지?”···직원 왕따시킨 KBO 임직원들' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[단독]근거도 없이 “내부고발했지?”···직원 왕따시킨 KBO 임직원들",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608121538001"
+        },
+        {
+          "title": "KBOP 문정균 대표이사, 일신상의 이유로 사임",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260812097800007"
+        },
+        {
+          "title": "KBO 임직원 2명 '직장 내 괴롭힘'…스포츠윤리센터 중징계 요구",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812165903639"
+        }
+      ]
+    },
+    {
+      "id": "총장",
+      "rank": 5,
+      "keyword": "총장",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '장기수 천안시장 “12개 대학과 손잡고 ‘AI 행정수도’ 만든다”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "장기수 천안시장 “12개 대학과 손잡고 ‘AI 행정수도’ 만든다”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812195133235"
+        },
+        {
+          "title": "천안시, 지역 12개 대학과 청년정책·대학도시 발전 방안 논의",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3662424"
+        },
+        {
+          "title": "천안시, 12개 대학 총장 간담회…'유니브시티 천안' 상생 모색",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/national/2353469.htm"
+        }
+      ]
+    },
+    {
+      "id": "kbo-순위",
+      "rank": 6,
+      "keyword": "kbo 순위",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[영상] 새로운 거포 포수 안현민?…너무 잘 어울리는 안현민' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[영상] 새로운 거포 포수 안현민?…너무 잘 어울리는 안현민",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812121419868"
+        },
+        {
+          "title": "'9회 6득점' kt, 60승 선착…재개된 프로야구서 7연승 질주(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260811169700007"
+        },
+        {
+          "title": "‘막내’ KT는 KS 직행 62.5% vs ‘맏이’ 롯데는 PS 진출 1.6% [어제의 프로야구]",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260812/134461788/1"
+        }
+      ]
+    },
+    {
+      "id": "야구순위",
+      "rank": 7,
+      "keyword": "야구순위",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[프로야구] 중간 순위(12일)' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[프로야구] 중간 순위(12일)",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/baseball/6257406"
+        },
+        {
+          "title": "[프로야구] 중간 순위(12일)",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260812n35875?mid=s01&list=recent&cpcd="
+        },
+        {
+          "title": "[프로야구] 중간 순위(12일)",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260812n35875"
+        }
+      ]
+    },
+    {
+      "id": "요나단-페라자",
+      "rank": 8,
+      "keyword": "요나단 페라자",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '한화 김경문 감독 \"페라자, 부친 방한 효과 내심 기대…정우주는 1~2G 보고 콜업 결정\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "한화 김경문 감독 \"페라자, 부친 방한 효과 내심 기대…정우주는 1~2G 보고 콜업 결정\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/fd0oN30HsV"
+        },
+        {
+          "title": "'충격' 한화 외국인타자 갑자기 왜, 타율 .314→.182…야구 하셨던 아버지가 한국 오셨다 \"내심 기대한다, 편안할 것\" [MD잠실]",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260811n30758"
+        },
+        {
+          "title": "KIA-두산이 버린 선수들, 마이너리그 평정할 기세라니… 페라자처럼 두 번째 기회 있을까?",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=833015"
+        }
+      ]
+    },
+    {
+      "id": "두산",
+      "rank": 9,
+      "keyword": "두산",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[사진]'7이닝 2실점' 포효하는 화이트 - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[사진]'7이닝 2실점' 포효하는 화이트 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/08/12/HEZDIYZTGZQWCNJWGI2WGY3GGM/"
+        },
+        {
+          "title": "[포토] 박찬호 '허인서를 얕보다가 그만' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/12/2026081221473954217"
+        },
+        {
+          "title": "[AI그래픽] 한화 화이트 7이닝 2실점 역투, 8월 12일 잠실 두산전 투구 분석",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260812001308"
+        }
+      ]
+    },
+    {
+      "id": "박주아",
+      "rank": 10,
+      "keyword": "박주아",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“저 머리 어때요?” 박주아, 의지 불태우며 헤어스타일 파격 변신★ (ft. 로이킴)' (programs.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“저 머리 어때요?” 박주아, 의지 불태우며 헤어스타일 파격 변신★ (ft. 로이킴)",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/kickagoal/clip/67995/OC481061498"
+        },
+        {
+          "title": "골 때리는 그녀들 : 마시마 유, 골대 구석 정확히 겨냥한 ‘로빙 슈팅’으로 선제골 강타",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/kickagoal/clip/67995/OC481061640"
+        },
+        {
+          "title": "소유미 집, ‘골때녀’ 아지트 됐다…원더우먼, 비장한 합숙 돌입",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/514579"
         }
       ]
     }
