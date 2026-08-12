@@ -1,286 +1,281 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-12T12:25:55.958Z",
+  "updatedAt": "2026-08-12T13:59:56.835Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "오상진",
+      "id": "음식",
       "rank": 1,
-      "keyword": "오상진",
+      "keyword": "음식",
       "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''김소영♥' 오상진 \"둘째, 태어나자마자 중환자실 입원…마음고생 많이 해\" (편스토랑)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“뇌혈관에 치명적”… 저녁에 피해야 할 ‘최악의 음식’, 뭐야?' (헬스조선) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'김소영♥' 오상진 \"둘째, 태어나자마자 중환자실 입원…마음고생 많이 해\" (편스토랑)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812110209101"
+          "title": "“뇌혈관에 치명적”… 저녁에 피해야 할 ‘최악의 음식’, 뭐야?",
+          "source": "헬스조선",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/08/11/2026081102427.html"
         },
         {
-          "title": "오상진, 둘째 아들 공개…\"태어나자마자 중환자실\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/12/2026081213562331164"
+          "title": "“오늘 저녁 식탁에서 당장 치워라”… 뇌졸중 위험 2배 높이는 ‘이 반찬’ [헬시타임]",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20078340"
         },
         {
-          "title": "오상진·김소영, 둘째 아들 공개…\"이목구비 엄청 또렷해\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260812_0003745980"
+          "title": "[밴쿠버 조선일보]병원서 혈압 잴 때, 하지 말아야 할 행동 있다··· 뭐지? | 밴쿠버 뉴스",
+          "source": "밴쿠버 조선일보",
+          "url": "https://www.vanchosun.com/news/main/frame.php?main=1&boardId=17&bdId=87316&cpage1=1&search_title=bapzmkzbjsfmev"
         }
       ]
     },
     {
-      "id": "운전-기사",
+      "id": "허웅",
       "rank": 2,
-      "keyword": "운전 기사",
-      "volumeLabel": "1000+",
+      "keyword": "허웅",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '차량호출 운전기사들은 사회보장 지원을 기대하고 있다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"농구인생 망치지 말아달라고\"…허웅 전 여친, 법정서 눈물 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "차량호출 운전기사들은 사회보장 지원을 기대하고 있다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/tai-xe-cong-nghe-mong-co-be-do-an-sinh"
-        },
-        {
-          "title": "사고로 몇 달 동안 운행 중단, 기술 운전사 사회 보험 납부 희망",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/cong-doan/tai-nan-phai-nghi-chay-nhieu-thang-tai-xe-cong-nghe-mong-duoc-dong-bhxh-1749457.ldo"
-        },
-        {
-          "title": "호찌민시는 지방 정부에 민병대원과 공무원들을 위한 건강 보험 제공을 촉구했다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/tphcm-thuc-cac-dia-phuong-dong-bao-hiem-y-te-cho-dan-quan-can-bo"
-        }
-      ]
-    },
-    {
-      "id": "홍현희",
-      "rank": 3,
-      "keyword": "홍현희",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '작정하고 살 뺀 홍현희, 얼마나 말랐으면..유아용 자동차에 몸이 ‘쏙’' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "작정하고 살 뺀 홍현희, 얼마나 말랐으면..유아용 자동차에 몸이 ‘쏙’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/pR72r8OcyP"
-        },
-        {
-          "title": "‘라스’ 홍현희 “내가 섹시하다고 생각”…유재석·이효리도 빠졌다",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260812/134465256/1"
-        },
-        {
-          "title": "'10㎏ 감량' 홍현희, 위고비 의혹 부인 \"결백…피 뽑아보자\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260811_0003743721"
-        }
-      ]
-    },
-    {
-      "id": "공유",
-      "rank": 4,
-      "keyword": "공유",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '공유, 반려묘 떠나보냈다 \"나와 닮은 너라서 좋았는데…\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "공유, 반려묘 떠나보냈다 \"나와 닮은 너라서 좋았는데…\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260812_0003746166"
-        },
-        {
-          "title": "공유, 반려묘 떠나보낸 뒤 먹먹 \"첫째라 마음 쓰여..다시 만나자\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812141337323?f=p"
-        },
-        {
-          "title": "공유 \"나와 닮은 너여서 좋았는데\"…반려묘와 마지막 인사 [N샷]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6256964"
-        }
-      ]
-    },
-    {
-      "id": "대한민국",
-      "rank": 5,
-      "keyword": "대한민국",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '국민이 바라고 청년이 꿈꾸는 대한민국이 되도록 - 전체 | 카드/한컷 | 멀티미디어' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "국민이 바라고 청년이 꿈꾸는 대한민국이 되도록 - 전체 | 카드/한컷 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148969953&pWise=sub&pWiseSub=C3"
-        },
-        {
-          "title": "한 총리 \"2045년 전략에 청년 고민 담아야\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812210051903"
-        },
-        {
-          "title": "회의 참석하는 송미령 장관",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260812_0021396002"
-        }
-      ]
-    },
-    {
-      "id": "김상식",
-      "rank": 6,
-      "keyword": "김상식",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '무패 행진 베트남 김상식호, 옥에 티는 ‘골 결정력’' (아시아투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "무패 행진 베트남 김상식호, 옥에 티는 ‘골 결정력’",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260811010003763"
-        },
-        {
-          "title": "김상식호, 아세안 현대컵 조 1위 통과...16일 말레이와 4강 1차전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810093316128"
-        },
-        {
-          "title": "[스포츠 브리핑] ‘22G 무패’ 김상식호, 아세안컵 4강행 외",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260809512084"
-        }
-      ]
-    },
-    {
-      "id": "lg그룹",
-      "rank": 7,
-      "keyword": "lg그룹",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'LG전자 오르면 증시 끝물?...모건스탠리 \"반도체 다음은 LG삼형제\"' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "LG전자 오르면 증시 끝물?...모건스탠리 \"반도체 다음은 LG삼형제\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/money/2026/08/12/H2GRJEBDMJEB3AK4POOMMLQ7MY/"
-        },
-        {
-          "title": "LG 구광모, 美서 젠슨 황과 이번 주 '3대 사업' 전략적 파트너십 체결한다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812164840228"
-        },
-        {
-          "title": "[특징주] LG전자, 로봇·AI 사업 기대에 11%↑…계열株 동반 강세",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260812000382"
-        }
-      ]
-    },
-    {
-      "id": "개기일식",
-      "rank": 8,
-      "keyword": "개기일식",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '유럽 '세기의 일식 우주쇼'에 흥분…수백만명 몰리고 안경 동났다' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "유럽 '세기의 일식 우주쇼'에 흥분…수백만명 몰리고 안경 동났다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812170452912"
-        },
-        {
-          "title": "\"개기일식 명당 잡아라\"…아이슬란드·스페인 호텔비 폭등",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260811129700009"
-        },
-        {
-          "title": "오늘 나오는 ‘이것’ 때문에 난리 난 유럽···준비 용품은 새벽 2시 택시 타고 사러 가야",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608121519011"
-        }
-      ]
-    },
-    {
-      "id": "송원근",
-      "rank": 9,
-      "keyword": "송원근",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '깜짝 결혼 발표 송원근 \"노총각 딱지 떼게 돼, 신기하고 행복\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "깜짝 결혼 발표 송원근 \"노총각 딱지 떼게 돼, 신기하고 행복\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812133911907"
-        },
-        {
-          "title": "'오로라 공주' 송원근, 자필 편지로 깜짝 결혼 발표",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0117_202608120941199941"
-        },
-        {
-          "title": "'아이돌 출신 배우' 43세 송원근, 결혼 깜짝 발표…\"평생 함께 하고픈 사람\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6256135"
-        }
-      ]
-    },
-    {
-      "id": "야구-감독",
-      "rank": 10,
-      "keyword": "야구 감독",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"던지다 또 아프면 어떡하지\" 151㎞ 던지고도 자기 공 못 믿었는데... 덕수고 김대승, 17년 만의 대통령배 우승 이끌다 […' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"던지다 또 아프면 어떡하지\" 151㎞ 던지고도 자기 공 못 믿었는데... 덕수고 김대승, 17년 만의 대통령배 우승 이끌다 [인터뷰] - 머니투데이",
+          "title": "\"농구인생 망치지 말아달라고\"…허웅 전 여친, 법정서 눈물 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/10/2026080913374891115"
+          "url": "https://www.mt.co.kr/society/2026/08/12/2026081211175224372"
         },
         {
-          "title": "덕수고 정윤진 감독, 개인 통산 400승 달성…“모교에 바친 20년의 결실”",
-          "source": "스포르티보 미디어",
-          "url": ""
+          "title": "허웅 전 여자친구 법정서 오열…\"여성으로서 존재 무너져\"",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/life/2353600.htm"
+        }
+      ]
+    },
+    {
+      "id": "국가교육위원회",
+      "rank": 3,
+      "keyword": "국가교육위원회",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '차정인 \"수능 서·논술형 도입하면 학원 필요없어…독서로 충분\"(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "차정인 \"수능 서·논술형 도입하면 학원 필요없어…독서로 충분\"(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812173852477"
         },
         {
-          "title": "대통령배 우승 감독 정윤진 \"야구 교권 지키는 길, 정답은 없지만…\"",
+          "title": "[포토] 도성훈 인천시교육감, 미래 대입제도 토론",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1329409"
+        },
+        {
+          "title": "\"사교육 유발·공정성 우려…수능 서·논술형 신중해야\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260812_0003746243"
+        }
+      ]
+    },
+    {
+      "id": "신원식",
+      "rank": 4,
+      "keyword": "신원식",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '종합특검, '계엄 정당화 메시지' 尹·신원식 불구속 기소‥내란 혐의 적용' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "종합특검, '계엄 정당화 메시지' 尹·신원식 불구속 기소‥내란 혐의 적용",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6844287_36918.html"
+        },
+        {
+          "title": "[속보]‘비상계엄 정당’ 메시지 우방국에 전파… 尹, 또 기소",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11609141"
+        },
+        {
+          "title": "[사설]수사주체간 볼썽 사나운 잡음, 특검 신뢰 떨어뜨린다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812181127771"
+        }
+      ]
+    },
+    {
+      "id": "박소영",
+      "rank": 5,
+      "keyword": "박소영",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''신랑수업2' 두 딸 아빠 오종혁, 코미디언 박소영 '만삭' 보자 \"100% 딸\" 확신' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'신랑수업2' 두 딸 아빠 오종혁, 코미디언 박소영 '만삭' 보자 \"100% 딸\" 확신",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812114101553?f=p"
+        },
+        {
+          "title": "오종혁 \"두 딸 이름 '오로지·오모나\" 왜?..\"출산 26일 전\" 박소영, 만삭 D라인 공개 ('신랑수업2') - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/12/G5TDIOJUGMYGKZTFGI2DIZJWMY/"
+        },
+        {
+          "title": "‘신랑수업2’ 클릭비 오종혁, 두 딸 아빠의 촉? “박소영 2세, 100% 딸” - 스타투데이",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12125322"
+        }
+      ]
+    },
+    {
+      "id": "사건반장",
+      "rank": 6,
+      "keyword": "사건반장",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '택시 탔더니 \"뚱뚱하면 머리 나빠\"…승객에 몸매 이야기 반복' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "택시 탔더니 \"뚱뚱하면 머리 나빠\"…승객에 몸매 이야기 반복",
           "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260805n26013"
+          "url": "https://news.nate.com/view/20260812n34632?isq=11492&mid=n0411"
+        },
+        {
+          "title": "\"뚱뚱하면 머리 나빠\" 택시기사 폄하 발언에 ‘공포’",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/video/ND10766556"
+        },
+        {
+          "title": "택시 탔더니 \"뚱뚱하면 머리 나빠\"…승객에 몸매 이야기 반복",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12313086"
+        }
+      ]
+    },
+    {
+      "id": "원자력-발전소",
+      "rank": 7,
+      "keyword": "원자력 발전소",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“작년에 오더니 또?”…해파리 떼 유입으로 다시 멈춘 프랑스 원전' (에너지경제신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“작년에 오더니 또?”…해파리 떼 유입으로 다시 멈춘 프랑스 원전",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20260812024091922"
+        },
+        {
+          "title": "해파리 떼가 냉각펌프 막아서…프랑스 그라벨린 원전 가동중단",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/europe/6256929"
+        },
+        {
+          "title": "기후변화 재앙인가.…해파리 떼 수십t에 프랑스 원전 또 멈췄다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260812_0003745898"
+        }
+      ]
+    },
+    {
+      "id": "크리스토퍼-놀란",
+      "rank": 8,
+      "keyword": "크리스토퍼 놀란",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''오디세이' 놀런 감독 \"아이맥스서 꼭 안 봐도 돼\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'오디세이' 놀런 감독 \"아이맥스서 꼭 안 봐도 돼\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260812_0003746761"
+        },
+        {
+          "title": "'유퀴즈' 크리스토퍼 놀란 \"첫 내한, 한국 팬 만나고 싶어서\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812214849957"
+        },
+        {
+          "title": "'유퀴즈' 맷 데이먼 \"주말마다 '오디세이' 망친 필름값 청구서 날라와\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/12/2026081214007254817"
+        }
+      ]
+    },
+    {
+      "id": "공무원시험",
+      "rank": 9,
+      "keyword": "공무원시험",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '공무원 공개채용, 한국사능력검정시험으로 대체' (뉴스핌) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "공무원 공개채용, 한국사능력검정시험으로 대체",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260809000023"
+        },
+        {
+          "title": "맥주당부터 강아지·바퀴벌레당까지···장난에서 시작된 ‘풍자정당’의 혁명 [농담이 정치가 될 수 있을까?]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812060809891"
+        },
+        {
+          "title": "인도 경찰, ‘공무원 시험 부정행위’ 시위에 최루탄 진압",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608111709011"
+        }
+      ]
+    },
+    {
+      "id": "cpi-발표",
+      "rank": 10,
+      "keyword": "cpi 발표",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[속보] 미 7월 소비자물가 전년比 3.4% 올라…예상치 부합' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[속보] 미 7월 소비자물가 전년比 3.4% 올라…예상치 부합",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/world/12125809"
+        },
+        {
+          "title": "[속보] 美 7월 CPI 0.1%p↑…연율 3.4%로 '예상치 부합'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608127808i"
+        },
+        {
+          "title": "美7월 소비자물가 상승률 3.4%로 둔화…연준 금리동결 기대↑(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260812167252072"
         }
       ]
     }
