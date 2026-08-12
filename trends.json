@@ -1,286 +1,270 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-12T08:24:39.543Z",
+  "updatedAt": "2026-08-12T09:42:52.611Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "네이마르",
+      "id": "태풍-찬홈-경로",
       "rank": 1,
-      "keyword": "네이마르",
-      "volumeLabel": "10000+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 '‘MSN 트리오’ 미국서 재결합하나?···네이마르, 내년 1월 마이애미행 솔솔 ‘바르사 이후 재결성’ 주목' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "태풍 찬홈 경로",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '日 통과하며 힘 빠진 ‘찬홈’…역대급 태풍 시즌, 한국만 비켜간 이유' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘MSN 트리오’ 미국서 재결합하나?···네이마르, 내년 1월 마이애미행 솔솔 ‘바르사 이후 재결성’ 주목",
+          "title": "日 통과하며 힘 빠진 ‘찬홈’…역대급 태풍 시즌, 한국만 비켜간 이유",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260810142528644"
+          "url": "https://v.daum.net/v/20260812164939277"
         },
         {
-          "title": "손흥민 우승 도전에 적신호…MLS서 '역대급 공격 트리오' MSN 재결합 가능성 \"1월부터 네이마르는 마이애미로 간다\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260812n00671"
+          "title": "태풍이 남긴 비구름 동해안 최대 60mm…폭염특보 대부분 해제",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8635042"
         },
         {
-          "title": "손흥민 우승 도전 망했다...LAFC 최악의 경쟁자 탄생 임박, 메시-수아레스 그리고 네이마르 \"역대 최강 공격진 재결성 준비\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/football/2026-08-12/202608120100067480004197"
+          "title": "15호 태풍 찬홈 일본 도쿄 상륙…17호 태풍 낭카도 발생, 이동 경로 보니",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20260812063631763"
         }
       ]
     },
     {
-      "id": "에어-인디아",
+      "id": "택시",
       "rank": 2,
-      "keyword": "에어 인디아",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '하늘에서 91m 뚝 떨어졌다…에어인디아 기장 ‘대마초 양성’ 충격' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "하늘에서 91m 뚝 떨어졌다…에어인디아 기장 ‘대마초 양성’ 충격",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812124708545"
-        },
-        {
-          "title": "이륙 직후 급강하해 24명 부상...인도 여객기 기장 '대마초 양성'",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202608121113539691"
-        },
-        {
-          "title": "24명 부상 급강하 사고 낸 인도 여객기 기장, 대마초 양성 반응",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260812051800104"
-        }
-      ]
-    },
-    {
-      "id": "관리-종목",
-      "rank": 3,
-      "keyword": "관리 종목",
+      "keyword": "택시",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“오늘은 1000원 넘어야해”…‘동전주’ 23곳 관리종목 운명 갈린다' (문화일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“오늘은 1000원 넘어야해”…‘동전주’ 23곳 관리종목 운명 갈린다",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11608873"
-        },
-        {
-          "title": "'퇴출 카운트다운' 현실로…상장사 무더기 관리종목 지정",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260812000386"
-        },
-        {
-          "title": "상폐 위기 소형주들, 지금도 M&A 안되는데… 관리종목 되면 구주 매각 사실상 막혀 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/market_trend/2026/08/12/NL2QHXQ7I5GRZBOVOCKWR6RJGY/"
-        }
-      ]
-    },
-    {
-      "id": "김지수",
-      "rank": 4,
-      "keyword": "김지수",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김지수, 음주논란→韓떠나 프라하서 여행사 차리더니..\"여름나기 수월해\" 여유' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김지수, 음주논란→韓떠나 프라하서 여행사 차리더니..\"여름나기 수월해\" 여유",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/XNJDOogRvh"
-        },
-        {
-          "title": "김지수, 프라하서 고객 맞는 여행사 대표…“현장 투어 직접 동행”",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260807505437"
-        },
-        {
-          "title": "김지수, '여행사 대표' 변신 근황 \"가볼 만하니…\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260806_0003738973"
-        }
-      ]
-    },
-    {
-      "id": "과학자",
-      "rank": 5,
-      "keyword": "과학자",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 '문시연 총장 \"AI, 지식은 압축해도 경험은 못 바꾼다\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "문시연 총장 \"AI, 지식은 압축해도 경험은 못 바꾼다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812154328068"
-        },
-        {
-          "title": "숙명여대, 2026 한미과학자대회(UKC)서 미래 연구 비전 제시",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/biznews/1272538.html"
-        },
-        {
-          "title": "국립공주대 UKC 2026 참가…글로벌 과학기술 네트워크 확대",
-          "source": "베리타스알파",
-          "url": "https://www.veritas-a.com/news/articleView.html?idxno=622868"
-        }
-      ]
-    },
-    {
-      "id": "코디-폰세",
-      "rank": 6,
-      "keyword": "코디 폰세",
-      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''KBO MVP' 폰세 어디서 뭐하나 했더니…ACL 파열→NFL 슈퍼스타 처남과 이색 재활' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '만취승객 대로변에 내려주고 떠난 택시기사, 징역형 구형' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'KBO MVP' 폰세 어디서 뭐하나 했더니…ACL 파열→NFL 슈퍼스타 처남과 이색 재활",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812094610869"
-        },
-        {
-          "title": "'KBO MVP' 폰세, 미식축구공 던지는 이유는? '처남-매부' 동반 재활 파격 근황 전해졌다…십자인대 파열 아픔 벗어나 '복귀 담금질'",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260812n07464"
-        },
-        {
-          "title": "박살난 선발진, 폰세 이어 '가을 에이스'마저 쓰러졌다…예세비지 반월판 수술→장기 이탈 확정 '위기의 토론토'",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260812n25474"
-        }
-      ]
-    },
-    {
-      "id": "치안정감",
-      "rank": 7,
-      "keyword": "치안정감",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '경찰 치안정감 승진 4명 내정…차기 경찰청장 후보군 윤곽' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "경찰 치안정감 승진 4명 내정…차기 경찰청장 후보군 윤곽",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812152149957"
-        },
-        {
-          "title": "세계에서 가장 안전한 K-치안 - 전체 | 카드/한컷 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148969743"
-        },
-        {
-          "title": "'충북 청주 출신' 오승진·양영우, 치안감으로 승진",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260812_0003746150"
-        }
-      ]
-    },
-    {
-      "id": "논술",
-      "rank": 8,
-      "keyword": "논술",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '국민과 함께 그리는 미래 대입제도 토론회' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "국민과 함께 그리는 미래 대입제도 토론회",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260811142800065"
-        },
-        {
-          "title": "국가교육위원장 “서·논술형 도입하면 학원 갈 필요 없어…독서면 충분”",
+          "title": "만취승객 대로변에 내려주고 떠난 택시기사, 징역형 구형",
           "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260812/134466173/1"
+          "url": "https://www.donga.com/news/Society/article/all/20260812/134464165/2"
         },
         {
-          "title": "\"사교육 유발·공정성 우려…수능 서·논술형 신중해야\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260812_0003746243"
+          "title": "[사회]검찰, 만취 승객 대로변에 버려둔 택시운전사에 징역형 구형",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202608121421405199_005.html"
+        },
+        {
+          "title": "“토할 것 같아” 만취 승객 왕복 16차로에 버린 택시…징역형 구형",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812124737553"
         }
       ]
     },
     {
-      "id": "민형배",
+      "id": "대우건설",
+      "rank": 3,
+      "keyword": "대우건설",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '873% 상승 뒤 3분의1 토막난 대우건설…전고점 다시 밟을 수 있을까' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "873% 상승 뒤 3분의1 토막난 대우건설…전고점 다시 밟을 수 있을까",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608126660i"
+        },
+        {
+          "title": "BNK證 “대우건설, 역대급 수주 모멘텀 임박…목표가 2만7000원 유지” - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/08/11/MPMPY6C7YBHLZG4STKWJFTXJAQ/"
+        },
+        {
+          "title": "'주택 저마진' 벗어났지만…건설업 활로는 반도체·데이터센터",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429388"
+        }
+      ]
+    },
+    {
+      "id": "트로트",
+      "rank": 4,
+      "keyword": "트로트",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘트로트 스타’ 김용빈, 5연승 도전···전유진·영탁·이찬원·박서진, ‘K 베스트 싱어–트롯 No.1’ 1위 경쟁中' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘트로트 스타’ 김용빈, 5연승 도전···전유진·영탁·이찬원·박서진, ‘K 베스트 싱어–트롯 No.1’ 1위 경쟁中",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/QsXSXdJ6zz"
+        },
+        {
+          "title": "김용빈, 유픽 'K 베스트 싱어–트롯 No.1' 5연승 도전",
+          "source": "전자신문",
+          "url": ""
+        },
+        {
+          "title": "‘트롯 전쟁’ 32강 개막…임영웅·영탁·이찬원·손태진·황영웅 총출동, 최후의 왕좌는 누구?",
+          "source": "진주인터넷뉴스",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "염경엽",
+      "rank": 5,
+      "keyword": "염경엽",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '염갈량의 확고한 믿음, 주전들이 살아야 LG가 산다…\"커리어 있는 선수들이 해줘야 이겨\" [고척 현장]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "염갈량의 확고한 믿음, 주전들이 살아야 LG가 산다…\"커리어 있는 선수들이 해줘야 이겨\" [고척 현장]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/0R1DwgZvtn"
+        },
+        {
+          "title": "카라스코 10이닝 연속 퍼펙트 = 역대 ‘공동 2위’…1위는 ‘그 이름’[베이스볼 비키니]",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260812/134463636/1"
+        },
+        {
+          "title": "LG 베테랑 김진성, 개인 통산 178홀드 달성…KBO 역대 최다 홀드 신기록",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260811_0003745209"
+        }
+      ]
+    },
+    {
+      "id": "김승연",
+      "rank": 6,
+      "keyword": "김승연",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김승연 한화 회장, 사재 30억 들여 전직원 6만9000명에 보양식 선물' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김승연 한화 회장, 사재 30억 들여 전직원 6만9000명에 보양식 선물",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20260812/134465367/1"
+        },
+        {
+          "title": "한화 김승연 회장, 사비 30억 들여 임직원 6만9천명에 보양식",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608121645001"
+        },
+        {
+          "title": "김승연 회장, 사재 30억 털어 임직원에 보양식…\"임직원과 가족에 보탬 되길\"",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260812n24404"
+        }
+      ]
+    },
+    {
+      "id": "유주상",
+      "rank": 7,
+      "keyword": "유주상",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "삼성동-화재",
+      "rank": 8,
+      "keyword": "삼성동 화재",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“에어컨 실외기서 불”… 강남 삼성동 빌딩 대피 소동 - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“에어컨 실외기서 불”… 강남 삼성동 빌딩 대피 소동 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/08/12/L5OMC3J76NCWXAZUUHEUCRTJZA/"
+        },
+        {
+          "title": "[속보] 삼성역 인근 빌딩서 대형 화재 발생...붉은 화염·검은 연기 솟구쳐",
+          "source": "포인트경제",
+          "url": "https://www.pointe.co.kr/news/articleView.html?idxno=83159"
+        },
+        {
+          "title": "강남구 포스코사거리 건물 상가서 화재…28명 자력대피(종합)",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260812_0003746721"
+        }
+      ]
+    },
+    {
+      "id": "왕옌청",
       "rank": 9,
-      "keyword": "민형배",
+      "keyword": "왕옌청",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''안타-안타-안타-안타' 비법이라도 있나? 어린왕자 선택 통했다…왕옌청 상대 타율 0.636 '천적 인증'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'안타-안타-안타-안타' 비법이라도 있나? 어린왕자 선택 통했다…왕옌청 상대 타율 0.636 '천적 인증'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812073215356"
+        },
+        {
+          "title": "[사진]김원형 감독 '박지훈 4안타 대단해' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/11/202608112201777698O"
+        },
+        {
+          "title": "'4안타' 물세례 받는 박지훈",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8051406"
+        }
+      ]
+    },
+    {
+      "id": "전력",
+      "rank": 10,
+      "keyword": "전력",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '민형배 전남광주시장, 여수세계섬박람회 보고' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '호남권·용인 반도체 메가프로젝트, 전력 적기에 공급한다' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "민형배 전남광주시장, 여수세계섬박람회 보고",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260811077100013"
+          "title": "호남권·용인 반도체 메가프로젝트, 전력 적기에 공급한다",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148969951&pWise=sub&pWiseSub=R2"
         },
         {
-          "title": "민형배, 이 대통령에 “여수세계섬박람회 개막식 참석해달라” 요청",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026081213161001833"
+          "title": "[포토] 참석자들과 대화하는 김성환 장관",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260812000424"
         },
         {
-          "title": "농협, ‘섬의 날’ 맞아 농축산물 소비촉진·고향사랑기부 홍보",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/FjFUPwrNpu"
-        }
-      ]
-    },
-    {
-      "id": "차상현",
-      "rank": 10,
-      "keyword": "차상현",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''육서영 17점' 한국 여자배구, 동아시아선수권 첫판서 몽골 완파' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'육서영 17점' 한국 여자배구, 동아시아선수권 첫판서 몽골 완파",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260811161400007"
-        },
-        {
-          "title": "한국, 몽골에 3-0 완승…2026 동아시아 여자배구 조별리그 첫 승",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3662884"
-        },
-        {
-          "title": "동아시아선수권 앞둔 女 대표팀, 더블 스위치 전략에 주목…주전 못지않은 백업 OP-S 활약이 필요해",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260806n29070"
+          "title": "삼성전자 \"호남권 투자, 매우 당겨질 것\"…SK하닉 \"광주팹, 제2의 용인\"(종합)",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429775"
         }
       ]
     }
