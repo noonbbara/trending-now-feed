@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-13T19:39:15.547Z",
+  "updatedAt": "2026-08-13T20:53:28.183Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,7 +9,7 @@
       "rank": 1,
       "keyword": "심정지",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "4시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 '[단독] 강남 치과서 8개월 새 2명 사망…\"그런 일 없어요\" 발뺌' (Daum) 관련 뉴스가 함께 포착됐어요.",
@@ -37,9 +37,9 @@
       "rank": 2,
       "keyword": "이창민",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '‘전설의 사내’ 조권, 깝권 본색!…성리 형제 무릎' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -61,37 +61,37 @@
       ]
     },
     {
-      "id": "사랑-이-온다",
+      "id": "세르비아-축구-국가-대표팀",
       "rank": 3,
-      "keyword": "사랑 이 온다",
-      "volumeLabel": "1000+",
-      "startedLabel": "5시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '가족이란 이름의 무게…안희연, 한가네 중심 잡는 K-장녀(‘사랑이 온다’)' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "세르비아 축구 국가 대표팀",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '\"한국 축구 다시 최고 수준으로\" '전설' 스토이코비치, 대표팀 감독직 공개 도전...단, '임시'는 싫다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "가족이란 이름의 무게…안희연, 한가네 중심 잡는 K-장녀(‘사랑이 온다’)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/13/GZRGMOLBGBQWKNLEHBRWMMDGGM/"
-        },
-        {
-          "title": "‘사랑이 온다’ 한家네 대소동, 몰입도↑ #3",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608131600013"
-        },
-        {
-          "title": "KBS 자존심 챙겼다…시청률 15.7% 돌파→6회 만에 민심 잡고 대박 난 韓 드라마 ('사랑이 온다')",
+          "title": "\"한국 축구 다시 최고 수준으로\" '전설' 스토이코비치, 대표팀 감독직 공개 도전...단, '임시'는 싫다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260813143009381"
+          "url": "https://v.daum.net/v/20260814000009621"
+        },
+        {
+          "title": "[단독] ‘세르비아 레전드’ 스토이코비치 “한국 축구 재건할 자신 충분…단, ‘장기직’만 관심”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8636373"
+        },
+        {
+          "title": "\"서울 거주-협회 잡음 문제 없다\" 한국 '정식 감독' 의욕 내비친 스토이코비치, 어떤 감독? - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/14/202608132100773784O"
         }
       ]
     },
     {
-      "id": "세르비아-축구-국가-대표팀",
+      "id": "오현규",
       "rank": 4,
-      "keyword": "세르비아 축구 국가 대표팀",
+      "keyword": "오현규",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
@@ -117,69 +117,41 @@
       ]
     },
     {
-      "id": "학교",
+      "id": "선거",
       "rank": 5,
-      "keyword": "학교",
-      "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '괴롭힘 당한 초5 투신 시도에도 ‘기록’ 안 남긴 학교, 놀려댄 가해자' (한겨레) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "괴롭힘 당한 초5 투신 시도에도 ‘기록’ 안 남긴 학교, 놀려댄 가해자",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/area/jeju/1272804.html"
-        },
-        {
-          "title": "[사설] 고의숙 교육감의 선택적 대응 안된다",
-          "source": "한라일보",
-          "url": ""
-        },
-        {
-          "title": "초등생 투신 시도 사건…교육청·경찰 조사 착수",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8635276"
-        }
-      ]
-    },
-    {
-      "id": "데이터-센터",
-      "rank": 6,
-      "keyword": "데이터 센터",
+      "keyword": "선거",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“우리 동네 주거지엔 안돼”…데이터센터 규제, 서울 구청장들 만장일치' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '트럼프 지지도 역대 최저 기록 갱신‥\"인플레이션·일자리가 중요\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“우리 동네 주거지엔 안돼”…데이터센터 규제, 서울 구청장들 만장일치",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813170453563"
+          "title": "트럼프 지지도 역대 최저 기록 갱신‥\"인플레이션·일자리가 중요\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6844440_36925.html"
         },
         {
-          "title": "“AI 시대 필수 기반시설 데이터센터, 주민 삶에 큰 영향… 건축심의 절실”",
-          "source": "서울Pn",
-          "url": "https://go.seoul.co.kr/news/newsView.php?id=20260814020002"
+          "title": "가을 선거 앞둔 '전시 지도자' 3인방 흔들",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05608806645546992"
         },
         {
-          "title": "서울 자치구, 주거지역 내 무분별한 '데이터센터' 건립 제동 나서",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260813048700004"
+          "title": "순지지율 마이너스 29%? 계속 역대 최저치 찍는 미국 대통령",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11609449"
         }
       ]
     },
     {
       "id": "기쁜-우리-좋은-날",
-      "rank": 7,
+      "rank": 6,
       "keyword": "기쁜 우리 좋은 날",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "volumeLabel": "500+",
+      "startedLabel": "5시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '＂운전도 못 하는 사람이 교통사고?!＂ 정호빈의 서랍에서 진실을 발견한 이상숙 [기쁜 우리 좋은 날] | KBS 260813 방송' (대한민국 대표 공영미디어 KBS) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -189,42 +161,70 @@
           "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K01_PS-2026141491-01-000_MFSC4&program_code=T2026-0027&program_id=PS-2026141491-01-000&section_code=03&broadcast_complete_yn=N&section_id=27243"
         },
         {
-          "title": "'47.9%' 시청률퀸 등판에도 1위 굳건…두 자릿수 찍으며 순항 중인 일일극 정체 ('기쁜 우리 좋은 날')",
+          "title": "적수 없다…'47.9%' 복수의 여왕→4%대 경쟁작 '일일극 삼파전' 압도하며 선두 지킨 韓 드라마 ('기쁜 우리')",
           "source": "Daum",
-          "url": "https://v.daum.net/v/pUIFi0LxRX"
+          "url": "https://v.daum.net/v/20260813160209464"
         },
         {
-          "title": "적수 없다…'47.9%' 복수의 여왕→4%대 경쟁작 '일일극 삼파전' 압도하며 선두 지킨 韓 드라마 ('기쁜 우리')",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260813n26009"
+          "title": "'기쁜 우리 좋은 날' 윤종훈, 사고 기억 돌아왔다...\"세사람 다 있었어\"",
+          "source": "싱글리스트",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=758353"
         }
       ]
     },
     {
-      "id": "삼계탕-사발면",
-      "rank": 8,
-      "keyword": "삼계탕 사발면",
+      "id": "데이터-센터",
+      "rank": 7,
+      "keyword": "데이터 센터",
       "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
+      "startedLabel": "3시간 전",
       "change": "down",
       "changeLabel": "-1",
-      "summary": "급상승 시점에 ''국내 역출시' 농심 삼계탕사발면, 1000박스 10분 만에 '품절'' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“우리 동네 주거지엔 안돼”…데이터센터 규제, 서울 구청장들 만장일치' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'국내 역출시' 농심 삼계탕사발면, 1000박스 10분 만에 '품절'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/industry/distribution/6256976"
+          "title": "“우리 동네 주거지엔 안돼”…데이터센터 규제, 서울 구청장들 만장일치",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813170453563"
         },
         {
-          "title": "“韓 라면인데, 왜 일본서만 팔아요?” 국내 풀리자마자 무섭게 ‘완판’",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20078626"
+          "title": "서울 자치구, 주거지역 내 무분별한 '데이터센터' 건립 제동 나서",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260813048700004"
         },
         {
-          "title": "日 휩쓴 '농심 삼계탕사발면' 韓 출시 10분만에 '완판'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260812_0003746366"
+          "title": "“AI 시대 필수 기반시설 데이터센터, 주민 삶에 큰 영향… 건축심의 절실”",
+          "source": "서울Pn",
+          "url": "https://go.seoul.co.kr/news/newsView.php?id=20260814020002"
+        }
+      ]
+    },
+    {
+      "id": "관세",
+      "rank": 8,
+      "keyword": "관세",
+      "volumeLabel": "100+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '美 \"中, 40여개국 우회 관세회피\"…한국도 불법환적 위험국' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "美 \"中, 40여개국 우회 관세회피\"…한국도 불법환적 위험국",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814050343298"
+        },
+        {
+          "title": "美 \"中, 40개국 거쳐 430조 꼼수 수출\"…한국 반도체도 지목 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/08/14/2026081404504385244"
+        },
+        {
+          "title": "미국 \"중국, 40여 개국 불법환적해 관세회피\"‥한국도 '중국 환적 위험국' 거론",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6844642_36925.html"
         }
       ]
     },
@@ -233,26 +233,26 @@
       "rank": 9,
       "keyword": "노동자",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[AFTER 8NEWS] \"러시아가 여성도 원한다\"…북한 여성들 무더기로 보내진 곳은' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '강남구, 폭염 속 이동노동자에 ‘시원한 안전망’…6개 기관 힘 모았다' (뉴스타운) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[AFTER 8NEWS] \"러시아가 여성도 원한다\"…북한 여성들 무더기로 보내진 곳은",
+          "title": "강남구, 폭염 속 이동노동자에 ‘시원한 안전망’…6개 기관 힘 모았다",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=712331"
+        },
+        {
+          "title": "“땀냄새 날까 눈치보여 못 들어가” “지하 3층? 누가 거기까지 가나”···배달라이더 현실 무시한 ‘쉼터’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608120600111"
+        },
+        {
+          "title": "동아오츠카, 혹서기 맞아 배달종사자에 포카리스웨트 3600개 전달",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260813175713061"
-        },
-        {
-          "title": "“김밥 만들고 월 253만원받는 이 여성”…北여성 인력업체 광고 등장, 그런데...",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11609452"
-        },
-        {
-          "title": "“김밥 잘 만다. 40명 무조건 한조”···북한 여성들 러시아행 왜?",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202608131121011"
+          "url": "https://v.daum.net/v/20260813092128650"
         }
       ]
     },
@@ -261,26 +261,26 @@
       "rank": 10,
       "keyword": "dc",
       "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'One year in, the National Guard continues to patrol Washington, D.C.' (NBC News) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 'Amanda Waller Series, Wonder Woman Prequel ‘Paradise Lost’ No Longer in…' (Yahoo) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "One year in, the National Guard continues to patrol Washington, D.C.",
-          "source": "NBC News",
-          "url": "https://www.nbcnews.com/politics/trump-administration/one-year-national-guard-continues-patrol-washington-dc-rcna591956"
+          "title": "Amanda Waller Series, Wonder Woman Prequel ‘Paradise Lost’ No Longer in Active Development at DC Studios",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/entertainment/tv/articles/amanda-waller-series-wonder-woman-192928958.html"
         },
         {
-          "title": "Trump administration touts more than 16,000 arrests as the federal surge in DC reaches its first year",
-          "source": "WUSA9",
-          "url": "https://www.wusa9.com/article/news/local/dc/trump-administration-16000-arrests-make-dc-safe-and-beautiful-task-force-federal-surge/65-98c91b58-b028-4d83-8161-d1f307a32735"
+          "title": "Two More DC Projects Are No Longer in the Works",
+          "source": "reactormag.com",
+          "url": "https://reactormag.com/two-dc-projects-no-longer-in-the-works/"
         },
         {
-          "title": "A year into the National Guard’s deployment in DC, has crime actually gone down?",
-          "source": "CNN",
-          "url": "https://www.cnn.com/2026/08/11/us/video/national-guard-deployment-washington-dc-lead-jake-tapper"
+          "title": "DC’s Amanda Waller and Wonder Woman-Themed Shows Suffer Major Blow",
+          "source": "Gizmodo",
+          "url": "https://gizmodo.com/dcs-amanda-waller-and-wonder-woman-themed-shows-suffer-major-blow-2000797929"
         }
       ]
     }
