@@ -1,108 +1,52 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-13T06:59:17.903Z",
+  "updatedAt": "2026-08-13T08:39:50.038Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "로스앤젤레스-fc-대-케레타로-fc-순위",
+      "id": "전차",
       "rank": 1,
-      "keyword": "로스앤젤레스 fc 대 케레타로 fc 순위",
-      "volumeLabel": "200000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '손흥민 승부차기 성공 LAFC, 케레타로 제압…리그컵 8강행 여지' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "손흥민 승부차기 성공 LAFC, 케레타로 제압…리그컵 8강행 여지",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/IPT20260813000014365?section=gallery/index"
-        },
-        {
-          "title": "케레타로 상대, 드리블하는 손흥민",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260813_0002211915"
-        },
-        {
-          "title": "손흥민, 3경기 연속 득점 침묵 후...승부차기 2번 키커로 나서 성공",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260813000962"
-        }
-      ]
-    },
-    {
-      "id": "죽음",
-      "rank": 2,
-      "keyword": "죽음",
+      "keyword": "전차",
       "volumeLabel": "10000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“학교 안 보내요” 외할머니 한마디에…죽음 내몰린 교회 11살의 고립' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '미군 기갑부대 vs 우크라이나 드론부대 맞붙었더니…순식간에 끝났다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“학교 안 보내요” 외할머니 한마디에…죽음 내몰린 교회 11살의 고립",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/area/chungcheong/1272655.html"
-        },
-        {
-          "title": "'천안 아동학대의심 사망'에 정부, 위기아동 보호 강화 긴급회의",
+          "title": "미군 기갑부대 vs 우크라이나 드론부대 맞붙었더니…순식간에 끝났다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260813152400616"
+          "url": "https://v.daum.net/v/20260813093059105"
         },
         {
-          "title": "6살 때부터 학대 의심 신고...5년 반복에도 교회 거주",
-          "source": "YTN",
-          "url": "https://m.ytn.co.kr/news_view.amp.php?param=0115_202608121854398051"
+          "title": "\"우크라 드론과 모의전투시 美기갑여단 전멸\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260813008400038"
+        },
+        {
+          "title": "세계 최고 맞아?…미군, 우크라 '드론 부대'와 모의 전투서 완패 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/08/13/2026081310372690497"
         }
       ]
     },
     {
-      "id": "슈퍼맨이-돌아왔다",
-      "rank": 3,
-      "keyword": "슈퍼맨이 돌아왔다",
+      "id": "시내버스",
+      "rank": 2,
+      "keyword": "시내버스",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''슈돌' 심형탁 \"아들 하루 머리핀 없으면 안 돼\"…남다른 머리숱' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'슈돌' 심형탁 \"아들 하루 머리핀 없으면 안 돼\"…남다른 머리숱",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812210649039"
-        },
-        {
-          "title": "'슈돌' 심형탁, 子 하루 아이돌급 인기에 깜짝…성수동 나들이 [RE:TV]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6257285"
-        },
-        {
-          "title": "'심형탁子' 하루, 평양냉면 얼마나 맛있었으면…\"그릇 들고 드링킹\" ('슈돌')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/12/MQ2DAOBZMI3DON3GHE2DGMJQMQ/"
-        }
-      ]
-    },
-    {
-      "id": "버스",
-      "rank": 4,
-      "keyword": "버스",
-      "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[와글와글] \"버스가 왜 여기에?\" 지하도로 끼임 사고' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[와글와글] \"버스가 왜 여기에?\" 지하도로 끼임 사고' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "[와글와글] \"버스가 왜 여기에?\" 지하도로 끼임 사고",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6844388_37012.html"
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813065101857"
         },
         {
           "title": "“내비 따라 달렸다가”…지하도로 입구에 끼어버린 시내버스",
@@ -110,177 +54,201 @@
           "url": "https://www.donga.com/news/Society/article/all/20260813/134470837/2"
         },
         {
-          "title": "'진입금지' 현수막 걸렸는데…시내버스, 지하도로 입구에 끼였다",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202608131331336402"
-        }
-      ]
-    },
-    {
-      "id": "강원-fc",
-      "rank": 5,
-      "keyword": "강원 fc",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김병지 강원FC 대표, 춘천시민·육동한 시장에 공식 사과' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김병지 강원FC 대표, 춘천시민·육동한 시장에 공식 사과",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813105154317"
-        },
-        {
-          "title": "김병지 강원FC 대표, 춘천시·육동한 시장에 공식사과…\"폄훼 의도 없어\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/kangwon/6258020"
-        },
-        {
-          "title": "‘춘천 폄훼 논란’ 김병지 공식 사과…강원FC 홈경기 유치 주목",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260813/134471755/1"
-        }
-      ]
-    },
-    {
-      "id": "홈플러스-재개장",
-      "rank": 6,
-      "keyword": "홈플러스 재개장",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"홈플러스 살리자\" 울산서 장보기 캠페인…김상욱 시장 동참' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"홈플러스 살리자\" 울산서 장보기 캠페인…김상욱 시장 동참",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260813105300057"
-        },
-        {
-          "title": "\"본점만큼은 살려야\"…한 달 만에 재개장 홈플러스, '오픈런' 인산인해[TF현장]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813154352628"
-        },
-        {
-          "title": "다시 문 연 홈플러스...할인행사에 손님 몰려",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202608131441269079"
-        }
-      ]
-    },
-    {
-      "id": "왕-싱싱",
-      "rank": 7,
-      "keyword": "왕 싱싱",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '中 유니트리 IPO 개미 1천700조 몰렸다' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "中 유니트리 IPO 개미 1천700조 몰렸다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813042701694"
-        },
-        {
-          "title": "中 유니트리 공모주 일반청약 종료…8,289대 1 역대 최고 경쟁률",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260812174206F8F"
-        },
-        {
-          "title": "iM증권 \"中유니트리로봇 상장, 국내업체에 부정적…아웃퍼폼 필요\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260812025300008"
-        }
-      ]
-    },
-    {
-      "id": "박덕흠",
-      "rank": 8,
-      "keyword": "박덕흠",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] 李대통령, 전·현 국힘 국회부의장과 골프…조정식도 동행' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[단독] 李대통령, 전·현 국힘 국회부의장과 골프…조정식도 동행",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813050251594"
-        },
-        {
-          "title": "이 대통령, 전·현직 국회부의장 등 국민의힘 의원들과 골프 회동…필드 위 ‘협치’ 나섰나",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608131528001"
-        },
-        {
-          "title": "이 대통령, 국민의힘 소속 의원 등 전현직 의장단과 골프 회동",
+          "title": "[와글와글] \"버스가 왜 여기에?\" 지하도로 끼임 사고",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6844458_36911.html"
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6844388_37012.html"
         }
       ]
     },
     {
-      "id": "엘에이-fc",
-      "rank": 9,
-      "keyword": "엘에이 fc",
+      "id": "ah-64-아파치",
+      "rank": 3,
+      "keyword": "ah-64 아파치",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[영상] 미군 아파치 헬기 텍사스 들판에 추락…\"훈련중 사고, 2명 사망\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[영상] 미군 아파치 헬기 텍사스 들판에 추락…\"훈련중 사고, 2명 사망\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260813125600704"
+        },
+        {
+          "title": "미군 아파치 헬기, 텍사스서 추락…탑승자 전원 사망 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/08/13/2026081306562655001"
+        },
+        {
+          "title": "美 육군 대표 공격 헬기 아파치, 텍사스에서 추락…훈련 중 장병 2명 사망",
+          "source": "채널A",
+          "url": "https://ichannela.com/news/detail/000000544972.do"
+        }
+      ]
+    },
+    {
+      "id": "표인봉",
+      "rank": 4,
+      "keyword": "표인봉",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''61세' 표인봉, 서울역서 붕어빵 장사 근황 \"많이 벌 때는...\"('특종세상')' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'61세' 표인봉, 서울역서 붕어빵 장사 근황 \"많이 벌 때는...\"('특종세상')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813121641028"
+        },
+        {
+          "title": "[MBN] 개그맨 표인봉의 '인생 2막'",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260812n29764"
+        },
+        {
+          "title": "'순풍' 표인봉, 노숙인 사이 붕어빵 굽는 근황...\"차고 넘칠수록 채워지지 않아\" ('특종세상')",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-08-13/202608130100077110004802"
+        }
+      ]
+    },
+    {
+      "id": "강소휘",
+      "rank": 5,
+      "keyword": "강소휘",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Preview | LAFC vs. Querétaro - Leagues Cup 2026 - Phase One' (Los Angeles Football Club) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "해리-케인",
+      "rank": 6,
+      "keyword": "해리 케인",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'SON ‘영혼단짝’ 케인, 토트넘이 재영입 추진 ‘우선협상권’ 사용할까 “역대 최다 득점자 재영입 의지 밝혔다”' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Preview | LAFC vs. Querétaro - Leagues Cup 2026 - Phase One",
-          "source": "Los Angeles Football Club",
-          "url": "https://www.lafc.com/news/preview-lafc-vs-queretaro-leagues-cup-2026-phase-one-august-12"
+          "title": "SON ‘영혼단짝’ 케인, 토트넘이 재영입 추진 ‘우선협상권’ 사용할까 “역대 최다 득점자 재영입 의지 밝혔다”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608122008003"
         },
         {
-          "title": "Leagues Cup Queretaro LAFC Soccer",
-          "source": "Bluefield Daily Telegraph",
-          "url": "https://www.bdtonline.com/sports/national_sports/leagues-cup-queretaro-lafc-soccer/image_67940c70-49c3-5684-837b-01f893cc6941.html"
+          "title": "[오피셜]\"초대박!\" '21세기 메시 이후 처음' 해리 케인, 유럽 득점왕 영광→'FIFA 최우수 선수상 유력 후보' 거론",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/08/11/ME3DSMDCHFRTSYZVGJSDAOBUGA/"
         },
         {
-          "title": "LAFC 1 (5), Querétaro 1 (3): Disappointing draw sends LAFC into waiting game",
-          "source": "Angels on Parade",
-          "url": "https://angelsonparade.com/lafc-1-queretaro-1-final-score-report-review-recap-leagues-cup-round-3-2026/"
+          "title": "해리 케인, 1200억 초대박+발롱도르 1순위 '토트넘 안 가'…인생 최고의 순간 온다→뮌헨 대형 재계약+'147G 146골' 수상 확률 무려 60%",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260813n28501"
         }
       ]
     },
     {
-      "id": "서울-도심",
+      "id": "공희용",
+      "rank": 7,
+      "keyword": "공희용",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "저비용-항공사",
+      "rank": 8,
+      "keyword": "저비용 항공사",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '티웨이항공, 상반기 1628억 영업손실…\"유가·환율 급등 피해\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "티웨이항공, 상반기 1628억 영업손실…\"유가·환율 급등 피해\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260813_0003747704"
+        },
+        {
+          "title": "[취재후일담] 항공사명 앞 알파벳 늘었다…브랜드 차별화의 ‘명암’",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260813010004590"
+        },
+        {
+          "title": "[CEO와칭]이상윤, 티웨이서 트리니티로…확장 이후 ‘수익성’ 승부",
+          "source": "메트로신문",
+          "url": "https://www.metroseoul.co.kr/article/20260812500415"
+        }
+      ]
+    },
+    {
+      "id": "카카오-파업",
+      "rank": 9,
+      "keyword": "카카오 파업",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '카카오뱅크 노조, 내일 하루 2차 파업…\"요구 관철까지 투쟁 지속\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "카카오뱅크 노조, 내일 하루 2차 파업…\"요구 관철까지 투쟁 지속\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813133919013"
+        },
+        {
+          "title": "카카오뱅크 노조, 14일 2차 파업…노사 갈등 격화",
+          "source": "MTN 머니투데이방송",
+          "url": "https://news.mtn.co.kr/news-detail/2026081313571877206"
+        },
+        {
+          "title": "카카오뱅크 노조, 14일 추가 파업…\"은행업무 영향 연속파업 준비\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260813_0003747682"
+        }
+      ]
+    },
+    {
+      "id": "김용범",
       "rank": 10,
-      "keyword": "서울 도심",
+      "keyword": "김용범",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[속보]“집 못 지어서 미쳤나 소리 듣게 지어라”···남양주 덕소농장·경기광주·염창공원에 12만호 공급[8·13 부동산대책]' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '수학 영재 “현실적인 고민” 발언에…이 대통령 “특정 과 몰리는 것 슬픈 일” [이런뉴스]' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[속보]“집 못 지어서 미쳤나 소리 듣게 지어라”···남양주 덕소농장·경기광주·염창공원에 12만호 공급[8·13 부동산대책]",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608131200041"
+          "title": "수학 영재 “현실적인 고민” 발언에…이 대통령 “특정 과 몰리는 것 슬픈 일” [이런뉴스]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8635751"
         },
         {
-          "title": "소병훈·안태준 의원, “경기광주역세권2 주택공급 계획 환영, 광주 대전환의 전기 마련”",
-          "source": "인천일보",
-          "url": ""
+          "title": "상용화 불확실한 양자기술…산업계 \"정부가 투자 위험 나눠야\"",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026081314230982821"
         },
         {
-          "title": "[속보] 수도권 2.7만 신규 공급‥'결혼 페널티' 고친다",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6844466_36967.html"
+          "title": "미래성장동력 7대 SEED 보고회 - 사진 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyPhotoView.do?bbsKey=72993"
         }
       ]
     }
