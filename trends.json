@@ -1,45 +1,73 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-12T23:18:24.029Z",
+  "updatedAt": "2026-08-13T00:09:00.599Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "철도망",
+      "id": "아들",
       "rank": 1,
-      "keyword": "철도망",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "keyword": "아들",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“신분당선 의왕·군포·안산 연장”…추미애 답변 주목' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '이혼 황정음, 아들이 컴퓨터 질문하자 \"그건 아빠한테\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“신분당선 의왕·군포·안산 연장”…추미애 답변 주목",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8634698"
+          "title": "이혼 황정음, 아들이 컴퓨터 질문하자 \"그건 아빠한테\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260812_0003746877"
         },
         {
-          "title": "[패트롤] 수원시-화성시-평택시-오산시-안성시",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20260812026011860"
+          "title": "할리우드급으로 쿨하네…황정음·홍진경·이선정, 이혼 후에도 '전남편' 공개 언급한 ★ [종합]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812185318973"
         },
         {
-          "title": "경기 기초단체장들 국가철도망 계획에 신분당선 연장선 반영해야",
-          "source": "매일경제",
-          "url": "https://www.mbn.co.kr/news/society/5211891"
+          "title": "'이혼' 황정음, 아들 문제에 결국 전남편에 SOS…스윗한 父子 통화 [순간포착]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/12/GRTDKZRTHE3TCYTBMY4TOZDEME/"
+        }
+      ]
+    },
+    {
+      "id": "안정환",
+      "rank": 2,
+      "keyword": "안정환",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '35억원 빚더미에서 강남 건물주 된 안정환, 25년이 증명한 실전 경제 기록' (세계일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "35억원 빚더미에서 강남 건물주 된 안정환, 25년이 증명한 실전 경제 기록",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260624513696"
+        },
+        {
+          "title": "골 때리는 그녀들 : 박주아, 프리킥 찬스 놓치지 않으며 상대 수비진 무너뜨린 통쾌한 중거리 골",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/kickagoal/clip/67995/OC481061876"
+        },
+        {
+          "title": "소유미 집, ‘골때녀’ 아지트 됐다…원더우먼, 비장한 합숙 돌입",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/514579"
         }
       ]
     },
     {
       "id": "이진숙",
-      "rank": 2,
+      "rank": 3,
       "keyword": "이진숙",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '이진숙, “광주, 반문명·반근대 민중·민족주의 세력에 의해 지배” 주장 단체와 5·18 포럼 개최' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -61,81 +89,109 @@
       ]
     },
     {
-      "id": "이투데이",
-      "rank": 3,
-      "keyword": "이투데이",
-      "volumeLabel": "500+",
+      "id": "차준환",
+      "rank": 4,
+      "keyword": "차준환",
+      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''하닉 통합노조' 출범 임박…'성과급 연대' 예고' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '인류 지키려 괴물과 싸우는 피겨 왕자' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'하닉 통합노조' 출범 임박…'성과급 연대' 예고",
+          "title": "인류 지키려 괴물과 싸우는 피겨 왕자",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20260813/134468432/2"
+        },
+        {
+          "title": "차준환, 변우석과 똑같은 역할 맡았다…17년 만에 배우 복귀 앞두고 '나혼렙' 성진우 활약",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260813070611112"
+          "url": "https://v.daum.net/v/20260812153112408"
         },
         {
-          "title": "삼성전자 초기업노조, SK하이닉스 통합노조와 ‘공동 성명’ 검토",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8635028"
-        },
-        {
-          "title": "반도체 노조, '장외 연대' 나서나…삼성전자·SK하이닉스 노조 공동성명 검토",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260812_0003746498"
+          "title": "“집 담보로 만든 ‘빙판 위 뮤지컬’… 월드투어 목표”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11608640"
         }
       ]
     },
     {
-      "id": "유혜정",
-      "rank": 4,
-      "keyword": "유혜정",
-      "volumeLabel": "500+",
+      "id": "퇴거",
+      "rank": 5,
+      "keyword": "퇴거",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '유혜정, 전 남편과 이혼한 지 19년…\"본받을 점 많아, 딸이 좋은 점 배웠으면\" (퍼라)[전일야화]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '인천공항 의자 점령에 전기차 노숙까지…시민단체 \"일방적 내쫓기\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "유혜정, 전 남편과 이혼한 지 19년…\"본받을 점 많아, 딸이 좋은 점 배웠으면\" (퍼라)[전일야화]",
+          "title": "인천공항 의자 점령에 전기차 노숙까지…시민단체 \"일방적 내쫓기\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260813073136460"
+          "url": "https://v.daum.net/v/20260813083753020"
         },
         {
-          "title": "유혜정 \"체중 15㎏ 늘어 65㎏ 돼…남성복 입을 정도\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260812_0003746915"
+          "title": "인천공항 노숙인 퇴거에 인권단체 반발‥공사 \"자발적 퇴거 요청\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6844211_36918.html"
         },
         {
-          "title": "‘서용빈과 이혼’ 유혜정, 20년째 연애 無…“남자와 대화도 거의 안 해” (퍼라)",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608121623003"
+          "title": "[경향포토] 홈리스행동,\"인천공항 홈리스 강제퇴거 중단하라\"",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608121407001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
         }
       ]
     },
     {
       "id": "제주특별자치도",
-      "rank": 5,
+      "rank": 6,
       "keyword": "제주특별자치도",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": []
     },
     {
+      "id": "철도",
+      "rank": 7,
+      "keyword": "철도",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+2",
+      "summary": "급상승 시점에 '안성시, JTX 신속 추진 촉구…12만4944명 시민 서명 국토부 전달' (뉴스타운) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "안성시, JTX 신속 추진 촉구…12만4944명 시민 서명 국토부 전달",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=712187"
+        },
+        {
+          "title": "진천군 'JTX 조기 착공' 군민 1만5000명 염원 국토부 전달",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/sejong-chungbuk/6257460"
+        },
+        {
+          "title": "첨단산업 품었는데 '철도'가 없다…안성시 JTX 추진 서명부 전달 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/08/12/2026081217373321591"
+        }
+      ]
+    },
+    {
       "id": "서울역",
-      "rank": 6,
+      "rank": 8,
       "keyword": "서울역",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '[챗집피티]\"서울역까지 5분\"…다시 시동 건 '1조' 용산 서계동 재개발 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -157,114 +213,58 @@
       ]
     },
     {
-      "id": "노동쟁의",
-      "rank": 7,
-      "keyword": "노동쟁의",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[사설]法·令 근거 없이 노동부 멋대로 정한 노봉법 쟁의 기준' (동아일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[사설]法·令 근거 없이 노동부 멋대로 정한 노봉법 쟁의 기준",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Opinion/article/all/20260812/134468521/2"
-        },
-        {
-          "title": "(설명) 조선일보, \"李 지시에도···노란봉투법 시행령 안 만든 노동부\" 기사 관련",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148969882"
-        },
-        {
-          "title": "\"지방 정부도 사용자\"…중노위 첫 판단 나왔다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026081274951"
-        }
-      ]
-    },
-    {
-      "id": "롯데렌탈",
-      "rank": 8,
-      "keyword": "롯데렌탈",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'TPG 품에 안긴 롯데렌탈…\"매각대금에도 롯데그룹 신용도 영향 제한적\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "TPG 품에 안긴 롯데렌탈…\"매각대금에도 롯데그룹 신용도 영향 제한적\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/ZNQOQVrNtq"
-        },
-        {
-          "title": "한국신용평가 \"호텔롯데, 롯데렌탈 8170억에 매각해도 신용도 개선 힘들어\"",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444573"
-        },
-        {
-          "title": "렌탈 매각으로 한숨 돌린 롯데… 재무구조 개선 속도 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/distribution/channel/2026/08/12/RZG6MKCUGRBBFIE5HUEY3Y2OJI/"
-        }
-      ]
-    },
-    {
-      "id": "철도",
+      "id": "서건창",
       "rank": 9,
-      "keyword": "철도",
+      "keyword": "서건창",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''600여억원+매년 사용료' 물게 된 경의선숲길…서울시, 해법 고심' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''LG·KIA서 연속 방출→은퇴 위기→다시 서교수 모드' 서건창 \"히어로즈 오니 편안함 느껴, 재미있게 야구한다\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'600여억원+매년 사용료' 물게 된 경의선숲길…서울시, 해법 고심",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260812097300004"
+          "title": "'LG·KIA서 연속 방출→은퇴 위기→다시 서교수 모드' 서건창 \"히어로즈 오니 편안함 느껴, 재미있게 야구한다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/13/2026081223333250922"
         },
         {
-          "title": "연트럴파크 공짜로 쓰던 서울시, 철도공단에 ‘800억원’ 물어내야",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608122058025"
+          "title": "동점 만들어낸 키움",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260812_0021397154"
         },
         {
-          "title": "'연트럴파크' 사용료 지불해야 할 판…분쟁 끝 패소한 서울시 [지금이뉴스]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0545_202608121520020578"
+          "title": "[스경X현장]‘서건창 4안타’ 키움, LG에 제대로 고춧가루 뿌렸다",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608122218003"
         }
       ]
     },
     {
-      "id": "추경호",
+      "id": "pba-팀리그",
       "rank": 10,
-      "keyword": "추경호",
+      "keyword": "pba 팀리그",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '무한소통 추경호 대구시장, 이번엔 공무원 무기명 토론방 ‘등판’' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '화성특례시, PBA 팀리그 2라운드 개막…프로당구 10개 팀 격돌' (뉴스타운) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "무한소통 추경호 대구시장, 이번엔 공무원 무기명 토론방 ‘등판’",
+          "title": "화성특례시, PBA 팀리그 2라운드 개막…프로당구 10개 팀 격돌",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=712206"
+        },
+        {
+          "title": "‘1라운드 우승’ 우리금융캐피탈 2라운드도 산뜻한 출발…하나카드에 4:0 완승[PBA팀리그 2R]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260812153504581"
+          "url": "https://v.daum.net/v/20260813010900082"
         },
         {
-          "title": "대구시교육청, 행정업무에 AI 도입… ‘충실이’ 9월부터 운영",
-          "source": "뉴데일리 대구경북",
-          "url": "https://tk.newdaily.co.kr/site/data/html/2026/08/10/2026081000289.html"
-        },
-        {
-          "title": "“추경호입니다” 공무원 익명 게시판 등판한 시장… 직원들 “감동”",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/society/2026/08/12/20260812500100"
+          "title": "프로당구협회 팀리그 화성시 투어 2라운드 개막",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260812_0003745299"
         }
       ]
     }
