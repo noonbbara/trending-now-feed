@@ -1,129 +1,73 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-13T15:31:40.536Z",
+  "updatedAt": "2026-08-13T17:03:52.444Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "분권-형-개헌",
+      "id": "캐나다",
       "rank": 1,
-      "keyword": "분권 형 개헌",
-      "volumeLabel": "5000+",
+      "keyword": "캐나다",
+      "volumeLabel": "2000+",
       "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"李대통령, 분권형 개헌 제안에 '내 임기 단축해서라도 해야'\"(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '한화, 오스탈 USA 인수 추진...핵 잠수함 모듈도 생산' (YTN 사이언스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"李대통령, 분권형 개헌 제안에 '내 임기 단축해서라도 해야'\"(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813171900355"
+          "title": "한화, 오스탈 USA 인수 추진...핵 잠수함 모듈도 생산",
+          "source": "YTN 사이언스",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202608121106070099"
         },
         {
-          "title": "김태호 \"李 대통령, 분권형 개헌 제안에 '임기 단축해서라도 해야'라고 말해\"(종합)",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260813_0003748618"
+          "title": "한화, 오스탈USA 인수 추진…CFIUS 총괄, 필리조선소 찾았다 By EBN",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2057671"
         },
         {
-          "title": "이 대통령, 국민의힘 소속 의원 등 전현직 의장단과 골프 회동",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6844458_36911.html"
+          "title": "필리 이어 오스탈까지… 한화오션, 美 해군•핵잠 노린다",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260812500685"
         }
       ]
     },
     {
-      "id": "캐나다",
+      "id": "사랑-이-온다",
       "rank": 2,
-      "keyword": "캐나다",
+      "keyword": "사랑 이 온다",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''캐치 미 이프 유 캔' 현실판…가짜 조종사 행세해 무료 비행 즐긴 전직 승무원' (전자신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '가족이란 이름의 무게…안희연, 한가네 중심 잡는 K-장녀(‘사랑이 온다’)' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'캐치 미 이프 유 캔' 현실판…가짜 조종사 행세해 무료 비행 즐긴 전직 승무원",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260812000369"
+          "title": "가족이란 이름의 무게…안희연, 한가네 중심 잡는 K-장녀(‘사랑이 온다’)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/13/GZRGMOLBGBQWKNLEHBRWMMDGGM/"
         },
         {
-          "title": "\"캐치 미~\" 현실판…조종사 행세 캐나다男, 200차례 무료탑승",
+          "title": "‘사랑이 온다’ 한家네 대소동, 몰입도↑ #3",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608131600013"
+        },
+        {
+          "title": "KBS 자존심 챙겼다…시청률 15.7% 돌파→6회 만에 민심 잡고 대박 난 韓 드라마 ('사랑이 온다')",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260812162650283?f=p"
-        },
-        {
-          "title": "승무원 출신 캐나다 男 조종사 행세…200차례 항공편 무료 이용",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026081278007"
-        }
-      ]
-    },
-    {
-      "id": "하영-엄마",
-      "rank": 3,
-      "keyword": "하영 엄마",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '하영 '증조부 친일 논란'에 안양시 독립운동가 소개글 비공개' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "하영 '증조부 친일 논란'에 안양시 독립운동가 소개글 비공개",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260813101500061"
-        },
-        {
-          "title": "하영 증조부 친일 논란에 日도 시끌…\"증손자가 왜 사과하나\"",
-          "source": "주간조선",
-          "url": ""
-        },
-        {
-          "title": "‘제국의 위안부’ 박유하 “하영 비난은 순결강박…구조적 친일일 뿐”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11608911"
-        }
-      ]
-    },
-    {
-      "id": "새미래민주당",
-      "rank": 4,
-      "keyword": "새미래민주당",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"우리집 주소는 서울 중구 XXXX\"…\"오빠, 우리 헤어져\" [시장톡]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"우리집 주소는 서울 중구 XXXX\"…\"오빠, 우리 헤어져\" [시장톡]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026081261786"
-        },
-        {
-          "title": "“베네수가 롤모델인가” 황희 폐버스 논란에 소환된 6년전 기사",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813003211864"
-        },
-        {
-          "title": "'폐버스 주택' 논란에 80년 전 일본 '목탄버스 주택'까지 소환 [앵커리포트]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202608121443427622"
+          "url": "https://v.daum.net/v/20260813143009381"
         }
       ]
     },
     {
       "id": "학교",
-      "rank": 5,
+      "rank": 3,
       "keyword": "학교",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+2",
       "summary": "급상승 시점에 ''아내는 교장.남편은 교사'…전남광주교육단체 \"인사 원칙 논란\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -146,141 +90,197 @@
     },
     {
       "id": "행동",
-      "rank": 6,
+      "rank": 4,
       "keyword": "행동",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+2",
+      "summary": "급상승 시점에 '성관계 후, ‘두 가지 행동’ 꼭 해라… 질병 예방 효과' (헬스조선) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "성관계 후, ‘두 가지 행동’ 꼭 해라… 질병 예방 효과",
+          "source": "헬스조선",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/08/13/2026081302757.html"
+        },
+        {
+          "title": "하영 '증조부 친일 논란'에 안양시 독립운동가 소개글 비공개",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260813101500061"
+        },
+        {
+          "title": "[문화]하영 증조부 비판에 \"친일 강박증\"...논란이 남긴 질문",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0106_202608140026104350_005.html"
+        }
+      ]
+    },
+    {
+      "id": "기쁜-우리-좋은-날",
+      "rank": 5,
+      "keyword": "기쁜 우리 좋은 날",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '광진, 말썽쟁이 반려견 집에서 교육해 준다' (서울Pn) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '＂운전도 못 하는 사람이 교통사고?!＂ 정호빈의 서랍에서 진실을 발견한 이상숙 [기쁜 우리 좋은 날] | KBS 260813 방송' (대한민국 대표 공영미디어 KBS) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "광진, 말썽쟁이 반려견 집에서 교육해 준다",
-          "source": "서울Pn",
-          "url": "https://go.seoul.co.kr/news/newsView.php?id=20260812020002"
+          "title": "＂운전도 못 하는 사람이 교통사고?!＂ 정호빈의 서랍에서 진실을 발견한 이상숙 [기쁜 우리 좋은 날] | KBS 260813 방송",
+          "source": "대한민국 대표 공영미디어 KBS",
+          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K01_PS-2026141491-01-000_MFSC4&program_code=T2026-0027&program_id=PS-2026141491-01-000&section_code=03&broadcast_complete_yn=N&section_id=27243"
         },
         {
-          "title": "서울 강서구, '반려견 집합행동 교정' 가을학기 개강…20가구 모집",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/RPR20260811002100353"
+          "title": "적수 없다…'47.9%' 복수의 여왕→4%대 경쟁작 '일일극 삼파전' 압도하며 선두 지킨 韓 드라마 ('기쁜 우리')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813160209464"
         },
         {
-          "title": "강서구, '반려견 행동교정 교육' 가을학기 수강생 모집",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3661580"
+          "title": "'기쁜 우리 좋은 날' 윤종훈, 사고 기억 돌아왔다...\"세사람 다 있었어\"",
+          "source": "싱글리스트",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=758353"
+        }
+      ]
+    },
+    {
+      "id": "삼계탕-사발면",
+      "rank": 6,
+      "keyword": "삼계탕 사발면",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''국내 역출시' 농심 삼계탕사발면, 1000박스 10분 만에 '품절'' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'국내 역출시' 농심 삼계탕사발면, 1000박스 10분 만에 '품절'",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/industry/distribution/6256976"
+        },
+        {
+          "title": "“韓 라면인데, 왜 일본서만 팔아요?” 국내 풀리자마자 무섭게 ‘완판’",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20078626"
+        },
+        {
+          "title": "日 휩쓴 '농심 삼계탕사발면' 韓 출시 10분만에 '완판'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260812_0003746366"
+        }
+      ]
+    },
+    {
+      "id": "dc",
+      "rank": 7,
+      "keyword": "dc",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Adult device shuts down rush hour traffic in DC' (WUSA9) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Adult device shuts down rush hour traffic in DC",
+          "source": "WUSA9",
+          "url": "https://www.wusa9.com/article/news/crime/sex-toy-suspicious-package-dc-fire-station-tenleytown/65-a08022da-f17b-4710-8329-579d34e84e35"
+        },
+        {
+          "title": "Suspicious package that shut down Wisconsin Ave. was electronic sex device, police say",
+          "source": "NBC4 Washington",
+          "url": "https://www.nbcwashington.com/news/local/suspicious-package-found-at-firehouse-in-tenleytown-draws-large-emergency-response/4141206/"
+        },
+        {
+          "title": "Adult toy left behind DC firehouse prompts bomb squad response",
+          "source": "FOX 5 DC",
+          "url": "https://www.fox5dc.com/news/adult-toy-exposed-wires-prompts-bomb-squad-response-behind-d-c-firehouse"
         }
       ]
     },
     {
       "id": "세르비아-축구-국가대표팀",
-      "rank": 7,
+      "rank": 8,
       "keyword": "세르비아 축구 국가대표팀",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"한국 축구 다시 최고 수준으로\" '전설' 스토이코비치, 대표팀 감독직 공개 도전...단, '임시'는 싫다 - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '[단독] ‘세르비아 레전드’ 스토이코비치 “한국 축구 재건할 자신 충분…단, ‘장기직’만 관심”' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"한국 축구 다시 최고 수준으로\" '전설' 스토이코비치, 대표팀 감독직 공개 도전...단, '임시'는 싫다 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/baseball/2026/08/13/GM3TGZTGGMYTIYRYMU3TEODFMM/"
-        },
-        {
           "title": "[단독] ‘세르비아 레전드’ 스토이코비치 “한국 축구 재건할 자신 충분…단, ‘장기직’만 관심”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813180937585"
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8636373"
         },
         {
           "title": "세르비아 전 감독 스토이코비치 \"한국 대표팀 감독 생각 있다…서울 산다면\"",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20260813_0003748546"
+        },
+        {
+          "title": "\"한국 축구 다시 최고 수준으로\" '전설' 스토이코비치, 대표팀 감독직 공개 도전...단, '임시'는 싫다 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/baseball/2026/08/13/GM3TGZTGGMYTIYRYMU3TEODFMM/"
         }
       ]
     },
     {
       "id": "기아타이거즈",
-      "rank": 8,
+      "rank": 9,
       "keyword": "기아타이거즈",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '삼성, 9회초 류지혁 동점타·강민호 역전타…4연패 탈출(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '하주석 차량 못 받았다…\"비디오판독 해주신다고\" KIA 이적 후 첫 홈런 '시선집중'→\"살짝 모자랐다\" [광주 현장]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "삼성, 9회초 류지혁 동점타·강민호 역전타…4연패 탈출(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260813175100007"
-        },
-        {
-          "title": "'더위 먹은 사자? KIA에 극적 9회 뒤집기' 강민호 4타점 대폭발+디아즈 천금 3점포",
+          "title": "하주석 차량 못 받았다…\"비디오판독 해주신다고\" KIA 이적 후 첫 홈런 '시선집중'→\"살짝 모자랐다\" [광주 현장]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/7iwgwiYCwu"
+          "url": "https://v.daum.net/v/20260813171939399"
         },
         {
-          "title": "'강민호·디아즈 홈런' 삼성, KIA 꺾고 4연패 탈출…'5회 8득점' LG도 역전승(종합)",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260813_0003748587"
+          "title": "[사진]하주석, 달아나는 투런포 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/12/202608122200774900O"
+        },
+        {
+          "title": "희생 번트하는 하주석",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260811186900054"
         }
       ]
     },
     {
       "id": "데이브-로버츠",
-      "rank": 9,
+      "rank": 10,
       "keyword": "데이브 로버츠",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''끔찍한 사고' 2293억 다저스 슈퍼스타 계단 아래로 추락→로버츠 감독 황급히 뛰쳐나와…\"머리 충돌은 피했다\"' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 ''끔찍한 사고' 2293억 다저스 슈퍼스타 계단 아래로 추락→로버츠 감독 황급히 뛰쳐나와…\"머리 충돌은 피했다\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "'끔찍한 사고' 2293억 다저스 슈퍼스타 계단 아래로 추락→로버츠 감독 황급히 뛰쳐나와…\"머리 충돌은 피했다\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260813n26960"
-        },
-        {
-          "title": "'철렁' 프리먼, 파울플라이 잡다 더그아웃으로 추락…다저스 \"큰 부상은 아니다\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260813174451560"
+          "url": "https://v.daum.net/v/20260813162251471"
         },
         {
           "title": "프리먼 난간 없는 더그아웃으로 추락, 4.7만 관중이 깜놀...당사자는 멀쩡하게 너스레, \"키가 커서 머리 안 부딪혔다\" - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/sports/2026/08/13/202608131700778666O"
-        }
-      ]
-    },
-    {
-      "id": "약사",
-      "rank": 10,
-      "keyword": "약사",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '개설약사 연 평균 소득 1억원…상위 1%는 7억원 번다' (데일리팜) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "개설약사 연 평균 소득 1억원…상위 1%는 7억원 번다",
-          "source": "데일리팜",
-          "url": "https://dailypharm.com/user/news/341421"
         },
         {
-          "title": "작년 소득세 신고내역 살펴보니 역시 의사·변호사",
-          "source": "한국세정신문",
-          "url": "https://www.taxtimes.co.kr/news/article.html?no=276349"
-        },
-        {
-          "title": "장벽 없는 분배, 약사업이 증명한 성평등과 소득 안정성",
-          "source": "팜뉴스",
-          "url": "https://www.pharmnews.com/news/articleView.html?idxno=305591"
+          "title": "“큰일 날 뻔했네” 다저스 1루수 프리먼, 수비 도중 상대 더그아웃으로 떨어져",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/sports/12126552"
         }
       ]
     }
