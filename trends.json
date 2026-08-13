@@ -1,45 +1,73 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-13T22:52:30.212Z",
+  "updatedAt": "2026-08-13T23:51:09.815Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "아트-엠앤-씨",
+      "id": "유리",
       "rank": 1,
-      "keyword": "아트 엠앤 씨",
+      "keyword": "유리",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '설마했는데, 빛나는 ‘유리 아이폰’…애플 ‘최고 야심작’ 진짜 나온다, 이런 모습?' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "설마했는데, 빛나는 ‘유리 아이폰’…애플 ‘최고 야심작’ 진짜 나온다, 이런 모습?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813214213802"
+        },
+        {
+          "title": "\"올글래스 아이폰, 포기 안했다…공급망서 디스플레이 포착\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260813104337"
+        },
+        {
+          "title": "“휴대폰 400만원 시대 오나”…반도체값 오르자 애플 폴더블도 가격 인상 ‘우려’",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20078969"
+        }
+      ]
+    },
+    {
+      "id": "드라간-스토이코비치",
+      "rank": 2,
+      "keyword": "드라간 스토이코비치",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김호중 소속사 고강도 세무조사···국세청 결론 나왔다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[단독] ‘세르비아 레전드’ 스토이코비치 “한국 축구 재건할 자신 충분…단, ‘장기직’만 관심”' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김호중 소속사 고강도 세무조사···국세청 결론 나왔다",
+          "title": "[단독] ‘세르비아 레전드’ 스토이코비치 “한국 축구 재건할 자신 충분…단, ‘장기직’만 관심”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8636373"
+        },
+        {
+          "title": "\"서울 거주-협회 잡음 문제 없다\" 한국 '정식 감독' 의욕 내비친 스토이코비치, 어떤 감독?",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260813154527689"
+          "url": "https://v.daum.net/v/20260814030010219"
         },
         {
-          "title": "[공식] 김호중 소속사, 고강도 세무조사에 626만 원 추가로 낸다..탈세 정황 無 [Oh!쎈 이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/music/2026/08/13/GZQWIZJXGRRTQMTBGVSDANBVMM/"
-        },
-        {
-          "title": "[공식] 김호중 소속사, 고강도 세무조사에 626만 원 추가로 낸다..탈세 정황 無 [Oh!쎈 이슈]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112856547"
+          "title": "세르비아 전 감독 스토이코비치 \"한국 대표팀 감독 생각 있다…서울 산다면\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260813_0003748546"
         }
       ]
     },
     {
       "id": "최화정",
-      "rank": 2,
+      "rank": 3,
       "keyword": "최화정",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '최화정, 주식 수익률 공개 “-94.87%”…삼성전자·하이닉스 매도 이유 밝혔다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -61,76 +89,76 @@
       ]
     },
     {
-      "id": "탁구",
-      "rank": 3,
-      "keyword": "탁구",
+      "id": "이가-시비옹테크",
+      "rank": 4,
+      "keyword": "이가 시비옹테크",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '탁구 혼복 세계 1위 임종훈-신유빈, 유럽 스매시 8강서 조기 탈락' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '스비톨리나 꺾고 결승 진출 환호하는 시비옹테크' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "탁구 혼복 세계 1위 임종훈-신유빈, 유럽 스매시 8강서 조기 탈락",
+          "title": "스비톨리나 꺾고 결승 진출 환호하는 시비옹테크",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260813_0003748523"
+          "url": "https://www.newsis.com/view/NISI20260813_0002211801"
         },
         {
-          "title": "신유빈-임종훈, '中만 생각하다 낭패 본다'... AG까지 남은건 한달[초점]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260814063136670"
+          "title": "시비옹테크, 캐나다오픈 4강…스비톨리나와 격돌",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2613304"
         },
         {
-          "title": "19분 만에 완승…신유빈, 32강 진출",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008700967"
+          "title": "‘책벌레’ 시비옹테크 vs ‘괴력’ 코스튜크…“또 만났네”",
+          "source": "테니스코리아",
+          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=53424"
         }
       ]
     },
     {
-      "id": "에코프로",
-      "rank": 4,
-      "keyword": "에코프로",
-      "volumeLabel": "500+",
+      "id": "탁구",
+      "rank": 5,
+      "keyword": "탁구",
+      "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '중저가부터 하이엔드까지…차세대 배터리 소재 보폭 넓히는 에코프로 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 '제14회 울진 금강송배 전국 탁구대회 개최…14~16일까지' (노컷뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "중저가부터 하이엔드까지…차세대 배터리 소재 보폭 넓히는 에코프로 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/08/13/2026081215145064772"
+          "title": "제14회 울진 금강송배 전국 탁구대회 개최…14~16일까지",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6562210"
         },
         {
-          "title": "에코프로, 인니 니켈 수급권 6.5만톤으로 확대…BNSI 투자 본격화",
+          "title": "[울진소식]제14회 울진금강송배 전국 탁구대회 개최 등",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260812_0003746691"
+        },
+        {
+          "title": "전국 탁구 동호인 930여 명 울진 집결… '금강송배' 14일 개막",
           "source": "Daum",
-          "url": "https://v.daum.net/v/yhdrS86b1z"
-        },
-        {
-          "title": "에코프로 \"인니 BNSI 대주주 지위 확보해 핵심자원 공급망 구축\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260811121300003"
+          "url": "https://v.daum.net/v/20260813151051921"
         }
       ]
     },
     {
       "id": "오픈ai",
-      "rank": 5,
+      "rank": 6,
       "keyword": "오픈ai",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'IPO 마음 급한 오픈AI, 1년도 안돼 최고매출책임자 교체' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 'IPO 마음 급한 오픈AI, 1년도 안돼 최고매출책임자 교체' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "IPO 마음 급한 오픈AI, 1년도 안돼 최고매출책임자 교체",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260814035350316"
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260814003200091"
         },
         {
           "title": "오픈AI, 1년새 CRO 두번째 교체…윤리책임자도 조용히 퇴사",
@@ -145,142 +173,114 @@
       ]
     },
     {
-      "id": "이상순",
-      "rank": 6,
-      "keyword": "이상순",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이효리, ♥이상순 두고 화사 손 꼭…심야 영화관서 포착' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "이효리, ♥이상순 두고 화사 손 꼭…심야 영화관서 포착",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608111119003"
-        },
-        {
-          "title": "'결혼 14년차' 이상순♥이효리, 희소식 전했다",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260812n35817"
-        },
-        {
-          "title": "이상순, 이효리와 서울 상경 근황⋯\"강아지들 표정 안 좋아, 그래도 적응\"",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2613919"
-        }
-      ]
-    },
-    {
-      "id": "셀트리온",
+      "id": "윤영철",
       "rank": 7,
-      "keyword": "셀트리온",
+      "keyword": "윤영철",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '셀트리온 ADC 항암신약, 미국 FDA 패스트트랙 추가 지정' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '팔꿈치 수술 11개월만에 실전, 17승 영건 미소 올해 볼 수 있나...이범호 \"1군 던져보고 내년 준비하는게 좋다\" - 머니투…' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "셀트리온 ADC 항암신약, 미국 FDA 패스트트랙 추가 지정",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260813022600017"
+          "title": "팔꿈치 수술 11개월만에 실전, 17승 영건 미소 올해 볼 수 있나...이범호 \"1군 던져보고 내년 준비하는게 좋다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/14/202608131939774649O"
         },
         {
-          "title": "셀트리온 ADC 신약 ‘CT-P73’ 美 FDA 패스트트랙… 임상 ADC 3종 모두 지정",
-          "source": "IT조선",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168040"
+          "title": "KIA 토종 선발 문제 해결할 구세주가 온다? 절치부심 1년, 그런데 KIA 머리는 복잡해?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813011151085"
         },
         {
-          "title": "셀트리온, 항체약물접합체 신약 CT-P73 미국 FDA의 '패스트트랙' 지정돼",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444718"
+          "title": "KIA 마운드 더 강해진다…윤영철, 실전 피칭 돌입",
+          "source": "남도일보",
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=919973"
         }
       ]
     },
     {
-      "id": "강유미",
+      "id": "전세사기",
       "rank": 8,
-      "keyword": "강유미",
+      "keyword": "전세사기",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"수영장에 전용 테라스까지\"… '1억 뷰' 스타 3살 양이로, 럭셔리 하우스 공개 [홈즈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '외대-경희대생 100명 울렸다…110억 전세사기' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"수영장에 전용 테라스까지\"… '1억 뷰' 스타 3살 양이로, 럭셔리 하우스 공개 [홈즈]",
+          "title": "외대-경희대생 100명 울렸다…110억 전세사기",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260813/134475084/1"
+        },
+        {
+          "title": "검찰, ‘대학가 백억대 전세사기’ 집주인에 징역 15년 구형",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8636350"
+        },
+        {
+          "title": "외대·경희대생 울린 110억 전세사기 건물주에 징역 15년 구형",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260814054255803"
-        },
-        {
-          "title": "\"그때부터 각방\"…강유미, 쿨한 이혼 언급",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260814_0003748663"
-        },
-        {
-          "title": "'구해줘 홈즈' 서울 목동 교육특구 아파트 임장소개",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3664326"
+          "url": "https://v.daum.net/v/20260813173048962"
         }
       ]
     },
     {
-      "id": "윤혜진",
+      "id": "수도권-광역급행철도-c노선",
       "rank": 9,
-      "keyword": "윤혜진",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "keyword": "수도권 광역급행철도 c노선",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''14년 만에 복귀' 윤혜진, 바로 파묘 시작됐다···18년 전 영상도 화제' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'GTX-C 더 구체화됐지만, 개통 시계는 흐려졌다' (중부일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'14년 만에 복귀' 윤혜진, 바로 파묘 시작됐다···18년 전 영상도 화제",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812191707479"
+          "title": "GTX-C 더 구체화됐지만, 개통 시계는 흐려졌다",
+          "source": "중부일보",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363733899"
         },
         {
-          "title": "‘엄태웅♥’ 윤혜진, 14년만에 발레리나 복귀…엄정화 “자랑스러워”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/08/MIZDMMJWGA3GGNLDG4ZGMMJXHE/"
+          "title": "[의왕역 한신더휴] GTX-C 수혜단지, 풍부한 생활 인프라 ‘관심’",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1768997"
         },
         {
-          "title": "윤혜진, 14년 만 발레 무대 복귀 후 근황…\"내 베프들 사랑해\" [★해시태그]",
-          "source": "www.xportsnews.com",
-          "url": "https://www.xportsnews.com/article/2183482"
+          "title": "[부동산 AD] 의왕역 한신더휴 14일 그랜드 오픈",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1329566"
         }
       ]
     },
     {
-      "id": "철도",
+      "id": "역세권",
       "rank": 10,
-      "keyword": "철도",
+      "keyword": "역세권",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '전국 교통공사, 무임승차 손실 국비 지원 법제화 노린다' (경인일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“AI-로봇과 공존하는 도시 만들것… 초지역 ‘펜타 역세권’ 개발”' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "전국 교통공사, 무임승차 손실 국비 지원 법제화 노린다",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1769031"
-        },
-        {
-          "title": "“안전예산 삼킨 무임승차”…대구교통공사, 도시철도 무임수송 국비 보전 촉구",
-          "source": "영남일보",
-          "url": "https://www.yeongnam.com/web/view.php?key=20260812026401824"
-        },
-        {
-          "title": "노인은 늘고 적자는 쌓이고…도시철도 ‘무임수송 청구서’ 누가 내나",
+          "title": "“AI-로봇과 공존하는 도시 만들것… 초지역 ‘펜타 역세권’ 개발”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260812160336196"
+          "url": "https://v.daum.net/v/20260814043515799"
+        },
+        {
+          "title": "‘안산 첫 연임’ 이민근 시장 “소통과 협치로 혁신도시 완성에 온힘”",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260812523900"
+        },
+        {
+          "title": "'안산 최초 연임' 이민근의 도전 [오상도의 경기유랑]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260812n31357"
         }
       ]
     }
