@@ -1,254 +1,270 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-13T08:39:50.038Z",
+  "updatedAt": "2026-08-13T10:16:34.145Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "전차",
+      "id": "부동산-거품",
       "rank": 1,
-      "keyword": "전차",
+      "keyword": "부동산 거품",
       "volumeLabel": "10000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '미군 기갑부대 vs 우크라이나 드론부대 맞붙었더니…순식간에 끝났다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '이 대통령 \"부동산 문제 해결에 가용한 수단과 역량 집중 투입\"' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "미군 기갑부대 vs 우크라이나 드론부대 맞붙었더니…순식간에 끝났다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813093059105"
+          "title": "이 대통령 \"부동산 문제 해결에 가용한 수단과 역량 집중 투입\"",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970041&pWise=sub&pWiseSub=C2"
         },
         {
-          "title": "\"우크라 드론과 모의전투시 美기갑여단 전멸\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20260813008400038"
+          "title": "[사설] 수도권 23만호 추가 공급, 속도가 관건이다",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/opinion/editorial/1272833.html"
         },
         {
-          "title": "세계 최고 맞아?…미군, 우크라 '드론 부대'와 모의 전투서 완패 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/08/13/2026081310372690497"
+          "title": "[속보]남양주에 2.1만호 공급…내곡동 등 그린벨트 해제는 유보",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11609340"
         }
       ]
     },
     {
-      "id": "시내버스",
+      "id": "중매",
       "rank": 2,
-      "keyword": "시내버스",
+      "keyword": "중매",
       "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[와글와글] \"버스가 왜 여기에?\" 지하도로 끼임 사고' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“참한 아내” 알고보니 성병에 빚더미…‘초고속 결혼’ 난리난 곳' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[와글와글] \"버스가 왜 여기에?\" 지하도로 끼임 사고",
+          "title": "“참한 아내” 알고보니 성병에 빚더미…‘초고속 결혼’ 난리난 곳",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260813065101857"
+          "url": "https://v.daum.net/v/20260813140137892"
         },
         {
-          "title": "“내비 따라 달렸다가”…지하도로 입구에 끼어버린 시내버스",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260813/134470837/2"
+          "title": "“3일 만에 운명을 만났다” 예물 6300만원 건넨 中 남성…아내의 정체는",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20078372"
         },
         {
-          "title": "[와글와글] \"버스가 왜 여기에?\" 지하도로 끼임 사고",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6844388_37012.html"
+          "title": "\"미끼에 속았다\"…中 남성 울리는 초고속 결혼 사기 실태",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260812_0003746538"
         }
       ]
     },
     {
-      "id": "ah-64-아파치",
+      "id": "김동연",
       "rank": 3,
-      "keyword": "ah-64 아파치",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[영상] 미군 아파치 헬기 텍사스 들판에 추락…\"훈련중 사고, 2명 사망\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[영상] 미군 아파치 헬기 텍사스 들판에 추락…\"훈련중 사고, 2명 사망\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260813125600704"
-        },
-        {
-          "title": "미군 아파치 헬기, 텍사스서 추락…탑승자 전원 사망 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/08/13/2026081306562655001"
-        },
-        {
-          "title": "美 육군 대표 공격 헬기 아파치, 텍사스에서 추락…훈련 중 장병 2명 사망",
-          "source": "채널A",
-          "url": "https://ichannela.com/news/detail/000000544972.do"
-        }
-      ]
-    },
-    {
-      "id": "표인봉",
-      "rank": 4,
-      "keyword": "표인봉",
+      "keyword": "김동연",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''61세' 표인봉, 서울역서 붕어빵 장사 근황 \"많이 벌 때는...\"('특종세상')' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'61세' 표인봉, 서울역서 붕어빵 장사 근황 \"많이 벌 때는...\"('특종세상')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813121641028"
-        },
-        {
-          "title": "[MBN] 개그맨 표인봉의 '인생 2막'",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260812n29764"
-        },
-        {
-          "title": "'순풍' 표인봉, 노숙인 사이 붕어빵 굽는 근황...\"차고 넘칠수록 채워지지 않아\" ('특종세상')",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-08-13/202608130100077110004802"
-        }
-      ]
-    },
-    {
-      "id": "강소휘",
-      "rank": 5,
-      "keyword": "강소휘",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
       "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": []
     },
     {
-      "id": "해리-케인",
-      "rank": 6,
-      "keyword": "해리 케인",
+      "id": "이주승",
+      "rank": 4,
+      "keyword": "이주승",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'SON ‘영혼단짝’ 케인, 토트넘이 재영입 추진 ‘우선협상권’ 사용할까 “역대 최다 득점자 재영입 의지 밝혔다”' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '이주승, 청와대 갔다 “국가유공자 할아버지 덕분”' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "SON ‘영혼단짝’ 케인, 토트넘이 재영입 추진 ‘우선협상권’ 사용할까 “역대 최다 득점자 재영입 의지 밝혔다”",
+          "title": "이주승, 청와대 갔다 “국가유공자 할아버지 덕분”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813164915791"
+        },
+        {
+          "title": "이주승, 청와대서 대통령 만났다…“국가유공자 조부 덕분”",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10840584"
+        },
+        {
+          "title": "“국가유공자 할아버지 덕분에…” 배우 이주승, 靑 보훈 가족 오찬 다녀왔다",
           "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608122008003"
-        },
-        {
-          "title": "[오피셜]\"초대박!\" '21세기 메시 이후 처음' 해리 케인, 유럽 득점왕 영광→'FIFA 최우수 선수상 유력 후보' 거론",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/08/11/ME3DSMDCHFRTSYZVGJSDAOBUGA/"
-        },
-        {
-          "title": "해리 케인, 1200억 초대박+발롱도르 1순위 '토트넘 안 가'…인생 최고의 순간 온다→뮌헨 대형 재계약+'147G 146골' 수상 확률 무려 60%",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260813n28501"
+          "url": "https://sports.khan.co.kr/article/202608131645003"
         }
       ]
     },
     {
-      "id": "공희용",
-      "rank": 7,
-      "keyword": "공희용",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "id": "그래미-어워드",
+      "rank": 5,
+      "keyword": "그래미 어워드",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "저비용-항공사",
-      "rank": 8,
-      "keyword": "저비용 항공사",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '티웨이항공, 상반기 1628억 영업손실…\"유가·환율 급등 피해\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[데스크의 눈] 구분과 보호, 구분과 배제' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "티웨이항공, 상반기 1628억 영업손실…\"유가·환율 급등 피해\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260813_0003747704"
-        },
-        {
-          "title": "[취재후일담] 항공사명 앞 알파벳 늘었다…브랜드 차별화의 ‘명암’",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260813010004590"
-        },
-        {
-          "title": "[CEO와칭]이상윤, 티웨이서 트리니티로…확장 이후 ‘수익성’ 승부",
-          "source": "메트로신문",
-          "url": "https://www.metroseoul.co.kr/article/20260812500415"
-        }
-      ]
-    },
-    {
-      "id": "카카오-파업",
-      "rank": 9,
-      "keyword": "카카오 파업",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '카카오뱅크 노조, 내일 하루 2차 파업…\"요구 관철까지 투쟁 지속\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "카카오뱅크 노조, 내일 하루 2차 파업…\"요구 관철까지 투쟁 지속\"",
+          "title": "[데스크의 눈] 구분과 보호, 구분과 배제",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260813133919013"
+          "url": "https://v.daum.net/v/PD0zGwrNAq"
         },
         {
-          "title": "카카오뱅크 노조, 14일 2차 파업…노사 갈등 격화",
-          "source": "MTN 머니투데이방송",
-          "url": "https://news.mtn.co.kr/news-detail/2026081313571877206"
+          "title": "BTS의 용기 있는 그래미 보이콧",
+          "source": "주간동아",
+          "url": "https://weekly.donga.com/List/article/all/11/6342196/1"
         },
         {
-          "title": "카카오뱅크 노조, 14일 추가 파업…\"은행업무 영향 연속파업 준비\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260813_0003747682"
+          "title": "[세계 석학 칼럼] BTS의 그래미 보이콧은 '아시안 팝' 장르의 문제점을 어떻게 보여주나",
+          "source": "뉴스웍스",
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=850345"
         }
       ]
     },
     {
-      "id": "김용범",
+      "id": "김종국",
+      "rank": 6,
+      "keyword": "김종국",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김종국 \"30년 간 저축만 했는데…삼전 평단가 5만원\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김종국 \"30년 간 저축만 했는데…삼전 평단가 5만원\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260813_0003747441"
+        },
+        {
+          "title": "김종국, 주식 모른다더니 수익률 400%…“삼성전자 5만원 때 매수”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813085100426"
+        },
+        {
+          "title": "김종국, 알고보니 ‘5만 전자’ 주주…“지금도 보유 중”",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10839669"
+        }
+      ]
+    },
+    {
+      "id": "lg이노텍",
+      "rank": 7,
+      "keyword": "lg이노텍",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'LG이노텍, MSCI한국지수에 편입…HLB·LG디플 등 4개는 빠져' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "LG이노텍, MSCI한국지수에 편입…HLB·LG디플 등 4개는 빠져",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260813008700008"
+        },
+        {
+          "title": "MSCI 한국지수 1개 편입·4개 편출…3회 연속 편출 많아",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1141695?type=theme"
+        },
+        {
+          "title": "MSCI, AI 반도체 담고 바이오·콘텐츠 뺐다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026081301041"
+        }
+      ]
+    },
+    {
+      "id": "아시안-게임",
+      "rank": 8,
+      "keyword": "아시안 게임",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '근대5종 전웅태 \"AG 개인전 3연패 의식 안 해…초심으로 도전\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "근대5종 전웅태 \"AG 개인전 3연패 의식 안 해…초심으로 도전\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813171011856"
+        },
+        {
+          "title": "미디어데이 참석한 성승민-신수민-김유리-장하은",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260813_0021398292"
+        },
+        {
+          "title": "“첫 금메달 우리가 딴다”…근대5종 대표팀, 아이치·나고야 AG 정상 수성 도전",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608131640003"
+        }
+      ]
+    },
+    {
+      "id": "안중근",
+      "rank": 9,
+      "keyword": "안중근",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“유관순·안중근 외모평가에 김구는 전과자”…선 넘은 독립운동가 폄훼' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“유관순·안중근 외모평가에 김구는 전과자”…선 넘은 독립운동가 폄훼",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813102505857"
+        },
+        {
+          "title": "광복절 앞두고 스레드에도 독립운동가 폄훼 글…\"왜곡 멈춰야\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260812137800371"
+        },
+        {
+          "title": "독립운동가 '순위' 매겨 조롱까지…서경덕 \"SNS 폄훼글 심각\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260813_0003747223"
+        }
+      ]
+    },
+    {
+      "id": "경상남도",
       "rank": 10,
-      "keyword": "김용범",
+      "keyword": "경상남도",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '수학 영재 “현실적인 고민” 발언에…이 대통령 “특정 과 몰리는 것 슬픈 일” [이런뉴스]' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '해수부·부산·경남 등 동남권 해양수도권 육성 맞손 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "수학 영재 “현실적인 고민” 발언에…이 대통령 “특정 과 몰리는 것 슬픈 일” [이런뉴스]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8635751"
+          "title": "해수부·부산·경남 등 동남권 해양수도권 육성 맞손 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/08/13/2026081317540285912"
         },
         {
-          "title": "상용화 불확실한 양자기술…산업계 \"정부가 투자 위험 나눠야\"",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026081314230982821"
+          "title": "경부울 합심해 ‘해양수도권’ 구축한다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813182042932"
         },
         {
-          "title": "미래성장동력 7대 SEED 보고회 - 사진 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyPhotoView.do?bbsKey=72993"
+          "title": "북극항로 시대 여는 부울경…‘해양수도권’ 투자유치 닻 올린다",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20260812024242124"
         }
       ]
     }
