@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-14T13:23:18.951Z",
+  "updatedAt": "2026-08-14T14:32:34.935Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,82 +9,82 @@
       "rank": 1,
       "keyword": "내일 날씨",
       "volumeLabel": "200000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[날씨] 광복절 전국 흐리고 제주·남부 비…일요일 전국 비' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '광복절 연휴, 사흘간 전국에 비 퍼붓는다…최대 150mm ‘폭우’' (매일경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "광복절 연휴, 사흘간 전국에 비 퍼붓는다…최대 150mm ‘폭우’",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/society/12128267"
+        },
         {
           "title": "[날씨] 광복절 전국 흐리고 제주·남부 비…일요일 전국 비",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260814201330752"
         },
         {
-          "title": "“보통 저기압과 달라”…태풍이 남긴 비구름 남해안 최대 200mm↑",
+          "title": "태풍이 남긴 비구름 온다…모레까지 남해안 최대 200mm↑",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8637602"
-        },
-        {
-          "title": "[이슈날씨] 이번 광복절 연휴 날씨는?...이번 연휴 비나 소나기 소식이 잦아",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0108_202608142113240180"
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8637415"
         }
       ]
     },
     {
-      "id": "weather-tomorrow",
+      "id": "변호사",
       "rank": 2,
-      "keyword": "weather tomorrow",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Monsoon rains to intensify across east, central and north India as depr…' (mint) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Monsoon rains to intensify across east, central and north India as depression forms",
-          "source": "mint",
-          "url": "https://www.livemint.com/news/india/monsoon-rains-to-intensify-across-east-central-and-north-india-as-depression-forms-11786705310317.html"
-        },
-        {
-          "title": "Rain lashes Delhi; waterlogging reported in several areas as city remains under ‘orange alert’",
-          "source": "ThePrint",
-          "url": "https://theprint.in/india/rain-lashes-delhi-waterlogging-reported-in-several-areas-as-city-remains-under-orange-alert/3014939/"
-        },
-        {
-          "title": "Heavy to very heavy rainfall warning issued for several states on I-Day, list released | To read the entire bulletin issued by IMD | Inshorts",
-          "source": "Inshorts",
-          "url": "https://inshorts.com/en/news/heavy-to-very-heavy-rainfall-warning-issued-for-several-states-on-i-day--list-released-1786703706684"
-        }
-      ]
-    },
-    {
-      "id": "thời-tiết-ngày-mai",
-      "rank": 3,
-      "keyword": "thời tiết ngày mai",
+      "keyword": "변호사",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Miền Bắc sắp đón đợt mưa to đến rất to trong 4 ngày liên tiếp' (CafeF) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''변호사 노쇼' 학폭 피해자 유족, 권경애 변호사 사기죄로 고소' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Miền Bắc sắp đón đợt mưa to đến rất to trong 4 ngày liên tiếp",
-          "source": "CafeF",
-          "url": "https://cafef.vn/mien-bac-sap-don-dot-mua-to-den-rat-to-trong-4-ngay-lien-tiep-188260814163526267.chn"
+          "title": "'변호사 노쇼' 학폭 피해자 유족, 권경애 변호사 사기죄로 고소",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6844747_36918.html"
         },
         {
-          "title": "Dự báo thời tiết đêm nay và ngày mai 15/8/2026: Mưa gia tăng tại Bắc Bộ và Trung Bộ",
-          "source": "Báo Nhân Dân điện tử",
-          "url": "https://nhandan.vn/video-du-bao-thoi-tiet-dem-nay-va-ngay-mai-ngay-1582026-mua-gia-tang-tai-bac-bo-va-trung-bo-nam-bo-tiep-tuc-co-dong-post981942.html"
+          "title": "‘노쇼 패소’ 권경애 변호사, 故 박주원 양 유족에 사기죄 피고소",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/x0Ly7MSr5G"
         },
         {
-          "title": "Nắng nóng phủ rộng Trung Bộ, hơn 700 điểm có nguy cơ cháy rừng",
-          "source": "Thuonghieucongluan.com.vn",
-          "url": "https://thuonghieucongluan.com.vn/nang-nong-phu-rong-trung-bo-hon-700-diem-co-nguy-co-chay-rung-a330474.html"
+          "title": "‘재판 노쇼’ 권경애 고소한 유족들 “변호 실수 불거질 때마다 불출석”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260814/134477662/1"
+        }
+      ]
+    },
+    {
+      "id": "보그",
+      "rank": 3,
+      "keyword": "보그",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Nicole Kidman admits she was ‘very fearful and deeply vulnerable’ after…' (Fox News) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Nicole Kidman admits she was ‘very fearful and deeply vulnerable’ after Keith Urban divorce",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/entertainment/nicole-kidman-admits-very-fearful-deeply-vulnerable-keith-urban-divorce"
+        },
+        {
+          "title": "Nicole Kidman Gets Real About How Her Vision for Her Future Changed After Her Divorce",
+          "source": "Harper's BAZAAR",
+          "url": "https://www.harpersbazaar.com/celebrity/latest/a73435505/nicole-kidman-talks-life-future-after-keith-urban-divorce-interview-quotes/"
+        },
+        {
+          "title": "Nicole Kidman Got Warned About Marrying Tom Cruise but Fired Back: ‘I Don’t Care. I’m in Love… Of Course I’ll Throw My Career Away’",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/nicole-kidman-got-warned-marrying-155039245.html"
         }
       ]
     },
@@ -92,18 +92,13 @@
       "id": "출연료",
       "rank": 4,
       "keyword": "출연료",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'OTT에서 반복된 ‘시즌2 수난사’ 피했다, ‘킬러들의 쇼핑몰2′' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '“힘들었던 촬영, 사랑으로 보답” 현리, ‘킬쇼2’ 장악' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "OTT에서 반복된 ‘시즌2 수난사’ 피했다, ‘킬러들의 쇼핑몰2′",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260814185009238"
-        },
         {
           "title": "“힘들었던 촬영, 사랑으로 보답” 현리, ‘킬쇼2’ 장악",
           "source": "스포츠경향",
@@ -113,17 +108,78 @@
           "title": "[현장톡] '킬러들의 쇼핑몰2' 이권 감독 \"액션보다 지안의 성장과 관계에 집중\"",
           "source": "뉴스핌",
           "url": "https://www.newspim.com/news/view/20260813001139"
+        },
+        {
+          "title": "김혜준 \"장르물 다작 이유? 내 외모 특별하지 않아서\" [인터뷰M]",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/514654"
+        }
+      ]
+    },
+    {
+      "id": "양정아",
+      "rank": 5,
+      "keyword": "양정아",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''같이삽시다' 양정아 \"정말 혼자 됐다\"…떠난 母 향한 그리움 [RE:TV]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'같이삽시다' 양정아 \"정말 혼자 됐다\"…떠난 母 향한 그리움 [RE:TV]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813045127284"
+        },
+        {
+          "title": "6월 모친상 양정아 \"집에 아직 엄마 있을 것 같아\" 눈물",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260811_0003744617"
+        },
+        {
+          "title": "'같이삽시다2' 포천 맛집 어디? 양념갈비·미디어 쇼 여행",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3662971"
+        }
+      ]
+    },
+    {
+      "id": "엄지원",
+      "rank": 6,
+      "keyword": "엄지원",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '일본 여행서 뼈 산산조각, 긴급귀국…‘다리에 철심 18개’ 엄지원, 깜짝근황' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "일본 여행서 뼈 산산조각, 긴급귀국…‘다리에 철심 18개’ 엄지원, 깜짝근황",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/culture/12128070"
+        },
+        {
+          "title": "골절 겪은 엄지원, 최근 시작한 운동 있다는데?",
+          "source": "헬스조선",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/08/14/2026081402070.html"
+        },
+        {
+          "title": "'48세' 엄지원, 분쇄골절 수술 후 '철심 18개' 박고도 운동...\"인생이 더 힘들어\" ('Umjeewon')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814072510440?f=p"
         }
       ]
     },
     {
       "id": "윤미라",
-      "rank": 5,
+      "rank": 7,
       "keyword": "윤미라",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 ''간통 스캔들' 여배우, 결국 무혐의...\"할리우드 진출 무산\" 억울 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -134,8 +190,8 @@
         },
         {
           "title": "배우 윤미라, 공장 사장과 간통 의혹 직접 꺼냈다 “억울해 잠도 못 자”",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/entertainment/2026/08/14/20260814500157"
+          "source": "www.twig24.com",
+          "url": "https://www.twig24.com/news/entertainments/celebrity/2026/08/14/20260814500157"
         },
         {
           "title": "윤미라, 28세 테렌스 영 감독과 계약…4년 공방 끝 무혐의 “그해 다 날아갔다”",
@@ -145,69 +201,41 @@
       ]
     },
     {
-      "id": "홍지민",
-      "rank": 6,
-      "keyword": "홍지민",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "id": "용인시",
+      "rank": 8,
+      "keyword": "용인시",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '홍지민 父, 독립운동가 홍창식이었다…\"16세부터 독립운동\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '이상일 용인특례시장 “리모델링 사업 소외 없어야”…수지구 10개 조합 현안 청취' (뉴스타운) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "홍지민 父, 독립운동가 홍창식이었다…\"16세부터 독립운동\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260814132650497"
+          "title": "이상일 용인특례시장 “리모델링 사업 소외 없어야”…수지구 10개 조합 현안 청취",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=712399"
         },
         {
-          "title": "'불후' 홍지민, 경연 나선 진짜 독립운동가 후손...\"父, 홍창식 선생\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/14/2026081410297286468"
+          "title": "용인리모델링조합, 시에 사업비 기금 마련·인허가 단축 건의",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260813_0003748431"
         },
         {
-          "title": "독립운동가 딸 배우 홍지민, SKT 독립운동 캠페인 출연료 전액 기부",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6259256"
-        }
-      ]
-    },
-    {
-      "id": "환전소",
-      "rank": 7,
-      "keyword": "환전소",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“한국 돈? 안 받아요”…태국 공항서 환전 거부당한 한국인 [잇슈#태그]' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“한국 돈? 안 받아요”…태국 공항서 환전 거부당한 한국인 [잇슈#태그]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8637365"
-        },
-        {
-          "title": "\"너무 충격…한국 돈은 안 되냐\" 방콕 공항 환전소서 원화 거절당한 유튜버",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260814042129519"
-        },
-        {
-          "title": "“한국 돈 안 받아요”…태국 공항 환전소서 환전 거부, 무슨 일?",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12126745"
+          "title": "“리모델링 사업 속도 높인다”…용인시, 선도적 모델 길라잡이 역할 집중",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260814010005056"
         }
       ]
     },
     {
       "id": "cuaca-besok",
-      "rank": 8,
+      "rank": 9,
       "keyword": "cuaca besok",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 'BMKG: Cuaca Bogor Besok Cerah, Suhu Siang Bisa Tembus 33 Derajat Celsius' (Kompas.com) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -230,12 +258,12 @@
     },
     {
       "id": "달서구",
-      "rank": 9,
+      "rank": 10,
       "keyword": "달서구",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '달서구, 재정 비상체제 전환…신규사업 재검토' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -253,34 +281,6 @@
           "title": "대구 달서구, '재정 비상체제' 돌입…594억 대형사업 전면 백지화",
           "source": "대구일보",
           "url": "https://www.idaegu.com/news/articleView.html?idxno=665019"
-        }
-      ]
-    },
-    {
-      "id": "첼시-fc",
-      "rank": 10,
-      "keyword": "첼시 fc",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"금요일까지 2200억 가져와\" 첼시, 엔소 이적에 초강수...레알 빠지고 맨시티만 남았다' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"금요일까지 2200억 가져와\" 첼시, 엔소 이적에 초강수...레알 빠지고 맨시티만 남았다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813104853156"
-        },
-        {
-          "title": "25살에 커리어 총 이적료가 약 5000억?…'2283억 평가' 엔조, 첼시→맨시티 이적 시 각종 기록 경신 예정",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260814n21322"
-        },
-        {
-          "title": "미쳤다! \"사갈테면 사가\" 첼시의 승부수, 이적료 2300억+데드라인까지 제시…'EPL 최고 몸값' 페르난데스, 사실상 '이적 불가'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/08/13/MRQWMNRYGIZGKM3BHE3GCZLFGA/"
         }
       ]
     }
