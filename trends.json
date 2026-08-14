@@ -1,17 +1,45 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-14T19:31:21.951Z",
+  "updatedAt": "2026-08-14T20:37:12.687Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "마르세유-대-아틀레티코",
+      "id": "대한민국-광복절",
       "rank": 1,
-      "keyword": "마르세유 대 아틀레티코",
-      "volumeLabel": "10000+",
-      "startedLabel": "3시간 전",
+      "keyword": "대한민국 광복절",
+      "volumeLabel": "20000+",
+      "startedLabel": "5시간 전",
       "change": "up",
       "changeLabel": "+1",
+      "summary": "급상승 시점에 '李대통령 광복 81주년 경축사…대체불가 대한민국 미래 비전 담을 듯' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "李대통령 광복 81주년 경축사…대체불가 대한민국 미래 비전 담을 듯",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/politics/president/6259654"
+        },
+        {
+          "title": "비군사 협력 강조 주목…광복절 경축사 키워드는?",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260814001000038"
+        },
+        {
+          "title": "‘한국, AI시대 새 도약’ 이 대통령, 광복절 경축사",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11609647"
+        }
+      ]
+    },
+    {
+      "id": "마르세유-대-아틀레티코",
+      "rank": 2,
+      "keyword": "마르세유 대 아틀레티코",
+      "volumeLabel": "10000+",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '이강인, 전반 35분 '조기 교체 아웃'... 마르세유 수비 무너뜨린 '환상 킬패스' 극찬' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -21,53 +49,53 @@
           "url": "https://v.daum.net/v/20260815014108403"
         },
         {
+          "title": "'7번' 이강인, ATM 예상 선발 명단 당당히 포함...그리즈만 대신 '자기 색깔'로 주전 노린다 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/football/2026/08/15/HE3TQZRWMZQTENRVMNQWKNRQMY/"
+        },
+        {
           "title": "이강인의 라리가 시대 열린다…유럽축구 새 시즌 팡파르",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260813126500007"
-        },
-        {
-          "title": "이강인·김민재… 다시 유럽파의 시간",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/08/15/3SCMT4VGYJHFBNCAIODB5BFNOU/"
         }
       ]
     },
     {
-      "id": "대한민국-광복절",
-      "rank": 2,
-      "keyword": "대한민국 광복절",
-      "volumeLabel": "10000+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '美국무, 광복절 축하메시지…\"한국은 없어서는 안 될 파트너\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "id": "맨홀",
+      "rank": 3,
+      "keyword": "맨홀",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+2",
+      "summary": "급상승 시점에 '삼척시, 하수도 맨홀 안전시설 정비 다음 달 완료' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "美국무, 광복절 축하메시지…\"한국은 없어서는 안 될 파트너\"",
+          "title": "삼척시, 하수도 맨홀 안전시설 정비 다음 달 완료",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8636007"
+        },
+        {
+          "title": "삼척시, 맨홀 뚜껑 교체하고 추락방지망 설치…\"추락 사고 예방\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260815015248517"
+          "url": "https://v.daum.net/v/20260812094011522"
         },
         {
-          "title": "루비오 미 국무, 광복절 축하…“미한관계 새로운 역사적 시대”",
-          "source": "VOA 한국어 홈페이지",
-          "url": "https://www.voakorea.com/a/rubio-on-rok-national-day-081426/8186452.html"
-        },
-        {
-          "title": "美국무 \"한국 없어선 안 될 파트너\"…광복절 축하 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/08/15/2026081503045235867"
+          "title": "[삼척소식]집중호우 대비 맨홀 안전시설 집중 정비 등",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260812_0003745745"
         }
       ]
     },
     {
       "id": "류중일",
-      "rank": 3,
+      "rank": 4,
       "keyword": "류중일",
       "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 ''류중일 감독 아들 집에 홈캠 설치' 前사돈 아들 무죄→유죄' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -90,12 +118,12 @@
     },
     {
       "id": "south-korea-national-liberation-day",
-      "rank": 4,
+      "rank": 5,
       "keyword": "south korea national liberation day",
       "volumeLabel": "1000+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 'liberation-day-bell-ringing-eng -' (서울특별시) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -117,41 +145,13 @@
       ]
     },
     {
-      "id": "맨홀",
-      "rank": 5,
-      "keyword": "맨홀",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '삼척시, 하수도 맨홀 안전시설 정비 다음 달 완료' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "삼척시, 하수도 맨홀 안전시설 정비 다음 달 완료",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8636007"
-        },
-        {
-          "title": "삼척시, 맨홀 뚜껑 교체하고 추락방지망 설치…\"추락 사고 예방\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812094011522"
-        },
-        {
-          "title": "[삼척소식]집중호우 대비 맨홀 안전시설 집중 정비 등",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260812_0003745745"
-        }
-      ]
-    },
-    {
       "id": "쿠팡플레이",
       "rank": 6,
       "keyword": "쿠팡플레이",
       "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '빅뱅·임영웅에 수십만명 몰린다…고양시, 초대형 공연 안전대책 가동' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -173,13 +173,41 @@
       ]
     },
     {
-      "id": "인구감소지역",
+      "id": "조진웅",
       "rank": 7,
-      "keyword": "인구감소지역",
+      "keyword": "조진웅",
       "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김혜수가 촬영장서 “덜덜 떠는” 까닭…“40년차도 인플루언서 역은 처음이라”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김혜수가 촬영장서 “덜덜 떠는” 까닭…“40년차도 인플루언서 역은 처음이라”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813210842114"
+        },
+        {
+          "title": "“드라마틱한 성장도 좋겠지만 1mm라도 나아지는게 어디냐”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20260813/134475685/2"
+        },
+        {
+          "title": "[Y터뷰] '지금 불륜' 김혜수 \"후배들의 롤 모델? 저도 아직 헤매요\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202608141553038458"
+        }
+      ]
+    },
+    {
+      "id": "인구감소지역",
+      "rank": 8,
+      "keyword": "인구감소지역",
+      "volumeLabel": "200+",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '임실군, 인구감소 대응 5년 기본계획 세운다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -202,12 +230,12 @@
     },
     {
       "id": "네이버-웹툰",
-      "rank": 8,
+      "rank": 9,
       "keyword": "네이버 웹툰",
       "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 ''케이-콘텐츠' 불법 유통 대응 국제공조 수사 확대' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -230,12 +258,12 @@
     },
     {
       "id": "t-멤버십",
-      "rank": 9,
+      "rank": 10,
       "keyword": "t 멤버십",
       "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "startedLabel": "6시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '11번가, T멤버십 고객 대상 980종 특가…20일까지 반값 혜택' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
