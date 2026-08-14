@@ -1,270 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-14T09:15:42.030Z",
+  "updatedAt": "2026-08-14T10:34:09.597Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "시어머니",
+      "id": "제럴드-r-포드-급-항공-모함",
       "rank": 1,
-      "keyword": "시어머니",
-      "volumeLabel": "5000+",
+      "keyword": "제럴드 r 포드 급 항공 모함",
+      "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"시어머니 앞, 샤워 후 알몸으로 나오는 남편…제가 예민한 건가요?\"' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '트럼프 \"항모 함재기 이륙장치 전자기식→증기식 변경\" 개입' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"시어머니 앞, 샤워 후 알몸으로 나오는 남편…제가 예민한 건가요?\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6258335"
+          "title": "트럼프 \"항모 함재기 이륙장치 전자기식→증기식 변경\" 개입",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260814061200009"
         },
         {
-          "title": "시모 보는데 남편 '알몸 노출'...샤워 가운 줘도 \"가족끼리 어때\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/14/2026081407375221426"
+          "title": "트럼프, 에어포스원·F-35 개입 이어 항모 발사장치까지 직접 정했다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260814_0003749729"
         },
         {
-          "title": "\"시어머니도 보는데\"...샤워 후 훌렁 벗고 '알몸'으로 나오는 남편 [어떻게 생각하세요]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260814081639382"
+          "title": "트럼프 \"항모 사출기, 증기식으로 바꿔\"...수조 원 추가 비용 '비상'",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202608141117358026"
         }
       ]
     },
     {
-      "id": "허화평",
+      "id": "nc-대-롯데",
       "rank": 2,
-      "keyword": "허화평",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '국힘, 이진숙 '5·18 폄훼 포럼' 비판에‥\"재발하지 않기 바란다\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "국힘, 이진숙 '5·18 폄훼 포럼' 비판에‥\"재발하지 않기 바란다\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6844835_36911.html"
-        },
-        {
-          "title": "국민의힘에서도 반대했는데 5·18 토론회 강행한 이진숙…민주당 제명 촉구 결의안 제출",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608141519001"
-        },
-        {
-          "title": "이진숙, 당내외 비판에도 \"토론없는 5·18 성역 강요는 반민주\"(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260814060851001"
-        }
-      ]
-    },
-    {
-      "id": "체포",
-      "rank": 3,
-      "keyword": "체포",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '종합특검, '尹 체포방해 혐의' 나경원·김기현·윤상현·권영진 불구속 기소' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "종합특검, '尹 체포방해 혐의' 나경원·김기현·윤상현·권영진 불구속 기소",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6844771_36918.html"
-        },
-        {
-          "title": "[속보]‘윤석열 체포 방해’ 국힘 나경원·김기현·윤상현·권영진 기소···특검 “인간벽 형성해 영장집행 저지”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608141317001"
-        },
-        {
-          "title": "김태규 의원, 종합특검 국민의힘 의원 기소 관련 기자회견",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260814_0021399547"
-        }
-      ]
-    },
-    {
-      "id": "맹승지",
-      "rank": 4,
-      "keyword": "맹승지",
-      "volumeLabel": "500+",
+      "keyword": "nc 대 롯데",
+      "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '맹승지, 공개 열애…남친 직업은 의사?' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '광복절 부산 사직야구장서 독립운동가 한형석 선생 아들 시구' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "맹승지, 공개 열애…남친 직업은 의사?",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260814_0003749126"
+          "title": "광복절 부산 사직야구장서 독립운동가 한형석 선생 아들 시구",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260813121500051"
         },
         {
-          "title": "개그우먼 은퇴하더니 돌연 열애 공개? \"나랑 제일 많이 쫑알대는 사람\" - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/14/GJQWGZBYMM3TQOBUHA4DEYRWGA/"
-        },
-        {
-          "title": "맹승지, 공개 열애 시작…남자친구 사진도 공개 [소셜in]",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/514753"
-        }
-      ]
-    },
-    {
-      "id": "휴머노이드",
-      "rank": 5,
-      "keyword": "휴머노이드",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'NVIDIA, LG와 피지컬 AI 협력 확대… Isaac GR00T 기반 차세대 휴머노이드 개발' (NVIDIA) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "NVIDIA, LG와 피지컬 AI 협력 확대… Isaac GR00T 기반 차세대 휴머노이드 개발",
-          "source": "NVIDIA",
-          "url": "https://blogs.nvidia.co.kr/blog/lg-to-unveil-its-next-gen-humanoid-robot-built-on-nvidia-isaac-gr00t/"
-        },
-        {
-          "title": "[비즈&] LG·엔비디아 맞손…휴머노이드 내년 공개 外",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260814172711888"
-        },
-        {
-          "title": "엔비디아와 손잡은 LG…두 발로 걷는 로봇 만든다 - 머니투데이",
+          "title": "[사진] 롯데 팬들이 보낸 응원 메시지 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/tech/2026/08/14/2026081415051530330"
-        }
-      ]
-    },
-    {
-      "id": "참수리급-고속정",
-      "rank": 6,
-      "keyword": "참수리급 고속정",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+3",
-      "summary": "급상승 시점에 '[영상] \"최전방 NLL해역 철통수호\"…신형 고속정 '검독수리-B' 실전배치' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[영상] \"최전방 NLL해역 철통수호\"…신형 고속정 '검독수리-B' 실전배치",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260814174156437"
+          "url": "https://www.mt.co.kr/sports/2026/08/14/202608141507778832O"
         },
         {
-          "title": "HJ重, 검독수리-B Batch-Ⅱ 1번함 해군 인도… NLL 수호 강화",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=347709"
-        },
-        {
-          "title": "방사청, 신형 고속정 '검독수리-B 배치-Ⅱ 1번함' 해군 인도",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260814_0003749260"
-        }
-      ]
-    },
-    {
-      "id": "세계-배드민턴-연맹",
-      "rank": 7,
-      "keyword": "세계 배드민턴 연맹",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''서승재 초유의 3연패 달성?'세계배드민턴선수권 관전포인트…부상회복 안세영 3년만 정상탈환, 여복 '중국천하' 막아라' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'서승재 초유의 3연패 달성?'세계배드민턴선수권 관전포인트…부상회복 안세영 3년만 정상탈환, 여복 '중국천하' 막아라",
+          "title": "[사진] 마, 우리는 뉴규? 최강 롯데 자이언츠 아자 화이팅",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/08/14/GJSWGYTGMI2WMOLCGBRDAZLDMU/"
-        },
-        {
-          "title": "부상 복귀 안세영, 세계선수권 출격",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/xAY3DbkLlk"
-        },
-        {
-          "title": "서승재-김원호 세계선수권 정조준…\"원숭이 소동도 대비 완료\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260814079200007"
+          "url": "https://www.chosun.com/sports/sports_photo/2026/08/14/HA2GKNBUMQYWEN3GGU3DMZJYGY/"
         }
       ]
     },
     {
-      "id": "민형배",
+      "id": "ssg-대-lg",
+      "rank": 3,
+      "keyword": "ssg 대 lg",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'SSG 이숭용 감독 \"오늘 해치 선발이었는데 어깨 불편해 취소\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "SSG 이숭용 감독 \"오늘 해치 선발이었는데 어깨 불편해 취소\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260814_0003750186"
+        },
+        {
+          "title": "\"해치 어깨가 불편하다\" 日 투수 7실점 최악투에도 '왜' 한 이닝 더 등판하나 했더니... ERA 6.02 외인 이번 주 휴식 [잠실 현장] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/14/2026081416161065737"
+        },
+        {
+          "title": "[스경X현장]계획대로라면 해치인데 선발이 최민준으로 바뀌었다…이숭용 감독 “큰 부상은 아니다”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608141811003"
+        }
+      ]
+    },
+    {
+      "id": "폭탄",
+      "rank": 4,
+      "keyword": "폭탄",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '독일 남부 기차역 선로서 폭발물 의심체…일대 폐쇄' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "독일 남부 기차역 선로서 폭발물 의심체…일대 폐쇄",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/europe/6258649"
+        },
+        {
+          "title": "독일군 수장 \"러시아, 드론으로 매일 유럽 방공망 시험\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812103901913"
+        },
+        {
+          "title": "[월드IT뷰] 폭발물 장착 '자폭 드론'이 항공기·공항 잇따라 위협",
+          "source": "뉴스웍스",
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=850054"
+        }
+      ]
+    },
+    {
+      "id": "키움-대-kt",
+      "rank": 5,
+      "keyword": "키움 대 kt",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[14일 프리뷰] 선두 KT 겁낼 이유 없다…'5이닝 무실점 기억' 박준현, 이번엔 시즌 2승 정조준' (OSEN) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[14일 프리뷰] 선두 KT 겁낼 이유 없다…'5이닝 무실점 기억' 박준현, 이번엔 시즌 2승 정조준",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112857110"
+        },
+        {
+          "title": "[AI프리뷰] 14일 수원 KT-키움전, 상승세 고영표 KT 연패 끊을까",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260814000726"
+        },
+        {
+          "title": "[사진]알칸타라와 대화 나누는 키움 설종진 감독",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260814n25050"
+        }
+      ]
+    },
+    {
+      "id": "애플",
+      "rank": 6,
+      "keyword": "애플",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '설마했는데, 빛나는 ‘유리 아이폰’…애플 ‘최고 야심작’ 진짜 나온다, 이런 모습?' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "설마했는데, 빛나는 ‘유리 아이폰’…애플 ‘최고 야심작’ 진짜 나온다, 이런 모습?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813214213802"
+        },
+        {
+          "title": "\"아이폰이 아재폰?\" 갤럭시Z8 흥행에 반격…'유리 아이폰' 나올까 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/08/14/2026081410495375090"
+        },
+        {
+          "title": "“휴대폰 400만원 시대 오나”…반도체값 오르자 애플 폴더블도 가격 인상 ‘우려’",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20078969"
+        }
+      ]
+    },
+    {
+      "id": "휘발유",
+      "rank": 7,
+      "keyword": "휘발유",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '9년 전 휘발유 대금 떼인 북한 기업, 러 법원서 5억원 배상판결' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "9년 전 휘발유 대금 떼인 북한 기업, 러 법원서 5억원 배상판결",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260814085400009"
+        },
+        {
+          "title": "휘발유 1,863원·경유 1,846원…국제유가도 하락세",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813113151683"
+        },
+        {
+          "title": "주유소 휘발유 1863원·경유 1846원...서울도 나란히 내려",
+          "source": "글로벌경제신문",
+          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=877953"
+        }
+      ]
+    },
+    {
+      "id": "나탈리-하프",
       "rank": 8,
-      "keyword": "민형배",
+      "keyword": "나탈리 하프",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“5개 자치구→시 전환, 공론화 거쳐야”' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Why officials decided to smuggle Trump out of Turkey with a catering tr…' (CNN) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“5개 자치구→시 전환, 공론화 거쳐야”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8636079"
+          "title": "Why officials decided to smuggle Trump out of Turkey with a catering truck and a secret plane | CNN Politics",
+          "source": "CNN",
+          "url": "https://edition.cnn.com/2026/08/13/politics/iran-threat-turkey-plane"
         },
         {
-          "title": "민형배 특별시장 \"통합은 지역성장 더 큰 힘…성과 공유할 것\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260814_0003749984"
+          "title": "Opinion | Trump's secret plane switcheroo isn't the biggest problem in that story",
+          "source": "MS NOW",
+          "url": "https://www.ms.now/opinion/trump-air-force-one-turkey-decoy"
         },
         {
-          "title": "[이슈]\"재정 격차 해소\"vs\"광주 해체\"…자치구, '시 전환' 논란",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026081414062335902"
+          "title": "The Flawed Logic of Trump’s Airplane Escape",
+          "source": "The Atlantic",
+          "url": "https://www.theatlantic.com/newsletters/2026/08/trump-airplane-escape-secret-service-turkey/688272/"
         }
       ]
     },
     {
-      "id": "원주중앙시장",
+      "id": "김윤덕",
       "rank": 9,
-      "keyword": "원주중앙시장",
+      "keyword": "김윤덕",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "summary": "급상승 시점에 '김윤덕 국토장관 \"용산공원 전체를 주택 공급 후보지로 고민\"' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": []
+      "newsSignals": [
+        {
+          "title": "김윤덕 국토장관 \"용산공원 전체를 주택 공급 후보지로 고민\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/real_estate/2026/08/14/MYCKNZQPK5AVPINPRTHU3BEZ5Y/"
+        },
+        {
+          "title": "“용산공원 전체에 공급 고민”…서울시와 엇박자 계속",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8637487"
+        },
+        {
+          "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260814157400011"
+        }
+      ]
     },
     {
-      "id": "프리차드-콜론",
+      "id": "경마",
       "rank": 10,
-      "keyword": "프리차드 콜론",
+      "keyword": "경마",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '쓰러져 11년간 식물인간 된 '무패' 복싱 유망주, 33세 나이로 사망…\"복싱 역사상 가장 비극적인 사건\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '협의했다더니 '공급 불가론' 들불 … 서울시 이어 과천·마사회·주민들 집단 반발' (뉴데일리) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "쓰러져 11년간 식물인간 된 '무패' 복싱 유망주, 33세 나이로 사망…\"복싱 역사상 가장 비극적인 사건\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260814081107286"
+          "title": "협의했다더니 '공급 불가론' 들불 … 서울시 이어 과천·마사회·주민들 집단 반발",
+          "source": "뉴데일리",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/14/2026081400136.html"
         },
         {
-          "title": "'그때 경기를 멈췄더라면'…후두부 맞고 쓰러진 복싱 유망주, 11년 투병 끝 사망→격투계 다시 번지는 '선수 안전' 논란",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260814n16209"
+          "title": "태릉CC·과천경마장 착공 앞당긴다…주민 설득이 관건",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260813_0003748470"
         },
         {
-          "title": "'충격 비보' 후두부 공격→식물인간 상태→끝내 사망...'비운의 복싱 유망주' 콜론, 11년 투병 끝에 하늘의 별로",
-          "source": "스포탈코리아",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553459067"
+          "title": "과천시 “경마공원과 방첩사 부지 9,800가구 주택 공급 반대”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8637142"
         }
       ]
     }
