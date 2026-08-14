@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-14T23:28:33.068Z",
+  "updatedAt": "2026-08-14T23:53:39.460Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -10,43 +10,71 @@
       "keyword": "날씨",
       "volumeLabel": "500000+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '광복절 연휴 내내 전국 비‥가뭄 해갈 '기대'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '[주말 날씨] 광복절, 남부 비 소식…내일 전국으로 확대' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "광복절 연휴 내내 전국 비‥가뭄 해갈 '기대'",
+          "title": "[주말 날씨] 광복절, 남부 비 소식…내일 전국으로 확대",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260815072514733"
+          "url": "https://v.daum.net/v/20260815080117100"
         },
         {
-          "title": "[날씨] 광복절 전국 곳곳 비·소나기, 남부·제주 폭우",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0108_202608150742100259"
+          "title": "[전국 지역별 오늘의 날씨 및 주말-연휴날씨]오늘~모레 남부지방/제주도 강하고 많은 비, 오늘 중부지방 중심 소나기!",
+          "source": "이코노미톡뉴스",
+          "url": ""
         },
         {
-          "title": "충북 흐리고 곳에 따라 비…낮 최고 29∼31도",
+          "title": "연휴 동안 전국에 비…남해안·제주엔 집중호우",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8637855"
+        }
+      ]
+    },
+    {
+      "id": "두산에너빌리티",
+      "rank": 2,
+      "keyword": "두산에너빌리티",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김정관 장관, 빌 게이츠 테라파워 의장 면담…SMR 협력방안 논의' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김정관 장관, 빌 게이츠 테라파워 의장 면담…SMR 협력방안 논의",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970126&pWise=main&pWiseMain=R4"
+        },
+        {
+          "title": "[중화학ON]빌 게이츠 방한에 뜨거워진 K-SMR…테라파워로 모이는 기업들",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260815073151801"
+        },
+        {
+          "title": "빌 게이츠 이사장과 악수하는 한성숙 총리",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260815008400064"
+          "url": "https://www.yna.co.kr/view/PYH20260814125900013"
         }
       ]
     },
     {
       "id": "thời-tiết",
-      "rank": 2,
+      "rank": 3,
       "keyword": "thời tiết",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Thời tiết ngày 15/8: Bắc Bộ đến Nam Bộ có mưa dông, cục bộ mưa to' (Báo Cần Thơ) 관련 뉴스가 함께 포착됐어요.",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 'Thời tiết hôm nay 15.8: Cuối tuần, miền Bắc mưa dông, có nơi mưa to' (Laodong.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Thời tiết ngày 15/8: Bắc Bộ đến Nam Bộ có mưa dông, cục bộ mưa to",
-          "source": "Báo Cần Thơ",
-          "url": "https://baocantho.com.vn/thoi-tiet-ngay-15-8-bac-bo-den-nam-bo-co-mua-dong-cuc-bo-mua-to-a212602.html"
+          "title": "Thời tiết hôm nay 15.8: Cuối tuần, miền Bắc mưa dông, có nơi mưa to",
+          "source": "Laodong.vn",
+          "url": "https://laodong.vn/ban-tin/thoi-tiet-hom-nay-158-cuoi-tuan-mien-bac-mua-dong-co-noi-mua-to-1751043.ldo"
         },
         {
           "title": "[Video] Dự báo thời tiết ngày 15/8/2026: Mưa dông quay trở lại tại Bắc Bộ, Trung Bộ cục bộ vẫn có nắng nóng gay gắt",
@@ -62,40 +90,40 @@
     },
     {
       "id": "weather",
-      "rank": 3,
+      "rank": 4,
       "keyword": "weather",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Licensable video: US: Hail Covers Streets of Aurora, Colorado, Amid Hea…' (Reuters Connect) 관련 뉴스가 함께 포착됐어요.",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 'Take a look at the world's largest car cruise over the years' (USA Today) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Licensable video: US: Hail Covers Streets of Aurora, Colorado, Amid Heavy Storm",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/us-hail-covers-streets-of-aurora-colorado-amid-heavy-storm/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XU1BDQzI2MDE3NTEwMQ"
+          "title": "Take a look at the world's largest car cruise over the years",
+          "source": "USA Today",
+          "url": "https://www.usatoday.com/picture-gallery/cars/2026/08/14/worlds-largest-car-cruise-through-the-years/91307663007/"
         },
         {
-          "title": "Flash flood warning issued for Larimer County",
-          "source": "The Coloradoan",
-          "url": "https://www.coloradoan.com/story/weather/2026/08/14/flash-flood-warning-issued-for-larimer-county/91311865007/"
+          "title": "Dream Cruise weather: Tracking weekend storm chances in Metro Detroit",
+          "source": "ClickOnDetroit | WDIV Local 4",
+          "url": "https://www.clickondetroit.com/weather/2026/08/14/dream-cruise-weather-tracking-weekend-storm-chances-in-metro-detroit/"
         },
         {
-          "title": "Hailstorm Causes ‘Massive Damage’ to Neighborhood Near Denver",
-          "source": "The Australian",
-          "url": "https://www.theaustralian.com.au/news/hailstorm-causes-massive-damage-to-neighborhood-near-denver/video/f6bdb33bd7c09e984c7b6673fbd258ad"
+          "title": "NASCAR legend Rusty Wallace's car will be cruising Woodward this weekend.",
+          "source": "The Detroit News",
+          "url": "https://www.detroitnews.com/videos/business/autos/woodward-dream-cruise/2026/08/14/car-enthusiasts-will-see-nascar-legend-rusty-wallaces-car-in-the-dream-cruise/91310776007/"
         }
       ]
     },
     {
       "id": "김지민",
-      "rank": 4,
+      "rank": 5,
       "keyword": "김지민",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '‘♥김준호’ 김지민, 내년 2월 ‘출산 예정’ 소식 전했다…“딸이겠죠? 아들도 좋아요”' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -118,12 +146,12 @@
     },
     {
       "id": "天气",
-      "rank": 5,
+      "rank": 6,
       "keyword": "天气",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '[天气]光复节假期最大150毫米强降雨……伴有阵风、雷电' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -146,68 +174,68 @@
     },
     {
       "id": "погода",
-      "rank": 6,
+      "rank": 7,
       "keyword": "погода",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'До +33 и резкое похолодание: после прохлады в Украину возвращается жара…' (РБК-Україна) 관련 뉴스가 함께 포착됐어요.",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 'Погода в Санкт-Петербурге: 16 августа — один из последних теплых дней в…' (GISMETEO.Новости) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "До +33 и резкое похолодание: после прохлады в Украину возвращается жара, но ненадолго",
-          "source": "РБК-Україна",
-          "url": "https://www.rbc.ua/ukr/news/33-i-rizke-poholodannya-pislya-proholodi-1786691007.html"
+          "title": "Погода в Санкт-Петербурге: 16 августа — один из последних теплых дней в этом сезоне",
+          "source": "GISMETEO.Новости",
+          "url": "https://www.gismeteo.ru/news/weather/pogoda-v-sankt-peterburge-16-avgusta-odin-iz-poslednih-teplyh-dnej-v-jetom-sezone/"
         },
         {
-          "title": "Антициклон подарит украинцам солнечные выходные, но есть нюанс",
-          "source": "УНИАН",
-          "url": "https://www.unian.net/pogoda/news/pogoda-na-vyhodnye-prognoz-sinoptika-na-15-16-avgusta-13469814.html"
+          "title": "Петербург ждут дождливые выходные с грозами",
+          "source": "Росбалт",
+          "url": "https://www.rosbalt.ru/news/2026-08-14/peterburg-zhdut-dozhdlivye-vyhodnye-s-grozami-5659568"
         },
         {
-          "title": "В Украину возвращается сильная жара: какой будет погода в областях 15 августа",
-          "source": "ТСН",
-          "url": "https://tsn.ua/ru/ukrayina/v-ukrainu-vozvraschaetsya-silnaya-zhara-kakoy-budet-pogoda-v-oblastyah-15-avgusta-3149048.html"
+          "title": "Лето колбасит, и выходные будут такими же",
+          "source": "ФОНТАНКА.ру",
+          "url": "https://www.fontanka.ru/2026/08/14/76587709/"
         }
       ]
     },
     {
-      "id": "포스코",
-      "rank": 7,
-      "keyword": "포스코",
+      "id": "테슬라",
+      "rank": 8,
+      "keyword": "테슬라",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '포스코홀딩스, 상반기 영업익 1.5조 전년比 30%↑…리튬 상업생산·고수익 철강 확대' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"테슬라 전기차 독주 끝났다\"…'안방 사수' 성공한 車 봤더니' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "포스코홀딩스, 상반기 영업익 1.5조 전년比 30%↑…리튬 상업생산·고수익 철강 확대",
+          "title": "\"테슬라 전기차 독주 끝났다\"…'안방 사수' 성공한 車 봤더니",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608139540g"
+        },
+        {
+          "title": "기아 EV6, 300만원 깎아주더니…‘월 19만원’ 이 조건은 반칙 아닌가",
+          "source": "뉴스와",
+          "url": "https://www.news-wa.com/article/automobiles/new-car/2026/08/12/20260812500059"
+        },
+        {
+          "title": "“이러면 테슬라 고를 이유 없다”… 기아 전기차 1회 충전 500km 가능해",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260814162649388"
-        },
-        {
-          "title": "장인화 포스코그룹 회장, 올해 상반기 보수 10억3800만원…작년比 50.1%↓",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260814_0003749456"
-        },
-        {
-          "title": "장인화 포스코그룹 회장, 포스코홀딩스서 상반기 보수 10억3800만원 받아",
-          "source": "디지털데일리",
-          "url": "https://www.ddaily.co.kr/page/view/2026081418370774177"
+          "url": "https://v.daum.net/v/W5nJo1tW7z?f=p"
         }
       ]
     },
     {
       "id": "schd",
-      "rank": 8,
+      "rank": 9,
       "keyword": "schd",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 'SCHD: The Biggest Mistake New Dividend Investors Make' (24/7 Wall St.) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -217,25 +245,25 @@
           "url": "https://247wallst.com/investing/etf/2026/08/13/schd-the-biggest-mistake-new-dividend-investors-make/"
         },
         {
-          "title": "SCHD’s 2% Yield Hides a $38,000 Decade-Long Performance Gap Against VYM",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/schd-2-yield-hides-38-222527352.html"
-        },
-        {
           "title": "SCHD: Up 31%, But The Latest Data Make Me More Bullish (NYSEARCA:SCHD)",
           "source": "Seeking Alpha",
           "url": "https://seekingalpha.com/article/4936089-schd-up-31-percent-but-the-latest-data-make-me-more-bullish"
+        },
+        {
+          "title": "SCHD’s 2% Yield Hides a $38,000 Decade-Long Performance Gap Against VYM",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/schd-2-yield-hides-38-222527352.html"
         }
       ]
     },
     {
       "id": "avgo",
-      "rank": 9,
+      "rank": 10,
       "keyword": "avgo",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 'Broadcom is Down Over 3 Months: One Wall Street Pro Sees 60%+ Gains Ahe…' (Yahoo Finance) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -253,34 +281,6 @@
           "title": "What Separates AVGO From Its Peers Right Now",
           "source": "Trefis",
           "url": "https://www.trefis.com/stock/avgo/articles/611488/what-separates-avgo-from-its-peers-right-now/2026-08-14"
-        }
-      ]
-    },
-    {
-      "id": "광주공항",
-      "rank": 10,
-      "keyword": "광주공항",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '李 “전격전”에…광주 군공항, 예천-서산-충주 임시 분산배치' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "李 “전격전”에…광주 군공항, 예천-서산-충주 임시 분산배치",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260814194449228"
-        },
-        {
-          "title": "발언하는 이재명 대통령",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260814_0021399533"
-        },
-        {
-          "title": "[사설] ‘광주는 속도전, 대구는 방치’ 이것이 균형발전인가",
-          "source": "영남일보",
-          "url": "https://www.yeongnam.com/web/view.php?key=20260811021011487"
         }
       ]
     }
