@@ -1,17 +1,101 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-15T21:50:32.078Z",
+  "updatedAt": "2026-08-15T22:29:22.996Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "습관",
+      "id": "이재명",
       "rank": 1,
-      "keyword": "습관",
+      "keyword": "이재명",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '李 대통령, 광복절 맞아 \"남북 마주 앉길…종전 위한 논의 시작하자\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "李 대통령, 광복절 맞아 \"남북 마주 앉길…종전 위한 논의 시작하자\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/08/15/2026081512053935723"
+        },
+        {
+          "title": "친일에 \"부당 재산 환수\"‥북한엔 \"종전 대화\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816071315367"
+        },
+        {
+          "title": "8/15(토) 제81주년 광복절 경축식 경축사 | 연설문 | 대통령",
+          "source": "대한민국 청와대",
+          "url": "https://www.president.go.kr/speeches/p1GCIc0N"
+        }
+      ]
+    },
+    {
+      "id": "어머니",
+      "rank": 2,
+      "keyword": "어머니",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '가출 말리는 엄마에게 끓는 물 부은 10대 딸' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "가출 말리는 엄마에게 끓는 물 부은 10대 딸",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260815048300060"
+        },
+        {
+          "title": "“집을 나가겠다” 가출 시도에 휴대전화 빼앗자 어머니에 끓는 물 뿌린 10대 딸···현행범 체포",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608151748001"
+        },
+        {
+          "title": "가출 말리는 엄마에 끓는 물 부은 10대 딸 현행범 체포",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260815050757420"
+        }
+      ]
+    },
+    {
+      "id": "부부",
+      "rank": 3,
+      "keyword": "부부",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"40년 부부인데 식비도 각자 계산\"…아내 감시하려 집에 CCTV 설치' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"40년 부부인데 식비도 각자 계산\"…아내 감시하려 집에 CCTV 설치",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816050127348"
+        },
+        {
+          "title": "\"40년 더치페이에 CCTV 감시까지\"…中 노부부의 '숨 막히는' 노년",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260814_0003749874"
+        },
+        {
+          "title": "40년간 생활비 더치페이한 부부…“집에 CCTV도 설치” 충격 사연 [월드픽]",
+          "source": "www.twig24.com",
+          "url": "https://www.twig24.com/news/world/global-topic/2026/08/15/20260815500010"
+        }
+      ]
+    },
+    {
+      "id": "습관",
+      "rank": 4,
+      "keyword": "습관",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-3",
       "summary": "급상승 시점에 '“의지만으론 안 된다”… 허기 키우는 습관 5가지와 작별하세요' (헬스조선) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,39 +117,11 @@
       ]
     },
     {
-      "id": "이재명",
-      "rank": 2,
-      "keyword": "이재명",
-      "volumeLabel": "2000+",
+      "id": "송일국",
+      "rank": 5,
+      "keyword": "송일국",
+      "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '李 대통령, 광복절 맞아 \"남북 마주 앉길…종전 위한 논의 시작하자\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "李 대통령, 광복절 맞아 \"남북 마주 앉길…종전 위한 논의 시작하자\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/politics/2026/08/15/2026081512053935723"
-        },
-        {
-          "title": "張, 李대통령 경축사에 \"안보 포기\"…與 \"옹졸·무책임\"(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/FyuZK6Ik50"
-        },
-        {
-          "title": "이 대통령 \"새로운 광복 필요…대체불가 대한민국 향해 나아가야\"",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970156"
-        }
-      ]
-    },
-    {
-      "id": "어머니",
-      "rank": 3,
-      "keyword": "어머니",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 '강부자 \"홍명보 너무 불쾌…자존심 강하고 겸손 몰라\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
@@ -77,53 +133,53 @@
           "url": "https://www.newsis.com/view/NISX20260815_0003750788"
         },
         {
+          "title": "강부자, 회장 ‘뚜쟁이’ 루머에 분노 “단돈 5만 원도 안 받아..억울하고 속상해” - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/16/MZRGIOBSHFSGMZJTGVSGMZJZGI/"
+        },
+        {
           "title": "남편 이묵원 외박도 모두 이해...'안방마님' 강부자, 59년 결혼사 - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/entertainment/2026/08/15/2026081507244127327"
-        },
-        {
-          "title": "강부자, '뚜쟁이' 루머에 고통 \"子, 정주영 회장에 재떨이로 맞았냐더라\"(데이앤나잇) [TV온에어]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260816n00001"
         }
       ]
     },
     {
-      "id": "어선",
-      "rank": 4,
-      "keyword": "어선",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+5",
-      "summary": "급상승 시점에 '전북 군산 앞바다서 선박 간 충돌…인명피해 없어' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "id": "업비트",
+      "rank": 6,
+      "keyword": "업비트",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"AI 결제 98.6%가 달러 스테이블코인…원화도 정산망 구축 서둘러야\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "전북 군산 앞바다서 선박 간 충돌…인명피해 없어",
+          "title": "\"AI 결제 98.6%가 달러 스테이블코인…원화도 정산망 구축 서둘러야\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260815101738972"
+          "url": "https://v.daum.net/v/y4TU8KEotj"
         },
         {
-          "title": "새벽 군산 앞바다서 4만 톤급 상선·어선 ‘쾅’…승선원 10명 무사",
-          "source": "시사저널",
-          "url": "https://www.sisajournal.com/news/articleView.html?idxno=383745"
+          "title": "'디지털자산기본법' 불씨 살린다…금융위·與 비공개 회동",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429910"
         },
         {
-          "title": "군산 어청도 해상서 상선-어선 충돌…인명피해 없어",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/jeonbuk/6260145"
+          "title": "스테이블코인, 한국은 '누가 발행하나' 글로벌 시장은 '어떻게 리스크를 헷징하나'",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260813005443082"
         }
       ]
     },
     {
       "id": "국가유공자",
-      "rank": 5,
+      "rank": 7,
       "keyword": "국가유공자",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '‘살림남’ 박서진, 국가유공자 후손 식당 찾았다…81만 5000원 ‘돈쭐’ - 스타투데이' (매일경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -146,12 +202,12 @@
     },
     {
       "id": "삼성중공업",
-      "rank": 6,
+      "rank": 8,
       "keyword": "삼성중공업",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 'KAIST-삼성중공업, 차세대선박연구센터 공동출범' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -173,114 +229,30 @@
       ]
     },
     {
-      "id": "원자력-잠수함",
-      "rank": 7,
-      "keyword": "원자력 잠수함",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 '[미리보기] 시사기획 창 : 잠수함, 핵을 품다' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[미리보기] 시사기획 창 : 잠수함, 핵을 품다",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8637483"
-        },
-        {
-          "title": "北, 한미 UFS 반발 \"새 위협엔 새 억제력\"",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026081409195139224"
-        },
-        {
-          "title": "정부 \"핵잠은 북핵 고도화 대응하는 방어조치\"‥북한 비난 반박",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6844560_36911.html"
-        }
-      ]
-    },
-    {
-      "id": "노화",
-      "rank": 8,
-      "keyword": "노화",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 '[사이테크+] \"장기마다 노화속도 달라…혈액검사로 빨리 늙는 장기 예측\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[사이테크+] \"장기마다 노화속도 달라…혈액검사로 빨리 늙는 장기 예측\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260815060204918"
-        },
-        {
-          "title": "혈액으로 장기별 노화 예측…맞춤형 관리 시대 열린다 : 최신논문",
-          "source": "의약일보",
-          "url": "https://www.medicaldaily.co.kr/news/22106"
-        },
-        {
-          "title": "노화 방지의 \"핵심\"을 밝혀내다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/giai-ma-chia-khoa-chong-lao-hoa"
-        }
-      ]
-    },
-    {
-      "id": "로또1237회당첨번호",
+      "id": "김원효",
       "rank": 9,
-      "keyword": "로또1237회당첨번호",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '[속보]로또 1237회 당첨번호 '10·20·23·34·37·40'…보너스 '36'' (이데일리) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "김원효",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김원효, ♥심진화와 마냥 잉꼬부부인 줄 알았는데…\"미묘한 경쟁심 있어\" 고백 (임하룡쇼)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[속보]로또 1237회 당첨번호 '10·20·23·34·37·40'…보너스 '36'",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02660086645547648&mediaCodeNo=257"
-        },
-        {
-          "title": "제1237회 로또 1등 12명 각 12.1억원씩…당첨번호는?",
+          "title": "김원효, ♥심진화와 마냥 잉꼬부부인 줄 알았는데…\"미묘한 경쟁심 있어\" 고백 (임하룡쇼)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260816062400012"
+          "url": "https://v.daum.net/v/XjAfbbkLGr"
         },
         {
-          "title": "로또 1등 12억씩 23명…1등 2명씩 배출한 판매점은?",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6260375"
-        }
-      ]
-    },
-    {
-      "id": "부채-탕감",
-      "rank": 10,
-      "keyword": "부채 탕감",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '선진국도 정부 주도 빚 탕감?...“민간영역 조정 활성화 필요”' (서울경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "선진국도 정부 주도 빚 탕감?...“민간영역 조정 활성화 필요”",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20079751"
+          "title": "김원효, ♥심진화와 미묘한 기싸움..“잉꼬부부지만 경쟁심 있어” (‘임하룡쇼’)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/15/GUYTGYRTMFTGEMTBG42DEMBZGM/"
         },
         {
-          "title": "李 “과도하게 돈 빌려준 채권자도 책임”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11608846"
-        },
-        {
-          "title": "\"자살사망자 54%가 부채 보유\"…금융당국, 취약채무자 구제 집중",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260812_0003746825"
+          "title": "김원효 \"♥심진화, 처음엔 날 싫어해\"…반전 러브스토리 (임하룡쇼)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260816n01300"
         }
       ]
     }
