@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-15T15:28:12.347Z",
+  "updatedAt": "2026-08-15T15:51:01.966Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -10,8 +10,8 @@
       "keyword": "밀란 대 맨유",
       "volumeLabel": "10000+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 ''맨유에서 하던 그대로' 아모림, AC밀란에서도 '살생부' 꺼냈다…\"은쿤쿠·토모리 전력 외, 레앙도 안심 X\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -36,10 +36,10 @@
       "id": "milan-vs-man-united",
       "rank": 2,
       "keyword": "milan vs man united",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 'united-v-ac-milan | Manchester United' (Manchester United Website) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -49,98 +49,98 @@
           "url": "https://www.manutd.com/en/mutv/matches/mens-team/united-v-ac-milan"
         },
         {
-          "title": "The three players to watch in AC Milan’s final pre-season game vs. Manchester United",
-          "source": "SempreMilan",
-          "url": "https://sempremilan.com/three-players-to-watch-milan-manchester-united"
-        },
-        {
           "title": "Man Utd vs Milan: Get £30 in football free bets when you join Midnite and stake £10",
           "source": "The Sun",
           "url": "https://www.thesun.co.uk/sport/40053282/man-utd-milan-football-free-bets-midnite/"
+        },
+        {
+          "title": "Michael Carrick has fixed four Ruben Amorim mistakes ahead of Manchester United reunion",
+          "source": "Manchester Evening News",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carrick-corrected-four-ruben-34445597"
+        }
+      ]
+    },
+    {
+      "id": "ม-ลาน-พบ-แมนย",
+      "rank": 3,
+      "keyword": "ม ลาน พบ แมนย",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'ตารางการแข่งขันฟุตบอลวันนี้ 15 สิงหาคม: รอบรองชนะเลิศนัดแรกของอาเซียนคัพ' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "ตารางการแข่งขันฟุตบอลวันนี้ 15 สิงหาคม: รอบรองชนะเลิศนัดแรกของอาเซียนคัพ",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/lich-thi-dau-bong-da-hom-nay-15-8-ban-ket-luot-di-asean-cup"
+        },
+        {
+          "title": "LIVE ลิงค์ดูบอลสด \"แมนฯ ยูไนเต็ด พบ เอซี มิลาน\" ฟุตบอลอุ่นเครื่อง 21.45 น.",
+          "source": "komchadluek",
+          "url": "https://www.komchadluek.net/news/sport/621344"
+        },
+        {
+          "title": "ค็อบบี เมนู สาดวาทะเด็ดก่อน แมนยู ดวล เอซี มิลาน ของ อโมริม",
+          "source": "Thairath.co.th",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2953048"
         }
       ]
     },
     {
       "id": "첼시",
-      "rank": 3,
+      "rank": 4,
       "keyword": "첼시",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '맨시티 말고 사우디로 가나?…이적설 돌던 첼시 윙어 네투, '알 힐랄과 개인 합의 완료→ 이적료는 984억 예상'' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '맨시티 말고 사우디로 가나?… 이적설 돌던 첼시 윙어 네투, '알 힐랄과 개인 합의 완료→ 이적료는 984억 예상'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "맨시티 말고 사우디로 가나?…이적설 돌던 첼시 윙어 네투, '알 힐랄과 개인 합의 완료→ 이적료는 984억 예상'",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260815n08521"
+          "title": "맨시티 말고 사우디로 가나?… 이적설 돌던 첼시 윙어 네투, '알 힐랄과 개인 합의 완료→ 이적료는 984억 예상'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260815160651123"
+        },
+        {
+          "title": "8월 11일 이적 소식: 맨유, 자이르 에메리 영입, 아스널, 페드로 네투 영입.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/tin-tuc-ve-chuyen-nhuong-11-8-mu-ky-zaire-emery-arsenal-mua-pedro-neto"
         },
         {
           "title": "비니시우스 놓친 아스널, 대체자는 누굴까…영국 매체가 꼽은 영입 후보",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811065749936"
-        },
-        {
-          "title": "아스널은 비니시우스 영입에 실패한 후 유벤투스의 케난 일디즈를 영입하기 위해 1억 파운드를 투자할 준비가 되어 있다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/arsenal-san-sang-chi-100-trieu-bang-chieu-mo-kenan-yildiz-tu-juventus-sau-khi-hut-vinicius"
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260811n02871"
         }
       ]
     },
     {
       "id": "chelsea",
-      "rank": 4,
+      "rank": 5,
       "keyword": "chelsea",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 'Chelsea vs Real Sociedad: Club Friendlies stats & head-to-head' (BBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Chelsea vs Real Sociedad: Club Friendlies stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/ck5y0je5z00lt"
-        },
-        {
-          "title": "Confirmed Chelsea line up vs Real Socieded | News | Official Site",
-          "source": "Chelsea Football Club",
-          "url": "https://www.chelseafc.com/en/news/article/confirmed-chelsea-line-up-vs-real-socieded"
-        },
-        {
-          "title": "Cole Palmer starts, Morgan Rogers debut - Predicted Chelsea starting XI vs Real Sociedad",
-          "source": "Football London",
-          "url": "https://www.football.london/chelsea-fc/news/cole-palmer-starts-morgan-rogers-34447392"
-        }
-      ]
-    },
-    {
-      "id": "엘니뇨",
-      "rank": 5,
-      "keyword": "엘니뇨",
-      "volumeLabel": "500+",
       "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 ''가장 강력한 엘니뇨' 온다…대륙별 극단적 날씨 이어져 [지금은 기후위기]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 'Enzo Fernandez: Chelsea expect midfielder to stay after Man City do not…' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'가장 강력한 엘니뇨' 온다…대륙별 극단적 날씨 이어져 [지금은 기후위기]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/ZpMIjRvmvF"
+          "title": "Enzo Fernandez: Chelsea expect midfielder to stay after Man City do not make bid",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/articles/c7vgyrl2573o"
         },
         {
-          "title": "국제연구진 \"올해 세계 기온 역대 최고치 기록 전망, 10년 후에나 볼 법한 재난 예고\"",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444761"
+          "title": "Chelsea’s Enzo Fernandez deadline passes but £120m saga may not be over yet",
+          "source": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/football/2026/08/14/chelsea-transfer-news-enzo-fernandez-deadline-man-city-120/"
         },
         {
-          "title": "\"올해 진짜 더운데 내년이 더 덥다고?\" 엘리뇨 본격 영향 가능성",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026081410323054260"
+          "title": "Chelsea Sets £120M Fee, Deadline for Fernández",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/08/13/JPFPIHWVWBDFDNOF5FQ3CFQF4Y/"
         }
       ]
     },
@@ -149,9 +149,9 @@
       "rank": 6,
       "keyword": "milan đấu với man utd",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 'Trực tiếp bóng đá MU - AC Milan: Amorim nói về cảm xúc đặc biệt khi tái…' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -166,9 +166,9 @@
           "url": "https://gocnhinphaply.nguoiduatin.vn/manchester-united-trinh-lang-ao-dau-thu-ba-mua-202627-truoc-man-doi-dau-ac-milan-48383.html"
         },
         {
-          "title": "MU - Milan: Màn báo thù ngọt ngào của Rashford?",
-          "source": "Bongdaplus",
-          "url": "https://bongdaplus.vn/giao-huu-bong-da/mu-milan-man-bao-thu-ngot-ngao-cua-rashford-5127762608.html"
+          "title": "Trực tiếp Manchester United vs AC Milan: AC Milan gỡ hòa 1-1",
+          "source": "baonghean.vn",
+          "url": "https://baonghean.vn/nhan-dinh-manchester-united-vs-ac-milan-doi-hinh-du-kien-10348325.html"
         }
       ]
     },
@@ -177,9 +177,9 @@
       "rank": 7,
       "keyword": "나상도",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '나상도, 예능·MC 휩쓸고 본업 컴백…팬들은 고향 남해에 ‘통 큰 기부’ [트롯 돋보기]' (매일경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -205,9 +205,9 @@
       "rank": 8,
       "keyword": "그래미 어워드",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 'BTS 보이콧에 그래미 백기 들었나…\"아시안팝 부문 손질할 수도\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -222,9 +222,9 @@
           "url": "https://view.asiae.co.kr/article/2026081512221222701"
         },
         {
-          "title": "BTS 보이콧 영향?…그래미 ‘아시안 팝 부문’ 재검토 가능성 시사",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1273051.html"
+          "title": "BTS 보이콧에 백기?...그래미, 아시안 팝 부문 재검토 시사 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/culture/2026/08/15/2026081509242959127"
         }
       ]
     },
@@ -234,8 +234,8 @@
       "keyword": "재벌형사",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '재벌X형사 2 : [공포 엔딩] 안보현×정은채×강상준×김신비, ‘폐가 괴담’ 해결하자마자 발생한 호텔 살인 사건' (programs.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -261,9 +261,9 @@
       "rank": 10,
       "keyword": "1237 회 로또 당첨 번호",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '[속보]로또 1237회 당첨번호 '10·20·23·34·37·40'…보너스 '36'' (이데일리) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -273,14 +273,14 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=02660086645547648&mediaCodeNo=257"
         },
         {
+          "title": "1237회 로또 1등 23명…당첨금 각 12억1천만원(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260815049100002"
+        },
+        {
           "title": "로또 1등 12억씩 23명…1등 2명씩 배출한 판매점은?",
           "source": "뉴스1",
           "url": "https://www.news1.kr/society/general-society/6260375"
-        },
-        {
-          "title": "농장 일 보러 가는 길 구매한 복권이 1등…1237회차 로또당첨번호조회 주목",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20260813100610747"
         }
       ]
     }
