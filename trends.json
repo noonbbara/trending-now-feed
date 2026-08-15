@@ -1,62 +1,62 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-15T22:29:22.996Z",
+  "updatedAt": "2026-08-15T22:53:29.305Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "이재명",
+      "id": "한화-이글스",
       "rank": 1,
-      "keyword": "이재명",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '李 대통령, 광복절 맞아 \"남북 마주 앉길…종전 위한 논의 시작하자\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "한화 이글스",
+      "volumeLabel": "20000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '구자욱 5타점 대폭발…3연승 삼성, 선두 kt 반 경기 차 추격(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "李 대통령, 광복절 맞아 \"남북 마주 앉길…종전 위한 논의 시작하자\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/politics/2026/08/15/2026081512053935723"
-        },
-        {
-          "title": "친일에 \"부당 재산 환수\"‥북한엔 \"종전 대화\"",
+          "title": "구자욱 5타점 대폭발…3연승 삼성, 선두 kt 반 경기 차 추격(종합)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260816071315367"
+          "url": "https://v.daum.net/v/20260815231204296"
         },
         {
-          "title": "8/15(토) 제81주년 광복절 경축식 경축사 | 연설문 | 대통령",
-          "source": "대한민국 청와대",
-          "url": "https://www.president.go.kr/speeches/p1GCIc0N"
+          "title": "삼성 선발 양창섭, 1회 만에 헤드샷 퇴장…한화 노시환 헬멧 강타",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260815_0003750731"
+        },
+        {
+          "title": "“야구하기 싫었다, 욕도 많이 먹고 힘들었다” 좌승현의 반전 드라마…ERA 12.79→1.88, 5⅔이닝 KKKKKKK [오!쎈 대구]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112858233"
         }
       ]
     },
     {
-      "id": "어머니",
+      "id": "송일국",
       "rank": 2,
-      "keyword": "어머니",
-      "volumeLabel": "5000+",
+      "keyword": "송일국",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '가출 말리는 엄마에게 끓는 물 부은 10대 딸' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "changeLabel": "+3",
+      "summary": "급상승 시점에 '강부자 \"홍명보 너무 불쾌…자존심 강하고 겸손 몰라\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "가출 말리는 엄마에게 끓는 물 부은 10대 딸",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260815048300060"
+          "title": "강부자 \"홍명보 너무 불쾌…자존심 강하고 겸손 몰라\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260815_0003750788"
         },
         {
-          "title": "“집을 나가겠다” 가출 시도에 휴대전화 빼앗자 어머니에 끓는 물 뿌린 10대 딸···현행범 체포",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608151748001"
+          "title": "강부자, '뚜쟁이' 루머에 분노 \"단돈 5만원도 받은 적 없다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/16/2026081607163375291"
         },
         {
-          "title": "가출 말리는 엄마에 끓는 물 부은 10대 딸 현행범 체포",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260815050757420"
+          "title": "강부자, 이미숙 문자 말투에 공개 일침…“누구 놀리는 거야?”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260816/134483531/1"
         }
       ]
     },
@@ -66,8 +66,8 @@
       "keyword": "부부",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '\"40년 부부인데 식비도 각자 계산\"…아내 감시하려 집에 CCTV 설치' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -89,69 +89,41 @@
       ]
     },
     {
-      "id": "습관",
+      "id": "로스앤젤레스-fc",
       "rank": 4,
-      "keyword": "습관",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 '“의지만으론 안 된다”… 허기 키우는 습관 5가지와 작별하세요' (헬스조선) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“의지만으론 안 된다”… 허기 키우는 습관 5가지와 작별하세요",
-          "source": "헬스조선",
-          "url": "https://health.chosun.com/site/data/html_dir/2026/08/14/2026081401559.html"
-        },
-        {
-          "title": "한여름 뇌가 우리에게 보내는 신호는 배고픔이 아니다?!",
-          "source": "채널A",
-          "url": "https://ichannela.com/program/clip/000000545087.do"
-        },
-        {
-          "title": "식욕억제제를 중단한 뒤 찾아오는 심각한 요요?!",
-          "source": "채널A",
-          "url": "https://ichannela.com/program/clip/000000545088.do"
-        }
-      ]
-    },
-    {
-      "id": "송일국",
-      "rank": 5,
-      "keyword": "송일국",
-      "volumeLabel": "1000+",
+      "keyword": "로스앤젤레스 fc",
+      "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '강부자 \"홍명보 너무 불쾌…자존심 강하고 겸손 몰라\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '손흥민의 LAFC, 리그스컵 8강행 불발…MLS 팀 중 5위로 밀려' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "강부자 \"홍명보 너무 불쾌…자존심 강하고 겸손 몰라\"",
+          "title": "손흥민의 LAFC, 리그스컵 8강행 불발…MLS 팀 중 5위로 밀려",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260814086500007"
+        },
+        {
+          "title": "'리그스컵 탈락' 손흥민의 LAFC, 오늘 샌디에이고전서 선두 노린다",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260815_0003750788"
+          "url": "https://www.newsis.com/view/NISX20260814_0003749843"
         },
         {
-          "title": "강부자, 회장 ‘뚜쟁이’ 루머에 분노 “단돈 5만 원도 안 받아..억울하고 속상해” - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/16/MZRGIOBSHFSGMZJTGVSGMZJZGI/"
-        },
-        {
-          "title": "남편 이묵원 외박도 모두 이해...'안방마님' 강부자, 59년 결혼사 - 머니투데이",
+          "title": "'월드컵 악몽→또 조별리그 탈락 고통' 손흥민, 정신적 타격 우려 \"허탈감 들 수밖에...\" LAFC 감독 고백 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/15/2026081507244127327"
+          "url": "https://www.mt.co.kr/sports/2026/08/15/2026081517462627976"
         }
       ]
     },
     {
       "id": "업비트",
-      "rank": 6,
+      "rank": 5,
       "keyword": "업비트",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '\"AI 결제 98.6%가 달러 스테이블코인…원화도 정산망 구축 서둘러야\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -173,25 +145,53 @@
       ]
     },
     {
+      "id": "황인범",
+      "rank": 6,
+      "keyword": "황인범",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '리그 데뷔전부터 번뜩인 황인범…감각적 패스로 쐐기골 어시스트' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "리그 데뷔전부터 번뜩인 황인범…감각적 패스로 쐐기골 어시스트",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260816007500007"
+        },
+        {
+          "title": "개막전 못 뛰었어도 입지는 걱정 없다…포르투 감독, 황인범 극찬 \"다재다능하고 영리, 중원 전체 커버하는 중요한 옵션\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260815n08900"
+        },
+        {
+          "title": "경기 통계 FC 포르투 2-0 알베르카: G. 베이가가 빛을 발하고 FC 포르투가 승점 3점을 모두 확보했습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/thong-ke-tran-dau-fc-porto-2-0-alverca-g-veiga-toa-sang-fc-porto-gianh-tron-3-diem"
+        }
+      ]
+    },
+    {
       "id": "국가유공자",
       "rank": 7,
       "keyword": "국가유공자",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '‘살림남’ 박서진, 국가유공자 후손 식당 찾았다…81만 5000원 ‘돈쭐’ - 스타투데이' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '박서진, 광복절 맞아 국가유공자 후손 식당서 '돈쭐' \"82만3천원 결제\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "‘살림남’ 박서진, 국가유공자 후손 식당 찾았다…81만 5000원 ‘돈쭐’ - 스타투데이",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12128151"
-        },
         {
           "title": "박서진, 광복절 맞아 국가유공자 후손 식당서 '돈쭐' \"82만3천원 결제\" - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/entertainment/2026/08/16/2026081604075750511"
+        },
+        {
+          "title": "광복절 815,000원 결재 성공!…박서진, 독립운동가 후손 식당서 '돈쭐' 폭탄 [살림남2]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816064049121"
         },
         {
           "title": "박서진과 함께 배우는 서대문형무소에서 목도한 독립운동 탄압의 실태 | KBS 260815 방송",
@@ -201,30 +201,30 @@
       ]
     },
     {
-      "id": "삼성중공업",
+      "id": "순찰",
       "rank": 8,
-      "keyword": "삼성중공업",
-      "volumeLabel": "200+",
+      "keyword": "순찰",
+      "volumeLabel": "100+",
       "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 'KAIST-삼성중공업, 차세대선박연구센터 공동출범' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '폭염 속 폐지 리어카 끌던 70대, 드론 순찰로 발견해 보호' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "KAIST-삼성중공업, 차세대선박연구센터 공동출범",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260814171840545"
+          "title": "폭염 속 폐지 리어카 끌던 70대, 드론 순찰로 발견해 보호",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260814_0003749267"
         },
         {
-          "title": "삼성중, 미래 조선해양 기술 확보 시동",
-          "source": "경남매일",
-          "url": "https://www.gnmaeil.com/news/articleView.html?idxno=592743"
+          "title": "폭염 속 탈진 위기 폐지 노인, 순찰 드론에 포착돼 모면",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260814070200060"
         },
         {
-          "title": "32년 ‘동행’ 삼성중공업·카이스트, 차세대 선박연구센터 개소",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608131427001"
+          "title": "폭염 속 폐지 리어카 끌던 70대, 드론 순찰로 발견해 보호",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260816n01395"
         }
       ]
     },
@@ -233,9 +233,9 @@
       "rank": 9,
       "keyword": "김원효",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '김원효, ♥심진화와 마냥 잉꼬부부인 줄 알았는데…\"미묘한 경쟁심 있어\" 고백 (임하룡쇼)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
