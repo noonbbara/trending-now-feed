@@ -1,74 +1,90 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-15T06:50:42.397Z",
+  "updatedAt": "2026-08-15T07:36:51.864Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "민생지원금",
+      "id": "마도-식",
       "rank": 1,
-      "keyword": "민생지원금",
-      "volumeLabel": "20000+",
-      "startedLabel": "2시간 전",
+      "keyword": "마도 식",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '통영시 ‘1인당 35만 원 민생지원금’ 시의회서 지급 확정' (경남도민일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '영화 '돌아이' 등에서 악역 단골…배우 마도식씨 별세' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "통영시 ‘1인당 35만 원 민생지원금’ 시의회서 지급 확정",
-          "source": "경남도민일보",
-          "url": "https://www.idomin.com/news/articleView.html?idxno=2012409"
+          "title": "영화 '돌아이' 등에서 악역 단골…배우 마도식씨 별세",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260815018500704"
         },
         {
-          "title": "추석 앞두고 \"최대 100만원\" 돈 뿌리기 경쟁 … 세금으로 '당선 사례금' 논란",
-          "source": "뉴데일리",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/13/2026081300176.html"
+          "title": "영화 '돌아이' 감초 조연…배우 마도식 별세",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260815_0003750515"
         },
         {
-          "title": "11만 6353명에 35만 원씩…통영형 민생지원금 31일 지급 개시",
+          "title": "'돌아이'·'대야망' 배우 마도식, 만성 폐렴으로 향년 82세 별세",
           "source": "Daum",
-          "url": "https://v.daum.net/v/H8c8dZRf5P"
+          "url": "https://v.daum.net/v/20260815152840562"
+        }
+      ]
+    },
+    {
+      "id": "라면",
+      "rank": 2,
+      "keyword": "라면",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '(흥미 이슈) '라면’, 한국 영화가 꾸준히 관심을 보이고 있는 간편 먹거리' (네이버 프리미엄콘텐츠) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "(흥미 이슈) '라면’, 한국 영화가 꾸준히 관심을 보이고 있는 간편 먹거리",
+          "source": "네이버 프리미엄콘텐츠",
+          "url": "https://contents.premium.naver.com/dailyost/film/contents/260814143437582vk"
+        },
+        {
+          "title": "한국 영화 명대사 10선 - “라면 먹을래요? 살려는 드릴게”",
+          "source": "https://www.d-art.co.kr/",
+          "url": "https://www.d-art.co.kr/news/articleView.html?idxno=6066"
+        },
+        {
+          "title": "오뚜기, 내달 7일부터 컵라면·만두 가격도 올린다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/zq1vCr71ZW"
         }
       ]
     },
     {
       "id": "옥순이",
-      "rank": 2,
+      "rank": 3,
       "keyword": "옥순이",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "ind-vs-sl",
-      "rank": 3,
-      "keyword": "ind vs sl",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'India seek boost in SL to revive WTC hopes' (The News Pakistan) 관련 뉴스가 함께 포착됐어요.",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 ''9월 결혼' 23기 옥순, '회계사' 미스터 강과 뽀뽀샷 등 미방분 대방출...미스터 권, \"시트콤 같아\" 축하' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "India seek boost in SL to revive WTC hopes",
-          "source": "The News Pakistan",
-          "url": "https://www.thenews.pk/print/1432037-india-seek-boost-in-sl-to-revive-wtc-hopes"
+          "title": "'9월 결혼' 23기 옥순, '회계사' 미스터 강과 뽀뽀샷 등 미방분 대방출...미스터 권, \"시트콤 같아\" 축하",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260815101642955"
         },
         {
-          "title": "Rain threat looms large over India's 600th Test match: Maiden cap coming for Brar & Saransh? Gill's men to ...",
-          "source": "Bhaskar English",
-          "url": "https://www.bhaskarenglish.in/sports/cricket/news/ind-vs-sl-1st-test-day-1-live-score-update-shubman-gill-mohammed-siraj-kl-rahul-138725774.html"
+          "title": "'첼리스트' 23기 순자, 눈부신 웨딩드레스 자태…♥영철과 결혼 코앞 [★해시태그]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260813n07513"
         },
         {
-          "title": "\"Massive Honour\": Kuldeep Yadav On Featuring In India's 600th Test On Independence Day",
-          "source": "NDTV Sports",
-          "url": "https://sports.ndtv.com/sri-lanka-vs-india-2026/massive-honour-kuldeep-yadav-on-featuring-in-indias-600th-test-on-independence-day-11913099"
+          "title": "'나는솔로' 30기 옥순♥영수, 결혼식 준비 중? 웨딩드레스 미모에 '깜짝' - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/07/GFRGGZDBMQ4GMZLBMU2WIOJTGE/"
         }
       ]
     },
@@ -76,10 +92,10 @@
       "id": "추석",
       "rank": 4,
       "keyword": "추석",
-      "volumeLabel": "500+",
+      "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '북적이는 명절선물전' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -101,125 +117,143 @@
       ]
     },
     {
-      "id": "대한민국-과학기술정보통신부",
+      "id": "대한민국-여자-배구-국가대표팀",
       "rank": 5,
-      "keyword": "대한민국 과학기술정보통신부",
-      "volumeLabel": "200+",
+      "keyword": "대한민국 여자 배구 국가대표팀",
+      "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[인사] 과학기술정보통신부 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''손서연 23점' 무서운 U-17 여자 배구, 세계 3위 최강 이탈리아 꺾고 3연승' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[인사] 과학기술정보통신부 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/14/2026081413133229681"
-        },
-        {
-          "title": "[인사] 과학기술정보통신부",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260814173457"
-        },
-        {
-          "title": "[인사] 과학기술정보통신부",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/it-science/general-it/6259296"
+          "title": "'손서연 23점' 무서운 U-17 여자 배구, 세계 3위 최강 이탈리아 꺾고 3연승",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260809n10275"
         }
       ]
     },
     {
-      "id": "발렌시아-cf",
+      "id": "달리기",
       "rank": 6,
-      "keyword": "발렌시아 cf",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "keyword": "달리기",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Sato finishes off Valencia team move in Hercules victory' (OneFootball) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '달리기 즐기는 사람 VS 웨이트운동 즐기는 사람, 누가 더 장수할가?--건강' (인민넷) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Sato finishes off Valencia team move in Hercules victory",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/en/video/sato-finishes-off-valencia-team-move-in-hercules-victory-3HtjkfBwktgxnOnuFfWQugXDhIb"
+          "title": "달리기 즐기는 사람 VS 웨이트운동 즐기는 사람, 누가 더 장수할가?--건강",
+          "source": "인민넷",
+          "url": ""
         },
         {
-          "title": "MATCH REPORT: Victory for Valencia CF against Hércules CF",
-          "source": "Valencia CF",
-          "url": "https://www.valenciacf.com/en/17866486797503180"
+          "title": "中휴머노이드 로봇 운동회 다음주 개막…출전 로봇 수 4배↑",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/63DOKiYC1H"
         },
         {
-          "title": "Hércules CF vs Valencia CF 13/08/2026 Live Score",
-          "source": "Futbol24",
-          "url": "https://www.futbol24.com/match/2026/08/13/international/International/Club-Friendly/2026/Hercules/vs/Valencia"
+          "title": "\"로봇 2056대 출전?\"…중국서 벌어지는 기상천외한 스포츠대회",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260815_0003750522"
         }
       ]
     },
     {
-      "id": "한남동",
+      "id": "통합특별시",
       "rank": 7,
-      "keyword": "한남동",
-      "volumeLabel": "200+",
+      "keyword": "통합특별시",
+      "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“내 집 앞 한강을 가렸다”…한남동 초호화 주택가 흔든 재벌가 ‘한강뷰 전쟁’' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '민주당 초대 전남광주통합시당위원장에 안도걸 의원' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“내 집 앞 한강을 가렸다”…한남동 초호화 주택가 흔든 재벌가 ‘한강뷰 전쟁’",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11609732"
-        },
-        {
-          "title": "'회장 vs 회장'…한남동 언덕길 재벌마을 '한강 조망권' 싸움",
+          "title": "민주당 초대 전남광주통합시당위원장에 안도걸 의원",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260812128000004"
+          "url": "https://www.yna.co.kr/view/AKR20260815036900054"
         },
         {
-          "title": "한남동 재벌가 회장님들의 분쟁 \"내집 한강뷰 가렸다\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/08/15/YABIFHNL75HTTAWLYYKEMMQIME/"
+          "title": "더불어민주당 전남광주시당위원장 선거 3파전… 당심 잡기 총력",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260815150027205"
+        },
+        {
+          "title": "서왕진, 조국혁신당 전남광주시당위원장 출마",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8636673"
         }
       ]
     },
     {
-      "id": "마도식",
+      "id": "미스터-시니스터",
       "rank": 8,
-      "keyword": "마도식",
+      "keyword": "미스터 시니스터",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '영화 '돌아이' 등에서 악역 단골…배우 마도식씨 별세' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'D23 2026: Marvel Studios Unveils ‘X-Men’ Cast' (Marvel.com) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "영화 '돌아이' 등에서 악역 단골…배우 마도식씨 별세",
+          "title": "D23 2026: Marvel Studios Unveils ‘X-Men’ Cast",
+          "source": "Marvel.com",
+          "url": "https://www.marvel.com/articles/movies/marvel-studios-x-men-cast-d23-2026-announcement"
+        },
+        {
+          "title": "'X-Men' Adds Christopher Abbott, Adam Driver, Inde Navarette, Maya Boyd; Date Set",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/08/x-men-christopher-abbott-adam-driver-1237012957/"
+        },
+        {
+          "title": "‘X-Men’ Movie Casts Inde Navarrette as Rogue, Christopher Abbott as Prof. X, Adam Driver as Mr. Sinister and Maya Boyd as Storm",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/x-men-cast-inde-navarrette-rogue-christopher-abbott-prof-x-adam-driver-mr-sinister-1236817698/"
+        }
+      ]
+    },
+    {
+      "id": "대한민국-과학기술정보통신부",
+      "rank": 9,
+      "keyword": "대한민국 과학기술정보통신부",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-4",
+      "summary": "급상승 시점에 '[AI프리즘] AI 시대 윤리도 바뀐다…\"규제 아닌 혁신의 기반\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[AI프리즘] AI 시대 윤리도 바뀐다…\"규제 아닌 혁신의 기반\"",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260815018500704"
+          "url": "https://www.yna.co.kr/view/AKR20260814033200017"
         },
         {
-          "title": "'돌아이'·'대야망' 배우 마도식, 만성 폐렴으로 향년 82세 별세",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/movie/6260240"
+          "title": "과기정통부, AI 윤리원칙 6년 만에 손질... '국민 우려 해소'에 방점",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814133043643"
         },
         {
-          "title": "'감초 조연' 원로 배우 마도식, 14일 별세…향년 82세 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/15/2026081514252523552"
+          "title": "국민연금공단 'AI 윤리준수기관 확인마크' 획득",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260814_0003749182"
         }
       ]
     },
     {
       "id": "훈련기",
-      "rank": 9,
+      "rank": 10,
       "keyword": "훈련기",
-      "volumeLabel": "100+",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '“K9으로 재미 보더니”…인도, 이번엔 韓 훈련기까지 눈독 [밀리터리+]' (나우뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -237,34 +271,6 @@
           "title": "MW는 Su-57과의 대결 상황에서 라팔의 전투 능력을 평가합니다.",
           "source": "Vietnam.vn",
           "url": "https://www.vietnam.vn/ko/mw-danh-gia-kha-nang-chien-dau-cua-rafale-trong-cuoc-doi-dau-voi-su-57"
-        }
-      ]
-    },
-    {
-      "id": "야마모토-요시노부",
-      "rank": 10,
-      "keyword": "야마모토 요시노부",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '배지환, 다저스전 대주자로 나서 도루…오타니는 불펜 피칭 시작' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "배지환, 다저스전 대주자로 나서 도루…오타니는 불펜 피칭 시작",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260815_0003750601"
-        },
-        {
-          "title": "밀워키 배지환, 대주자로 시즌 첫 도루…팀은 다저스에 1-3 패배",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/overseas-baseball/6260224"
-        },
-        {
-          "title": "배지환, 대주자 나와 시즌 첫 도루…다저스 디아스 또 흔들렸지만 밀워키에 승리",
-          "source": "마이데일리",
-          "url": "https://www.mydaily.co.kr/page/view/2026081514205037400"
         }
       ]
     }
