@@ -1,34 +1,34 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-15T15:51:01.966Z",
+  "updatedAt": "2026-08-15T16:32:53.997Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "밀란-대-맨유",
+      "id": "가출",
       "rank": 1,
-      "keyword": "밀란 대 맨유",
-      "volumeLabel": "10000+",
+      "keyword": "가출",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 ''맨유에서 하던 그대로' 아모림, AC밀란에서도 '살생부' 꺼냈다…\"은쿤쿠·토모리 전력 외, 레앙도 안심 X\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '가출 말리는 엄마에게 끓는 물 부은 10대 딸' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'맨유에서 하던 그대로' 아모림, AC밀란에서도 '살생부' 꺼냈다…\"은쿤쿠·토모리 전력 외, 레앙도 안심 X\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260814214453222"
+          "title": "가출 말리는 엄마에게 끓는 물 부은 10대 딸",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260815048300060"
         },
         {
-          "title": "[오피셜] 이런 시나리오는 예상 못 했다! 래시포드, 아모림 만난다…맨유, AC 밀란전 소집 명단 발표",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260815n05752"
+          "title": "“가출하지 마” 휴대폰 뺏자…10대 딸, 엄마에게 끓는 물 부어 체포",
+          "source": "주간조선",
+          "url": "https://weekly.chosun.com/news/articleView.html?idxno=54376"
         },
         {
-          "title": "605억 들여 데려온 지 고작 1년 만에 매각 대상… AC 밀란 은쿤쿠, 아모림에게 기량 인정 못 받았다",
-          "source": "베스트일레븐",
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=311149"
+          "title": "“집을 나가겠다” 가출 시도에 휴대전화 빼앗자 어머니에 끓는 물 뿌린 10대 딸···현행범 체포",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608151748001"
         }
       ]
     },
@@ -36,7 +36,7 @@
       "id": "milan-vs-man-united",
       "rank": 2,
       "keyword": "milan vs man united",
-      "volumeLabel": "1000+",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "steady",
       "changeLabel": "유지",
@@ -49,25 +49,53 @@
           "url": "https://www.manutd.com/en/mutv/matches/mens-team/united-v-ac-milan"
         },
         {
-          "title": "Man Utd vs Milan: Get £30 in football free bets when you join Midnite and stake £10",
-          "source": "The Sun",
-          "url": "https://www.thesun.co.uk/sport/40053282/man-utd-milan-football-free-bets-midnite/"
+          "title": "Manchester United vs AC Milan: Club Friendlies stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cmy0j1846rnwt"
         },
         {
-          "title": "Michael Carrick has fixed four Ruben Amorim mistakes ahead of Manchester United reunion",
-          "source": "Manchester Evening News",
-          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carrick-corrected-four-ruben-34445597"
+          "title": "MANCHESTER UNITED v AC MILAN LIVE ON SKY SPORT AND DAZN",
+          "source": "AC Milan",
+          "url": "https://www.acmilan.com/en/news/articles/ac-milan-tour/2026-08-11/manchester-united-v-ac-milan-live-on-sky-sport-and-dazn"
+        }
+      ]
+    },
+    {
+      "id": "송가인",
+      "rank": 3,
+      "keyword": "송가인",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '송가인, 옥빛 한복 입고 뽐낸 잘록한 몸매…44㎏ 감량 비결은 '꾸준한 운동'' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "송가인, 옥빛 한복 입고 뽐낸 잘록한 몸매…44㎏ 감량 비결은 '꾸준한 운동'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260815_0003750659"
+        },
+        {
+          "title": "'40세' 송가인, 한복 소화 제대로 했다…무대 뒤집은 여신 비주얼",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260815123248712"
+        },
+        {
+          "title": "44kg 송가인, 수영복 입고 극세사 몸매 자랑…매일 하는 운동 뭐길래?",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260814n27766"
         }
       ]
     },
     {
       "id": "ม-ลาน-พบ-แมนย",
-      "rank": 3,
+      "rank": 4,
       "keyword": "ม ลาน พบ แมนย",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 'ตารางการแข่งขันฟุตบอลวันนี้ 15 สิงหาคม: รอบรองชนะเลิศนัดแรกของอาเซียนคัพ' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -82,81 +110,25 @@
           "url": "https://www.komchadluek.net/news/sport/621344"
         },
         {
-          "title": "ค็อบบี เมนู สาดวาทะเด็ดก่อน แมนยู ดวล เอซี มิลาน ของ อโมริม",
-          "source": "Thairath.co.th",
-          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2953048"
-        }
-      ]
-    },
-    {
-      "id": "첼시",
-      "rank": 4,
-      "keyword": "첼시",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '맨시티 말고 사우디로 가나?… 이적설 돌던 첼시 윙어 네투, '알 힐랄과 개인 합의 완료→ 이적료는 984억 예상'' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "맨시티 말고 사우디로 가나?… 이적설 돌던 첼시 윙어 네투, '알 힐랄과 개인 합의 완료→ 이적료는 984억 예상'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260815160651123"
-        },
-        {
-          "title": "8월 11일 이적 소식: 맨유, 자이르 에메리 영입, 아스널, 페드로 네투 영입.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/tin-tuc-ve-chuyen-nhuong-11-8-mu-ky-zaire-emery-arsenal-mua-pedro-neto"
-        },
-        {
-          "title": "비니시우스 놓친 아스널, 대체자는 누굴까…영국 매체가 꼽은 영입 후보",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260811n02871"
-        }
-      ]
-    },
-    {
-      "id": "chelsea",
-      "rank": 5,
-      "keyword": "chelsea",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'Enzo Fernandez: Chelsea expect midfielder to stay after Man City do not…' (BBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Enzo Fernandez: Chelsea expect midfielder to stay after Man City do not make bid",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/articles/c7vgyrl2573o"
-        },
-        {
-          "title": "Chelsea’s Enzo Fernandez deadline passes but £120m saga may not be over yet",
-          "source": "The Telegraph",
-          "url": "https://www.telegraph.co.uk/football/2026/08/14/chelsea-transfer-news-enzo-fernandez-deadline-man-city-120/"
-        },
-        {
-          "title": "Chelsea Sets £120M Fee, Deadline for Fernández",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/08/13/JPFPIHWVWBDFDNOF5FQ3CFQF4Y/"
+          "title": "ถ่ายทอดสด แมนยู พบ เอซี มิลาน อุ่นเครื่องคืนนี้ 21.45 น. Monomax",
+          "source": "Thaiger",
+          "url": "https://thethaiger.com/th/news/1597995/"
         }
       ]
     },
     {
       "id": "milan-đấu-với-man-utd",
-      "rank": 6,
+      "rank": 5,
       "keyword": "milan đấu với man utd",
-      "volumeLabel": "200+",
+      "volumeLabel": "500+",
       "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'Trực tiếp bóng đá MU - AC Milan: Amorim nói về cảm xúc đặc biệt khi tái…' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 'Trực tiếp bóng đá MU - AC Milan: Bàn gỡ hòa 2-2 bất ngờ' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Trực tiếp bóng đá MU - AC Milan: Amorim nói về cảm xúc đặc biệt khi tái ngộ \"Quỷ đỏ\"",
+          "title": "Trực tiếp bóng đá MU - AC Milan: Bàn gỡ hòa 2-2 bất ngờ",
           "source": "Tin tức 24h",
           "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-mu-ac-milan-thu-thach-tu-nguoi-cu-amorim-c48a1786804.html"
         },
@@ -174,12 +146,12 @@
     },
     {
       "id": "나상도",
-      "rank": 7,
+      "rank": 6,
       "keyword": "나상도",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '나상도, 예능·MC 휩쓸고 본업 컴백…팬들은 고향 남해에 ‘통 큰 기부’ [트롯 돋보기]' (매일경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -201,86 +173,114 @@
       ]
     },
     {
+      "id": "상장",
+      "rank": 7,
+      "keyword": "상장",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘SK하이닉스 주주들 난리난다’ 하루만에 10% 급락…‘솔리다임’ 상장 무섭네 [투자360]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘SK하이닉스 주주들 난리난다’ 하루만에 10% 급락…‘솔리다임’ 상장 무섭네 [투자360]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260815214212734"
+        },
+        {
+          "title": "\"이건 아닙니다 회장님\"…SK하이닉스 '5단 중복상장' 추진에 쏟아진 비판",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026081321100228351"
+        },
+        {
+          "title": "솔리다임 나스닥 상장 추진 검토에…SK하이닉스 주가에 악재?",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1142280"
+        }
+      ]
+    },
+    {
       "id": "그래미-어워드",
       "rank": 8,
       "keyword": "그래미 어워드",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "steady",
       "changeLabel": "유지",
-      "summary": "급상승 시점에 'BTS 보이콧에 그래미 백기 들었나…\"아시안팝 부문 손질할 수도\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘BTS 보이콧’에 결국 그래미 아카데미 움직였다···“아시안 팝 부문 재검토”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "‘BTS 보이콧’에 결국 그래미 아카데미 움직였다···“아시안 팝 부문 재검토”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608151703001"
+        },
+        {
+          "title": "이게 BTS의 힘!...결국 꼬리 내린 그래미",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816010720783"
+        },
         {
           "title": "BTS 보이콧에 그래미 백기 들었나…\"아시안팝 부문 손질할 수도\"",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260815011600075"
-        },
-        {
-          "title": "BTS가 등 돌리자 '화들짝'…논란 커지자 '아시안 팝' 다시 보는 그래미",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026081512221222701"
-        },
-        {
-          "title": "BTS 보이콧에 백기?...그래미, 아시안 팝 부문 재검토 시사 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/culture/2026/08/15/2026081509242959127"
         }
       ]
     },
     {
-      "id": "재벌형사",
+      "id": "조규성",
       "rank": 9,
-      "keyword": "재벌형사",
-      "volumeLabel": "200+",
+      "keyword": "조규성",
+      "volumeLabel": "100+",
       "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '재벌X형사 2 : [공포 엔딩] 안보현×정은채×강상준×김신비, ‘폐가 괴담’ 해결하자마자 발생한 호텔 살인 사건' (programs.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '조규성 연봉 26억? 日 파격 제안 거절하기 힘들다…깜짝 J리그 입단설 \"주말에 최종 결정 나올 수도\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "재벌X형사 2 : [공포 엔딩] 안보현×정은채×강상준×김신비, ‘폐가 괴담’ 해결하자마자 발생한 호텔 살인 사건",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/drama/sd243062/clip/88571/OC481097204"
-        },
-        {
-          "title": "'재벌X형사2' 정은채, 킬러 이학주에 \"완전 범죄? 그런 건 없어\"",
+          "title": "조규성 연봉 26억? 日 파격 제안 거절하기 힘들다…깜짝 J리그 입단설 \"주말에 최종 결정 나올 수도\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260815232908382"
+          "url": "https://v.daum.net/v/20260815091609075"
         },
         {
-          "title": "안보현·정은채, 손 잡으니 더 재밌다..첫 공조부터 도파민 터지네 '짜릿'(재벌X형사2)",
+          "title": "\"韓 축구 '인간승리' 아이콘\" 조규성, 미트윌란 떠나 日 J리그 둥지 트나…마치다 젤비아 영입 추진",
           "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/15/MYYWKODEME2DGMRVMVTDINDGGI/"
+          "url": "https://www.chosun.com/sports/football/2026/08/13/MNSWIYRRGE2GINJSG4ZGKMZYG4/"
+        },
+        {
+          "title": "'깜짝 소식' 합병증 극복→부활 노리는 韓 국대 ST, 유럽 떠나 J리그로?…\"마치다 조규성 영입 추진한다\" 日 매체 보도! 연봉 '26억' 제안",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260814n05219"
         }
       ]
     },
     {
-      "id": "1237-회-로또-당첨-번호",
+      "id": "fotmob",
       "rank": 10,
-      "keyword": "1237 회 로또 당첨 번호",
+      "keyword": "fotmob",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '[속보]로또 1237회 당첨번호 '10·20·23·34·37·40'…보너스 '36'' (이데일리) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Transfer news LIVE: Hall to Man Utd breakthrough, Arsenal want Quansah,…' (Daily Express) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[속보]로또 1237회 당첨번호 '10·20·23·34·37·40'…보너스 '36'",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02660086645547648&mediaCodeNo=257"
+          "title": "Transfer news LIVE: Hall to Man Utd breakthrough, Arsenal want Quansah, Chelsea £51m bid",
+          "source": "Daily Express",
+          "url": "https://www.express.co.uk/sport/football/2239440/transfer-news-live-man-utd-chelsea-liverpool-arsenal"
         },
         {
-          "title": "1237회 로또 1등 23명…당첨금 각 12억1천만원(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260815049100002"
+          "title": "Arsenal want Quansah, Fernandez deadline looming, Osimhen could make Prem move",
+          "source": "talkSPORT",
+          "url": "https://talksport.com/football/4363975/premier-league-transfer-news-arsenal-liverpool-chelsea-manchester-united/page/40/"
         },
         {
-          "title": "로또 1등 12억씩 23명…1등 2명씩 배출한 판매점은?",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6260375"
+          "title": "Arsenal Complete Done Deal As Victor Osimhen Transfer Twist Emerges And Enzo Fernandez Links Continue",
+          "source": "Gooner Daily",
+          "url": "https://goonerdaily.com/2026/08/15/arsenal-complete-done-deal-as-victor-osimhen-transfer-twist-emerges-and-enzo-fernandez-links-continue/"
         }
       ]
     }
