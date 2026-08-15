@@ -1,45 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-15T19:26:47.439Z",
+  "updatedAt": "2026-08-15T19:48:47.172Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "milan-vs-man-united",
-      "rank": 1,
-      "keyword": "milan vs man united",
-      "volumeLabel": "2000+",
-      "startedLabel": "5시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'MANCHESTER UNITED v AC MILAN LIVE ON SKY SPORT AND DAZN' (AC Milan) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "MANCHESTER UNITED v AC MILAN LIVE ON SKY SPORT AND DAZN",
-          "source": "AC Milan",
-          "url": "https://www.acmilan.com/en/news/articles/ac-milan-tour/2026-08-11/manchester-united-v-ac-milan-live-on-sky-sport-and-dazn"
-        },
-        {
-          "title": "Manchester United vs AC Milan: Club Friendlies stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cmy0j1846rnwt"
-        },
-        {
-          "title": "Man Utd vs AC Milan LIVE! Pre-season friendly score, live updates and team news",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13573289/man-utd-vs-ac-milan-live-pre-season-friendly-score-live-updates-and-team-news"
-        }
-      ]
-    },
-    {
       "id": "황정음",
-      "rank": 2,
+      "rank": 1,
       "keyword": "황정음",
       "volumeLabel": "1000+",
       "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '황정음, 까맣고 살 오른 모습에 본인도 깜짝 “왕식이 얼굴 나왔다..어떡해”' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -49,25 +21,25 @@
           "url": "https://v.daum.net/v/20260815211908514"
         },
         {
+          "title": "황정음, 다리까지 새까맣게 탔네…이탈리아 약국서 지갑 들고 계산",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/entertain/12128813"
+        },
+        {
           "title": "\"대체 무슨 일?\" 황정음, 새까맣게 탄 민낯 충격…팬들도 '깜짝'",
           "source": "네이트",
           "url": "https://news.nate.com/view/20260815n11553"
-        },
-        {
-          "title": "황정음 맞아? 새까맣게 탄 전신+수척해진 근황..확 달라진 분위기",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-08-15/202608150100090890005750"
         }
       ]
     },
     {
       "id": "토트넘",
-      "rank": 3,
+      "rank": 2,
       "keyword": "토트넘",
       "volumeLabel": "1000+",
       "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 ''손흥민 옛 동료' 로메로, AT 마드리드 이적 확정…이강인과 만난다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -90,12 +62,12 @@
     },
     {
       "id": "송가인",
-      "rank": 4,
+      "rank": 3,
       "keyword": "송가인",
       "volumeLabel": "1000+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "startedLabel": "5시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '송가인, 옥빛 한복 입고 뽐낸 잘록한 몸매…44㎏ 감량 비결은 '꾸준한 운동'' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -117,41 +89,13 @@
       ]
     },
     {
-      "id": "ม-ลาน-พบ-แมนย",
-      "rank": 5,
-      "keyword": "ม ลาน พบ แมนย",
-      "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'ตารางการแข่งขันฟุตบอลวันนี้ 15 สิงหาคม: รอบรองชนะเลิศนัดแรกของอาเซียนคัพ' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "ตารางการแข่งขันฟุตบอลวันนี้ 15 สิงหาคม: รอบรองชนะเลิศนัดแรกของอาเซียนคัพ",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/lich-thi-dau-bong-da-hom-nay-15-8-ban-ket-luot-di-asean-cup"
-        },
-        {
-          "title": "เอซี มิลาน ไล่ตามเจ๊าแมนฯ ยูไนเต็ด 2 หน ก่อนยิงเพิ่มจนแซงชนะในเกมอุ่นเครื่อง | Khaosod",
-          "source": "LINE TODAY",
-          "url": "https://today.line.me/th/v3/article/JPnolBK"
-        },
-        {
-          "title": "ค็อบบี เมนู สาดวาทะเด็ดก่อน แมนยู ดวล เอซี มิลาน ของ อโมริม",
-          "source": "Thairath.co.th",
-          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2953048"
-        }
-      ]
-    },
-    {
       "id": "벨기에",
-      "rank": 6,
+      "rank": 4,
       "keyword": "벨기에",
-      "volumeLabel": "100+",
+      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "up",
+      "changeLabel": "+2",
       "summary": "급상승 시점에 '건물 지하서 148억원 상당 금괴∙금화 무더기 발견…무슨 일' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -173,6 +117,62 @@
       ]
     },
     {
+      "id": "ม-ลาน-พบ-แมนย",
+      "rank": 5,
+      "keyword": "ม ลาน พบ แมนย",
+      "volumeLabel": "500+",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 'การคาดการณ์ผลการแข่งขันระหว่างแมนเชสเตอร์ ยูไนเต็ด กับ เอซี มิลาน: รายช…' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "การคาดการณ์ผลการแข่งขันระหว่างแมนเชสเตอร์ ยูไนเต็ด กับ เอซี มิลาน: รายชื่อผู้เล่นตัวจริงที่คาดว่าจะลงสนาม",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-manchester-united-vs-ac-milan-doi-hinh-du-kien"
+        },
+        {
+          "title": "เอซี มิลาน ไล่ตามเจ๊าแมนฯ ยูไนเต็ด 2 หน ก่อนยิงเพิ่มจนแซงชนะในเกมอุ่นเครื่อง | Khaosod",
+          "source": "LINE TODAY",
+          "url": "https://today.line.me/th/v3/article/JPnolBK"
+        },
+        {
+          "title": "ค็อบบี เมนู สาดวาทะเด็ดก่อน แมนยู ดวล เอซี มิลาน ของ อโมริม",
+          "source": "Thairath.co.th",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2953048"
+        }
+      ]
+    },
+    {
+      "id": "milan-đấu-với-man-utd",
+      "rank": 6,
+      "keyword": "milan đấu với man utd",
+      "volumeLabel": "500+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Video bóng đá MU - AC Milan: 6 bàn rực rỡ, ngược dòng mãn nhãn' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Video bóng đá MU - AC Milan: 6 bàn rực rỡ, ngược dòng mãn nhãn",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-mu-ac-milan-6-ban-ruc-ro-nguoc-dong-man-nhan-c48a1786871.html"
+        },
+        {
+          "title": "Прямая трансляция матча «Манчестер Юнайтед» — «Милан»: «Милан» ведёт со счётом 4:2.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ru/truc-tieptruc-tiep-manchester-united-vs-ac-milan-ac-milan-dan-4-2"
+        },
+        {
+          "title": "Man Utd thua ngược trước đội bóng của HLV Amorim",
+          "source": "Báo Dân trí",
+          "url": "https://dantri.com.vn/the-thao/man-utd-thua-nguoc-truoc-doi-bong-cua-hlv-amorim-20260816014804898.htm"
+        }
+      ]
+    },
+    {
       "id": "상장",
       "rank": 7,
       "keyword": "상장",
@@ -180,9 +180,14 @@
       "startedLabel": "4시간 전",
       "change": "steady",
       "changeLabel": "유지",
-      "summary": "급상승 시점에 '“코리아디스카운트 수출” 하닉 ‘5단 중복상장’ 규탄' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘츄파춥스 배당’ 하이닉스, 손자회사도 나스닥행?…‘다단계 중복 상장’ 논란' (한겨레) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "‘츄파춥스 배당’ 하이닉스, 손자회사도 나스닥행?…‘다단계 중복 상장’ 논란",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1272860.html"
+        },
         {
           "title": "“코리아디스카운트 수출” 하닉 ‘5단 중복상장’ 규탄",
           "source": "문화일보",
@@ -192,11 +197,6 @@
           "title": "SK는 왜 ‘4중 상장’에 도전하나…아메리카 드림의 ‘미스테리’ [홍길용의 화식열전](909회)",
           "source": "헤럴드경제",
           "url": "https://biz.heraldcorp.com/article/10842125"
-        },
-        {
-          "title": "‘츄파춥스 배당’ 하이닉스, 손자회사도 나스닥행?…‘다단계 중복 상장’ 논란",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1272860.html"
         }
       ]
     },
@@ -208,9 +208,14 @@
       "startedLabel": "5시간 전",
       "change": "steady",
       "changeLabel": "유지",
-      "summary": "급상승 시점에 'Transfer news LIVE: Hall to Man Utd breakthrough, Arsenal want Quansah,…' (Daily Express) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Arsenal surprise as Chelsea close in on bizarre deal' (FootballTransfers.com) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "Arsenal surprise as Chelsea close in on bizarre deal",
+          "source": "FootballTransfers.com",
+          "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/08/arsenal-chelsea-close-man-utd-jarell-quansah-omari-kellyman-lamine-camara-liam-delap-rodri-julian-alvarez-footballtransfers-recap"
+        },
         {
           "title": "Transfer news LIVE: Hall to Man Utd breakthrough, Arsenal want Quansah, Chelsea £51m bid",
           "source": "Daily Express",
@@ -220,11 +225,6 @@
           "title": "Arsenal want Quansah, Fernandez deadline looming, Osimhen could make Prem move",
           "source": "talkSPORT",
           "url": "https://talksport.com/football/4363975/premier-league-transfer-news-arsenal-liverpool-chelsea-manchester-united/page/40/"
-        },
-        {
-          "title": "Arsenal Complete Done Deal As Victor Osimhen Transfer Twist Emerges And Enzo Fernandez Links Continue",
-          "source": "Gooner Daily",
-          "url": "https://goonerdaily.com/2026/08/15/arsenal-complete-done-deal-as-victor-osimhen-transfer-twist-emerges-and-enzo-fernandez-links-continue/"
         }
       ]
     },
@@ -233,9 +233,9 @@
       "rank": 9,
       "keyword": "이병태",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '이병태 \"5·18 표현의 자유 부정한다면 자유민주주의 아냐\"' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
