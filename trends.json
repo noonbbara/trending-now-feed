@@ -1,286 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-14T23:53:39.460Z",
+  "updatedAt": "2026-08-15T01:42:18.349Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "날씨",
+      "id": "장윤정",
       "rank": 1,
-      "keyword": "날씨",
-      "volumeLabel": "500000+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '[주말 날씨] 광복절, 남부 비 소식…내일 전국으로 확대' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[주말 날씨] 광복절, 남부 비 소식…내일 전국으로 확대",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260815080117100"
-        },
-        {
-          "title": "[전국 지역별 오늘의 날씨 및 주말-연휴날씨]오늘~모레 남부지방/제주도 강하고 많은 비, 오늘 중부지방 중심 소나기!",
-          "source": "이코노미톡뉴스",
-          "url": ""
-        },
-        {
-          "title": "연휴 동안 전국에 비…남해안·제주엔 집중호우",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8637855"
-        }
-      ]
-    },
-    {
-      "id": "두산에너빌리티",
-      "rank": 2,
-      "keyword": "두산에너빌리티",
+      "keyword": "장윤정",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김정관 장관, 빌 게이츠 테라파워 의장 면담…SMR 협력방안 논의' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '장윤정 ‘네고왕’ 6개월 만 하차…“책임감에 버텼다”' (헤럴드경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김정관 장관, 빌 게이츠 테라파워 의장 면담…SMR 협력방안 논의",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970126&pWise=main&pWiseMain=R4"
+          "title": "장윤정 ‘네고왕’ 6개월 만 하차…“책임감에 버텼다”",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10841508"
         },
         {
-          "title": "[중화학ON]빌 게이츠 방한에 뜨거워진 K-SMR…테라파워로 모이는 기업들",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260815073151801"
-        },
-        {
-          "title": "빌 게이츠 이사장과 악수하는 한성숙 총리",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260814125900013"
-        }
-      ]
-    },
-    {
-      "id": "thời-tiết",
-      "rank": 3,
-      "keyword": "thời tiết",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'Thời tiết hôm nay 15.8: Cuối tuần, miền Bắc mưa dông, có nơi mưa to' (Laodong.vn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Thời tiết hôm nay 15.8: Cuối tuần, miền Bắc mưa dông, có nơi mưa to",
-          "source": "Laodong.vn",
-          "url": "https://laodong.vn/ban-tin/thoi-tiet-hom-nay-158-cuoi-tuan-mien-bac-mua-dong-co-noi-mua-to-1751043.ldo"
-        },
-        {
-          "title": "[Video] Dự báo thời tiết ngày 15/8/2026: Mưa dông quay trở lại tại Bắc Bộ, Trung Bộ cục bộ vẫn có nắng nóng gay gắt",
-          "source": "Báo Nhân Dân điện tử",
-          "url": "https://nhandan.vn/video-du-bao-thoi-tiet-ngay-1582026-mua-dong-quay-tro-lai-tai-bac-bo-trung-bo-cuc-bo-van-co-nang-nong-gay-gat-post981941.html"
-        },
-        {
-          "title": "Nắng nóng diện rộng ở Trung Bộ có khả năng kéo dài đến ngày 18/8",
-          "source": "Báo Thanh Hóa",
-          "url": "https://baothanhhoa.vn/nang-nong-dien-rong-o-trung-bo-co-kha-nang-keo-dai-den-ngay-18-8-298200.htm"
-        }
-      ]
-    },
-    {
-      "id": "weather",
-      "rank": 4,
-      "keyword": "weather",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'Take a look at the world's largest car cruise over the years' (USA Today) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Take a look at the world's largest car cruise over the years",
-          "source": "USA Today",
-          "url": "https://www.usatoday.com/picture-gallery/cars/2026/08/14/worlds-largest-car-cruise-through-the-years/91307663007/"
-        },
-        {
-          "title": "Dream Cruise weather: Tracking weekend storm chances in Metro Detroit",
-          "source": "ClickOnDetroit | WDIV Local 4",
-          "url": "https://www.clickondetroit.com/weather/2026/08/14/dream-cruise-weather-tracking-weekend-storm-chances-in-metro-detroit/"
-        },
-        {
-          "title": "NASCAR legend Rusty Wallace's car will be cruising Woodward this weekend.",
-          "source": "The Detroit News",
-          "url": "https://www.detroitnews.com/videos/business/autos/woodward-dream-cruise/2026/08/14/car-enthusiasts-will-see-nascar-legend-rusty-wallaces-car-in-the-dream-cruise/91310776007/"
-        }
-      ]
-    },
-    {
-      "id": "김지민",
-      "rank": 5,
-      "keyword": "김지민",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '‘♥김준호’ 김지민, 내년 2월 ‘출산 예정’ 소식 전했다…“딸이겠죠? 아들도 좋아요”' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘♥김준호’ 김지민, 내년 2월 ‘출산 예정’ 소식 전했다…“딸이겠죠? 아들도 좋아요”",
+          "title": "김희재, 장윤정 진행하는 ‘네고왕’ 시즌 마지막 회에 시청자 대표로 출격",
           "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608141839003"
+          "url": "https://sports.khan.co.kr/article/202608151004003"
         },
         {
-          "title": "임신 여파…김지민, 피부 다 뒤집어졌다 \"시술도 못 받고\"",
+          "title": "'도경완♥' 장윤정, '네고왕' 마무리…\"하차 고민했는데 책임감 생겨\"",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260814n12772"
+        }
+      ]
+    },
+    {
+      "id": "소방관",
+      "rank": 2,
+      "keyword": "소방관",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '국가소방동원령 연장 이틀째…군 차량 102대 경남 가뭄현장 투입' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "국가소방동원령 연장 이틀째…군 차량 102대 경남 가뭄현장 투입",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260814164849326"
+          "url": "https://v.daum.net/v/20260815094657496"
         },
         {
-          "title": "임신 김지민 \"딸이겠죠? 아들도 좋아…먹덧 탓 계속 먹어\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260814_0003749926"
+          "title": "바싹 마른 경남, 소방 이어 군대까지 지원해 농업용수 공급",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260815.99099004122"
+        },
+        {
+          "title": "농업용수 ‘한 방울이라도’…하천수 굴착까지",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8637631"
         }
       ]
     },
     {
-      "id": "天气",
-      "rank": 6,
-      "keyword": "天气",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '[天气]光复节假期最大150毫米强降雨……伴有阵风、雷电' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[天气]光复节假期最大150毫米强降雨……伴有阵风、雷电",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/cn/article/2026081417201365612"
-        },
-        {
-          "title": "据韩联社14日报道，随着曾登陆中国的第13号台风\"海豚\"减弱的低气压过去，预计15日至17日全国将出现降雨天气。",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/cn/society/12128267"
-        },
-        {
-          "title": "政府检查假期期间的强降雨应对情况，呼吁市民减少外出和靠近河流",
-          "source": "亚洲日报",
-          "url": "https://www.ajudaily.com/view/20260814164470694"
-        }
-      ]
-    },
-    {
-      "id": "погода",
-      "rank": 7,
-      "keyword": "погода",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'Погода в Санкт-Петербурге: 16 августа — один из последних теплых дней в…' (GISMETEO.Новости) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Погода в Санкт-Петербурге: 16 августа — один из последних теплых дней в этом сезоне",
-          "source": "GISMETEO.Новости",
-          "url": "https://www.gismeteo.ru/news/weather/pogoda-v-sankt-peterburge-16-avgusta-odin-iz-poslednih-teplyh-dnej-v-jetom-sezone/"
-        },
-        {
-          "title": "Петербург ждут дождливые выходные с грозами",
-          "source": "Росбалт",
-          "url": "https://www.rosbalt.ru/news/2026-08-14/peterburg-zhdut-dozhdlivye-vyhodnye-s-grozami-5659568"
-        },
-        {
-          "title": "Лето колбасит, и выходные будут такими же",
-          "source": "ФОНТАНКА.ру",
-          "url": "https://www.fontanka.ru/2026/08/14/76587709/"
-        }
-      ]
-    },
-    {
-      "id": "테슬라",
-      "rank": 8,
-      "keyword": "테슬라",
+      "id": "샌-디스크",
+      "rank": 3,
+      "keyword": "샌 디스크",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"테슬라 전기차 독주 끝났다\"…'안방 사수' 성공한 車 봤더니' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"몽땅 주주에게\" 샌디스크의 파격…SK하닉은 '100조 축포' 쏘나' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"테슬라 전기차 독주 끝났다\"…'안방 사수' 성공한 車 봤더니",
+          "title": "\"몽땅 주주에게\" 샌디스크의 파격…SK하닉은 '100조 축포' 쏘나",
           "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608139540g"
+          "url": "https://www.hankyung.com/article/2026081421046"
         },
         {
-          "title": "기아 EV6, 300만원 깎아주더니…‘월 19만원’ 이 조건은 반칙 아닌가",
-          "source": "뉴스와",
-          "url": "https://www.news-wa.com/article/automobiles/new-car/2026/08/12/20260812500059"
+          "title": "“투자 후 잉여현금 100% 주주환원”…파격 선언에 주가 14% 급등한 이 기업",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260814000276"
         },
         {
-          "title": "“이러면 테슬라 고를 이유 없다”… 기아 전기차 1회 충전 500km 가능해",
+          "title": "샌디스크, 2030년까지 매출 10%대 중후반 성장 전망",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260814012700009"
+        }
+      ]
+    },
+    {
+      "id": "인도네시아",
+      "rank": 4,
+      "keyword": "인도네시아",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '인도네시아 동부 연안에서 규모 7.7 강진…쓰나미 경보 발령' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "인도네시아 동부 연안에서 규모 7.7 강진…쓰나미 경보 발령",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608150927001"
+        },
+        {
+          "title": "인도네시아 연안에 규모 7.7 강진…쓰나미 경보",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260815093251LSm"
+        },
+        {
+          "title": "쓰나미로 2500명 숨졌던 인니 섬 규모 7.7 지진(종합2보)",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260815_0003750471"
+        }
+      ]
+    },
+    {
+      "id": "변광용",
+      "rank": 5,
+      "keyword": "변광용",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '변광용 거제시장, 거제경찰서 연초면 이전 계획에 “유감”' (경남도민일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "변광용 거제시장, 거제경찰서 연초면 이전 계획에 “유감”",
+          "source": "경남도민일보",
+          "url": "https://www.idomin.com/news/articleView.html?idxno=2012399"
+        },
+        {
+          "title": "10년 넘게 표류한 거제경찰서…부지 정했지만 시 반발 '산 넘어 산'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/W5nJo1tW7z?f=p"
+          "url": "https://v.daum.net/v/20260814170608054"
+        },
+        {
+          "title": "거제시장 \"경찰서 이전·신축, 지역사회 공감대 형성이 우선\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260814137300052"
         }
       ]
     },
     {
-      "id": "schd",
+      "id": "송도-럭스-오션-sk뷰",
+      "rank": 6,
+      "keyword": "송도 럭스 오션 sk뷰",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '박찬대 \"송도 아파트 테라스 붕괴, 책임 묻겠다\"' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "박찬대 \"송도 아파트 테라스 붕괴, 책임 묻겠다\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202608150933142QN"
+        },
+        {
+          "title": "[CEO Effect] 김영식의 나노미터, 그리고 균열",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=347561&replyAll=&reply_sc_order_by=C"
+        },
+        {
+          "title": "신축 아파트 발코니 통째로 '와르르'…재시공 요구",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260814002500038"
+        }
+      ]
+    },
+    {
+      "id": "jason-arday",
+      "rank": 7,
+      "keyword": "jason arday",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead' (The New York Times) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html"
+        },
+        {
+          "title": "Youngest Black professor at Cambridge found dead after resigning amid plagiarism scandal",
+          "source": "The Times of Israel",
+          "url": "https://www.timesofisrael.com/youngest-black-professor-at-cambridge-found-dead-after-resigning-amid-plagiarism-scandal/"
+        },
+        {
+          "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c1j1ye6n30no"
+        }
+      ]
+    },
+    {
+      "id": "미래에셋",
+      "rank": 8,
+      "keyword": "미래에셋",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '은행 넘는 순이익에도 미래에셋증권 목표가 ‘뚝’, 왜?' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "은행 넘는 순이익에도 미래에셋증권 목표가 ‘뚝’, 왜?",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/economy/12127958"
+        },
+        {
+          "title": "역대급 증시 활황에 상위 10대 증권사 ‘방긋’···상반기 순익 10조 넘어서 By 투데이코리아",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2062123"
+        },
+        {
+          "title": "\"금융권 이익 판도 바꿨다\"…미래에셋, 5대 은행 꺾고 역대급 실적",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260814_0003748845"
+        }
+      ]
+    },
+    {
+      "id": "광복",
       "rank": 9,
-      "keyword": "schd",
+      "keyword": "광복",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'SCHD: The Biggest Mistake New Dividend Investors Make' (24/7 Wall St.) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '李대통령, 광복절 경축식 참석…남북평화·한일관계 청사진 제시' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "SCHD: The Biggest Mistake New Dividend Investors Make",
-          "source": "24/7 Wall St.",
-          "url": "https://247wallst.com/investing/etf/2026/08/13/schd-the-biggest-mistake-new-dividend-investors-make/"
+          "title": "李대통령, 광복절 경축식 참석…남북평화·한일관계 청사진 제시",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260815021200001"
         },
         {
-          "title": "SCHD: Up 31%, But The Latest Data Make Me More Bullish (NYSEARCA:SCHD)",
-          "source": "Seeking Alpha",
-          "url": "https://seekingalpha.com/article/4936089-schd-up-31-percent-but-the-latest-data-make-me-more-bullish"
+          "title": "기념사 하는 이종찬 광복회장",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260815_0021399946"
         },
         {
-          "title": "SCHD’s 2% Yield Hides a $38,000 Decade-Long Performance Gap Against VYM",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/schd-2-yield-hides-38-222527352.html"
+          "title": "이재명 대통령, 제81주년 광복절 경축식 참석 [현장영상+]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202608151004042057"
         }
       ]
     },
     {
-      "id": "avgo",
+      "id": "메이저-리그-사커",
       "rank": 10,
-      "keyword": "avgo",
+      "keyword": "메이저 리그 사커",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'Broadcom is Down Over 3 Months: One Wall Street Pro Sees 60%+ Gains Ahe…' (Yahoo Finance) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'MLS, ‘은퇴 리그’서 특급 스타들 ‘핫 리그’로 떠올라' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Broadcom is Down Over 3 Months: One Wall Street Pro Sees 60%+ Gains Ahead",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-down-over-3-months-154215417.html"
+          "title": "MLS, ‘은퇴 리그’서 특급 스타들 ‘핫 리그’로 떠올라",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260814/134475791/2"
         },
         {
-          "title": "Investigating Broadcom's Standing In Semiconductors & Semiconductor Equipment Industry Compared To Co",
-          "source": "Benzinga",
-          "url": "https://www.benzinga.com/news/26/08/61202398/investigating-broadcom-s-standing-semiconductors-amp-semiconductor-equipment-industry-compared-compe"
+          "title": "[오피셜] 손흥민 오고 MLS에 슈퍼스타 모인다…37살 산체스도 미국 진출! 몽레알 No.10으로 합류",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260813n25987"
         },
         {
-          "title": "What Separates AVGO From Its Peers Right Now",
-          "source": "Trefis",
-          "url": "https://www.trefis.com/stock/avgo/articles/611488/what-separates-avgo-from-its-peers-right-now/2026-08-14"
+          "title": "‘SON, 나도 미국 왔어’ 칠레 레전드 MLS 상륙···“알렉시스 산체스, 몽레알과 2년 계약”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608110906003"
         }
       ]
     }
