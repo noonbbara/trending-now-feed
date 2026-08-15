@@ -1,118 +1,118 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-15T14:30:24.372Z",
+  "updatedAt": "2026-08-15T15:28:12.347Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "내일-날씨",
+      "id": "밀란-대-맨유",
       "rank": 1,
-      "keyword": "내일 날씨",
-      "volumeLabel": "500000+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '한 총리, 남해안 집중호우 예보에 \"선제적 통제·비상근무\" 지시' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "한 총리, 남해안 집중호우 예보에 \"선제적 통제·비상근무\" 지시",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260815204500144"
-        },
-        {
-          "title": "가뭄 해갈 '단비' 반갑지만‥250mm 이상 물폭탄 쏟아진다",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6845034_37004.html"
-        },
-        {
-          "title": "[뉴스9 날씨] 내일 전국에 비…남부·제주 최대 250mm↑",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8638078"
-        }
-      ]
-    },
-    {
-      "id": "thời-tiết-ngày-mai",
-      "rank": 2,
-      "keyword": "thời tiết ngày mai",
-      "volumeLabel": "5000+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 'Dự báo thời tiết ngày 16/8/2026: Nắng nóng miền Trung, Bắc Bộ mưa lớn s…' (Báo Nhân Dân điện tử) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Dự báo thời tiết ngày 16/8/2026: Nắng nóng miền Trung, Bắc Bộ mưa lớn sắp tới",
-          "source": "Báo Nhân Dân điện tử",
-          "url": "https://nhandan.vn/video-du-bao-thoi-tiet-dem-nay-va-ngay-mai-ngay-1682026-nang-nong-tiep-tuc-o-mien-trung-bac-bo-chuan-bi-buoc-vao-dot-mua-lon-post982131.html"
-        },
-        {
-          "title": "Thời tiết ngày 16/8 chiều tối và đêm có mưa rào và dông vài nơi, ngày trời nắng gián đoạn",
-          "source": "Báo Cao Bằng",
-          "url": "https://baocaobang.vn/thoi-tiet-ngay-16-8-chieu-toi-va-dem-co-mua-rao-va-dong-vai-noi-ngay-troi-nang-gian-doan-3191400.html"
-        },
-        {
-          "title": "Dự báo thời tiết ngày 15/8",
-          "source": "Báo Lào Cai điện tử",
-          "url": "https://baolaocai.vn/du-bao-thoi-tiet-ngay-158-post906183.html"
-        }
-      ]
-    },
-    {
-      "id": "블랙록",
-      "rank": 3,
-      "keyword": "블랙록",
-      "volumeLabel": "2000+",
+      "keyword": "밀란 대 맨유",
+      "volumeLabel": "10000+",
       "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '미국 물가에 '조마조마'…연준 말고 이란만 본다? [이브닝 브리핑]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''맨유에서 하던 그대로' 아모림, AC밀란에서도 '살생부' 꺼냈다…\"은쿤쿠·토모리 전력 외, 레앙도 안심 X\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "미국 물가에 '조마조마'…연준 말고 이란만 본다? [이브닝 브리핑]",
+          "title": "'맨유에서 하던 그대로' 아모림, AC밀란에서도 '살생부' 꺼냈다…\"은쿤쿠·토모리 전력 외, 레앙도 안심 X\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/5aRlBMSruq"
+          "url": "https://v.daum.net/v/20260814214453222"
         },
         {
-          "title": "[3분증시] 뉴욕증시, PPI 압력둔화에 상승…S&P 사상최고",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20260814004400038"
+          "title": "[오피셜] 이런 시나리오는 예상 못 했다! 래시포드, 아모림 만난다…맨유, AC 밀란전 소집 명단 발표",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260815n05752"
         },
         {
-          "title": "바클레이즈 \"미국 경제 지표 둔화, 기술주 안정에 도움\"",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2062515"
+          "title": "605억 들여 데려온 지 고작 1년 만에 매각 대상… AC 밀란 은쿤쿠, 아모림에게 기량 인정 못 받았다",
+          "source": "베스트일레븐",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=311149"
+        }
+      ]
+    },
+    {
+      "id": "milan-vs-man-united",
+      "rank": 2,
+      "keyword": "milan vs man united",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'united-v-ac-milan | Manchester United' (Manchester United Website) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "united-v-ac-milan | Manchester United",
+          "source": "Manchester United Website",
+          "url": "https://www.manutd.com/en/mutv/matches/mens-team/united-v-ac-milan"
+        },
+        {
+          "title": "The three players to watch in AC Milan’s final pre-season game vs. Manchester United",
+          "source": "SempreMilan",
+          "url": "https://sempremilan.com/three-players-to-watch-milan-manchester-united"
+        },
+        {
+          "title": "Man Utd vs Milan: Get £30 in football free bets when you join Midnite and stake £10",
+          "source": "The Sun",
+          "url": "https://www.thesun.co.uk/sport/40053282/man-utd-milan-football-free-bets-midnite/"
         }
       ]
     },
     {
       "id": "첼시",
-      "rank": 4,
+      "rank": 3,
       "keyword": "첼시",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '첼시는 사비 알론소 감독 체제에서 네 가지 규칙을 변경했다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '맨시티 말고 사우디로 가나?…이적설 돌던 첼시 윙어 네투, '알 힐랄과 개인 합의 완료→ 이적료는 984억 예상'' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "첼시는 사비 알론소 감독 체제에서 네 가지 규칙을 변경했다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/chelsea-thay-doi-4-quy-tac-duoi-thoi-cua-hlv-xabi-alonso"
-        },
-        {
-          "title": "'맨유 러브콜 받을 생각 추호도 없어' 브렌트포드, '25골 1도움' 티아고 잔류 시킨다 \"매각 불가 방침\"",
+          "title": "맨시티 말고 사우디로 가나?…이적설 돌던 첼시 윙어 네투, '알 힐랄과 개인 합의 완료→ 이적료는 984억 예상'",
           "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260810n00475"
+          "url": "https://sports.news.nate.com/view/20260815n08521"
         },
         {
-          "title": "‘세슈코 옆에 PL 22골 괴물 세운다’ 맨체스터 유나이티드, 브렌트포드 ST 영입전 참전...첼시·토트넘·뮌헨까지 관심",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96129"
+          "title": "비니시우스 놓친 아스널, 대체자는 누굴까…영국 매체가 꼽은 영입 후보",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811065749936"
+        },
+        {
+          "title": "아스널은 비니시우스 영입에 실패한 후 유벤투스의 케난 일디즈를 영입하기 위해 1억 파운드를 투자할 준비가 되어 있다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/arsenal-san-sang-chi-100-trieu-bang-chieu-mo-kenan-yildiz-tu-juventus-sau-khi-hut-vinicius"
+        }
+      ]
+    },
+    {
+      "id": "chelsea",
+      "rank": 4,
+      "keyword": "chelsea",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+2",
+      "summary": "급상승 시점에 'Chelsea vs Real Sociedad: Club Friendlies stats & head-to-head' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Chelsea vs Real Sociedad: Club Friendlies stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/ck5y0je5z00lt"
+        },
+        {
+          "title": "Confirmed Chelsea line up vs Real Socieded | News | Official Site",
+          "source": "Chelsea Football Club",
+          "url": "https://www.chelseafc.com/en/news/article/confirmed-chelsea-line-up-vs-real-socieded"
+        },
+        {
+          "title": "Cole Palmer starts, Morgan Rogers debut - Predicted Chelsea starting XI vs Real Sociedad",
+          "source": "Football London",
+          "url": "https://www.football.london/chelsea-fc/news/cole-palmer-starts-morgan-rogers-34447392"
         }
       ]
     },
@@ -121,9 +121,9 @@
       "rank": 5,
       "keyword": "엘니뇨",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 ''가장 강력한 엘니뇨' 온다…대륙별 극단적 날씨 이어져 [지금은 기후위기]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -145,69 +145,125 @@
       ]
     },
     {
-      "id": "chelsea",
+      "id": "milan-đấu-với-man-utd",
       "rank": 6,
-      "keyword": "chelsea",
+      "keyword": "milan đấu với man utd",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Chelsea vs Real Sociedad' (Chelsea Football Club) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Trực tiếp bóng đá MU - AC Milan: Amorim nói về cảm xúc đặc biệt khi tái…' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Chelsea vs Real Sociedad",
-          "source": "Chelsea Football Club",
-          "url": "https://www.chelseafc.com/en/video/live/chelsea-vs-real-sociedad-15-08-26"
+          "title": "Trực tiếp bóng đá MU - AC Milan: Amorim nói về cảm xúc đặc biệt khi tái ngộ \"Quỷ đỏ\"",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-mu-ac-milan-thu-thach-tu-nguoi-cu-amorim-c48a1786804.html"
         },
         {
-          "title": "Chelsea vs Real Sociedad: Club Friendlies stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/ck5y0je5z00lt"
+          "title": "Manchester United trình làng áo đấu thứ ba mùa 2026/27 trước màn đối đầu AC Milan",
+          "source": "Góc nhìn pháp lý",
+          "url": "https://gocnhinphaply.nguoiduatin.vn/manchester-united-trinh-lang-ao-dau-thu-ba-mua-202627-truoc-man-doi-dau-ac-milan-48383.html"
         },
         {
-          "title": "Cole Palmer starts, Morgan Rogers debut - Predicted Chelsea starting XI vs Real Sociedad",
-          "source": "Football London",
-          "url": "https://www.football.london/chelsea-fc/news/cole-palmer-starts-morgan-rogers-34447392"
+          "title": "MU - Milan: Màn báo thù ngọt ngào của Rashford?",
+          "source": "Bongdaplus",
+          "url": "https://bongdaplus.vn/giao-huu-bong-da/mu-milan-man-bao-thu-ngot-ngao-cua-rashford-5127762608.html"
         }
       ]
     },
     {
-      "id": "테니스",
+      "id": "나상도",
       "rank": 7,
-      "keyword": "테니스",
+      "keyword": "나상도",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '나상도, 예능·MC 휩쓸고 본업 컴백…팬들은 고향 남해에 ‘통 큰 기부’ [트롯 돋보기]' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "나상도, 예능·MC 휩쓸고 본업 컴백…팬들은 고향 남해에 ‘통 큰 기부’ [트롯 돋보기]",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/entertain/12128664"
+        },
+        {
+          "title": "나상도, 올여름 모두의 흥을 책임질 신곡 ‘지화자’로 복귀",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608142250003"
+        },
+        {
+          "title": "나상도, 신곡 '지화자' 담은 스페셜 앨범 발매",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=05238166645547320&mediaCodeNo=257"
+        }
+      ]
+    },
+    {
+      "id": "그래미-어워드",
+      "rank": 8,
+      "keyword": "그래미 어워드",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'BTS 보이콧에 그래미 백기 들었나…\"아시안팝 부문 손질할 수도\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "BTS 보이콧에 그래미 백기 들었나…\"아시안팝 부문 손질할 수도\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260815011600075"
+        },
+        {
+          "title": "BTS가 등 돌리자 '화들짝'…논란 커지자 '아시안 팝' 다시 보는 그래미",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026081512221222701"
+        },
+        {
+          "title": "BTS 보이콧 영향?…그래미 ‘아시안 팝 부문’ 재검토 가능성 시사",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1273051.html"
+        }
+      ]
+    },
+    {
+      "id": "재벌형사",
+      "rank": 9,
+      "keyword": "재벌형사",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '테니스 선수 응우옌 닥 티엔이 위카의 새로운 라켓 디자인에 영감을 주었습니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '재벌X형사 2 : [공포 엔딩] 안보현×정은채×강상준×김신비, ‘폐가 괴담’ 해결하자마자 발생한 호텔 살인 사건' (programs.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "테니스 선수 응우옌 닥 티엔이 위카의 새로운 라켓 디자인에 영감을 주었습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/tay-vot-nguyen-dac-tien-tro-thanh-cam-hung-cho-mau-vot-moi-cua-wika"
+          "title": "재벌X형사 2 : [공포 엔딩] 안보현×정은채×강상준×김신비, ‘폐가 괴담’ 해결하자마자 발생한 호텔 살인 사건",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/drama/sd243062/clip/88571/OC481097204"
         },
         {
-          "title": "응우옌 닥 티엔은 프로 테니스를 그만두고 피클볼을 선택한 이유를 밝혔다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nguyen-dac-tien-tiet-lo-ly-do-roi-tennis-chuyen-nghiep-de-chon-pickleball"
+          "title": "'재벌X형사2' 정은채, 킬러 이학주에 \"완전 범죄? 그런 건 없어\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260815232908382"
         },
         {
-          "title": "전 북베트남 테니스 랭킹 1위 선수가 피클볼에서 두각을 나타내고 있다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/cuu-tay-vot-tennis-so-1-mien-bac-tao-buoc-ngoat-voi-pickleball"
+          "title": "안보현·정은채, 손 잡으니 더 재밌다..첫 공조부터 도파민 터지네 '짜릿'(재벌X형사2)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/15/MYYWKODEME2DGMRVMVTDINDGGI/"
         }
       ]
     },
     {
       "id": "1237-회-로또-당첨-번호",
-      "rank": 8,
+      "rank": 10,
       "keyword": "1237 회 로또 당첨 번호",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '[속보]로또 1237회 당첨번호 '10·20·23·34·37·40'…보너스 '36'' (이데일리) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -217,70 +273,14 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=02660086645547648&mediaCodeNo=257"
         },
         {
-          "title": "1237회 로또 1등 23명…당첨금 각 12억1천만원(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260815049100002"
+          "title": "로또 1등 12억씩 23명…1등 2명씩 배출한 판매점은?",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6260375"
         },
         {
           "title": "농장 일 보러 가는 길 구매한 복권이 1등…1237회차 로또당첨번호조회 주목",
           "source": "아주경제",
           "url": "https://www.ajunews.com/view/20260813100610747"
-        }
-      ]
-    },
-    {
-      "id": "헤수스-카사스",
-      "rank": 9,
-      "keyword": "헤수스 카사스",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 ''홍명보가 그랬듯' 이동국도 A대표팀 코치 직행? 감독 선임 과정부터 '또' 논란' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'홍명보가 그랬듯' 이동국도 A대표팀 코치 직행? 감독 선임 과정부터 '또' 논란",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/HrMptpoMSI"
-        },
-        {
-          "title": "\"韓 축구 감독 후보, 3명으로 압축\" 포옛에 日 꺾은 카사스, 펩 오른팔까지...'3개월' 임시 감독직 두고 예상밖 삼파전 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/15/202608151430771950O"
-        },
-        {
-          "title": "김학범 감독 “임시 감독 지원 안 했다…지원 자격 국내 지도자들엔 불합리”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8635924"
-        }
-      ]
-    },
-    {
-      "id": "최형우",
-      "rank": 10,
-      "keyword": "최형우",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 ''이게 얼마 만인가' 최형우 무려 38일 만에 터졌다, 132m 초대형 스리런포 폭발…KKKKKKK 잘 던지던 박준영 내려가다 …' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'이게 얼마 만인가' 최형우 무려 38일 만에 터졌다, 132m 초대형 스리런포 폭발…KKKKKKK 잘 던지던 박준영 내려가다 [MD대구]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260815210249339"
-        },
-        {
-          "title": "“타이밍이 그냥, 아예…” 최형우에게 무슨 일이, 친정 KIA만 만나면 작아진다? 타격장인은 돌아옵니다[MD광주]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/KdwmrXMVmC?f=p"
-        },
-        {
-          "title": "\"타이밍이 그냥, 아예…\" 최형우에게 무슨 일이, 친정 KIA만 만나면 작아진다? 타격장인은 돌아옵니다[MD광주]",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260814n15725"
         }
       ]
     }
