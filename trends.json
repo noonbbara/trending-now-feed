@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-15T03:49:32.688Z",
+  "updatedAt": "2026-08-15T04:38:43.022Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -10,8 +10,8 @@
       "keyword": "주거",
       "volumeLabel": "20000+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '“대출 줄테니 빌라 사라고?”…부동산 대책에 청년들 속앓이' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,25 +33,13 @@
       ]
     },
     {
-      "id": "이천수",
+      "id": "최태원",
       "rank": 2,
-      "keyword": "이천수",
+      "keyword": "최태원",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "최태원",
-      "rank": 3,
-      "keyword": "최태원",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '[속보]최태원·노소영 ‘9440억원 재산 분할’ 또 한번 대법으로…시한 1분 남기고 ‘재상고’' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -66,16 +54,56 @@
           "url": "https://v.daum.net/v/20260815115708321"
         },
         {
-          "title": "'세기의 재산분할' 다시 대법원으로…최태원 재상고(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260814113100004"
+          "title": "[단독]최태원 회장 9440억 재상고 이유는…\"노 관장이 현금 지급 고수\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/08/15/2026081500253377429"
         }
       ]
     },
     {
-      "id": "결혼식",
+      "id": "이천수",
+      "rank": 3,
+      "keyword": "이천수",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "온유",
       "rank": 4,
-      "keyword": "결혼식",
+      "keyword": "온유",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '인'스타'그램 세상|“하영 증조부 ‘명성황후 시해’ 가담자 소개로 결혼”…일본인과 결혼한 내막 공개' (ZUM 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "인'스타'그램 세상|“하영 증조부 ‘명성황후 시해’ 가담자 소개로 결혼”…일본인과 결혼한 내막 공개",
+          "source": "ZUM 뉴스",
+          "url": "https://m.news.zum.com/photo/58287739/107206449?cm=news_edit&r=1&thumb=1"
+        },
+        {
+          "title": "'주사이모 의혹' 전현무·키·입짧은 햇님 경찰 조사",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/yETTRzjJGo"
+        },
+        {
+          "title": "박나래-키-온유-전현무까지...'주사 이모' 수사 확대 [Y녹취록]",
+          "source": "YTN",
+          "url": "https://m.ytn.co.kr/news_view.php?key=202608131403578001&s_mcd=0134"
+        }
+      ]
+    },
+    {
+      "id": "하객",
+      "rank": 5,
+      "keyword": "하객",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
@@ -101,41 +129,97 @@
       ]
     },
     {
-      "id": "여한구",
-      "rank": 5,
-      "keyword": "여한구",
+      "id": "결혼식",
+      "rank": 6,
+      "keyword": "결혼식",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "down",
       "changeLabel": "-2",
-      "summary": "급상승 시점에 '통상 사령탑 여한구 산업부 통상교섭본부장 경질' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''김부장' 이동하, 걸스데이 소진과 초절약 결혼…웨딩드레스는 30만원대 (전참시)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "통상 사령탑 여한구 산업부 통상교섭본부장 경질",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6844954_36932.html"
+          "title": "'김부장' 이동하, 걸스데이 소진과 초절약 결혼…웨딩드레스는 30만원대 (전참시)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260815122107634"
         },
         {
-          "title": "정부, 여한구 산업부 통상교섭본부장 전격 경질… 배경에 관심 쏠려",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260815.99099004128"
+          "title": "소진, 남편 가슴에 얼굴 파묻고 신혼 '만끽'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260814_0003749894"
         },
         {
-          "title": "美 \"투자 서둘러라\" 압박 와중에… 여한구 통상본부장 돌연 경질",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/industry-company/2026/08/15/AW564RW3UZALHHITJ3C32U5TI4/"
+          "title": "이동하♥소진, 30만 원대 웨딩드레스…직접 만든 청첩장까지",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260815/134482851/1"
+        }
+      ]
+    },
+    {
+      "id": "유병재",
+      "rank": 7,
+      "keyword": "유병재",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '유병재, 쎄함 감지했나…하영 ‘증조부 의사’ 발언에 보인 반응 재조명' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "유병재, 쎄함 감지했나…하영 ‘증조부 의사’ 발언에 보인 반응 재조명",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/FobRYdyOtH"
+        },
+        {
+          "title": "‘설마 내 조상도...?’ 하영이 쏘아올린 ‘뿌리 찾기’ 붐",
+          "source": "톱클래스",
+          "url": "https://topclass.chosun.com/news/articleView.html?idxno=36663"
+        },
+        {
+          "title": "미리 눈치챘나…유병재, 하영 ‘친일파 증조부 자랑’에 쎄한 반응 재조명",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/entertainment/starinterN/2026/08/14/20260814500231"
+        }
+      ]
+    },
+    {
+      "id": "티웨이항공",
+      "rank": 8,
+      "keyword": "티웨이항공",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[단독] 티웨이항공, 2년 만에 프랑크푸르트 노선 운항 중단…유럽 노선 배분 취지 무색' (서울경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[단독] 티웨이항공, 2년 만에 프랑크푸르트 노선 운항 중단…유럽 노선 배분 취지 무색",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20079661"
+        },
+        {
+          "title": "티웨이홀딩스, 감자 후폭풍…주가 변동성 더 키우나",
+          "source": "톱데일리",
+          "url": "https://www.topdaily.kr/articles/111383"
+        },
+        {
+          "title": "티웨이항공 지배력 잃은 티웨이홀딩스…소노그룹 재편에 역할 물음표",
+          "source": "이코노미톡뉴스",
+          "url": ""
         }
       ]
     },
     {
       "id": "영웅",
-      "rank": 6,
+      "rank": 9,
       "keyword": "영웅",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-3",
       "summary": "급상승 시점에 '스파이더맨이 선택한 그 차… 스크린 누비는 BMW iX3·5시리즈' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -158,113 +242,29 @@
     },
     {
       "id": "이슬람-마카체프",
-      "rank": 7,
-      "keyword": "이슬람 마카체프",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“상어는 다음 주에도 있어”…하빕, 마카체프에 경고' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“상어는 다음 주에도 있어”…하빕, 마카체프에 경고",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260814083653822"
-        },
-        {
-          "title": "UFC 330 계체결과",
-          "source": "UFC.com",
-          "url": "https://kr.ufc.com/news/ufc-330-gyechegyeolgwa"
-        },
-        {
-          "title": "\"그는 하이힐을 신고 있었어요\"…타이틀전 앞두고 때아닌 '깔창 논란'→'제2의 맥그리거 VS 제2의 하빕' 대결 전부터 신경전",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260814n24348"
-        }
-      ]
-    },
-    {
-      "id": "유병재",
-      "rank": 8,
-      "keyword": "유병재",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '유병재, 쎄함 감지했나…하영 ‘증조부 의사’ 발언에 보인 반응 재조명' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "유병재, 쎄함 감지했나…하영 ‘증조부 의사’ 발언에 보인 반응 재조명",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/FobRYdyOtH"
-        },
-        {
-          "title": "‘설마 내 조상도...?’ 하영이 쏘아올린 ‘뿌리 찾기’ 붐",
-          "source": "톱클래스",
-          "url": "https://topclass.chosun.com/news/articleView.html?idxno=36663"
-        },
-        {
-          "title": "미리 눈치챘나…유병재, 하영 ‘친일파 증조부 자랑’에 쎄한 반응 재조명",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/entertainment/starinterN/2026/08/14/20260814500231"
-        }
-      ]
-    },
-    {
-      "id": "도시-재개발",
-      "rank": 9,
-      "keyword": "도시 재개발",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '창신3구역, 우리자산신탁과 MOU…999가구에 시니어주택 1000실 개발' (땅집고) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "창신3구역, 우리자산신탁과 MOU…999가구에 시니어주택 1000실 개발",
-          "source": "땅집고",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/08/14/2026081401968.html"
-        },
-        {
-          "title": "창신1-3구역 도시정비형 재개발사업 지하안전평가 업체 선정 입찰공고",
-          "source": "한국주택경제신문",
-          "url": "https://www.arunews.com/news/articleView.html?idxno=66001"
-        },
-        {
-          "title": "부지 확보가 용이한 덕분에 도이 운하 북쪽 둑은 공사 시작 단 1년 만에 극적인 변화를 겪고 있습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/som-co-mat-bang-bo-bac-kenh-doi-thay-da-doi-thit-sau-1-nam-khoi-cong"
-        }
-      ]
-    },
-    {
-      "id": "퇴직",
       "rank": 10,
-      "keyword": "퇴직",
+      "keyword": "이슬람 마카체프",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "down",
-      "changeLabel": "-5",
-      "summary": "급상승 시점에 '“희망퇴직 효과?”…LGD, 직원 수 반년 만에 1000여명 줄었다 [비즈360]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "changeLabel": "-3",
+      "summary": "급상승 시점에 '‘하빕 vs 맥그리거’의 재림?…‘UFC 새 역사 17연승 도전’ 마카체프, 개리와 첫 타이틀 방어전' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“희망퇴직 효과?”…LGD, 직원 수 반년 만에 1000여명 줄었다 [비즈360]",
+          "title": "‘하빕 vs 맥그리거’의 재림?…‘UFC 새 역사 17연승 도전’ 마카체프, 개리와 첫 타이틀 방어전",
           "source": "Daum",
-          "url": "https://v.daum.net/v/1xeRwOB31j"
+          "url": "https://v.daum.net/v/20260814063451767?f=p"
         },
         {
-          "title": "LG이노텍, 올해 상반기 애플 매출 8.8조…역대 최대",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260814085600003"
+          "title": "“상어는 다음 주에도 있어”…하빕, 마카체프에 경고",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10840968"
         },
         {
-          "title": "정철동 LGD 사장, 4년 만의 흑자 전환에 보수 두 배로…상반기 14억5700만원",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260814_0003749474"
+          "title": "\"넌 모든 걸 잃는다\" 도전자 개리 도발…'챔프' 마카체프 \"다음 타깃일 뿐\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260815n06566"
         }
       ]
     }
