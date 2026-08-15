@@ -1,45 +1,101 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-15T08:37:51.986Z",
+  "updatedAt": "2026-08-15T09:33:00.764Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "도경완",
+      "id": "통영시",
       "rank": 1,
-      "keyword": "도경완",
-      "volumeLabel": "5000+",
-      "startedLabel": "1시간 전",
+      "keyword": "통영시",
+      "volumeLabel": "20000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '장윤정 9세 딸, '120억 집' 사는데 돈 걱정하네 '기특'..\"母 돈 낭비라 할까봐\" [핫피플]' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '통영시 ‘1인당 35만 원 민생지원금’ 시의회서 지급 확정' (경남도민일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "장윤정 9세 딸, '120억 집' 사는데 돈 걱정하네 '기특'..\"母 돈 낭비라 할까봐\" [핫피플]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/15/GYZWGMZRMNQWEZRVMQ4TONRXMI/"
+          "title": "통영시 ‘1인당 35만 원 민생지원금’ 시의회서 지급 확정",
+          "source": "경남도민일보",
+          "url": "https://www.idomin.com/news/articleView.html?idxno=2012409"
         },
         {
-          "title": "장윤정 딸인데 돈 걱정...父도경완 새 태블릿 선물에 \"엄마가 돈 낭비라 할까봐\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-08-15/202608150100088970005625"
+          "title": "추석 앞두고 \"최대 100만원\" 돈 뿌리기 경쟁 … 세금으로 '당선 사례금' 논란",
+          "source": "뉴데일리",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/13/2026081300176.html"
         },
         {
-          "title": "장윤정 ‘네고왕’ 6개월 만 하차…“책임감에 버텼다”",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10841508"
+          "title": "11만 6353명에 35만 원씩…통영형 민생지원금 31일 지급 개시",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/H8c8dZRf5P"
+        }
+      ]
+    },
+    {
+      "id": "박현경",
+      "rank": 2,
+      "keyword": "박현경",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘신인 최초 한시즌 4승 도전’ 김민솔, 3라운드도 공동 선두' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘신인 최초 한시즌 4승 도전’ 김민솔, 3라운드도 공동 선두",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/to632QhDTa"
+        },
+        {
+          "title": "김민솔, KLPGA 메디힐·한국일보 대회 3R도 선두…루키 4승 도전",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260815040800007"
+        },
+        {
+          "title": "예상밖의 컷탈락 박현경·장은수, 그리고 박성현 [KLPGA 메디힐]",
+          "source": "골프한국",
+          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021500"
+        }
+      ]
+    },
+    {
+      "id": "리사",
+      "rank": 3,
+      "keyword": "리사",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '리사도 결국 사과…블랙핑크 10주년 잡음에 \"정말 미안해\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "리사도 결국 사과…블랙핑크 10주년 잡음에 \"정말 미안해\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260815_0003750546"
+        },
+        {
+          "title": "“얼마나 속상했을지”…‘블랙핑크 10주년 논란’에 리사도 사과",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/culture/12128715"
+        },
+        {
+          "title": "지수·로제 이어 리사도 ‘블랙핑크 10주년’ 행사 잡음 사과..“저 역시 마음 아파”",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260814195922096"
         }
       ]
     },
     {
       "id": "소진",
-      "rank": 2,
+      "rank": 4,
       "keyword": "소진",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 ''김부장' 이동하, 걸스데이 소진과 초절약 결혼…웨딩드레스는 30만원대 (전참시)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -54,233 +110,161 @@
           "url": "https://www.newsis.com/view/NISX20260814_0003749894"
         },
         {
-          "title": "‘박소진♥’ 이동하, 30만 원대 드레스→직접 만든 청첩장 ‘초절약’ 결혼 꿀팁 전수 (전참시)",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/514846"
+          "title": "이동하♥소진, 30만 원대 웨딩드레스…직접 만든 청첩장까지",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260815/134482851/1"
         }
       ]
     },
     {
-      "id": "홍현희",
-      "rank": 3,
-      "keyword": "홍현희",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '홍현희, 10kg 감량하더니..헤메샵 바꿨다 “다이어트 후 변화 주고파” (홍쓴TV)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "홍현희, 10kg 감량하더니..헤메샵 바꿨다 “다이어트 후 변화 주고파” (홍쓴TV)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/7JViapoMWn"
-        },
-        {
-          "title": "“비만치료제 안 썼다”… 홍현희, 다이어트 위해 ‘두 가지 음식’ 끊었다",
-          "source": "헬스조선",
-          "url": "https://health.chosun.com/site/data/html_dir/2026/08/13/2026081302162.html"
-        },
-        {
-          "title": "홍현희, 역주행 '더 레드' 치명적 캐릭터로 선배 참교육…'라스' 최고의 1분",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/514615"
-        }
-      ]
-    },
-    {
-      "id": "콜레스테롤",
-      "rank": 4,
-      "keyword": "콜레스테롤",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '홍국이 콜레스테롤에 좋다고?…약 대신 먹었다간 [건강 팁]' (서울경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "홍국이 콜레스테롤에 좋다고?…약 대신 먹었다간 [건강 팁]",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20079781"
-        },
-        {
-          "title": "\"피 뽑을 필요 없다\"…땀으로 콜레스테롤 측정하는 패치 나왔다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260815085448760"
-        },
-        {
-          "title": "\"피 뽑을 필요 없다\"…땀으로 콜레스테롤 측정하는 패치 나왔다",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260814214900"
-        }
-      ]
-    },
-    {
-      "id": "라면",
+      "id": "lg-트윈스",
       "rank": 5,
-      "keyword": "라면",
+      "keyword": "lg 트윈스",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 '(흥미 이슈) '라면’, 한국 영화가 꾸준히 관심을 보이고 있는 간편 먹거리' (네이버 프리미엄콘텐츠) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '프로야구 LG, 아시아 쿼터 투수 케네디 영입…PS 출전 가능' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "(흥미 이슈) '라면’, 한국 영화가 꾸준히 관심을 보이고 있는 간편 먹거리",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/dailyost/film/contents/260814143437582vk"
+          "title": "프로야구 LG, 아시아 쿼터 투수 케네디 영입…PS 출전 가능",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260815039300007"
         },
         {
-          "title": "한국 영화 명대사 10선 - “라면 먹을래요? 살려는 드릴게”",
-          "source": "https://www.d-art.co.kr/",
-          "url": "https://www.d-art.co.kr/news/articleView.html?idxno=6066"
+          "title": "'플랜B' 가동한 LG, 새 아시아쿼터로 호주 국적 좌완 케네디 영입",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260815_0003750652"
         },
         {
-          "title": "오뚜기, 내달 7일부터 컵라면·만두 가격도 올린다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/zq1vCr71ZW"
+          "title": "‘1군 승격 0명’ 웨일즈…구단 운영 방향은?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8637652"
         }
       ]
     },
     {
-      "id": "대학",
+      "id": "광주광역시",
       "rank": 6,
-      "keyword": "대학",
+      "keyword": "광주광역시",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] 2026 ARWU 국내톱 서울대 세계 87위 ‘하락’.. 연대 2위, 고대/성대/KAIST 공동3위' (베리타스알파) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[단독] 2026 ARWU 국내톱 서울대 세계 87위 ‘하락’.. 연대 2위, 고대/성대/KAIST 공동3위",
-          "source": "베리타스알파",
-          "url": "https://www.veritas-a.com/news/articleView.html?idxno=623366"
-        },
-        {
-          "title": "[과학스냅] 서울대 등 8개 대학 연구안보 체계 구축 착수…정부 지원",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260813144300017"
-        },
-        {
-          "title": "산업스파이를 제거할 ‘게임 체인저’가 필요하다",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3031602"
-        }
-      ]
+      "newsSignals": []
     },
     {
-      "id": "세종대로",
+      "id": "메르세데스-벤츠-e-클래스",
       "rank": 7,
-      "keyword": "세종대로",
+      "keyword": "메르세데스-벤츠 e 클래스",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '광복절 서울 도심서 진보·보수 대규모 집회…세종대로 통제' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '벤츠코리아, E-클래스 구매 고객에 1년·3만km 추가 보증' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "광복절 서울 도심서 진보·보수 대규모 집회…세종대로 통제",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260814183000004"
-        },
-        {
-          "title": "광복절 서울 도심 곳곳 집회·행진…\"재선거\" vs \"전작권 환수\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/incident-accident/6260291"
-        },
-        {
-          "title": "\"부정선거\" \"미국 내정간섭\"…광복절 도심 두 목소리",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/08/15/6JOHAGO3SVCNRESLQJELKITJZE/"
-        }
-      ]
-    },
-    {
-      "id": "로메로",
-      "rank": 8,
-      "keyword": "로메로",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''이토록 토트넘 떠나고 싶었나' 손흥민 후임 주장, 오피셜도 없는데 작별 인사 \"완벽한 여정은 아니었지만...\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'이토록 토트넘 떠나고 싶었나' 손흥민 후임 주장, 오피셜도 없는데 작별 인사 \"완벽한 여정은 아니었지만...\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/15/2026081514581137432"
-        },
-        {
-          "title": "이강인과 한솥밥 HERE WE GO! 로메로, '토트넘 OUT' 직접 발표...\"수많은 추억과 자부심 안고 떠난다\" 작별 편지 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/football/2026/08/15/GAZDAZDFMY4TSNDBMQ3TKNDGGU/"
-        },
-        {
-          "title": "[오피셜] 토트넘 주장이었던 로메로, 아틀레티코 마드리드 이적 확정…\"엄청난 장악력과 리더십\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260815n08683"
-        }
-      ]
-    },
-    {
-      "id": "독립운동가",
-      "rank": 9,
-      "keyword": "독립운동가",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '빽가, 독립운동가 진희창 외증손이었다 \"상하이 임시정부 운영 뒷받침\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "빽가, 독립운동가 진희창 외증손이었다 \"상하이 임시정부 운영 뒷받침\"",
+          "title": "벤츠코리아, E-클래스 구매 고객에 1년·3만km 추가 보증",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260815134424462"
+          "url": "https://v.daum.net/v/KLiD9nGhcn"
         },
         {
-          "title": "백범일지에 나온다...빽가, 독립운동가 후손 고백 \"임시정부 뒷받침\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/15/2026081514101618068"
+          "title": "메르세데스-벤츠 코리아, 8월 2026년형 E-클래스 대상 4년·13만 km 보증 연장 프로모션 실시",
+          "source": "다나와 자동차",
+          "url": "https://mauto.danawa.com/news/?Tab=N1&Work=detail&no=6047159"
         },
         {
-          "title": "빽가, 유튜브서 독립운동가 후손 고백 \"임시정부 재정 담당, 백범일지 나와\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6260253"
+          "title": "벤츠 코리아, 8월 E-클래스 구매 고객에 보증기간 최대 4년 연장",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260814000197"
         }
       ]
     },
     {
-      "id": "위암",
-      "rank": 10,
-      "keyword": "위암",
+      "id": "추가경정예산",
+      "rank": 8,
+      "keyword": "추가경정예산",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이대목동병원 외과 김지선 교수, 증상 없는 위암, 정기검진이 조기 발견의 열쇠…40세 이상 2년마다 검사' (더퍼스트미디어) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '진주시, 2조2천487억 규모 추경 편성…본예산 대비 15.9%↑' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이대목동병원 외과 김지선 교수, 증상 없는 위암, 정기검진이 조기 발견의 열쇠…40세 이상 2년마다 검사",
-          "source": "더퍼스트미디어",
-          "url": ""
+          "title": "진주시, 2조2천487억 규모 추경 편성…본예산 대비 15.9%↑",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814095737036?f=p"
         },
         {
-          "title": "소화 잘된다고 안심했다간 큰일…'조용한 암' 잡는 확실한 방법",
-          "source": "약사공론",
-          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=540243"
+          "title": "진주시, 2조2487억원 규모 ‘제1회 추가경정예산안’ 편성",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260814500184"
         },
         {
-          "title": "제천시보건소, 지역 주민 대상 위암 예방 건강 강좌 실시",
-          "source": "한국미디어뉴스통신",
-          "url": "https://www.kmunews.co.kr/news/articleView.html?idxno=387284"
+          "title": "진주시, 대규모 추경 편성… 원도심·교통 인프라 확충 나선다",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026081411325128253"
+        }
+      ]
+    },
+    {
+      "id": "롯데손해보험",
+      "rank": 9,
+      "keyword": "롯데손해보험",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '롯데손보, 2분기 당기순익 13억원…분기 흑자전환' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "롯데손보, 2분기 당기순익 13억원…분기 흑자전환",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814180339235"
+        },
+        {
+          "title": "롯데손해보험, 2분기 순이익 13억...흑자전환",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20079729"
+        },
+        {
+          "title": "롯데손보, 2분기 순익 13억 '흑자전환'…\"투자손실 개선\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/finance/2026/08/14/2026081415492116859"
+        }
+      ]
+    },
+    {
+      "id": "카자흐스탄",
+      "rank": 10,
+      "keyword": "카자흐스탄",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“‘나혼산’ 한류 프로였네”..전현무, 카자흐스탄서 인기 폭발→즉석 팬미팅' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“‘나혼산’ 한류 프로였네”..전현무, 카자흐스탄서 인기 폭발→즉석 팬미팅",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260815071452659"
+        },
+        {
+          "title": "전현무, 당근김치에 먹먹한 이유…\"고려인 슬픈 역사 담겨\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260815_0003750484"
+        },
+        {
+          "title": "‘나혼산’ 전현무, 공항 전광판 보고 여행지 결정…“표 남는 곳 그냥 가”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20260815/134482682/1"
         }
       ]
     }
