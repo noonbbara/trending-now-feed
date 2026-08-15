@@ -1,45 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-15T17:50:15.728Z",
+  "updatedAt": "2026-08-15T18:39:35.556Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "가출",
-      "rank": 1,
-      "keyword": "가출",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '가출 말리는 엄마에게 끓는 물 부은 10대 딸' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "가출 말리는 엄마에게 끓는 물 부은 10대 딸",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260815048300060"
-        },
-        {
-          "title": "어머니에게 끓는 물 부은 10대 체포...응급입원 조치",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202608152339530253"
-        },
-        {
-          "title": "[단독] 가출 말리는 어머니에 끓는 물 부은 10대 딸 현행범 체포",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/FXiF3qAiWi"
-        }
-      ]
-    },
-    {
       "id": "milan-vs-man-united",
-      "rank": 2,
+      "rank": 1,
       "keyword": "milan vs man united",
       "volumeLabel": "2000+",
       "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 'Manchester United vs AC Milan: Club Friendlies stats & head-to-head' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -49,25 +21,25 @@
           "url": "https://www.bbc.com/sport/football/live/cmy0j1846rnwt"
         },
         {
-          "title": "Man Utd vs AC Milan LIVE! Pre-season friendly score, live updates and team news",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13573289/man-utd-vs-ac-milan-live-pre-season-friendly-score-live-updates-and-team-news"
-        },
-        {
           "title": "MANCHESTER UNITED v AC MILAN LIVE ON SKY SPORT AND DAZN",
           "source": "AC Milan",
           "url": "https://www.acmilan.com/en/news/articles/ac-milan-tour/2026-08-11/manchester-united-v-ac-milan-live-on-sky-sport-and-dazn"
+        },
+        {
+          "title": "Bruno Fernandes stuns fans by missing another penalty in huge blunder against AC Milan",
+          "source": "SPORF",
+          "url": "https://www.sporf.com/bruno-fernandes-stuns-fans-by-missing-another-penalty-in-huge-blunder-against-ac-milan/"
         }
       ]
     },
     {
       "id": "황정음",
-      "rank": 3,
+      "rank": 2,
       "keyword": "황정음",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '황정음, 까맣고 살 오른 모습에 본인도 깜짝 “왕식이 얼굴 나왔다..어떡해”' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -77,25 +49,25 @@
           "url": "https://v.daum.net/v/20260815211908514"
         },
         {
-          "title": "황정음, 다리까지 새까맣게 탔네…이탈리아 약국서 지갑 들고 계산",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12128813"
-        },
-        {
           "title": "\"대체 무슨 일?\" 황정음, 새까맣게 탄 민낯 충격…팬들도 '깜짝'",
           "source": "네이트",
           "url": "https://news.nate.com/view/20260815n11553"
+        },
+        {
+          "title": "황정음 맞아? 새까맣게 탄 전신+수척해진 근황..확 달라진 분위기",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-08-15/202608150100090890005750"
         }
       ]
     },
     {
       "id": "토트넘",
-      "rank": 4,
+      "rank": 3,
       "keyword": "토트넘",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 ''손흥민 옛 동료' 로메로, AT 마드리드 이적 확정…이강인과 만난다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -118,12 +90,12 @@
     },
     {
       "id": "송가인",
-      "rank": 5,
+      "rank": 4,
       "keyword": "송가인",
       "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "startedLabel": "4시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '송가인, 옥빛 한복 입고 뽐낸 잘록한 몸매…44㎏ 감량 비결은 '꾸준한 운동'' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -146,19 +118,19 @@
     },
     {
       "id": "ม-ลาน-พบ-แมนย",
-      "rank": 6,
+      "rank": 5,
       "keyword": "ม ลาน พบ แมนย",
       "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'การคาดการณ์ผลการแข่งขันระหว่างแมนเชสเตอร์ ยูไนเต็ด กับ เอซี มิลาน: รายช…' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "4시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 'ตารางการแข่งขันฟุตบอลวันนี้ 15 สิงหาคม: รอบรองชนะเลิศนัดแรกของอาเซียนคัพ' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "การคาดการณ์ผลการแข่งขันระหว่างแมนเชสเตอร์ ยูไนเต็ด กับ เอซี มิลาน: รายชื่อผู้เล่นตัวจริงที่คาดว่าจะลงสนาม",
+          "title": "ตารางการแข่งขันฟุตบอลวันนี้ 15 สิงหาคม: รอบรองชนะเลิศนัดแรกของอาเซียนคัพ",
           "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/nhan-dinh-manchester-united-vs-ac-milan-doi-hinh-du-kien"
+          "url": "https://www.vietnam.vn/th/lich-thi-dau-bong-da-hom-nay-15-8-ban-ket-luot-di-asean-cup"
         },
         {
           "title": "เอซี มิลาน ไล่ตามเจ๊าแมนฯ ยูไนเต็ด 2 หน ก่อนยิงเพิ่มจนแซงชนะในเกมอุ่นเครื่อง | Khaosod",
@@ -174,40 +146,40 @@
     },
     {
       "id": "milan-đấu-với-man-utd",
-      "rank": 7,
+      "rank": 6,
       "keyword": "milan đấu với man utd",
       "volumeLabel": "500+",
       "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'Прямая трансляция матча «Манчестер Юнайтед» — «Милан»: «Милан» сравнял …' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 'Video bóng đá MU - AC Milan: 6 bàn rực rỡ, ngược dòng mãn nhãn' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Прямая трансляция матча «Манчестер Юнайтед» — «Милан»: «Милан» сравнял счет 2:2",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ru/truc-tieptruc-tiep-manchester-united-vs-ac-milan-ac-milan-go-hoa-2-2"
+          "title": "Video bóng đá MU - AC Milan: 6 bàn rực rỡ, ngược dòng mãn nhãn",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-mu-ac-milan-6-ban-ruc-ro-nguoc-dong-man-nhan-c48a1786871.html"
+        },
+        {
+          "title": "Manchester United 2-4 AC Milan: AC Milan giành chiến thắng",
+          "source": "Báo Hà Tĩnh",
+          "url": "https://baohatinh.vn/tv/manchester-united-2-4-ac-milan-ac-milan-gianh-chien-thang-50435.html"
         },
         {
           "title": "Thua AC Milan, fan MU đòi mua người thay thế Luke Shaw",
           "source": "yeuthethao.net.vn",
           "url": "https://yeuthethao.net.vn/thua-ac-milan-fan-mu-doi-mua-nguoi-thay-the-luke-shaw-d891076.html"
-        },
-        {
-          "title": "Trực tiếp Manchester United vs AC Milan: Manchester United mở tỷ số",
-          "source": "Báo Lâm Đồng",
-          "url": "https://baolamdong.vn/truc-tiep-manchester-united-vs-ac-milan-manchester-united-mo-ty-so-459627.html"
         }
       ]
     },
     {
       "id": "상장",
-      "rank": 8,
+      "rank": 7,
       "keyword": "상장",
       "volumeLabel": "200+",
       "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '‘SK하이닉스 주주들 난리난다’ 하루만에 10% 급락…‘솔리다임’ 상장 무섭네 [투자360]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -222,28 +194,23 @@
           "url": "https://www.munhwa.com/article/11609683"
         },
         {
-          "title": "솔리다임 나스닥 상장 추진 검토에…SK하이닉스 주가에 악재?",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1142280"
+          "title": "SK는 왜 ‘4중 상장’에 도전하나…아메리카 드림의 ‘미스테리’ [홍길용의 화식열전](909회)",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10842125"
         }
       ]
     },
     {
       "id": "fotmob",
-      "rank": 9,
+      "rank": 8,
       "keyword": "fotmob",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'Arsenal surprise as Chelsea close in on bizarre deal' (FootballTransfers.com) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "4시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 'Transfer news LIVE: Hall to Man Utd breakthrough, Arsenal want Quansah,…' (Daily Express) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "Arsenal surprise as Chelsea close in on bizarre deal",
-          "source": "FootballTransfers.com",
-          "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/08/arsenal-chelsea-close-man-utd-jarell-quansah-omari-kellyman-lamine-camara-liam-delap-rodri-julian-alvarez-footballtransfers-recap"
-        },
         {
           "title": "Transfer news LIVE: Hall to Man Utd breakthrough, Arsenal want Quansah, Chelsea £51m bid",
           "source": "Daily Express",
@@ -253,6 +220,39 @@
           "title": "Arsenal want Quansah, Fernandez deadline looming, Osimhen could make Prem move",
           "source": "talkSPORT",
           "url": "https://talksport.com/football/4363975/premier-league-transfer-news-arsenal-liverpool-chelsea-manchester-united/page/40/"
+        },
+        {
+          "title": "Arsenal Complete Done Deal As Victor Osimhen Transfer Twist Emerges And Enzo Fernandez Links Continue",
+          "source": "Gooner Daily",
+          "url": "https://goonerdaily.com/2026/08/15/arsenal-complete-done-deal-as-victor-osimhen-transfer-twist-emerges-and-enzo-fernandez-links-continue/"
+        }
+      ]
+    },
+    {
+      "id": "나상도",
+      "rank": 9,
+      "keyword": "나상도",
+      "volumeLabel": "200+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '나상도, 올여름 모두의 흥을 책임질 신곡 ‘지화자’로 복귀' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "나상도, 올여름 모두의 흥을 책임질 신곡 ‘지화자’로 복귀",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608142250003"
+        },
+        {
+          "title": "나상도, 신곡 '지화자' 담은 스페셜 앨범 발매",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=05238166645547320&mediaCodeNo=257"
+        },
+        {
+          "title": "나상도, 7개월 만에 ‘지화자’로 컴백",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/tUtYBdyOi3"
         }
       ]
     },
@@ -261,7 +261,7 @@
       "rank": 10,
       "keyword": "조규성",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "4시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 '조규성 연봉 26억? 日 파격 제안 거절하기 힘들다…깜짝 J리그 입단설 \"주말에 최종 결정 나올 수도\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
