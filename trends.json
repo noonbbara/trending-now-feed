@@ -1,73 +1,45 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-15T11:27:09.099Z",
+  "updatedAt": "2026-08-15T11:49:45.588Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "민주당-전당대회-결과",
+      "id": "민생-지원금-지급일",
       "rank": 1,
-      "keyword": "민주당 전당대회 결과",
-      "volumeLabel": "10000+",
+      "keyword": "민생 지원금 지급일",
+      "volumeLabel": "20000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[속보] 민주당 전당대회 호남서 김민석 1위…57.54%로 과반 득표' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '통영시 ‘1인당 35만 원 민생지원금’ 시의회서 지급 확정' (경남도민일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[속보] 민주당 전당대회 호남서 김민석 1위…57.54%로 과반 득표",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8638034"
+          "title": "통영시 ‘1인당 35만 원 민생지원금’ 시의회서 지급 확정",
+          "source": "경남도민일보",
+          "url": "https://www.idomin.com/news/articleView.html?idxno=2012409"
         },
         {
-          "title": "호남서 ‘과반승’ 김민석…정청래와 누적 득표율 격차 14%p로",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1273057.html"
+          "title": "11만 6353명에 35만 원씩…통영형 민생지원금 31일 지급 개시",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/H8c8dZRf5P"
         },
         {
-          "title": "민주 당권주자 3인, 전남광주서 일제히 '호남 인연' 강조",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6845006_36911.html"
-        }
-      ]
-    },
-    {
-      "id": "한화-대-삼성",
-      "rank": 2,
-      "keyword": "한화 대 삼성",
-      "volumeLabel": "10000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '삼성 양창섭, 한화 노시환 헬멧 맞혀 헤드샷 퇴장' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "삼성 양창섭, 한화 노시환 헬멧 맞혀 헤드샷 퇴장",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260815046000007"
-        },
-        {
-          "title": "삼성 선발 양창섭, 1회 만에 헤드샷 퇴장…한화 노시환 헬멧 강타",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260815_0003750731"
-        },
-        {
-          "title": "‘헤드샷 퇴장’ 13번째…삼성 양창섭, 한화전 1회 조기 강판",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16164439"
+          "title": "추석 앞두고 \"최대 100만원\" 돈 뿌리기 경쟁 … 세금으로 '당선 사례금' 논란",
+          "source": "뉴데일리",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/13/2026081300176.html"
         }
       ]
     },
     {
       "id": "연금",
-      "rank": 3,
+      "rank": 2,
       "keyword": "연금",
-      "volumeLabel": "5000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "10000+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '美주식 대체 뭘 샀길래…국민연금 석 달 만에 33조원 불렸다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -89,41 +61,41 @@
       ]
     },
     {
-      "id": "경제",
-      "rank": 4,
-      "keyword": "경제",
-      "volumeLabel": "5000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“10년 뒤엔 지금보다 훨씬”…한국인 절반 ‘韓·日 경제 역전’ 예측' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "id": "민주당-전당대회-결과",
+      "rank": 3,
+      "keyword": "민주당 전당대회 결과",
+      "volumeLabel": "10000+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 '[속보]김민석, 민주당 전대 호남서 57.54%···정청래 32.65%' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“10년 뒤엔 지금보다 훨씬”…한국인 절반 ‘韓·日 경제 역전’ 예측",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260815173001064"
+          "title": "[속보]김민석, 민주당 전대 호남서 57.54%···정청래 32.65%",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608151953001"
         },
         {
-          "title": "\"지금도 일본보다 더 잘 사는 한국…10년 뒤엔 경제력 더 압도할 것\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6260246"
+          "title": "[속보] 여당 경선 호남 당원투표‥김민석 57.54%, 정청래 32.65%, 송영길 9.81%",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6845020_36911.html"
         },
         {
-          "title": "\"삼전하닉 있는데 질 리가\"…한국인 절반 \"10년 뒤 日 앞선다\"",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026081409050208524"
+          "title": "[속보] 김민석, 민주 전당대회 호남권 경선서 57.5% 득표 과반승",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1273054.html"
         }
       ]
     },
     {
       "id": "수원-대-수원fc",
-      "rank": 5,
+      "rank": 4,
       "keyword": "수원 대 수원fc",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '\"야유와 욕먹든지, 칭찬받든지...\" 이정효 감독, 운명의 수원 더비 앞두고 '필승 각오' [수원 현장] - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -145,41 +117,13 @@
       ]
     },
     {
-      "id": "체포",
-      "rank": 6,
-      "keyword": "체포",
+      "id": "최저임금",
+      "rank": 5,
+      "keyword": "최저임금",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 '\"가출 막는다\"며 엄마에게 끓는 물 부은 10대 딸 검거' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"가출 막는다\"며 엄마에게 끓는 물 부은 10대 딸 검거",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6845001_36918.html"
-        },
-        {
-          "title": "가출 말리는 엄마에게 끓는 물 부은 10대 딸",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260815201747gpk"
-        },
-        {
-          "title": "“가출 막자 홧김에”…친모에게 끓는 물 부은 10대 체포",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260815580089"
-        }
-      ]
-    },
-    {
-      "id": "최저임금",
-      "rank": 7,
-      "keyword": "최저임금",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "up",
+      "changeLabel": "+2",
       "summary": "급상승 시점에 '“1만 700원도 적다”는데 사장님 절반은 “덜 뽑겠다”… 최저임금의 두 얼굴' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -201,76 +145,110 @@
       ]
     },
     {
-      "id": "선수",
-      "rank": 8,
-      "keyword": "선수",
-      "volumeLabel": "500+",
+      "id": "이호연",
+      "rank": 6,
+      "keyword": "이호연",
+      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '야구는 폭염에 멈추는데 축구는 강행…선수들 고통 호소 \"생존 위협\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "tving",
+      "rank": 7,
+      "keyword": "tving",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Hwang Jae-gyun's Weight Loss Sparks Attention Ahead of TVING Show' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "야구는 폭염에 멈추는데 축구는 강행…선수들 고통 호소 \"생존 위협\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/14/2026081411251412204"
+          "title": "Hwang Jae-gyun's Weight Loss Sparks Attention Ahead of TVING Show",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/kpop-culture-en/2026/08/14/5VMXQ2WHHJCGZFWPE2GWJHVIEQ/"
         },
         {
-          "title": "프로축구선수협, 폭염에 K리그 추춘제 도입 주장",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/KARNZIb0Gs"
+          "title": "Jae-gyun Hwang’s Gaunt Look Sparks Health Concerns... This Time, He Really Looks Like \"Chuno\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/en/celebrity/2026-08-10/202608100100052710003294"
         },
         {
-          "title": "이근호 선수협회장 “K리그 추춘제 전환해야”",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10840213"
+          "title": "Hwang Jae-kyun, thin face after retirement... Finally 'Juno' Ending \"Night Running\"",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/en/star/2026/08/10/2026081007120344325"
         }
       ]
     },
     {
       "id": "딴지일보",
-      "rank": 9,
+      "rank": 8,
       "keyword": "딴지일보",
       "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "농구-한일전",
+      "rank": 9,
+      "keyword": "농구 한일전",
+      "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '영화 보고 2800년 전 책 펼쳤다…‘오디세이아’ 뜻밖의 역주행' (진일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''0.2초' 남기고 韓 울린 日 천재 가드, 정말 20세 맞아? 접전서도 싱글벙글…\"긴박한 상황이 즐거워, 이게 농구의 재미구나…' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "영화 보고 2800년 전 책 펼쳤다…‘오디세이아’ 뜻밖의 역주행",
-          "source": "진일보",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000055595"
+          "title": "'0.2초' 남기고 韓 울린 日 천재 가드, 정말 20세 맞아? 접전서도 싱글벙글…\"긴박한 상황이 즐거워, 이게 농구의 재미구나 실감\" [도쿄 인터뷰]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260815124337793"
+        },
+        {
+          "title": "여자농구 대표팀, 일본에 한 점 차 석패‥종료 0.2초 전 역전 3점슛 내줘",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6844900_36946.html"
+        },
+        {
+          "title": "여자농구, 일본과의 평가전 2연패…아시안게임 먹구름",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260815003400038"
         }
       ]
     },
     {
-      "id": "콜-오브-듀티",
+      "id": "놀토",
       "rank": 10,
-      "keyword": "콜 오브 듀티",
+      "keyword": "놀토",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 'Call of Duty: Modern Warfare 4 - Official 'Entrenched' Campaign Trailer' (IGN) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''놀토' 원이 \"연습생 때부터 들어\" 태연 노래 열창 '훈훈 선후배'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Call of Duty: Modern Warfare 4 - Official 'Entrenched' Campaign Trailer",
-          "source": "IGN",
-          "url": "https://www.ign.com/videos/call-of-duty-modern-warfare-4-official-entrenched-campaign-trailer"
+          "title": "'놀토' 원이 \"연습생 때부터 들어\" 태연 노래 열창 '훈훈 선후배'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260815203328030"
         },
         {
-          "title": "Call of Duty: Modern Warfare 4's beta test launch dates and content details are up",
-          "source": "Windows Central",
-          "url": "https://www.windowscentral.com/gaming/call-of-duty/call-of-duty-modern-warfare-4s-beta-tests-are-stacked-with-an-exclusive-single-player-campaign-mission-multiplayer-and-more-here-are-all-the-details"
+          "title": "'놀토' 리센느 원이, 엄마도 딸 못지 않은 인기…\"목격담까지 나와\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6260358"
         },
         {
-          "title": "Here’s A First Look At CoD: Warzone’s New Zodiac Map For MW4",
-          "source": "Yahoo Tech",
-          "url": "https://tech.yahoo.com/gaming/articles/first-look-cod-warzone-zodiac-182527505.html"
+          "title": "리센느, 섭외 못해서 안달인데..막상 나왔더니 토크 금지령(놀토)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/15/HEYGKNLBGZRTOMJZGU4GIOJWGI/"
         }
       ]
     }
