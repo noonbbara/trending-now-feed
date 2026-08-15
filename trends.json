@@ -1,213 +1,259 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-15T10:53:35.287Z",
+  "updatedAt": "2026-08-15T11:27:09.099Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "크리스티안-로메로",
+      "id": "민주당-전당대회-결과",
       "rank": 1,
-      "keyword": "크리스티안 로메로",
-      "volumeLabel": "20000+",
+      "keyword": "민주당 전당대회 결과",
+      "volumeLabel": "10000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''손흥민 옛 동료' 로메로, AT 마드리드 이적 확정…이강인과 만난다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[속보] 민주당 전당대회 호남서 김민석 1위…57.54%로 과반 득표' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'손흥민 옛 동료' 로메로, AT 마드리드 이적 확정…이강인과 만난다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/09Fl00Lx7g"
+          "title": "[속보] 민주당 전당대회 호남서 김민석 1위…57.54%로 과반 득표",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8638034"
         },
         {
-          "title": "'이토록 토트넘 떠나고 싶었나' 손흥민 후임 주장, 오피셜도 없는데 작별 인사 \"완벽한 여정은 아니었지만...\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/15/2026081514581137432"
+          "title": "호남서 ‘과반승’ 김민석…정청래와 누적 득표율 격차 14%p로",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1273057.html"
         },
         {
-          "title": "[오피셜] 토트넘 주장이었던 로메로, 아틀레티코 마드리드 이적 확정…\"엄청난 장악력과 리더십\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260815n08683"
+          "title": "민주 당권주자 3인, 전남광주서 일제히 '호남 인연' 강조",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6845006_36911.html"
         }
       ]
     },
     {
-      "id": "fc-서울-대-대전",
+      "id": "한화-대-삼성",
       "rank": 2,
-      "keyword": "fc 서울 대 대전",
+      "keyword": "한화 대 삼성",
+      "volumeLabel": "10000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '삼성 양창섭, 한화 노시환 헬멧 맞혀 헤드샷 퇴장' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "삼성 양창섭, 한화 노시환 헬멧 맞혀 헤드샷 퇴장",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260815046000007"
+        },
+        {
+          "title": "삼성 선발 양창섭, 1회 만에 헤드샷 퇴장…한화 노시환 헬멧 강타",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260815_0003750731"
+        },
+        {
+          "title": "‘헤드샷 퇴장’ 13번째…삼성 양창섭, 한화전 1회 조기 강판",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16164439"
+        }
+      ]
+    },
+    {
+      "id": "연금",
+      "rank": 3,
+      "keyword": "연금",
+      "volumeLabel": "5000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '美주식 대체 뭘 샀길래…국민연금 석 달 만에 33조원 불렸다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "美주식 대체 뭘 샀길래…국민연금 석 달 만에 33조원 불렸다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814201951844"
+        },
+        {
+          "title": "‘큰손’ KIC, M7 일제히 덜었다…美 지수·방산 베팅 확대",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20079682"
+        },
+        {
+          "title": "“스페이스X 들어갔습니다”…국민연금이 픽한 2분기 미국 성장주는?",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1142936"
+        }
+      ]
+    },
+    {
+      "id": "경제",
+      "rank": 4,
+      "keyword": "경제",
+      "volumeLabel": "5000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“10년 뒤엔 지금보다 훨씬”…한국인 절반 ‘韓·日 경제 역전’ 예측' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“10년 뒤엔 지금보다 훨씬”…한국인 절반 ‘韓·日 경제 역전’ 예측",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260815173001064"
+        },
+        {
+          "title": "\"지금도 일본보다 더 잘 사는 한국…10년 뒤엔 경제력 더 압도할 것\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6260246"
+        },
+        {
+          "title": "\"삼전하닉 있는데 질 리가\"…한국인 절반 \"10년 뒤 日 앞선다\"",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026081409050208524"
+        }
+      ]
+    },
+    {
+      "id": "수원-대-수원fc",
+      "rank": 5,
+      "keyword": "수원 대 수원fc",
       "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '선두 FC서울 조영욱 부상 악재…김기동 감독 \"두 달 반 예상\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"야유와 욕먹든지, 칭찬받든지...\" 이정효 감독, 운명의 수원 더비 앞두고 '필승 각오' [수원 현장] - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "선두 FC서울 조영욱 부상 악재…김기동 감독 \"두 달 반 예상\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260815_0003750691"
+          "title": "\"야유와 욕먹든지, 칭찬받든지...\" 이정효 감독, 운명의 수원 더비 앞두고 '필승 각오' [수원 현장] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/15/2026081517051888178"
         },
         {
-          "title": "황선홍 대전 감독, 2연승에도 '신중'…\"팬들 납득하는 경기해야\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/soccer/6260333"
+          "title": "'역대급 응원'→이젠 '야유 세례'로, 친정 수원과 맞붙는 박건하 감독 \"묘하다... 어색하기도 해\" [수원 현장] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/15/2026081517044355451"
         },
         {
-          "title": "[그래도 K리그] '이상 신호' 김기동 축구...선두 서울, 황선홍의 대전 넘어설까",
+          "title": "수원 삼성·수원FC 수원더비, 창과 방패의 대결로 압축",
           "source": "Daum",
-          "url": "https://v.daum.net/v/uuAp7wu5an"
+          "url": "https://v.daum.net/v/Zxz9M8Ocmk"
         }
       ]
     },
     {
       "id": "체포",
-      "rank": 3,
+      "rank": 6,
       "keyword": "체포",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] 가출 말리는 어머니에 끓는 물 부은 10대 딸 현행범 체포' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-3",
+      "summary": "급상승 시점에 '\"가출 막는다\"며 엄마에게 끓는 물 부은 10대 딸 검거' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[단독] 가출 말리는 어머니에 끓는 물 부은 10대 딸 현행범 체포",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260815153809711"
+          "title": "\"가출 막는다\"며 엄마에게 끓는 물 부은 10대 딸 검거",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6845001_36918.html"
+        },
+        {
+          "title": "가출 말리는 엄마에게 끓는 물 부은 10대 딸",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260815201747gpk"
         },
         {
           "title": "“가출 막자 홧김에”…친모에게 끓는 물 부은 10대 체포",
           "source": "경기일보",
           "url": "https://www.kyeonggi.com/article/20260815580089"
-        },
-        {
-          "title": "\"가출 막는다\"며 엄마에게 끓는 물 부은 10대 딸 검거",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6845001_36918.html"
         }
       ]
     },
     {
-      "id": "제주-대-안양",
-      "rank": 4,
-      "keyword": "제주 대 안양",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '제주SK FC, 안양 추격 따돌리고 순위 상승을 위한 가속을 더한다!' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "제주SK FC, 안양 추격 따돌리고 순위 상승을 위한 가속을 더한다!",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813220409191"
-        },
-        {
-          "title": "'안양 2연전' 제주SK FC \"두 마리 토끼 잡는다\"",
-          "source": "한라일보",
-          "url": "https://m.ihalla.com/article.php?aid=1786574991789260051"
-        },
-        {
-          "title": "‘혼돈의 중위권’ 무패 행진 제주 다크호스, 연패 위기 강원·안양·포항 반전 ‘시급’",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1628552"
-        }
-      ]
-    },
-    {
-      "id": "장기-기증",
-      "rank": 5,
-      "keyword": "장기 기증",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '노숙인·독거노인 돕던 50대 미용사, 4명에 장기 기증' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "노숙인·독거노인 돕던 50대 미용사, 4명에 장기 기증",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260813050800530"
-        },
-        {
-          "title": "“갈 때도 멋있네”…노숙인 돕던 50대 미용사, 4명에 장기 기증",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260812220757355"
-        },
-        {
-          "title": "\"갈 때도 멋있게\"…노숙인 머리 깎던 미용사, 마지막엔 4명 살렸다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/13/2026081319175651991"
-        }
-      ]
-    },
-    {
-      "id": "사랑이-온다",
-      "rank": 6,
-      "keyword": "사랑이 온다",
+      "id": "최저임금",
+      "rank": 7,
+      "keyword": "최저임금",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '하석진, 안희연이 8년간 숨긴 비밀 알았다(‘사랑이 온다’)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“1만 700원도 적다”는데 사장님 절반은 “덜 뽑겠다”… 최저임금의 두 얼굴' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "하석진, 안희연이 8년간 숨긴 비밀 알았다(‘사랑이 온다’)",
+          "title": "“1만 700원도 적다”는데 사장님 절반은 “덜 뽑겠다”… 최저임금의 두 얼굴",
           "source": "Daum",
-          "url": "https://v.daum.net/v/q3fWLc3GvC"
+          "url": "https://v.daum.net/v/20260814104502413?f=p"
         },
         {
-          "title": "‘사랑이 온다’ 하석진X안희연, 반찬 하나 두고 티격태격",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608151714003"
+          "title": "내년 최저임금, 사장님·알바생 모두 ‘불만’…이유는 정반대",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20079364"
         },
         {
-          "title": "안희연, 사방에서 조여오는 진실의 압박…8년 비밀 지킬 수 있을까(‘사랑이 온다’) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/14/MVRWKNRXG5QTMYRWMZQTQYRZGM/"
+          "title": "[강준모의 빵집 일상] 최저임금과 서민 일자리",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/contributors/12128167"
         }
       ]
     },
     {
-      "id": "장인화",
-      "rank": 7,
-      "keyword": "장인화",
-      "volumeLabel": "100+",
+      "id": "선수",
+      "rank": 8,
+      "keyword": "선수",
+      "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '내달 착공식 앞둔 현대제철 美 제철소…현지 반발은 과제' (연합인포맥스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '야구는 폭염에 멈추는데 축구는 강행…선수들 고통 호소 \"생존 위협\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "내달 착공식 앞둔 현대제철 美 제철소…현지 반발은 과제",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430210"
+          "title": "야구는 폭염에 멈추는데 축구는 강행…선수들 고통 호소 \"생존 위협\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/14/2026081411251412204"
         },
         {
-          "title": "'7.6조' 포스코 철강 투자, 88% 해외로…국내는 체질 개선",
+          "title": "프로축구선수협, 폭염에 K리그 추춘제 도입 주장",
           "source": "Daum",
-          "url": "https://v.daum.net/v/9D8IlEpXc2"
+          "url": "https://v.daum.net/v/KARNZIb0Gs"
         },
         {
-          "title": "“무역장벽·내수 정체” 이중고…포스코·현대제철, 현지화 생존 방정식",
-          "source": "미디어펜",
-          "url": "https://www.mediapen.com/news/view/1116248"
+          "title": "이근호 선수협회장 “K리그 추춘제 전환해야”",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10840213"
+        }
+      ]
+    },
+    {
+      "id": "딴지일보",
+      "rank": 9,
+      "keyword": "딴지일보",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '영화 보고 2800년 전 책 펼쳤다…‘오디세이아’ 뜻밖의 역주행' (진일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "영화 보고 2800년 전 책 펼쳤다…‘오디세이아’ 뜻밖의 역주행",
+          "source": "진일보",
+          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000055595"
         }
       ]
     },
     {
       "id": "콜-오브-듀티",
-      "rank": 8,
+      "rank": 10,
       "keyword": "콜 오브 듀티",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 'Call of Duty: Modern Warfare 4 - Official 'Entrenched' Campaign Trailer' (IGN) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -225,62 +271,6 @@
           "title": "Here’s A First Look At CoD: Warzone’s New Zodiac Map For MW4",
           "source": "Yahoo Tech",
           "url": "https://tech.yahoo.com/gaming/articles/first-look-cod-warzone-zodiac-182527505.html"
-        }
-      ]
-    },
-    {
-      "id": "전지",
-      "rank": 9,
-      "keyword": "전지",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '용인 반도체 공장 증설 쉬워진다… 기존 공사 중단없이 별도 허가 허용' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "용인 반도체 공장 증설 쉬워진다… 기존 공사 중단없이 별도 허가 허용",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/1MGzCqAi0u?f=p"
-        },
-        {
-          "title": "[경북] 폐배터리 재자원화 기업 국가산단 입주...규제 개선",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0115_202608141705104828"
-        },
-        {
-          "title": "‘적극 행정’에 소부장 웃었다…SK하이닉스, 출연금 증여세 면제된 까닭",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1142569"
-        }
-      ]
-    },
-    {
-      "id": "스텔스기",
-      "rank": 10,
-      "keyword": "스텔스기",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '중국, F-35 스텔스 요격 AI 모델 개발...적중률 96.4%' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "중국, F-35 스텔스 요격 AI 모델 개발...적중률 96.4%",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260814102411373"
-        },
-        {
-          "title": "中 신형 호위함 미사일 발사관 32→48개 정황…방공력 강화",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260814105340yJT"
-        },
-        {
-          "title": "中 054B 호위함, VLS 48셀 증강…대만은 자폭드론 맞불",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/08/202608150740049416fbbec65dfb_1"
         }
       ]
     }
