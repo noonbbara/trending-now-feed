@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-15T13:36:08.011Z",
+  "updatedAt": "2026-08-15T14:30:24.372Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,21 +9,21 @@
       "rank": 1,
       "keyword": "내일 날씨",
       "volumeLabel": "500000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '가뭄 해갈 '단비' 반갑지만‥250mm 이상 물폭탄 쏟아진다' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '한 총리, 남해안 집중호우 예보에 \"선제적 통제·비상근무\" 지시' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "가뭄 해갈 '단비' 반갑지만‥250mm 이상 물폭탄 쏟아진다",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6845034_37004.html"
-        },
         {
           "title": "한 총리, 남해안 집중호우 예보에 \"선제적 통제·비상근무\" 지시",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260815204500144"
+        },
+        {
+          "title": "가뭄 해갈 '단비' 반갑지만‥250mm 이상 물폭탄 쏟아진다",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6845034_37004.html"
         },
         {
           "title": "[뉴스9 날씨] 내일 전국에 비…남부·제주 최대 250mm↑",
@@ -33,13 +33,41 @@
       ]
     },
     {
-      "id": "블랙록",
+      "id": "thời-tiết-ngày-mai",
       "rank": 2,
+      "keyword": "thời tiết ngày mai",
+      "volumeLabel": "5000+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 'Dự báo thời tiết ngày 16/8/2026: Nắng nóng miền Trung, Bắc Bộ mưa lớn s…' (Báo Nhân Dân điện tử) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Dự báo thời tiết ngày 16/8/2026: Nắng nóng miền Trung, Bắc Bộ mưa lớn sắp tới",
+          "source": "Báo Nhân Dân điện tử",
+          "url": "https://nhandan.vn/video-du-bao-thoi-tiet-dem-nay-va-ngay-mai-ngay-1682026-nang-nong-tiep-tuc-o-mien-trung-bac-bo-chuan-bi-buoc-vao-dot-mua-lon-post982131.html"
+        },
+        {
+          "title": "Thời tiết ngày 16/8 chiều tối và đêm có mưa rào và dông vài nơi, ngày trời nắng gián đoạn",
+          "source": "Báo Cao Bằng",
+          "url": "https://baocaobang.vn/thoi-tiet-ngay-16-8-chieu-toi-va-dem-co-mua-rao-va-dong-vai-noi-ngay-troi-nang-gian-doan-3191400.html"
+        },
+        {
+          "title": "Dự báo thời tiết ngày 15/8",
+          "source": "Báo Lào Cai điện tử",
+          "url": "https://baolaocai.vn/du-bao-thoi-tiet-ngay-158-post906183.html"
+        }
+      ]
+    },
+    {
+      "id": "블랙록",
+      "rank": 3,
       "keyword": "블랙록",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '미국 물가에 '조마조마'…연준 말고 이란만 본다? [이브닝 브리핑]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -61,160 +89,142 @@
       ]
     },
     {
-      "id": "thời-tiết-ngày-mai",
-      "rank": 3,
-      "keyword": "thời tiết ngày mai",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 'Dự báo thời tiết ngày 16/8/2026: Nắng nóng miền Trung, Bắc Bộ mưa lớn s…' (Báo Nhân Dân điện tử) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Dự báo thời tiết ngày 16/8/2026: Nắng nóng miền Trung, Bắc Bộ mưa lớn sắp tới",
-          "source": "Báo Nhân Dân điện tử",
-          "url": "https://nhandan.vn/video-du-bao-thoi-tiet-dem-nay-va-ngay-mai-ngay-1682026-nang-nong-tiep-tuc-o-mien-trung-bac-bo-chuan-bi-buoc-vao-dot-mua-lon-post982131.html"
-        },
-        {
-          "title": "Dự báo thời tiết ngày 16/08/2026: Có lúc có mưa rào và dông, ngày nắng",
-          "source": "moitruong.net.vn",
-          "url": "https://moitruong.net.vn/du-bao-thoi-tiet-ngay-16-08-2026-co-luc-co-mua-rao-va-dong-ngay-nang-101688.html"
-        },
-        {
-          "title": "Dự báo thời tiết ngày 16/8: Nam Bộ nắng gián đoạn, mưa lớn về chiều và tối",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/du-bao-thoi-tiet-ngay-16-8-nam-bo-nang-gian-doan-mua-lon-ve-chieu-va-toi"
-        }
-      ]
-    },
-    {
-      "id": "티-웨이-홀딩스",
+      "id": "첼시",
       "rank": 4,
-      "keyword": "티 웨이 홀딩스",
-      "volumeLabel": "2000+",
+      "keyword": "첼시",
+      "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '티웨이항공 지배력 잃은 티웨이홀딩스…소노그룹 재편에 역할 물음표' (이코노미톡뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '첼시는 사비 알론소 감독 체제에서 네 가지 규칙을 변경했다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "티웨이항공 지배력 잃은 티웨이홀딩스…소노그룹 재편에 역할 물음표",
-          "source": "이코노미톡뉴스",
-          "url": ""
+          "title": "첼시는 사비 알론소 감독 체제에서 네 가지 규칙을 변경했다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/chelsea-thay-doi-4-quy-tac-duoi-thoi-cua-hlv-xabi-alonso"
         },
         {
-          "title": "티웨이홀딩스 투자분석 2026. 08. 14",
-          "source": "주달",
-          "url": "https://www.judal.co.kr/?view=stockAI&shareToken=72NWsiouIxzof7vs"
+          "title": "'맨유 러브콜 받을 생각 추호도 없어' 브렌트포드, '25골 1도움' 티아고 잔류 시킨다 \"매각 불가 방침\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260810n00475"
         },
         {
-          "title": "티웨이항공 유럽 줄이고 중국 늘리고, 이상윤 유가 불안에 '선택과 집중'으로 수익성 개선 집중",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444350"
+          "title": "‘세슈코 옆에 PL 22골 괴물 세운다’ 맨체스터 유나이티드, 브렌트포드 ST 영입전 참전...첼시·토트넘·뮌헨까지 관심",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96129"
         }
       ]
     },
     {
-      "id": "cuaca-besok",
+      "id": "엘니뇨",
       "rank": 5,
-      "keyword": "cuaca besok",
+      "keyword": "엘니뇨",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'Prakiraan Cuaca Makassar Besok 16 Agustus 2026: Cerah Berawan hingga So…' (detikcom) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''가장 강력한 엘니뇨' 온다…대륙별 극단적 날씨 이어져 [지금은 기후위기]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Prakiraan Cuaca Makassar Besok 16 Agustus 2026: Cerah Berawan hingga Sore, Waspada Angin Kencang!",
-          "source": "detikcom",
-          "url": "https://www.detik.com/sulsel/makassar/d-8620145/prakiraan-cuaca-makassar-besok-16-agustus-2026-cerah-berawan-hingga-sore-waspada-angin-kencang"
+          "title": "'가장 강력한 엘니뇨' 온다…대륙별 극단적 날씨 이어져 [지금은 기후위기]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/ZpMIjRvmvF"
         },
         {
-          "title": "BMKG: 13 Agustus 2026 Sebagian Besar Sulsel Cerah Berawan, Waspadai Angin Kencang",
-          "source": "RRI.co.id",
-          "url": "https://rri.co.id/makassar/regional/2648112/bmkg-13-agustus-2026-sebagian-besar-sulsel-cerah-berawan-waspadai-angin-kencang"
+          "title": "국제연구진 \"올해 세계 기온 역대 최고치 기록 전망, 10년 후에나 볼 법한 재난 예고\"",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444761"
         },
         {
-          "title": "Suhu Kota Makassar Diprakirakan Capai 30,0°C",
-          "source": "Databoks",
-          "url": "https://databoks.katadata.co.id/lingkungan/statistik/18cb733062461b8/suhu-kota-makassar-diprakirakan-capai-30-0-c"
+          "title": "\"올해 진짜 더운데 내년이 더 덥다고?\" 엘리뇨 본격 영향 가능성",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026081410323054260"
         }
       ]
     },
     {
-      "id": "서경덕",
+      "id": "chelsea",
       "rank": 6,
-      "keyword": "서경덕",
+      "keyword": "chelsea",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '서경덕·송혜교, ‘만세운동 간호사’ 박자혜 소개 다국어영상 공개' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Chelsea vs Real Sociedad' (Chelsea Football Club) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "서경덕·송혜교, ‘만세운동 간호사’ 박자혜 소개 다국어영상 공개",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260815105009485"
+          "title": "Chelsea vs Real Sociedad",
+          "source": "Chelsea Football Club",
+          "url": "https://www.chelseafc.com/en/video/live/chelsea-vs-real-sociedad-15-08-26"
         },
         {
-          "title": "극심한 굶주림 자식의 죽음에도…송혜교가 택한 독립운동가 '박자혜 지사'",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260815n05927"
+          "title": "Chelsea vs Real Sociedad: Club Friendlies stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/ck5y0je5z00lt"
         },
         {
-          "title": "서경덕·송혜교, 광복절 맞아 '만세운동 간호사' 박자혜 알린다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/15/2026081509330181000"
+          "title": "Cole Palmer starts, Morgan Rogers debut - Predicted Chelsea starting XI vs Real Sociedad",
+          "source": "Football London",
+          "url": "https://www.football.london/chelsea-fc/news/cole-palmer-starts-morgan-rogers-34447392"
         }
       ]
     },
     {
-      "id": "한소희",
+      "id": "테니스",
       "rank": 7,
-      "keyword": "한소희",
+      "keyword": "테니스",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '평점 9.04 기록하며 호평받더니…11년 만에 '리메이크'로 돌아온 이 작품 ('인턴')' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '테니스 선수 응우옌 닥 티엔이 위카의 새로운 라켓 디자인에 영감을 주었습니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "평점 9.04 기록하며 호평받더니…11년 만에 '리메이크'로 돌아온 이 작품 ('인턴')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/XkwIi1d8Mf"
+          "title": "테니스 선수 응우옌 닥 티엔이 위카의 새로운 라켓 디자인에 영감을 주었습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/tay-vot-nguyen-dac-tien-tro-thanh-cam-hung-cho-mau-vot-moi-cua-wika"
         },
         {
-          "title": "최민식·한소희 주연 ‘인턴’ 예고편 1000만 뷰…‘만약에 우리’ 감독 연출",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260813/134469555/1"
+          "title": "응우옌 닥 티엔은 프로 테니스를 그만두고 피클볼을 선택한 이유를 밝혔다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nguyen-dac-tien-tiet-lo-ly-do-roi-tennis-chuyen-nghiep-de-chon-pickleball"
         },
         {
-          "title": "김도영 감독, 최민식·한소희와 '인턴'으로 만난다…9월 16일 개봉",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260813000079"
+          "title": "전 북베트남 테니스 랭킹 1위 선수가 피클볼에서 두각을 나타내고 있다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/cuu-tay-vot-tennis-so-1-mien-bac-tao-buoc-ngoat-voi-pickleball"
         }
       ]
     },
     {
-      "id": "딴지",
+      "id": "1237-회-로또-당첨-번호",
       "rank": 8,
-      "keyword": "딴지",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '영화 보고 2800년 전 책 펼쳤다…‘오디세이아’ 뜻밖의 역주행' (진일보) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "1237 회 로또 당첨 번호",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[속보]로또 1237회 당첨번호 '10·20·23·34·37·40'…보너스 '36'' (이데일리) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "영화 보고 2800년 전 책 펼쳤다…‘오디세이아’ 뜻밖의 역주행",
-          "source": "진일보",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000055595"
+          "title": "[속보]로또 1237회 당첨번호 '10·20·23·34·37·40'…보너스 '36'",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02660086645547648&mediaCodeNo=257"
+        },
+        {
+          "title": "1237회 로또 1등 23명…당첨금 각 12억1천만원(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260815049100002"
+        },
+        {
+          "title": "농장 일 보러 가는 길 구매한 복권이 1등…1237회차 로또당첨번호조회 주목",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20260813100610747"
         }
       ]
     },
@@ -223,9 +233,9 @@
       "rank": 9,
       "keyword": "헤수스 카사스",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 ''홍명보가 그랬듯' 이동국도 A대표팀 코치 직행? 감독 선임 과정부터 '또' 논란' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -251,9 +261,9 @@
       "rank": 10,
       "keyword": "최형우",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 ''이게 얼마 만인가' 최형우 무려 38일 만에 터졌다, 132m 초대형 스리런포 폭발…KKKKKKK 잘 던지던 박준영 내려가다 …' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
