@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-15T18:39:35.556Z",
+  "updatedAt": "2026-08-15T19:26:47.439Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,26 +9,26 @@
       "rank": 1,
       "keyword": "milan vs man united",
       "volumeLabel": "2000+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 'Manchester United vs AC Milan: Club Friendlies stats & head-to-head' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 'MANCHESTER UNITED v AC MILAN LIVE ON SKY SPORT AND DAZN' (AC Milan) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "Manchester United vs AC Milan: Club Friendlies stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cmy0j1846rnwt"
-        },
         {
           "title": "MANCHESTER UNITED v AC MILAN LIVE ON SKY SPORT AND DAZN",
           "source": "AC Milan",
           "url": "https://www.acmilan.com/en/news/articles/ac-milan-tour/2026-08-11/manchester-united-v-ac-milan-live-on-sky-sport-and-dazn"
         },
         {
-          "title": "Bruno Fernandes stuns fans by missing another penalty in huge blunder against AC Milan",
-          "source": "SPORF",
-          "url": "https://www.sporf.com/bruno-fernandes-stuns-fans-by-missing-another-penalty-in-huge-blunder-against-ac-milan/"
+          "title": "Manchester United vs AC Milan: Club Friendlies stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cmy0j1846rnwt"
+        },
+        {
+          "title": "Man Utd vs AC Milan LIVE! Pre-season friendly score, live updates and team news",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13573289/man-utd-vs-ac-milan-live-pre-season-friendly-score-live-updates-and-team-news"
         }
       ]
     },
@@ -37,9 +37,9 @@
       "rank": 2,
       "keyword": "황정음",
       "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '황정음, 까맣고 살 오른 모습에 본인도 깜짝 “왕식이 얼굴 나왔다..어떡해”' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -65,9 +65,9 @@
       "rank": 3,
       "keyword": "토트넘",
       "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 ''손흥민 옛 동료' 로메로, AT 마드리드 이적 확정…이강인과 만난다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -77,14 +77,14 @@
           "url": "https://v.daum.net/v/09Fl00Lx7g"
         },
         {
-          "title": "'이토록 토트넘 떠나고 싶었나' 손흥민 후임 주장, 오피셜도 없는데 작별 인사 \"완벽한 여정은 아니었지만...\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/15/2026081514581137432"
+          "title": "[오피셜] ‘이적료 657억’ 손흥민→이강인과 한솥밥, 아틀레티코 ‘토트넘 주장’ 로메로 영입 “이 팀 역사에 ...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608160340003"
         },
         {
-          "title": "‘전 손흥민 동료’ 로메로, 이강인과 한솥밥…아틀레티코 이적",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20260815/134483454/1"
+          "title": "[오피셜]이강인 지원군 도착! 크리스티안 로메로, 토트넘 떠나 아틀레티코 마드리드 입성 \"이 아름다운 팀 역사에 이름 남기고 싶다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/08/16/MIYTENDGGA4GIMZYGIYDIYLBHE/"
         }
       ]
     },
@@ -94,8 +94,8 @@
       "keyword": "송가인",
       "volumeLabel": "1000+",
       "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '송가인, 옥빛 한복 입고 뽐낸 잘록한 몸매…44㎏ 감량 비결은 '꾸준한 운동'' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -107,7 +107,7 @@
         {
           "title": "'40세' 송가인, 한복 소화 제대로 했다…무대 뒤집은 여신 비주얼",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260815123248712"
+          "url": "https://v.daum.net/v/20260815123248712?f=p"
         },
         {
           "title": "44kg 송가인, 수영복 입고 극세사 몸매 자랑…매일 하는 운동 뭐길래?",
@@ -121,9 +121,9 @@
       "rank": 5,
       "keyword": "ม ลาน พบ แมนย",
       "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 'ตารางการแข่งขันฟุตบอลวันนี้ 15 สิงหาคม: รอบรองชนะเลิศนัดแรกของอาเซียนคัพ' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -145,30 +145,30 @@
       ]
     },
     {
-      "id": "milan-đấu-với-man-utd",
+      "id": "벨기에",
       "rank": 6,
-      "keyword": "milan đấu với man utd",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 'Video bóng đá MU - AC Milan: 6 bàn rực rỡ, ngược dòng mãn nhãn' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "벨기에",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '건물 지하서 148억원 상당 금괴∙금화 무더기 발견…무슨 일' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Video bóng đá MU - AC Milan: 6 bàn rực rỡ, ngược dòng mãn nhãn",
-          "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/video-bong-da-mu-ac-milan-6-ban-ruc-ro-nguoc-dong-man-nhan-c48a1786871.html"
+          "title": "건물 지하서 148억원 상당 금괴∙금화 무더기 발견…무슨 일",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260815204907202"
         },
         {
-          "title": "Manchester United 2-4 AC Milan: AC Milan giành chiến thắng",
-          "source": "Báo Hà Tĩnh",
-          "url": "https://baohatinh.vn/tv/manchester-united-2-4-ac-milan-ac-milan-gianh-chien-thang-50435.html"
+          "title": "리모델링하다 궤짝 열었더니 ‘번쩍’…공사장 땅속에서 나온 148억원어치 금",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20079880"
         },
         {
-          "title": "Thua AC Milan, fan MU đòi mua người thay thế Luke Shaw",
-          "source": "yeuthethao.net.vn",
-          "url": "https://yeuthethao.net.vn/thua-ac-milan-fan-mu-doi-mua-nguoi-thay-the-luke-shaw-d891076.html"
+          "title": "벨기에 하수관 공사중 148억원어치 금덩어리 발견",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260815047000082"
         }
       ]
     },
@@ -177,17 +177,12 @@
       "rank": 7,
       "keyword": "상장",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '‘SK하이닉스 주주들 난리난다’ 하루만에 10% 급락…‘솔리다임’ 상장 무섭네 [투자360]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '“코리아디스카운트 수출” 하닉 ‘5단 중복상장’ 규탄' (문화일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "‘SK하이닉스 주주들 난리난다’ 하루만에 10% 급락…‘솔리다임’ 상장 무섭네 [투자360]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260815214212734"
-        },
         {
           "title": "“코리아디스카운트 수출” 하닉 ‘5단 중복상장’ 규탄",
           "source": "문화일보",
@@ -197,6 +192,11 @@
           "title": "SK는 왜 ‘4중 상장’에 도전하나…아메리카 드림의 ‘미스테리’ [홍길용의 화식열전](909회)",
           "source": "헤럴드경제",
           "url": "https://biz.heraldcorp.com/article/10842125"
+        },
+        {
+          "title": "‘츄파춥스 배당’ 하이닉스, 손자회사도 나스닥행?…‘다단계 중복 상장’ 논란",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1272860.html"
         }
       ]
     },
@@ -205,9 +205,9 @@
       "rank": 8,
       "keyword": "fotmob",
       "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 'Transfer news LIVE: Hall to Man Utd breakthrough, Arsenal want Quansah,…' (Daily Express) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -229,30 +229,30 @@
       ]
     },
     {
-      "id": "나상도",
+      "id": "이병태",
       "rank": 9,
-      "keyword": "나상도",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
+      "keyword": "이병태",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '나상도, 올여름 모두의 흥을 책임질 신곡 ‘지화자’로 복귀' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '이병태 \"5·18 표현의 자유 부정한다면 자유민주주의 아냐\"' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "나상도, 올여름 모두의 흥을 책임질 신곡 ‘지화자’로 복귀",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608142250003"
+          "title": "이병태 \"5·18 표현의 자유 부정한다면 자유민주주의 아냐\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026081533677"
         },
         {
-          "title": "나상도, 신곡 '지화자' 담은 스페셜 앨범 발매",
+          "title": "“일반 국민, 5·18에 죄의식 가질 필요 없어” ‘스타벅스 사태’로 물러난 이병태의 말",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11609775"
+        },
+        {
+          "title": "이병태 \"국민이 왜 5·18에 죄의식 갖나\" 작심 발언",
           "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=05238166645547320&mediaCodeNo=257"
-        },
-        {
-          "title": "나상도, 7개월 만에 ‘지화자’로 컴백",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/tUtYBdyOi3"
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02663366645547648&mediaCodeNo=257"
         }
       ]
     },
@@ -261,7 +261,7 @@
       "rank": 10,
       "keyword": "조규성",
       "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
+      "startedLabel": "5시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 '조규성 연봉 26억? 日 파격 제안 거절하기 힘들다…깜짝 J리그 입단설 \"주말에 최종 결정 나올 수도\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
