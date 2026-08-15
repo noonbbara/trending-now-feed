@@ -1,17 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-15T19:48:47.172Z",
+  "updatedAt": "2026-08-15T20:30:53.834Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
       "id": "황정음",
       "rank": 1,
       "keyword": "황정음",
-      "volumeLabel": "1000+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "volumeLabel": "2000+",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '황정음, 까맣고 살 오른 모습에 본인도 깜짝 “왕식이 얼굴 나왔다..어떡해”' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -37,9 +37,9 @@
       "rank": 2,
       "keyword": "토트넘",
       "volumeLabel": "1000+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 ''손흥민 옛 동료' 로메로, AT 마드리드 이적 확정…이강인과 만난다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -49,14 +49,14 @@
           "url": "https://v.daum.net/v/09Fl00Lx7g"
         },
         {
-          "title": "[오피셜] ‘이적료 657억’ 손흥민→이강인과 한솥밥, 아틀레티코 ‘토트넘 주장’ 로메로 영입 “이 팀 역사에 ...",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608160340003"
+          "title": "'이토록 토트넘 떠나고 싶었나' 손흥민 후임 주장, 오피셜도 없는데 작별 인사 \"완벽한 여정은 아니었지만...\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/15/2026081514581137432"
         },
         {
-          "title": "[오피셜]이강인 지원군 도착! 크리스티안 로메로, 토트넘 떠나 아틀레티코 마드리드 입성 \"이 아름다운 팀 역사에 이름 남기고 싶다\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/08/16/MIYTENDGGA4GIMZYGIYDIYLBHE/"
+          "title": "‘전 손흥민 동료’ 로메로, 이강인과 한솥밥…아틀레티코 이적",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260815/134483454/1"
         }
       ]
     },
@@ -66,8 +66,8 @@
       "keyword": "송가인",
       "volumeLabel": "1000+",
       "startedLabel": "5시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '송가인, 옥빛 한복 입고 뽐낸 잘록한 몸매…44㎏ 감량 비결은 '꾸준한 운동'' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -79,7 +79,7 @@
         {
           "title": "'40세' 송가인, 한복 소화 제대로 했다…무대 뒤집은 여신 비주얼",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260815123248712?f=p"
+          "url": "https://v.daum.net/v/q0yKQBcnHE?f=p"
         },
         {
           "title": "44kg 송가인, 수영복 입고 극세사 몸매 자랑…매일 하는 운동 뭐길래?",
@@ -89,13 +89,41 @@
       ]
     },
     {
-      "id": "벨기에",
+      "id": "증여",
       "rank": 4,
+      "keyword": "증여",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"아들만 15억 아파트 증여\"…상속 배제된 딸, 유류분 소송 가능할까' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"아들만 15억 아파트 증여\"…상속 배제된 딸, 유류분 소송 가능할까",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260814_0003749658"
+        },
+        {
+          "title": "\"딸은 시집가면 그만\"…12년 전 오빠에게 몰래 준 아파트가 15억 '허탈'",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6259236"
+        },
+        {
+          "title": "[결혼과 이혼] \"오빠에게만 15억 아파트 증여\"…父 사후 알게 된 딸, 나눌 수 있나요?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/FpB7fSV7l7"
+        }
+      ]
+    },
+    {
+      "id": "벨기에",
+      "rank": 5,
       "keyword": "벨기에",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "up",
-      "changeLabel": "+2",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '건물 지하서 148억원 상당 금괴∙금화 무더기 발견…무슨 일' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -105,25 +133,25 @@
           "url": "https://v.daum.net/v/20260815204907202"
         },
         {
-          "title": "리모델링하다 궤짝 열었더니 ‘번쩍’…공사장 땅속에서 나온 148억원어치 금",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20079880"
-        },
-        {
           "title": "벨기에 하수관 공사중 148억원어치 금덩어리 발견",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260815047000082"
+        },
+        {
+          "title": "리모델링하다 궤짝 열었더니 ‘번쩍’…공사장 땅속에서 나온 148억원어치 금",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20079880"
         }
       ]
     },
     {
       "id": "ม-ลาน-พบ-แมนย",
-      "rank": 5,
+      "rank": 6,
       "keyword": "ม ลาน พบ แมนย",
       "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "startedLabel": "6시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 'การคาดการณ์ผลการแข่งขันระหว่างแมนเชสเตอร์ ยูไนเต็ด กับ เอซี มิลาน: รายช…' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -145,97 +173,13 @@
       ]
     },
     {
-      "id": "milan-đấu-với-man-utd",
-      "rank": 6,
-      "keyword": "milan đấu với man utd",
-      "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Video bóng đá MU - AC Milan: 6 bàn rực rỡ, ngược dòng mãn nhãn' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Video bóng đá MU - AC Milan: 6 bàn rực rỡ, ngược dòng mãn nhãn",
-          "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/video-bong-da-mu-ac-milan-6-ban-ruc-ro-nguoc-dong-man-nhan-c48a1786871.html"
-        },
-        {
-          "title": "Прямая трансляция матча «Манчестер Юнайтед» — «Милан»: «Милан» ведёт со счётом 4:2.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ru/truc-tieptruc-tiep-manchester-united-vs-ac-milan-ac-milan-dan-4-2"
-        },
-        {
-          "title": "Man Utd thua ngược trước đội bóng của HLV Amorim",
-          "source": "Báo Dân trí",
-          "url": "https://dantri.com.vn/the-thao/man-utd-thua-nguoc-truoc-doi-bong-cua-hlv-amorim-20260816014804898.htm"
-        }
-      ]
-    },
-    {
-      "id": "상장",
-      "rank": 7,
-      "keyword": "상장",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '‘츄파춥스 배당’ 하이닉스, 손자회사도 나스닥행?…‘다단계 중복 상장’ 논란' (한겨레) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘츄파춥스 배당’ 하이닉스, 손자회사도 나스닥행?…‘다단계 중복 상장’ 논란",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1272860.html"
-        },
-        {
-          "title": "“코리아디스카운트 수출” 하닉 ‘5단 중복상장’ 규탄",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11609683"
-        },
-        {
-          "title": "SK는 왜 ‘4중 상장’에 도전하나…아메리카 드림의 ‘미스테리’ [홍길용의 화식열전](909회)",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10842125"
-        }
-      ]
-    },
-    {
-      "id": "fotmob",
-      "rank": 8,
-      "keyword": "fotmob",
-      "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'Arsenal surprise as Chelsea close in on bizarre deal' (FootballTransfers.com) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Arsenal surprise as Chelsea close in on bizarre deal",
-          "source": "FootballTransfers.com",
-          "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/08/arsenal-chelsea-close-man-utd-jarell-quansah-omari-kellyman-lamine-camara-liam-delap-rodri-julian-alvarez-footballtransfers-recap"
-        },
-        {
-          "title": "Transfer news LIVE: Hall to Man Utd breakthrough, Arsenal want Quansah, Chelsea £51m bid",
-          "source": "Daily Express",
-          "url": "https://www.express.co.uk/sport/football/2239440/transfer-news-live-man-utd-chelsea-liverpool-arsenal"
-        },
-        {
-          "title": "Arsenal want Quansah, Fernandez deadline looming, Osimhen could make Prem move",
-          "source": "talkSPORT",
-          "url": "https://talksport.com/football/4363975/premier-league-transfer-news-arsenal-liverpool-chelsea-manchester-united/page/40/"
-        }
-      ]
-    },
-    {
       "id": "이병태",
-      "rank": 9,
+      "rank": 7,
       "keyword": "이병태",
-      "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "volumeLabel": "200+",
+      "startedLabel": "5시간 전",
+      "change": "up",
+      "changeLabel": "+2",
       "summary": "급상승 시점에 '이병태 \"5·18 표현의 자유 부정한다면 자유민주주의 아냐\"' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -257,11 +201,67 @@
       ]
     },
     {
+      "id": "상장",
+      "rank": 8,
+      "keyword": "상장",
+      "volumeLabel": "200+",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '“코리아디스카운트 수출” 하닉 ‘5단 중복상장’ 규탄' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“코리아디스카운트 수출” 하닉 ‘5단 중복상장’ 규탄",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11609683"
+        },
+        {
+          "title": "‘츄파춥스 배당’ 하이닉스, 손자회사도 나스닥행?…‘다단계 중복 상장’ 논란",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1272860.html"
+        },
+        {
+          "title": "SK는 왜 ‘4중 상장’에 도전하나…아메리카 드림의 ‘미스테리’ [홍길용의 화식열전](909회)",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10842125"
+        }
+      ]
+    },
+    {
+      "id": "fotmob",
+      "rank": 9,
+      "keyword": "fotmob",
+      "volumeLabel": "200+",
+      "startedLabel": "6시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 'Arsenal surprise as Chelsea close in on bizarre deal' (FootballTransfers.com) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Arsenal surprise as Chelsea close in on bizarre deal",
+          "source": "FootballTransfers.com",
+          "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/08/arsenal-chelsea-close-man-utd-jarell-quansah-omari-kellyman-lamine-camara-liam-delap-rodri-julian-alvarez-footballtransfers-recap"
+        },
+        {
+          "title": "Transfer news LIVE: Hall to Man Utd breakthrough, Arsenal want Quansah, Chelsea £51m bid",
+          "source": "Daily Express",
+          "url": "https://www.express.co.uk/sport/football/2239440/transfer-news-live-man-utd-chelsea-liverpool-arsenal"
+        },
+        {
+          "title": "Arsenal want Quansah, Fernandez deadline looming, Osimhen could make Prem move",
+          "source": "talkSPORT",
+          "url": "https://talksport.com/football/4363975/premier-league-transfer-news-arsenal-liverpool-chelsea-manchester-united/page/40/"
+        }
+      ]
+    },
+    {
       "id": "조규성",
       "rank": 10,
       "keyword": "조규성",
       "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
+      "startedLabel": "6시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 '조규성 연봉 26억? 日 파격 제안 거절하기 힘들다…깜짝 J리그 입단설 \"주말에 최종 결정 나올 수도\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
