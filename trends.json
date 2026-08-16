@@ -1,73 +1,129 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-16T05:02:17.856Z",
+  "updatedAt": "2026-08-16T05:55:28.276Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "도비-도항",
+      "id": "손흥민",
       "rank": 1,
-      "keyword": "도비 도항",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "keyword": "손흥민",
+      "volumeLabel": "20000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘밤에 해루질하다 고립’ 충남서 어제만 3명 목숨 잃었다···최근 5년 실종·사망자 94명 달해' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '손흥민 MLS 4경기 연속골 마감…LAFC, 샌디에이고에 0대 1 패배' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘밤에 해루질하다 고립’ 충남서 어제만 3명 목숨 잃었다···최근 5년 실종·사망자 94명 달해",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608161043001"
-        },
-        {
-          "title": "충남서 잇따른 해루질 사고…하루 새 50대 남성 등 3명 숨져",
+          "title": "손흥민 MLS 4경기 연속골 마감…LAFC, 샌디에이고에 0대 1 패배",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260816130249594"
+          "url": "https://v.daum.net/v/zRTYMQhDUa"
         },
         {
-          "title": "태안 갯벌서 야간 해루질 50대 실종 10시간 만에 숨진 채 발견",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260815038300063"
+          "title": "‘손흥민 침묵’ LA FC, 샌디에이고에 막판 PK 헌납하며 0-1 분패",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/08/16/TU4K4O7HEBB7NPLJACB3SKIJ3Y/"
+        },
+        {
+          "title": "'아! 야속한 영점' 손흥민, 슈팅 4회 퍼붓고도 '5경기 연속골' 무산... LAFC, 샌디에이고에 0-1 석패 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/16/2026081611184729188"
         }
       ]
     },
     {
-      "id": "육군사관학교",
+      "id": "교수",
       "rank": 2,
-      "keyword": "육군사관학교",
+      "keyword": "교수",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[기고]광복 81주년, 통일도 되기 전에 80년 사관학교부터 허물 것인가?' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘캠브리지 최연소 흑인 교수’, 표절 논란 속 자택서 숨진 채 발견' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[기고]광복 81주년, 통일도 되기 전에 80년 사관학교부터 허물 것인가?",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11609740"
+          "title": "‘캠브리지 최연소 흑인 교수’, 표절 논란 속 자택서 숨진 채 발견",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260815224929189"
         },
         {
-          "title": "[단독]장교·생도 56% \"현 사관학교는 20위권 대학 수준\"…통합 명분 뒷받침",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6560047"
+          "title": "표절 논란 끝 비극…케임브리지 최연소 흑인 교수 사망",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260815050400082"
         },
         {
-          "title": "\"李 대통령, 진짜 원하는 건 '육사 폐교' … 합동성 명분 사관학교 통합은 비논리적\"",
-          "source": "뉴데일리",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/08/14/2026081400295.html"
+          "title": "케임브리지대 최연소 흑인 교수 사망…영국 총리 “반성의 시간” 촉구",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1273095.html"
+        }
+      ]
+    },
+    {
+      "id": "경고-사격",
+      "rank": 3,
+      "keyword": "경고 사격",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '軍, 동부전선서 北 MDL 침범에 올해 첫 경고사격' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "軍, 동부전선서 北 MDL 침범에 올해 첫 경고사격",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20260816/134483900/1"
+        },
+        {
+          "title": "軍, 동부전선 침범한 북한군에 경고사격",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816115852963"
+        },
+        {
+          "title": "[속보] 軍, 군사분계선 침범 북한군에 경고사격.. 올해 첫 사례",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260816.99099004160"
+        }
+      ]
+    },
+    {
+      "id": "지드래곤",
+      "rank": 4,
+      "keyword": "지드래곤",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '배정남 \"열심히 모은 1950년대 태극기\"…빛 바래고 찢긴 흔적도 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "배정남 \"열심히 모은 1950년대 태극기\"…빛 바래고 찢긴 흔적도 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/culture/2026/08/16/2026081608382598502"
+        },
+        {
+          "title": "\"손 들어라, 광복된 것처럼\"..지드래곤, 올해 광복절에도 여지없이 기념 행보",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/xM9mNN1yCK"
+        },
+        {
+          "title": "“손 들어라 광복된 것처럼”…지드래곤→박보검, 연예계도 광복절 한마음",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1678874/%E2%80%9C%EC%86%90-%EB%93%A4%EC%96%B4%EB%9D%BC-%EA%B4%91%EB%B3%B5%EB%90%9C-%EA%B2%83%EC%B2%98%EB%9F%BC%E2%80%9D%EC%A7%80%EB%93%9C%EB%9E%98%EA%B3%A4%EB%B0%95-2026"
         }
       ]
     },
     {
       "id": "김민경",
-      "rank": 3,
+      "rank": 5,
       "keyword": "김민경",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 ''서영이 엄마' 故김민경, 투병 중에도 불태운 연기 열정…오늘(16일) 5주기' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -89,97 +145,13 @@
       ]
     },
     {
-      "id": "계단",
-      "rank": 4,
-      "keyword": "계단",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '매일 6층 계단 올랐더니…80대 노인 '놀라운 변화' 나타났다 [이지현의 생생헬스]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "매일 6층 계단 올랐더니…80대 노인 '놀라운 변화' 나타났다 [이지현의 생생헬스]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608153179i"
-        },
-        {
-          "title": "운동 따로 할 필요 없어요… 집 가는 길 ‘이것’만 하면 심혈관 튼튼",
-          "source": "헬스조선",
-          "url": "https://health.chosun.com/site/data/html_dir/2026/08/14/2026081402603.html"
-        },
-        {
-          "title": "계단 자주 오르면 사망 위험 24% ↓…하루 6개 층이 최적? [바디플랜]",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/It/article/all/20260813/134470132/2"
-        }
-      ]
-    },
-    {
-      "id": "pga-투어",
-      "rank": 5,
-      "keyword": "pga 투어",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '임성재, PGA 투어 PO 1차전 3R 공동 2위…1위 셰플러와 두 타 차(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "임성재, PGA 투어 PO 1차전 3R 공동 2위…1위 셰플러와 두 타 차(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Z0OLU0Lx1U"
-        },
-        {
-          "title": "임성재, BMW 챔피언십 보인다…PGA 투어 PO 1차전 3라운드 공동 2위(종합)",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/golf/6260502"
-        },
-        {
-          "title": "세계 1위의 압도적 클래스…셰플러 하루에 9타 줄여 플레이오프 1차전 단독 선두",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/08/15/XHEGBYWSSNEHPHR3CLV4RDVO2U/"
-        }
-      ]
-    },
-    {
-      "id": "베트남-축구-국가대표팀",
-      "rank": 6,
-      "keyword": "베트남 축구 국가대표팀",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '말레이시아: 베트남 축구가 나락으로 떨어졌다가 찬란하게 빛을 발한 곳.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "말레이시아: 베트남 축구가 나락으로 떨어졌다가 찬란하게 빛을 발한 곳.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/malaysia-noi-bong-da-viet-nam-cham-day-roi-vut-sang-ruc-ro"
-        },
-        {
-          "title": "“비판은 스타의 숙명”… 타인 쭝, ‘아세안컵 부진’ 꽝하이 옹호",
-          "source": "씬짜오베트남",
-          "url": "https://chaovietnam.co.kr/168297/"
-        },
-        {
-          "title": "응우옌꽝하이, 2026 아세안컵에서 베트남 대표팀과 함께 새로운 이정표를 향해 나아가다",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/the-thao/nguyen-quang-hai-huong-toi-cot-moc-moi-cung-tuyen-viet-nam-tai-asean-cup-2026-1750947.ldo"
-        }
-      ]
-    },
-    {
       "id": "염정아",
-      "rank": 7,
+      "rank": 6,
       "keyword": "염정아",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '독일 출생·패션 셀럽 넘어…문가영, 백상 수상 터닝 포인트→염정아와 투톱 호흡 [TEN스타필드]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -201,13 +173,97 @@
       ]
     },
     {
-      "id": "최지-만",
-      "rank": 8,
-      "keyword": "최지 만",
+      "id": "더스틴-니퍼트",
+      "rank": 7,
+      "keyword": "더스틴 니퍼트",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''상황 돌변' LG 최초 역사 탄생 눈앞인데 '무섭다' 끝내 이 선수가 저지하나' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'상황 돌변' LG 최초 역사 탄생 눈앞인데 '무섭다' 끝내 이 선수가 저지하나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Y2yLq7NdS2"
+        },
+        {
+          "title": "‘불붙는 홈런왕 경쟁’ LG 오스틴 32호 아치, 김도영 맹추격",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8637080"
+        },
+        {
+          "title": "김도영 이름 세 글자에 “오늘도 그는 홈런 쳤는가?”라고 물어보는 오스틴, “LG 최초 홈런왕, MVP?” 질문엔 “Next question!” [남정훈의 비욘드 더 그라운드]",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260814511105"
+        }
+      ]
+    },
+    {
+      "id": "재정",
+      "rank": 8,
+      "keyword": "재정",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘민생지원금’만 3조3천억…추미애 “경기, 빚 증가속도 전국의 3배, 이대로면 부도”' (www.dt.co.kr) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘민생지원금’만 3조3천억…추미애 “경기, 빚 증가속도 전국의 3배, 이대로면 부도”",
+          "source": "www.dt.co.kr",
+          "url": "https://www.dt.co.kr/article/12078311"
+        },
+        {
+          "title": "'곳간 비었다' 추미애, 재정분권 승부수…정부·지자체 설득 관건",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816115249917"
+        },
+        {
+          "title": "\"이대로면 부도\" 외친 추미애 … 이준석 \"이재명 이름 없이 경기도 빚 설명되나\"",
+          "source": "뉴데일리",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/08/15/2026081500020.html"
+        }
+      ]
+    },
+    {
+      "id": "대령",
+      "rank": 9,
+      "keyword": "대령",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '부하 여군 성폭행하려다 다치게 한 공군 대령…징역 5년 확정' (JTBC) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "부하 여군 성폭행하려다 다치게 한 공군 대령…징역 5년 확정",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12313201"
+        },
+        {
+          "title": "대법, 여장교 성폭행 시도한 공군 대령 징역 5년 확정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/57irj2wa5z"
+        },
+        {
+          "title": "檢보완수사로 구속된 '강간치상' 공군 17전비 전대장, 징역 5년 확정",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1677698/%E6%AA%A2%EB%B3%B4%EC%99%84%EC%88%98%EC%82%AC%EB%A1%9C-%EA%B5%AC%EC%86%8D%EB%90%9C-%EA%B0%95%EA%B0%84%EC%B9%98%EC%83%81-%EA%B3%B5%EA%B5%B0-1-2026"
+        }
+      ]
+    },
+    {
+      "id": "최지-만",
+      "rank": 10,
+      "keyword": "최지 만",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '드디어 韓 무대 첫 홈런 터졌다…‘ML 67홈런’ 35세 최지만, 진짜 드래프트 1라운드 지명 받을까' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -217,70 +273,14 @@
           "url": "https://v.daum.net/v/B80Ml5e4yS"
         },
         {
-          "title": "'하이리스크 하이리턴 최지만' 드래프트 앞둔 10개팀 고뇌의 셈법",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260816n05003"
-        },
-        {
           "title": "2027 KBO 드래프트 판도…‘열쇠’ 쥔 두산의 선택은?",
           "source": "일요신문",
           "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=512296"
-        }
-      ]
-    },
-    {
-      "id": "lafc-vs-san-diego",
-      "rank": 9,
-      "keyword": "lafc vs san diego",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Match Preview LAFC: Los Angeles look for first win over SoCal rivals' (Angels on Parade) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Match Preview LAFC: Los Angeles look for first win over SoCal rivals",
-          "source": "Angels on Parade",
-          "url": "https://angelsonparade.com/lafc-san-diego-fc-match-preview-mls-match-week-20-2026/"
         },
         {
-          "title": "Los Angeles FC vs San Diego FC: TV channel, live stream & kick-off time | MLS 2026 | Goal.com US",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en-us/news/watch-los-angeles-fc-v-san-diego-fc-live-stream-online-tv-channel/blt0cf2ab845c8680e3"
-        },
-        {
-          "title": "Alvarado 'embodies relentless never-say-die attitude', says Varas",
-          "source": "beIN SPORTS",
-          "url": "https://www.beinsports.com/en-us/soccer/mls/articles/alvarado-embodies-relentless-never-say-die-attitude-says-varas-2026-08-15"
-        }
-      ]
-    },
-    {
-      "id": "이선민",
-      "rank": 10,
-      "keyword": "이선민",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''확신의 기혼상' 이선민, 확실한 '대세' 되기까지' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'확신의 기혼상' 이선민, 확실한 '대세' 되기까지",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Kw8FU8Oc7l"
-        },
-        {
-          "title": "“택배 상하차·대리운전하며 버텼다”…10년 만에 수입 10배 된 이선민",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20260813/134471389/1"
-        },
-        {
-          "title": "유재석 만난 이선민 대세 인증, 웃음 향한 진심으로 묵묵히 버틴 시간",
-          "source": "뉴스엔",
-          "url": "https://m.newsen.com/news_view.php?uid=202608131715550310"
+          "title": "'하이리스크 하이리턴 최지만' 드래프트 앞둔 10개팀 고뇌의 셈법",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260816n05003"
         }
       ]
     }
