@@ -1,17 +1,57 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-16T08:38:38.489Z",
+  "updatedAt": "2026-08-16T09:34:29.195Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "크리스티아누-호날두",
+      "id": "치지직",
       "rank": 1,
-      "keyword": "크리스티아누 호날두",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
+      "keyword": "치지직",
+      "volumeLabel": "10000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "fc-서울-대-대전",
+      "rank": 2,
+      "keyword": "fc 서울 대 대전",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '주민규의 빛바랜 원더골…송민규의 집념의 멀티골' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "주민규의 빛바랜 원더골…송민규의 집념의 멀티골",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/2JoMcN1yZR"
+        },
+        {
+          "title": "[스타in상암] 서울 승리 이끈 '캡틴' 김진수의 왼발 크로스 2차례...자책골은 옥의 티",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260816000089"
+        },
+        {
+          "title": "'역전패' 대전 황선홍 감독 \"전적으로 내 실수…전술 패착\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260815_0003750771"
+        }
+      ]
+    },
+    {
+      "id": "크리스티아누-호날두",
+      "rank": 3,
+      "keyword": "크리스티아누 호날두",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 ''이혼 시, 매달 1억 6,320만 지급' 호날두, 결혼 전 계약서 화제...'95억 상당' 초호화 저택 역시 조지나 명의 주장…' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -26,20 +66,20 @@
           "url": "https://sports.news.nate.com/view/20260816n04959"
         },
         {
-          "title": "호날두 결혼식?…2천 명 몰린 마데이라 성당 발칵 [잇슈 SNS]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8633559"
+          "title": "“헤어져도 1조7022억원 재산 안 나눈다”…호날두·조지나가 택한 ‘재산분리’",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/world/12129115"
         }
       ]
     },
     {
       "id": "남보라",
-      "rank": 2,
+      "rank": 4,
       "keyword": "남보라",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '“벌써 완성형 이목구비” 남보라, 똑 닮은 아들 품에 안고 훈훈한 근황 공개' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -61,210 +101,142 @@
       ]
     },
     {
-      "id": "elle",
-      "rank": 3,
-      "keyword": "elle",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Aretha Franklin : avant d’être la « Queen of Soul », elle chantait déjà…' (Jazz Radio) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Aretha Franklin : avant d’être la « Queen of Soul », elle chantait déjà aux côtés de Martin Luther King",
-          "source": "Jazz Radio",
-          "url": "https://www.jazzradio.fr/news/musique/43128/aretha-franklin-avant-d-etre-la-queen-of-soul-elle-chantait-deja-aux-cotes-de-martin-luther-king"
-        },
-        {
-          "title": "Roxane Depardieu brise le silence : victime de viols dans son enfance, elle répond à ceux qui lui reprochent de défendre son père",
-          "source": "Closer",
-          "url": "https://www.closermag.fr/people/roxane-depardieu-brise-le-silence-victime-de-viols-dans-son-enfance-elle-repond-a-ceux-qui-lui-reprochent-de-defendre-son-pere-3653081"
-        },
-        {
-          "title": "Roxane Depardieu accusée de soutenir un agresseur : elle révèle avoir été violée à 6 ans",
-          "source": "Le Tribunal du Net",
-          "url": "https://www.letribunaldunet.fr/people/roxane-depardieu-victime-viols-enfance-defend-pere.html"
-        }
-      ]
-    },
-    {
-      "id": "파리-생제르맹-fc",
-      "rank": 4,
-      "keyword": "파리 생제르맹 fc",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''월드컵 영웅' 토레스, 820억원에 PSG행…엔리케 감독과 재회' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'월드컵 영웅' 토레스, 820억원에 PSG행…엔리케 감독과 재회",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260816014700007"
-        },
-        {
-          "title": "\"루이스 엔리케는 축구계 아버지\"...페란 토레스, PSG 입단하자마자 진한 고백 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/football/2026/08/16/MU4GIYZXGRRTKZBZMZSDANJTGQ/"
-        },
-        {
-          "title": "[오피셜] 이강인 보낸 PSG, '북중미 월드컵 결승전 결승골' 페란 토레스 영입…공격진 개편",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/yrETuiYCs5"
-        }
-      ]
-    },
-    {
-      "id": "이희진",
+      "id": "정규직",
       "rank": 5,
-      "keyword": "이희진",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 '\"오늘 밤 강릉 갈래요?\"…55세 돌싱 임원희, 8살 연하 이희진에 직진 '플러팅' [미우새]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"오늘 밤 강릉 갈래요?\"…55세 돌싱 임원희, 8살 연하 이희진에 직진 '플러팅' [미우새]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260816165750509"
-        },
-        {
-          "title": "미운 우리 새끼 : [선공개] “저도 흉내 내봤습니다” 임원희, 이희진에게 ‘고추반지 플러팅’ 성공♥ (ft. 이구동성)",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC481097497"
-        },
-        {
-          "title": "임원희, 베복 이희진과 사적 술자리…\"그날 많이 취했었다\" 적극 플러팅 (미우새) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/08/16/MZRWCOJRMJSDAZBYG4YWINDDMY/"
-        }
-      ]
-    },
-    {
-      "id": "매일경제",
-      "rank": 6,
-      "keyword": "매일경제",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '“한국 대기업 총수, 정권에 동원” 日 신문 인용 매일경제 기사 삭제' (미디어오늘) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“한국 대기업 총수, 정권에 동원” 日 신문 인용 매일경제 기사 삭제",
-          "source": "미디어오늘",
-          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336417"
-        },
-        {
-          "title": "[이슈&논란] 日 닛케이 \"이재용·최태원, 李정권 들러리로 동원\"…외신의 눈에 비친 한국 재벌·정권의 공생 구조",
-          "source": "뉴스스페이스",
-          "url": "https://www.newsspace.kr/news/article.html?no=15209"
-        },
-        {
-          "title": "일본 닛케이 ‘이재명 정권이 총수 동원’…실익 좇은 이재용 삼성전자 회장의 계산은 빠졌다",
-          "source": "뉴스필드",
-          "url": "https://newsfield.net/%EC%9D%BC%EB%B3%B8-%EB%8B%9B%EC%BC%80%EC%9D%B4-%EC%9D%B4%EC%9E%AC%EB%AA%85-%EC%A0%95%EA%B6%8C%EC%9D%B4-%EC%B4%9D%EC%88%98-%EB%8F%99%EC%9B%90%EC%8B%A4%EC%9D%B5-%EC%A2%87%EC%9D%80-%EC%9D%B4/"
-        }
-      ]
-    },
-    {
-      "id": "땅집고",
-      "rank": 7,
-      "keyword": "땅집고",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-4",
-      "summary": "급상승 시점에 '\"5년 기다렸더니 빚더미\" 분양가 3억 폭등, 성남 '신희타' 울분' (땅집고) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"5년 기다렸더니 빚더미\" 분양가 3억 폭등, 성남 '신희타' 울분",
-          "source": "땅집고",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/08/14/2026081401849.html"
-        },
-        {
-          "title": "'5억이면 된다더니 8억'…5년 기다린 신혼부부 '날벼락'",
-          "source": "SBS Biz",
-          "url": "https://biz.sbs.co.kr/article/20000328134"
-        },
-        {
-          "title": "성남복정2 A1블록 신혼희망타운 청약 (’26. 9/7~8)",
-          "source": "홈두부",
-          "url": "https://homedubu.com/11587/"
-        }
-      ]
-    },
-    {
-      "id": "경유",
-      "rank": 8,
-      "keyword": "경유",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '\"경유, 휘발유보다 20% 비싸게 하면 환경비용 4조원 절감\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"경유, 휘발유보다 20% 비싸게 하면 환경비용 4조원 절감\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260816060850935?f=p"
-        },
-        {
-          "title": "“경유 가격 휘발유보다 높여야”… 환경비용 감축 제안",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3425565"
-        },
-        {
-          "title": "‘경유가 휘발유보다 20% 비싸야’…국책연구기관의 제안",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1678936/%E2%80%98%EA%B2%BD%EC%9C%A0-%ED%9C%98%EB%B0%9C%EC%9C%A0-20-%EB%B9%84%EC%8B%B8%EC%95%BC%E2%80%99%EA%B5%AD%EC%B1%85%EC%97%B0%EA%B5%AC%EA%B8%B0-2026"
-        }
-      ]
-    },
-    {
-      "id": "죠스",
-      "rank": 9,
-      "keyword": "죠스",
+      "keyword": "정규직",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "테슬라-로드스터",
-      "rank": 10,
-      "keyword": "테슬라 로드스터",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '“테슬라 ‘하늘 나는 차’ 곧 공개”…이번엔 진짜? [이런뉴스]' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '한번 찍히면 아웃, 초과수당도 안 줘···직장인 80% “기간제와 정규직 차별 있다”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“테슬라 ‘하늘 나는 차’ 곧 공개”…이번엔 진짜? [이런뉴스]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8638219"
+          "title": "한번 찍히면 아웃, 초과수당도 안 줘···직장인 80% “기간제와 정규직 차별 있다”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608161200011"
         },
         {
-          "title": "테슬라, 9년 만에 로드스터 공중부양 시연…일반 도로 주행 불가",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/08/16/MW5STTPEDBHKJBXSEX2O72REAM/"
+          "title": "\"평생 계약직 할 거냐\" 폭언…직장인 10명 중 8명 \"기간제 차별 존재\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816170650642"
         },
         {
-          "title": "7000만원 냈는데 9년째 못 받았다…조롱 당한 '테슬라 신차'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026081636647"
+          "title": "\"기간제와 정규직 대우 달라\"…직장인 10명 중 8명 \"차별 존재\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/08/16/2026081613164750572"
+        }
+      ]
+    },
+    {
+      "id": "국제선",
+      "rank": 6,
+      "keyword": "국제선",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '항공 유류할증료는 두 달째 내리막인데… 연안여객선은 다섯 달째 '최고 단계'' (녹색경제신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "항공 유류할증료는 두 달째 내리막인데… 연안여객선은 다섯 달째 '최고 단계'",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=347780"
+        },
+        {
+          "title": "9월 유류할증료 오른다…국내 항공사, 하반기 수요확보 경쟁",
+          "source": "www.ebn.co.kr",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1720561"
+        },
+        {
+          "title": "아이바다패스 타 시도 지원 중단… 여름 성수기 섬 관광업체 날벼락",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1768931"
+        }
+      ]
+    },
+    {
+      "id": "항공사",
+      "rank": 7,
+      "keyword": "항공사",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '대한항공·아시아나 통합 후 노선·마일리지 어떻게?' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "대한항공·아시아나 통합 후 노선·마일리지 어떻게?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816093601079"
+        },
+        {
+          "title": "통합 대한항공, 중복 노선 재편… 신규 취항·증편 확대",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3425529"
+        },
+        {
+          "title": "조원태號 'ONE 대한항공' 출범 박차…12월 17일 '메가 캐리어'로 비상",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260812_0003746426"
+        }
+      ]
+    },
+    {
+      "id": "이상호",
+      "rank": 8,
+      "keyword": "이상호",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“둘에서 셋으로” 이상호♥김자연, 임신 발표…심진화·김영희 등 축하 물결' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“둘에서 셋으로” 이상호♥김자연, 임신 발표…심진화·김영희 등 축하 물결",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608161412013"
+        },
+        {
+          "title": "이상호♥김자연, 부모 된다 \"결혼 3년 만에 아기가 찾아와\"",
+          "source": "MBC",
+          "url": "https://m.imbc.com/enews/view/514912"
+        },
+        {
+          "title": "[공식]'개콘' 이상호, 결혼 3년만 아빠 된다 \"이제 둘에서 셋으로\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816132251867"
+        }
+      ]
+    },
+    {
+      "id": "qqqi",
+      "rank": 9,
+      "keyword": "qqqi",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '3 ‘Strong Buy’ ETFs That Pay Massive Monthly Dividends' (TipRanks) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "3 ‘Strong Buy’ ETFs That Pay Massive Monthly Dividends",
+          "source": "TipRanks",
+          "url": "https://www.tipranks.com/news/article/3-strong-buy-etfs-that-pay-massive-monthly-dividends"
+        },
+        {
+          "title": "You Finally Saved $1 Million. The 4% Rule Says Live on $40,000. These 4 ETFs Say You Can Do Better",
+          "source": "24/7 Wall St.",
+          "url": "https://247wallst.com/investing/etf/2026/08/14/you-finally-saved-1-million-the-4-rule-says-live-on-40000-these-4-etfs-say-you-can-do-better/"
+        },
+        {
+          "title": "JEPI Remains A Hold As The Opportunity Cost Keeps Piling Up (NYSEARCA:JEPI)",
+          "source": "Seeking Alpha",
+          "url": "https://seekingalpha.com/article/4933981-jepi-remains-a-hold-as-the-opportunity-cost-keeps-piling-up"
         }
       ]
     }
