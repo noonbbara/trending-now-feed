@@ -1,17 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-16T22:52:48.422Z",
+  "updatedAt": "2026-08-16T23:27:17.665Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
       "id": "제니",
       "rank": 1,
       "keyword": "제니",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 ''슬림 탄탄' 제니…플라잉요가와 필라테스로 관리' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -37,26 +37,26 @@
       "rank": 2,
       "keyword": "대체공휴일",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '극한 가뭄 시달리던 남부, 극한 폭포비…날씨에 중간이 없다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '가뭄겪던 남부 오늘까지 250mm 폭우… 산사태 ‘주의’로 격상' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "극한 가뭄 시달리던 남부, 극한 폭포비…날씨에 중간이 없다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817060209093"
-        },
-        {
-          "title": "하루 만에 260mm, 올여름 강수량 넘어…비 피해 속출",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8638363"
-        },
         {
           "title": "가뭄겪던 남부 오늘까지 250mm 폭우… 산사태 ‘주의’로 격상",
           "source": "동아일보",
           "url": "https://www.donga.com/news/Society/article/all/20260817/134486592/2"
+        },
+        {
+          "title": "[출근길 날씨] 경남 해안가 극한호우…최대 250mm 폭우 ‘비상’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817080517957"
+        },
+        {
+          "title": "반가운 것도 잠시…‘또 나야’ 비 온 뒤, 다시 무더워진다",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12313609"
         }
       ]
     },
@@ -65,9 +65,9 @@
       "rank": 3,
       "keyword": "이동국",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '\"홍명보 떠오른다\" 박문성 소신 발언…이동국 포옛호 합류 소식에 우려→\"중간 없이 높은 곳으로 점프 아닌가?\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -93,21 +93,21 @@
       "rank": 4,
       "keyword": "김승수",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김승수, 대상포진으로 실명 위기 \"포크로 긁는 듯한 고통\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '김승수, 얼굴 전체 수포 뒤덮은 대상포진에 '시력 상실'할 뻔...“포크를 얼굴에 꽂아 긁는 느낌” ('미우새')' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "김승수, 얼굴 전체 수포 뒤덮은 대상포진에 '시력 상실'할 뻔...“포크를 얼굴에 꽂아 긁는 느낌” ('미우새')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817073538575"
+        },
         {
           "title": "김승수, 대상포진으로 실명 위기 \"포크로 긁는 듯한 고통\" - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/entertainment/2026/08/17/2026081703425474551"
-        },
-        {
-          "title": "김승수, 얼굴 전체 수포 뒤덮은 대상포진에 '시력 상실'할 뻔...“포크를 얼굴에 꽂아 긁는 느낌” ('미우새') - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/17/GA2WCZBTG44GGZTBMYZTAMLEMM/"
         },
         {
           "title": "‘건미남’ 김형묵, 김승수 위해 영양과 정성 가득 담아 차린 건강 수라상★",
@@ -117,16 +117,77 @@
       ]
     },
     {
-      "id": "thời-tiết",
+      "id": "погода",
       "rank": 5,
-      "keyword": "thời tiết",
+      "keyword": "погода",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Bắc Bộ và Bắc Trung Bộ sắp đón đợt mưa lớn trong tuấn tới' (Báo Nông nghiệp và Môi trường) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Погода в Беларуси 17 августа: кратковременные дожди, местами – грозы и …' (Gismeteo) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "Погода в Беларуси 17 августа: кратковременные дожди, местами – грозы и туман",
+          "source": "Gismeteo",
+          "url": "https://www.gismeteo.by/news/klimat/pogoda-v-belarusi-17-avgusta-kratkovremennye-dozhdi-mestami-grozy-i-tuman/"
+        },
+        {
+          "title": "Лето с дыханием ранней осени. Какая погода будет на новой рабочей неделе",
+          "source": "officelife.by",
+          "url": "https://officelife.by/news/74167-utrom-svezho-dnem-zharko-kakaya-pogoda-budet-na-novoy-rabochey-nedele/"
+        },
+        {
+          "title": "Какие сюрпризы подготовила погода для белорусов сегодня, рассказали синоптики",
+          "source": "Новости Беларуси | БелТА",
+          "url": "https://belta.by/society/view/kakie-sjurprizy-podgotovila-pogoda-dlja-belorusov-segodnja-rasskazali-sinoptiki-796299-2026/"
+        }
+      ]
+    },
+    {
+      "id": "스포츠경향",
+      "rank": 6,
+      "keyword": "스포츠경향",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+2",
+      "summary": "급상승 시점에 '“막내 이찬원도 쏘는데” 전현무, 60억 대 아파트 살면서 4년째 회식비 ‘0원’ 폭로(사당귀)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“막내 이찬원도 쏘는데” 전현무, 60억 대 아파트 살면서 4년째 회식비 ‘0원’ 폭로(사당귀)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/81Q4HxlwUZ"
+        },
+        {
+          "title": "전현무, '회식비 낸 적 없다' 폭로에 당황…\"아껴서 여친 화장품 사\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260816_0003751137"
+        },
+        {
+          "title": "‘역사 스토리텔러’ 썬킴 “지금 내가 사는 아파트가 전현무 본가”(‘사당귀’)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/15/G44WKM3FGBSTGZLGMEZGMZJQHE/"
+        }
+      ]
+    },
+    {
+      "id": "thời-tiết",
+      "rank": 7,
+      "keyword": "thời tiết",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 'Cảnh báo mưa lớn diện rộng tại Bắc Bộ và Trung Bộ từ ngày 17/08/2026 có…' (Báo Lâm Đồng) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Cảnh báo mưa lớn diện rộng tại Bắc Bộ và Trung Bộ từ ngày 17/08/2026 có nơi trên 450mm",
+          "source": "Báo Lâm Đồng",
+          "url": "https://baolamdong.vn/canh-bao-mua-lon-dien-rong-tai-bac-bo-va-trung-bo-tu-ngay-17082026-co-noi-tren-450mm-459845.html"
+        },
         {
           "title": "Bắc Bộ và Bắc Trung Bộ sắp đón đợt mưa lớn trong tuấn tới",
           "source": "Báo Nông nghiệp và Môi trường",
@@ -136,151 +197,90 @@
           "title": "Dự báo thời tiết ngày 17.8: Hà Nội ngày nắng nóng",
           "source": "Laodong.vn",
           "url": "https://laodong.vn/du-lich/cong-dong/du-bao-thoi-tiet-ngay-178-ha-noi-ngay-nang-nong-1750590.html"
-        },
-        {
-          "title": "Chủ tịch UBND tỉnh Thái Nguyên yêu cầu theo dõi chặt chẽ diễn biến thời tiết, chủ động ứng phó mưa lớn",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/chu-tich-ubnd-tinh-thai-nguyen-yeu-cau-theo-doi-chat-che-dien-bien-thoi-tiet-chu-dong-ung-pho-mua-lon"
         }
       ]
     },
     {
       "id": "สภาพอากาศ",
-      "rank": 6,
+      "rank": 8,
       "keyword": "สภาพอากาศ",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'สภาพอากาศวันนี้ -22 ส.ค.เหนือ อีสานฝนเพิ่ม กทม.ฝนฟ้าคะนอง 40 - 60 %' (thansettakij) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 '\"เหนือ-อีสาน-ตะวันออก\" ยังมีฝนตกหนัก ระวังน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก' (เดลินิวส์) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "สภาพอากาศวันนี้ -22 ส.ค.เหนือ อีสานฝนเพิ่ม กทม.ฝนฟ้าคะนอง 40 - 60 %",
-          "source": "thansettakij",
-          "url": "https://www.thansettakij.com/general-news/666600"
+          "title": "\"เหนือ-อีสาน-ตะวันออก\" ยังมีฝนตกหนัก ระวังน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
+          "source": "เดลินิวส์",
+          "url": "https://www.dailynews.co.th/news/6112991/"
+        },
+        {
+          "title": "จับตา! ร่องมรสุมเลื่อนลงต่ำ เช็กปริมาณน้ำ 4 เขื่อนหลักเจ้าพระยา",
+          "source": "bangkokbiznews",
+          "url": "https://www.bangkokbiznews.com/news/news-update/1247664"
         },
         {
           "title": "ปภ. เฝ้าระวังน้ำป่า 18-21 ส.ค. สั่งคุมเข้มน้ำตก-ถ้ำ 24 ชั่วโมง",
           "source": "TNN Thailand",
           "url": "https://www.tnnthailand.com/tnnexclusive/244153/"
-        },
-        {
-          "title": "กรมอุตุฯ ประกาศเตือนฉบับที่ 3 ประเทศไทยตอนบน มีฝนตกหนักถึงหนักมาก 18-21 สิงหาคมนี้",
-          "source": "Ch7.com",
-          "url": "https://news.ch7.com/detail/891457"
         }
       ]
     },
     {
-      "id": "수영강",
-      "rank": 7,
-      "keyword": "수영강",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '부산 강서 시간당 100.5㎜…곳곳 통제' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "부산 강서 시간당 100.5㎜…곳곳 통제",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8638393"
-        },
-        {
-          "title": "부울경 '호우특보'‥오전까지 집중호우",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6845190_37012.html"
-        },
-        {
-          "title": "오늘의 날씨- 2026년 8월 17일",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260817.22015004362"
-        }
-      ]
-    },
-    {
-      "id": "스포츠경향",
-      "rank": 8,
-      "keyword": "스포츠경향",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '꼴찌하던 말들이 하루 만에 4승…누군가는 ‘미리 알고’ 거액을 걸었다' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "꼴찌하던 말들이 하루 만에 4승…누군가는 ‘미리 알고’ 거액을 걸었다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/QgVqk0LxF5"
-        },
-        {
-          "title": "'슬림 탄탄' 제니…플라잉요가와 필라테스로 관리",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260816_0003751047"
-        },
-        {
-          "title": "블핑 제니, 노출 사고? 'AI 조작 영상' 의혹…법적 처벌 가능성도",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817074211681"
-        }
-      ]
-    },
-    {
-      "id": "맨체스터-유나이티드-fc",
+      "id": "박은혜",
       "rank": 9,
-      "keyword": "맨체스터 유나이티드 fc",
+      "keyword": "박은혜",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"바이에른 뮌헨 떠날 생각 없다\" 김민재, 스스로 못 박았는데...또 못살게 구네! \"애스턴 빌라가 원한다\"이적설 재점화' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''전남편과 해외 여행' 박은혜, 子 여친 언급에 섭섭 \"다 컸네\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"바이에른 뮌헨 떠날 생각 없다\" 김민재, 스스로 못 박았는데...또 못살게 구네! \"애스턴 빌라가 원한다\"이적설 재점화",
+          "title": "'전남편과 해외 여행' 박은혜, 子 여친 언급에 섭섭 \"다 컸네\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/3wHKHKEoyx"
+          "url": "https://v.daum.net/v/94lqqAFYvj"
         },
         {
-          "title": "“사실이다” 김민재, 맨체스터 유나이티드, 獨 언론인 인정 “이적설의 일부는 진실 단, 본인은 잔류 원해”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608150120003"
+          "title": "“전남편과 해외여행” 박은혜, 치매 걱정하더니…두 아들과 되찾은 ‘여유’",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1628899"
         },
         {
-          "title": "'김민재는 뮌헨을 사랑해'…매과이어 후계자 원하는 맨유 관심에도 잔류 선언! PL 이적 가능성 없다",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260815n11184"
+          "title": "박은혜, 전남편과 유학간 쌍둥이 子 여친 언급에 서운 “뭔가 허전해”",
+          "source": "뉴스엔",
+          "url": "https://m.newsen.com/news_view.php?uid=202608131229186110"
         }
       ]
     },
     {
-      "id": "혼인",
+      "id": "김종국",
       "rank": 10,
-      "keyword": "혼인",
-      "volumeLabel": "200+",
+      "keyword": "김종국",
+      "volumeLabel": "100+",
       "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '[영상] 요즘 젊은 남녀들 “결혼이요? 안 해요”…1980년 통계 작성 이래 최저 찍은 中' (서울경제) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김종국, '축구협회장 출마선언' 일 커졌다..뮌헨 김민재도 \"하셔야죠\" 공개지지(런닝맨)[순간포착]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[영상] 요즘 젊은 남녀들 “결혼이요? 안 해요”…1980년 통계 작성 이래 최저 찍은 中",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20079938"
-        },
-        {
-          "title": "결혼 장려에 도움?…중국 은행에 '출장 혼인 신고소' 등장",
+          "title": "김종국, '축구협회장 출마선언' 일 커졌다..뮌헨 김민재도 \"하셔야죠\" 공개지지(런닝맨)[순간포착]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/KrfGUOB35G"
+          "url": "https://v.daum.net/v/20260816190707202"
         },
         {
-          "title": "\"결혼 안 해요\"…중국 혼인신고 7.5%↓, 인구 감소 우려 커져",
+          "title": "김종국, 축구협회장 출마설에 \"김민재도 '하셔야죠?' 묻더라\"",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260814_0003748841"
+          "url": "https://www.newsis.com/view/NISX20260816_0003751145"
+        },
+        {
+          "title": "“김민재도 할 거냐고” 김종국 ‘축구 협회장’ 출마설 현실 되나 (‘런닝맨’) - 스타투데이",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12129139"
         }
       ]
     }
