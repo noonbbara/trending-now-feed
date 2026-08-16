@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-16T06:52:38.689Z",
+  "updatedAt": "2026-08-16T07:37:27.267Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,16 +9,16 @@
       "rank": 1,
       "keyword": "손흥민",
       "volumeLabel": "20000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "steady",
       "changeLabel": "유지",
-      "summary": "급상승 시점에 '손흥민 MLS 4경기 연속골 마감…LAFC, 샌디에이고에 0-1 패배' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '손흥민 MLS 4경기 연속골 마감…LAFC, 샌디에이고에 0대 1 패배' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "손흥민 MLS 4경기 연속골 마감…LAFC, 샌디에이고에 0-1 패배",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8638212"
+          "title": "손흥민 MLS 4경기 연속골 마감…LAFC, 샌디에이고에 0대 1 패배",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/zRTYMQhDUa"
         },
         {
           "title": "'5경기 연속골 실패' 손흥민, 슈팅 4개→결정적 찬스 3번 모두 날린 무득점...LA FC, 샌디에이고에 0-1 패 '3위 추락'[MLS 리뷰]",
@@ -26,160 +26,104 @@
           "url": "https://www.chosun.com/sports/world-football/2026/08/16/MMYDCNRRHAYWKOJUGVRGCYZUGM/"
         },
         {
-          "title": "손흥민, 4경기 만에 득점 도전…샌디에이고전 선발 출격",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260816105451097"
-        }
-      ]
-    },
-    {
-      "id": "교수",
-      "rank": 2,
-      "keyword": "교수",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '표절 논란 끝 비극…케임브리지 최연소 흑인 교수 사망' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "표절 논란 끝 비극…케임브리지 최연소 흑인 교수 사망",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260815050400082"
-        },
-        {
-          "title": "'표절 의혹 사임' 英 케임브리지 최연소 흑인 교수 사망",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260816151551349"
-        },
-        {
-          "title": "케임브리지대 최연소 흑인 교수 사망…영국 총리 “반성의 시간” 촉구",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1273095.html"
-        }
-      ]
-    },
-    {
-      "id": "경고-사격",
-      "rank": 3,
-      "keyword": "경고 사격",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '軍, 북한군 MDL 침범에 올해 첫 경고사격…北 ‘남부 국경선화’ 속도' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "軍, 북한군 MDL 침범에 올해 첫 경고사격…北 ‘남부 국경선화’ 속도",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260816145952127"
-        },
-        {
-          "title": "[속보] 軍, 군사분계선 침범 북한군에 경고사격.. 올해 첫 사례",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260816.99099004160"
-        },
-        {
-          "title": "군, 동부전선 MDL 침범 북한군에 경고사격…올해 들어 처음",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8638175"
-        }
-      ]
-    },
-    {
-      "id": "지드래곤",
-      "rank": 4,
-      "keyword": "지드래곤",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '배정남 \"열심히 모은 1950년대 태극기\"…빛 바래고 찢긴 흔적도 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "배정남 \"열심히 모은 1950년대 태극기\"…빛 바래고 찢긴 흔적도 - 머니투데이",
+          "title": "'손흥민 90분 침묵' LAFC, '퇴장' 샌디에이고에 0-1 패배...경기 막판 PK에 울었다 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/culture/2026/08/16/2026081608382598502"
-        },
-        {
-          "title": "\"손 들어라, 광복된 것처럼\"..지드래곤, 올해 광복절에도 여지없이 기념 행보",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/xM9mNN1yCK"
-        },
-        {
-          "title": "“손 들어라 광복된 것처럼”…지드래곤→박보검, 연예계도 광복절 한마음",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1678874/%E2%80%9C%EC%86%90-%EB%93%A4%EC%96%B4%EB%9D%BC-%EA%B4%91%EB%B3%B5%EB%90%9C-%EA%B2%83%EC%B2%98%EB%9F%BC%E2%80%9D%EC%A7%80%EB%93%9C%EB%9E%98%EA%B3%A4%EB%B0%95-2026"
+          "url": "https://www.mt.co.kr/sports/2026/08/16/202608161329777374O"
         }
       ]
     },
     {
-      "id": "김민경",
-      "rank": 5,
-      "keyword": "김민경",
+      "id": "이희진",
+      "rank": 2,
+      "keyword": "이희진",
       "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 ''서영이 엄마' 故김민경, 투병 중에도 불태운 연기 열정…오늘(16일) 5주기' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'서영이 엄마' 故김민경, 투병 중에도 불태운 연기 열정…오늘(16일) 5주기",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260816060151793?f=p"
-        },
-        {
-          "title": "故 김민경, 오늘(16일) 5주기…별이 된 '타짜' 고니 엄마",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260816n01107"
-        },
-        {
-          "title": "故 김민경, 암 투병 중에도 놓지 않은 빛나는 연기 열정…사망 5주기 [RE:멤버]",
-          "source": "TV리포트",
-          "url": "https://tvreport.co.kr/uncategorized/article/1069008/"
-        }
-      ]
-    },
-    {
-      "id": "경유",
-      "rank": 6,
-      "keyword": "경유",
-      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“경유, 휘발유보다 20% 높이면…환경비용 4조원 줄어든다”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '임원희, '핑크빛' 베복 이희진에 강릉여행 제안 \"여자는 네가 처음\" ('미우새')' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“경유, 휘발유보다 20% 높이면…환경비용 4조원 줄어든다”",
+          "title": "임원희, '핑크빛' 베복 이희진에 강릉여행 제안 \"여자는 네가 처음\" ('미우새')",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260816124009356"
+          "url": "https://v.daum.net/v/20260816083307219"
         },
         {
-          "title": "‘경유가 휘발유보다 20% 비싸야’…국책연구기관의 제안",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1678936/%E2%80%98%EA%B2%BD%EC%9C%A0-%ED%9C%98%EB%B0%9C%EC%9C%A0-20-%EB%B9%84%EC%8B%B8%EC%95%BC%E2%80%99%EA%B5%AD%EC%B1%85%EC%97%B0%EA%B5%AC%EA%B8%B0-2026"
+          "title": "미운 우리 새끼 : [선공개] “저도 흉내 내봤습니다” 임원희, 이희진에게 ‘고추반지 플러팅’ 성공♥ (ft. 이구동성)",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC481097497"
         },
         {
-          "title": "\"경유, 휘발유보다 20% 비싸게 하면 환경비용 4조원 절감\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260814107400530"
+          "title": "'미우새' 임원희, 이희진에 깜짝 강릉 여행 제안? 핑크빛 기류",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6260554"
+        }
+      ]
+    },
+    {
+      "id": "땅집고",
+      "rank": 3,
+      "keyword": "땅집고",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"5년 기다렸더니 빚더미\" 분양가 3억 폭등, 성남 '신희타' 울분' (땅집고) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"5년 기다렸더니 빚더미\" 분양가 3억 폭등, 성남 '신희타' 울분",
+          "source": "땅집고",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/08/14/2026081401849.html"
+        },
+        {
+          "title": "'5억이면 된다더니 8억'…5년 기다린 신혼부부 '날벼락'",
+          "source": "SBS Biz",
+          "url": "https://biz.sbs.co.kr/article/20000328134"
+        },
+        {
+          "title": "성남복정2 A1블록 신혼희망타운 청약 (’26. 9/7~8)",
+          "source": "홈두부",
+          "url": "https://homedubu.com/11587/"
+        }
+      ]
+    },
+    {
+      "id": "매일경제",
+      "rank": 4,
+      "keyword": "매일경제",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“한국 대기업 총수, 정권에 동원” 日 신문 인용 매일경제 기사 삭제' (미디어오늘) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“한국 대기업 총수, 정권에 동원” 日 신문 인용 매일경제 기사 삭제",
+          "source": "미디어오늘",
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336417"
+        },
+        {
+          "title": "[이슈&논란] 日 닛케이 \"이재용·최태원, 李정권 들러리로 동원\"…외신의 눈에 비친 한국 재벌·정권의 공생 구조",
+          "source": "뉴스스페이스",
+          "url": "https://www.newsspace.kr/news/article.html?no=15209"
+        },
+        {
+          "title": "일본 닛케이 ‘이재명 정권이 총수 동원’…실익 좇은 이재용 삼성전자 회장의 계산은 빠졌다",
+          "source": "뉴스필드",
+          "url": "https://newsfield.net/%EC%9D%BC%EB%B3%B8-%EB%8B%9B%EC%BC%80%EC%9D%B4-%EC%9D%B4%EC%9E%AC%EB%AA%85-%EC%A0%95%EA%B6%8C%EC%9D%B4-%EC%B4%9D%EC%88%98-%EB%8F%99%EC%9B%90%EC%8B%A4%EC%9D%B5-%EC%A2%87%EC%9D%80-%EC%9D%B4/"
         }
       ]
     },
     {
       "id": "대함미사일",
-      "rank": 7,
+      "rank": 5,
       "keyword": "대함미사일",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+2",
       "summary": "급상승 시점에 'K-2 전차에 없던 ‘방패’ 단다…드론전쟁이 바꾼 생존법 [박수찬의 軍]' (세계일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -202,19 +146,19 @@
     },
     {
       "id": "더스틴-니퍼트",
-      "rank": 8,
+      "rank": 6,
       "keyword": "더스틴 니퍼트",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+2",
       "summary": "급상승 시점에 ''상황 돌변' LG 최초 역사 탄생 눈앞인데 '무섭다' 끝내 이 선수가 저지하나' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "'상황 돌변' LG 최초 역사 탄생 눈앞인데 '무섭다' 끝내 이 선수가 저지하나",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260816103537856"
+          "url": "https://v.daum.net/v/Y2yLq7NdS2"
         },
         {
           "title": "‘불붙는 홈런왕 경쟁’ LG 오스틴 32호 아치, 김도영 맹추격",
@@ -230,12 +174,12 @@
     },
     {
       "id": "재정",
-      "rank": 9,
+      "rank": 7,
       "keyword": "재정",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+2",
       "summary": "급상승 시점에 '‘민생지원금’만 3조3천억…추미애 “경기, 빚 증가속도 전국의 3배, 이대로면 부도”' (www.dt.co.kr) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -257,30 +201,86 @@
       ]
     },
     {
-      "id": "대령",
-      "rank": 10,
-      "keyword": "대령",
+      "id": "죠스",
+      "rank": 8,
+      "keyword": "죠스",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '부하 여군 성폭행하려다 다치게 한 공군 대령…징역 5년 확정' (JTBC) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[EBS 일요 시네마] 특급 공포영화 ‘죠스’' (경북매일) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "부하 여군 성폭행하려다 다치게 한 공군 대령…징역 5년 확정",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12313201"
+          "title": "[EBS 일요 시네마] 특급 공포영화 ‘죠스’",
+          "source": "경북매일",
+          "url": "https://www.kbmaeil.com/article/20260815500054"
         },
         {
-          "title": "대법, 여장교 성폭행 시도한 공군 대령 징역 5년 확정",
+          "title": "[일요 시네마] 죠스-“스티븐 스필버그가 바다를 공포로 바꿔버린 순간”",
+          "source": "Queen 이코노미퀸",
+          "url": "https://www.queen.co.kr/news/articleView.html?idxno=461580"
+        },
+        {
+          "title": "EBS 일요시네마 ‘죠스’ “백상아리와의 한판 승부! 스티븐 스필버그 감독의 공포영화”",
+          "source": "한국강사신문",
+          "url": "https://www.lecturernews.com/news/articleView.html?idxno=208571"
+        }
+      ]
+    },
+    {
+      "id": "경유",
+      "rank": 9,
+      "keyword": "경유",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-3",
+      "summary": "급상승 시점에 '\"경유, 휘발유보다 20% 비싸게 하면 환경비용 4조원 절감\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"경유, 휘발유보다 20% 비싸게 하면 환경비용 4조원 절감\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/57irj2wa5z"
+          "url": "https://v.daum.net/v/20260816060850935?f=p"
         },
         {
-          "title": "부하 여군 성폭행하려 한 공군 17전투비행단 대령 징역 5년 확정",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6844232_36918.html"
+          "title": "‘경유가 휘발유보다 20% 비싸야’…국책연구기관의 제안",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1678936/%E2%80%98%EA%B2%BD%EC%9C%A0-%ED%9C%98%EB%B0%9C%EC%9C%A0-20-%EB%B9%84%EC%8B%B8%EC%95%BC%E2%80%99%EA%B5%AD%EC%B1%85%EC%97%B0%EA%B5%AC%EA%B8%B0-2026"
+        },
+        {
+          "title": "“경유가 휘발유보다 비싸야”…세금 올려 전기차 전환 촉진 제안",
+          "source": "얼리어답터뉴스",
+          "url": "https://www.eanews.kr/news/988987"
+        }
+      ]
+    },
+    {
+      "id": "테슬라-로드스터",
+      "rank": 10,
+      "keyword": "테슬라 로드스터",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“테슬라 ‘하늘 나는 차’ 곧 공개”…이번엔 진짜? [이런뉴스]' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“테슬라 ‘하늘 나는 차’ 곧 공개”…이번엔 진짜? [이런뉴스]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8638219"
+        },
+        {
+          "title": "머스크의 ‘공중 부양차’, 돈 있어도 못 탄다…수십만달러에 도로 주행은 불가",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10842544"
+        },
+        {
+          "title": "7000만원 냈는데 9년째 못 받았다…조롱 당한 '테슬라 신차'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026081636647"
         }
       ]
     }
