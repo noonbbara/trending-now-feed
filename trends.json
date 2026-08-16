@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-16T15:28:36.243Z",
+  "updatedAt": "2026-08-16T15:52:08.463Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,9 +9,9 @@
       "rank": 1,
       "keyword": "삼전 닉스",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '\"배당 말고 45조 자사주 사라\" 삼성전자에 '메리츠式 처방' 꺼낸 주주들 [fn마켓워치]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -21,9 +21,9 @@
           "url": "https://v.daum.net/v/20260816132639914"
         },
         {
-          "title": "“안 팔길 잘했네”…‘삼전닉스’ 주주환원, 연간 300조 가능할까? [수민이가 궁금해요]",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260816504518"
+          "title": "'삼전닉스' 새 주주환원 정책에 주목하는 증권가",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608163946i"
         },
         {
           "title": "\"삼성전자·SK하이닉스 연간 최대 300조원 주주환원\"...코스피 반등 열쇠될까",
@@ -37,9 +37,9 @@
       "rank": 2,
       "keyword": "아스날",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '1만 회 시뮬레이션 돌린 수퍼컴퓨터, EPL 우승 0순위로 ‘이 팀’ 찍었다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -61,13 +61,41 @@
       ]
     },
     {
-      "id": "채령",
+      "id": "맷-데이먼",
       "rank": 3,
+      "keyword": "맷 데이먼",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“‘오디세이’는 용아맥에서만?” 웃돈 주고 샀는데 ‘낭패’…관객들이 당황한 이유' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“‘오디세이’는 용아맥에서만?” 웃돈 주고 샀는데 ‘낭패’…관객들이 당황한 이유",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816191213251"
+        },
+        {
+          "title": "인간은 ‘길치’다… 명성 이뤄도 죽을 고생 해야만 귀향할 수 있는 존재[김영민의 본다는 것은]",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Opinion/article/all/20260816/134486527/2"
+        },
+        {
+          "title": "[설왕설래] 오디세우스의 노래",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260816510786"
+        }
+      ]
+    },
+    {
+      "id": "채령",
+      "rank": 4,
       "keyword": "채령",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '채령, 팬미팅서 오열하더니...母 \"암환자 됐다\" 안타까운 근황 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -89,69 +117,69 @@
       ]
     },
     {
-      "id": "อาร-เซนอล-พบ-แมนซ-ต",
-      "rank": 4,
-      "keyword": "อาร เซนอล พบ แมนซ ต",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "id": "바르셀로나",
+      "rank": 5,
+      "keyword": "바르셀로나",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'ถ่ายทอดสดการแข่งขันซูเปอร์คัพอังกฤษ: อาร์เซนอล vs แมนซิตี้ 1-0 (ครึ่งแร…' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '바젤 vs FC 바르셀로나 생중계: 경기가 진행 중입니다' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "ถ่ายทอดสดการแข่งขันซูเปอร์คัพอังกฤษ: อาร์เซนอล vs แมนซิตี้ 1-0 (ครึ่งแรก): คาร์ลาฟิโอรีทำประตูขึ้นนำ",
+          "title": "바젤 vs FC 바르셀로나 생중계: 경기가 진행 중입니다",
           "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/truc-tiep-sieu-cup-anh-arsenal-vs-man-city-1-0-h1-carlafiori-mo-ty-so"
+          "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-basel-vs-fc-barcelona-tran-dau-dang-dien-ra"
         },
         {
-          "title": "คอมมิวนิตี้ ชิลด์ ปืนใหญ่ เจอ เรือใบ ดวลแชมป์ชนแชมป์ที่คาร์ดิฟฟ์ | Soccersuck",
-          "source": "LINE TODAY",
-          "url": "https://today.line.me/th/v3/article/ZaRmPgP"
+          "title": "바젤 대 바르셀로나, 8월 16일 오후 9시 30분: 스트리밍 링크, 분석 및 예측.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/basel-vs-barcelona-21h30-ngay-16-8-link-xem-nhan-dinh-du-doan"
         },
         {
-          "title": "\"เต้ยเป๋าตุง\" ฟันธง (16 ส.ค.69) ชี้ 7 คู่เด่น ทีมลุ้นเข้าวิน เน้นๆ 3 บอลเต็ง",
-          "source": "สยามรัฐ",
-          "url": "https://siamrath.co.th/variety/sports/167857"
+          "title": "바젤 vs FC 바르셀로나 생중계: 선발 라인업",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-basel-vs-fc-barcelona-doi-hinh-xuat-phat"
         }
       ]
     },
     {
-      "id": "2026",
-      "rank": 5,
-      "keyword": "2026",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'Involvement Fair 2026 Monday Night on Mullens Plaza' (ATU News) 관련 뉴스가 함께 포착됐어요.",
+      "id": "프리미어리그",
+      "rank": 6,
+      "keyword": "프리미어리그",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''강인이 형 나도 떠난다'...'초대형 영입' 임박, 리버풀 '살라 후계자' 품는다! PSG에 무려 '2040억' 지불 결심→6…' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Involvement Fair 2026 Monday Night on Mullens Plaza",
-          "source": "ATU News",
-          "url": "https://www.arkansastechnews.com/involvement-fair-2026-monday-night-on-mullens-plaza/"
+          "title": "'강인이 형 나도 떠난다'...'초대형 영입' 임박, 리버풀 '살라 후계자' 품는다! PSG에 무려 '2040억' 지불 결심→6년 계약 예정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814233528389"
         },
         {
-          "title": "Ahn Hyun-mo praises Nolan screenplay and savors complete Odyssey 2026 - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-entertainment/2026/08/16/33TKK3GU2BDNPCGX344GSC7C7I/"
-        },
-        {
-          "title": "Translator Ahn Hyun-mo Savors Nolan's 'The Odyssey' Screenplay",
+          "title": "\"초대박!\" 리버풀 '1억 4500만 파운드 스타' 브래들리 바르콜라 영입 청신호…PSG, FC바르셀로나에서 새 공격수 영입 임박",
           "source": "조선일보",
-          "url": "https://www.chosun.com/english/kpop-culture-en/2026/08/16/JMPYYQHLDZFR5A325FR3RCUDII/"
+          "url": "https://www.chosun.com/sports/world-football/2026/08/15/MQZDKNJYMVRTCOJWGE4DSODFMI/"
+        },
+        {
+          "title": "'와' 리버풀 초대박 소식! 이강인 前 동료 드디어 품는다…\"공격진 보강한 만큼 이적 가능성 커지고 있어\"",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026081517254534843"
         }
       ]
     },
     {
       "id": "무한도전",
-      "rank": 6,
+      "rank": 7,
       "keyword": "무한도전",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '“‘무한도전 2026’ 준비했었다”…김태호 PD, 재결합 무산에 아쉬움 [MHN:픽]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -174,24 +202,24 @@
     },
     {
       "id": "arsenal-đấu-với-man-city",
-      "rank": 7,
+      "rank": 8,
       "keyword": "arsenal đấu với man city",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Arsenal 1-0 Man City: Raya từ chối siêu phẩm của Foden' (yeuthethao.net.vn) 관련 뉴스가 함께 포착됐어요.",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 'Enzo Maresca gửi \"chiến thư\" tới Arsenal' (yeuthethao.net.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Arsenal 1-0 Man City: Raya từ chối siêu phẩm của Foden",
+          "title": "Enzo Maresca gửi \"chiến thư\" tới Arsenal",
           "source": "yeuthethao.net.vn",
-          "url": "https://yeuthethao.net.vn/arsenal-1-0-man-city-raya-tu-choi-sieu-pham-cua-foden-d891169.html"
+          "url": "https://yeuthethao.net.vn/enzo-maresca-gui-chien-thu-toi-arsenal-d891172.html"
         },
         {
-          "title": "Nhận định Arsenal vs Man City: Arsenal tìm lại duyên Vieira, Maresca mở kỷ nguyên mới",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/nhan-dinh-arsenal-vs-man-city-arsenal-tim-lai-duyen-vieira-maresca-mo-ky-nguyen-moi"
+          "title": "Arsenal 1-0 Man City: Raya từ chối siêu phẩm của Foden",
+          "source": "bongda.com.vn",
+          "url": "https://bongda.com.vn/arsenal-1-0-man-city-raya-tu-choi-sieu-pham-cua-foden-d843639.html"
         },
         {
           "title": "Kênh và link xem trực tiếp Siêu cúp Anh 2026 - Arsenal vs Man City",
@@ -202,12 +230,12 @@
     },
     {
       "id": "epl",
-      "rank": 8,
+      "rank": 9,
       "keyword": "epl",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 'Oliver Glasner sanctions shock £17m Nottingham Forest exit, fans will b…' (Nottingham Forest News) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -230,12 +258,12 @@
     },
     {
       "id": "런닝맨",
-      "rank": 9,
+      "rank": 10,
       "keyword": "런닝맨",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '\"누가 더 파장 클까\" 이주연, 지드래곤 열애설 언급에 입꾹 닫고 당혹 ('런닝맨')' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -253,34 +281,6 @@
           "title": "“방귀 9번 꼈는데 옆에 있어줘” 하하, 공포 체험장서 김지은 의리에 감동 (‘런닝맨’)[종합]",
           "source": "매일경제",
           "url": "https://www.mk.co.kr/news/broadcasting-service/12129157"
-        }
-      ]
-    },
-    {
-      "id": "арсенал-манчестер-сити",
-      "rank": 10,
-      "keyword": "арсенал манчестер сити",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '«Арсенал» — «Манчестер Сити»: онлайн-трансляция матча за Суперкубок Анг…' (sport-express.net) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "«Арсенал» — «Манчестер Сити»: онлайн-трансляция матча за Суперкубок Англии",
-          "source": "sport-express.net",
-          "url": "https://www.sport-express.net/football/england/online/arsenal-manchester-siti-smotret-besplatno-match-za-superkubok-anglii-v-pryamom-efire-onlayn-tekstovaya-translyaciya-i-rezultat-16-avgusta-2026-2447466/"
-        },
-        {
-          "title": "«Арсенал» — «Манчестер Сити»: Калафьори вывел лондонцев вперёд на первой минуте",
-          "source": "https://www.championat.ru/",
-          "url": "https://www.championat.ru/football/news-6584740-arsenal-manchester-siti-rikkardo-kalafori-vyvel-londoncev-vperyod-na-pervoj-minute-v-matche-za-superkubok-anglii-2026.html"
-        },
-        {
-          "title": "Рекорд 58-летней давности побито: игрок Арсенала забил самый быстрый гол в истории Суперкубка Англии",
-          "source": "UA-Football",
-          "url": "https://www.ua-football.com/foreign/england/1786890477-rekord-58-letney-davnosti-pal-igrok-arsenala-zabil-samyy-bystryy-gol-v-istorii-superkubka-anglii.html"
         }
       ]
     }
