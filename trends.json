@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-16T05:55:28.276Z",
+  "updatedAt": "2026-08-16T06:52:38.689Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,26 +9,26 @@
       "rank": 1,
       "keyword": "손흥민",
       "volumeLabel": "20000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '손흥민 MLS 4경기 연속골 마감…LAFC, 샌디에이고에 0대 1 패배' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '손흥민 MLS 4경기 연속골 마감…LAFC, 샌디에이고에 0-1 패배' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "손흥민 MLS 4경기 연속골 마감…LAFC, 샌디에이고에 0대 1 패배",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/zRTYMQhDUa"
+          "title": "손흥민 MLS 4경기 연속골 마감…LAFC, 샌디에이고에 0-1 패배",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8638212"
         },
         {
-          "title": "‘손흥민 침묵’ LA FC, 샌디에이고에 막판 PK 헌납하며 0-1 분패",
+          "title": "'5경기 연속골 실패' 손흥민, 슈팅 4개→결정적 찬스 3번 모두 날린 무득점...LA FC, 샌디에이고에 0-1 패 '3위 추락'[MLS 리뷰]",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/08/16/TU4K4O7HEBB7NPLJACB3SKIJ3Y/"
+          "url": "https://www.chosun.com/sports/world-football/2026/08/16/MMYDCNRRHAYWKOJUGVRGCYZUGM/"
         },
         {
-          "title": "'아! 야속한 영점' 손흥민, 슈팅 4회 퍼붓고도 '5경기 연속골' 무산... LAFC, 샌디에이고에 0-1 석패 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/16/2026081611184729188"
+          "title": "손흥민, 4경기 만에 득점 도전…샌디에이고전 선발 출격",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816105451097"
         }
       ]
     },
@@ -36,22 +36,22 @@
       "id": "교수",
       "rank": 2,
       "keyword": "교수",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘캠브리지 최연소 흑인 교수’, 표절 논란 속 자택서 숨진 채 발견' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '표절 논란 끝 비극…케임브리지 최연소 흑인 교수 사망' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "‘캠브리지 최연소 흑인 교수’, 표절 논란 속 자택서 숨진 채 발견",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260815224929189"
-        },
         {
           "title": "표절 논란 끝 비극…케임브리지 최연소 흑인 교수 사망",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260815050400082"
+        },
+        {
+          "title": "'표절 의혹 사임' 英 케임브리지 최연소 흑인 교수 사망",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816151551349"
         },
         {
           "title": "케임브리지대 최연소 흑인 교수 사망…영국 총리 “반성의 시간” 촉구",
@@ -64,27 +64,27 @@
       "id": "경고-사격",
       "rank": 3,
       "keyword": "경고 사격",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '軍, 동부전선서 北 MDL 침범에 올해 첫 경고사격' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '軍, 북한군 MDL 침범에 올해 첫 경고사격…北 ‘남부 국경선화’ 속도' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "軍, 동부전선서 北 MDL 침범에 올해 첫 경고사격",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260816/134483900/1"
-        },
-        {
-          "title": "軍, 동부전선 침범한 북한군에 경고사격",
+          "title": "軍, 북한군 MDL 침범에 올해 첫 경고사격…北 ‘남부 국경선화’ 속도",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260816115852963"
+          "url": "https://v.daum.net/v/20260816145952127"
         },
         {
           "title": "[속보] 軍, 군사분계선 침범 북한군에 경고사격.. 올해 첫 사례",
           "source": "국제신문",
           "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260816.99099004160"
+        },
+        {
+          "title": "군, 동부전선 MDL 침범 북한군에 경고사격…올해 들어 처음",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8638175"
         }
       ]
     },
@@ -93,9 +93,9 @@
       "rank": 4,
       "keyword": "지드래곤",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '배정남 \"열심히 모은 1950년대 태극기\"…빛 바래고 찢긴 흔적도 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -121,16 +121,16 @@
       "rank": 5,
       "keyword": "김민경",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 ''서영이 엄마' 故김민경, 투병 중에도 불태운 연기 열정…오늘(16일) 5주기' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "'서영이 엄마' 故김민경, 투병 중에도 불태운 연기 열정…오늘(16일) 5주기",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260816060151793"
+          "url": "https://v.daum.net/v/20260816060151793?f=p"
         },
         {
           "title": "故 김민경, 오늘(16일) 5주기…별이 된 '타짜' 고니 엄마",
@@ -145,48 +145,76 @@
       ]
     },
     {
-      "id": "염정아",
+      "id": "경유",
       "rank": 6,
-      "keyword": "염정아",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '독일 출생·패션 셀럽 넘어…문가영, 백상 수상 터닝 포인트→염정아와 투톱 호흡 [TEN스타필드]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "경유",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“경유, 휘발유보다 20% 높이면…환경비용 4조원 줄어든다”' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "독일 출생·패션 셀럽 넘어…문가영, 백상 수상 터닝 포인트→염정아와 투톱 호흡 [TEN스타필드]",
+          "title": "“경유, 휘발유보다 20% 높이면…환경비용 4조원 줄어든다”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260815183107739"
+          "url": "https://v.daum.net/v/20260816124009356"
         },
         {
-          "title": "[단독] 염정아, 스릴러 영화 '투피스'서 문가영과 만난다! 꿈의 조합 완성",
-          "source": "아이즈(ize)",
-          "url": "https://www.ize.co.kr/news/articleView.html?idxno=79806"
+          "title": "‘경유가 휘발유보다 20% 비싸야’…국책연구기관의 제안",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1678936/%E2%80%98%EA%B2%BD%EC%9C%A0-%ED%9C%98%EB%B0%9C%EC%9C%A0-20-%EB%B9%84%EC%8B%B8%EC%95%BC%E2%80%99%EA%B5%AD%EC%B1%85%EC%97%B0%EA%B5%AC%EA%B8%B0-2026"
         },
         {
-          "title": "[단독] 염정아, 스릴러 영화 '투피스'서 문가영과 만난다! 꿈의 조합 완성",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813065649908"
+          "title": "\"경유, 휘발유보다 20% 비싸게 하면 환경비용 4조원 절감\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260814107400530"
+        }
+      ]
+    },
+    {
+      "id": "대함미사일",
+      "rank": 7,
+      "keyword": "대함미사일",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'K-2 전차에 없던 ‘방패’ 단다…드론전쟁이 바꾼 생존법 [박수찬의 軍]' (세계일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "K-2 전차에 없던 ‘방패’ 단다…드론전쟁이 바꾼 생존법 [박수찬의 軍]",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260814506737"
+        },
+        {
+          "title": "“K2 전차 성능개량해도 늦을걸?”…뿔 난 우크라, 北드론 위협 강조 [밀리터리+]",
+          "source": "나우뉴스",
+          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260813601021"
+        },
+        {
+          "title": "K2 전차에 능동방호체계 탑재‥사거리 늘린 함대함유도탄도 개발",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6843991_36911.html"
         }
       ]
     },
     {
       "id": "더스틴-니퍼트",
-      "rank": 7,
+      "rank": 8,
       "keyword": "더스틴 니퍼트",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 ''상황 돌변' LG 최초 역사 탄생 눈앞인데 '무섭다' 끝내 이 선수가 저지하나' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "'상황 돌변' LG 최초 역사 탄생 눈앞인데 '무섭다' 끝내 이 선수가 저지하나",
           "source": "Daum",
-          "url": "https://v.daum.net/v/Y2yLq7NdS2"
+          "url": "https://v.daum.net/v/20260816103537856"
         },
         {
           "title": "‘불붙는 홈런왕 경쟁’ LG 오스틴 32호 아치, 김도영 맹추격",
@@ -202,12 +230,12 @@
     },
     {
       "id": "재정",
-      "rank": 8,
+      "rank": 9,
       "keyword": "재정",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '‘민생지원금’만 3조3천억…추미애 “경기, 빚 증가속도 전국의 3배, 이대로면 부도”' (www.dt.co.kr) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -230,12 +258,12 @@
     },
     {
       "id": "대령",
-      "rank": 9,
+      "rank": 10,
       "keyword": "대령",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '부하 여군 성폭행하려다 다치게 한 공군 대령…징역 5년 확정' (JTBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -250,37 +278,9 @@
           "url": "https://v.daum.net/v/57irj2wa5z"
         },
         {
-          "title": "檢보완수사로 구속된 '강간치상' 공군 17전비 전대장, 징역 5년 확정",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1677698/%E6%AA%A2%EB%B3%B4%EC%99%84%EC%88%98%EC%82%AC%EB%A1%9C-%EA%B5%AC%EC%86%8D%EB%90%9C-%EA%B0%95%EA%B0%84%EC%B9%98%EC%83%81-%EA%B3%B5%EA%B5%B0-1-2026"
-        }
-      ]
-    },
-    {
-      "id": "최지-만",
-      "rank": 10,
-      "keyword": "최지 만",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '드디어 韓 무대 첫 홈런 터졌다…‘ML 67홈런’ 35세 최지만, 진짜 드래프트 1라운드 지명 받을까' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "드디어 韓 무대 첫 홈런 터졌다…‘ML 67홈런’ 35세 최지만, 진짜 드래프트 1라운드 지명 받을까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/B80Ml5e4yS"
-        },
-        {
-          "title": "2027 KBO 드래프트 판도…‘열쇠’ 쥔 두산의 선택은?",
-          "source": "일요신문",
-          "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=512296"
-        },
-        {
-          "title": "'하이리스크 하이리턴 최지만' 드래프트 앞둔 10개팀 고뇌의 셈법",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260816n05003"
+          "title": "부하 여군 성폭행하려 한 공군 17전투비행단 대령 징역 5년 확정",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6844232_36918.html"
         }
       ]
     }
