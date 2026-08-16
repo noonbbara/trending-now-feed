@@ -1,17 +1,45 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-16T21:27:24.690Z",
+  "updatedAt": "2026-08-16T21:48:53.188Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "김민석",
+      "id": "미사일",
       "rank": 1,
+      "keyword": "미사일",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '우크라, 모스크바 겨냥 \"역대 최대\" 공격…러, 탄도미사일 공격(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "우크라, 모스크바 겨냥 \"역대 최대\" 공격…러, 탄도미사일 공격(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/x0Yj2mzttx"
+        },
+        {
+          "title": "우크라, 러에 올해 최대 규모 드론 공습…러도 미사일·드론 맞불",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/europe/6260703"
+        },
+        {
+          "title": "러시아에 드론 600대 보낸 우크라이나, 러시아는 드론·미사일 공격···공중전 격화",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608162251001"
+        }
+      ]
+    },
+    {
+      "id": "김민석",
+      "rank": 2,
       "keyword": "김민석",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '[속보] 김민석, 당원 최다 서울·경기 당원 투표서 승리…정청래에 0.38%포인트 앞서' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -21,53 +49,109 @@
           "url": "https://www.khan.co.kr/article/202608161825001"
         },
         {
-          "title": "金 1차 과반이냐, 鄭 대역전이냐…與, 오늘 전대서 당대표 선출",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817050152585"
-        },
-        {
           "title": "누가 돼야 유리할까?...국민의힘 지도부도 '촉각'",
           "source": "YTN",
           "url": "https://www.ytn.co.kr/_ln/0101_202608170508288859"
+        },
+        {
+          "title": "민주당 순회경선 김민석 서울경기·누적 1위…김용 두고 친명·친청 ‘격돌’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8638242"
         }
       ]
     },
     {
-      "id": "거제",
-      "rank": 2,
-      "keyword": "거제",
+      "id": "이하늘",
+      "rank": 3,
+      "keyword": "이하늘",
       "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+3",
-      "summary": "급상승 시점에 '[속보] 거제시 \"터미널·도로 침수...대중교통 운행 불가\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''김창열과 불화' 이하늘, 동생 故 이현배 가짜 뉴스에 울컥…\"생활고 때문 아니야\" [RE:뷰]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[속보] 거제시 \"터미널·도로 침수...대중교통 운행 불가\"",
+          "title": "'김창열과 불화' 이하늘, 동생 故 이현배 가짜 뉴스에 울컥…\"생활고 때문 아니야\" [RE:뷰]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260817055410972"
+          "url": "https://v.daum.net/v/20260814142247373"
         },
         {
-          "title": "경남 곳곳 재난성 긴급문자, 한 시간 80mm 이상 강한 호우",
-          "source": "YTN",
-          "url": "https://m.ytn.co.kr/news_view.php?key=202608170611060695&s_mcd=0108"
+          "title": "이하늘, 故 이현배 생활고 사망설에 발끈 \"잘 알지도 못하면서, 너무 비열해\"",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260814n20997"
         },
         {
-          "title": "경남 거제 시간당 111mm 폭우‥밤사이 주민 대피령 발령",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6845177_36918.html"
+          "title": "이하늘, 김창열과 불화설 드디어 끝냈다…DJ DOC 컴백 예고 \"관심 없어도 돼\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-08-16/202608160100094760006040"
+        }
+      ]
+    },
+    {
+      "id": "신진서",
+      "rank": 4,
+      "keyword": "신진서",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '신진서, 몽백합배 세계바둑 16강 진출…신민준·목진석 탈락' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "신진서, 몽백합배 세계바둑 16강 진출…신민준·목진석 탈락",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816204152151"
+        },
+        {
+          "title": "신진서vs천이푸·박정환vs롄샤오 등 韓7명, 중국과 대결",
+          "source": "사이버오로",
+          "url": "https://m.cyberoro.com/news/news_view.oro?div_no=A1&num=532721"
+        },
+        {
+          "title": "“흑불계 완승” 신진서, 몽백합배 16강 단독 진출",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16164885"
+        }
+      ]
+    },
+    {
+      "id": "lens-vs-psg",
+      "rank": 5,
+      "keyword": "lens vs psg",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Lens vs Paris Saint-Germain: Trophée des Champions stats & head-to-head' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Lens vs Paris Saint-Germain: Trophée des Champions stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/sport/football/live/cmn8nd8w130xt"
+        },
+        {
+          "title": "Robin Risser’s 8.8 Sofascore Rating vs PSG",
+          "source": "Sofascore",
+          "url": "https://www.sofascore.com/news/rissers-6-saves-sink-psg-8-8-sofascore-rating"
+        },
+        {
+          "title": "A striking appearance from Zidane: the new coach's eyes watching from afar",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/en/news/notable-appearance-for-zidane-the-new-coach-s-eyes-watch-from-afar/blt2e470e21ce64451e"
         }
       ]
     },
     {
       "id": "이주",
-      "rank": 3,
+      "rank": 6,
       "keyword": "이주",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-3",
       "summary": "급상승 시점에 '이주노동자 서울 도심 집회…\"나쁜 계약 철회·노동권 보장하라\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -90,12 +174,12 @@
     },
     {
       "id": "다이아몬드백스-대-브레이브스",
-      "rank": 4,
+      "rank": 7,
       "keyword": "다이아몬드백스 대 브레이브스",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "down",
+      "changeLabel": "-3",
       "summary": "급상승 시점에 '73일 만에 타점 올린 김하성…시즌 타율은 6푼 6리' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -117,41 +201,13 @@
       ]
     },
     {
-      "id": "폴란드",
-      "rank": 5,
-      "keyword": "폴란드",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '폴란드 순례객 버스 헝가리서 전복…12명 사망·10명 중상' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "폴란드 순례객 버스 헝가리서 전복…12명 사망·10명 중상",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260817_0003751162"
-        },
-        {
-          "title": "폴란드 관광버스, 헝가리 고속도로서 도랑에 추락…12명 숨져",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260816201649917?f=p"
-        },
-        {
-          "title": "헝가리 지나던 폴란드 버스 넘어져 12명 사망...\"졸음운전 가능성\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202608162326020387"
-        }
-      ]
-    },
-    {
       "id": "김주하",
-      "rank": 6,
+      "rank": 8,
       "keyword": "김주하",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "down",
-      "changeLabel": "-3",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '김주하 \"전남편, 딴 여자랑 애 낳아\" 충격..'꼰대' 강부자도 \"그건좀\"(데이앤나잇)[순간포착]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -166,20 +222,20 @@
           "url": "https://www.mt.co.kr/entertainment/2026/08/16/2026081607163375291"
         },
         {
-          "title": "\"밖에서 자식만 안 낳으면 남편 용서\" 강부자 말에 …김주하 \"낳았어요\" 씁쓸",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6260511"
+          "title": "강부자, 마담뚜 루머 직접 해명 “회장님 돈 떼먹어 폭행…”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608161028003"
         }
       ]
     },
     {
       "id": "박현호",
-      "rank": 7,
+      "rank": 9,
       "keyword": "박현호",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '박현호, 16일 자작곡 '한잔하러 갑시다' 발매…'직진남' 변신' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -202,85 +258,29 @@
     },
     {
       "id": "psg",
-      "rank": 8,
+      "rank": 10,
       "keyword": "psg",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Les 6 arrêts de Risser font couler le PSG : Note Sofascore 8,8' (Sofascore) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Les 6 arrêts de Risser font couler le PSG : Note Sofascore 8,8",
-          "source": "Sofascore",
-          "url": "https://www.sofascore.com/fr/news/les-6-arrets-de-risser-font-couler-le-psg-note-sofascore-88"
-        },
-        {
-          "title": "RC Lens - Paris SG. Zinédine Zidane en tribunes pour la première fois en tant que sélectionneur de l’équipe de France",
-          "source": "Ouest-France",
-          "url": "https://www.ouest-france.fr/sport/football/zinedine-zidane/rc-lens-paris-sg-zinedine-zidane-en-tribunes-pour-la-premiere-fois-en-tant-que-selectionneur-de-lequipe-de-france-1fdf91ac-99ae-11f1-8c29-31ba9300fba3"
-        },
-        {
-          "title": "Trophée des Champions : les Lensois créent la surprise face au PSG ! (Les Comms RMC)",
-          "source": "RMC Sport",
-          "url": "https://rmcsport.bfmtv.com/football/video-trophee-des-champions-les-lensois-creent-la-surprise-face-au-psg-les-comms-rmc_VN-202608160271.html"
-        }
-      ]
-    },
-    {
-      "id": "liverpool-vs-como",
-      "rank": 9,
-      "keyword": "liverpool vs como",
-      "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
       "change": "down",
       "changeLabel": "-2",
-      "summary": "급상승 시점에 '¿Cómo ver el partido entre Liverpool vs Como en TV y Streaming?' (Sports Illustrated) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Lens-PSG : débuts de Digne, retours de Ruiz et Dembélé… La composition …' (Le Parisien) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "¿Cómo ver el partido entre Liverpool vs Como en TV y Streaming?",
-          "source": "Sports Illustrated",
-          "url": "https://www.si.com/es-us/futbol/como-ver-el-partido-entre-liverpool-vs-como-en-tv-y-streaming"
+          "title": "Lens-PSG : débuts de Digne, retours de Ruiz et Dembélé… La composition probable de Paris pour le Trophée des champions",
+          "source": "Le Parisien",
+          "url": "https://www.leparisien.fr/sports/football/psg/lens-psg-debuts-de-digne-retours-de-ruiz-et-dembele-la-composition-probable-de-paris-pour-le-trophee-des-champions-15-08-2026-DIDYF6IUNZCOLHEHIAPQF43AO4.php"
         },
         {
-          "title": "El gol de Cody Gakpo para el 1-0 de Liverpool ante Como",
-          "source": "TyC Sports",
-          "url": "https://www.tycsports.com/video/futbol-internacional/el-gol-de-cody-gakpo-para-el-1-0-de-liverpool-ante-como-id979212.html"
+          "title": "Match : Luis Enrique : « On a joué à un niveau supérieur à ce à quoi je m'attendais",
+          "source": "CulturePSG",
+          "url": "https://www.culturepsg.com/news/match/luis-enrique-on-a-joue-a-un-niveau-superieur-a-ce-a-quoi-je-m-attendais/60369"
         },
         {
-          "title": "Gakpo brilla con fuerza en la victoria del Liverpool por 2-0 frente al Como",
-          "source": "Sofascore",
-          "url": "https://www.sofascore.com/es/news/gakpo-brilla-con-fuerza-en-la-victoria-del-liverpool-por-2-0-frente-al-como"
-        }
-      ]
-    },
-    {
-      "id": "리버풀-코모",
-      "rank": 10,
-      "keyword": "리버풀 코모",
-      "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '[442.review] ‘토트넘 이적설에도 펄펄!’ 각포, 1골 1도움 원맨쇼→리버풀, 코모 2-0 격파...개막 준비 완료' (포포투) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[442.review] ‘토트넘 이적설에도 펄펄!’ 각포, 1골 1도움 원맨쇼→리버풀, 코모 2-0 격파...개막 준비 완료",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96487"
-        },
-        {
-          "title": "리버풀 vs 코모 경기 생중계: 전반전 종료, 0-0 무승부",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-liverpool-vs-como-het-hiep-1-hoa-0-0"
-        },
-        {
-          "title": "[프리시즌 매치 리뷰]'충격, 또 와르르 무너졌다' 2-0→2-3 리버풀, AS모나코에 어이없는 역전패..'리즈전과 판박이로 당했다'",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/football/2026-08-10/202608100100052830003300"
+          "title": "« Champions d’Europe », chantent les Parisiens, pendant le tifo du RC Lens",
+          "source": "La Voix du Nord",
+          "url": "https://www.lavoixdunord.fr/1729540/article/2026-08-16/champions-d-europe-chantent-les-parisiens-pendant-le-tifo-du-rc-lens"
         }
       ]
     }
