@@ -1,286 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-15T23:49:36.804Z",
+  "updatedAt": "2026-08-16T01:49:44.202Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "한화-이글스",
+      "id": "김혜성",
       "rank": 1,
-      "keyword": "한화 이글스",
-      "volumeLabel": "20000+",
+      "keyword": "김혜성",
+      "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '구자욱 5타점 대폭발…3연승 삼성, 선두 kt 반 경기 차 추격(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘1이닝 2안타 폭발!’ 이정후, 멀티히트 활약→3G 연속 무안타 탈출…SF, 7-1 대승 [SF 리뷰] - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "구자욱 5타점 대폭발…3연승 삼성, 선두 kt 반 경기 차 추격(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260815051551007"
-        },
-        {
-          "title": "\"욕도 많이 먹고 야구하기 싫었죠\" 좌완 이승현, '12실점 악몽→2군서 71일' 악몽 씻었다... 삼성 살린 감동투 - 머니투데이",
+          "title": "‘1이닝 2안타 폭발!’ 이정후, 멀티히트 활약→3G 연속 무안타 탈출…SF, 7-1 대승 [SF 리뷰] - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/16/2026081518161019191"
+          "url": "https://www.mt.co.kr/sports/2026/08/16/202608160736776447O"
         },
         {
-          "title": "삼성 선발 양창섭, 1회 만에 헤드샷 퇴장…한화 노시환 헬멧 강타",
+          "title": "'한 이닝 멀티히트' 이정후…4경기 만에 안타 생산",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008707442"
+        },
+        {
+          "title": "이정후 멀티 히트 샌프란시스코, 7-1 승리",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260815_0003750731"
+          "url": "https://www.newsis.com/view/NISI20260816_0002213727"
         }
       ]
     },
     {
-      "id": "이정후",
+      "id": "ufc",
       "rank": 2,
-      "keyword": "이정후",
+      "keyword": "ufc",
       "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이정후, 3경기 연속 무안타…배지환은 대주자로 시즌 1호 도루' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Live Now! UFC 330 ‘Makhachev vs. Garry’ play-by-play, results & round s…' (Sherdog) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이정후, 3경기 연속 무안타…배지환은 대주자로 시즌 1호 도루",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260815033000007"
+          "title": "Live Now! UFC 330 ‘Makhachev vs. Garry’ play-by-play, results & round scoring",
+          "source": "Sherdog",
+          "url": "https://www.sherdog.com/news/news/UFC-330-Makhachev-vs-Garry-playbyplay-results-round-scoring-202361"
         },
         {
-          "title": "'드디어' 이정후 한 이닝에 2안타 폭발! 3출루 펄펄 '8→7→5→초구' 선구안 빛났다, '13타수 무안타' 부진 완벽 탈출 [이정후 리뷰] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/16/2026081607154047185"
+          "title": "UFC 330 fight card, betting odds, start time, TV & viewing info",
+          "source": "The Big Lead",
+          "url": "https://www.thebiglead.com/ufc-330-fight-card-betting-odds-start-time-tv-viewing-info/"
         },
         {
-          "title": "3경기째 안타가 없다…SF 이정후 타율 0.290까지 하락",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11609748"
+          "title": "Inside Islam Makhachev's Brutal Mountain Training Camp For Ian Garry | UFC 330 Roberto Cingolani (mWWsiDnRk4)",
+          "source": "Mshale",
+          "url": "https://mshale.com/36c2c165/514b4bd45ae32PSH3dg"
         }
       ]
     },
     {
-      "id": "재건축",
+      "id": "광주광역시",
       "rank": 3,
-      "keyword": "재건축",
+      "keyword": "광주광역시",
       "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '서영교 \"전남광주통합특별시 출범으로 798건 법률 정비 필요…적극 지원할것\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "서영교 \"전남광주통합특별시 출범으로 798건 법률 정비 필요…적극 지원할것\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260814_0003750270"
+        },
+        {
+          "title": "전남광주통합특별시의회, ‘통합특별법’ 대응역량 강화 교육 실시",
+          "source": "브레이크뉴스",
+          "url": ""
+        },
+        {
+          "title": "“통합 성패, 시민 삶 변화에 달려···견제·협력으로 제대로 뒷받침”",
+          "source": "무등일보",
+          "url": "https://m.mdilbo.com/detail/tohfpC/757941"
+        }
+      ]
+    },
+    {
+      "id": "우크라이나",
+      "rank": 4,
+      "keyword": "우크라이나",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“한국의 신이 심판할 것”…무기 지원 없자 날 세운 우크라 전 장관 [현장영상]' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“한국의 신이 심판할 것”…무기 지원 없자 날 세운 우크라 전 장관 [현장영상]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8637458"
+        },
+        {
+          "title": "[이슈&한반도] “북 미사일·최대 5만 명 파병”…안보부담 가중 우려",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260815081349320"
+        },
+        {
+          "title": "젤렌스키 “北 최대 5만명 러 배치”…北, 현대전 경험 축적 우려",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20260814/134478212/1"
+        }
+      ]
+    },
+    {
+      "id": "nashville-vs-inter-miami",
+      "rank": 5,
+      "keyword": "nashville vs inter miami",
+      "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] \"종부세 중과 피하라\"…압구정4구역, 2년 내 철거 돌입' (뉴스핌) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Inter Miami manager Guillermo Hoyos provides update on Lionel Messi ahe…' (Goal.com) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[단독] \"종부세 중과 피하라\"…압구정4구역, 2년 내 철거 돌입",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260812000927"
+          "title": "Inter Miami manager Guillermo Hoyos provides update on Lionel Messi ahead of Nashville clash",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/en/lists/lionel-messi-inter-miami-return-guillermo-hoyos-nashville/blt76a85f3ba6edfe02"
         },
         {
-          "title": "재건축 앞둔 집 전세 사는데…나가라면 나가야 할까",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01079126645547976"
+          "title": "MLS Matchday 20 Preview: Nashville vs. Inter Miami, Union vs. NYCFC highlight weekend slate",
+          "source": "Metro Philadelphia",
+          "url": "https://www.metrophiladelphia.com/stories/mls-matchday-20-preview,151841"
         },
         {
-          "title": "은마 세입자 3100가구 움직인다… 서울 전세시장 ‘연쇄 이주’ 우려 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/08/13/BBYHBENLHVAOTLYH3PRCBZFPFE/"
+          "title": "Messi, Suarez are back as Inter Miami battles Nashville for top spot in the East",
+          "source": "Miami Herald",
+          "url": "https://www.miamiherald.com/sports/mls/inter-miami/article316881934.html"
         }
       ]
     },
     {
-      "id": "로스앤젤레스-fc",
-      "rank": 4,
-      "keyword": "로스앤젤레스 fc",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '손흥민의 LAFC, 리그스컵 8강행 불발…MLS 팀 중 5위로 밀려' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "손흥민의 LAFC, 리그스컵 8강행 불발…MLS 팀 중 5위로 밀려",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260814086500007"
-        },
-        {
-          "title": "'리그스컵 탈락' 손흥민의 LAFC, 오늘 샌디에이고전서 선두 노린다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260814_0003749843"
-        },
-        {
-          "title": "'월드컵 악몽→또 조별리그 탈락 고통' 손흥민, 정신적 타격 우려 \"허탈감 들 수밖에...\" LAFC 감독 고백",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260815183738779"
-        }
-      ]
-    },
-    {
-      "id": "황인범",
-      "rank": 5,
-      "keyword": "황인범",
+      "id": "나-혼자-산다",
+      "rank": 6,
+      "keyword": "나 혼자 산다",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '리그 데뷔전부터 번뜩인 황인범…감각적 패스로 쐐기골 어시스트' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''준비하는 배우' 박경혜의 진정성' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "리그 데뷔전부터 번뜩인 황인범…감각적 패스로 쐐기골 어시스트",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260816007500007"
+          "title": "'준비하는 배우' 박경혜의 진정성",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816084932372"
         },
         {
-          "title": "’황인범 리그 데뷔전 도움’ FC포르투, 히우 아브 꺾고 2연승",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260816081455B7a"
+          "title": "알려진 배우들도 전월세난 타격..박경혜 “이사 가야하는데 매물이 없다” (‘나혼산’)",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112858164"
         },
         {
-          "title": "개막전 못 뛰었어도 입지는 걱정 없다…포르투 감독, 황인범 극찬 \"다재다능하고 영리, 중원 전체 커버하는 중요한 옵션\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260815n08900"
+          "title": "박경혜, 김신영에 전라도 사투리 과외 받았는데…\"오디션은 탈락\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260815_0003750631"
         }
       ]
     },
     {
-      "id": "시바이누코인",
-      "rank": 6,
-      "keyword": "시바이누코인",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '시바이누 막히고 이더리움·하이퍼리퀴드 반등 힘 받나…코인 3종 엇갈린 신호' (네이트) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "시바이누 막히고 이더리움·하이퍼리퀴드 반등 힘 받나…코인 3종 엇갈린 신호",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260815n00113"
-        },
-        {
-          "title": "비트코인 약세도 뚫었다…시바이누(SHIB), 소각률 618% 폭증에 4% 상승",
-          "source": "코인리더스",
-          "url": "https://www.coinreaders.com/252953"
-        },
-        {
-          "title": "97% 줄어든 시바리움 DEX 거래량, TVL 10만달러",
-          "source": "토큰포스트",
-          "url": "https://www.tokenpost.kr/news/cryptocurrency/391443"
-        }
-      ]
-    },
-    {
-      "id": "박선원",
+      "id": "유강남",
       "rank": 7,
-      "keyword": "박선원",
+      "keyword": "유강남",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '민주, 최고위원 1위 뒤집어졌다···박선원 1위, 최민희 2위' (주간경향) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''9회 폭투-폭투 허탈한 실점' 포수에게 책임 묻나, 유강남 2군행…박재엽-김현도 포수만 2명 콜업 [오!쎈 부산]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "민주, 최고위원 1위 뒤집어졌다···박선원 1위, 최민희 2위",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202608151948001"
-        },
-        {
-          "title": "최고위원 선거도 '친명' 강세...누적 1위도 빼앗아",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202608152313346097"
-        },
-        {
-          "title": "전남광주·전북 투표 결과 확인한 민주당 박선원·김용 최고위원 후보",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260815060200013"
-        }
-      ]
-    },
-    {
-      "id": "동굴",
-      "rank": 8,
-      "keyword": "동굴",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '터널공사 중 발견한 영월 분덕재동굴…관광 자원화 본격 추진' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "터널공사 중 발견한 영월 분덕재동굴…관광 자원화 본격 추진",
+          "title": "'9회 폭투-폭투 허탈한 실점' 포수에게 책임 묻나, 유강남 2군행…박재엽-김현도 포수만 2명 콜업 [오!쎈 부산]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/fYyksxlwtp?f=p"
+          "url": "https://v.daum.net/v/6gXX1uaevE"
         },
         {
-          "title": "터널공사 중 발견된 분덕재동굴…영월군 관광자원화 나선다",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/kangwon/6259952"
+          "title": "\"좋은 경기 될 뻔 했는데, 어이가 없었지…김원중 한 번만 더 본다\" 허망한 패배, 김태형 최후통첩 [오!쎈 부산]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/08/15/HFRTOYRXGMZTSOBVGRSDEMZVMQ/"
         },
         {
-          "title": "영월 분덕재동굴, 중장기 보전·활용 종합관리계획 수립 나선다",
-          "source": "프레시안",
-          "url": "https://www.pressian.com/pages/articles/2026081410410500778"
-        }
-      ]
-    },
-    {
-      "id": "스포츠조선",
-      "rank": 9,
-      "keyword": "스포츠조선",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '\"상당한 미모\"라던 황정민 폭로자, 직접 봤더니…007 작전 '변신'[이슈S]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"상당한 미모\"라던 황정민 폭로자, 직접 봤더니…007 작전 '변신'[이슈S]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/73WRLLHly1"
-        },
-        {
-          "title": "황정민 상대 손배소 법원 강제조정…내용은 비공개",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20260814019700038"
-        },
-        {
-          "title": "'황정민 스토킹' 벌금 1000만원 구형 이틀 만에…인스타 계정 '삭제' - 머니투데이",
+          "title": "김원중 폭투 자멸, 박건우 3타점, 임지민 안면 강타...NC, 롯데 꺾고 3연승 질주 '6위 한화 0.5경기 차 추격' [부산 리뷰] - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/13/2026081319353521031"
+          "url": "https://www.mt.co.kr/sports/2026/08/14/202608142149775297O"
         }
       ]
     },
     {
-      "id": "대구-도시철도-1호선",
-      "rank": 10,
-      "keyword": "대구 도시철도 1호선",
-      "volumeLabel": "100+",
+      "id": "모병제",
+      "rank": 8,
+      "keyword": "모병제",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '대구도시철도 1호선 연장 놓고 경산시-영천시 이해관계 충돌' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[이시각헤드라인] 8월 14일 뉴스현장' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "대구도시철도 1호선 연장 놓고 경산시-영천시 이해관계 충돌",
+          "title": "[이시각헤드라인] 8월 14일 뉴스현장",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260814012200038"
+        },
+        {
+          "title": "징병제 유지하되 ‘선택적 모병제’ 도입…뭐가 달라지나",
           "source": "Daum",
-          "url": "https://v.daum.net/v/FtiIiOB3X4?f=p"
+          "url": "https://v.daum.net/v/20260815160005993"
         },
         {
-          "title": "하양~영천 도시철도 연장, 노선·사업비 갈등",
-          "source": "tbc.co.kr",
-          "url": "https://www.tbc.co.kr/news/view?pno=20260814084239AE03944&id=209823&c1=code&c2="
+          "title": "[이시각헤드라인] 8월 14일 뉴스리뷰",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202608142029184P2"
+        }
+      ]
+    },
+    {
+      "id": "김시우",
+      "rank": 9,
+      "keyword": "김시우",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '임성재, PGA 투어 PO 1차전 3R 공동 2위…1위 셰플러와 두 타 차' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "임성재, PGA 투어 PO 1차전 3R 공동 2위…1위 셰플러와 두 타 차",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9DTNf9DgX9"
         },
         {
-          "title": "영천 가는 대구 1호선…‘801억 지방비’ 누가 얼마나",
-          "source": "경북일보",
-          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4080895"
+          "title": "김주형, PGA 투어 PO 1차전 3R 공동 10위 도약",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260816_0002213719"
+        },
+        {
+          "title": "세계 1위의 압도적 클래스…셰플러 하루에 9타 줄여 플레이오프 1차전 단독 선두",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/08/15/XHEGBYWSSNEHPHR3CLV4RDVO2U/"
+        }
+      ]
+    },
+    {
+      "id": "소형모듈원자로",
+      "rank": 10,
+      "keyword": "소형모듈원자로",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '빌 게이츠는 왜 韓 SMR 공급망을 택했나' (지디넷코리아) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "빌 게이츠는 왜 韓 SMR 공급망을 택했나",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260814172114"
+        },
+        {
+          "title": "한 총리, 빌 게이츠 만나 \"재생에너지·SMR 에너지믹스 모색\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/GtdWapoMpQ?f=p"
+        },
+        {
+          "title": "두산에너빌, 美 테라파워 SMR 기자재 공급",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8638087"
         }
       ]
     }
