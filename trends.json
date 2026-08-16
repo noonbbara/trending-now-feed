@@ -1,85 +1,45 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-16T11:26:57.903Z",
+  "updatedAt": "2026-08-16T11:49:44.419Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "한화-대-삼성",
-      "rank": 1,
-      "keyword": "한화 대 삼성",
-      "volumeLabel": "10000+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '취소하자마자 장대비 쏟아진 라팍, 빠른 결정 옳았다…페덱 vs 왕옌청 대결은 무산 [대구 현장]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "취소하자마자 장대비 쏟아진 라팍, 빠른 결정 옳았다…페덱 vs 왕옌청 대결은 무산 [대구 현장]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260816174809100"
-        },
-        {
-          "title": "프로야구 NC-롯데·한화-삼성전 우천 취소…추후 재편성(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260816032551007"
-        },
-        {
-          "title": "남부 지방 폭우에…프로야구 부산·대구 경기 취소(종합)",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260816_0003751038"
-        }
-      ]
-    },
-    {
-      "id": "울산-대-강원",
-      "rank": 2,
-      "keyword": "울산 대 강원",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
       "id": "송혜교",
-      "rank": 3,
+      "rank": 1,
       "keyword": "송혜교",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '배우 송혜교, 서경덕 교수와 ‘독립운동가 박자혜’ 영상 홍보' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+2",
+      "summary": "급상승 시점에 '송혜교, 광복절 새벽에 올린 사진…먹고난 수저 앞에서도 우아함 철철' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "배우 송혜교, 서경덕 교수와 ‘독립운동가 박자혜’ 영상 홍보",
+          "title": "송혜교, 광복절 새벽에 올린 사진…먹고난 수저 앞에서도 우아함 철철",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260816144855990"
+          "url": "https://v.daum.net/v/20260815144940076"
         },
         {
-          "title": "서경덕·송혜교, 광복절 맞아 '만세운동 간호사' 박자혜 알린다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/15/2026081509330181000"
+          "title": "송혜교, 집에서도 이 정도 미모…편안한 차림도 빛나 [DA★]",
+          "source": "동아일보",
+          "url": "https://www.donga.com/SODA/article/0210/20260816/134483962/1"
         },
         {
-          "title": "'만세운동 간호사' 박자혜…서경덕·송혜교, 다국어영상 공개",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260814149300371"
+          "title": "송혜교, 줄무늬 티셔츠 한 장 걸쳐도 확 사는 여배우 미모 [N샷]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6260287"
         }
       ]
     },
     {
       "id": "lck",
-      "rank": 4,
+      "rank": 2,
       "keyword": "lck",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+2",
       "summary": "급상승 시점에 'August 15, 2026: KT Rolster vs. Hanwha Life Esports Esports Prediction …' (Robinhood) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -101,41 +61,13 @@
       ]
     },
     {
-      "id": "인천-대-김천상무",
-      "rank": 5,
-      "keyword": "인천 대 김천상무",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''이청용·페리어 투톱-이동률 선발' 인천, 김천전 선발 라인업 발표 [인천 현장] - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'이청용·페리어 투톱-이동률 선발' 인천, 김천전 선발 라인업 발표 [인천 현장] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/16/2026081616542952755"
-        },
-        {
-          "title": "‘인천전 2연패’ 주승진 김천 감독 “강한 압박 대처, 중원 숫자 싸움, 세트피스 견제”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608161917003"
-        },
-        {
-          "title": "나란히 '리그 4경기 연속 무패' 달리는 두 팀이 만났다…인천-김천 맞대결 선발 라인업 공개 [MD현장]",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260816n09489"
-        }
-      ]
-    },
-    {
       "id": "김지은",
-      "rank": 6,
+      "rank": 3,
       "keyword": "김지은",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+3",
       "summary": "급상승 시점에 '김지은, 런닝맨 예고 사진 속 청순 비주얼' (톱스타뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -157,58 +89,142 @@
       ]
     },
     {
-      "id": "손해배상",
-      "rank": 7,
-      "keyword": "손해배상",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "id": "카라스코",
+      "rank": 4,
+      "keyword": "카라스코",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '교통사고 유족이 가해자에 손해배상해야 한다고? [어쩌다 세상이]' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[사진]LG 선발 카라스코, SSG 아빌라 맞대결 피하지 않아' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "교통사고 유족이 가해자에 손해배상해야 한다고? [어쩌다 세상이]",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/economy/12128872"
+          "title": "[사진]LG 선발 카라스코, SSG 아빌라 맞대결 피하지 않아",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/08/16/MRTGGM3BMJSWINLBMJRDMMTBMY/"
         },
         {
-          "title": "교통사고 유족 부의금, 가해자 배상액서 제외될까",
-          "source": "컨슈머치",
-          "url": "https://www.consumuch.com/news/articleView.html?idxno=78542"
+          "title": "[MD포토] 최지훈, '깔끔한 도루'",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260816n10542"
         },
         {
-          "title": "대법, 진학사 '스타트업 성과 무단사용' 인정한 2심 뒤집어",
+          "title": "‘ML 112승’ 대투수의 KBO 적응, 지금까진 OK…주 2회 등판 ‘관문’도 넘어라 [SS시선집중]",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1628804"
+        }
+      ]
+    },
+    {
+      "id": "김용빈",
+      "rank": 5,
+      "keyword": "김용빈",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“보고플 때마다 몰래 웁니다” 오승근, 故 김자옥 향한 마음 담았다 (금타는 금요일)' (iMBC 연예) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“보고플 때마다 몰래 웁니다” 오승근, 故 김자옥 향한 마음 담았다 (금타는 금요일)",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/514858"
+        },
+        {
+          "title": "‘금타는 금요일’ 정서주, 100점 1위",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260816090138547"
+          "url": "https://v.daum.net/v/20260815080907278"
+        },
+        {
+          "title": "美 천록담·춘길과 각별한 인연…슈퍼메기 \"고생하고 돈도 못 벌었다\" (금타는금요일) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/08/14/MVRGGYTEME3TSMBYHE3TQYZRGI/"
+        }
+      ]
+    },
+    {
+      "id": "최민희",
+      "rank": 6,
+      "keyword": "최민희",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '최민희 ‘수석최고’ 선두 탈환…‘팀정청래’ 후보 모두 최고위 입성하나' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "최민희 ‘수석최고’ 선두 탈환…‘팀정청래’ 후보 모두 최고위 입성하나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816192238350"
+        },
+        {
+          "title": "[속보] 최민희, 서울·경기 경선서 1위…최고위원 누적 득표율 1위 탈환",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608161838001"
+        },
+        {
+          "title": "호남, 당정 '안정'에 힘 실어‥최고위원 판도 '출렁'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6845032_37004.html"
         }
       ]
     },
     {
       "id": "도란",
-      "rank": 8,
+      "rank": 7,
       "keyword": "도란",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 'Gen.G Extends Winning Streak to 4 at T1's Home Ground' (Inven Global) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Gen.G Extends Winning Streak to 4 at T1's Home Ground",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/24829/geng-extends-winning-streak-to-4-at-t1s-home-ground"
+        },
+        {
+          "title": "GEN.G sweeps T1 at LCK 2026 Homeground event in Seoul",
+          "source": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/geng-sweeps-t1-at-lck-2026-homeground-event-in-seoul/"
+        },
+        {
+          "title": "LCK 2026 Round 3 Day 8 Recap: Gen.G Esports Back in Form With A Dominant Victory",
+          "source": "Yardbarker",
+          "url": "https://www.yardbarker.com/video_games/articles/lck_2026_round_3_day_8_recap_geng_esports_back_in_form_with_a_dominant_victory/s1_17456_44149472"
+        }
+      ]
+    },
+    {
+      "id": "pba-팀리그",
+      "rank": 8,
+      "keyword": "pba 팀리그",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''KSPO돔 참사' T1, 홈그라운드 충격 2연패→1위 등극 불발' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''헐크 영입 효과인가' 휴온스, 파죽의 4연승 2R 1위 질주…강동궁, 2R 3승 1패 선전' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'KSPO돔 참사' T1, 홈그라운드 충격 2연패→1위 등극 불발",
+          "title": "'헐크 영입 효과인가' 휴온스, 파죽의 4연승 2R 1위 질주…강동궁, 2R 3승 1패 선전",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260816185646072"
+          "url": "https://v.daum.net/v/20260816112100518"
         },
         {
-          "title": "[LCK] 젠지, 홈스탠드 완패 짜릿한 2-0 설욕…T1, 홈그라운드 뼈아픈 2패",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112858512"
+          "title": "'강동궁이 뒤집고 김세연이 끝냈다' 휴온스 파죽 4연승, PBA 팀리그 2R 단독 선두 질주 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/16/2026081612260314116"
         },
         {
-          "title": "T1 임재현 감독 \"1세트 조급함에 나온 다이브 실수… 승리할 로스터 기용할 것\" [LCK] (인터뷰)",
-          "source": "www.xportsnews.com",
-          "url": "https://www.xportsnews.com/article/2184415"
+          "title": "하이원리조트·휴온스, 나란히 PBA 팀리그 3연승…전력보강 효과",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260815018900007"
         }
       ]
     },
@@ -217,26 +233,26 @@
       "rank": 9,
       "keyword": "xsmn",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'XSMN 16/8 - Kết quả xổ số miền Nam hôm nay ngày 16/8/2026' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 'Xổ số miền Nam ngày 16 tháng 8: Người trúng số đài Đà Lạt xuất hiện sớm' (Thanh Niên) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "XSMN 16/8 - Kết quả xổ số miền Nam hôm nay ngày 16/8/2026",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/xsmn-16-8-ket-qua-xo-so-mien-nam-hom-nay-ngay-16-8-2026"
-        },
         {
           "title": "Xổ số miền Nam ngày 16 tháng 8: Người trúng số đài Đà Lạt xuất hiện sớm",
           "source": "Thanh Niên",
           "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-16-thang-8-nguoi-trung-so-dai-da-lat-xuat-hien-som-185260815114316976.htm"
         },
         {
-          "title": "Kết quả xổ số Kiên Giang hôm nay 16.8",
-          "source": "Laodong.vn",
-          "url": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-kien-giang-hom-nay-168-1751484.ldo"
+          "title": "Kết quả xổ số miền Bắc hôm nay ngày 16/8/2026 - XSMB 16/8",
+          "source": "Báo Sức khỏe & Đời sống",
+          "url": "https://suckhoedoisong.vn/ket-qua-xo-so-mien-bac-hom-nay-ngay-16-8-2026-xsmb-16-8-169260816180608312.htm"
+        },
+        {
+          "title": "Kết quả xổ số hôm nay ngày 16 tháng 8 năm 2026: XSKG, XSTG, XSDL và XSMN 16/8",
+          "source": "Báo Thế giới và Việt Nam",
+          "url": "https://baoquocte.vn/ket-qua-xo-so-hom-nay-ngay-16-thang-8-nam-2026-xskg-xstg-xsdl-va-xsmn-16-8-429349.html"
         }
       ]
     },
@@ -246,8 +262,8 @@
       "keyword": "딴지",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '“‘오디세이’는 용아맥에서만?” 웃돈 주고 샀는데 ‘낭패’…관객들이 당황한 이유' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
