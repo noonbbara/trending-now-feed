@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-16T16:33:29.570Z",
+  "updatedAt": "2026-08-16T17:25:58.495Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,7 +9,7 @@
       "rank": 1,
       "keyword": "삼전 닉스",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 '\"배당 말고 45조 자사주 사라\" 삼성전자에 '메리츠式 처방' 꺼낸 주주들 [fn마켓워치]' (Daum) 관련 뉴스가 함께 포착됐어요.",
@@ -26,20 +26,48 @@
           "url": "https://www.chosun.com/economy/money/2026/08/16/MCER7R4O4ZEWBDKKNIUGF4ATBQ/"
         },
         {
-          "title": "삼전닉스 ‘300조’ 환원 전망…1주당 배당금은?",
-          "source": "채널A",
-          "url": "https://ichannela.com/news/detail/000000545427.do"
+          "title": "＇안 팔길 잘했네＇…삼전닉스 ＇300조＇ 관측에 반도체 개미 ＇들썩＇",
+          "source": "한국경제TV",
+          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608160029"
+        }
+      ]
+    },
+    {
+      "id": "엘링-홀란",
+      "rank": 2,
+      "keyword": "엘링 홀란",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"홀란이 마약 포장에?\" 충격 사진 공개...에콰도르서 코카인 469kg 압수, 암시장 가치 '277억'' (미주중앙일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"홀란이 마약 포장에?\" 충격 사진 공개...에콰도르서 코카인 469kg 압수, 암시장 가치 '277억'",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260814105453142"
+        },
+        {
+          "title": "\"홀란 얼굴이 왜 여기서?\"…에콰도르 마약 포장지에 붙은 뜻밖의 스티커",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260814_0003749027"
+        },
+        {
+          "title": "'황당 촌극' 155억 규모 마약 뭉치서, '홀란드 발견'...경찰, 운반 차량 터니 얼굴 인쇄된 포장지 '우르르'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814153409390?f=p"
         }
       ]
     },
     {
       "id": "아스날",
-      "rank": 2,
+      "rank": 3,
       "keyword": "아스날",
       "volumeLabel": "1000+",
       "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '1만 회 시뮬레이션 돌린 수퍼컴퓨터, EPL 우승 0순위로 ‘이 팀’ 찍었다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -49,42 +77,14 @@
           "url": "https://v.daum.net/v/20260816132707923"
         },
         {
-          "title": "'우승했다고 끝난 게 아니다' 아스날, 진짜 지옥은 이제부터...BBC \"또 에베레스트 올라야 한다\" - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/football/2026/08/16/HA2GCYTEMIYGEZLFG42WKMRSG4/"
-        },
-        {
           "title": "골킥 5초 지연하면 상대에게 코너킥 부여… 프리미어리그, ‘시간 끌기’ 규제 대폭 강화",
           "source": "주간동아",
           "url": "https://weekly.donga.com/List/article/all/11/6347647/1"
-        }
-      ]
-    },
-    {
-      "id": "채령",
-      "rank": 3,
-      "keyword": "채령",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '채령, 팬미팅서 오열하더니...母 \"암환자 됐다\" 안타까운 근황 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "채령, 팬미팅서 오열하더니...母 \"암환자 됐다\" 안타까운 근황 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/16/2026081616051090468"
         },
         {
-          "title": "\"수술 전날 기도\" 있지 채령 모친 암 투병 고백…객석 끌어안고 쏟아낸 오열 '뭉클'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260816185951118"
-        },
-        {
-          "title": "“채령 오열 이유 있었나” 이채연 자매 母, 암 투병 고백에 응원 봇물",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608160958003"
+          "title": "슈퍼컴퓨터가 뽑은 EPL 우승팀은 아스널…토트넘은 7위 예상",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/overseas-soccer/6260258"
         }
       ]
     },
@@ -93,26 +93,26 @@
       "rank": 4,
       "keyword": "schalke vs real madrid",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Schalke 04: Real Madrid startet mit Weltstars um Mbappé - diese S04-Elf…' (RevierSport online) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 'Schallenbergs Blackout hilft Real - und Vinicius Junior lernt Timo Beck…' (Kicker) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Schalke 04: Real Madrid startet mit Weltstars um Mbappé - diese S04-Elf soll dagegenhalten",
-          "source": "RevierSport online",
-          "url": "https://www.reviersport.de/fussball/1bundesliga/a629507---schalke-04-real-madrid-startet-weltstars-um-mbappe-diese-s04-elf-soll-dagegenhalten.html"
+          "title": "Schallenbergs Blackout hilft Real - und Vinicius Junior lernt Timo Becker kennen",
+          "source": "Kicker",
+          "url": "https://www.kicker.de/schalke-gegen-real-madrid-2026-vereine-freundschaftsspiele-5249925/spielbericht"
         },
         {
-          "title": "Testspiele: Real auf Schalke, Hoffenheim bei den Spurs",
-          "source": "Ergebnisse",
-          "url": "https://www.flashscore.de/news/fussball-testspiele-heute-16-august/Od4NUZLi/"
+          "title": "Kantersieg im letzten Vorbereitungsspiel der Saison",
+          "source": "Real Madrid CF | Web Oficial",
+          "url": "https://www.realmadrid.com/de-DE/news/fussball/erste-mannshaft/berichte/schalke-04-real-madrid-16-08-2026"
         },
         {
-          "title": "Cucurella, Mbappé und Bellingham: Stars von Real Madrid in Düsseldorf – Fans jubeln bei Abreise vor Hotel",
-          "source": "RP Online",
-          "url": "https://rp-online.de/nrw/staedte/duesseldorf/duesseldorf-stars-von-real-madrid-vor-testspiel-im-hyatt-medienhafen_aid-153201197"
+          "title": "FC Schalke 04 - Real Madrid heute live im Ticker: Testspiel zwischen den Knappen und den Königlichen - Liveticker",
+          "source": "Eurosport",
+          "url": "https://www.eurosport.de/fussball/int.-freundschaftsspiele/2026/fc-schalke-04-real-madrid-heute-live-im-ticker-testspiel-zwischen-den-knappen-und-den-koeniglichen-liveticker_lci50028638/liveevent.shtml"
         }
       ]
     },
@@ -122,8 +122,8 @@
       "keyword": "기소",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '중학생 제자 20차례 '위력 성폭행' 40대 교사…검찰 수사가 죄명 바꿨다' (한국일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -149,16 +149,16 @@
       "rank": 6,
       "keyword": "맷 데이먼",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 '\"오디세이 20만원에\"…'암'적인 영화 암표, 처벌은 못 한다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '“‘오디세이’는 용아맥에서만?” 웃돈 주고 샀는데 ‘낭패’…관객들이 당황한 이유' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"오디세이 20만원에\"…'암'적인 영화 암표, 처벌은 못 한다",
+          "title": "“‘오디세이’는 용아맥에서만?” 웃돈 주고 샀는데 ‘낭패’…관객들이 당황한 이유",
           "source": "Daum",
-          "url": "https://v.daum.net/v/2tKGkl2uaq"
+          "url": "https://v.daum.net/v/20260816191213251"
         },
         {
           "title": "인간은 ‘길치’다… 명성 이뤄도 죽을 고생 해야만 귀향할 수 있는 존재[김영민의 본다는 것은]",
@@ -173,86 +173,86 @@
       ]
     },
     {
-      "id": "마레스카",
+      "id": "레알마드리드",
       "rank": 7,
-      "keyword": "마레스카",
+      "keyword": "레알마드리드",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '엔조 마레스카, 맨시티 리더 역할에 루벤 디아스에게 신뢰를 걸다' (Laodong.vn) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '샬케 04 vs 레알 마드리드 경기 예측: 예상 라인업' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "엔조 마레스카, 맨시티 리더 역할에 루벤 디아스에게 신뢰를 걸다",
+          "title": "샬케 04 vs 레알 마드리드 경기 예측: 예상 라인업",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-schalke-04-vs-real-madrid-doi-hinh-du-kien"
+        },
+        {
+          "title": "샬케 04 대 레알 마드리드 축구 예측",
           "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/enzo-maresca-dat-niem-tin-vao-ruben-dias-cho-vai-tro-thu-linh-man-city-1751497.ldo"
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-schalke-04-vs-real-madrid-1751371.ldo"
         },
         {
-          "title": "\"홀란이 캡틴이 되면 우리는 큰 문제가 생길 것\"… 주장단에 대한 의견 피력한 마레스카 감독, \"로드리는 지켜봐야\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812093009021"
-        },
-        {
-          "title": "[인터뷰]\"변화, 세대교체는 당연하다\" 한국서 프리시즌 2승 거두고 돌아간 맨체스터 시티 마레스카 감독 \"펩과의 비교는 어쩔 수 없다, 압박감 없다\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/08/11/HEZWENRRHEZDOYJRGRTGEMZWGQ/"
-        }
-      ]
-    },
-    {
-      "id": "프리미어리그",
-      "rank": 8,
-      "keyword": "프리미어리그",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 ''강인이 형 나도 떠난다'...'초대형 영입' 임박, 리버풀 '살라 후계자' 품는다! PSG에 무려 '2040억' 지불 결심→6…' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'강인이 형 나도 떠난다'...'초대형 영입' 임박, 리버풀 '살라 후계자' 품는다! PSG에 무려 '2040억' 지불 결심→6년 계약 예정",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260814233528389"
-        },
-        {
-          "title": "\"초대박!\" 리버풀 '1억 4500만 파운드 스타' 브래들리 바르콜라 영입 청신호…PSG, FC바르셀로나에서 새 공격수 영입 임박",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/08/15/MQZDKNJYMVRTCOJWGE4DSODFMI/"
-        },
-        {
-          "title": "'와' 리버풀 초대박 소식! 이강인 前 동료 드디어 품는다…\"공격진 보강한 만큼 이적 가능성 커지고 있어\"",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026081517254534843"
+          "title": "샬케 04 vs 레알 마드리드, 8월 16일 오후 10시: 스트리밍 링크, 분석 및 예측.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/schalke-04-vs-real-madrid-22h-ngay-16-8-link-xem-nhan-dinh-du-doan"
         }
       ]
     },
     {
       "id": "바르셀로나",
-      "rank": 9,
+      "rank": 8,
       "keyword": "바르셀로나",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-4",
-      "summary": "급상승 시점에 '바젤 vs FC 바르셀로나 생중계: 경기가 진행 중입니다' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '766억→1051억 높였는데도 또 '거절'...바르셀로나, 로드리 영입 '난항'' (OSEN) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "바젤 vs FC 바르셀로나 생중계: 경기가 진행 중입니다",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-basel-vs-fc-barcelona-tran-dau-dang-dien-ra"
+          "title": "766억→1051억 높였는데도 또 '거절'...바르셀로나, 로드리 영입 '난항'",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112857182"
         },
         {
-          "title": "바젤 대 바르셀로나, 8월 16일 오후 9시 30분: 스트리밍 링크, 분석 및 예측.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/basel-vs-barcelona-21h30-ngay-16-8-link-xem-nhan-dinh-du-doan"
+          "title": "'로드리 바르사행 대비' 맨시티, 07년생 MF에 1630억 베팅...영입 협상 막바지",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/UznVdRvmSa"
         },
         {
-          "title": "바젤 vs FC 바르셀로나 생중계: 선발 라인업",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-basel-vs-fc-barcelona-doi-hinh-xuat-phat"
+          "title": "'결국 로드리는 떠날 것이다' 맨체스터 시티↔FC바르셀로나 이적료 협상 1000만유로로 좁혀졌다, 5000만→6000만→7000만유로 3차 제시..'남은 2주 안에 성사될 것'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/08/16/GEYWCZRQMFRTKNBWHFRWGYLDMQ/"
+        }
+      ]
+    },
+    {
+      "id": "프리미어리그",
+      "rank": 9,
+      "keyword": "프리미어리그",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '\"韓 EPL 0명, 日? 떠오르는 태양\" 英 유력지 슬픈 비교…\"프리미어리그 자리 잡을 한국 선수도 많지 않아\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"韓 EPL 0명, 日? 떠오르는 태양\" 英 유력지 슬픈 비교…\"프리미어리그 자리 잡을 한국 선수도 많지 않아\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816185647074"
+        },
+        {
+          "title": "'한국 1-9 일본' 韓 축구 처참한 현실…박지성부터 시작해 손흥민이 만개시킨 PL 명맥 끊길 위기, 라이벌 日은 역대 최다 9명",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260816n10032"
+        },
+        {
+          "title": "韓선수 보기 드문 EPL… 뉴캐슬 박승수가 있다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260815/134482522/2"
         }
       ]
     },
@@ -261,9 +261,9 @@
       "rank": 10,
       "keyword": "무한도전",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-3",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '“‘무한도전 2026’ 준비했었다”…김태호 PD, 재결합 무산에 아쉬움 [MHN:픽]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
