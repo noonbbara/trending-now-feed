@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-16T15:52:08.463Z",
+  "updatedAt": "2026-08-16T16:33:29.570Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -21,14 +21,14 @@
           "url": "https://v.daum.net/v/20260816132639914"
         },
         {
-          "title": "'삼전닉스' 새 주주환원 정책에 주목하는 증권가",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608163946i"
-        },
-        {
           "title": "\"삼성전자·SK하이닉스 연간 최대 300조원 주주환원\"...코스피 반등 열쇠될까",
           "source": "조선일보",
           "url": "https://www.chosun.com/economy/money/2026/08/16/MCER7R4O4ZEWBDKKNIUGF4ATBQ/"
+        },
+        {
+          "title": "삼전닉스 ‘300조’ 환원 전망…1주당 배당금은?",
+          "source": "채널A",
+          "url": "https://ichannela.com/news/detail/000000545427.do"
         }
       ]
     },
@@ -37,7 +37,7 @@
       "rank": 2,
       "keyword": "아스날",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 '1만 회 시뮬레이션 돌린 수퍼컴퓨터, EPL 우승 0순위로 ‘이 팀’ 찍었다' (Daum) 관련 뉴스가 함께 포착됐어요.",
@@ -61,41 +61,13 @@
       ]
     },
     {
-      "id": "맷-데이먼",
-      "rank": 3,
-      "keyword": "맷 데이먼",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“‘오디세이’는 용아맥에서만?” 웃돈 주고 샀는데 ‘낭패’…관객들이 당황한 이유' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“‘오디세이’는 용아맥에서만?” 웃돈 주고 샀는데 ‘낭패’…관객들이 당황한 이유",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260816191213251"
-        },
-        {
-          "title": "인간은 ‘길치’다… 명성 이뤄도 죽을 고생 해야만 귀향할 수 있는 존재[김영민의 본다는 것은]",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Opinion/article/all/20260816/134486527/2"
-        },
-        {
-          "title": "[설왕설래] 오디세우스의 노래",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260816510786"
-        }
-      ]
-    },
-    {
       "id": "채령",
-      "rank": 4,
+      "rank": 3,
       "keyword": "채령",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '채령, 팬미팅서 오열하더니...母 \"암환자 됐다\" 안타까운 근황 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -117,41 +89,125 @@
       ]
     },
     {
-      "id": "바르셀로나",
-      "rank": 5,
-      "keyword": "바르셀로나",
-      "volumeLabel": "200+",
+      "id": "schalke-vs-real-madrid",
+      "rank": 4,
+      "keyword": "schalke vs real madrid",
+      "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '바젤 vs FC 바르셀로나 생중계: 경기가 진행 중입니다' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Schalke 04: Real Madrid startet mit Weltstars um Mbappé - diese S04-Elf…' (RevierSport online) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "바젤 vs FC 바르셀로나 생중계: 경기가 진행 중입니다",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-basel-vs-fc-barcelona-tran-dau-dang-dien-ra"
+          "title": "Schalke 04: Real Madrid startet mit Weltstars um Mbappé - diese S04-Elf soll dagegenhalten",
+          "source": "RevierSport online",
+          "url": "https://www.reviersport.de/fussball/1bundesliga/a629507---schalke-04-real-madrid-startet-weltstars-um-mbappe-diese-s04-elf-soll-dagegenhalten.html"
         },
         {
-          "title": "바젤 대 바르셀로나, 8월 16일 오후 9시 30분: 스트리밍 링크, 분석 및 예측.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/basel-vs-barcelona-21h30-ngay-16-8-link-xem-nhan-dinh-du-doan"
+          "title": "Testspiele: Real auf Schalke, Hoffenheim bei den Spurs",
+          "source": "Ergebnisse",
+          "url": "https://www.flashscore.de/news/fussball-testspiele-heute-16-august/Od4NUZLi/"
         },
         {
-          "title": "바젤 vs FC 바르셀로나 생중계: 선발 라인업",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-basel-vs-fc-barcelona-doi-hinh-xuat-phat"
+          "title": "Cucurella, Mbappé und Bellingham: Stars von Real Madrid in Düsseldorf – Fans jubeln bei Abreise vor Hotel",
+          "source": "RP Online",
+          "url": "https://rp-online.de/nrw/staedte/duesseldorf/duesseldorf-stars-von-real-madrid-vor-testspiel-im-hyatt-medienhafen_aid-153201197"
+        }
+      ]
+    },
+    {
+      "id": "기소",
+      "rank": 5,
+      "keyword": "기소",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '중학생 제자 20차례 '위력 성폭행' 40대 교사…검찰 수사가 죄명 바꿨다' (한국일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "중학생 제자 20차례 '위력 성폭행' 40대 교사…검찰 수사가 죄명 바꿨다",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026081416110002364"
+        },
+        {
+          "title": "경찰은 “서로 동의”…檢 재수사하자 여중생 제자 20차례 성폭행",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/ULucsfmjCg"
+        },
+        {
+          "title": "제자 간음·추행 혐의 중학교 교사 구속기소",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8637559"
+        }
+      ]
+    },
+    {
+      "id": "맷-데이먼",
+      "rank": 6,
+      "keyword": "맷 데이먼",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-3",
+      "summary": "급상승 시점에 '\"오디세이 20만원에\"…'암'적인 영화 암표, 처벌은 못 한다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"오디세이 20만원에\"…'암'적인 영화 암표, 처벌은 못 한다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/2tKGkl2uaq"
+        },
+        {
+          "title": "인간은 ‘길치’다… 명성 이뤄도 죽을 고생 해야만 귀향할 수 있는 존재[김영민의 본다는 것은]",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Opinion/article/all/20260816/134486527/2"
+        },
+        {
+          "title": "[서울on] ‘새로운 헬레네’를 위하여",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/editOpinion/column/Journalist-perspective/2026/08/17/20260817026003"
+        }
+      ]
+    },
+    {
+      "id": "마레스카",
+      "rank": 7,
+      "keyword": "마레스카",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '엔조 마레스카, 맨시티 리더 역할에 루벤 디아스에게 신뢰를 걸다' (Laodong.vn) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "엔조 마레스카, 맨시티 리더 역할에 루벤 디아스에게 신뢰를 걸다",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/enzo-maresca-dat-niem-tin-vao-ruben-dias-cho-vai-tro-thu-linh-man-city-1751497.ldo"
+        },
+        {
+          "title": "\"홀란이 캡틴이 되면 우리는 큰 문제가 생길 것\"… 주장단에 대한 의견 피력한 마레스카 감독, \"로드리는 지켜봐야\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812093009021"
+        },
+        {
+          "title": "[인터뷰]\"변화, 세대교체는 당연하다\" 한국서 프리시즌 2승 거두고 돌아간 맨체스터 시티 마레스카 감독 \"펩과의 비교는 어쩔 수 없다, 압박감 없다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/08/11/HEZWENRRHEZDOYJRGRTGEMZWGQ/"
         }
       ]
     },
     {
       "id": "프리미어리그",
-      "rank": 6,
+      "rank": 8,
       "keyword": "프리미어리그",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 ''강인이 형 나도 떠난다'...'초대형 영입' 임박, 리버풀 '살라 후계자' 품는다! PSG에 무려 '2040억' 지불 결심→6…' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -173,13 +229,41 @@
       ]
     },
     {
+      "id": "바르셀로나",
+      "rank": 9,
+      "keyword": "바르셀로나",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-4",
+      "summary": "급상승 시점에 '바젤 vs FC 바르셀로나 생중계: 경기가 진행 중입니다' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "바젤 vs FC 바르셀로나 생중계: 경기가 진행 중입니다",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-basel-vs-fc-barcelona-tran-dau-dang-dien-ra"
+        },
+        {
+          "title": "바젤 대 바르셀로나, 8월 16일 오후 9시 30분: 스트리밍 링크, 분석 및 예측.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/basel-vs-barcelona-21h30-ngay-16-8-link-xem-nhan-dinh-du-doan"
+        },
+        {
+          "title": "바젤 vs FC 바르셀로나 생중계: 선발 라인업",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-basel-vs-fc-barcelona-doi-hinh-xuat-phat"
+        }
+      ]
+    },
+    {
       "id": "무한도전",
-      "rank": 7,
+      "rank": 10,
       "keyword": "무한도전",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "down",
-      "changeLabel": "-1",
+      "changeLabel": "-3",
       "summary": "급상승 시점에 '“‘무한도전 2026’ 준비했었다”…김태호 PD, 재결합 무산에 아쉬움 [MHN:픽]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -197,90 +281,6 @@
           "title": "“박명수에 외모로 져” 김태호 PD·박명수·정준하·하하 ‘팀 무도’ 뭉쳤는데… 최대 관심사가 외모 순위?",
           "source": "스포츠경향",
           "url": "https://sports.khan.co.kr/article/202608161726003"
-        }
-      ]
-    },
-    {
-      "id": "arsenal-đấu-với-man-city",
-      "rank": 8,
-      "keyword": "arsenal đấu với man city",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'Enzo Maresca gửi \"chiến thư\" tới Arsenal' (yeuthethao.net.vn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Enzo Maresca gửi \"chiến thư\" tới Arsenal",
-          "source": "yeuthethao.net.vn",
-          "url": "https://yeuthethao.net.vn/enzo-maresca-gui-chien-thu-toi-arsenal-d891172.html"
-        },
-        {
-          "title": "Arsenal 1-0 Man City: Raya từ chối siêu phẩm của Foden",
-          "source": "bongda.com.vn",
-          "url": "https://bongda.com.vn/arsenal-1-0-man-city-raya-tu-choi-sieu-pham-cua-foden-d843639.html"
-        },
-        {
-          "title": "Kênh và link xem trực tiếp Siêu cúp Anh 2026 - Arsenal vs Man City",
-          "source": "Báo Sức khỏe & Đời sống",
-          "url": "https://suckhoedoisong.vn/kenh-va-link-xem-truc-tiep-sieu-cup-anh-2026-arsenal-vs-man-city-169260816193611722.htm"
-        }
-      ]
-    },
-    {
-      "id": "epl",
-      "rank": 9,
-      "keyword": "epl",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'Oliver Glasner sanctions shock £17m Nottingham Forest exit, fans will b…' (Nottingham Forest News) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Oliver Glasner sanctions shock £17m Nottingham Forest exit, fans will be devastated",
-          "source": "Nottingham Forest News",
-          "url": "https://www.nottinghamforest.news/2026/08/16/oliver-glasner-sanctions-shock-17m-nottingham-forest-exit-fans-will-be-devastated/"
-        },
-        {
-          "title": "Coventry City set to sign former Liverpool striker",
-          "source": "DaveOCKOP",
-          "url": "https://www.daveockop.com/transfer-news/coventry-city-set-to-sign-former-liverpool-striker/"
-        },
-        {
-          "title": "Announcement imminent: Super Eagles striker joins Coventry City from Nottingham Forest, subject to medical",
-          "source": "AllNigeriaSoccer",
-          "url": "https://www.allnigeriasoccer.com/announcement-imminent-super-eagles-striker-joins-coventry-city-from-nottingham-forest-subject-to-medical"
-        }
-      ]
-    },
-    {
-      "id": "런닝맨",
-      "rank": 10,
-      "keyword": "런닝맨",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '\"누가 더 파장 클까\" 이주연, 지드래곤 열애설 언급에 입꾹 닫고 당혹 ('런닝맨')' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"누가 더 파장 클까\" 이주연, 지드래곤 열애설 언급에 입꾹 닫고 당혹 ('런닝맨')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260816202751044"
-        },
-        {
-          "title": "런닝맨 : [선공개] “조용히 조용히!” 이주연, ‘겁쟁이들’ 유재석×지석진과 함께 공포 방탈출 시작",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/runningman/clip/52880/OC481095268?div=live_end"
-        },
-        {
-          "title": "“방귀 9번 꼈는데 옆에 있어줘” 하하, 공포 체험장서 김지은 의리에 감동 (‘런닝맨’)[종합]",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12129157"
         }
       ]
     }
