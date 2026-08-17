@@ -1,52 +1,24 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-17T11:32:59.877Z",
+  "updatedAt": "2026-08-17T12:57:55.995Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "부모",
+      "id": "김부선",
       "rank": 1,
-      "keyword": "부모",
+      "keyword": "김부선",
       "volumeLabel": "10000+",
       "startedLabel": "3시간 전",
       "change": "up",
       "changeLabel": "+1",
-      "summary": "급상승 시점에 '\"시부 팔순잔치 못했으니 친정부모도 챙기지 마\"…시모·시누이 억지 시끌' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"시부 팔순잔치 못했으니 친정부모도 챙기지 마\"…시모·시누이 억지 시끌",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6260537"
-        },
-        {
-          "title": "[허프 US] 부모가 자신도 모르게 '아이의 불안'을 키우는 8가지 행동",
-          "source": "허프포스트코리아",
-          "url": "https://www.huffingtonpost.kr/article/259573"
-        },
-        {
-          "title": "작은 독립의 경험이 아동 불안 줄인다",
-          "source": "정신의학신문",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "id": "김부선",
-      "rank": 2,
-      "keyword": "김부선",
-      "volumeLabel": "5000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] 김부선과 고인, 무슨 사이였길래 ‘난방열사’ 집까지 가압류' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[단독] 김부선과 고인, 무슨 사이였길래 ‘난방열사’ 집까지 가압류' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "[단독] 김부선과 고인, 무슨 사이였길래 ‘난방열사’ 집까지 가압류",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608171338003"
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817134009731"
         },
         {
           "title": "\"김부선, 지인 유족과 2억 대여금 반환 소송\"",
@@ -54,177 +26,200 @@
           "url": "https://www.newsis.com/view/NISX20260817_0003751531"
         },
         {
-          "title": "김부선, 고인 유족에 피소… “빌린 돈” vs “지원금”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817161507007"
+          "title": "“매월 300만원 보냈다”…김부선 지인 숨지자 유족 “2억원 돌려달라” 소송 [이슈픽]",
+          "source": "서울신문",
+          "url": "https://amp.seoul.co.kr/news/society/2026/08/17/20260817500101"
         }
       ]
     },
     {
-      "id": "테라파워",
-      "rank": 3,
-      "keyword": "테라파워",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '빌 게이츠 만난 최태원, 차세대 원전 산업 발전 방향 논의' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "id": "로봇",
+      "rank": 2,
+      "keyword": "로봇",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '젠슨황과 구광모 만난 지 나흘만에…딸이 LG 로봇거점 찾는다' (매일경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "빌 게이츠 만난 최태원, 차세대 원전 산업 발전 방향 논의",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11609931"
+          "title": "젠슨황과 구광모 만난 지 나흘만에…딸이 LG 로봇거점 찾는다",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12129290"
         },
         {
-          "title": "두산에너빌리티, 美 테라파워 차세대 SMR 핵심 기자재 수주",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260816509334"
+          "title": "매디슨 황, LG 로봇 거점 찾는다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608172027035"
         },
         {
-          "title": "깊어지는 최태원·빌 게이츠 SMR 동맹…AI 전력 핵심파트너",
+          "title": "젠슨 황 장녀, LG전자 양재 센터 찾는다…LG-엔비디아 '피지컬 AI' 협력 논의",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260817_0003751436"
+        }
+      ]
+    },
+    {
+      "id": "선수권-대회",
+      "rank": 3,
+      "keyword": "선수권 대회",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''세계 6위' 이끈 U17 女배구 이승여 감독 \"한국 배구 위기 아냐\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'세계 6위' 이끈 U17 女배구 이승여 감독 \"한국 배구 위기 아냐\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817104254689"
+        },
+        {
+          "title": "U17 여자배구, 6위로 세계선수권 마감‥손서연 '득점 2위'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6845319_37004.html"
+        },
+        {
+          "title": "'리틀 김연경' 손서연, U-17 세계선수권서 우뚝 \"더 성장하겠다\"",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260816024400003"
+          "url": "https://www.yna.co.kr/view/AKR20260817033900007"
+        }
+      ]
+    },
+    {
+      "id": "iphone-17-pro",
+      "rank": 4,
+      "keyword": "iphone 17 pro",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'The Pixel 11 series: Your most personal Pixel yet' (blog.google) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "The Pixel 11 series: Your most personal Pixel yet",
+          "source": "blog.google",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/"
+        },
+        {
+          "title": "Google Pixel 11 vs Samsung Galaxy S26: Specs, price, camera details",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/google-pixel-11-vs-samsung-galaxy-s26-specs-price-cameras"
+        },
+        {
+          "title": "8 things we learned from Google's Pixel 11 event",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/tech/8-things-learned-googles-pixel-11-event"
+        }
+      ]
+    },
+    {
+      "id": "니콜-키드먼",
+      "rank": 5,
+      "keyword": "니콜 키드먼",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '59세 니콜 키드먼, 검은 가죽옷에 담배 물고 클럽 입성 젊은 남성 유혹...25년만의 뮤비 출연' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "59세 니콜 키드먼, 검은 가죽옷에 담배 물고 클럽 입성 젊은 남성 유혹...25년만의 뮤비 출연",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817153809148"
+        },
+        {
+          "title": "니콜 키드먼, 28세 연하남과 담배 피우고 술 마시며 관능적 댄스 '찬양'[Oh!llywood] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/15/MFSTSNDBGNSWCNDEHE2GINBWGU/"
         }
       ]
     },
     {
       "id": "서미화",
-      "rank": 4,
+      "rank": 6,
       "keyword": "서미화",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[속보] 與전대 최고위원 최민희·박선원·서미화·이성윤·한민수順' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[속보] 與전대 최고위원 최민희·박선원·서미화·이성윤·한민수順",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817185655853"
-        },
-        {
-          "title": "\"표 몰아달라\" 친청 VS 친명 막판 수싸움... 수석 최고위원 차지냐, 5위 구하기냐",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026081711010001717"
-        },
-        {
-          "title": "'친청계 3인' 전원 최고위원 입성 …與지도부 레드팀, 金리더십 흔들까 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/politics/2026/08/17/2026081717164997395"
-        }
-      ]
-    },
-    {
-      "id": "조-째즈",
-      "rank": 5,
-      "keyword": "조 째즈",
-      "volumeLabel": "1000+",
       "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '임영웅, 요즘 연애 고민 있나…'말자쇼' 조째즈 \"최근 연애 상담해 줘\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 '당대표만큼 치열했던 최고위원 선거‥김용 탈락에 '친청' 과반' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "임영웅, 요즘 연애 고민 있나…'말자쇼' 조째즈 \"최근 연애 상담해 줘\"",
+          "title": "당대표만큼 치열했던 최고위원 선거‥김용 탈락에 '친청' 과반",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260817091129906"
+          "url": "https://v.daum.net/v/20260817202226390"
         },
         {
-          "title": "\"임영웅 연애 상담도 해줘\"..조째즈, 톱스타들의 '공감 요정' ('말자쇼')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/17/MZSTEMTCMI3TMMJVHBQWIMDEGY/"
+          "title": "“친명 與 장악하면 친청계 최고위원서 배신자 나올 수도”[정치를 부탁해]",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20260817/134491338/1"
         },
         {
-          "title": "‘말자쇼’ 조째즈, 주지훈·남주혁에 ‘임영웅 연애 상담’까지…황금 인맥 자랑",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12129199"
-        }
-      ]
-    },
-    {
-      "id": "대한민국",
-      "rank": 6,
-      "keyword": "대한민국",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'OECD 2위 결핵 발생국 대한민국…집단시설 관리체계는 ‘빈틈’' (한겨레) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "OECD 2위 결핵 발생국 대한민국…집단시설 관리체계는 ‘빈틈’",
+          "title": "민주 선출직 최고위원 ‘친청 3명, 친명 2명’…김민석 리더십 ‘견제’ 선택",
           "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/health/1273276.html"
-        },
-        {
-          "title": "‘대한민국 초대 대통령’ 광복절 경축식 독립운동 6인에서 제외…李 정부, 이승만 지우기 신호탄?",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11609947"
-        },
-        {
-          "title": "광복절 경축식 영상에 독립운동 6인… 이승만 빠져",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/politics_general/2026/08/17/YZ5F4KBVMVGHVFH5LRRVF2HIGM/"
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1273306.html"
         }
       ]
     },
     {
-      "id": "티비",
+      "id": "김상욱",
       "rank": 7,
-      "keyword": "티비",
+      "keyword": "김상욱",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김상욱 울산시장, 지역신문 홍보비 집행기준 마련하나' (미디어오늘) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김상욱 울산시장, 지역신문 홍보비 집행기준 마련하나",
+          "source": "미디어오늘",
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336437"
+        },
+        {
+          "title": "전국의 김상욱들, 힘내! [세상읽기]",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/opinion/column/1272081.html"
+        },
+        {
+          "title": "(민선 9기 한달)⑤김상욱 울산호, '여소야대 벽'에도 현장개혁 '속도전'",
+          "source": "뉴스토마토",
+          "url": "https://www.newstomato.com/readnews.aspx?no=1309737"
+        }
+      ]
+    },
+    {
+      "id": "김태선",
+      "rank": 8,
+      "keyword": "김태선",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'What will TV look like in three years? Media insiders share their predi…' (CNBC) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '비서실장 김태선·수석대변인 박성준…김민석 與대표 첫 인선(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "What will TV look like in three years? Media insiders share their predictions",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/08/17/tv-media-insiders-predictions.html"
-        },
-        {
-          "title": "Cable TV subscriptions fall to 68.7M as streaming dominates viewing",
-          "source": "eciks.org",
-          "url": "https://eciks.org/21136-cable-tv-subscriptions-decline-streaming"
-        },
-        {
-          "title": "Here's what TV will look like in three years, according to 10 industry execs",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/video/2026/08/17/what-tv-will-look-like-in-three-years-according-to-industry-execs.html"
-        }
-      ]
-    },
-    {
-      "id": "디즈니",
-      "rank": 8,
-      "keyword": "디즈니",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '디즈니, 젊은 팬 찾아 게임·틱톡으로 확장...“새 세대에 이야기 이어지도록”' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "디즈니, 젊은 팬 찾아 게임·틱톡으로 확장...“새 세대에 이야기 이어지도록”",
+          "title": "비서실장 김태선·수석대변인 박성준…김민석 與대표 첫 인선(종합)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260817180209008"
+          "url": "https://v.daum.net/v/20260817212751361"
         },
         {
-          "title": "조시 다마로 CEO \"난 디즈니 직원이기 전에 한 명의 팬\"",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026081754091"
+          "title": "김민석, 당선 후 첫 행보로 '집중호우 피해' 거제 찾아",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260817067100001"
         },
         {
-          "title": "98세 미키 다음은 누가 될까…디즈니의 답은 '새 캐릭터' 아닌 '숏폼'",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260816n08047"
+          "title": "김민석, 당대표 선출 직후 경남 거제로 “비 피해 점검”…내일 현충원·모레 부산 경남행",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8638676"
         }
       ]
     },
@@ -232,10 +227,10 @@
       "id": "신세계",
       "rank": 9,
       "keyword": "신세계",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '신세계百, 역대 최대 '베이비페어'…육아용품 최대 40% 할인' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -261,9 +256,9 @@
       "rank": 10,
       "keyword": "제주 sk fc",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '제주항공, 제주SK FC 홈경기서 '브랜드데이' 진행' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
