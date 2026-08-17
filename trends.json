@@ -1,17 +1,73 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-17T19:33:54.291Z",
+  "updatedAt": "2026-08-17T20:35:08.267Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "넥슨",
+      "id": "당대표",
       "rank": 1,
+      "keyword": "당대표",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '더불어민주당 새 당대표 '김민석'‥최고위원 1위 최민희' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "더불어민주당 새 당대표 '김민석'‥최고위원 1위 최민희",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6845298_37004.html"
+        },
+        {
+          "title": "김민석, 현충원 참배·DJ 추도식 참석…靑 비서실장 접견도",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260817069000001"
+        },
+        {
+          "title": "‘석패’ 정청래 “이번엔 조직이 너무 셌다…졌지만 우리의 가치와 열정은 지지 않아”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608171950001"
+        }
+      ]
+    },
+    {
+      "id": "최애의-사원",
+      "rank": 2,
+      "keyword": "최애의 사원",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '차우민, 김혜준 향한 달콤한 직진 '찬폭스' 모먼트' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "차우민, 김혜준 향한 달콤한 직진 '찬폭스' 모먼트",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/YCxlJW6b38"
+        },
+        {
+          "title": "'최애의 사원' 강훈 김혜준 차우민, 삼각관계 불붙는다! 관계 변화 조짐 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/17/2026081714507260186"
+        },
+        {
+          "title": "드라마 김혜준 & 강훈 & 차우민",
+          "source": "allure Korea",
+          "url": "https://www.allurekorea.com/2026/08/17/%EB%93%9C%EB%9D%BC%EB%A7%88-%EC%B5%9C%EC%95%A0%EC%9D%98-%EC%82%AC%EC%9B%90-%EA%B9%80%ED%98%9C%EC%A4%80-%EA%B0%95%ED%9B%88-%EC%B0%A8%EC%9A%B0%EB%AF%BC/"
+        }
+      ]
+    },
+    {
+      "id": "넥슨",
+      "rank": 3,
       "keyword": "넥슨",
       "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '넥슨 품에 안긴 오버워치, 제2의 전성기 정조준' (지디넷코리아) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,13 +89,41 @@
       ]
     },
     {
-      "id": "국경",
-      "rank": 2,
-      "keyword": "국경",
+      "id": "정년",
+      "rank": 4,
+      "keyword": "정년",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+2",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '정년 후 재고용, 이제 회사 마음대로 못한다?… 대법 \"관행 따져야\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "정년 후 재고용, 이제 회사 마음대로 못한다?… 대법 \"관행 따져야\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/YJlzUDUZs9"
+        },
+        {
+          "title": "\"정년 됐다고 왜 집에 가세요?\"... 하림이 시니어를 붙잡는 이유",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/pbjhcuaeUO"
+        },
+        {
+          "title": "오랜 기억이 자산으로…어르신 삶 기록하는 '노인 작가단'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260816_0003750939"
+        }
+      ]
+    },
+    {
+      "id": "국경",
+      "rank": 5,
+      "keyword": "국경",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-3",
       "summary": "급상승 시점에 '장탄 국경 경비대는 범죄 예방 및 통제 홍보 활동을 강화하고 있습니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -61,13 +145,41 @@
       ]
     },
     {
+      "id": "퇴직",
+      "rank": 6,
+      "keyword": "퇴직",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '점유율 20% 밑으로… 보험사 입지 '흔들' [550조 연금전쟁 上-③]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "점유율 20% 밑으로… 보험사 입지 '흔들' [550조 연금전쟁 上-③]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818050009383"
+        },
+        {
+          "title": "은행서 증권사로… 퇴직연금 머니무브 [550조 연금전쟁 上-②]",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2614926"
+        },
+        {
+          "title": "퇴직연금 어디 맡기지…3년 수익률 105% 최강자는 [이슈 플러스]",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1143490"
+        }
+      ]
+    },
+    {
       "id": "fc온라인",
-      "rank": 3,
+      "rank": 7,
       "keyword": "fc온라인",
       "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "4시간 전",
       "change": "down",
-      "changeLabel": "-1",
+      "changeLabel": "-4",
       "summary": "급상승 시점에 '황제를 넘어서다…BFX 김선재, 3대1로 KT 김정민 제압 (FSL 서머) [종합]' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -89,69 +201,13 @@
       ]
     },
     {
-      "id": "어벤져스-둠스데이",
-      "rank": 4,
-      "keyword": "어벤져스 둠스데이",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '“내가 바로 둠이다”…‘어벤져스: 둠스데이’ 예고편 공개, 거대한 전쟁의 서막' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“내가 바로 둠이다”…‘어벤져스: 둠스데이’ 예고편 공개, 거대한 전쟁의 서막",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260817/134487331/1"
-        },
-        {
-          "title": "마블민국 명성 되찾나..로다주 복귀 '어벤져스: 둠스데이' 압도적 예고편",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/movie/2026/08/15/G4ZDOMDGG5QTGNZTG5TGMMBUME/"
-        },
-        {
-          "title": "'어벤져스'에 돌아온 로다주…'둠스데이' 절대악 등장 예고",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260815171709918"
-        }
-      ]
-    },
-    {
-      "id": "창원시장",
-      "rank": 5,
-      "keyword": "창원시장",
+      "id": "브루스-윌리스",
+      "rank": 8,
+      "keyword": "브루스 윌리스",
       "volumeLabel": "500+",
       "startedLabel": "5시간 전",
-      "change": "up",
-      "changeLabel": "+3",
-      "summary": "급상승 시점에 '\"인명·재산 지켜라\" … 창원특례시, 호우 피해 대비 주요 방재시설 집중점검' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"인명·재산 지켜라\" … 창원특례시, 호우 피해 대비 주요 방재시설 집중점검",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026081718303820427"
-        },
-        {
-          "title": "창원시, 대조기·집중호우 대비 구항 배수펌프장 점검",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260817_0003751602"
-        },
-        {
-          "title": "마산합포구청장, 호우특보 해수면 상승 해안가 긴급점검",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6563862"
-        }
-      ]
-    },
-    {
-      "id": "브루스-윌리스",
-      "rank": 6,
-      "keyword": "브루스 윌리스",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 ''5명 딸부자' 브루스 윌리스, '치매'에도 데미 무어와 막내딸 결혼식 참석..미소 [월드스타이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -173,13 +229,41 @@
       ]
     },
     {
-      "id": "판문점-도끼",
-      "rank": 7,
-      "keyword": "판문점 도끼",
+      "id": "대치동",
+      "rank": 9,
+      "keyword": "대치동",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“대치동 집 세주고 지방에 개업한 사업가들 비상” 실거주 기조에 서울 ‘쏠림’ 심화하나 [부동산360]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“대치동 집 세주고 지방에 개업한 사업가들 비상” 실거주 기조에 서울 ‘쏠림’ 심화하나 [부동산360]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817170211919"
+        },
+        {
+          "title": "전세의 월세화…7년새 월세 비중 7.8%p 증가",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260818052044iPo"
+        },
+        {
+          "title": "한국 주거비가 그동안 얼마나 쌌는지는, 그게 끝난 뒤에야 다들 알게 됨",
+          "source": "네이버 프리미엄콘텐츠",
+          "url": "https://contents.premium.naver.com/richrise/premium/contents/260817200656702kc"
+        }
+      ]
+    },
+    {
+      "id": "판문점-도끼",
+      "rank": 10,
+      "keyword": "판문점 도끼",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-3",
       "summary": "급상승 시점에 '‘도끼만행 50년’ 美장교 유족·전우... “활기찬 한국은 살아있는 기념비”' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -199,46 +283,6 @@
           "url": "https://v.daum.net/v/20260816055647697"
         }
       ]
-    },
-    {
-      "id": "황현민",
-      "rank": 8,
-      "keyword": "황현민",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 '“배정남, 마르코에 폭행 당해 조폭 데려와” 황현민 폭로' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“배정남, 마르코에 폭행 당해 조폭 데려와” 황현민 폭로",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/B3IepEpXUV"
-        },
-        {
-          "title": "잼 출신 황현민, '배정남·마르코 난투극설' 재소환 왜?",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260817_0003751567"
-        },
-        {
-          "title": "잼 출신 황현민, 뜬금 배정남 마르코 난투극 재소환 “2천만원 합의금”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12129442"
-        }
-      ]
-    },
-    {
-      "id": "어쌔신-크리드-오디세이",
-      "rank": 9,
-      "keyword": "어쌔신 크리드 오디세이",
-      "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
     }
   ]
 }
