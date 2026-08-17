@@ -1,129 +1,45 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-17T22:31:47.049Z",
+  "updatedAt": "2026-08-17T23:29:19.131Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "민생지원금",
+      "id": "나는-solo",
       "rank": 1,
-      "keyword": "민생지원금",
-      "volumeLabel": "50000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '2026 민생지원금 4차 지급확정, 신청일자·지급대상·신청방법' (네이버 프리미엄콘텐츠) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "2026 민생지원금 4차 지급확정, 신청일자·지급대상·신청방법",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/lifenewsroom/mlife/contents/260815224703661jy"
-        },
-        {
-          "title": "‘한 명에 35만 원’ 통영 민생회복지원금 31일부터 지급",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8638522"
-        },
-        {
-          "title": "창원도 민생지원금 지급 검토",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817140257235"
-        }
-      ]
-    },
-    {
-      "id": "재건축",
-      "rank": 2,
-      "keyword": "재건축",
+      "keyword": "나는 solo",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“분담금 3억인 줄 알았는데 6억?”…총회 반대해도 돈 더 내야 하나 [집과법]' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '10기 옥순, 이혼설 이겨냈다…‘돌싱’ 유현철과 재혼 준비에 한창' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“분담금 3억인 줄 알았는데 6억?”…총회 반대해도 돈 더 내야 하나 [집과법]",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260814/134457515/2"
-        },
-        {
-          "title": "재건축·재개발의 위험…\"새 아파트 무조건 받는 것 아냐\" 경고 [이송렬의 우주인]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026081407976"
-        },
-        {
-          "title": "“부담금 5억, 양도세 12억 더 뛴다”…20년 기다린 반포 날벼락 [안장원의 부동산 노트]",
+          "title": "10기 옥순, 이혼설 이겨냈다…‘돌싱’ 유현철과 재혼 준비에 한창",
           "source": "Daum",
-          "url": "https://v.daum.net/v/BOBPfPCESb?f=p"
-        }
-      ]
-    },
-    {
-      "id": "고속도로",
-      "rank": 3,
-      "keyword": "고속도로",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘좋아요’ 받으려 끔찍…10대 5명 고속도로서 전원 사망, 무슨 일' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘좋아요’ 받으려 끔찍…10대 5명 고속도로서 전원 사망, 무슨 일",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818001612124"
+          "url": "https://v.daum.net/v/20260818074609567"
         },
         {
-          "title": "“SNS ‘좋아요’ 받으려” 고속도 역주행…아일랜드 10대 5명 숨져",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8638806"
+          "title": "유현철, '10기 옥순' 김슬기와 위기 극복 후 웨딩촬영 공개 \"예쁜 슬기\" - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/18/MQ3WGYJSGU4GKMJTMZSTANJVHA/"
         },
         {
-          "title": "“좋아요” 받으려고 고속도로 역주행 청소년 5인방 사망[아하유럽]",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11609965"
-        }
-      ]
-    },
-    {
-      "id": "최태원",
-      "rank": 4,
-      "keyword": "최태원",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '최태원·빌 게이츠…AI 전력·SMR 협력 논의' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "최태원·빌 게이츠…AI 전력·SMR 협력 논의",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818054111964"
-        },
-        {
-          "title": "빌 게이츠 만난 SK최태원·HD현대 정기선…차세대 원전 사업화 속도",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260817_0003751583"
-        },
-        {
-          "title": "HD현대-테라파워-현대건설, 미국 SMR(소형모듈원자로) 시장 선점 박차",
-          "source": "경상일보",
-          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1064703"
+          "title": "유현철♥10기 옥순, 파경 위기 딛고…재혼 후 못한 결혼식 준비 [★해시태그]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260818n03640"
         }
       ]
     },
     {
       "id": "심현섭",
-      "rank": 5,
+      "rank": 2,
       "keyword": "심현섭",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+3",
       "summary": "급상승 시점에 '심현섭, 손수 밥상 차리는 ♥정영림 요리 실력에 불만 “살아야 되니까 먹어”' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -135,7 +51,7 @@
         {
           "title": "심현섭, 집밥해주는 ♥정영림에 또 불만 “살아야 되니까 먹어”",
           "source": "앳스타일",
-          "url": "https://www.atstar1.com/news/articleView.html?idxno=6037683"
+          "url": ""
         },
         {
           "title": "심현섭, 손수 밥상 차리는 ♥정영림 요리 실력에 불만 \"살아야 되니까 먹어\"",
@@ -145,142 +61,198 @@
       ]
     },
     {
-      "id": "나솔",
-      "rank": 6,
-      "keyword": "나솔",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "id": "김도영",
+      "rank": 3,
+      "keyword": "김도영",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''영자와 이혼' 28기 영철, 뜻밖의 인물 만났다…미스터킴 \"서로 위로\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '올러, 11승으로 다승 단독 선두…KIA는 4위 복귀' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'영자와 이혼' 28기 영철, 뜻밖의 인물 만났다…미스터킴 \"서로 위로\"",
+          "title": "올러, 11승으로 다승 단독 선두…KIA는 4위 복귀",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260817055108966?f=p"
+          "url": "https://v.daum.net/v/20260817074209678"
         },
         {
-          "title": "28기 영철·미스터킴, ‘나솔’ 파국男 모임…“서로의 상처 보듬어”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608170952003"
-        },
-        {
-          "title": "\"인연 만나기 참 어렵다\"..28기 영철, '영자 결별' 이후 미소 포착[스타이슈]",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/star/2026/08/16/2026081605565492326"
-        }
-      ]
-    },
-    {
-      "id": "김상식",
-      "rank": 7,
-      "keyword": "김상식",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김상식호 베트남, 말레이시아와 현대컵 4강 1차전 2-0 완승' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김상식호 베트남, 말레이시아와 현대컵 4강 1차전 2-0 완승",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817062538467"
-        },
-        {
-          "title": "하늘로 날아오른 쑤언 손! 김상식은 결승 향해 어퍼컷!",
+          "title": "박재현에 울고 웃고, KIA 두산 꺾고 4위 도약",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8638744"
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8638390"
         },
         {
-          "title": "\"김상식 감독, 박항서 감독도 넘어섰다\" 베트남 축구, 또 새 역사 탄생! 무려 '23G 무패' 행진...아세안컵 4강 1차전 2-0 완승 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/baseball/2026/08/17/GA2GCNZQGYZDAYJRGJQWMOJVGU/"
+          "title": "\"치면 칠수록 두렵다\" 35호포 김도영의 비상... 점점 다가오는 'AG 공백'에 대한 우려",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202608161607242580"
         }
       ]
     },
     {
-      "id": "후티-예멘",
-      "rank": 8,
-      "keyword": "후티 예멘",
+      "id": "남보라",
+      "rank": 4,
+      "keyword": "남보라",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“벌써 완성형 이목구비” 남보라, 똑 닮은 아들 품에 안고 훈훈한 근황 공개' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“벌써 완성형 이목구비” 남보라, 똑 닮은 아들 품에 안고 훈훈한 근황 공개",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816165507459"
+        },
+        {
+          "title": "'13남매 장녀' 남보라, 출산 후 2달 만에 완벽 미모 복귀 \"오늘도 건강하게 콩알 아기\" - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/16/GQ2TGMZXGRTDKOBUMU2GCZRXMY/"
+        },
+        {
+          "title": "눈매는 역대급 붕어빵..남보라 “무럭무럭 자라는 ♥콩알”",
+          "source": "미주한국일보",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "fc-서울",
+      "rank": 5,
+      "keyword": "fc 서울",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '후티 \"예멘 모카항 인근 사우디 군함 5척 탄도미사일로 공격\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''1위' FC서울 초대형 변수…'재계약 소식 NO→중국 이적설' 김기동 감독 '리스크'' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "후티 \"예멘 모카항 인근 사우디 군함 5척 탄도미사일로 공격\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260817071600099"
+          "title": "'1위' FC서울 초대형 변수…'재계약 소식 NO→중국 이적설' 김기동 감독 '리스크'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/08/17/MEZWMYTCMQYDCMBSMYZGIMBSGA/"
         },
         {
-          "title": "예멘 후티 \"홍해에서 사우디 軍상륙함·군용정 탄도미사일로 공격\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430408"
+          "title": "원정석에서 본 김기동 나가콜,기성용 이적설로 어지러운 매치 😵‍💫,기성용 콜 오베르단 퇴장,4대1,K리그 FC서울vs포항스틸러스(서울월드컵경기장) 25.06.29 Kleague Linda Nosková (gh369ZzSuY)",
+          "source": "Mshale",
+          "url": "https://mshale.com/2e47e1e2/7d56aa1f2hWysOrcSDw"
         },
         {
-          "title": "후티 \"예멘 모카항 인근 사우디 군함에 미사일 공격\"",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR202608172234468Xq"
+          "title": "광복절 K리그 스타는 ‘독립유공자 증손서’ 송민규!",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816213341700"
         }
       ]
     },
     {
-      "id": "상호금융",
-      "rank": 9,
-      "keyword": "상호금융",
+      "id": "브래들리-바르콜라",
+      "rank": 6,
+      "keyword": "브래들리 바르콜라",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '집단대출 다 풀린다… 일반 주담대도 증액 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"PSG 싫으면 다른 해결책 찾아!\" 루이스 엔리케 분노 폭발…'1억 3000만 파운드 스타' 브래들리 바르콜라 작별 임박' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "집단대출 다 풀린다… 일반 주담대도 증액 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/finance/2026/08/18/2026081719385785583"
+          "title": "\"PSG 싫으면 다른 해결책 찾아!\" 루이스 엔리케 분노 폭발…'1억 3000만 파운드 스타' 브래들리 바르콜라 작별 임박",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/08/17/GRSWMZJTGI3GMZDBG44TMZRVHA/"
         },
         {
-          "title": "상호금융 셧다운 풀릴까…결국 은행권이 집단대출 흡수",
+          "title": "레버쿠젠도 거절했다! 'PSG 성골 유망주' 음바예, 리버풀 선택→5년 개인 합의 완료…바르콜라까지 '더블 영입' 추진",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260818n01726"
+        },
+        {
+          "title": "바르콜라·음바예 빼버린 PSG 루이스 엔리케 감독의 경고… \"다른 길 찾아라\", 마음 떠난 선수 안 잡는다 선언",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260818061128448"
-        },
-        {
-          "title": "가계 빚 2천조 원 돌파...금리 인상에 부실관리 시급",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202608172258547573"
+          "url": "https://v.daum.net/v/9tz1PKEoTq"
         }
       ]
     },
     {
-      "id": "พยากรณ-อากาศ",
-      "rank": 10,
-      "keyword": "พยากรณ อากาศ",
+      "id": "육상-경기",
+      "rank": 7,
+      "keyword": "육상 경기",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '영국 육상 단거리 헌트, 유럽선수권서 사상 첫 4관왕 등극' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "영국 육상 단거리 헌트, 유럽선수권서 사상 첫 4관왕 등극",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260817051200007"
+        },
+        {
+          "title": "'여신 육상스타' 헌트, 3관왕 직후 무장경찰에 포위? 가짜 출입증이 부른 대참사 \"유럽육상선수권 최악의 밤\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/17/2026081622475385515"
+        },
+        {
+          "title": "에이미 헌트, 유럽육상선수권 사상 첫 단일대회 4관왕",
+          "source": "데일리스포츠한국",
+          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432595"
+        }
+      ]
+    },
+    {
+      "id": "라리가",
+      "rank": 8,
+      "keyword": "라리가",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'เริ่มถล่มพรุ่งนี้ กรมอุตุนิยมวิทยา เตือนฝนตกหนักมาก ฉบับที่ 5 เปิดชื่อจ…' (ข่าวสด) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '유럽축구 막 오른 날…황인범 첫 도움 펄펄' (국제신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "เริ่มถล่มพรุ่งนี้ กรมอุตุนิยมวิทยา เตือนฝนตกหนักมาก ฉบับที่ 5 เปิดชื่อจังหวัดโดนเต็มๆ จับตา 4 วัน 96 ชั่วโมง",
-          "source": "ข่าวสด",
-          "url": "https://www.khaosod.co.th/breaking-news/news_10363520"
+          "title": "유럽축구 막 오른 날…황인범 첫 도움 펄펄",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260817.22014004267"
         },
         {
-          "title": "ประจำวันที่ 17 สิงหาคม 2569 17.00 น.",
-          "source": "กรมอุตุนิยมวิทยา",
-          "url": "https://www.tmd.go.th/forecast/daily/170820261800"
+          "title": "스페인 입성한 이강인의 ‘우승 갈증’…“야망과 열정 품고 왔다”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8638989"
         },
         {
-          "title": "สภาพอากาศช่วงวันที่ 18 - 23 จะเป็นอย่างไร? ช่วงไหนควรระวัง? ⛈️⚡️ #กรมอุตุนิยมวิทยา #พยากรณ์อากาศ #ดิจิทัลเพื่อเศรษฐกิจและสังคม",
-          "source": "Facebook",
-          "url": "https://www.facebook.com/tmd.go.th/posts/%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-18-23-%E0%B8%88%E0%B8%B0%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%A3-%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B9%84%E0%B8%AB%E0%B8%99%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%87-%EF%B8%8F%EF%B8%8F%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AD%E0%B8%B8%E0%B8%95%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%A1%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2-%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A3/1522387159933414/"
+          "title": "\"레전드 코케가 직접 연락했어요\" 이강인이 입단식에서 밝힌 비하인드",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/3kz7ufmjre"
+        }
+      ]
+    },
+    {
+      "id": "수영",
+      "rank": 9,
+      "keyword": "수영",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '수영선수 출신 건강한 30대가 수심 1.8m 수영장서 사망, 왜?' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "수영선수 출신 건강한 30대가 수심 1.8m 수영장서 사망, 왜?",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026081409455890064"
+        },
+        {
+          "title": "수영 가르치던 베테랑도 당했다…39세 전 수영코치 잠수 훈련 중 숨져",
+          "source": "미주한국일보",
+          "url": ""
+        },
+        {
+          "title": "前수영코치가 어쩌다…숨 참기 훈련 중 사망, 원인은 ‘얕은 물 실신’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260815174209207"
         }
       ]
     }
