@@ -1,270 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-17T21:32:29.329Z",
+  "updatedAt": "2026-08-17T22:31:47.049Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "당대표",
+      "id": "민생지원금",
       "rank": 1,
-      "keyword": "당대표",
-      "volumeLabel": "5000+",
+      "keyword": "민생지원금",
+      "volumeLabel": "50000+",
       "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '거제 찾은 김민석 \"충격…할 수 있는 일 다 하겠다\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '2026 민생지원금 4차 지급확정, 신청일자·지급대상·신청방법' (네이버 프리미엄콘텐츠) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "거제 찾은 김민석 \"충격…할 수 있는 일 다 하겠다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818053045896"
+          "title": "2026 민생지원금 4차 지급확정, 신청일자·지급대상·신청방법",
+          "source": "네이버 프리미엄콘텐츠",
+          "url": "https://contents.premium.naver.com/lifenewsroom/mlife/contents/260815224703661jy"
         },
         {
-          "title": "‘김민석호 민주당’ 출범…“유능한 민생 중심 정당으로”",
+          "title": "‘한 명에 35만 원’ 통영 민생회복지원금 31일부터 지급",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8638845"
+          "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8638522"
         },
         {
-          "title": "김민석, 현충원 참배·DJ 추도식 참석…靑 비서실장 접견도",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260817069000001"
+          "title": "창원도 민생지원금 지급 검토",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817140257235"
         }
       ]
     },
     {
-      "id": "최애의-사원",
+      "id": "재건축",
       "rank": 2,
-      "keyword": "최애의 사원",
+      "keyword": "재건축",
       "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '차우민, 김혜준 향한 달콤한 직진 '찬폭스' 모먼트' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“분담금 3억인 줄 알았는데 6억?”…총회 반대해도 돈 더 내야 하나 [집과법]' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "차우민, 김혜준 향한 달콤한 직진 '찬폭스' 모먼트",
+          "title": "“분담금 3억인 줄 알았는데 6억?”…총회 반대해도 돈 더 내야 하나 [집과법]",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20260814/134457515/2"
+        },
+        {
+          "title": "재건축·재개발의 위험…\"새 아파트 무조건 받는 것 아냐\" 경고 [이송렬의 우주인]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026081407976"
+        },
+        {
+          "title": "“부담금 5억, 양도세 12억 더 뛴다”…20년 기다린 반포 날벼락 [안장원의 부동산 노트]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/YCxlJW6b38"
-        },
-        {
-          "title": "'최애의 사원' 강훈 김혜준 차우민, 삼각관계 불붙는다! 관계 변화 조짐 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/17/2026081714507260186"
-        },
-        {
-          "title": "‘최애의 사원’ 강훈·김혜준, 도파민 터지는 둘만의 출장 예고 - 스타투데이",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12129331"
+          "url": "https://v.daum.net/v/BOBPfPCESb?f=p"
         }
       ]
     },
     {
-      "id": "국경",
+      "id": "고속도로",
       "rank": 3,
-      "keyword": "국경",
+      "keyword": "고속도로",
       "volumeLabel": "2000+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 '장탄 국경 경비대는 범죄 예방 및 통제 홍보 활동을 강화하고 있습니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "장탄 국경 경비대는 범죄 예방 및 통제 홍보 활동을 강화하고 있습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/bien-phong-giang-thanh-tang-tuyen-truyen-phong-chong-toi-pham"
-        },
-        {
-          "title": "뿌리부터 '국민의 지지'를 유지하는 것: 지속 가능한 새로운 농촌 지역을 건설하고 국경을 조기에, 그리고 멀리서부터 보호하기 위한 토대입니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/giu-vung-the-tran-long-dan-tu-goc-nen-tang-xay-dung-nong-thon-moi-ben-vung-va-bao-ve-bien-cuong-tu-som-tu-xa"
-        },
-        {
-          "title": "국경 지역 및 국경 표지석의 자율 관리에 참여하기 위한 협정을 체결했습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/ky-ket-tham-gia-tu-quan-duong-bien-moc-quoc-gioi"
-        }
-      ]
-    },
-    {
-      "id": "정년",
-      "rank": 4,
-      "keyword": "정년",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '정년 후 재고용, 이제 회사 마음대로 못한다?… 대법 \"관행 따져야\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "정년 후 재고용, 이제 회사 마음대로 못한다?… 대법 \"관행 따져야\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/YJlzUDUZs9"
-        },
-        {
-          "title": "\"정년 됐다고 왜 집에 가세요?\"... 하림이 시니어를 붙잡는 이유",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/pbjhcuaeUO"
-        },
-        {
-          "title": "오랜 기억이 자산으로…어르신 삶 기록하는 '노인 작가단'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260816_0003750939"
-        }
-      ]
-    },
-    {
-      "id": "데이터-센터",
-      "rank": 5,
-      "keyword": "데이터 센터",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '엔비디아, 오픈AI 데이터센터에 150조원 보증…순환금융 지적도' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "엔비디아, 오픈AI 데이터센터에 150조원 보증…순환금융 지적도",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818043652036"
-        },
-        {
-          "title": "[2026-08-17 - 場前 브리핑] 장전 뉴스 / 경제지표 / 투자의견 / 실적발표 / IPO / 10년물 금리 동향 /FedWatch 동향 / WTI 원유",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/yokakman/reports/contents/260817162546196pb"
-        },
-        {
-          "title": "GPU를 담보로? AI 칩이 금융 담보가 될 수 있을까?",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430362"
-        }
-      ]
-    },
-    {
-      "id": "퇴직",
-      "rank": 6,
-      "keyword": "퇴직",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '점유율 20% 밑으로… 보험사 입지 '흔들' [550조 연금전쟁 上-③]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "점유율 20% 밑으로… 보험사 입지 '흔들' [550조 연금전쟁 上-③]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818050009383"
-        },
-        {
-          "title": "은행서 증권사로… 퇴직연금 머니무브 [550조 연금전쟁 上-②]",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2614926"
-        },
-        {
-          "title": "퇴직연금 어디 맡기지…3년 수익률 105% 최강자는 [이슈 플러스]",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1143490"
-        }
-      ]
-    },
-    {
-      "id": "야생생물",
-      "rank": 7,
-      "keyword": "야생생물",
-      "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "강기윤",
-      "rank": 8,
-      "keyword": "강기윤",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '창원 등 5개 특례시 ‘광역급 권한·재정’ 공동 건의' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘좋아요’ 받으려 끔찍…10대 5명 고속도로서 전원 사망, 무슨 일' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "창원 등 5개 특례시 ‘광역급 권한·재정’ 공동 건의",
+          "title": "‘좋아요’ 받으려 끔찍…10대 5명 고속도로서 전원 사망, 무슨 일",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818001612124"
+        },
+        {
+          "title": "“SNS ‘좋아요’ 받으려” 고속도 역주행…아일랜드 10대 5명 숨져",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8637697"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8638806"
         },
         {
-          "title": "[김병철 시선②] 23조 8천억 투자유치 넘어 AI·반도체로…정명근, 화성 미래산업 판 키운다",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=712568"
-        },
-        {
-          "title": "고양시, 대한민국특례시시장협의회 2026년 제1차 정기회의 참석",
-          "source": "아시아뉴스통신",
-          "url": "https://m.anewsa.com/article_sub3.php?number=3189080&type=&mobile="
+          "title": "“좋아요” 받으려고 고속도로 역주행 청소년 5인방 사망[아하유럽]",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11609965"
         }
       ]
     },
     {
-      "id": "대치동",
-      "rank": 9,
-      "keyword": "대치동",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '전세의 월세화…7년새 월세 비중 7.8%p 증가' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "id": "최태원",
+      "rank": 4,
+      "keyword": "최태원",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '최태원·빌 게이츠…AI 전력·SMR 협력 논의' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "전세의 월세화…7년새 월세 비중 7.8%p 증가",
+          "title": "최태원·빌 게이츠…AI 전력·SMR 협력 논의",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260818052251872"
+          "url": "https://v.daum.net/v/20260818054111964"
         },
         {
-          "title": "“전세 씨 말랐다”…서울 아파트 10가구 중 4가구는 월세",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20080142"
+          "title": "빌 게이츠 만난 SK최태원·HD현대 정기선…차세대 원전 사업화 속도",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260817_0003751583"
         },
         {
-          "title": "한국 주거비가 그동안 얼마나 쌌는지는, 그게 끝난 뒤에야 다들 알게 됨",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/richrise/premium/contents/260817200656702kc"
+          "title": "HD현대-테라파워-현대건설, 미국 SMR(소형모듈원자로) 시장 선점 박차",
+          "source": "경상일보",
+          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1064703"
         }
       ]
     },
     {
-      "id": "판문점-도끼",
-      "rank": 10,
-      "keyword": "판문점 도끼",
-      "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '‘도끼만행 50년’ 美장교 유족·전우... “활기찬 한국은 살아있는 기념비”' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "id": "심현섭",
+      "rank": 5,
+      "keyword": "심현섭",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '심현섭, 손수 밥상 차리는 ♥정영림 요리 실력에 불만 “살아야 되니까 먹어”' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘도끼만행 50년’ 美장교 유족·전우... “활기찬 한국은 살아있는 기념비”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/people/2026/08/17/LUXLW3RQIZAOFOJAVL2X36UOQA/"
+          "title": "심현섭, 손수 밥상 차리는 ♥정영림 요리 실력에 불만 “살아야 되니까 먹어”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817201537301"
         },
         {
-          "title": "50년전 北 소행 ‘판문점 도끼만행 사건’ 기억 하십니까[이현호의 밀리터리!톡]",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20080034"
+          "title": "심현섭, 집밥해주는 ♥정영림에 또 불만 “살아야 되니까 먹어”",
+          "source": "앳스타일",
+          "url": "https://www.atstar1.com/news/articleView.html?idxno=6037683"
         },
         {
-          "title": "[통일논단] 미루나무 한 그루 자르려다 한반도 평화가 결딴날 뻔",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3425577"
+          "title": "심현섭, 손수 밥상 차리는 ♥정영림 요리 실력에 불만 \"살아야 되니까 먹어\"",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260817n15405"
+        }
+      ]
+    },
+    {
+      "id": "나솔",
+      "rank": 6,
+      "keyword": "나솔",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''영자와 이혼' 28기 영철, 뜻밖의 인물 만났다…미스터킴 \"서로 위로\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'영자와 이혼' 28기 영철, 뜻밖의 인물 만났다…미스터킴 \"서로 위로\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817055108966?f=p"
+        },
+        {
+          "title": "28기 영철·미스터킴, ‘나솔’ 파국男 모임…“서로의 상처 보듬어”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608170952003"
+        },
+        {
+          "title": "\"인연 만나기 참 어렵다\"..28기 영철, '영자 결별' 이후 미소 포착[스타이슈]",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/star/2026/08/16/2026081605565492326"
+        }
+      ]
+    },
+    {
+      "id": "김상식",
+      "rank": 7,
+      "keyword": "김상식",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김상식호 베트남, 말레이시아와 현대컵 4강 1차전 2-0 완승' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김상식호 베트남, 말레이시아와 현대컵 4강 1차전 2-0 완승",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817062538467"
+        },
+        {
+          "title": "하늘로 날아오른 쑤언 손! 김상식은 결승 향해 어퍼컷!",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8638744"
+        },
+        {
+          "title": "\"김상식 감독, 박항서 감독도 넘어섰다\" 베트남 축구, 또 새 역사 탄생! 무려 '23G 무패' 행진...아세안컵 4강 1차전 2-0 완승 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/baseball/2026/08/17/GA2GCNZQGYZDAYJRGJQWMOJVGU/"
+        }
+      ]
+    },
+    {
+      "id": "후티-예멘",
+      "rank": 8,
+      "keyword": "후티 예멘",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '후티 \"예멘 모카항 인근 사우디 군함 5척 탄도미사일로 공격\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "후티 \"예멘 모카항 인근 사우디 군함 5척 탄도미사일로 공격\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260817071600099"
+        },
+        {
+          "title": "예멘 후티 \"홍해에서 사우디 軍상륙함·군용정 탄도미사일로 공격\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430408"
+        },
+        {
+          "title": "후티 \"예멘 모카항 인근 사우디 군함에 미사일 공격\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202608172234468Xq"
+        }
+      ]
+    },
+    {
+      "id": "상호금융",
+      "rank": 9,
+      "keyword": "상호금융",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '집단대출 다 풀린다… 일반 주담대도 증액 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "집단대출 다 풀린다… 일반 주담대도 증액 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/finance/2026/08/18/2026081719385785583"
+        },
+        {
+          "title": "상호금융 셧다운 풀릴까…결국 은행권이 집단대출 흡수",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818061128448"
+        },
+        {
+          "title": "가계 빚 2천조 원 돌파...금리 인상에 부실관리 시급",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0102_202608172258547573"
+        }
+      ]
+    },
+    {
+      "id": "พยากรณ-อากาศ",
+      "rank": 10,
+      "keyword": "พยากรณ อากาศ",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'เริ่มถล่มพรุ่งนี้ กรมอุตุนิยมวิทยา เตือนฝนตกหนักมาก ฉบับที่ 5 เปิดชื่อจ…' (ข่าวสด) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "เริ่มถล่มพรุ่งนี้ กรมอุตุนิยมวิทยา เตือนฝนตกหนักมาก ฉบับที่ 5 เปิดชื่อจังหวัดโดนเต็มๆ จับตา 4 วัน 96 ชั่วโมง",
+          "source": "ข่าวสด",
+          "url": "https://www.khaosod.co.th/breaking-news/news_10363520"
+        },
+        {
+          "title": "ประจำวันที่ 17 สิงหาคม 2569 17.00 น.",
+          "source": "กรมอุตุนิยมวิทยา",
+          "url": "https://www.tmd.go.th/forecast/daily/170820261800"
+        },
+        {
+          "title": "สภาพอากาศช่วงวันที่ 18 - 23 จะเป็นอย่างไร? ช่วงไหนควรระวัง? ⛈️⚡️ #กรมอุตุนิยมวิทยา #พยากรณ์อากาศ #ดิจิทัลเพื่อเศรษฐกิจและสังคม",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/tmd.go.th/posts/%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-18-23-%E0%B8%88%E0%B8%B0%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%A3-%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B9%84%E0%B8%AB%E0%B8%99%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%87-%EF%B8%8F%EF%B8%8F%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AD%E0%B8%B8%E0%B8%95%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%A1%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2-%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A3/1522387159933414/"
         }
       ]
     }
