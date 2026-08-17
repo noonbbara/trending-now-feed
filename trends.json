@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-17T09:51:13.108Z",
+  "updatedAt": "2026-08-17T10:39:11.554Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -10,53 +10,53 @@
       "keyword": "김시우",
       "volumeLabel": "20000+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김시우·임성재·김주형 '전원 생존'...이제 '50' 넘어 '30'을 향한다 [박호윤의 IN&OUT]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '우승은 셰플러, 최고 승자는 임성재...PGA 투어 PO 1차전' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김시우·임성재·김주형 '전원 생존'...이제 '50' 넘어 '30'을 향한다 [박호윤의 IN&OUT]",
+          "title": "우승은 셰플러, 최고 승자는 임성재...PGA 투어 PO 1차전",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260817080049860"
+          "url": "https://v.daum.net/v/20260817072137303"
         },
         {
-          "title": "김시우, PGA 투어 PO 준우승으로 세계랭킹 역대 최고 13위",
-          "source": "데일리스포츠한국",
-          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432596"
+          "title": "김시우 준우승…임성재·김주형도 생존",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260818.22014004492"
         },
         {
-          "title": "가족과 함께 우승 자축하는 셰플러",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260817_0002214014"
+          "title": "임성재, 올해는 투어챔피언십 못 나가나 했는데...역시나 꾸준함의 대명사",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/golf/2026/08/17/HFSDMYJWGQZDOZDEGM3GGOLEGM/"
         }
       ]
     },
     {
-      "id": "sk하이닉스",
+      "id": "부모",
       "rank": 2,
-      "keyword": "sk하이닉스",
-      "volumeLabel": "20000+",
+      "keyword": "부모",
+      "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '[그래픽] 삼성전자·SK하이닉스 상반기 현금·현금성 자산' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"시부 팔순잔치 못했으니 친정부모도 챙기지 마\"…시모·시누이 억지 시끌' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[그래픽] 삼성전자·SK하이닉스 상반기 현금·현금성 자산",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817162806231"
+          "title": "\"시부 팔순잔치 못했으니 친정부모도 챙기지 마\"…시모·시누이 억지 시끌",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6260537"
         },
         {
-          "title": "\"확신의 매수 구간\"…비중확대 추천한 반도체 종목은 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/08/17/2026081714031711169"
+          "title": "[허프 US] 부모가 자신도 모르게 '아이의 불안'을 키우는 8가지 행동",
+          "source": "허프포스트코리아",
+          "url": "https://www.huffingtonpost.kr/article/259573"
         },
         {
-          "title": "삼전닉스 6개월새 현금곳간 117조↑…설비투자 대비 압도적 실탄",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260815036700003"
+          "title": "작은 독립의 경험이 아동 불안 줄인다",
+          "source": "정신의학신문",
+          "url": ""
         }
       ]
     },
@@ -64,10 +64,10 @@
       "id": "세계-선수권-대회",
       "rank": 3,
       "keyword": "세계 선수권 대회",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "volumeLabel": "5000+",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 ''세계 6위' 이끈 U17 女배구 이승여 감독 \"한국 배구 위기 아냐\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -77,137 +77,109 @@
           "url": "https://v.daum.net/v/20260817104254689"
         },
         {
+          "title": "男부럽지 않은 女배구…그 중심엔 ‘리틀 김연경’ 손서연",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20260818.22014004500"
+        },
+        {
           "title": "'리틀 김연경' 손서연, U-17 세계선수권서 우뚝 \"더 성장하겠다\"",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260817033900007"
-        },
-        {
-          "title": "U-17 여자배구, 이탈리아에 패해 세계선수권 최종 6위",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/volleyball/2026/08/17/ZV3SVLCB3RHYRGNZ3UE36EBVXQ/"
         }
       ]
     },
     {
-      "id": "포항시",
+      "id": "테라파워",
       "rank": 4,
-      "keyword": "포항시",
+      "keyword": "테라파워",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '“잔액 서둘러 쓰세요” 고유가 피해지원금 31일 사용 마감' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '깊어지는 최태원·빌 게이츠 ‘SMR 밀월’…AI 전력 핵심파트너로' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“잔액 서둘러 쓰세요” 고유가 피해지원금 31일 사용 마감",
+          "title": "깊어지는 최태원·빌 게이츠 ‘SMR 밀월’…AI 전력 핵심파트너로",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260817151236618"
+          "url": "https://v.daum.net/v/20260817144203033"
         },
         {
-          "title": "안산시 고유가 피해지원금 649억 지급 완료…지급률 97.9%",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=712620"
+          "title": "HD현대·현대건설, 美 테라파워와 손잡고 미국 SMR 시장 진출 확대…“韓·美 원전동맹 강화”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11609935"
         },
         {
-          "title": "“8월 31일까지 쓰세요”…양구군, 고유가 피해지원금 사용 당부",
-          "source": "프레시안",
-          "url": "https://www.pressian.com/pages/articles/2026081710513673111"
+          "title": "두산에너빌리티, 美 테라파워 차세대 SMR 핵심 기자재 수주",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260816509334"
         }
       ]
     },
     {
-      "id": "민주당-당대표",
+      "id": "조-째즈",
       "rank": 5,
-      "keyword": "민주당 당대표",
+      "keyword": "조 째즈",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '민주당 오늘 새 지도부 선출...이 시각 전당대회장' (YTN) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '임영웅, 요즘 연애 고민 있나…'말자쇼' 조째즈 \"최근 연애 상담해 줘\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "민주당 오늘 새 지도부 선출...이 시각 전당대회장",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202608171022597277"
-        },
-        {
-          "title": "金 \"가짜당원 뿌리뽑겠다\" 鄭 \"우리부터 단결\"…與전대 막판호소(종합)",
+          "title": "임영웅, 요즘 연애 고민 있나…'말자쇼' 조째즈 \"최근 연애 상담해 줘\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260817183354542"
+          "url": "https://v.daum.net/v/20260817091129906"
         },
         {
-          "title": "[속보]김민석 서울·경기도 승리…17일 與 대표 최종 결정",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11609835"
-        }
-      ]
-    },
-    {
-      "id": "닛케이-평균주가",
-      "rank": 6,
-      "keyword": "닛케이 평균주가",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '반도체 훈풍…日 키옥시아 15%↑·中 창신메모리 12%↑[Asia 마감] - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "반도체 훈풍…日 키옥시아 15%↑·中 창신메모리 12%↑[Asia 마감] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/08/17/2026081716411967307"
-        },
-        {
-          "title": "아시아증시, 이란전 불확실성에도 전반적 상승…日닛케이 0.74%↑",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817170403954"
-        },
-        {
-          "title": "日·대만서 메모리株 급등…'7천피 회복' 기대감 솔솔",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1143480"
-        }
-      ]
-    },
-    {
-      "id": "내-남은-연애",
-      "rank": 7,
-      "keyword": "내 남은 연애",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+3",
-      "summary": "급상승 시점에 '[TF초점] '내 남은 연애', 논란에 가려지기엔 아까운 시도' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[TF초점] '내 남은 연애', 논란에 가려지기엔 아까운 시도",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817000201736"
-        },
-        {
-          "title": "'내 남은 연애' 김선호, 데이트 마치더니 의미심장…이세영마저 \"식은땀 난다\" 걱정",
+          "title": "\"임영웅 연애 상담도 해줘\"..조째즈, 톱스타들의 '공감 요정' ('말자쇼')",
           "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/17/G42DGZJWGZSDMODGMEZDGZTEME/"
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/17/MZSTEMTCMI3TMMJVHBQWIMDEGY/"
         },
         {
-          "title": "'내 남은 연애' 투병으로 놓쳤던 청춘의 한 페이지 \"진짜 커플 같아\"",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/514903"
+          "title": "‘말자쇼’ 조째즈, 주지훈·남주혁에 ‘임영웅 연애 상담’까지…황금 인맥 자랑",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12129199"
+        }
+      ]
+    },
+    {
+      "id": "사건",
+      "rank": 6,
+      "keyword": "사건",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '전현무까지 줄줄이 경찰 조사…두번이나 도망쳤는데 교회서 숨진 11살 [금주의 사건사고]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "전현무까지 줄줄이 경찰 조사…두번이나 도망쳤는데 교회서 숨진 11살 [금주의 사건사고]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/pLhcl2waoa"
+        },
+        {
+          "title": "인'스타'그램 세상|“둘에서 셋으로” 이상호♥김자연, 임신 발표…심진화·김영희 등 축하 물결",
+          "source": "ZUM 뉴스",
+          "url": "https://m.news.zum.com/photo/58287739/107218336?cm=news_edit&r=1&thumb=1"
+        },
+        {
+          "title": "'주사 이모' 의혹 수사 경찰, 키·온유·전현무 등 피의자 조사",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6844266_36918.html"
         }
       ]
     },
     {
       "id": "은행원",
-      "rank": 8,
+      "rank": 7,
       "keyword": "은행원",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 ''은행원 월급 이정도였다니'…상반기 급여 평균 7천150만원, 삼전도 제쳤다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -229,30 +201,58 @@
       ]
     },
     {
-      "id": "설영우",
-      "rank": 9,
-      "keyword": "설영우",
+      "id": "디즈니",
+      "rank": 8,
+      "keyword": "디즈니",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 ''韓 국가대표 수비수' 설영우, 끝내 작심!...여러 만류에도 '빅리그' 진출 의지 활활 \"올여름, 이적 적기 판단\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '디즈니, 젊은 팬 찾아 게임·틱톡으로 확장...“새 세대에 이야기 이어지도록”' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'韓 국가대표 수비수' 설영우, 끝내 작심!...여러 만류에도 '빅리그' 진출 의지 활활 \"올여름, 이적 적기 판단\"",
+          "title": "디즈니, 젊은 팬 찾아 게임·틱톡으로 확장...“새 세대에 이야기 이어지도록”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260817132209360"
+          "url": "https://v.daum.net/v/20260817180209008"
         },
         {
-          "title": "\"韓 축구 환호!\" 국가대표 수비수 설영우 '빅 리그' 이적설 재점화…'즈베즈다 매우 흥미로운 상황→SEOL, 오랫동안 유럽 팀 관심'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/08/15/MMZTSYZVMJRDMZLBGAYDMZDDGU/"
+          "title": "조시 다마로 CEO \"난 디즈니 직원이기 전에 한 명의 팬\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026081754091"
         },
         {
-          "title": "'韓 국대 풀백, 드디어 빅리그 가나…설영우, 프랑크푸르트 이적설 급부상 \"팀에 남는다는 보장 없어\"",
+          "title": "98세 미키 다음은 누가 될까…디즈니의 답은 '새 캐릭터' 아닌 '숏폼'",
           "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260816n07585"
+          "url": "https://news.nate.com/view/20260816n08047"
+        }
+      ]
+    },
+    {
+      "id": "상도동",
+      "rank": 9,
+      "keyword": "상도동",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '상도동 국사봉 자락에 1840가구 친환경 단지 들어선다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "상도동 국사봉 자락에 1840가구 친환경 단지 들어선다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817111649375"
+        },
+        {
+          "title": "상도동 노후주택촌, 최고 29층·1840가구로…신통기획 확정 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/08/17/2026081714585742912"
+        },
+        {
+          "title": "상도동 214 일대 재개발 확정…최고 29층·1840세대",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260814_0003750290"
         }
       ]
     },
@@ -262,8 +262,8 @@
       "keyword": "홍인규",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 ''돌싱' 강유미, 짧았던 결혼 생활 언급 \"전 남편과 각방 써, 이혼은 나로 족하다\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
