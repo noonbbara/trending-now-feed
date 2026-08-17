@@ -1,157 +1,129 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-17T04:20:35.494Z",
+  "updatedAt": "2026-08-17T05:10:55.872Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "거제시",
+      "id": "로스앤젤레스-fc",
       "rank": 1,
-      "keyword": "거제시",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
+      "keyword": "로스앤젤레스 fc",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '거제, 역대 최대 폭우‥산사태 아파트서 1명 숨져' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '손흥민 왜 폭발했나? 백태클에 마지막 공격 끊겼는데→공까지 안 주자 직접 빼앗아…주심은 SON 향해 '옐로카드'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "거제, 역대 최대 폭우‥산사태 아파트서 1명 숨져",
+          "title": "손흥민 왜 폭발했나? 백태클에 마지막 공격 끊겼는데→공까지 안 주자 직접 빼앗아…주심은 SON 향해 '옐로카드'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817031609400"
+        },
+        {
+          "title": "손흥민 MLS 4경기 연속골 마감…LAFC, 샌디에이고에 0-1 패배",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260816025200007"
+        },
+        {
+          "title": "'역대급 분노' 손흥민‥'오늘 정말 안 풀리네'",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6845240_36967.html"
-        },
-        {
-          "title": "경남 집중호우에 소방력 387명 투입…거제·통영서 136명 구조 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/policy/2026/08/17/2026081713005097017"
-        },
-        {
-          "title": "산비탈에서 쏟아진 토사...돌무더기에 깔린 차 [제보영상]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0115_202608171057196591"
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6845151_37004.html"
         }
       ]
     },
     {
-      "id": "사관학교",
+      "id": "hayden-panettiere",
       "rank": 2,
-      "keyword": "사관학교",
-      "volumeLabel": "1000+",
+      "keyword": "hayden panettiere",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[기고]소대장에게 드론 조종·포병 사격까지 맡길 건가…합동성은 상급사령부 참모들 몫, 소대장 영역 아니다' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Hayden Panettiere dies at 36' (ABC News - Breaking News, Latest News and Videos) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[기고]소대장에게 드론 조종·포병 사격까지 맡길 건가…합동성은 상급사령부 참모들 몫, 소대장 영역 아니다",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11609888"
+          "title": "Hayden Panettiere dies at 36",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473"
         },
         {
-          "title": "\"정치 보복용 사관학교 통합 논리, 처음부터 기만이었다\"",
-          "source": "뉴데일리",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/08/16/2026081600001.html"
+          "title": "Hayden Panettiere: US actress and star of Heroes dies aged 36",
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cq5665zgg1po"
         },
         {
-          "title": "“해사 이전 안 된다” 여야 없는 반발…정부는 ‘속도전’",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8637189"
+          "title": "Hayden Panettiere Dead at 36",
+          "source": "TMZ",
+          "url": "https://www.tmz.com/2026/08/16/hayden-panettiere-dead/"
         }
       ]
     },
     {
-      "id": "사장님-귀는-당나귀-귀",
+      "id": "포옛",
       "rank": 3,
-      "keyword": "사장님 귀는 당나귀 귀",
+      "keyword": "포옛",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“자가용+골드바”… ‘年매출 500억’ 김치 명인 박미희, 직원 복지 미쳤네 (‘사당귀’)[종합]' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"홍명보 떠오른다\" 박문성 소신 발언…이동국 포옛호 합류 소식에 우려→\"중간 없이 높은 곳으로 점프 아닌가?\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“자가용+골드바”… ‘年매출 500억’ 김치 명인 박미희, 직원 복지 미쳤네 (‘사당귀’)[종합]",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12129135"
-        },
-        {
-          "title": "'사당귀 연매출 500억 보스, 사윗감 전현무? \"연예인한테 시집 안 보내\"",
+          "title": "\"홍명보 떠오른다\" 박문성 소신 발언…이동국 포옛호 합류 소식에 우려→\"중간 없이 높은 곳으로 점프 아닌가?\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260817110249105"
+          "url": "https://v.daum.net/v/20260817015137291"
         },
         {
-          "title": "전현무 0고백 1차임…'연매출 500억' 김치 명인 \"저런 연예인한테는\" 말실수 ('사당귀') - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/16/G5STANRXHFRTQOBUMYYTIZRYGM/"
+          "title": "홍명보 후임 찾기 본격화…축구대표팀 임시 감독, 이번주 면접 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/08/17/2026081713300020131"
+        },
+        {
+          "title": "이동국 품은 포옛 감독, 임시 사령탑으로 태극 전사 이끌까",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260814_0003749766"
         }
       ]
     },
     {
-      "id": "지민",
+      "id": "최상엽",
       "rank": 4,
-      "keyword": "지민",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '\"I got a kiss\"…BTS 지민 볼 뽀뽀 받은 난치병 소녀, 전 세계 감동 물결 [MD이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"I got a kiss\"…BTS 지민 볼 뽀뽀 받은 난치병 소녀, 전 세계 감동 물결 [MD이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817112951598"
-        },
-        {
-          "title": "BTS 지민, 광복절에 美 무대 올랐다…‘건곤감리’ 의상으로 전한 의미",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260817/134487262/1"
-        },
-        {
-          "title": "BTS 지민, 광복절 美 공연서 태극기 품었다",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608170916013"
-        }
-      ]
-    },
-    {
-      "id": "안나-린",
-      "rank": 5,
-      "keyword": "안나 린",
+      "keyword": "최상엽",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '안나린, LPGA 포틀랜드 클래식 공동 5위…1년 9개월 만의 '톱5'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '루시 최상엽, 이달 결혼…\"비연예인 연인과 새로운 출발\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "안나린, LPGA 포틀랜드 클래식 공동 5위…1년 9개월 만의 '톱5'",
+          "title": "루시 최상엽, 이달 결혼…\"비연예인 연인과 새로운 출발\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260817073646610"
+          "url": "https://v.daum.net/v/20260817134450825"
         },
         {
-          "title": "안나린, 공동 5위 시즌 최고 성적…티띠꾼 통산 10승째 달성",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20079977"
+          "title": "루시 최상엽, 8月 중 웨딩마치 울린다 [공식]",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260817000110"
         },
         {
-          "title": "지노 티티쿤, 포틀랜드 클래식 역전 우승..안나린은 공동 5위",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10842933"
+          "title": "루시 최상엽, 자필 편지로 결혼 발표 “소중한 순간 먼저 전하고 싶었다”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260817/134488352/1"
         }
       ]
     },
     {
       "id": "옌스-카스트로-프",
-      "rank": 6,
+      "rank": 5,
       "keyword": "옌스 카스트로 프",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '카스트로프 형제 나란히 태극마크?…'도르트문트 유스 출신' 19세 동생 \"형과 뛰는 게 꿈\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -161,126 +133,154 @@
           "url": "https://v.daum.net/v/20260817022651338"
         },
         {
+          "title": "또 한 명의 '韓 혼혈 국가대표' 탄생하나...'옌스 친동생' 레니 카스트로프, \"형과 한 팀서 뛰는 게 꿈\"",
+          "source": "Your Field",
+          "url": "https://yourfield.nexon.com/today/view/2025052909553462961?type=all"
+        },
+        {
           "title": "카스트로프 형제의 꿈... 옌스 이어 동생 레니도 태극마크 달까",
           "source": "FT스포츠",
           "url": ""
-        },
-        {
-          "title": "'김민재까지 쓰러졌다' 바이에른 초비상...허벅지 부상 교체, 무시알라는 경기 중 '실신' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/16/202608160942779756O"
         }
       ]
     },
     {
-      "id": "변중석",
-      "rank": 7,
-      "keyword": "변중석",
+      "id": "김영익",
+      "rank": 6,
+      "keyword": "김영익",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '故 정주영 회장 25주기…범현대가 '총집결'[뉴시스Pic]' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '김영익의 도발 예언 \"지표는 거짓말 안 해, 코스피 5000 아래로 붕괴될 것\"' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "故 정주영 회장 25주기…범현대가 '총집결'[뉴시스Pic]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260816_0003751120"
+          "title": "김영익의 도발 예언 \"지표는 거짓말 안 해, 코스피 5000 아래로 붕괴될 것\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/money/2026/08/17/ZWTZICIBQJCGZPSIOZEHST2NFI/"
         },
         {
-          "title": "‘그림자 내조’ 변중석 여사 19주기…‘범현대가’ 청운동 집결",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260816230009408"
-        },
-        {
-          "title": "故 변중석 여사 19주기…범현대家 한자리에",
+          "title": "시험대 오른 반도체주…'이번주 주식시장 주요 변수'",
           "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026081643711"
+          "url": "https://www.hankyung.com/article/202608174926i"
+        },
+        {
+          "title": "\"지금 상승은 기술적 반등\" 국내 증시 조정은 끝나지 않았다",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430363"
         }
       ]
     },
     {
-      "id": "이제-만나러-갑니다",
+      "id": "경마",
+      "rank": 7,
+      "keyword": "경마",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '제주도서 ‘혼디·COOL’ 캠페인 벌이는 동아오츠카…무슨 일?' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "제주도서 ‘혼디·COOL’ 캠페인 벌이는 동아오츠카…무슨 일?",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11609858"
+        },
+        {
+          "title": "[Issue+] 폭염 속 경마 강행, ‘말복지’ 실효성 논란",
+          "source": "농수축산신문",
+          "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=326403"
+        },
+        {
+          "title": "‘水요일은 水분공급 날’…온열질환 예방하는 날",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608130612003"
+        }
+      ]
+    },
+    {
+      "id": "사우나",
       "rank": 8,
-      "keyword": "이제 만나러 갑니다",
+      "keyword": "사우나",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이제 만나러 갑니다 762회' (채널A) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"퇴근 후 1인 사우나 90분\"…'회복 소비'에 눈 돌리는 2030' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이제 만나러 갑니다 762회",
-          "source": "채널A",
-          "url": "https://ichannela.com/program/clip/000000545443.do"
-        },
-        {
-          "title": "'이만갑' 남·북파 공작원 한자리에 모인다...임무 비하인드 공개",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3666153"
-        },
-        {
-          "title": "[오늘의 채널A]남파-북파 공작원들의 못다한 이야기",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/article/all/20260815/134481379/2"
-        }
-      ]
-    },
-    {
-      "id": "미스-어스",
-      "rank": 9,
-      "keyword": "미스 어스",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '2025년 미스 어스 인도네시아가 26세의 나이로 갑작스럽게 세상을 떠났습니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "2025년 미스 어스 인도네시아가 26세의 나이로 갑작스럽게 세상을 떠났습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/hoa-hau-trai-dat-indonesia-2025-dot-ngot-qua-doi-o-tuoi-26"
-        },
-        {
-          "title": "현 미스 인도네시아가 별세했습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/duong-kim-hoa-hau-indonesia-qua-doi"
-        },
-        {
-          "title": "미스 어스 우승자가 26세의 나이로 세상을 떠났습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/mot-hoa-hau-trai-dat-qua-doi-o-tuoi-26"
-        }
-      ]
-    },
-    {
-      "id": "트럼프",
-      "rank": 10,
-      "keyword": "트럼프",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '트럼프, 한미훈련 당일 돌연 축소 지시…野 “韓 패싱 당해”' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "트럼프, 한미훈련 당일 돌연 축소 지시…野 “韓 패싱 당해”",
+          "title": "\"퇴근 후 1인 사우나 90분\"…'회복 소비'에 눈 돌리는 2030",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260817123411497"
+          "url": "https://v.daum.net/v/20260817060209103"
         },
         {
-          "title": "을지 자유의 방패 연습 중단 촉구하는 시민단체",
+          "title": "사우나-쑥뜸 ‘회복 루틴’에 지갑 여는 MZ",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20260814/134481280/2"
+        },
+        {
+          "title": "뇌를 위한 사우나 할 시간!",
+          "source": "마리끌레르 코리아",
+          "url": "https://www.marieclairekorea.com/beauty/2026/08/brain-sauna/"
+        }
+      ]
+    },
+    {
+      "id": "실업",
+      "rank": 9,
+      "keyword": "실업",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '같은 회사 21번 들락날락…실업급여 '1억' 받은 직장인 등장 [곽용희의 일자리노트]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "같은 회사 21번 들락날락…실업급여 '1억' 받은 직장인 등장 [곽용희의 일자리노트]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608163783i"
+        },
+        {
+          "title": "같은 회사 퇴사·재입사 반복하며 '실업급여 1억원' 수령한 직장인",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1152866"
+        },
+        {
+          "title": "“시럽급여 논란 다시 불붙나”… 반복수급 50만 명 육박에 제한 필요성 목소리 '확대'",
+          "source": "경제시그널",
+          "url": "https://www.economicsignal.co.kr/news/articleView.html?idxno=1328"
+        }
+      ]
+    },
+    {
+      "id": "과학고등학교",
+      "rank": 10,
+      "keyword": "과학고등학교",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '과학고 선발 ‘1858명’ 역대 최대…졸업 후 KAIST·성대行' (이데일리) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "과학고 선발 ‘1858명’ 역대 최대…졸업 후 KAIST·성대行",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01141446645548304&mediaCodeNo=257"
+        },
+        {
+          "title": "전국 과학고 내년 신입생 역대 최대 선발···의대 쏠림 꺾이나",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608171123001"
+        },
+        {
+          "title": "내년 과학고 1858명 뽑는다…졸업생 진학 1위는 KAIST",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260817_0021401073"
-        },
-        {
-          "title": "트럼프 “을지훈련 축소 지시…韓 이란 비핵화 동참 거부”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11609867"
+          "url": "https://www.newsis.com/view/NISX20260814_0003750248"
         }
       ]
     }
