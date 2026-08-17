@@ -1,73 +1,101 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-17T03:07:37.409Z",
+  "updatedAt": "2026-08-17T04:20:35.494Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "골프",
+      "id": "거제시",
       "rank": 1,
-      "keyword": "골프",
+      "keyword": "거제시",
       "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김시우·임성재·김주형 '전원 생존'...이제 '50' 넘어 '30'을 향한다 [박호윤의 IN&OUT]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '거제, 역대 최대 폭우‥산사태 아파트서 1명 숨져' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김시우·임성재·김주형 '전원 생존'...이제 '50' 넘어 '30'을 향한다 [박호윤의 IN&OUT]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817080049860"
+          "title": "거제, 역대 최대 폭우‥산사태 아파트서 1명 숨져",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6845240_36967.html"
         },
         {
-          "title": "와! '공동 6위에서 단독 2위라니' 마지막 날 김시우 뒷심 대단하네, PGA PO 1차전 짜릿한 '준우승'→2차전 간다 - 머니투데이",
+          "title": "경남 집중호우에 소방력 387명 투입…거제·통영서 136명 구조 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/culture/2026/08/17/2026081711133378711"
+          "url": "https://www.mt.co.kr/policy/2026/08/17/2026081713005097017"
         },
         {
-          "title": "김시우, PGA투어 PO 1차전 준우승…임성재·김주형과 2차전 진출(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260817012451007"
+          "title": "산비탈에서 쏟아진 토사...돌무더기에 깔린 차 [제보영상]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0115_202608171057196591"
         }
       ]
     },
     {
-      "id": "ssg-랜더스",
+      "id": "사관학교",
       "rank": 2,
-      "keyword": "ssg 랜더스",
-      "volumeLabel": "5000+",
+      "keyword": "사관학교",
+      "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '투구 영상 찍고 모니터링…SSG 아빌라 호투 만든 루틴' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[기고]소대장에게 드론 조종·포병 사격까지 맡길 건가…합동성은 상급사령부 참모들 몫, 소대장 영역 아니다' (문화일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "투구 영상 찍고 모니터링…SSG 아빌라 호투 만든 루틴",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260816048200007"
+          "title": "[기고]소대장에게 드론 조종·포병 사격까지 맡길 건가…합동성은 상급사령부 참모들 몫, 소대장 영역 아니다",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11609888"
         },
         {
-          "title": "SSG, 1480일 만에 LG전 위닝 시리즈... 중심에는 선발 아빌라",
+          "title": "\"정치 보복용 사관학교 통합 논리, 처음부터 기만이었다\"",
+          "source": "뉴데일리",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/08/16/2026081600001.html"
+        },
+        {
+          "title": "“해사 이전 안 된다” 여야 없는 반발…정부는 ‘속도전’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8637189"
+        }
+      ]
+    },
+    {
+      "id": "사장님-귀는-당나귀-귀",
+      "rank": 3,
+      "keyword": "사장님 귀는 당나귀 귀",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“자가용+골드바”… ‘年매출 500억’ 김치 명인 박미희, 직원 복지 미쳤네 (‘사당귀’)[종합]' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“자가용+골드바”… ‘年매출 500억’ 김치 명인 박미희, 직원 복지 미쳤네 (‘사당귀’)[종합]",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12129135"
+        },
+        {
+          "title": "'사당귀 연매출 500억 보스, 사윗감 전현무? \"연예인한테 시집 안 보내\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/pw843GQ937"
+          "url": "https://v.daum.net/v/20260817110249105"
         },
         {
-          "title": "[AI상보] '아빌라 7이닝 역투+마드리스 고별전 홈런' SSG LG에 6-0 완승",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260816000150"
+          "title": "전현무 0고백 1차임…'연매출 500억' 김치 명인 \"저런 연예인한테는\" 말실수 ('사당귀') - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/16/G5STANRXHFRTQOBUMYYTIZRYGM/"
         }
       ]
     },
     {
       "id": "지민",
-      "rank": 3,
+      "rank": 4,
       "keyword": "지민",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '\"I got a kiss\"…BTS 지민 볼 뽀뽀 받은 난치병 소녀, 전 세계 감동 물결 [MD이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -77,210 +105,182 @@
           "url": "https://v.daum.net/v/20260817112951598"
         },
         {
-          "title": "BTS 지민, 美 한복판서 '태극기 무대의상'…친일파 논란에 운 연예계에 비춘 빛[SC이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/08/17/MRSDGNTFMUZTAZJWMRSGMYRRMM/"
-        },
-        {
           "title": "BTS 지민, 광복절에 美 무대 올랐다…‘건곤감리’ 의상으로 전한 의미",
           "source": "스포츠동아",
           "url": "https://sports.donga.com/ent/article/all/20260817/134487262/1"
-        }
-      ]
-    },
-    {
-      "id": "소재원",
-      "rank": 4,
-      "keyword": "소재원",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''증조부 친일' 하영, 드라마 찍고 있었네…\"눈물 터져 촬영 중단\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'증조부 친일' 하영, 드라마 찍고 있었네…\"눈물 터져 촬영 중단\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/culture/2026/08/16/2026081613005993902"
         },
         {
-          "title": "“설마 내 조상님도 일본에 숙였나”...‘친일파 스캐너’ 온라인 본관 검색 열풍",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12129239"
-        },
-        {
-          "title": "하영, 증조부 친일 논란 속 눈물의 촬영장…SBS ‘승산’측 하차 불가 진퇴양난",
+          "title": "BTS 지민, 광복절 美 공연서 태극기 품었다",
           "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608161242003"
+          "url": "https://sports.khan.co.kr/article/202608170916013"
         }
       ]
     },
     {
-      "id": "공동-명의",
+      "id": "안나-린",
       "rank": 5,
-      "keyword": "공동 명의",
+      "keyword": "안나 린",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"세금 못 내면, 집 팔고 지방 가라? 현대판 고려장\"…노년의 분노 [세금전쟁①]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '안나린, LPGA 포틀랜드 클래식 공동 5위…1년 9개월 만의 '톱5'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"세금 못 내면, 집 팔고 지방 가라? 현대판 고려장\"…노년의 분노 [세금전쟁①]",
+          "title": "안나린, LPGA 포틀랜드 클래식 공동 5위…1년 9개월 만의 '톱5'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260817060131045"
+          "url": "https://v.daum.net/v/20260817073646610"
         },
         {
-          "title": "26억 이하 1주택, 공동명의가 절세…장기거주는 단독이 유리",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260816029300002"
+          "title": "안나린, 공동 5위 시즌 최고 성적…티띠꾼 통산 10승째 달성",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20079977"
         },
         {
-          "title": "집값 5000만원 차이에 비거주 종부세 200만원↑…보완할까?",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260816_0003750838"
+          "title": "지노 티티쿤, 포틀랜드 클래식 역전 우승..안나린은 공동 5위",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10842933"
         }
       ]
     },
     {
-      "id": "편의점",
+      "id": "옌스-카스트로-프",
       "rank": 6,
-      "keyword": "편의점",
+      "keyword": "옌스 카스트로 프",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한우부터 희소 식재료까지…갤러리아百, 추석선물 예약판매' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '카스트로프 형제 나란히 태극마크?…'도르트문트 유스 출신' 19세 동생 \"형과 뛰는 게 꿈\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "한우부터 희소 식재료까지…갤러리아百, 추석선물 예약판매",
+          "title": "카스트로프 형제 나란히 태극마크?…'도르트문트 유스 출신' 19세 동생 \"형과 뛰는 게 꿈\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260817102738363"
+          "url": "https://v.daum.net/v/20260817022651338"
         },
         {
-          "title": "'안중근 금메달부터 3천만원 로봇까지'…편의점, 추석선물 '열전'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260817021700030"
+          "title": "카스트로프 형제의 꿈... 옌스 이어 동생 레니도 태극마크 달까",
+          "source": "FT스포츠",
+          "url": ""
         },
-        {
-          "title": "달라진 명절 풍경⋯ 이마트24, 소포장 한우로 ‘혼명절족’ 공략",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260817500111"
-        }
-      ]
-    },
-    {
-      "id": "예루살렘",
-      "rank": 7,
-      "keyword": "예루살렘",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '예루살렘 성지 규칙 '와르르'…유대인, 기도서까지 들고 예배' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "예루살렘 성지 규칙 '와르르'…유대인, 기도서까지 들고 예배",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260816204856215?f=p"
-        },
-        {
-          "title": "[현장] 길 가는 수녀에 '퉤'… 극우 유대인 '타종교 모욕' 일상화한 예루살렘",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026081307460004826"
-        },
-        {
-          "title": "성지 '와르르'…유대인 기도서 예배 허용, 중동 화약고 '촉각' : 국제",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/957728"
-        }
-      ]
-    },
-    {
-      "id": "드론-스트라이크",
-      "rank": 8,
-      "keyword": "드론 스트라이크",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Ukraine attacks Russia with hundreds of drones - one of Kyiv’s largest …' (CNN) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Ukraine attacks Russia with hundreds of drones - one of Kyiv’s largest assaults of the conflict",
-          "source": "CNN",
-          "url": "https://www.cnn.com/2026/08/15/europe/russia-moscow-ukraine-air-attack-intl"
-        },
-        {
-          "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
-          "source": "Dallas News",
-          "url": "https://www.dallasnews.com/news/article/ukraine-launches-one-of-its-largest-aerial-22390301.php"
-        },
-        {
-          "title": "Ukrainian drone attack on Russia kills at least six, says Moscow",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/aug/16/ukrainian-drone-attack-on-russia-wildberries-warehouse-fire"
-        }
-      ]
-    },
-    {
-      "id": "상주영천고속도로",
-      "rank": 9,
-      "keyword": "상주영천고속도로",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '대구 군위 상주-영천고속도로 9중 추돌사고…6명 다쳐' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "대구 군위 상주-영천고속도로 9중 추돌사고…6명 다쳐",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8637997"
-        },
-        {
-          "title": "광복절 연휴 첫날 고속도로 9중 추돌·렌터카 화재…곳곳서 13명 다쳐",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/f91Au9DgjC"
-        },
-        {
-          "title": "대구 군위 고속도로서 9중 추돌 사고…6명 부상",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260815032500053"
-        }
-      ]
-    },
-    {
-      "id": "무시알라",
-      "rank": 10,
-      "keyword": "무시알라",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''김민재까지 쓰러졌다' 바이에른 초비상...허벅지 부상 교체, 무시알라는 경기 중 '실신' - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
         {
           "title": "'김민재까지 쓰러졌다' 바이에른 초비상...허벅지 부상 교체, 무시알라는 경기 중 '실신' - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/sports/2026/08/16/202608160942779756O"
+        }
+      ]
+    },
+    {
+      "id": "변중석",
+      "rank": 7,
+      "keyword": "변중석",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '故 정주영 회장 25주기…범현대가 '총집결'[뉴시스Pic]' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "故 정주영 회장 25주기…범현대가 '총집결'[뉴시스Pic]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260816_0003751120"
         },
         {
-          "title": "\"집중력 있는 경기력, 영리하게 전진했다\"…'패스 성공률 98%+평점 2점' 김민재, 주전 경쟁서 존재감 확실했지만 개막 직전 부상 변수",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260816n01919"
+          "title": "‘그림자 내조’ 변중석 여사 19주기…‘범현대가’ 청운동 집결",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816230009408"
         },
         {
-          "title": "'김민재-라이머 연쇄 부상' 바이에른 날벼락...무시알라까지 경기 막판 '실신'",
-          "source": "OSEN",
-          "url": ""
+          "title": "故 변중석 여사 19주기…범현대家 한자리에",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026081643711"
+        }
+      ]
+    },
+    {
+      "id": "이제-만나러-갑니다",
+      "rank": 8,
+      "keyword": "이제 만나러 갑니다",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이제 만나러 갑니다 762회' (채널A) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이제 만나러 갑니다 762회",
+          "source": "채널A",
+          "url": "https://ichannela.com/program/clip/000000545443.do"
+        },
+        {
+          "title": "'이만갑' 남·북파 공작원 한자리에 모인다...임무 비하인드 공개",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3666153"
+        },
+        {
+          "title": "[오늘의 채널A]남파-북파 공작원들의 못다한 이야기",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/article/all/20260815/134481379/2"
+        }
+      ]
+    },
+    {
+      "id": "미스-어스",
+      "rank": 9,
+      "keyword": "미스 어스",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '2025년 미스 어스 인도네시아가 26세의 나이로 갑작스럽게 세상을 떠났습니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "2025년 미스 어스 인도네시아가 26세의 나이로 갑작스럽게 세상을 떠났습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/hoa-hau-trai-dat-indonesia-2025-dot-ngot-qua-doi-o-tuoi-26"
+        },
+        {
+          "title": "현 미스 인도네시아가 별세했습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/duong-kim-hoa-hau-indonesia-qua-doi"
+        },
+        {
+          "title": "미스 어스 우승자가 26세의 나이로 세상을 떠났습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/mot-hoa-hau-trai-dat-qua-doi-o-tuoi-26"
+        }
+      ]
+    },
+    {
+      "id": "트럼프",
+      "rank": 10,
+      "keyword": "트럼프",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '트럼프, 한미훈련 당일 돌연 축소 지시…野 “韓 패싱 당해”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "트럼프, 한미훈련 당일 돌연 축소 지시…野 “韓 패싱 당해”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817123411497"
+        },
+        {
+          "title": "을지 자유의 방패 연습 중단 촉구하는 시민단체",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260817_0021401073"
+        },
+        {
+          "title": "트럼프 “을지훈련 축소 지시…韓 이란 비핵화 동참 거부”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11609867"
         }
       ]
     }
