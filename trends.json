@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-17T18:50:18.384Z",
+  "updatedAt": "2026-08-17T19:33:54.291Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,7 +9,7 @@
       "rank": 1,
       "keyword": "넥슨",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 '넥슨 품에 안긴 오버워치, 제2의 전성기 정조준' (지디넷코리아) 관련 뉴스가 함께 포착됐어요.",
@@ -21,25 +21,53 @@
           "url": "https://zdnet.co.kr/view/?no=20260816193050"
         },
         {
-          "title": "[기획] '넥슨의 오버워치' 시대, 무엇이 바뀌고 무엇을 노리나",
-          "source": "디스이즈게임",
-          "url": "https://www.thisisgame.com/articles/428832"
+          "title": "오버워치, 한국인 영웅 '디몬' 출시, 대규모 업데이트도",
+          "source": "금강일보",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1175439"
         },
         {
-          "title": "오버워치 시즌4, 돌아온 당신을 위한 추천 영웅",
-          "source": "게임플",
-          "url": "https://www.gameple.co.kr/news/articleView.html?idxno=216255"
+          "title": "칼과 방패를 든 MEKA, D.Mon은 무엇이 다른가",
+          "source": "인벤",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319503"
+        }
+      ]
+    },
+    {
+      "id": "국경",
+      "rank": 2,
+      "keyword": "국경",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+2",
+      "summary": "급상승 시점에 '장탄 국경 경비대는 범죄 예방 및 통제 홍보 활동을 강화하고 있습니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "장탄 국경 경비대는 범죄 예방 및 통제 홍보 활동을 강화하고 있습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/bien-phong-giang-thanh-tang-tuyen-truyen-phong-chong-toi-pham"
+        },
+        {
+          "title": "뿌리부터 '국민의 지지'를 유지하는 것: 지속 가능한 새로운 농촌 지역을 건설하고 국경을 조기에, 그리고 멀리서부터 보호하기 위한 토대입니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/giu-vung-the-tran-long-dan-tu-goc-nen-tang-xay-dung-nong-thon-moi-ben-vung-va-bao-ve-bien-cuong-tu-som-tu-xa"
+        },
+        {
+          "title": "국경 지역 및 국경 표지석의 자율 관리에 참여하기 위한 협정을 체결했습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/ky-ket-tham-gia-tu-quan-duong-bien-moc-quoc-gioi"
         }
       ]
     },
     {
       "id": "fc온라인",
-      "rank": 2,
+      "rank": 3,
       "keyword": "fc온라인",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '황제를 넘어서다…BFX 김선재, 3대1로 KT 김정민 제압 (FSL 서머) [종합]' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -62,10 +90,10 @@
     },
     {
       "id": "어벤져스-둠스데이",
-      "rank": 3,
+      "rank": 4,
       "keyword": "어벤져스 둠스데이",
       "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "4시간 전",
       "change": "down",
       "changeLabel": "-1",
       "summary": "급상승 시점에 '“내가 바로 둠이다”…‘어벤져스: 둠스데이’ 예고편 공개, 거대한 전쟁의 서막' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
@@ -89,125 +117,13 @@
       ]
     },
     {
-      "id": "국경",
-      "rank": 4,
-      "keyword": "국경",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '장탄 국경 경비대는 범죄 예방 및 통제 홍보 활동을 강화하고 있습니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "장탄 국경 경비대는 범죄 예방 및 통제 홍보 활동을 강화하고 있습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/bien-phong-giang-thanh-tang-tuyen-truyen-phong-chong-toi-pham"
-        },
-        {
-          "title": "뿌리부터 '국민의 지지'를 유지하는 것: 지속 가능한 새로운 농촌 지역을 건설하고 국경을 조기에, 그리고 멀리서부터 보호하기 위한 토대입니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/giu-vung-the-tran-long-dan-tu-goc-nen-tang-xay-dung-nong-thon-moi-ben-vung-va-bao-ve-bien-cuong-tu-som-tu-xa"
-        },
-        {
-          "title": "국경 지역 및 국경 표지석의 자율 관리에 참여하기 위한 협정을 체결했습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/ky-ket-tham-gia-tu-quan-duong-bien-moc-quoc-gioi"
-        }
-      ]
-    },
-    {
-      "id": "황현민",
-      "rank": 5,
-      "keyword": "황현민",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '“배정남, 마르코에 폭행 당해 조폭 데려와” 황현민 폭로' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“배정남, 마르코에 폭행 당해 조폭 데려와” 황현민 폭로",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/B3IepEpXUV"
-        },
-        {
-          "title": "잼 출신 황현민, 뜬금 배정남 마르코 난투극 재소환 “2천만원 합의금”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12129442"
-        },
-        {
-          "title": "\"둘이 짜고 한 연기\"…황현민, 배정남·마르코 '17년 전 폭행 시비' 뜬금 재소환",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2184545"
-        }
-      ]
-    },
-    {
-      "id": "이진",
-      "rank": 6,
-      "keyword": "이진",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 ''뉴욕댁' 이진, 반려견 함께 돌아왔다..韓 정착→핑클·송혜교와 '행복' [스타이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'뉴욕댁' 이진, 반려견 함께 돌아왔다..韓 정착→핑클·송혜교와 '행복' [스타이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817130609935"
-        },
-        {
-          "title": "송혜교, 핑클 이진과 여전하네···원조 얼짱女들의 우정 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/17/HAYTONBRMY2DINZSG4YTKZBQGM/"
-        },
-        {
-          "title": "송혜교가 부른 ‘우리 장군이’…반려견 한장에 들킨(?) 이진과의 ‘30년 우정’",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1628919"
-        }
-      ]
-    },
-    {
-      "id": "브루스-윌리스",
-      "rank": 7,
-      "keyword": "브루스 윌리스",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 ''5명 딸부자' 브루스 윌리스, '치매'에도 데미 무어와 막내딸 결혼식 참석..미소 [월드스타이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'5명 딸부자' 브루스 윌리스, '치매'에도 데미 무어와 막내딸 결혼식 참석..미소 [월드스타이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/pQC4dHx2vO"
-        },
-        {
-          "title": "‘치매 투병’ 브루스 윌리스, 막내딸 결혼식서 포착… 4년 만의 감동 근황",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/08/16/G4YDQNJYHBSGCOBUHA4TSMTGMY/"
-        },
-        {
-          "title": "제작만 712시간 걸린, 탈룰라 윌리스의 발렌시아가 웨딩드레스",
-          "source": "Vogue korea",
-          "url": "https://www.vogue.co.kr/2026/08/11/%EC%A0%9C%EC%9E%91%EB%A7%8C-712%EC%8B%9C%EA%B0%84-%EA%B1%B8%EB%A6%B0-%ED%83%88%EB%A3%B0%EB%9D%BC-%EC%9C%8C%EB%A6%AC%EC%8A%A4%EC%9D%98-%EB%B0%9C%EB%A0%8C%EC%8B%9C%EC%95%84%EA%B0%80-%EC%9B%A8%EB%94%A9/"
-        }
-      ]
-    },
-    {
       "id": "창원시장",
-      "rank": 8,
+      "rank": 5,
       "keyword": "창원시장",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "volumeLabel": "500+",
+      "startedLabel": "5시간 전",
+      "change": "up",
+      "changeLabel": "+3",
       "summary": "급상승 시점에 '\"인명·재산 지켜라\" … 창원특례시, 호우 피해 대비 주요 방재시설 집중점검' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -229,11 +145,95 @@
       ]
     },
     {
+      "id": "브루스-윌리스",
+      "rank": 6,
+      "keyword": "브루스 윌리스",
+      "volumeLabel": "200+",
+      "startedLabel": "4시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 ''5명 딸부자' 브루스 윌리스, '치매'에도 데미 무어와 막내딸 결혼식 참석..미소 [월드스타이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'5명 딸부자' 브루스 윌리스, '치매'에도 데미 무어와 막내딸 결혼식 참석..미소 [월드스타이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/pQC4dHx2vO"
+        },
+        {
+          "title": "‘치매 투병’ 브루스 윌리스, 막내딸 결혼식서 포착… 4년 만의 감동 근황",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/08/16/G4YDQNJYHBSGCOBUHA4TSMTGMY/"
+        },
+        {
+          "title": "제작만 712시간 걸린, 탈룰라 윌리스의 발렌시아가 웨딩드레스",
+          "source": "Vogue korea",
+          "url": "https://www.vogue.co.kr/2026/08/11/%EC%A0%9C%EC%9E%91%EB%A7%8C-712%EC%8B%9C%EA%B0%84-%EA%B1%B8%EB%A6%B0-%ED%83%88%EB%A3%B0%EB%9D%BC-%EC%9C%8C%EB%A6%AC%EC%8A%A4%EC%9D%98-%EB%B0%9C%EB%A0%8C%EC%8B%9C%EC%95%84%EA%B0%80-%EC%9B%A8%EB%94%A9/"
+        }
+      ]
+    },
+    {
+      "id": "판문점-도끼",
+      "rank": 7,
+      "keyword": "판문점 도끼",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘도끼만행 50년’ 美장교 유족·전우... “활기찬 한국은 살아있는 기념비”' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘도끼만행 50년’ 美장교 유족·전우... “활기찬 한국은 살아있는 기념비”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/people/2026/08/17/LUXLW3RQIZAOFOJAVL2X36UOQA/"
+        },
+        {
+          "title": "[통일논단] 미루나무 한 그루 자르려다 한반도 평화가 결딴날 뻔",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3425577"
+        },
+        {
+          "title": "판문점 도끼 박철, 정치 깡패 이정재, 반역자 박춘금...역사 속 악인들",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816055647697"
+        }
+      ]
+    },
+    {
+      "id": "황현민",
+      "rank": 8,
+      "keyword": "황현민",
+      "volumeLabel": "200+",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-3",
+      "summary": "급상승 시점에 '“배정남, 마르코에 폭행 당해 조폭 데려와” 황현민 폭로' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“배정남, 마르코에 폭행 당해 조폭 데려와” 황현민 폭로",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/B3IepEpXUV"
+        },
+        {
+          "title": "잼 출신 황현민, '배정남·마르코 난투극설' 재소환 왜?",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260817_0003751567"
+        },
+        {
+          "title": "잼 출신 황현민, 뜬금 배정남 마르코 난투극 재소환 “2천만원 합의금”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12129442"
+        }
+      ]
+    },
+    {
       "id": "어쌔신-크리드-오디세이",
       "rank": 9,
       "keyword": "어쌔신 크리드 오디세이",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "4시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
