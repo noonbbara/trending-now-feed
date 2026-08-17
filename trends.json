@@ -1,45 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-17T10:39:11.554Z",
+  "updatedAt": "2026-08-17T11:32:59.877Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "김시우",
-      "rank": 1,
-      "keyword": "김시우",
-      "volumeLabel": "20000+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '우승은 셰플러, 최고 승자는 임성재...PGA 투어 PO 1차전' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "우승은 셰플러, 최고 승자는 임성재...PGA 투어 PO 1차전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817072137303"
-        },
-        {
-          "title": "김시우 준우승…임성재·김주형도 생존",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260818.22014004492"
-        },
-        {
-          "title": "임성재, 올해는 투어챔피언십 못 나가나 했는데...역시나 꾸준함의 대명사",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/golf/2026/08/17/HFSDMYJWGQZDOZDEGM3GGOLEGM/"
-        }
-      ]
-    },
-    {
       "id": "부모",
-      "rank": 2,
+      "rank": 1,
       "keyword": "부모",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "10000+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '\"시부 팔순잔치 못했으니 친정부모도 챙기지 마\"…시모·시누이 억지 시끌' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -61,58 +33,86 @@
       ]
     },
     {
-      "id": "세계-선수권-대회",
-      "rank": 3,
-      "keyword": "세계 선수권 대회",
+      "id": "김부선",
+      "rank": 2,
+      "keyword": "김부선",
       "volumeLabel": "5000+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 ''세계 6위' 이끈 U17 女배구 이승여 감독 \"한국 배구 위기 아냐\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[단독] 김부선과 고인, 무슨 사이였길래 ‘난방열사’ 집까지 가압류' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'세계 6위' 이끈 U17 女배구 이승여 감독 \"한국 배구 위기 아냐\"",
+          "title": "[단독] 김부선과 고인, 무슨 사이였길래 ‘난방열사’ 집까지 가압류",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608171338003"
+        },
+        {
+          "title": "\"김부선, 지인 유족과 2억 대여금 반환 소송\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260817_0003751531"
+        },
+        {
+          "title": "김부선, 고인 유족에 피소… “빌린 돈” vs “지원금”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260817104254689"
-        },
-        {
-          "title": "男부럽지 않은 女배구…그 중심엔 ‘리틀 김연경’ 손서연",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20260818.22014004500"
-        },
-        {
-          "title": "'리틀 김연경' 손서연, U-17 세계선수권서 우뚝 \"더 성장하겠다\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260817033900007"
+          "url": "https://v.daum.net/v/20260817161507007"
         }
       ]
     },
     {
       "id": "테라파워",
-      "rank": 4,
+      "rank": 3,
       "keyword": "테라파워",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '깊어지는 최태원·빌 게이츠 ‘SMR 밀월’…AI 전력 핵심파트너로' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '빌 게이츠 만난 최태원, 차세대 원전 산업 발전 방향 논의' (문화일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "깊어지는 최태원·빌 게이츠 ‘SMR 밀월’…AI 전력 핵심파트너로",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817144203033"
-        },
-        {
-          "title": "HD현대·현대건설, 美 테라파워와 손잡고 미국 SMR 시장 진출 확대…“韓·美 원전동맹 강화”",
+          "title": "빌 게이츠 만난 최태원, 차세대 원전 산업 발전 방향 논의",
           "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11609935"
+          "url": "https://www.munhwa.com/article/11609931"
         },
         {
           "title": "두산에너빌리티, 美 테라파워 차세대 SMR 핵심 기자재 수주",
           "source": "세계일보",
           "url": "https://www.segye.com/newsView/20260816509334"
+        },
+        {
+          "title": "깊어지는 최태원·빌 게이츠 SMR 동맹…AI 전력 핵심파트너",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260816024400003"
+        }
+      ]
+    },
+    {
+      "id": "서미화",
+      "rank": 4,
+      "keyword": "서미화",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[속보] 與전대 최고위원 최민희·박선원·서미화·이성윤·한민수順' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[속보] 與전대 최고위원 최민희·박선원·서미화·이성윤·한민수順",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817185655853"
+        },
+        {
+          "title": "\"표 몰아달라\" 친청 VS 친명 막판 수싸움... 수석 최고위원 차지냐, 5위 구하기냐",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026081711010001717"
+        },
+        {
+          "title": "'친청계 3인' 전원 최고위원 입성 …與지도부 레드팀, 金리더십 흔들까 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/08/17/2026081717164997395"
         }
       ]
     },
@@ -121,9 +121,9 @@
       "rank": 5,
       "keyword": "조 째즈",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '임영웅, 요즘 연애 고민 있나…'말자쇼' 조째즈 \"최근 연애 상담해 줘\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -145,58 +145,58 @@
       ]
     },
     {
-      "id": "사건",
+      "id": "대한민국",
       "rank": 6,
-      "keyword": "사건",
+      "keyword": "대한민국",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '전현무까지 줄줄이 경찰 조사…두번이나 도망쳤는데 교회서 숨진 11살 [금주의 사건사고]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'OECD 2위 결핵 발생국 대한민국…집단시설 관리체계는 ‘빈틈’' (한겨레) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "전현무까지 줄줄이 경찰 조사…두번이나 도망쳤는데 교회서 숨진 11살 [금주의 사건사고]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/pLhcl2waoa"
+          "title": "OECD 2위 결핵 발생국 대한민국…집단시설 관리체계는 ‘빈틈’",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/health/1273276.html"
         },
         {
-          "title": "인'스타'그램 세상|“둘에서 셋으로” 이상호♥김자연, 임신 발표…심진화·김영희 등 축하 물결",
-          "source": "ZUM 뉴스",
-          "url": "https://m.news.zum.com/photo/58287739/107218336?cm=news_edit&r=1&thumb=1"
+          "title": "‘대한민국 초대 대통령’ 광복절 경축식 독립운동 6인에서 제외…李 정부, 이승만 지우기 신호탄?",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11609947"
         },
         {
-          "title": "'주사 이모' 의혹 수사 경찰, 키·온유·전현무 등 피의자 조사",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6844266_36918.html"
+          "title": "광복절 경축식 영상에 독립운동 6인… 이승만 빠져",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/politics_general/2026/08/17/YZ5F4KBVMVGHVFH5LRRVF2HIGM/"
         }
       ]
     },
     {
-      "id": "은행원",
+      "id": "티비",
       "rank": 7,
-      "keyword": "은행원",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 ''은행원 월급 이정도였다니'…상반기 급여 평균 7천150만원, 삼전도 제쳤다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "티비",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'What will TV look like in three years? Media insiders share their predi…' (CNBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'은행원 월급 이정도였다니'…상반기 급여 평균 7천150만원, 삼전도 제쳤다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260816160846955"
+          "title": "What will TV look like in three years? Media insiders share their predictions",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/08/17/tv-media-insiders-predictions.html"
         },
         {
-          "title": "'억소리' 나는 금융권 연봉, 올해 2억 넘본다…'연봉킹'은 누구?",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260814_0003750347"
+          "title": "Cable TV subscriptions fall to 68.7M as streaming dominates viewing",
+          "source": "eciks.org",
+          "url": "https://eciks.org/21136-cable-tv-subscriptions-decline-streaming"
         },
         {
-          "title": "4대은행 상반기 평균 급여 7천150만원…13년 만에 최고 상승률",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260815021700002"
+          "title": "Here's what TV will look like in three years, according to 10 industry execs",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/video/2026/08/17/what-tv-will-look-like-in-three-years-according-to-industry-execs.html"
         }
       ]
     },
@@ -205,9 +205,9 @@
       "rank": 8,
       "keyword": "디즈니",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '디즈니, 젊은 팬 찾아 게임·틱톡으로 확장...“새 세대에 이야기 이어지도록”' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -229,58 +229,58 @@
       ]
     },
     {
-      "id": "상도동",
+      "id": "신세계",
       "rank": 9,
-      "keyword": "상도동",
+      "keyword": "신세계",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '상도동 국사봉 자락에 1840가구 친환경 단지 들어선다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '신세계百, 역대 최대 '베이비페어'…육아용품 최대 40% 할인' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "상도동 국사봉 자락에 1840가구 친환경 단지 들어선다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817111649375"
+          "title": "신세계百, 역대 최대 '베이비페어'…육아용품 최대 40% 할인",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260816034300030"
         },
         {
-          "title": "상도동 노후주택촌, 최고 29층·1840가구로…신통기획 확정 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/08/17/2026081714585742912"
+          "title": "유모차부터 카시트까지 한자리에",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8058523"
         },
         {
-          "title": "상도동 214 일대 재개발 확정…최고 29층·1840세대",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260814_0003750290"
+          "title": "신세계백화점, 역대 최대 규모 ‘베이비페어’ 연다",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20260817023133381"
         }
       ]
     },
     {
-      "id": "홍인규",
+      "id": "제주-sk-fc",
       "rank": 10,
-      "keyword": "홍인규",
+      "keyword": "제주 sk fc",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 ''돌싱' 강유미, 짧았던 결혼 생활 언급 \"전 남편과 각방 써, 이혼은 나로 족하다\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '제주항공, 제주SK FC 홈경기서 '브랜드데이' 진행' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'돌싱' 강유미, 짧았던 결혼 생활 언급 \"전 남편과 각방 써, 이혼은 나로 족하다\"",
+          "title": "제주항공, 제주SK FC 홈경기서 '브랜드데이' 진행",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260817070218999"
+          "url": "https://v.daum.net/v/20260817134508836"
         },
         {
-          "title": "\"자고 있는데 장모님이 볼에 뽀뽀를…\" 홍인규, 심야 `아찔 스킨십` 고백 [홈즈]",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026081406061332227"
+          "title": "기내가 된 축구장...객실승무원, 비상대피 퍼포먼스",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202608171026220097"
         },
         {
-          "title": "1억뷰 3살 인플루언서, 전용 화장실에 수영장까지…널찍한 4층집 공개(홈즈)",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260814n18859?mid=e1200"
+          "title": "제주항공, 제주SK FC 홈경기서 브랜드데이… 항공권 증정·할인 행사",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260817500176"
         }
       ]
     }
