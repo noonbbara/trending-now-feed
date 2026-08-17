@@ -1,136 +1,113 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-17T13:47:45.726Z",
+  "updatedAt": "2026-08-17T14:35:28.917Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "니콜-키드먼",
+      "id": "지연수",
       "rank": 1,
-      "keyword": "니콜 키드먼",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+4",
-      "summary": "급상승 시점에 '59세 니콜 키드먼, 검은 가죽옷에 담배 물고 클럽 입성 젊은 남성 유혹...25년만의 뮤비 출연' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "지연수",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“개눈 같아”..지연수, 악플에 ‘전 남편’ 일라이도 못 본 생눈 공개(연수롭다)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "59세 니콜 키드먼, 검은 가죽옷에 담배 물고 클럽 입성 젊은 남성 유혹...25년만의 뮤비 출연",
+          "title": "“개눈 같아”..지연수, 악플에 ‘전 남편’ 일라이도 못 본 생눈 공개(연수롭다)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260817153809148"
+          "url": "https://v.daum.net/v/20260817191537219"
         },
         {
-          "title": "니콜 키드먼, 28세 연하남과 담배 피우고 술 마시며 관능적 댄스 '찬양'[Oh!llywood] - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/15/MFSTSNDBGNSWCNDEHE2GINBWGU/"
+          "title": "지연수, 렌즈 뺀 눈 최초 공개…\"전남편 일라이도 못 봤다\" [RE:뷰]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260817n14214"
+        },
+        {
+          "title": "\"전남편 일라이도 못 봤다\"...지연수, \"개눈 같다\" 악플에 결국 쌩눈 공개",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-08-17/202608170100099030006269"
         }
       ]
     },
     {
-      "id": "로봇",
+      "id": "드레스",
       "rank": 2,
-      "keyword": "로봇",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '젠슨황과 구광모 만난 지 나흘만에…딸이 LG 로봇거점 찾는다' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "드레스",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '30기 옥순, 결혼준비 무리했나..드레스 입다가 '구토' \"죽다 살아나\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "젠슨황과 구광모 만난 지 나흘만에…딸이 LG 로봇거점 찾는다",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/business/12129290"
+          "title": "30기 옥순, 결혼준비 무리했나..드레스 입다가 '구토' \"죽다 살아나\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816134337135?f=p"
         },
         {
-          "title": "매디슨 황, LG 로봇 거점 찾는다",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608172027035"
+          "title": "결혼 앞둔 30기 옥순, 웨딩드레스 피팅 중 구토…“무리했다” 무슨 일",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608161412003"
         },
         {
-          "title": "구광모-젠슨 황 'AI 동맹' 완성…LG, '피지컬 AI 앵커'로 도약한다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/08/17/2026081708484093674"
+          "title": "​'나솔' 30기 옥순, 웨딩드레스 피팅 중 ♥영수 몰래 구토 \"죽다 살아났다\"(희노아락)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260816n06807"
+        }
+      ]
+    },
+    {
+      "id": "왕과-사는-남자",
+      "rank": 3,
+      "keyword": "왕과 사는 남자",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '제2의 '왕사남' 온다…'1691만' 제작사→초호화 캐스팅으로 민심 제대로 저격한 韓 영화' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "제2의 '왕사남' 온다…'1691만' 제작사→초호화 캐스팅으로 민심 제대로 저격한 韓 영화",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817180209007"
+        },
+        {
+          "title": "여진족 배경 액션 사극 넷플릭스 `도차비` 제작 확정",
+          "source": "매일신문",
+          "url": "https://www.imaeil.com/page/view/2026081714211917849"
+        },
+        {
+          "title": "이상이, ‘취사병’→‘도차비’ 대세 잇는다",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608131125003"
         }
       ]
     },
     {
       "id": "최수종",
-      "rank": 3,
+      "rank": 4,
       "keyword": "최수종",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": []
     },
     {
-      "id": "김상욱",
-      "rank": 4,
-      "keyword": "김상욱",
+      "id": "선성권",
+      "rank": 5,
+      "keyword": "선성권",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "up",
-      "changeLabel": "+3",
-      "summary": "급상승 시점에 '박찬대 인천시장, 민선 9기 첫 직무평가서 전국 ‘최하위’ 불명예' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "박찬대 인천시장, 민선 9기 첫 직무평가서 전국 ‘최하위’ 불명예",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817154703354"
-        },
-        {
-          "title": "'인천e음 캐시백 중단' 영향 컸나…박찬대 시장 지지율 뚝",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1329728"
-        },
-        {
-          "title": "전재수 시장 취임 첫 평가 ‘양호’…시정 동력 확보",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260814.22002003682"
-        }
-      ]
-    },
-    {
-      "id": "iphone-17-pro",
-      "rank": 5,
-      "keyword": "iphone 17 pro",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'iPhone 17 Pro price drops by Rs 22000, ahead of iPhone 18 Pro launch: S…' (India TV News) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "iPhone 17 Pro price drops by Rs 22000, ahead of iPhone 18 Pro launch: Should you buy now?",
-          "source": "India TV News",
-          "url": "https://www.indiatvnews.com/technology/news/iphone-17-pro-price-drops-by-rs-22000-ahead-of-iphone-18-pro-launch-should-you-buy-now-2026-08-17-1051633"
-        },
-        {
-          "title": "iPhone 15 gets a big discount on Flipkart; price drops to Rs 51,299 with bank offer",
-          "source": "91Mobiles",
-          "url": "https://www.91mobiles.com/hub/iphone-15-discount-flipkart-rs-51299/"
-        },
-        {
-          "title": "Croma Independence Day Sale: Offers on iPhone 17 Pro, Pixel 10, MacBook Air M5 and more",
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/technology/croma-independence-day-sale-offers-iphone-17-10832447/"
-        }
-      ]
-    },
-    {
-      "id": "선성권",
-      "rank": 6,
-      "keyword": "선성권",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 ''불꽃야구2' 큰 별이 떠난다…라스트 댄스 \"무찔러 이기겠다\" 각오' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -152,13 +129,97 @@
       ]
     },
     {
-      "id": "도지코인",
+      "id": "허구연",
+      "rank": 6,
+      "keyword": "허구연",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘불멸의 4할타자’ 백인천 영결식…유족·야구인들 ‘마지막 배웅’' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘불멸의 4할타자’ 백인천 영결식…유족·야구인들 ‘마지막 배웅’",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11609886"
+        },
+        {
+          "title": "그라운드의 별이 된 ‘영원한 4할 타자’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608162025025"
+        },
+        {
+          "title": "침통한 표정의 허구연 KBO 총재",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260817_0002213974"
+        }
+      ]
+    },
+    {
+      "id": "을지훈련",
       "rank": 7,
+      "keyword": "을지훈련",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '트럼프 “을지훈련 축소 지시…韓 이란 비핵화 동참 거부”' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "트럼프 “을지훈련 축소 지시…韓 이란 비핵화 동참 거부”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11609867"
+        },
+        {
+          "title": "[사설] 트럼프 “UFS 축소” 지시… 한·미동맹 경시로 이어져선 곤란",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817225852089"
+        },
+        {
+          "title": "트럼프 \"韓과 연합훈련 대폭 축소 지시…李대통령 이란 비핵화 참여 거부\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430361"
+        }
+      ]
+    },
+    {
+      "id": "학생",
+      "rank": 8,
+      "keyword": "학생",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이천시, 학생 통학 순환버스 신규 노선 2개 개통' (경기도민일보 미디어) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이천시, 학생 통학 순환버스 신규 노선 2개 개통",
+          "source": "경기도민일보 미디어",
+          "url": "https://www.kgdm.co.kr/news/articleView.html?idxno=2011131"
+        },
+        {
+          "title": "이천시, 학생 통학버스 '통학이' 노선 확대",
+          "source": "팔당유역신문",
+          "url": ""
+        },
+        {
+          "title": "이천시, 마장면 부발읍 연결 통학버스 노선 신설",
+          "source": "경기도민뉴스",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "도지코인",
+      "rank": 9,
       "keyword": "도지코인",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '도지코인 0.07달러 횡보, 2022년 비교는 엇갈렸다' (토큰포스트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -181,12 +242,12 @@
     },
     {
       "id": "가요무대",
-      "rank": 8,
+      "rank": 10,
       "keyword": "가요무대",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 ''가요무대' 더위사냥, 17일 가수 출연라인업 공개' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -203,63 +264,7 @@
         {
           "title": "'가요무대' 지원이, 무더위 씻어낸 '소양강 처녀' 무대 [TV캡처]",
           "source": "네이트",
-          "url": "https://news.nate.com/view/20260817n16821?mid=e1200"
-        }
-      ]
-    },
-    {
-      "id": "김태선",
-      "rank": 9,
-      "keyword": "김태선",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '비서실장 김태선·수석대변인 박성준…김민석 與대표 첫 인선(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "비서실장 김태선·수석대변인 박성준…김민석 與대표 첫 인선(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817212751361"
-        },
-        {
-          "title": "김민석, 당대표 선출 직후 경남 거제로 “비 피해 점검”…내일 현충원·모레 부산 경남행",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8638676"
-        },
-        {
-          "title": "김민석, 당선 후 첫 행보로 '집중호우 피해' 거제 찾아",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260817067100001"
-        }
-      ]
-    },
-    {
-      "id": "openai",
-      "rank": 10,
-      "keyword": "openai",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'OpenAI's Brockman brushes off concerns about leadership changes in CNBC…' (CNBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html"
-        },
-        {
-          "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer/"
-        },
-        {
-          "title": "The AI Platforms Are Real. The People Who Built Them Are Leaving.",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-platforms-real-people-built-130000336.html"
+          "url": "https://news.nate.com/view/20260817n16821"
         }
       ]
     }
