@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-17T05:10:55.872Z",
+  "updatedAt": "2026-08-17T06:01:50.054Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,9 +9,9 @@
       "rank": 1,
       "keyword": "로스앤젤레스 fc",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '손흥민 왜 폭발했나? 백태클에 마지막 공격 끊겼는데→공까지 안 주자 직접 빼앗아…주심은 SON 향해 '옐로카드'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -22,8 +22,8 @@
         },
         {
           "title": "손흥민 MLS 4경기 연속골 마감…LAFC, 샌디에이고에 0-1 패배",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260816025200007"
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8638212"
         },
         {
           "title": "'역대급 분노' 손흥민‥'오늘 정말 안 풀리네'",
@@ -33,234 +33,38 @@
       ]
     },
     {
-      "id": "hayden-panettiere",
+      "id": "트레킹",
       "rank": 2,
-      "keyword": "hayden panettiere",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Hayden Panettiere dies at 36' (ABC News - Breaking News, Latest News and Videos) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Hayden Panettiere dies at 36",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473"
-        },
-        {
-          "title": "Hayden Panettiere: US actress and star of Heroes dies aged 36",
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cq5665zgg1po"
-        },
-        {
-          "title": "Hayden Panettiere Dead at 36",
-          "source": "TMZ",
-          "url": "https://www.tmz.com/2026/08/16/hayden-panettiere-dead/"
-        }
-      ]
-    },
-    {
-      "id": "포옛",
-      "rank": 3,
-      "keyword": "포옛",
+      "keyword": "트레킹",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"홍명보 떠오른다\" 박문성 소신 발언…이동국 포옛호 합류 소식에 우려→\"중간 없이 높은 곳으로 점프 아닌가?\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '무이응에 외에도 다낭에는 트레킹이 금지된 곳이 두 군데 더 있습니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"홍명보 떠오른다\" 박문성 소신 발언…이동국 포옛호 합류 소식에 우려→\"중간 없이 높은 곳으로 점프 아닌가?\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817015137291"
+          "title": "무이응에 외에도 다낭에는 트레킹이 금지된 곳이 두 군데 더 있습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/ngoai-mui-nghe-con-2-diem-khong-duoc-phep-trekking-o-da-nang"
         },
         {
-          "title": "홍명보 후임 찾기 본격화…축구대표팀 임시 감독, 이번주 면접 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/17/2026081713300020131"
+          "title": "‘일출 명소’ 다낭 무이응에 위험지역서 관광객 4명 바다 휩쓸려… 2명 실종",
+          "source": "씬짜오베트남",
+          "url": "https://chaovietnam.co.kr/167978/"
         },
         {
-          "title": "이동국 품은 포옛 감독, 임시 사령탑으로 태극 전사 이끌까",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260814_0003749766"
+          "title": "19세 남학생, 다낭 손짜산 깊은 계곡으로 추락",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/xa-hoi/nam-sinh-19-tuoi-roi-xuong-vuc-sau-tren-nui-son-tra-da-nang-1749835.ldo"
         }
       ]
     },
     {
-      "id": "최상엽",
-      "rank": 4,
-      "keyword": "최상엽",
+      "id": "과학-고등학교",
+      "rank": 3,
+      "keyword": "과학 고등학교",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '루시 최상엽, 이달 결혼…\"비연예인 연인과 새로운 출발\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "루시 최상엽, 이달 결혼…\"비연예인 연인과 새로운 출발\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817134450825"
-        },
-        {
-          "title": "루시 최상엽, 8月 중 웨딩마치 울린다 [공식]",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260817000110"
-        },
-        {
-          "title": "루시 최상엽, 자필 편지로 결혼 발표 “소중한 순간 먼저 전하고 싶었다”",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260817/134488352/1"
-        }
-      ]
-    },
-    {
-      "id": "옌스-카스트로-프",
-      "rank": 5,
-      "keyword": "옌스 카스트로 프",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '카스트로프 형제 나란히 태극마크?…'도르트문트 유스 출신' 19세 동생 \"형과 뛰는 게 꿈\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "카스트로프 형제 나란히 태극마크?…'도르트문트 유스 출신' 19세 동생 \"형과 뛰는 게 꿈\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817022651338"
-        },
-        {
-          "title": "또 한 명의 '韓 혼혈 국가대표' 탄생하나...'옌스 친동생' 레니 카스트로프, \"형과 한 팀서 뛰는 게 꿈\"",
-          "source": "Your Field",
-          "url": "https://yourfield.nexon.com/today/view/2025052909553462961?type=all"
-        },
-        {
-          "title": "카스트로프 형제의 꿈... 옌스 이어 동생 레니도 태극마크 달까",
-          "source": "FT스포츠",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "id": "김영익",
-      "rank": 6,
-      "keyword": "김영익",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김영익의 도발 예언 \"지표는 거짓말 안 해, 코스피 5000 아래로 붕괴될 것\"' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김영익의 도발 예언 \"지표는 거짓말 안 해, 코스피 5000 아래로 붕괴될 것\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/money/2026/08/17/ZWTZICIBQJCGZPSIOZEHST2NFI/"
-        },
-        {
-          "title": "시험대 오른 반도체주…'이번주 주식시장 주요 변수'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608174926i"
-        },
-        {
-          "title": "\"지금 상승은 기술적 반등\" 국내 증시 조정은 끝나지 않았다",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430363"
-        }
-      ]
-    },
-    {
-      "id": "경마",
-      "rank": 7,
-      "keyword": "경마",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '제주도서 ‘혼디·COOL’ 캠페인 벌이는 동아오츠카…무슨 일?' (문화일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "제주도서 ‘혼디·COOL’ 캠페인 벌이는 동아오츠카…무슨 일?",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11609858"
-        },
-        {
-          "title": "[Issue+] 폭염 속 경마 강행, ‘말복지’ 실효성 논란",
-          "source": "농수축산신문",
-          "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=326403"
-        },
-        {
-          "title": "‘水요일은 水분공급 날’…온열질환 예방하는 날",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608130612003"
-        }
-      ]
-    },
-    {
-      "id": "사우나",
-      "rank": 8,
-      "keyword": "사우나",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"퇴근 후 1인 사우나 90분\"…'회복 소비'에 눈 돌리는 2030' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"퇴근 후 1인 사우나 90분\"…'회복 소비'에 눈 돌리는 2030",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817060209103"
-        },
-        {
-          "title": "사우나-쑥뜸 ‘회복 루틴’에 지갑 여는 MZ",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260814/134481280/2"
-        },
-        {
-          "title": "뇌를 위한 사우나 할 시간!",
-          "source": "마리끌레르 코리아",
-          "url": "https://www.marieclairekorea.com/beauty/2026/08/brain-sauna/"
-        }
-      ]
-    },
-    {
-      "id": "실업",
-      "rank": 9,
-      "keyword": "실업",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '같은 회사 21번 들락날락…실업급여 '1억' 받은 직장인 등장 [곽용희의 일자리노트]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "같은 회사 21번 들락날락…실업급여 '1억' 받은 직장인 등장 [곽용희의 일자리노트]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608163783i"
-        },
-        {
-          "title": "같은 회사 퇴사·재입사 반복하며 '실업급여 1억원' 수령한 직장인",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1152866"
-        },
-        {
-          "title": "“시럽급여 논란 다시 불붙나”… 반복수급 50만 명 육박에 제한 필요성 목소리 '확대'",
-          "source": "경제시그널",
-          "url": "https://www.economicsignal.co.kr/news/articleView.html?idxno=1328"
-        }
-      ]
-    },
-    {
-      "id": "과학고등학교",
-      "rank": 10,
-      "keyword": "과학고등학교",
-      "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
@@ -281,6 +85,202 @@
           "title": "내년 과학고 1858명 뽑는다…졸업생 진학 1위는 KAIST",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20260814_0003750248"
+        }
+      ]
+    },
+    {
+      "id": "헤이든-파네티어",
+      "rank": 4,
+      "keyword": "헤이든 파네티어",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[속보] ‘히어로즈’ 헤이든 파네티어 별세…향년 36세' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[속보] ‘히어로즈’ 헤이든 파네티어 별세…향년 36세",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817130128849"
+        },
+        {
+          "title": "'히어로즈'·'내슈빌' 헤이든 파네티어, 36세로 사망",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260817_0003751473"
+        },
+        {
+          "title": "‘히어로즈’ 배우 헤이든 파네티어 사망…“비극적인 죽음에 깊은 슬픔”",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260816223011053"
+        }
+      ]
+    },
+    {
+      "id": "브루클린-베컴",
+      "rank": 5,
+      "keyword": "브루클린 베컴",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Why did Cruz Beckham share Brooklyn Beckham’s childhood photo? The fami…' (The Times of India) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Why did Cruz Beckham share Brooklyn Beckham’s childhood photo? The family feud adds a deeper meaning to t",
+          "source": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/sports/international-sports/why-did-cruz-beckham-share-brooklyn-beckhams-childhood-photo-the-family-feud-adds-a-deeper-meaning-to-the-throwback/articleshow/133281898.cms"
+        },
+        {
+          "title": "Cruz Beckham shares surprise social media snap with brother Brooklyn amid family fall-out",
+          "source": "The Sun",
+          "url": "https://www.thesun.co.uk/tvandshowbiz/40076079/cruz-beckham-surprise-snap-brother-brooklyn/"
+        },
+        {
+          "title": "Cruz Beckham offers Brooklyn an olive branch with throwback snap amid family feud",
+          "source": "Daily Mirror",
+          "url": "https://www.mirror.co.uk/3am/celebrity-news/brooklyn-beckham-cruz-feud-david-37558367"
+        }
+      ]
+    },
+    {
+      "id": "india-vs-sri-lanka",
+      "rank": 6,
+      "keyword": "india vs sri lanka",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Ball by Ball Commentary & Live Score - SL vs IND, 1st Test' (Cricinfo) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Ball by Ball Commentary & Live Score - SL vs IND, 1st Test",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/india-in-sri-lanka-2026-1543999/sri-lanka-vs-india-1st-test-1544001/ball-by-ball-commentary"
+        },
+        {
+          "title": "India reaches 447-8 against Sri Lanka at stumps of rain-affected day 2 of 1st test",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://abcnews.com/Sports/wireStory/india-reaches-447-8-sri-lanka-stumps-rain-135684613"
+        },
+        {
+          "title": "The ninety minutes! Moving day comes early in gloomy Galle",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/ninety-minutes-moving-day-comes-181700411.html"
+        }
+      ]
+    },
+    {
+      "id": "김영익",
+      "rank": 7,
+      "keyword": "김영익",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '김영익의 도발 예언 \"지표는 거짓말 안 해, 코스피 5000 아래로 붕괴될 것\"' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김영익의 도발 예언 \"지표는 거짓말 안 해, 코스피 5000 아래로 붕괴될 것\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/money/2026/08/17/ZWTZICIBQJCGZPSIOZEHST2NFI/"
+        },
+        {
+          "title": "시험대 오른 반도체주…'이번주 주식시장 주요 변수'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608174926i"
+        },
+        {
+          "title": "'닥터둠' 김영익 \"9월 또 한번의 반등이 온다\"…하반기 증시 대전망 [오후초대석 | 김영익 교수]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813194913042"
+        }
+      ]
+    },
+    {
+      "id": "경마",
+      "rank": 8,
+      "keyword": "경마",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '“경마 중계에는 정답이 없습니다”…한국마사회 이문용 아나운서' (경기일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“경마 중계에는 정답이 없습니다”…한국마사회 이문용 아나운서",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260817580143"
+        },
+        {
+          "title": "제주도서 ‘혼디·COOL’ 캠페인 벌이는 동아오츠카…무슨 일?",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11609858"
+        },
+        {
+          "title": "[Issue+] 폭염 속 경마 강행, ‘말복지’ 실효성 논란",
+          "source": "농수축산신문",
+          "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=326403"
+        }
+      ]
+    },
+    {
+      "id": "키옥시아-주가",
+      "rank": 9,
+      "keyword": "키옥시아 주가",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '亞 증시 떠받친 AI·반도체 훈풍, 닛케이 상승전환[Asia오전] - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "亞 증시 떠받친 AI·반도체 훈풍, 닛케이 상승전환[Asia오전] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/08/17/2026081711262235730"
+        },
+        {
+          "title": "아시아 증시 혼조세, 일본 GDP 실망…중국 지표·기술주 주목",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2063664"
+        },
+        {
+          "title": "\"연내 9% 더 오른다\" 금융사들, 日증시 전망 줄상향",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817114244801"
+        }
+      ]
+    },
+    {
+      "id": "실업",
+      "rank": 10,
+      "keyword": "실업",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '같은 회사 21번 들락날락…실업급여 '1억' 받은 직장인 등장 [곽용희의 일자리노트]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "같은 회사 21번 들락날락…실업급여 '1억' 받은 직장인 등장 [곽용희의 일자리노트]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608163783i"
+        },
+        {
+          "title": "같은 회사 퇴사·재입사 반복하며 '실업급여 1억원' 수령한 직장인",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1152866"
+        },
+        {
+          "title": "실업급여 지급액 12조원 돌파...10명 3명은 ‘반복 수급자’",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260813580005"
         }
       ]
     }
