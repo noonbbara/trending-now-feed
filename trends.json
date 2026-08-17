@@ -1,129 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-17T12:57:55.995Z",
+  "updatedAt": "2026-08-17T13:47:45.726Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "김부선",
+      "id": "니콜-키드먼",
       "rank": 1,
-      "keyword": "김부선",
-      "volumeLabel": "10000+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '[단독] 김부선과 고인, 무슨 사이였길래 ‘난방열사’ 집까지 가압류' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[단독] 김부선과 고인, 무슨 사이였길래 ‘난방열사’ 집까지 가압류",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817134009731"
-        },
-        {
-          "title": "\"김부선, 지인 유족과 2억 대여금 반환 소송\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260817_0003751531"
-        },
-        {
-          "title": "“매월 300만원 보냈다”…김부선 지인 숨지자 유족 “2억원 돌려달라” 소송 [이슈픽]",
-          "source": "서울신문",
-          "url": "https://amp.seoul.co.kr/news/society/2026/08/17/20260817500101"
-        }
-      ]
-    },
-    {
-      "id": "로봇",
-      "rank": 2,
-      "keyword": "로봇",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '젠슨황과 구광모 만난 지 나흘만에…딸이 LG 로봇거점 찾는다' (매일경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "젠슨황과 구광모 만난 지 나흘만에…딸이 LG 로봇거점 찾는다",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/business/12129290"
-        },
-        {
-          "title": "매디슨 황, LG 로봇 거점 찾는다",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608172027035"
-        },
-        {
-          "title": "젠슨 황 장녀, LG전자 양재 센터 찾는다…LG-엔비디아 '피지컬 AI' 협력 논의",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260817_0003751436"
-        }
-      ]
-    },
-    {
-      "id": "선수권-대회",
-      "rank": 3,
-      "keyword": "선수권 대회",
+      "keyword": "니콜 키드먼",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''세계 6위' 이끈 U17 女배구 이승여 감독 \"한국 배구 위기 아냐\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'세계 6위' 이끈 U17 女배구 이승여 감독 \"한국 배구 위기 아냐\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817104254689"
-        },
-        {
-          "title": "U17 여자배구, 6위로 세계선수권 마감‥손서연 '득점 2위'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6845319_37004.html"
-        },
-        {
-          "title": "'리틀 김연경' 손서연, U-17 세계선수권서 우뚝 \"더 성장하겠다\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260817033900007"
-        }
-      ]
-    },
-    {
-      "id": "iphone-17-pro",
-      "rank": 4,
-      "keyword": "iphone 17 pro",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'The Pixel 11 series: Your most personal Pixel yet' (blog.google) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "The Pixel 11 series: Your most personal Pixel yet",
-          "source": "blog.google",
-          "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/"
-        },
-        {
-          "title": "Google Pixel 11 vs Samsung Galaxy S26: Specs, price, camera details",
-          "source": "Mashable",
-          "url": "https://mashable.com/tech/google-pixel-11-vs-samsung-galaxy-s26-specs-price-cameras"
-        },
-        {
-          "title": "8 things we learned from Google's Pixel 11 event",
-          "source": "Fox News",
-          "url": "https://www.foxnews.com/tech/8-things-learned-googles-pixel-11-event"
-        }
-      ]
-    },
-    {
-      "id": "니콜-키드먼",
-      "rank": 5,
-      "keyword": "니콜 키드먼",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "up",
+      "changeLabel": "+4",
       "summary": "급상승 시점에 '59세 니콜 키드먼, 검은 가죽옷에 담배 물고 클럽 입성 젊은 남성 유혹...25년만의 뮤비 출연' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -140,69 +28,193 @@
       ]
     },
     {
-      "id": "서미화",
-      "rank": 6,
-      "keyword": "서미화",
+      "id": "로봇",
+      "rank": 2,
+      "keyword": "로봇",
       "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '당대표만큼 치열했던 최고위원 선거‥김용 탈락에 '친청' 과반' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '젠슨황과 구광모 만난 지 나흘만에…딸이 LG 로봇거점 찾는다' (매일경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "당대표만큼 치열했던 최고위원 선거‥김용 탈락에 '친청' 과반",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817202226390"
+          "title": "젠슨황과 구광모 만난 지 나흘만에…딸이 LG 로봇거점 찾는다",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12129290"
         },
         {
-          "title": "“친명 與 장악하면 친청계 최고위원서 배신자 나올 수도”[정치를 부탁해]",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260817/134491338/1"
+          "title": "매디슨 황, LG 로봇 거점 찾는다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608172027035"
         },
         {
-          "title": "민주 선출직 최고위원 ‘친청 3명, 친명 2명’…김민석 리더십 ‘견제’ 선택",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1273306.html"
+          "title": "구광모-젠슨 황 'AI 동맹' 완성…LG, '피지컬 AI 앵커'로 도약한다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/08/17/2026081708484093674"
         }
       ]
     },
     {
+      "id": "최수종",
+      "rank": 3,
+      "keyword": "최수종",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
       "id": "김상욱",
-      "rank": 7,
+      "rank": 4,
       "keyword": "김상욱",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+3",
+      "summary": "급상승 시점에 '박찬대 인천시장, 민선 9기 첫 직무평가서 전국 ‘최하위’ 불명예' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "박찬대 인천시장, 민선 9기 첫 직무평가서 전국 ‘최하위’ 불명예",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817154703354"
+        },
+        {
+          "title": "'인천e음 캐시백 중단' 영향 컸나…박찬대 시장 지지율 뚝",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1329728"
+        },
+        {
+          "title": "전재수 시장 취임 첫 평가 ‘양호’…시정 동력 확보",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260814.22002003682"
+        }
+      ]
+    },
+    {
+      "id": "iphone-17-pro",
+      "rank": 5,
+      "keyword": "iphone 17 pro",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 'iPhone 17 Pro price drops by Rs 22000, ahead of iPhone 18 Pro launch: S…' (India TV News) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "iPhone 17 Pro price drops by Rs 22000, ahead of iPhone 18 Pro launch: Should you buy now?",
+          "source": "India TV News",
+          "url": "https://www.indiatvnews.com/technology/news/iphone-17-pro-price-drops-by-rs-22000-ahead-of-iphone-18-pro-launch-should-you-buy-now-2026-08-17-1051633"
+        },
+        {
+          "title": "iPhone 15 gets a big discount on Flipkart; price drops to Rs 51,299 with bank offer",
+          "source": "91Mobiles",
+          "url": "https://www.91mobiles.com/hub/iphone-15-discount-flipkart-rs-51299/"
+        },
+        {
+          "title": "Croma Independence Day Sale: Offers on iPhone 17 Pro, Pixel 10, MacBook Air M5 and more",
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/technology/croma-independence-day-sale-offers-iphone-17-10832447/"
+        }
+      ]
+    },
+    {
+      "id": "선성권",
+      "rank": 6,
+      "keyword": "선성권",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김상욱 울산시장, 지역신문 홍보비 집행기준 마련하나' (미디어오늘) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''불꽃야구2' 큰 별이 떠난다…라스트 댄스 \"무찔러 이기겠다\" 각오' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김상욱 울산시장, 지역신문 홍보비 집행기준 마련하나",
-          "source": "미디어오늘",
-          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336437"
+          "title": "'불꽃야구2' 큰 별이 떠난다…라스트 댄스 \"무찔러 이기겠다\" 각오",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816114537844"
         },
         {
-          "title": "전국의 김상욱들, 힘내! [세상읽기]",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/opinion/column/1272081.html"
+          "title": "이대호 웃음기 싹 지웠다…동료 고별전에 응원·승리 마음 교차 ('불꽃야구2')",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/17/HEZTSNJRME3TSMTDMUYDINLBHE/"
         },
         {
-          "title": "(민선 9기 한달)⑤김상욱 울산호, '여소야대 벽'에도 현장개혁 '속도전'",
-          "source": "뉴스토마토",
-          "url": "https://www.newstomato.com/readnews.aspx?no=1309737"
+          "title": "'불꽃야구2' 신재영, 시즌 첫 볼넷 헌납…무패 행진 깨지나?",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/514994"
+        }
+      ]
+    },
+    {
+      "id": "도지코인",
+      "rank": 7,
+      "keyword": "도지코인",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '도지코인 0.07달러 횡보, 2022년 비교는 엇갈렸다' (토큰포스트) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "도지코인 0.07달러 횡보, 2022년 비교는 엇갈렸다",
+          "source": "토큰포스트",
+          "url": "https://www.tokenpost.kr/news/cryptocurrency/391647"
+        },
+        {
+          "title": "도지코인, 제네시스 첫 채굴 보상 88DOGE 재조명...투기 포지션 다시 급증",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/253038"
+        },
+        {
+          "title": "도지코인, 고래 4억7000만 DOGE 쓸어담았다…시세 0.075달러 도달 여부는?",
+          "source": "CBC뉴스",
+          "url": "https://cbci.co.kr/news/articleView.html?idxno=598595"
+        }
+      ]
+    },
+    {
+      "id": "가요무대",
+      "rank": 8,
+      "keyword": "가요무대",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''가요무대' 더위사냥, 17일 가수 출연라인업 공개' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'가요무대' 더위사냥, 17일 가수 출연라인업 공개",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3666617"
+        },
+        {
+          "title": "‘가요무대’ 출연진 김태연→강문경",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817144727147"
+        },
+        {
+          "title": "'가요무대' 지원이, 무더위 씻어낸 '소양강 처녀' 무대 [TV캡처]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260817n16821?mid=e1200"
         }
       ]
     },
     {
       "id": "김태선",
-      "rank": 8,
+      "rank": 9,
       "keyword": "김태선",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '비서실장 김태선·수석대변인 박성준…김민석 與대표 첫 인선(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -212,70 +224,42 @@
           "url": "https://v.daum.net/v/20260817212751361"
         },
         {
-          "title": "김민석, 당선 후 첫 행보로 '집중호우 피해' 거제 찾아",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260817067100001"
-        },
-        {
           "title": "김민석, 당대표 선출 직후 경남 거제로 “비 피해 점검”…내일 현충원·모레 부산 경남행",
           "source": "KBS 뉴스",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8638676"
-        }
-      ]
-    },
-    {
-      "id": "신세계",
-      "rank": 9,
-      "keyword": "신세계",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '신세계百, 역대 최대 '베이비페어'…육아용품 최대 40% 할인' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
+        },
         {
-          "title": "신세계百, 역대 최대 '베이비페어'…육아용품 최대 40% 할인",
+          "title": "김민석, 당선 후 첫 행보로 '집중호우 피해' 거제 찾아",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260816034300030"
-        },
-        {
-          "title": "유모차부터 카시트까지 한자리에",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8058523"
-        },
-        {
-          "title": "신세계백화점, 역대 최대 규모 ‘베이비페어’ 연다",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20260817023133381"
+          "url": "https://www.yna.co.kr/view/AKR20260817067100001"
         }
       ]
     },
     {
-      "id": "제주-sk-fc",
+      "id": "openai",
       "rank": 10,
-      "keyword": "제주 sk fc",
+      "keyword": "openai",
       "volumeLabel": "100+",
       "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '제주항공, 제주SK FC 홈경기서 '브랜드데이' 진행' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'OpenAI's Brockman brushes off concerns about leadership changes in CNBC…' (CNBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "제주항공, 제주SK FC 홈경기서 '브랜드데이' 진행",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817134508836"
+          "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html"
         },
         {
-          "title": "기내가 된 축구장...객실승무원, 비상대피 퍼포먼스",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202608171026220097"
+          "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer/"
         },
         {
-          "title": "제주항공, 제주SK FC 홈경기서 브랜드데이… 항공권 증정·할인 행사",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260817500176"
+          "title": "The AI Platforms Are Real. The People Who Built Them Are Leaving.",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-platforms-real-people-built-130000336.html"
         }
       ]
     }
