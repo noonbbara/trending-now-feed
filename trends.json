@@ -1,17 +1,45 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-17T16:36:10.885Z",
+  "updatedAt": "2026-08-17T17:33:46.251Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "어벤져스-둠스데이",
+      "id": "넥슨",
       "rank": 1,
-      "keyword": "어벤져스 둠스데이",
-      "volumeLabel": "500+",
+      "keyword": "넥슨",
+      "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 '넥슨 품에 안긴 오버워치, 제2의 전성기 정조준' (지디넷코리아) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "넥슨 품에 안긴 오버워치, 제2의 전성기 정조준",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260816193050"
+        },
+        {
+          "title": "[기획] '넥슨의 오버워치' 시대, 무엇이 바뀌고 무엇을 노리나",
+          "source": "디스이즈게임",
+          "url": "https://www.thisisgame.com/articles/428832"
+        },
+        {
+          "title": "오버워치 시즌4, 돌아온 당신을 위한 추천 영웅",
+          "source": "게임플",
+          "url": "https://www.gameple.co.kr/news/articleView.html?idxno=216255"
+        }
+      ]
+    },
+    {
+      "id": "어벤져스-둠스데이",
+      "rank": 2,
+      "keyword": "어벤져스 둠스데이",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '“내가 바로 둠이다”…‘어벤져스: 둠스데이’ 예고편 공개, 거대한 전쟁의 서막' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -34,12 +62,12 @@
     },
     {
       "id": "이진",
-      "rank": 2,
+      "rank": 3,
       "keyword": "이진",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 ''뉴욕댁' 이진, 반려견 함께 돌아왔다..韓 정착→핑클·송혜교와 '행복' [스타이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -61,69 +89,81 @@
       ]
     },
     {
-      "id": "차두리",
-      "rank": 3,
-      "keyword": "차두리",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '[BE.현장] \"마치 '차두리 11명'을 풀어놓은 것 같다\"… 버려진 원석들로 만든 차두리 감독의 역작 '화성의 태풍'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "id": "브루스-윌리스",
+      "rank": 4,
+      "keyword": "브루스 윌리스",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''5명 딸부자' 브루스 윌리스, '치매'에도 데미 무어와 막내딸 결혼식 참석..미소 [월드스타이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[BE.현장] \"마치 '차두리 11명'을 풀어놓은 것 같다\"… 버려진 원석들로 만든 차두리 감독의 역작 '화성의 태풍'",
+          "title": "'5명 딸부자' 브루스 윌리스, '치매'에도 데미 무어와 막내딸 결혼식 참석..미소 [월드스타이슈]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260817181610305"
+          "url": "https://v.daum.net/v/pQC4dHx2vO"
         },
         {
-          "title": "'5경기 1무4패' 부산 이번에도 웃지 못했다, 화성과 0-0 무승부(종합)",
+          "title": "‘치매 투병’ 브루스 윌리스, 막내딸 결혼식서 포착… 4년 만의 감동 근황",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/08/16/MM3DCMZRMY3DINDDG4YDGNJUGA/"
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/08/16/G4YDQNJYHBSGCOBUHA4TSMTGMY/"
         },
         {
-          "title": "“뛰어야 할거 아냐!”, “정신차려 부산!” 졸전 끝 5G 무승 추락에 서포터 폭발…뛰는 에너지부터 화성에 밀렸다 [SS현장]",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1628857"
+          "title": "제작만 712시간 걸린, 탈룰라 윌리스의 발렌시아가 웨딩드레스",
+          "source": "Vogue korea",
+          "url": "https://www.vogue.co.kr/2026/08/11/%EC%A0%9C%EC%9E%91%EB%A7%8C-712%EC%8B%9C%EA%B0%84-%EA%B1%B8%EB%A6%B0-%ED%83%88%EB%A3%B0%EB%9D%BC-%EC%9C%8C%EB%A6%AC%EC%8A%A4%EC%9D%98-%EB%B0%9C%EB%A0%8C%EC%8B%9C%EC%95%84%EA%B0%80-%EC%9B%A8%EB%94%A9/"
         }
       ]
     },
     {
-      "id": "손담비",
-      "rank": 4,
-      "keyword": "손담비",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '손담비 딸, ♥이규혁 붕어빵 100%..\"너만 안 아프면 돼\" 행복 [스타이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "id": "인벤",
+      "rank": 5,
+      "keyword": "인벤",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "황현민",
+      "rank": 6,
+      "keyword": "황현민",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '잼 출신 황현민, '배정남·마르코 난투극설' 재소환 왜?' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "손담비 딸, ♥이규혁 붕어빵 100%..\"너만 안 아프면 돼\" 행복 [스타이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817163707422"
-        },
-        {
-          "title": "손담비, 극도로 핼쑥해진 근황..컨디션 난조에도 모성애는 커졌다 “딸만 안 아프면 돼” - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/17/G5RWINTBMM4GGN3BGNSWGNDDMM/"
-        },
-        {
-          "title": "손담비, 밀착 운동복 입고 드러낸 46㎏ 몸매",
+          "title": "잼 출신 황현민, '배정남·마르코 난투극설' 재소환 왜?",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260813_0003748241"
+          "url": "https://www.newsis.com/view/NISX20260817_0003751567"
+        },
+        {
+          "title": "잼 출신 황현민, 뜬금 배정남 마르코 난투극 재소환 “2천만원 합의금”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12129442"
+        },
+        {
+          "title": "\"둘이 짜고 한 연기\"…황현민, 배정남·마르코 '17년 전 폭행 시비' 뜬금 재소환",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260817n13562"
         }
       ]
     },
     {
       "id": "창원시장",
-      "rank": 5,
+      "rank": 7,
       "keyword": "창원시장",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '\"인명·재산 지켜라\" … 창원특례시, 호우 피해 대비 주요 방재시설 집중점검' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -146,12 +186,12 @@
     },
     {
       "id": "선박",
-      "rank": 6,
+      "rank": 8,
       "keyword": "선박",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '‘세계 최초’ ‘세계 최대’ 경쟁하는 한·중… 고부가 선박 수주전, 암모니아로 확대 - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -173,41 +213,25 @@
       ]
     },
     {
-      "id": "황현민",
-      "rank": 7,
-      "keyword": "황현민",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“배정남, 마르코에 폭행 당해 조폭 데려와” 황현민 폭로' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“배정남, 마르코에 폭행 당해 조폭 데려와” 황현민 폭로",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/B3IepEpXUV"
-        },
-        {
-          "title": "잼 출신 황현민, 뜬금 배정남 마르코 난투극 재소환 “2천만원 합의금”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12129442"
-        },
-        {
-          "title": "\"둘이 짜고 한 연기\"…황현민, 배정남·마르코 '17년 전 폭행 시비' 뜬금 재소환",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260817n13562"
-        }
-      ]
-    },
-    {
-      "id": "나이스",
-      "rank": 8,
-      "keyword": "나이스",
+      "id": "어쌔신-크리드-오디세이",
+      "rank": 9,
+      "keyword": "어쌔신 크리드 오디세이",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "나이스",
+      "rank": 10,
+      "keyword": "나이스",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '\"나이스 배팅 박동원 선배·나이스 피칭 이우찬 선배\" LG 마무리 손주영 칭찬 릴레이 [MD잠실]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -225,62 +249,6 @@
           "title": "습한 날씨에 청호나이스, 제습기 판매량 '껑충'",
           "source": "메트로신문",
           "url": "https://www.metroseoul.co.kr/article/20260814500303"
-        }
-      ]
-    },
-    {
-      "id": "새마을금고",
-      "rank": 9,
-      "keyword": "새마을금고",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '새마을금고 고객 10명 중 4명이 60대 이상' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "새마을금고 고객 10명 중 4명이 60대 이상",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026081753281"
-        },
-        {
-          "title": "새마을금고, '으쌰라으쌰'로 전국 응원....조정석과 함께한 새 광고",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3666621"
-        },
-        {
-          "title": "[금융] MG새마을금고 지역밀착 광고 / iM뱅크 방화 피해 지원 / iM뱅크 신입행원 채용",
-          "source": "웹이코노미",
-          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2268400"
-        }
-      ]
-    },
-    {
-      "id": "kick",
-      "rank": 10,
-      "keyword": "kick",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'Fixture amendments for Premier League matches in October and November' (Premier League) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Fixture amendments for Premier League matches in October and November",
-          "source": "Premier League",
-          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
-        },
-        {
-          "title": "Premier League fixtures live on Sky Sports",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11661/13574076/premier-league-fixtures-on-sky-sports-liverpool-vs-man-city-and-arsenal-plus-leeds-vs-man-utd-live-in-october-and-november"
-        },
-        {
-          "title": "Three Premier League games in October rearranged",
-          "source": "Arsenal.com",
-          "url": "https://www.arsenal.com/news/three-premier-league-games-in-october-rearranged-aoQIO8a3k2yj"
         }
       ]
     }
