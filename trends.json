@@ -1,43 +1,43 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-18T01:42:40.394Z",
+  "updatedAt": "2026-08-18T03:02:59.704Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "박수홍",
+      "id": "수사",
       "rank": 1,
-      "keyword": "박수홍",
-      "volumeLabel": "10000+",
+      "keyword": "수사",
+      "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '박수홍·김다예 집에 나타난 ‘수상한 육아도우미’… “저 회사는 망하겠다”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '대법 \"검찰수사관이 수사한 사건, 지휘한 검사가 기소 못 해\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "박수홍·김다예 집에 나타난 ‘수상한 육아도우미’… “저 회사는 망하겠다”",
+          "title": "대법 \"검찰수사관이 수사한 사건, 지휘한 검사가 기소 못 해\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260818102508770"
+          "url": "https://v.daum.net/v/20260818060141196"
         },
         {
-          "title": "박수홍, 21개월 딸 맡겼는데 ‘제비 두 명’ 등장…“이 회사 망하겠다”",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260818/134493197/1"
+          "title": "뇌물 공무원, 文정부 ‘검수완박’ 때문에 처벌 피해… 대법 “공소기각돼야” - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/topics/law_firm/2026/08/18/JGSKVRH6Q5BRBNEKFQIHT7RRQ4/"
         },
         {
-          "title": "박수홍 딸 재이, 벌써 연예인 인지도 제쳤다…\"우린 아무도 못 알아봐\" 씁쓸",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/17/GA3DIMZVMRRDMOBWMMYGKYJYMM/"
+          "title": "대법 \"검사 지휘받은 검찰수사관 수사, 검사 수사 개시로 봐야\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260817034400004"
         }
       ]
     },
     {
-      "id": "창원시",
+      "id": "울산광역시",
       "rank": 2,
-      "keyword": "창원시",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "keyword": "울산광역시",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
@@ -45,30 +45,30 @@
       "newsSignals": []
     },
     {
-      "id": "혁신도시",
+      "id": "삼성-갤럭시-z-시리즈",
       "rank": 3,
-      "keyword": "혁신도시",
+      "keyword": "삼성 갤럭시 z 시리즈",
       "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+5",
-      "summary": "급상승 시점에 '2차 공공기관 이전 25일 발표…나주 혁신도시에 '집중' 이룰까' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '삼성전자, 내년 '와이드 폴드' 하나 더 만든다…폴더블 5종 확대' (전자신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "2차 공공기관 이전 25일 발표…나주 혁신도시에 '집중' 이룰까",
+          "title": "삼성전자, 내년 '와이드 폴드' 하나 더 만든다…폴더블 5종 확대",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260814000059"
+        },
+        {
+          "title": "삼성만 접는 시대 끝…구글 이어 애플까지, 폴더블 전쟁 불붙었다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260818071127112"
+          "url": "https://v.daum.net/v/20260817070303038"
         },
         {
-          "title": "\"기술·인재에 자본까지\"...나주, 에너지 생태계 구축",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0115_202608170430001994"
-        },
-        {
-          "title": "전남광주 미래 이끌 '인공태양'…9월 예타 통과 기대감",
+          "title": "'1030·여성' 홀린 갤럭시Z8 인기 비결은…'3M 기능'",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/local/gwangju-jeonnam/6254242"
+          "url": "https://www.news1.kr/it-science/mobile/6259353"
         }
       ]
     },
@@ -76,55 +76,55 @@
       "id": "잠실",
       "rank": 4,
       "keyword": "잠실",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '잠실 5성급 호텔 쓰레기장서 탄창·탄환 발견…경찰 수사' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '[속보]잠실 5성 호텔서 탄창과 탄환 발견…총기는 없어' (문화일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "잠실 5성급 호텔 쓰레기장서 탄창·탄환 발견…경찰 수사",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260817067600004"
-        },
         {
           "title": "[속보]잠실 5성 호텔서 탄창과 탄환 발견…총기는 없어",
           "source": "문화일보",
           "url": "https://www.munhwa.com/article/11609948"
         },
         {
-          "title": "잠실 5성급 호텔 쓰레기장에 탄창과 탄피... 총은 어디에?",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/08/17/I4WMNIJ5FJHVLFIC4KHGIM62LA/"
+          "title": "잠실 5성급 호텔 쓰레기장서 탄창·탄환 발견…경찰 수사",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260817067600004"
+        },
+        {
+          "title": "잠실 5성급 호텔 쓰레기장서 실탄 3발·탄창 발견…경찰 수사",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260817580356"
         }
       ]
     },
     {
-      "id": "화장품",
+      "id": "창원시",
       "rank": 5,
-      "keyword": "화장품",
+      "keyword": "창원시",
       "volumeLabel": "500+",
       "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '코스맥스, 포항가속기연구소와 맞손…K뷰티 '초격차 기술' 확보 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "change": "down",
+      "changeLabel": "-3",
+      "summary": "급상승 시점에 '강원도, 21일까지 을지연습…드론·사이버 공격 대응 강화' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "코스맥스, 포항가속기연구소와 맞손…K뷰티 '초격차 기술' 확보 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/living/2026/08/18/2026081808540483864"
+          "title": "강원도, 21일까지 을지연습…드론·사이버 공격 대응 강화",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260818067800062"
         },
         {
-          "title": "코스맥스, 포항가속기연구소와 맞손…K뷰티 기술 고도화",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260818000127"
+          "title": "예보, 전시 금융위기 대비 을지연습…사이버공격 대응훈련",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260818_0003752446"
         },
         {
-          "title": "코스맥스, 포항가속기연구소와 선크림·색조화장품 개발한다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818100131547"
+          "title": "광명시, 18~21일 ‘2026 을지연습’ 돌입… 드론 테러·무장 침투 실전 대응",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260818580122"
         }
       ]
     },
@@ -132,10 +132,10 @@
       "id": "양지은",
       "rank": 6,
       "keyword": "양지은",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '[ET포토] 신장미, '오늘 무대 기대하세요'' (전자신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -150,121 +150,121 @@
           "url": "https://www.ajunews.com/view/20260817110104242"
         },
         {
-          "title": "[TOP영상] 강혜연·양지은·성리·장한별 총출동! 김용빈·신성·남궁진까지★ ‘불후의 명곡’ 트롯스타 출근길(출근길)",
+          "title": "[TOP영상] 엄영자·박철규, 영자의 전성시대에 신인 가수 등장! “이런 가수 처음이야?”",
           "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16165331"
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16165261"
         }
       ]
     },
     {
-      "id": "전장연",
+      "id": "롯데온",
       "rank": 7,
-      "keyword": "전장연",
+      "keyword": "롯데온",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[속보] 전장연 시위로 서울역 1호선 하행·4호선 상행 무정차 통과' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘꿀잠’에 진심인 소비자들⋯ 롯데온, 숙면·웰니스 수요 잡는다' (브릿지경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[속보] 전장연 시위로 서울역 1호선 하행·4호선 상행 무정차 통과",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/08/18/6VPGS2BZLZF35OLVUD3ETIOG2E/"
+          "title": "‘꿀잠’에 진심인 소비자들⋯ 롯데온, 숙면·웰니스 수요 잡는다",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260818500058"
         },
         {
-          "title": "장애인 시위로 서울역 1호선·4호선 한때 무정차…일부 충돌도(종합)",
+          "title": "롯데온, 새 계절 맞이 침구·먹거리·영양제 할인 ‘엘타운 슈퍼위크’ 진행",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260818102341686"
+          "url": "https://v.daum.net/v/20260818060031152"
         },
         {
-          "title": "[속보]전장연 시위로 서울역 1호선 하행선·4호선 상행선 무정차 통과",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608180905001"
+          "title": "롯데온, '엘타운 슈퍼위크'…환절기 생활상품 할인",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260818000066"
         }
       ]
     },
     {
-      "id": "뱀피르",
+      "id": "청약",
       "rank": 8,
-      "keyword": "뱀피르",
+      "keyword": "청약",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '마약 처벌 유아인 복귀…장재현 '뱀피르' 주연 맡는다' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '흥국화재, 장기보험 청약시스템 전면 개편…설계시간 38% 단축' (디지털데일리) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "마약 처벌 유아인 복귀…장재현 '뱀피르' 주연 맡는다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260818_0003751852"
+          "title": "흥국화재, 장기보험 청약시스템 전면 개편…설계시간 38% 단축",
+          "source": "디지털데일리",
+          "url": "https://www.ddaily.co.kr/page/view/2026081810160984920"
         },
         {
-          "title": "유아인 결국 복귀…마약 유죄 1년 만 ‘파묘’ 감독 신작 촬영 돌입",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818085402300"
+          "title": "흥국화재, 차세대 장기청약시스템 ‘Next Core’ 전사 오픈",
+          "source": "데일리한국",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1396537"
         },
         {
-          "title": "장재현 감독 신작 '뱀피르', 유아인·이성민·이준혁 캐스팅…이달 촬영 돌입",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260818000055"
+          "title": "흥국화재, 장기청약시스템 'Next Core' 전사 가동…IT 경쟁 가세",
+          "source": "뉴스투데이",
+          "url": "https://www.news2day.co.kr/article/20260818500055"
         }
       ]
     },
     {
-      "id": "박현빈",
+      "id": "예정화",
       "rank": 9,
-      "keyword": "박현빈",
+      "keyword": "예정화",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '박현빈, '아침마당'서 3대 가족 공개… 아들·딸과 부모님까지 초대' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '근황 사진 올린 예정화…마동석도 반한 코어 단련·허리 라인 유지법' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "박현빈, '아침마당'서 3대 가족 공개… 아들·딸과 부모님까지 초대",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3666800"
+          "title": "근황 사진 올린 예정화…마동석도 반한 코어 단련·허리 라인 유지법",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260817_0003751497"
         },
         {
-          "title": "박현빈 \"'곤드레만드레'로 月 행사 200개 뛰어…트로트 편견 없애려고\"(아침마당)",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260818n05577"
+          "title": "마동석, '17살 연하' 아내가 이렇게 예뻐…예정화, 누워서 부각된 완벽 'S라인' - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/17/HBRDOMBRMQ4DAZBYMM2DMY3EMY/"
         },
         {
-          "title": "박현빈, 형·형수 모두 오페라 가수‥소프라노 형수 “상견례 때 오디션 보고 합격”(아침마당)",
-          "source": "뉴스엔",
-          "url": "https://www.newsen.com/news_view.php?uid=202608180755356710&code=100100"
+          "title": "'마동석♥' 예정화, 재개 9년만 비현실적 청순美 \"AI도 이렇게 뽑으면 오류\"",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260816221908342"
         }
       ]
     },
     {
-      "id": "한혜진",
+      "id": "윤석열",
       "rank": 10,
-      "keyword": "한혜진",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
+      "keyword": "윤석열",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한혜진♥기성용 딸, 아빠 닮아 남다른 다리 길이..벌써 키 따라잡았네 “자매 같아”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[단독] 윤한홍, 윤석열 관저 이전 개입 정황…외교부에 공관 자료 제출받아' (한겨레) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "한혜진♥기성용 딸, 아빠 닮아 남다른 다리 길이..벌써 키 따라잡았네 “자매 같아”",
+          "title": "[단독] 윤한홍, 윤석열 관저 이전 개입 정황…외교부에 공관 자료 제출받아",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1273316.html"
+        },
+        {
+          "title": "대통령 관저 공사 \"관련 없다\"던 윤한홍…특검 '개입 정황' 확인",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260818n10436"
+        },
+        {
+          "title": "윤석열 정권이 삭감한 학교 예술 강사 예산... \"원상복구해야\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260817211048190"
-        },
-        {
-          "title": "한혜진, 11살 딸과 다정한 모녀샷…벌써 엄마 따라잡은 키",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260818_0003752034"
-        },
-        {
-          "title": "한혜진, 카페 일상 담은 근황 공개…‘아빠하고 나하고’ 이어 유튜브까지",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16165396"
+          "url": "https://v.daum.net/v/20260818110759316"
         }
       ]
     }
