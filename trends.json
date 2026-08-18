@@ -1,270 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-18T10:36:24.233Z",
+  "updatedAt": "2026-08-18T11:32:05.909Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "kia-대-한화",
+      "id": "키움-대-롯데",
       "rank": 1,
-      "keyword": "kia 대 한화",
-      "volumeLabel": "10000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[엠빅뉴스] 1군 선수단 합류한 김서현과 정우주! 한화 불펜 숨통 트이나' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[엠빅뉴스] 1군 선수단 합류한 김서현과 정우주! 한화 불펜 숨통 트이나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818153107581"
-        },
-        {
-          "title": "[사진]양현종-윤석민 'KIA 레전드의 대화' - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/08/18/MIYTAZJXHBSDQZJQGUYDGMRXGE/"
-        },
-        {
-          "title": "프로야구 한화 투수 김서현·정우주, 동시에 1군 복귀",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260818161600007"
-        }
-      ]
-    },
-    {
-      "id": "ssg-대-삼성",
-      "rank": 2,
-      "keyword": "ssg 대 삼성",
+      "keyword": "키움 대 롯데",
       "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''라이온즈 vs 랜더스' 스포츠토토, 18~19일 대구 삼성-SSG전서 현장 프로모션 개시' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[사진] 비슬리, 승리를 향해 - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'라이온즈 vs 랜더스' 스포츠토토, 18~19일 대구 삼성-SSG전서 현장 프로모션 개시",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260818n22074"
-        },
-        {
-          "title": "\"야구도 보고 토토도 체험\"…대구 '라팍'서 스포츠토토 현장 프로모션",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/toto/2354962.htm"
-        },
-        {
-          "title": "[토토 투데이] 스포츠토토, 18~19일 대구 삼성라이온즈파크서 현장 프로모션 진행 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/18/202608181248770547O"
-        }
-      ]
-    },
-    {
-      "id": "이효리",
-      "rank": 3,
-      "keyword": "이효리",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이효리 \"이상순과 결혼 전 2년 동거\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "이효리 \"이상순과 결혼 전 2년 동거\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260818_0003752176"
-        },
-        {
-          "title": "이효리 “이상순과 결혼 전 2년 동거” (연애전쟁) - 스타투데이",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12129789"
-        },
-        {
-          "title": "이효리 깜짝 고백 “이상순과 결혼 전 2년정도 동거”",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10843933"
-        }
-      ]
-    },
-    {
-      "id": "kt-대-lg",
-      "rank": 4,
-      "keyword": "kt 대 lg",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘알몬테 대신 오스틴’ LG 우승 2번을 만들었다, 오카다 대신 케네디도 ‘전화위복’ 대박 터질까' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘알몬테 대신 오스틴’ LG 우승 2번을 만들었다, 오카다 대신 케네디도 ‘전화위복’ 대박 터질까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/BAfqSk0HlP"
-        },
-        {
-          "title": "2m3 좌완 사이드암이 실존한다고? LG 19일 1군 등록...\"좌-우 타자 가리지 않을 것 같다\" [잠실 현장]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/08/18/GY3DIMDGMZRWCNLGHBTDAMLGMM/"
-        },
-        {
-          "title": "‘게임체인저’는 아니지만 ‘엔딩체인저’는 될 수 있다?···LG 새 좌완은 대기중",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608180949003"
-        }
-      ]
-    },
-    {
-      "id": "도시-재개발",
-      "rank": 5,
-      "keyword": "도시 재개발",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "이태한",
-      "rank": 6,
-      "keyword": "이태한",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '선관위 특검에 검사 출신 이태한... 투표통계 조작 등 의혹 수사' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "선관위 특검에 검사 출신 이태한... 투표통계 조작 등 의혹 수사",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/blue_house/2026/08/18/XXSWVUCCRBA2ZI7NEYD45ZSVVM/"
-        },
-        {
-          "title": "이태한 선관위특검 “정치적 선입견 없이 진실 규명”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608181921001"
-        },
-        {
-          "title": "\"용지 부족사태 원인과 의사결정 과정 확인할 것\" [현장영상+]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202608181906519954"
-        }
-      ]
-    },
-    {
-      "id": "김숙",
-      "rank": 7,
-      "keyword": "김숙",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김숙 “본성 못된 톱스타”...익명 폭로 후폭풍' (YTN) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김숙 “본성 못된 톱스타”...익명 폭로 후폭풍",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0117_202608181512459819"
-        },
-        {
-          "title": "\"본성 더러운 연예인\" 김숙 발언 후폭풍… 온라인서 실명 추측 확산",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026081814390003484"
-        },
-        {
-          "title": "김숙이 알아본 \"본성 더럽다\" 유명 연예인은 누구? 범인 찾기 과열 양상 [Oh!쎈 이슈] - 조선비즈",
+          "title": "[사진] 비슬리, 승리를 향해 - 조선비즈",
           "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/18/MEZTIMTGGY2WEYZQMMZDKNZRGY/"
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/08/18/MQZGKOJXMFRDSMBQGA3TMNTDGY/"
+        },
+        {
+          "title": "[사진] 추재현, 위풍당당 3점 홈런 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/08/18/GM2WKYLDGIYDAMBSG5QTEYLGGQ/"
+        },
+        {
+          "title": "[AI프리뷰] 18일 부산 롯데-키움전, 키움 전준표 불붙은 롯데 기세 꺾을까",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260818000806"
         }
       ]
     },
     {
-      "id": "이마트-트레이더-스",
+      "id": "주식",
+      "rank": 2,
+      "keyword": "주식",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '삼성 다니는 남편 덕분?…\"5만전자 때 주식 샀다\" 이현이 5배 대박 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "삼성 다니는 남편 덕분?…\"5만전자 때 주식 샀다\" 이현이 5배 대박 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/18/2026081814272649264"
+        },
+        {
+          "title": "'삼성맨 아내' 이현이 \"삼전 주식 5만원대 매수\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260817_0003751392"
+        },
+        {
+          "title": "\"삼전·닉스 안 샀다\"...임현태의 수익률 900% 달성 비결은?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818154908421"
+        }
+      ]
+    },
+    {
+      "id": "티켓링크",
+      "rank": 3,
+      "keyword": "티켓링크",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'NHN링크, 뮤지컬 ‘드라큘라’ 전관 행사 실시…‘링크스페셜데이’ 12번째 무대' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "NHN링크, 뮤지컬 ‘드라큘라’ 전관 행사 실시…‘링크스페셜데이’ 12번째 무대",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818130303549"
+        },
+        {
+          "title": "말도 안 되는 사랑을 믿게 만드는 순간…신성록·조정은의 ‘드라큘라’ [헬로스테이지]",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1678947/%EB%A7%90%EB%8F%84-%EC%95%88-%EB%90%98%EB%8A%94-%EC%82%AC%EB%9E%91-%EB%AF%BF%EA%B2%8C-%EB%A7%8C%EB%93%9C-%EC%88%9C%EA%B0%84%EC%8B%A0-2026"
+        },
+        {
+          "title": "[노규민의 현장感] 김준수, 잔망미로 달랜 비극...무대 예술의 결정체 '드라큘라'",
+          "source": "뉴스컬처",
+          "url": "https://www.nc.press/news/articleView.html?idxno=623671"
+        }
+      ]
+    },
+    {
+      "id": "택시",
+      "rank": 4,
+      "keyword": "택시",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '테슬라, 운전대·페달 없는 로보택시 ‘사이버캡‘ 이달 투입' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "테슬라, 운전대·페달 없는 로보택시 ‘사이버캡‘ 이달 투입",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/tech_it/2026/08/18/P3TAV6E4OJHXNALDFM2XHIOK3E/"
+        },
+        {
+          "title": "\"핸들도 브레이크도 없어요\"...테슬라, 사이버캡 이르면 이달 출시",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202608181600267149"
+        },
+        {
+          "title": "운전대·페달 없는 테슬라 ‘사이버캡’, 이달 말 오스틴서 시범 운행",
+          "source": "AI타임스",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214060"
+        }
+      ]
+    },
+    {
+      "id": "야구",
+      "rank": 5,
+      "keyword": "야구",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '프로야구, 25일부터 다시 오후 6시 30분 시작…폭염 기준 재조정' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "프로야구, 25일부터 다시 오후 6시 30분 시작…폭염 기준 재조정",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260818077500007"
+        },
+        {
+          "title": "폭염 벗어난 프로야구, 25일부터 다시 오후 6시 30분 시작 [뉴스더보기]",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260818195833VER"
+        },
+        {
+          "title": "'폭염 꺾였다' KBO, 경기 시작 기존 6시 30분으로 환원…오는 25일부터",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/WwXP67Ndmn"
+        }
+      ]
+    },
+    {
+      "id": "전지현",
+      "rank": 6,
+      "keyword": "전지현",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '전지현, 14년 전 웨딩 화보 재조명…감탄 나오는 미모 “세월 어디로” [IS하이컷]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "전지현, 14년 전 웨딩 화보 재조명…감탄 나오는 미모 “세월 어디로” [IS하이컷]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818155449635"
+        },
+        {
+          "title": "전지현, 14년 전 ‘전설의 웨딩화보’ 미공개 컷 풀렸다",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608181457003"
+        },
+        {
+          "title": "드레스 대신 수트 입었다…전지현, 14년 만에 풀린 전설의 웨딩화보 [핫피플] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/18/MZSDEM3EMZSDKMTBGUZDQNBRMM/"
+        }
+      ]
+    },
+    {
+      "id": "sk텔레콤",
+      "rank": 7,
+      "keyword": "sk텔레콤",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[독파모 2차 발표] '국가대표 AI' 3파전 돌입…정예팀에 B200 3천장 푼다' (지디넷코리아) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[독파모 2차 발표] '국가대표 AI' 3파전 돌입…정예팀에 B200 3천장 푼다",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260812102858"
+        },
+        {
+          "title": "LG·SKT·업스테이지 웃었다…'독파모' 최종승자 내년 초에",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818200554274"
+        },
+        {
+          "title": "[AI프리즘] 벤치마크 1위도 탈락…'국가대표 AI' 기준 바뀌었다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260818120600017"
+        }
+      ]
+    },
+    {
+      "id": "레이더",
       "rank": 8,
-      "keyword": "이마트 트레이더 스",
+      "keyword": "레이더",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '1인가구 시대 이마트 살린 '창고형' 트레이더스…대용량·가성비 먹혔다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[단독] 北 감시 ‘하늘의 눈’ 레이더 두뇌 단종…E-737 성능개량' (세계일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "1인가구 시대 이마트 살린 '창고형' 트레이더스…대용량·가성비 먹혔다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818060651413"
+          "title": "[단독] 北 감시 ‘하늘의 눈’ 레이더 두뇌 단종…E-737 성능개량",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260818512958"
         },
         {
-          "title": "정용진표 ’본업 혁신’ 이마트, 호실적에도 스타벅스·신세계건설이 ’발목’ By EBN",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2065235"
+          "title": "[단독] 北 감시 '하늘의 눈' 레이더 두뇌 단종…E-737 성능개량",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260818n17147"
         },
         {
-          "title": "스타벅스, 27년 만에 첫 분기 적자… '탱크 데이' 후폭풍",
-          "source": "금강일보",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1175506"
-        }
-      ]
-    },
-    {
-      "id": "삼성-갤럭시s26",
-      "rank": 9,
-      "keyword": "삼성 갤럭시s26",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"갤럭시 S26이 주머니에서 폭발\" 인도서 중상입은 피해자 게시물 논란' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"갤럭시 S26이 주머니에서 폭발\" 인도서 중상입은 피해자 게시물 논란",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818131509792"
-        },
-        {
-          "title": "[단독] 갤럭시 S25+ 충전 중 폭발… 삼성 \"소비자 과실\" 보상 거부 논란",
-          "source": "뉴스W",
-          "url": "https://www.newsw.co.kr/news/articleView.html?idxno=10709"
-        },
-        {
-          "title": "한 남성의 주머니 속에서 삼성 휴대전화가 폭발하여 심한 화상을 입었습니다.",
+          "title": "새로운 드론이 레이더를 속여 목표물을 20배 더 크게 보이게 합니다.",
           "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/dien-thoai-samsung-phat-no-trong-tui-quan-khien-mot-nguoi-bi-bong-nang"
+          "url": "https://www.vietnam.vn/ko/drone-moi-danh-lua-radar-khien-muc-tieu-phinh-to-20-lan"
         }
       ]
     },
     {
-      "id": "권칠승",
-      "rank": 10,
-      "keyword": "권칠승",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "id": "야구여왕",
+      "rank": 9,
+      "keyword": "야구여왕",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '與 사무총장에 한정애…정책위의장에 권칠승 임명' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘야구여왕2’, 화제성 이어 직관 이벤트도 대박 행진' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "與 사무총장에 한정애…정책위의장에 권칠승 임명",
+          "title": "‘야구여왕2’, 화제성 이어 직관 이벤트도 대박 행진",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260818/134492535/1"
+        },
+        {
+          "title": "야구여왕2, 화제성 차트 올킬 이어 ‘3200여명’ 직관 신청…여자 야구 돌풍ing",
+          "source": "스포츠월드",
+          "url": "https://www.sportsworldi.com/newsView/20260818506460"
+        },
+        {
+          "title": "이게 박민서야, 오타니야…복귀전부터 1루타→마운드에선 헛스윙 유도 ('야구여왕')",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260814n00203"
+        }
+      ]
+    },
+    {
+      "id": "김원효",
+      "rank": 10,
+      "keyword": "김원효",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''천이슬과 결별' 양상국, 아직 미혼…김원효 \"예쁜 여자만 만나\" 폭로 (짠한형)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'천이슬과 결별' 양상국, 아직 미혼…김원효 \"예쁜 여자만 만나\" 폭로 (짠한형)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260818171454327"
+          "url": "https://v.daum.net/v/ztAdPzjJ1T"
         },
         {
-          "title": "김민석 민주당, ‘능력 최우선’ 추가 인선…인천·경기 의원 주요 당직 발탁",
-          "source": "인천일보",
-          "url": ""
+          "title": "‘천이슬 결별’ 양상국, 결혼 의지 “정말 하고파”(‘짠한형’) - 스타투데이",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12129796"
         },
         {
-          "title": "김민석, 사무총장에 한정애·정책위의장에 권칠승 임명",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6845536_36911.html"
+          "title": "천이슬 누구? 전 남친 양상국 \"예쁜 여자만 만났다\" 고백에 핫...서강준X안은진과 호흡 [핫피플] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/18/HFSTIY3EGFSWKMZSGI2WEOJUGM/"
         }
       ]
     }
