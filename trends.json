@@ -1,276 +1,270 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-18T09:40:39.997Z",
+  "updatedAt": "2026-08-18T10:36:24.233Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "손봉기",
+      "id": "kia-대-한화",
       "rank": 1,
-      "keyword": "손봉기",
-      "volumeLabel": "2000+",
+      "keyword": "kia 대 한화",
+      "volumeLabel": "10000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[속보]조희대 대법원장, 대법관 임명 제청…손봉기·김성수 부장판사' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[엠빅뉴스] 1군 선수단 합류한 김서현과 정우주! 한화 불펜 숨통 트이나' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[속보]조희대 대법원장, 대법관 임명 제청…손봉기·김성수 부장판사",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608181624001"
-        },
-        {
-          "title": "[프로필] 손봉기 대법관 후보자 '법률 지식·실무' 겸비 정통법관",
+          "title": "[엠빅뉴스] 1군 선수단 합류한 김서현과 정우주! 한화 불펜 숨통 트이나",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260818171928545"
+          "url": "https://v.daum.net/v/20260818153107581"
         },
         {
-          "title": "대법원장, 대법관 2명 후임에 손봉기·김성수 판사 동시 제청(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260818139651004"
-        }
-      ]
-    },
-    {
-      "id": "서장훈의-이웃집-백만장자",
-      "rank": 2,
-      "keyword": "서장훈의 이웃집 백만장자",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '서장훈, 생애 첫 심마니 도전…40만원대 산양삼 직접 캤다' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "서장훈, 생애 첫 심마니 도전…40만원대 산양삼 직접 캤다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818153004537"
-        },
-        {
-          "title": "서장훈·장예원, 생애 첫 심마니 도전…'82만 평' 산 주인 만난다 (백만장자)",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/515060"
-        },
-        {
-          "title": "'여의도 규모 山 주인' 박정희, \"눈에 보이는 건 다 내 땅\" (이웃집 백만장자) - 조선비즈",
+          "title": "[사진]양현종-윤석민 'KIA 레전드의 대화' - 조선비즈",
           "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/08/18/G4ZDIYZWMZSDQOBUHBSDANJUMQ/"
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/08/18/MIYTAZJXHBSDQZJQGUYDGMRXGE/"
+        },
+        {
+          "title": "프로야구 한화 투수 김서현·정우주, 동시에 1군 복귀",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260818161600007"
         }
       ]
     },
     {
-      "id": "박재현",
+      "id": "ssg-대-삼성",
+      "rank": 2,
+      "keyword": "ssg 대 삼성",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''라이온즈 vs 랜더스' 스포츠토토, 18~19일 대구 삼성-SSG전서 현장 프로모션 개시' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'라이온즈 vs 랜더스' 스포츠토토, 18~19일 대구 삼성-SSG전서 현장 프로모션 개시",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260818n22074"
+        },
+        {
+          "title": "\"야구도 보고 토토도 체험\"…대구 '라팍'서 스포츠토토 현장 프로모션",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/toto/2354962.htm"
+        },
+        {
+          "title": "[토토 투데이] 스포츠토토, 18~19일 대구 삼성라이온즈파크서 현장 프로모션 진행 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/18/202608181248770547O"
+        }
+      ]
+    },
+    {
+      "id": "이효리",
       "rank": 3,
-      "keyword": "박재현",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "keyword": "이효리",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"아부지 상 받았다\" 나성범-박재현 부자케미[O! SPORTS 숏폼]' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '이효리 \"이상순과 결혼 전 2년 동거\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"아부지 상 받았다\" 나성범-박재현 부자케미[O! SPORTS 숏폼]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/08/18/GNSTQMJVMVTDCMRSMIYWIMJUGM/"
-        },
-        {
-          "title": "“아부지 상 받았다” 나성범-박재현 부자케미[O! SPORTS 숏폼] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/18/202608181510771788O"
-        },
-        {
-          "title": "레이예스-구자욱 2파전이라고? KIA 요술 방망이 운다, 극적 역전 레이스 어려울까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260816061238954"
-        }
-      ]
-    },
-    {
-      "id": "v-리그",
-      "rank": 4,
-      "keyword": "v-리그",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+3",
-      "summary": "급상승 시점에 '프로배구 10월 31일 개막…KB손보 임시 연고지 미정' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "프로배구 10월 31일 개막…KB손보 임시 연고지 미정",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/xnsQuGQ95i"
-        },
-        {
-          "title": "26~27시즌 V-리그 일정 확정…'신생팀' SOOP 첫 경기는 11월1일",
+          "title": "이효리 \"이상순과 결혼 전 2년 동거\"",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260818_0003752612"
+          "url": "https://www.newsis.com/view/NISX20260818_0003752176"
         },
         {
-          "title": "2026~2027 V리그 10월31일 개막...개막전 매치업, 이보다 더 완벽할 수 없다?",
+          "title": "이효리 “이상순과 결혼 전 2년 동거” (연애전쟁) - 스타투데이",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12129789"
+        },
+        {
+          "title": "이효리 깜짝 고백 “이상순과 결혼 전 2년정도 동거”",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10843933"
+        }
+      ]
+    },
+    {
+      "id": "kt-대-lg",
+      "rank": 4,
+      "keyword": "kt 대 lg",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘알몬테 대신 오스틴’ LG 우승 2번을 만들었다, 오카다 대신 케네디도 ‘전화위복’ 대박 터질까' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘알몬테 대신 오스틴’ LG 우승 2번을 만들었다, 오카다 대신 케네디도 ‘전화위복’ 대박 터질까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/BAfqSk0HlP"
+        },
+        {
+          "title": "2m3 좌완 사이드암이 실존한다고? LG 19일 1군 등록...\"좌-우 타자 가리지 않을 것 같다\" [잠실 현장]",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/volleyball/2026/08/18/MU2DSOBUMJRTAMDEHFSTSZTFMM/"
+          "url": "https://www.chosun.com/sports/baseball/2026/08/18/GY3DIMDGMZRWCNLGHBTDAMLGMM/"
+        },
+        {
+          "title": "‘게임체인저’는 아니지만 ‘엔딩체인저’는 될 수 있다?···LG 새 좌완은 대기중",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608180949003"
         }
       ]
     },
     {
-      "id": "이데일리",
+      "id": "도시-재개발",
       "rank": 5,
-      "keyword": "이데일리",
-      "volumeLabel": "200+",
+      "keyword": "도시 재개발",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '일본이 흔든 美 채권시장…30년물 금리 19년 만에 최고 [도쿄나우]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "일본이 흔든 美 채권시장…30년물 금리 19년 만에 최고 [도쿄나우]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608185802i"
-        },
-        {
-          "title": "[백석현의 환율노트] 日경제에 '아베노믹스 유령' 엔화 약세 구출 백약이 무효",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1143472"
-        },
-        {
-          "title": "[증시타임] 日 금리 급등에 엔화 강세 신호…캐리 트레이드 청산 재현될까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818103617424"
-        }
-      ]
+      "newsSignals": []
     },
     {
-      "id": "유기상",
+      "id": "이태한",
       "rank": 6,
-      "keyword": "유기상",
-      "volumeLabel": "200+",
+      "keyword": "이태한",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"유기상에게 미안하다\" 이현중 전 동료 日 바바의 사과... 한일전 거친 충돌→\"막고 싶은 마음 앞섰다\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '선관위 특검에 검사 출신 이태한... 투표통계 조작 등 의혹 수사' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"유기상에게 미안하다\" 이현중 전 동료 日 바바의 사과... 한일전 거친 충돌→\"막고 싶은 마음 앞섰다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/xwQFMa5TWC"
-        }
-      ]
-    },
-    {
-      "id": "앤트로픽",
-      "rank": 7,
-      "keyword": "앤트로픽",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '앤트로픽, 미토스5 능가하는 '모델2' 개발…\"외부 출시 계획 없어\"' (지디넷코리아) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "앤트로픽, 미토스5 능가하는 '모델2' 개발…\"외부 출시 계획 없어\"",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260818151104"
+          "title": "선관위 특검에 검사 출신 이태한... 투표통계 조작 등 의혹 수사",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/blue_house/2026/08/18/XXSWVUCCRBA2ZI7NEYD45ZSVVM/"
         },
         {
-          "title": "AI, 개발자 지침 거스르는 행동 잇따라…앤스로픽, 위험등급 상향",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/08/202608162313474809a1f309431_1"
-        },
-        {
-          "title": "일 시켰더니 AI끼리 싸우네···각각 일하다 서로 충돌하고 반성문까지 썼다",
+          "title": "이태한 선관위특검 “정치적 선입견 없이 진실 규명”",
           "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608141411001"
+          "url": "https://www.khan.co.kr/article/202608181921001"
+        },
+        {
+          "title": "\"용지 부족사태 원인과 의사결정 과정 확인할 것\" [현장영상+]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202608181906519954"
         }
       ]
     },
     {
-      "id": "처벌",
+      "id": "김숙",
+      "rank": 7,
+      "keyword": "김숙",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김숙 “본성 못된 톱스타”...익명 폭로 후폭풍' (YTN) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김숙 “본성 못된 톱스타”...익명 폭로 후폭풍",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202608181512459819"
+        },
+        {
+          "title": "\"본성 더러운 연예인\" 김숙 발언 후폭풍… 온라인서 실명 추측 확산",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026081814390003484"
+        },
+        {
+          "title": "김숙이 알아본 \"본성 더럽다\" 유명 연예인은 누구? 범인 찾기 과열 양상 [Oh!쎈 이슈] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/18/MEZTIMTGGY2WEYZQMMZDKNZRGY/"
+        }
+      ]
+    },
+    {
+      "id": "이마트-트레이더-스",
       "rank": 8,
-      "keyword": "처벌",
-      "volumeLabel": "100+",
+      "keyword": "이마트 트레이더 스",
+      "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '산재사망 '영업익 5%' 과징금…기업 규모별 차등 부과 검토' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '1인가구 시대 이마트 살린 '창고형' 트레이더스…대용량·가성비 먹혔다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "산재사망 '영업익 5%' 과징금…기업 규모별 차등 부과 검토",
+          "title": "1인가구 시대 이마트 살린 '창고형' 트레이더스…대용량·가성비 먹혔다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260817060506217"
+          "url": "https://v.daum.net/v/20260818060651413"
         },
         {
-          "title": "중대재해 기업에 '영업이익 5% 과징금' 처리 임박",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2615106"
+          "title": "정용진표 ’본업 혁신’ 이마트, 호실적에도 스타벅스·신세계건설이 ’발목’ By EBN",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2065235"
         },
         {
-          "title": "‘연 3명 이상 산재 사망’ 기업에 영업이익 5% 과징금…국회 문턱 넘을까",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/labor/1273271.html"
+          "title": "스타벅스, 27년 만에 첫 분기 적자… '탱크 데이' 후폭풍",
+          "source": "금강일보",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1175506"
         }
       ]
     },
     {
-      "id": "kdb생명",
+      "id": "삼성-갤럭시s26",
       "rank": 9,
-      "keyword": "kdb생명",
-      "volumeLabel": "100+",
+      "keyword": "삼성 갤럭시s26",
+      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한국금융지주, KDB생명 인수로 금융영토 확장...최대 1.5조 자본부담 변수' (녹색경제신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"갤럭시 S26이 주머니에서 폭발\" 인도서 중상입은 피해자 게시물 논란' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "한국금융지주, KDB생명 인수로 금융영토 확장...최대 1.5조 자본부담 변수",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=347875"
-        },
-        {
-          "title": "기로에 선 증권주 넘버2 한국금융, 보험사 인수로 반등하나",
-          "source": "IT조선",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168220"
-        },
-        {
-          "title": "“한투가 KDB생명 찜, 우리는 어쩌나”…카디프생명·롯데손보 매각 빨간불 [M&A복덕방]",
+          "title": "\"갤럭시 S26이 주머니에서 폭발\" 인도서 중상입은 피해자 게시물 논란",
           "source": "Daum",
-          "url": "https://v.daum.net/v/3pfufzjJWk"
+          "url": "https://v.daum.net/v/20260818131509792"
+        },
+        {
+          "title": "[단독] 갤럭시 S25+ 충전 중 폭발… 삼성 \"소비자 과실\" 보상 거부 논란",
+          "source": "뉴스W",
+          "url": "https://www.newsw.co.kr/news/articleView.html?idxno=10709"
+        },
+        {
+          "title": "한 남성의 주머니 속에서 삼성 휴대전화가 폭발하여 심한 화상을 입었습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/dien-thoai-samsung-phat-no-trong-tui-quan-khien-mot-nguoi-bi-bong-nang"
         }
       ]
     },
     {
-      "id": "함연지",
+      "id": "권칠승",
       "rank": 10,
-      "keyword": "함연지",
+      "keyword": "권칠승",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''오뚜기 3세' 함연지 배우 은퇴한 듯…미국 법인서 근무 중 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '與 사무총장에 한정애…정책위의장에 권칠승 임명' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'오뚜기 3세' 함연지 배우 은퇴한 듯…미국 법인서 근무 중 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/18/2026081811180750848"
-        },
-        {
-          "title": "'오뚜기 3세' 함연지, SNS 비공개·사실상 연예계 은퇴…美에서 경영 수업 중 [Oh!쎈 이슈]",
+          "title": "與 사무총장에 한정애…정책위의장에 권칠승 임명",
           "source": "Daum",
-          "url": "https://v.daum.net/v/QiUiywu5CC"
+          "url": "https://v.daum.net/v/20260818171454327"
         },
         {
-          "title": "함연지, ‘오뚜기 3세’ 본업 시작했나…연예계 떠나 美서 경영수업",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260818/134494720/1"
+          "title": "김민석 민주당, ‘능력 최우선’ 추가 인선…인천·경기 의원 주요 당직 발탁",
+          "source": "인천일보",
+          "url": ""
+        },
+        {
+          "title": "김민석, 사무총장에 한정애·정책위의장에 권칠승 임명",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6845536_36911.html"
         }
       ]
     }
