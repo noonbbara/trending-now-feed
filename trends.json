@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-18T23:28:54.652Z",
+  "updatedAt": "2026-08-18T23:53:15.533Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,9 +9,9 @@
       "rank": 1,
       "keyword": "제니",
       "volumeLabel": "10000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '[잇슈 컬처] 블랙핑크 제니 노출 사고? 일본 축제 무대서 ‘곤욕’' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,58 +33,58 @@
       ]
     },
     {
-      "id": "천궁2",
+      "id": "배드민턴",
       "rank": 2,
-      "keyword": "천궁2",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "keyword": "배드민턴",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '유용원 \"우크라에 지대공유도무기 '천궁-Ⅱ' 지원 검토해야\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '배드민턴 세계 1위 중국 스위치, 세계선수권 첫판서 21세 인도 신인에 패해 탈락' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "유용원 \"우크라에 지대공유도무기 '천궁-Ⅱ' 지원 검토해야\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260818096600001"
+          "title": "배드민턴 세계 1위 중국 스위치, 세계선수권 첫판서 21세 인도 신인에 패해 탈락",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608182217003"
         },
         {
-          "title": "우크라 \"러, 접경지 병력 북한군으로 대체 가능성…최대 2만 명\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260818_0003751940"
-        },
-        {
-          "title": "\"우크라에 천궁2 지원해야\" 국힘 의원 주장..러 보복에 무대책",
+          "title": "中 배드민턴 대참사! 남자단식 1위 스위치→다크호스 웡훙양 '줄 탈락'…32강 단 1명 진출→중국 매체 \"세계선수권 역대 최악의 성적\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/3Ts0XIb0cl"
+          "url": "https://v.daum.net/v/20260818190937003"
+        },
+        {
+          "title": "中 배드민턴 대충격 \"세계 1위가 첫 판에 떨어졌다\"... 스위치, 21세 유망주에 '이변의 희생양' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/19/2026081903583478479"
         }
       ]
     },
     {
-      "id": "농민",
+      "id": "홍민기",
       "rank": 3,
-      "keyword": "농민",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "keyword": "홍민기",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“파프리카 5㎏이 단돈 500원” 상자째 내던져진 농심' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '홍민기, '데이트 폭력' 의혹 파문..소속사 측은 '묵묵부답' [스타이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“파프리카 5㎏이 단돈 500원” 상자째 내던져진 농심",
+          "title": "홍민기, '데이트 폭력' 의혹 파문..소속사 측은 '묵묵부답' [스타이슈]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260819000850909"
+          "url": "https://v.daum.net/v/20260819080809280"
         },
         {
-          "title": "농산물값 폭락에 벼랑끝 내몰린 강원 농민들…\"생존권 보장하라\"",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1144068"
+          "title": "배우 홍민기, '데이트 폭력' 폭로글 올라와…소속사 대응은 '아직' [MD이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819082351641"
         },
         {
-          "title": "'거리로, 삭발로' 강원 농민들 \"생존권 대책 마련하라\"",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6564306"
+          "title": "소주병 투척·목 잡고 폭행까지…홍민기, 데이트폭력 내용증명 폭로 '충격'",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20260819075126436"
         }
       ]
     },
@@ -93,9 +93,9 @@
       "rank": 4,
       "keyword": "이창민",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '무속인 \"이창민, 50대에 건물 소유운 들어와\" (귀묘한이야기2) - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -121,9 +121,9 @@
       "rank": 5,
       "keyword": "이슬람 혁명 수비대",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '\"미, 지난 5월 이란 혁수대 사령관과 비밀 접촉…회담은 무산\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -145,69 +145,13 @@
       ]
     },
     {
-      "id": "하빕-누르마고메도프",
-      "rank": 6,
-      "keyword": "하빕 누르마고메도프",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '글러브 낀 하빕 복귀설에…화이트 “그는 102㎏”' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "글러브 낀 하빕 복귀설에…화이트 “그는 102㎏”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/3J2a3T4qt8?f=p"
-        },
-        {
-          "title": "글러브 낀 하빕 복귀설에…화이트 “그는 102㎏”",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10843566"
-        },
-        {
-          "title": "“벨트 왜 두개 들어” 할러웨이 지적에 마카체프 “넌 몰라” 응수",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/fJSJuPCE1W"
-        }
-      ]
-    },
-    {
-      "id": "내가-만난-사이코패스",
-      "rank": 7,
-      "keyword": "내가 만난 사이코패스",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '7년 간 남편 시신 씻기며 살아온 아내…전현무 \"아이들 트라우마 어떡해\" [내사패]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "7년 간 남편 시신 씻기며 살아온 아내…전현무 \"아이들 트라우마 어떡해\" [내사패]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/bfvz41d8OB"
-        },
-        {
-          "title": "피해망상에 부모님→'의대' 형 살인 둘째, 유전자 검사 결과 99.99% 친자 관계 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/08/17/HE2DEMRZGAZGEMZTMVSTCNLBGU/"
-        },
-        {
-          "title": "'50세' 전현무, 아직도 母 잔소리 듣는다…\"폭염에도 양말 신으라고\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260816_0003750935"
-        }
-      ]
-    },
-    {
       "id": "박용우",
-      "rank": 8,
+      "rank": 6,
       "keyword": "박용우",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+2",
       "summary": "급상승 시점에 '3년만에 K리그 돌아온 '국대MF' 박용우, 서울-인천 러브콜 뒤로 하고 울산 컴백 택했다[SC 비하인드]' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -229,58 +173,114 @@
       ]
     },
     {
-      "id": "철도",
-      "rank": 9,
-      "keyword": "철도",
+      "id": "하빕-누르마고메도프",
+      "rank": 7,
+      "keyword": "하빕 누르마고메도프",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '철도통합무선망 마지막 구간 '태백선 등 12개 노선' 발주' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '글러브 낀 하빕 복귀설에…화이트 “그는 102㎏”' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "철도통합무선망 마지막 구간 '태백선 등 12개 노선' 발주",
+          "title": "글러브 낀 하빕 복귀설에…화이트 “그는 102㎏”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260818153345731"
+          "url": "https://v.daum.net/v/3J2a3T4qt8?f=p"
         },
         {
-          "title": "철도공단, 철도통합무선망 구축 마지막 노선 발주…2028년 말 개통",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260818_0003752941"
+          "title": "글러브 낀 하빕 복귀설에…화이트 “그는 102㎏”",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10843566"
         },
         {
-          "title": "국가철도공단, 태백선 등 12개 노선 LTE-R 발주…2028년 완전 구축",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=371386"
+          "title": "“벨트 왜 두개 들어” 할러웨이 지적에 마카체프 “넌 몰라” 응수",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/fJSJuPCE1W"
         }
       ]
     },
     {
-      "id": "허찬미",
+      "id": "경주기행",
+      "rank": 8,
+      "keyword": "경주기행",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '비극 속 유머와 통쾌한 복수극…영화 ‘경주기행’의 네 모녀' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "비극 속 유머와 통쾌한 복수극…영화 ‘경주기행’의 네 모녀",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818173058012"
+        },
+        {
+          "title": "공효진→유해진, 올추석 제2의 '왕사남'은? 9월 韓영화 우르르 [시네마 리포트] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/19/2026081907307250046"
+        },
+        {
+          "title": "호평 일색 '경주기행', 개봉 앞두고 韓영화 중 예매율 1위",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/movie/2026/08/18/HFSTQMTBGAYTCNLGMYYDIYRXME/"
+        }
+      ]
+    },
+    {
+      "id": "3기-신도시",
+      "rank": 9,
+      "keyword": "3기 신도시",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이민근 안산시장 “3기 신도시 시민 불편 최소화”…관계기관 협력 강화' (뉴스타운) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이민근 안산시장 “3기 신도시 시민 불편 최소화”…관계기관 협력 강화",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=712803"
+        },
+        {
+          "title": "안산시-경기주택도시공사-안산도시공사, ‘3기 신도시 사업 현황’ 공유",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260818500308"
+        },
+        {
+          "title": "안산시, 3기 신도시 협업 TF 가동…시민 불편 최소화",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1679184/%EC%95%88%EC%82%B0%EC%8B%9C-3%EA%B8%B0-%EC%8B%A0%EB%8F%84%EC%8B%9C-%ED%98%91%EC%97%85-TF-%EA%B0%80%EB%8F%99%EC%8B%9C-2026"
+        }
+      ]
+    },
+    {
+      "id": "abl생명",
       "rank": 10,
-      "keyword": "허찬미",
+      "keyword": "abl생명",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '허찬미, 밝은 에너지로 무대 장악…치명적인 매력으로 완성할 기분 좋은 일주일' (톱스타뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '우리금융, 동양생명·ABL생명 통합 착수' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "허찬미, 밝은 에너지로 무대 장악…치명적인 매력으로 완성할 기분 좋은 일주일",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16165483"
-        },
-        {
-          "title": "[미스트롯4’ 춘천 콘서트 톱7]➃ ‘꺾기 요정’ 길려원",
+          "title": "우리금융, 동양생명·ABL생명 통합 착수",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260819000630769"
+          "url": "https://v.daum.net/v/20260819003653223"
         },
         {
-          "title": "[ET포토] 미스트롯4 염유리, '반작이는 백옥 미모'",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260818000369"
+          "title": "우리금융, 동양·ABL 통합해 총자산 55조 대형 생보사로",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260818037100002"
+        },
+        {
+          "title": "우리금융 “내년 하반기 55조 규모 통합 생보사 출범”",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168378"
         }
       ]
     }
