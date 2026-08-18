@@ -1,213 +1,57 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-17T23:53:20.810Z",
+  "updatedAt": "2026-08-18T01:42:40.394Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "김도영",
+      "id": "박수홍",
       "rank": 1,
-      "keyword": "김도영",
-      "volumeLabel": "1000+",
+      "keyword": "박수홍",
+      "volumeLabel": "10000+",
       "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 'KIA 박재현 “올러한테 미안했는데…”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '박수홍·김다예 집에 나타난 ‘수상한 육아도우미’… “저 회사는 망하겠다”' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "KIA 박재현 “올러한테 미안했는데…”",
+          "title": "박수홍·김다예 집에 나타난 ‘수상한 육아도우미’… “저 회사는 망하겠다”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260818004548355"
+          "url": "https://v.daum.net/v/20260818102508770"
         },
         {
-          "title": "두산 제친 KIA, 나흘 만에 4위 탈환…올러, 시즌 11승 '다승 선두'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20260817003500038"
+          "title": "박수홍, 21개월 딸 맡겼는데 ‘제비 두 명’ 등장…“이 회사 망하겠다”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260818/134493197/1"
         },
         {
-          "title": "폭염방학이 보약이었다...'다승선두' 올러, 나흘간격 6이닝→7이닝 먹방하고도 \"8회도 나가고 싶었다\"",
+          "title": "박수홍 딸 재이, 벌써 연예인 인지도 제쳤다…\"우린 아무도 못 알아봐\" 씁쓸",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/08/17/MI4DAZLFGVTDGMZTMJQWGMZTGA/"
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/17/GA3DIMZVMRRDMOBWMMYGKYJYMM/"
         }
       ]
     },
     {
-      "id": "남보라",
+      "id": "창원시",
       "rank": 2,
-      "keyword": "남보라",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 '“벌써 완성형 이목구비” 남보라, 똑 닮은 아들 품에 안고 훈훈한 근황 공개' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“벌써 완성형 이목구비” 남보라, 똑 닮은 아들 품에 안고 훈훈한 근황 공개",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260816165507459"
-        },
-        {
-          "title": "'13남매 장녀' 남보라, 출산 후 2달 만에 완벽 미모 복귀 \"오늘도 건강하게 콩알 아기\" - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/16/GQ2TGMZXGRTDKOBUMU2GCZRXMY/"
-        },
-        {
-          "title": "눈매는 역대급 붕어빵..남보라 “무럭무럭 자라는 ♥콩알”",
-          "source": "미주한국일보",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "id": "fc-서울",
-      "rank": 3,
-      "keyword": "fc 서울",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 ''1위' FC서울 초대형 변수…'재계약 소식 NO→중국 이적설' 김기동 감독 '리스크'' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'1위' FC서울 초대형 변수…'재계약 소식 NO→중국 이적설' 김기동 감독 '리스크'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/08/17/MEZWMYTCMQYDCMBSMYZGIMBSGA/"
-        },
-        {
-          "title": "원정석에서 본 김기동 나가콜,기성용 이적설로 어지러운 매치 😵‍💫,기성용 콜 오베르단 퇴장,4대1,K리그 FC서울vs포항스틸러스(서울월드컵경기장) 25.06.29 Kleague Linda Nosková (gh369ZzSuY)",
-          "source": "Mshale",
-          "url": "https://mshale.com/2e47e1e2/7d56aa1f2hWysOrcSDw"
-        },
-        {
-          "title": "광복절 K리그 스타는 ‘독립유공자 증손서’ 송민규!",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260816213341700"
-        }
-      ]
-    },
-    {
-      "id": "강원도민일보",
-      "rank": 4,
-      "keyword": "강원도민일보",
-      "volumeLabel": "200+",
+      "keyword": "창원시",
+      "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '정부, 58만명 참여 을지연습 돌입…핵심시설 마비·사이버공격 대비' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "정부, 58만명 참여 을지연습 돌입…핵심시설 마비·사이버공격 대비",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818050128410"
-        },
-        {
-          "title": "태백시, 18~21일 '국가비상사태 대비' 을지연습",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/kangwon/6260826"
-        },
-        {
-          "title": "송파구, 을지연습서 롯데호텔월드 테러 대응 합동 훈련",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260817_0003751356"
-        }
-      ]
-    },
-    {
-      "id": "브래들리-바르콜라",
-      "rank": 5,
-      "keyword": "브래들리 바르콜라",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '\"PSG 싫으면 다른 해결책 찾아!\" 루이스 엔리케 분노 폭발…'1억 3000만 파운드 스타' 브래들리 바르콜라 작별 임박' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"PSG 싫으면 다른 해결책 찾아!\" 루이스 엔리케 분노 폭발…'1억 3000만 파운드 스타' 브래들리 바르콜라 작별 임박",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/08/17/GRSWMZJTGI3GMZDBG44TMZRVHA/"
-        },
-        {
-          "title": "레버쿠젠도 거절했다! 'PSG 성골 유망주' 음바예, 리버풀 선택→5년 개인 합의 완료…바르콜라까지 '더블 영입' 추진",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260818n01726"
-        },
-        {
-          "title": "바르콜라·음바예 빼버린 PSG 루이스 엔리케 감독의 경고… \"다른 길 찾아라\", 마음 떠난 선수 안 잡는다 선언",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/9tz1PKEoTq"
-        }
-      ]
-    },
-    {
-      "id": "오늘-날씨",
-      "rank": 6,
-      "keyword": "오늘 날씨",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[날씨] 오전까지 경남 곳곳 비 이어져…산사태 '주의'' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[날씨] 오전까지 경남 곳곳 비 이어져…산사태 '주의'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818081555096"
-        },
-        {
-          "title": "\"필요한 이동 아니면 자제해야\"...극한호우 때 행동요령은? [Y녹취록]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202608180737588489"
-        },
-        {
-          "title": "남부지방 오전까지 비…전국 곳곳 소나기",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608180806001"
-        }
-      ]
-    },
-    {
-      "id": "유시민",
-      "rank": 7,
-      "keyword": "유시민",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '박원석 \"당 대표 선거 끝났다…호남, 유시민이 李 흔든다 생각\"[뉴스연구소]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "박원석 \"당 대표 선거 끝났다…호남, 유시민이 李 흔든다 생각\"[뉴스연구소]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/3djCyOB3Oe"
-        },
-        {
-          "title": "\"유시민이 진원지\"…정청래 호남 참패 부른 '논란 4가지' [정치 인사이드]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608175495H"
-        },
-        {
-          "title": "박원석 “호남, 대통령 흔드는 유시민 그냥 두면 안된다 생각”",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202608171036001"
-        }
-      ]
+      "newsSignals": []
     },
     {
       "id": "혁신도시",
-      "rank": 8,
+      "rank": 3,
       "keyword": "혁신도시",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+5",
       "summary": "급상승 시점에 '2차 공공기관 이전 25일 발표…나주 혁신도시에 '집중' 이룰까' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -229,30 +73,198 @@
       ]
     },
     {
-      "id": "라리가",
-      "rank": 9,
-      "keyword": "라리가",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '유럽축구 막 오른 날…황인범 첫 도움 펄펄' (국제신문) 관련 뉴스가 함께 포착됐어요.",
+      "id": "잠실",
+      "rank": 4,
+      "keyword": "잠실",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '잠실 5성급 호텔 쓰레기장서 탄창·탄환 발견…경찰 수사' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "유럽축구 막 오른 날…황인범 첫 도움 펄펄",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260817.22014004267"
+          "title": "잠실 5성급 호텔 쓰레기장서 탄창·탄환 발견…경찰 수사",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260817067600004"
         },
         {
-          "title": "스페인 입성한 이강인의 '우승 갈증'…\"야망과 열정 품고 왔다\"",
+          "title": "[속보]잠실 5성 호텔서 탄창과 탄환 발견…총기는 없어",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11609948"
+        },
+        {
+          "title": "잠실 5성급 호텔 쓰레기장에 탄창과 탄피... 총은 어디에?",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/08/17/I4WMNIJ5FJHVLFIC4KHGIM62LA/"
+        }
+      ]
+    },
+    {
+      "id": "화장품",
+      "rank": 5,
+      "keyword": "화장품",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '코스맥스, 포항가속기연구소와 맞손…K뷰티 '초격차 기술' 확보 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "코스맥스, 포항가속기연구소와 맞손…K뷰티 '초격차 기술' 확보 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/08/18/2026081808540483864"
+        },
+        {
+          "title": "코스맥스, 포항가속기연구소와 맞손…K뷰티 기술 고도화",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260818000127"
+        },
+        {
+          "title": "코스맥스, 포항가속기연구소와 선크림·색조화장품 개발한다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/3dB4HOB3zl"
+          "url": "https://v.daum.net/v/20260818100131547"
+        }
+      ]
+    },
+    {
+      "id": "양지은",
+      "rank": 6,
+      "keyword": "양지은",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[ET포토] 신장미, '오늘 무대 기대하세요'' (전자신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[ET포토] 신장미, '오늘 무대 기대하세요'",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260817000046"
         },
         {
-          "title": "이강인, 아틀레티코 공식 입단식 가져…\"모든 대회서 우승 원해\"",
+          "title": "[포토] 신장미, 불후의 명곡 전국 트롯 대축제 녹화 왔어요~",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20260817110104242"
+        },
+        {
+          "title": "[TOP영상] 강혜연·양지은·성리·장한별 총출동! 김용빈·신성·남궁진까지★ ‘불후의 명곡’ 트롯스타 출근길(출근길)",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16165331"
+        }
+      ]
+    },
+    {
+      "id": "전장연",
+      "rank": 7,
+      "keyword": "전장연",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[속보] 전장연 시위로 서울역 1호선 하행·4호선 상행 무정차 통과' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[속보] 전장연 시위로 서울역 1호선 하행·4호선 상행 무정차 통과",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/08/18/6VPGS2BZLZF35OLVUD3ETIOG2E/"
+        },
+        {
+          "title": "장애인 시위로 서울역 1호선·4호선 한때 무정차…일부 충돌도(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818102341686"
+        },
+        {
+          "title": "[속보]전장연 시위로 서울역 1호선 하행선·4호선 상행선 무정차 통과",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608180905001"
+        }
+      ]
+    },
+    {
+      "id": "뱀피르",
+      "rank": 8,
+      "keyword": "뱀피르",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '마약 처벌 유아인 복귀…장재현 '뱀피르' 주연 맡는다' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "마약 처벌 유아인 복귀…장재현 '뱀피르' 주연 맡는다",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260818_0003751748"
+          "url": "https://www.newsis.com/view/NISX20260818_0003751852"
+        },
+        {
+          "title": "유아인 결국 복귀…마약 유죄 1년 만 ‘파묘’ 감독 신작 촬영 돌입",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818085402300"
+        },
+        {
+          "title": "장재현 감독 신작 '뱀피르', 유아인·이성민·이준혁 캐스팅…이달 촬영 돌입",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260818000055"
+        }
+      ]
+    },
+    {
+      "id": "박현빈",
+      "rank": 9,
+      "keyword": "박현빈",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '박현빈, '아침마당'서 3대 가족 공개… 아들·딸과 부모님까지 초대' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "박현빈, '아침마당'서 3대 가족 공개… 아들·딸과 부모님까지 초대",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3666800"
+        },
+        {
+          "title": "박현빈 \"'곤드레만드레'로 月 행사 200개 뛰어…트로트 편견 없애려고\"(아침마당)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260818n05577"
+        },
+        {
+          "title": "박현빈, 형·형수 모두 오페라 가수‥소프라노 형수 “상견례 때 오디션 보고 합격”(아침마당)",
+          "source": "뉴스엔",
+          "url": "https://www.newsen.com/news_view.php?uid=202608180755356710&code=100100"
+        }
+      ]
+    },
+    {
+      "id": "한혜진",
+      "rank": 10,
+      "keyword": "한혜진",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '한혜진♥기성용 딸, 아빠 닮아 남다른 다리 길이..벌써 키 따라잡았네 “자매 같아”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "한혜진♥기성용 딸, 아빠 닮아 남다른 다리 길이..벌써 키 따라잡았네 “자매 같아”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817211048190"
+        },
+        {
+          "title": "한혜진, 11살 딸과 다정한 모녀샷…벌써 엄마 따라잡은 키",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260818_0003752034"
+        },
+        {
+          "title": "한혜진, 카페 일상 담은 근황 공개…‘아빠하고 나하고’ 이어 유튜브까지",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16165396"
         }
       ]
     }
