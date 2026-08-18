@@ -1,17 +1,101 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-18T03:02:59.704Z",
+  "updatedAt": "2026-08-18T04:09:55.003Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "수사",
+      "id": "오타니-쇼헤이",
       "rank": 1,
-      "keyword": "수사",
+      "keyword": "오타니 쇼헤이",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''연타석포' 오타니, 시즌 첫 4안타까지 폭발!...디아즈는 씁쓸한 3실점, 다저스 2연패 탈출 [LAD 리뷰] - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'연타석포' 오타니, 시즌 첫 4안타까지 폭발!...디아즈는 씁쓸한 3실점, 다저스 2연패 탈출 [LAD 리뷰] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/18/202608181217770188O"
+        },
+        {
+          "title": "2576억 선수가 아픈 척 거짓말했다고? 다저스는 사기꾼?…美 매체 \"황당한 음모론일 뿐이다\"",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002296"
+        },
+        {
+          "title": "\"불펜 상황 정확히 이해, 영리했다\" 로버츠가 반한 KIA 우승 공신의 112구 혼신투, 기립박수 당연했다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814034012296"
+        }
+      ]
+    },
+    {
+      "id": "김태형",
+      "rank": 2,
+      "keyword": "김태형",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 '응급대처 지연 논란…롯데 “구급차 즉시 진입토록 개선”' (국제신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "응급대처 지연 논란…롯데 “구급차 즉시 진입토록 개선”",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260817.22014004273"
+        },
+        {
+          "title": "턱뼈 골절 임지민…심리적 부담 극복이 중요",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817133027536"
+        },
+        {
+          "title": "얼굴에 타구 맞은 NC 임지민…\"다음주 초 수술\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260815010100038"
+        }
+      ]
+    },
+    {
+      "id": "독파모",
+      "rank": 3,
+      "keyword": "독파모",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘업스테이지·SKT·LG' 독파모 최종 진출... 모티프는 탈락' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘업스테이지·SKT·LG' 독파모 최종 진출... 모티프는 탈락",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/tech_it/2026/08/18/VD3JMZTBTBDWRCKIFAJJSJMMY4/"
+        },
+        {
+          "title": "[속보] '국가대표 AI' 2차 평가서 모티프 탈락…3파전 압축",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608186572i"
+        },
+        {
+          "title": "발언대 이동하는 류제명 차관",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260818_0021402158"
+        }
+      ]
+    },
+    {
+      "id": "수사",
+      "rank": 4,
+      "keyword": "수사",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-3",
       "summary": "급상승 시점에 '대법 \"검찰수사관이 수사한 사건, 지휘한 검사가 기소 못 해\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,137 +117,109 @@
       ]
     },
     {
-      "id": "울산광역시",
-      "rank": 2,
-      "keyword": "울산광역시",
+      "id": "의령군",
+      "rank": 5,
+      "keyword": "의령군",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 '80평생 베풀고 시신까지 기증…'의령 봉사왕' 3년 만에 영면' (주간조선) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "80평생 베풀고 시신까지 기증…'의령 봉사왕' 3년 만에 영면",
+          "source": "주간조선",
+          "url": ""
+        },
+        {
+          "title": "시신까지 기증한 '의령 봉사왕'…마지막 봉사 마치고 영면",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260817067200052"
+        },
+        {
+          "title": "'시신 기증' 3년만 공도연 할머니, 남편과 공동화장…경상대 의대 안치",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260817_0003751422"
+        }
+      ]
+    },
+    {
+      "id": "박찬대",
+      "rank": 6,
+      "keyword": "박찬대",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '박찬대 인천시장, 민선 9기 첫 직무평가서 전국 ‘최하위’ 불명예' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "박찬대 인천시장, 민선 9기 첫 직무평가서 전국 ‘최하위’ 불명예",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/6KVXqsqFDL"
+        },
+        {
+          "title": "김상욱 울산시장, 첫 직무평가...‘정당지표 상대지수’ 전국 2위",
+          "source": "경상일보",
+          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1064737"
+        },
+        {
+          "title": "'인천e음 캐시백 중단' 영향 컸나…박찬대 시장 지지율 뚝",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1329728"
+        }
+      ]
+    },
+    {
+      "id": "울산광역시",
+      "rank": 7,
+      "keyword": "울산광역시",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-5",
       "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": []
     },
     {
-      "id": "삼성-갤럭시-z-시리즈",
-      "rank": 3,
-      "keyword": "삼성 갤럭시 z 시리즈",
-      "volumeLabel": "500+",
+      "id": "홍주",
+      "rank": 8,
+      "keyword": "홍주",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '삼성전자, 내년 '와이드 폴드' 하나 더 만든다…폴더블 5종 확대' (전자신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '홍성군 홍주천년문화체험관 여름 특별 프로그램 '여름 한자락, 전통 한그릇' 운영' (한국미디어뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "삼성전자, 내년 '와이드 폴드' 하나 더 만든다…폴더블 5종 확대",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260814000059"
+          "title": "홍성군 홍주천년문화체험관 여름 특별 프로그램 '여름 한자락, 전통 한그릇' 운영",
+          "source": "한국미디어뉴스",
+          "url": "https://www.kitvnews.co.kr/news/article.html?no=1655044"
         },
         {
-          "title": "삼성만 접는 시대 끝…구글 이어 애플까지, 폴더블 전쟁 불붙었다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817070303038"
+          "title": "늦여름 홍주서 만나는 ‘우리 음식의 맛과 멋’",
+          "source": "투데이충남",
+          "url": "https://www.todaychungnam.net/news/articleView.html?idxno=473309"
         },
         {
-          "title": "'1030·여성' 홀린 갤럭시Z8 인기 비결은…'3M 기능'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/it-science/mobile/6259353"
-        }
-      ]
-    },
-    {
-      "id": "잠실",
-      "rank": 4,
-      "keyword": "잠실",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '[속보]잠실 5성 호텔서 탄창과 탄환 발견…총기는 없어' (문화일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[속보]잠실 5성 호텔서 탄창과 탄환 발견…총기는 없어",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11609948"
-        },
-        {
-          "title": "잠실 5성급 호텔 쓰레기장서 탄창·탄환 발견…경찰 수사",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260817067600004"
-        },
-        {
-          "title": "잠실 5성급 호텔 쓰레기장서 실탄 3발·탄창 발견…경찰 수사",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260817580356"
-        }
-      ]
-    },
-    {
-      "id": "창원시",
-      "rank": 5,
-      "keyword": "창원시",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 '강원도, 21일까지 을지연습…드론·사이버 공격 대응 강화' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "강원도, 21일까지 을지연습…드론·사이버 공격 대응 강화",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260818067800062"
-        },
-        {
-          "title": "예보, 전시 금융위기 대비 을지연습…사이버공격 대응훈련",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260818_0003752446"
-        },
-        {
-          "title": "광명시, 18~21일 ‘2026 을지연습’ 돌입… 드론 테러·무장 침투 실전 대응",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260818580122"
-        }
-      ]
-    },
-    {
-      "id": "양지은",
-      "rank": 6,
-      "keyword": "양지은",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '[ET포토] 신장미, '오늘 무대 기대하세요'' (전자신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[ET포토] 신장미, '오늘 무대 기대하세요'",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260817000046"
-        },
-        {
-          "title": "[포토] 신장미, 불후의 명곡 전국 트롯 대축제 녹화 왔어요~",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20260817110104242"
-        },
-        {
-          "title": "[TOP영상] 엄영자·박철규, 영자의 전성시대에 신인 가수 등장! “이런 가수 처음이야?”",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16165261"
+          "title": "홍주천년문화체험관, '여름 한자락, 전통 한그릇' 8월 29~30일 운영",
+          "source": "매일일보",
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=1403111"
         }
       ]
     },
     {
       "id": "롯데온",
-      "rank": 7,
+      "rank": 9,
       "keyword": "롯데온",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '‘꿀잠’에 진심인 소비자들⋯ 롯데온, 숙면·웰니스 수요 잡는다' (브릿지경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -185,86 +241,30 @@
       ]
     },
     {
-      "id": "청약",
-      "rank": 8,
-      "keyword": "청약",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '흥국화재, 장기보험 청약시스템 전면 개편…설계시간 38% 단축' (디지털데일리) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "흥국화재, 장기보험 청약시스템 전면 개편…설계시간 38% 단축",
-          "source": "디지털데일리",
-          "url": "https://www.ddaily.co.kr/page/view/2026081810160984920"
-        },
-        {
-          "title": "흥국화재, 차세대 장기청약시스템 ‘Next Core’ 전사 오픈",
-          "source": "데일리한국",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1396537"
-        },
-        {
-          "title": "흥국화재, 장기청약시스템 'Next Core' 전사 가동…IT 경쟁 가세",
-          "source": "뉴스투데이",
-          "url": "https://www.news2day.co.kr/article/20260818500055"
-        }
-      ]
-    },
-    {
-      "id": "예정화",
-      "rank": 9,
-      "keyword": "예정화",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '근황 사진 올린 예정화…마동석도 반한 코어 단련·허리 라인 유지법' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "근황 사진 올린 예정화…마동석도 반한 코어 단련·허리 라인 유지법",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260817_0003751497"
-        },
-        {
-          "title": "마동석, '17살 연하' 아내가 이렇게 예뻐…예정화, 누워서 부각된 완벽 'S라인' - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/17/HBRDOMBRMQ4DAZBYMM2DMY3EMY/"
-        },
-        {
-          "title": "'마동석♥' 예정화, 재개 9년만 비현실적 청순美 \"AI도 이렇게 뽑으면 오류\"",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260816221908342"
-        }
-      ]
-    },
-    {
-      "id": "윤석열",
+      "id": "에어로케이",
       "rank": 10,
-      "keyword": "윤석열",
-      "volumeLabel": "200+",
+      "keyword": "에어로케이",
+      "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] 윤한홍, 윤석열 관저 이전 개입 정황…외교부에 공관 자료 제출받아' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '에어로케이, 청주-中·日 노선 선택지 넓힌다' (충청매일) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[단독] 윤한홍, 윤석열 관저 이전 개입 정황…외교부에 공관 자료 제출받아",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1273316.html"
+          "title": "에어로케이, 청주-中·日 노선 선택지 넓힌다",
+          "source": "충청매일",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1094217"
         },
         {
-          "title": "대통령 관저 공사 \"관련 없다\"던 윤한홍…특검 '개입 정황' 확인",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260818n10436"
+          "title": "에어로케이 \"만리장성 하늘길 연다\"... 中 베이징·청두 취항 '9부 능선' 통과",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202608141449059712"
         },
         {
-          "title": "윤석열 정권이 삭감한 학교 예술 강사 예산... \"원상복구해야\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818110759316"
+          "title": "‘청주~마쓰야마 80분’…에어로케이, 10월 하늘길 직판 나선다",
+          "source": "공뉴스",
+          "url": "https://www.bzeronews.com/news/articleView.html?idxno=821232"
         }
       ]
     }
