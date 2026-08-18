@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-18T15:38:42.037Z",
+  "updatedAt": "2026-08-18T16:39:41.584Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,9 +9,9 @@
       "rank": 1,
       "keyword": "서장훈의 이웃집 백만장 자",
       "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '서장훈, 생애 첫 심마니 도전…40만원대 산양삼 직접 캤다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,20 +33,48 @@
       ]
     },
     {
-      "id": "이용대",
+      "id": "신진서",
       "rank": 2,
+      "keyword": "신진서",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '韓 바둑, 언제까지 신진서 '원맨쇼' 의존?…홀로 16강 분투' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "韓 바둑, 언제까지 신진서 '원맨쇼' 의존?…홀로 16강 분투",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818110605213?f=p"
+        },
+        {
+          "title": "신진서, 몽백합배 세계바둑 8강 진출…중국 1위 딩하오와 격돌",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260818166900007"
+        },
+        {
+          "title": "[GS칼텍스배 프로기전] 중국 세계대회 16강",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/sports/12130347"
+        }
+      ]
+    },
+    {
+      "id": "이용대",
+      "rank": 3,
       "keyword": "이용대",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 ''이용대와 열애설' 윤채경 \"믿었던 사람한테 뒤통수 제대로 맞아\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "'이용대와 열애설' 윤채경 \"믿었던 사람한테 뒤통수 제대로 맞아\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/pit3p8Ocj0"
+          "url": "https://v.daum.net/v/20260818141651961"
         },
         {
           "title": "‘이용대 열애설’ 윤채경 “바람 절대 용서하면 안돼” 의미심장 저격",
@@ -62,40 +90,40 @@
     },
     {
       "id": "ไทย-พบ-ส-งคโปร",
-      "rank": 3,
+      "rank": 4,
       "keyword": "ไทย พบ ส งคโปร",
       "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 'LIVE ดูบอลสด ทีมชาติไทย พบ สิงคโปร์ บอลไทยวันนี้ (18 ส.ค.) 20.00 น. อาเ…' (Thairath.co.th) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 'VTV, TV360 และ FPT Play จะถ่ายทอดสดการแข่งขันฟุตบอลระหว่างทีมชาติไทยกับ…' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "LIVE ดูบอลสด ทีมชาติไทย พบ สิงคโปร์ บอลไทยวันนี้ (18 ส.ค.) 20.00 น. อาเซียน คัพ 2026 รอบรอง นัด 2",
-          "source": "Thairath.co.th",
-          "url": "https://www.thairath.co.th/sport/thaifootball/changsuek/2951586"
-        },
-        {
-          "title": "ความขัดแย้งในศึกอาเซียนคัพ 2026: มีเวลาพัก 8 วันก่อนรอบรองชนะเลิศ แต่มีเวลาพักเพียง 2 วันสำหรับนัดที่สอง",
+          "title": "VTV, TV360 และ FPT Play จะถ่ายทอดสดการแข่งขันฟุตบอลระหว่างทีมชาติไทยกับทีมชาติสิงคโปร์ในวันที่ 18 สิงหาคม 2569",
           "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/nghich-ly-tai-asean-cup-2026-nghi-8-ngay-truoc-ban-ket-chi-nghi-2-ngay-da-luot-ve"
+          "url": "https://www.vietnam.vn/th/vtv-tv360-fpt-play-tuong-thuat-truc-tiep-bong-da-thai-lan-vs-singapore-18-8-2026"
         },
         {
-          "title": "ช้างศึก เปลี่ยนผู้เล่น 6 คนจากแมตช์ เกมนัดสองรอบรองชนะเลิศ อาเซียน คัพ 2026 | Khaosod",
-          "source": "LINE TODAY",
-          "url": "https://today.line.me/th/v3/article/0M5RqGz"
+          "title": "ฮัดสัน ชี้โปรแกรมเตะถี่ทำร่างกายลูกทีมไม่ตอบสนองกับแผนที่วาง แอนโธนี ฮัดสัน หัวหน้าผู้ฝึกสอนฟุตบอลทีมชาติไทย ออกมาเปิดเผยว่าการที่ต้องลงสนามแบบติดๆกันทำให้สภาพร่างกายนักเตะล้าและไม่สามารถตอบสนองกับวิธีการเล่นที่วางแผนเอาไว้ ทัพ \"ช้างศึก\"ทีมชาติไทย พ่ายคาบ้านให้กั",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/Truevisions/posts/%E0%B8%AE%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B1%E0%B8%99-%E0%B8%8A%E0%B8%B5%E0%B9%89%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B0%E0%B8%96%E0%B8%B5%E0%B9%88%E0%B8%97%E0%B8%B3%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B8%AD%E0%B8%9A%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B9%82%E0%B8%98%E0%B8%99%E0%B8%B5-%E0%B8%AE%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B1%E0%B8%99-%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%AB%E0%B8%99/1514392474067425/"
+        },
+        {
+          "title": "‘ฮัดสัน’ ภูมิใจที่เข้าชิงฯ แต่ผิดหวังผลแข่ง – ตอบคำถามสื่อ ‘บอลน่าเบื่อ’",
+          "source": "เดลินิวส์",
+          "url": "https://www.dailynews.co.th/news/6119286/"
         }
       ]
     },
     {
       "id": "mathilde-favier",
-      "rank": 4,
+      "rank": 5,
       "keyword": "mathilde favier",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 'Un des producteurs d'OSS 117 et une figure de Dior meurent dans un acci…' (ici.fr) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -110,83 +138,27 @@
           "url": "https://www.lefigaro.fr/cinema/nicolas-altmayer-producteur-d-oss-117-et-une-figure-de-dior-mathilde-favier-sont-morts-dans-un-accident-de-la-route-20260818"
         },
         {
-          "title": "Anouchka Delon, Xavier Dolan, Léna Mahfouf… Les stars sous le choc après le décès brutal de Mathilde Favier",
-          "source": "Yahoo Actualités",
-          "url": "https://fr.news.yahoo.com/anouchka-delon-xavier-dolan-lena-mahfouf-les-stars-sous-le-choc-apres-le-deces-brutal-de-mathilde-favier-125833003.html"
-        }
-      ]
-    },
-    {
-      "id": "기아타이거즈",
-      "rank": 5,
-      "keyword": "기아타이거즈",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[스포츠7] ‘위닝시리즈’ KIA, ‘1경기 차’ 4위…3위 맹추격' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[스포츠7] ‘위닝시리즈’ KIA, ‘1경기 차’ 4위…3위 맹추격",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818201818652"
-        },
-        {
-          "title": "두산 제친 KIA, 나흘 만에 4위 탈환…올러, 시즌 11승 '다승 선두'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20260817003500038"
-        },
-        {
-          "title": "폭염방학이 보약이었다...'다승선두' 올러, 나흘간격 6이닝→7이닝 먹방하고도 \"8회도 나가고 싶었다\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/08/17/MI4DAZLFGVTDGMZTMJQWGMZTGA/"
-        }
-      ]
-    },
-    {
-      "id": "허경환",
-      "rank": 6,
-      "keyword": "허경환",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '\"물 한 잔도 마음대로 못 마셔\"…허경환, 개그맨 군기 문화 고백 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"물 한 잔도 마음대로 못 마셔\"…허경환, 개그맨 군기 문화 고백 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/18/2026081821104179259"
-        },
-        {
-          "title": "개콘 때 매주 뽀뽀한 허경환 \"내 입술은 소품이었다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260818_0003753297"
-        },
-        {
-          "title": "'살롱드립' 장도연 \"'코빅'에 남자친구 초대\"…유상무와 썸 연기 질투",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818190449890"
+          "title": "Franck Gastambide en deuil : \"Le père qu'il aurait voulu avoir\", Nicolas Altmayer (OSS 117) et sa femme morts dans un accident",
+          "source": "melty.fr",
+          "url": "https://www.melty.fr/people/franck-gastambide-en-deuil-le-pere-quil-aurait-voulu-avoir-nicolas-altmayer-oss-117-et-sa-femme-morts-dans-un-accident-2340651.html"
         }
       ]
     },
     {
       "id": "태국-대-싱가포르",
-      "rank": 7,
+      "rank": 6,
       "keyword": "태국 대 싱가포르",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '태국 대 싱가포르 준결승전 생중계 0-1 (전반전 종료): 골!!! 싱가포르가 선제골을 터뜨렸습니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '태국 대 싱가포르 준결승전 생중계, 0-1 (전반전): 파트리가 결정적인 기회를 놓쳤습니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "태국 대 싱가포르 준결승전 생중계 0-1 (전반전 종료): 골!!! 싱가포르가 선제골을 터뜨렸습니다.",
+          "title": "태국 대 싱가포르 준결승전 생중계, 0-1 (전반전): 파트리가 결정적인 기회를 놓쳤습니다.",
           "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/truc-tiep-ban-ket-thai-lan-vs-singapore-0-1-het-h1-vao-singapore-mo-ty-so"
+          "url": "https://www.vietnam.vn/ko/truc-tiep-ban-ket-thai-lan-vs-singapore-0-1-h2-patree-bo-lo-co-hoi"
         },
         {
           "title": "오늘(8월 18일) 열리는 2026 아세안컵 생중계를 시청할 수 있는 링크입니다.",
@@ -202,12 +174,12 @@
     },
     {
       "id": "enc",
-      "rank": 8,
+      "rank": 7,
       "keyword": "enc",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 'Esports Nations Cup delayed to 2027 as Iran conflict continues' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -229,30 +201,58 @@
       ]
     },
     {
-      "id": "삼성라이온즈",
-      "rank": 9,
-      "keyword": "삼성라이온즈",
+      "id": "공연",
+      "rank": 8,
+      "keyword": "공연",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '스포츠토토, 18~19일 대구 삼성라이온즈파크서 현장 프로모션 진행 [토토 투데이]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[잇슈 컬처] 블랙핑크 제니 노출 사고? 일본 축제 무대서 ‘곤욕’' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "스포츠토토, 18~19일 대구 삼성라이온즈파크서 현장 프로모션 진행 [토토 투데이]",
+          "title": "[잇슈 컬처] 블랙핑크 제니 노출 사고? 일본 축제 무대서 ‘곤욕’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8638870"
+        },
+        {
+          "title": "제니, 노출 영상에 결국 법적대응…“악의적 편집·유포, 선처 없다”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/xWZsU6IkSx"
+          "url": "https://v.daum.net/v/20260818232738456"
         },
         {
-          "title": "'라이온즈 vs 랜더스' 스포츠토토, 18~19일 대구 삼성-SSG전서 현장 프로모션 개시",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260818n22074"
-        },
-        {
-          "title": "스포츠토토, 삼성-SSG전 열기 더한다…18~19일 대구삼성라이온즈파크서 현장 프로모션 개시",
+          "title": "땀과 눈물로 완주한 여름…제니, ‘블랙핑크의 제니’ 넘어섰다",
           "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20260818/134493934/1"
+          "url": "https://sports.donga.com/ent/article/all/20260818/134497520/1"
+        }
+      ]
+    },
+    {
+      "id": "크보",
+      "rank": 9,
+      "keyword": "크보",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'KIA Tigers vs Hanwha Eagles Prediction August 18: Ron Crawford Backs th…' (Tony's Picks) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "KIA Tigers vs Hanwha Eagles Prediction August 18: Ron Crawford Backs the Tigers in a KBO Toss-Up",
+          "source": "Tony's Picks",
+          "url": "https://www.tonyspicks.com/2026/08/17/kia-tigers-vs-hanwha-eagles-prediction-8-18-26-ron-crawford/"
+        },
+        {
+          "title": "[Photo] Lee Beom-ho celebrates victory - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-photo-spo/2026/08/18/EPSNIMJMFRCYBD6UPHXL7VIBVI/"
+        },
+        {
+          "title": "[Photo] Lee Ui-ri flexes his muscles, the number one to escape crisis",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/en/sports/2026/08/18/2026081822085837345"
         }
       ]
     },
@@ -261,9 +261,9 @@
       "rank": 10,
       "keyword": "두산",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '[프로야구 창원전적] 두산 6-4 NC' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
