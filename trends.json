@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-18T17:34:19.098Z",
+  "updatedAt": "2026-08-18T18:49:24.440Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,7 +9,7 @@
       "rank": 1,
       "keyword": "서장훈의 이웃집 백만장 자",
       "volumeLabel": "5000+",
-      "startedLabel": "4시간 전",
+      "startedLabel": "5시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 '박정희, 82만평 산 소유…\"여의도 규모\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
@@ -33,25 +33,165 @@
       ]
     },
     {
-      "id": "아빠-10년",
+      "id": "매미",
       "rank": 2,
-      "keyword": "아빠 10년",
+      "keyword": "매미",
+      "volumeLabel": "1000+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"볶아먹자\" 중국인들, 샛강서 매미 유충 싹쓸이…\"한강공원 과태료 10만원\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"볶아먹자\" 중국인들, 샛강서 매미 유충 싹쓸이…\"한강공원 과태료 10만원\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818105352387"
+        },
+        {
+          "title": "“통째로 담아가더라”…여의도 일대 매미 유충 채집에 서울시 ‘경고’",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/politics/12130653"
+        },
+        {
+          "title": "[자막뉴스] \"중국인들이 통 들고 매미 싹쓸이\" 한강공원 '습격'에 \"과태료 10만 원\" '비상작전'",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008709849"
+        }
+      ]
+    },
+    {
+      "id": "광화문광장",
+      "rank": 3,
+      "keyword": "광화문광장",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 '가습기살균제 피해자들 \"2기 사회적참사 특조위 필요\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "가습기살균제 피해자들 \"2기 사회적참사 특조위 필요\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260818085800004"
+        },
+        {
+          "title": "장례 대신 광화문 나온 가습기살균제 피해자들 \"대통령 면담 요구\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818132452074"
+        },
+        {
+          "title": "광장에 모인 가습기살균제 피해자들 “호흡기뿐 아니라 가족 삶도 무너졌다”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608172049005"
+        }
+      ]
+    },
+    {
+      "id": "로드리",
+      "rank": 4,
+      "keyword": "로드리",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '맨시티 떠나 바르샤로…로드리, 스페인 전격 복귀 \"여기서 뛰는 건 내 꿈\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "맨시티 떠나 바르샤로…로드리, 스페인 전격 복귀 \"여기서 뛰는 건 내 꿈\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/1Yn63T4qE2"
+        },
+        {
+          "title": "‘이적료 1067억으로 할인’ 로드리, 드디어 바르셀로나 도착 “꿈이 이뤄졌다!” - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/18/202608181642776602O"
+        },
+        {
+          "title": "'월드컵 골든볼' 로드리, 바르셀로나 도착…\"여기서 뛰는 게 내 꿈\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260818_0003752110"
+        }
+      ]
+    },
+    {
+      "id": "아빠-10년",
+      "rank": 5,
+      "keyword": "아빠 10년",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-3",
       "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": []
     },
     {
-      "id": "사우델",
-      "rank": 3,
-      "keyword": "사우델",
+      "id": "신진서",
+      "rank": 6,
+      "keyword": "신진서",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 '신진서, 몽백합배 세계바둑 8강 진출…중국 1위 딩하오와 격돌' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "신진서, 몽백합배 세계바둑 8강 진출…중국 1위 딩하오와 격돌",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260818166900007"
+        },
+        {
+          "title": "[GS칼텍스배 프로기전] 중국 세계대회 16강",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/U4zESy8Bya"
+        },
+        {
+          "title": "'몽백합배' 신진서 나홀로 16강행...우승상금과 일정 주목",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3666396"
+        }
+      ]
+    },
+    {
+      "id": "world-cup-schedule",
+      "rank": 7,
+      "keyword": "world cup schedule",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 'The referee’s view of the World Cup final: Telling Messi to ‘control’ a…' (The New York Times) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "The referee’s view of the World Cup final: Telling Messi to ‘control’ a player and a ‘well done’ from Trump - The Athletic",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/7516859/2026/08/17/ref-cam-world-cup-final/"
+        },
+        {
+          "title": "After appealing to the World Cup final referee: Messi's team-mate returns to the \"dark arts\"",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/en/news/after-appealing-to-the-world-cup-final-referee-messi-s-team-mate-returns-to-the-dark-arts/blt4f5c739fd4023ab0"
+        },
+        {
+          "title": "World Cup final referee's unheard plea to Lionel Messi exposed in new footage",
+          "source": "Daily Mirror",
+          "url": "https://www.mirror.co.uk/sport/football/news/world-cup-final-spain-argentina-37557969"
+        }
+      ]
+    },
+    {
+      "id": "사우델",
+      "rank": 8,
+      "keyword": "사우델",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-5",
       "summary": "급상승 시점에 '다발성 태풍에 기압계 '흔들'...호우 끝나면 또 '찜통'' (YTN) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -73,69 +213,13 @@
       ]
     },
     {
-      "id": "신진서",
-      "rank": 4,
-      "keyword": "신진서",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '韓 바둑, 언제까지 신진서 '원맨쇼' 의존?…홀로 16강 분투' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "韓 바둑, 언제까지 신진서 '원맨쇼' 의존?…홀로 16강 분투",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818110605213?f=p"
-        },
-        {
-          "title": "신진서, 몽백합배 세계바둑 8강 진출…중국 1위 딩하오와 격돌",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260818166900007"
-        },
-        {
-          "title": "[GS칼텍스배 프로기전] 중국 세계대회 16강",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/sports/12130347"
-        }
-      ]
-    },
-    {
-      "id": "mortgage-rates-today",
-      "rank": 5,
-      "keyword": "mortgage rates today",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Mortgage rates fall for first time in 6 weeks' (Fox Business) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Mortgage rates fall for first time in 6 weeks",
-          "source": "Fox Business",
-          "url": "https://www.foxbusiness.com/economy/mortgage-rates-8-13-2026"
-        },
-        {
-          "title": "Mortgage Rates Today, August 18, 2026: 30-Year Refinance Rate Rises by 8 Basis Points",
-          "source": "Norada Real Estate Investments",
-          "url": "https://www.noradarealestate.com/blog/mortgage-refinance-rates-today-august-18-2026/"
-        },
-        {
-          "title": "Mortgage rates fall again as FHA and VA delinquencies rise",
-          "source": "HousingWire",
-          "url": "https://www.housingwire.com/articles/mortgage-rates-fall-delinquencies/"
-        }
-      ]
-    },
-    {
       "id": "mathilde-favier",
-      "rank": 6,
+      "rank": 9,
       "keyword": "mathilde favier",
       "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
+      "startedLabel": "5시간 전",
       "change": "down",
-      "changeLabel": "-1",
+      "changeLabel": "-3",
       "summary": "급상승 시점에 'Un des producteurs d'OSS 117 et une figure de Dior meurent dans un acci…' (ici.fr) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -157,114 +241,30 @@
       ]
     },
     {
-      "id": "태국-대-싱가포르",
-      "rank": 7,
-      "keyword": "태국 대 싱가포르",
-      "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '태국은 싱가포르에 패했지만 2026년 아세안컵 결승 진출권을 확보했습니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "태국은 싱가포르에 패했지만 2026년 아세안컵 결승 진출권을 확보했습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/thai-lan-thua-singapore-nhung-van-vao-chung-ket-asean-cup-2026"
-        },
-        {
-          "title": "태국 축구협회 회장이 2026 AFF컵 준결승 2차전을 앞두고 중대한 결정을 내렸다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/sep-lon-thai-lan-choi-lon-truoc-tran-ban-ket-luot-ve-aff-cup-2026"
-        },
-        {
-          "title": "태국 대표팀은 좋지 않은 소식을 접했습니다. 4골을 기록하며 대회 최고의 활약을 펼치고 있는 스타 플레이어가 출전할 수 없게 된 것입니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/thai-lan-nhan-tin-du-ngoi-sao-ghi-4-ban-hay-nhat-tu-dau-giai-khong-the-thi-dau"
-        }
-      ]
-    },
-    {
-      "id": "enc",
-      "rank": 8,
-      "keyword": "enc",
-      "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'Esports Nations Cup delayed to 2027 as Iran conflict continues' (BBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Esports Nations Cup delayed to 2027 as Iran conflict continues",
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cr7kdp2edk0o"
-        },
-        {
-          "title": "Esports Foundation Postpones Inaugural Esports Nations Cup to November 2027",
-          "source": "IT Voice Media Pvt. Ltd.",
-          "url": "https://www.itvoice.in/tag/enc-postponement"
-        },
-        {
-          "title": "Esports Nations Cup explains jersey sponsorships, revenue sharing and adidas partnership",
-          "source": "Sheep Esports",
-          "url": "https://www.sheepesports.com/en/all/articles/esports-nations-cup-explains-jersey-sponsorships-revenue-sharing-and-adidas-partnership/en"
-        }
-      ]
-    },
-    {
-      "id": "공연",
-      "rank": 9,
-      "keyword": "공연",
-      "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '[잇슈 컬처] 블랙핑크 제니 노출 사고? 일본 축제 무대서 ‘곤욕’' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[잇슈 컬처] 블랙핑크 제니 노출 사고? 일본 축제 무대서 ‘곤욕’",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8638870"
-        },
-        {
-          "title": "제니 결국 법적 대응 \"영상 악의적 편집·가공 선처 없다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260818_0003753315"
-        },
-        {
-          "title": "땀과 눈물로 완주한 여름…제니, ‘블랙핑크의 제니’ 넘어섰다",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260818/134497520/1"
-        }
-      ]
-    },
-    {
-      "id": "kbo-순위",
+      "id": "mortgage-rates-today",
       "rank": 10,
-      "keyword": "kbo 순위",
+      "keyword": "mortgage rates today",
       "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '◇오늘의 경기(18일)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-5",
+      "summary": "급상승 시점에 'Mortgage rates fall for first time in 6 weeks' (Fox Business) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "◇오늘의 경기(18일)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260817051600007"
+          "title": "Mortgage rates fall for first time in 6 weeks",
+          "source": "Fox Business",
+          "url": "https://www.foxbusiness.com/economy/mortgage-rates-8-13-2026"
         },
         {
-          "title": "'2026 프로야구 일정' 8월 18일 구단별 선발투수와 생중계채널",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3666646"
+          "title": "Will mortgage rates drop below 6% in 2026?",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/will-mortgage-rates-drop-below-6-2026/"
         },
         {
-          "title": "KBO 프로야구, 18일 경기 결과→현재 팀 순위?",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16166568"
+          "title": "Mortgage Rates Today, August 18, 2026: 30-Year Refinance Rate Rises by 8 Basis Points",
+          "source": "Norada Real Estate Investments",
+          "url": "https://www.noradarealestate.com/blog/mortgage-refinance-rates-today-august-18-2026/"
         }
       ]
     }
