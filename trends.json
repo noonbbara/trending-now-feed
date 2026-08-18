@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-18T18:49:24.440Z",
+  "updatedAt": "2026-08-18T19:33:19.096Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,7 +9,7 @@
       "rank": 1,
       "keyword": "서장훈의 이웃집 백만장 자",
       "volumeLabel": "5000+",
-      "startedLabel": "5시간 전",
+      "startedLabel": "6시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 '박정희, 82만평 산 소유…\"여의도 규모\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
@@ -37,9 +37,9 @@
       "rank": 2,
       "keyword": "매미",
       "volumeLabel": "1000+",
-      "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "6시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '\"볶아먹자\" 중국인들, 샛강서 매미 유충 싹쓸이…\"한강공원 과태료 10만원\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -61,137 +61,13 @@
       ]
     },
     {
-      "id": "광화문광장",
+      "id": "사우-델",
       "rank": 3,
-      "keyword": "광화문광장",
+      "keyword": "사우 델",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '가습기살균제 피해자들 \"2기 사회적참사 특조위 필요\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "가습기살균제 피해자들 \"2기 사회적참사 특조위 필요\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260818085800004"
-        },
-        {
-          "title": "장례 대신 광화문 나온 가습기살균제 피해자들 \"대통령 면담 요구\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818132452074"
-        },
-        {
-          "title": "광장에 모인 가습기살균제 피해자들 “호흡기뿐 아니라 가족 삶도 무너졌다”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608172049005"
-        }
-      ]
-    },
-    {
-      "id": "로드리",
-      "rank": 4,
-      "keyword": "로드리",
-      "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '맨시티 떠나 바르샤로…로드리, 스페인 전격 복귀 \"여기서 뛰는 건 내 꿈\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "맨시티 떠나 바르샤로…로드리, 스페인 전격 복귀 \"여기서 뛰는 건 내 꿈\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/1Yn63T4qE2"
-        },
-        {
-          "title": "‘이적료 1067억으로 할인’ 로드리, 드디어 바르셀로나 도착 “꿈이 이뤄졌다!” - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/18/202608181642776602O"
-        },
-        {
-          "title": "'월드컵 골든볼' 로드리, 바르셀로나 도착…\"여기서 뛰는 게 내 꿈\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260818_0003752110"
-        }
-      ]
-    },
-    {
-      "id": "아빠-10년",
-      "rank": 5,
-      "keyword": "아빠 10년",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "신진서",
-      "rank": 6,
-      "keyword": "신진서",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '신진서, 몽백합배 세계바둑 8강 진출…중국 1위 딩하오와 격돌' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "신진서, 몽백합배 세계바둑 8강 진출…중국 1위 딩하오와 격돌",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260818166900007"
-        },
-        {
-          "title": "[GS칼텍스배 프로기전] 중국 세계대회 16강",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/U4zESy8Bya"
-        },
-        {
-          "title": "'몽백합배' 신진서 나홀로 16강행...우승상금과 일정 주목",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3666396"
-        }
-      ]
-    },
-    {
-      "id": "world-cup-schedule",
-      "rank": 7,
-      "keyword": "world cup schedule",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'The referee’s view of the World Cup final: Telling Messi to ‘control’ a…' (The New York Times) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "The referee’s view of the World Cup final: Telling Messi to ‘control’ a player and a ‘well done’ from Trump - The Athletic",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/athletic/7516859/2026/08/17/ref-cam-world-cup-final/"
-        },
-        {
-          "title": "After appealing to the World Cup final referee: Messi's team-mate returns to the \"dark arts\"",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en/news/after-appealing-to-the-world-cup-final-referee-messi-s-team-mate-returns-to-the-dark-arts/blt4f5c739fd4023ab0"
-        },
-        {
-          "title": "World Cup final referee's unheard plea to Lionel Messi exposed in new footage",
-          "source": "Daily Mirror",
-          "url": "https://www.mirror.co.uk/sport/football/news/world-cup-final-spain-argentina-37557969"
-        }
-      ]
-    },
-    {
-      "id": "사우델",
-      "rank": 8,
-      "keyword": "사우델",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-5",
       "summary": "급상승 시점에 '다발성 태풍에 기압계 '흔들'...호우 끝나면 또 '찜통'' (YTN) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -213,13 +89,109 @@
       ]
     },
     {
+      "id": "광화문광장",
+      "rank": 4,
+      "keyword": "광화문광장",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '가습기살균제 피해자들 \"2기 사회적참사 특조위 필요\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "가습기살균제 피해자들 \"2기 사회적참사 특조위 필요\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818122248958"
+        },
+        {
+          "title": "광화문 조문 시작한 가습기살균제 피해자들 “2기 특조위 꾸려야”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8639316"
+        },
+        {
+          "title": "광장에 모인 가습기살균제 피해자들 “호흡기뿐 아니라 가족 삶도 무너졌다”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608172049005"
+        }
+      ]
+    },
+    {
+      "id": "아빠-10년",
+      "rank": 5,
+      "keyword": "아빠 10년",
+      "volumeLabel": "200+",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "로드리",
+      "rank": 6,
+      "keyword": "로드리",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 '맨시티 떠나 바르샤로…로드리, 스페인 전격 복귀 \"여기서 뛰는 건 내 꿈\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "맨시티 떠나 바르샤로…로드리, 스페인 전격 복귀 \"여기서 뛰는 건 내 꿈\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/1Yn63T4qE2"
+        },
+        {
+          "title": "‘이적료 1067억으로 할인’ 로드리, 드디어 바르셀로나 도착 “꿈이 이뤄졌다!” - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/18/202608181642776602O"
+        },
+        {
+          "title": "'월드컵 골든볼' 로드리, 바르셀로나 도착…\"여기서 뛰는 게 내 꿈\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260818_0003752110"
+        }
+      ]
+    },
+    {
+      "id": "신진서",
+      "rank": 7,
+      "keyword": "신진서",
+      "volumeLabel": "200+",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '韓 바둑, 언제까지 신진서 '원맨쇼' 의존?…홀로 16강 분투' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "韓 바둑, 언제까지 신진서 '원맨쇼' 의존?…홀로 16강 분투",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/XlzxmoXSOZ"
+        },
+        {
+          "title": "신진서, 몽백합배 세계바둑 8강 진출…중국 1위 딩하오와 격돌",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260818166900007"
+        },
+        {
+          "title": "[GS칼텍스배 프로기전] 중국 세계대회 16강",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/sports/12130347"
+        }
+      ]
+    },
+    {
       "id": "mathilde-favier",
-      "rank": 9,
+      "rank": 8,
       "keyword": "mathilde favier",
       "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-3",
+      "startedLabel": "6시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 'Un des producteurs d'OSS 117 et une figure de Dior meurent dans un acci…' (ici.fr) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -241,13 +213,41 @@
       ]
     },
     {
+      "id": "world-cup-schedule",
+      "rank": 9,
+      "keyword": "world cup schedule",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 'The referee’s view of the World Cup final: Telling Messi to ‘control’ a…' (The New York Times) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "The referee’s view of the World Cup final: Telling Messi to ‘control’ a player and a ‘well done’ from Trump - The Athletic",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/7516859/2026/08/17/ref-cam-world-cup-final/"
+        },
+        {
+          "title": "After appealing to the World Cup final referee: Messi's team-mate returns to the \"dark arts\"",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/en/news/after-appealing-to-the-world-cup-final-referee-messi-s-team-mate-returns-to-the-dark-arts/blt4f5c739fd4023ab0"
+        },
+        {
+          "title": "World Cup final referee's unheard plea to Lionel Messi exposed in new footage",
+          "source": "Daily Mirror",
+          "url": "https://www.mirror.co.uk/sport/football/news/world-cup-final-spain-argentina-37557969"
+        }
+      ]
+    },
+    {
       "id": "mortgage-rates-today",
       "rank": 10,
       "keyword": "mortgage rates today",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-5",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 'Mortgage rates fall for first time in 6 weeks' (Fox Business) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
