@@ -1,111 +1,127 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-18T20:32:17.548Z",
+  "updatedAt": "2026-08-18T21:30:47.713Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "서장훈의-이웃집-백만장-자",
+      "id": "리브-골프",
       "rank": 1,
-      "keyword": "서장훈의 이웃집 백만장 자",
-      "volumeLabel": "5000+",
-      "startedLabel": "7시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '서장훈, 생애 첫 심마니 도전…40만원대 산양삼 직접 캤다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "리브 골프",
+      "volumeLabel": "20000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘쩐의전쟁’ 끝났다…7조원 쏟아부은 LIV골프, 결국 ‘돈’ 앞에 무릎' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "서장훈, 생애 첫 심마니 도전…40만원대 산양삼 직접 캤다",
+          "title": "‘쩐의전쟁’ 끝났다…7조원 쏟아부은 LIV골프, 결국 ‘돈’ 앞에 무릎",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260818153004537"
+          "url": "https://v.daum.net/v/20260818104713053"
         },
         {
-          "title": "서장훈·장예원, 생애 첫 심마니 도전…'82만 평' 산 주인 만난다 (백만장자)",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/515060"
-        },
-        {
-          "title": "'여의도 규모 山 주인' 박정희, \"눈에 보이는 건 다 내 땅\" (이웃집 백만장자) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/08/18/G4ZDIYZWMZSDQOBUHBSDANJUMQ/"
-        }
-      ]
-    },
-    {
-      "id": "매미",
-      "rank": 2,
-      "keyword": "매미",
-      "volumeLabel": "1000+",
-      "startedLabel": "7시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '\"볶아먹자\" 중국인들, 샛강서 매미 유충 싹쓸이…\"한강공원 과태료 10만원\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"볶아먹자\" 중국인들, 샛강서 매미 유충 싹쓸이…\"한강공원 과태료 10만원\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Zxfhn4sAYZ"
-        },
-        {
-          "title": "“통째로 담아가더라”…여의도 일대 매미 유충 채집에 서울시 ‘경고’",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/politics/12130653"
-        },
-        {
-          "title": "[자막뉴스] \"중국인들이 통 들고 매미 싹쓸이\" 한강공원 '습격'에 \"과태료 10만 원\" '비상작전'",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008709849"
-        }
-      ]
-    },
-    {
-      "id": "광화문광장",
-      "rank": 3,
-      "keyword": "광화문광장",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '가습기살균제 피해자들 \"2기 사회적참사 특조위 필요\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "가습기살균제 피해자들 \"2기 사회적참사 특조위 필요\"",
+          "title": "LIV 골프 시즌 마지막 대회 개인전 총상금, 절반 수준으로 축소",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260818085800004"
+          "url": "https://www.yna.co.kr/view/AKR20260819007600007"
         },
         {
-          "title": "장례 대신 광화문 나온 가습기살균제 피해자들 \"대통령 면담 요구\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818132452074"
-        },
-        {
-          "title": "광장에 모인 가습기살균제 피해자들 “호흡기뿐 아니라 가족 삶도 무너졌다”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608172049005"
+          "title": "'존폐 위기' LIV 골프, 미시간 대회 취소…시즌 조기 종료",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260818_0003751800"
         }
       ]
     },
     {
-      "id": "아빠-10년",
-      "rank": 4,
-      "keyword": "아빠 10년",
-      "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "id": "김하성",
+      "rank": 2,
+      "keyword": "김하성",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''ML 역사상 이런 선수는 없었다' 김하성, 역대 타율-장타율 최하위... '409억 FA'를 어쩌나' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": []
+      "newsSignals": [
+        {
+          "title": "'ML 역사상 이런 선수는 없었다' 김하성, 역대 타율-장타율 최하위... '409억 FA'를 어쩌나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818154809384"
+        },
+        {
+          "title": "애틀랜타, 미네소타에 2-4로 패배…김하성은 이틀 연속 결장",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260818_0003752541"
+        },
+        {
+          "title": "\"이제 김하성 더 내보내야\" 갑자기 웬일? 김하성 비난하던 美매체 태세전환…대체 왜?",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/08/18/MIYGCMRXGZSTANZRHFRDGN3FGA/"
+        }
+      ]
     },
     {
-      "id": "사우델",
+      "id": "천궁",
+      "rank": 3,
+      "keyword": "천궁",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"우크라에 천궁2 지원해야\" 국힘 의원 주장..러 보복에 무대책' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"우크라에 천궁2 지원해야\" 국힘 의원 주장..러 보복에 무대책",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/3Ts0XIb0cl"
+        },
+        {
+          "title": "유용원 \"우크라에 지대공유도무기 '천궁-Ⅱ' 지원 검토해야\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260818096600001"
+        },
+        {
+          "title": "우크라 \"러, 접경지 병력 북한군으로 대체 가능성…최대 2만 명\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260818_0003751940"
+        }
+      ]
+    },
+    {
+      "id": "파업",
+      "rank": 4,
+      "keyword": "파업",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“내 차 언제 나오나”…현대차 10년 만 ‘전면파업’ 현실로' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“내 차 언제 나오나”…현대차 10년 만 ‘전면파업’ 현실로",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819060141144"
+        },
+        {
+          "title": "'임협 난항' 현대차 노조, 10년 만에 전면파업한다(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260818159551057"
+        },
+        {
+          "title": "현대차 노사, 41일 만에 교섭 재개했지만 합의 실패",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260818_0003753225"
+        }
+      ]
+    },
+    {
+      "id": "사우-델",
       "rank": 5,
-      "keyword": "사우델",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
+      "keyword": "사우 델",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 '[태풍경로]17호 ‘낭카’ 소멸 18호 ‘사우델’ 촉각…한반도 날씨 변수 되나' (남도일보) 관련 뉴스가 함께 포착됐어요.",
@@ -129,13 +145,109 @@
       ]
     },
     {
-      "id": "반도체-메모리",
+      "id": "나는-solo-24기",
       "rank": 6,
-      "keyword": "반도체 메모리",
+      "keyword": "나는 solo 24기",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''출연료 미지급 폭로' 24기 옥순, 이번엔 \"유명 연예인에 번호 따였다\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'출연료 미지급 폭로' 24기 옥순, 이번엔 \"유명 연예인에 번호 따였다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/xlZ9oOB3TI"
+        },
+        {
+          "title": "출연료 미지급 피해 24기 옥순, 톱연예인에 번호 따였다 \"날 보며 깜짝 놀라\"",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260818n27968"
+        },
+        {
+          "title": "‘나는 솔로’ 24기 옥순 “유명 연예인에게 번호 따였다”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608181728003"
+        }
+      ]
+    },
+    {
+      "id": "박성현",
+      "rank": 7,
+      "keyword": "박성현",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“전장은 200야드 늘리고 페어웨이 폭은 좁혔다”…포천힐스CC, 메이저 대회 코스로 파격 변신' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“전장은 200야드 늘리고 페어웨이 폭은 좁혔다”…포천힐스CC, 메이저 대회 코스로 파격 변신",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818154809381"
+        },
+        {
+          "title": "숫자로 보는 ‘역사와 전통’의 KLPGA 챔피언십",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20260818/134496510/1"
+        },
+        {
+          "title": "박현경, 남다른 대회에서 3번째 우승 기대 [메이저 KLPGA챔피언십]",
+          "source": "골프한국",
+          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021556"
+        }
+      ]
+    },
+    {
+      "id": "의대생",
+      "rank": 8,
+      "keyword": "의대생",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "바둑",
+      "rank": 9,
+      "keyword": "바둑",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 '韓 바둑, 언제까지 신진서 '원맨쇼' 의존?…홀로 16강 분투' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "韓 바둑, 언제까지 신진서 '원맨쇼' 의존?…홀로 16강 분투",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/XlzxmoXSOZ"
+        },
+        {
+          "title": "신진서, 몽백합배 세계바둑 8강 진출…중국 1위 딩하오와 격돌",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260818166900007"
+        },
+        {
+          "title": "[GS칼텍스배 프로기전] 중국 세계대회 16강",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/sports/12130347"
+        }
+      ]
+    },
+    {
+      "id": "반도체-메모리",
+      "rank": 10,
+      "keyword": "반도체 메모리",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-4",
       "summary": "급상승 시점에 '“삼전, 애플처럼 고배당주로”… ‘200조’ 주주환원 기대감 솔솔' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -153,118 +265,6 @@
           "title": "[그래픽] 삼성전자·SK하이닉스 상반기 현금·현금성 자산",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/GYH20260817000600044"
-        }
-      ]
-    },
-    {
-      "id": "강유정",
-      "rank": 7,
-      "keyword": "강유정",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '李, ‘5·18 폄훼 포럼’ 겨냥 “피해자 조롱 제재해야”' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "李, ‘5·18 폄훼 포럼’ 겨냥 “피해자 조롱 제재해야”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819043410190"
-        },
-        {
-          "title": "이 대통령 \"특정 지역 비하 실질 제재 있어야\"‥5·18 폄훼 포럼 겨냥",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6845541_36911.html"
-        },
-        {
-          "title": "李대통령 “지역 비하·피해자 조롱 실질 제재해야”…‘혐오 표현’ 제제 예고",
-          "source": "www.dt.co.kr",
-          "url": "https://www.dt.co.kr/article/12078798"
-        }
-      ]
-    },
-    {
-      "id": "로드리",
-      "rank": 8,
-      "keyword": "로드리",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '맨시티 떠나 바르샤로…로드리, 스페인 전격 복귀 \"여기서 뛰는 건 내 꿈\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "맨시티 떠나 바르샤로…로드리, 스페인 전격 복귀 \"여기서 뛰는 건 내 꿈\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/1Yn63T4qE2"
-        },
-        {
-          "title": "‘이적료 1067억으로 할인’ 로드리, 드디어 바르셀로나 도착 “꿈이 이뤄졌다!” - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/18/202608181642776602O"
-        },
-        {
-          "title": "'월드컵 골든볼' 로드리, 바르셀로나 도착…\"여기서 뛰는 게 내 꿈\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260818_0003752110"
-        }
-      ]
-    },
-    {
-      "id": "world-cup-schedule",
-      "rank": 9,
-      "keyword": "world cup schedule",
-      "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'WBSC announces schedule of Blind Baseball International Cup 2026' (World Baseball Softball Confederation (WBSC)) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "WBSC announces schedule of Blind Baseball International Cup 2026",
-          "source": "World Baseball Softball Confederation (WBSC)",
-          "url": "https://www.wbsc.org/en/news/wbsc-announces-schedule-of-blind-baseball-international-cup-2026"
-        },
-        {
-          "title": "India's Hockey World Cup hopes take a hit after 4-2 loss to England",
-          "source": "ESPN India",
-          "url": "https://www.espn.in/field-hockey/story/_/id/49636733/india-england-live-hockey-world-cup-updates-scores-commentary-news-harmanpreet-singh"
-        },
-        {
-          "title": "India's Hockey World Cup 2026 qualification scenarios: What India need against Pakistan",
-          "source": "The Times of India",
-          "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/indias-hockey-world-cup-2026-qualification-scenarios-what-india-need-against-pakistan/articleshow/133311817.cms"
-        }
-      ]
-    },
-    {
-      "id": "mortgage-rates-today",
-      "rank": 10,
-      "keyword": "mortgage rates today",
-      "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'Mortgage rates fall for first time in 6 weeks' (Fox Business) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Mortgage rates fall for first time in 6 weeks",
-          "source": "Fox Business",
-          "url": "https://www.foxbusiness.com/economy/mortgage-rates-8-13-2026"
-        },
-        {
-          "title": "Mortgage Rates Today, August 18, 2026: 30-Year Refinance Rate Rises by 8 Basis Points",
-          "source": "Norada Real Estate Investments",
-          "url": "https://www.noradarealestate.com/blog/mortgage-refinance-rates-today-august-18-2026/"
-        },
-        {
-          "title": "Mortgage and refinance rates today, Monday, August 17, 2026: Purchase rates currently lower than refi rates",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-august-17-2026-purchase-rates-currently-lower-than-refi-rates-100000908.html"
         }
       ]
     }
