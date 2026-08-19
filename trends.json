@@ -1,281 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-19T11:32:32.292Z",
+  "updatedAt": "2026-08-19T13:00:49.015Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "청소차",
+      "id": "제니-의상사고-사진",
       "rank": 1,
-      "keyword": "청소차",
+      "keyword": "제니 의상사고 사진",
       "volumeLabel": "10000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '새벽 청소 나선 환경미화원 3명 교통사고로 사망‥청소차 덤프트럭 충돌' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[잇슈 컬처] 블랙핑크 제니 노출 사고? 일본 축제 무대서 ‘곤욕’' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "새벽 청소 나선 환경미화원 3명 교통사고로 사망‥청소차 덤프트럭 충돌",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6845706_36918.html"
-        },
-        {
-          "title": "영천서 덤프트럭·청소차 충돌…환경미화원 3명 숨져",
+          "title": "[잇슈 컬처] 블랙핑크 제니 노출 사고? 일본 축제 무대서 ‘곤욕’",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8640693"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8638870"
         },
         {
-          "title": "점멸 신호 깜박이는 교차로서 '쾅'...환경미화원 3명 사망 [자막뉴스]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202608191556385347"
+          "title": "제니 ‘노출 조작 영상’ 1250만뷰…소속사 칼 빼자 계정 닫혔다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819213707293"
+        },
+        {
+          "title": "[전문] 블랙핑크 제니, 결국 법적 대응…“악의적 편집, 선처 없다”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608182140003"
         }
       ]
     },
     {
-      "id": "키움-대-롯데",
+      "id": "모더나",
       "rank": 2,
-      "keyword": "키움 대 롯데",
-      "volumeLabel": "5000+",
+      "keyword": "모더나",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '믿기 힘들었던 7회 13점 폭격, 롯데 역사 새로 썼다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '머크, 모더나와 공동 개발한 mRNA 암 치료제 3상 임상 성공… 흑색종 재발 방지 효과 입증' (매일경제 마켓) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "믿기 힘들었던 7회 13점 폭격, 롯데 역사 새로 썼다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819140957699"
+          "title": "머크, 모더나와 공동 개발한 mRNA 암 치료제 3상 임상 성공… 흑색종 재발 방지 효과 입증",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1144938"
         },
         {
-          "title": "[엠빅뉴스] 8:0에서 집에 안 간 팬들께 바칩니다...튼동 이렇게 웃을 수 있었구나",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/original/mbig/6845765_29041.html"
+          "title": "모더나 흑색종 백신 임상 결과에 백신 주식 급등",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2067440"
         },
         {
-          "title": "“어제(17일)가 아버지 기일, 어머니께 꼭 인터뷰 하겠다고”…손성빈 집념의 10구 승부 결승타, 하늘 향한 사부곡이었다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/19/202608182255777509O"
+          "title": "머크·모더나 암백신 3상에서 긍정적 결과…모더나 주가 88% 급등",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608190698i"
         }
       ]
     },
     {
-      "id": "충남-아산-fc-대-대전",
+      "id": "윤석열",
       "rank": 3,
-      "keyword": "충남 아산 fc 대 대전",
+      "keyword": "윤석열",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '전북현대, 내일 전주성에서 코리아컵 16강전' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[속보] 특검, '계엄 관련 위증' 尹 2심서 벌금 1천만원 구형' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "전북현대, 내일 전주성에서 코리아컵 16강전",
+          "title": "[속보] 특검, '계엄 관련 위증' 尹 2심서 벌금 1천만원 구형",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260818202811847"
+          "url": "https://v.daum.net/v/H2G6WZRfGa"
         },
         {
-          "title": "K3 울산시민, 광주FC 제물로 ‘8강’ 도전",
-          "source": "경상일보",
-          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1064830"
+          "title": "'내란 '특검, '한덕수 재판 위증' 윤석열 2심 벌금 1천만 원 구형",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6845785_36918.html"
         },
         {
-          "title": "연패의 흐름을 되돌려라…전북, 당진시민구단과 코리아컵 16강",
+          "title": "'1심 무죄' 尹 위증혐의 2심 내달 16일 선고…벌금 1천만원 구형(종합)",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260818070700007"
+          "url": "https://www.yna.co.kr/view/AKR20260819111851004"
         }
       ]
     },
     {
-      "id": "장쯔이",
+      "id": "로봇",
       "rank": 4,
-      "keyword": "장쯔이",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '\"6억 넣었는데 100배 뛰었다\"…작품 아닌 투자로 635억 대박 난 中 여배우' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"6억 넣었는데 100배 뛰었다\"…작품 아닌 투자로 635억 대박 난 中 여배우",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026081910514289699"
-        },
-        {
-          "title": "장쯔이는 그녀의 마법 같은 손길 덕분에 4500만 달러를 벌어들였다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/chuong-tu-di-kiem-45-trieu-usd-nho-mat-tay"
-        }
-      ]
-    },
-    {
-      "id": "안양-대-제주",
-      "rank": 5,
-      "keyword": "안양 대 제주",
+      "keyword": "로봇",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“선두 서울 잡아야 산다”…‘3연패’ FC안양, 반등 정조준' (경기일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '中 높이뛰기 우승 로봇, 산업현장에… 시간당 택배 1200개 분류' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“선두 서울 잡아야 산다”…‘3연패’ FC안양, 반등 정조준",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260819580045"
-        },
-        {
-          "title": "'안양과 5일만 리턴매치' 세르지우 제주 감독 \"기회 못 받던 선수들, 굳게 믿는다\" 코리아컵 연승 다짐 [안양 현장] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/19/2026081918232448965"
-        },
-        {
-          "title": "주도하는 축구, 냉철한 영입 판단부터 빈틈없는 스쿼드 관리까지…‘벤투의 오른팔’ 세르지우 코스타 감독의 리더십, 월드컵 휴식기 이후 ‘유일한 8경기 연속 무패’ 제주를 만들었다",
+          "title": "中 높이뛰기 우승 로봇, 산업현장에… 시간당 택배 1200개 분류",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260818210151519"
-        }
-      ]
-    },
-    {
-      "id": "kbs-1tv-일일-드라마",
-      "rank": 6,
-      "keyword": "kbs 1tv 일일 드라마",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 '정민아·동하 주연 KBS 일일드라마 '엄마가 미쳤어요' 다음 달 첫 방송' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "정민아·동하 주연 KBS 일일드라마 '엄마가 미쳤어요' 다음 달 첫 방송",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819105307586"
+          "url": "https://v.daum.net/v/20260819043610254"
         },
         {
-          "title": "KBS1 새 일일드라마 '엄마가 미쳤어요' 9월 첫 방송",
+          "title": "[르포] 걷고 춤추던 로봇, 산업현장 주인공으로…中로봇 '쓸모경쟁'",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260819045900005"
+          "url": "https://www.yna.co.kr/view/AKR20260819164000083"
         },
         {
-          "title": "KBS 새 일일극 ‘엄마가 미쳤어요’, 정민아·동하·김희정·강경헌 출연… 9월 첫 방송",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260819500547"
+          "title": "탁구·요리·택배도 사람 이긴 中 휴머노이드, 베이징 총출동[영상] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/08/19/2026081915483193812"
         }
       ]
     },
     {
-      "id": "정국",
-      "rank": 7,
-      "keyword": "정국",
+      "id": "야구여왕",
+      "rank": 5,
+      "keyword": "야구여왕",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"완벽한 보컬 선사\" 방탄소년단 정국 'Like Animals' 무대, 美 빌보드 극찬' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''야구여왕2' 온라인 화제성·오프라인 직관까지…팬심↑' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"완벽한 보컬 선사\" 방탄소년단 정국 'Like Animals' 무대, 美 빌보드 극찬",
+          "title": "'야구여왕2' 온라인 화제성·오프라인 직관까지…팬심↑",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260819070409198"
+          "url": "https://v.daum.net/v/20260819081950543"
         },
         {
-          "title": "방탄소년단 정국, 글로벌 행보 속 ‘Seven’ 롱런…브랜드 반응도 확장",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16164816"
+          "title": "추신수도 긴장한 대만 에이스 등장…“상대했던 어떤 투수보다 압도적” (야구여왕2)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260819/134503222/1"
         },
         {
-          "title": "방탄소년단 정국, 빌보드가 꼽은 ‘Like Animals’ 라이브…글로벌 팬 홀렸다",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16166916"
+          "title": "‘야구여왕2’ 인기 쑥쑥…직관 이벤트 대박!",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608180741003"
         }
       ]
     },
     {
-      "id": "발레바",
-      "rank": 8,
-      "keyword": "발레바",
+      "id": "활주로",
+      "rank": 6,
+      "keyword": "활주로",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '절망 그 자체…'맨체스터 유나이티드 가고 싶다' 꿈의 이적 좌절, 관심 완전히 사라졌다→뉴캐슬이 러브콜! \"이적료 1250억 예…' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '긴급발진 마치고 착륙하다 ‘휘청’…일본 F-15 날개 활주로에 닿아 [현장영상]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "절망 그 자체…'맨체스터 유나이티드 가고 싶다' 꿈의 이적 좌절, 관심 완전히 사라졌다→뉴캐슬이 러브콜! \"이적료 1250억 예상\"",
+          "title": "긴급발진 마치고 착륙하다 ‘휘청’…일본 F-15 날개 활주로에 닿아 [현장영상]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260817223449966?f=p"
+          "url": "https://v.daum.net/v/20260819142413452"
         },
         {
-          "title": "'이럴 수가' 펩 떠나고 중원 완전 엑소더스 위기!…한국 왔던 바르사 유스 출신도 떠날 가능성 상승 \"뉴캐슬과 협상 시작\"",
-          "source": "마이데일리",
-          "url": "https://www.mydaily.co.kr/page/view/2026081909511553262"
+          "title": "日오키나와 나하공항 활주로서 자위대 F-15 긴급착륙…활주로 폐쇄",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260818_0003752850"
         },
         {
-          "title": "맨유는 완전히 영입에 손 뗐다→발레바, 뉴캐슬행 급물살 \"토날리-기마랑이스 대체자로 낙점돼\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260817n10254?mid=s0106&isq=10567"
+          "title": "일본 F-15J 전투기의 착륙 장치가 파손되면서 활주로에서 180도 회전했다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/tiem-kich-f-15j-nhat-ban-sap-cang-xoay-180-do-tren-duong-bang"
         }
       ]
     },
     {
-      "id": "전국노래자랑",
-      "rank": 9,
-      "keyword": "전국노래자랑",
+      "id": "의료",
+      "rank": 7,
+      "keyword": "의료",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘전국노래자랑’ 김다나, 오프닝 화려하게 장식' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"엑스레이로 골다공증 찾고, 반지로 혈압 측정\"…AI와 헬스케어의 만남' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘전국노래자랑’ 김다나, 오프닝 화려하게 장식",
+          "title": "\"엑스레이로 골다공증 찾고, 반지로 혈압 측정\"…AI와 헬스케어의 만남",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260817172444346"
+          "url": "https://v.daum.net/v/20260819180251337"
         },
         {
-          "title": "박현호, 신곡 '한잔하러 갑시다' 들고 팬들 곁으로 돌아온다.",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260816n11320"
+          "title": "2026 국제 병원의료산업 박람회",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8062723"
         },
         {
-          "title": "이재욱, 무대서 강승연에 ‘깜짝 프러포즈’… “따님을 제게 주십시오” (‘전국노래자랑’)",
-          "source": "TV리포트",
-          "url": "https://tvreport.co.kr/uncategorized/article/1069108/"
+          "title": "대웅제약, 디지털 헬스케어 솔루션 ‘대웅 얼라이언스’ 공개",
+          "source": "팜이데일리",
+          "url": "https://pharm.edaily.co.kr/News/Read?newsId=03037286645548960"
         }
       ]
     },
     {
-      "id": "인시디어스",
-      "rank": 10,
-      "keyword": "인시디어스",
+      "id": "전북현대",
+      "rank": 8,
+      "keyword": "전북현대",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '늦여름 극장가 점령한 호러 '인시디어스'·'위커맨'' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''닥공하니 수비가 두 경기 연속 3실점 와르르' 2연패 전북 현대, 감독의 '게임 플랜'이 꼬이고 있다..'팬들은 정정용을 의심…' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "늦여름 극장가 점령한 호러 '인시디어스'·'위커맨'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6845679_37012.html"
+          "title": "'닥공하니 수비가 두 경기 연속 3실점 와르르' 2연패 전북 현대, 감독의 '게임 플랜'이 꼬이고 있다..'팬들은 정정용을 의심하기 시작했다'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/08/19/HA2DOZLFMRSDAMZYMI4WMZRYHA/"
         },
         {
-          "title": "225억으로 '2669억' 번 레전드 공포 작품…역대 악령 총출동하며 새롭게 탄생 ('인시디어스')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818185854724"
+          "title": "“정정용 나가라” “1부 승격 어게인”…‘K리그 사령탑 엇갈린 ‘흙수저 신화’",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/sport/soccer/2026/08/19/20260819034003"
         },
         {
-          "title": "‘백룸’ 만든 그들이 돌아왔다…이 여름 마지막 공포",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10842864"
+          "title": "늪에 빠진 전북, 정정용 감독만 위기 아니다…시스템 자체 의심해야, 단장-테크니컬 디렉터도 시험대에[SS포커스]",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1628991"
+        }
+      ]
+    },
+    {
+      "id": "빅뱅-콘서트",
+      "rank": 9,
+      "keyword": "빅뱅 콘서트",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '빅뱅 콘서트 기간 동안 하노이행 항공권 가격이 오르고 호텔 객실이 부족해지고 있다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "빅뱅 콘서트 기간 동안 하노이행 항공권 가격이 오르고 호텔 객실이 부족해지고 있다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/gia-ve-may-bay-den-ha-noi-tang-khach-san-khan-phong-dip-concert-bigbang"
+        },
+        {
+          "title": "빅뱅 2일 밤 티켓 매진, 암표상 가격 인하 시작",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/giai-tri/ve-bigbang-dem-2-ban-sach-phe-ve-bat-dau-ha-gia-1751082.ldo"
+        },
+        {
+          "title": "'빅뱅 콘서트' 앞두고 하노이, 항공비 껑충 뛰고 호텔 벌써 만실",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026081115100000785"
+        }
+      ]
+    },
+    {
+      "id": "pakistan-vs-england",
+      "rank": 10,
+      "keyword": "pakistan vs england",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'England vs Pakistan LIVE: First Test, day one, Headingley - cricket sco…' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "England vs Pakistan LIVE: First Test, day one, Headingley - cricket score, radio & video highlights",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/cricket/live/cj0vmzpve57t"
+        },
+        {
+          "title": "England enter post-Bazball era against forever-in-turmoil Pakistan",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/pakistan-tour-in-england-2026-1496563/england-vs-pakistan-1st-test-1496582/match-preview"
+        },
+        {
+          "title": "LIVE - Pakistan in front as England enter post-Bazball era",
+          "source": "Cricinfo",
+          "url": "https://www.espncricinfo.com/series/pakistan-tour-in-england-2026-1496563/england-vs-pakistan-1st-test-1496582/live-match-blog-1"
         }
       ]
     }
