@@ -1,17 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-19T07:48:40.339Z",
+  "updatedAt": "2026-08-19T08:47:12.535Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
       "id": "이호선-상담소",
       "rank": 1,
       "keyword": "이호선 상담소",
-      "volumeLabel": "5000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "20000+",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '\"아이는 또 낳으면 되니까\"…물에 빠진 아들 구조하다 나와버린 엄마' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,13 +33,125 @@
       ]
     },
     {
-      "id": "혼다-마린",
+      "id": "하이닉스",
       "rank": 2,
-      "keyword": "혼다 마린",
-      "volumeLabel": "1000+",
+      "keyword": "하이닉스",
+      "volumeLabel": "10000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '삼성전자·SK하이닉스 동반 급락…하이닉스 40조원 자사주 소각' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "삼성전자·SK하이닉스 동반 급락…하이닉스 40조원 자사주 소각",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819161307499"
+        },
+        {
+          "title": "[속보] SK하이닉스 40조원 자사주 취득…“소각 통해 주주가치 제고”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12131228"
+        },
+        {
+          "title": "[속보] SK하이닉스, 40조 자사주 매입·소각…배당 확대 검토",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1273608.html"
+        }
+      ]
+    },
+    {
+      "id": "이동국",
+      "rank": 3,
+      "keyword": "이동국",
+      "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[단독] 도메네크 토렌트, 축구대표팀 임시 감독 서류 전형 통과…모레 면접' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[단독] 도메네크 토렌트, 축구대표팀 임시 감독 서류 전형 통과…모레 면접",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8639326"
+        },
+        {
+          "title": "'한국 임시 감독 떨어져도' 갈 곳은 많다...'서류 전형 탈락' 포옛, 알제리-폴란드-남아공 대표팀 관심 한 몸에",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819161240478"
+        },
+        {
+          "title": "5명 중 셋은 스페인 출신‥'모레부터 온라인 면접'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6845596_37004.html"
+        }
+      ]
+    },
+    {
+      "id": "백록담",
+      "rank": 4,
+      "keyword": "백록담",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '백록담 물 몰래 먹는 밤도깨비족 꼼짝 마!···한라산에 열화상 카메라 단 드론 뜬다' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "백록담 물 몰래 먹는 밤도깨비족 꼼짝 마!···한라산에 열화상 카메라 단 드론 뜬다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608191129001"
+        },
+        {
+          "title": "새벽에 백록담 물 떠먹고 인증샷 몰상식 탐방객.. 열화상 AI 드론으로 잡는다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819110354257"
+        },
+        {
+          "title": "제주 한라산 야간 불법 야영·무단출입 드론으로 잡는다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260819052700056"
+        }
+      ]
+    },
+    {
+      "id": "기아",
+      "rank": 5,
+      "keyword": "기아",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '기아 무브 앤 커넥트 2기 공모…돌봄기관에 전기차 17대 지원' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "기아 무브 앤 커넥트 2기 공모…돌봄기관에 전기차 17대 지원",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819120529658"
+        },
+        {
+          "title": "기아 전기차, 이동 약자 대상 전기차 지원 사업 전개",
+          "source": "데일리한국",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1396971"
+        },
+        {
+          "title": "‘Kia Move & Connect 2기’ 공모… 아동·다문화·발달장애인·노인 돌봄기관에 전기차 17대 지원",
+          "source": "충북데일리",
+          "url": "https://www.cbdaily.co.kr/news/article.html?no=63208"
+        }
+      ]
+    },
+    {
+      "id": "혼다-마린",
+      "rank": 6,
+      "keyword": "혼다 마린",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-4",
       "summary": "급상승 시점에 '日피겨 여신 다리에 선명한 멍자국... 열도가 깜짝! \"맹훈련, 너무 아프겠지만...\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -61,207 +173,39 @@
       ]
     },
     {
-      "id": "이의리",
-      "rank": 3,
-      "keyword": "이의리",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'KIA 3연승, 네일·이의리만 빛난 게 아니다…베테랑 안방마님의 진심 \"하위권 팀처럼 야구하면 안 되잖아요\" [대전 인터뷰]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "KIA 3연승, 네일·이의리만 빛난 게 아니다…베테랑 안방마님의 진심 \"하위권 팀처럼 야구하면 안 되잖아요\" [대전 인터뷰]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819123507417"
-        },
-        {
-          "title": "김도영 폭탄발언급 \"올해는 완벽한 시즌 아냐, 홈런 개수 의미 없다\" 왜? - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/19/2026081913324794009"
-        },
-        {
-          "title": "'ERA 9.42→1.46 환골탈태' 도대체 뭐가 달라졌길래…이의리가 직접 밝혔다",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112859639"
-        }
-      ]
-    },
-    {
-      "id": "승무원",
-      "rank": 4,
-      "keyword": "승무원",
-      "volumeLabel": "200+",
+      "id": "정승민",
+      "rank": 7,
+      "keyword": "정승민",
+      "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '아이들과 케이크 만들고 웃음꽃...에어프레미아 승무원의 특별한 나눔' (ER 이코노믹리뷰) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '장윤주 딸, 아빠 정승민과 영국 근황 '엄마인 줄'..길쭉길쭉 감탄' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "아이들과 케이크 만들고 웃음꽃...에어프레미아 승무원의 특별한 나눔",
-          "source": "ER 이코노믹리뷰",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=748352"
-        },
-        {
-          "title": "[나눔] 에어프레미아, 보육원 봉사·농심, 경남 호우 구호 外",
-          "source": "싱글리스트",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=759677"
-        },
-        {
-          "title": "에어프레미아, 아이들과 함께 만들고 나누는 사회공헌활동",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608198621P"
-        }
-      ]
-    },
-    {
-      "id": "우성빈",
-      "rank": 5,
-      "keyword": "우성빈",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '기장군수·국힘 군의원 갈등 악화…이번엔 국비사업 중단 두고 격돌' (국제신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "기장군수·국힘 군의원 갈등 악화…이번엔 국비사업 중단 두고 격돌",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260819.22008005061"
-        },
-        {
-          "title": "\"160억 스마트도시 사업 왜 포기했나\"…박종철, 우성빈 군수에 공개 설명 촉구",
+          "title": "장윤주 딸, 아빠 정승민과 영국 근황 '엄마인 줄'..길쭉길쭉 감탄",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260818111501723"
+          "url": "https://v.daum.net/v/xCvSAOB3Ss"
         },
         {
-          "title": "박종철 부산시의원 \"160억 기장 스마트도시 사업 중단은 잘못된 판단\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/busan-gyeongnam/6261701"
+          "title": "장윤주, 결혼 12년째 백주대낮 ♥남편과 키스…9세 딸과는 덤블링까지",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/entertain/12130755"
+        },
+        {
+          "title": "장윤주 딸, 母 닮은 모델 비율 자랑…♥정승민과 다정한 부녀 일상",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608191059013"
         }
       ]
     },
     {
-      "id": "백성현",
-      "rank": 6,
-      "keyword": "백성현",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''명함 넣은 명절선물' 백성현 논산시장 1심서 당선무효형(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'명함 넣은 명절선물' 백성현 논산시장 1심서 당선무효형(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819151558213"
-        },
-        {
-          "title": "명절선물 돌린 백성현 논산시장 ‘당선무효형’···1심 벌금 150만원",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608191410001"
-        },
-        {
-          "title": "설·추석 명절 선물에 '명함 동봉'한 백성현 논산시장, 벌금 150만원",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260819_0003754470"
-        }
-      ]
-    },
-    {
-      "id": "전국장애인차별철폐연대",
-      "rank": 7,
-      "keyword": "전국장애인차별철폐연대",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '전장연, 출근길 지하철 탑승시위 중단하기로…박홍근 “장애인 예산 검토할것”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "전장연, 출근길 지하철 탑승시위 중단하기로…박홍근 “장애인 예산 검토할것”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608191605001"
-        },
-        {
-          "title": "전장연, ‘매일 출근길 지하철 시위’ 중단..기획예산처 “협의 진행”",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260819580333"
-        },
-        {
-          "title": "4호선 무정차 통과안내, 발길 돌리는 시민들",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260818026800013"
-        }
-      ]
-    },
-    {
-      "id": "조태용",
+      "id": "경제-위기",
       "rank": 8,
-      "keyword": "조태용",
+      "keyword": "경제 위기",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '‘비화폰 증거인멸·계엄 위증’ 조태용, 2심 징역 2년 6개월…형량 1년 늘어' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘비화폰 증거인멸·계엄 위증’ 조태용, 2심 징역 2년 6개월…형량 1년 늘어",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8640457"
-        },
-        {
-          "title": "與, 조태용 위증 혐의 2심 유죄에 \"권력 방패막이 된 국정원 참담해\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260819_0003754739"
-        },
-        {
-          "title": "\"윤석열 탄핵 저지 위해 홍장원 거짓말 몰이\"... 조태용 징역 2년 6개월",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819125250693"
-        }
-      ]
-    },
-    {
-      "id": "band",
-      "rank": 9,
-      "keyword": "band",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Frank Beard, Beardless Drummer for ZZ Top, Dies at 77' (The New York Times) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Frank Beard, Beardless Drummer for ZZ Top, Dies at 77",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/18/arts/music/frank-beard-zz-top-dead.html"
-        },
-        {
-          "title": "ZZ Top drummer Frank Beard exits tour after health issues",
-          "source": "USA Today",
-          "url": "https://www.usatoday.com/story/entertainment/music/2026/08/11/zz-top-frank-beard-health-issues-members/91253125007/"
-        },
-        {
-          "title": "ZZ Top Drummer Frank Beard Facing Health Issues Following Show Cancellation",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/zz-top-frank-beard-health-show-cancellation-1235606586/"
-        }
-      ]
-    },
-    {
-      "id": "경제위기",
-      "rank": 10,
-      "keyword": "경제위기",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 '“이미 경제위기, 서민 삶 붕괴되고 있다”...디젤값이 폭등하면 벌어지는 일' (매일경제) 관련 뉴스가 함께 포착됐어요.",
@@ -273,14 +217,70 @@
           "url": "https://www.mk.co.kr/news/economy/12130828"
         },
         {
-          "title": "美경유가, 사상 최고치 근접…물류·농업부터 산업계 전반 타격",
+          "title": "갤런 당 4달러 넘은 휘발유…미국 에너지장관 “며칠 내 업계 지원책 발표”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260819105952944"
+          "url": "https://v.daum.net/v/pmZK4oXSS6"
         },
         {
-          "title": "미 에너지장관 \"며칠내 정유업계 지원책 발표\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260818098800009"
+          "title": "미 디젤값 폭등에 경제 '휘청'...중간선거 앞둔 트럼프에 대형 악재",
+          "source": "YTN",
+          "url": "https://m.ytn.co.kr/news_view.php?key=202608190928451888&s_mcd=0104"
+        }
+      ]
+    },
+    {
+      "id": "신안산선",
+      "rank": 9,
+      "keyword": "신안산선",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '신안산선 광명구간 내달 공사 재개…주민·시·시공사, 안전선언' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "신안산선 광명구간 내달 공사 재개…주민·시·시공사, 안전선언",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/56fUaQhDtS"
+        },
+        {
+          "title": "[패트롤] 광명시-부천시-시흥시-안산시-안양시",
+          "source": "에너지경제신문",
+          "url": ""
+        },
+        {
+          "title": "‘붕괴사고’ 광명 신안산선, 시민이 안전 챙긴다···“공사 전 과정 점검에 시민 참여”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608181632001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+        }
+      ]
+    },
+    {
+      "id": "승무원",
+      "rank": 10,
+      "keyword": "승무원",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-6",
+      "summary": "급상승 시점에 '하늘에서 일하는 승무원·조종사, ‘방사선 관련 암’ 사망 1·2위 [건강팩트체크]' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "하늘에서 일하는 승무원·조종사, ‘방사선 관련 암’ 사망 1·2위 [건강팩트체크]",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/It/article/all/20260818/134495438/2"
+        },
+        {
+          "title": "일반인보다 방사선 15배…항공 승무원·조종사의 '숨은 위험'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026081900937"
+        },
+        {
+          "title": "항공기 조종사·승무원, 방사선 원인 암 잘 걸린다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260819_0003753987"
         }
       ]
     }
