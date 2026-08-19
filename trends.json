@@ -1,129 +1,73 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-19T01:44:46.121Z",
+  "updatedAt": "2026-08-19T03:05:21.112Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "동아일보",
+      "id": "트럭",
       "rank": 1,
-      "keyword": "동아일보",
-      "volumeLabel": "2000+",
+      "keyword": "트럭",
+      "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''친청계 3명' 갈등 우려에 박지원 \"황금분할, 김민석 독주 막을 장치\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '환경미화원 3명 새벽 청소 나섰다 참변…청소차·덤프트럭 충돌(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'친청계 3명' 갈등 우려에 박지원 \"황금분할, 김민석 독주 막을 장치\"",
+          "title": "환경미화원 3명 새벽 청소 나섰다 참변…청소차·덤프트럭 충돌(종합)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260819095259418"
+          "url": "https://v.daum.net/v/20260819072850514"
         },
         {
-          "title": "[뷰리핑] 김민석, 친명·호남 업고 기반 구축",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1273508.html"
+          "title": "영천서 덤프트럭·생활폐기물 수거차량 충돌···업체 직원 3명 숨져",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608190802011"
         },
         {
-          "title": "정청래 “민주당 탈당말라…최민희·이성윤·한민수 당선은 소중한 성과”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11610246"
-        }
-      ]
-    },
-    {
-      "id": "이상민",
-      "rank": 2,
-      "keyword": "이상민",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독]이상민, 결혼 1년 만에 확 달라졌다..\"아내, 날 바꾼 유일한 사람\" [인터뷰②]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[단독]이상민, 결혼 1년 만에 확 달라졌다..\"아내, 날 바꾼 유일한 사람\" [인터뷰②]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819063117685"
-        },
-        {
-          "title": "[단독]\"70억 빚 갚고 나니 더 힘들어\"..이상민, 아이돌 제작 뛰어든 이유 [인터뷰①]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819063114684"
-        },
-        {
-          "title": "‘70억 빚 청산’ 이상민 또? ‘음신’+C.I.V.A 멤버 만났다 (이상민 입장)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260813/134469478/1"
+          "title": "경북 영천에서 덤프트럭·청소차 충돌‥환경미화원 3명 사망",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6845648_36918.html"
         }
       ]
     },
     {
       "id": "왕즈이",
-      "rank": 3,
+      "rank": 2,
       "keyword": "왕즈이",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '안세영, 승자의 품격은 이렇게...41분만의 승리 후 상대 향한 존중 “까다로운 경기, 좋은 경기에 감사\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '[아시안게임] ③'최강' 안세영 뜬다…배드민턴, 24년 만의 최고 성적 겨냥' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "안세영, 승자의 품격은 이렇게...41분만의 승리 후 상대 향한 존중 “까다로운 경기, 좋은 경기에 감사\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/2eIYf6IkuC"
-        },
-        {
           "title": "[아시안게임] ③'최강' 안세영 뜬다…배드민턴, 24년 만의 최고 성적 겨냥",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260818074800007"
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819073201576"
         },
         {
           "title": "한 달 만의 부상 복귀전‥'100%는 아니어도 승리'",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6845317_37004.html"
-        }
-      ]
-    },
-    {
-      "id": "배드민턴",
-      "rank": 4,
-      "keyword": "배드민턴",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '강진군, 전국 초등학교 배드민턴 유망주 모이는 2026 전국학교대항배드민턴선수권대회 개최 > 뉴스' (더코리아) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "강진군, 전국 초등학교 배드민턴 유망주 모이는 2026 전국학교대항배드민턴선수권대회 개최 > 뉴스",
-          "source": "더코리아",
-          "url": ""
         },
         {
-          "title": "작은 라켓, 큰 꿈··· 전국 배드민턴 꿈나무 강진에",
-          "source": "K-Classic News",
-          "url": "https://www.kclassicnews.com/news/article.html?no=222809"
-        },
-        {
-          "title": "강진군, '2026 전국학교대항 배드민턴대회' 개최…초등부 84개 팀 참가",
-          "source": "매일일보",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=1403530"
+          "title": "'부상 복귀' 안세영, 세계선수권 32강 진출",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260818_0002214300"
         }
       ]
     },
     {
       "id": "투싼",
-      "rank": 5,
+      "rank": 3,
       "keyword": "투싼",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+2",
       "summary": "급상승 시점에 '현대차, 디 올 뉴 투싼 디자인 공개 | 뉴스 | 현대자동차그룹' (Hyundai Motor Group) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -145,41 +89,41 @@
       ]
     },
     {
-      "id": "사이드카",
-      "rank": 6,
-      "keyword": "사이드카",
+      "id": "유니트리",
+      "rank": 4,
+      "keyword": "유니트리",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '코스피 6% 넘게 급락하며 6,400까지 밀려‥장초반 매도 사이드카' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '중국 로봇 기업 유니트리, 커촹반 전격 상장…12조 원대 '최대 로봇 IPO'' (전자신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "코스피 6% 넘게 급락하며 6,400까지 밀려‥장초반 매도 사이드카",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6845694_36932.html"
+          "title": "중국 로봇 기업 유니트리, 커촹반 전격 상장…12조 원대 '최대 로봇 IPO'",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260819000046"
         },
         {
-          "title": "[속보]코스피, 6% 급락에 매도 사이드카…국채금리 급등 여파",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608190917001"
-        },
-        {
-          "title": "반도체주 또 출렁…삼전닉스, 장 초반 7~9% 급락",
+          "title": "'中휴머노이드 대표주자' 유니트리 상장 첫날 주가 400%대 급등",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260819093026267"
+          "url": "https://v.daum.net/v/20260819112644552"
+        },
+        {
+          "title": "‘우사인 볼트’도 제쳤다…中유니트리, 신제품 ‘초인’ 공개 (영상)",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/It/article/all/20260818/134496585/2"
         }
       ]
     },
     {
       "id": "나가노-메이",
-      "rank": 7,
+      "rank": 5,
       "keyword": "나가노 메이",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+2",
       "summary": "급상승 시점에 ''불륜 의혹' 女배우, 드라마 복귀 선언→프로듀서 참여...반응 '술렁' [MHN:글로벌]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -201,13 +145,125 @@
       ]
     },
     {
-      "id": "화이트삭스-대-컵스",
-      "rank": 8,
-      "keyword": "화이트삭스 대 컵스",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "id": "영등포구",
+      "rank": 6,
+      "keyword": "영등포구",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[동정] 이병선 속초시장 외' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[동정] 이병선 속초시장 외",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819000650788"
+        },
+        {
+          "title": "한울본부, 민ㆍ관ㆍ군ㆍ경ㆍ소방 통합방호훈련 시행",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260819500601"
+        },
+        {
+          "title": "울산 을지연습 돌입…91개 기관 참여",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8639817"
+        }
+      ]
+    },
+    {
+      "id": "사이드카",
+      "rank": 7,
+      "keyword": "사이드카",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '코스피 6% 넘게 급락하며 6,400까지 밀려‥장초반 매도 사이드카' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "코스피 6% 넘게 급락하며 6,400까지 밀려‥장초반 매도 사이드카",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6845694_36932.html"
+        },
+        {
+          "title": "“요며칠 조금 오르나 싶더니 또”…삼전닉스, 6~8%대 동반 급락",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1144614"
+        },
+        {
+          "title": "주요국 국채 금리 급등 여파에 코스피 급락…외국인 순매도",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819113750168"
+        }
+      ]
+    },
+    {
+      "id": "이스타항공",
+      "rank": 8,
+      "keyword": "이스타항공",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '한국서 갈아타는 중국인 74% 급증… 제주항공 환승객 10만 명 넘었다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "한국서 갈아타는 중국인 74% 급증… 제주항공 환승객 10만 명 넘었다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818100003433"
+        },
+        {
+          "title": "상반기 中 노선 탑승객 954만명 역대 두번째…2000만 첫 돌파 예약",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/industry/general-industry/6262215"
+        },
+        {
+          "title": "제주항공 국제선 환승객 10만명 돌파…중국인 4명 중 1명",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=841779"
+        }
+      ]
+    },
+    {
+      "id": "안태준",
+      "rank": 9,
+      "keyword": "안태준",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '개인택시 ‘5년 족쇄’ 푼다…안태준 의원, 단기 차익거래 막는 안전장치 발의' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "개인택시 ‘5년 족쇄’ 푼다…안태준 의원, 단기 차익거래 막는 안전장치 발의",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qDd5KdyOvl"
+        },
+        {
+          "title": "안태준 의원, '택시발전법 개정안' 대표 발의",
+          "source": "뉴스투데이24",
+          "url": ""
+        },
+        {
+          "title": "개인택시 ‘5년 양도제한’ 폐지 수순…‘3년 재취득 금지’에 면허값 상승 압력",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=347916"
+        }
+      ]
+    },
+    {
+      "id": "화이트삭스-대-컵스",
+      "rank": 10,
+      "keyword": "화이트삭스 대 컵스",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '\"이런 선수 본 적이 없다\" 오타니 시대 끝났나, 멀티포 치고 묻히다니…컵스 슈퍼스타가 MVP 1순위' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -225,62 +281,6 @@
           "title": "[MLB] CHC 크로우-암스트롱, 연장 끝내기 2점포…2년 연속 30-30클럽 가입",
           "source": "뉴스핌",
           "url": "https://www.newspim.com/news/view/20260818001251"
-        }
-      ]
-    },
-    {
-      "id": "경주기행",
-      "rank": 9,
-      "keyword": "경주기행",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '비극 속 유머와 통쾌한 복수극…영화 ‘경주기행’의 네 모녀' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "비극 속 유머와 통쾌한 복수극…영화 ‘경주기행’의 네 모녀",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818173058012"
-        },
-        {
-          "title": "공효진→유해진, 올추석 제2의 '왕사남'은? 9월 韓영화 우르르 [시네마 리포트] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/19/2026081907307250046"
-        },
-        {
-          "title": "호평 일색 '경주기행', 개봉 앞두고 韓영화 중 예매율 1위",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/movie/2026/08/18/HFSTQMTBGAYTCNLGMYYDIYRXME/"
-        }
-      ]
-    },
-    {
-      "id": "3기-신도시",
-      "rank": 10,
-      "keyword": "3기 신도시",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '이민근 안산시장 “3기 신도시 시민 불편 최소화”…관계기관 협력 강화' (뉴스타운) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "이민근 안산시장 “3기 신도시 시민 불편 최소화”…관계기관 협력 강화",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=712803"
-        },
-        {
-          "title": "안산시-경기주택도시공사-안산도시공사, ‘3기 신도시 사업 현황’ 공유",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260818500308"
-        },
-        {
-          "title": "안산시, 3기 신도시 협업 TF 가동…시민 불편 최소화",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1679184/%EC%95%88%EC%82%B0%EC%8B%9C-3%EA%B8%B0-%EC%8B%A0%EB%8F%84%EC%8B%9C-%ED%98%91%EC%97%85-TF-%EA%B0%80%EB%8F%99%EC%8B%9C-2026"
         }
       ]
     }
