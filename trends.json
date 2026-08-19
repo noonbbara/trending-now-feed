@@ -1,62 +1,62 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-19T08:47:12.535Z",
+  "updatedAt": "2026-08-19T09:40:54.434Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "이호선-상담소",
+      "id": "000660",
       "rank": 1,
-      "keyword": "이호선 상담소",
-      "volumeLabel": "20000+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '\"아이는 또 낳으면 되니까\"…물에 빠진 아들 구조하다 나와버린 엄마' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"아이는 또 낳으면 되니까\"…물에 빠진 아들 구조하다 나와버린 엄마",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6262601"
-        },
-        {
-          "title": "아들 물에 빠졌는데 \"애는 또 낳으면 돼\"...도망친 엄마 속내에 '충격' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/19/2026081823005868839"
-        },
-        {
-          "title": "“차라리 고아였으면”…母와 관계 버거운 34세 아들에 이호선 “3년 연락 끊어라”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20260819/134501376/2"
-        }
-      ]
-    },
-    {
-      "id": "하이닉스",
-      "rank": 2,
-      "keyword": "하이닉스",
+      "keyword": "000660",
       "volumeLabel": "10000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '삼성전자·SK하이닉스 동반 급락…하이닉스 40조원 자사주 소각' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'SK Hynix (000660 KS): Synthetic Expert Call Transcript (18 Aug 2026)' (Smartkarma) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "삼성전자·SK하이닉스 동반 급락…하이닉스 40조원 자사주 소각",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819161307499"
+          "title": "SK Hynix (000660 KS): Synthetic Expert Call Transcript (18 Aug 2026)",
+          "source": "Smartkarma",
+          "url": "https://www.smartkarma.com/insights/sk-hynix-000660-ks-synthetic-expert-call-transcript-18-aug-2026?utm_medium=feed&utm_source=RSS"
         },
         {
-          "title": "[속보] SK하이닉스 40조원 자사주 취득…“소각 통해 주주가치 제고”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/business/12131228"
+          "title": "SK NAND Subsidiary Solidigm Posts H1 Net Profit of ₩5.8 Trillion (approximately $4.1 Billion), Up 44-Fold Year-on-Year",
+          "source": "BigGo Finance",
+          "url": "https://finance.biggo.com/news/9fa7848f-5d11-4c05-8b70-aa733dcaf05c"
         },
         {
-          "title": "[속보] SK하이닉스, 40조 자사주 매입·소각…배당 확대 검토",
+          "title": "\"Shame on You, Chairman\"... Governance Forum Criticizes SK hynix's Five-Tier Cross-Listing",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/en/article/2026081321100228351"
+        }
+      ]
+    },
+    {
+      "id": "용아맥",
+      "rank": 2,
+      "keyword": "용아맥",
+      "volumeLabel": "5000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '촬영감독에게 듣다, ‘오디세이’ 아이맥스 1.43:1 비율의 진짜 효과' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "촬영감독에게 듣다, ‘오디세이’ 아이맥스 1.43:1 비율의 진짜 효과",
           "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1273608.html"
+          "url": "https://www.hani.co.kr/arti/culture/culture_general/1273559.html"
+        },
+        {
+          "title": "[여적] ‘용아맥’ 암표",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608191810011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+        },
+        {
+          "title": "'오디세이' 10만원대 티켓에 …영진위, 특별관 암표 제보 접수",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260819044100005"
         }
       ]
     },
@@ -64,27 +64,27 @@
       "id": "이동국",
       "rank": 3,
       "keyword": "이동국",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] 도메네크 토렌트, 축구대표팀 임시 감독 서류 전형 통과…모레 면접' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 ''지도자 경력 0' 이동국 韓 대표팀 합류, 끝내 '최악 카드' 됐다... '임시 사령탑도 자처' 포옛의 꿈 '물거품'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "'지도자 경력 0' 이동국 韓 대표팀 합류, 끝내 '최악 카드' 됐다... '임시 사령탑도 자처' 포옛의 꿈 '물거품'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819060310301"
+        },
         {
           "title": "[단독] 도메네크 토렌트, 축구대표팀 임시 감독 서류 전형 통과…모레 면접",
           "source": "KBS 뉴스",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8639326"
         },
         {
-          "title": "'한국 임시 감독 떨어져도' 갈 곳은 많다...'서류 전형 탈락' 포옛, 알제리-폴란드-남아공 대표팀 관심 한 몸에",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819161240478"
-        },
-        {
-          "title": "5명 중 셋은 스페인 출신‥'모레부터 온라인 면접'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6845596_37004.html"
+          "title": "'임시 감독 탈락' 포옛, 韓 정식 감독 지원 못 하나... 알제리·폴란드 등 '해외 러브콜' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/19/2026081912110554501"
         }
       ]
     },
@@ -92,10 +92,10 @@
       "id": "백록담",
       "rank": 4,
       "keyword": "백록담",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '백록담 물 몰래 먹는 밤도깨비족 꼼짝 마!···한라산에 열화상 카메라 단 드론 뜬다' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -117,58 +117,42 @@
       ]
     },
     {
-      "id": "기아",
+      "id": "cgv",
       "rank": 5,
-      "keyword": "기아",
+      "keyword": "cgv",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '기아 무브 앤 커넥트 2기 공모…돌봄기관에 전기차 17대 지원' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "기아 무브 앤 커넥트 2기 공모…돌봄기관에 전기차 17대 지원",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819120529658"
-        },
-        {
-          "title": "기아 전기차, 이동 약자 대상 전기차 지원 사업 전개",
-          "source": "데일리한국",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1396971"
-        },
-        {
-          "title": "‘Kia Move & Connect 2기’ 공모… 아동·다문화·발달장애인·노인 돌봄기관에 전기차 17대 지원",
-          "source": "충북데일리",
-          "url": "https://www.cbdaily.co.kr/news/article.html?no=63208"
-        }
-      ]
+      "newsSignals": []
     },
     {
-      "id": "혼다-마린",
+      "id": "경제-위기",
       "rank": 6,
-      "keyword": "혼다 마린",
-      "volumeLabel": "1000+",
+      "keyword": "경제 위기",
+      "volumeLabel": "500+",
       "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-4",
-      "summary": "급상승 시점에 '日피겨 여신 다리에 선명한 멍자국... 열도가 깜짝! \"맹훈련, 너무 아프겠지만...\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "change": "up",
+      "changeLabel": "+2",
+      "summary": "급상승 시점에 '디젤값 폭등해 미국경제 강타…중간선거 앞 트럼프에 악재' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "日피겨 여신 다리에 선명한 멍자국... 열도가 깜짝! \"맹훈련, 너무 아프겠지만...\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/19/2026081822162772667"
+          "title": "디젤값 폭등해 미국경제 강타…중간선거 앞 트럼프에 악재",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260819026800009"
         },
         {
-          "title": "경악! 반바지 입고 다리 드러내니 선명한 노력의 흔적...日 피겨 스타 혼다 마린 깜짝 근황 \"멍으로 가득, 열심히 하고 있단 방증\"",
-          "source": "스포탈코리아",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553465658"
+          "title": "재정적자 엎친데 고유가 덮친 美…불안한 물가에 신음",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04582166645548960"
         },
         {
-          "title": "日피겨 여신 다리에 선명한 멍자국... 열도가 깜짝! \"맹훈련, 너무 아프겠지만...\"",
+          "title": "美경유가, 사상 최고치 근접…물류·농업부터 산업계 전반 타격",
           "source": "Daum",
-          "url": "https://v.daum.net/v/ZcpVWCKpWB?f=p"
+          "url": "https://v.daum.net/v/20260819105952944"
         }
       ]
     },
@@ -177,9 +161,9 @@
       "rank": 7,
       "keyword": "정승민",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '장윤주 딸, 아빠 정승민과 영국 근황 '엄마인 줄'..길쭉길쭉 감탄' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -201,86 +185,86 @@
       ]
     },
     {
-      "id": "경제-위기",
+      "id": "에드윈-디아스",
       "rank": 8,
-      "keyword": "경제 위기",
+      "keyword": "에드윈 디아스",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“이미 경제위기, 서민 삶 붕괴되고 있다”...디젤값이 폭등하면 벌어지는 일' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '다저스, WS 3연패 도전 '비상'…부진한 마무리 디아스, 또 부상' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“이미 경제위기, 서민 삶 붕괴되고 있다”...디젤값이 폭등하면 벌어지는 일",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/economy/12130828"
-        },
-        {
-          "title": "갤런 당 4달러 넘은 휘발유…미국 에너지장관 “며칠 내 업계 지원책 발표”",
+          "title": "다저스, WS 3연패 도전 '비상'…부진한 마무리 디아스, 또 부상",
           "source": "Daum",
-          "url": "https://v.daum.net/v/pmZK4oXSS6"
+          "url": "https://v.daum.net/v/20260819095128349"
         },
         {
-          "title": "미 디젤값 폭등에 경제 '휘청'...중간선거 앞둔 트럼프에 대형 악재",
-          "source": "YTN",
-          "url": "https://m.ytn.co.kr/news_view.php?key=202608190928451888&s_mcd=0104"
+          "title": "‘디아즈 이탈에 스캇도 흔들’ LAD ‘구원진 마비’→‘WS 3연패 비상’",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20260819/134503466/1"
+        },
+        {
+          "title": "'와 975억 먹튀 위기' 또 부상자 명단행, 그런데 이유를 모른다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/08/19/GVRTGNTGGBRGIMJTGZSWGOJSMY/"
         }
       ]
     },
     {
-      "id": "신안산선",
+      "id": "이수혁",
       "rank": 9,
-      "keyword": "신안산선",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '신안산선 광명구간 내달 공사 재개…주민·시·시공사, 안전선언' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "신안산선 광명구간 내달 공사 재개…주민·시·시공사, 안전선언",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/56fUaQhDtS"
-        },
-        {
-          "title": "[패트롤] 광명시-부천시-시흥시-안산시-안양시",
-          "source": "에너지경제신문",
-          "url": ""
-        },
-        {
-          "title": "‘붕괴사고’ 광명 신안산선, 시민이 안전 챙긴다···“공사 전 과정 점검에 시민 참여”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608181632001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-        }
-      ]
-    },
-    {
-      "id": "승무원",
-      "rank": 10,
-      "keyword": "승무원",
+      "keyword": "이수혁",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-6",
-      "summary": "급상승 시점에 '하늘에서 일하는 승무원·조종사, ‘방사선 관련 암’ 사망 1·2위 [건강팩트체크]' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이수혁 ‘하렘의 남자들’ 중도 하차…대체 투입 “논의 중” [공식]' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "하늘에서 일하는 승무원·조종사, ‘방사선 관련 암’ 사망 1·2위 [건강팩트체크]",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/It/article/all/20260818/134495438/2"
+          "title": "이수혁 ‘하렘의 남자들’ 중도 하차…대체 투입 “논의 중” [공식]",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260819/134501017/1"
         },
         {
-          "title": "일반인보다 방사선 15배…항공 승무원·조종사의 '숨은 위험'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026081900937"
+          "title": "이수혁 '하렘의 남자들' 스케줄 문제로 하차→이종원 \"출연 논의 중\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6263118"
         },
         {
-          "title": "항공기 조종사·승무원, 방사선 원인 암 잘 걸린다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260819_0003753987"
+          "title": "수지 주연 ‘하렘의 남자들’, 이수혁 하차→이종원 합류 논의",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260819501150"
+        }
+      ]
+    },
+    {
+      "id": "삼계탕",
+      "rank": 10,
+      "keyword": "삼계탕",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '농협 의령군지부, 취약농가 삼계탕 전달' (경남매일) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "농협 의령군지부, 취약농가 삼계탕 전달",
+          "source": "경남매일",
+          "url": "https://www.gnmaeil.com/news/articleView.html?idxno=592937"
+        },
+        {
+          "title": "NH농협생명, 복날 맞아 ‘사랑의 삼계탕 나눔’ 실시",
+          "source": "데일리한국",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1397052"
+        },
+        {
+          "title": "서경산업 임직원, 말복 맞아 어르신 2,900명에 특식 지원",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3665473"
         }
       ]
     }
