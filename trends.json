@@ -1,15 +1,15 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-19T16:41:45.525Z",
+  "updatedAt": "2026-08-19T17:32:56.647Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
       "id": "연애",
       "rank": 1,
       "keyword": "연애",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
+      "volumeLabel": "2000+",
+      "startedLabel": "4시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 '넷플릭스 '모솔연애' 시즌3로…김노은 PD \"진정성으로 찾아뵐 것\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
@@ -37,9 +37,9 @@
       "rank": 2,
       "keyword": "오싹한 연애",
       "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '\"연기의 神인 이유 있었다\"...'오싹한 연애' 쉬는 시간마다 '대본' 붙잡고 '열공'하는 박은빈 포착' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -65,9 +65,9 @@
       "rank": 3,
       "keyword": "김윤덕",
       "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '빈 땅 찾다가 ‘용산공원 아파트’ 속도 내는 정부···“다른 공급 수단 충분히 검토했나”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -78,64 +78,36 @@
         },
         {
           "title": "오세훈·유의동 ‘용산 방어선’… 與 “국토부가 그냥 밀고 갈수 있다”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/politics_general/2026/08/20/C2UESHMFSRGE5AZ3BUSFHFBRZM/"
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820005037578"
         },
         {
-          "title": "당정 '주택공급 방안' 협의…용산공원 여론조사도 검토(종합)",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260819_0003754945"
-        }
-      ]
-    },
-    {
-      "id": "trực-tiếp-bóng-đá-việt-nam",
-      "rank": 4,
-      "keyword": "trực tiếp bóng đá việt nam",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Hai thái cực trái ngược ở họp báo trước trận Việt Nam - Malaysia' (VnExpress) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Hai thái cực trái ngược ở họp báo trước trận Việt Nam - Malaysia",
-          "source": "VnExpress",
-          "url": "https://vnexpress.net/hai-thai-cuc-trai-nguoc-o-hop-bao-truoc-tran-viet-nam-malaysia-5110392.html"
-        },
-        {
-          "title": "HLV Kim Sang Sik lập kỷ lục hiếm có với bóng đá Việt Nam",
-          "source": "Báo Tuổi Trẻ",
-          "url": "https://tuoitre.vn/hlv-kim-sang-sik-lap-ky-luc-hiem-co-voi-bong-da-viet-nam-10026081923013972.htm"
-        },
-        {
-          "title": "Không ai khác ngoài Xuân Son đoạt Cầu thủ xuất sắc nhất trong chiến thắng bùng nổ Việt Nam 2-0 Malaysia",
-          "source": "Kenh14.vn",
-          "url": "https://kenh14.vn/khong-ai-khac-ngoai-xuan-son-doat-cau-thu-xuat-sac-nhat-trong-chien-thang-bung-no-viet-nam-2-0-malaysia-215260819221921831.chn"
+          "title": "‘용산공원특별법’ 어떻게?…부동산 ‘뜨거운 감자’ 된 용산공원",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8640870"
         }
       ]
     },
     {
       "id": "트럼프",
-      "rank": 5,
+      "rank": 4,
       "keyword": "트럼프",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '성급한 트럼프 거부하며 망신 준 북한…머쓱해진 한국, 안보엔 '구멍'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '트럼프 \"김정은, 57개 매우 강력한 핵무기 보유…연내 만날 것\"(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "성급한 트럼프 거부하며 망신 준 북한…머쓱해진 한국, 안보엔 '구멍'",
+          "title": "트럼프 \"김정은, 57개 매우 강력한 핵무기 보유…연내 만날 것\"(종합)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260820000642953"
+          "url": "https://v.daum.net/v/20260820013638776"
         },
         {
-          "title": "이 대통령 “한미훈련 축소해서라도 대화 여건 조성, 트럼프 결단에 경의”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8641096"
+          "title": "美 여야 상원의원 \"한미연합훈련 축소 철회해야\"…트럼프에 서한 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/08/20/2026082001103249741"
         },
         {
           "title": "[속보] 김여정 “한·미 연습 축소 평할 가치 없어…북·미 두 지도자 관계는 훌륭”",
@@ -145,70 +117,98 @@
       ]
     },
     {
-      "id": "롯데손해보험",
+      "id": "어우홍",
+      "rank": 5,
+      "keyword": "어우홍",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘82년 세계선수권 우승 신화’ 어우홍 전 감독 별세…향년 95' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘82년 세계선수권 우승 신화’ 어우홍 전 감독 별세…향년 95",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/sports/baseball/1273681.html"
+        },
+        {
+          "title": "1982년 세계야구선수권대회에서 한국팀을 우승으로 이끌었던 어우홍 감독, 노환으로 별세… 향년 95세를 일기로",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819192952609"
+        },
+        {
+          "title": "‘1982년 세계선수권 우승 감독’ 어우홍 전 감독, 향년 95세로 별세",
+          "source": "데일리스포츠한국",
+          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432687"
+        }
+      ]
+    },
+    {
+      "id": "비트코인",
       "rank": 6,
+      "keyword": "비트코인",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[코인시세] 비트코인 6만 5천달러 돌파 후 '숨고르기'…코인시장 혼조' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[코인시세] 비트코인 6만 5천달러 돌파 후 '숨고르기'…코인시장 혼조",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819101439657"
+        },
+        {
+          "title": "장기금리 급등에도 비트코인 6.4만달러 버티기",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02715846645548960"
+        },
+        {
+          "title": "비트코인 6.4만달러 박스권…\"매도압력 정점, 반등신호 포착\"[코인브리핑]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/finance/blockchain-fintech/6262696"
+        }
+      ]
+    },
+    {
+      "id": "롯데손해보험",
+      "rank": 7,
       "keyword": "롯데손해보험",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": []
     },
     {
-      "id": "moderna-stock",
-      "rank": 7,
-      "keyword": "moderna stock",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 'Cancer treatment could face landmark moment with promising vaccine' (The Washington Post) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Cancer treatment could face landmark moment with promising vaccine",
-          "source": "The Washington Post",
-          "url": "https://www.washingtonpost.com/health/2026/08/19/cancer-treatment-could-face-landmark-moment-with-promising-vaccine/"
-        },
-        {
-          "title": "Moderna’s 160% Surge Burns Shorts in ‘Painful’ $5 Billion Loss",
-          "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-19/moderna-s-160-surge-burns-shorts-in-painful-5-billion-loss"
-        },
-        {
-          "title": "Moderna, Merck Say mRNA Vaccine Prevents Melanoma From Returning",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/19/science/moderna-merck-mrna-vaccine-melanoma.html"
-        }
-      ]
-    },
-    {
-      "id": "디워2",
+      "id": "비트코인-시세",
       "rank": 8,
-      "keyword": "디워2",
+      "keyword": "비트코인 시세",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '19년 만에 해외서 터진 ‘디워’…심형래 “‘디워2’ 제작 끝났다”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[EBN 데이터센터] 암호화폐 시총 2조 2839억 달러 회복...비트코인 점유율 56.52%' (www.ebn.co.kr) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "19년 만에 해외서 터진 ‘디워’…심형래 “‘디워2’ 제작 끝났다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819235009710"
+          "title": "[EBN 데이터센터] 암호화폐 시총 2조 2839억 달러 회복...비트코인 점유율 56.52%",
+          "source": "www.ebn.co.kr",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1720683"
         },
         {
-          "title": "[김홍준의 뉴스터치] 디 워 : 용산 대전",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260818080634822"
+          "title": "[코인 브리핑] 시총 상위 암호화폐 시황",
+          "source": "센머니",
+          "url": "https://www.senmoney.co.kr/news/articleView.html?idxno=36674"
         },
         {
-          "title": "심형래 \"'디 워2' 제작 완료…BTS 아리랑은 되고, 나는 욕먹어\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260819_0003754994"
+          "title": "암호화폐 시장은 상승과 하락이 교차하고 있으며, DeFi 섹터는 1.06% 상승하...｜암호화 시장, DeFi",
+          "source": "ChainCatcher",
+          "url": "https://www.chaincatcher.com/ko/article/2283543"
         }
       ]
     },
@@ -217,9 +217,9 @@
       "rank": 9,
       "keyword": "서승재",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 ''배드민턴 세계 1위' 서승재-김원호, 세계선수권 2연패 첫걸음…16강 안착' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
