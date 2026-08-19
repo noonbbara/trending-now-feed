@@ -1,34 +1,34 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-19T18:45:42.279Z",
+  "updatedAt": "2026-08-19T19:32:16.911Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "연애",
+      "id": "브레이브스-대-트윈스",
       "rank": 1,
-      "keyword": "연애",
+      "keyword": "브레이브스 대 트윈스",
       "volumeLabel": "2000+",
-      "startedLabel": "5시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '넷플릭스 '모솔연애' 시즌3로…김노은 PD \"진정성으로 찾아뵐 것\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘입지 흔들’ 김하성, 3경기 연속 결장…애틀랜타는 연패' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "넷플릭스 '모솔연애' 시즌3로…김노은 PD \"진정성으로 찾아뵐 것\"",
+          "title": "‘입지 흔들’ 김하성, 3경기 연속 결장…애틀랜타는 연패",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260819/134502479/1"
+        },
+        {
+          "title": "\"악몽이라는 표현으로는 부족할 정도\" 김하성 추락에 美 매체도 경악…결국 샌디에이고 판단이 옳았나",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/08/20/GE2DMZDBG4YDAOJYGIYDEMZYME/"
+        },
+        {
+          "title": "'MLB 150년 사상 최악' 대굴욕 쓴 김하성, 전력에서 완전 배제됐나…'타율 0.077·0.150' 경쟁자들 부진에도 또 벤치 지켰다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260819172701997"
-        },
-        {
-          "title": "[방송소식] 넷플 '모솔연애' 시즌3 제작…오늘부터 출연자 모집",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260819070800005"
-        },
-        {
-          "title": "'모태솔로지만 연애는 하고 싶어', 시즌3 확정…오늘(19일)부터 출연자 모집",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008711177"
+          "url": "https://v.daum.net/v/20260819232209569"
         }
       ]
     },
@@ -37,17 +37,12 @@
       "rank": 2,
       "keyword": "오싹한 연애",
       "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
+      "startedLabel": "6시간 전",
       "change": "steady",
       "changeLabel": "유지",
-      "summary": "급상승 시점에 '\"연기의 神인 이유 있었다\"...'오싹한 연애' 쉬는 시간마다 '대본' 붙잡고 '열공'하는 박은빈 포착' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '박은빈, '천여리' 벗고 러블리 매력 발산…'오싹한 연애' 비하인드 공개' (뉴스핌) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "\"연기의 神인 이유 있었다\"...'오싹한 연애' 쉬는 시간마다 '대본' 붙잡고 '열공'하는 박은빈 포착",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819203837152"
-        },
         {
           "title": "박은빈, '천여리' 벗고 러블리 매력 발산…'오싹한 연애' 비하인드 공개",
           "source": "뉴스핌",
@@ -57,73 +52,22 @@
           "title": "영화에서 드라마·웹툰까지…15년 된 IP 가 사랑받는 이유는?",
           "source": "CJ 뉴스룸",
           "url": "https://cjnews.cj.net/%EC%98%81%ED%99%94%EC%97%90%EC%84%9C-%EB%93%9C%EB%9D%BC%EB%A7%88%C2%B7%EC%9B%B9%ED%88%B0%EA%B9%8C%EC%A7%8015%EB%85%84-%EB%90%9C-ip-%EC%98%A4%EC%8B%B9%ED%95%9C-%EC%97%B0%EC%95%A0/"
-        }
-      ]
-    },
-    {
-      "id": "김윤덕",
-      "rank": 3,
-      "keyword": "김윤덕",
-      "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '빈 땅 찾다가 ‘용산공원 아파트’ 속도 내는 정부···“다른 공급 수단 충분히 검토했나”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "빈 땅 찾다가 ‘용산공원 아파트’ 속도 내는 정부···“다른 공급 수단 충분히 검토했나”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608191705001"
         },
         {
-          "title": "오세훈 서울시장, 권영세 의원 면담",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260818150000013"
-        },
-        {
-          "title": "용산공원에 주택 들어설까? \"공원 전체 아닌, 녹지 기능 없는 땅 개발\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6845864_37004.html"
-        }
-      ]
-    },
-    {
-      "id": "배우-김정은",
-      "rank": 4,
-      "keyword": "배우 김정은",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김정은, 연봉 10억 ♥남편과 러브스토리…\"3~4일 따라다녀, 한 달 만에 프러포즈\" [신랑수업2]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김정은, 연봉 10억 ♥남편과 러브스토리…\"3~4일 따라다녀, 한 달 만에 프러포즈\" [신랑수업2]",
+          "title": "\"연기의 神인 이유 있었다\"...'오싹한 연애' 쉬는 시간마다 '대본' 붙잡고 '열공'하는 박은빈 포착",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260819133153042"
-        },
-        {
-          "title": "김정은 \"남편, 홍콩에서 처음 봐…3~4일 따라다니더라\" (신랑수업2) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/08/19/GAZTMZTEG4YGMZBUGE3GIZTEME/"
-        },
-        {
-          "title": "김정은 \"남편, 나 만난 지 한 달 만에 프러포즈\"",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/view.html?ar_id=NISX20260819_0003754230"
+          "url": "https://v.daum.net/v/20260819203837152"
         }
       ]
     },
     {
       "id": "정규직",
-      "rank": 5,
+      "rank": 3,
       "keyword": "정규직",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+2",
       "summary": "급상승 시점에 '\"인력난에 정년 폐지\"…확산하는 일본 기업의 선택' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -133,25 +77,25 @@
           "url": "https://v.daum.net/v/20260819151800331"
         },
         {
-          "title": "日제약회사, 65세 이상도 정규직…인력 부족에 사실상 정년 폐지",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260819111700009"
-        },
-        {
           "title": "“기업 입맛에 맞는 맞춤 교육으로 노인일자리 늘려”",
           "source": "이투데이",
           "url": "https://bravo.etoday.co.kr/view/atc_view/19848"
+        },
+        {
+          "title": "\"노후 걱정 한시름 놓겠네\" 65세 넘어도 정규직…시니어 인재 붙잡는 日 기업",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026081916402954535"
         }
       ]
     },
     {
       "id": "라리가",
-      "rank": 6,
+      "rank": 4,
       "keyword": "라리가",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "200+",
+      "startedLabel": "4시간 전",
+      "change": "up",
+      "changeLabel": "+2",
       "summary": "급상승 시점에 ''이강인 이름이 사라졌다' 아틀레티코 공식 데뷔전, 스페인 매체들 일제히 '선발 제외' 전망' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -173,13 +117,41 @@
       ]
     },
     {
+      "id": "배우-김정은",
+      "rank": 5,
+      "keyword": "배우 김정은",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '김정은, 연봉 10억 ♥남편과 러브스토리…\"3~4일 따라다녀, 한 달 만에 프러포즈\" [신랑수업2]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김정은, 연봉 10억 ♥남편과 러브스토리…\"3~4일 따라다녀, 한 달 만에 프러포즈\" [신랑수업2]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819133153042"
+        },
+        {
+          "title": "김정은 \"남편, 홍콩에서 처음 봐…3~4일 따라다니더라\" (신랑수업2) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/08/19/GAZTMZTEG4YGMZBUGE3GIZTEME/"
+        },
+        {
+          "title": "김정은 “남편, 나 만난 지 한 달 만에 프러포즈”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20260820/134508753/1"
+        }
+      ]
+    },
+    {
       "id": "어우홍",
-      "rank": 7,
+      "rank": 6,
       "keyword": "어우홍",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-2",
+      "startedLabel": "4시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '82년 세계야구 韓 첫 우승 이끈 어우홍 전 감독 별세' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -202,12 +174,12 @@
     },
     {
       "id": "비트코인",
-      "rank": 8,
+      "rank": 7,
       "keyword": "비트코인",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-2",
+      "startedLabel": "4시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '[코인시세] 비트코인 6만 5천달러 돌파 후 '숨고르기'…코인시장 혼조' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -230,12 +202,12 @@
     },
     {
       "id": "비트코인-시세",
-      "rank": 9,
+      "rank": 8,
       "keyword": "비트코인 시세",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "startedLabel": "4시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '[EBN 데이터센터] 암호화폐 시총 2조 2839억 달러 회복...비트코인 점유율 56.52%' (www.ebn.co.kr) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -253,6 +225,34 @@
           "title": "암호화폐 시장은 상승과 하락이 교차하고 있으며, DeFi 섹터는 1.06% 상승하...｜암호화 시장, DeFi",
           "source": "ChainCatcher",
           "url": "https://www.chaincatcher.com/ko/article/2283543"
+        }
+      ]
+    },
+    {
+      "id": "세제",
+      "rank": 9,
+      "keyword": "세제",
+      "volumeLabel": "100+",
+      "startedLabel": "6시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"캡슐형 세탁세제, 성능 제각각…가격 최대 6배 차이\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"캡슐형 세탁세제, 성능 제각각…가격 최대 6배 차이\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819144443479"
+        },
+        {
+          "title": "소비자원, 캡슐 세탁세제 품질 비교‥\"세탁비용 최대 6배 차이\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6845778_36932.html"
+        },
+        {
+          "title": "소비자원 \"캡슐 세탁세제 세척력 제각각…가격은 최대 6배 차이\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260818107800030"
         }
       ]
     }
