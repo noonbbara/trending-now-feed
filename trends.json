@@ -1,45 +1,101 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-19T10:35:57.958Z",
+  "updatedAt": "2026-08-19T11:32:32.292Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "정은경",
+      "id": "청소차",
       "rank": 1,
-      "keyword": "정은경",
+      "keyword": "청소차",
+      "volumeLabel": "10000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '새벽 청소 나선 환경미화원 3명 교통사고로 사망‥청소차 덤프트럭 충돌' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "새벽 청소 나선 환경미화원 3명 교통사고로 사망‥청소차 덤프트럭 충돌",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6845706_36918.html"
+        },
+        {
+          "title": "영천서 덤프트럭·청소차 충돌…환경미화원 3명 숨져",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8640693"
+        },
+        {
+          "title": "점멸 신호 깜박이는 교차로서 '쾅'...환경미화원 3명 사망 [자막뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0134_202608191556385347"
+        }
+      ]
+    },
+    {
+      "id": "키움-대-롯데",
+      "rank": 2,
+      "keyword": "키움 대 롯데",
       "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '정은경 \"국민연금 리밸런싱 유예, 시장 변동성 때문\"(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '믿기 힘들었던 7회 13점 폭격, 롯데 역사 새로 썼다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "정은경 \"국민연금 리밸런싱 유예, 시장 변동성 때문\"(종합)",
+          "title": "믿기 힘들었던 7회 13점 폭격, 롯데 역사 새로 썼다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260819175840160"
+          "url": "https://v.daum.net/v/20260819140957699"
         },
         {
-          "title": "국민연금기금 1% 공공임대주택 투입 지적에…김성주 \"원칙 지킬 것\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430814"
+          "title": "[엠빅뉴스] 8:0에서 집에 안 간 팬들께 바칩니다...튼동 이렇게 웃을 수 있었구나",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/original/mbig/6845765_29041.html"
         },
         {
-          "title": "정부 “국민연금 주식 리밸런싱 유예, 지방선거 때문 아냐”",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1144828"
+          "title": "“어제(17일)가 아버지 기일, 어머니께 꼭 인터뷰 하겠다고”…손성빈 집념의 10구 승부 결승타, 하늘 향한 사부곡이었다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/19/202608182255777509O"
+        }
+      ]
+    },
+    {
+      "id": "충남-아산-fc-대-대전",
+      "rank": 3,
+      "keyword": "충남 아산 fc 대 대전",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '전북현대, 내일 전주성에서 코리아컵 16강전' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "전북현대, 내일 전주성에서 코리아컵 16강전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818202811847"
+        },
+        {
+          "title": "K3 울산시민, 광주FC 제물로 ‘8강’ 도전",
+          "source": "경상일보",
+          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1064830"
+        },
+        {
+          "title": "연패의 흐름을 되돌려라…전북, 당진시민구단과 코리아컵 16강",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260818070700007"
         }
       ]
     },
     {
       "id": "장쯔이",
-      "rank": 2,
+      "rank": 4,
       "keyword": "장쯔이",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '\"6억 넣었는데 100배 뛰었다\"…작품 아닌 투자로 635억 대박 난 中 여배우' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -56,13 +112,41 @@
       ]
     },
     {
-      "id": "kbs-1tv-일일-드라마",
-      "rank": 3,
-      "keyword": "kbs 1tv 일일 드라마",
-      "volumeLabel": "500+",
+      "id": "안양-대-제주",
+      "rank": 5,
+      "keyword": "안양 대 제주",
+      "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“선두 서울 잡아야 산다”…‘3연패’ FC안양, 반등 정조준' (경기일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“선두 서울 잡아야 산다”…‘3연패’ FC안양, 반등 정조준",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260819580045"
+        },
+        {
+          "title": "'안양과 5일만 리턴매치' 세르지우 제주 감독 \"기회 못 받던 선수들, 굳게 믿는다\" 코리아컵 연승 다짐 [안양 현장] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/19/2026081918232448965"
+        },
+        {
+          "title": "주도하는 축구, 냉철한 영입 판단부터 빈틈없는 스쿼드 관리까지…‘벤투의 오른팔’ 세르지우 코스타 감독의 리더십, 월드컵 휴식기 이후 ‘유일한 8경기 연속 무패’ 제주를 만들었다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818210151519"
+        }
+      ]
+    },
+    {
+      "id": "kbs-1tv-일일-드라마",
+      "rank": 6,
+      "keyword": "kbs 1tv 일일 드라마",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-3",
       "summary": "급상승 시점에 '정민아·동하 주연 KBS 일일드라마 '엄마가 미쳤어요' 다음 달 첫 방송' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -84,104 +168,48 @@
       ]
     },
     {
-      "id": "인수-합병",
-      "rank": 4,
-      "keyword": "인수 합병",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '암호화폐 인수합병(M&A): 블록체인 산업의 트렌드' (FinanceFeeds) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "암호화폐 인수합병(M&A): 블록체인 산업의 트렌드",
-          "source": "FinanceFeeds",
-          "url": "https://financefeeds.com/ko/crypto-ma-trends-2025-2/"
-        },
-        {
-          "title": "회생기업 M&A 10년새 2배…“존속이냐 매각이냐” 시장서 따져야 [기업회생 20년-④ 회생기업의 마지막 희망, M&A]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819113643105"
-        },
-        {
-          "title": "회생기업 마지막 희망 M&A…10년새 2배 급증 [회생의 조건 ④]",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10845484"
-        }
-      ]
-    },
-    {
-      "id": "biiig",
-      "rank": 5,
-      "keyword": "biiig",
+      "id": "정국",
+      "rank": 7,
+      "keyword": "정국",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'BIGBANG set to drop new single on 20th anniv. of debut' (Yonhap News Agency) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"완벽한 보컬 선사\" 방탄소년단 정국 'Like Animals' 무대, 美 빌보드 극찬' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "BIGBANG set to drop new single on 20th anniv. of debut",
-          "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/AEN20260819004300315"
-        },
-        {
-          "title": "Big Bang returns with new single BiiiG on 20th anniversary - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-entertainment/2026/08/19/VKTZZMSJJBBKTP3BLUZJBW6VLI/"
-        },
-        {
-          "title": "Big Bang’s 20th year celebration comes to Han River",
-          "source": "The Korea Herald",
-          "url": "https://www.koreaherald.com/article/10843783"
-        }
-      ]
-    },
-    {
-      "id": "빅뱅-신곡",
-      "rank": 6,
-      "keyword": "빅뱅 신곡",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '데뷔 20주년 ‘3인조 빅뱅’…신곡 들고 세계로' (채널A) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "데뷔 20주년 ‘3인조 빅뱅’…신곡 들고 세계로",
-          "source": "채널A",
-          "url": "https://ichannela.com/news/detail/000000545828.do"
-        },
-        {
-          "title": "'빅뱅만의 대중가요' 공식 완성한 앨범 '메이드'",
+          "title": "\"완벽한 보컬 선사\" 방탄소년단 정국 'Like Animals' 무대, 美 빌보드 극찬",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260819051201715"
+          "url": "https://v.daum.net/v/20260819070409198"
         },
         {
-          "title": "빅뱅, 오늘 20주년…'자체 프로듀싱' 아이돌 존재 새롭게 재정의",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260819_0003753452"
+          "title": "방탄소년단 정국, 글로벌 행보 속 ‘Seven’ 롱런…브랜드 반응도 확장",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16164816"
+        },
+        {
+          "title": "방탄소년단 정국, 빌보드가 꼽은 ‘Like Animals’ 라이브…글로벌 팬 홀렸다",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16166916"
         }
       ]
     },
     {
       "id": "발레바",
-      "rank": 7,
+      "rank": 8,
       "keyword": "발레바",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '절망 그 자체…'맨체스터 유나이티드 가고 싶다' 꿈의 이적 좌절, 관심 완전히 사라졌다→뉴캐슬이 러브콜! \"이적료 1250억 예…' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "절망 그 자체…'맨체스터 유나이티드 가고 싶다' 꿈의 이적 좌절, 관심 완전히 사라졌다→뉴캐슬이 러브콜! \"이적료 1250억 예상\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260817223449966"
+          "url": "https://v.daum.net/v/20260817223449966?f=p"
         },
         {
           "title": "'이럴 수가' 펩 떠나고 중원 완전 엑소더스 위기!…한국 왔던 바르사 유스 출신도 떠날 가능성 상승 \"뉴캐슬과 협상 시작\"",
@@ -196,86 +224,58 @@
       ]
     },
     {
-      "id": "미국-재무부-채권",
-      "rank": 8,
-      "keyword": "미국 재무부 채권",
+      "id": "전국노래자랑",
+      "rank": 9,
+      "keyword": "전국노래자랑",
       "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘전국노래자랑’ 김다나, 오프닝 화려하게 장식' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘전국노래자랑’ 김다나, 오프닝 화려하게 장식",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817172444346"
+        },
+        {
+          "title": "박현호, 신곡 '한잔하러 갑시다' 들고 팬들 곁으로 돌아온다.",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260816n11320"
+        },
+        {
+          "title": "이재욱, 무대서 강승연에 ‘깜짝 프러포즈’… “따님을 제게 주십시오” (‘전국노래자랑’)",
+          "source": "TV리포트",
+          "url": "https://tvreport.co.kr/uncategorized/article/1069108/"
+        }
+      ]
+    },
+    {
+      "id": "인시디어스",
+      "rank": 10,
+      "keyword": "인시디어스",
+      "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[김종인] 미국 장기 국채금리 급등…원인과 전망은' (지디넷코리아) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '늦여름 극장가 점령한 호러 '인시디어스'·'위커맨'' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[김종인] 미국 장기 국채금리 급등…원인과 전망은",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260819101606"
+          "title": "늦여름 극장가 점령한 호러 '인시디어스'·'위커맨'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6845679_37012.html"
         },
         {
-          "title": "[핫클립] 블랙홀처럼 빨려간다, ‘채권 극장’이 열렸다",
+          "title": "225억으로 '2669억' 번 레전드 공포 작품…역대 악령 총출동하며 새롭게 탄생 ('인시디어스')",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260819181443758"
+          "url": "https://v.daum.net/v/20260818185854724"
         },
         {
-          "title": "“싸졌다고 덥석 샀다가는“…7월 폭락장과 다르다는 경고, 美·日 금리 보라는데",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1144859"
-        }
-      ]
-    },
-    {
-      "id": "등산",
-      "rank": 9,
-      "keyword": "등산",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '카더가든 생고생 시작…'대체 등산을 왜 하는건데' 관전 포인트는?' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "카더가든 생고생 시작…'대체 등산을 왜 하는건데' 관전 포인트는?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818150000140"
-        },
-        {
-          "title": "‘대등왜’ 타잔, 설산도 자기 방식대로… 막내 회장의 반전 존재감",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3426227"
-        },
-        {
-          "title": "‘나영석 Pick’ 데이식스 도운, 제작진 위해 보행 보조기 선물…‘윤도움’ 매력",
-          "source": "뉴스엔",
-          "url": "https://m.newsen.com/news_view.php?uid=202608191011320410"
-        }
-      ]
-    },
-    {
-      "id": "에드윈-디아스",
-      "rank": 10,
-      "keyword": "에드윈 디아스",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '다저스, WS 3연패 도전 '비상'…부진한 마무리 디아스, 또 부상' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "다저스, WS 3연패 도전 '비상'…부진한 마무리 디아스, 또 부상",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819095128349"
-        },
-        {
-          "title": "'와 975억 먹튀 위기' 또 부상자 명단행, 그런데 이유를 모른다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/08/19/GVRTGNTGGBRGIMJTGZSWGOJSMY/"
-        },
-        {
-          "title": "‘디아즈 이탈에 스캇도 흔들’ LAD ‘구원진 마비’→‘WS 3연패 비상’",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20260819/134503466/1"
+          "title": "‘백룸’ 만든 그들이 돌아왔다…이 여름 마지막 공포",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10842864"
         }
       ]
     }
