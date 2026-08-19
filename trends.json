@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-19T03:05:21.112Z",
+  "updatedAt": "2026-08-19T04:09:44.455Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,17 +9,12 @@
       "rank": 1,
       "keyword": "트럭",
       "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '환경미화원 3명 새벽 청소 나섰다 참변…청소차·덤프트럭 충돌(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '영천서 덤프트럭·생활폐기물 수거차량 충돌···업체 직원 3명 숨져' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "환경미화원 3명 새벽 청소 나섰다 참변…청소차·덤프트럭 충돌(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819072850514"
-        },
         {
           "title": "영천서 덤프트럭·생활폐기물 수거차량 충돌···업체 직원 3명 숨져",
           "source": "경향신문",
@@ -29,45 +24,22 @@
           "title": "경북 영천에서 덤프트럭·청소차 충돌‥환경미화원 3명 사망",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/news/2026/society/article/6845648_36918.html"
+        },
+        {
+          "title": "경북 영천서 청소차·화물차 충돌...환경미화원 3명 숨져",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0115_202608191227471880"
         }
       ]
     },
     {
-      "id": "왕즈이",
+      "id": "투싼-신형",
       "rank": 2,
-      "keyword": "왕즈이",
+      "keyword": "투싼 신형",
       "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '[아시안게임] ③'최강' 안세영 뜬다…배드민턴, 24년 만의 최고 성적 겨냥' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[아시안게임] ③'최강' 안세영 뜬다…배드민턴, 24년 만의 최고 성적 겨냥",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819073201576"
-        },
-        {
-          "title": "한 달 만의 부상 복귀전‥'100%는 아니어도 승리'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6845317_37004.html"
-        },
-        {
-          "title": "'부상 복귀' 안세영, 세계선수권 32강 진출",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260818_0002214300"
-        }
-      ]
-    },
-    {
-      "id": "투싼",
-      "rank": 3,
-      "keyword": "투싼",
-      "volumeLabel": "500+",
       "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+2",
+      "change": "new",
+      "changeLabel": "NEW",
       "summary": "급상승 시점에 '현대차, 디 올 뉴 투싼 디자인 공개 | 뉴스 | 현대자동차그룹' (Hyundai Motor Group) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -89,25 +61,165 @@
       ]
     },
     {
-      "id": "유니트리",
-      "rank": 4,
-      "keyword": "유니트리",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "id": "피겨스케이팅",
+      "rank": 3,
+      "keyword": "피겨스케이팅",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '중국 로봇 기업 유니트리, 커촹반 전격 상장…12조 원대 '최대 로봇 IPO'' (전자신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '日피겨 여신 다리에 선명한 멍자국... 열도가 깜짝! \"맹훈련, 너무 아프겠지만...\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "중국 로봇 기업 유니트리, 커촹반 전격 상장…12조 원대 '최대 로봇 IPO'",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260819000046"
+          "title": "日피겨 여신 다리에 선명한 멍자국... 열도가 깜짝! \"맹훈련, 너무 아프겠지만...\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/19/2026081822162772667"
         },
+        {
+          "title": "경악! 반바지 입고 다리 드러내니 선명한 노력의 흔적...日 피겨 스타 혼다 마린 깜짝 근황 \"멍으로 가득, 열심히 하고 있단 방증\"",
+          "source": "스포탈코리아",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553465658"
+        },
+        {
+          "title": "차준환, '나 혼자만 레벨업' 막공 성료…새 가능성 입증",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818102746887"
+        }
+      ]
+    },
+    {
+      "id": "아랍에미리트",
+      "rank": 4,
+      "keyword": "아랍에미리트",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“미사일 쐈지?” 분노한 UAE, 이란 ‘마지막 돈줄’ 완전히 끊었다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“미사일 쐈지?” 분노한 UAE, 이란 ‘마지막 돈줄’ 완전히 끊었다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819105109479"
+        },
+        {
+          "title": "UAE, 이란 '생존경제' 압박…무역·금융거래 전면 중단(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260819006951079"
+        },
+        {
+          "title": "에너지 시황 - 이란은 휴전이 아닌 종전을 원한다",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/analysis/article-200458648"
+        }
+      ]
+    },
+    {
+      "id": "소지섭",
+      "rank": 5,
+      "keyword": "소지섭",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '소지섭, 사고 쳤다…'김부장' 시즌2 스포일러 \"팀으로 움직일 듯\" [화보]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "소지섭, 사고 쳤다…'김부장' 시즌2 스포일러 \"팀으로 움직일 듯\" [화보]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818085139204"
+        },
+        {
+          "title": "소지섭, '김부장' 흥행에도 고민 \"새로운 모습 보여주기 쉽지 않아\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202608190930287561"
+        },
+        {
+          "title": "소지섭 “‘김부장’ 시즌2, 팀으로 움직일 듯…세계관 너무 크다”",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2615383"
+        }
+      ]
+    },
+    {
+      "id": "영등포구",
+      "rank": 6,
+      "keyword": "영등포구",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '영등포구, 재개발 상담센터 상담·수강 6000건 돌파' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "영등포구, 재개발 상담센터 상담·수강 6000건 돌파",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026081908222868771"
+        },
+        {
+          "title": "영등포구, 재개발 상담 5690건 달성 …‘권리가액 산정 원리’ 특강",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10844610"
+        },
+        {
+          "title": "영등포구, 재개발 상담센터 통해 5,690건 주민 상담…갈등 해소 기여",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3667796"
+        }
+      ]
+    },
+    {
+      "id": "인천지하철",
+      "rank": 7,
+      "keyword": "인천지하철",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '인천교통공사, 전동차내 폭행 제지한 모범시민에 포상' (한국일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "인천교통공사, 전동차내 폭행 제지한 모범시민에 포상",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026081817470000834"
+        },
+        {
+          "title": "인천2호선 승객 폭행 제지한 시민…감사패 전달돼",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000004037&code=61122012&sid1=soc"
+        },
+        {
+          "title": "인천교통공사, 지하철 폭행 피해자 지킨 시민에 감사패 전달:경인투데이뉴스",
+          "source": "경인투데이뉴스",
+          "url": "https://www.ktin.net/63714936"
+        }
+      ]
+    },
+    {
+      "id": "유니트리",
+      "rank": 8,
+      "keyword": "유니트리",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-4",
+      "summary": "급상승 시점에 ''中휴머노이드 대표주자' 유니트리 상장 첫날 주가 400%대 급등' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
         {
           "title": "'中휴머노이드 대표주자' 유니트리 상장 첫날 주가 400%대 급등",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260819112644552"
+        },
+        {
+          "title": "중국 로봇기업 유니트리, 상장 첫날 주가 629% 상승",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608191231001"
         },
         {
           "title": "‘우사인 볼트’도 제쳤다…中유니트리, 신제품 ‘초인’ 공개 (영상)",
@@ -117,97 +229,41 @@
       ]
     },
     {
-      "id": "나가노-메이",
-      "rank": 5,
-      "keyword": "나가노 메이",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 ''불륜 의혹' 女배우, 드라마 복귀 선언→프로듀서 참여...반응 '술렁' [MHN:글로벌]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'불륜 의혹' 女배우, 드라마 복귀 선언→프로듀서 참여...반응 '술렁' [MHN:글로벌]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/6lKNKmztJ1"
-        },
-        {
-          "title": "15세 연상과 불륜설 불거진 배우 주연 발탁, 초고속 연기 활동 재개",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260818n08134?mid=e1400"
-        },
-        {
-          "title": "불륜설 나가노 메이, ‘히마치의 여왕’ 주연+PD 컴백",
-          "source": "미디어파인",
-          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=87076"
-        }
-      ]
-    },
-    {
-      "id": "영등포구",
-      "rank": 6,
-      "keyword": "영등포구",
-      "volumeLabel": "200+",
+      "id": "말린스-대-필리스",
+      "rank": 9,
+      "keyword": "말린스 대 필리스",
+      "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[동정] 이병선 속초시장 외' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '필라델피아 산체스, 1회초 마이애미전 선발 투구' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[동정] 이병선 속초시장 외",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819000650788"
+          "title": "필라델피아 산체스, 1회초 마이애미전 선발 투구",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3667852"
         },
         {
-          "title": "한울본부, 민ㆍ관ㆍ군ㆍ경ㆍ소방 통합방호훈련 시행",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260819500601"
+          "title": "홈에서는 그야말로 괴물 그 자체…! WBC서 류현진, 韓 울렸던 산체스, 역대 MLB 최고 성적도 도전",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260818n12040"
         },
         {
-          "title": "울산 을지연습 돌입…91개 기관 참여",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8639817"
-        }
-      ]
-    },
-    {
-      "id": "사이드카",
-      "rank": 7,
-      "keyword": "사이드카",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '코스피 6% 넘게 급락하며 6,400까지 밀려‥장초반 매도 사이드카' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "코스피 6% 넘게 급락하며 6,400까지 밀려‥장초반 매도 사이드카",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6845694_36932.html"
-        },
-        {
-          "title": "“요며칠 조금 오르나 싶더니 또”…삼전닉스, 6~8%대 동반 급락",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1144614"
-        },
-        {
-          "title": "주요국 국채 금리 급등 여파에 코스피 급락…외국인 순매도",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819113750168"
+          "title": "'홈 15경기 11승 ERA 1.42' 산체스 호투… 필리스 와일드카드 2위 수성, 산체스 20승 도전?!",
+          "source": "https://www.mlbkor.com/",
+          "url": "https://www.mlbkor.com/news/articleView.html?idxno=32225"
         }
       ]
     },
     {
       "id": "이스타항공",
-      "rank": 8,
+      "rank": 10,
       "keyword": "이스타항공",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '한국서 갈아타는 중국인 74% 급증… 제주항공 환승객 10만 명 넘었다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -225,62 +281,6 @@
           "title": "제주항공 국제선 환승객 10만명 돌파…중국인 4명 중 1명",
           "source": "제민일보",
           "url": "https://www.jemin.com/news/articleView.html?idxno=841779"
-        }
-      ]
-    },
-    {
-      "id": "안태준",
-      "rank": 9,
-      "keyword": "안태준",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '개인택시 ‘5년 족쇄’ 푼다…안태준 의원, 단기 차익거래 막는 안전장치 발의' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "개인택시 ‘5년 족쇄’ 푼다…안태준 의원, 단기 차익거래 막는 안전장치 발의",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/qDd5KdyOvl"
-        },
-        {
-          "title": "안태준 의원, '택시발전법 개정안' 대표 발의",
-          "source": "뉴스투데이24",
-          "url": ""
-        },
-        {
-          "title": "개인택시 ‘5년 양도제한’ 폐지 수순…‘3년 재취득 금지’에 면허값 상승 압력",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=347916"
-        }
-      ]
-    },
-    {
-      "id": "화이트삭스-대-컵스",
-      "rank": 10,
-      "keyword": "화이트삭스 대 컵스",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '\"이런 선수 본 적이 없다\" 오타니 시대 끝났나, 멀티포 치고 묻히다니…컵스 슈퍼스타가 MVP 1순위' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"이런 선수 본 적이 없다\" 오타니 시대 끝났나, 멀티포 치고 묻히다니…컵스 슈퍼스타가 MVP 1순위",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819054211895"
-        },
-        {
-          "title": "NL MVP는 바로 나, 오타니-PCA 화력대결",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8639793"
-        },
-        {
-          "title": "[MLB] CHC 크로우-암스트롱, 연장 끝내기 2점포…2년 연속 30-30클럽 가입",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260818001251"
         }
       ]
     }
