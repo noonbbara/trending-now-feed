@@ -1,101 +1,45 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-20T13:03:10.817Z",
+  "updatedAt": "2026-08-20T14:09:54.205Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "내일-날씨",
-      "rank": 1,
-      "keyword": "내일 날씨",
-      "volumeLabel": "100000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[날씨/XR] 남부 중심 소나기…주말 다시 더워져' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[날씨/XR] 남부 중심 소나기…주말 다시 더워져",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820213007910"
-        },
-        {
-          "title": "[날씨] 내일 중부 흐리고 비‥'처서' 이후에도 무더위 계속",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820211619620"
-        },
-        {
-          "title": "“에어컨 리모컨 어디갔지?” 며칠 선선하다 싶더니...다시 찾아온 폭염",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20081586"
-        }
-      ]
-    },
-    {
-      "id": "레버리지",
-      "rank": 2,
-      "keyword": "레버리지",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이달 ETF 거래대금 '반토막'…\"단일 레버리지 규제 영향\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "이달 ETF 거래대금 '반토막'…\"단일 레버리지 규제 영향\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820080152400"
-        },
-        {
-          "title": "[AI 시사상식] 고수익의 유혹 ‘레버리지 ETF’",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8640804"
-        },
-        {
-          "title": "1억 들고 레버리지 모의투자…“잠깐 한눈판 사이 계좌가 녹았다”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/finance/1273783.html"
-        }
-      ]
-    },
-    {
       "id": "weather-tomorrow",
-      "rank": 3,
+      "rank": 1,
       "keyword": "weather tomorrow",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'London weather forecast: light showers and mild temperatures today, sun…' (The Times of India) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+2",
+      "summary": "급상승 시점에 'Widely scattered storms tonight; Quiet start to the weekend' (KELOLAND.com) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "London weather forecast: light showers and mild temperatures today, sunny week ahead",
-          "source": "The Times of India",
-          "url": "https://timesofindia.indiatimes.com/world/uk/london-weather-forecast-light-showers-and-mild-temperatures-today-sunny-week-ahead/articleshow/133364889.cms"
+          "title": "Widely scattered storms tonight; Quiet start to the weekend",
+          "source": "KELOLAND.com",
+          "url": "https://www.keloland.com/news/local-news/widely-scattered-storms-tonight-quiet-start-to-the-weekend/"
         },
         {
-          "title": "BBC London News; Weather on BBC One London HD: full details and when it's on",
-          "source": "TVGuide.co.uk",
-          "url": "https://www.tvguide.co.uk/schedule/b091159d-f315-5b55-9469-546454d6e633/bbc-london-news-weather"
+          "title": "Scattered thunderstorms ahead the next 24 hours; Warm temps ahead",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/news/weather-news/articles/scattered-thunderstorms-ahead-next-24-122710462.html"
         },
         {
-          "title": "Hour-by-hour weather for today - when the hottest part of the day will hit London",
-          "source": "Yahoo News UK",
-          "url": "https://uk.news.yahoo.com/hour-hour-weather-today-hottest-085244675.html"
+          "title": "A few spotty showers for today",
+          "source": "Mitchell Republic",
+          "url": "https://www.mitchellrepublic.com/video/T1TpS6DE"
         }
       ]
     },
     {
       "id": "thời-tiết-ngày-mai",
-      "rank": 4,
+      "rank": 2,
       "keyword": "thời tiết ngày mai",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+2",
       "summary": "급상승 시점에 'Áp thấp nhiệt đới có thể mạnh lên thành bão khi vào vịnh Bắc Bộ' (BỘ NÔNG NGHIỆP VÀ MÔI TRƯỜNG) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -105,25 +49,25 @@
           "url": "https://mae.gov.vn/ap-thap-nhiet-doi-co-the-manh-len-thanh-bao-khi-vao-vinh-bac-bo-22647.htm"
         },
         {
-          "title": "Dự báo thời tiết ngày mai 21.8: Hà Nội có mưa to",
-          "source": "Laodong.vn",
-          "url": "https://laodong.vn/du-lich/cong-dong/du-bao-thoi-tiet-ngay-mai-218-ha-noi-co-mua-to-1753496.html"
+          "title": "Quân đội sẵn sàng các phương án ứng phó áp thấp nhiệt đới",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/quan-doi-san-sang-cac-phuong-an-ung-pho-ap-thap-nhiet-doi"
         },
         {
-          "title": "Trạm tin chiều 20/8: Áp thấp có khả năng mạnh lên thành bão | Giá xăng dầu tăng",
-          "source": "VOH",
-          "url": "https://voh.com.vn/thoi-su/tram-tin-chieu-208-ap-thap-co-kha-nang-manh-len-thanh-bao-gia-xang-dau-tang-664429.html"
+          "title": "Dự báo thời tiết đêm 20 và ngày 21/8",
+          "source": "Báo Lào Cai điện tử",
+          "url": "https://baolaocai.vn/du-bao-thoi-tiet-dem-20-va-ngay-218-post906560.html"
         }
       ]
     },
     {
       "id": "박은빈",
-      "rank": 5,
+      "rank": 3,
       "keyword": "박은빈",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+2",
       "summary": "급상승 시점에 '\"연기의 神인 이유 있었다\"...'오싹한 연애' 쉬는 시간마다 '대본' 붙잡고 '열공'하는 박은빈 포착' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -145,30 +89,86 @@
       ]
     },
     {
+      "id": "기아타이거즈",
+      "rank": 4,
+      "keyword": "기아타이거즈",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''대박' KIA 김도영 \"저 2년차 때보다 훨씬 잘하고 있다\"며 직접 극찬한 '20살 이 선수' 대단하네' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'대박' KIA 김도영 \"저 2년차 때보다 훨씬 잘하고 있다\"며 직접 극찬한 '20살 이 선수' 대단하네",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820133837958"
+        },
+        {
+          "title": "[사진]김도영 '안타 다음은 2루타' - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/08/20/GEYTINJQGM3WGMZYGJTGCYJYMI/"
+        },
+        {
+          "title": "[엠빅뉴스] 도영이 형 앞에서 꼭 살아나가고 싶다.. 수달형제 이렇게 훈훈하다",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/original/mbig/6846102_29041.html"
+        }
+      ]
+    },
+    {
+      "id": "강원일보",
+      "rank": 5,
+      "keyword": "강원일보",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '대한건설협회 강원도회, 교육시설 공사 지역업체 참여 확대 건의' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "대한건설협회 강원도회, 교육시설 공사 지역업체 참여 확대 건의",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820161409882"
+        },
+        {
+          "title": "대한건설협회 강원특별자치도회-도교육청, 경기 활성화 간담회",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820163235762"
+        },
+        {
+          "title": "[포토] ‘전국 8도 로컬푸드 박람회’ 성대한 개막",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1769367"
+        }
+      ]
+    },
+    {
       "id": "cuaca-besok",
       "rank": 6,
       "keyword": "cuaca besok",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Suhu Kota Kupang Diprakirakan Capai 28,0°C | Pusat Data Ekonomi dan Bis…' (Databoks Katadata) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 'Inilah Prakiraan Cuaca di Sulsel Jumat 21 Agustus 2026' (Bonepos.com) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Suhu Kota Kupang Diprakirakan Capai 28,0°C | Pusat Data Ekonomi dan Bisnis Indonesia | Databoks",
-          "source": "Databoks Katadata",
-          "url": "https://databoks.katadata.co.id/lingkungan/statistik/f782dc0a302de50/suhu-kota-kupang-diprakirakan-capai-28-0-c"
+          "title": "Inilah Prakiraan Cuaca di Sulsel Jumat 21 Agustus 2026",
+          "source": "Bonepos.com",
+          "url": "https://www.bonepos.com/2026/08/20/inilah-prakiraan-cuaca-di-sulsel-jumat-21-agustus-2026"
         },
         {
-          "title": "Cuaca NTT 18 Agustus, Waspada Angin Kencang di Empat Wilayah",
-          "source": "RRI.co.id",
-          "url": "https://rri.co.id/kupang/berita-lain/2659450/cuaca-ntt-18-agustus-waspada-angin-kencang-di-empat-wilayah"
+          "title": "Cuaca Makassar Besok, 21 Agustus 2026: Cerah Berawan, Waspada Potensi Angin Kencang!",
+          "source": "detikcom",
+          "url": "https://www.detik.com/sulsel/makassar/d-8627383/cuaca-makassar-besok-21-agustus-2026-cerah-berawan-waspada-potensi-angin-kencang"
         },
         {
-          "title": "Cuaca NTT Hari Ini, 20 Agustus 2026: Cerah, 25–29°C",
-          "source": "JournalArta",
-          "url": "https://journalarta.com/news/2026/08/20/prakiraan-cuaca-kupang/"
+          "title": "BMKG Keluarkan Peringatan Dini Cuaca Panas, Sejumlah Wilayah di Sulsel Termasuk Luwu Raya Waspada",
+          "source": "palopopos",
+          "url": "https://palopopos.fajar.co.id/2026/08/20/bmkg-keluarkan-peringatan-dini-cuaca-panas-sejumlah-wilayah-di-sulsel-termasuk-luwu-raya-waspada/"
         }
       ]
     },
@@ -177,9 +177,9 @@
       "rank": 7,
       "keyword": "조경태",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '국힘 윤리위, 비당권파 4人 당원권 정지 징계' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -201,41 +201,69 @@
       ]
     },
     {
-      "id": "류현진",
+      "id": "이정범",
       "rank": 8,
-      "keyword": "류현진",
+      "keyword": "이정범",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''두 달 넘게 무승이라니' 류현진 또또 승리 실패…6이닝 5K 4실점 '패전 위기' [오!쎈 대전] - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+2",
+      "summary": "급상승 시점에 'SSG 웨이버 방출→KT 트레이드 영입…미완의 유망주, 안타-안타-2루타→이적 후 4할 맹타 “기회를 못 잡아 아쉬웠다”' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'두 달 넘게 무승이라니' 류현진 또또 승리 실패…6이닝 5K 4실점 '패전 위기' [오!쎈 대전] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/20/202608202054779266O"
+          "title": "SSG 웨이버 방출→KT 트레이드 영입…미완의 유망주, 안타-안타-2루타→이적 후 4할 맹타 “기회를 못 잡아 아쉬웠다”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820104311972"
         },
         {
-          "title": "역전 안타치는 나성범, 5연승 가자!",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8065503"
+          "title": "[사진]이정범, 1군 콜업 적시타 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/08/20/HA2TINJTHA3GMMLCMJRDQNRXGU/"
         },
         {
-          "title": "[사진]경기장 가득 채운 한화-KIA 관중들",
+          "title": "[사진]플라이 처리하는 송찬의",
           "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112860852"
+          "url": "https://www.osen.co.kr/article/G1112860828"
+        }
+      ]
+    },
+    {
+      "id": "케네디",
+      "rank": 9,
+      "keyword": "케네디",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '공 4개로 위기 지운 LG 케네디, 데뷔전서 팬들에게 눈도장' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "공 4개로 위기 지운 LG 케네디, 데뷔전서 팬들에게 눈도장",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260820123000007"
+        },
+        {
+          "title": "[포토]'케네디 투구 지켜보는' LG 내야수들 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/20/2026082020570156547"
+        },
+        {
+          "title": "LG, 김진성마저 어깨 부상으로 3~4주 이탈…'불펜 구심점' 잃은 염갈량 \"상황 어떻든 감독은 결과 내야\" [잠실 현장]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820121153961"
         }
       ]
     },
     {
       "id": "순대외금융자산",
-      "rank": 9,
+      "rank": 10,
       "keyword": "순대외금융자산",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '순대외금융자산 12년 만에 최소…역대 최대폭 감소' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -253,34 +281,6 @@
           "title": "2분기 대외채무 8128억 달러... 외채 건전성 악화",
           "source": "브릿지경제",
           "url": "https://www.viva100.com/article/20260820501269"
-        }
-      ]
-    },
-    {
-      "id": "이정범",
-      "rank": 10,
-      "keyword": "이정범",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'SSG 웨이버 방출→KT 트레이드 영입…미완의 유망주, 안타-안타-2루타→이적 후 4할 맹타 “기회를 못 잡아 아쉬웠다”' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "SSG 웨이버 방출→KT 트레이드 영입…미완의 유망주, 안타-안타-2루타→이적 후 4할 맹타 “기회를 못 잡아 아쉬웠다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820104311972"
-        },
-        {
-          "title": "'방출 아픔 딛고 KT 데뷔전' 이정범은 SSG를 기다린다 \"내일부터 문학에서 경기하는데...\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/20/2026082015501766993"
-        },
-        {
-          "title": "‘SSG 방출→KT 이적 후 첫 1군 선발 출장’ 이정범…이강철 KT 감독 “2군에서 잘 치고 있어서 올렸다” [잠실 현장]",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260820522239"
         }
       ]
     }
