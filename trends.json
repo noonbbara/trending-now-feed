@@ -1,62 +1,62 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-20T17:02:23.063Z",
+  "updatedAt": "2026-08-20T17:58:06.091Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "오디세이",
+      "id": "삼성-전자-주주-환원",
       "rank": 1,
-      "keyword": "오디세이",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '\"천만 영화보다 폭발적\"..'오디세이', 전무후무 신기록→3주차에 예매량 70만장' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "삼성 전자 주주 환원",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[단독]삼성전자, 사상 최대 주주환원 100조 시대 공식화..\"내년에 더\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"천만 영화보다 폭발적\"..'오디세이', 전무후무 신기록→3주차에 예매량 70만장",
+          "title": "[단독]삼성전자, 사상 최대 주주환원 100조 시대 공식화..\"내년에 더\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/08/20/2026082009501899910"
+        },
+        {
+          "title": "하닉 역대급 주주환원에 시장 환호… 삼전이 릴레이 이어가나",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260820160238273"
+          "url": "https://v.daum.net/v/20260821020310064"
         },
         {
-          "title": "암만 때려도, 튀어나오는 암표",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/08/21/HFJLXADU25FXDKMAXRVNQC6FNY/"
-        },
-        {
-          "title": "[이다혜 칼럼] 오뒷세이아 독서를 위한 안내문",
-          "source": "채널예스",
-          "url": "https://m.ch.yes24.com/article/details/83291"
+          "title": "하닉 주주환원 시동에 증시 '환호'…코스피 5.89% 급등(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260820133851008"
         }
       ]
     },
     {
-      "id": "야구-순위",
+      "id": "오디세이",
       "rank": 2,
-      "keyword": "야구 순위",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 '◇오늘의 경기(20일)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "오디세이",
+      "volumeLabel": "2000+",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 ''범죄도시4'도 넘었다…대기 4만 명에 앱 마비시킨 이 작품 ('오디세이')' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "◇오늘의 경기(20일)",
+          "title": "'범죄도시4'도 넘었다…대기 4만 명에 앱 마비시킨 이 작품 ('오디세이')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820161844126"
+        },
+        {
+          "title": "아이맥스(IMAX)와 중력의 예술 [투데이 窓/남수영] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/opinion/2026/08/21/2026081914170259611"
+        },
+        {
+          "title": "'오디세이' 10만원대 티켓에 …영진위, 특별관 암표 제보 접수",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260819174500007"
-        },
-        {
-          "title": "[프로야구] 중간 순위(19일)",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/baseball/6263673"
-        },
-        {
-          "title": "[프로야구] 중간 순위(20일)",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260820n37831?mid=s01&list=recent&cpcd="
+          "url": "https://www.yna.co.kr/view/AKR20260819044100005"
         }
       ]
     },
@@ -65,16 +65,16 @@
       "rank": 3,
       "keyword": "한화",
       "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 ''김태군 역전 투런포' KIA, 한화 가을야구 희망 완전히 꺾었다… 주중 3연전 스윕' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 ''5연승' KIA, LG 제치고 3위 도약…'6연패' 한화 8위 추락(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'김태군 역전 투런포' KIA, 한화 가을야구 희망 완전히 꺾었다… 주중 3연전 스윕",
+          "title": "'5연승' KIA, LG 제치고 3위 도약…'6연패' 한화 8위 추락(종합)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260820223637081"
+          "url": "https://v.daum.net/v/20260820230549441"
         },
         {
           "title": "지독한 여덟수 빠진 류현진…70일째 9승 실패",
@@ -82,9 +82,9 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8642127"
         },
         {
-          "title": "와 '3위' 도약 실화다! 한화전 싹쓸이→5연승 기세 미쳤다…\"필승조 못 나온 힘든 경기 포기 않았다\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/08/21/GJQWGNJTGQYTIZRVMI3TGYLCME/"
+          "title": "'김태군 역전 투런포' KIA, 시즌 첫 3위 도약…한화, 8위 추락(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260820187200007"
         }
       ]
     },
@@ -93,9 +93,9 @@
       "rank": 4,
       "keyword": "이예빈",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '[포토]적시타는 못참지! '1회초 타점올린' 힐리어드 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -105,9 +105,9 @@
           "url": "https://www.mt.co.kr/entertainment/2026/08/20/2026082019415493269"
         },
         {
-          "title": "[사진]힐리어드, 1타점 적시타 '99타점'",
+          "title": "[사진]염경엽 감독, '선제점 허용했어'",
           "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112860977"
+          "url": ""
         },
         {
           "title": "잠실만 오면 펄펄 나는 KT 힐리어드…이강철 감독 \"첫 기억이 좋아서 그런 듯\"",
@@ -117,44 +117,21 @@
       ]
     },
     {
-      "id": "이재용",
-      "rank": 5,
-      "keyword": "이재용",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '사미자, 이재용 회장과 뜻밖의 인연…\"중3 때 얼굴 아직도 떠올라\" (오미자)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "사미자, 이재용 회장과 뜻밖의 인연…\"중3 때 얼굴 아직도 떠올라\" (오미자)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820185709701"
-        },
-        {
-          "title": "사미자, ‘중3 이재용’ 직접 만난 썰…“이부진 손 잡고 나와, 얼굴 빨개져”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/08/20/GE4DSNZSG43GKNLEMJSTCZDEGU/"
-        },
-        {
-          "title": "사미자, 이재용 회장과 뜻밖의 인연…\"중3 때 모습 아직도 기억\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260820_0003756282"
-        }
-      ]
-    },
-    {
       "id": "이륙",
-      "rank": 6,
+      "rank": 5,
       "keyword": "이륙",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '일본 나리타공항 이륙 준비 중 항공기 엔진서 연기…활주로 폐쇄' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "4시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '“이륙 직전 엔진서 검은 연기”…日나리타공항 활주로 2시간반 폐쇄' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "“이륙 직전 엔진서 검은 연기”…日나리타공항 활주로 2시간반 폐쇄",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820143438738"
+        },
         {
           "title": "일본 나리타공항 이륙 준비 중 항공기 엔진서 연기…활주로 폐쇄",
           "source": "연합뉴스TV",
@@ -164,11 +141,34 @@
           "title": "日나리타공항 말레이항공 여객기 엔진서 검은 연기…이륙 중지",
           "source": "뉴스1",
           "url": "https://www.news1.kr/world/northeast-asia/6264502"
+        }
+      ]
+    },
+    {
+      "id": "이재용",
+      "rank": 6,
+      "keyword": "이재용",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '사미자, 이재용 회장과 뜻밖의 인연…\"중3 때 얼굴 아직도 떠올라\" (오미자)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "사미자, 이재용 회장과 뜻밖의 인연…\"중3 때 얼굴 아직도 떠올라\" (오미자)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820185709701"
         },
         {
-          "title": "日나리타공항 이륙 준비 중 항공기 엔진서 연기…활주로 폐쇄",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260820113100009"
+          "title": "사미자, 이재용 회장과 뜻밖의 인연…\"중3 때 모습 아직도 기억\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260820_0003756282"
+        },
+        {
+          "title": "사미자, ‘중3 이재용’ 직접 만난 썰…“이부진 손 잡고 나와, 얼굴 빨개져”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/08/20/GE4DSNZSG43GKNLEMJSTCZDEGU/"
         }
       ]
     },
@@ -177,9 +177,9 @@
       "rank": 7,
       "keyword": "일베",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '극우와 밈의 만남, 일베 천하를 열다' (한겨레21) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -205,7 +205,7 @@
       "rank": 8,
       "keyword": "리플",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "4시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 'XRP 가격이 10% 상승' (Investing.com 한국어) 관련 뉴스가 함께 포착됐어요.",
@@ -233,7 +233,7 @@
       "rank": 9,
       "keyword": "욕조",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "4시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 '고시원에 책상 빼고 욕조?…속 부글부글 2030, “조롱당한 기분”' (Daum) 관련 뉴스가 함께 포착됐어요.",
@@ -242,7 +242,7 @@
         {
           "title": "고시원에 책상 빼고 욕조?…속 부글부글 2030, “조롱당한 기분”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/uFZWTXMVk4"
+          "url": "https://v.daum.net/v/20260820102810238"
         },
         {
           "title": "“곰팡이 지옥 될 텐데?”…“고시원 욕조”에 뿔난 청년들 [잇슈#태그]",
@@ -261,7 +261,7 @@
       "rank": 10,
       "keyword": "강남구",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "4시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 '세제 개편 여파? 강남·서초 ‘하락’…중저가는 ‘상승’' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
