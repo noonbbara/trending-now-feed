@@ -1,34 +1,34 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-20T19:37:07.883Z",
+  "updatedAt": "2026-08-20T20:36:52.436Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
       "id": "오디세이",
       "rank": 1,
       "keyword": "오디세이",
-      "volumeLabel": "2000+",
-      "startedLabel": "5시간 전",
+      "volumeLabel": "5000+",
+      "startedLabel": "6시간 전",
       "change": "steady",
       "changeLabel": "유지",
-      "summary": "급상승 시점에 ''범죄도시4'도 넘었다…대기 4만 명에 앱 마비시킨 이 작품 ('오디세이')' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '22년간 ‘오디세이’ 번역한 학자… 3시간 영화가 그를 울렸다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'범죄도시4'도 넘었다…대기 4만 명에 앱 마비시킨 이 작품 ('오디세이')",
+          "title": "22년간 ‘오디세이’ 번역한 학자… 3시간 영화가 그를 울렸다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260820161844126"
+          "url": "https://v.daum.net/v/20260821043449636"
+        },
+        {
+          "title": "3000년 전 영웅 이야기가 왜 지금? ‘복잡한 내면’ ‘환대’로 짚는 현대성 [.txt]",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/culture/book/1273959.html"
         },
         {
           "title": "아이맥스(IMAX)와 중력의 예술 [투데이 窓/남수영] - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/opinion/2026/08/21/2026081914170259611"
-        },
-        {
-          "title": "[여적] ‘용아맥’ 암표",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608191810011"
         }
       ]
     },
@@ -37,42 +37,70 @@
       "rank": 2,
       "keyword": "삼성 전자 주주 환원",
       "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "4시간 전",
       "change": "steady",
       "changeLabel": "유지",
-      "summary": "급상승 시점에 '[단독]삼성전자, 사상 최대 주주환원 100조 시대 공식화..\"내년에 더\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '하닉 주주환원 시동에 증시 '환호'…코스피 5.89% 급등(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "[단독]삼성전자, 사상 최대 주주환원 100조 시대 공식화..\"내년에 더\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/08/20/2026082009501899910"
-        },
         {
           "title": "하닉 주주환원 시동에 증시 '환호'…코스피 5.89% 급등(종합)",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260820133851008"
         },
         {
-          "title": "'40조 주주환원' 하이닉스 13% 폭등...코스피 5.9%↑",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202608210039300267"
+          "title": "“하이닉스 40조 쐈는데 삼전 150조 푼다?”…797만 개미 들썩인 ‘숫자의 덫’ [숫자 뒤의 진실]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821050314954"
+        },
+        {
+          "title": "SK하이닉스, 40조원 자사주 매입·소각...주주 환원도 더 늘린다",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260819161157"
+        }
+      ]
+    },
+    {
+      "id": "브라질",
+      "rank": 3,
+      "keyword": "브라질",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '핵잠 도입 밀고가는 룰라 “평생 美에 고개 숙일 순 없어”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "핵잠 도입 밀고가는 룰라 “평생 美에 고개 숙일 순 없어”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821043424626"
+        },
+        {
+          "title": "브라질 룰라 “고개 숙이고 살 순 없어”…핵추진 잠수함 지원 약속",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/international/america/1273868.html"
+        },
+        {
+          "title": "브라질 핵잠수함 사업 강행···룰라 “이 정도 규모 국가가 평생 고개 숙일 순 없어”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608201023001"
         }
       ]
     },
     {
       "id": "트롬쇠-대-브라이턴",
-      "rank": 3,
+      "rank": 4,
       "keyword": "트롬쇠 대 브라이턴",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 'UEFA Conference League LIVE: Tromsø vs Brighton & Hove Albion - text up…' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 'Brighton held in Conference League play-off first leg' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "UEFA Conference League LIVE: Tromsø vs Brighton & Hove Albion - text updates, scores, stats & head-to-head",
+          "title": "Brighton held in Conference League play-off first leg",
           "source": "BBC",
           "url": "https://www.bbc.com/sport/football/live/cmkgvvnx93vlt"
         },
@@ -89,44 +117,21 @@
       ]
     },
     {
-      "id": "브라질",
-      "rank": 4,
-      "keyword": "브라질",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '룰라 핵잠수함 사업 강행…\"브라질 평생 고개 숙일 순 없어\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "룰라 핵잠수함 사업 강행…\"브라질 평생 고개 숙일 순 없어\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/7GVdtPCE1J"
-        },
-        {
-          "title": "룰라 “핵잠 후퇴 없다…상대에 ‘NO’할수 있는 힘 필요”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20260820/134510427/1"
-        },
-        {
-          "title": "브라질 룰라 “고개 숙이고 살 순 없어”…핵추진 잠수함 지원 약속",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/international/america/1273868.html"
-        }
-      ]
-    },
-    {
       "id": "이재용",
       "rank": 5,
       "keyword": "이재용",
       "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '사미자, ‘중3 이재용’ 직접 만난 썰…“이부진 손 잡고 나와, 얼굴 빨개져”' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '사미자, 이재용 회장과 뜻밖의 인연…\"중3 때 모습 아직도 기억\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "사미자, 이재용 회장과 뜻밖의 인연…\"중3 때 모습 아직도 기억\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260820_0003756282"
+        },
         {
           "title": "사미자, ‘중3 이재용’ 직접 만난 썰…“이부진 손 잡고 나와, 얼굴 빨개져”",
           "source": "조선일보",
@@ -136,11 +141,6 @@
           "title": "사미자, 이재용 회장과 뜻밖의 인연…\"중3 때 얼굴 아직도 떠올라\" (오미자)",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260820185709701"
-        },
-        {
-          "title": "사미자, 이재용 회장과 뜻밖의 인연…\"중3 때 모습 아직도 기억\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260820_0003756282"
         }
       ]
     },
@@ -149,9 +149,9 @@
       "rank": 6,
       "keyword": "이예빈",
       "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '[포토]적시타는 못참지! '1회초 타점올린' 힐리어드 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -173,69 +173,13 @@
       ]
     },
     {
-      "id": "크랙",
-      "rank": 7,
-      "keyword": "크랙",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"게임 아니라며?\" 지스타 간판 된 크랙…'게임 기능' 심사는 누가 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"게임 아니라며?\" 지스타 간판 된 크랙…'게임 기능' 심사는 누가 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/tech/2026/08/20/2026081911193094191"
-        },
-        {
-          "title": "지스타 2026, ‘외연 확장’ 2대 전략 발표…메인스폰서에 AI 플랫폼 ‘크랙’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/biO4VDUZlJ"
-        },
-        {
-          "title": "게임사 빅5, 지스타 첫 불참 ...'국제 게임쇼' 간판 위기",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260819001079"
-        }
-      ]
-    },
-    {
-      "id": "이륙",
-      "rank": 8,
-      "keyword": "이륙",
-      "volumeLabel": "200+",
-      "startedLabel": "6시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '“이륙 직전 엔진서 검은 연기”…日나리타공항 활주로 2시간반 폐쇄' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“이륙 직전 엔진서 검은 연기”…日나리타공항 활주로 2시간반 폐쇄",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820143438738"
-        },
-        {
-          "title": "일본 나리타공항 이륙 준비 중 항공기 엔진서 연기…활주로 폐쇄",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260820143407SgN"
-        },
-        {
-          "title": "日나리타공항 말레이항공 여객기 엔진서 검은 연기…이륙 중지",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/northeast-asia/6264502"
-        }
-      ]
-    },
-    {
       "id": "일베",
-      "rank": 9,
+      "rank": 7,
       "keyword": "일베",
       "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-2",
+      "startedLabel": "6시간 전",
+      "change": "up",
+      "changeLabel": "+2",
       "summary": "급상승 시점에 '극우와 밈의 만남, 일베 천하를 열다' (한겨레21) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -258,29 +202,85 @@
     },
     {
       "id": "리플",
-      "rank": 10,
+      "rank": 8,
       "keyword": "리플",
       "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 'XRP 가격이 10% 상승' (Investing.com 한국어) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "6시간 전",
+      "change": "up",
+      "changeLabel": "+2",
+      "summary": "급상승 시점에 'SEC와 맞섰던 리플, 새 가상자산 태스크포스 합류…XRP 두 자릿수 급등' (Investing.com 한국어) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "XRP 가격이 10% 상승",
+          "title": "SEC와 맞섰던 리플, 새 가상자산 태스크포스 합류…XRP 두 자릿수 급등",
           "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/cryptocurrency-news/article-2068232"
+          "url": "https://kr.investing.com/news/cryptocurrency-news/article-2069345"
         },
         {
-          "title": "리플 1달러 선 하회하자… 고래 지갑 하루 만에 1.9억 개 매집",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Securities/2026/08/202608200551082969e7e8286d56_1"
+          "title": "리플 CEO \"암호화폐는 더 이상 변방 산업이 아니다\"",
+          "source": "디지털투데이",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694450"
         },
         {
-          "title": "[데일리픽] XRP 고액 거래 280% 폭발…청소년 전용 챗GPT 출시",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260819n28567"
+          "title": "리플 IPO 가능성 커졌다…기업가치 500억달러 주목",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/253566"
+        }
+      ]
+    },
+    {
+      "id": "강남구",
+      "rank": 9,
+      "keyword": "강남구",
+      "volumeLabel": "100+",
+      "startedLabel": "7시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"한방에 3억 뚝, 여기 급매요\"...'세 부담' 초고가주택은 지금 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"한방에 3억 뚝, 여기 급매요\"...'세 부담' 초고가주택은 지금 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/08/21/2026082019043159007"
+        },
+        {
+          "title": "세제 개편 여파? 강남·서초 ‘하락’…중저가는 ‘상승’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8642052"
+        },
+        {
+          "title": "문재인 정부 때와 방향 비슷한 부동산 규제… 달라진 변수는 ‘이것’이다",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026081814100001251"
+        }
+      ]
+    },
+    {
+      "id": "욕조",
+      "rank": 10,
+      "keyword": "욕조",
+      "volumeLabel": "100+",
+      "startedLabel": "7시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '고시원에 책상 빼고 욕조?…속 부글부글 2030, “조롱당한 기분”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "고시원에 책상 빼고 욕조?…속 부글부글 2030, “조롱당한 기분”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820102810238"
+        },
+        {
+          "title": "“곰팡이 지옥 될 텐데?”…“고시원 욕조”에 뿔난 청년들 [잇슈#태그]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8641630"
+        },
+        {
+          "title": "고시원 한가운데 욕조가?…폐버스 이어 또 퍼진 풍자 밈",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260820/134510341/1"
         }
       ]
     }
