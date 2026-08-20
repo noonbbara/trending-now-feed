@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-20T18:53:55.414Z",
+  "updatedAt": "2026-08-20T19:37:07.883Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -10,8 +10,8 @@
       "keyword": "오디세이",
       "volumeLabel": "2000+",
       "startedLabel": "5시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 ''범죄도시4'도 넘었다…대기 4만 명에 앱 마비시킨 이 작품 ('오디세이')' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -38,8 +38,8 @@
       "keyword": "삼성 전자 주주 환원",
       "volumeLabel": "1000+",
       "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '[단독]삼성전자, 사상 최대 주주환원 100조 시대 공식화..\"내년에 더\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -54,48 +54,20 @@
           "url": "https://www.yna.co.kr/view/AKR20260820133851008"
         },
         {
-          "title": "'40조 주주환원' 하이닉스 13% 폭등...코스피 5.8%↑",
+          "title": "'40조 주주환원' 하이닉스 13% 폭등...코스피 5.9%↑",
           "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202608202208148805"
-        }
-      ]
-    },
-    {
-      "id": "이재용",
-      "rank": 3,
-      "keyword": "이재용",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+3",
-      "summary": "급상승 시점에 '사미자, 이재용 회장과 뜻밖의 인연…\"중3 때 얼굴 아직도 떠올라\" (오미자)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "사미자, 이재용 회장과 뜻밖의 인연…\"중3 때 얼굴 아직도 떠올라\" (오미자)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820185709701"
-        },
-        {
-          "title": "사미자, 이재용 회장과 뜻밖의 인연…\"중3 때 모습 아직도 기억\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260820_0003756282"
-        },
-        {
-          "title": "사미자, ‘중3 이재용’ 직접 만난 썰…“이부진 손 잡고 나와, 얼굴 빨개져”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/08/20/GE4DSNZSG43GKNLEMJSTCZDEGU/"
+          "url": "https://www.ytn.co.kr/_ln/0102_202608210039300267"
         }
       ]
     },
     {
       "id": "트롬쇠-대-브라이턴",
-      "rank": 4,
+      "rank": 3,
       "keyword": "트롬쇠 대 브라이턴",
-      "volumeLabel": "100+",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 'UEFA Conference League LIVE: Tromsø vs Brighton & Hove Albion - text up…' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -105,20 +77,76 @@
           "url": "https://www.bbc.com/sport/football/live/cmkgvvnx93vlt"
         },
         {
+          "title": "Tromso 0-0 Brighton: Seagulls held to goalless draw in first leg of Conference League play-off",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13575062/tromso-0-0-brighton-seagulls-held-to-goalless-draw-in-first-leg-of-conference-league-play-off"
+        },
+        {
           "title": "Brighton players covering fan tickets for Arctic Circle game",
           "source": "ESPN",
           "url": "https://www.espn.com/soccer/story/_/id/49664103/brighton-players-covering-fan-tickets-arctic-circle-game"
+        }
+      ]
+    },
+    {
+      "id": "브라질",
+      "rank": 4,
+      "keyword": "브라질",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '룰라 핵잠수함 사업 강행…\"브라질 평생 고개 숙일 순 없어\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "룰라 핵잠수함 사업 강행…\"브라질 평생 고개 숙일 순 없어\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/7GVdtPCE1J"
         },
         {
-          "title": "Lewis Dunk makes generous offer to Brighton fans travelling for Conference League play-off",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/lewis-dunk-makes-generous-offer-164240316.html"
+          "title": "룰라 “핵잠 후퇴 없다…상대에 ‘NO’할수 있는 힘 필요”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20260820/134510427/1"
+        },
+        {
+          "title": "브라질 룰라 “고개 숙이고 살 순 없어”…핵추진 잠수함 지원 약속",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/international/america/1273868.html"
+        }
+      ]
+    },
+    {
+      "id": "이재용",
+      "rank": 5,
+      "keyword": "이재용",
+      "volumeLabel": "200+",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 '사미자, ‘중3 이재용’ 직접 만난 썰…“이부진 손 잡고 나와, 얼굴 빨개져”' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "사미자, ‘중3 이재용’ 직접 만난 썰…“이부진 손 잡고 나와, 얼굴 빨개져”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/08/20/GE4DSNZSG43GKNLEMJSTCZDEGU/"
+        },
+        {
+          "title": "사미자, 이재용 회장과 뜻밖의 인연…\"중3 때 얼굴 아직도 떠올라\" (오미자)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820185709701"
+        },
+        {
+          "title": "사미자, 이재용 회장과 뜻밖의 인연…\"중3 때 모습 아직도 기억\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260820_0003756282"
         }
       ]
     },
     {
       "id": "이예빈",
-      "rank": 5,
+      "rank": 6,
       "keyword": "이예빈",
       "volumeLabel": "200+",
       "startedLabel": "4시간 전",
@@ -145,13 +173,41 @@
       ]
     },
     {
+      "id": "크랙",
+      "rank": 7,
+      "keyword": "크랙",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"게임 아니라며?\" 지스타 간판 된 크랙…'게임 기능' 심사는 누가 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"게임 아니라며?\" 지스타 간판 된 크랙…'게임 기능' 심사는 누가 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/08/20/2026081911193094191"
+        },
+        {
+          "title": "지스타 2026, ‘외연 확장’ 2대 전략 발표…메인스폰서에 AI 플랫폼 ‘크랙’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/biO4VDUZlJ"
+        },
+        {
+          "title": "게임사 빅5, 지스타 첫 불참 ...'국제 게임쇼' 간판 위기",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260819001079"
+        }
+      ]
+    },
+    {
       "id": "이륙",
-      "rank": 6,
+      "rank": 8,
       "keyword": "이륙",
       "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
+      "startedLabel": "6시간 전",
       "change": "down",
-      "changeLabel": "-1",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '“이륙 직전 엔진서 검은 연기”…日나리타공항 활주로 2시간반 폐쇄' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -174,12 +230,12 @@
     },
     {
       "id": "일베",
-      "rank": 7,
+      "rank": 9,
       "keyword": "일베",
       "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '극우와 밈의 만남, 일베 천하를 열다' (한겨레21) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -202,12 +258,12 @@
     },
     {
       "id": "리플",
-      "rank": 8,
+      "rank": 10,
       "keyword": "리플",
       "volumeLabel": "100+",
       "startedLabel": "5시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 'XRP 가격이 10% 상승' (Investing.com 한국어) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -225,62 +281,6 @@
           "title": "[데일리픽] XRP 고액 거래 280% 폭발…청소년 전용 챗GPT 출시",
           "source": "네이트",
           "url": "https://news.nate.com/view/20260819n28567"
-        }
-      ]
-    },
-    {
-      "id": "강남구",
-      "rank": 9,
-      "keyword": "강남구",
-      "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '\"한방에 3억 뚝, 여기 급매요\"...'세 부담' 초고가주택은 지금 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"한방에 3억 뚝, 여기 급매요\"...'세 부담' 초고가주택은 지금 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/08/21/2026082019043159007"
-        },
-        {
-          "title": "세제 개편 여파? 강남·서초 ‘하락’…중저가는 ‘상승’",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8642052"
-        },
-        {
-          "title": "KB부동산 \"세제개편에 강남구 하락 전환…전세도 꺾여\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431020"
-        }
-      ]
-    },
-    {
-      "id": "욕조",
-      "rank": 10,
-      "keyword": "욕조",
-      "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '고시원에 책상 빼고 욕조?…속 부글부글 2030, “조롱당한 기분”' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "고시원에 책상 빼고 욕조?…속 부글부글 2030, “조롱당한 기분”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/uFZWTXMVk4"
-        },
-        {
-          "title": "“곰팡이 지옥 될 텐데?”…“고시원 욕조”에 뿔난 청년들 [잇슈#태그]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8641630"
-        },
-        {
-          "title": "“고시원 방에 욕조? 폐버스 조롱으로 부족해?”…청년들, 탁상행정에 분노",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/politics/12132072"
         }
       ]
     }
