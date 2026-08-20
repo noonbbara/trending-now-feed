@@ -1,258 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-20T08:07:18.855Z",
+  "updatedAt": "2026-08-20T09:07:25.439Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "김영옥",
+      "id": "아리엘-후라도",
       "rank": 1,
-      "keyword": "김영옥",
+      "keyword": "아리엘 후라도",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '2위 삼성, 선두 kt 0.002 차 추격…3위 LG, 48일 만에 2연승(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "2위 삼성, 선두 kt 0.002 차 추격…3위 LG, 48일 만에 2연승(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819231643513"
+        },
+        {
+          "title": "'선취점이요'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260818177000053"
+        },
+        {
+          "title": "\"큰 거 필요 없어, 50m만 쳐\" 구 캡틴의 조언→'5G 타율 0.524' 디아즈가 깨어났다... '경기당 10득점' 삼성, 1위와 승차 지웠다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/20/2026082008001828813"
+        }
+      ]
+    },
+    {
+      "id": "이수만",
+      "rank": 2,
+      "keyword": "이수만",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“유진인 줄”… 바다, 언제 이렇게 달라졌어?' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“유진인 줄”… 바다, 언제 이렇게 달라졌어?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820141727627"
+        },
+        {
+          "title": "바다, 이수만과 얼굴 맞대고 셀카…30년 인연 눈길",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260820_0003755946"
+        },
+        {
+          "title": "'경업 금지 해제' 이수만, 오랜만의 모습 봤더니…S.E.S. 바다와 함께 \"선생님\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6264390"
+        }
+      ]
+    },
+    {
+      "id": "빙하",
+      "rank": 3,
+      "keyword": "빙하",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '폭염에 알프스 빙하 녹자…34년전 조난 2명 시신 발견' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "폭염에 알프스 빙하 녹자…34년전 조난 2명 시신 발견",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260820/134509869/1"
+        },
+        {
+          "title": "[월드 플러스] 폭염에 녹은 빙하…34년전 조난 시신 발견",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820154653404"
+        },
+        {
+          "title": "34년 전 실종된 등반가 2명 시신, 폭염에 녹은 알프스 빙하에서 발견",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260820000106"
+        }
+      ]
+    },
+    {
+      "id": "산사태",
+      "rank": 4,
+      "keyword": "산사태",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"친손녀 같아\" 윤아, 김영옥과 3년만 재회..'킹더랜드' 인연 여전' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[현장] 거제·통영 수해복구 '일손 부족'…농촌·섬지역 복구는 더 더뎌' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"친손녀 같아\" 윤아, 김영옥과 3년만 재회..'킹더랜드' 인연 여전",
+          "title": "[현장] 거제·통영 수해복구 '일손 부족'…농촌·섬지역 복구는 더 더뎌",
           "source": "Daum",
-          "url": "https://v.daum.net/v/X3inJr71WO"
+          "url": "https://v.daum.net/v/20260820145451064"
         },
         {
-          "title": "'3천만원 사비 FLEX' 임윤아, 미담 또 터졌다…\"귀한 송이버섯 보내줘\" 감동 실화 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/19/GY2DIN3FMRQWIZRSMZSTQZBWMQ/"
+          "title": "김해시의원 24명, 거제 수해 복구 현장서 구슬땀",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260820.99099005805"
         },
         {
-          "title": "임윤아, 소녀시대 20주년 대형 스포일러..\"컴백? 모여볼까 싶다\"",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112860011"
+          "title": "호우 피해 경남 전통시장에 '원스톱 지원센터' 가동…금융·복구 통합지원",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970282"
         }
       ]
     },
     {
-      "id": "bigbang-biiig",
-      "rank": 2,
-      "keyword": "bigbang biiig",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "id": "성과급",
+      "rank": 5,
+      "keyword": "성과급",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'BIGBANG set to drop new single on 20th debut anniversary' (The Korea Times) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[단독]SK하이닉스, 성과급 60% 주식 지급하되 주가 하락시 현금 보전키로' (헤럴드경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "BIGBANG set to drop new single on 20th debut anniversary",
-          "source": "The Korea Times",
-          "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260819/bigbang-set-to-drop-new-single-on-20th-debut-anniversary"
+          "title": "[단독]SK하이닉스, 성과급 60% 주식 지급하되 주가 하락시 현금 보전키로",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10847006"
         },
         {
-          "title": "Song Review: Bigbang – BiiiG",
-          "source": "https://thebiaslist.com/",
-          "url": "https://thebiaslist.com/2026/08/19/song-review-bigbang-biiig/"
+          "title": "SK하이닉스 노사, 성과급 60% 자사주 지급 잠정 합의",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608201751001"
         },
         {
-          "title": "20 songs that define Bigbang’s sonic evolution in K-Pop",
-          "source": "Hashtag Legend Hong Kong",
-          "url": "https://hashtaglegend.com/post/20-songs-that-define-bigbangs-sonic-evolution"
+          "title": "[간추린 경제] 1. \"주식으로 60%\" 2. \"빚 40조 달러\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820171019531"
         }
       ]
     },
     {
-      "id": "mlb",
-      "rank": 3,
-      "keyword": "mlb",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Licensable picture: MLB: Seattle Mariners at Milwaukee Brewers' (Reuters Connect) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Licensable picture: MLB: Seattle Mariners at Milwaukee Brewers",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/mlb-seattle-mariners-at-milwaukee-brewers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk2MjIzNjA"
-        },
-        {
-          "title": "Highlights: Mariners at Brewers (8/19) Stream of Major League Baseball",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/watch/general/video/highlights-mariners-at-brewers-819"
-        },
-        {
-          "title": "Mariners try again, succeed in 7-5 win over Brewers",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/mariners-try-again-succeed-7-050342252.html"
-        }
-      ]
-    },
-    {
-      "id": "엘니뇨",
-      "rank": 4,
-      "keyword": "엘니뇨",
+      "id": "금광",
+      "rank": 6,
+      "keyword": "금광",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“여기가 한국이다” 더워 죽겠는데, ‘눈 폭탄’이 웬 말?…최악의 날씨, 아직 더 남았다 [지구, 뭐래?]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '살려고 찾은 금광이 목숨을 삼켰다…중앙아프리카 금광 붕괴 현장 [지금뉴스]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“여기가 한국이다” 더워 죽겠는데, ‘눈 폭탄’이 웬 말?…최악의 날씨, 아직 더 남았다 [지구, 뭐래?]",
+          "title": "살려고 찾은 금광이 목숨을 삼켰다…중앙아프리카 금광 붕괴 현장 [지금뉴스]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/4lN3kSV7X9"
+          "url": "https://v.daum.net/v/20260820161040691"
         },
         {
-          "title": "“이번엔 한국도 못 피해”…지구에 시뻘건 큰 줄, 강력한 엘니뇨 온다는데",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20081429"
-        },
-        {
-          "title": "BofA \"뉴질랜드, 엘니뇨 충격 방어할 최적의 투자처\"",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05890886645548960"
-        }
-      ]
-    },
-    {
-      "id": "해피투게더",
-      "rank": 5,
-      "keyword": "해피투게더",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김은희, 장항준 위해 시아버지 앞 무릎 꿇었다…왜?' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김은희, 장항준 위해 시아버지 앞 무릎 꿇었다…왜?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820150901028"
-        },
-        {
-          "title": "장항준 \"봉준호 감독과 낮술 예정…꼭 상의할 게 있다더라\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260820_0003755923"
-        },
-        {
-          "title": "김은희 작가, ♥장항준 감독 데뷔 위해 시父에 무릎 꿇고 설득…특급 내조 (해투) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/08/20/MRRTIYLBGFSTINRYMFQTMNZUGQ/"
-        }
-      ]
-    },
-    {
-      "id": "자주포",
-      "rank": 6,
-      "keyword": "자주포",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[경제쏙] K9 자주포 미국 간다‥\"10조 원 계약 기대\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[경제쏙] K9 자주포 미국 간다‥\"10조 원 계약 기대\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820163418838"
-        },
-        {
-          "title": "[특징주] 한화에어로, 美육군 차세대 시제품 계약 소식에 상승(종합)",
+          "title": "중앙아프리카공화국 금광 붕괴 사고…\"최소 100명 사망\"",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260819038751008"
+          "url": "https://www.yna.co.kr/view/AKR20260820001900099"
         },
         {
-          "title": "솔디펜스, 탄도수정신관 개발 참여… '오차 6분의 1 축소' 유도제어 기술 부각 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/08/20/2026082010491542780"
+          "title": "중앙아프리카공화국 불법 금광서 산사태…최소 100명 사망(종합)",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/middleeast-africa/6263686"
         }
       ]
     },
     {
-      "id": "국민성장펀드",
+      "id": "지휘관",
       "rank": 7,
-      "keyword": "국민성장펀드",
+      "keyword": "지휘관",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''삼청교육대 집단 살상' 현장 지휘관 양심고백‥\"지휘관 지시에 발포\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'삼청교육대 집단 살상' 현장 지휘관 양심고백‥\"지휘관 지시에 발포\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6846010_36918.html"
+        },
+        {
+          "title": "'삼청교육대 10배 규모'... 법무부, 교도소 순화교육 진상조사 나서야",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819102357146"
+        },
+        {
+          "title": "\"국민께 사죄\" 삼청교육대 '일제사격' 현장 지휘관 45년 만에 증언",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/incident-accident/6264423"
+        }
+      ]
+    },
+    {
+      "id": "푸바오",
+      "rank": 8,
+      "keyword": "푸바오",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '초장기기술투자펀드 운용사 선정 돌입…이르면 연말부터 투자' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[경제 단신] 푸바오 막내동생 판다 이름 공모 외' (세계일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "초장기기술투자펀드 운용사 선정 돌입…이르면 연말부터 투자",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260820127200002"
+          "title": "[경제 단신] 푸바오 막내동생 판다 이름 공모 외",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260818519083"
         },
         {
-          "title": "금융위, 최대 16년 초장기펀드 조성…내년에도 새 펀드 출시",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04273846645549288"
+          "title": "벌써 밈부자 된 막내바오···슈포스타 슈크림 요정 vs 시크릿쥬쥬 쥬곰쥬 ‘이름 경쟁 치열하네’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608201108001"
         },
         {
-          "title": "정부, 8800억 초장기펀드 가동…AI·반도체 외 첨단산업에 40% 투자",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260820000289"
-        }
-      ]
-    },
-    {
-      "id": "핵무기",
-      "rank": 8,
-      "keyword": "핵무기",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“북 핵무기 80~120개” 안규백, 논란 일자 “민간 평가” 불끄기' (한겨레) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“북 핵무기 80~120개” 안규백, 논란 일자 “민간 평가” 불끄기",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/defense/1273790.html"
-        },
-        {
-          "title": "안규백, “북한 핵무기, 보통 80∼120개로 봐”…“북핵 인정은 아냐”",
+          "title": "에버랜드, 생후 77일 아기 판다 이름 온·오프라인 투표 진행",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260820164150167"
-        },
-        {
-          "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260820113600011"
+          "url": "https://v.daum.net/v/VDQzXIb0ZF?f=p"
         }
       ]
     },
     {
-      "id": "부채",
+      "id": "fc온라인",
       "rank": 9,
-      "keyword": "부채",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "keyword": "fc온라인",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '미 국가부채 사상 첫 40조달러 돌파…장기 국채 바이백 확대' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '넥슨 ‘FC 온라인’, 대대적 화폐 단위 축소 \"1억 BP가 1 BP로\"' (게임뷰) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "미 국가부채 사상 첫 40조달러 돌파…장기 국채 바이백 확대",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/international/america/1273716.html"
+          "title": "넥슨 ‘FC 온라인’, 대대적 화폐 단위 축소 \"1억 BP가 1 BP로\"",
+          "source": "게임뷰",
+          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=60111"
         },
         {
-          "title": "‘재정 안정’ 시킨다더니···미 국가 부채 40조달러 첫 돌파에 “부채 수렁” 우려",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820164727449"
+          "title": "[뉴스] 1경 선수가 1억으로, FC 온라인 화폐 단위 조정 적용",
+          "source": "인벤",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319733"
         },
         {
-          "title": "초유의 '국가부채 40조달러'…\"암울한 미국\" 공포 덮쳤다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026082009297"
+          "title": "FC온라인 '화폐 개혁'... \"1경이 1억 된다\"",
+          "source": "게임플",
+          "url": "https://www.gameple.co.kr/news/articleView.html?idxno=216231"
+        }
+      ]
+    },
+    {
+      "id": "공기업",
+      "rank": 10,
+      "keyword": "공기업",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '안양시, 지방공기업 경영평가 기초하수도 분야 최우수 ‘가’ 등급 달성' (경기일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "안양시, 지방공기업 경영평가 기초하수도 분야 최우수 ‘가’ 등급 달성",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260820580355"
+        },
+        {
+          "title": "안양시, 하수도 경영평가서 최우수 '가' 등급 받아",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/gyeonggi/6264580"
+        },
+        {
+          "title": "거창군, 지방공기업 고객만족도 '상하수도' 경남도내 1위",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260819_0003754249"
         }
       ]
     }
