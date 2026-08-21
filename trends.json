@@ -1,15 +1,127 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-21T10:02:36.398Z",
+  "updatedAt": "2026-08-21T10:59:32.335Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "소방관",
+      "id": "lg-대-한화",
       "rank": 1,
-      "keyword": "소방관",
+      "keyword": "lg 대 한화",
+      "volumeLabel": "10000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '배팅볼 투수인가…한화 짐머맨, LG전 ⅓이닝 7실점 조기 강판' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "배팅볼 투수인가…한화 짐머맨, LG전 ⅓이닝 7실점 조기 강판",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260821174000007"
+        },
+        {
+          "title": "'ERA 9.00→13.50 폭등' 한화 6억 외인 '충격' 1이닝 7실점 강판... 왕옌청도 없는데 어쩌나 [대전 현장] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/21/2026082116021520101"
+        },
+        {
+          "title": "[스경X현장] 교체 외인 투수인데 3경기 연속 난조 ‘무승’···선발 짐머맨 0.1이닝 7실점 강판 최악투, 한...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608211935003"
+        }
+      ]
+    },
+    {
+      "id": "화재",
+      "rank": 2,
+      "keyword": "화재",
+      "volumeLabel": "5000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '소방청, AI로 전기차 화재 조기 감지‥'안전연소' 기술 개발' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "소방청, AI로 전기차 화재 조기 감지‥'안전연소' 기술 개발",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821184309280"
+        },
+        {
+          "title": "‘전기차 화재 대응역량 강화’ 국립소방연구원, 산·학·관 공동연구개발 성과 공개",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1629925"
+        },
+        {
+          "title": "전기차 화재, AI로 조기감지하고 '안전연소'…소방청 신기술 공개",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/moi/6265594"
+        }
+      ]
+    },
+    {
+      "id": "삼성-대-nc",
+      "rank": 3,
+      "keyword": "삼성 대 nc",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[사진] 토다, 최고의 피칭을 보여준다. - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[사진] 토다, 최고의 피칭을 보여준다. - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/08/21/GAZWKNLCMNTDINBVMVTDKYJWHE/"
+        },
+        {
+          "title": "[AI프리뷰] 21일 창원 NC-삼성전, 주춤하는 삼성 원태인 8월 첫 승 거둘까",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260821000533"
+        },
+        {
+          "title": "[사진] 박건우, 괜찮아",
+          "source": "OSEN",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "kia-타이거즈",
+      "rank": 4,
+      "keyword": "kia 타이거즈",
       "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[사진]KIA 선발 양현종, '연승 이끈다' - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[사진]KIA 선발 양현종, '연승 이끈다' - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/08/21/GVRGGZLEGE3WMMLGHFQWIMZQHA/"
+        },
+        {
+          "title": "[21일 프리뷰] 1위 KT 잡았던 하영민, 5연패 위기 키움 구할까",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112861269"
+        },
+        {
+          "title": "[AI프리뷰] 21일 고척 키움-KIA전, '키움전 3전 3승' 양현종 상대하는 키움 80억 투수 하영민",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260821000477"
+        }
+      ]
+    },
+    {
+      "id": "여성-소방관",
+      "rank": 5,
+      "keyword": "여성 소방관",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 '불길 치솟는데 사다리차 안 닿자…소방관 믿고 11층서 뛰었다' (동아일보) 관련 뉴스가 함께 포착됐어요.",
@@ -26,261 +138,149 @@
           "url": "https://www.yna.co.kr/view/MYH20260820015700704"
         },
         {
-          "title": "\"저 꼭 받아주세요\" 11층서 손 놓은 여성…소방관 향해 '목숨 건 점프'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821134949333"
-        }
-      ]
-    },
-    {
-      "id": "의정부시",
-      "rank": 2,
-      "keyword": "의정부시",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김천시의회, 행정사무감사 시민제보 받는다' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김천시의회, 행정사무감사 시민제보 받는다",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/realtime/sokbo_viewNew.htm?idxno=2026082109505695816"
-        },
-        {
-          "title": "[패트롤] 의정부시의회-파주시의회-포천시의회-하남시의회",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20260820020184353"
-        },
-        {
-          "title": "김천시의회, 행정사무감사 시민제보 28일까지 접수",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/daegu-gyeongbuk/6265385"
-        }
-      ]
-    },
-    {
-      "id": "005930",
-      "rank": 3,
-      "keyword": "005930",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Samsung plans up to $80 billion in shareholder returns after SK Hynix b…' (CNBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html"
-        },
-        {
-          "title": "Samsung, SK Hynix Under Pressure to Share Bumper Profits",
-          "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-08-21/samsung-sk-hynix-under-pressure-to-share-bumper-profits"
-        },
-        {
-          "title": "Why Micron Isn’t Buying Back Stock Like Memory-Chip Rivals—and Why It Could",
-          "source": "Barron's",
-          "url": "https://www.barrons.com/articles/micron-stock-buyback-memory-chips-sk-hynix-samsung-468cc1ae"
-        }
-      ]
-    },
-    {
-      "id": "비트코인",
-      "rank": 4,
-      "keyword": "비트코인",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '비트코인 두달 만에 7만 달러 돌파…상승 전환하나' (지디넷코리아) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "비트코인 두달 만에 7만 달러 돌파…상승 전환하나",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260821103823"
-        },
-        {
-          "title": "공매도 대거 청산되자 불기둥… 비트코인 추세상승은 미지수",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1146320"
-        },
-        {
-          "title": "美 트럼프 \"규제 풀라\" 주문서… 비트코인 1억원 돌파",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/stock-finance/2026/08/21/4OID5P6JQJEIFO7S6A6HLBUWJY/"
-        }
-      ]
-    },
-    {
-      "id": "삼성디스플레이",
-      "rank": 5,
-      "keyword": "삼성디스플레이",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '삼성SDI, 삼성D 지분 팔아 4.45조 확보…美 투자 드라이브[종합]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "삼성SDI, 삼성D 지분 팔아 4.45조 확보…美 투자 드라이브[종합]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821164218810"
-        },
-        {
-          "title": "삼성 SDI, 4조4500억원 규모 삼성 디스플레이 지분 매각…미국 생산 설비 투자 전망",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608211747001"
-        },
-        {
-          "title": "삼성SDI '실탄 4.5조원' 장전…美 생산라인, 전고체 등 투자확대 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/08/21/2026082116295289572"
-        }
-      ]
-    },
-    {
-      "id": "황신혜",
-      "rank": 6,
-      "keyword": "황신혜",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''63세' 황신혜, 한여름 민소매 패션도 거뜬…감탄 부른 자기관리' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'63세' 황신혜, 한여름 민소매 패션도 거뜬…감탄 부른 자기관리",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820170528283"
-        },
-        {
-          "title": "황신혜, 뜨거운 여름 거리에서 편안한 일상 비주얼",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16167900"
-        },
-        {
-          "title": "'63세' 황신혜, '166cm·48kg'이라더니…민소매 하나로 완성한 탄탄한 몸매",
-          "source": "텐아시아",
-          "url": "https://www.tenasia.co.kr/article/2026082026744"
-        }
-      ]
-    },
-    {
-      "id": "스코티-셰플러",
-      "rank": 7,
-      "keyword": "스코티 셰플러",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '안병훈, LIV 골프 최종전 1R 공동 13위…캐나다 교포 이태훈 2위' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "안병훈, LIV 골프 최종전 1R 공동 13위…캐나다 교포 이태훈 2위",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821094438885"
-        },
-        {
-          "title": "매킬로이 독설 “람·디섐보? PGA 복귀 험난할 것”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608210724003"
-        },
-        {
-          "title": "‘KPGA서 직행’ 리처드 리, 2026 LIV 최종전서 선두 경쟁",
+          "title": "“꼭받아주세요!” 소방관 믿고 11층서 뛴 여자[아하유럽]",
           "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11610977"
+          "url": "https://www.munhwa.com/article/11611094"
         }
       ]
     },
     {
-      "id": "이종석",
-      "rank": 8,
-      "keyword": "이종석",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이종석, 아이유와 '4년 연애' 끝난 그 후…손가락 '검은 반지' 눈길' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "이종석, 아이유와 '4년 연애' 끝난 그 후…손가락 '검은 반지' 눈길",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/4rESGVrNXE"
-        },
-        {
-          "title": "이종석, 아이유와 결별 한 달 만에 휴양지서 포착",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260821_0003757517"
-        },
-        {
-          "title": "이종석, 바이크 타고 수영 즐기고…아이유와 결별 이후 첫 근황 포착 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/08/21/MRRTKMZVMU2TMZRWGQ4DIMBTGI/"
-        }
-      ]
-    },
-    {
-      "id": "국민의힘",
-      "rank": 9,
-      "keyword": "국민의힘",
+      "id": "성주군",
+      "rank": 6,
+      "keyword": "성주군",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이진숙 윤리위 제소에…김민석 \"국힘 당원들 감사합니다\"' (JTBC) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '한수원, 을지연습서 원전 비상 태세 점검…드론 침투 대비 방호 훈련' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이진숙 윤리위 제소에…김민석 \"국힘 당원들 감사합니다\"",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12314436"
+          "title": "한수원, 을지연습서 원전 비상 태세 점검…드론 침투 대비 방호 훈련",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821181328710"
         },
         {
-          "title": "오월단체 \"5·18 역사왜곡 용인하나\"…국힘 찾아가 항의",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR2026082117305492T"
+          "title": "의왕시, '2026 을지연습 강평회의' 개최… 훈련 성과·보완점 점검",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260821_0003758055"
         },
         {
-          "title": "민주당, ‘5·18 폄훼’ 국회 토론회 연 이진숙 징계안 제출…“헌법 정신에 대한 도전”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608211640001"
+          "title": "방독면 쓰고 드론 조종까지! 시청에서 만난 ‘안보 체험전’",
+          "source": "서울특별시",
+          "url": "https://mediahub.seoul.go.kr/archives/2019134"
         }
       ]
     },
     {
-      "id": "전소미",
-      "rank": 10,
-      "keyword": "전소미",
+      "id": "만평",
+      "rank": 7,
+      "keyword": "만평",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[사건 인사이드] 사기에도 이용된 ‘엑셀방송’' (경인일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[사건 인사이드] 사기에도 이용된 ‘엑셀방송’",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1769217"
+        },
+        {
+          "title": "女 BJ들에게 별풍선 '펑펑펑'…큰 손으로 불리던 30대 男의 최후",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1678862/%E5%A5%B3-BJ%EB%93%A4-%EB%B3%84%ED%92%8D%EC%84%A0-%ED%8E%91%ED%8E%91%ED%8E%91%ED%81%B0-%EC%86%90-%EB%B6%88%EB%A6%AC%EB%8D%98-2026"
+        },
+        {
+          "title": "여성 BJ에 별풍선 쏘던 '큰손'의 두 얼굴…48억 원 사기 징역 7년",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260815100153705"
+        }
+      ]
+    },
+    {
+      "id": "현대-자동차-그룹-메타-플랜트-아메리카",
+      "rank": 8,
+      "keyword": "현대 자동차 그룹 메타 플랜트 아메리카",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이게 누구야? 새까만 머드팩부터 수영복 자태까지...전소미, 반전 매력 공개' (스포츠서울) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '현대차 \"미 메타플랜트 생산량 확대...2028년까지 최대 80만대로\"' (YTN 사이언스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이게 누구야? 새까만 머드팩부터 수영복 자태까지...전소미, 반전 매력 공개",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1629819"
+          "title": "현대차 \"미 메타플랜트 생산량 확대...2028년까지 최대 80만대로\"",
+          "source": "YTN 사이언스",
+          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202608211101477573"
         },
         {
-          "title": "전소미, 몸매 좋은 거 알고는 있었는데…수영복에 드러난 완벽 S라인 자태 - 조선비즈",
+          "title": "현대차, 美 조지아 공장 ‘연간 80만대’ 생산 확대 검토 - 조선비즈",
           "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/08/21/HE4DCYZTGVQTOMRYHA3DKYRRG4/"
+          "url": "https://biz.chosun.com/industry/car/2026/08/21/3U2B2RTZFJFEJBX2D4CRFRYQRY/"
         },
         {
-          "title": "전소미, 워터밤 신곡 무대 이어 친근한 식사 자리 공개",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16168923"
+          "title": "호세 무뇨스 현대차 사장 \"HMGMA 생산능력 80만대까지 확대 검토\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821174851033"
+        }
+      ]
+    },
+    {
+      "id": "도지코인",
+      "rank": 9,
+      "keyword": "도지코인",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '트럼프 한마디에 들썩인 도지코인(DOGE)…다음 승부처는 0.08달러' (코인리더스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "트럼프 한마디에 들썩인 도지코인(DOGE)…다음 승부처는 0.08달러",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/253906"
+        },
+        {
+          "title": "오늘 Dog 가격이 11.1% 상승한 이유는 무엇인가요?",
+          "source": "Traders Union",
+          "url": "https://tradersunion.com/ko/news/cryptocurrency-news/show/3044379-dog-bitcoin-surges-11-18percent-today/"
+        },
+        {
+          "title": "\"암호화폐 드디어 돌아왔나\"…도지코인 10% 급등에 창업자도 깜짝",
+          "source": "디지털투데이",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694505"
+        }
+      ]
+    },
+    {
+      "id": "경기도교육청",
+      "rank": 10,
+      "keyword": "경기도교육청",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '서해구, 천마초 학교복합시설 건립 본격화' (뉴스타운) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "서해구, 천마초 학교복합시설 건립 본격화",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=713196"
+        },
+        {
+          "title": "[경남소식]밀양 예림초 학교복합시설 교육부 공모 선정 등",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260821_0003758143"
+        },
+        {
+          "title": "전주 신흥중·고에 학생·주민 위한 문화시설 2029년 완공",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260821117800055"
         }
       ]
     }
