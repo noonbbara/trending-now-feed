@@ -1,17 +1,45 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-21T08:07:57.048Z",
+  "updatedAt": "2026-08-21T09:09:37.420Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "전투기-조종사",
+      "id": "적금",
       "rank": 1,
-      "keyword": "전투기 조종사",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
+      "keyword": "적금",
+      "volumeLabel": "10000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''최대 연 12% 금리' 적금 나왔다.. 국민은행, 선착순 10만좌 판매 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'최대 연 12% 금리' 적금 나왔다.. 국민은행, 선착순 10만좌 판매 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/finance/2026/08/21/2026082117171282100"
+        },
+        {
+          "title": "KB국민은행, 'KB카드쓰담적금' 출시…최고 금리 연 12%",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260821081700002"
+        },
+        {
+          "title": "“적금 금리가 年 12%?”…KB카드 만들면 금리 확 뛴다",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03398086645549616"
+        }
+      ]
+    },
+    {
+      "id": "전투기-조종사",
+      "rank": 2,
+      "keyword": "전투기 조종사",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '비상탈출 전투기조종사 구조한 스리랑카 근로자들에 장기체류자격' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,25 +61,81 @@
       ]
     },
     {
-      "id": "하주석",
-      "rank": 2,
-      "keyword": "하주석",
+      "id": "두산에너-빌리티",
+      "rank": 3,
+      "keyword": "두산에너 빌리티",
       "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''대형 트레이드' KIA맨 하주석, 첫 대전 원정 돌아보다…\"등장곡 불러주신 한화 팬분들, 잊지 못할 기억 될 것\" [대전 인터…' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '두산에너빌리티, 9천300억 규모 오만 미스파 발전소 공사 수주' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'대형 트레이드' KIA맨 하주석, 첫 대전 원정 돌아보다…\"등장곡 불러주신 한화 팬분들, 잊지 못할 기억 될 것\" [대전 인터뷰]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821113615121"
+          "title": "두산에너빌리티, 9천300억 규모 오만 미스파 발전소 공사 수주",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260821033500003"
         },
         {
-          "title": "360도 폴더 인사→친정 스윕 울린 결정타...'복덩이' 하주석 트레이드, 43년전 타이거즈 역사 재현하나 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/21/202608210807773037O"
+          "title": "계약금액만 ‘9300억’…두산에너빌리티, 오만 미스파 가스복합발전소 건설공사 수주",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11611100"
+        },
+        {
+          "title": "“중동 에너지 시장 존재감↑”…두산에너빌리티, ‘9300억’ 오만 가스복합발전소 수주",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20260821/134519777/1"
+        }
+      ]
+    },
+    {
+      "id": "천위페이",
+      "rank": 4,
+      "keyword": "천위페이",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''中 왕즈이 그렇게 살지 마!' 맹비난…'올림픽 메달 2개' 인도 슈퍼스타 분노→\"2번 쓰러진 王, 다쳤는지는 모르겠고 전략일 …' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'中 왕즈이 그렇게 살지 마!' 맹비난…'올림픽 메달 2개' 인도 슈퍼스타 분노→\"2번 쓰러진 王, 다쳤는지는 모르겠고 전략일 수도\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821134637256"
+        },
+        {
+          "title": "[스포츠 영상] 세계선수권 8강 안착한 안세영 '앉아서도 받는다!'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846189_37004.html"
+        },
+        {
+          "title": "굳건한 배드민턴 '세계 최강' 안세영, 세계선수권 8강 안착(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260820125351007"
+        }
+      ]
+    },
+    {
+      "id": "하주석",
+      "rank": 5,
+      "keyword": "하주석",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-3",
+      "summary": "급상승 시점에 '또 악재 맞이한 KIA, 진짜 하주석 안 데려왔으면 어쩔 뻔했나… 불안불안 버티는 원동력' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "또 악재 맞이한 KIA, 진짜 하주석 안 데려왔으면 어쩔 뻔했나… 불안불안 버티는 원동력",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821083149295"
+        },
+        {
+          "title": "360도 폴더 인사→친정 스윕 울린 결정타...'복덩이' 하주석 트레이드, 43년전 타이거즈 역사 재현하나",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/08/21/GVSWCM3DGIYTKN3EGNSGKNTEGY/"
         },
         {
           "title": "친정팀에게 1타점 안타 하주석",
@@ -62,96 +146,40 @@
     },
     {
       "id": "방탄소년단",
-      "rank": 3,
+      "rank": 6,
       "keyword": "방탄소년단",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[장혜수의 뉴스터치] 아이 갓 어 키스' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-3",
+      "summary": "급상승 시점에 'BTS 지민, 소아암 어린이와 포옹 그 후…전 세계 팬 1억1700만원 기부' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[장혜수의 뉴스터치] 아이 갓 어 키스",
+          "title": "BTS 지민, 소아암 어린이와 포옹 그 후…전 세계 팬 1억1700만원 기부",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260821000809243"
+          "url": "https://v.daum.net/v/20260821095749481"
+        },
+        {
+          "title": "[장혜수의 뉴스터치] 아이 갓 어 키스",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260820080629024"
         },
         {
           "title": "방탄소년단 지민의 포옹 받은 소아암 소녀의 기적…\"기부 목표액 넘긴 1억 원 돌파\"",
           "source": "SBS 뉴스",
           "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008715269"
-        },
-        {
-          "title": "BTS 지민, 소아암 어린이와 포옹 그 후…전 세계 팬 1억1700만원 기부",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260821/134517504/1"
-        }
-      ]
-    },
-    {
-      "id": "lig-디펜스-에어로-스페이스",
-      "rank": 4,
-      "keyword": "lig 디펜스 에어로 스페이스",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 ''LIG-방사청' 사상 최대 방산비리 적발…부실수사 비판 왜? [취재파일]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'LIG-방사청' 사상 최대 방산비리 적발…부실수사 비판 왜? [취재파일]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821093903648"
-        },
-        {
-          "title": "LIG D&A, 임원 뇌물 혐의에 “한국형 전자전 항공기 수주와 무관”",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260821163121FNe"
-        },
-        {
-          "title": "3억 원대 뇌물로 사업 결과 뒤집어…‘뇌물 수수’ 방사청 직원·업체 재판행",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8641561"
-        }
-      ]
-    },
-    {
-      "id": "딩하오",
-      "rank": 5,
-      "keyword": "딩하오",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '바둑 종주국 中, 또 얼음…세계바둑 8강 '中 7명 vs 신진서'' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "바둑 종주국 中, 또 얼음…세계바둑 8강 '中 7명 vs 신진서'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819143300870?f=p"
-        },
-        {
-          "title": "신진서, 리웨이칭 꺾고 8강 진출",
-          "source": "사이버오로",
-          "url": "https://www.cyberoro.com/news/N_news_view.oro?num=532728"
-        },
-        {
-          "title": "[GS칼텍스배 프로기전] 몸싸움에서는 강하게",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/sports/12131424"
         }
       ]
     },
     {
       "id": "채은성",
-      "rank": 6,
+      "rank": 7,
       "keyword": "채은성",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '\"지고 있는데 상대 응원곡 따라부르다니\" 팬들, 한화 주장 채은성 태도 '융단폭격'...사실인가?' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -173,72 +201,72 @@
       ]
     },
     {
-      "id": "신반포4차아파트",
-      "rank": 7,
-      "keyword": "신반포4차아파트",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 '신반포4차 재건축 '탄력'…숙대입구역세권 재개발 통합심의 통과' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "id": "금호건설",
+      "rank": 8,
+      "keyword": "금호건설",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '삼성, 냉난방공조 2400억 투자… 광주사업장에 생산라인 짓는다' (동아비즈니스리뷰 | DBR) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "신반포4차 재건축 '탄력'…숙대입구역세권 재개발 통합심의 통과",
+          "title": "삼성, 냉난방공조 2400억 투자… 광주사업장에 생산라인 짓는다",
+          "source": "동아비즈니스리뷰 | DBR",
+          "url": "https://dbr.donga.com/kfocus/view/article_no/3427"
+        },
+        {
+          "title": "금호건설, 전남광주 '삼성전자 플랙트 한국공장' 신축 수주",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260821_0003757078"
+        },
+        {
+          "title": "[무등의 아침] “삼성전자, 광주에 플랙트 공조 라인 구축…반도체 등 잇단 투자로 지역경제 성장 기대”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821121309208"
+        }
+      ]
+    },
+    {
+      "id": "빅뱅-콘서트",
+      "rank": 9,
+      "keyword": "빅뱅 콘서트",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''데뷔 20주년' 빅뱅, '빅' 베일 벗는다‥월드투어 스타트' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'데뷔 20주년' 빅뱅, '빅' 베일 벗는다‥월드투어 스타트",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821172630356"
+        },
+        {
+          "title": "빅뱅, 데뷔 20주년 월드투어 오늘(21일) 개막...신곡 'BiiiG' 무대 첫 공개",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716042"
+        },
+        {
+          "title": "20주년 빅뱅, 오늘 고양서 새 월드투어…신곡 '빅' 무대 첫선",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260821046000004"
-        },
-        {
-          "title": "1833가구 규모 잠원동 신반포4차아파트 재건축, 서울시 통합심의 통과",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260821500546"
-        },
-        {
-          "title": "남산 품은 도심형 주거단지…숙대입구역세권 장기전세주택 사업 본격화 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/08/21/2026082109430920957"
+          "url": "https://www.yna.co.kr/view/AKR20260821043200005"
         }
       ]
     },
     {
       "id": "tài-khoản-ngân-hàng",
-      "rank": 8,
+      "rank": 10,
       "keyword": "tài khoản ngân hàng",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": []
-    },
-    {
-      "id": "ssg닷컴",
-      "rank": 9,
-      "keyword": "ssg닷컴",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '\"세계 오페라 극장 휩쓴 40년… 포기한 건 사랑과 우정\"' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"세계 오페라 극장 휩쓴 40년… 포기한 건 사랑과 우정\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/08/21/5GDEE2BK6NFY5G74SZ64XAUN7A/"
-        },
-        {
-          "title": "“이탈리아 음악가보다 ‘더 낫다’ 인정받아 뿌듯”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820201813480"
-        },
-        {
-          "title": "SSG닷컴 '소프라노 조수미 데뷔 40주년 기념메달' 한정판매",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260821026600030"
-        }
-      ]
     }
   ]
 }
