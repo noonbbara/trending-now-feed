@@ -1,211 +1,15 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-21T22:32:18.747Z",
+  "updatedAt": "2026-08-21T23:30:35.208Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "주식",
+      "id": "염증",
       "rank": 1,
-      "keyword": "주식",
-      "volumeLabel": "5000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '카카오, AI·투자사업 인적분할…카카오AI·카카오X로 재편' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "카카오, AI·투자사업 인적분할…카카오AI·카카오X로 재편",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/P0L0tEpXlI"
-        },
-        {
-          "title": "[간추린 경제] 1. 10년 만 '가동 중단' 2. 카카오, 카카오AI·카카오X로 인적분할 결의",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6846392_36981.html"
-        },
-        {
-          "title": "카카오, 인적 분할 결정에 주가 7% 급락 마감(종합)",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260821_0003757869"
-        }
-      ]
-    },
-    {
-      "id": "시청률",
-      "rank": 2,
-      "keyword": "시청률",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[오수경의 TVIEW]' (씨네21) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[오수경의 TVIEW]",
-          "source": "씨네21",
-          "url": "https://cine21.com/news/view/?mag_id=110573"
-        },
-        {
-          "title": "정준원, 위기의 공효진 구할까..병원 옥상서 첫 만남 (‘유부녀 킬러’) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/21/MI2DAZRQME3WGYRYHE4TSODGGU/"
-        },
-        {
-          "title": "‘유부녀 킬러’가 받은 ‘김부장’발, ‘재벌X형사2’ 반기 잡나[스경X초점]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820171409757?f=p"
-        }
-      ]
-    },
-    {
-      "id": "오디세이",
-      "rank": 3,
-      "keyword": "오디세이",
+      "keyword": "염증",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘오디세이’ 600만 돌파, 맷 데이먼이 한국 관객에 전한 메시지?···“가능한 큰 극장서 보시길”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘오디세이’ 600만 돌파, 맷 데이먼이 한국 관객에 전한 메시지?···“가능한 큰 극장서 보시길”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608211655001"
-        },
-        {
-          "title": "[AI박스오피스] '오디세이' 600만 넘어 700만 넘본다…8월 내내 극장가 장악",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260821000539"
-        },
-        {
-          "title": "[남산길 산책]'횡격막'의 사나이 오디세우스",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/WEGvheTska"
-        }
-      ]
-    },
-    {
-      "id": "감전",
-      "rank": 4,
-      "keyword": "감전",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '대전 트램공사 현장서 크레인 작업자 3명 감전' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "대전 트램공사 현장서 크레인 작업자 3명 감전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821145453565"
-        },
-        {
-          "title": "비 오는데 고압선 주변 작업 중 3명 감전…CCTV 보니",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8643302"
-        },
-        {
-          "title": "대전 도시철도 2호선 공사 현장 작업자 3명 감전",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0115_202608220020591337"
-        }
-      ]
-    },
-    {
-      "id": "lng선",
-      "rank": 5,
-      "keyword": "lng선",
-      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'AI DC 특수에 활짝…가온전선 “5년뒤 버스덕트 매출 25배 폭증 예상” [비즈360]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "AI DC 특수에 활짝…가온전선 “5년뒤 버스덕트 매출 25배 폭증 예상” [비즈360]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260822063213350"
-        },
-        {
-          "title": "LNG선으로 1조 벌더니 AI·원전까지…‘세계 1위 조선사’의 다음 10년 [MK 기업 리포트]",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1146349"
-        },
-        {
-          "title": "케이엔에스-은성FA, 美 AIDC향 버스덕트 자동화 설비 수주",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260820_0003755425"
-        }
-      ]
-    },
-    {
-      "id": "다우-존스-산업평균지수",
-      "rank": 6,
-      "keyword": "다우 존스 산업평균지수",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '뉴욕증시, 美국채금리 상승에도 저가 매수세에 반등…다우 1%↑(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "뉴욕증시, 美국채금리 상승에도 저가 매수세에 반등…다우 1%↑(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260822064500537"
-        },
-        {
-          "title": "[뉴욕채권] 국채가 이틀째↓…바이백 후폭풍 속 약달러發 기대 인플레↑",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431307"
-        },
-        {
-          "title": "[글로벌증시] '바이백 효과' 벌써 끝났나…뉴욕증시 일제 하락",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20260821004000038"
-        }
-      ]
-    },
-    {
-      "id": "schd",
-      "rank": 7,
-      "keyword": "schd",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'If You Like the Schwab U.S. Dividend Equity ETF, You'll Love This ETF t…' (The Motley Fool) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "If You Like the Schwab U.S. Dividend Equity ETF, You'll Love This ETF to Pair With It.",
-          "source": "The Motley Fool",
-          "url": "https://www.fool.com/investing/2026/08/20/like-schwab-us-dividend-equity-etf-love-this-etf/"
-        },
-        {
-          "title": "SCHD: We Were Horribly Wrong (NYSEARCA:SCHD)",
-          "source": "Seeking Alpha",
-          "url": "https://seekingalpha.com/article/4939150-schd-we-were-horribly-wrong"
-        },
-        {
-          "title": "SCHD’s 27% Year Is Embarrassing Every Growth ETF in Your Portfolio",
-          "source": "24/7 Wall St.",
-          "url": "https://247wallst.com/investing/etf/2026/08/18/schds-27-year-is-embarrassing-every-growth-etf-in-your-portfolio/"
-        }
-      ]
-    },
-    {
-      "id": "콜레스테롤",
-      "rank": 8,
-      "keyword": "콜레스테롤",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 '“염증 씻어낸다”… 의사가 ‘자주 먹으라’ 추천하는 음식 5가지' (헬스조선) 관련 뉴스가 함께 포착됐어요.",
@@ -229,58 +33,254 @@
       ]
     },
     {
-      "id": "tsla",
-      "rank": 9,
-      "keyword": "tsla",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "id": "이란-대통령",
+      "rank": 2,
+      "keyword": "이란 대통령",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Why is Tesla stock rallying today?' (Investing.com) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '미 \"역대 최강 제재\" 예고‥이란 \"파괴적 대응\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Why is Tesla stock rallying today?",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-tesla-stock-rallying-today-93CH-4871900"
+          "title": "미 \"역대 최강 제재\" 예고‥이란 \"파괴적 대응\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822073111061"
         },
         {
-          "title": "Tesla: Tailwinds Outweigh The Noise (NASDAQ:TSLA)",
-          "source": "Seeking Alpha",
-          "url": "https://seekingalpha.com/article/4939207-tesla-tailwinds-outweigh-the-noise"
+          "title": "트럼프 \"이란 합의할 준비 안 돼…'40조弗' 국가부채 성장이 쉽게 해결\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431321"
         },
         {
-          "title": "Tesla Jumps 3.6% as Semi Launch and Robotaxi Expansion Accelerate",
-          "source": "TradingView",
-          "url": "https://www.tradingview.com/news/gurufocus:05b69479b094b:0-tesla-jumps-3-6-as-semi-launch-and-robotaxi-expansion-accelerate/"
+          "title": "이란 대통령 \"승기 잡은 지금 전쟁 끝내야\"…美 제재 예고에 강력 반발 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/08/21/2026082123173656959"
         }
       ]
     },
     {
-      "id": "레알-베티스-대-레알-소시에다드",
+      "id": "처서",
+      "rank": 3,
+      "keyword": "처서",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '전국 곳곳 소나기‥충청·남부·제주 폭염특보' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "전국 곳곳 소나기‥충청·남부·제주 폭염특보",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822073720165"
+        },
+        {
+          "title": "[날씨] 중부 오전까지 강한 비, 무더위 속 곳곳 소나기",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0108_202608220752176075_001"
+        },
+        {
+          "title": "대구·경북 흐리고 곳에 따라 소나기…낮 최고기온 31도",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260822008700053"
+        }
+      ]
+    },
+    {
+      "id": "죽음의-조",
+      "rank": 4,
+      "keyword": "죽음의 조",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[SPO 현장] 월드컵 ‘죽음의 조’ 뚫었던 백기태 감독 “한국 대표팀, 16강 이상 충분히 가능”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[SPO 현장] 월드컵 ‘죽음의 조’ 뚫었던 백기태 감독 “한국 대표팀, 16강 이상 충분히 가능”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821184328285?f=p"
+        },
+        {
+          "title": "고등 축구 왕중왕전 32강 돌입…전국 강호들, 21일 킥오프",
+          "source": "프레시안",
+          "url": "https://www.pressian.com/pages/articles/2026082108202515117"
+        },
+        {
+          "title": "'신형우 멀티골 폭발' 전주공고, 죽음의 조 뚫고 고등축구 왕중왕전 32강 진출...전북현대U18, 군산제일고도 합류",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3669200"
+        }
+      ]
+    },
+    {
+      "id": "김요한",
+      "rank": 5,
+      "keyword": "김요한",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김요한 \"정식으로 사귀고파\" 소개팅녀에 목걸이 선물하며 고백('신랑수업2')' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김요한 \"정식으로 사귀고파\" 소개팅녀에 목걸이 선물하며 고백('신랑수업2')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822073550135"
+        },
+        {
+          "title": "“연희 기분 좋아져야 하니까♥” 고양이 집사 연희를 위해 찾아온 곳은...?!",
+          "source": "채널A",
+          "url": "https://ichannela.com/program/clip/000000546423.do"
+        },
+        {
+          "title": "‘신랑수업2’ 김요한, 연애 시작? 오연희에 직진 고백 “정식으로…” - 스타투데이",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12133470"
+        }
+      ]
+    },
+    {
+      "id": "국내총생산",
+      "rank": 6,
+      "keyword": "국내총생산",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"금리 잡으려다 달러 잡았다\"…미화 3개월만 최저, 날개 단 금·비트코인 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"금리 잡으려다 달러 잡았다\"…미화 3개월만 최저, 날개 단 금·비트코인 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/08/22/2026082204183967245"
+        },
+        {
+          "title": "개인도 기업도 “달러 쌀 때 쟁여놓자”…달러예금 15조원 줍줍했다",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1146482"
+        },
+        {
+          "title": "SK하이닉스 달러 유입·미 부채 충격…환율, 1350원대까지 내리나",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608202032025"
+        }
+      ]
+    },
+    {
+      "id": "치맥",
+      "rank": 7,
+      "keyword": "치맥",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '2026 포항치맥페스티벌, 주요 프로그램과 일정 '확인'' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "2026 포항치맥페스티벌, 주요 프로그램과 일정 '확인'",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3670242"
+        },
+        {
+          "title": "포항 동해면 도구해수욕장, ‘한여름 밤의 콘서트’ 성료",
+          "source": "경북도민일보",
+          "url": "https://www.hidomin.com/news/articleView.html?idxno=717470"
+        },
+        {
+          "title": "포항 영일대해수욕장 개장 기념 시민·관광객 노래자랑 성황",
+          "source": "글로벌경제신문",
+          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=878004"
+        }
+      ]
+    },
+    {
+      "id": "테일러-프리츠",
+      "rank": 8,
+      "keyword": "테일러 프리츠",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Nakashima keeps his cool to survive Fritz, charges into first Cincinnat…' (ATP Tour) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Nakashima keeps his cool to survive Fritz, charges into first Cincinnati SF",
+          "source": "ATP Tour",
+          "url": "https://www.atptour.com/en/news/fritz-nakashima-cincinnati-2026-friday-qfs"
+        },
+        {
+          "title": "Taylor Fritz must now win the Cincinnati Open for one simple reason",
+          "source": "Tennishead",
+          "url": "https://tennishead.net/taylor-fritz-must-now-win-the-cincinnati-open-for-one-simple-reason/"
+        },
+        {
+          "title": "Tennis Best Bets: Picks and predictions for Friday, August 21",
+          "source": "VSiN",
+          "url": "https://vsin.com/tennis/tennis-best-bets-picks-and-predictions-for-friday-august-21/"
+        }
+      ]
+    },
+    {
+      "id": "수도권-광역급행철도-c노선",
+      "rank": 9,
+      "keyword": "수도권 광역급행철도 c노선",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'GTX-C 다시 달린다…창동·광운대·인덕원 등 '수혜지역' 주목' (녹색경제신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "GTX-C 다시 달린다…창동·광운대·인덕원 등 '수혜지역' 주목",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=348132"
+        },
+        {
+          "title": "전월세 부담 속 경기 북부로 눈길… 자연친화적 양주 옥정 809가구 단독주택",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20260820/134506379/2"
+        },
+        {
+          "title": "[단독] 6년 혈투 끝 GTX-C 노선 바꾼 은마아파트…단지 근린공원 지하로 관통",
+          "source": "땅집고",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/08/19/2026081902521.html"
+        }
+      ]
+    },
+    {
+      "id": "세단",
       "rank": 10,
-      "keyword": "레알 베티스 대 레알 소시에다드",
+      "keyword": "세단",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '레알 베티스 vs 레알 소시에다드 경기 예측, 8월 22일 새벽 2시: 홈팀 우세.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“5년 만에 업그레이드”…벤츠 S-클래스로 보는 ‘명품의 조건’[타보니]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "레알 베티스 vs 레알 소시에다드 경기 예측, 8월 22일 새벽 2시: 홈팀 우세.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-real-betis-vs-real-sociedad-2h-ngay-22-8-chu-nha-chiem-uu-the"
+          "title": "“5년 만에 업그레이드”…벤츠 S-클래스로 보는 ‘명품의 조건’[타보니]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822070131740"
         },
         {
-          "title": "라리가 2라운드 레알 베티스 대 레알 소시에다드 축구 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-real-betis-vs-real-sociedad-tai-vong-2-la-liga-1753669.ldo"
+          "title": "[시승기] 요람같은 승차감에 첨단 두뇌 장착… 벤츠 ‘더 뉴 S-클래스’ - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/industry/car/2026/08/22/BC5DBQT4ZBDHVGT7H4PYAVX74U/"
         },
         {
-          "title": "레알 베티스 vs 레알 소시에다드 경기 예측: 예상 라인업",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-real-betis-vs-real-sociedad-doi-hinh-du-kien"
+          "title": "[현장] 어린 왕의 땅에 ‘자동차의 왕’…벤츠, 영월서 새 S클래스 선보여",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20260821029155074"
         }
       ]
     }
