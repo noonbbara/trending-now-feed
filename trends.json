@@ -1,129 +1,101 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-21T10:59:32.335Z",
+  "updatedAt": "2026-08-21T11:35:43.431Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "lg-대-한화",
+      "id": "화재",
       "rank": 1,
-      "keyword": "lg 대 한화",
+      "keyword": "화재",
       "volumeLabel": "10000+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '배팅볼 투수인가…한화 짐머맨, LG전 ⅓이닝 7실점 조기 강판' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '경북 청도2터널 화물차 불, 20분만에 진화…인명피해 없어(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "배팅볼 투수인가…한화 짐머맨, LG전 ⅓이닝 7실점 조기 강판",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260821174000007"
+          "title": "경북 청도2터널 화물차 불, 20분만에 진화…인명피해 없어(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821180038367"
         },
         {
-          "title": "'ERA 9.00→13.50 폭등' 한화 6억 외인 '충격' 1이닝 7실점 강판... 왕옌청도 없는데 어쩌나 [대전 현장] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/21/2026082116021520101"
+          "title": "대구부산고속도 청도2터널서 생선 실은 탑차 화재…한때 정체(종합)",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/daegu-gyeongbuk/6266081"
         },
         {
-          "title": "[스경X현장] 교체 외인 투수인데 3경기 연속 난조 ‘무승’···선발 짐머맨 0.1이닝 7실점 강판 최악투, 한...",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608211935003"
+          "title": "대구부산고속도로 청도2터널서 대형 화물차 불",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260821_0003758138"
         }
       ]
     },
     {
-      "id": "화재",
+      "id": "전원주",
       "rank": 2,
-      "keyword": "화재",
-      "volumeLabel": "5000+",
+      "keyword": "전원주",
+      "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '소방청, AI로 전기차 화재 조기 감지‥'안전연소' 기술 개발' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''하이닉스 2만원대 매수' 전원주, 1주도 안 팔았다…9000% 수익률 '잭팟'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "소방청, AI로 전기차 화재 조기 감지‥'안전연소' 기술 개발",
+          "title": "'하이닉스 2만원대 매수' 전원주, 1주도 안 팔았다…9000% 수익률 '잭팟'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260821184309280"
+          "url": "https://v.daum.net/v/20260821143308823"
         },
         {
-          "title": "‘전기차 화재 대응역량 강화’ 국립소방연구원, 산·학·관 공동연구개발 성과 공개",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1629925"
+          "title": "전원주, 2만원에 산 SK하닉 주식 ‘15년째 보유’…수익률이 무려 8000% ‘잭팟’",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10848052"
         },
         {
-          "title": "전기차 화재, AI로 조기감지하고 '안전연소'…소방청 신기술 공개",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/moi/6265594"
-        }
-      ]
-    },
-    {
-      "id": "삼성-대-nc",
-      "rank": 3,
-      "keyword": "삼성 대 nc",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[사진] 토다, 최고의 피칭을 보여준다. - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[사진] 토다, 최고의 피칭을 보여준다. - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/08/21/GAZWKNLCMNTDINBVMVTDKYJWHE/"
-        },
-        {
-          "title": "[AI프리뷰] 21일 창원 NC-삼성전, 주춤하는 삼성 원태인 8월 첫 승 거둘까",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260821000533"
-        },
-        {
-          "title": "[사진] 박건우, 괜찮아",
-          "source": "OSEN",
-          "url": ""
+          "title": "“삼전닉스 떼돈 버는데”…한국에 남는 돈은 왜 없나 [이슈+]",
+          "source": "에너지경제신문",
+          "url": "https://www.ekn.kr/web/view.php?key=20260819028044120"
         }
       ]
     },
     {
       "id": "kia-타이거즈",
-      "rank": 4,
+      "rank": 3,
       "keyword": "kia 타이거즈",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[사진]KIA 선발 양현종, '연승 이끈다' - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 'KIA 양현종, 역대 2번째 13시즌 연속 100이닝 눈앞…4⅓이닝 남겨둬' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[사진]KIA 선발 양현종, '연승 이끈다' - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/08/21/GVRGGZLEGE3WMMLGHFQWIMZQHA/"
+          "title": "KIA 양현종, 역대 2번째 13시즌 연속 100이닝 눈앞…4⅓이닝 남겨둬",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260821_0003757638"
         },
         {
-          "title": "[21일 프리뷰] 1위 KT 잡았던 하영민, 5연패 위기 키움 구할까",
+          "title": "[포토]'2회초 선제타점 올리는' 박재현 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/21/2026082120122690025"
+        },
+        {
+          "title": "[사진]키움 선발 하영민, '내 공을 받아라'",
           "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112861269"
-        },
-        {
-          "title": "[AI프리뷰] 21일 고척 키움-KIA전, '키움전 3전 3승' 양현종 상대하는 키움 80억 투수 하영민",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260821000477"
+          "url": "https://www.osen.co.kr/article/G1112861463"
         }
       ]
     },
     {
       "id": "여성-소방관",
-      "rank": 5,
+      "rank": 4,
       "keyword": "여성 소방관",
-      "volumeLabel": "500+",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '불길 치솟는데 사다리차 안 닿자…소방관 믿고 11층서 뛰었다' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -145,142 +117,170 @@
       ]
     },
     {
-      "id": "성주군",
-      "rank": 6,
-      "keyword": "성주군",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "id": "구속영장",
+      "rank": 5,
+      "keyword": "구속영장",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한수원, 을지연습서 원전 비상 태세 점검…드론 침투 대비 방호 훈련' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '윤석열 구속영장 발부되자 “헌재에 불지르자”···온라인 글 작성한 30대 항소심서 무죄' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "한수원, 을지연습서 원전 비상 태세 점검…드론 침투 대비 방호 훈련",
+          "title": "윤석열 구속영장 발부되자 “헌재에 불지르자”···온라인 글 작성한 30대 항소심서 무죄",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260821181328710"
+          "url": "https://v.daum.net/v/20260821151728368"
         },
         {
-          "title": "의왕시, '2026 을지연습 강평회의' 개최… 훈련 성과·보완점 점검",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260821_0003758055"
+          "title": "尹 구속에 ‘헌재 방화’ 글 올린 30대, 2심도 무죄",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/08/21/5XBHSOOBMVGPVD6DBVQNXWHS3Y/"
         },
         {
-          "title": "방독면 쓰고 드론 조종까지! 시청에서 만난 ‘안보 체험전’",
-          "source": "서울특별시",
-          "url": "https://mediahub.seoul.go.kr/archives/2019134"
+          "title": "尹 구속 후 '헌재 불태우자' 글 올린 30대 무죄…검찰 항소 기각",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/gyeonggi/6265628"
+        }
+      ]
+    },
+    {
+      "id": "의료과실",
+      "rank": 6,
+      "keyword": "의료과실",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[단독] 2명 사망 대형 치과, \"매일 소주 2병\" 알고도…환자에 약물 투여 강행' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[단독] 2명 사망 대형 치과, \"매일 소주 2병\" 알고도…환자에 약물 투여 강행",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821194152444"
+        },
+        {
+          "title": "'의사 의료사고 이력' 공개하자는 이소희 의원에 정은경 장관 \"과실범 개인정보 공개, 유사 사례 없어\"",
+          "source": "MEDI:GATE NEWS",
+          "url": "https://www.medigatenews.com/news/1153624601"
+        },
+        {
+          "title": "75세 노인에 하루 임플란트 11개 심은 치과, '의료과실' 쟁점은? [사건X파일]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202608202344381310"
+        }
+      ]
+    },
+    {
+      "id": "f1",
+      "rank": 7,
+      "keyword": "f1",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Max Verstappen issues 'a shame' response ahead of home grand prix depar…' (RacingNews365) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Max Verstappen issues 'a shame' response ahead of home grand prix departure",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.com/max-verstappen-issues-shame-response-ahead-of-home-grand-prix-departure"
+        },
+        {
+          "title": "Licensable picture: Training session of Real Madrid",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/training-session-of-real-madrid/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwMzcyWEZW"
+        },
+        {
+          "title": "Licensable picture: F1 Grand Prix of Netherlands - Practice & Sprint Qualifying",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/f1-grand-prix-of-netherlands-practice-sprint-qualifying/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMDVTNDYxVQ"
         }
       ]
     },
     {
       "id": "만평",
-      "rank": 7,
+      "rank": 8,
       "keyword": "만평",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[사건 인사이드] 사기에도 이용된 ‘엑셀방송’' (경인일보) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '女 BJ들에게 별풍선 '펑펑펑'…큰 손으로 불리던 30대 男의 최후' (데일리안) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "[사건 인사이드] 사기에도 이용된 ‘엑셀방송’",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1769217"
-        },
         {
           "title": "女 BJ들에게 별풍선 '펑펑펑'…큰 손으로 불리던 30대 男의 최후",
           "source": "데일리안",
           "url": "https://www.dailian.co.kr/news/view/1678862/%E5%A5%B3-BJ%EB%93%A4-%EB%B3%84%ED%92%8D%EC%84%A0-%ED%8E%91%ED%8E%91%ED%8E%91%ED%81%B0-%EC%86%90-%EB%B6%88%EB%A6%AC%EB%8D%98-2026"
         },
         {
-          "title": "여성 BJ에 별풍선 쏘던 '큰손'의 두 얼굴…48억 원 사기 징역 7년",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260815100153705"
+          "title": "불법주차 차량을 피해서",
+          "source": "경기신문",
+          "url": "https://www.kgnews.co.kr/news/article.html?no=908454"
+        },
+        {
+          "title": "[사건 인사이드] 사기에도 이용된 ‘엑셀방송’",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1769217"
         }
       ]
     },
     {
-      "id": "현대-자동차-그룹-메타-플랜트-아메리카",
-      "rank": 8,
-      "keyword": "현대 자동차 그룹 메타 플랜트 아메리카",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '현대차 \"미 메타플랜트 생산량 확대...2028년까지 최대 80만대로\"' (YTN 사이언스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "현대차 \"미 메타플랜트 생산량 확대...2028년까지 최대 80만대로\"",
-          "source": "YTN 사이언스",
-          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202608211101477573"
-        },
-        {
-          "title": "현대차, 美 조지아 공장 ‘연간 80만대’ 생산 확대 검토 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/industry/car/2026/08/21/3U2B2RTZFJFEJBX2D4CRFRYQRY/"
-        },
-        {
-          "title": "호세 무뇨스 현대차 사장 \"HMGMA 생산능력 80만대까지 확대 검토\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821174851033"
-        }
-      ]
-    },
-    {
-      "id": "도지코인",
+      "id": "김대호",
       "rank": 9,
-      "keyword": "도지코인",
+      "keyword": "김대호",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '트럼프 한마디에 들썩인 도지코인(DOGE)…다음 승부처는 0.08달러' (코인리더스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '김규원, 돌잔치 MC 시절 아찔한 말실수…“할머니 죽으셨어요”' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "트럼프 한마디에 들썩인 도지코인(DOGE)…다음 승부처는 0.08달러",
-          "source": "코인리더스",
-          "url": "https://www.coinreaders.com/253906"
+          "title": "김규원, 돌잔치 MC 시절 아찔한 말실수…“할머니 죽으셨어요”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20260821/134517971/2"
         },
         {
-          "title": "오늘 Dog 가격이 11.1% 상승한 이유는 무엇인가요?",
-          "source": "Traders Union",
-          "url": "https://tradersunion.com/ko/news/cryptocurrency-news/show/3044379-dog-bitcoin-surges-11-18percent-today/"
+          "title": "‘88명 대가족’ 김대호 “제사 없애고 김치도 사 먹어”..김지유에 어필 (‘홈즈’) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/21/HBRWEMBVHE3DOODBHFQTMOLCHE/"
         },
         {
-          "title": "\"암호화폐 드디어 돌아왔나\"…도지코인 10% 급등에 창업자도 깜짝",
-          "source": "디지털투데이",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694505"
+          "title": "김치 1400포기 김대호 \"제사 없애고 김치 사 먹는다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260821_0003757563"
         }
       ]
     },
     {
-      "id": "경기도교육청",
+      "id": "꽃게",
       "rank": 10,
-      "keyword": "경기도교육청",
+      "keyword": "꽃게",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '서해구, 천마초 학교복합시설 건립 본격화' (뉴스타운) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘가을 꽃게’ 금어기 풀렸다…새벽에 잡아 식탁으로' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "서해구, 천마초 학교복합시설 건립 본격화",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=713196"
+          "title": "‘가을 꽃게’ 금어기 풀렸다…새벽에 잡아 식탁으로",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821194559536"
         },
         {
-          "title": "[경남소식]밀양 예림초 학교복합시설 교육부 공모 선정 등",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260821_0003758143"
+          "title": "\"금어기 풀린 가을 꽃게 왔어요\" 소래포구 들썩…대형마트는 꽃게 '1원 전쟁'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821195351686"
         },
         {
-          "title": "전주 신흥중·고에 학생·주민 위한 문화시설 2029년 완공",
+          "title": "꽃게 금어기 풀리자 유통가 '가을 꽃게 전쟁'…쿠팡·컬리 참전",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260821117800055"
+          "url": "https://www.yna.co.kr/view/AKR20260821053500030"
         }
       ]
     }
