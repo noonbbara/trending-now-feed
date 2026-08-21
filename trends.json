@@ -1,139 +1,43 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-21T01:48:29.319Z",
+  "updatedAt": "2026-08-21T03:10:17.994Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "한국-영화",
+      "id": "김지민",
       "rank": 1,
-      "keyword": "한국 영화",
-      "volumeLabel": "1000+",
+      "keyword": "김지민",
+      "volumeLabel": "10000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '얼마만이냐, 한국영화 풍년…추석 시즌은 5편 ‘집안 싸움’' (국제신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''노처녀 대명사' 한윤서, 10월 결혼..\"시집가라는 잔소리 해방\" [스타이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "얼마만이냐, 한국영화 풍년…추석 시즌은 5편 ‘집안 싸움’",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1600&key=20260820.22014005440"
-        },
-        {
-          "title": "누군가 망한다…9월 한국영화 6편 박터지는 흥행 경쟁",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260820_0003756296"
-        },
-        {
-          "title": "韓영화 살릴 구세주…류승룡·최민식·유해진, 가을에 뜬 ‘천만’ 배우들 [줌인]",
+          "title": "'노처녀 대명사' 한윤서, 10월 결혼..\"시집가라는 잔소리 해방\" [스타이슈]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/5TdQih9Usq"
+          "url": "https://v.daum.net/v/20260820204437010"
+        },
+        {
+          "title": "한윤서, 김준호·김지민 부케 받더니… 10월 결혼 \"포기했을 때 오아시스 찾아\"",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026082010440004208"
+        },
+        {
+          "title": "한윤서, 10월의 신부 된다…\"시집가라는 엄마 잔소리 끝\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260820_0003755744"
         }
       ]
     },
     {
-      "id": "한국형-차기-구축함",
+      "id": "재산",
       "rank": 2,
-      "keyword": "한국형 차기 구축함",
-      "volumeLabel": "1000+",
+      "keyword": "재산",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[KDDX 신기술] 전투체계·레이다·유도탄 국산화…첫 이지스함 시험대 : 네이버 블로그' (Naver Blog) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[KDDX 신기술] 전투체계·레이다·유도탄 국산화…첫 이지스함 시험대 : 네이버 블로그",
-          "source": "Naver Blog",
-          "url": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224384621874&redirect=Dlog"
-        },
-        {
-          "title": "[KDDX 신기술] 설계·건조 이원화…핵심 장비는 '한화'로",
-          "source": "딜사이트",
-          "url": "https://dealsite.co.kr/articles/167495"
-        },
-        {
-          "title": "[KDDX 신기술] 전투체계·레이다·유도탄 국산화…첫 이지스함 시험대",
-          "source": "딜사이트",
-          "url": "https://dealsite.co.kr/articles/167427"
-        }
-      ]
-    },
-    {
-      "id": "국민임대주택",
-      "rank": 3,
-      "keyword": "국민임대주택",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "동맹",
-      "rank": 4,
-      "keyword": "동맹",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '美 \"우리편이냐 맞설거냐\"…'이란경제 붕괴' 동맹 동참 압박(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "美 \"우리편이냐 맞설거냐\"…'이란경제 붕괴' 동맹 동참 압박(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260821002551071"
-        },
-        {
-          "title": "트럼프, 시진핑 방미 앞두고 '이란원유 큰손' 中 겨냥…긴장 고조 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/08/21/2026082109524745563"
-        },
-        {
-          "title": "美재무 \"대규모 이란 제재 24일 공개…동맹국에도 양자택일 요구할 것\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431086"
-        }
-      ]
-    },
-    {
-      "id": "심-철종",
-      "rank": 5,
-      "keyword": "심 철종",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''암살' 출연한 심철종, 폐지 줍고 감자로 끼니 \"월 천만원 벌었는데..\" [특종세상]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'암살' 출연한 심철종, 폐지 줍고 감자로 끼니 \"월 천만원 벌었는데..\" [특종세상]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820225507332"
-        },
-        {
-          "title": "심철종 \"1년 시한부 판정…아들에게 간이식 받아\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260821_0003756832"
-        },
-        {
-          "title": "배우 심철종, '월 1000만원' 사업 실패 후 이혼…\"간암, 시한부 선고\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/21/2026082023353238562"
-        }
-      ]
-    },
-    {
-      "id": "김가연",
-      "rank": 6,
-      "keyword": "김가연",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 '김가연, 600억 친정 재력 고백…\"엄마 첩이라는 소문 싫었다\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
@@ -145,53 +49,109 @@
           "url": "https://www.newsis.com/view/NISX20260820_0003756756"
         },
         {
-          "title": "300억 아닌 '600억 재산' 사실이었다..김가연 \"개인 아닌 父회사\" 정정",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821064551516"
-        },
-        {
           "title": "‘임요환♥’ 김가연 “친정 재력 300억? 600억…母, 첩 소문까지”",
           "source": "스포츠동아",
           "url": "https://sports.donga.com/ent/article/all/20260820/134516005/1"
+        },
+        {
+          "title": "김가연 \"父 600억 재력가? 개인 아닌 회사 재산…母 너무 예뻐 첩이란 소문까지\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6265070"
         }
       ]
     },
     {
-      "id": "엘레나-리바키나",
-      "rank": 7,
-      "keyword": "엘레나 리바키나",
+      "id": "지마켓",
+      "rank": 3,
+      "keyword": "지마켓",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '금융위, 남부 수해 피해 가계·중소기업에 긴급 금융지원' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "금융위, 남부 수해 피해 가계·중소기업에 긴급 금융지원",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970363&pWise=sub&pWiseSub=R2"
+        },
+        {
+          "title": "남부 호우 대응, 중대본에서 ‘복구대책지원본부’로 전환",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8642562"
+        },
+        {
+          "title": "상미당홀딩스, 경남 거제 수해지역에 구호물품 긴급 지원",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/RPR20260821001400353"
+        }
+      ]
+    },
+    {
+      "id": "한국경제tv",
+      "rank": 4,
+      "keyword": "한국경제tv",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '코스닥 800선 붕괴...코스피는 반도체 상승에 힘입어 6800선 회복' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "코스닥 800선 붕괴...코스피는 반도체 상승에 힘입어 6800선 회복",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608214177i"
+        },
+        {
+          "title": "코스닥 매도 사이드카 발동...4%대 급락",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/stock-finance/2026/08/21/5MWWPRBTVNGIBAUPRFZMERBGQY/"
+        },
+        {
+          "title": "코스피, 다시 불거진 美 국채 금리 부담에 하락 출발(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260821033751008"
+        }
+      ]
+    },
+    {
+      "id": "양지은",
+      "rank": 5,
+      "keyword": "양지은",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '사발렌카 조기 탈락...리바키나, ‘카자흐스탄 최초 세계 1위’까지 단 2승 [신시내티오픈]' (테니스코리아) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''편스토랑' 양지은 \"남편, 치과의사 본업 열심히…각자 자리 찾아\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "사발렌카 조기 탈락...리바키나, ‘카자흐스탄 최초 세계 1위’까지 단 2승 [신시내티오픈]",
-          "source": "테니스코리아",
-          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=53501"
-        },
-        {
-          "title": "'세계 2위' 리바키나, 신시내티 오픈 부상으로 기권",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3670466"
-        },
-        {
-          "title": "세계 1위 사발렌카, 3개 대회 연속 16강 탈락…20세 사라 베일렉(체코) 돌풍에 '와르르~'",
+          "title": "'편스토랑' 양지은 \"남편, 치과의사 본업 열심히…각자 자리 찾아\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260820140153837"
+          "url": "https://v.daum.net/v/20260820205328131"
+        },
+        {
+          "title": "양지은, 치과의사 남편 근황 공개…\"조금 더 잘생겨져\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260821_0003756791"
+        },
+        {
+          "title": "'강동원 닮은꼴' 치과의사 남편, 본업 복귀…양지은 \"각자의 자리 찾았다\" - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/21/HBRTOMDCGBSDKMTGGJTDIN3DMQ/"
         }
       ]
     },
     {
       "id": "2xko",
-      "rank": 8,
+      "rank": 6,
       "keyword": "2xko",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+2",
       "summary": "급상승 시점에 '2XKO Active Development Will End in December 2026' (Riot Games) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -213,30 +173,86 @@
       ]
     },
     {
-      "id": "band",
-      "rank": 9,
-      "keyword": "band",
+      "id": "타자",
+      "rank": 7,
+      "keyword": "타자",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Netflix sued by band Demon Hunter over 'KPop Demon Hunters'' (Reuters) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘60년 만의 진기록 조준’ 알바레즈, 타자 파워랭킹 1위 ‘압도적 성적’' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Netflix sued by band Demon Hunter over 'KPop Demon Hunters'",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/legal/legalindustry/netflix-sued-by-band-demon-hunter-over-kpop-demon-hunters-2026-08-19/"
+          "title": "‘60년 만의 진기록 조준’ 알바레즈, 타자 파워랭킹 1위 ‘압도적 성적’",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20260821/134518075/1"
         },
         {
-          "title": "Christian band Demon Hunter files trademark lawsuit against Netflix over 'consumer confusion'",
-          "source": "Los Angeles Times",
-          "url": "https://www.latimes.com/entertainment-arts/story/2026-08-19/christian-band-demon-hunter-kpop-demon-hunters-trademark-lawsuit-netflix"
+          "title": "MLB 타격왕 전쟁 뜨겁다! 1위 탈환한 이정후 前 동료…이정후는 TOP 10 재진입",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026082022292724067"
         },
         {
-          "title": "Christian metal band sues Netflix over KPop Demon Hunters name",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/film/2026/aug/19/kpop-demon-hunters-netflix-lawsuit"
+          "title": "알론소·메릴·캐글리온의 대반격…MLB 최신 타자 파워 랭킹 Top 10 공개",
+          "source": "https://www.mlbkor.com/",
+          "url": "https://www.mlbkor.com/news/articleView.html?idxno=32280"
+        }
+      ]
+    },
+    {
+      "id": "금융감독원",
+      "rank": 8,
+      "keyword": "금융감독원",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '금감원 노조 “지방 이전 결사 반대”···4년 전 탈퇴했던 상급노조 재가입 추진까지' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "금감원 노조 “지방 이전 결사 반대”···4년 전 탈퇴했던 상급노조 재가입 추진까지",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608210600011"
+        },
+        {
+          "title": "“지방 가느니 이직”…노동부 산하 6곳 직원 ‘술렁’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821111410184"
+        },
+        {
+          "title": "금융위·개보위 세종行…공공기관 350곳 지방 간다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026082030381"
+        }
+      ]
+    },
+    {
+      "id": "두산베어스",
+      "rank": 9,
+      "keyword": "두산베어스",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[게시판] KB국민카드, '두산베어스 KB체크카드' 출시' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[게시판] KB국민카드, '두산베어스 KB체크카드' 출시",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260820080300002"
+        },
+        {
+          "title": "티켓·굿즈 할인에 생활 혜택…'두산베어스 KB체크카드' 출시",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260820_0003756291"
+        },
+        {
+          "title": "야구팬 맞춤형 혜택 팡팡! ‘MZ 니즈 파악 OK’ 두산, KB국민 컬래버 체크카드 출시",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1629889"
         }
       ]
     }
