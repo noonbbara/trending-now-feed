@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-21T18:50:17.835Z",
+  "updatedAt": "2026-08-21T19:31:04.912Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,7 +9,7 @@
       "rank": 1,
       "keyword": "이미숙",
       "volumeLabel": "2000+",
-      "startedLabel": "4시간 전",
+      "startedLabel": "5시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 ''66세' 이미숙, 재산 처리 계획 밝혔다…\"사회에 다 환원하고 죽을 것\" (숙스러운)' (Daum) 관련 뉴스가 함께 포착됐어요.",
@@ -36,10 +36,10 @@
       "id": "탑승",
       "rank": 2,
       "keyword": "탑승",
-      "volumeLabel": "1000+",
-      "startedLabel": "5시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "volumeLabel": "2000+",
+      "startedLabel": "6시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '박홍근 \"출근길 시위 멈춰야\"…전장연 \"시위 유보, 24일 입장 발표\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -65,9 +65,9 @@
       "rank": 3,
       "keyword": "lck",
       "volumeLabel": "1000+",
-      "startedLabel": "5시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "startedLabel": "6시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 'MBC to Broadcast LCK Finals Live for Three Consecutive Years Until 2027' (게임메카) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -93,9 +93,9 @@
       "rank": 4,
       "keyword": "전화",
       "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+5",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '\"제주 장미란씨 실종프로파일링 자료 입력후 삭제돼\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -105,9 +105,9 @@
           "url": "https://www.yna.co.kr/view/AKR20260821171300056"
         },
         {
-          "title": "[단독]제주 실종 여성 담당 경찰, ‘종결 처리 전 대면’도 위반",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260822014736006"
+          "title": "제주 실종자 가족에게 장난전화?...경찰 \"엄정 대응\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202608212153438273_005.html"
         },
         {
           "title": "‘여성 실종’ 뒤늦게 시스템 개선…‘실종성인법’은 아직",
@@ -117,58 +117,58 @@
       ]
     },
     {
-      "id": "al-riyadh-vs-al-nassr",
-      "rank": 5,
-      "keyword": "al-riyadh vs al-nassr",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '977 CAREER GOALS! Ronaldo Scores on His Saudi Pro League Season Debut' (كورة بريك) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "977 CAREER GOALS! Ronaldo Scores on His Saudi Pro League Season Debut",
-          "source": "كورة بريك",
-          "url": "https://koorabreak.com/en/329615/"
-        },
-        {
-          "title": "On the night of Ronaldo's return: Al-Nassr thrash Al-Riyadh and reclaim their throne from Al-Hilal",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en/news/on-the-night-of-ronaldo-s-return-al-nassr-thrash-al-riyadh-and-reclaim-their-throne-from-al-hilal/blte0bc534c4c85f2e8"
-        },
-        {
-          "title": "Al Riyadh – Al Nassr 0 - 2 | GOL – Ângelo Gabriel Borges Damaceno",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/fr/video/al-riyadh-al-nassr-0-2-gol-angelo-gabriel-borges-damaceno-43315387"
-        }
-      ]
-    },
-    {
       "id": "정선희",
-      "rank": 6,
+      "rank": 5,
       "keyword": "정선희",
       "volumeLabel": "200+",
       "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 ''옥문아' 정선희 \"연애 생각 별로 없어\"…홍진경, 국제 연애 추천' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 ''옥문아' 홍진경 \"이혼 발표 최대한 안 하고 싶었다\"…정선희 유튜브 비화' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'옥문아' 정선희 \"연애 생각 별로 없어\"…홍진경, 국제 연애 추천",
+          "title": "'옥문아' 홍진경 \"이혼 발표 최대한 안 하고 싶었다\"…정선희 유튜브 비화",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260821232150022"
-        },
-        {
-          "title": "김지선 “‘스치면 베이비’였다”…34세 첫 출산→30대에만 네 아이",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260821/134517268/1"
+          "url": "https://v.daum.net/v/20260821224328652"
         },
         {
           "title": "홍진경, 과거 정선희 커플과 더블데이트..“라엘父와 아직도 친해” (‘옥문아들’)",
           "source": "조선일보",
           "url": "https://www.chosun.com/entertainments/broadcast/2026/08/21/MYZGKMRWMNSTSYZQHBSTCNZRMY/"
+        },
+        {
+          "title": "‘옥문아’ 정선희 “연애 생각 별로 없어”…홍진경, 국제 연애 추천",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20260822/134523048/1"
+        }
+      ]
+    },
+    {
+      "id": "al-riyadh-vs-al-nassr",
+      "rank": 6,
+      "keyword": "al-riyadh vs al-nassr",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 'Al Riyadh vs Al Nassr LIVE Streaming: Will Cristiano Ronaldo Play? Wher…' (The Sunday Guardian) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Al Riyadh vs Al Nassr LIVE Streaming: Will Cristiano Ronaldo Play? Where to Watch Riyadh Derby LIVE in UAE and Saudi Arabia",
+          "source": "The Sunday Guardian",
+          "url": "https://sundayguardianlive.com/sports/al-riyadh-vs-al-nassr-live-streaming-will-cristiano-ronaldo-play-where-to-watch-riyadh-derby-live-in-uae-and-saudi-arabia-266640/"
+        },
+        {
+          "title": "Al Riyadh vs Al Nassr Preview – prediction, team news, lineups | Saudi Pro League 2026-27",
+          "source": "Khel Now",
+          "url": "https://khelnow.com/football/al-riyadh-vs-al-nassr-preview-saudi-pro-league-202608"
+        },
+        {
+          "title": "Al Riyadh – Al Nassr 0 - 3 | TOR – João Félix Sequeira",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/fr/video/al-riyadh-al-nassr-0-3-tor-joao-felix-sequeira-43315396"
         }
       ]
     },
@@ -177,9 +177,9 @@
       "rank": 7,
       "keyword": "배재준",
       "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "startedLabel": "6시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '투구하는 배재준' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -200,9 +200,9 @@
       "rank": 8,
       "keyword": "스포츠",
       "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "startedLabel": "6시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '기자회견 도중 감독 눈물, 선수들도 놀랐다... \"韓 레슬링 죽지 않았다는 것 보여주겠다\" 정한재 다짐 [진천 현장]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -228,9 +228,9 @@
       "rank": 9,
       "keyword": "lck 순위",
       "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "startedLabel": "6시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": []
@@ -240,26 +240,26 @@
       "rank": 10,
       "keyword": "pl",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Barbara Mróz-Gorgoń złożyła dymisję z funkcji Pełnomocniczki Rządu do s…' (Facebook) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 'Burza wokół konferencji Kosiniaka-Kamysza. Poseł Śliwka ujawnia kulisy:…' (wPolsce24) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Barbara Mróz-Gorgoń złożyła dymisję z funkcji Pełnomocniczki Rządu do spraw promocji marki Polski. \"Przy tej niewyobrażalnej skali hejtu niemożliwe jest pełnienie tak odpowiedzialnej roli\" - napisała w oświadczeniu opublikowanym w mediach społecznośc",
-          "source": "Facebook",
-          "url": "https://www.facebook.com/INTERIAWydarzenia/posts/barbara-mr%C3%B3z-gorgo%C5%84-z%C5%82o%C5%BCy%C5%82a-dymisj%C4%99-z-funkcji-pe%C5%82nomocniczki-rz%C4%85du-do-spraw-prom/1516529013846644/"
+          "title": "Burza wokół konferencji Kosiniaka-Kamysza. Poseł Śliwka ujawnia kulisy: „Wstyd i żenada!”. MON odpowiada",
+          "source": "wPolsce24",
+          "url": "https://wpolsce24.tv/polska/burza-wokol-konferencji-kosiniakakamysza-posel-sliwka-ujawnia-kulisy,235581"
         },
         {
-          "title": "„Nie sprawdziła, co przygotowało AI”. Wiceminister o dymisji Mróz-Gorgoń",
-          "source": "TVP Info",
-          "url": "https://www.tvp.info/94968077/pytanie-dnia-wiceminister-obrony-pawel-bejda-o-dymisji-barbary-mroz-gorgon-wideo"
+          "title": "Bundeswehra wspiera Polskę przy ochronie wschodniej granicy NATO",
+          "source": "deutschland.de",
+          "url": "https://www.deutschland.de/pl/news/bundeswehra-wspiera-polske-przy-ochronie-wschodniej-granicy-nato"
         },
         {
-          "title": "\"Głupi niedźwiedziu\". Prezydencki minister o aferze z raportem",
-          "source": "Do Rzeczy",
-          "url": "https://dorzeczy.pl/opinie/932101/raport-z-ai-za-200-tys-zl-przydacz-komentuje-dymisje-mroz-gorgon.html"
+          "title": "Tarcza Wschód dziurawa? Co z bezpieczeństwem Polski?",
+          "source": "RadioMaryja.pl",
+          "url": "https://www.radiomaryja.pl/informacje/tarcza-wschod-dziurawa-co-z-bezpieczenstwem-polski/"
         }
       ]
     }
