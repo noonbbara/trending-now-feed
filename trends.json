@@ -1,286 +1,265 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-21T14:08:06.230Z",
+  "updatedAt": "2026-08-21T15:05:00.376Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "우선주",
+      "id": "lck",
       "rank": 1,
-      "keyword": "우선주",
-      "volumeLabel": "10000+",
-      "startedLabel": "2시간 전",
+      "keyword": "lck",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '삼성전자, 돈보따리 푼다... \"올해 최대 110조 주주환원 \"' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'MBC to Broadcast LCK Finals Live for Three Consecutive Years Until 2027' (게임메카) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "삼성전자, 돈보따리 푼다... \"올해 최대 110조 주주환원 \"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/08/21/RIFWRDNLZVA5FD3CW5LR27BAKA/"
+          "title": "MBC to Broadcast LCK Finals Live for Three Consecutive Years Until 2027",
+          "source": "게임메카",
+          "url": "https://www.gamemeca.com/en/view.php?gid=1779371"
         },
         {
-          "title": "배당 확대도 ‘메가사이클’ 진입…이익 급증에 내년엔 188조 전망",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20081991"
+          "title": "LCK Finals to remain on MBC national TV through 2027",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/en/lol/articles/lck-finals-to-remain-on-mbc-national-tv-through-2027/en"
         },
         {
-          "title": "AI 호황으로 돈 번 삼전닉스, ‘역대급’ 주주환원 나선다",
-          "source": "투데이신문",
-          "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128894"
+          "title": "2026 Woori Bank LCK Finals ticket sales to begin August 28",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/24931/2026-woori-bank-lck-finals-ticket-sales-to-begin-august-28"
         }
       ]
     },
     {
-      "id": "김구라",
+      "id": "노동절",
       "rank": 2,
-      "keyword": "김구라",
-      "volumeLabel": "5000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''깁구라 아들' MC그리 '예비신랑' 깜짝 변신..\"신혼집 매물보러\" 눈길' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'깁구라 아들' MC그리 '예비신랑' 깜짝 변신..\"신혼집 매물보러\" 눈길",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821200438938"
-        },
-        {
-          "title": "“김구라·라이머·홍진경 이혼했는데…” 예비신랑 그리, 결혼 앞두고 털어놓은 고민에 남창희 ‘진땀’",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608211945003"
-        },
-        {
-          "title": "남창희, 결혼 후 부부싸움 0번…그리 “형 때문에 요즘 죽어”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12133599"
-        }
-      ]
-    },
-    {
-      "id": "내가-만난-사이코패스",
-      "rank": 3,
-      "keyword": "내가 만난 사이코패스",
-      "volumeLabel": "500+",
+      "keyword": "노동절",
+      "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''내가 만난 사이코패스', 일본 진출' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '내년부터 노동절도 '휴일대체'…일당 2배에 하루 쉰다' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'내가 만난 사이코패스', 일본 진출",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821110554745"
+          "title": "내년부터 노동절도 '휴일대체'…일당 2배에 하루 쉰다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260821_0003758277"
         },
         {
-          "title": "전현무 \"숙소서 씻고 있는데..인도 도둑 내 지갑 뒤지고 있어\" 충격(내사패)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/21/GBSDENRXGMYDGYRYME2TKNDFGU/"
+          "title": "[단독] 공휴일 된 노동절, 휴일대체 가능…내년부터 '무조건 시급 2.5배' 사라져",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026082154931"
         },
         {
-          "title": "전현무 충격 실화 터졌다, “여행 중 도둑 만났다” (내사패)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260821/134519114/1"
-        }
-      ]
-    },
-    {
-      "id": "경리",
-      "rank": 4,
-      "keyword": "경리",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '아파트 관리비 ‘440억’ 빼돌린 경리…20년간 주민들이 몰랐던 이유 [잇슈#태그]' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "아파트 관리비 ‘440억’ 빼돌린 경리…20년간 주민들이 몰랐던 이유 [잇슈#태그]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8642875"
-        },
-        {
-          "title": "\"안방에 빗물 새는데…\" 7억 전기료 체납에 아파트 주민들 '분통'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821163605583"
-        },
-        {
-          "title": "아파트 경리 '440억 원 횡령' 의혹...현직 경찰 등 8명 입건",
-          "source": "KBC광주방송",
-          "url": "https://news.ikbc.co.kr/article/view/kbc202608200073"
-        }
-      ]
-    },
-    {
-      "id": "노웅래",
-      "rank": 5,
-      "keyword": "노웅래",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '李대통령, 노웅래 무죄에 \"정치검찰 기소로 정치생명 박탈당해\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "李대통령, 노웅래 무죄에 \"정치검찰 기소로 정치생명 박탈당해\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260821178700001"
-        },
-        {
-          "title": "‘뇌물·불법정치자금 혐의’ 노웅래 2심 무죄…김민석 “檢이 생사람 잡은 케이스”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821192549095"
-        },
-        {
-          "title": "李 “노웅래 선배님 죄송합니다”…항소심 무죄에 2년전 공천 배제 사과",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260821/134522802/2"
-        }
-      ]
-    },
-    {
-      "id": "나띠",
-      "rank": 6,
-      "keyword": "나띠",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '10년 노력에도 데뷔 무산…이해인 \"피팅 모델·카페 알바까지\" (해투)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "10년 노력에도 데뷔 무산…이해인 \"피팅 모델·카페 알바까지\" (해투)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821135150389"
-        },
-        {
-          "title": "'아이돌학교' 조작 피해자 이해인 \"10년 연습생 탈락 이후 안 해본 알바 없어\" (해투) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/08/21/MVSDKNBXMIYDEMBXGU3GCNDDGI/"
-        },
-        {
-          "title": "'순위 조작 피해' 이해인, 오디션 1위하고도 데뷔 무산 \"힘든 것 체감할 여유도 없어\"(해투)",
+          "title": "내년부터 노동절도 '휴일대체'…일당 2배에 하루 쉰다",
           "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260821n30132?mid=e02&list=recent&cpcd="
+          "url": "https://news.nate.com/view/20260821n30539?mid=n0400"
         }
       ]
     },
     {
-      "id": "정유라",
-      "rank": 7,
-      "keyword": "정유라",
-      "volumeLabel": "200+",
+      "id": "이대형",
+      "rank": 3,
+      "keyword": "이대형",
+      "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '정유라 “엄마, 대소변도 못가려…조국은 떵떵거리는데”' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[영상] 한화 야구는 상식 파괴?…해설위원도 이해 불가' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "정유라 “엄마, 대소변도 못가려…조국은 떵떵거리는데”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11611123"
-        },
-        {
-          "title": "“안민석·조국 떵떵거리며 사는데”…정유라, 최서원 위해 후원 호소 [자막뉴스]",
-          "source": "채널A",
-          "url": "https://ichannela.com/news/detail/000000546263.do"
-        },
-        {
-          "title": "정유라 \"엄마 살려주세요, 대소변도 못 가려\"...또 후원금 호소 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/20/2026082021265421219"
-        }
-      ]
-    },
-    {
-      "id": "박원숙",
-      "rank": 8,
-      "keyword": "박원숙",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '박원숙, 배우 은퇴설 직접 해명 \"'같이삽시다' 7년..이만하면 충분\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "박원숙, 배우 은퇴설 직접 해명 \"'같이삽시다' 7년..이만하면 충분\"",
+          "title": "[영상] 한화 야구는 상식 파괴?…해설위원도 이해 불가",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260821153107893"
+          "url": "https://v.daum.net/v/V5kqmvfzhi?f=p"
         },
         {
-          "title": "박원숙, 연예계 은퇴설에 “역할이 많이 없다, 은퇴는 아니야”",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10848286"
+          "title": "타점 올리는 카스트로",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8065511"
         },
         {
-          "title": "박원숙, 23년 전 떠나보낸 아들 회상 \"여러 고난겪어\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260821_0003757490"
+          "title": "'충격의 연속' 한화 8위 추락도 추락인데…뼈아픈 1R 영건 트리오 연쇄 붕괴, 정우주-황준서-김서현 3명이 2이닝 6실점 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/baseball/2026/08/21/GM3WGNBXGZSDCZBXG43GIMTCGU/"
         }
       ]
     },
     {
-      "id": "조현준",
+      "id": "탑승",
+      "rank": 4,
+      "keyword": "탑승",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '박홍근 \"출근길 시위 멈춰야\"…전장연 \"시위 유보, 24일 입장 발표\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "박홍근 \"출근길 시위 멈춰야\"…전장연 \"시위 유보, 24일 입장 발표\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/1rJgXzjJXj"
+        },
+        {
+          "title": "전장연, 출근길 지하철 탑승시위 중단하기로…박홍근 “장애인 예산 검토할것”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608191605001"
+        },
+        {
+          "title": "전장연 시위, 열차는 무정차 통과",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260818035000013"
+        }
+      ]
+    },
+    {
+      "id": "스포츠",
+      "rank": 5,
+      "keyword": "스포츠",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[포토]'투구폼이 역동적이다!' 7회초 등판한 키움 박지성 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[포토]'투구폼이 역동적이다!' 7회초 등판한 키움 박지성 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/21/2026082121115741730"
+        },
+        {
+          "title": "[사진]힘차게 공 뿌리는 키움 최현우",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/08/21/GUYTEMTFGI3TEMLDMMYTEYRYME/"
+        },
+        {
+          "title": "[IS 냉탕] '2007년생 신인'이 볼넷 연속 3개로 흔들려도 교체 없이 지켜본 키움 벤치",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260821n30258"
+        }
+      ]
+    },
+    {
+      "id": "배재준",
+      "rank": 6,
+      "keyword": "배재준",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '투구하는 배재준' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "투구하는 배재준",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8067220"
+        },
+        {
+          "title": "투구하는 배재준 : 네이트 스포츠",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260821n30276?mid=s01&list=recent&cpcd="
+        }
+      ]
+    },
+    {
+      "id": "lck-순위",
+      "rank": 7,
+      "keyword": "lck 순위",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "박문성",
+      "rank": 8,
+      "keyword": "박문성",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''임시'로 뽑지만…축구대표팀 사령탑, 성과 내면 '정식 감독' 가능해' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'임시'로 뽑지만…축구대표팀 사령탑, 성과 내면 '정식 감독' 가능해",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821143328832"
+        },
+        {
+          "title": "박문성 소신 발언!…韓 임시감독 후보 냉정 평가→\"쿠만 제일 떨어져, 데려온다면 카사스\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260821n01009"
+        },
+        {
+          "title": "\"1순위는 카사스, 쿠만은 최하위\" 박문성이 콕 짚은 韓 축구 단기 사령탑 \"아시아 축구 경험+전술 유연성 장점\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/21/2026082114511862937"
+        }
+      ]
+    },
+    {
+      "id": "엘지트윈스",
       "rank": 9,
-      "keyword": "조현준",
+      "keyword": "엘지트윈스",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '12년 만의 법정 대면 효성가 형제···조현준 회장 “이렇게 해서라도 동생이 깨우치길 원해, 처벌해달라”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Song Seung-gi exits in 5th despite 10-run support - CHOSUNBIZ' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "12년 만의 법정 대면 효성가 형제···조현준 회장 “이렇게 해서라도 동생이 깨우치길 원해, 처벌해달라”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608211820001"
+          "title": "Song Seung-gi exits in 5th despite 10-run support - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/08/21/7CK2LM3U4VDSRKFLG33ZR5LQXI/"
         },
         {
-          "title": "법정대면한 효성家…조현준 회장 “동생 처벌 원해”",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260821010007251"
+          "title": "LG Twins' Song Seung-ki Replaced Before 5th, Team Falls Despite 10 Runs",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/08/21/V3576NJCUJAQJOUNI6IF4FHERI/"
         },
         {
-          "title": "법정의 형제 갈등… 효성 조현준 “동생 조현문 처벌 원한다”",
-          "source": "법률신문",
-          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=225149"
+          "title": "Song Seung-ki Falls Short Despite 10-Run Support",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/08/21/RWHAI2GYBVEFJJN57SJGVFYVUQ/"
         }
       ]
     },
     {
-      "id": "법관",
+      "id": "백하나",
       "rank": 10,
-      "keyword": "법관",
+      "keyword": "백하나",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '수사도 못하는 검사 관두겠다…판사行 32명, 작년과 역대 최다 타이 [세상&]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[오피셜] 백하나·이소희, 韓 배드민턴 첫 메달 쾌거!…'세계 13위' 인니 조 2-0 완파→'171구 미친 랠리 견뎠다' 여자…' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "수사도 못하는 검사 관두겠다…판사行 32명, 작년과 역대 최다 타이 [세상&]",
+          "title": "[오피셜] 백하나·이소희, 韓 배드민턴 첫 메달 쾌거!…'세계 13위' 인니 조 2-0 완파→'171구 미친 랠리 견뎠다' 여자복식 4강행 (세계선수권)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260821154710634"
+          "url": "https://v.daum.net/v/20260821160409388"
         },
         {
-          "title": "신임 '법조경력' 법관후보 146명…검사 2년 연속 32명 '최다'",
+          "title": "백하나-김소희, 일본 꺾고 8강 진출",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260821_0003757808"
+          "url": "https://www.newsis.com/view/NISI20260821_0002217497"
         },
         {
-          "title": "대법, 경력 법관 임용 예정자 146명…검사 출신 32명",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/court-prosecution/6265697"
+          "title": "'최소 동메달 확보!' 이소희-백하나, '랭킹 13위' 인니 조 2-0 완파→세계선수권 4강 진출 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/21/202608211633771351O"
         }
       ]
     }
