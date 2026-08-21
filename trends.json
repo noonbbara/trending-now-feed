@@ -1,17 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-21T03:10:17.994Z",
+  "updatedAt": "2026-08-21T04:11:21.711Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
       "id": "김지민",
       "rank": 1,
       "keyword": "김지민",
-      "volumeLabel": "10000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "20000+",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 ''노처녀 대명사' 한윤서, 10월 결혼..\"시집가라는 잔소리 해방\" [스타이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,41 +33,125 @@
       ]
     },
     {
-      "id": "재산",
+      "id": "박진영",
       "rank": 2,
-      "keyword": "재산",
+      "keyword": "박진영",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"여윳돈 있으면 사라\" 했는데 한 달 새 27% ↓…'캐시카우'도 흔들' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"여윳돈 있으면 사라\" 했는데 한 달 새 27% ↓…'캐시카우'도 흔들",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821115151611"
+        },
+        {
+          "title": "박진영, '무조건 사라'더니…\"주가 관리 좀\" 개미들 '부글부글' [종목+]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026082027146"
+        },
+        {
+          "title": "엔터주 빅4, 실적은 뛰는데 시총은 '10조 증발' 이유는 [엔터코노미]",
+          "source": "MTN 머니투데이방송",
+          "url": "https://news.mtn.co.kr/news-detail/2026082009232858476"
+        }
+      ]
+    },
+    {
+      "id": "박현호",
+      "rank": 3,
+      "keyword": "박현호",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김가연, 600억 친정 재력 고백…\"엄마 첩이라는 소문 싫었다\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '박현호, ♥은가은과 결혼했는데 백수 상태 \"창문서 뛰어내리려..母가 붙잡아\" 먹먹(살림남)' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김가연, 600억 친정 재력 고백…\"엄마 첩이라는 소문 싫었다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260820_0003756756"
+          "title": "박현호, ♥은가은과 결혼했는데 백수 상태 \"창문서 뛰어내리려..母가 붙잡아\" 먹먹(살림남)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/21/GNTGMODEGI3GCZDDGBSTIMZWMU/"
         },
         {
-          "title": "‘임요환♥’ 김가연 “친정 재력 300억? 600억…母, 첩 소문까지”",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260820/134516005/1"
-        },
-        {
-          "title": "김가연 \"父 600억 재력가? 개인 아닌 회사 재산…母 너무 예뻐 첩이란 소문까지\"",
+          "title": "박현호 활동 부진 과거 고백…\"창문서 뛰어내리려던 나, 母가 붙잡았다\"",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6265070"
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6265113"
+        },
+        {
+          "title": "'살림남’ 박현호, 신곡 '한잔하러 갑시다' 홍보 '고군분투'",
+          "source": "비즈엔터",
+          "url": "https://m.enter.etoday.co.kr/view/news_view.php?varAtcId=301303"
+        }
+      ]
+    },
+    {
+      "id": "배현진",
+      "rank": 4,
+      "keyword": "배현진",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '무소속 한동훈 의원과 국민의힘 배현진 의원' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "무소속 한동훈 의원과 국민의힘 배현진 의원",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260820200700013"
+        },
+        {
+          "title": "메모하는 한동훈 무소속 의원",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260820_0021405675"
+        },
+        {
+          "title": "한동훈, '당협 재선출' 장동혁에 \"사당화로 李 연임독재 못 막아\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/politics/assembly/6264637"
+        }
+      ]
+    },
+    {
+      "id": "고양이",
+      "rank": 5,
+      "keyword": "고양이",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '안산시, 하반기 길고양이 중성화사업 재개' (인천일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "안산시, 하반기 길고양이 중성화사업 재개",
+          "source": "인천일보",
+          "url": ""
+        },
+        {
+          "title": "안산시, “길고양이 중성화(TNR) 사업” 하반기 신청 받는다",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260821500235"
+        },
+        {
+          "title": "안산시, 길고양이 중성화 사업 재개·보호관리 교육 추진",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1680572/%EC%95%88%EC%82%B0%EC%8B%9C-%EA%B8%B8%EA%B3%A0%EC%96%91-%EC%A4%91%EC%84%B1%ED%99%94-%EC%82%AC%EC%97%85-%EC%9E%AC%EA%B0%9C%EB%B3%B4%ED%98%B8%EA%B4%80-2026"
         }
       ]
     },
     {
       "id": "지마켓",
-      "rank": 3,
+      "rank": 6,
       "keyword": "지마켓",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-3",
       "summary": "급상승 시점에 '금융위, 남부 수해 피해 가계·중소기업에 긴급 금융지원' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -77,182 +161,126 @@
           "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970363&pWise=sub&pWiseSub=R2"
         },
         {
+          "title": "'폭우 닷새째' 복구 총력‥섬에도 중장비 투입",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6846329_36967.html"
+        },
+        {
           "title": "남부 호우 대응, 중대본에서 ‘복구대책지원본부’로 전환",
           "source": "KBS 뉴스",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8642562"
-        },
-        {
-          "title": "상미당홀딩스, 경남 거제 수해지역에 구호물품 긴급 지원",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/RPR20260821001400353"
         }
       ]
     },
     {
-      "id": "한국경제tv",
-      "rank": 4,
-      "keyword": "한국경제tv",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '코스닥 800선 붕괴...코스피는 반도체 상승에 힘입어 6800선 회복' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "코스닥 800선 붕괴...코스피는 반도체 상승에 힘입어 6800선 회복",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608214177i"
-        },
-        {
-          "title": "코스닥 매도 사이드카 발동...4%대 급락",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/stock-finance/2026/08/21/5MWWPRBTVNGIBAUPRFZMERBGQY/"
-        },
-        {
-          "title": "코스피, 다시 불거진 美 국채 금리 부담에 하락 출발(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260821033751008"
-        }
-      ]
-    },
-    {
-      "id": "양지은",
-      "rank": 5,
-      "keyword": "양지은",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''편스토랑' 양지은 \"남편, 치과의사 본업 열심히…각자 자리 찾아\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'편스토랑' 양지은 \"남편, 치과의사 본업 열심히…각자 자리 찾아\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820205328131"
-        },
-        {
-          "title": "양지은, 치과의사 남편 근황 공개…\"조금 더 잘생겨져\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260821_0003756791"
-        },
-        {
-          "title": "'강동원 닮은꼴' 치과의사 남편, 본업 복귀…양지은 \"각자의 자리 찾았다\" - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/21/HBRTOMDCGBSDKMTGGJTDIN3DMQ/"
-        }
-      ]
-    },
-    {
-      "id": "2xko",
-      "rank": 6,
-      "keyword": "2xko",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 '2XKO Active Development Will End in December 2026' (Riot Games) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "2XKO Active Development Will End in December 2026",
-          "source": "Riot Games",
-          "url": "https://www.riotgames.com/en/news/2xko-active-development-ends-december-2026"
-        },
-        {
-          "title": "2XKO's Demise Is Disappointing But Not Shocking",
-          "source": "GameTyrant",
-          "url": "https://gametyrant.com/news/2xkos-sudden-end-of-development-is-disappointing-but-not-shocking"
-        },
-        {
-          "title": "Riot is ending development of its 2XKO fighting game",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fighting/riot-is-ending-development-of-its-2xko-fighting-game/"
-        }
-      ]
-    },
-    {
-      "id": "타자",
+      "id": "jyp-엔터테인먼트",
       "rank": 7,
-      "keyword": "타자",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "keyword": "jyp 엔터테인먼트",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘60년 만의 진기록 조준’ 알바레즈, 타자 파워랭킹 1위 ‘압도적 성적’' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '엔믹스 이후 4년 만... 베일 벗은 JYP 신인 걸그룹' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘60년 만의 진기록 조준’ 알바레즈, 타자 파워랭킹 1위 ‘압도적 성적’",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20260821/134518075/1"
-        },
-        {
-          "title": "MLB 타격왕 전쟁 뜨겁다! 1위 탈환한 이정후 前 동료…이정후는 TOP 10 재진입",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026082022292724067"
-        },
-        {
-          "title": "알론소·메릴·캐글리온의 대반격…MLB 최신 타자 파워 랭킹 Top 10 공개",
-          "source": "https://www.mlbkor.com/",
-          "url": "https://www.mlbkor.com/news/articleView.html?idxno=32280"
-        }
-      ]
-    },
-    {
-      "id": "금융감독원",
-      "rank": 8,
-      "keyword": "금융감독원",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '금감원 노조 “지방 이전 결사 반대”···4년 전 탈퇴했던 상급노조 재가입 추진까지' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "금감원 노조 “지방 이전 결사 반대”···4년 전 탈퇴했던 상급노조 재가입 추진까지",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608210600011"
-        },
-        {
-          "title": "“지방 가느니 이직”…노동부 산하 6곳 직원 ‘술렁’",
+          "title": "엔믹스 이후 4년 만... 베일 벗은 JYP 신인 걸그룹",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260821111410184"
+          "url": "https://v.daum.net/v/1AVOjwu57A"
         },
         {
-          "title": "금융위·개보위 세종行…공공기관 350곳 지방 간다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026082030381"
+          "title": "아워벌스데이, 글로벌 데뷔쇼 성료…엔믹스 지원사격",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260820/134510528/1"
+        },
+        {
+          "title": "그룹 아워벌스데이, '달콤함에 힙합 한 스푼'",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260819001145"
         }
       ]
     },
     {
-      "id": "두산베어스",
-      "rank": 9,
-      "keyword": "두산베어스",
-      "volumeLabel": "100+",
+      "id": "왕숙천",
+      "rank": 8,
+      "keyword": "왕숙천",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[게시판] KB국민카드, '두산베어스 KB체크카드' 출시' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '남양주 집 나선 후 한 달째 실종 상태였던 70대 여성 추정 시신 발견' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[게시판] KB국민카드, '두산베어스 KB체크카드' 출시",
+          "title": "남양주 집 나선 후 한 달째 실종 상태였던 70대 여성 추정 시신 발견",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820174507158"
+        },
+        {
+          "title": "왕숙천서 행적 끊긴 70대 여성 추정 시신 한 달 만에 발견",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260820080300002"
+          "url": "https://www.yna.co.kr/view/AKR20260820155800060"
         },
         {
-          "title": "티켓·굿즈 할인에 생활 혜택…'두산베어스 KB체크카드' 출시",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260820_0003756291"
+          "title": "남양주서 한달째 실종된 70대 여성 추정 시신, 한강변서 발견",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260820580529"
+        }
+      ]
+    },
+    {
+      "id": "국민연금",
+      "rank": 9,
+      "keyword": "국민연금",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“한국서 한달 일하고 中서 따박따박 평생연금”…국민연금 ‘추납’ 도마' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“한국서 한달 일하고 中서 따박따박 평생연금”…국민연금 ‘추납’ 도마",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821094310839"
         },
         {
-          "title": "야구팬 맞춤형 혜택 팡팡! ‘MZ 니즈 파악 OK’ 두산, KB국민 컬래버 체크카드 출시",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1629889"
+          "title": "한국서 한 달 일한 중국인이 평생 연금…국민연금 '추납 꼼수'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608213959H"
+        },
+        {
+          "title": "“국민연금 딱 1개월 내고 평생 2배 수령”…외국인들 끊이지 않는 ‘추납’ 논란",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/economy/12132915"
+        }
+      ]
+    },
+    {
+      "id": "스타뉴스",
+      "rank": 10,
+      "keyword": "스타뉴스",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '베이비몬스터 'TIMA에서 만나요!' [★영상]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "베이비몬스터 'TIMA에서 만나요!' [★영상]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821121107151"
+        },
+        {
+          "title": "[사진]베이비몬스터 아현,'시선 강탈 허리라인' - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/08/21/MI4DSNZQMQ3GGMRZGA2GIOJYHA/"
+        },
+        {
+          "title": "[현장포토] \"스윗하게 러블리\"…파리타, 소녀의 감성",
+          "source": "디스패치",
+          "url": "https://www.dispatch.co.kr/2346722"
         }
       ]
     }
