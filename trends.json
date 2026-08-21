@@ -1,286 +1,242 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-20T23:32:39.902Z",
+  "updatedAt": "2026-08-21T01:48:29.319Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "날씨",
+      "id": "한국-영화",
       "rank": 1,
-      "keyword": "날씨",
-      "volumeLabel": "200000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[날씨] 무더위 속 중부 중심 비…내일까지 최대 60㎜' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[날씨] 무더위 속 중부 중심 비…내일까지 최대 60㎜",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821080752824"
-        },
-        {
-          "title": "전국 곳곳 소나기…낮 최고 35도 ‘무더위’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608210713001"
-        },
-        {
-          "title": "[오늘날씨]서울·강원 흐리고 비…남부는 35도 폭염 속 소나기 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/21/2026082017443463866"
-        }
-      ]
-    },
-    {
-      "id": "몸매",
-      "rank": 2,
-      "keyword": "몸매",
+      "keyword": "한국 영화",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '치어리더 조예린, 아슬아슬 끈 비키니…꽉 찬 몸매 자랑' (엑스포츠뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '얼마만이냐, 한국영화 풍년…추석 시즌은 5편 ‘집안 싸움’' (국제신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "치어리더 조예린, 아슬아슬 끈 비키니…꽉 찬 몸매 자랑",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2185284"
+          "title": "얼마만이냐, 한국영화 풍년…추석 시즌은 5편 ‘집안 싸움’",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1600&key=20260820.22014005440"
         },
         {
-          "title": "레이나, 비키니 몸매 이 정도였어? 청순한데 반전 [DA★]",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260817/134487463/1"
-        },
-        {
-          "title": "비키니 몸매 공개한 레이나…밤 러닝, 다이어트에 도움 될까",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10845306"
-        }
-      ]
-    },
-    {
-      "id": "중대범죄-수사청",
-      "rank": 3,
-      "keyword": "중대범죄 수사청",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘검찰→중수청’ 택한 검사·수사관 2375명…정원 82.6% 채워' (동아일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘검찰→중수청’ 택한 검사·수사관 2375명…정원 82.6% 채워",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260820/134516380/1"
-        },
-        {
-          "title": "임은정 동부지검장, 중수청 지원…오늘 지원 마감",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20260820017800038"
-        },
-        {
-          "title": "중수청 특례임용에 검사 100여명 지원한듯…내달 임용대상자 선정(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820235455860"
-        }
-      ]
-    },
-    {
-      "id": "암모니아-가스",
-      "rank": 4,
-      "keyword": "암모니아 가스",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '서울 양평동 한 공장서 암모니아 누출…영등포구청 “공장 외부선 측정 안 돼”' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "서울 양평동 한 공장서 암모니아 누출…영등포구청 “공장 외부선 측정 안 돼”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8642362"
-        },
-        {
-          "title": "선유도역 인근 공장서 암모니아 가스 누출…인명피해 없어",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821070952927"
-        },
-        {
-          "title": "선유도역 인근 식품공장서 암모니아 누출…공장 직원 전원 대피",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/incident-accident/6265047"
-        }
-      ]
-    },
-    {
-      "id": "정철원",
-      "rank": 5,
-      "keyword": "정철원",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''정철원과 이혼' 김지연 \"子, 약점·협박수단 될까 끔찍..포기하려 했다\" 심경 고백 - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'정철원과 이혼' 김지연 \"子, 약점·협박수단 될까 끔찍..포기하려 했다\" 심경 고백 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/20/GA3WMZBWGRTDKZRSMU3GMODDHE/"
-        },
-        {
-          "title": "‘러브캐처’ 김지연, 두 돌 앞둔 아들에 전한 진심…“부족한 엄마에게 와줘서 고마워”",
-          "source": "스포츠월드",
-          "url": "https://www.sportsworldi.com/newsView/20260820522787"
-        },
-        {
-          "title": "'정철원과 파경' 김지연, 子 생일 앞두고 심경 고백…\"약점·협박 수단→포기할까 생각도\" [RE:스타]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820142947429"
-        }
-      ]
-    },
-    {
-      "id": "송민호",
-      "rank": 6,
-      "keyword": "송민호",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '검찰, 송민호 '부실복무' 도운 공단 관리자에 징역 1년 구형' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "검찰, 송민호 '부실복무' 도운 공단 관리자에 징역 1년 구형",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260820167400004"
-        },
-        {
-          "title": "송민호는 징역 1년6개월, 관리자는 징역 1년 구형..10월 1일 선고 [스타현장][종합]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Hsg7nBcnCs"
-        },
-        {
-          "title": "위너 송민호 ‘부실복무·무단결근’ 도운 관리책임자…징역 1년 구형",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260820580572"
-        }
-      ]
-    },
-    {
-      "id": "주성엔지니어링",
-      "rank": 7,
-      "keyword": "주성엔지니어링",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '특징주, 주성엔지니어링-반도체 장비 테마 상승세에 6.92% ↑' (매일경제 마켓) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "특징주, 주성엔지니어링-반도체 장비 테마 상승세에 6.92% ↑",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1143861"
-        },
-        {
-          "title": "주성엔지니아링 주가 상승 중",
-          "source": "아시아뉴스통신",
-          "url": "https://m.anewsa.com/article_sub3.php?number=3190062&type=&mobile="
-        },
-        {
-          "title": "[특징주]주성엔지니어링, 반도체 랠리 올라타 6% 강세…SK하이닉스發 장비株 훈풍",
-          "source": "남도일보",
-          "url": "https://www.namdonews.com/news/articleView.html?idxno=920256"
-        }
-      ]
-    },
-    {
-      "id": "유시민",
-      "rank": 8,
-      "keyword": "유시민",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '유시민, 가수 이하늘에 “내가 이 대통령을 왜 싫어해?”' (한겨레) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "유시민, 가수 이하늘에 “내가 이 대통령을 왜 싫어해?”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1273866.html"
-        },
-        {
-          "title": "“필연적 실패”라던 유시민… 제주에선 “내가 이재명을 왜 싫어해?”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821063502159"
-        },
-        {
-          "title": "“이재명 정말 싫어요?”…유시민 “내가 이재명을 왜 싫어해?”",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/society/2026/08/20/20260820500251"
-        }
-      ]
-    },
-    {
-      "id": "담보-대출",
-      "rank": 9,
-      "keyword": "담보 대출",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '홈플러스 \"점포 19개 매각·담보대출로 채권 갚아 정상화할 것\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "홈플러스 \"점포 19개 매각·담보대출로 채권 갚아 정상화할 것\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820154202172"
-        },
-        {
-          "title": "\"주인 바뀌니 딴판이네\"…세 불리는 익스프레스·생존 걸린 홈플러스 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/living/2026/08/20/2026082014283557137"
-        },
-        {
-          "title": "홈플러스 \"1.5조 추가 차입, 운영 부담 아냐\"…2.8조 자산 담보 활용",
+          "title": "누군가 망한다…9월 한국영화 6편 박터지는 흥행 경쟁",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260820_0003756224"
+          "url": "https://www.newsis.com/view/NISX20260820_0003756296"
+        },
+        {
+          "title": "韓영화 살릴 구세주…류승룡·최민식·유해진, 가을에 뜬 ‘천만’ 배우들 [줌인]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/5TdQih9Usq"
         }
       ]
     },
     {
-      "id": "3기-신도시",
-      "rank": 10,
-      "keyword": "3기 신도시",
+      "id": "한국형-차기-구축함",
+      "rank": 2,
+      "keyword": "한국형 차기 구축함",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[KDDX 신기술] 전투체계·레이다·유도탄 국산화…첫 이지스함 시험대 : 네이버 블로그' (Naver Blog) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[KDDX 신기술] 전투체계·레이다·유도탄 국산화…첫 이지스함 시험대 : 네이버 블로그",
+          "source": "Naver Blog",
+          "url": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224384621874&redirect=Dlog"
+        },
+        {
+          "title": "[KDDX 신기술] 설계·건조 이원화…핵심 장비는 '한화'로",
+          "source": "딜사이트",
+          "url": "https://dealsite.co.kr/articles/167495"
+        },
+        {
+          "title": "[KDDX 신기술] 전투체계·레이다·유도탄 국산화…첫 이지스함 시험대",
+          "source": "딜사이트",
+          "url": "https://dealsite.co.kr/articles/167427"
+        }
+      ]
+    },
+    {
+      "id": "국민임대주택",
+      "rank": 3,
+      "keyword": "국민임대주택",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "동맹",
+      "rank": 4,
+      "keyword": "동맹",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '美 \"우리편이냐 맞설거냐\"…'이란경제 붕괴' 동맹 동참 압박(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "美 \"우리편이냐 맞설거냐\"…'이란경제 붕괴' 동맹 동참 압박(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260821002551071"
+        },
+        {
+          "title": "트럼프, 시진핑 방미 앞두고 '이란원유 큰손' 中 겨냥…긴장 고조 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/08/21/2026082109524745563"
+        },
+        {
+          "title": "美재무 \"대규모 이란 제재 24일 공개…동맹국에도 양자택일 요구할 것\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431086"
+        }
+      ]
+    },
+    {
+      "id": "심-철종",
+      "rank": 5,
+      "keyword": "심 철종",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''암살' 출연한 심철종, 폐지 줍고 감자로 끼니 \"월 천만원 벌었는데..\" [특종세상]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'암살' 출연한 심철종, 폐지 줍고 감자로 끼니 \"월 천만원 벌었는데..\" [특종세상]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820225507332"
+        },
+        {
+          "title": "심철종 \"1년 시한부 판정…아들에게 간이식 받아\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260821_0003756832"
+        },
+        {
+          "title": "배우 심철종, '월 1000만원' 사업 실패 후 이혼…\"간암, 시한부 선고\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/21/2026082023353238562"
+        }
+      ]
+    },
+    {
+      "id": "김가연",
+      "rank": 6,
+      "keyword": "김가연",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김가연, 600억 친정 재력 고백…\"엄마 첩이라는 소문 싫었다\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김가연, 600억 친정 재력 고백…\"엄마 첩이라는 소문 싫었다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260820_0003756756"
+        },
+        {
+          "title": "300억 아닌 '600억 재산' 사실이었다..김가연 \"개인 아닌 父회사\" 정정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821064551516"
+        },
+        {
+          "title": "‘임요환♥’ 김가연 “친정 재력 300억? 600억…母, 첩 소문까지”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260820/134516005/1"
+        }
+      ]
+    },
+    {
+      "id": "엘레나-리바키나",
+      "rank": 7,
+      "keyword": "엘레나 리바키나",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '사발렌카 조기 탈락...리바키나, ‘카자흐스탄 최초 세계 1위’까지 단 2승 [신시내티오픈]' (테니스코리아) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "사발렌카 조기 탈락...리바키나, ‘카자흐스탄 최초 세계 1위’까지 단 2승 [신시내티오픈]",
+          "source": "테니스코리아",
+          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=53501"
+        },
+        {
+          "title": "'세계 2위' 리바키나, 신시내티 오픈 부상으로 기권",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3670466"
+        },
+        {
+          "title": "세계 1위 사발렌카, 3개 대회 연속 16강 탈락…20세 사라 베일렉(체코) 돌풍에 '와르르~'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820140153837"
+        }
+      ]
+    },
+    {
+      "id": "2xko",
+      "rank": 8,
+      "keyword": "2xko",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '3기 신도시 인천계양지구 주택공급 현장점검 - 사진 | 멀티미디어' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '2XKO Active Development Will End in December 2026' (Riot Games) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "3기 신도시 인천계양지구 주택공급 현장점검 - 사진 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=73051&pageIndex=1"
+          "title": "2XKO Active Development Will End in December 2026",
+          "source": "Riot Games",
+          "url": "https://www.riotgames.com/en/news/2xko-active-development-ends-december-2026"
         },
         {
-          "title": "인천계양지구 입주 예정 세대 살펴보는 한성숙 국무총리",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260819110700013"
+          "title": "2XKO's Demise Is Disappointing But Not Shocking",
+          "source": "GameTyrant",
+          "url": "https://gametyrant.com/news/2xkos-sudden-end-of-development-is-disappointing-but-not-shocking"
         },
         {
-          "title": "韓총리, 주택 공급 속도전 주문…일자리·창업 생태계 강화 주력",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/3ETXgsqFSL"
+          "title": "Riot is ending development of its 2XKO fighting game",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fighting/riot-is-ending-development-of-its-2xko-fighting-game/"
+        }
+      ]
+    },
+    {
+      "id": "band",
+      "rank": 9,
+      "keyword": "band",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Netflix sued by band Demon Hunter over 'KPop Demon Hunters'' (Reuters) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Netflix sued by band Demon Hunter over 'KPop Demon Hunters'",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/legal/legalindustry/netflix-sued-by-band-demon-hunter-over-kpop-demon-hunters-2026-08-19/"
+        },
+        {
+          "title": "Christian band Demon Hunter files trademark lawsuit against Netflix over 'consumer confusion'",
+          "source": "Los Angeles Times",
+          "url": "https://www.latimes.com/entertainment-arts/story/2026-08-19/christian-band-demon-hunter-kpop-demon-hunters-trademark-lawsuit-netflix"
+        },
+        {
+          "title": "Christian metal band sues Netflix over KPop Demon Hunters name",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/film/2026/aug/19/kpop-demon-hunters-netflix-lawsuit"
         }
       ]
     }
