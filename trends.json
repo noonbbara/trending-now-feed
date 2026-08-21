@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-21T20:33:05.586Z",
+  "updatedAt": "2026-08-21T21:31:13.316Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,9 +9,9 @@
       "rank": 1,
       "keyword": "아스널 대 코번트리",
       "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '‘펩시황’ 떠난 EPL, 26-27 시즌 막 오른다...디펜딩 챔피언 아스널에 도전할 패자는' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,41 +33,13 @@
       ]
     },
     {
-      "id": "이미숙",
-      "rank": 2,
-      "keyword": "이미숙",
-      "volumeLabel": "5000+",
-      "startedLabel": "6시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 ''66세' 이미숙, 재산 처리 계획 밝혔다…\"사회에 다 환원하고 죽을 것\" (숙스러운)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'66세' 이미숙, 재산 처리 계획 밝혔다…\"사회에 다 환원하고 죽을 것\" (숙스러운)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821191107884"
-        },
-        {
-          "title": "66세 이미숙 \"재산? 사회에 환원하고 생 마감할 것\"..벌써 인생 설계 (숙스러운 미숙씨)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/21/GFSDOOBWGYZDOZDFGFQTIZJRMM/"
-        },
-        {
-          "title": "“재산 사회에 환원할 것” 이미숙 깜짝 고백에 친언니 “그 전에 다 쓰겠지” 돌직구",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608212022003"
-        }
-      ]
-    },
-    {
       "id": "f-35a",
-      "rank": 3,
+      "rank": 2,
       "keyword": "f 35a",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 'Switzerland’s First F-35 Takes Shape in Italy' (MiGFlug) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -89,30 +61,58 @@
       ]
     },
     {
-      "id": "아스날",
-      "rank": 4,
-      "keyword": "아스날",
+      "id": "arsenal-đấu-với-coventry",
+      "rank": 3,
+      "keyword": "arsenal đấu với coventry",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''막강한 아스널, 더 단단해진다' 잉글랜드 국대 센터백 콘사, 애스턴 빌라→아스널 이적 합의..'살리바 부상 공백 메운다, 이적…' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Aguero gây bất ngờ với dự đoán \"ngựa ô\" Ngoại Hạng Anh mùa tới' (yeuthethao.net.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'막강한 아스널, 더 단단해진다' 잉글랜드 국대 센터백 콘사, 애스턴 빌라→아스널 이적 합의..'살리바 부상 공백 메운다, 이적료 5100만파운드 이상'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/08/20/GE2WIZRWGQ4WIOBVMQ3GEYZWGY/"
+          "title": "Aguero gây bất ngờ với dự đoán \"ngựa ô\" Ngoại Hạng Anh mùa tới",
+          "source": "yeuthethao.net.vn",
+          "url": "https://yeuthethao.net.vn/aguero-gay-bat-ngo-voi-du-doan-ngua-o-ngoai-hang-anh-mua-toi-v891862.html"
         },
         {
-          "title": "이렇게 강력한 스쿼드 가진 팀 있었나…'PL 디펜딩 챔피언' 아스널, '英 국대 CB' 콘사까지 품었다! 이적료는 1,039억",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260821n29109"
+          "title": "Trực tiếp Arsenal vs Coventry: Arsenal nới rộng cách biệt 3-0",
+          "source": "baonghean.vn",
+          "url": "https://baonghean.vn/truc-tiep-arsenal-vs-coventry-arsenal-noi-rong-cach-biet-3-0-10349090.html"
         },
         {
-          "title": "살리바·팀버 줄부상에 결국 962억 쓴다… 아르테타 아스널 감독, 콘사 영입 임박 시사 \"준비되면 발표\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821125409999"
+          "title": "HLV Mikel Arteta bật cười trước dự đoán về nhà vô địch Ngoại hạng Anh",
+          "source": "Thể Thao 247",
+          "url": "https://thethao247.vn/502-arteta-phan-ung-khi-arsenal-duoc-xep-ung-vien-so-mot-c2-d433154.html"
+        }
+      ]
+    },
+    {
+      "id": "อาร-เซนอล-พบ-โคเวนทร",
+      "rank": 4,
+      "keyword": "อาร เซนอล พบ โคเวนทร",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'การคาดการณ์ผลการแข่งขันระหว่างอาร์เซนอลกับโคเวนทรี: รายชื่อผู้เล่นที่คา…' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "การคาดการณ์ผลการแข่งขันระหว่างอาร์เซนอลกับโคเวนทรี: รายชื่อผู้เล่นที่คาดว่าจะลงสนาม",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-arsenal-vs-coventry-doi-hinh-du-kien"
+        },
+        {
+          "title": "LIVE : ดูบอลสด อาร์เซนอล พบ โคเวนทรี ซิตี้ ฟุตบอลพรีเมียร์ลีก เวลา 02.00 น.",
+          "source": "Sporting News",
+          "url": "https://www.sportingnews.com/th/football/news/live-watch-arsenal-vs-coventry-city-premier-league-2026-27/6d367e03602972ab61ab0731"
+        },
+        {
+          "title": "LIVE เปิดม่านพรีเมียร์ลีก!! ภารกิจล่า 3 แต้มแรกของแชมป์เก่าอาร์เซนอล!",
+          "source": "Thairath.co.th",
+          "url": "https://www.thairath.co.th/sport/video/football-fact-clarify/1188072"
         }
       ]
     },
@@ -120,10 +120,10 @@
       "id": "arsenal-vs-coventry",
       "rank": 5,
       "keyword": "arsenal vs coventry",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 'Arsenal vs Coventry LIVE: Premier League score, lineups, commentary & u…' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -138,20 +138,76 @@
           "url": "https://www.arsenal.com/news/artetas-update-on-rice-saka-and-guimaraes-aynNJ9I4lir5"
         },
         {
-          "title": "Arsenal vs Coventry City Preview: Premier League Returns as Champions Begin Title Defence",
-          "source": "Dawan Africa",
-          "url": "https://www.dawan.africa/news/arsenal-vs-coventry-city-preview-premier-league-returns-as-champions-begin-title-defence"
+          "title": "Arsenal press conference LIVE: Mikel Arteta on Coventry win, Odegaard, Tzolis and injuries",
+          "source": "Football London",
+          "url": "https://www.football.london/arsenal-fc/news/arsenal-press-conference-live-mikel-34499722"
+        }
+      ]
+    },
+    {
+      "id": "검단호수공원",
+      "rank": 6,
+      "keyword": "검단호수공원",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '검단서 귀하신 몸 전용 59㎡… '검단호수공원역 풍경채 어바니티 2차' 관심급증' (국토일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "검단서 귀하신 몸 전용 59㎡… '검단호수공원역 풍경채 어바니티 2차' 관심급증",
+          "source": "국토일보",
+          "url": "https://www.ikld.kr/news/articleView.html?idxno=339322"
+        },
+        {
+          "title": "축구장 2.5배 호수 품은 검단신도시…새 랜드마크 연말 '베일 벗는다'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820194004602?t=m&x_mn=6a87b807a2e9ff7ce622d101"
+        },
+        {
+          "title": "축구장 2.5배 호수 품은 검단신도시…새 랜드마크 연말 '베일 벗는다'",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1330051"
+        }
+      ]
+    },
+    {
+      "id": "한화오션",
+      "rank": 7,
+      "keyword": "한화오션",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'HD현대중공업, 페루 해군 상륙지원함 현지 건조…“지속 가능 K-함정 수출 모델 제시”' (동아비즈니스리뷰 | DBR) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "HD현대중공업, 페루 해군 상륙지원함 현지 건조…“지속 가능 K-함정 수출 모델 제시”",
+          "source": "동아비즈니스리뷰 | DBR",
+          "url": "https://dbr.donga.com/kfocus/view/article_no/3423"
+        },
+        {
+          "title": "한화오션 옥죄던 푸미폰함 '족쇄' 풀렸다…태국 軍 당국, 설계 결함 의혹 일축",
+          "source": "더구루",
+          "url": "https://www.theguru.co.kr/news/article.html?no=106079"
+        },
+        {
+          "title": "HD현대중공업, 페루 상륙지원함 ‘침보테함’ 진수… 첫 함정 해외 공동 건조",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821070251820"
         }
       ]
     },
     {
       "id": "포로",
-      "rank": 6,
+      "rank": 8,
       "keyword": "포로",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '우크라이나 전쟁: 포로로 붙잡힌 우크라 태생 군인들이 BBC에 밝힌 '러시아 편에 선 이유'' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -173,114 +229,30 @@
       ]
     },
     {
-      "id": "전화",
-      "rank": 7,
-      "keyword": "전화",
-      "volumeLabel": "200+",
-      "startedLabel": "6시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 '‘여성 실종’ 뒤늦게 시스템 개선…‘실종성인법’은 아직' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘여성 실종’ 뒤늦게 시스템 개선…‘실종성인법’은 아직",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8642976"
-        },
-        {
-          "title": "제주 실종자 가족에게 장난전화?...경찰 \"엄정 대응\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202608212153438273_005.html"
-        },
-        {
-          "title": "\"제주 장미란씨 실종프로파일링 자료 입력후 삭제돼\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260821171300056"
-        }
-      ]
-    },
-    {
-      "id": "정선희",
-      "rank": 8,
-      "keyword": "정선희",
-      "volumeLabel": "200+",
-      "startedLabel": "6시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 ''옥문아' 정선희 \"홍진경 보고 엄마도 울어\"…눈물의 30년 우정 [RE:TV]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'옥문아' 정선희 \"홍진경 보고 엄마도 울어\"…눈물의 30년 우정 [RE:TV]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260822045127351"
-        },
-        {
-          "title": "홍진경, 정선희 유튜브서 이혼 발표한 이유…\"안 하고 싶었는데\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260821_0003758279"
-        },
-        {
-          "title": "홍진경, 과거 정선희 커플과 더블데이트..“라엘父와 아직도 친해” (‘옥문아들’)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/21/MYZGKMRWMNSTSYZQHBSTCNZRMY/"
-        }
-      ]
-    },
-    {
-      "id": "al-riyadh-vs-al-nassr",
+      "id": "premier-league",
       "rank": 9,
-      "keyword": "al-riyadh vs al-nassr",
+      "keyword": "premier league",
       "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 'Cristiano Ronaldo climbs to the top of Al-Nassr's historic throne in th…' (Goal.com) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Premier League press conferences: Enzo Maresca, Andoni Iraola, Roberto …' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Cristiano Ronaldo climbs to the top of Al-Nassr's historic throne in the Roshan League | Goal.com India",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en-in/news/more-than-just-a-goal-ronaldo-ascends-the-historic-throne-of-al-nassr-in-the-roshan-league/blt159438d5af592c6a"
+          "title": "Premier League press conferences: Enzo Maresca, Andoni Iraola, Roberto De Zerbi, David Moyes & Unai Emery",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cqvg0jyg72w2t"
         },
         {
-          "title": "Licensable picture: Saudi Pro League - Al Riyadh v Al Nassr",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/saudi-pro-league-al-riyadh-v-al-nassr/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNOEwxRTlVWTY"
+          "title": "Premier League press conferences: Enzo Maresca, Andoni Iraola, Roberto De Zerbi, David Moyes & Unai Emery",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/sport/football/live/cqvg0jyg72w2t?page=7"
         },
         {
-          "title": "Al Riyadh – Al Nassr 0 - 3 | TOR – João Félix Sequeira",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/fr/video/al-riyadh-al-nassr-0-3-tor-joao-felix-sequeira-43315396"
-        }
-      ]
-    },
-    {
-      "id": "pl",
-      "rank": 10,
-      "keyword": "pl",
-      "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'Burza wokół konferencji Kosiniaka-Kamysza. Poseł Śliwka ujawnia kulisy:…' (wPolsce24) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Burza wokół konferencji Kosiniaka-Kamysza. Poseł Śliwka ujawnia kulisy: „Wstyd i żenada!”. MON odpowiada",
-          "source": "wPolsce24",
-          "url": "https://wpolsce24.tv/polska/burza-wokol-konferencji-kosiniakakamysza-posel-sliwka-ujawnia-kulisy,235581"
-        },
-        {
-          "title": "Bundeswehra wspiera Polskę przy ochronie wschodniej granicy NATO",
-          "source": "deutschland.de",
-          "url": "https://www.deutschland.de/pl/news/bundeswehra-wspiera-polske-przy-ochronie-wschodniej-granicy-nato"
-        },
-        {
-          "title": "Tarcza Wschód dziurawa? Co z bezpieczeństwem Polski?",
-          "source": "RadioMaryja.pl",
-          "url": "https://www.radiomaryja.pl/informacje/tarcza-wschod-dziurawa-co-z-bezpieczenstwem-polski/"
+          "title": "Premier League: 10 things to look out for as the new season kicks off",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/21/premier-league-10-things-to-look-out-for-as-new-season-kicks-off"
         }
       ]
     }
