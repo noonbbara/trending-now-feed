@@ -1,17 +1,45 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-22T15:28:31.154Z",
+  "updatedAt": "2026-08-22T15:51:36.625Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "챔피언십",
+      "id": "우-서윤",
       "rank": 1,
-      "keyword": "챔피언십",
+      "keyword": "우 서윤",
       "volumeLabel": "5000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘우지원 딸’ 우서윤, 미스코리아 진 됐다' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘우지원 딸’ 우서윤, 미스코리아 진 됐다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20260822/134523836/1"
+        },
+        {
+          "title": "우지원 딸 우서윤 ‘미스코리아 진’ 됐다…“아빠 유전자 그대로”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822221352212"
+        },
+        {
+          "title": "우서윤, 미스코리아 '진' 당선… 70주년 왕관 주인공 됐다",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026082219400005903"
+        }
+      ]
+    },
+    {
+      "id": "챔피언십",
+      "rank": 2,
+      "keyword": "챔피언십",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '[골프IN화보] 송은아, 악천후 속 아쉬운 뒷심… BC카드·한경 KLPGA 챔피언십 3라운드 공동 21위 마감' (이데일리) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,41 +61,41 @@
       ]
     },
     {
-      "id": "로또-1238",
-      "rank": 2,
-      "keyword": "로또 1238",
-      "volumeLabel": "5000+",
+      "id": "정재환",
+      "rank": 3,
+      "keyword": "정재환",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '1238회 로또 1등 23명…당첨금 각 12억원(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''그것이 알고싶다', 친구 잔혹살해한 정재환의 엽기 행각 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "1238회 로또 1등 23명…당첨금 각 12억원(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260822046600002"
-        },
-        {
-          "title": "한 명이 '48억' 대박?...로또 수동 1등, 한 복권방서 '4장' 당첨 - 머니투데이",
+          "title": "'그것이 알고싶다', 친구 잔혹살해한 정재환의 엽기 행각 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/22/2026082221553273135"
+          "url": "https://www.mt.co.kr/entertainment/2026/08/22/2026082220007293775"
         },
         {
-          "title": "로또 1238회 1등 ‘2·13·18·32·38·42’ 보너스 ‘22’…당첨자 23명 11억9726만원씩",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608222050001"
+          "title": "친구 죽인 '나체 살인범' 정재환…'그알', 피해자 통화 공개",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260821_0003757438"
+        },
+        {
+          "title": "\"물어뜯은 흔적까지\"…알몸 난동 엽기 살인마 정재환 민낯",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6566115"
         }
       ]
     },
     {
       "id": "도경완",
-      "rank": 3,
+      "rank": 4,
       "keyword": "도경완",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '도경완, 급성 골수염 고백…\"일부 손톱은 가짜...수술 위해 제거\"' (한국일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -90,12 +118,12 @@
     },
     {
       "id": "꽃파당",
-      "rank": 4,
+      "rank": 5,
       "keyword": "꽃파당",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '변우석·박지훈의 풋풋함부터 낭만 로맨스까지…'꽃파당' 관전 포인트 공개' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -118,12 +146,12 @@
     },
     {
       "id": "삼성라이온즈",
-      "rank": 5,
+      "rank": 6,
       "keyword": "삼성라이온즈",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 ''8회 재역전' 삼성, 2연패 탈출…1게임 차로 선두 kt 추격(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -133,70 +161,37 @@
           "url": "https://www.yna.co.kr/view/AKR20260822049700007"
         },
         {
+          "title": "'0이닝 4실점' 굴욕 삭제, '원정불패' 김재윤 1⅓이닝 SV 난타전 잠재웠다...역대 5번째 220SV 금자탑까지 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/baseball/2026/08/23/MY2GCMRTMFSTCZLBMQ3DQMLCMI/"
+        },
+        {
           "title": "[사진] 김지찬과 승리 기쁨 나누는 박진만 감독 - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/sports/2026/08/22/202608222241771464O"
-        },
-        {
-          "title": "삼성, 선두 KT 1경기 차 맹추격…키움, KIA 7연승 저지(종합)",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260822_0003758606"
         }
       ]
     },
     {
-      "id": "동물권",
-      "rank": 6,
-      "keyword": "동물권",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 ''고양이, 이젠 죽일 수밖에...' 50만 유튜버가 불러온 지옥도' (OhmyNews) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'고양이, 이젠 죽일 수밖에...' 50만 유튜버가 불러온 지옥도",
-          "source": "OhmyNews",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260516"
-        },
-        {
-          "title": "‘캣맘 금지’ 논쟁... 동물보호와 주민 생활권 사이 [수사와 재판]",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2616907"
-        },
-        {
-          "title": "'길고양이 먹이 주기 금지' 찬반 논란에… 생태학자 최재천도 '등판'",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026082013450000888"
-        }
-      ]
-    },
-    {
-      "id": "ไทย-พบ-เว-ยดนาม",
+      "id": "고레츠카",
       "rank": 7,
-      "keyword": "ไทย พบ เว ยดนาม",
-      "volumeLabel": "200+",
+      "keyword": "고레츠카",
+      "volumeLabel": "100+",
       "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'โค้ชคิม ซังซิก และแผนการของเขาที่จะ \"นำความโศกเศร้า\" มาสู่ทีมชาติไทย' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '시즌 개막했는데 여전히 백수 신세…'KIM 전 동료' 드디어 새 직장 찾나? UEL 우승팀이 원한다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "โค้ชคิม ซังซิก และแผนการของเขาที่จะ \"นำความโศกเศร้า\" มาสู่ทีมชาติไทย",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/hlv-kim-sang-sik-va-cac-phuong-an-gieo-sau-cho-tuyen-thai-lan"
+          "title": "시즌 개막했는데 여전히 백수 신세…'KIM 전 동료' 드디어 새 직장 찾나? UEL 우승팀이 원한다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9kMH7lfzws"
         },
         {
-          "title": "ผลบอลสด ทีมชาติไทย พลาดท่าแพ้เวียดนาม คาบ้าน นัดชิงอาเซียนคัพ 2026 เลก 1",
-          "source": "Thairath.co.th",
-          "url": "https://www.thairath.co.th/sport/thaifootball/changsuek/2954571"
-        },
-        {
-          "title": "ก่อนการแข่งขันรอบชิงชนะเลิศระหว่างเวียดนามกับไทย อัฒจันทร์ลอยฟ้าพร้อมใช้งานแล้ว",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/truoc-gio-g-chung-ket-viet-nam-thai-lan-khan-dai-tren-khong-da-san-sang"
+          "title": "바이에른 뮌헨 결별 고레츠카, 유로파리그 챔피언 아스톤 빌라 이적 임박",
+          "source": "스포르티보 미디어",
+          "url": "https://www.sportivomedia.net/news/articleView.html?idxno=22149"
         }
       ]
     },
@@ -205,9 +200,9 @@
       "rank": 8,
       "keyword": "공항",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '인천공항 여름휴가철 여객 늘었지만 주차장 혼잡은 완화' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -250,9 +245,9 @@
           "url": "https://www.starnewskorea.com/en/sports/2026/08/22/2026082216133297983"
         },
         {
-          "title": "Thailand vs Vietnam Live: Vietnam opens the scoring.",
+          "title": "With a 2-0 victory over Thailand at Rajamangala Stadium, Vietnam holds a significant advantage in the final.",
           "source": "baonghean.vn",
-          "url": "https://baonghean.vn/en/truc-tiep-thai-lan-vs-viet-nam-viet-nam-mo-ty-so-10349165.html"
+          "url": "https://baonghean.vn/en/thang-thai-lan-2-0-ngay-tai-rajamangala-viet-nam-nam-loi-the-lon-o-chung-ket-10349165.html"
         }
       ]
     },
@@ -262,25 +257,25 @@
       "keyword": "kick",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 'Gordon To Lead The Charge | 4-2-3-1 Barcelona Predicted Lineup Vs Elche' (The 4th Official) 관련 뉴스가 함께 포착됐어요.",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 'Point students kick off the fall semester' (LaGrange Daily News) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Gordon To Lead The Charge | 4-2-3-1 Barcelona Predicted Lineup Vs Elche",
-          "source": "The 4th Official",
-          "url": "https://the4thofficial.net/2026/08/gordon-to-lead-the-charge-4-2-3-1-barcelona-predicted-lineup-vs-elche/"
+          "title": "Point students kick off the fall semester",
+          "source": "LaGrange Daily News",
+          "url": "https://www.lagrangenews.com/news/point-students-kick-off-the-fall-semester-fef66064/"
         },
         {
-          "title": "Flick's Joan Gamper Trophy decisions offer clear hint at Barcelona's starting XI against Elche",
-          "source": "Barca Universal",
-          "url": "https://barcauniversal.com/flicks-joan-gamper-trophy-decisions-offer-clear-hint-at-barcelonas-starting-xi-against-elche/"
+          "title": "Marseille vs Strasbourg Confirmed Lineups",
+          "source": "WhoScored.com",
+          "url": "https://www.whoscored.com/news/iVeaLE3mLUmHlcWSQaSOLg/show/20260821-marseille-vs-strasbourg-confirmed-lineup-1787335724"
         },
         {
-          "title": "Al Ahly outlines the shape of Barcelona's lineup for the start of La Liga: a single puzzle",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en-za/news/al-ahly-outlines-the-shape-of-barcelona-s-lineup-for-the-start-of-la-liga-a-single-puzzle/bltdda24d88ad159f6f"
+          "title": "Marseille 4-0 Strasbourg: Gouiri brace inspires emphatic opening-day win",
+          "source": "BeSoccer Livescore",
+          "url": "https://www.besoccer.com/new/marseille-4-0-strasbourg-gouiri-brace-inspires-emphatic-opening-day-win-1425713"
         }
       ]
     }
