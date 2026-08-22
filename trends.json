@@ -1,185 +1,197 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-22T05:01:05.920Z",
+  "updatedAt": "2026-08-22T05:55:16.612Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "오늘-날씨",
+      "id": "기상청",
       "rank": 1,
-      "keyword": "오늘 날씨",
+      "keyword": "기상청",
       "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[날씨] 강한 소나기 주의…충청·남부 무더위 기승' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[12시 날씨] 전국 대부분 지역 소나기…충청·남부 무더위' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[날씨] 강한 소나기 주의…충청·남부 무더위 기승",
+          "title": "[12시 날씨] 전국 대부분 지역 소나기…충청·남부 무더위",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260822122704394"
+          "url": "https://v.daum.net/v/20260822121710293"
         },
         {
-          "title": "폭염 한풀 꺾이나 했더니…'낮 최고 35도' 무더위 계속[다음주 날씨]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260822_0003758401"
+          "title": "수도권에 다시 강한 비구름 유입...시간당 20∼30mm",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0108_202608221356345877"
         },
         {
-          "title": "대구·경북 흐리고 곳에 따라 소나기…낮 최고기온 31도",
+          "title": "대전·세종·충남 곳에 따라 비…낮 최고기온 33도",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260822008700053"
+          "url": "https://www.yna.co.kr/view/AKR20260822007400063"
         }
       ]
     },
     {
-      "id": "당구",
+      "id": "이의리",
       "rank": 2,
-      "keyword": "당구",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '시골 당구장 카운터 보던 알바생이 어떻게 ‘최초의 챔피언’ 됐나' (세계일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "시골 당구장 카운터 보던 알바생이 어떻게 ‘최초의 챔피언’ 됐나",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260818518275"
-        },
-        {
-          "title": "“아내도 4구 150 쳐요. 너무 재밌어요”…남녀 불문 당구의 매력",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/sports/sports_general/1273724.html"
-        },
-        {
-          "title": "전쟁 피난길 축구 꿈나무, 90세에 전국 최고령 ‘당구왕’ 됐다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/08/22/CMJA3KI74FDRDNDXVPC6AVA7GM/"
-        }
-      ]
-    },
-    {
-      "id": "무덤",
-      "rank": 3,
-      "keyword": "무덤",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“딸 묻을 자리였는데”…아버지가 판 무덤, 9년 뒤 해바라기 가득한 기적의 꽃밭으로' (주간경향) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“딸 묻을 자리였는데”…아버지가 판 무덤, 9년 뒤 해바라기 가득한 기적의 꽃밭으로",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202608191458001"
-        },
-        {
-          "title": "“죽음 두렵지 않게” 딸과 함께 무덤에 누워 놀아준 아빠…9년 뒤 기적이 일어났다",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260818000297"
-        },
-        {
-          "title": "치료비 없어 딸 무덤 팠던 아빠... 기적의 완치 후 ‘해바라기 꽃밭’으로 바꾼 감동 사연",
-          "source": "인사이트",
-          "url": "https://www.insight.co.kr/news/568743"
-        }
-      ]
-    },
-    {
-      "id": "놀면-뭐하니",
-      "rank": 4,
-      "keyword": "놀면 뭐하니",
+      "keyword": "이의리",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '유재석, 86억 펜트하우스 절대 공개 안하더니..\"집에 모니터 12개썰\" 입열었다(놀뭐)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''마무의리' 이제 짝 달라붙는다...여기서 생긴 궁금증 '혹시 3연투 가능한가요' [고척 현장]' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "유재석, 86억 펜트하우스 절대 공개 안하더니..\"집에 모니터 12개썰\" 입열었다(놀뭐)",
+          "title": "'마무의리' 이제 짝 달라붙는다...여기서 생긴 궁금증 '혹시 3연투 가능한가요' [고척 현장]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/08/21/HBRTGMTGGQ2TSMRSHBQTSYLBHA/"
+        },
+        {
+          "title": "선발에선 35⅓이닝 34사사구, 마무리에선 ‘0사사구’…완전히 달라진 이의리",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260821154352443"
+          "url": "https://v.daum.net/v/QyAaoT4qOB?f=p"
         },
         {
-          "title": "'놀뭐' 유재석, 바지 위 속옷 입고 모델 도전…주우재와 대결서 완판 자신감",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6266232"
-        },
-        {
-          "title": "'60kg 뼈말라' 유재석, 경력직 주우재 기죽이는 속옥 모델 포즈 \"완판이야\"(놀뭐)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/22/MM2TOZLGG5STIYRQMNSGCOBQMI/"
+          "title": "[사진]나성범, '김선빈과 6회 달아나는 솔로포 기쁨 나누며'",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260821n28585"
         }
       ]
     },
     {
-      "id": "공대공-미사일",
-      "rank": 5,
-      "keyword": "공대공 미사일",
+      "id": "아시아나항공",
+      "rank": 3,
+      "keyword": "아시아나항공",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[연합뉴스 이 시각 헤드라인] - 10:30' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "김대호",
+      "rank": 4,
+      "keyword": "김대호",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''88명 대가족' 김대호, '결혼장례식' 후 달라졌다…\"제사 폐지, 김치 사먹어\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260822023600011"
+          "title": "'88명 대가족' 김대호, '결혼장례식' 후 달라졌다…\"제사 폐지, 김치 사먹어\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/8oinR7NdSS?f=p"
         },
         {
-          "title": "“동맹 안보” 美국무부, 韓에 공대공 AIM-9X 미사일 판매 잠정 승인",
+          "title": "김규원, 돌잔치 MC 시절 아찔한 말실수…“할머니 죽으셨어요”",
           "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260822/134523320/1"
+          "url": "https://www.donga.com/news/Culture/article/all/20260821/134517971/2"
         },
         {
-          "title": "美, 한국에 최신 공대공 미사일 ‘사이드와인더’ 103기 판매 잠정 승인",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260822580001"
+          "title": "‘제사 폐지 플러팅’ 김대호, ♥김지유 향한 고백 “1400포기 김장 옛말, 이제 사 먹어”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608211810003"
         }
       ]
     },
     {
-      "id": "일론-머스크",
-      "rank": 6,
-      "keyword": "일론 머스크",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "id": "티-프로스",
+      "rank": 5,
+      "keyword": "티 프로스",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '일론 머스크 ‘비트코인엔 목 조를 곳 없다’…이유는?' (BeInCrypto) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[명일방주 엔드필드] 티프로스 진짜 귀엽네' (게임톡) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "일론 머스크 ‘비트코인엔 목 조를 곳 없다’…이유는?",
-          "source": "BeInCrypto",
-          "url": "https://kr.beincrypto.com/elon-musk-bitcoin-no-throat-choke/"
+          "title": "[명일방주 엔드필드] 티프로스 진짜 귀엽네",
+          "source": "게임톡",
+          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=110846"
         },
         {
-          "title": "머스크의 비트코인 장점 재소환… “누구도 BTC 목을 조를 수 없다”",
+          "title": "키보드·마우스로 세밀한 조작, 명일방주 PC 버전 출시",
+          "source": "게임메카",
+          "url": "https://www.gamemeca.com/view.php?gid=1779155"
+        },
+        {
+          "title": "큰 화면으로 쾌적한 디펜스, '명일방주' PC 버전 출시",
+          "source": "인벤",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319496"
+        }
+      ]
+    },
+    {
+      "id": "트럼프",
+      "rank": 6,
+      "keyword": "트럼프",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '미·캐나다 무역협상 끝내 결렬…美, 캐나다산 200억달러에 50% 관세' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "미·캐나다 무역협상 끝내 결렬…美, 캐나다산 200억달러에 50% 관세",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822133509973"
+        },
+        {
+          "title": "美, 캐나다에 50% 관세 발효…막판 협상 결렬 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/08/22/2026082213510287805"
+        },
+        {
+          "title": "미국·캐나다 막판 무역협상 실패···캐나다산 50% 관세 현실화",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608221354001"
+        }
+      ]
+    },
+    {
+      "id": "골드만삭스",
+      "rank": 7,
+      "keyword": "골드만삭스",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '골드만삭스, XRP ETF 8650만달러 재매수…최대 기관으로' (블록미디어) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "골드만삭스, XRP ETF 8650만달러 재매수…최대 기관으로",
           "source": "블록미디어",
-          "url": "https://www.blockmedia.co.kr/archives/1130718"
+          "url": "https://www.blockmedia.co.kr/archives/1130642"
         },
         {
-          "title": "머스크, 비트코인을 최대 외부 보유 자산으로 꼽았다",
-          "source": "토큰포스트",
-          "url": "https://www.tokenpost.kr/news/breaking/395354"
+          "title": "150억달러 손실 후 드러난 제인스트리트의 9억9,000만달러 비트코인 ETF 보유 규모",
+          "source": "Yellow.com",
+          "url": "https://yellow.com/ko/news/%EC%A0%9C%EC%9D%B8-%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8-150%EC%96%B5%EB%8B%AC%EB%9F%AC-%EC%86%90%EC%8B%A4-%EC%97%AC%ED%8C%8C%EC%97%90-9%EC%96%B59000%EB%A7%8C%EB%8B%AC%EB%9F%AC-%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8-etf-%EB%B3%B4%EC%9C%A0-%ED%98%84%ED%99%A9-%EC%A3%BC%EB%AA%A9"
+        },
+        {
+          "title": "제인 스트리트, 블랙록 IBIT 주도로 비트코인 ETF 보유액 약 10억 달러 공개",
+          "source": "FinanceFeeds",
+          "url": "https://financefeeds.com/ko/jane-street-bitcoin-etf-1-billion-ibit-2/"
         }
       ]
     },
     {
       "id": "강남",
-      "rank": 7,
+      "rank": 8,
       "keyword": "강남",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '강남, '우익 논란' 日 배우 홍보했다 뭇매… 유튜브 영상· SNS 삭제' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -201,86 +213,58 @@
       ]
     },
     {
-      "id": "분사기",
-      "rank": 8,
-      "keyword": "분사기",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '큰아버지 분묘 파헤쳐 가스 분사기로 유골 태운 60대 집유' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "큰아버지 분묘 파헤쳐 가스 분사기로 유골 태운 60대 집유",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260821158000062"
-        },
-        {
-          "title": "큰아버지 묘 파헤쳐 가스 분사기로 유골 불태운 60대… 징역형 집유",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026082210380001947"
-        },
-        {
-          "title": "큰아버지 분묘 파헤치고 유골 훼손… 법원 “유족들 정신적 고통” 징역 6개월·집유 2년 선고",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11611147"
-        }
-      ]
-    },
-    {
-      "id": "박지현",
+      "id": "박보경",
       "rank": 9,
-      "keyword": "박지현",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "keyword": "박보경",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''황당 봉변' 박지현 자유투 던지는데 성인용품 투척! 美 WNBA서 험한 꼴 나왔다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '박보경, 신혼 시절 생활고 회상… \"쌀 한 톨 살 돈 없었다\"' (한국일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'황당 봉변' 박지현 자유투 던지는데 성인용품 투척! 美 WNBA서 험한 꼴 나왔다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260822033436223"
+          "title": "박보경, 신혼 시절 생활고 회상… \"쌀 한 톨 살 돈 없었다\"",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026081913520002885"
         },
         {
-          "title": "박지현 자유투 준비하는데…WNBA 코트로 날아든 성인용품",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6566390"
+          "title": "박보경 “진선규 고백 단칼 거절…결국 내가 매달렸다” (‘유퀴즈’) - 스타투데이",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12131988"
         },
         {
-          "title": "대충격! WNBA 한국인 박지현, 자유투 하다가 이런 끔찍한 일 당하다니…누군가 코트에 여성 성기구 투척→\"코리안 피해자 됐다, 경기 중단\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260822n04151"
+          "title": "박보경, 진선규 성공 속 홀로 눈물…\"연기하는 내 모습 기억 안 났다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260819_0003755038"
         }
       ]
     },
     {
-      "id": "특별재난지역",
+      "id": "서울대학교-관악캠퍼스",
       "rank": 10,
-      "keyword": "특별재난지역",
+      "keyword": "서울대학교 관악캠퍼스",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''호우 피해' 거제·통영 특별재난지역 선포…갈길 먼 복구 작업' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '서울대 차기 총장 선거 12명 출사표...유홍림 현 총장도 연임 도전' (YTN) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'호우 피해' 거제·통영 특별재난지역 선포…갈길 먼 복구 작업",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260822122309351"
-        },
-        {
-          "title": "침수차 2,000대 넘어...임시 보관지에는 수백 대",
+          "title": "서울대 차기 총장 선거 12명 출사표...유홍림 현 총장도 연임 도전",
           "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0115_202608221254070734"
+          "url": "https://www.ytn.co.kr/_ln/0103_202608220440524501"
         },
         {
-          "title": "경남소방노조 “소방관, 의전 동원…재난 대응 차질”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8643219"
+          "title": "서울대 총장 후보자 공모 12명 지원…반세기만 연임 총장 나올까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821150041793"
+        },
+        {
+          "title": "서울대 총장 선거 12명 입후보...오는 9월 4명 컷오프",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/08/21/ATWXGC265RFZZDWWO7QK6647M4/"
         }
       ]
     }
