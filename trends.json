@@ -1,73 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-22T19:27:52.565Z",
+  "updatedAt": "2026-08-22T19:50:17.181Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "일본-지진",
+      "id": "에스파뇰-대-레알-마드리드",
       "rank": 1,
-      "keyword": "일본 지진",
+      "keyword": "에스파뇰 대 레알 마드리드",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '일본 지바현 가시와시 북동쪽서 규모 5.9 지진 발생' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "일본 지바현 가시와시 북동쪽서 규모 5.9 지진 발생",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260823001300530"
-        },
-        {
-          "title": "日 동부 이바라키현서 규모 5.9 지진…쓰나미 우려는 없어",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260823_0003758632"
-        },
-        {
-          "title": "日 중동부서 규모 5.8 지진 발생…깊이 77.6km 지점",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/northeast-asia/6266500"
-        }
-      ]
-    },
-    {
-      "id": "토트넘",
-      "rank": 2,
-      "keyword": "토트넘",
-      "volumeLabel": "2000+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '손흥민 땐 그렇게 돈 아끼더니...토트넘, 역대급 이적시장 확정! '둘이 합쳐 2650억' 사비뉴+마르무시 동반 영입 근접' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "손흥민 땐 그렇게 돈 아끼더니...토트넘, 역대급 이적시장 확정! '둘이 합쳐 2650억' 사비뉴+마르무시 동반 영입 근접",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/14C8CJGhl1"
-        },
-        {
-          "title": "英 BBC ‘반전!’ 한국에서 ‘이강인 데뷔전’ 망가뜨린 맨시티 FW, 손흥민 친정 토트넘 이적 임박 “개인 합...",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608212112003"
-        },
-        {
-          "title": "'세상에' 토트넘 역대급 '호구?'...이적료 '1610억으로 쏘니 '3배', HERE WE GO 떴다! 'EPL 단 1골' 미친 몸값으로 영입→맨시티 방출 금액 '1위'",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026082217520229335"
-        }
-      ]
-    },
-    {
-      "id": "레알마드리드",
-      "rank": 3,
-      "keyword": "레알마드리드",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+4",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
       "summary": "급상승 시점에 '레알의 어려운 숙제…음바페·비니시우스·벨링엄, 무리뉴는 어떻게 쓸까' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -89,13 +33,41 @@
       ]
     },
     {
+      "id": "일본-지진",
+      "rank": 2,
+      "keyword": "일본 지진",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '일본 지바현 가시와시 북동쪽서 규모 5.9 지진 발생' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "일본 지바현 가시와시 북동쪽서 규모 5.9 지진 발생",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260823001300530"
+        },
+        {
+          "title": "日 동부 이바라키현서 규모 5.9 지진…쓰나미 우려는 없어",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260823_0003758632"
+        },
+        {
+          "title": "日 중동부서 규모 5.8 지진 발생…깊이 77.6km 지점",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/northeast-asia/6266500"
+        }
+      ]
+    },
+    {
       "id": "地震",
-      "rank": 4,
+      "rank": 3,
       "keyword": "地震",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '日本茨城县南部发生5.9级地震 东京震感明显' (香港電台) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -117,13 +89,69 @@
       ]
     },
     {
-      "id": "바이에른-뮌헨",
-      "rank": 5,
-      "keyword": "바이에른 뮌헨",
+      "id": "브렌트포드",
+      "rank": 4,
+      "keyword": "브렌트포드",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김지수, 브렌트포드 1군 포함…韓 EPL 계보 이어간다' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김지수, 브렌트포드 1군 포함…韓 EPL 계보 이어간다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260822/134523687/1"
+        },
+        {
+          "title": "‘손흥민·황희찬 없다’ 위기의 ‘韓 프리미어리거’, ‘명맥’ 잇는 수비수 김지수 있다…브렌트포드 1군 포함 등번호 ‘36번’",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1630048"
+        },
+        {
+          "title": "[오피셜]韓 축구 대형 호재, EPL '0명' 굴욕 깜짝 탈출! '국가대표 수비수' 김지수, 브렌트포드 1군 선수단 포함 \"등번호 36번\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/football/2026-08-22/202608220100129330008255"
+        }
+      ]
+    },
+    {
+      "id": "brentford-vs-spurs",
+      "rank": 5,
+      "keyword": "brentford vs spurs",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 'Premier League: Brentford beat Tottenham after wins for Hull, Ipswich, …' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Premier League: Brentford beat Tottenham after wins for Hull, Ipswich, Everton and Leeds",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/clyx03e7y2lt"
+        },
+        {
+          "title": "Brentford 3-0 Tottenham: Premier League – as it happened",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/aug/22/brentford-v-tottenham-premier-league-live"
+        },
+        {
+          "title": "Preview: Brentford vs Tottenham Hotspur - prediction, team news, lineups",
+          "source": "Sports Mole",
+          "url": "https://www.sportsmole.co.uk/football/spurs/preview/brentford-vs-spurs-prediction-team-news-lineups_603310.html"
+        }
+      ]
+    },
+    {
+      "id": "바이에른-뮌헨",
+      "rank": 6,
+      "keyword": "바이에른 뮌헨",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '김민재 30살인데 이적료 652억에 맨유?…\"패스성공률 96% 경이로워\"→EPL 코리안리거 명맥 이을까' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -145,41 +173,13 @@
       ]
     },
     {
-      "id": "brentford-vs-spurs",
-      "rank": 6,
-      "keyword": "brentford vs spurs",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'Premier League: Brentford beat Tottenham after wins for Hull, Ipswich, …' (BBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Premier League: Brentford beat Tottenham after wins for Hull, Ipswich, Everton and Leeds",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/clyx03e7y2lt"
-        },
-        {
-          "title": "Brentford 3-0 Tottenham: Premier League – live reaction",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/aug/22/brentford-v-tottenham-premier-league-live"
-        },
-        {
-          "title": "Preview: Brentford vs Tottenham Hotspur - prediction, team news, lineups",
-          "source": "Sports Mole",
-          "url": "https://www.sportsmole.co.uk/football/spurs/preview/brentford-vs-spurs-prediction-team-news-lineups_603310.html"
-        }
-      ]
-    },
-    {
       "id": "인테르",
       "rank": 7,
       "keyword": "인테르",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '[오피셜] 계약 기간 5년, 이적료 567억…'16년 리버풀 인생 청산' 존스, 이탈리아 챔피언 인터 밀란 이적' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -205,9 +205,9 @@
       "rank": 8,
       "keyword": "첼시",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '‘첼시 9번’ 주앙 페드루, 장기 재계약 임박⋯최장 2034년' (이투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -229,13 +229,41 @@
       ]
     },
     {
-      "id": "k뷰티",
+      "id": "laliga",
       "rank": 9,
+      "keyword": "laliga",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Scouting Espanyol: Set-pieces and Roberto Fernández' (Managing Madrid) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Scouting Espanyol: Set-pieces and Roberto Fernández",
+          "source": "Managing Madrid",
+          "url": "https://www.managingmadrid.com/real-madrid-cf-la-liga/111652/scouting-espanyol-set-pieces-and-roberto-fernandez"
+        },
+        {
+          "title": "Brahim Díaz called up for Mourinho’s debut",
+          "source": "Mountakhab.net",
+          "url": "https://mountakhab.net/en/brahim-diaz-called-up-for-mourinhos-debut/"
+        },
+        {
+          "title": "Jose Mourinho Makes Bold Yan Diomande Call for Real Madrid’s La Liga Opener",
+          "source": "FotMob",
+          "url": "https://www.fotmob.com/embed/news/01m0nb2rj0b1/jose-mourinho-makes-bold-yan-diomande-call-real-madrids-la-liga-opener"
+        }
+      ]
+    },
+    {
+      "id": "k뷰티",
+      "rank": 10,
       "keyword": "k뷰티",
       "volumeLabel": "100+",
       "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '19 New K-Beauty Brands Are Coming to Sephora. Here’s What to Buy.' (New York Magazine) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -253,34 +281,6 @@
           "title": "I Trekked to Times Square at 8 A.M. to Shop Olive Young's Sephora Collection—9 Worth-It Items",
           "source": "Who What Wear",
           "url": "https://www.whowhatwear.com/beauty/skin/olive-young-sephora-collection"
-        }
-      ]
-    },
-    {
-      "id": "유영우",
-      "rank": 10,
-      "keyword": "유영우",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '유영우 \"노잼 이미지, 마음 고생했지만…노래로 새 시도\" [코미디언을 만나다]②' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "유영우 \"노잼 이미지, 마음 고생했지만…노래로 새 시도\" [코미디언을 만나다]②",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/yqCKI2waGM"
-        },
-        {
-          "title": "유영우, 개그계의 꽃",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8060365"
-        },
-        {
-          "title": "'리센느 원이 삼촌' 유영우, 다채로운 매력",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260822n03836?mid=e1100"
         }
       ]
     }
