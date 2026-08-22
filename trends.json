@@ -1,17 +1,45 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-22T18:40:16.618Z",
+  "updatedAt": "2026-08-22T19:27:52.565Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "토트넘",
+      "id": "일본-지진",
       "rank": 1,
-      "keyword": "토트넘",
+      "keyword": "일본 지진",
       "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "2시간 전",
       "change": "up",
       "changeLabel": "+1",
+      "summary": "급상승 시점에 '일본 지바현 가시와시 북동쪽서 규모 5.9 지진 발생' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "일본 지바현 가시와시 북동쪽서 규모 5.9 지진 발생",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260823001300530"
+        },
+        {
+          "title": "日 동부 이바라키현서 규모 5.9 지진…쓰나미 우려는 없어",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260823_0003758632"
+        },
+        {
+          "title": "日 중동부서 규모 5.8 지진 발생…깊이 77.6km 지점",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/northeast-asia/6266500"
+        }
+      ]
+    },
+    {
+      "id": "토트넘",
+      "rank": 2,
+      "keyword": "토트넘",
+      "volumeLabel": "2000+",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '손흥민 땐 그렇게 돈 아끼더니...토트넘, 역대급 이적시장 확정! '둘이 합쳐 2650억' 사비뉴+마르무시 동반 영입 근접' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,153 +61,13 @@
       ]
     },
     {
-      "id": "일본-지진",
-      "rank": 2,
-      "keyword": "일본 지진",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '일본 지바현 가시와시 북동쪽서 규모 5.9 지진 발생' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "일본 지바현 가시와시 북동쪽서 규모 5.9 지진 발생",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260823001300530"
-        },
-        {
-          "title": "일본 지바현 가시와시 북동쪽 18km 지역 규모 5.9 지진",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8643561"
-        },
-        {
-          "title": "日 중동부서 규모 5.8 지진 발생…깊이 77.6km 지점",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/northeast-asia/6266500"
-        }
-      ]
-    },
-    {
-      "id": "지진",
-      "rank": 3,
-      "keyword": "지진",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '제주 서귀포시 먼 해역에서 규모 2.2 지진' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "제주 서귀포시 먼 해역에서 규모 2.2 지진",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8643560"
-        },
-        {
-          "title": "기상청 \"제주 서귀포 동쪽 바다서 규모 2.2 지진…피해 없을 듯\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260823001100530"
-        },
-        {
-          "title": "제주 서귀포시 동쪽 79km 해역서 규모 2.7 지진…\"피해 없어\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260822_0003758563"
-        }
-      ]
-    },
-    {
-      "id": "地震",
-      "rank": 4,
-      "keyword": "地震",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '日本茨城县南部发生5.9级地震 东京震感明显' (香港電台) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "日本茨城县南部发生5.9级地震 东京震感明显",
-          "source": "香港電台",
-          "url": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/ch/component/k2/1867150-20260823.htm?spTabChangeable=0"
-        },
-        {
-          "title": "简讯：茨城县南部发生M5.9级地震 东京震感强烈",
-          "source": "共同网",
-          "url": "https://china.kyodonews.net/articles/-/14593"
-        },
-        {
-          "title": "日本茨城县5.9级地震 东京有震感 料不会触发海啸",
-          "source": "星島頭條",
-          "url": "https://www.stheadline.com/zh-hans/realtime-world/3607206/%E6%97%A5%E6%9C%AC%E8%8C%A8%E5%9F%8E%E5%8E%BF59%E7%BA%A7%E5%9C%B0%E9%9C%87-%E4%B8%9C%E4%BA%AC%E6%9C%89%E9%9C%87%E6%84%9F-%E6%96%99%E4%B8%8D%E4%BC%9A%E8%A7%A6%E5%8F%91%E6%B5%B7%E5%95%B8"
-        }
-      ]
-    },
-    {
-      "id": "brentford-vs-spurs",
-      "rank": 5,
-      "keyword": "brentford vs spurs",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 'Spurs make nightmare start as Brentford hit three in easy win' (BBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Spurs make nightmare start as Brentford hit three in easy win",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cj75g01qn51dt"
-        },
-        {
-          "title": "Brentford 3-0 Tottenham: Premier League – live reaction",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/aug/22/brentford-v-tottenham-premier-league-live"
-        },
-        {
-          "title": "Preview: Brentford vs Tottenham Hotspur - prediction, team news, lineups",
-          "source": "Sports Mole",
-          "url": "https://www.sportsmole.co.uk/football/spurs/preview/brentford-vs-spurs-prediction-team-news-lineups_603310.html"
-        }
-      ]
-    },
-    {
-      "id": "박지원",
-      "rank": 6,
-      "keyword": "박지원",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''김정은 응답' 진실 공방...친서 전달됐나?' (YTN) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'김정은 응답' 진실 공방...친서 전달됐나?",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202608221703376327"
-        },
-        {
-          "title": "\"미국 망신\"…‘트럼프 북·미회담 재개 의지’에 미 민주당 공세",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12314547"
-        },
-        {
-          "title": "‘옥토버 서프라이즈’ 노리는 트럼프, 서두를수록 북한만 ‘라이징’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608211646001"
-        }
-      ]
-    },
-    {
       "id": "레알마드리드",
-      "rank": 7,
+      "rank": 3,
       "keyword": "레알마드리드",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+4",
       "summary": "급상승 시점에 '레알의 어려운 숙제…음바페·비니시우스·벨링엄, 무리뉴는 어떻게 쓸까' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -201,30 +89,142 @@
       ]
     },
     {
-      "id": "최홍만",
-      "rank": 8,
-      "keyword": "최홍만",
+      "id": "地震",
+      "rank": 4,
+      "keyword": "地震",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-4",
-      "summary": "급상승 시점에 '최홍만, 서울 집 공개…식량창고에 간식·즉석밥 빼곡' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '日本茨城县南部发生5.9级地震 东京震感明显' (香港電台) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "최홍만, 서울 집 공개…식량창고에 간식·즉석밥 빼곡",
+          "title": "日本茨城县南部发生5.9级地震 东京震感明显",
+          "source": "香港電台",
+          "url": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/ch/component/k2/1867150-20260823.htm?spTabChangeable=0"
+        },
+        {
+          "title": "详讯：茨城县南部发生M5.9级地震 埼玉市2人受伤",
+          "source": "共同网",
+          "url": "https://china.kyodonews.net/articles/-/14596"
+        },
+        {
+          "title": "日本茨城县5.9级地震 东京有震感 料不会触发海啸",
+          "source": "星島頭條",
+          "url": "https://www.stheadline.com/zh-hans/realtime-world/3607206/%E6%97%A5%E6%9C%AC%E8%8C%A8%E5%9F%8E%E5%8E%BF59%E7%BA%A7%E5%9C%B0%E9%9C%87-%E4%B8%9C%E4%BA%AC%E6%9C%89%E9%9C%87%E6%84%9F-%E6%96%99%E4%B8%8D%E4%BC%9A%E8%A7%A6%E5%8F%91%E6%B5%B7%E5%95%B8"
+        }
+      ]
+    },
+    {
+      "id": "바이에른-뮌헨",
+      "rank": 5,
+      "keyword": "바이에른 뮌헨",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김민재 30살인데 이적료 652억에 맨유?…\"패스성공률 96% 경이로워\"→EPL 코리안리거 명맥 이을까' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김민재 30살인데 이적료 652억에 맨유?…\"패스성공률 96% 경이로워\"→EPL 코리안리거 명맥 이을까",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260822173909237"
+          "url": "https://v.daum.net/v/36pfvSV7tI"
         },
         {
-          "title": "'제주 떠난' 최홍만, 서울 하우스 최초 공개..분홍 키티로 도배된 침실 '반전'(전참시)",
+          "title": "이럴 수가! '민재야 제발 와줘'…그야말로 '미친 고집' 맨체스터 유나이티드의 영입 갈망, 1티어 기자도 밝혔다 \"계속해서 상황 주시\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260823n00168"
+        },
+        {
+          "title": "‘다시 쐐기 쾅!’ 김민재, 맨유의 캐릭 감독이 원해→바이에른은 조용히 영상 공개 “민재와 저희 팀 계속 응원 ...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608220707003"
+        }
+      ]
+    },
+    {
+      "id": "brentford-vs-spurs",
+      "rank": 6,
+      "keyword": "brentford vs spurs",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 'Premier League: Brentford beat Tottenham after wins for Hull, Ipswich, …' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Premier League: Brentford beat Tottenham after wins for Hull, Ipswich, Everton and Leeds",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/clyx03e7y2lt"
+        },
+        {
+          "title": "Brentford 3-0 Tottenham: Premier League – live reaction",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/aug/22/brentford-v-tottenham-premier-league-live"
+        },
+        {
+          "title": "Preview: Brentford vs Tottenham Hotspur - prediction, team news, lineups",
+          "source": "Sports Mole",
+          "url": "https://www.sportsmole.co.uk/football/spurs/preview/brentford-vs-spurs-prediction-team-news-lineups_603310.html"
+        }
+      ]
+    },
+    {
+      "id": "인테르",
+      "rank": 7,
+      "keyword": "인테르",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[오피셜] 계약 기간 5년, 이적료 567억…'16년 리버풀 인생 청산' 존스, 이탈리아 챔피언 인터 밀란 이적' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[오피셜] 계약 기간 5년, 이적료 567억…'16년 리버풀 인생 청산' 존스, 이탈리아 챔피언 인터 밀란 이적",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260822n05543"
+        },
+        {
+          "title": "[공식발표] '잉글랜드 커넥션' 인테르, 리버풀 성골 커티스 존스 영입… 5년 계약",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822112639784"
+        },
+        {
+          "title": "'이제 안필드를 떠납니다' 잉글랜드 국대 미드필더 리버풀 유스 커티스 존스, EPL 떠나 인터 밀란 이적 합의..'이적료 3500만유로, 셀온 10% 포함'",
           "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/22/GEYGMYZZGQ2DMMRUMIYTCOBWMM/"
+          "url": "https://www.chosun.com/sports/world-football/2026/08/20/HEYDIYTFMM2TKMZUGIYTAN3BGM/"
+        }
+      ]
+    },
+    {
+      "id": "첼시",
+      "rank": 8,
+      "keyword": "첼시",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘첼시 9번’ 주앙 페드루, 장기 재계약 임박⋯최장 2034년' (이투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘첼시 9번’ 주앙 페드루, 장기 재계약 임박⋯최장 2034년",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2616821"
         },
         {
-          "title": "김원훈-조진세, 최홍만 집 습격! 서울 집들이 현장 최초 공개 (전참시)",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/515563"
+          "title": "[오피셜] 첼시의 새로운 No.9! 무려 2034년까지 재계약…주앙 페드로와 장기 동행 성공! \"다음 시즌 우승 준비 완료\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260822n08496"
+        },
+        {
+          "title": "‘HERE WE GO!’ 첼시, 주앙 페드루와 2033년까지 장기 재계약...연봉 인상+서명 완료!",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96609"
         }
       ]
     },
@@ -233,9 +233,9 @@
       "rank": 9,
       "keyword": "k뷰티",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-3",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '19 New K-Beauty Brands Are Coming to Sephora. Here’s What to Buy.' (New York Magazine) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -261,9 +261,9 @@
       "rank": 10,
       "keyword": "유영우",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-3",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '유영우 \"노잼 이미지, 마음 고생했지만…노래로 새 시도\" [코미디언을 만나다]②' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -273,14 +273,14 @@
           "url": "https://v.daum.net/v/yqCKI2waGM"
         },
         {
-          "title": "'리센느 삼촌' 유영우, 리센느 야호",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260822n03813?mid=n1101"
+          "title": "유영우, 개그계의 꽃",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8060365"
         },
         {
-          "title": "유영우, 차세대 대세 코미디언으로 ‘주목’",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8060367"
+          "title": "'리센느 원이 삼촌' 유영우, 다채로운 매력",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260822n03836?mid=e1100"
         }
       ]
     }
