@@ -1,48 +1,81 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-22T14:28:55.005Z",
+  "updatedAt": "2026-08-22T14:53:17.973Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "실종자",
+      "id": "로또-1238",
       "rank": 1,
-      "keyword": "실종자",
+      "keyword": "로또 1238",
       "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '제주실종사건 허위종결한 경찰관 긴급체포…추가 사례도 발견' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '1238회 로또 1등 23명…당첨금 각 12억원(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "제주실종사건 허위종결한 경찰관 긴급체포…추가 사례도 발견",
+          "title": "1238회 로또 1등 23명…당첨금 각 12억원(종합)",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260822043300056"
+          "url": "https://www.yna.co.kr/view/AKR20260822046600002"
         },
         {
-          "title": "한 총리 \"제주 실종여성 가족에 장난전화 10대 체포…2차 가해 엄중 대응\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260822_0003758621"
+          "title": "한 명이 '48억' 대박?...로또 수동 1등, 한 복권방서 '4장' 당첨 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/08/22/2026082221553273135"
         },
         {
-          "title": "[단독] ‘장미란 실종사건’ 경찰 가정폭력 신고도…기록 삭제에 허위 종결 더 있었다",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8643438"
+          "title": "남친과 데이트 중 산 복권이 1등…1238회차 로또당첨번호조회 주목",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20260820140850850"
+        }
+      ]
+    },
+    {
+      "id": "실종자",
+      "rank": 2,
+      "keyword": "실종자",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '실종사건 또 ‘셀프 종결’…제주 경찰관 긴급체포' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "실종사건 또 ‘셀프 종결’…제주 경찰관 긴급체포",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202608222002240g8"
+        },
+        {
+          "title": "“실종 장미란씨 시신 발견” 보도에 경찰 “명백한 오보”…수색 계속",
+          "source": "주간조선",
+          "url": ""
+        },
+        {
+          "title": "제주 실종자 가족에 \"신음 들려주면 찾아줄게\"...10대 검거",
+          "source": "YTN",
+          "url": "https://m.ytn.co.kr/news_view.php?key=202608222009360638&s_mcd=0103"
         }
       ]
     },
     {
       "id": "trực-tiếp-bóng-đá-hôm-nay",
-      "rank": 2,
+      "rank": 3,
       "keyword": "trực tiếp bóng đá hôm nay",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'HLV Thái Lan: 'Ủng hộ cách Việt Nam nhập tịch cầu thủ Brazil'' (VnExpress) 관련 뉴스가 함께 포착됐어요.",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 'Link xem trực tiếp bóng đá Thái Lan vs Việt Nam, 20h hôm nay 22/8' (Báo VietNamNet) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "Link xem trực tiếp bóng đá Thái Lan vs Việt Nam, 20h hôm nay 22/8",
+          "source": "Báo VietNamNet",
+          "url": "https://vietnamnet.vn/link-xem-truc-tiep-bong-da-thai-lan-vs-viet-nam-20h-hom-nay-22-8-2547717.html"
+        },
         {
           "title": "HLV Thái Lan: 'Ủng hộ cách Việt Nam nhập tịch cầu thủ Brazil'",
           "source": "VnExpress",
@@ -52,78 +85,73 @@
           "title": "ĐT Việt Nam mơ ngôi vô địch AFF Cup lần thứ 4: Hành trình kỳ lạ như 2 năm trước",
           "source": "Tin tức 24h",
           "url": "https://www.24h.com.vn/bong-da/dt-viet-nam-mo-ngoi-vo-dich-aff-cup-lan-thu-4-hanh-trinh-ky-la-nhu-2-nam-truoc-c48a1788654.html"
-        },
-        {
-          "title": "Nhận định Việt Nam vs Thái Lan, 20h00 hôm nay 22/8, lượt đi chung kết AFF Cup 2026",
-          "source": "Thể Thao 247",
-          "url": "https://thethao247.vn/190556-nhan-dinh-viet-nam-vs-thai-lan-20h00-hom-nay-22-8-luot-di-chung-ket-aff-cup-2026-c288-d432880.html"
         }
       ]
     },
     {
-      "id": "범죄",
-      "rank": 3,
-      "keyword": "범죄",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '혁신과 범죄 사이…스마트 안경의 두 얼굴' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "혁신과 범죄 사이…스마트 안경의 두 얼굴",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8643541"
-        },
-        {
-          "title": "제주실종사건 허위종결한 경찰관 긴급체포…추가 사례도 발견",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260822043300056"
-        },
-        {
-          "title": "[단독] ‘장미란 실종사건’ 경찰 가정폭력 신고도…기록 삭제에 허위 종결 더 있었다",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8643438"
-        }
-      ]
-    },
-    {
-      "id": "우서윤",
+      "id": "꽃파당",
       "rank": 4,
-      "keyword": "우서윤",
+      "keyword": "꽃파당",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '우지원 딸 우서윤 ‘미스코리아 진’ 됐다…“아빠 유전자 그대로”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '변우석·박지훈의 풋풋함부터 낭만 로맨스까지…'꽃파당' 관전 포인트 공개' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "우지원 딸 우서윤 ‘미스코리아 진’ 됐다…“아빠 유전자 그대로”",
+          "title": "변우석·박지훈의 풋풋함부터 낭만 로맨스까지…'꽃파당' 관전 포인트 공개",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260822221352212"
+          "url": "https://v.daum.net/v/20260822101419067"
         },
         {
-          "title": "'미코 眞 당선' 우지원 딸, 얼마나 예쁘나…191cm 아빠 닮은 9등신 미모 [스타이슈]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260822n10797"
+          "title": "박지훈·변우석의 풋풋한 얼굴…‘꽃파당’ 오늘 첫 방송",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608220935003"
         },
         {
-          "title": "'왕관쟁탈전:미스코리아'가 재정의한 경쟁의 의미",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026081916460004397"
+          "title": "‘대세’ 변우석-박지훈, 떡잎부터 남달랐다…‘꽃파당’ 관전 포인트 공개",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/515532"
+        }
+      ]
+    },
+    {
+      "id": "삼성라이온즈",
+      "rank": 5,
+      "keyword": "삼성라이온즈",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''8회 재역전' 삼성, 2연패 탈출…1게임 차로 선두 kt 추격(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'8회 재역전' 삼성, 2연패 탈출…1게임 차로 선두 kt 추격(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260822049700007"
+        },
+        {
+          "title": "[사진] 김지찬과 승리 기쁨 나누는 박진만 감독 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/08/22/GJSDCNDEGJSGKNZUMIZWGYRZGM/"
+        },
+        {
+          "title": "[사진] 송명기, 호수비 최정원에 엄지척 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/22/202608222119770145O"
         }
       ]
     },
     {
       "id": "동물권",
-      "rank": 5,
+      "rank": 6,
       "keyword": "동물권",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '‘캣맘 금지’ 논쟁... 동물보호와 주민 생활권 사이 [수사와 재판]' (이투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -146,12 +174,12 @@
     },
     {
       "id": "ไทย-พบ-เว-ยดนาม",
-      "rank": 6,
+      "rank": 7,
       "keyword": "ไทย พบ เว ยดนาม",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 'โค้ชคิม ซังซิก และแผนการของเขาที่จะ \"นำความโศกเศร้า\" มาสู่ทีมชาติไทย' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -173,69 +201,69 @@
       ]
     },
     {
-      "id": "폐암",
-      "rank": 7,
-      "keyword": "폐암",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 '담배 한번도 안 피운 30대女, 갑자기 폐암 4기 진단…원인은' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "id": "kick",
+      "rank": 8,
+      "keyword": "kick",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Gordon To Lead The Charge | 4-2-3-1 Barcelona Predicted Lineup Vs Elche' (The 4th Official) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "담배 한번도 안 피운 30대女, 갑자기 폐암 4기 진단…원인은",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20260822/134523409/1"
+          "title": "Gordon To Lead The Charge | 4-2-3-1 Barcelona Predicted Lineup Vs Elche",
+          "source": "The 4th Official",
+          "url": "https://the4thofficial.net/2026/08/gordon-to-lead-the-charge-4-2-3-1-barcelona-predicted-lineup-vs-elche/"
         },
         {
-          "title": "\"담배 안 피웠는데 4기 폐암\"…36세 여성이 처음 보인 의외의 증상",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260821_0003758038"
+          "title": "Flick's Joan Gamper Trophy decisions offer clear hint at Barcelona's starting XI against Elche",
+          "source": "Barca Universal",
+          "url": "https://barcauniversal.com/flicks-joan-gamper-trophy-decisions-offer-clear-hint-at-barcelonas-starting-xi-against-elche/"
         },
         {
-          "title": "“담배 한 번도 안 피웠는데”… 30대 여성의 ‘폐암 4기’ 원인, 뭐였을까?",
-          "source": "헬스조선",
-          "url": "https://health.chosun.com/site/data/html_dir/2026/08/21/2026082101285.html"
+          "title": "Al Ahly outlines the shape of Barcelona's lineup for the start of La Liga: a single puzzle",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/en-za/news/al-ahly-outlines-the-shape-of-barcelona-s-lineup-for-the-start-of-la-liga-a-single-puzzle/bltdda24d88ad159f6f"
         }
       ]
     },
     {
-      "id": "래시포드",
-      "rank": 8,
-      "keyword": "래시포드",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '\"제발 내 이름 좀 그만\"...래시포드 결국 폭발, \"이름 언급 없이 축구만 하고 싶다\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "id": "thailand-vs-vietnam",
+      "rank": 9,
+      "keyword": "thailand vs vietnam",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Kim Sang-sik vows to beat Thailand in Bangkok to retain ASEAN Cup - CHO…' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"제발 내 이름 좀 그만\"...래시포드 결국 폭발, \"이름 언급 없이 축구만 하고 싶다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820161149749?f=p"
+          "title": "Kim Sang-sik vows to beat Thailand in Bangkok to retain ASEAN Cup - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/08/22/ZF77VDV3HFATVKPOISTAS44STI/"
         },
         {
-          "title": "[오피셜] 억지로 맨유 잔류→등번호 10번 되찾기 실패…래시포드 새 등번호는 9번! 호일룬이 남긴 번호 획득",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260822n09633"
+          "title": "'First-ever' aiming for back-to-back titles, 'Vietnamese Hero' Coach Kim Sang-sik: \"It will be difficult... but I am confident\"",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/en/sports/2026/08/22/2026082216133297983"
         },
         {
-          "title": "\"내 이름 거론되지 않고, 오로지 축구에만 집중했으면 좋겠다\" 돌아온 래시포드의 소박한 바람…매과이어 \"큰 자산, 엄청난 위협\" 잔류 적극 지지",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/08/20/MJTDOZJTMVQWGMBUG5RGEMJTG4/"
+          "title": "Thailand vs Vietnam Live: Vietnam opens the scoring.",
+          "source": "baonghean.vn",
+          "url": "https://baonghean.vn/en/truc-tiep-thai-lan-vs-viet-nam-viet-nam-mo-ty-so-10349165.html"
         }
       ]
     },
     {
       "id": "앙투안-그리즈만",
-      "rank": 9,
+      "rank": 10,
       "keyword": "앙투안 그리즈만",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '\"같은 장소, 같은 번호, 같은 스토리\" 이강인, 7번이 운명이다! 소름돋는 '그리즈만 평행이론'...아틀레티코도 주목 - 머니…' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -253,34 +281,6 @@
           "title": "이강인 ‘대활약’→AT·마드리드는 계속 한숨···월드컵 우승한 간판 FW와 갈등 심화 “아틀레티코 CEO 발언에...",
           "source": "스포츠경향",
           "url": "https://sports.khan.co.kr/article/202608222109003"
-        }
-      ]
-    },
-    {
-      "id": "lotto-result-6-45",
-      "rank": 10,
-      "keyword": "lotto result 6 45",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'No jackpot winners in Aug. 21 PCSO lotto draws' (Inquirer.net) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "No jackpot winners in Aug. 21 PCSO lotto draws",
-          "source": "Inquirer.net",
-          "url": "https://newsinfo.inquirer.net/2289609/no-jackpot-winners-in-aug-21-pcso-lotto-draws"
-        },
-        {
-          "title": "LOTTO RESULTS: Agosto 19, 2026",
-          "source": "ABS-CBN",
-          "url": "https://www.abs-cbn.com/news/nation/2026/8/19/lotto-results-agosto-19-2026-2203"
-        },
-        {
-          "title": "Lotto, SuperEnalotto and 10eLotto Draws: August 21, 2026",
-          "source": "Il Mattino",
-          "url": "https://www.ilmattino.it/en/lotto_superenalotto_and_10elotto_draws_august_21_2026-9718028.html"
         }
       ]
     }
