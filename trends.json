@@ -1,73 +1,45 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-22T21:28:40.950Z",
+  "updatedAt": "2026-08-22T21:52:05.186Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "편의점",
+      "id": "오세훈",
       "rank": 1,
-      "keyword": "편의점",
-      "volumeLabel": "5000+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '논산 편의점서 실종된 여중생, 100km 떨어진 무주서 발견' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "오세훈",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘부동산 공급 논의’ 김영배·오세훈 오찬…노웅래 2심 무죄 공방도' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "논산 편의점서 실종된 여중생, 100km 떨어진 무주서 발견",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260822/134523655/2"
+          "title": "‘부동산 공급 논의’ 김영배·오세훈 오찬…노웅래 2심 무죄 공방도",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8643431"
         },
         {
-          "title": "연락끊긴 여중생, 편의점 CCTV서 확인돼 가족 품으로",
+          "title": "용산공원 안 건드려도 1.9만가구?…'대체부지' 모두 더해보니",
           "source": "Daum",
-          "url": "https://v.daum.net/v/qNwl4CKpt9"
+          "url": "https://v.daum.net/v/20260823050651954"
         },
         {
-          "title": "“딸과 연락이 안 돼요” 충남 논산서 신고…무주서 중학생 발견",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260822580089"
-        }
-      ]
-    },
-    {
-      "id": "에스파뇰-대-레알-마드리드",
-      "rank": 2,
-      "keyword": "에스파뇰 대 레알 마드리드",
-      "volumeLabel": "5000+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '레알의 어려운 숙제…음바페·비니시우스·벨링엄, 무리뉴는 어떻게 쓸까' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "레알의 어려운 숙제…음바페·비니시우스·벨링엄, 무리뉴는 어떻게 쓸까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260822150127756"
-        },
-        {
-          "title": "\"모리뉴 감독님을 위해 죽을 준비도 되어 있다\"…최대 2,269억에 레알 합류한 디오만데, \"가장 친한 선수는 비니시우스\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260822n04817"
-        },
-        {
-          "title": "'독기 오른' 무리뉴 감독, 파격 발언, \"야말도 내 스쿼드에 낄 수 없어, 지금 우리 선수들이 최고\"...\"자리 내줄 생각 없다\"",
-          "source": "스포탈코리아",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553477275"
+          "title": "[정치]오세훈 만난 민주, 주택공급 두고 평행선...미래대응기금 공방도",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0101_202608222246352346_005.html"
         }
       ]
     },
     {
       "id": "조국",
-      "rank": 3,
+      "rank": 2,
       "keyword": "조국",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '조국 \"위법수집증거 역설했으나 난 유죄\"…韓 \"뭐가 억울한가\"(종합2보)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -82,20 +54,20 @@
           "url": "https://www.munhwa.com/article/11611157"
         },
         {
-          "title": "민주당 “한동훈, 노웅래 조작기소”…한동훈 “돈봉투 녹음 같이 들어보자”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8643426"
+          "title": "여권의 집중포화…한동훈 \"적나라한 녹음파일 틀자\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822200615698?f=p"
         }
       ]
     },
     {
       "id": "지상렬",
-      "rank": 4,
+      "rank": 3,
       "keyword": "지상렬",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 ''살림남' 지상렬, 이요원에 피처링 제안 속 계약금도 줬지만…거절 아픔' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -117,41 +89,153 @@
       ]
     },
     {
+      "id": "가방",
+      "rank": 4,
+      "keyword": "가방",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"샤넬·디올 안 사요\"…엄마가 들던 가방인데 Z세대 푹 빠졌다 [안혜원의 명품의세계]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"샤넬·디올 안 사요\"…엄마가 들던 가방인데 Z세대 푹 빠졌다 [안혜원의 명품의세계]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608226078i"
+        },
+        {
+          "title": "“샤넬백 무조건 따상” … 미국 MZ 사로잡은 패션거래소",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12133194"
+        },
+        {
+          "title": "공항 빅백·바닷가 호보백…리센느 미나미의 가방 ‘픽’[누구템]",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01813846645549944&mediaCodeNo=257"
+        }
+      ]
+    },
+    {
       "id": "espanyol-vs-real-madrid",
       "rank": 5,
       "keyword": "espanyol vs real madrid",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Primer examen para Mourinho… con siete bajas y un mensaje a la cantera' (MARCA) 관련 뉴스가 함께 포착됐어요.",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 'Espanyol - Real Madrid en directo: ¡gol de Calatrava! | Última hora de …' (MARCA) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Primer examen para Mourinho… con siete bajas y un mensaje a la cantera",
+          "title": "Espanyol - Real Madrid en directo: ¡gol de Calatrava! | Última hora de LALIGA EA Sports hoy en vivo",
           "source": "MARCA",
-          "url": "https://www.marca.com/futbol/real-madrid/2026/08/21/primer-examen-mourinho-seis-bajas-mensaje-cantera.html"
+          "url": "https://www.marca.com/futbol/laliga-ea-sports/espanyol-r-madrid/2026/08/22/01_0101_20260822_177_186-directo.html"
         },
         {
-          "title": "⚪ SKY Sports EN VIVO — Señal que televisa Real Madrid - RCD Espanyol por SKY Plus Online en México",
-          "source": "Depor",
-          "url": "https://depor.com/futbol-internacional/espana/sky-sports-en-vivo-gratis-ver-ahora-partido-real-madrid-rcd-espanyol-por-futbol-tv-y-sky-plus-online-en-mexico-nnda-nnrt-noticia/"
+          "title": "Espí premia a Mourinho",
+          "source": "Diario AS",
+          "url": "https://as.com/opinion/espi-premia-a-mourinho-f202608-n/"
         },
         {
-          "title": "Gol del Espanyol: mira el golazo que puso el 1-1 ante Real Madrid",
-          "source": "365Scores",
-          "url": "https://www.365scores.com/es/news/gol-del-espanyol-real-madrid-laliga-mou/"
+          "title": "⚽ DIRECTV EN VIVO por Internet — dónde ver el partido Real Madrid vs. RCD Espanyol en Fútbol TV y DGO Online",
+          "source": "Gestión",
+          "url": "https://gestion.pe/mix/sports/directv-en-vivo-por-internet-donde-ver-el-partido-real-madrid-vs-rcd-espanyol-en-futbol-tv-y-dgo-online-nnda-nnrt-noticia/"
+        }
+      ]
+    },
+    {
+      "id": "김경문",
+      "rank": 6,
+      "keyword": "김경문",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '9점 차 역전승에도 못 웃는 한화…⅓이닝 7실점 짐머맨 어찌할꼬' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "9점 차 역전승에도 못 웃는 한화…⅓이닝 7실점 짐머맨 어찌할꼬",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260822021500007"
+        },
+        {
+          "title": "도파민 팡팡 터졌다. 9점 차 뒤집은 역대 2위 역전승…왜 감독은 “팬들에게 죄송하다” 말했을까 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/23/202608221815779350O"
+        },
+        {
+          "title": "'韓 2위 대기록' 한화, 22일 'LG 킬러+50억 유격수' 제외 라인업 공개…이도윤 2B+박정현 SS 선발 출격 [대전 현장]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/u5Jm4Zd81i?f=p"
+        }
+      ]
+    },
+    {
+      "id": "관광객",
+      "rank": 7,
+      "keyword": "관광객",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '스위스인 관광객, 발리 힌두교 전통 비하 영상 올렸다가 징역 1년' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "스위스인 관광객, 발리 힌두교 전통 비하 영상 올렸다가 징역 1년",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822200252667"
+        },
+        {
+          "title": "발리 '침묵의 날'에 해변 활보하며 조롱…스위스 관광객 징역 1년 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/08/22/2026082221524156918"
+        },
+        {
+          "title": "힌두교 명절에 '조롱 영상' 올렸다가…스위스 관광객 '징역 1년' 선고",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260821_0003756966"
+        }
+      ]
+    },
+    {
+      "id": "김원호",
+      "rank": 8,
+      "keyword": "김원호",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '배드민턴 서승재-김원호, 세계선수권 2연패 '청신호'…말레이시아 누르고 준결승행' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "배드민턴 서승재-김원호, 세계선수권 2연패 '청신호'…말레이시아 누르고 준결승행",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822092750404"
+        },
+        {
+          "title": "‘충격적인 패배 세계랭킹 1위가 무너졌다!’ 김원호-서승재조, 준결승에서 말레이시아에 발목 잡혔다…아쉬운 동메달 획득 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/23/202608230127775681O"
+        },
+        {
+          "title": "'디펜딩 챔피언' 서승재-김원호, 41분 만에 4강 진출… '2연패 순항'",
+          "source": "데일리스포츠한국",
+          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432751"
         }
       ]
     },
     {
       "id": "브레이브스-대-브루어스",
-      "rank": 6,
+      "rank": 9,
       "keyword": "브레이브스 대 브루어스",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-3",
       "summary": "급상승 시점에 ''김하성 6경기 연속 결장' 애틀랜타, 투수전 끝에 밀워키에 1-2 석패' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -173,114 +257,30 @@
       ]
     },
     {
-      "id": "la-liga",
-      "rank": 7,
-      "keyword": "la liga",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'Espanyol vs Real Madrid: Spanish La Liga stats & head-to-head' (BBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Espanyol vs Real Madrid: Spanish La Liga stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cmwyjzndv4xnt"
-        },
-        {
-          "title": "Espanyol vs Real Madrid Confirmed Lineups",
-          "source": "WhoScored.com",
-          "url": "https://www.whoscored.com/news/UFIXFnmhGkOj1-19DWcG-Q/show/20260822-espanyol-vs-real-madrid-confirmed-lineup-1787423224"
-        },
-        {
-          "title": "Licensable picture: Soccer 2026: RCD Espanyol V Real Madrid - LaLiga EA Sports",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/soccer-2026-rcd-espanyol-v-real-madrid-laliga-ea-sports/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBIUlUwQzA"
-        }
-      ]
-    },
-    {
-      "id": "tottenham",
-      "rank": 8,
-      "keyword": "tottenham",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Premier League: Brentford beat Tottenham after wins for Hull, Ipswich, …' (BBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Premier League: Brentford beat Tottenham after wins for Hull, Ipswich, Everton and Leeds",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/clyx03e7y2lt"
-        },
-        {
-          "title": "Brentford vs Tottenham prediction: 5/1 bet builder tips and odds",
-          "source": "The Sun",
-          "url": "https://www.thesun.co.uk/betting/40124063/brentford-vs-tottenham-bet-builder-tips/"
-        },
-        {
-          "title": "Tottenham XI vs Brentford: Starting lineup and confirmed team news",
-          "source": "London Evening Standard",
-          "url": "https://www.standard.co.uk/sport/football/tottenham-xi-vs-brentford-starting-lineup-confirmed-team-news-injury-latest-premier-league-2026-today-b1293972.html"
-        }
-      ]
-    },
-    {
       "id": "dortmund-vs-bayern",
-      "rank": 9,
+      "rank": 10,
       "keyword": "dortmund vs bayern",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '📸 Kompany-Experiment geht auf! Brown trifft direkt als Bayern-Zehner' (OneFootball) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "📸 Kompany-Experiment geht auf! Brown trifft direkt als Bayern-Zehner",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/de/news/kompany-experiment-geht-auf-brown-trifft-direkt-als-bayern-zehner-43321226"
-        },
-        {
-          "title": "Tah: \"Gezeigt, dass wir hungrig sind\"",
-          "source": "Sky Sport Austria",
-          "url": "https://www.skysportaustria.at/mediathek/tah-gezeigt-dass-wir-hungrig-sind/"
-        },
-        {
-          "title": "Bundeskanzler und Altkanzler beim Supercup! Merz bei Dortmund gegen FC Bayern im Stadion",
-          "source": "Joyn",
-          "url": "https://ran.joyn.de/sports/fussball/supercup/friedrich-merz-und-ein-altkanzler-bei-borussia-dortmund-gegen-fc-bayern-im-stadion-der-bundeskanzler-beim-franz-beckenbauer-supercup-174443"
-        }
-      ]
-    },
-    {
-      "id": "브렌트포드",
-      "rank": 10,
-      "keyword": "브렌트포드",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "2시간 전",
       "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '김지수, 브렌트포드 1군 포함…韓 EPL 계보 이어간다' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '[[RTE-LIVE]]]] Borussia Dortmund gegen FC Bayern Im tv Live online' (Powell River Peak) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김지수, 브렌트포드 1군 포함…韓 EPL 계보 이어간다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20260822/134523687/1"
+          "title": "[[RTE-LIVE]]]] Borussia Dortmund gegen FC Bayern Im tv Live online",
+          "source": "Powell River Peak",
+          "url": "https://www.prpeak.com/classifieds/real-estate-rentals/accommodation-wanted/2137891"
         },
         {
-          "title": "‘손흥민·황희찬 없다’ 위기의 ‘韓 프리미어리거’, ‘명맥’ 잇는 수비수 김지수 있다…브렌트포드 1군 포함 등번호 ‘36번’",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1630048"
+          "title": "Bundeskanzler und Altkanzler beim Supercup! Hier sitzt Merz bei Dortmund gegen FC Bayern im Stadion",
+          "source": "Joyn",
+          "url": "https://ran.joyn.de/sports/fussball/supercup/friedrich-merz-und-altkanzler-bei-dortmund-gegen-fc-bayern-im-stadion-hier-sitzt-der-bundeskanzler-beim-franz-beckenbauer-supercup-174443"
         },
         {
-          "title": "[오피셜]韓 축구 대형 호재, EPL '0명' 굴욕 깜짝 탈출! '국가대표 수비수' 김지수, 브렌트포드 1군 선수단 포함 \"등번호 36번\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/football/2026-08-22/202608220100129330008255"
+          "title": "BVB vs. FC Bayern: Top-Noten für fast alle Neuzugänge",
+          "source": "FussballTransfers.com",
+          "url": "https://www.fussballtransfers.com/a4428043237850186549-bvb-vs-bayern-top-noten-fuer-fast-alle-neuzugaenge"
         }
       ]
     }
