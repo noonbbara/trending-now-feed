@@ -1,283 +1,272 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-22T01:41:32.002Z",
+  "updatedAt": "2026-08-22T03:01:19.785Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "연금",
+      "id": "안재환",
       "rank": 1,
-      "keyword": "연금",
+      "keyword": "안재환",
       "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[보도설명자료][8.21.금 연합뉴스] 단 한 달 일하고 119개월치 추납…외국인 국민연금 수급 논란 관련' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '홍진경 “정선희 유튜브서 이혼 발표, 언니 밖에 없었다”' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[보도설명자료][8.21.금 연합뉴스] 단 한 달 일하고 119개월치 추납…외국인 국민연금 수급 논란 관련",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148970418"
-        },
-        {
-          "title": "복지부, '외국인 국민연금 추납' 제도 개선 검토",
+          "title": "홍진경 “정선희 유튜브서 이혼 발표, 언니 밖에 없었다”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260822091253218"
+          "url": "https://v.daum.net/v/20260822110007517"
         },
         {
-          "title": "한국서 한달 일하고 '평생 연금' 챙긴다…중국인 꼼수에 분노",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608213959H"
+          "title": "'故 안재환 사별' 정선희 \"세상이 생매장하는 것처럼 악플 달려\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6266220"
+        },
+        {
+          "title": "‘사별’ 정선희 “연애 생각 無” 발언에..국제 연애 추천 “해외로 눈 돌리자” [순간포착]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/22/GMZTEYRTMZSTAM3DGBSDSOLBGE/"
         }
       ]
     },
     {
-      "id": "대치동은마아파트",
+      "id": "비트코인",
       "rank": 2,
-      "keyword": "대치동은마아파트",
+      "keyword": "비트코인",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '비트코인 랠리에도 예측시장은 신중…\"연말 7만5천달러 안팎\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "비트코인 랠리에도 예측시장은 신중…\"연말 7만5천달러 안팎\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260822005000072"
+        },
+        {
+          "title": "비트코인 7만8천달러 급등…이번 랠리, 진짜 추세 전환일까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822111504684"
+        },
+        {
+          "title": "비트코인 다시 1억원 돌파…미 규제완화 기대감에 공매도 청산까지",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608211021001"
+        }
+      ]
+    },
+    {
+      "id": "금값",
+      "rank": 3,
+      "keyword": "금값",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '재건축 속도 붙었는데 31억원대 매물 쌓이는 대치 은마…강남권 하락폭도 커져' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"떨어질 줄 알았는데 올라가네\"…금리 상승에도 꺾이지 않는 금값의 비밀[주末머니]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "재건축 속도 붙었는데 31억원대 매물 쌓이는 대치 은마…강남권 하락폭도 커져",
+          "title": "\"떨어질 줄 알았는데 올라가네\"…금리 상승에도 꺾이지 않는 금값의 비밀[주末머니]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821142651600"
+        },
+        {
+          "title": "[뉴욕 금가격] 파죽지세로 4,600달러마저 뚫었다…2.40%↑",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431304"
+        },
+        {
+          "title": "금값 한 달 새 11% 뛰었다…美 국채 ‘바이백’에 3주 연속 상승",
           "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260821/134521129/1"
-        },
-        {
-          "title": "\"대치동 떠날 수가 없는데\"…강남 집주인들 '초비상' 걸린 이유 [시장톡]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026081411596"
-        },
-        {
-          "title": "은마아파트 일부 세입자 \"이사비+α 필요\"…조합 \"버티면 소송\"",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260819n21282"
+          "url": "https://www.donga.com/news/Inter/article/all/20260821/134517779/2"
         }
       ]
     },
     {
-      "id": "bangladesh-vs-australia",
-      "rank": 3,
-      "keyword": "bangladesh vs australia",
+      "id": "김병지",
+      "rank": 4,
+      "keyword": "김병지",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"누구 말이 사실인지 법정서 밝히자\" 김병지, 박문성에 정면 반격... \"태어나서 칸쿤 간 적 없다\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"누구 말이 사실인지 법정서 밝히자\" 김병지, 박문성에 정면 반격... \"태어나서 칸쿤 간 적 없다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/22/2026082203135837150"
+        },
+        {
+          "title": "3경기 0골에 13억...강원FC '마리오 영입'에 김병지 처남 개입 [더게이트 탐사]",
+          "source": "더게이트",
+          "url": ""
+        },
+        {
+          "title": "“칸쿤 안 갔다” 반박한 김병지…아들 토트넘 연수엔 또 사과",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260821181148987"
+        }
+      ]
+    },
+    {
+      "id": "살해",
+      "rank": 5,
+      "keyword": "살해",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Australia v Bangladesh: second men’s Test, day one – live' (The Guardian) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“칼은 부부관계 상징물”… 아내 살해하고도 변명만 늘어놓은 70대 남성 ‘중형’' (문화일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Australia v Bangladesh: second men’s Test, day one – live",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/sport/live/2026/aug/22/aus-vs-ban-second-mens-test-day-one-live"
-        },
-        {
-          "title": "Starc strikes on the first ball!",
-          "source": "News.com.au",
-          "url": "https://www.news.com.au/sport/cricket/starc-strikes-on-the-first-ball/video/5449904cfc3db6c7768cb8701532c127"
-        },
-        {
-          "title": "43 minutes, 22 balls and five wickets: Starc wreaks havoc in second Test",
-          "source": "SMH.com.au",
-          "url": "https://www.smh.com.au/sport/cricket/second-test-australia-wins-the-toss-and-elects-to-bowl-first-in-mackay-20260822-p60qk8.html"
-        }
-      ]
-    },
-    {
-      "id": "이진우",
-      "rank": 4,
-      "keyword": "이진우",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '종합특검, '수호신 TF' 이진우·'합수본' 여인형 불구속 기소' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "종합특검, '수호신 TF' 이진우·'합수본' 여인형 불구속 기소",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260821161300004"
-        },
-        {
-          "title": "종합특검, ’수호신TF’ 이진우 기소…여인형도 재판행",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260822085145AUb"
-        },
-        {
-          "title": "종합특검, ‘VIP 격노 은폐’ 황유성·김계환 기소…여인형도 재판행",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821181009626"
-        }
-      ]
-    },
-    {
-      "id": "독소",
-      "rank": 5,
-      "keyword": "독소",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '낙동강 해평·강정고령 조류경보 ‘경계’ 지속' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "낙동강 해평·강정고령 조류경보 ‘경계’ 지속",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643006"
-        },
-        {
-          "title": "낙동강 녹조독소, 시민 인체 노출 우려…“정부·대구시 적극 대응해야”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821161946945"
-        },
-        {
-          "title": "녹색으로 변한 낙동강…유해남조류 일주일 새 10배",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260821080800053"
-        }
-      ]
-    },
-    {
-      "id": "학대",
-      "rank": 6,
-      "keyword": "학대",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''오빠 호칭 논란' 정청래·하정우 아동학대 무혐의 종결' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'오빠 호칭 논란' 정청래·하정우 아동학대 무혐의 종결",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Vj9jtOB3Y9"
-        },
-        {
-          "title": "‘오빠 호칭’ 고발당한 정청래·하정우 아동학대 무혐의",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8642857"
-        },
-        {
-          "title": "[속보]초1 여아에 “오빠 해봐”정청래·하정우 무혐의",
+          "title": "“칼은 부부관계 상징물”… 아내 살해하고도 변명만 늘어놓은 70대 남성 ‘중형’",
           "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11611088"
+          "url": "https://www.munhwa.com/article/11611145"
+        },
+        {
+          "title": "아내 흉기 살해범, 법정서 \"칼은 상징물이었을 뿐\" 황당 변명",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260821167500004"
+        },
+        {
+          "title": "분리조치 후 사실혼 여성 살해한 70대 항소…검찰 맞항소",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/HmiiB8OcXZ"
         }
       ]
     },
     {
-      "id": "미인-대회",
-      "rank": 7,
-      "keyword": "미인 대회",
+      "id": "supreme",
+      "rank": 6,
+      "keyword": "supreme",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '2026년 미스 월드 톱 40에 진출한 최초의 미인 대회 우승자.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Supreme Court's chief justice allows work on Trump’s $400M White House …' (AP News) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "2026년 미스 월드 톱 40에 진출한 최초의 미인 대회 우승자.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nguoi-dep-dau-tien-vao-top-40-hoa-hau-the-gioi-2026"
+          "title": "Supreme Court's chief justice allows work on Trump’s $400M White House ballroom to continue for now",
+          "source": "AP News",
+          "url": "https://apnews.com/article/trump-white-house-ballroom-supreme-court-b3eaee672028e584d0c520180c663e2c"
         },
         {
-          "title": "미스 월드 2026 탑 40에 진출한 첫 번째 참가자 공개, 바오 응옥 첫 승리",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/van-hoa-giai-tri/lo-dien-thi-sinh-dau-tien-vao-top-40-miss-world-2026-bao-ngoc-co-chien-thang-dau-1753747.ldo"
+          "title": "Supreme Court temporarily allows construction of White House ballroom to continue",
+          "source": "CNN",
+          "url": "https://www.cnn.com/2026/08/21/politics/supreme-court-rules-on-trump-ballroom"
         },
         {
-          "title": "베트남 미녀가 세계에서 가장 아름다운 미스 두 명과 함께 자신의 몸매를 뽐내고 있다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/my-nhan-viet-do-dang-cung-hai-hoa-hau-dep-nhat-the-gioi"
+          "title": "Trump Can Keep Building Ballroom While Supreme Court Weighs Appeal",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/politics/policy/trump-can-keep-building-ballroom-while-supreme-court-weighs-appeal-a749e6b1"
         }
       ]
     },
     {
-      "id": "한국마사회",
-      "rank": 8,
-      "keyword": "한국마사회",
+      "id": "휴머노이드",
+      "rank": 7,
+      "keyword": "휴머노이드",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '제주농단협, '한국마사회 본사' 제주 이전 촉구 서명운동' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '싸도 1700만원인데 중국의 그 많은 로봇은 누가 살까' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "제주농단협, '한국마사회 본사' 제주 이전 촉구 서명운동",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821170838707"
+          "title": "싸도 1700만원인데 중국의 그 많은 로봇은 누가 살까",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608211414001"
         },
         {
-          "title": "박희승 의원, '남원·장수·임실·순창' 광역 말산업 클러스터 제안",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260820001208"
+          "title": "휴머노이드, 대규모 양산 본격화…상위권 中 기업이 싹쓸이",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260821170045"
         },
         {
-          "title": "영천시·이만희 의원, '한국마사회 영천 유치' 총력전",
-          "source": "스트레이트뉴스",
-          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=309356"
+          "title": "“中 로봇산업 성장, 韓 로봇기업에 기회”",
+          "source": "동아비즈니스리뷰 | DBR",
+          "url": "https://dbr.donga.com/kfocus/view/article_no/3434"
         }
       ]
     },
     {
-      "id": "앱솔-릭스",
-      "rank": 9,
-      "keyword": "앱솔 릭스",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
+      "id": "논설위원",
+      "rank": 8,
+      "keyword": "논설위원",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'SKC 앱솔릭스, 4011억 유상증자…글라스기판 고객 인증·수율 개선' (글로벌이코노믹) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '청와대 신임 춘추관장에 김회승 전 한겨레 논설위원' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "SKC 앱솔릭스, 4011억 유상증자…글라스기판 고객 인증·수율 개선",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Industry/2026/08/2026082115514444223084322ec9_1"
-        },
-        {
-          "title": "앱솔릭스, 4천11억원 유상증자…\"글라스기판 상업화 자금확보\"",
+          "title": "청와대 신임 춘추관장에 김회승 전 한겨레 논설위원",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260821161152649"
+          "url": "https://v.daum.net/v/20260820204157983"
         },
         {
-          "title": "SKC 앱솔릭스, 4000억 규모 유상증자…\"반도체 유리기판 상업화 속도\"",
+          "title": "[단독]이 대통령, 靑춘추관장에 김회승 전 한겨레 논설위원 임명",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260821_0003757814"
+          "url": "https://www.newsis.com/view/NISX20260820_0003756669"
+        },
+        {
+          "title": "전 논설위원 춘추관장 임명에 한겨레 “깊은 유감… 원칙 어긋나는 일”",
+          "source": "미디어오늘",
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336629"
         }
       ]
     },
     {
-      "id": "무궁화호",
-      "rank": 10,
-      "keyword": "무궁화호",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
+      "id": "홍혜걸",
+      "rank": 9,
+      "keyword": "홍혜걸",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'KTX가 점령한 철길, 무궁화호 운행 줄어… 지역 주민은 발동동' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '이정도 재력이라니…\"직원 26명에 아파트 선물\" 임채무 이어 여에스더까지 '통 큰 플렉스' [엑's 이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "KTX가 점령한 철길, 무궁화호 운행 줄어… 지역 주민은 발동동",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/transport-environment/2026/08/22/3JDS5OSLTFE7NNMIUA3BV4LXMI/"
+          "title": "이정도 재력이라니…\"직원 26명에 아파트 선물\" 임채무 이어 여에스더까지 '통 큰 플렉스' [엑's 이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821175307152"
         },
         {
-          "title": "새 열차는 언제 오나… 너덜너덜 무궁화호 오늘도 달린다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/transport-environment/2026/08/22/IM3GHDPPBVHL7MX2OQQ73V6R24/"
+          "title": "여에스더, 10년 함께한 가사도우미에게 강남 아파트 선물",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026082007570005686"
+        },
+        {
+          "title": "홍혜걸, 폐질환 완치 판정…\"제주도서 5년 요양 생활\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260820_0003755532"
         }
       ]
+    },
+    {
+      "id": "어벤져스-엔드게임",
+      "rank": 10,
+      "keyword": "어벤져스 엔드게임",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
     }
   ]
 }
