@@ -1,286 +1,276 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-22T10:30:57.935Z",
+  "updatedAt": "2026-08-22T11:27:02.818Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "예산",
+      "id": "안양-대-fc-서울",
       "rank": 1,
-      "keyword": "예산",
-      "volumeLabel": "500+",
+      "keyword": "안양 대 fc 서울",
+      "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[전남광주소식] 교육청, 28일 주민 참여 예산 설명회' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''무려 10점 차 단독 선두'인데 \"여전히 위기\"... 김기동 감독 \"매 경기 헤쳐 나가야\" [안양 현장] - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[전남광주소식] 교육청, 28일 주민 참여 예산 설명회",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260821128200054"
+          "title": "'무려 10점 차 단독 선두'인데 \"여전히 위기\"... 김기동 감독 \"매 경기 헤쳐 나가야\" [안양 현장] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/22/2026082217360497610"
         },
         {
-          "title": "의령교육지원청, 2027년도 예산편성 다모임 개최",
-          "source": "서울일보",
+          "title": "서울 김기동 감독 \"초반 득점\" vs 안양 유병훈 감독 \"밸런스 관건\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260822_0003758532"
+        },
+        {
+          "title": "‘통산 전적 1승 3무 1패’ 무승부는 그만!…‘3연패’ 안양-‘선두 질주’ 서울, 연고지 더비 격돌 [MK라인업]’",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/sports/12133847"
+        }
+      ]
+    },
+    {
+      "id": "전북-대-울산",
+      "rank": 2,
+      "keyword": "전북 대 울산",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '전북 현대, 내일 울산과 홈 경기…“분위기 반전”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "전북 현대, 내일 울산과 홈 경기…“분위기 반전”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821195240663"
+        },
+        {
+          "title": "위기의 전북, 상승세 울산 만난다…2부는 치열한 승격 전쟁",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260821232618vaa"
+        },
+        {
+          "title": "'내용만은 밀리지 않는다' 전북, 최근 5경기 83슈팅...'효율 극강' 울산 상대로 골문 열까 [오!쎈 프리뷰] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/22/202608212121777643O"
+        }
+      ]
+    },
+    {
+      "id": "기상",
+      "rank": 3,
+      "keyword": "기상",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '역대급 엘니뇨 온다…\"2027년 '가장 더운 해' 될 수도\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "역대급 엘니뇨 온다…\"2027년 '가장 더운 해' 될 수도\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/ZDETdqAiUR"
+        },
+        {
+          "title": "엘니뇨發 가뭄 중남미 강타… 파나마 운하까지 말라간다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/08/22/K3HFLCA4FFFTFFOAH33KFGHZEU/"
+        },
+        {
+          "title": "엘니뇨에 통행 줄인 파나마운하…美 '안방 경제' 직격탄",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260822010800087"
+        }
+      ]
+    },
+    {
+      "id": "천안시티-대-수원",
+      "rank": 4,
+      "keyword": "천안시티 대 수원",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '경기 3시간 전, 일찍부터 천안 찾은 수원삼성 서포터스' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "경기 3시간 전, 일찍부터 천안 찾은 수원삼성 서포터스",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260822_0002218581"
+        },
+        {
+          "title": "[B11 현장] 툰가라, 라마스 등 '핵심' 줄줄이 이탈한 천안…박진섭 감독이 선수단에 한 주문은?",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260822n08957"
+        },
+        {
+          "title": "시원하게 즐기고 화끈하게 승리한다! 천안시티FC, 선두 수원 상대로 홈 승리 정조준",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/USytQl2uda"
+        }
+      ]
+    },
+    {
+      "id": "부천-대-포항",
+      "rank": 5,
+      "keyword": "부천 대 포항",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''K리그1 첫 연승 도전' 부천, 갈레고-가브리엘-바사니 스리톱 출격...'연패 탈출' 포항전 선발 공개[오!쎈 부천] - 머니…' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'K리그1 첫 연승 도전' 부천, 갈레고-가브리엘-바사니 스리톱 출격...'연패 탈출' 포항전 선발 공개[오!쎈 부천] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/22/202608221818773844O"
+        },
+        {
+          "title": "\"어쩔 수가 없다\"...'강제 원정길' 박태하 포항 감독 \"ACL도 홈 못 쓸 위기, 언제 해결될지 몰라\"[현장 인터뷰] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/football/2026/08/22/MVQTQYRUMUYDINRZGEYDKODGHE/"
+        },
+        {
+          "title": "'4G 무패' 부천FC1995, 다음은 K리그1 첫 연승이다...'첫 홈 승리 제물' 포항과 재격돌[오!쎈 프리뷰]",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260821143529992"
+        }
+      ]
+    },
+    {
+      "id": "제주-대-김천상무",
+      "rank": 6,
+      "keyword": "제주 대 김천상무",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '제주SK 내일 김천 상대 리그 9경기 연속 무패 도전' (한라일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "제주SK 내일 김천 상대 리그 9경기 연속 무패 도전",
+          "source": "한라일보",
+          "url": "https://m.ihalla.com/article.php?aid=1787287774789534051&page=1"
+        },
+        {
+          "title": "5개월 만에 다시 터진 최병욱, 제주SK FC 공격에 새로운 옵션 제공",
+          "source": "뉴스N제주",
+          "url": "https://newsnjeju.com/news/articleView.html?idxno=296963"
+        },
+        {
+          "title": "[K리그1 프리뷰] '8G 무패' 제주와 '5G 무패' 김천 격돌!…부천은 첫 연승 도전, 광주 선봉장 아이데일은 인천 상대",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260820n14442?issue_sq=10989"
+        }
+      ]
+    },
+    {
+      "id": "창원시",
+      "rank": 7,
+      "keyword": "창원시",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''제14회 창원시장배 경남오픈 탁구대회' 스타트…생활체육 활성화' (뉴스핌) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'제14회 창원시장배 경남오픈 탁구대회' 스타트…생활체육 활성화",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260822000084"
+        },
+        {
+          "title": "제14회 창원특례시장배 경남오픈 탁구대회 성황리에 개최 > 뉴스",
+          "source": "더코리아",
           "url": ""
         },
         {
-          "title": "김대중 전남광주교육감, \"내년 예산은 주민과 함께\"... 28일 나주 한국전력거래소에서 설명회 개최",
-          "source": "광주일등뉴스",
-          "url": "https://www.igj.co.kr/news/articleView.html?idxno=302496"
+          "title": "경남오픈 탁구대회 개막…1,200여 명 동호인 참가",
+          "source": "https://www.newfilenews.com/",
+          "url": "https://www.newfilenews.com/news/articleView.html?idxno=50755"
         }
       ]
     },
     {
-      "id": "경비원",
-      "rank": 2,
-      "keyword": "경비원",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"초과 수당 2억4000만원 달라\"…경비원의 '치명적 실수' [사장님 고충백서]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"초과 수당 2억4000만원 달라\"…경비원의 '치명적 실수' [사장님 고충백서]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608215344i"
-        },
-        {
-          "title": "경비원 하루 더 일하자 2년차 연차 발생...업체 130만원 배상+회사대표 근로기준법 위반 벌금",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260816122150188"
-        },
-        {
-          "title": "하루 더 일했을 뿐인데 \"130만원 내놔\"…날벼락 맞은 회사 [곽용희의 인사노무노트]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608104570i"
-        }
-      ]
-    },
-    {
-      "id": "대전광역시",
-      "rank": 3,
-      "keyword": "대전광역시",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '‘행정통합 대안’ 충청광역연합…“특별법 제정 추진”' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘행정통합 대안’ 충청광역연합…“특별법 제정 추진”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/V9Pxy6Iky8"
-        },
-        {
-          "title": "[인사] 대전시",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260821000917"
-        },
-        {
-          "title": "허태정 \"충청광역연합을 합법적 정부기구로 만드는 방안 추진\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260820109400063"
-        }
-      ]
-    },
-    {
-      "id": "인천e음",
-      "rank": 4,
-      "keyword": "인천e음",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] 인천e음 캐시백 부활…9월21일 재개·지급률 10% 적용' (인천일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[단독] 인천e음 캐시백 부활…9월21일 재개·지급률 10% 적용",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1330114"
-        },
-        {
-          "title": "인천e음 캐시백 없앤 박찬대, 중앙정치 보폭 확대··· 지지율은 ‘최하위’",
-          "source": "인천투데이",
-          "url": "https://www.incheontoday.com/news/articleView.html?idxno=322461"
-        },
-        {
-          "title": "[사설] 멈춘 이음카드, 멈춰서는 안 될 민생… 시민과 소상공인을 위한 해법이 먼저다",
-          "source": "강화신문",
-          "url": "https://www.ghnp.kr/news/articleView.html?idxno=30418"
-        }
-      ]
-    },
-    {
-      "id": "원태인",
-      "rank": 5,
-      "keyword": "원태인",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '원태인 오랜만에 7이닝 역투했는데…찬스 만들고 잔루 또 잔루, 이래서 1위 따라잡겠나' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "원태인 오랜만에 7이닝 역투했는데…찬스 만들고 잔루 또 잔루, 이래서 1위 따라잡겠나",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/08/22/GY4DCYZYMFRTIOBRGE2TKM3EGY/"
-        },
-        {
-          "title": "[AI상보] '토다 호투+최정원 맹타' NC 2연승, 삼성 3-2 제압",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260821000957"
-        },
-        {
-          "title": "'50홈런'이 너무 강렬했다…디아즈 '19호포 쾅!', 박진만 감독 \"지금도 충분히 잘한다\" [SS시선집중]",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260822n07400"
-        }
-      ]
-    },
-    {
-      "id": "참교육",
-      "rank": 6,
-      "keyword": "참교육",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '‘이재명 변호인’ 박현석 변호사…경기교육청 교권보호단 합류' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘이재명 변호인’ 박현석 변호사…경기교육청 교권보호단 합류",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/4Kfc43nQvl"
-        },
-        {
-          "title": "‘참교육’ 현실판 된다···경기도교육청, 교권보호전담관 공식 출범",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608221524001"
-        },
-        {
-          "title": "안민석 교육감, 교권보호전담관 공식 출범…“악성민원과 전면전”",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260822580071"
-        }
-      ]
-    },
-    {
-      "id": "베를린",
-      "rank": 7,
-      "keyword": "베를린",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 '베를린 숲에 숨겨진 권총 2자루…러시아 암살 공작용이었나' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "베를린 숲에 숨겨진 권총 2자루…러시아 암살 공작용이었나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260822100650959"
-        },
-        {
-          "title": "베를린 근교서 무기 은닉처 발견···러시아 정보기관이 숨겨둔 암살 무기?",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608212233001"
-        },
-        {
-          "title": "독일 숲속서 발견된 권총…\"러 정보기관이 암살용으로 숨긴 듯\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/europe/6266177"
-        }
-      ]
-    },
-    {
-      "id": "qld",
+      "id": "안우진",
       "rank": 8,
-      "keyword": "qld",
+      "keyword": "안우진",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[사진]'6회까지 1실점' 좋은 피칭 펼친 KIA 선발 애덤 올러 - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[사진]'6회까지 1실점' 좋은 피칭 펼친 KIA 선발 애덤 올러 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/08/22/MFSGGMJXMMZDEMLDMFSTQYZTGQ/"
+        },
+        {
+          "title": "[사진]주먹 불끈 쥔 KIA 선발 올러, '6회까지 1실점' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/22/202608221956772052O"
+        },
+        {
+          "title": "[AI프리뷰] 22일 고척 키움-KIA전, 키움 에이스 안우진 팀 5연패 끊을까",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260822000062"
+        }
+      ]
+    },
+    {
+      "id": "xsmn",
+      "rank": 9,
+      "keyword": "xsmn",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Xổ số miền Nam ngày 22 tháng 8: Một người trúng nguyên cây 2,4 tỉ đài H…' (Báo Thanh Niên) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Xổ số miền Nam ngày 22 tháng 8: Một người trúng nguyên cây 2,4 tỉ đài Hậu Giang",
+          "source": "Báo Thanh Niên",
+          "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-22-thang-8-mot-nguoi-trung-nguyen-cay-24-ti-dai-hau-giang-185260821132954776.htm"
+        },
+        {
+          "title": "XSHCM 22/8 - Kết quả xổ số TP.HCM hôm nay ngày 22/8/2026",
+          "source": "Báo điện tử VTC News",
+          "url": "https://vtcnews.vn/xshcm-22-8-ket-qua-xo-so-tp-hcm-hom-nay-ngay-22-8-2026-ar1035748.html"
+        },
+        {
+          "title": "XSMT 22/8/2026 - Kết quả xổ số miền Trung hôm nay 22/8/2026",
+          "source": "Thể Thao 247",
+          "url": "https://thethao247.vn/493-xsmt-22-8-2026-ket-qua-xo-so-mien-trung-hom-nay-22-8-2026-c123-d433274.html"
+        }
+      ]
+    },
+    {
+      "id": "lck-2026",
+      "rank": 10,
+      "keyword": "lck 2026",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '235 NEW ROAD, Norman Gardens, Qld 4701' (Real Estate) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'DK in incredible form, defeats Gen.G 2-1' (Inven Global) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "235 NEW ROAD, Norman Gardens, Qld 4701",
-          "source": "Real Estate",
-          "url": "https://www.realestate.com.au/property-house-qld-norman+gardens-152122336"
-        },
-        {
-          "title": "Burrum Heads - address available on request - House for Sale 152083000",
-          "source": "Real Estate",
-          "url": "https://www.realestate.com.au/property-house-qld-burrum+heads-152083000"
-        },
-        {
-          "title": "Camira - address available on request - House for Sale 152114304",
-          "source": "Real Estate",
-          "url": "https://www.realestate.com.au/property-house-qld-camira-152114304"
-        }
-      ]
-    },
-    {
-      "id": "리벨리온",
-      "rank": 9,
-      "keyword": "리벨리온",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '엔비디아, 국내 NPU 스타트업 리벨리온과 인수 협상 중' (AI타임스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "엔비디아, 국내 NPU 스타트업 리벨리온과 인수 협상 중",
-          "source": "AI타임스",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214241"
-        },
-        {
-          "title": "8월 21일 시간외 특이종목",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/toptrader1/toptrader7/contents/260821200311712qz"
-        },
-        {
-          "title": "[미국 특징주] \"엔비디아, 한국 반도체 스타트업 리벨리온과 잠재적 거래 논의\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260822000002"
-        }
-      ]
-    },
-    {
-      "id": "도지",
-      "rank": 10,
-      "keyword": "도지",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '암호화폐 랠리 언제까지? 도지코인 커뮤니티서 '강세장 함정' 경고' (네이트) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "암호화폐 랠리 언제까지? 도지코인 커뮤니티서 '강세장 함정' 경고",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260822n00075"
-        },
-        {
-          "title": "밈코인 불장 시작됐나…도지코인·시바이누·페페·트럼프 두 자릿수 랠리",
-          "source": "코인리더스",
-          "url": "https://www.coinreaders.com/254168"
-        },
-        {
-          "title": "도지코인 113원으로 상승…글로벌 시세 두 자릿수 급등",
-          "source": "잡포스트",
-          "url": "https://www.job-post.co.kr/news/articleView.html?idxno=224679"
+          "title": "DK in incredible form, defeats Gen.G 2-1",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/25021/dk-in-incredible-form-defeats-geng-2-1"
         }
       ]
     }
