@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-22T17:27:14.802Z",
+  "updatedAt": "2026-08-22T17:51:21.302Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -37,9 +37,9 @@
       "rank": 2,
       "keyword": "토트넘",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+2",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '손흥민 땐 그렇게 돈 아끼더니...토트넘, 역대급 이적시장 확정! '둘이 합쳐 2650억' 사비뉴+마르무시 동반 영입 근접' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -61,67 +61,39 @@
       ]
     },
     {
-      "id": "정재환",
+      "id": "brentford-vs-spurs",
       "rank": 3,
-      "keyword": "정재환",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 ''그것이 알고싶다', 친구 잔혹살해한 정재환의 엽기 행각 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "brentford vs spurs",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Tottenham predicted team vs Brentford - New captain starts as De Zerbi …' (Football London) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'그것이 알고싶다', 친구 잔혹살해한 정재환의 엽기 행각 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/22/2026082220007293775"
+          "title": "Tottenham predicted team vs Brentford - New captain starts as De Zerbi picks young team",
+          "source": "Football London",
+          "url": "https://www.football.london/tottenham-hotspur-fc/fixtures-results/tottenham-predicted-team-vs-brentford-34500286"
         },
         {
-          "title": "'그알' 정재환, 21분 녹음 속 담긴 잔혹 진실⋯\"범행 후 인증샷 찍었다\"",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2617067"
+          "title": "Preview: Brentford vs Tottenham Hotspur - prediction, team news, lineups",
+          "source": "Sports Mole",
+          "url": "https://www.sportsmole.co.uk/football/spurs/preview/brentford-vs-spurs-prediction-team-news-lineups_603310.html"
         },
         {
-          "title": "그것이 알고싶다 : [8월 22일 예고] 나체 살인범과 죽음의 생중계 - 정재환은 왜 친구를 죽였나",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/culture/unansweredquestions/clip/55073/22000634699"
-        }
-      ]
-    },
-    {
-      "id": "챔피언십",
-      "rank": 4,
-      "keyword": "챔피언십",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '김상식의 베트남, 동남아 월드컵 결승 1차전서 태국 2-0 제압' (동아일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김상식의 베트남, 동남아 월드컵 결승 1차전서 태국 2-0 제압",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20260823/134523900/1"
-        },
-        {
-          "title": "'김상식 매직, 박항서 전설 뛰어넘나?' 베트남, 태국 원정서 2-0 완승...아세안컵 2연패 눈앞 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/23/202608230035770650O"
-        },
-        {
-          "title": "'동남아 월드컵' 결승 앞둔 김상식 \"베트남 축구 새 역사 쓰겠다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260822111839710?f=p"
+          "title": "Spurs handed major injury boost but key fears grow for season opener",
+          "source": "London Evening Standard",
+          "url": "https://www.standard.co.uk/sport/football/tottenham-injury-news-maddison-van-de-ven-udogie-solanke-b1293559.html"
         }
       ]
     },
     {
       "id": "최홍만",
-      "rank": 5,
+      "rank": 4,
       "keyword": "최홍만",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "up",
       "changeLabel": "+1",
       "summary": "급상승 시점에 '최홍만, 서울 집 공개…식량창고에 간식·즉석밥 빼곡' (Daum) 관련 뉴스가 함께 포착됐어요.",
@@ -146,12 +118,12 @@
     },
     {
       "id": "블리치",
-      "rank": 6,
+      "rank": 5,
       "keyword": "블리치",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '‘Bleach: Thousand-Year Blood War’ Episode 45 Release Date & Time: When …' (IMDb) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -173,13 +145,53 @@
       ]
     },
     {
-      "id": "로베르토-데-제르비",
-      "rank": 7,
-      "keyword": "로베르토 데 제르비",
+      "id": "k뷰티",
+      "rank": 6,
+      "keyword": "k뷰티",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 '19 New K-Beauty Brands Are Coming to Sephora. Here’s What to Buy.' (New York Magazine) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "19 New K-Beauty Brands Are Coming to Sephora. Here’s What to Buy.",
+          "source": "New York Magazine",
+          "url": "https://nymag.com/strategist/article/sephora-olive-young-k-beauty-edit.html"
+        },
+        {
+          "title": "Olive Young Is Now At Sephora—Shop These K-Beauty Favorites First",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/forbes-personal-shopper/2026/08/20/sephora-olive-young-launch/"
+        },
+        {
+          "title": "I Trekked to Times Square at 8 A.M. to Shop Olive Young's Sephora Collection—9 Worth-It Items",
+          "source": "Who What Wear",
+          "url": "https://www.whowhatwear.com/beauty/skin/olive-young-sephora-collection"
+        }
+      ]
+    },
+    {
+      "id": "유영우",
+      "rank": 7,
+      "keyword": "유영우",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "로베르토-데-제르비",
+      "rank": 8,
+      "keyword": "로베르토 데 제르비",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '[오피셜] 손흥민 ‘70m 단독 돌파 골’ 완벽하게 재현한 ‘토트넘 에이스’→SON, 로메로 이어 ‘새로운 캡틴...' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -202,10 +214,10 @@
     },
     {
       "id": "타짜",
-      "rank": 8,
+      "rank": 9,
       "keyword": "타짜",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "down",
       "changeLabel": "-1",
       "summary": "급상승 시점에 '\"밑장빼기는 없다\"...추석에 정면승부 거는 '타짜:벨제붑의노래' [시네마 리포트] - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
@@ -222,55 +234,32 @@
           "url": "https://v.daum.net/v/20260821223115551"
         },
         {
-          "title": "윤경호의 새 얼굴..‘타짜4’ 등판 “최국희 감독 문자에 출연, 무거운 마음”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/movie/2026/08/21/HEZWGNZQME3DKZRXGBTGKYJSMI/"
+          "title": "윤경호의 새 얼굴..‘타짜4’ 등판 “최국희 감독 문자에 출연, 무거운 마음” - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/movie/2026/08/21/GY3GCY3FMUYTSNRYGEYDQOBYMI/"
         }
       ]
     },
     {
       "id": "청소업체",
-      "rank": 9,
+      "rank": 10,
       "keyword": "청소업체",
       "volumeLabel": "100+",
       "startedLabel": "3시간 전",
       "change": "down",
       "changeLabel": "-1",
-      "summary": "급상승 시점에 '고객 집 거실에 '오물' 뿌린 청소업체 직원, 왜...법적 다툼까지 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“다시 청소해달라” 항의하자 오물 투척' (채널A) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "고객 집 거실에 '오물' 뿌린 청소업체 직원, 왜...법적 다툼까지 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/22/2026082214382632951"
-        },
         {
           "title": "“다시 청소해달라” 항의하자 오물 투척",
           "source": "채널A",
           "url": "https://ichannela.com/news/detail/000000546479.do"
-        }
-      ]
-    },
-    {
-      "id": "고레츠카",
-      "rank": 10,
-      "keyword": "고레츠카",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '시즌 개막했는데 여전히 백수 신세…'KIM 전 동료' 드디어 새 직장 찾나? UEL 우승팀이 원한다' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "시즌 개막했는데 여전히 백수 신세…'KIM 전 동료' 드디어 새 직장 찾나? UEL 우승팀이 원한다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/9kMH7lfzws"
         },
         {
-          "title": "바이에른 뮌헨 결별 고레츠카, 유로파리그 챔피언 아스톤 빌라 이적 임박",
-          "source": "스포르티보 미디어",
-          "url": "https://www.sportivomedia.net/news/articleView.html?idxno=22149"
+          "title": "고객 집 거실에 '오물' 뿌린 청소업체 직원, 왜...법적 다툼까지 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/08/22/2026082214382632951"
         }
       ]
     }
