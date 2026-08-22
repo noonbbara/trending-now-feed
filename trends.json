@@ -1,34 +1,34 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-22T03:01:19.785Z",
+  "updatedAt": "2026-08-22T04:07:48.761Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "안재환",
+      "id": "승리",
       "rank": 1,
-      "keyword": "안재환",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
+      "keyword": "승리",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '홍진경 “정선희 유튜브서 이혼 발표, 언니 밖에 없었다”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '빅뱅 출신 승리, 베트남서 포착…살 오른 모습 속 에스코트 받으며 행사 참석' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "홍진경 “정선희 유튜브서 이혼 발표, 언니 밖에 없었다”",
+          "title": "빅뱅 출신 승리, 베트남서 포착…살 오른 모습 속 에스코트 받으며 행사 참석",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260822110007517"
+          "url": "https://v.daum.net/v/20260822084927900"
         },
         {
-          "title": "'故 안재환 사별' 정선희 \"세상이 생매장하는 것처럼 악플 달려\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6266220"
+          "title": "빅뱅은 데뷔 20주년 콘서트..‘버닝썬’ 승리는 베트남서 포착 [Oh!쎈 이슈] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/22/MI2WCMJSMEZWCZDGGY4WIYZUHA/"
         },
         {
-          "title": "‘사별’ 정선희 “연애 생각 無” 발언에..국제 연애 추천 “해외로 눈 돌리자” [순간포착]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/22/GMZTEYRTMZSTAM3DGBSDSOLBGE/"
+          "title": "“출소 후 후덕해진 근황”…‘버닝썬’ 승리, 베트남서 포착",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10848685"
         }
       ]
     },
@@ -37,105 +37,77 @@
       "rank": 2,
       "keyword": "비트코인",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '비트코인 랠리에도 예측시장은 신중…\"연말 7만5천달러 안팎\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '시타델이 살렸다…금리 또 올랐지만 주가, 금, 코인 상승 [김현석의 월스트리트나우]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "비트코인 랠리에도 예측시장은 신중…\"연말 7만5천달러 안팎\"",
+          "title": "시타델이 살렸다…금리 또 올랐지만 주가, 금, 코인 상승 [김현석의 월스트리트나우]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608225810i"
+        },
+        {
+          "title": "[특징주] 가상자산 관련주, 비트코인 7만달러선 돌파에 급등(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821155651067"
+        },
+        {
+          "title": "비트코인, 규제완화법 청신호에 7만불 돌파…역대2위 공매도청산",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260822005000072"
-        },
-        {
-          "title": "비트코인 7만8천달러 급등…이번 랠리, 진짜 추세 전환일까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260822111504684"
-        },
-        {
-          "title": "비트코인 다시 1억원 돌파…미 규제완화 기대감에 공매도 청산까지",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608211021001"
+          "url": "https://www.yna.co.kr/view/PYH20260821049500013"
         }
       ]
     },
     {
-      "id": "금값",
+      "id": "테슬라",
       "rank": 3,
-      "keyword": "금값",
+      "keyword": "테슬라",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"떨어질 줄 알았는데 올라가네\"…금리 상승에도 꺾이지 않는 금값의 비밀[주末머니]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '테슬라 중국서 300만대 역대 최대 규모 리콜···‘매립형 문손잡이’ 안전성 논란' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"떨어질 줄 알았는데 올라가네\"…금리 상승에도 꺾이지 않는 금값의 비밀[주末머니]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821142651600"
+          "title": "테슬라 중국서 300만대 역대 최대 규모 리콜···‘매립형 문손잡이’ 안전성 논란",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608220755001"
         },
         {
-          "title": "[뉴욕 금가격] 파죽지세로 4,600달러마저 뚫었다…2.40%↑",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431304"
+          "title": "\"사고 나면 문 못 열어\"…테슬라 중국서 300만 대 리콜",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716718"
         },
         {
-          "title": "금값 한 달 새 11% 뛰었다…美 국채 ‘바이백’에 3주 연속 상승",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20260821/134517779/2"
-        }
-      ]
-    },
-    {
-      "id": "김병지",
-      "rank": 4,
-      "keyword": "김병지",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"누구 말이 사실인지 법정서 밝히자\" 김병지, 박문성에 정면 반격... \"태어나서 칸쿤 간 적 없다\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"누구 말이 사실인지 법정서 밝히자\" 김병지, 박문성에 정면 반격... \"태어나서 칸쿤 간 적 없다\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/22/2026082203135837150"
-        },
-        {
-          "title": "3경기 0골에 13억...강원FC '마리오 영입'에 김병지 처남 개입 [더게이트 탐사]",
-          "source": "더게이트",
-          "url": ""
-        },
-        {
-          "title": "“칸쿤 안 갔다” 반박한 김병지…아들 토트넘 연수엔 또 사과",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260821181148987"
+          "title": "테슬라, 중국에서 300만 대 대규모 리콜‥\"사고 시 손잡이 결함\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6846494_36925.html"
         }
       ]
     },
     {
       "id": "살해",
-      "rank": 5,
+      "rank": 4,
       "keyword": "살해",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“칼은 부부관계 상징물”… 아내 살해하고도 변명만 늘어놓은 70대 남성 ‘중형’' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '아내 흉기 살해범, 법정서 \"칼은 상징물이었을 뿐\" 황당 변명' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "“칼은 부부관계 상징물”… 아내 살해하고도 변명만 늘어놓은 70대 남성 ‘중형’",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11611145"
-        },
         {
           "title": "아내 흉기 살해범, 법정서 \"칼은 상징물이었을 뿐\" 황당 변명",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260821167500004"
+        },
+        {
+          "title": "“칼은 부부관계 상징물”… 아내 살해하고도 변명만 늘어놓은 70대 남성 ‘중형’",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11611145"
         },
         {
           "title": "분리조치 후 사실혼 여성 살해한 70대 항소…검찰 맞항소",
@@ -145,30 +117,58 @@
       ]
     },
     {
-      "id": "supreme",
-      "rank": 6,
-      "keyword": "supreme",
+      "id": "탈영",
+      "rank": 5,
+      "keyword": "탈영",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Supreme Court's chief justice allows work on Trump’s $400M White House …' (AP News) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '한기호 \"탈영했다면 내가 아들\" 안규백에 \"졸지에 입양할듯\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Supreme Court's chief justice allows work on Trump’s $400M White House ballroom to continue for now",
-          "source": "AP News",
-          "url": "https://apnews.com/article/trump-white-house-ballroom-supreme-court-b3eaee672028e584d0c520180c663e2c"
+          "title": "한기호 \"탈영했다면 내가 아들\" 안규백에 \"졸지에 입양할듯\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/6fu3SqAi5J?f=p"
         },
         {
-          "title": "Supreme Court temporarily allows construction of White House ballroom to continue",
-          "source": "CNN",
-          "url": "https://www.cnn.com/2026/08/21/politics/supreme-court-rules-on-trump-ballroom"
+          "title": "한기호, ‘탈영했다면 아들’ 안규백에 “졸지에 장관 아들 입양” 응수",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8642523"
         },
         {
-          "title": "Trump Can Keep Building Ballroom While Supreme Court Weighs Appeal",
-          "source": "WSJ",
-          "url": "https://www.wsj.com/politics/policy/trump-can-keep-building-ballroom-while-supreme-court-weighs-appeal-a749e6b1"
+          "title": "안규백, 병역 의혹에 “탈영했다면 제가 한기호 의원 아들”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608202210001"
+        }
+      ]
+    },
+    {
+      "id": "테니스",
+      "rank": 6,
+      "keyword": "테니스",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '한국 여자 테니스의 국제무대 경쟁 구조와 선수 유형' (테니스피플) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "한국 여자 테니스의 국제무대 경쟁 구조와 선수 유형",
+          "source": "테니스피플",
+          "url": ""
+        },
+        {
+          "title": "세계 1위, '157cm' 20세에게 충격패하더니…매너도 꽝이네→사발렌카, 라켓 부수더니 '싸늘한 악수'→\"거만하다\", \"이제 내려와\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821181707782"
+        },
+        {
+          "title": "\"걷는 것도 고통스럽다\" 부상으로 세계랭킹 1위 기회 놓치고 울먹…\"그런 부상 처음 봐\" 상대도 경악했다",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260822n03431"
         }
       ]
     },
@@ -176,17 +176,17 @@
       "id": "휴머노이드",
       "rank": 7,
       "keyword": "휴머노이드",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '싸도 1700만원인데 중국의 그 많은 로봇은 누가 살까' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '싸도 1700만원인데 중국의 그 많은 로봇은 누가 살까' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "싸도 1700만원인데 중국의 그 많은 로봇은 누가 살까",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608211414001"
+          "source": "Daum",
+          "url": "https://v.daum.net/v/PHCdSa5TSm"
         },
         {
           "title": "휴머노이드, 대규모 양산 본격화…상위권 中 기업이 싹쓸이",
@@ -201,72 +201,88 @@
       ]
     },
     {
-      "id": "논설위원",
+      "id": "supreme",
       "rank": 8,
-      "keyword": "논설위원",
-      "volumeLabel": "100+",
+      "keyword": "supreme",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '청와대 신임 춘추관장에 김회승 전 한겨레 논설위원' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 'Chief Justice Allows Trump to Continue White House Ballroom Constructio…' (The New York Times) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "청와대 신임 춘추관장에 김회승 전 한겨레 논설위원",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820204157983"
+          "title": "Chief Justice Allows Trump to Continue White House Ballroom Construction, for Now",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/21/us/politics/supreme-court-trump-ballroom.html"
         },
         {
-          "title": "[단독]이 대통령, 靑춘추관장에 김회승 전 한겨레 논설위원 임명",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260820_0003756669"
+          "title": "Supreme Court chief justice allows work on Trump's $400M White House ballroom to continue for now",
+          "source": "PBS",
+          "url": "https://www.pbs.org/newshour/politics/supreme-court-chief-justice-allows-work-on-trumps-400m-white-house-ballroom-to-continue-for-now"
         },
         {
-          "title": "전 논설위원 춘추관장 임명에 한겨레 “깊은 유감… 원칙 어긋나는 일”",
-          "source": "미디어오늘",
-          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336629"
+          "title": "Trump Can Keep Building Ballroom While Supreme Court Weighs Appeal",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/politics/policy/trump-can-keep-building-ballroom-while-supreme-court-weighs-appeal-a749e6b1"
         }
       ]
     },
     {
-      "id": "홍혜걸",
+      "id": "스위스",
       "rank": 9,
-      "keyword": "홍혜걸",
+      "keyword": "스위스",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이정도 재력이라니…\"직원 26명에 아파트 선물\" 임채무 이어 여에스더까지 '통 큰 플렉스' [엑's 이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Five missing after fire in Alpine town in Switzerland' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이정도 재력이라니…\"직원 26명에 아파트 선물\" 임채무 이어 여에스더까지 '통 큰 플렉스' [엑's 이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821175307152"
+          "title": "Five missing after fire in Alpine town in Switzerland",
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cy8e6g13497o"
         },
         {
-          "title": "여에스더, 10년 함께한 가사도우미에게 강남 아파트 선물",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026082007570005686"
+          "title": "Five missing after fire 'completely destroys' restaurant with apartments in Switzerland",
+          "source": "Sky News",
+          "url": "https://news.sky.com/story/five-missing-after-fire-completely-destroys-restaurant-with-apartments-in-switzerland-13575293"
         },
         {
-          "title": "홍혜걸, 폐질환 완치 판정…\"제주도서 5년 요양 생활\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260820_0003755532"
+          "title": "Two Swiss apartment block fires leave five missing and 19 injured, police say",
+          "source": "Euronews.com",
+          "url": "https://www.euronews.com/my-europe/2026/08/21/swiss-apartment-block-fire-leaves-five-missing-and-eight-injured-police-say"
         }
       ]
     },
     {
-      "id": "어벤져스-엔드게임",
+      "id": "xrp",
       "rank": 10,
-      "keyword": "어벤져스 엔드게임",
+      "keyword": "xrp",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "summary": "급상승 시점에 'Ethereum Flips XRP Ledger in RLUSD Supply: What Changed?' (U.Today) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": []
+      "newsSignals": [
+        {
+          "title": "Ethereum Flips XRP Ledger in RLUSD Supply: What Changed?",
+          "source": "U.Today",
+          "url": "https://u.today/ethereum-flips-xrp-ledger-in-rlusd-supply-what-changed"
+        },
+        {
+          "title": "Ripple issues $449M stablecoin on XRP Ledger, t...",
+          "source": "Pluang",
+          "url": "https://pluang.com/en/news-feed/pendanaan-ripple-275juta-dorong-broker-prime-as"
+        },
+        {
+          "title": "Ripple expands RLUSD issuance on XRPL as burns continue on Ethereum",
+          "source": "디지털투데이",
+          "url": "https://www.digitaltoday.co.kr/en/view/94423/ripple-expands-rlusd-issuance-on-xrpl-as-burns-continue-on-ethereum"
+        }
+      ]
     }
   ]
 }
