@@ -1,17 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-22T22:54:00.627Z",
+  "updatedAt": "2026-08-22T23:27:45.350Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "안세영",
+      "id": "왕-즈이",
       "rank": 1,
-      "keyword": "안세영",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "keyword": "왕 즈이",
+      "volumeLabel": "5000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
       "summary": "급상승 시점에 '안세영에 또 졌는데 中 뜻밖의 반응 \"왕즈이 잘못 없다, 비난도 안 돼\"... \"뭘 해도 안세영 승리\" 결국 세계선수권 결승행' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,69 +33,41 @@
       ]
     },
     {
-      "id": "방탄소년단",
+      "id": "여수시",
       "rank": 2,
-      "keyword": "방탄소년단",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '호주 풋볼 선수 출신 인기 MC도 ♥..방탄소년단 진, 역시 '셀럽들의 셀럽'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "여수시",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '여수 화력발전소서 화재…진화까지 장시간 예상' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "호주 풋볼 선수 출신 인기 MC도 ♥..방탄소년단 진, 역시 '셀럽들의 셀럽'",
+          "title": "여수 화력발전소서 화재…진화까지 장시간 예상",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608221845001"
+        },
+        {
+          "title": "여수산단 한국남동발전 자연발화 추정 화재…석탄 공급 지장 없어",
           "source": "Daum",
-          "url": "https://v.daum.net/v/ujEES8OchZ"
+          "url": "https://v.daum.net/v/20260822220600117"
         },
         {
-          "title": "방탄소년단 진, 호주 인기 MC 토니 암스트롱 최애 고백 받았다",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16170621"
-        },
-        {
-          "title": "호주 풋볼 선수 출신 인기 MC도 ♥..방탄소년단 진, 역시 '셀럽들의 셀럽'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260822072609010?f=p"
-        }
-      ]
-    },
-    {
-      "id": "투자",
-      "rank": 3,
-      "keyword": "투자",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '핵심광물 계약에 세금 수십억불 쓴 트럼프…민주 \"이해충돌 조사\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "핵심광물 계약에 세금 수십억불 쓴 트럼프…민주 \"이해충돌 조사\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821150348912"
-        },
-        {
-          "title": "美 지원 컨소시엄, 탄자니아 니켈 광산에 수억 달러 투자 추진 By The Guru",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2070098"
-        },
-        {
-          "title": "美, ‘위험천만’ 阿洲 희토류 사업에 투자하는 속사정",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1680998"
+          "title": "전남 여수 화력발전소 화재‥완진까지 장시간 예상",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6846560_36918.html"
         }
       ]
     },
     {
       "id": "축구-감독",
-      "rank": 4,
+      "rank": 3,
       "keyword": "축구 감독",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 ''임시'로 뽑지만…축구대표팀 사령탑, 성과 내면 '정식 감독' 가능해' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -118,20 +90,15 @@
     },
     {
       "id": "집중호우",
-      "rank": 5,
+      "rank": 4,
       "keyword": "집중호우",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '당진 고대면 진관교차로 '통제 중'...집중호우 여파' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '집중호우 피해 엿새째…주말에도 복구 총력' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "당진 고대면 진관교차로 '통제 중'...집중호우 여파",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3671513"
-        },
         {
           "title": "집중호우 피해 엿새째…주말에도 복구 총력",
           "source": "KBS 뉴스",
@@ -141,34 +108,67 @@
           "title": "강호동 농협중앙회장, 경남 수해 현장 점검…\"지원 총력\"",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260822160442383"
+        },
+        {
+          "title": "주말 맞은 거제·통영 수해 현장…자원봉사자 1천400여명 구슬땀",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260822030400052"
         }
       ]
     },
     {
-      "id": "이준영",
-      "rank": 6,
-      "keyword": "이준영",
+      "id": "인공지능",
+      "rank": 5,
+      "keyword": "인공지능",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '짧은 머리, 군복차림 누군지 몰라봤다…육군 현역 입대한 배우의 정체' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "changeLabel": "+4",
+      "summary": "급상승 시점에 '\"AI학습 위해 책 사재기하고 파괴\"…미국 시민단체, 반독점조사 촉구' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "짧은 머리, 군복차림 누군지 몰라봤다…육군 현역 입대한 배우의 정체",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/culture/12133859"
-        },
-        {
-          "title": "\"軍서 맨날 웃고 다녀\" 이준영, 완전 군인 된 얼굴 공개로 '응원 폭발'",
+          "title": "\"AI학습 위해 책 사재기하고 파괴\"…미국 시민단체, 반독점조사 촉구",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260822211527532"
+          "url": "https://v.daum.net/v/20260822135100101"
         },
         {
-          "title": "'인성 미담' 이준영, 중대장 훈련병 됐다…꽃미남 지운 '군인 얼굴'",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260822n09122?mid=e1100"
+          "title": "AI의 새 위협 ‘가짜 독서’…“질문하는 문해력 필요한 시대”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/culture/book/1274124.html"
+        },
+        {
+          "title": "美 시민단체 \"AI 기업 책 사재기·원본 폐기는 불공정 행위\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/tech_it/2026/08/22/O6S2CL2TIJHENGGTU7NGSA3M4A/"
+        }
+      ]
+    },
+    {
+      "id": "김영옥",
+      "rank": 6,
+      "keyword": "김영옥",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘송이 보내주는 손녀’ 윤아, 김영옥 ‘1등 손녀’다운 센스 만점 선물' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘송이 보내주는 손녀’ 윤아, 김영옥 ‘1등 손녀’다운 센스 만점 선물",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/PrW9d7NdzJ?f=p"
+        },
+        {
+          "title": "임윤아, 김영옥 앞 소녀시대 20주년에 입 열었다 “컴백 해야죠” [SD톡톡]",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260820/134512172/1"
+        },
+        {
+          "title": "윤아, 소녀시대 20주년 언급…MC·투표로 이어진 존재감",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16170168"
         }
       ]
     },
@@ -177,9 +177,9 @@
       "rank": 7,
       "keyword": "킬리안 음바페",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '레알 마드리드 '교수님' 소신 발언 \"발롱도르 1위 메시·음바페 아니다\"…LEE 전 동료 전폭 지지' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -229,58 +229,58 @@
       ]
     },
     {
-      "id": "인공지능",
+      "id": "국가유공자",
       "rank": 9,
-      "keyword": "인공지능",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 '\"AI학습 위해 책 사재기하고 파괴\"…미국 시민단체, 반독점조사 촉구' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "국가유공자",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '국가유공자 선순위 유족 등, 위탁병원 이용 연령 65세로 하향' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"AI학습 위해 책 사재기하고 파괴\"…미국 시민단체, 반독점조사 촉구",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260822135100101"
+          "title": "국가유공자 선순위 유족 등, 위탁병원 이용 연령 65세로 하향",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970437"
         },
         {
-          "title": "AI의 새 위협 ‘가짜 독서’…“질문하는 문해력 필요한 시대”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/culture/book/1274124.html"
+          "title": "방미숙 경기도의원, 국가보훈대상자 고독사 예방 및 지원 조례 개정안 추진",
+          "source": "서울Pn",
+          "url": "https://go.seoul.co.kr/news/newsView.php?id=20260821500306"
         },
         {
-          "title": "美 시민단체 \"AI 기업 책 사재기·원본 폐기는 불공정 행위\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/08/22/O6S2CL2TIJHENGGTU7NGSA3M4A/"
+          "title": "[패트롤]송기헌 국회의원-조성호 도의원-원주시의회-북부지방산림청-한국도로교통공단",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20260821025564847"
         }
       ]
     },
     {
-      "id": "해리-케인",
+      "id": "모병제",
       "rank": 10,
-      "keyword": "해리 케인",
-      "volumeLabel": "200+",
+      "keyword": "모병제",
+      "volumeLabel": "100+",
       "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '시어러까지 47골 남았는데…케인 “EPL 돌아가고 싶은 마음, 예전만큼 크지 않다”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '軍부사관도 못 구하는데… ‘선택적 모병제’의 딜레마' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "시어러까지 47골 남았는데…케인 “EPL 돌아가고 싶은 마음, 예전만큼 크지 않다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/zPVJx1d8Dy?f=p"
+          "title": "軍부사관도 못 구하는데… ‘선택적 모병제’의 딜레마",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/2026/08/23/C3F52632TRDCDDOFQH3UM3IMAA/"
         },
         {
-          "title": "토트넘 팬 오열! \"PL 최다골? 이젠 크게 안 끌린다\" 케인, 바이에른 잔류 쪽으로 기우나...\"바이에른에서 정말 행복해\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/20/202608201823776908O"
+          "title": "한국 여성 54.5% “여자도 군대 가야”…그럼 병력절벽 해소될까?",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/politics/diplomacy/2026/08/20/20260820500224"
         },
         {
-          "title": "유러피언 ‘골든슈’ 해리 케인 “EPL 복귀보다 바이에른 뮌헨 잔류 원해”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11610649"
+          "title": "안규백, 병역의혹에 \"탈영했다면 제가 한기호 의원 아들\"(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260820090851504"
         }
       ]
     }
