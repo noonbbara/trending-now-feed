@@ -1,73 +1,45 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-22T11:27:02.818Z",
+  "updatedAt": "2026-08-22T11:50:47.558Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "안양-대-fc-서울",
+      "id": "헐-시티-대-맨유",
       "rank": 1,
-      "keyword": "안양 대 fc 서울",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
+      "keyword": "헐 시티 대 맨유",
+      "volumeLabel": "10000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''무려 10점 차 단독 선두'인데 \"여전히 위기\"... 김기동 감독 \"매 경기 헤쳐 나가야\" [안양 현장] - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[오피셜]\"승격팀과 연전, 수월한 대진 아니야\" 맨체스터 유나이티드 정식 사령탑 마이클 캐릭, 헐 시티와의 원정 개막전 경계심 …' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'무려 10점 차 단독 선두'인데 \"여전히 위기\"... 김기동 감독 \"매 경기 헤쳐 나가야\" [안양 현장] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/22/2026082217360497610"
+          "title": "[오피셜]\"승격팀과 연전, 수월한 대진 아니야\" 맨체스터 유나이티드 정식 사령탑 마이클 캐릭, 헐 시티와의 원정 개막전 경계심 드러냈다..\"추가 선수 영입 있다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/08/21/MVSWGZJXG44DANJSMMZDSNRUMM/"
         },
         {
-          "title": "서울 김기동 감독 \"초반 득점\" vs 안양 유병훈 감독 \"밸런스 관건\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260822_0003758532"
+          "title": "BRITAIN SOCCER",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260822n09234?mid=n1101"
         },
         {
-          "title": "‘통산 전적 1승 3무 1패’ 무승부는 그만!…‘3연패’ 안양-‘선두 질주’ 서울, 연고지 더비 격돌 [MK라인업]’",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/sports/12133847"
-        }
-      ]
-    },
-    {
-      "id": "전북-대-울산",
-      "rank": 2,
-      "keyword": "전북 대 울산",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '전북 현대, 내일 울산과 홈 경기…“분위기 반전”' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "전북 현대, 내일 울산과 홈 경기…“분위기 반전”",
+          "title": "\"래시포드에겐 합리적인 접근이 필요해\"… 시즌 첫 경기 앞둔 캐릭 감독, \"프리시즌이 고무적이라 기대된다\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260821195240663"
-        },
-        {
-          "title": "위기의 전북, 상승세 울산 만난다…2부는 치열한 승격 전쟁",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260821232618vaa"
-        },
-        {
-          "title": "'내용만은 밀리지 않는다' 전북, 최근 5경기 83슈팅...'효율 극강' 울산 상대로 골문 열까 [오!쎈 프리뷰] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/22/202608212121777643O"
+          "url": "https://v.daum.net/v/20260822163149619"
         }
       ]
     },
     {
       "id": "기상",
-      "rank": 3,
+      "rank": 2,
       "keyword": "기상",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '역대급 엘니뇨 온다…\"2027년 '가장 더운 해' 될 수도\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -89,13 +61,69 @@
       ]
     },
     {
-      "id": "천안시티-대-수원",
-      "rank": 4,
-      "keyword": "천안시티 대 수원",
+      "id": "동남아시아-축구-연맹-선수권-대회",
+      "rank": 3,
+      "keyword": "동남아시아 축구 연맹 선수권 대회",
       "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 '태국 대 베트남 결승: '물싸움'으로 챔피언을 가리다' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "태국 대 베트남 결승: '물싸움'으로 챔피언을 가리다",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/chung-ket-thai-lan-viet-nam-thuy-chien-dinh-doat-ngoi-vuong"
+        },
+        {
+          "title": "베트남-태국 아세안컵 결승 티켓, 온라인 판매 수 시간 만에 매진",
+          "source": "씬짜오베트남",
+          "url": "https://chaovietnam.co.kr/169191/"
+        },
+        {
+          "title": "역사적인 결승전을 앞두고 심리전이 벌어지고 있다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/tam-ly-chien-truoc-chung-ket-kinh-dien"
+        }
+      ]
+    },
+    {
+      "id": "lck",
+      "rank": 4,
+      "keyword": "lck",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'LCK's Summer regular season comes to a close this weekend, here are the…' (Gamereactor UK) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "LCK's Summer regular season comes to a close this weekend, here are the final fixtures",
+          "source": "Gamereactor UK",
+          "url": "https://www.gamereactor.eu/esports/1762053/LCKs+Summer+regular+season+comes+to+a+close+this+weekend+here+are+the+final+fixtures/"
+        },
+        {
+          "title": "Gen.G secures top spot in LCK, advances to second playoff round",
+          "source": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/geng-secures-top-spot-in-lck-advances-to-second-playoff-round/"
+        },
+        {
+          "title": "LCK 2026 Round 4 Week 13 Preview: Important Places Up For Grabs in the Final Week",
+          "source": "Yardbarker",
+          "url": "https://www.yardbarker.com/entertainment/articles/lck_2026_round_4_week_13_preview_important_places_up_for_grabs_in_the_final_week/s1_17456_44190805"
+        }
+      ]
+    },
+    {
+      "id": "천안시티-대-수원",
+      "rank": 5,
+      "keyword": "천안시티 대 수원",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '경기 3시간 전, 일찍부터 천안 찾은 수원삼성 서포터스' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -117,109 +145,53 @@
       ]
     },
     {
-      "id": "부천-대-포항",
-      "rank": 5,
-      "keyword": "부천 대 포항",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''K리그1 첫 연승 도전' 부천, 갈레고-가브리엘-바사니 스리톱 출격...'연패 탈출' 포항전 선발 공개[오!쎈 부천] - 머니…' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'K리그1 첫 연승 도전' 부천, 갈레고-가브리엘-바사니 스리톱 출격...'연패 탈출' 포항전 선발 공개[오!쎈 부천] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/22/202608221818773844O"
-        },
-        {
-          "title": "\"어쩔 수가 없다\"...'강제 원정길' 박태하 포항 감독 \"ACL도 홈 못 쓸 위기, 언제 해결될지 몰라\"[현장 인터뷰] - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/football/2026/08/22/MVQTQYRUMUYDINRZGEYDKODGHE/"
-        },
-        {
-          "title": "'4G 무패' 부천FC1995, 다음은 K리그1 첫 연승이다...'첫 홈 승리 제물' 포항과 재격돌[오!쎈 프리뷰]",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260821143529992"
-        }
-      ]
-    },
-    {
-      "id": "제주-대-김천상무",
+      "id": "수사",
       "rank": 6,
-      "keyword": "제주 대 김천상무",
+      "keyword": "수사",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '제주SK 내일 김천 상대 리그 9경기 연속 무패 도전' (한라일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[단독] “김건희 특검팀에 아는 동생 있어”…수사정보 빼돌린 경찰' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "제주SK 내일 김천 상대 리그 9경기 연속 무패 도전",
-          "source": "한라일보",
-          "url": "https://m.ihalla.com/article.php?aid=1787287774789534051&page=1"
+          "title": "[단독] “김건희 특검팀에 아는 동생 있어”…수사정보 빼돌린 경찰",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/KUbIBDUZCY"
         },
         {
-          "title": "5개월 만에 다시 터진 최병욱, 제주SK FC 공격에 새로운 옵션 제공",
-          "source": "뉴스N제주",
-          "url": "https://newsnjeju.com/news/articleView.html?idxno=296963"
+          "title": "[단독] 2차 특검, 윤희근·원희룡·박성재 경찰에 줄이첩",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/08/21/Z7MAECK6HRB3DEGYBNYWVZJFZ4/"
         },
         {
-          "title": "[K리그1 프리뷰] '8G 무패' 제주와 '5G 무패' 김천 격돌!…부천은 첫 연승 도전, 광주 선봉장 아이데일은 인천 상대",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260820n14442?issue_sq=10989"
-        }
-      ]
-    },
-    {
-      "id": "창원시",
-      "rank": 7,
-      "keyword": "창원시",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''제14회 창원시장배 경남오픈 탁구대회' 스타트…생활체육 활성화' (뉴스핌) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'제14회 창원시장배 경남오픈 탁구대회' 스타트…생활체육 활성화",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260822000084"
-        },
-        {
-          "title": "제14회 창원특례시장배 경남오픈 탁구대회 성황리에 개최 > 뉴스",
-          "source": "더코리아",
-          "url": ""
-        },
-        {
-          "title": "경남오픈 탁구대회 개막…1,200여 명 동호인 참가",
-          "source": "https://www.newfilenews.com/",
-          "url": "https://www.newfilenews.com/news/articleView.html?idxno=50755"
+          "title": "종합특검, '양평고속도 의혹' 원희룡 경찰 이첩 가닥",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260821003100038"
         }
       ]
     },
     {
       "id": "안우진",
-      "rank": 8,
+      "rank": 7,
       "keyword": "안우진",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[사진]'6회까지 1실점' 좋은 피칭 펼친 KIA 선발 애덤 올러 - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '[사진]KIA 조상우, '무사 1, 2루 위기' - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[사진]'6회까지 1실점' 좋은 피칭 펼친 KIA 선발 애덤 올러 - 조선비즈",
+          "title": "[사진]KIA 조상우, '무사 1, 2루 위기' - 조선비즈",
           "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/08/22/MFSGGMJXMMZDEMLDMFSTQYZTGQ/"
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/08/22/MYYTGYTFGQ4TMYZQG5SWKYLBGA/"
         },
         {
-          "title": "[사진]주먹 불끈 쥔 KIA 선발 올러, '6회까지 1실점' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/22/202608221956772052O"
+          "title": "[사진]서건창, '7회 천금 같은 적시타'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/08/22/GY2TGZJWGJSWKN3FGIZGGNRUMI/"
         },
         {
           "title": "[AI프리뷰] 22일 고척 키움-KIA전, 키움 에이스 안우진 팀 5연패 끊을까",
@@ -230,12 +202,12 @@
     },
     {
       "id": "xsmn",
-      "rank": 9,
+      "rank": 8,
       "keyword": "xsmn",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 'Xổ số miền Nam ngày 22 tháng 8: Một người trúng nguyên cây 2,4 tỉ đài H…' (Báo Thanh Niên) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -245,14 +217,42 @@
           "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-22-thang-8-mot-nguoi-trung-nguyen-cay-24-ti-dai-hau-giang-185260821132954776.htm"
         },
         {
+          "title": "XSMB 22/8 - Kết quả xổ số miền Bắc hôm nay ngày 22/8/2026",
+          "source": "CafeF",
+          "url": "https://cafef.vn/xsmb-22-8-ket-qua-xo-so-mien-bac-hom-nay-ngay-22-8-2026-18826082217591653.chn"
+        },
+        {
           "title": "XSHCM 22/8 - Kết quả xổ số TP.HCM hôm nay ngày 22/8/2026",
           "source": "Báo điện tử VTC News",
           "url": "https://vtcnews.vn/xshcm-22-8-ket-qua-xo-so-tp-hcm-hom-nay-ngay-22-8-2026-ar1035748.html"
+        }
+      ]
+    },
+    {
+      "id": "상장지수-펀드",
+      "rank": 9,
+      "keyword": "상장지수 펀드",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '반도체 반등에 서학개미도 움직였다…삼전·닉스 ETF 1185억 순매수' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "반도체 반등에 서학개미도 움직였다…삼전·닉스 ETF 1185억 순매수",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822110750615"
         },
         {
-          "title": "XSMT 22/8/2026 - Kết quả xổ số miền Trung hôm nay 22/8/2026",
-          "source": "Thể Thao 247",
-          "url": "https://thethao247.vn/493-xsmt-22-8-2026-ket-qua-xo-so-mien-trung-hom-nay-22-8-2026-c123-d433274.html"
+          "title": "“AI 빚 내가 보증설께”…엔비디아 통큰 약속에 서학개미 DRAM에 1천억 베팅",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12133760"
+        },
+        {
+          "title": "단일레버리지 '2차 풍선효과' 없었다…서학개미 '3배 베팅' 꺾여 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/08/22/2026082114362656024"
         }
       ]
     },
@@ -261,9 +261,9 @@
       "rank": 10,
       "keyword": "lck 2026",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 'DK in incredible form, defeats Gen.G 2-1' (Inven Global) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
