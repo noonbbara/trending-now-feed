@@ -1,258 +1,270 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-22T23:50:34.517Z",
+  "updatedAt": "2026-08-23T01:51:32.691Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "왕-즈이",
+      "id": "연차",
       "rank": 1,
-      "keyword": "왕 즈이",
-      "volumeLabel": "5000+",
+      "keyword": "연차",
+      "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '안세영에 또 졌는데 中 뜻밖의 반응 \"왕즈이 잘못 없다, 비난도 안 돼\"... \"뭘 해도 안세영 승리\" 결국 세계선수권 결승행' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"연차를 왜 써요?\"…휴가 몰빵하던 직장인들 돌변한 이유 [신용현의 트래블랩]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "안세영에 또 졌는데 中 뜻밖의 반응 \"왕즈이 잘못 없다, 비난도 안 돼\"... \"뭘 해도 안세영 승리\" 결국 세계선수권 결승행",
+          "title": "\"연차를 왜 써요?\"…휴가 몰빵하던 직장인들 돌변한 이유 [신용현의 트래블랩]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608215122g"
+        },
+        {
+          "title": "\"베트남이 아니었네\"…평균 여행경비 133만원, 추석 여행 1위는 '일본'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260823040438801"
+          "url": "https://v.daum.net/v/WL2bgtJ6gU"
         },
         {
-          "title": "배드민턴 안세영, 세계선수권 결승 진출‥왕즈이에 2-0 완승",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6846604_36946.html"
-        },
-        {
-          "title": "'셔틀콕 여제' 안세영, 세계 3위 왕즈이 잡고 세계선수권 결승 진출",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260822_0003758618"
+          "title": "“한국인들 ‘일본·베트남 사랑’ 여전하네”…올 추석엔 ‘짧고 싸게’ 떠난다",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20082159"
         }
       ]
     },
     {
-      "id": "espanyol-vs-real-madrid-standings",
+      "id": "남편",
       "rank": 2,
-      "keyword": "espanyol vs real madrid standings",
+      "keyword": "남편",
       "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김밥지옥 부부, 잠시 쉬는 아내에 \"왜 쉬어?\"..\"100명 중 1명 해당\" ('결혼 지옥')' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김밥지옥 부부, 잠시 쉬는 아내에 \"왜 쉬어?\"..\"100명 중 1명 해당\" ('결혼 지옥')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823083353661"
+        },
+        {
+          "title": "'결혼 지옥' 아내 \"남편, 사이코패스인가 싶어\" 눈물",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/515589"
+        },
+        {
+          "title": "오은영, “고구마 100개 먹은 것 같다”…‘결혼 지옥’ 김밥지옥 부부 만난다",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16170654"
+        }
+      ]
+    },
+    {
+      "id": "경상남도",
+      "rank": 3,
+      "keyword": "경상남도",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '진주시, '경남생활체육대축전 추진단 2차 보고회' 개최' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "진주시, '경남생활체육대축전 추진단 2차 보고회' 개최",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260823n04823?mid=n0100"
+        },
+        {
+          "title": "경상남도 체육회, 시 군 체육회장 간담회 열어",
+          "source": "양산신문",
+          "url": "https://www.yangsanilbo.com/news/articleView.html?idxno=126740"
+        },
+        {
+          "title": "진주시, '경상남도 생활체육 대축전' 준비상황 2차 보고회 개최",
+          "source": "진주뉴스",
+          "url": "https://www.jinjutv.com/news/articleView.html?idxno=232274"
+        }
+      ]
+    },
+    {
+      "id": "롯데-자이언츠",
+      "rank": 4,
+      "keyword": "롯데 자이언츠",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '롯데의 자랑 '국대 좌완', 슬럼프 탈출 기미 보인다…김태형 감독 \"김진욱은 확 무너지지 않아\" [잠실 현장]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "롯데의 자랑 '국대 좌완', 슬럼프 탈출 기미 보인다…김태형 감독 \"김진욱은 확 무너지지 않아\" [잠실 현장]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823050202901"
+        },
+        {
+          "title": "프로야구 롯데, 고승민 홈런 2방 앞세워 두산 완파…5연승",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260821181200007"
+        },
+        {
+          "title": "‘인생 첫 시구’ 엔믹스 규진, 투구판 밟고 힘차게[O! SPORTS 숏폼]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/08/22/MU3DGNTCMFSDOMLBGM3GGMBQMU/"
+        }
+      ]
+    },
+    {
+      "id": "bangladesh-vs-australia",
+      "rank": 5,
+      "keyword": "bangladesh vs australia",
+      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Espanyol vs Real Madrid: Spanish La Liga stats & head-to-head' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Australia vs Bangladesh: Tigers out for 64 as 18 wickets fall on first …' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Espanyol vs Real Madrid: Spanish La Liga stats & head-to-head",
+          "title": "Australia vs Bangladesh: Tigers out for 64 as 18 wickets fall on first day in Mackay",
           "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cmwyjzndv4xnt"
+          "url": "https://www.bbc.com/sport/cricket/articles/ckgdg2995g7o"
         },
         {
-          "title": "Bellingham opens the Mourinho era: a royal start from gold",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en-in/news/bellingham-opens-the-mourinho-era-a-royal-start-from-gold/bltaadaad61638c69b3"
+          "title": "Ball by Ball Commentary & Live Score - AUS vs BAN, 2nd Test",
+          "source": "Cricinfo",
+          "url": "https://www.espncricinfo.com/series/bangladesh-in-australia-2026-1527258/australia-vs-bangladesh-2nd-test-1527274/ball-by-ball-commentary"
         },
         {
-          "title": "Preview: Espanyol vs Real Madrid - prediction, team news, lineups",
-          "source": "Sports Mole",
-          "url": "https://www.sportsmole.co.uk/football/real-madrid/race-for-the-la-liga-title/preview/espanyol-vs-real-madrid-prediction-team-news-lineups_603369.html"
+          "title": "15 minute madness as Aussies lose the plot",
+          "source": "The Daily Telegraph",
+          "url": "https://www.dailytelegraph.com.au/sport/cricket/mitchell-starc-madness-as-records-broken-in-mackay-mauling/news-story/4ffe6aa34e7bd8e4620ff313c2235c62"
         }
       ]
     },
     {
-      "id": "집중호우",
-      "rank": 3,
-      "keyword": "집중호우",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '집중호우 피해 엿새째…주말에도 복구 총력' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "집중호우 피해 엿새째…주말에도 복구 총력",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260822211641551"
-        },
-        {
-          "title": "주말 맞은 거제·통영 수해 현장…자원봉사자 1천400여명 구슬땀",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260822030400052"
-        },
-        {
-          "title": "“대출부터 카드값까지 미뤄준다”...4대 금융, 수해지역 ‘전방위 지원’",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20260822022235141"
-        }
-      ]
-    },
-    {
-      "id": "여수시",
-      "rank": 4,
-      "keyword": "여수시",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '여수 화력발전소서 화재…진화까지 장시간 예상' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "여수 화력발전소서 화재…진화까지 장시간 예상",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608221845001"
-        },
-        {
-          "title": "여수산단 한국남동발전 자연발화 추정 화재…석탄 공급 지장 없어",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260822220600117"
-        },
-        {
-          "title": "전남 여수 화력발전소 화재‥완진까지 장시간 예상",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6846560_36918.html"
-        }
-      ]
-    },
-    {
-      "id": "인공지능",
-      "rank": 5,
-      "keyword": "인공지능",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '\"AI학습 위해 책 사재기하고 파괴\"…미국 시민단체, 반독점조사 촉구' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"AI학습 위해 책 사재기하고 파괴\"…미국 시민단체, 반독점조사 촉구",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260822135100101"
-        },
-        {
-          "title": "AI의 새 위협 ‘가짜 독서’…“질문하는 문해력 필요한 시대”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/culture/book/1274124.html"
-        },
-        {
-          "title": "美 시민단체 \"AI 기업 책 사재기·원본 폐기는 불공정 행위\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/08/22/O6S2CL2TIJHENGGTU7NGSA3M4A/"
-        }
-      ]
-    },
-    {
-      "id": "국가유공자",
+      "id": "inter-miami-vs-toronto",
       "rank": 6,
-      "keyword": "국가유공자",
+      "keyword": "inter miami vs toronto",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+3",
-      "summary": "급상승 시점에 '국가유공자 선순위 유족 등, 위탁병원 이용 연령 65세로 하향' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'MLS preview: Revived Toronto FC meets tough challenge in Messi' (Sportsnet.ca) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "국가유공자 선순위 유족 등, 위탁병원 이용 연령 65세로 하향",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970437"
+          "title": "MLS preview: Revived Toronto FC meets tough challenge in Messi",
+          "source": "Sportsnet.ca",
+          "url": "https://www.sportsnet.ca/mls/article/mls-preview-revived-toronto-fc-meet-tough-challenge-in-messi/"
         },
         {
-          "title": "방미숙 경기도의원, 국가보훈대상자 고독사 예방 및 지원 조례 개정안 추진",
-          "source": "서울Pn",
-          "url": "https://go.seoul.co.kr/news/newsView.php?id=20260821500306"
+          "title": "MATCH PREVIEW: Inter Miami CF Hosts Toronto FC on Saturday",
+          "source": "Inter Miami CF",
+          "url": "https://www.intermiamicf.com/news/match-preview-inter-miami-cf-hosts-toronto-fc-on-saturday"
         },
         {
-          "title": "[패트롤]송기헌 국회의원-조성호 도의원-원주시의회-북부지방산림청-한국도로교통공단",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20260821025564847"
+          "title": "Soccer Picks: Messi, Inter Miami Stand in the Way of Toronto FC’s Playoff Aspirations",
+          "source": "Betway Insider",
+          "url": "https://blog.betway.com/ca/soccer/soccer-picks-messi-inter-miami-stand-in-the-way-of-toronto-fcs-playoff-aspirations/"
         }
       ]
     },
     {
-      "id": "김영옥",
+      "id": "그랜드-테프트-오토-vi",
       "rank": 7,
-      "keyword": "김영옥",
+      "keyword": "그랜드 테프트 오토 vi",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '‘송이 보내주는 손녀’ 윤아, 김영옥 ‘1등 손녀’다운 센스 만점 선물' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"연장 복무하면 GTA6 출시 때 특별휴가\"…美육군, '이색 인센티브'' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘송이 보내주는 손녀’ 윤아, 김영옥 ‘1등 손녀’다운 센스 만점 선물",
+          "title": "\"연장 복무하면 GTA6 출시 때 특별휴가\"…美육군, '이색 인센티브'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260821_0003756975"
+        },
+        {
+          "title": "게임하려고 말뚝박기? 미군, “재입대하면 GTA6 휴가 4일 준다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/PrW9d7NdzJ?f=p"
+          "url": "https://v.daum.net/v/20260821105707354"
         },
         {
-          "title": "임윤아, 김영옥 앞 소녀시대 20주년에 입 열었다 “컴백 해야죠” [SD톡톡]",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260820/134512172/1"
-        },
-        {
-          "title": "윤아, 소녀시대 20주년 언급…MC·투표로 이어진 존재감",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16170168"
-        }
-      ]
-    },
-    {
-      "id": "킬리안-음바페",
-      "rank": 8,
-      "keyword": "킬리안 음바페",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '레알 마드리드 '교수님' 소신 발언 \"발롱도르 1위 메시·음바페 아니다\"…LEE 전 동료 전폭 지지' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "레알 마드리드 '교수님' 소신 발언 \"발롱도르 1위 메시·음바페 아니다\"…LEE 전 동료 전폭 지지",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260822210550418"
-        },
-        {
-          "title": "'61골 7도움·월드컵 3위' 케인이 아니라?…토니 크로스 \"'챔스 연속 우승'크바라츠헬리아가 발롱도르 유력 후보\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260822n00312"
-        },
-        {
-          "title": "레알의 어려운 숙제…음바페·비니시우스·벨링엄, 무리뉴는 어떻게 쓸까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260822150127756"
-        }
-      ]
-    },
-    {
-      "id": "모병제",
-      "rank": 9,
-      "keyword": "모병제",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '軍부사관도 못 구하는데… ‘선택적 모병제’의 딜레마' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "軍부사관도 못 구하는데… ‘선택적 모병제’의 딜레마",
+          "title": "미 육군 \"복무 연장 서약하면 GTA 게임 이용권, 특별 외출 주겠다\"",
           "source": "조선일보",
-          "url": "https://www.chosun.com/national/2026/08/23/C3F52632TRDCDDOFQH3UM3IMAA/"
+          "url": "https://www.chosun.com/international/international_general/2026/08/20/FSHMGSFFLRF7LPFCHGQWPKMCB4/"
+        }
+      ]
+    },
+    {
+      "id": "lg에너지솔루션",
+      "rank": 8,
+      "keyword": "lg에너지솔루션",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'LG에너지솔루션, 美 랜싱 공장 본격 가동…북미 ESS 생산망 5곳 구축' (동아비즈니스리뷰 | DBR) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "LG에너지솔루션, 美 랜싱 공장 본격 가동…북미 ESS 생산망 5곳 구축",
+          "source": "동아비즈니스리뷰 | DBR",
+          "url": "https://dbr.donga.com/kfocus/view/article_no/3424"
         },
         {
-          "title": "한국 여성 54.5% “여자도 군대 가야”…그럼 병력절벽 해소될까?",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/politics/diplomacy/2026/08/20/20260820500224"
+          "title": "미국은 원자재 블랙홀로 변했다… K-배터리 공급망 '비상등'",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/08/2026082220575735012bd56fbc3c_1"
         },
         {
-          "title": "안규백, 병역의혹에 \"탈영했다면 제가 한기호 의원 아들\"(종합)",
+          "title": "‘1조 규모’ ESS 3차 입찰 임박… 배터리 3사 ‘새 먹거리’ 격돌",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168595"
+        }
+      ]
+    },
+    {
+      "id": "klasemen-espanyol-vs-real-madrid",
+      "rank": 9,
+      "keyword": "klasemen espanyol vs real madrid",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "전북-현대-모터스-fc",
+      "rank": 10,
+      "keyword": "전북 현대 모터스 fc",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘즈베즈다 입단 눈앞’ 유럽 꿈 이룬 김예건 “설영우 선수에게 물어보니 적응 힘들거라고…하지만 자신감 중요하다” [현장인터뷰]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘즈베즈다 입단 눈앞’ 유럽 꿈 이룬 김예건 “설영우 선수에게 물어보니 적응 힘들거라고…하지만 자신감 중요하다” [현장인터뷰]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823000437138"
+        },
+        {
+          "title": "즈베즈다 이적하는 전북 '영건' 김예건 \"자신 있게 도전하겠다\"",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260820090851504"
+          "url": "https://www.yna.co.kr/view/AKR20260822044900007"
+        },
+        {
+          "title": "최고유망주 쿨하게 유럽 보내준 정정용 감독 \"김예건 아쉽지만 한국축구 위해 가는 것이 맞다\" [현장인터뷰]",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/football/2026/08/22/GU2TCYTBMFRWCOBVMQYTGZLDHE/"
         }
       ]
     }
