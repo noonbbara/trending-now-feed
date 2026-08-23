@@ -1,17 +1,45 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-23T01:51:32.691Z",
+  "updatedAt": "2026-08-23T03:10:28.763Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "연차",
+      "id": "엘에이-fc-대-포틀랜드-팀버스",
       "rank": 1,
-      "keyword": "연차",
-      "volumeLabel": "1000+",
+      "keyword": "엘에이 fc 대 포틀랜드 팀버스",
+      "volumeLabel": "50000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''4경기 연속골 이후 5경기 침묵' 손흥민, 포틀랜드전서 득점 도전' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'4경기 연속골 이후 5경기 침묵' 손흥민, 포틀랜드전서 득점 도전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823060213889"
+        },
+        {
+          "title": "LAFC 손흥민 선발 명단 복귀…포틀랜드전 최전방 스트라이커로 출격",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260823/134524630/1"
+        },
+        {
+          "title": "'5경기째 침묵' 손흥민, 선발 복귀…포틀랜드 상대 득점포 조준",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/overseas-soccer/6266607"
+        }
+      ]
+    },
+    {
+      "id": "연차",
+      "rank": 2,
+      "keyword": "연차",
+      "volumeLabel": "2000+",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '\"연차를 왜 써요?\"…휴가 몰빵하던 직장인들 돌변한 이유 [신용현의 트래블랩]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -34,113 +62,85 @@
     },
     {
       "id": "남편",
-      "rank": 2,
+      "rank": 3,
       "keyword": "남편",
-      "volumeLabel": "1000+",
+      "volumeLabel": "2000+",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '\"몸 불편한 사회복무요원 담굴 셈이냐\"…현직 기관사, 박위 KTX 논란에 \"위선\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"몸 불편한 사회복무요원 담굴 셈이냐\"…현직 기관사, 박위 KTX 논란에 \"위선\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823112147597"
+        },
+        {
+          "title": "유튜버 박위, KTX 낙상사고 CCTV 공개 논란 ...사과 뒤 영상 삭제",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0106_202608221543153115"
+        },
+        {
+          "title": "김동완, 박위 'CCTV 논란'에 \"그도 장애가 처음인 사람\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260822_0003758609"
+        }
+      ]
+    },
+    {
+      "id": "홍현희",
+      "rank": 4,
+      "keyword": "홍현희",
+      "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김밥지옥 부부, 잠시 쉬는 아내에 \"왜 쉬어?\"..\"100명 중 1명 해당\" ('결혼 지옥')' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '홍현희, 11kg 감량 후 확 달라진 비주얼..♥︎제이쓴과 코스프레 데이트' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김밥지옥 부부, 잠시 쉬는 아내에 \"왜 쉬어?\"..\"100명 중 1명 해당\" ('결혼 지옥')",
+          "title": "홍현희, 11kg 감량 후 확 달라진 비주얼..♥︎제이쓴과 코스프레 데이트",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260823083353661"
+          "url": "https://v.daum.net/v/YAjAmMTsCe"
         },
         {
-          "title": "'결혼 지옥' 아내 \"남편, 사이코패스인가 싶어\" 눈물",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/515589"
+          "title": "‘16kg 감량’ 홍현희, “입터질 때 먹는 ‘비상 간식’ 있다”… 뭐야?",
+          "source": "헬스조선",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/08/21/2026082101525.html"
         },
         {
-          "title": "오은영, “고구마 100개 먹은 것 같다”…‘결혼 지옥’ 김밥지옥 부부 만난다",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16170654"
+          "title": "홍현희, 남편 제이쓴과 데이트 근황 공개…11㎏ 감량 후 날렵한 턱선",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260822_0003758471"
         }
       ]
     },
     {
-      "id": "경상남도",
-      "rank": 3,
-      "keyword": "경상남도",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '진주시, '경남생활체육대축전 추진단 2차 보고회' 개최' (네이트) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "진주시, '경남생활체육대축전 추진단 2차 보고회' 개최",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260823n04823?mid=n0100"
-        },
-        {
-          "title": "경상남도 체육회, 시 군 체육회장 간담회 열어",
-          "source": "양산신문",
-          "url": "https://www.yangsanilbo.com/news/articleView.html?idxno=126740"
-        },
-        {
-          "title": "진주시, '경상남도 생활체육 대축전' 준비상황 2차 보고회 개최",
-          "source": "진주뉴스",
-          "url": "https://www.jinjutv.com/news/articleView.html?idxno=232274"
-        }
-      ]
-    },
-    {
-      "id": "롯데-자이언츠",
-      "rank": 4,
-      "keyword": "롯데 자이언츠",
+      "id": "중국",
+      "rank": 5,
+      "keyword": "중국",
       "volumeLabel": "500+",
       "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '롯데의 자랑 '국대 좌완', 슬럼프 탈출 기미 보인다…김태형 감독 \"김진욱은 확 무너지지 않아\" [잠실 현장]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''매우 강' 태풍 사우델, 오키나와로 북상…다음주 한반도 날씨 변수' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "롯데의 자랑 '국대 좌완', 슬럼프 탈출 기미 보인다…김태형 감독 \"김진욱은 확 무너지지 않아\" [잠실 현장]",
+          "title": "'매우 강' 태풍 사우델, 오키나와로 북상…다음주 한반도 날씨 변수",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260823050202901"
+          "url": "https://v.daum.net/v/20260823073155038"
         },
         {
-          "title": "프로야구 롯데, 고승민 홈런 2방 앞세워 두산 완파…5연승",
+          "title": "19호 이어 20호 태풍 '개나리' 발생...한반도 영향 없을 듯",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0108_202608221417330001"
+        },
+        {
+          "title": "폭염 속 태풍 북상…'사우델' 어디로 향하나?",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260821181200007"
-        },
-        {
-          "title": "‘인생 첫 시구’ 엔믹스 규진, 투구판 밟고 힘차게[O! SPORTS 숏폼]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/08/22/MU3DGNTCMFSDOMLBGM3GGMBQMU/"
-        }
-      ]
-    },
-    {
-      "id": "bangladesh-vs-australia",
-      "rank": 5,
-      "keyword": "bangladesh vs australia",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Australia vs Bangladesh: Tigers out for 64 as 18 wickets fall on first …' (BBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Australia vs Bangladesh: Tigers out for 64 as 18 wickets fall on first day in Mackay",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/cricket/articles/ckgdg2995g7o"
-        },
-        {
-          "title": "Ball by Ball Commentary & Live Score - AUS vs BAN, 2nd Test",
-          "source": "Cricinfo",
-          "url": "https://www.espncricinfo.com/series/bangladesh-in-australia-2026-1527258/australia-vs-bangladesh-2nd-test-1527274/ball-by-ball-commentary"
-        },
-        {
-          "title": "15 minute madness as Aussies lose the plot",
-          "source": "The Daily Telegraph",
-          "url": "https://www.dailytelegraph.com.au/sport/cricket/mitchell-starc-madness-as-records-broken-in-mackay-mauling/news-story/4ffe6aa34e7bd8e4620ff313c2235c62"
+          "url": "https://www.yna.co.kr/view/MYH20260821013900038"
         }
       ]
     },
@@ -148,22 +148,22 @@
       "id": "inter-miami-vs-toronto",
       "rank": 6,
       "keyword": "inter miami vs toronto",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'MLS preview: Revived Toronto FC meets tough challenge in Messi' (Sportsnet.ca) 관련 뉴스가 함께 포착됐어요.",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 'Licensable picture: MLS: Toronto FC at Inter Miami CF' (Reuters Connect) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "MLS preview: Revived Toronto FC meets tough challenge in Messi",
-          "source": "Sportsnet.ca",
-          "url": "https://www.sportsnet.ca/mls/article/mls-preview-revived-toronto-fc-meet-tough-challenge-in-messi/"
+          "title": "Licensable picture: MLS: Toronto FC at Inter Miami CF",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/mls-toronto-fc-at-inter-miami-cf/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk2NDYyMjk"
         },
         {
-          "title": "MATCH PREVIEW: Inter Miami CF Hosts Toronto FC on Saturday",
-          "source": "Inter Miami CF",
-          "url": "https://www.intermiamicf.com/news/match-preview-inter-miami-cf-hosts-toronto-fc-on-saturday"
+          "title": "Inter Miami’s winless streak hits 5 games after 2-1 loss to Toronto",
+          "source": "WPLG Local 10",
+          "url": "https://www.local10.com/sports/local/2026/08/22/inter-miamis-winless-streak-hits-5-games-after-2-1-loss-to-toronto/"
         },
         {
           "title": "Soccer Picks: Messi, Inter Miami Stand in the Way of Toronto FC’s Playoff Aspirations",
@@ -173,13 +173,69 @@
       ]
     },
     {
-      "id": "그랜드-테프트-오토-vi",
+      "id": "폭염-경보",
       "rank": 7,
-      "keyword": "그랜드 테프트 오토 vi",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "keyword": "폭염 경보",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 '대구시 중부에 폭염경보' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "대구시 중부에 폭염경보",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260823018400527"
+        },
+        {
+          "title": "'처서' 무색한 찜통더위…대구·경북 폭염경보 확대",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/daegu-gyeongbuk/6266602"
+        },
+        {
+          "title": "경북 ‘폭염·열대야·오존’ 삼중특보…칠곡·고령 내일 폭염경보",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822181950566"
+        }
+      ]
+    },
+    {
+      "id": "bangladesh-vs-australia",
+      "rank": 8,
+      "keyword": "bangladesh vs australia",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-3",
+      "summary": "급상승 시점에 'Ball by Ball Commentary & Live Score - AUS vs BAN, 2nd Test' (Cricinfo) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Ball by Ball Commentary & Live Score - AUS vs BAN, 2nd Test",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/bangladesh-in-australia-2026-1527258/australia-vs-bangladesh-2nd-test-1527274/ball-by-ball-commentary"
+        },
+        {
+          "title": "Australia vs Bangladesh: Tigers out for 64 as 18 wickets fall on first day in Mackay",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/cricket/articles/ckgdg2995g7o"
+        },
+        {
+          "title": "Australia v Bangladesh: second men’s Test, day one – as it happened",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/sport/live/2026/aug/22/aus-vs-ban-second-mens-test-day-one-live"
+        }
+      ]
+    },
+    {
+      "id": "그랜드-테프트-오토-vi",
+      "rank": 9,
+      "keyword": "그랜드 테프트 오토 vi",
+      "volumeLabel": "200+",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '\"연장 복무하면 GTA6 출시 때 특별휴가\"…美육군, '이색 인센티브'' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -201,70 +257,30 @@
       ]
     },
     {
-      "id": "lg에너지솔루션",
-      "rank": 8,
-      "keyword": "lg에너지솔루션",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'LG에너지솔루션, 美 랜싱 공장 본격 가동…북미 ESS 생산망 5곳 구축' (동아비즈니스리뷰 | DBR) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "LG에너지솔루션, 美 랜싱 공장 본격 가동…북미 ESS 생산망 5곳 구축",
-          "source": "동아비즈니스리뷰 | DBR",
-          "url": "https://dbr.donga.com/kfocus/view/article_no/3424"
-        },
-        {
-          "title": "미국은 원자재 블랙홀로 변했다… K-배터리 공급망 '비상등'",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/08/2026082220575735012bd56fbc3c_1"
-        },
-        {
-          "title": "‘1조 규모’ ESS 3차 입찰 임박… 배터리 3사 ‘새 먹거리’ 격돌",
-          "source": "IT조선",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168595"
-        }
-      ]
-    },
-    {
-      "id": "klasemen-espanyol-vs-real-madrid",
-      "rank": 9,
-      "keyword": "klasemen espanyol vs real madrid",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "전북-현대-모터스-fc",
+      "id": "두산베어스",
       "rank": 10,
-      "keyword": "전북 현대 모터스 fc",
+      "keyword": "두산베어스",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘즈베즈다 입단 눈앞’ 유럽 꿈 이룬 김예건 “설영우 선수에게 물어보니 적응 힘들거라고…하지만 자신감 중요하다” [현장인터뷰]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''깜짝 놀랐다' 한화 대만 특급 감기 몸살인 줄 알았는데, 폐렴 진단→병원 입원…김경문도 \"몸이 안 좋다, 이번 기회에 조절을\"…' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘즈베즈다 입단 눈앞’ 유럽 꿈 이룬 김예건 “설영우 선수에게 물어보니 적응 힘들거라고…하지만 자신감 중요하다” [현장인터뷰]",
+          "title": "'깜짝 놀랐다' 한화 대만 특급 감기 몸살인 줄 알았는데, 폐렴 진단→병원 입원…김경문도 \"몸이 안 좋다, 이번 기회에 조절을\" 걱정",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260823000437138"
+          "url": "https://v.daum.net/v/20260823044244859"
         },
         {
-          "title": "즈베즈다 이적하는 전북 '영건' 김예건 \"자신 있게 도전하겠다\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260822044900007"
+          "title": "두산 좌완 불펜 이병헌, 발목 부종으로 1군 말소",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260822_0003758526"
         },
         {
-          "title": "최고유망주 쿨하게 유럽 보내준 정정용 감독 \"김예건 아쉽지만 한국축구 위해 가는 것이 맞다\" [현장인터뷰]",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/football/2026/08/22/GU2TCYTBMFRWCOBVMQYTGZLDHE/"
+          "title": "\"4-5위 하려고 야구하는 거 아니다\" 구단주 일침→에이스가 다쳤다! 벤자민 언제 돌아오나 \"AG 전에 꼭 복귀했으면\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/08/23/GM2GKZJVGYYDQOJUGZQTSOLFMU/"
         }
       ]
     }
