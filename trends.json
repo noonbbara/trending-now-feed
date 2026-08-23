@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-23T21:28:19.598Z",
+  "updatedAt": "2026-08-23T21:51:15.251Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,26 +9,26 @@
       "rank": 1,
       "keyword": "대한민국의 대법관",
       "volumeLabel": "5000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '여야, ‘서면 제청’ 연일 충돌…“희대의 대법원장” “독재자에 짓밟혀”' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '대법관 제청 합의 안되자 후보군 다시 뽑으려 했나…조희대 코트의 추천위 무력화 시도 비판' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "대법관 제청 합의 안되자 후보군 다시 뽑으려 했나…조희대 코트의 추천위 무력화 시도 비판",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824060709094"
+        },
+        {
+          "title": "여 \"정치 플레이어 조희대\"…야 \"사법부 재판재개를\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260824051648yag"
+        },
         {
           "title": "여야, ‘서면 제청’ 연일 충돌…“희대의 대법원장” “독재자에 짓밟혀”",
           "source": "KBS 뉴스",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8643690"
-        },
-        {
-          "title": "여 \"정치 플레이어 조희대\"…야 \"사법부 재판재개를\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824051814211"
-        },
-        {
-          "title": "대법관 14→26명으로…전문가들 “인선 제도, 더 투명해야”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1274233.html"
         }
       ]
     },
@@ -37,9 +37,9 @@
       "rank": 2,
       "keyword": "주주",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '[뉴욕증시-주간전망] '베선트 풋'에 곤란해진 워시…엔비디아 실적·PCE 지표도' (연합인포맥스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -61,72 +61,105 @@
       ]
     },
     {
-      "id": "장도연",
+      "id": "베트남-축구-국가대표팀",
       "rank": 3,
-      "keyword": "장도연",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '고영욱, 이번엔 애먼 장도연 공격 \"웃기지도 않은데…\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "베트남 축구 국가대표팀",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"이운재 전성기 때보다 더 잘한다\" 김상식도 감탄, 혼혈 골키퍼 베트남축구 '새 영웅'으로' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "고영욱, 이번엔 애먼 장도연 공격 \"웃기지도 않은데…\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260823_0003759078"
-        },
-        {
-          "title": "\"경박, 웃기지도 않아\" 고영욱, 이번엔 장도연 저격 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/24/2026082405032767563"
-        },
-        {
-          "title": "고영욱, 장동민 콕 집어 소환…\"유세윤·유상무·데프콘은 연락 왔는데 너만\" [엑's 이슈]",
+          "title": "\"이운재 전성기 때보다 더 잘한다\" 김상식도 감탄, 혼혈 골키퍼 베트남축구 '새 영웅'으로",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260823233947516"
+          "url": "https://v.daum.net/v/7zaP97AiWr"
+        },
+        {
+          "title": "'김상식호' 베트남 축구 대표팀, 아세안 현대컵 결승 1차전 완승",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6846620_36946.html"
+        },
+        {
+          "title": "김상식의 베트남, 2회 연속 우승 보인다",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8643733"
         }
       ]
     },
     {
-      "id": "elche-vs-barcelona",
+      "id": "주차",
       "rank": 4,
-      "keyword": "elche vs barcelona",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "keyword": "주차",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Elche - Barcelona en directo | Adeyemi marca el segundo justo antes del…' (EL PAÍS) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '견인한다더니...요트 알박기 10년째 '다람쥐 챗바퀴'' (경인방송 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Elche - Barcelona en directo | Adeyemi marca el segundo justo antes del descanso",
-          "source": "EL PAÍS",
-          "url": "https://elpais.com/deportes/futbol/2026-08-23/elche-barcelona-en-directo-el-partido-de-la-liga-en-vivo.html"
+          "title": "견인한다더니...요트 알박기 10년째 '다람쥐 챗바퀴'",
+          "source": "경인방송 뉴스",
+          "url": "https://news.ifm.kr/news/articleView.html?idxno=477596"
         },
         {
-          "title": "Flick sorprende a todos en el pitido inicial: anuncia el once oficial para el duelo ante el Elche",
-          "source": "Yahoo",
-          "url": "https://es-us.noticias.yahoo.com/deportes/flick-sorprende-pitido-inicial-anuncia-163509330.html"
+          "title": "[현장취재] 주차장은 비었는데 도로는 불법주차…인스파이어 공연 때마다 반복되는 ‘주차 무질서’",
+          "source": "영종뉴스",
+          "url": "https://www.yeongjong.co.kr/news/articleView.html?idxno=20832"
         },
         {
-          "title": "🚨 ¿TE LO ESTÁS PERDIENDO? ¿NO TIENES SKY? 🚨 Aquí puedes seguir EN VIVO y GRATIS el Elche vs Barcelona en LaLiga HOY 🏆",
-          "source": "Facebook",
-          "url": "https://www.facebook.com/MilenioDiario/posts/-te-lo-est%C3%A1s-perdiendo-no-tienes-sky-aqu%C3%AD-puedes-seguir-en-vivo-y-gratis-el-elch/1583199720504160/"
+          "title": "미추홀구 주안동 극심한 주차난…공영주차장 조성은 ‘하세월’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818174436552"
+        }
+      ]
+    },
+    {
+      "id": "서울특별시",
+      "rank": 5,
+      "keyword": "서울특별시",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '서울시, 모아타운 '쾌속통합' 추진…2031년까지 4만호 착공' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "서울시, 모아타운 '쾌속통합' 추진…2031년까지 4만호 착공",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260822029100004"
+        },
+        {
+          "title": "5년 내 4만호 ‘첫 삽’… 서울 모아주택 속도",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824060340017"
+        },
+        {
+          "title": "모아주택 착공 속도 낸다··· 서울시, ‘모아통합기획’ 발표",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608231133001"
         }
       ]
     },
     {
       "id": "교사",
-      "rank": 5,
+      "rank": 6,
       "keyword": "교사",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '무극중, 고(故) 김종필 교사의 학생 사랑... 유가족의 뜻깊은 기탁으로 이어져 : 네이버 블로그' (Naver Blog) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '정년 석 달 앞두고 세상 떠난 교사…유족 1천600만원 기탁' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "정년 석 달 앞두고 세상 떠난 교사…유족 1천600만원 기탁",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260823020200064"
+        },
         {
           "title": "무극중, 고(故) 김종필 교사의 학생 사랑... 유가족의 뜻깊은 기탁으로 이어져 : 네이버 블로그",
           "source": "Naver Blog",
@@ -136,151 +169,118 @@
           "title": "\"세상 떠난 뒤에도 제자 향한 마지막 마음\"",
           "source": "Daum",
           "url": "https://v.daum.net/v/pdglM6hDrr"
-        },
-        {
-          "title": "정년 석 달 앞두고 세상 떠난 교사…유족 1천600만원 기탁",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260823020200064"
         }
       ]
     },
     {
-      "id": "psg",
-      "rank": 6,
-      "keyword": "psg",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Au lendemain de l'inversion du match et quelques heures après l'ouvertu…' (L'Équipe) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Au lendemain de l'inversion du match et quelques heures après l'ouverture de la billetterie, Rennes-PSG déjà à guichets fermés",
-          "source": "L'Équipe",
-          "url": "https://www.lequipe.fr/Football/Actualites/Au-lendemain-de-l-inversion-du-match-et-quelques-heures-apres-l-ouverture-de-la-billetterie-rennes-psg-deja-a-guichets-fermes/1712347"
-        },
-        {
-          "title": "L1 : le classement complet",
-          "source": "Maxifoot",
-          "url": "https://www.maxifoot.fr/ligue-1/le-classement-complet-foot-462405.htm"
-        },
-        {
-          "title": "Rennes-PSG (2-2) : les notes des joueurs parisiens avec Torres étincelant et Doué hyperactif",
-          "source": "Le Parisien",
-          "url": "https://www.leparisien.fr/sports/football/psg/rennes-psg-2-2-les-notes-des-joueurs-parisiens-avec-ferran-torres-etincelant-et-doue-hyperactif-23-08-2026-KNWPCB23HFDZBADKCW5RF7XLVI.php"
-        }
-      ]
-    },
-    {
-      "id": "김수현",
+      "id": "보이콧",
       "rank": 7,
-      "keyword": "김수현",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김수현, 1년 만에 첫 공식석상…인도네시아서 환한 미소' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김수현, 1년 만에 첫 공식석상…인도네시아서 환한 미소",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/3VJOhsb0F9"
-        },
-        {
-          "title": "김수현, 해외 팬들 앞 밝은 미소… 활동 중단 후 첫 공식 석상 포착",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026082314510005263"
-        },
-        {
-          "title": "김수현, 사생활 논란 딛고 \"활짝\"...근황 포착 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/23/2026082313494736918"
-        }
-      ]
-    },
-    {
-      "id": "은가은",
-      "rank": 8,
-      "keyword": "은가은",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"스케줄 없으면 죽을 것 같다\"…한때 무명 비관한 박현호 \"지금은 열심히 살아\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"스케줄 없으면 죽을 것 같다\"…한때 무명 비관한 박현호 \"지금은 열심히 살아\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/1KpkYLZvDs"
-        },
-        {
-          "title": "'은가은♥' 박현호 \"무명 시절, 창문에서 뛰어내리려 해…母가 붙잡아줘\" (살림남) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/08/23/GM3TMZDDGE2DIOBSGJSTENJRMI/"
-        },
-        {
-          "title": "'살림남' 박현호 \"아이돌 포기 후 창문에서 뛰어내리려…母가 붙잡아\"",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/515625"
-        }
-      ]
-    },
-    {
-      "id": "토리노-대-밀란",
-      "rank": 9,
-      "keyword": "토리노 대 밀란",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-5",
-      "summary": "급상승 시점에 ''슈퍼 원더골' 역시 디펜딩 챔피언의 품격! 인테르, 4골 몰아치며 개막전 대승' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'슈퍼 원더골' 역시 디펜딩 챔피언의 품격! 인테르, 4골 몰아치며 개막전 대승",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260823044149853?f=p"
-        },
-        {
-          "title": "프로시노네 vs 유벤투스 예측: 치열한 우승 경쟁의 중심",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-frosinone-vs-juventus-diem-nong-cuoc-dua-top-dau"
-        },
-        {
-          "title": "세리에 A 토리노 대 AC 밀란 축구 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-torino-vs-ac-milan-tai-serie-a-1755062.ldo"
-        }
-      ]
-    },
-    {
-      "id": "수출",
-      "rank": 10,
-      "keyword": "수출",
+      "keyword": "보이콧",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '대EU 철강 수출 41%↓…쿼터 감축 영향' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''테니스 여제' 윌리엄스, 알카라스와 함께 US오픈 혼합복식 출격' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "대EU 철강 수출 41%↓…쿼터 감축 영향",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824051931216"
-        },
-        {
-          "title": "대EU 철강 수출 41%↓…쿼터 감축 영향",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH202608240518061xK"
-        },
-        {
-          "title": "한국 7월 EU 철강 수출 41%↓…신철강조치 영향 일부 반영",
+          "title": "'테니스 여제' 윌리엄스, 알카라스와 함께 US오픈 혼합복식 출격",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260821179800003"
+          "url": "https://www.yna.co.kr/view/AKR20260823023000007"
+        },
+        {
+          "title": "메이저 단식만 합쳐 30승… US오픈에 ‘막강 듀오’ 뜬다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/08/24/BHNQ5LKTWZGSNAGVX3SNLJKBLI/"
+        },
+        {
+          "title": "부상 턴 알카라스, 4개월 만에 코트 복귀",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000005382&code=12160000"
+        }
+      ]
+    },
+    {
+      "id": "rennes-vs-psg",
+      "rank": 8,
+      "keyword": "rennes vs psg",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'LIVE: Stade Rennes vs. PSG in Ligue 1 on beIN SPORTS' (beIN SPORTS) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "LIVE: Stade Rennes vs. PSG in Ligue 1 on beIN SPORTS",
+          "source": "beIN SPORTS",
+          "url": "https://www.beinsports.com/en-us/soccer/ligue-1/articles/live-stade-rennes-vs-psg-in-ligue-1-on-bein-sports-2026-08-23"
+        },
+        {
+          "title": "Ligue 1 - Stade Rennes v Paris St Germain",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/ligue-1-stade-rennes-v-paris-st-germain/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNOE4xTE1YSDY"
+        },
+        {
+          "title": "Rennes-PSG 2-2, Ferran Torres saves Luis Enrique: comeback led by the man from the World Cup final",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/en/lists/rennes-psg-2-2-ferran-torres-saves-luis-enrique-comeback-sealed-by-the-man-from-the-world-cup-final/bltbbe1567a12ea8eea"
+        }
+      ]
+    },
+    {
+      "id": "mc몽",
+      "rank": 9,
+      "keyword": "mc몽",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''차가원과 분쟁' MC몽, 5년 만에 신곡 발표한다' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'차가원과 분쟁' MC몽, 5년 만에 신곡 발표한다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260823_0003759074"
+        },
+        {
+          "title": "MC몽, 이번엔 신곡 발표 예고…콘서트 성공에 재기 노리나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823175953081"
+        },
+        {
+          "title": "\"사랑받는 연예인이었다면\"…MC몽, 29일 부산 콘서트서 신곡 발표[스타이슈]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260823n11837"
+        }
+      ]
+    },
+    {
+      "id": "구청장",
+      "rank": 10,
+      "keyword": "구청장",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '지지율 떨어지자… 與, 부동산 증세 핵심 내용들 수정 요구' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "지지율 떨어지자… 與, 부동산 증세 핵심 내용들 수정 요구",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/assembly/2026/08/24/HSHA23NL2ZDQPEMJIL663KVV6U/"
+        },
+        {
+          "title": "\"1주택자는 종부세 거주·비거주 구분 없도록\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6846741_37012.html"
+        },
+        {
+          "title": "[영상구성] “여기서 여기 오는 게”… 자리 옮긴 김민석, 부동산부터 ‘보완’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824051243162"
         }
       ]
     }
