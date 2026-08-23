@@ -1,101 +1,129 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-23T13:37:56.207Z",
+  "updatedAt": "2026-08-23T14:30:25.930Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "골프",
+      "id": "김밥",
       "rank": 1,
-      "keyword": "골프",
-      "volumeLabel": "5000+",
+      "keyword": "김밥",
+      "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[특별기고] 홍석주 대한파크골프협회장께 묻는다, ‘파크볼’ 누구와 논의했나?' (지이코노미) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"김밥 안 팔아요, 포기합니다\"…성수동 분식집에 무슨 일이' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[특별기고] 홍석주 대한파크골프협회장께 묻는다, ‘파크볼’ 누구와 논의했나?",
-          "source": "지이코노미",
-          "url": "https://www.geconomy.co.kr/mobile/article.html?no=323005"
+          "title": "\"김밥 안 팔아요, 포기합니다\"…성수동 분식집에 무슨 일이",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026082370671"
         },
         {
-          "title": "[기고] 파크골프장 건설정책 이원화 필요- 윤봉현(파크골프장건설 전국대책위원회공동대표)",
+          "title": "“한 줄 4000원도 비싸다는데”…손가락 닳도록 말아도 문 닫는 ‘동네 김밥집’ [일상톡톡 플러스]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260823191655399"
+          "url": "https://v.daum.net/v/20260822050314435?f=p"
         },
         {
-          "title": "\"내 세금으로 파크골프장 또 짓는다고?\"…정부가 돌연 '칼' 빼든 이유 [권준영의 머니볼]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260822n01025"
+          "title": "“돈 없으면 라면에 김밥 한줄” 옛말…사장님도 손님도 ‘울상’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260822/134523202/1"
         }
       ]
     },
     {
-      "id": "서울e-대-파주",
+      "id": "맨시티",
       "rank": 2,
-      "keyword": "서울e 대 파주",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "keyword": "맨시티",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''슈팅 21개 맹공에도...' 서울이랜드, '류원우 선방쇼' 파주에 1-1 뼈아픈 무승부... 1위 수원과 '3점 차' [목동 …' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'BRITAIN SOCCER' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'슈팅 21개 맹공에도...' 서울이랜드, '류원우 선방쇼' 파주에 1-1 뼈아픈 무승부... 1위 수원과 '3점 차' [목동 현장리뷰] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/23/2026082319162974598"
+          "title": "BRITAIN SOCCER",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260823n15838?mid=n1101"
         },
         {
-          "title": "'커리어 통산 100승' 앞두고 있는 김도균 감독 \"그게 중요한게 아냐, 승격만 생각 중\"[현장 인터뷰]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/08/23/GQ3DEYLGMI4DAMTEGA4DKODCME/"
+          "title": "[기자회견] 마레스카 \"도쿠 결장, 누네스는 본머스전 출전 가능\"",
+          "source": "Manchester City FC",
+          "url": "https://kr.mancity.com/news/mens/enzo-maresca-bournemouth-premier-league-team-news-63922913"
         },
         {
-          "title": "ACL과 프로축구 K리그",
-          "source": "ZUM 뉴스",
-          "url": "https://m.news.zum.com/photo/58122204/107329822?cm=news_photolist&r=3&thumb=1"
+          "title": "[매치 프리뷰] 시티의 최근 본머스전 5경기 돌아보기",
+          "source": "Manchester City FC",
+          "url": "https://kr.mancity.com/news/mens/last-five-meetings-bournemouth-63922896"
         }
       ]
     },
     {
-      "id": "배추",
+      "id": "폐기물",
       "rank": 3,
-      "keyword": "배추",
+      "keyword": "폐기물",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '중국서 배추 신선도 유지하려 '발암물질' 사용…당국 수사' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '치매 어머니 4천만원, 폐기물로 버려져…2천만원만 돌아와' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "중국서 배추 신선도 유지하려 '발암물질' 사용…당국 수사",
+          "title": "치매 어머니 4천만원, 폐기물로 버려져…2천만원만 돌아와",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260823160038898"
+          "url": "https://v.daum.net/v/UDqT9N1y0d"
         },
         {
-          "title": "’시신 방부처리’ 약품에 절인 신선 배추?…中 당국 수사",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260823161137TcO"
+          "title": "사라진 ‘4천만원 돈뭉치’, 찾았다 싶었는데…어디에?",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/video/ND10767691"
         },
         {
-          "title": "중국산 배추, 유통과정에 1급 발암물질 ‘포름알데히드’",
+          "title": "대만 산업 폐기물 매립장 폭발에 15명 부상",
           "source": "채널A",
-          "url": "https://ichannela.com/news/detail/000000546574.do"
+          "url": "https://ichannela.com/news/detail/000000546577.do"
+        }
+      ]
+    },
+    {
+      "id": "신동엽",
+      "rank": 4,
+      "keyword": "신동엽",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[다시보기] 미운 우리 새끼 509회' (programs.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[다시보기] 미운 우리 새끼 509회",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/woori/vod/52018/22000634755"
+        },
+        {
+          "title": "신동엽, 구독자 213만 명 달하는 채널 삭제되나…'연예계 당구 왕' 상대로 내기 ('미우새')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823203107413"
+        },
+        {
+          "title": "'미우새' 신동엽, 이수근에 당구 이기려 AI 작전까지…시작부터 '폭풍 칭찬'",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6266874"
         }
       ]
     },
     {
       "id": "man-city-vs-bournemouth",
-      "rank": 4,
+      "rank": 5,
       "keyword": "man city vs bournemouth",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 'Premier League: Maresca goes defensive against Bournemouth, no Watkins …' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -105,53 +133,81 @@
           "url": "https://www.bbc.com/sport/football/live/cn59gyvzgzdt"
         },
         {
-          "title": "Manchester City vs Bournemouth: Premier League preview, team news, stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c6n4ney5dex4t"
+          "title": "Manchester City v Bournemouth: Premier League – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/aug/23/manchester-city-v-bournemouth-premier-league-live"
         },
         {
-          "title": "Preview: Manchester City vs Bournemouth - prediction, team news, lineups",
-          "source": "Sports Mole",
-          "url": "https://www.sportsmole.co.uk/football/man-city/preview/man-city-vs-bournemouth-prediction-team-news-lineups_603411.html"
+          "title": "Manchester City vs Bournemouth Confirmed Lineups",
+          "source": "WhoScored.com",
+          "url": "https://www.whoscored.com/news/z5S5Od44F0K9IR90TZ4jgw/show/20260823-manchester-city-vs-bournemouth-confirmed-lineup-1787486201"
         }
       ]
     },
     {
-      "id": "100일의-거짓말",
-      "rank": 5,
-      "keyword": "100일의 거짓말",
-      "volumeLabel": "500+",
+      "id": "부아디",
+      "rank": 6,
+      "keyword": "부아디",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '연예계 친일파 논란 속… ‘100일의 거짓말’ 촬영 전 독립운동가에 묵념 ‘호평’' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'HERE WE GO! 맨체스터 시티, '18세 모로코 초신성' 부아디 영입 완료 수순…총액 1620억 초대형 투자' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "연예계 친일파 논란 속… ‘100일의 거짓말’ 촬영 전 독립운동가에 묵념 ‘호평’",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608231742013"
+          "title": "HERE WE GO! 맨체스터 시티, '18세 모로코 초신성' 부아디 영입 완료 수순…총액 1620억 초대형 투자",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260823n14820?mid=s22&list=recent&cpcd="
         },
         {
-          "title": "tvN 역대급 대작 온다…시청률 27.6% 감독→일제 강점물로 돌아오는 新 주말극 ('100일의거짓말')",
+          "title": "월드컵 MVP는 바르샤로, 결승골 주인공은 PSG로",
+          "source": "부산일보",
+          "url": "https://mobile.busan.com/view/busan/view.php?code=2026081820292819125"
+        },
+        {
+          "title": "\"레알은 고민하기에 너무 큰 구단\" 무리뉴 감독, 바르샤 선택한 로드리 공개 저격",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260823180209149"
+          "url": "https://v.daum.net/v/20260819211357893"
+        }
+      ]
+    },
+    {
+      "id": "man-city-đấu-với-bournemouth",
+      "rank": 7,
+      "keyword": "man city đấu với bournemouth",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Trực tiếp bóng đá Man City - Bournemouth: Haaland lĩnh xướng hàng công …' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Trực tiếp bóng đá Man City - Bournemouth: Haaland lĩnh xướng hàng công (Ngoại hạng Anh)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-man-city-bournemouth-noi-lo-sau-cu-soc-sieu-cup-ngoai-hang-anh-c48a1788851.html"
         },
         {
-          "title": "김유정♥박진영 케미 터졌다, ‘100일의 거짓말’ 대본리딩 현장",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260821/134519498/1"
+          "title": "Link xem trực tiếp Man City vs Bournemouth tại Premier League",
+          "source": "Laodong.vn",
+          "url": "https://laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-man-city-vs-bournemouth-tai-premier-league-1755099.ldo"
+        },
+        {
+          "title": "Nhận định Manchester City vs Bournemouth: Điểm nóng cuộc đua tốp đầu",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/nhan-dinh-manchester-city-vs-bournemouth-diem-nong-cuoc-dua-top-dau"
         }
       ]
     },
     {
       "id": "홀란드",
-      "rank": 6,
+      "rank": 8,
       "keyword": "홀란드",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '홀란드가 시티에서 치른 지금까지의 기념비적인 경기들' (Manchester City FC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -173,114 +229,58 @@
       ]
     },
     {
-      "id": "황영조",
-      "rank": 7,
-      "keyword": "황영조",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[Y르포]“시민들은 친절하고, 밤에도 안전해”…주말 ‘대구’ 도심 누빈 마스터즈육상 세계인들' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[Y르포]“시민들은 친절하고, 밤에도 안전해”…주말 ‘대구’ 도심 누빈 마스터즈육상 세계인들",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260823201802261"
-        },
-        {
-          "title": "[포토뉴스]절정이 아니어도…넘는다, 나이의 한계를",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/20260823212400A/?cp"
-        },
-        {
-          "title": "'최선을 다해서'…대구세계마스터즈육상경기대회",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/IPT20260823000007365"
-        }
-      ]
-    },
-    {
-      "id": "삼성물산",
-      "rank": 8,
-      "keyword": "삼성물산",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '삼성 덕에 '특별배당' 돈벼락…주주들 함박웃음 짓는 회사 [종목+]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "삼성 덕에 '특별배당' 돈벼락…주주들 함박웃음 짓는 회사 [종목+]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026082139436"
-        },
-        {
-          "title": "\"주주환원 흐름 이어간다\" KCC, '삼성물산 배당금' 받아 재배당 왜?",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260822_0003758372"
-        },
-        {
-          "title": "하나증권 \"KCC, 특별배당금 신설…시가배당률 2.5∼4%p↑ 효과\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260821030900008"
-        }
-      ]
-    },
-    {
-      "id": "페덱",
+      "id": "홀란",
       "rank": 9,
-      "keyword": "페덱",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '삼성 페덱·NC 라일리 용호상박 8이닝 대결…승자는 페덱' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "삼성 페덱·NC 라일리 용호상박 8이닝 대결…승자는 페덱",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260823050500007"
-        },
-        {
-          "title": "[사진] 승리 기쁨 나누는 김재윤과 구자욱 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/08/23/MY4GCYZVGAYTIYTCG5RWKN3EGI/"
-        },
-        {
-          "title": "페덱 8이닝 7K 1실점 역투·박계범 역전포…삼성, 이틀 연속 NC 제압",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260823_0003759084"
-        }
-      ]
-    },
-    {
-      "id": "네덜란드-그랑프리",
-      "rank": 10,
-      "keyword": "네덜란드 그랑프리",
+      "keyword": "홀란",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '로랑 메키스, 잔드보르트 F1 스프린트 예선 참관' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '홀란·케인·살라흐... ‘수’를 읽었다, 골이 보였다' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "로랑 메키스, 잔드보르트 F1 스프린트 예선 참관",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3671625"
+          "title": "홀란·케인·살라흐... ‘수’를 읽었다, 골이 보였다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/08/22/WQHINLVOUVBWVNZ2Z3ZLVKSK3E/"
         },
         {
-          "title": "epaselect NETHERLANDS FORMULA ONE",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260822n07869?mid=n1101"
+          "title": "‘폭발’ 임박 체스, 피케·홀란까지 투자…스포츠 스타 자본이 체스판에 몰리는 이유",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608200721003"
         },
         {
-          "title": "랜도 노리스는 네덜란드 그랑프리에서 2년 연속 폴 포지션을 차지했습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/lando-norris-gianh-pole-thu-hai-lien-tiep-tai-dutch-grand-prix"
+          "title": "유럽·북중미카리브, 통합 네이션스리그 추진… FIFA에 도전장",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/08/23/5AZJKXKCR5ASRMWOF4A6PZ5J5I/"
+        }
+      ]
+    },
+    {
+      "id": "티웨이",
+      "rank": 10,
+      "keyword": "티웨이",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '티웨이항공 인천-로마 2주년…24만5000명 수송하며 안정적 수요' (스포츠서울) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "티웨이항공 인천-로마 2주년…24만5000명 수송하며 안정적 수요",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1630228"
+        },
+        {
+          "title": "티웨이항공, 인천-로마 노선 누적 탑승객 24만명 넘어",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168619"
+        },
+        {
+          "title": "티웨이항공, 인천-로마 2년간 24.5만명 수송… 화물 6900톤",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260821500155"
         }
       ]
     }
