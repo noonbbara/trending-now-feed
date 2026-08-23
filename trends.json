@@ -1,17 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-23T17:26:22.091Z",
+  "updatedAt": "2026-08-23T17:50:02.222Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
       "id": "100-일-의-거짓말",
       "rank": 1,
       "keyword": "100 일 의 거짓말",
-      "volumeLabel": "1000+",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 'tvN 역대급 대작 온다…시청률 27.6% 감독→일제 강점물로 돌아오는 新 주말극 ('100일의거짓말')' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,13 +33,41 @@
       ]
     },
     {
-      "id": "훌리안-알바레스",
+      "id": "newcastle-vs-liverpool",
       "rank": 2,
+      "keyword": "newcastle vs liverpool",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+4",
+      "summary": "급상승 시점에 'Newcastle 2-2 Liverpool: Szoboszlai penalty rescues draw after wins for…' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Newcastle 2-2 Liverpool: Szoboszlai penalty rescues draw after wins for Man City & Brighton",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cn59gyvzgzdt"
+        },
+        {
+          "title": "Newcastle vs Liverpool LIVE! Premier League score updates, news, prediction, lineups and how to watch or stream",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11661/13567642/newcastle-vs-liverpool-live-premier-league-score-updates-news-prediction-lineups-and-how-to-watch-or-stream"
+        },
+        {
+          "title": "Newcastle United 2-2 Liverpool: Premier League – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/aug/23/newcastle-united-v-liverpool-premier-league-live"
+        }
+      ]
+    },
+    {
+      "id": "훌리안-알바레스",
+      "rank": 3,
       "keyword": "훌리안 알바레스",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '[오피셜]'일단 이강인과 함께 한다, 여름 이적 접은 듯' 아틀레티코 시메오네 감독, 알바레즈 비야레알전 출전 예고..\"훌리안은…' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -61,13 +89,41 @@
       ]
     },
     {
+      "id": "น-วคาสเซ-ล-พบ-ล-เวอร-พ-ล",
+      "rank": 4,
+      "keyword": "น วคาสเซ ล พบ ล เวอร พ ล",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+6",
+      "summary": "급상승 시점에 'การทำนายผลการแข่งขันระหว่างนิวคาสเซิลกับลิเวอร์พูล: แมตช์ที่คาดเดาผลได้…' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "การทำนายผลการแข่งขันระหว่างนิวคาสเซิลกับลิเวอร์พูล: แมตช์ที่คาดเดาผลได้ยาก",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-newcastle-vs-liverpool-cuoc-doi-dau-bat-on"
+        },
+        {
+          "title": "หงส์เจ๊าระทึก!ได้จุดโทษทดเจ็บตีเสมอสาลิกาดง2-2",
+          "source": "แนวหน้า",
+          "url": "https://www.naewna.com/n/breaking/21211/"
+        },
+        {
+          "title": "LIVE ดูบอลสด นิวคาสเซิล พบ ลิเวอร์พูล บอลวันนี้ (23 ส.ค.) 22.30 น. พรีเมียร์ลีกอังกฤษ 2026-27",
+          "source": "Thairath.co.th",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2952546"
+        }
+      ]
+    },
+    {
       "id": "살라",
-      "rank": 3,
+      "rank": 5,
       "keyword": "살라",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 ''이럴 수가' 리버풀 떠난 파라오, '기회 창출 4회'에도 팬들 엇갈린 반응…\"그의 영입은 실수였다\"' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -89,41 +145,13 @@
       ]
     },
     {
-      "id": "로메로",
-      "rank": 4,
-      "keyword": "로메로",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '손흥민 동료에서 이강인 새 동료로 합류…'이미 아틀레티코 마드리드 수비진 리더'' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "손흥민 동료에서 이강인 새 동료로 합류…'이미 아틀레티코 마드리드 수비진 리더'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/9tYc3QhDsG?f=p"
-        },
-        {
-          "title": "\"강인아, 형 달라졌어\" 로메로, 토트넘 최악의 주장→아틀레티코 뉴 리더 '변신'...시메오네 \"아틀레티코의 모든 가치를 지닌 선수\" 극찬",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/08/21/GQ4TIMTEGRRTAMZUGA2GIZRSGQ/"
-        },
-        {
-          "title": "이강인·로드리… 새로운 도전 나선 월드컵 스타들",
-          "source": "한스경제",
-          "url": ""
-        }
-      ]
-    },
-    {
       "id": "마르무시",
-      "rank": 5,
+      "rank": 6,
       "keyword": "마르무시",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+4",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '손흥민 땐 그렇게 돈 아끼더니...토트넘, 역대급 이적시장 확정! '둘이 합쳐 2650억' 사비뉴+마르무시 동반 영입 근접' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -145,41 +173,13 @@
       ]
     },
     {
-      "id": "newcastle-vs-liverpool",
-      "rank": 6,
-      "keyword": "newcastle vs liverpool",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 'Newcastle United v Liverpool: Premier League – live' (The Guardian) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Newcastle United v Liverpool: Premier League – live",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/aug/23/newcastle-united-v-liverpool-premier-league-live"
-        },
-        {
-          "title": "Newcastle vs Liverpool Confirmed Lineups",
-          "source": "WhoScored.com",
-          "url": "https://www.whoscored.com/news/Id0CSAF6c0a9VN-08esY4w/show/20260823-newcastle-vs-liverpool-confirmed-lineup-1787495266"
-        },
-        {
-          "title": "Licensable picture: UK: Premier League: Newcastle Untied v Liverpool",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/uk-premier-league-newcastle-untied-v-liverpool/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBRUEZNQkw"
-        }
-      ]
-    },
-    {
       "id": "스포츠",
       "rank": 7,
       "keyword": "스포츠",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-3",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '기대해도 될까…태극마크 단 ‘카스트로프 형제’' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -205,9 +205,9 @@
       "rank": 8,
       "keyword": "중계",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-3",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '“49층·1000가구로 탈바꿈”…하계·중계·상계, 노원 재건축 ‘한꺼번에 뛴다’' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -233,9 +233,9 @@
       "rank": 9,
       "keyword": "티비",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-3",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 'IndyCar drivers to zoom through D.C. streets, with Trump set to take la…' (The Washington Post) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -257,30 +257,30 @@
       ]
     },
     {
-      "id": "น-วคาสเซ-ล-พบ-ล-เวอร-พ-ล",
+      "id": "로메로",
       "rank": 10,
-      "keyword": "น วคาสเซ ล พบ ล เวอร พ ล",
+      "keyword": "로메로",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'ปีเตอร์ เคราช์ เตือนว่านิวคาสเซิลมีความเสี่ยงที่จะตกเป็นเหยื่อของนโยบาย…' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-6",
+      "summary": "급상승 시점에 '손흥민 동료에서 이강인 새 동료로 합류…'이미 아틀레티코 마드리드 수비진 리더'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "ปีเตอร์ เคราช์ เตือนว่านิวคาสเซิลมีความเสี่ยงที่จะตกเป็นเหยื่อของนโยบายการขายผู้เล่นหลักของลิเวอร์พูล",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/peter-crouch-canh-bao-newcastle-de-guc-nga-truoc-liverpool-vi-chinh-sach-ban-mau-tru-cot"
+          "title": "손흥민 동료에서 이강인 새 동료로 합류…'이미 아틀레티코 마드리드 수비진 리더'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9tYc3QhDsG?f=p"
         },
         {
-          "title": "LIVE ดูบอลสด นิวคาสเซิล พบ ลิเวอร์พูล บอลวันนี้ (23 ส.ค.) 22.30 น. พรีเมียร์ลีกอังกฤษ 2026-27",
-          "source": "Thairath.co.th",
-          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2952546"
+          "title": "\"강인아, 형 달라졌어\" 로메로, 토트넘 최악의 주장→아틀레티코 뉴 리더 '변신'...시메오네 \"아틀레티코의 모든 가치를 지닌 선수\" 극찬",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/08/21/GQ4TIMTEGRRTAMZUGA2GIZRSGQ/"
         },
         {
-          "title": "ก่อนเสียงนกหวีด: ฟังจากปาก 'อันโดนี่'! เช็คความพร้อมลิเวอร์พูลก่อนดวลนิวคาสเซิล วิดีโอกีฬา",
-          "source": "Monomax",
-          "url": "https://www.monomax.me/sports/vod/7786"
+          "title": "이강인·로드리… 새로운 도전 나선 월드컵 스타들",
+          "source": "한스경제",
+          "url": ""
         }
       ]
     }
