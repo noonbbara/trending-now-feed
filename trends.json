@@ -1,34 +1,34 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-23T11:50:55.226Z",
+  "updatedAt": "2026-08-23T12:54:13.969Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "워터밤",
+      "id": "치매",
       "rank": 1,
-      "keyword": "워터밤",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '서인영, 작정하고 오른 워터밤…15kg 감량→무대서 결국 눈물' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "치매",
+      "volumeLabel": "10000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '청주시 “보훈대상자도 치매 의료비 지원”' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "서인영, 작정하고 오른 워터밤…15kg 감량→무대서 결국 눈물",
+          "title": "청주시 “보훈대상자도 치매 의료비 지원”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260823072149989"
+          "url": "https://v.daum.net/v/1s2PrJWISj"
         },
         {
-          "title": "'46kg' 서인영, 파격 워터밤 무대 뒤...눈물 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/23/2026082309301546286"
+          "title": "청주시 보건소, 보훈의료대상자도 치매 의료비 지원 시행",
+          "source": "내외뉴스통신",
+          "url": ""
         },
         {
-          "title": "서인영은 울었고, 남유정은 '롤린' 안 불렀다…첫 워터밤 이모저모 [핫피플]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/23/GNQTKOJSMRTDIMTBHEYWEOBZGI/"
+          "title": "포항시, 보훈의료대상자 치매 검사·치료비 지원 확대",
+          "source": "꽁지환경늬우스",
+          "url": ""
         }
       ]
     },
@@ -36,69 +36,46 @@
       "id": "미사일",
       "rank": 2,
       "keyword": "미사일",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '방공망 바닥난 우크라…마크롱, 요격 미사일 지원 약속' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "방공망 바닥난 우크라…마크롱, 요격 미사일 지원 약속",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/ZR2Ab3oM1n?f=p"
-        },
-        {
-          "title": "방공망 바닥난 우크라…마크롱 \"요격 미사일 제공\" 약속",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260823203503479"
-        },
-        {
-          "title": "마크롱 \"우크라 방공무기 지원…가능한 모든 국가 동참해야\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260822_0003758617"
-        }
-      ]
-    },
-    {
-      "id": "삼성전기",
-      "rank": 3,
-      "keyword": "삼성전기",
-      "volumeLabel": "2000+",
+      "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
       "change": "steady",
       "changeLabel": "유지",
-      "summary": "급상승 시점에 '10억 자산가가 220억원어치 담았다…삼성전기, 순매수 1위' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '北 미사일 ‘물량공세’에 요격용 공중 미사일 쌓는 한국…“전쟁나면 역부족”' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "10억 자산가가 220억원어치 담았다…삼성전기, 순매수 1위",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608236570i"
-        },
-        {
-          "title": "[속보] 카카오AI 대표에 정신아…카카오X 대표에 인베스트먼트 대표",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1146042"
-        },
-        {
-          "title": "외국인, 이번 주 삼성전자 7000억 사고 삼성전기 9000억 팔아",
+          "title": "北 미사일 ‘물량공세’에 요격용 공중 미사일 쌓는 한국…“전쟁나면 역부족”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/fOXsMvfzSw?f=p"
+          "url": "https://v.daum.net/v/20260823145309385"
+        },
+        {
+          "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260822023600011"
+        },
+        {
+          "title": "美 국무부, 한국에 AIM-9X 공대공미사일 103기 판매 잠정 승인 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/08/22/2026082211383491276"
         }
       ]
     },
     {
       "id": "지석진",
-      "rank": 4,
+      "rank": 3,
       "keyword": "지석진",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“저 석진이에요!” 김종국, 돌아가신 부모님 찾는 지석진에 눈물 (‘런닝맨’)' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '“아빠 아직 부족해요!” 지석진, 다트 이기기 위해 하늘에 다시 보낸 편지' (programs.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "“아빠 아직 부족해요!” 지석진, 다트 이기기 위해 하늘에 다시 보낸 편지",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/runningman/clip/52880/OC481186089"
+        },
         {
           "title": "“저 석진이에요!” 김종국, 돌아가신 부모님 찾는 지석진에 눈물 (‘런닝맨’)",
           "source": "매일경제",
@@ -108,179 +85,202 @@
           "title": "\"저 석진이에요!\" 김종국, 돌아가신 부모님 찾는 지석진에 눈물 ('런닝맨')",
           "source": "네이트",
           "url": "https://news.nate.com/view/20260823n13997"
-        },
-        {
-          "title": "60세 지석진, 부쩍 살 오른 이유 \"아내가…스릴러 드라마 생각나\" 고백 (런닝맨)",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260823n13059?mid=e0600"
         }
       ]
     },
     {
-      "id": "발데",
+      "id": "스마트폰",
+      "rank": 4,
+      "keyword": "스마트폰",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"애플엔 폴더블폰 없잖아\"… 갤럭시 Z8 손에 쥔 동남아MZ들' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"애플엔 폴더블폰 없잖아\"… 갤럭시 Z8 손에 쥔 동남아MZ들",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823182508582"
+        },
+        {
+          "title": "\"갤럭시로 갈아탈래\" 여권폰 불티나게 팔리더니…'역대급'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026082371071"
+        },
+        {
+          "title": "아이폰도 이제 별거 없네…갤럭시 신제품 폭격에 스마트폰 지각 '흔들'",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260822n05864"
+        }
+      ]
+    },
+    {
+      "id": "코로나",
       "rank": 5,
-      "keyword": "발데",
-      "volumeLabel": "500+",
+      "keyword": "코로나",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '맨유, '바이아웃만 1조 6천억' 바르셀로나 성골 LB 노린다!...칸셀루 합류에 입지 흔들 \"플릭도 경기력에 의문\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“중국서 또 코로나 확산 중”…한국도 재유행 우려 커지나 [잇슈#태그]' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "맨유, '바이아웃만 1조 6천억' 바르셀로나 성골 LB 노린다!...칸셀루 합류에 입지 흔들 \"플릭도 경기력에 의문\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/qSK5qzjJnE?f=p"
+          "title": "“중국서 또 코로나 확산 중”…한국도 재유행 우려 커지나 [잇슈#태그]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8643649"
         },
         {
-          "title": "\"맨체스터 유나이티드, 이번 주 영입 조건 문의\" 발데, 맨유 이적설에도 직접 이적 요청은 없다…플릭 감독도 직접 입 열었다 \"시장 끝까지 기다려야\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260823n08740"
+          "title": "다시 팬데믹 오나?...중국 코로나 양성률 20% 돌파 [자막뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0134_202608231832125599"
         },
         {
-          "title": "\"올드 트래퍼드 이적 열려 있어\" 맨유 초대박! 마침내 왼쪽 풀백 보강하나…'04년생 英 국가대표 LB' 영입 정조준",
-          "source": "스포탈코리아",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553476719"
+          "title": "中 코로나 한달 새 52만 명…국내 검출률도 3배 증가",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/bio/welfare-medical/6266769"
         }
       ]
     },
     {
-      "id": "앞머리",
+      "id": "수능원서접수",
       "rank": 6,
-      "keyword": "앞머리",
+      "keyword": "수능원서접수",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"이렇게 예뻤나?\"…고아성, 소멸할 듯한 소두에 꽉 찬 이목구비 '감탄'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '재수생 \"작년 수능사진 써도되나\" 여권사진규격, 수능원서 접수기간 총정리' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"이렇게 예뻤나?\"…고아성, 소멸할 듯한 소두에 꽉 찬 이목구비 '감탄'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820220308539"
+          "title": "재수생 \"작년 수능사진 써도되나\" 여권사진규격, 수능원서 접수기간 총정리",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3671791"
         },
         {
-          "title": "'34세' 여배우, 앞머리 어디까지 올라가나…나이 잊은 동안 미모",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260821n00942"
+          "title": "경남교육청 2027학년도 대학수학능력시험 원서 접수",
+          "source": "부산일보",
+          "url": "https://mobile.busan.com/view/election/view.php?code=2026081912020976768"
         },
         {
-          "title": "고아성, 메이크업 현장 셀카 공개…‘예토’ 향한 기대감 높였다",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16168570"
+          "title": "[교육소식]충북교육청, 24일부터 수능 응시 원서 접수 등",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260819_0003753889"
         }
       ]
     },
     {
-      "id": "프로야구",
+      "id": "중간-선거",
       "rank": 7,
-      "keyword": "프로야구",
-      "volumeLabel": "200+",
+      "keyword": "중간 선거",
+      "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'KIA 김도영, 시즌 38호 홈런…최연소 40홈런까지 '-2'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '트럼프 \"공화당 지면 탄핵당해\"…민주당은 ‘부패 의혹’ 정조준' (JTBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "KIA 김도영, 시즌 38호 홈런…최연소 40홈런까지 '-2'",
+          "title": "트럼프 \"공화당 지면 탄핵당해\"…민주당은 ‘부패 의혹’ 정조준",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12314564"
+        },
+        {
+          "title": "美민주, 선거 후 트럼프 겨냥 대규모 조사 준비…뉴 에어포스원 첫 타깃",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260823145651472"
+          "url": "https://v.daum.net/v/zb6xUMSrGx"
         },
         {
-          "title": "[포토뉴스]김도영 시즌 38호…벌써 ‘본인 최다’ 타이",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/20260823202300A/?cp"
-        },
-        {
-          "title": "[포토] 질주하는 박재현, 2타점 3루타",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/08/23/MVSWINZTME3WMNBWMI4TEZJZG4/"
-        }
-      ]
-    },
-    {
-      "id": "아시아투데이",
-      "rank": 8,
-      "keyword": "아시아투데이",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '[속보] 민주당 “종부세, 1주택자는 거주·비거주 구분 않도록 강하게 요청”···부동산 세제 ‘속도조절’' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[속보] 민주당 “종부세, 1주택자는 거주·비거주 구분 않도록 강하게 요청”···부동산 세제 ‘속도조절’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608231441001"
-        },
-        {
-          "title": "김민석 \"비거주 1주택 세제 재검토\"‥당정, 실거주 인정 확대 공감",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846698_37004.html"
-        },
-        {
-          "title": "[속보]당정 “서울시 500세대 이하, 구청장에 재개발 권한 준다”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11611285"
-        }
-      ]
-    },
-    {
-      "id": "우주선",
-      "rank": 9,
-      "keyword": "우주선",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '美 상업 우주발사·재진입, 2030년까지 연 1천회로 대폭 늘린다' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "美 상업 우주발사·재진입, 2030년까지 연 1천회로 대폭 늘린다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/bWO8iUgRte"
-        },
-        {
-          "title": "‘2030년엔 우주선 1000회 발사’…트럼프, 우주 수송 각서에 서명",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20082028"
-        },
-        {
-          "title": "트럼프, 우주 발사 ‘연 1000회’ 드라이브…민간 우주산업 키운다",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03135686645549616"
+          "title": "그레이엄 의원 유세 참석한 트럼프 대통령",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260822_0002218536"
         }
       ]
     },
     {
       "id": "나-혼자-산다",
-      "rank": 10,
+      "rank": 8,
       "keyword": "나 혼자 산다",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘나혼산’, 시청률 한달간 지지부진하더니…전현무 즉흥여행에 시청률 상승[Oh!쎈 이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+2",
+      "summary": "급상승 시점에 ''49살' 전현무, 화려한 싱글의 후련함 \"짧은 인생, 배낭을 매세요\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘나혼산’, 시청률 한달간 지지부진하더니…전현무 즉흥여행에 시청률 상승[Oh!쎈 이슈]",
+          "title": "'49살' 전현무, 화려한 싱글의 후련함 \"짧은 인생, 배낭을 매세요\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/b1e0Tg1yT0"
+          "url": "https://v.daum.net/v/20260823055212653"
         },
         {
-          "title": "'49살' 전현무, 화려한 싱글의 후련함 \"짧은 인생, 배낭을 매세요\" - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/23/MRSTKMDBGY3WCMDGGE4WMZDCGQ/"
+          "title": "전현무 \"일 없으면 수입 0원\"…일 중독 생존불안 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/22/2026082203364168741"
         },
         {
-          "title": "전현무, 도파민 폭발 카자흐스탄 1박 여행 ‘金 예능 1위’ (나혼산)",
+          "title": "‘나혼산’, 시청률 한달간 지지부진하더니…전현무 즉흥여행에 시청률 상승[Oh!쎈 이슈]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/22/MJSGCZJTGU4DEMBRMU4GINZTMI/"
+        }
+      ]
+    },
+    {
+      "id": "카라스코",
+      "rank": 9,
+      "keyword": "카라스코",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''4-16 패→11-15 패→하루 休' LG 라인업, 송찬의 4번-문보경 5번→이주헌 포수…카라스코 2승 도전 [MD대전]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'4-16 패→11-15 패→하루 休' LG 라인업, 송찬의 4번-문보경 5번→이주헌 포수…카라스코 2승 도전 [MD대전]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823173251501"
+        },
+        {
+          "title": "오지환-박동원 라인업 제외되다...'타율 5할 반등' 문보경 5번-문정빈 6번, LG 라인업 공개 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/23/202608231659777523O"
+        },
+        {
+          "title": "허망한 역전패 그 후… 일단 하루 쉬었다, 카라스코가 나선다",
           "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608220941003"
+          "url": "https://sports.khan.co.kr/article/202608231829003"
+        }
+      ]
+    },
+    {
+      "id": "bwf",
+      "rank": 10,
+      "keyword": "bwf",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Canada's Victor Lai earns bronze at badminton world championships for 2…' (CBC) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Canada's Victor Lai earns bronze at badminton world championships for 2nd straight year",
+          "source": "CBC",
+          "url": "https://www.cbc.ca/sports/olympics/summer/badminton/victor-lai-bronze-badminton-world-championships-9.7317070"
+        },
+        {
+          "title": "WORLD CHAMPIONS! THOM GICQUEL AND DELPHINE DELRUE CREATES FRENCH HISTORY",
+          "source": "Badminton Europe",
+          "url": "https://badmintoneurope.com/w/world-champions-thom-gicquel-and-delphine-delrue-creates-french-history"
+        },
+        {
+          "title": "Youth wins the day as Lanier and Naraoka set up a new-look BWF World Championships final",
+          "source": "Sportstar",
+          "url": "https://sportstar.thehindu.com/badminton/world-championships-final-alex-lanier-kodai-naraoka-first-title-records/article71380228.ece"
         }
       ]
     }
