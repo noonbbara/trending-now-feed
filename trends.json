@@ -1,258 +1,276 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-23T09:34:59.244Z",
+  "updatedAt": "2026-08-23T10:31:11.021Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "반도체",
+      "id": "부모",
       "rank": 1,
-      "keyword": "반도체",
+      "keyword": "부모",
       "volumeLabel": "5000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김용범 청와대 정책실장, 광주 반도체 부지 찾는다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“부모님 다툼 말리다 칼로 찔렀다” 10대 외국인 자수···아버지 숨지고 어머니 중상' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김용범 청와대 정책실장, 광주 반도체 부지 찾는다",
+          "title": "“부모님 다툼 말리다 칼로 찔렀다” 10대 외국인 자수···아버지 숨지고 어머니 중상",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608231009001"
+        },
+        {
+          "title": "천안 아파트서 10대 아들, 부모에 흉기…아버지 숨지고 어머니 중태",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260823133412737"
+          "url": "https://v.daum.net/v/20260823105036838"
         },
         {
-          "title": "'800조 반도체' 정부 지원은 얼마…첫 '마중물 국비' 시험대",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260823_0003758863"
-        },
-        {
-          "title": "‘전남광주통합특별시 SK하이닉스로 1번길’…삼전닉스 ‘명예도로명’ 지정 검토",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20082110"
+          "title": "천안서 존속살해 비극…아버지 숨지게 한 10대 체포",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260823580039"
         }
       ]
     },
     {
-      "id": "야구",
+      "id": "1박2일",
       "rank": 2,
-      "keyword": "야구",
+      "keyword": "1박2일",
       "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김재현, 이의리 상대 끝내기 만루포…키움, 이틀 연속 KIA 제압' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '거제시장 \"도움 필요한 곳 많아…복구 참여해달라\" 시민 호소문' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김재현, 이의리 상대 끝내기 만루포…키움, 이틀 연속 KIA 제압",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260823_0003758915"
+          "title": "거제시장 \"도움 필요한 곳 많아…복구 참여해달라\" 시민 호소문",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823163658616"
         },
         {
-          "title": "[사진]이의리, 쉽지 않아",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/08/23/MFSWINBRGZRDKZLEG44TGZLGGM/"
+          "title": "거제시, ‘주·정차 단속’ 유예…공영주차장 무료",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8643550"
         },
         {
-          "title": "이럴수가! 155km 몸쪽 직구가 넘어갔다… '끝내기 만루포' 이의리, 고척서 망연자실",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202608231756248919"
+          "title": "20만원 끝내 돌려받지 못했다…야박한 거제호텔, '거제야호' 뜨더니 폭우에 쑥대밭 [세상&]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260823n12045"
         }
       ]
     },
     {
-      "id": "키움",
+      "id": "김동현",
       "rank": 3,
-      "keyword": "키움",
+      "keyword": "김동현",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '5연패 끊은 키움 안우진 \"투수판 옮기니 슬라이더 돌아와\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '김동현, ‘넷째 임신’ ♥아내와 태교 여행 앞두고 걱정 “배가 땡땡하고 너무 많이 나와”(동현이넷)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "5연패 끊은 키움 안우진 \"투수판 옮기니 슬라이더 돌아와\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260822048300007"
-        },
-        {
-          "title": "[포토]'기아전 지휘하는' 설종진 감독 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/23/2026082314451485411"
-        },
-        {
-          "title": "이 선수가 KIA 울렸다…'생일에 공·수 맹활약' 서건창 \"여러모로 의미 있었네요\" [고척 인터뷰]",
+          "title": "김동현, ‘넷째 임신’ ♥아내와 태교 여행 앞두고 걱정 “배가 땡땡하고 너무 많이 나와”(동현이넷)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260823015708645?f=p"
+          "url": "https://v.daum.net/v/zU4GUmB3Sf"
+        },
+        {
+          "title": "김동현, '임신 30주' 아내와 비즈니스 타고 제주도行 \"배 땡땡해, 걱정\"(동현이넷)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260823n05771"
+        },
+        {
+          "title": "김동현 \"넷째라 아내 배 너무 나와\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260822_0003758613"
         }
       ]
     },
     {
-      "id": "오은영",
+      "id": "김재중",
       "rank": 4,
-      "keyword": "오은영",
+      "keyword": "김재중",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '운동 싫다는 오은영, 17㎏ 감량 성공…“허벅지 꼬집으며 과일 참았다”' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '김재중, 18년 만에 '뮤직뱅크' 무대 섰다' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "운동 싫다는 오은영, 17㎏ 감량 성공…“허벅지 꼬집으며 과일 참았다”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20260823/134524262/1"
+          "title": "김재중, 18년 만에 '뮤직뱅크' 무대 섰다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260822_0003758463"
         },
         {
-          "title": "오은영, 식습관 개선해 17kg 감량→뭘 끊었길래..\"운동은 싫어해\" ('버킷리스트')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821220551220"
+          "title": "김재중, 18년 만에 '뮤직뱅크'…\"팬들과 음악 이어온 시간이 만든 날\"",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1681080/%EA%B9%80%EC%9E%AC%EC%A4%91-18%EB%85%84-%EB%A7%8C%EC%97%90-%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC%ED%8C%AC%EB%93%A4%EA%B3%BC-%EC%9D%8C-2026"
         },
         {
-          "title": "오은영, 1년 7개월 만에 17kg 뺐다…포도 한 송이가 딱 두세 알로",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12133635"
+          "title": "역시 김재중, 1년 3개월만에 낸 신곡 ‘1위’",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1630150"
         }
       ]
     },
     {
-      "id": "증상",
+      "id": "손태영",
       "rank": 5,
-      "keyword": "증상",
-      "volumeLabel": "500+",
+      "keyword": "손태영",
+      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '공군 훈련병 집단 식중독 의심…79명 고열·설사 증상' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '권상우♥손태영, 美서 로맨틱한 생일…10세 딸 손편지 ‘뭉클’' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "공군 훈련병 집단 식중독 의심…79명 고열·설사 증상",
+          "title": "권상우♥손태영, 美서 로맨틱한 생일…10세 딸 손편지 ‘뭉클’",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260823172643382"
+          "url": "https://v.daum.net/v/20260823091409189"
         },
         {
-          "title": "공군 훈련병 집단 식중독 의심…70여명 복통·설사 증상 호소",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260823037600504"
+          "title": "권상우, '11만원짜리' 옷 사입는 ♥손태영..\"명품 안사서 예뻐\" 흐뭇",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/23/MFSGIZDBMU3TIMLDGZRTENBYGI/"
         },
         {
-          "title": "“배 아프고 설사까지”…공군 훈련병 70여명 식중독 의심 증세",
+          "title": "권상우♥손태영, 생일도 딱 14일 차이…10살 딸 “세상에서 제일 좋은 엄마”",
           "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12134212"
+          "url": "https://www.mk.co.kr/news/entertain/12133914"
         }
       ]
     },
     {
-      "id": "박근혜",
+      "id": "경향신문",
       "rank": 6,
-      "keyword": "박근혜",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "keyword": "경향신문",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '與 “연찬회에 박근혜 초청한 국힘, 국정농단 시대로 돌아가겠단 것인가”' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'EBS 새 이사장에 조호연 전 경향신문 편집국장' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "與 “연찬회에 박근혜 초청한 국힘, 국정농단 시대로 돌아가겠단 것인가”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260823/134524591/1"
-        },
-        {
-          "title": "민주당 “국힘 연찬회에 박근혜 초대? 국정농단 시대로 돌아갈 건가”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8643603"
-        },
-        {
-          "title": "홍준표 \"박근혜, 대통령 자질 없었다… 그래도 평화로운 노후 보내길\"",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026082009080003951"
-        }
-      ]
-    },
-    {
-      "id": "새만금",
-      "rank": 7,
-      "keyword": "새만금",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '새만금 기본계획 변경안 발표…‘공공주도·산업중심’' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "새만금 기본계획 변경안 발표…‘공공주도·산업중심’",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8641966"
-        },
-        {
-          "title": "[전북만평-정윤성] 35년 ‘새만금 희망고문’ 끝낼까?",
+          "title": "EBS 새 이사장에 조호연 전 경향신문 편집국장",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260823180520209"
+          "url": "https://v.daum.net/v/4LpChW6b1F"
         },
         {
-          "title": "새만금이 '확' 달라진다…AI·로봇·수소·재생에너지 등 미래 첨단산업 중심지로 부상",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260821000001"
+          "title": "EBS 신임 이사장에 조호연 전 경향신문 편집국장",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608202015005"
+        },
+        {
+          "title": "EBS 신임 이사장에 '민주당 추천' 조호연",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260820n12218"
         }
       ]
     },
     {
-      "id": "이강준",
+      "id": "신청사",
+      "rank": 7,
+      "keyword": "신청사",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '민경선 고양시장 \"신청사 2028년 상반기 착공\"…4년 만에 재가동' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "민경선 고양시장 \"신청사 2028년 상반기 착공\"…4년 만에 재가동",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823153238398"
+        },
+        {
+          "title": "길종성 고양시의원 “반도체 특성화고 설립하고 전동킥보드 관리 바꿔야”",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026082314162869976"
+        },
+        {
+          "title": "[패트롤] 고양시의회-부천시의회-의왕시의회-의정부시의회",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20260822023545335"
+        }
+      ]
+    },
+    {
+      "id": "허양임",
       "rank": 8,
-      "keyword": "이강준",
-      "volumeLabel": "200+",
+      "keyword": "허양임",
+      "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이호연 '대타로 나와 안타'[포토]' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘고지용 이혼’ 허양임, 훌쩍 자란 아들 근황 공개 “안녕하세요. 고승재입니다”' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이호연 '대타로 나와 안타'[포토]",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260823n10937"
+          "title": "‘고지용 이혼’ 허양임, 훌쩍 자란 아들 근황 공개 “안녕하세요. 고승재입니다”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608221658003"
         },
         {
-          "title": "김호령 '좌전안타'[포토]",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260823n10358"
+          "title": "이혼한 고지용 \"항상 보고 싶어\" 12살 아들과 다정한 셀카",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260819505844"
         },
         {
-          "title": "박재현 '밀어도 안타'",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260823n11006"
+          "title": "'고지용 이혼' 허양임, 4주만에 만난 아들..꼭 끌어 안았다 \"멋있어졌는데\" [스타이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Zij3FmB3vi"
         }
       ]
     },
     {
-      "id": "기아타이거즈",
+      "id": "lck-2026",
       "rank": 9,
-      "keyword": "기아타이거즈",
-      "volumeLabel": "200+",
+      "keyword": "lck 2026",
+      "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'KIA, KBO 최초 팀 통산 3만6천 탈삼진 금자탑' (남도일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'DK in incredible form, defeats Gen.G 2-1' (Inven Global) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "KIA, KBO 최초 팀 통산 3만6천 탈삼진 금자탑",
-          "source": "남도일보",
-          "url": "https://www.namdonews.com/news/articleView.html?idxno=920826"
+          "title": "DK in incredible form, defeats Gen.G 2-1",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/25021/dk-in-incredible-form-defeats-geng-2-1"
+        }
+      ]
+    },
+    {
+      "id": "원주시",
+      "rank": 10,
+      "keyword": "원주시",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '원주 쓰레기더미 애물단지, 근린공원 쉼터로 거듭났다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "원주 쓰레기더미 애물단지, 근린공원 쉼터로 거듭났다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822123111422"
         },
         {
-          "title": "양현종 77구에 교체한 KIA 이범호 감독 \"왠지 신경 쓰였다\"",
+          "title": "원주 단구근린공원 유휴부지 쉼터로 탈바꿈…24일 전면 개방",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=713231"
+        },
+        {
+          "title": "'쓰레기 투기 민원' 잦던 원주 단구동 유휴지, 주민 쉼터로 변신",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260822041900007"
-        },
-        {
-          "title": "[사진]김호령, 우리가 앞서간다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/23/202608231442778322O"
+          "url": "https://www.yna.co.kr/view/AKR20260821115800062"
         }
       ]
     }
