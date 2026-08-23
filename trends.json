@@ -1,160 +1,249 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-23T08:39:13.866Z",
+  "updatedAt": "2026-08-23T09:34:59.244Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "주식-분할",
+      "id": "반도체",
       "rank": 1,
-      "keyword": "주식 분할",
-      "volumeLabel": "2000+",
+      "keyword": "반도체",
+      "volumeLabel": "5000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '소수점 거래 있는데…'황제주' 액면분할 카드 꺼내는 이유' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '김용범 청와대 정책실장, 광주 반도체 부지 찾는다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "소수점 거래 있는데…'황제주' 액면분할 카드 꺼내는 이유",
+          "title": "김용범 청와대 정책실장, 광주 반도체 부지 찾는다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/9K8OMdyOck"
+          "url": "https://v.daum.net/v/20260823133412737"
         },
         {
-          "title": "“하이닉스 주식 너무 비싸” 삼성전자처럼 못 해?…250만→5만원 ‘액면분할’ 소환 [투자360]",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10848972"
+          "title": "'800조 반도체' 정부 지원은 얼마…첫 '마중물 국비' 시험대",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260823_0003758863"
         },
         {
-          "title": "삼성전자, 최대 주주환원 발표 이후 주가 '출렁'...정규장 전망은?",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202608221637447333"
+          "title": "‘전남광주통합특별시 SK하이닉스로 1번길’…삼전닉스 ‘명예도로명’ 지정 검토",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20082110"
         }
       ]
     },
     {
-      "id": "유강남",
+      "id": "야구",
       "rank": 2,
-      "keyword": "유강남",
+      "keyword": "야구",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '이제 2군서도 사라졌다...유강남과 롯데는 아름다운 이별을 할 수 있을까' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김재현, 이의리 상대 끝내기 만루포…키움, 이틀 연속 KIA 제압' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이제 2군서도 사라졌다...유강남과 롯데는 아름다운 이별을 할 수 있을까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260823111545427"
+          "title": "김재현, 이의리 상대 끝내기 만루포…키움, 이틀 연속 KIA 제압",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260823_0003758915"
         },
         {
-          "title": "[오피셜]유강남 또 2군행, 이러다 최초 '억대 연봉 삭감' 나오겠네...더 큰 문제는 미래가 안 보인다는 것",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260816091944867"
-        },
-        {
-          "title": "FA,트레이드로도 못 푼 숙제 '칭찬 인색' 김태형도 엄지 척, \"딱 하나만 해결하면 손색 없는 주전\"",
+          "title": "[사진]이의리, 쉽지 않아",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/08/22/MNQWIM3EMZSDKYLBMYZTSY3CGM/"
+          "url": "https://www.chosun.com/sports/sports_photo/2026/08/23/MFSWINBRGZRDKZLEG44TGZLGGM/"
+        },
+        {
+          "title": "이럴수가! 155km 몸쪽 직구가 넘어갔다… '끝내기 만루포' 이의리, 고척서 망연자실",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202608231756248919"
         }
       ]
     },
     {
-      "id": "노태우",
+      "id": "키움",
       "rank": 3,
-      "keyword": "노태우",
+      "keyword": "키움",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '5연패 끊은 키움 안우진 \"투수판 옮기니 슬라이더 돌아와\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "5연패 끊은 키움 안우진 \"투수판 옮기니 슬라이더 돌아와\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260822048300007"
+        },
+        {
+          "title": "[포토]'기아전 지휘하는' 설종진 감독 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/23/2026082314451485411"
+        },
+        {
+          "title": "이 선수가 KIA 울렸다…'생일에 공·수 맹활약' 서건창 \"여러모로 의미 있었네요\" [고척 인터뷰]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823015708645?f=p"
+        }
+      ]
+    },
+    {
+      "id": "오은영",
+      "rank": 4,
+      "keyword": "오은영",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '검찰청 폐지 눈앞인데‥'노태우 추가 비자금' 규명·환수는?' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '운동 싫다는 오은영, 17㎏ 감량 성공…“허벅지 꼬집으며 과일 참았다”' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "검찰청 폐지 눈앞인데‥'노태우 추가 비자금' 규명·환수는?",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846578_37004.html"
-        },
-        {
-          "title": "노소영이 꺼낸 '300억 메모' 부메랑…재산 몰수 가능성",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821192402071"
-        },
-        {
-          "title": "노소영 이혼소송 불똥…‘김옥숙 152억 기부금’ 수사 착수",
+          "title": "운동 싫다는 오은영, 17㎏ 감량 성공…“허벅지 꼬집으며 과일 참았다”",
           "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260821/134519142/1?gid=134522900&srev=2&regdate="
+          "url": "https://www.donga.com/news/Culture/article/all/20260823/134524262/1"
+        },
+        {
+          "title": "오은영, 식습관 개선해 17kg 감량→뭘 끊었길래..\"운동은 싫어해\" ('버킷리스트')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821220551220"
+        },
+        {
+          "title": "오은영, 1년 7개월 만에 17kg 뺐다…포도 한 송이가 딱 두세 알로",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/entertain/12133635"
         }
       ]
     },
     {
-      "id": "동아일보",
-      "rank": 4,
-      "keyword": "동아일보",
+      "id": "증상",
+      "rank": 5,
+      "keyword": "증상",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '공군 훈련병 집단 식중독 의심…79명 고열·설사 증상' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "공군 훈련병 집단 식중독 의심…79명 고열·설사 증상",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823172643382"
+        },
+        {
+          "title": "공군 훈련병 집단 식중독 의심…70여명 복통·설사 증상 호소",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260823037600504"
+        },
+        {
+          "title": "“배 아프고 설사까지”…공군 훈련병 70여명 식중독 의심 증세",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/society/12134212"
+        }
+      ]
+    },
+    {
+      "id": "박근혜",
+      "rank": 6,
+      "keyword": "박근혜",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '산청의 탈북 맏며느리… “산청이 왜 천국인지 아십니까”[북에서 온 이웃]' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '與 “연찬회에 박근혜 초청한 국힘, 국정농단 시대로 돌아가겠단 것인가”' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "산청의 탈북 맏며느리… “산청이 왜 천국인지 아십니까”[북에서 온 이웃]",
+          "title": "與 “연찬회에 박근혜 초청한 국힘, 국정농단 시대로 돌아가겠단 것인가”",
           "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260820/134512613/1"
+          "url": "https://www.donga.com/news/Politics/article/all/20260823/134524591/1"
         },
         {
-          "title": "장동혁 \"대통령 입맛대로 대법관 임명?‥사법부, '재판재개'로 맞서야\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6846634_36911.html"
+          "title": "민주당 “국힘 연찬회에 박근혜 초대? 국정농단 시대로 돌아갈 건가”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8643603"
         },
         {
-          "title": "커지는 ‘대법관 후보 제청’ 후폭풍…청와대, 조희대에 재제청 요구할까",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608231711001"
+          "title": "홍준표 \"박근혜, 대통령 자질 없었다… 그래도 평화로운 노후 보내길\"",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026082009080003951"
         }
       ]
     },
     {
-      "id": "서교림",
-      "rank": 5,
-      "keyword": "서교림",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "id": "새만금",
+      "rank": 7,
+      "keyword": "새만금",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '서교림, 연장서 김민솔 잡고 KLPGA 챔피언십 제패…시즌 4승' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '새만금 기본계획 변경안 발표…‘공공주도·산업중심’' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "서교림, 연장서 김민솔 잡고 KLPGA 챔피언십 제패…시즌 4승",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260823038200007"
+          "title": "새만금 기본계획 변경안 발표…‘공공주도·산업중심’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8641966"
         },
         {
-          "title": "‘스무 살’ 서교림, 연장 끝 KLPGA 챔피언십 우승…시즌 4승·상금 1위",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260823580284"
+          "title": "[전북만평-정윤성] 35년 ‘새만금 희망고문’ 끝낼까?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823180520209"
         },
         {
-          "title": "‘동갑내기 라이벌’ 김민솔-서교림, KLPGA 챔피언십 첫날부터 접전 [KLPGA]",
-          "source": "스포츠 & 골프",
-          "url": "https://programs.sbs.co.kr/sports/sbssportsgolf/article/56051/G20000002499"
+          "title": "새만금이 '확' 달라진다…AI·로봇·수소·재생에너지 등 미래 첨단산업 중심지로 부상",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260821000001"
         }
       ]
     },
     {
-      "id": "원종현",
-      "rank": 6,
-      "keyword": "원종현",
+      "id": "이강준",
+      "rank": 8,
+      "keyword": "이강준",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '양현종 77구에 교체한 KIA 이범호 감독 \"왠지 신경 쓰였다\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '이호연 '대타로 나와 안타'[포토]' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "이호연 '대타로 나와 안타'[포토]",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260823n10937"
+        },
+        {
+          "title": "김호령 '좌전안타'[포토]",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260823n10358"
+        },
+        {
+          "title": "박재현 '밀어도 안타'",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260823n11006"
+        }
+      ]
+    },
+    {
+      "id": "기아타이거즈",
+      "rank": 9,
+      "keyword": "기아타이거즈",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'KIA, KBO 최초 팀 통산 3만6천 탈삼진 금자탑' (남도일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "KIA, KBO 최초 팀 통산 3만6천 탈삼진 금자탑",
+          "source": "남도일보",
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=920826"
+        },
         {
           "title": "양현종 77구에 교체한 KIA 이범호 감독 \"왠지 신경 쓰였다\"",
           "source": "연합뉴스",
@@ -164,95 +253,6 @@
           "title": "[사진]김호령, 우리가 앞서간다 - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/sports/2026/08/23/202608231442778322O"
-        },
-        {
-          "title": "대투수의 눈물‥\"하늘에서 지켜보고 계세요\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846590_37004.html"
-        }
-      ]
-    },
-    {
-      "id": "국민의힘",
-      "rank": 7,
-      "keyword": "국민의힘",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '장동혁, ‘당협 재선출’ 강행…치킨게임 치닫나' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "장동혁, ‘당협 재선출’ 강행…치킨게임 치닫나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260823163748625"
-        },
-        {
-          "title": "국민의힘, 현역 반발에도 '당원직선제' 수순...밀어붙이는 張 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/politics/2026/08/23/2026082314562430146"
-        },
-        {
-          "title": "국힘 중진들, 張 '징계 정치'에…\"수위 낮춰야\" \"뺄셈정치 멈추고 통합으로\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260823_0003758826"
-        }
-      ]
-    },
-    {
-      "id": "시위",
-      "rank": 8,
-      "keyword": "시위",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '경찰, 올림픽공원 시위 다른 참가자 폭행한 50대 체포' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "경찰, 올림픽공원 시위 다른 참가자 폭행한 50대 체포",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260823085653889"
-        },
-        {
-          "title": "올림픽공원 시위서 다른 참가자 폭행한 50대 시위 참가자 체포",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6846625_36918.html"
-        },
-        {
-          "title": "'잠실 시위 참가자 폭행' 50대 체포...곳곳 화재도",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202608231256094854"
-        }
-      ]
-    },
-    {
-      "id": "전준표",
-      "rank": 9,
-      "keyword": "전준표",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '[한번에쓱]네일과 선발 맞대결 '기아 잡고 위닝시리즈!' 키움 전준표 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[한번에쓱]네일과 선발 맞대결 '기아 잡고 위닝시리즈!' 키움 전준표 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/23/2026082314334844660"
-        },
-        {
-          "title": "[사진]원종현, 김태군에 투런포 허용 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/08/23/G44TOZTCMFRDSNTFGQ4TKNDFMM/"
-        },
-        {
-          "title": "[AI그래픽] 키움 전준표 5이닝 2실점, 8월 23일 고척 KIA전 투구 분석",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260823000134"
         }
       ]
     }
