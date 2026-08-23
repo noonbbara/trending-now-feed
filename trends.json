@@ -1,17 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-23T15:29:44.717Z",
+  "updatedAt": "2026-08-23T15:53:34.408Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
       "id": "아틀레티코-대-비야레알",
       "rank": 1,
       "keyword": "아틀레티코 대 비야레알",
-      "volumeLabel": "10000+",
+      "volumeLabel": "20000+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 ''단 두 경기 만에' 이강인 완벽 에이스 등극, 2G 연속골 정조준... 비야레알전 선발 출격 확정' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -21,25 +21,81 @@
           "url": "https://v.daum.net/v/20260823225809162"
         },
         {
-          "title": "'벤치 예상 다 깼다' 이강인, 선발 데뷔 확정! 비야레알전 출격 대기...'21세기 최초' 데뷔 2G 연속골 도전 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/23/202608232207770062O"
-        },
-        {
           "title": "[엠빅뉴스] “강인 어메이징!” 외치더니 뒤통수 친 유튜버 결국..",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/original/mbig/6846685_29041.html"
+        },
+        {
+          "title": "이강인 골 넣자 현지 유튜버 '눈찢기' 논란…서경덕 \"인종차별 사과해야\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260823_0003758908"
+        }
+      ]
+    },
+    {
+      "id": "세계-배드민턴-선수권-대회",
+      "rank": 2,
+      "keyword": "세계 배드민턴 선수권 대회",
+      "volumeLabel": "10000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''무결점' 안세영·'31년 한풀이' 女복식…세계 호령한 韓셔틀콕' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'무결점' 안세영·'31년 한풀이' 女복식…세계 호령한 韓셔틀콕",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260823051000007"
+        },
+        {
+          "title": "안세영, 3년 만에 배드민턴 세계선수권 정상 탈환",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008717776"
+        },
+        {
+          "title": "'배드민턴 여제' 안세영, 세계선수권 정상 탈환‥일본 야마구치에 2-0 완승",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6846720_36946.html"
+        }
+      ]
+    },
+    {
+      "id": "뉴캐슬-대-리버풀",
+      "rank": 3,
+      "keyword": "뉴캐슬 대 리버풀",
+      "volumeLabel": "5000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘배신자’ 야유 각오한 이삭…리버풀 유니폼 입고 뉴캐슬 첫 방문' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘배신자’ 야유 각오한 이삭…리버풀 유니폼 입고 뉴캐슬 첫 방문",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822201927824"
+        },
+        {
+          "title": "\"특히 필요한 건 바로 측면\"…영입 줄줄이 실패한 리버풀, 이라올라 감독도 개막 앞두고 '선수 부족' 호소",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260822n05413"
+        },
+        {
+          "title": "‘지난 시즌 5위였다고 얕보지 마!’ 이라올라 자신감 폭발→“리버풀 과소평가하면 실수”",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96748"
         }
       ]
     },
     {
       "id": "거제-섬꽃-축제",
-      "rank": 2,
+      "rank": 4,
       "keyword": "거제 섬꽃 축제",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '식물원 ‘초토화’…축제도 줄줄이 취소' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -61,132 +117,104 @@
       ]
     },
     {
-      "id": "홈런",
-      "rank": 3,
-      "keyword": "홈런",
+      "id": "김윤지",
+      "rank": 5,
+      "keyword": "김윤지",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'KIA 김도영, 시즌 38호 홈런…최연소 40홈런까지 '-2'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"임신한 줄 알았어\"… NS윤지, 51kg 체중 공개하며 '다이어트' 돌입' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "KIA 김도영, 시즌 38호 홈런…최연소 40홈런까지 '-2'",
+          "title": "\"임신한 줄 알았어\"… NS윤지, 51kg 체중 공개하며 '다이어트' 돌입",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260823145651472?f=p"
+          "url": "https://v.daum.net/v/20260823210010752"
         },
         {
-          "title": "'몰리면 진짜 여지없네' 김도영, '135m 초대형' 홈런 폭발! 38호로 개인 최다 홈런 타이→2위 오스틴과 6개차 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/23/2026082311011334346"
+          "title": "'이상해 며느리' 김윤지, 51kg인데..일주일 만에 4kg 감량 \"공복 운동 도움\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-08-23/202608230100136350008732"
         },
         {
-          "title": "KIA 김도영이 국민타자 이승엽을 뛰어넘는다…롯데→SSG→NC→KT 12연전서 딱 두 방만, 어렵지 않아요[MD고척]",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260823n15780"
+          "title": "김윤지, 1주일만에 51.65kg서 4kg 감량…“미국 다녀오니 임신한 줄” (‘ns윤지’)",
+          "source": "일간스포츠",
+          "url": "https://isplus.com/article/view/isp202608230104"
         }
       ]
     },
     {
       "id": "ngoại-hạng-anh",
-      "rank": 4,
+      "rank": 6,
       "keyword": "ngoại hạng anh",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Man City ngược dòng Bournemouth trong ngày Cherki bùng nổ' (yeuthethao.net.vn) 관련 뉴스가 함께 포착됐어요.",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 'Kết quả bóng đá Man City - Bournemouth: Haaland phung phí, ngược dòng k…' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Man City ngược dòng Bournemouth trong ngày Cherki bùng nổ",
-          "source": "yeuthethao.net.vn",
-          "url": "https://yeuthethao.net.vn/man-city-nguoc-dong-bournemouth-trong-ngay-cherki-bung-no-d892100.html"
+          "title": "Kết quả bóng đá Man City - Bournemouth: Haaland phung phí, ngược dòng kịch tính (Ngoại hạng Anh)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/ket-qua-bong-da-man-city-bournemouth-haaland-phung-phi-cuu-vuong-gap-kho-ngoai-hang-anh-c48a1788942.html"
         },
         {
-          "title": "Man City 2-1 Bournemouth: Ngược dòng kịch tính tại Etihad",
-          "source": "Laodong.vn",
-          "url": "https://laodong.vn/bong-da-quoc-te/man-city-2-1-bournemouth-nguoc-dong-kich-tinh-tai-etihad-1755210.ldo"
+          "title": "Kết quả ngoại hạng Anh hôm nay 22/8: Man City giành chiến thắng kịch tính",
+          "source": "VOV.VN",
+          "url": "https://vov.vn/the-thao/ket-qua-ngoai-hang-anh-hom-nay-228-man-city-gianh-chien-thang-kich-tinh-post1326613.vov"
         },
         {
-          "title": "Nhận định Manchester City vs Bournemouth: Điểm nóng cuộc đua tốp đầu",
+          "title": "LIVE Manchester City gegen Bournemouth: Bournemouth geht in Führung",
           "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/nhan-dinh-manchester-city-vs-bournemouth-diem-nong-cuoc-dua-top-dau"
+          "url": "https://www.vietnam.vn/de/truc-tieptruc-tiep-manchester-city-vs-bournemouth-bournemouth-mo-ty-so"
         }
       ]
     },
     {
-      "id": "갑질",
-      "rank": 5,
-      "keyword": "갑질",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "id": "atlético-madrid-vs-villarreal",
+      "rank": 7,
+      "keyword": "atlético madrid vs villarreal",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''박위 CCTV' 논란에 기관사까지 등판…\"형식 갖춰 사과하길\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Atletico Madrid vs Villarreal Confirmed Lineups' (WhoScored.com) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'박위 CCTV' 논란에 기관사까지 등판…\"형식 갖춰 사과하길\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260823_0003758882"
+          "title": "Atletico Madrid vs Villarreal Confirmed Lineups",
+          "source": "WhoScored.com",
+          "url": "https://www.whoscored.com/news/Azh1yvQlDEa-u1cLCiH3jg/show/20260823-atletico-madrid-vs-villarreal-confirmed-lineup-1787493538"
         },
         {
-          "title": "박위, KTX 사고 영상 올렸다가 '역풍'…현직 기관사도 분노",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026082372277"
+          "title": "European Soccer Expert Picks & Predictions for (8/23)",
+          "source": "Betting News",
+          "url": "https://www.bettingnews.com/articles/soccer/can-atletico-block-out-the-alvarez-noise-expert-picks-on-the-pitch-today/"
         },
         {
-          "title": "’낙상 공개’ 박위 후폭풍…김동완 “그도 장애가 처음“",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR202608231419383XQ"
-        }
-      ]
-    },
-    {
-      "id": "청소",
-      "rank": 6,
-      "keyword": "청소",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '입주 청소 의뢰한 아파트 거실에 '수거한 오물' 뿌린 업체 직원, 무슨 일?' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "입주 청소 의뢰한 아파트 거실에 '수거한 오물' 뿌린 업체 직원, 무슨 일?",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6266514"
-        },
-        {
-          "title": "\"입주청소 불렀더니 오물 뿌리고 가네요\"…업체 측 반박은 [이슈픽]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260823n10234"
-        },
-        {
-          "title": "“다시 청소해달라” 고객 요구에 욱 거실 바닥에 오물 투척한 청소업체",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3032353"
+          "title": "Licensable video: Llorente, Grimaldo and Hjulmand set for Atletico Madrid La Liga debut",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/llorente-grimaldo-and-hjulmand-set-for-atletico-madrid-la-liga-debut/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XRUZWQzU1MDIxMjAxMDQ5MDAx"
         }
       ]
     },
     {
       "id": "세종특별자치시",
-      "rank": 7,
+      "rank": 8,
       "keyword": "세종특별자치시",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '공지사항' (세종특별자치시청) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "공지사항",
           "source": "세종특별자치시청",
-          "url": "https://www.sejong.go.kr/bbs/R0071/view.do?nttId=B000000160240Jy6bJ3q&mno=sub02_01&cmsNoStr=&pageIndex=1&kind="
+          "url": "https://www.sejong.go.kr/bbs/R0071/view.do?nttId=B000000160240Jy6bJ3q"
         },
         {
           "title": "예술의전당, 가을 아카데미 개강…인문학부터 서화·미술까지",
@@ -202,85 +230,57 @@
     },
     {
       "id": "fotmob",
-      "rank": 8,
+      "rank": 9,
       "keyword": "fotmob",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Arsenal land golden opportunity to sign £129m-rated superstar as Newcas…' (3 Added Minutes) 관련 뉴스가 함께 포착됐어요.",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 ''New season, new trim' - Haaland reveals buzzcut' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Arsenal land golden opportunity to sign £129m-rated superstar as Newcastle chase late Man City deal",
-          "source": "3 Added Minutes",
-          "url": "https://www.3addedminutes.com/sport/football/arsenal-fc/arsenal-golden-opportunity-superstar-newcastle-man-city-deal-8936529"
+          "title": "'New season, new trim' - Haaland reveals buzzcut",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/articles/cr4941zkgevo"
         },
         {
-          "title": "Transfer news LIVE: Liverpool eye two forwards, Utd agree Baleba deal",
-          "source": "The Independent",
-          "url": "https://www.independent.co.uk/sport/football/transfer-news-live-arsenal-liverpool-man-utd-chelsea-b3037473.html"
+          "title": "In video: Guardiola responds to Haaland's surprise: I wish I had hair",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/en/news/in-video-guardiola-responds-to-haaland-surprise-i-wish-i-had-hair/blt7bb93922a61f431f"
         },
         {
-          "title": "Arsenal triple deal after Konsa as Man Utd plan Baleba medical, Alvarez pursuit and Liverpool bid",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/en/news/arsenal-triple-deal-after-konsa-as-man-utd-plan-baleba-medical-alvarez-pursuit-and-liverpool-bid-43317805"
+          "title": "Real Madrid stars react to Erling Haaland’s new haircut – ‘Ragnar’",
+          "source": "Yahoo Sports Canada",
+          "url": "https://ca.sports.yahoo.com/news/real-madrid-stars-react-erling-105000492.html"
         }
       ]
     },
     {
-      "id": "아스톤빌라",
-      "rank": 9,
-      "keyword": "아스톤빌라",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '韓축구 역대급 호재! '김민재 후계자' 이한범 '닥주전' 굳히기 들어가나…경쟁자 오르도녜스 PL 이적 급물살 \"빌라 브뤼헤와 접…' (네이트) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "韓축구 역대급 호재! '김민재 후계자' 이한범 '닥주전' 굳히기 들어가나…경쟁자 오르도녜스 PL 이적 급물살 \"빌라 브뤼헤와 접촉\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260823n11160"
-        },
-        {
-          "title": "'높은 확률로 이한범의 미래' 클뤼프브뤼허 2004년생 센터백, PL 입성 가능성! 행선지는 에메리의 빌라",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260823171641269"
-        },
-        {
-          "title": "이한범 주전 확정되나, 아스톤 빌라 브뤼헤 DF 영입 문의",
-          "source": "뉴스엔",
-          "url": "https://m.newsen.com/news_view.php?uid=202608232153330640"
-        }
-      ]
-    },
-    {
-      "id": "야구-감독",
+      "id": "학생",
       "rank": 10,
-      "keyword": "야구 감독",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "keyword": "학생",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '포토슬라이드' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '황길현 하나유치원장, 저소득층 학생 장학금 3000만원' (경상일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "포토슬라이드",
-          "source": "네이트",
-          "url": "https://news.nate.com/photo/slideShow?cid=1187743&mid=n0809"
+          "title": "황길현 하나유치원장, 저소득층 학생 장학금 3000만원",
+          "source": "경상일보",
+          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1065184"
         },
         {
-          "title": "'두 부부' 뒤엉켰다! 막장 드라마에 美 충격…NFL 스타 출신, 前 아내 남친의 전처와 키스→배우자 \"우린 신경 안 써\" 쿨한 반응까지",
-          "source": "www.xportsnews.com",
-          "url": "https://www.xportsnews.com/article/2186118"
+          "title": "황길현 울산 하나유치원장, 올해도 장학금 3천만원 기부",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260821106600057"
         },
         {
-          "title": "스포츠 이색·황당 뉴스",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/photoSlide/view?section=spo&clstId=1188136"
+          "title": "으뜸팔각회, 울산 보훈 자녀 장학금 300만원 전달",
+          "source": "울산종합일보",
+          "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065576061785408"
         }
       ]
     }
