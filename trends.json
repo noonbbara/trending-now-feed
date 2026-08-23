@@ -1,17 +1,157 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-23T05:03:44.946Z",
+  "updatedAt": "2026-08-23T05:57:24.508Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "안규백",
+      "id": "이바라키-현",
       "rank": 1,
-      "keyword": "안규백",
+      "keyword": "이바라키 현",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '330m 빌딩 속 붉은 원통…'대피해오는 도시'를 만들다[르포]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "330m 빌딩 속 붉은 원통…'대피해오는 도시'를 만들다[르포]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823143417918"
+        },
+        {
+          "title": "日 도쿄 인근 이바라키현에서 M5.9 추정 지진‥도쿄에서도 강한 흔들림",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6846607_36925.html"
+        },
+        {
+          "title": "관동대지진 기억 살아나는 이맘때... 관동지방서 규모 5.9 지진 발생",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/08/23/QGHPPQYSZZFK3BJRDX6XWSCIFQ/"
+        }
+      ]
+    },
+    {
+      "id": "타율",
+      "rank": 2,
+      "keyword": "타율",
       "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이정후, MLB 보스턴전서 4타수 1안타…타율 0.291 유지' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이정후, MLB 보스턴전서 4타수 1안타…타율 0.291 유지",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260823024800007"
+        },
+        {
+          "title": "수비 아쉬움 턴 안타+도루…'이정후 4타수 1안타' SF, BOS에 허무한 끝내기 패",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/08/23/GJRTGOJYMJSDSNLFG4YGEMBTG4/"
+        },
+        {
+          "title": "무안타로 침묵한 이정후, 수비에서도 또 ‘흔들’",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608221123003"
+        }
+      ]
+    },
+    {
+      "id": "엔비디아",
+      "rank": 3,
+      "keyword": "엔비디아",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'AI 서버값 '고공행진'…엔비디아, 고객사에 가격 15% 인상 예고' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "AI 서버값 '고공행진'…엔비디아, 고객사에 가격 15% 인상 예고",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260823016400075"
+        },
+        {
+          "title": "메모리 수요 폭증에 엔비디아도 가격 인상…\"삼전닉스 협상력 커\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/08/23/2026082314331145183"
+        },
+        {
+          "title": "엔비디아발 ‘AI 인프라 인플레’……AI 경쟁 비용 눈덩이",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823144403156"
+        }
+      ]
+    },
+    {
+      "id": "가사-도우미",
+      "rank": 4,
+      "keyword": "가사 도우미",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '故 김우중 회장 가사 도우미…'연매출 500억' 대표님 됐다' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "故 김우중 회장 가사 도우미…'연매출 500억' 대표님 됐다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026082258767"
+        },
+        {
+          "title": "고정 11개·연수입 40억 전현무, 아직도 멀었다…저녁무 굴욕 4년 만에 또 ('사당귀')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823141410577"
+        },
+        {
+          "title": "'김치명인' 박미희, \"김치 파동 후 신용대출에 사채 빚까지 써…낸 이자만 80억\" (사당귀) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/08/23/MEYTQNZXGY4TGZDFG5RDKNBRGA/"
+        }
+      ]
+    },
+    {
+      "id": "정몽규",
+      "rank": 5,
+      "keyword": "정몽규",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 '\"정몽규 회장이 홍명보 선임 지시\" 폭로했던 이임생 '싱글벙글' 웃음 왜? 동남아 SNS '깜짝 등장' 이유는' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"정몽규 회장이 홍명보 선임 지시\" 폭로했던 이임생 '싱글벙글' 웃음 왜? 동남아 SNS '깜짝 등장' 이유는",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823060209875"
+        },
+        {
+          "title": "'홍명보 선임 주도→청문회 불출석' 이임생 이사 근황 공개, 소속팀서 '환한 미소'",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260822n00335"
+        },
+        {
+          "title": "홍명보를 처벌할 수 있을까… ‘월드컵 실패’가 ‘형사 범죄’가 되려면",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/regional/2026/08/19/2V7XYHQK3ZGS5LPE2JVOKSCES4/"
+        }
+      ]
+    },
+    {
+      "id": "안규백",
+      "rank": 6,
+      "keyword": "안규백",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-5",
       "summary": "급상승 시점에 '국힘 \"안규백 경질해야\"…'탈영 의혹·방사청 비리' 앞세워 공세' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,125 +173,97 @@
       ]
     },
     {
-      "id": "이정후",
-      "rank": 2,
-      "keyword": "이정후",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '이정후, MLB 보스턴전서 4타수 1안타…타율 0.291 유지' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "id": "김주형",
+      "rank": 7,
+      "keyword": "김주형",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '임성재, PGA 투어 PO 2차전 3R서 7위로 뒷걸음' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이정후, MLB 보스턴전서 4타수 1안타…타율 0.291 유지",
+          "title": "임성재, PGA 투어 PO 2차전 3R서 7위로 뒷걸음",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260823024800007"
+          "url": "https://www.yna.co.kr/view/AKR20260823006200007"
         },
         {
-          "title": "수비 아쉬움 턴 안타+도루…'이정후 4타수 1안타' SF, BOS에 허무한 끝내기 패",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/08/23/GJRTGOJYMJSDSNLFG4YGEMBTG4/"
+          "title": "임성재, PO 최종전 투어 챔피언십이 보인다",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11611265"
         },
         {
-          "title": "\"정말 형편없는 우익수\" 충격! 이정후 수비에 美도 뿔났다...타구 판단 미스→결국 추가 실점 헌납 \"이런 플레이 너무 자주 나와\" 쓴소리",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260822221150172"
+          "title": "임성재, BMW 챔피언십 3라운드 단독 7위",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20260823_0002218701"
         }
       ]
     },
     {
-      "id": "정몽규",
-      "rank": 3,
-      "keyword": "정몽규",
-      "volumeLabel": "1000+",
+      "id": "카자흐스탄",
+      "rank": 8,
+      "keyword": "카자흐스탄",
+      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"정몽규 회장이 홍명보 선임 지시\" 폭로했던 이임생 '싱글벙글' 웃음 왜? 동남아 SNS '깜짝 등장' 이유는' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '전현무 \"일 없으면 수입 0원\"…일 중독 생존불안 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"정몽규 회장이 홍명보 선임 지시\" 폭로했던 이임생 '싱글벙글' 웃음 왜? 동남아 SNS '깜짝 등장' 이유는",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260823060209875"
-        },
-        {
-          "title": "'홍명보 선임 주도→청문회 불출석' 이임생 이사 근황 공개, 소속팀서 '환한 미소' - 머니투데이",
+          "title": "전현무 \"일 없으면 수입 0원\"…일 중독 생존불안 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/22/2026082122430096578"
+          "url": "https://www.mt.co.kr/entertainment/2026/08/22/2026082203364168741"
         },
         {
-          "title": "'행방 묘연' 청문회 불참 이임생, 최신 근황 공개...다리 꼬고 앉아 '함박웃음' 나가월드 테크니컬 디렉터 업무에 집중",
-          "source": "스포탈코리아",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553476995"
+          "title": "‘나혼산’, 시청률 한달간 지지부진하더니…전현무 즉흥여행에 시청률 상승[Oh!쎈 이슈]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/22/MJSGCZJTGU4DEMBRMU4GINZTMI/"
+        },
+        {
+          "title": "'49살' 전현무, 화려한 싱글의 후련함 \"짧은 인생, 배낭을 매세요\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823055212653"
         }
       ]
     },
     {
-      "id": "sl-vs-ind",
-      "rank": 4,
-      "keyword": "sl vs ind",
+      "id": "오버워치-월드컵",
+      "rank": 9,
+      "keyword": "오버워치 월드컵",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'How to watch Sri Lanka vs India 2nd Test: Free Streams & TV Channels' (TechRadar) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"10년 만에 고향에 돌아온 기분\"…오버워치, 넥슨 손잡고 韓서 '제2 전성기' 노린다' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "How to watch Sri Lanka vs India 2nd Test: Free Streams & TV Channels",
-          "source": "TechRadar",
-          "url": "https://www.techradar.com/how-to-watch/cricket/sri-lanka-vs-india-2nd-test-free"
+          "title": "\"10년 만에 고향에 돌아온 기분\"…오버워치, 넥슨 손잡고 韓서 '제2 전성기' 노린다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260823_0003758836"
         },
         {
-          "title": "SSC, Colombo pitch report: Test records and highest scores ahead of Sri Lanka vs India 2nd Test",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/ssc-colombo-pitch-report-test-163001463.html"
+          "title": "블리자드 \"넥슨 협력 계기로 오버워치 리그 더욱 커질 것\"",
+          "source": "MTN 머니투데이방송",
+          "url": "https://news.mtn.co.kr/news-detail/2026082311422654554"
         },
         {
-          "title": "Why Kuldeep Yadav Is Not Playing In 2nd India vs Sri Lanka Test? Shubman Gill Reveals",
-          "source": "NDTV Sports",
-          "url": "https://sports.ndtv.com/sri-lanka-vs-india-2026/why-kuldeep-yadav-is-not-playing-in-2nd-india-vs-sri-lanka-test-shubman-gill-reveals-11946743"
-        }
-      ]
-    },
-    {
-      "id": "선수",
-      "rank": 5,
-      "keyword": "선수",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '포르투칼 축구선수 카스트로, 친선경기 중 쓰려져 숨져' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "포르투칼 축구선수 카스트로, 친선경기 중 쓰려져 숨져",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6846640_36946.html"
-        },
-        {
-          "title": "포르투갈 25세 축구선수, 포르투갈 리그 친선경기 도중 숨져",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260823022400007"
-        },
-        {
-          "title": "'첼시 출신' 25세 포르투갈 MF, 킥오프 10분 만에 쓰러져 사망…의료진 총출동+제세동기 사용도 끝내 비극 막지 못했다",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260823n05972"
+          "title": "블리자드 \"오버워치 넥슨 파트너십 발전 기대...IP 협업 기회 청취할 것\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260823115514"
         }
       ]
     },
     {
       "id": "두산-베어스",
-      "rank": 6,
+      "rank": 10,
       "keyword": "두산 베어스",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-4",
       "summary": "급상승 시점에 '프로야구 대전·잠실·인천 경기 우천 취소…추후 재편성(종합2보)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -169,102 +281,6 @@
           "title": "대전 한화-LG전, 오후 4시부터 폭우 ‘우천 취소’···잠실·인천도 순연",
           "source": "스포츠경향",
           "url": "https://sports.khan.co.kr/article/202608221655003"
-        }
-      ]
-    },
-    {
-      "id": "워렌-버핏",
-      "rank": 7,
-      "keyword": "워렌 버핏",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "정기예금",
-      "rank": 8,
-      "keyword": "정기예금",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''연 9%' 적금의 유혹…받아보니 한 달 커피값?' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'연 9%' 적금의 유혹…받아보니 한 달 커피값?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260823120105227"
-        },
-        {
-          "title": "12개월 최고 연 7.00%…경남은행 '오면우대! 하면우대! 정기적금' [이주의 은행 적금금리-8월 4주]",
-          "source": "한국금융신문",
-          "url": "https://www.fntimes.com/html/view.php?ud=2026082120474573051b5a221379_18"
-        },
-        {
-          "title": "[통장사용설명서] 최고 연 13% 내건 '행운형 적금'…우리·전북은행 당첨 구조 따져보니",
-          "source": "스마트투데이",
-          "url": "https://www.smarttoday.co.kr/ko-kr/articles/110683"
-        }
-      ]
-    },
-    {
-      "id": "조나단",
-      "rank": 9,
-      "keyword": "조나단",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '조나단, 흑인 친구들과 '전국노래자랑' 뜬다' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "조나단, 흑인 친구들과 '전국노래자랑' 뜬다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260821_0003757464"
-        },
-        {
-          "title": "‘전국노래자랑’ 조나단 친구들까지 총출동, 최예나X아일릿 퍼포먼스 도전",
-          "source": "데일리스포츠한국",
-          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432756"
-        },
-        {
-          "title": "'전국노래자랑' 서울 중구편, 조나단과 친구들·김용빈 등 출격",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3671792"
-        }
-      ]
-    },
-    {
-      "id": "그레고리-로드리게스",
-      "rank": 10,
-      "keyword": "그레고리 로드리게스",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'UFC TONIGHT: Fight By Fight Preview | UFC Sacramento' (UFC.com) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "UFC TONIGHT: Fight By Fight Preview | UFC Sacramento",
-          "source": "UFC.com",
-          "url": "https://www.ufc.com/news/fight-by-fight-sacramento-preview-ufc-hernandez-rodrigues"
-        },
-        {
-          "title": "Gregory Rodrigues overcomes Anthony Hernandez in brutal five-round UFC Sacramento main event",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/gregory-rodrigues-overcomes-anthony-hernandez-031756105.html"
-        },
-        {
-          "title": "UFC Fight Night odds, picks: Seasoned MMA analyst reveals selections for Hernandez vs. Rodrigues and other matchups at Sacramento, Calif., on Aug. 22",
-          "source": "SportsLine",
-          "url": "https://www.sportsline.com/insiders/ufc-fight-night-odds-picks-seasoned-mma-analyst-reveals-selections-for-hernandez-vs-rodrigues-and-other-matchups-at-sacramento-calif-on-aug-22/"
         }
       ]
     }
