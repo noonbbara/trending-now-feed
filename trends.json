@@ -1,34 +1,34 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-23T23:27:55.354Z",
+  "updatedAt": "2026-08-23T23:51:13.832Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "염경엽",
+      "id": "뉴스",
       "rank": 1,
-      "keyword": "염경엽",
-      "volumeLabel": "20000+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 ''8-0 앞섰는데 또 3실점→만루→끝내 QS 승리' 9-0 역전패 트라우마, 39세 베테랑은 끊어냈다 \"9회까지 쉼 없이 응원해…' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "뉴스",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '11번가 '농할'에 온누리상품권 혜택…최대 30% 할인쿠폰' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'8-0 앞섰는데 또 3실점→만루→끝내 QS 승리' 9-0 역전패 트라우마, 39세 베테랑은 끊어냈다 \"9회까지 쉼 없이 응원해준 팬 덕분에 승리했다\" [대전 현장]",
+          "title": "11번가 '농할'에 온누리상품권 혜택…최대 30% 할인쿠폰",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/industry/distribution/6266987"
+        },
+        {
+          "title": "11번가, 국산 농축산물 최대 30% 할인…온누리상품권 혜택도",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260824n04742?mid=m02&list=recent&cpcd="
+        },
+        {
+          "title": "\"킴스클럽-산지 농가, 고구마 품종·생산량 함께 기획\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260824001638039?f=p"
-        },
-        {
-          "title": "“9-0 리드 날렸던 LG 맞아?”…한화에 3점홈런 2방 ‘불방망이’로 12-3 대승",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20082366"
-        },
-        {
-          "title": "역전패 악몽 ‘두 번은 없다’… 문정빈·송찬의 나란히 스리런, LG 3위 탈환",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608232205003"
+          "url": "https://v.daum.net/v/20260819161207453"
         }
       ]
     },
@@ -36,27 +36,27 @@
       "id": "스코티-셰플러",
       "rank": 2,
       "keyword": "스코티 셰플러",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘세계 1위’ 셰플러는 골프채에 얼마 쓸까…‘우승 가방’ 열어보니 [권준영의 머니볼]' (세계일보) 관련 뉴스가 함께 포착됐어요.",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '김시우·김주형, PGA투어 PO 최종전 진출…임성재는 탈락' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "‘세계 1위’ 셰플러는 골프채에 얼마 쓸까…‘우승 가방’ 열어보니 [권준영의 머니볼]",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260824500242"
-        },
-        {
-          "title": "임성재, PO 2차전 공동 10위…투어 챔피언십은 불발",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20260824_0002219030"
-        },
         {
           "title": "김시우·김주형, PGA투어 PO 최종전 진출…임성재는 탈락",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260824010300007"
+        },
+        {
+          "title": "임성재, PGA 투어 플레이오프 2차전 공동 10위…최종전 투어 챔피언십 진출 실패",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260824500071"
+        },
+        {
+          "title": "‘세계 1위’ 셰플러는 골프채에 얼마 쓸까…‘우승 가방’ 열어보니 [권준영의 머니볼]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824051329164"
         }
       ]
     },
@@ -64,22 +64,22 @@
       "id": "화사",
       "rank": 3,
       "keyword": "화사",
-      "volumeLabel": "500+",
+      "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 '화사, 텍사스 홀린 '카우걸' 변신…분위기까지 독보적' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '화사, 카우보이 핫걸! 미국 가더니 ‘러블리 섹시’ [DA★]' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "화사, 텍사스 홀린 '카우걸' 변신…분위기까지 독보적",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260823194011733"
-        },
         {
           "title": "화사, 카우보이 핫걸! 미국 가더니 ‘러블리 섹시’ [DA★]",
           "source": "스포츠동아",
           "url": "https://sports.donga.com/ent/article/all/20260823/134524791/1"
+        },
+        {
+          "title": "화사, 텍사스 홀린 '카우걸' 변신…분위기까지 독보적",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823194011733"
         },
         {
           "title": "마마무, 월드투어 '4WARD' 미주 공연 순항…완전체 시너지 발휘",
@@ -89,125 +89,41 @@
       ]
     },
     {
-      "id": "나솔",
+      "id": "나스닥-100",
       "rank": 4,
-      "keyword": "나솔",
+      "keyword": "나스닥 100",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '\"스타 되려 출연\"…'비혼주의' 24기 옥순, 폭탄 고백→연애 예능은 셀럽 등용문?' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''보이는 손' 美 국채…채권·주식·부동산까지 흔든다' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"스타 되려 출연\"…'비혼주의' 24기 옥순, 폭탄 고백→연애 예능은 셀럽 등용문?",
+          "title": "'보이는 손' 美 국채…채권·주식·부동산까지 흔든다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608215215i"
+        },
+        {
+          "title": "동시에 뛴 美·日·유럽 장기금리…한국도 주식·채권·대출에 연결된 '금리 전염' [쓸만한 이슈]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/yOMw95e4Id?f=p"
+          "url": "https://v.daum.net/v/20260824060131814"
         },
         {
-          "title": "출연료 미지급 피해 24기 옥순, 톱연예인에 번호 따였다 “날 보며 깜짝 놀라”",
-          "source": "뉴스엔",
-          "url": "https://m.newsen.com/news_view.php?uid=202608181709025710"
-        },
-        {
-          "title": "24기 옥순, 유명 연예인에 '번따' 당했는데…\"연락도 없어, 왜?\" [★해시태그]",
-          "source": "www.xportsnews.com",
-          "url": "https://www.xportsnews.com/article/2185897"
-        }
-      ]
-    },
-    {
-      "id": "지드래곤",
-      "rank": 5,
-      "keyword": "지드래곤",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '빅뱅, 10만 팬과 20년 집대성한 '코스모스'…\"88세까지 팔팔하게\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "빅뱅, 10만 팬과 20년 집대성한 '코스모스'…\"88세까지 팔팔하게\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260823038700005"
-        },
-        {
-          "title": "빅뱅, 박제되지 않은 전성기 [현장에서] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/24/2026082408007241322"
-        },
-        {
-          "title": "20년 지나도 '판타스틱'...빅뱅 \"낮은 마음으로 오래 노래\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0106_202608222303007188_005.html"
-        }
-      ]
-    },
-    {
-      "id": "손성빈",
-      "rank": 6,
-      "keyword": "손성빈",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''이럴 수가' 롯데 주전포수 라인업 빠졌는데…하루 쉬어도 복귀 장담 못한다? \"내일(24일) 검진 예정\" [오!쎈 잠실] - 머…' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'이럴 수가' 롯데 주전포수 라인업 빠졌는데…하루 쉬어도 복귀 장담 못한다? \"내일(24일) 검진 예정\" [오!쎈 잠실] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/23/202608231817772761O"
-        },
-        {
-          "title": "[스경X현장]롯데 손성빈이 라인업에서 사라졌다…김태형 감독 “한 번 검사를 해보고”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608231823003"
-        },
-        {
-          "title": "“중지 힘줄에 염좌” 손성빈 걱정한 김태형 롯데 감독, 검진 결과에 촉각",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20260823/134527242/1"
-        }
-      ]
-    },
-    {
-      "id": "상장",
-      "rank": 7,
-      "keyword": "상장",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '엘리스그룹, 증권신고서 제출…\"코스닥 상장 본격화\"' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "엘리스그룹, 증권신고서 제출…\"코스닥 상장 본격화\"",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026082408072796473"
-        },
-        {
-          "title": "AI 인프라 기업 엘리스그룹, 코스닥 상장 추진… IPO 통해 약 2000억원 조달 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/stock_general/2026/08/23/JRSPSWUM25DX3OVOFGNIQBQ5HE/"
-        },
-        {
-          "title": "엘리스그룹 코스닥 공모 본격화…몸값 1兆 조준 [시그널]",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20082059"
+          "title": "1달러 지폐 쌓으면 ‘달 왕복 6번’…국가부채 허덕이는 나라는?",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11611358"
         }
       ]
     },
     {
       "id": "elche-cf-vs-fc-barcelona-standings",
-      "rank": 8,
+      "rank": 5,
       "keyword": "elche cf vs fc barcelona standings",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+3",
       "summary": "급상승 시점에 'Elche vs Barcelona: Spanish La Liga stats & head-to-head' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -229,13 +145,109 @@
       ]
     },
     {
-      "id": "서식스-공작부인-메건",
-      "rank": 9,
-      "keyword": "서식스 공작부인 메건",
+      "id": "손성빈",
+      "rank": 6,
+      "keyword": "손성빈",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 ''이럴 수가' 롯데 주전포수 라인업 빠졌는데…하루 쉬어도 복귀 장담 못한다? \"내일(24일) 검진 예정\" [오!쎈 잠실] - 조…' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'이럴 수가' 롯데 주전포수 라인업 빠졌는데…하루 쉬어도 복귀 장담 못한다? \"내일(24일) 검진 예정\" [오!쎈 잠실] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/baseball/2026/08/23/GJSGIZBSGIYWKYZSMJRTQZLFGE/"
+        },
+        {
+          "title": "[스경X현장]롯데 손성빈이 라인업에서 사라졌다…김태형 감독 “한 번 검사를 해보고”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608231823003"
+        },
+        {
+          "title": "“중지 힘줄에 염좌” 손성빈 걱정한 김태형 롯데 감독, 검진 결과에 촉각",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20260823/134527242/1"
+        }
+      ]
+    },
+    {
+      "id": "상장",
+      "rank": 7,
+      "keyword": "상장",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '엘리스그룹, 증권신고서 제출…\"코스닥 상장 본격화\"' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "엘리스그룹, 증권신고서 제출…\"코스닥 상장 본격화\"",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026082408072796473"
+        },
+        {
+          "title": "AI 인프라 기업 엘리스그룹, 코스닥 상장 추진… IPO 통해 약 2000억원 조달 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/08/23/JRSPSWUM25DX3OVOFGNIQBQ5HE/"
+        },
+        {
+          "title": "엘리스그룹 코스닥 공모 본격화…몸값 1兆 조준 [시그널]",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20082059"
+        }
+      ]
+    },
+    {
+      "id": "klasemen-elche-vs-barcelona",
+      "rank": 8,
+      "keyword": "klasemen elche vs barcelona",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "한겨레",
+      "rank": 9,
+      "keyword": "한겨레",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김회승 전 한겨레 논설위원 청와대 직행에…“언론 신뢰 훼손” 비판' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김회승 전 한겨레 논설위원 청와대 직행에…“언론 신뢰 훼손” 비판",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/media/1274223.html"
+        },
+        {
+          "title": "김회승 청와대 춘추관장, 한겨레 기자 시절 무슨 기사 썼나?",
+          "source": "미디어오늘",
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336639"
+        },
+        {
+          "title": "한겨레 노조, 김회승 청와대행에 언론 독립성 훼손 유감",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20260821192151727"
+        }
+      ]
+    },
+    {
+      "id": "서식스-공작부인-메건",
+      "rank": 10,
+      "keyword": "서식스 공작부인 메건",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '메건 마클 '더 젠틀맨' 캐스팅 취소…영국 내 반발여론에 무산' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -253,34 +265,6 @@
           "title": "\"복귀 타진 보도 하루 만에 컷\"…영국 여론에 뺨 맞은 메건 마클",
           "source": "아시아경제",
           "url": "https://view.asiae.co.kr/article/2026082319553886991"
-        }
-      ]
-    },
-    {
-      "id": "골프장",
-      "rank": 10,
-      "keyword": "골프장",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '영월읍 파크골프장 36홀로 확대…9월 전면 개장' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "영월읍 파크골프장 36홀로 확대…9월 전면 개장",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824000757928"
-        },
-        {
-          "title": "[특별기고] 홍석주 대한파크골프협회장께 묻는다, ‘파크볼’ 누구와 논의했나?",
-          "source": "지이코노미",
-          "url": "https://www.geconomy.co.kr/mobile/article.html?no=323005"
-        },
-        {
-          "title": "[기고] 파크골프장 건설정책 이원화 필요- 윤봉현(파크골프장건설 전국대책위원회공동대표)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260823191655399"
         }
       ]
     }
