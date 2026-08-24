@@ -1,80 +1,108 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-24T01:49:12.280Z",
+  "updatedAt": "2026-08-24T03:11:24.610Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "농업인",
+      "id": "주식시장",
       "rank": 1,
-      "keyword": "농업인",
-      "volumeLabel": "1000+",
+      "keyword": "주식시장",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '경북 봉화군, 청년농업인에 최대 1억 지원으로 농촌 활력 불어넣는다' (브릿지경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[증권가 이모저모] 여의도 증권맨들의 '불편한 점심시간'' (연합인포맥스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "경북 봉화군, 청년농업인에 최대 1억 지원으로 농촌 활력 불어넣는다",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260824500269"
+          "title": "[증권가 이모저모] 여의도 증권맨들의 '불편한 점심시간'",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431352"
         },
         {
-          "title": "[청년! 농업·농촌에서 희망을 찾다] 지역과 함께 성장하다",
-          "source": "매일신문",
-          "url": "https://www.imaeil.com/page/view/2026072108184888009"
+          "title": "한국 개미들, 하락장에도 연 40~50% ELS로 몰린다 By The Guru",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2071522"
         },
         {
-          "title": "농업·농촌 살릴 청년 귀농귀촌… 관건은 ‘먹고살 기반’",
-          "source": "한국영농신문",
-          "url": ""
+          "title": "“단타 대박 불가능… 美 증시처럼 ‘장기 우상향’ 신뢰 쌓아야”",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000004834"
         }
       ]
     },
     {
-      "id": "장기전세주택",
+      "id": "빌보드",
       "rank": 2,
-      "keyword": "장기전세주택",
+      "keyword": "빌보드",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '3억 전세로 강남 20년 살고…\"무기한 살게 해달라\" 논란 [이슈픽]' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '한미 합작 걸그룹 캣츠아이, 미 빌보드 앨범 차트 첫 1위' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "3억 전세로 강남 20년 살고…\"무기한 살게 해달라\" 논란 [이슈픽]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260824n02937"
-        },
-        {
-          "title": "[팩트체크] 임대주택 살면 내집장만 못한다?…서울 장기전세 입주민 8% 마련",
+          "title": "한미 합작 걸그룹 캣츠아이, 미 빌보드 앨범 차트 첫 1위",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260822080203425"
+          "url": "https://v.daum.net/v/20260824090601614"
         },
         {
-          "title": "'20년 장기전세' 못 나간다는 임차인들...\"우리도 피해자\" 버티는 이유 - 머니투데이",
+          "title": "“팝 시장서 가장 주목받는 그룹” 빌보드도 극찬한 캣츠아이···‘빌보드 200’ 1위 기록",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608241057001"
+        },
+        {
+          "title": "캣츠아이, ‘와일드’로 美 빌보드 200 첫 정상…K팝 걸그룹 네 번째",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8644046"
+        }
+      ]
+    },
+    {
+      "id": "김서현",
+      "rank": 3,
+      "keyword": "김서현",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''161㎞ 재능 어디가나' 한화 김서현, 구속 저하 우려 사흘 만에 155㎞ 쾅! 그런데 더 반가운 장면이 있다 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'161㎞ 재능 어디가나' 한화 김서현, 구속 저하 우려 사흘 만에 155㎞ 쾅! 그런데 더 반가운 장면이 있다 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/20/2026082010501631104"
+          "url": "https://www.mt.co.kr/sports/2026/08/24/2026082314331692864"
+        },
+        {
+          "title": "김진욱·이의리처럼 달라질까? 日유학 김서현, 부활 꿈꾼다 \"160㎞ 직구보다 중요한 것은…\" [인터뷰]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/08/23/MNTDSZJTMYZDIMZXMJRTSNTDHE/"
+        },
+        {
+          "title": "와, 초구 스트라이크 0사사구! 김서현 진짜 달라졌네…“좋은 모습만 보여주고 싶습니다”",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/sport/baseball/2026/08/24/20260824500003"
         }
       ]
     },
     {
       "id": "아버지",
-      "rank": 3,
+      "rank": 4,
       "keyword": "아버지",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“부부싸움 말리다”…아들이 휘두른 흉기에 아버지 숨져' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '\"부모 싸움 말리다 홧김에\"…아버지 살해 후 자진 신고' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“부부싸움 말리다”…아들이 휘두른 흉기에 아버지 숨져",
+          "title": "\"부모 싸움 말리다 홧김에\"…아버지 살해 후 자진 신고",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260823222247849"
+          "url": "https://v.daum.net/v/VGcUUv8Bz8"
         },
         {
           "title": "“부모님 다툼 말리다 칼로 찔렀다” 10대 외국인 자수···아버지 숨지고 어머니 중상",
@@ -89,170 +117,144 @@
       ]
     },
     {
-      "id": "니어스랩",
-      "rank": 4,
-      "keyword": "니어스랩",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[특징주] 니어스랩, 코스닥 상장 첫날 장 초반 13%대 하락' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[특징주] 니어스랩, 코스닥 상장 첫날 장 초반 13%대 하락",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824093051685"
-        },
-        {
-          "title": "'피지컬 AI 기반 자율비행 드론' 니어스랩, 코스닥 데뷔",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02027046645550600"
-        },
-        {
-          "title": "[공모주달력]흥행 엇갈린 니어스랩·해치텍 잇따라 코스닥 상장",
-          "source": "비즈워치",
-          "url": "https://news.bizwatch.co.kr/article/market/2026/08/21/0016"
-        }
-      ]
-    },
-    {
-      "id": "새마을금고",
+      "id": "햄버거",
       "rank": 5,
-      "keyword": "새마을금고",
-      "volumeLabel": "500+",
+      "keyword": "햄버거",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '새마을금고, 상반기 정책자금 2천170억원 공급' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[영상] 햄버거에 커피까지 샀는데 “4000원입니다”…직장인들 점심마다 몰려가는 이유' (서울경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "새마을금고, 상반기 정책자금 2천170억원 공급",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260824041200002"
+          "title": "[영상] 햄버거에 커피까지 샀는데 “4000원입니다”…직장인들 점심마다 몰려가는 이유",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20082179"
         },
         {
-          "title": "새마을금고, 상반기 정책자금 2170억 공급…‘서민금융’ 박차",
+          "title": "“올릴 땐 언제고 2500원?”…버거값 ‘역주행’의 비밀",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260824100639506"
+          "url": "https://v.daum.net/v/20260824051610195"
         },
         {
-          "title": "새마을금고, 상반기 정책자금 2170억원 공급…서민·소상공인 지원 확대",
-          "source": "전자신문",
-          "url": ""
+          "title": "맥도날드, 불고기 버거 가격 1300원 인하",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6566726"
         }
       ]
     },
     {
-      "id": "손범수",
+      "id": "안동농협",
       "rank": 6,
-      "keyword": "손범수",
-      "volumeLabel": "500+",
+      "keyword": "안동농협",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''손범수♥' 진양혜 \"子 12년 열애 끝 결혼, '양다리 걸쳐라' 농담하니 정색하더라\"(아침마당)' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'손범수♥' 진양혜 \"子 12년 열애 끝 결혼, '양다리 걸쳐라' 농담하니 정색하더라\"(아침마당)",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260824n05423"
-        },
-        {
-          "title": "손범수♥진양혜 아들, 12년 열애 끝 결혼…'연세대 동문' 미모의 아내 깜짝 공개 (아침마당) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/24/MQYWGN3GGAZTKNLCMM3GGYRZME/"
-        },
-        {
-          "title": "진양혜 “손범수, 5개월 신입인 내게 프러포즈‥화 끓어 ‘미친 거 아니냐’”(아침마당)",
-          "source": "뉴스엔",
-          "url": "https://m.newsen.com/news_view.php?uid=202608240910176710"
-        }
-      ]
+      "newsSignals": []
     },
     {
-      "id": "고용노동부",
+      "id": "부산은행",
       "rank": 7,
-      "keyword": "고용노동부",
+      "keyword": "부산은행",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '난임치료휴가 유급기간 2일→4일 확대…불리한 처우시 처벌' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'BNK금융그룹, 추석 맞아 중소기업 등에 1조6천억원 특별대출' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "난임치료휴가 유급기간 2일→4일 확대…불리한 처우시 처벌",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260823185951164"
-        },
-        {
-          "title": "난임치료휴가 유급기간 2일→4일 확대…불리한 처우시 처벌",
+          "title": "BNK금융그룹, 추석 맞아 중소기업 등에 1조6천억원 특별대출",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260822027600530"
+          "url": "https://www.yna.co.kr/view/AKR20260824068200051"
         },
         {
-          "title": "난임치료휴가, 11월부터 '유급기간 4일로 확대'",
-          "source": "서울Pn",
-          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=443529"
+          "title": "BNK금융그룹, 1.6조 추석 특별대출…최대 30억까지 지원",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260824_0003759800"
+        },
+        {
+          "title": "한은 대경본부, 추석 앞두고 중소기업에 300억 자금 지원",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823204305563"
         }
       ]
     },
     {
-      "id": "zoom",
+      "id": "박기량",
       "rank": 8,
-      "keyword": "zoom",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "keyword": "박기량",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Trump’s Summer of Fun Ends With an IndyCar Race on the Streets of D.C.' (The New York Times) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[포토] 규카츠 '박기량과 흠뻑 젖었어'' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Trump’s Summer of Fun Ends With an IndyCar Race on the Streets of D.C.",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/23/us/politics/trump-indycar-race-dc-america-250.html"
+          "title": "[포토] 규카츠 '박기량과 흠뻑 젖었어'",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260823n14738"
         },
         {
-          "title": "Photos: Inside D.C.'s loud, patriotic Freedom 250 Grand Prix",
-          "source": "Axios",
-          "url": "https://www.axios.com/2026/08/24/indycar-dc-freedom-250-grand-prix-winner"
+          "title": "[포토] 박기량 '젖을수록 째지는 날'",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260823n14799"
         },
         {
-          "title": "Kyle Kirkwood hangs on to win Freedom 250 Grand Prix in Washington",
-          "source": "Fox News",
-          "url": "https://www.foxnews.com/outkick-sports/kyle-kirkwood-hangs-win-freedom-250-grand-prix-washington"
+          "title": "[포토] 정아련 '어차피 다 젖었어'",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260823n15016"
         }
       ]
     },
     {
-      "id": "빗썸",
+      "id": "교직원공제회",
       "rank": 9,
-      "keyword": "빗썸",
+      "keyword": "교직원공제회",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '거래대금 급감에 실적 반토막…두나무·빗썸, 자체 코인자산도 줄었다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"보여주기식 정책\" 금융노조, 국책은행 지방 이전 반발' (진일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "거래대금 급감에 실적 반토막…두나무·빗썸, 자체 코인자산도 줄었다",
+          "title": "\"보여주기식 정책\" 금융노조, 국책은행 지방 이전 반발",
+          "source": "진일보",
+          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000057625"
+        }
+      ]
+    },
+    {
+      "id": "국회",
+      "rank": 10,
+      "keyword": "국회",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '韓총리 \"정부 확장재정 중요 전환점…지금은 성장에 집중해야\"(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "韓총리 \"정부 확장재정 중요 전환점…지금은 성장에 집중해야\"(종합)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260823145110320"
+          "url": "https://v.daum.net/v/20260824114651063"
         },
         {
-          "title": "올해 두나무에 2조 베팅한 금융사들 '물렸다'…빗썸도 몸값 반토막",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260821000200"
+          "title": "의사봉 두드리는 이광재 위원장",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20260824_0021408388"
         },
         {
-          "title": "업비트·빗썸, 소송충당금 750억…규제 리스크↑",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260823n09423"
+          "title": "한성숙 \"재정이 경제회복 마중물…대체불가 대한민국 건설에 최선\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/08/24/2026082410270137683"
         }
       ]
     }
