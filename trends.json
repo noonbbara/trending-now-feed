@@ -1,45 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-24T16:05:50.159Z",
+  "updatedAt": "2026-08-24T17:06:58.145Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "월미도",
-      "rank": 1,
-      "keyword": "월미도",
-      "volumeLabel": "5000+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '월미도 디스코팡팡서 30대 탑승객 튕겨 나가 부상' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "월미도 디스코팡팡서 30대 탑승객 튕겨 나가 부상",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260824146000065"
-        },
-        {
-          "title": "월미도 놀이공원서 ‘디스코 팡팡’ 타다 튕켜 나간 30대 부상",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608242211001"
-        },
-        {
-          "title": "인천 월미도 ‘디스코 팡팡’ 타던 30대, 밖으로 튕겨 나가 부상",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/incident/2026/08/24/EGBUXTXSTZBW7IE54LMR4ADVNY/"
-        }
-      ]
-    },
-    {
       "id": "설-영우",
-      "rank": 2,
+      "rank": 1,
       "keyword": "설 영우",
       "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "startedLabel": "4시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 ''韓 국가대표 풀백' 설영우, 독일 분데스리가 전격 이적 \"최대 88억... 눈부신 활약\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -61,64 +33,69 @@
       ]
     },
     {
-      "id": "이다현",
-      "rank": 3,
-      "keyword": "이다현",
-      "volumeLabel": "1000+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '\"여배우인가? 韓의 벽이다' 日 팬들도 열광한 이다현의 존재감 \"강렬한 인상 남겼다\" 호평' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "id": "영화관",
+      "rank": 2,
+      "keyword": "영화관",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"비싸도 볼래요\" 2만원에도 매진인데…영화관 '줄폐점' 이유' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"여배우인가? 韓의 벽이다' 日 팬들도 열광한 이다현의 존재감 \"강렬한 인상 남겼다\" 호평",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824160601909"
+          "title": "\"비싸도 볼래요\" 2만원에도 매진인데…영화관 '줄폐점' 이유",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260824n33783"
         },
         {
-          "title": "한국 여자배구, LA올림픽 티켓 걸린 아시아선수권서 일본에 완패",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260823049800007"
+          "title": "국립극장, 스크린으로 무대 넓혀",
+          "source": "한국금융경제신문",
+          "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=662925"
         },
         {
-          "title": "'이럴수가' 한일전 완패 충격, 단 한세트도 못땄다…통한의 듀스 내주고 와르르",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/volleyball/2026/08/24/MRRGINZWGQ2GCMDBHA3WKMBQMM/"
+          "title": "[특집] 체험이 된 영화, 특수관 쏠림과 밀려나는 ‘보통 관람’ - 네 가지 관점으로 보는 2026년➍ 특수관이 도약한 2026년, 평평한 극장은 종말을 앞두고 있는가",
+          "source": "씨네21",
+          "url": "https://cine21.com/news/view/?mag_id=110562"
         }
       ]
     },
     {
-      "id": "박애리",
-      "rank": 4,
-      "keyword": "박애리",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '팝핀현준, 아내 박애리 뱃살에 놀라 “누나! 없던 게 생겼어!” ('스타건강랭킹 넘버원')' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "id": "롯데마트",
+      "rank": 3,
+      "keyword": "롯데마트",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '주말까지 기다리지 마세요…롯데마트 제타, 평일 300여 품목 최대 반값' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "팝핀현준, 아내 박애리 뱃살에 놀라 “누나! 없던 게 생겼어!” ('스타건강랭킹 넘버원')",
+          "title": "주말까지 기다리지 마세요…롯데마트 제타, 평일 300여 품목 최대 반값",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260824160837048"
+          "url": "https://v.daum.net/v/VJyeazcnCO"
         },
         {
-          "title": "연하 남편 팝핀현준, ♥박애리 뱃살에 보인 반응 \"누나, 없던 게 생겼어\"(넘버원)",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260824n26691?mid=e1200"
+          "title": "롯데마트 제타, 신규 고객에 신선식품·생필품 최대 50% 할인",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260822031400030"
+        },
+        {
+          "title": "롯데마트 제타, 평일 온라인 장보기 할인 ‘월간제타’ 진행",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20082178"
         }
       ]
     },
     {
       "id": "트로트",
-      "rank": 5,
+      "rank": 4,
       "keyword": "트로트",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '전직 트로트 가수에 쌍둥이맘 됐다…이현정, '개그콘서트'에서 뽐낸 존재감 [종합]' (텐아시아) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -140,25 +117,81 @@
       ]
     },
     {
-      "id": "하나머티리얼즈",
-      "rank": 6,
-      "keyword": "하나머티리얼즈",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '하나머티리얼즈 식각 부품 공급 비상…사태 장기화 수순' (디일렉) 관련 뉴스가 함께 포착됐어요.",
+      "id": "신봉선",
+      "rank": 5,
+      "keyword": "신봉선",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '신봉선 '웃찾사' 경력 싹 빼고 KBS 갔다 \"뚱뚱한 캐릭터 개그 요구, 싫었다\" 솔직(이홍렬TV)' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "하나머티리얼즈 식각 부품 공급 비상…사태 장기화 수순",
-          "source": "디일렉",
-          "url": "https://www.thelec.kr/news/articleView.html?idxno=61241"
+          "title": "신봉선 '웃찾사' 경력 싹 빼고 KBS 갔다 \"뚱뚱한 캐릭터 개그 요구, 싫었다\" 솔직(이홍렬TV)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260822n04058"
         },
+        {
+          "title": "신봉선, 눈치 빠른 김구라도 속였다..“딴 예능 간다고 ‘복면가왕’ 펑크” (‘이홍렬TV’) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/22/MI2DGNRYGY2DSMLBGVQWEMRVGA/"
+        },
+        {
+          "title": "신봉선, '복면가왕' 퇴출설도 작전이었다…\"김구라까지 다 속아\" (걷다보니)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822172707144"
+        }
+      ]
+    },
+    {
+      "id": "한국거래소",
+      "rank": 6,
+      "keyword": "한국거래소",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[단독] 한국거래소, 28일 중간배당 결정…주당 5000원 유력' (쿠키뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[단독] 한국거래소, 28일 중간배당 결정…주당 5000원 유력",
+          "source": "쿠키뉴스",
+          "url": "https://www.kukinews.com/article/view/kuk202608240093"
+        },
+        {
+          "title": "한국거래소, 발달장애인 금융교육 5000만원 후원",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824112623827"
+        },
+        {
+          "title": "[재테크 특집] 발달장애인 금융교육 후원 자립 지원",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260823507563"
+        }
+      ]
+    },
+    {
+      "id": "하나머티리얼즈",
+      "rank": 7,
+      "keyword": "하나머티리얼즈",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 ''노사 갈등' 하나머티리얼즈, 노조 파업에 '직장폐쇄' 맞불' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
         {
           "title": "'노사 갈등' 하나머티리얼즈, 노조 파업에 '직장폐쇄' 맞불",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260824173439582"
+        },
+        {
+          "title": "하나머티리얼즈 식각 부품 공급 비상…사태 장기화 수순",
+          "source": "디일렉",
+          "url": "https://www.thelec.kr/news/articleView.html?idxno=61241"
         },
         {
           "title": "“교섭 참석 무단결근 처리” 하나머티리얼즈 노조탄압 논란",
@@ -168,13 +201,41 @@
       ]
     },
     {
+      "id": "lg유플러스",
+      "rank": 8,
+      "keyword": "lg유플러스",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'LG유플러스, 국내 통신사 최초 글로벌 버그바운티 오픈' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "LG유플러스, 국내 통신사 최초 글로벌 버그바운티 오픈",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/RPR20260824001900353"
+        },
+        {
+          "title": "LGU+, 해커원과 글로벌 버그바운티 운영…전 서비스 보안 검증",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824102507434"
+        },
+        {
+          "title": "LGU+, 화이트해커 플랫폼 해커원과 맞손…취약점 발굴 고도화",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026082411291326592"
+        }
+      ]
+    },
+    {
       "id": "김도환",
-      "rank": 7,
+      "rank": 9,
       "keyword": "김도환",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 ''1위 경쟁' 삼성과 KT만 엔트리 변화줬다, 포수 김도환-대타 자원 이정훈 1군 말소' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -184,25 +245,25 @@
           "url": "https://v.daum.net/v/20260824182250415"
         },
         {
+          "title": "경기 없는 월요일, 1위와 2위만 엔트리 말소를 단행했다…25일부터 확대엔트리 적용",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/08/24/MUZDENZWG4YDQOLFMUYDGMZWGI/"
+        },
+        {
           "title": "확대 엔트리 D-1, ‘1위 경쟁’ 삼성-KT만 왜 엔트리 변화 줬을까…강민호 백업 대타의 신 나란히 2군행 통보 - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/sports/2026/08/24/202608241653771409O"
-        },
-        {
-          "title": "경기 없는 월요일, 1위와 2위만 엔트리 말소를 단행했다…25일부터 확대엔트리 적용",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/baseball/2026-08-24/202608240100143060009135"
         }
       ]
     },
     {
       "id": "트럼프",
-      "rank": 8,
+      "rank": 10,
       "keyword": "트럼프",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '캐나다, 美중간선거 전 협상재개 가능성 낮다 판단…장기전 대비' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -212,70 +273,14 @@
           "url": "https://v.daum.net/v/20260825001251403"
         },
         {
-          "title": "WSJ, 트럼프의 캐나다 관세전에 \"가장 어리석은 무역전쟁\"",
+          "title": "캐나다인 4명중 3명 \"나쁜 거래 중단 옳다\"…대미 무역전쟁 지지",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260824167900072"
+          "url": "https://www.yna.co.kr/view/AKR20260825001000072"
         },
         {
-          "title": "미국과 맞짱 뜬 캐나다...'탈미국화' 지각변동 부르나",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202608250031181400"
-        }
-      ]
-    },
-    {
-      "id": "sk-하이닉스-채용",
-      "rank": 9,
-      "keyword": "sk 하이닉스 채용",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '[포토뉴스]전남광주에서 열린 ‘SK하이닉스 채용설명회’' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[포토뉴스]전남광주에서 열린 ‘SK하이닉스 채용설명회’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/20260824203800A/?cp"
-        },
-        {
-          "title": "\"대기업 신입 채용 시작\"⋯인크루트, '합격 가능성 분석' 서비스 제공",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824152127586"
-        },
-        {
-          "title": "[K우먼톡]AI 잘 쓰는 사람을 뽑습니다",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026082407263796823"
-        }
-      ]
-    },
-    {
-      "id": "tradingview",
-      "rank": 10,
-      "keyword": "tradingview",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'A battery maker bought a Louisiana oil-and-gas prospect for an adjusted…' (Stock Titan) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "A battery maker bought a Louisiana oil-and-gas prospect for an adjusted $3.43 million",
-          "source": "Stock Titan",
-          "url": "https://www.stocktitan.net/news/XPON/expion-acquires-assets-establishing-an-oil-and-gas-exploration-e7mobv73x3tv.html"
-        },
-        {
-          "title": "Expion Energy Launches Private Placement of Convertible Debentures and Warrants",
-          "source": "TradingView",
-          "url": "https://www.tradingview.com/news/tradingview:2c79e207632f0:0-expion-energy-launches-private-placement-of-convertible-debentures-and-warrants/"
-        },
-        {
-          "title": "Expion360 changes name, enters oil and gas with Louisiana deal By Investing.com",
-          "source": "Investing.com UK",
-          "url": "https://uk.investing.com/news/stock-market-news/expion360-changes-name-enters-oil-and-gas-with-louisiana-deal-93CH-4844513"
+          "title": "미·캐나다 관세전쟁 장기화?…캐나다, 기업 지원책 마련",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8644902"
         }
       ]
     }
