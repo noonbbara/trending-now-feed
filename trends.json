@@ -1,270 +1,258 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-23T23:51:13.832Z",
+  "updatedAt": "2026-08-24T01:49:12.280Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "뉴스",
+      "id": "농업인",
       "rank": 1,
-      "keyword": "뉴스",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '11번가 '농할'에 온누리상품권 혜택…최대 30% 할인쿠폰' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "11번가 '농할'에 온누리상품권 혜택…최대 30% 할인쿠폰",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/industry/distribution/6266987"
-        },
-        {
-          "title": "11번가, 국산 농축산물 최대 30% 할인…온누리상품권 혜택도",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260824n04742?mid=m02&list=recent&cpcd="
-        },
-        {
-          "title": "\"킴스클럽-산지 농가, 고구마 품종·생산량 함께 기획\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819161207453"
-        }
-      ]
-    },
-    {
-      "id": "스코티-셰플러",
-      "rank": 2,
-      "keyword": "스코티 셰플러",
+      "keyword": "농업인",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '김시우·김주형, PGA투어 PO 최종전 진출…임성재는 탈락' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '경북 봉화군, 청년농업인에 최대 1억 지원으로 농촌 활력 불어넣는다' (브릿지경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김시우·김주형, PGA투어 PO 최종전 진출…임성재는 탈락",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260824010300007"
-        },
-        {
-          "title": "임성재, PGA 투어 플레이오프 2차전 공동 10위…최종전 투어 챔피언십 진출 실패",
+          "title": "경북 봉화군, 청년농업인에 최대 1억 지원으로 농촌 활력 불어넣는다",
           "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260824500071"
+          "url": "https://www.viva100.com/article/20260824500269"
         },
         {
-          "title": "‘세계 1위’ 셰플러는 골프채에 얼마 쓸까…‘우승 가방’ 열어보니 [권준영의 머니볼]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824051329164"
+          "title": "[청년! 농업·농촌에서 희망을 찾다] 지역과 함께 성장하다",
+          "source": "매일신문",
+          "url": "https://www.imaeil.com/page/view/2026072108184888009"
+        },
+        {
+          "title": "농업·농촌 살릴 청년 귀농귀촌… 관건은 ‘먹고살 기반’",
+          "source": "한국영농신문",
+          "url": ""
         }
       ]
     },
     {
-      "id": "화사",
-      "rank": 3,
-      "keyword": "화사",
+      "id": "장기전세주택",
+      "rank": 2,
+      "keyword": "장기전세주택",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '화사, 카우보이 핫걸! 미국 가더니 ‘러블리 섹시’ [DA★]' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '3억 전세로 강남 20년 살고…\"무기한 살게 해달라\" 논란 [이슈픽]' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "화사, 카우보이 핫걸! 미국 가더니 ‘러블리 섹시’ [DA★]",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260823/134524791/1"
+          "title": "3억 전세로 강남 20년 살고…\"무기한 살게 해달라\" 논란 [이슈픽]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260824n02937"
         },
         {
-          "title": "화사, 텍사스 홀린 '카우걸' 변신…분위기까지 독보적",
+          "title": "[팩트체크] 임대주택 살면 내집장만 못한다?…서울 장기전세 입주민 8% 마련",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260823194011733"
+          "url": "https://v.daum.net/v/20260822080203425"
         },
         {
-          "title": "마마무, 월드투어 '4WARD' 미주 공연 순항…완전체 시너지 발휘",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/515596"
+          "title": "'20년 장기전세' 못 나간다는 임차인들...\"우리도 피해자\" 버티는 이유 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/08/20/2026082010501631104"
         }
       ]
     },
     {
-      "id": "나스닥-100",
+      "id": "아버지",
+      "rank": 3,
+      "keyword": "아버지",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“부부싸움 말리다”…아들이 휘두른 흉기에 아버지 숨져' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“부부싸움 말리다”…아들이 휘두른 흉기에 아버지 숨져",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823222247849"
+        },
+        {
+          "title": "“부모님 다툼 말리다 칼로 찔렀다” 10대 외국인 자수···아버지 숨지고 어머니 중상",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608231009001"
+        },
+        {
+          "title": "천안서 존속살해 비극…아버지 숨지게 한 10대 체포",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260823580039"
+        }
+      ]
+    },
+    {
+      "id": "니어스랩",
       "rank": 4,
-      "keyword": "나스닥 100",
+      "keyword": "니어스랩",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''보이는 손' 美 국채…채권·주식·부동산까지 흔든다' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[특징주] 니어스랩, 코스닥 상장 첫날 장 초반 13%대 하락' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'보이는 손' 美 국채…채권·주식·부동산까지 흔든다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608215215i"
-        },
-        {
-          "title": "동시에 뛴 美·日·유럽 장기금리…한국도 주식·채권·대출에 연결된 '금리 전염' [쓸만한 이슈]",
+          "title": "[특징주] 니어스랩, 코스닥 상장 첫날 장 초반 13%대 하락",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260824060131814"
+          "url": "https://v.daum.net/v/20260824093051685"
         },
         {
-          "title": "1달러 지폐 쌓으면 ‘달 왕복 6번’…국가부채 허덕이는 나라는?",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11611358"
+          "title": "'피지컬 AI 기반 자율비행 드론' 니어스랩, 코스닥 데뷔",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02027046645550600"
+        },
+        {
+          "title": "[공모주달력]흥행 엇갈린 니어스랩·해치텍 잇따라 코스닥 상장",
+          "source": "비즈워치",
+          "url": "https://news.bizwatch.co.kr/article/market/2026/08/21/0016"
         }
       ]
     },
     {
-      "id": "elche-cf-vs-fc-barcelona-standings",
+      "id": "새마을금고",
       "rank": 5,
-      "keyword": "elche cf vs fc barcelona standings",
+      "keyword": "새마을금고",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+3",
-      "summary": "급상승 시점에 'Elche vs Barcelona: Spanish La Liga stats & head-to-head' (BBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Elche vs Barcelona: Spanish La Liga stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c60ej013yengt"
-        },
-        {
-          "title": "Licensable picture: Elche CF v FC Barcelona - LaLiga",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/elche-cf-v-fc-barcelona-laliga/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwNllQNU9X"
-        },
-        {
-          "title": "Preview: Elche vs Barcelona - prediction, team news, lineups",
-          "source": "Sports Mole",
-          "url": "https://www.sportsmole.co.uk/football/barcelona/race-for-the-la-liga-title/preview/elche-vs-barcelona-prediction-team-news-lineups_603472.html"
-        }
-      ]
-    },
-    {
-      "id": "손성빈",
-      "rank": 6,
-      "keyword": "손성빈",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 ''이럴 수가' 롯데 주전포수 라인업 빠졌는데…하루 쉬어도 복귀 장담 못한다? \"내일(24일) 검진 예정\" [오!쎈 잠실] - 조…' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'이럴 수가' 롯데 주전포수 라인업 빠졌는데…하루 쉬어도 복귀 장담 못한다? \"내일(24일) 검진 예정\" [오!쎈 잠실] - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/baseball/2026/08/23/GJSGIZBSGIYWKYZSMJRTQZLFGE/"
-        },
-        {
-          "title": "[스경X현장]롯데 손성빈이 라인업에서 사라졌다…김태형 감독 “한 번 검사를 해보고”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608231823003"
-        },
-        {
-          "title": "“중지 힘줄에 염좌” 손성빈 걱정한 김태형 롯데 감독, 검진 결과에 촉각",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20260823/134527242/1"
-        }
-      ]
-    },
-    {
-      "id": "상장",
-      "rank": 7,
-      "keyword": "상장",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '엘리스그룹, 증권신고서 제출…\"코스닥 상장 본격화\"' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "엘리스그룹, 증권신고서 제출…\"코스닥 상장 본격화\"",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026082408072796473"
-        },
-        {
-          "title": "AI 인프라 기업 엘리스그룹, 코스닥 상장 추진… IPO 통해 약 2000억원 조달 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/stock_general/2026/08/23/JRSPSWUM25DX3OVOFGNIQBQ5HE/"
-        },
-        {
-          "title": "엘리스그룹 코스닥 공모 본격화…몸값 1兆 조준 [시그널]",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20082059"
-        }
-      ]
-    },
-    {
-      "id": "klasemen-elche-vs-barcelona",
-      "rank": 8,
-      "keyword": "klasemen elche vs barcelona",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "한겨레",
-      "rank": 9,
-      "keyword": "한겨레",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김회승 전 한겨레 논설위원 청와대 직행에…“언론 신뢰 훼손” 비판' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '새마을금고, 상반기 정책자금 2천170억원 공급' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김회승 전 한겨레 논설위원 청와대 직행에…“언론 신뢰 훼손” 비판",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/media/1274223.html"
+          "title": "새마을금고, 상반기 정책자금 2천170억원 공급",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260824041200002"
         },
         {
-          "title": "김회승 청와대 춘추관장, 한겨레 기자 시절 무슨 기사 썼나?",
-          "source": "미디어오늘",
-          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336639"
-        },
-        {
-          "title": "한겨레 노조, 김회승 청와대행에 언론 독립성 훼손 유감",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20260821192151727"
-        }
-      ]
-    },
-    {
-      "id": "서식스-공작부인-메건",
-      "rank": 10,
-      "keyword": "서식스 공작부인 메건",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '메건 마클 '더 젠틀맨' 캐스팅 취소…영국 내 반발여론에 무산' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "메건 마클 '더 젠틀맨' 캐스팅 취소…영국 내 반발여론에 무산",
+          "title": "새마을금고, 상반기 정책자금 2170억 공급…‘서민금융’ 박차",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260823170750077"
+          "url": "https://v.daum.net/v/20260824100639506"
         },
         {
-          "title": "英 해리 왕자 부인 메건, 드라마 ’더 젠틀맨’ 캐스팅 무산",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260823171151eCU"
+          "title": "새마을금고, 상반기 정책자금 2170억원 공급…서민·소상공인 지원 확대",
+          "source": "전자신문",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "손범수",
+      "rank": 6,
+      "keyword": "손범수",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''손범수♥' 진양혜 \"子 12년 열애 끝 결혼, '양다리 걸쳐라' 농담하니 정색하더라\"(아침마당)' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'손범수♥' 진양혜 \"子 12년 열애 끝 결혼, '양다리 걸쳐라' 농담하니 정색하더라\"(아침마당)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260824n05423"
         },
         {
-          "title": "\"복귀 타진 보도 하루 만에 컷\"…영국 여론에 뺨 맞은 메건 마클",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026082319553886991"
+          "title": "손범수♥진양혜 아들, 12년 열애 끝 결혼…'연세대 동문' 미모의 아내 깜짝 공개 (아침마당) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/24/MQYWGN3GGAZTKNLCMM3GGYRZME/"
+        },
+        {
+          "title": "진양혜 “손범수, 5개월 신입인 내게 프러포즈‥화 끓어 ‘미친 거 아니냐’”(아침마당)",
+          "source": "뉴스엔",
+          "url": "https://m.newsen.com/news_view.php?uid=202608240910176710"
+        }
+      ]
+    },
+    {
+      "id": "고용노동부",
+      "rank": 7,
+      "keyword": "고용노동부",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '난임치료휴가 유급기간 2일→4일 확대…불리한 처우시 처벌' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "난임치료휴가 유급기간 2일→4일 확대…불리한 처우시 처벌",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823185951164"
+        },
+        {
+          "title": "난임치료휴가 유급기간 2일→4일 확대…불리한 처우시 처벌",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260822027600530"
+        },
+        {
+          "title": "난임치료휴가, 11월부터 '유급기간 4일로 확대'",
+          "source": "서울Pn",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=443529"
+        }
+      ]
+    },
+    {
+      "id": "zoom",
+      "rank": 8,
+      "keyword": "zoom",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Trump’s Summer of Fun Ends With an IndyCar Race on the Streets of D.C.' (The New York Times) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Trump’s Summer of Fun Ends With an IndyCar Race on the Streets of D.C.",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/23/us/politics/trump-indycar-race-dc-america-250.html"
+        },
+        {
+          "title": "Photos: Inside D.C.'s loud, patriotic Freedom 250 Grand Prix",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/08/24/indycar-dc-freedom-250-grand-prix-winner"
+        },
+        {
+          "title": "Kyle Kirkwood hangs on to win Freedom 250 Grand Prix in Washington",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/outkick-sports/kyle-kirkwood-hangs-win-freedom-250-grand-prix-washington"
+        }
+      ]
+    },
+    {
+      "id": "빗썸",
+      "rank": 9,
+      "keyword": "빗썸",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '거래대금 급감에 실적 반토막…두나무·빗썸, 자체 코인자산도 줄었다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "거래대금 급감에 실적 반토막…두나무·빗썸, 자체 코인자산도 줄었다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823145110320"
+        },
+        {
+          "title": "올해 두나무에 2조 베팅한 금융사들 '물렸다'…빗썸도 몸값 반토막",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260821000200"
+        },
+        {
+          "title": "업비트·빗썸, 소송충당금 750억…규제 리스크↑",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260823n09423"
         }
       ]
     }
