@@ -1,146 +1,146 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-24T20:39:04.067Z",
+  "updatedAt": "2026-08-24T21:36:24.676Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "화장실",
+      "id": "뉴스",
       "rank": 1,
-      "keyword": "화장실",
+      "keyword": "뉴스",
       "volumeLabel": "20000+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 '숙소 5분 거리에 있었는데, 104일 만에 찾은 경찰···장미란씨 추정 사체, 합동수색 1시간 만에 발견' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '조천·한림·애월·구좌···제주 곳곳 사흘새 시신 4구 발견, ‘실종 허위 종결’ 피해 끝이 어딘가 긴장' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "숙소 5분 거리에 있었는데, 104일 만에 찾은 경찰···장미란씨 추정 사체, 합동수색 1시간 만에 발견",
+          "title": "조천·한림·애월·구좌···제주 곳곳 사흘새 시신 4구 발견, ‘실종 허위 종결’ 피해 끝이 어딘가 긴장",
           "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608241639011"
+          "url": "https://www.khan.co.kr/article/202608241916001"
         },
         {
-          "title": "경찰, '제주 실종 사건' 지휘·감독체계 전반 감찰",
+          "title": "경찰, 실종 허위 종결 혐의 제주 경찰관 구속영장",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260825051531240"
+          "url": "https://v.daum.net/v/20260825052930332"
         },
         {
-          "title": "10분 거리에 있었는데‥3개월 만에 결국 주검으로",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846963_37004.html"
+          "title": "제주서 또다른 실종자 시신 발견…사흘새 4명째",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260824155700056"
         }
       ]
     },
     {
-      "id": "풀럼-대-첼시",
+      "id": "기초노령연금",
       "rank": 2,
-      "keyword": "풀럼 대 첼시",
+      "keyword": "기초노령연금",
       "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '알렉스 이워비, 크레이븐 코티지서 풀럼-첼시전 출전' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "알렉스 이워비, 크레이븐 코티지서 풀럼-첼시전 출전",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3673412"
-        },
-        {
-          "title": "풀럼 vs 첼시 예측: 선두 경쟁의 뜨거운 대결",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-fulham-vs-chelsea-diem-nong-cuoc-dua-top-dau"
-        },
-        {
-          "title": "프리미어 리그 풀럼 대 첼시 생중계 링크",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-fulham-vs-chelsea-tai-premier-league-1755577.ldo"
-        }
-      ]
-    },
-    {
-      "id": "유조선",
-      "rank": 3,
-      "keyword": "유조선",
-      "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이란 \"한국 장금상선 소유 유조선 등 45척 호르무즈 규정 위반\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '국민연금 성실하게 냈더니, 기초연금이 깎인다?' (YTN) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이란 \"한국 장금상선 소유 유조선 등 45척 호르무즈 규정 위반\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6847009_36925.html"
+          "title": "국민연금 성실하게 냈더니, 기초연금이 깎인다?",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0102_202608241017506120"
         },
         {
-          "title": "이란 \"유조선 45척 호르무즈 규정 위반\"…韓 선박 포함",
+          "title": "[그래픽] 국민연금 연계에 따른 기초연금 감액 규모",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/GYH20260823000400044"
+        },
+        {
+          "title": "국민연금 탔다고 기초연금 깎였다…감액 규모 4년 새 3배 '껑충'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260825051730250"
-        },
-        {
-          "title": "[기고]하루 900만 배럴, 보이지 않는 ‘다크 항로’는 호르무즈 통제권을 바꾸는가…김태준의 美·이란戰 중계",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11611474"
+          "url": "https://v.daum.net/v/20260823193549637"
         }
       ]
     },
     {
-      "id": "쿠팡플레이",
-      "rank": 4,
-      "keyword": "쿠팡플레이",
+      "id": "오싹한-연애",
+      "rank": 3,
+      "keyword": "오싹한 연애",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이강인 한 경기 최다 슈팅... 시메오네의 ‘조련’ 시작됐다' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '김민철, '오싹한 연애'의 마지막 퍼즐' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이강인 한 경기 최다 슈팅... 시메오네의 ‘조련’ 시작됐다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/08/24/LFOFABELCBEQFKNFT3AQNAHBLA/"
+          "title": "김민철, '오싹한 연애'의 마지막 퍼즐",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824105254816?f=p"
         },
         {
-          "title": "\"쿠플 요금 올려놓고\" 이강인 첫 선발전 먹통…\"소비자가 호구?\" 분통 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/tech/2026/08/25/2026082414324343179"
+          "title": "저주 풀고 손 맞잡은 박은빈·양세종…'오싹한 연애' 7.9% 종영",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260824035100005"
         },
         {
-          "title": "'첫 선발 이강인 67분' AT마드리드, 비야레알과 2대2 무승부",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6846730_36946.html"
+          "title": "옹성우, 첫 악역 도전 성공적 마무리…\"민환이 통해 새로운 모습 발견\"",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260824000751"
         }
       ]
     },
     {
-      "id": "유시민",
-      "rank": 5,
-      "keyword": "유시민",
-      "volumeLabel": "1000+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 '유시민 “이 대통령 모습 오만한 권력자…왕정, 귀족정으로 가려는 것”' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "id": "이의리",
+      "rank": 4,
+      "keyword": "이의리",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[영상] 만루홈런 맞은 KIA 이의리…이중 키킹의 명암?' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "유시민 “이 대통령 모습 오만한 권력자…왕정, 귀족정으로 가려는 것”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1274426.html"
+          "title": "[영상] 만루홈런 맞은 KIA 이의리…이중 키킹의 명암?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Yxf57GMVlW"
         },
         {
-          "title": "진보인사 유시민 “이 대통령, 오만한 권력자 모습…尹정부와 비슷한 증상”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11611690"
+          "title": "인생을 보여준 키움 김재현…'누구든 한 번은 주인공이 된다'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260824106600007"
         },
         {
-          "title": "유시민 “이재명 정부, 윤석열 정부와 놀라울 정도로 유사···문명에서 야만으로 가고 있어”",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202608242233001"
+          "title": "믿었던 이의리마저‥역전 끝내기 만루포 맞고 대역전패",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846713_37004.html"
+        }
+      ]
+    },
+    {
+      "id": "김수현",
+      "rank": 5,
+      "keyword": "김수현",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김수현, 인니 생방송 무대 올랐다…1년 5개월만에 모습 보니 [이런뉴스]' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김수현, 인니 생방송 무대 올랐다…1년 5개월만에 모습 보니 [이런뉴스]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8644339"
+        },
+        {
+          "title": "김수현, 1년 5개월 만에 공식 석상…인니 생방송 출연",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260824082800005"
+        },
+        {
+          "title": "배우 김수현, 1년 5개월 만에 활동 재개…인도네시아 생방송 출연",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR2026082413381694u"
         }
       ]
     },
@@ -148,10 +148,10 @@
       "id": "fulham-vs-chelsea",
       "rank": 6,
       "keyword": "fulham vs chelsea",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 'Fulham vs Chelsea LIVE: Premier League score, team news, commentary & u…' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -161,98 +161,126 @@
           "url": "https://www.bbc.com/sport/football/live/cqp8xg4jy4r3t"
         },
         {
-          "title": "Preview: Fulham vs. Chelsea - prediction, team news, lineups",
-          "source": "Sports Mole",
-          "url": "https://www.sportsmole.co.uk/football/fulham/preview/fulham-vs-chelsea-prediction-team-news-lineups_603532.html"
-        },
-        {
-          "title": "Fulham vs Chelsea | Premier League offer: Get £30 in free bets with Midnite",
-          "source": "The Sun",
-          "url": "https://www.thesun.co.uk/sport/40150548/fulham-vs-chelsea-premier-league-free-bets-midnite/"
-        }
-      ]
-    },
-    {
-      "id": "경주마",
-      "rank": 7,
-      "keyword": "경주마",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '“마사회 ‘말복지 지표’ 의혹 밝혀야”…제주비건, 공익감사 촉구' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“마사회 ‘말복지 지표’ 의혹 밝혀야”…제주비건, 공익감사 촉구",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824161815670"
-        },
-        {
-          "title": "1억5000만원 번 경주마 … 퇴역 2주만에 불법 도축장서 발견, 왜?",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026082416050005717"
-        },
-        {
-          "title": "[AFL 칼럼] ‘23분의 한계’와 불법도축 사이",
-          "source": "농수축산신문",
-          "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=326767"
-        }
-      ]
-    },
-    {
-      "id": "영화관",
-      "rank": 8,
-      "keyword": "영화관",
-      "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '\"비싸도 볼래요\" 2만원에도 매진인데…영화관 '줄폐점' 이유' (네이트) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"비싸도 볼래요\" 2만원에도 매진인데…영화관 '줄폐점' 이유",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260824n33783"
-        },
-        {
-          "title": "[특집] 체험이 된 영화, 특수관 쏠림과 밀려나는 ‘보통 관람’ - 네 가지 관점으로 보는 2026년➍ 특수관이 도약한 2026년, 평평한 극장은 종말을 앞두고 있는가",
-          "source": "씨네21",
-          "url": "https://cine21.com/news/view/?mag_id=110562"
-        },
-        {
-          "title": "국립극장, 스크린으로 무대 넓혀",
-          "source": "한국금융경제신문",
-          "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=662925"
-        }
-      ]
-    },
-    {
-      "id": "신봉선",
-      "rank": 9,
-      "keyword": "신봉선",
-      "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '신봉선 '웃찾사' 경력 싹 빼고 KBS 갔다 \"뚱뚱한 캐릭터 개그 요구, 싫었다\" 솔직(이홍렬TV)' (네이트) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "신봉선 '웃찾사' 경력 싹 빼고 KBS 갔다 \"뚱뚱한 캐릭터 개그 요구, 싫었다\" 솔직(이홍렬TV)",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260822n04058"
-        },
-        {
-          "title": "신봉선, 눈치 빠른 김구라도 속였다..“딴 예능 간다고 ‘복면가왕’ 펑크” (‘이홍렬TV’) - 조선비즈",
+          "title": "Alonso-led Chelsea beats Fulham 3-2 in season opener - CHOSUNBIZ",
           "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/22/MI2DGNRYGY2DSMLBGVQWEMRVGA/"
+          "url": "https://biz.chosun.com/en/en-sports/2026/08/25/SGLX6WE62ZCSHLGHUOMKMIUK6M/"
         },
         {
-          "title": "신봉선, '복면가왕' 퇴출설도 작전이었다…\"김구라까지 다 속아\" (걷다보니)",
+          "title": "Chelsea ratings: Joao Pedro makes mockery of 'no.9 curse' but Sanchez is no no.1",
+          "source": "The Sun",
+          "url": "https://www.thesun.co.uk/sport/40159055/chelsea-fulham-player-ratings-cole-palmer-joao-pedro-sanchez/"
+        }
+      ]
+    },
+    {
+      "id": "오늘날씨",
+      "rank": 7,
+      "keyword": "오늘날씨",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '처서도 지났는데 다시 '이중 열돔'‥이 더위 언제까지?' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "처서도 지났는데 다시 '이중 열돔'‥이 더위 언제까지?",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846974_37004.html"
+        },
+        {
+          "title": "부산·울산·경남 맑고 무더위 기승…낮 기온 33∼36도",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260825010300052"
+        },
+        {
+          "title": "[날씨] 8월 말인데도 한여름 더위…중부 곳곳 소나기",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260822172707144"
+          "url": "https://v.daum.net/v/20260825054813635"
+        }
+      ]
+    },
+    {
+      "id": "ฟ-ล-ม-พบ-เชลซ",
+      "rank": 8,
+      "keyword": "ฟ ล ม พบ เชลซ",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'ซูเปอร์คอมพิวเตอร์ทำนายผลการแข่งขันระหว่างฟูแล่มกับเชลซี' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "ซูเปอร์คอมพิวเตอร์ทำนายผลการแข่งขันระหว่างฟูแล่มกับเชลซี",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/sieu-may-tinh-du-doan-ket-qua-tran-fulham-vs-chelsea"
+        },
+        {
+          "title": "เชลซี บุกเฉือน ฟูแลม สุดมันส์ - เปโดร ยิงไวตั้งแต่ 31 วินาทีแรก",
+          "source": "ข่าวสด",
+          "url": "https://www.khaosod.co.th/sports/news_10373161"
+        },
+        {
+          "title": "\"เชลซี\" บุกเชือด \"เจ้าสัวน้อย\" ประเดิมซีซั่นใหม่",
+          "source": "เดลินิวส์",
+          "url": "https://www.dailynews.co.th/news/6136381/"
+        }
+      ]
+    },
+    {
+      "id": "철도",
+      "rank": 9,
+      "keyword": "철도",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '국토부, 다자녀가구 철도자격시험 수수료 50% 감면 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "국토부, 다자녀가구 철도자격시험 수수료 50% 감면 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/08/25/2026082414082549287"
+        },
+        {
+          "title": "다자녀가구, 기관사·관제사 시험 수수료 ‘반값’으로 감면해 준다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825060223027"
+        },
+        {
+          "title": "다자녀가구·차상위계층 철도자격시험 수수료 50％ 감면",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260824144000003"
+        }
+      ]
+    },
+    {
+      "id": "fc-서울",
+      "rank": 10,
+      "keyword": "fc 서울",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"이럴 거면 FC서울에 남지\" 김기동 감독 말이 현실 됐다…브라질 간 린가드, 로테이션에도 벤치→8월 선발 0회 \"아직 자리 못…' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"이럴 거면 FC서울에 남지\" 김기동 감독 말이 현실 됐다…브라질 간 린가드, 로테이션에도 벤치→8월 선발 0회 \"아직 자리 못 잡아\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260825n00190"
+        },
+        {
+          "title": "'7골 대승' 기세 몰아…K리그1 선두 서울, 부천 상대 3연승 도전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824115457396"
+        },
+        {
+          "title": "카메라 향한 세리머니에 '경고'‥\"도발 의도 없었다\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846991_37004.html"
         }
       ]
     }
