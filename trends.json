@@ -1,286 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-24T21:36:24.676Z",
+  "updatedAt": "2026-08-24T22:34:30.882Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "뉴스",
+      "id": "필라델피아-반도체-지수",
       "rank": 1,
-      "keyword": "뉴스",
-      "volumeLabel": "20000+",
+      "keyword": "필라델피아 반도체 지수",
+      "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '조천·한림·애월·구좌···제주 곳곳 사흘새 시신 4구 발견, ‘실종 허위 종결’ 피해 끝이 어딘가 긴장' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '미국 나랏빚 5경 5천조 원‥금·비트코인 뛰고 AI 랠리 '흔들'' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "조천·한림·애월·구좌···제주 곳곳 사흘새 시신 4구 발견, ‘실종 허위 종결’ 피해 끝이 어딘가 긴장",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608241916001"
+          "title": "미국 나랏빚 5경 5천조 원‥금·비트코인 뛰고 AI 랠리 '흔들'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846981_37004.html"
         },
         {
-          "title": "경찰, 실종 허위 종결 혐의 제주 경찰관 구속영장",
+          "title": "\"증시 숨통 트이나\"…美, 1383조원 들여 국채 매입 검토",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026082498431"
+        },
+        {
+          "title": "뉴욕증시, 반도체·AI주 약세에 혼조 마감…엔비디아 7일째 하락(종합)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260825052930332"
-        },
-        {
-          "title": "제주서 또다른 실종자 시신 발견…사흘새 4명째",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260824155700056"
+          "url": "https://v.daum.net/v/20260825064037577"
         }
       ]
     },
     {
-      "id": "기초노령연금",
+      "id": "погода",
       "rank": 2,
-      "keyword": "기초노령연금",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
+      "keyword": "погода",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '국민연금 성실하게 냈더니, 기초연금이 깎인다?' (YTN) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"Стэфан\" принесет сентябрьское похолодание? В Белгидромете рассказали о…' (Новости Беларуси | БелТА) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "국민연금 성실하게 냈더니, 기초연금이 깎인다?",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202608241017506120"
+          "title": "\"Стэфан\" принесет сентябрьское похолодание? В Белгидромете рассказали о погоде в конце августа",
+          "source": "Новости Беларуси | БелТА",
+          "url": "https://belta.by/society/view/stefan-prineset-sentjabrskoe-poholodanie-v-belgidromete-rasskazali-o-pogode-v-kontse-avgusta-797565-2026/"
         },
         {
-          "title": "[그래픽] 국민연금 연계에 따른 기초연금 감액 규모",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/GYH20260823000400044"
+          "title": "Фальстарт осени? Белгидромет рассказал, как после +6°C поднимется температура в Беларуси",
+          "source": "Smartpress.by",
+          "url": "https://smartpress.by/news/falstart-oseni-belgidromet-rasskazal-kak-posle-6-c-podnimetsya-temperatura-v-belarusi/"
         },
         {
-          "title": "국민연금 탔다고 기초연금 깎였다…감액 규모 4년 새 3배 '껑충'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260823193549637"
+          "title": "Какая погода ожидается в областных центрах Беларуси ночью и днем 25 августа",
+          "source": "СБ. Беларусь сегодня",
+          "url": "https://www.sb.by/articles/kakaya-pogoda-ozhidaetsya-v-oblastnykh-tsentrakh-belarusi-nochyu-i-dnem-25-avgusta.html"
         }
       ]
     },
     {
-      "id": "오싹한-연애",
+      "id": "skhy",
       "rank": 3,
-      "keyword": "오싹한 연애",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "keyword": "skhy",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김민철, '오싹한 연애'의 마지막 퍼즐' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'SK hynix: This Could Be The Deal Of The Decade' (Seeking Alpha) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김민철, '오싹한 연애'의 마지막 퍼즐",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824105254816?f=p"
+          "title": "SK hynix: This Could Be The Deal Of The Decade",
+          "source": "Seeking Alpha",
+          "url": "https://seekingalpha.com/article/4938518-sk-hynix-this-could-be-the-deal-of-the-decade"
         },
         {
-          "title": "저주 풀고 손 맞잡은 박은빈·양세종…'오싹한 연애' 7.9% 종영",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260824035100005"
+          "title": "Banks Slash Cost of Leveraged Bets on SK Hynix’s Korean Shares",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-20/banks-slash-cost-of-leveraged-bets-on-sk-hynix-s-korean-shares"
         },
         {
-          "title": "옹성우, 첫 악역 도전 성공적 마무리…\"민환이 통해 새로운 모습 발견\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260824000751"
+          "title": "SKHY Stock Pulls Back As Traders Watch Key Support",
+          "source": "StocksToTrade",
+          "url": "https://stockstotrade.com/news/sk-hynix-inc-skhy-news-2026_08_24/"
         }
       ]
     },
     {
-      "id": "이의리",
+      "id": "soxl",
       "rank": 4,
-      "keyword": "이의리",
+      "keyword": "soxl",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[영상] 만루홈런 맞은 KIA 이의리…이중 키킹의 명암?' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Leveraged ETF SOXL Climbs Over 5% After Key Trading Signal' (Benzinga) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[영상] 만루홈런 맞은 KIA 이의리…이중 키킹의 명암?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Yxf57GMVlW"
+          "title": "Leveraged ETF SOXL Climbs Over 5% After Key Trading Signal",
+          "source": "Benzinga",
+          "url": "https://www.benzinga.com/Opinion/26/08/61397165/leveraged-etf-soxl-climbs-over-5-percent-after-key-trading-signal"
         },
         {
-          "title": "인생을 보여준 키움 김재현…'누구든 한 번은 주인공이 된다'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260824106600007"
+          "title": "SOXL Turns Every 1% Nvidia Move Into 3%. Here’s What $10,000 Did in the Last 12 Months",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/soxl-turns-every-1-nvidia-233542443.html"
         },
         {
-          "title": "믿었던 이의리마저‥역전 끝내기 만루포 맞고 대역전패",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846713_37004.html"
+          "title": "Why The Direxion Daily Semiconductor Bull 3X ETF Plunged Nearly 20% Today",
+          "source": "The Motley Fool",
+          "url": "https://www.fool.com/investing/2026/08/18/why-the-direxion-daily-semiconductor-bull-3x-etf-p/"
         }
       ]
     },
     {
-      "id": "김수현",
+      "id": "사랑이-온다",
       "rank": 5,
-      "keyword": "김수현",
+      "keyword": "사랑이 온다",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김수현, 인니 생방송 무대 올랐다…1년 5개월만에 모습 보니 [이런뉴스]' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘사랑이 온다’, 분위기 탔다…시청률 16.8%↑ ‘훌쩍’' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김수현, 인니 생방송 무대 올랐다…1년 5개월만에 모습 보니 [이런뉴스]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8644339"
+          "title": "‘사랑이 온다’, 분위기 탔다…시청률 16.8%↑ ‘훌쩍’",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608240822003"
         },
         {
-          "title": "김수현, 1년 5개월 만에 공식 석상…인니 생방송 출연",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260824082800005"
-        },
-        {
-          "title": "배우 김수현, 1년 5개월 만에 활동 재개…인도네시아 생방송 출연",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR2026082413381694u"
-        }
-      ]
-    },
-    {
-      "id": "fulham-vs-chelsea",
-      "rank": 6,
-      "keyword": "fulham vs chelsea",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'Fulham vs Chelsea LIVE: Premier League score, team news, commentary & u…' (BBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Fulham vs Chelsea LIVE: Premier League score, team news, commentary & updates",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cqp8xg4jy4r3t"
-        },
-        {
-          "title": "Alonso-led Chelsea beats Fulham 3-2 in season opener - CHOSUNBIZ",
+          "title": "'하석진 바라기' 이주연, 23년 짝사랑 마침표…쌍방향 로맨스 시작 ('사랑이 온다') - 조선비즈",
           "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/08/25/SGLX6WE62ZCSHLGHUOMKMIUK6M/"
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/24/GI2TKZLCG42DMNDEMFRGCMJXMY/"
         },
         {
-          "title": "Chelsea ratings: Joao Pedro makes mockery of 'no.9 curse' but Sanchez is no no.1",
-          "source": "The Sun",
-          "url": "https://www.thesun.co.uk/sport/40159055/chelsea-fulham-player-ratings-cole-palmer-joao-pedro-sanchez/"
+          "title": "'사랑이 온다' 안희연, 하석진 향한 오열 엔딩…주말극 전체 1위",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/515667"
         }
       ]
     },
     {
-      "id": "오늘날씨",
-      "rank": 7,
-      "keyword": "오늘날씨",
+      "id": "mu",
+      "rank": 6,
+      "keyword": "mu",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '처서도 지났는데 다시 '이중 열돔'‥이 더위 언제까지?' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Micron: The Competition Has A Better Price (NASDAQ:MU)' (Seeking Alpha) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "처서도 지났는데 다시 '이중 열돔'‥이 더위 언제까지?",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846974_37004.html"
+          "title": "Micron: The Competition Has A Better Price (NASDAQ:MU)",
+          "source": "Seeking Alpha",
+          "url": "https://seekingalpha.com/article/4939473-micron-the-competition-has-a-better-price"
         },
         {
-          "title": "부산·울산·경남 맑고 무더위 기승…낮 기온 33∼36도",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260825010300052"
+          "title": "Prediction: This Artificial Intelligence (AI) Stock Will Go Parabolic After Nvidia Reports Earnings on Aug. 26",
+          "source": "The Motley Fool",
+          "url": "https://www.fool.com/investing/2026/08/24/prediction-artificial-intelligence-ai-stock-micron/"
         },
         {
-          "title": "[날씨] 8월 말인데도 한여름 더위…중부 곳곳 소나기",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260825054813635"
+          "title": "MU Stock Slides As Netlist Patent Fight Rattles Traders",
+          "source": "StocksToTrade",
+          "url": "https://stockstotrade.com/news/micron-technology-inc-mu-news-2026_08_24/"
         }
       ]
     },
     {
-      "id": "ฟ-ล-ม-พบ-เชลซ",
+      "id": "ionq",
+      "rank": 7,
+      "keyword": "ionq",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Quantum Computing Stock Jumps 9.6% as Cash Covers 64% of Its Market Val…' (TechStock²) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Quantum Computing Stock Jumps 9.6% as Cash Covers 64% of Its Market Value",
+          "source": "TechStock²",
+          "url": "https://ts2.tech/en/quantum-computing-stock-jumps-9-6-as-cash-covers-64-of-its-market-value/"
+        },
+        {
+          "title": "Quantum Computing (NASDAQ:QUBT) Trading Up 7.5% - Time to Buy?",
+          "source": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/quantum-computing-nasdaqqubt-trading-up-75-time-to-buy-2026-08-21/"
+        },
+        {
+          "title": "Quantum Computing Inc: Revenue Jumps More Than 90-Fold To $5.6 Million As Backlog Reaches $42.5 Million",
+          "source": "Pulse 2.0",
+          "url": "https://pulse2.com/quantum-computing-inc-revenue-jumps-more-than-90-fold-to-5-6-million-as-backlog-reaches-42-5-million/"
+        }
+      ]
+    },
+    {
+      "id": "광주광역시",
       "rank": 8,
-      "keyword": "ฟ ล ม พบ เชลซ",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "keyword": "광주광역시",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'ซูเปอร์คอมพิวเตอร์ทำนายผลการแข่งขันระหว่างฟูแล่มกับเชลซี' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '전남광주시 \"도시철도 2호선 재점검…사업 재검토 아니다\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "ซูเปอร์คอมพิวเตอร์ทำนายผลการแข่งขันระหว่างฟูแล่มกับเชลซี",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/sieu-may-tinh-du-doan-ket-qua-tran-fulham-vs-chelsea"
-        },
-        {
-          "title": "เชลซี บุกเฉือน ฟูแลม สุดมันส์ - เปโดร ยิงไวตั้งแต่ 31 วินาทีแรก",
-          "source": "ข่าวสด",
-          "url": "https://www.khaosod.co.th/sports/news_10373161"
-        },
-        {
-          "title": "\"เชลซี\" บุกเชือด \"เจ้าสัวน้อย\" ประเดิมซีซั่นใหม่",
-          "source": "เดลินิวส์",
-          "url": "https://www.dailynews.co.th/news/6136381/"
-        }
-      ]
-    },
-    {
-      "id": "철도",
-      "rank": 9,
-      "keyword": "철도",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '국토부, 다자녀가구 철도자격시험 수수료 50% 감면 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "국토부, 다자녀가구 철도자격시험 수수료 50% 감면 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/08/25/2026082414082549287"
-        },
-        {
-          "title": "다자녀가구, 기관사·관제사 시험 수수료 ‘반값’으로 감면해 준다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260825060223027"
-        },
-        {
-          "title": "다자녀가구·차상위계층 철도자격시험 수수료 50％ 감면",
+          "title": "전남광주시 \"도시철도 2호선 재점검…사업 재검토 아니다\"",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260824144000003"
+          "url": "https://www.yna.co.kr/view/AKR20260824116600054"
+        },
+        {
+          "title": "광주 도시철도 2호선 '재검토' 아니라더니...공사 중단 가능성은 '침묵'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824204005097"
+        },
+        {
+          "title": "'도시철도 2호선 논란'…통합특별시 \"전면 재검토 아니다\"",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026082417021717710"
         }
       ]
     },
     {
-      "id": "fc-서울",
+      "id": "qqq",
+      "rank": 9,
+      "keyword": "qqq",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Historical Data for DGrid in USD' (CryptoRank) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Historical Data for DGrid in USD",
+          "source": "CryptoRank",
+          "url": "https://cryptorank.io/price/dgrid/historical-data"
+        },
+        {
+          "title": "AMC Entertainment Tokenized Stock (Robinhood) Analytics",
+          "source": "CryptoRank",
+          "url": "https://cryptorank.io/price/amc-entertainment-tokenized-stock-robinhood/analytics"
+        },
+        {
+          "title": "AST SpaceMobile Tokenized Stock (Robinhood) Exchanges ASTS Markets | Buy & Sell & Trade",
+          "source": "CryptoRank",
+          "url": "https://cryptorank.io/price/ast-spacemobile-tokenized-stock-robinhood/exchanges"
+        }
+      ]
+    },
+    {
+      "id": "일기예보",
       "rank": 10,
-      "keyword": "fc 서울",
+      "keyword": "일기예보",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"이럴 거면 FC서울에 남지\" 김기동 감독 말이 현실 됐다…브라질 간 린가드, 로테이션에도 벤치→8월 선발 0회 \"아직 자리 못…' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '8월 24일 응에안 지역 날씨 예보: 소나기와 천둥번개가 예상됩니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"이럴 거면 FC서울에 남지\" 김기동 감독 말이 현실 됐다…브라질 간 린가드, 로테이션에도 벤치→8월 선발 0회 \"아직 자리 못 잡아\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260825n00190"
+          "title": "8월 24일 응에안 지역 날씨 예보: 소나기와 천둥번개가 예상됩니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/thoi-tiet-nghe-an-ngay-24-8-mua-rao-va-dong-rai-rac"
         },
         {
-          "title": "'7골 대승' 기세 몰아…K리그1 선두 서울, 부천 상대 3연승 도전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824115457396"
+          "title": "8월 23일 응에안 지역 날씨 예보: 맑음, 최고 기온 33도.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/thoi-tiet-nghe-an-ngay-23-8-ngay-troi-nang-nhiet-do-cao-nhat-33-do-c"
         },
         {
-          "title": "카메라 향한 세리머니에 '경고'‥\"도발 의도 없었다\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846991_37004.html"
+          "title": "8월 22일 응에안 지역 날씨 예보: 맑은 날씨에 곳곳에 소나기와 천둥번개가 예상됩니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/thoi-tiet-nghe-an-ngay-22-8-ngay-troi-nang-co-mua-rao-va-dong-rai-rac"
         }
       ]
     }
