@@ -1,286 +1,254 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-24T05:20:06.281Z",
+  "updatedAt": "2026-08-24T06:05:15.760Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "신슬기",
+      "id": "미스코리아",
       "rank": 1,
-      "keyword": "신슬기",
+      "keyword": "미스코리아",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''덱스와 썸 탄' 신슬기, 서울숲서 웨딩 촬영…순백의 자태' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '농구선수 우지원 딸 우서윤, 미스코리아 진 당선' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'덱스와 썸 탄' 신슬기, 서울숲서 웨딩 촬영…순백의 자태",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824094615429"
-        },
-        {
-          "title": "'솔로지옥2' 덱스 썸녀 신슬기, 웨딩화보 공개",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260824n06413"
-        },
-        {
-          "title": "‘솔로지옥2’ 신슬기, 결혼한다면 이런 모습? 웨딩화보 공개",
-          "source": "뉴스엔",
-          "url": "https://www.newsen.com/news_view.php?uid=202608241058496310&code=100100"
-        }
-      ]
-    },
-    {
-      "id": "기안84",
-      "rank": 2,
-      "keyword": "기안84",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '대관령으로 간 '대환장 기안장2'…김연경·이준호 합류' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "대관령으로 간 '대환장 기안장2'…김연경·이준호 합류",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824101237757?f=m"
-        },
-        {
-          "title": "기안84, 김연경·이준호·카즈하와 겨울 설원으로…‘대환장 기안장2’, 9월 22일 공개",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260824500693"
-        },
-        {
-          "title": "'기안장' 시즌2로 돌아온다…BTS 진·지예은 모두 하차",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260824_0003759469"
-        }
-      ]
-    },
-    {
-      "id": "명태균",
-      "rank": 3,
-      "keyword": "명태균",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[변화] 대법원, '해외골프 접대 여행' 김인택 부장판사에 정직 3개월' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[변화] 대법원, '해외골프 접대 여행' 김인택 부장판사에 정직 3개월",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824111152833"
-        },
-        {
-          "title": "'명태균 무죄' 김인택 부장판사, '접대골프여행'으로 정직 3개월 징계",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6846799_36918.html"
-        },
-        {
-          "title": "‘명태균 무죄’ 부장판사 정직 3개월…대법 “기업 쪽서 여행비 받아”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1274294.html"
-        }
-      ]
-    },
-    {
-      "id": "화장품",
-      "rank": 4,
-      "keyword": "화장품",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '코스맥스·현대홈쇼핑, 맞춤형 화장품 공동 개발' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "코스맥스·현대홈쇼핑, 맞춤형 화장품 공동 개발",
+          "title": "농구선수 우지원 딸 우서윤, 미스코리아 진 당선",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260824029600030"
+          "url": "https://www.yna.co.kr/view/AKR20260823048800005"
         },
         {
-          "title": "현대홈쇼핑, 코스맥스와 ‘코아시스’ 단독 상품 개발…뷰티 경쟁력 강화",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20082453"
+          "title": "우지원 딸 우서윤 '미코 진' 성형 논란, 14년 전에도? 김유미까지 소환",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260824n16178"
         },
         {
-          "title": "현대홈쇼핑·코스맥스, 맞춤형 화장품 공동 개발 MOU 체결",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260824000129"
+          "title": "‘♥이탁수’ 전수완, 미스코리아 최종 입상 불발… 우지원 딸 우서윤 ‘진’ 영예에 엇갈린 운명",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823230327214"
         }
       ]
     },
     {
-      "id": "박위-논란",
+      "id": "앗-사니",
+      "rank": 2,
+      "keyword": "앗 사니",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '태풍 4개가 동시에‥올해 21번째 태풍 '앗사니' 발생' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "태풍 4개가 동시에‥올해 21번째 태풍 '앗사니' 발생",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6846808_36918.html"
+        },
+        {
+          "title": "[날씨] 폭염 속 내륙 소나기…늦더위 변수 태풍 '사우델'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824144646661"
+        },
+        {
+          "title": "한반도 날씨, ‘매우 강’ 태풍 사우델 영향 받을 듯",
+          "source": "채널A",
+          "url": "https://ichannela.com/news/detail/000000546531.do"
+        }
+      ]
+    },
+    {
+      "id": "김설현",
+      "rank": 3,
+      "keyword": "김설현",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "백낙청",
+      "rank": 4,
+      "keyword": "백낙청",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '백낙청 “이 대통령·지지자, 당내 반란 진압…유시민 바닥 드러나”' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "백낙청 “이 대통령·지지자, 당내 반란 진압…유시민 바닥 드러나”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1274285.html"
+        },
+        {
+          "title": "백낙청 \"민주 전대로 반란 진압…'친명 위장' 터트린 건 유시민\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824144151342"
+        },
+        {
+          "title": "백낙청 “민주당 전당대회는 2기 촛불정부 반대세력 총궐기… 김어준·유시민, 우호적이지 않아”",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260823580170"
+        }
+      ]
+    },
+    {
+      "id": "장례",
       "rank": 5,
-      "keyword": "박위 논란",
+      "keyword": "장례",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 '\"박위, 애쓴 사람 담그려 해\"...현직 기관사도 분노 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"박위, 애쓴 사람 담그려 해\"...현직 기관사도 분노 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/24/2026082409205299422"
-        },
-        {
-          "title": "박위, 자리 텅텅 비었던 강연 취소→예약자들에 발송된 문자 보니",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824134139422"
-        },
-        {
-          "title": "박위, KTX 낙상 영상 후폭풍…사과에도 구독자 100만선 붕괴",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608240833003"
-        }
-      ]
-    },
-    {
-      "id": "블라디미르-푸틴",
-      "rank": 6,
-      "keyword": "블라디미르 푸틴",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '러 경제시설 때리는 우크라… 푸틴 “판도라 상자 열어” 대대적 공습' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '남양주시, 반려동물 장례비 부담 덜어준다' (뉴스타운) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "러 경제시설 때리는 우크라… 푸틴 “판도라 상자 열어” 대대적 공습",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20260823/134527754/2"
-        },
-        {
-          "title": "[자막뉴스] 서로의 심장부 노리는 러·우 드론 대공습...전 도시를 덮친 공포",
-          "source": "YTN",
-          "url": "https://m.ytn.co.kr/news_view.php?key=202608230803299319&s_mcd=0134"
-        },
-        {
-          "title": "“키이우 정권이 판도라 상자 열었다”…푸틴, 물류센터 피격에 보복 시사",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260823234810548"
-        }
-      ]
-    },
-    {
-      "id": "심폐소생술",
-      "rank": 7,
-      "keyword": "심폐소생술",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '가족 슬픔 속에서도 생명부터…상복 입은 간호사, 장례식장서 쓰러진 남성 살렸다' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "가족 슬픔 속에서도 생명부터…상복 입은 간호사, 장례식장서 쓰러진 남성 살렸다",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026082413473840819"
-        },
-        {
-          "title": "가족 장례 중 시민 살린 간호사…심폐소생술 환자 의식 회복",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260824035700051"
-        },
-        {
-          "title": "장례식장서 쓰러진 남성...때마침 있던 간호사가 CPR로 살렸다",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1681377/%EC%9E%A5%EB%A1%80%EC%8B%9D%EC%9E%A5%EC%84%9C-%EC%93%B0%EB%9F%AC%EC%A7%84-%EB%82%A8%EC%84%B1%EB%95%8C%EB%A7%88%EC%B9%A8-%EC%9E%88%EB%8D%98-%EA%B0%84-2026"
-        }
-      ]
-    },
-    {
-      "id": "징역형",
-      "rank": 8,
-      "keyword": "징역형",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '7년 도망친 사기범, 징역형 시효 3일 남기고 검찰에 붙잡혀' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "7년 도망친 사기범, 징역형 시효 3일 남기고 검찰에 붙잡혀",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824052103245"
-        },
-        {
-          "title": "7년 도망친 사기범 ’형 집행시효’ 사흘 전 붙잡혀",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH202608220827099df"
-        },
-        {
-          "title": "공사대금 가로챈 뒤 7년간 잠적···광주지검, 형 집행 시효 3일 앞두고 검거",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608211508001"
-        }
-      ]
-    },
-    {
-      "id": "핵무기",
-      "rank": 9,
-      "keyword": "핵무기",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“韓 자체 핵무장 필요” “확장억제 강화를”…전문가 8인 긴급 진단' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“韓 자체 핵무장 필요” “확장억제 강화를”…전문가 8인 긴급 진단",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824050249968"
-        },
-        {
-          "title": "트럼프의 수상한 시그널...낙동강 오리알 신세 된 한국 [자막뉴스]",
-          "source": "YTN",
-          "url": "https://m.ytn.co.kr/news_view.php?key=202608230922283876&s_mcd=0134"
-        },
-        {
-          "title": "북핵 묵인설에 다시 튀어나온 핵무장론…원자력협정 협상 중인 정부는 ‘경계’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608231611001"
-        }
-      ]
-    },
-    {
-      "id": "초대형-방사포",
-      "rank": 10,
-      "keyword": "초대형 방사포",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '트럼프 측근 \"트럼프, 김정은 앞서 이 대통령과 먼저 회담해야\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "트럼프 측근 \"트럼프, 김정은 앞서 이 대통령과 먼저 회담해야\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6846786_36925.html"
-        },
-        {
-          "title": "‘親트럼프’ 매체마저 “패는 북한에”…美국방, 北조롱에 “할 말 없다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824141252755"
-        },
-        {
-          "title": "트럼프·김정은 ‘핵 포커 게임’ 누가 패를 쥐고 있나?",
+          "title": "남양주시, 반려동물 장례비 부담 덜어준다",
           "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=713349"
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=713375"
+        },
+        {
+          "title": "취약계층 반려동물 무료 장례 지원… 남양주-장례업체 협약 효과 톡톡",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260824506867"
+        },
+        {
+          "title": "‘반려동물 장례 지원’ 시행 5개월째",
+          "source": "남양주뉴스",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "톰-아스피날",
+      "rank": 6,
+      "keyword": "톰 아스피날",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "김진야",
+      "rank": 7,
+      "keyword": "김진야",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"국대 영구 박탈 장현수와는 달랐다\" 日 매체도 조명한 김진야 병역법 논란…무죄 확정에 \"진심으로 사과\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"국대 영구 박탈 장현수와는 달랐다\" 日 매체도 조명한 김진야 병역법 논란…무죄 확정에 \"진심으로 사과\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823004236346"
+        },
+        {
+          "title": "병역법 위반 멍에 모두 씻어낸 김진야, 최종 무죄 확정 \"앞으로 축구와 봉사에 더욱 전념하겠다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/08/21/GQ3WIZRRGJSDGOBVGRSWEYJXMM/"
+        },
+        {
+          "title": "김진야 누명 벗었다, 법원 \"1시간 30분 부풀리려고 위조 납득 어려워\"…검찰도 항소 포기, 무죄로 종결",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260821n02970"
+        }
+      ]
+    },
+    {
+      "id": "수해",
+      "rank": 8,
+      "keyword": "수해",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '휴일 잊은 복구 ‘구슬땀’…대피 생활 장기화' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "휴일 잊은 복구 ‘구슬땀’…대피 생활 장기화",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8643903"
+        },
+        {
+          "title": "동양생명, 수해 피해고객에 특별금융지원 시행",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260824500941"
+        },
+        {
+          "title": "'일손 부족' 포도 농가에도 자원봉사 발길",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0115_202608231458337445_005.html"
+        }
+      ]
+    },
+    {
+      "id": "부코페",
+      "rank": 9,
+      "keyword": "부코페",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"법에만 안 걸리고 웃기면 돼\"… 웃음으로 전유성을 추모한 후배 개그맨들' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"법에만 안 걸리고 웃기면 돼\"… 웃음으로 전유성을 추모한 후배 개그맨들",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/08/24/T2MHYCSOOBCKFBEP2MWDAWX44A/"
+        },
+        {
+          "title": "“故 구봉서·전유성을 기리며”… 부코페서 헌정공연",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11611512"
+        },
+        {
+          "title": "[서병기의 문화인사이트]‘부코페’의 역할은 코미디 문화와 장르의 확장…故 전유성 개그의 맥락과도 통해",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824103727106"
+        }
+      ]
+    },
+    {
+      "id": "모두의-창업",
+      "rank": 10,
+      "keyword": "모두의 창업",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '가까운 아이디어가 창업이 된다 - 영상 | 멀티미디어' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "가까운 아이디어가 창업이 된다 - 영상 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148970489&pWise=sub&pWiseSub=R6"
+        },
+        {
+          "title": "창업지원네트워크, 중기부 ‘모두의 창업’ 2기 운영사 선정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824140108157"
+        },
+        {
+          "title": "관악중소벤처진흥원, '모두의 창업' 프로젝트 멘토기관 선정",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260823_0003758887"
         }
       ]
     }
