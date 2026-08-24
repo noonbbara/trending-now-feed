@@ -1,85 +1,29 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-24T07:40:08.354Z",
+  "updatedAt": "2026-08-24T08:57:18.367Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "감전",
+      "id": "김희철",
       "rank": 1,
-      "keyword": "감전",
-      "volumeLabel": "2000+",
+      "keyword": "김희철",
+      "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '인천 아파트서 관리사무소 20대 직원 샤워 중 감전 추정 사망' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '임영웅, 호우 피해 거제·통영에 2억원 쾌척…누적 기부 27억원' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "인천 아파트서 관리사무소 20대 직원 샤워 중 감전 추정 사망",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260824006100065"
-        },
-        {
-          "title": "인천 아파트 기계실서 20대 관리소 직원 샤워 중 감전사",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608240822001"
-        },
-        {
-          "title": "인천 아파트 기계실서 20대 직원 숨진 채 발견… 샤워 중 감전 추정",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260824580011"
-        }
-      ]
-    },
-    {
-      "id": "나영석",
-      "rank": 2,
-      "keyword": "나영석",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '고성군 홍보대사로 나영석 PD 위촉... 새로운 지역 콘텐츠 기대' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "고성군 홍보대사로 나영석 PD 위촉... 새로운 지역 콘텐츠 기대",
+          "title": "임영웅, 호우 피해 거제·통영에 2억원 쾌척…누적 기부 27억원",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260824150145525"
+          "url": "https://v.daum.net/v/20260824144639652"
         },
         {
-          "title": "나영석 PD, 강원 고성군 홍보대사로 위촉됐다",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260824504613"
-        },
-        {
-          "title": "강원 고성, 홍보대사로 ‘지구오락실’ 나영석 PD 위촉",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10850185"
-        }
-      ]
-    },
-    {
-      "id": "임영웅",
-      "rank": 3,
-      "keyword": "임영웅",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '임영웅, 거제·통영 등 호우 피해에 2억원 기부…누적 27억원' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "임영웅, 거제·통영 등 호우 피해에 2억원 기부…누적 27억원",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8644057"
-        },
-        {
-          "title": "슈주 김희철, 남부지역 집중호우 피해 복구 위해 1억 기부",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824155851485"
+          "title": "임영웅, 거제·통영 피해 복구에 ‘2억’ 기부…누적 27억 원",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11611397"
         },
         {
           "title": "어썸엔터테인먼트, 경남 거제·통영 등 집중호우 피해 지원 성금 6000만 원 기부",
@@ -89,198 +33,244 @@
       ]
     },
     {
-      "id": "은행",
-      "rank": 4,
-      "keyword": "은행",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "id": "김건희",
+      "rank": 2,
+      "keyword": "김건희",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '부산은행, AI로 일하는 방식 바꾼다…\"업무 생산성 향상\"' (매일경제 마켓) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '尹, 김건희가 법무부장관에 보낸 문자에 \"집사람이 쓸 수준 아냐\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "부산은행, AI로 일하는 방식 바꾼다…\"업무 생산성 향상\"",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1147085"
-        },
-        {
-          "title": "BNK부산은행, 사내 AI크루 출범 \"AI로 일하는 방식 바꾼다\"",
+          "title": "尹, 김건희가 법무부장관에 보낸 문자에 \"집사람이 쓸 수준 아냐\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260824153210138"
+          "url": "https://v.daum.net/v/20260824151341164"
         },
         {
-          "title": "부산은행, AI로 일하는 방식 바꾼다...'AI크루' 출범",
-          "source": "부산파이낸셜뉴스",
-          "url": "https://busan.fnnews.com/news/202608241507544124"
+          "title": "윤석열 “계엄, 법 따라 순진하게 판단…포고령은 ‘구색’으로 생각”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8644251"
+        },
+        {
+          "title": "尹 “집사람이 쓸 문자 수준 아냐”…‘디올백 수수 의혹’ 정면 부인",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20260824/134532872/1"
         }
       ]
     },
     {
-      "id": "lpga",
-      "rank": 5,
-      "keyword": "lpga",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Kim Seyoung Finishes Top 3... Yamashita Claims 'Wire-to-Wire Victory'' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Kim Seyoung Finishes Top 3... Yamashita Claims 'Wire-to-Wire Victory'",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/en/article/2026082410214894782"
-        },
-        {
-          "title": "Licensable picture: LPGA: CPKC Women's Open - Final Round",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/lpga-cpkc-womens-open-final-round/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk2NTAxNDA"
-        },
-        {
-          "title": "Miyu Yamashita matches LPGA Tour’s 72-hole scoring record in nine-stroke victory at Canadian Women’s Open",
-          "source": "The Boston Globe",
-          "url": "https://www.bostonglobe.com/2026/08/23/sports/golf-lpga-canadian-womens-open-miyu-yamashita/"
-        }
-      ]
-    },
-    {
-      "id": "더불어민주당",
-      "rank": 6,
-      "keyword": "더불어민주당",
+      "id": "타율",
+      "rank": 3,
+      "keyword": "타율",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '악수 거부하던 정청래와 달랐다…웃으며 만난 김민석·장동혁' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '샌프란시스코 이정후, 보스턴전 4타수 무안타…타율 0.289(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "악수 거부하던 정청래와 달랐다…웃으며 만난 김민석·장동혁",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824150849940"
+          "title": "샌프란시스코 이정후, 보스턴전 4타수 무안타…타율 0.289(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260824009851007"
         },
         {
-          "title": "김민석-장동혁 첫 회동‥'대법관 제청' 신경전",
+          "title": "‘정말 지친 건가’ 이정후, 왜 황당 오심에도 ABS 챌린지 안 했나…무안타 침묵→타율 2할9푼대 붕괴 막을 수 있었다 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/baseball/2026/08/24/MUYTEYTFGJQWKYJQHEYTAMDFMU/"
+        },
+        {
+          "title": "샌프란시스코 이정후, 안타에 도루 추가‥타율 0.291",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6846864_36974.html"
-        },
-        {
-          "title": "장동혁과 첫 회동한 김민석 \"필수적 제1야당 리더\" 치켜세워",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/assembly/2026/08/24/OHRUT3IANZE5VC6POJGKPS5FHM/"
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6846658_36946.html"
         }
       ]
     },
     {
-      "id": "조성진",
-      "rank": 7,
-      "keyword": "조성진",
+      "id": "인천대교",
+      "rank": 4,
+      "keyword": "인천대교",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '104명 추락한 다리, \"더는 안된다\"...2.5ｍ 난간 설치' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "104명 추락한 다리, \"더는 안된다\"...2.5ｍ 난간 설치",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/51lrypaezE"
+        },
+        {
+          "title": "개통 후 97명 사망 ‘투신대교’ 오명 쓴 인천대교···추락방지 시설 설치",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608240903001"
+        },
+        {
+          "title": "인천대교 추락 사고 막는다…국토부, 3m 높이 방지시설 설치",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260824580028"
+        }
+      ]
+    },
+    {
+      "id": "최두호",
+      "rank": 5,
+      "keyword": "최두호",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '평택 여름, 자연과 예술을 만나는 가볼 만한 곳' (톱스타뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Korean Superboy Choi Doo-ho (35, Timmad) will play a 5 minute × 3 round…' (매일경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "평택 여름, 자연과 예술을 만나는 가볼 만한 곳",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16165010"
-        },
-        {
-          "title": "장르별로 깊게, 시민에게 가깝게…평택아트센터 시리즈 공연 순항",
-          "source": "서울뉴스통신",
-          "url": ""
-        },
-        {
-          "title": "평택아트센터 '조성진 피아노 리사이틀' 성료",
-          "source": "뉴스테이지",
-          "url": ""
+          "title": "Korean Superboy Choi Doo-ho (35, Timmad) will play a 5 minute × 3 round featherweight (66kg) match w..",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/sports/12134320"
         }
       ]
     },
     {
-      "id": "벌금",
-      "rank": 8,
-      "keyword": "벌금",
+      "id": "동원령",
+      "rank": 6,
+      "keyword": "동원령",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '특정 정당 비판하던 60대, \"정치 얘기 좀 그만하라\" 말 듣고 대리 기사 뺨 때려' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“나 떨고 있니”…러시아 대규모 동원령 임박? 푸틴 결단만 남았다는데' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "특정 정당 비판하던 60대, \"정치 얘기 좀 그만하라\" 말 듣고 대리 기사 뺨 때려",
+          "title": "“나 떨고 있니”…러시아 대규모 동원령 임박? 푸틴 결단만 남았다는데",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260824093907097"
+          "url": "https://v.daum.net/v/20260824173001390"
         },
         {
-          "title": "정치 얘기 말리자 대리기사 폭행…60대 벌금형",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8643787"
+          "title": "\"러시아, 연말까지 우크라이나에 병력 30만명 증파\"…젤렌스키 경고",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260824_0003759123"
         },
         {
-          "title": "\"정치 얘기 그만\" 대리기사 말에 뺨 때린 60대 벌금 100만원",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260821056900057"
+          "title": "러 ‘대규모 동원령’ 임박?···징집 대상 남성들 해외 도피 모색",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608241324001"
         }
       ]
     },
     {
-      "id": "건설",
+      "id": "대한민국-해병대",
+      "rank": 7,
+      "keyword": "대한민국 해병대",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '제주 해병 3·4기 호국정신 기린다…29~30일 ‘해병대의 날’' (제민일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "제주 해병 3·4기 호국정신 기린다…29~30일 ‘해병대의 날’",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=842019"
+        },
+        {
+          "title": "해병대전우회 서귀포시지회 경로잔치 개최",
+          "source": "한라일보",
+          "url": ""
+        },
+        {
+          "title": "제26회 제주 해병대의 날, 호국정신 되새긴다",
+          "source": "제주매일",
+          "url": "https://www.jejumaeil.net/news/articleView.html?idxno=403944"
+        }
+      ]
+    },
+    {
+      "id": "간호",
+      "rank": 8,
+      "keyword": "간호",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[포천소식]경복대, 2027학년도 수시 1차 원서접수 등' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[포천소식]경복대, 2027학년도 수시 1차 원서접수 등",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260824_0003759752"
+        },
+        {
+          "title": "경복대, 2027학년도 신입생 수시 1차모집 9월7일 시작",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20260823022005546"
+        },
+        {
+          "title": "경복대, 9월 7일부터 수시 1차 접수…안내 영상도 제공",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260823233226224"
+        }
+      ]
+    },
+    {
+      "id": "추가경정예산",
       "rank": 9,
-      "keyword": "건설",
+      "keyword": "추가경정예산",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '대우건설 이강석 대표, 양주 건설현장서 '안전 최우선' 강조' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '나주시, 2차 추경 1천289억원 편성…민생지원금 240억원' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "대우건설 이강석 대표, 양주 건설현장서 '안전 최우선' 강조",
+          "title": "나주시, 2차 추경 1천289억원 편성…민생지원금 240억원",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824151902483"
+        },
+        {
+          "title": "양양군, 제2회 추경 4780억 규모 편성...내달 1일 확정",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260824000685"
+        },
+        {
+          "title": "경남도, 4천364억원 증액 3차 추경안 제출…재난 대응 등 중심",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260824027300003"
-        },
-        {
-          "title": "이강석 대우건설 신임 대표, 취임 첫 현장 점검서 ‘안전 최우선’ 강조",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260824/134530643/1"
-        },
-        {
-          "title": "대우건설 이강석 신임 대표, 첫 현장 행보로 경기 양주 아파트 공사장 방문",
-          "source": "IT조선",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168679"
+          "url": "https://www.yna.co.kr/view/AKR20260824086700052"
         }
       ]
     },
     {
-      "id": "감시",
+      "id": "클로드-장애",
       "rank": 10,
-      "keyword": "감시",
+      "keyword": "클로드 장애",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '남양주시, 인플루엔자 표본감시기관 1개소 신규 확충' (뉴스핌) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '앤트로픽, 클로드 챗봇·코딩 서비스 장애…정상화 시점 '미정'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "남양주시, 인플루엔자 표본감시기관 1개소 신규 확충",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260824000961"
-        },
-        {
-          "title": "남양주시 동부보건소, 인플루엔자 표본감시기관 확대",
-          "source": "매일일보",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=1405365"
-        },
-        {
-          "title": "순찰하고 주차까지…아파트로 들어온 로봇",
+          "title": "앤트로픽, 클로드 챗봇·코딩 서비스 장애…정상화 시점 '미정'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260822203915133"
+          "url": "https://v.daum.net/v/20260824171149600"
+        },
+        {
+          "title": "클로드 장애 8월 잇따라 발생, 개발 작업 중단…지금 확인할 것",
+          "source": "디지털포커스",
+          "url": "https://www.digitalfocus.news/news/articleView.html?idxno=23258"
+        },
+        {
+          "title": "앤트로픽 클로드, 인증 오류로 대규모 장애…42분 뒤 복구, 신고 1만5천건 몰려",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1152930"
         }
       ]
     }
