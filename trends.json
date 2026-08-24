@@ -1,17 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-24T23:28:18.136Z",
+  "updatedAt": "2026-08-24T23:52:13.195Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
       "id": "송해나",
       "rank": 1,
       "keyword": "송해나",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '\"일반인 입었으면 경악할 패션\"… 송해나, 도쿄 싹 쓸어버린 '쇼킹 레이어드'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -36,17 +36,17 @@
       "id": "아버지",
       "rank": 2,
       "keyword": "아버지",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“부부싸움 말리다”…아들이 휘두른 흉기에 아버지 숨져' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '“부부싸움 말리다”…아들이 휘두른 흉기에 아버지 숨져' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "“부부싸움 말리다”…아들이 휘두른 흉기에 아버지 숨져",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8643761"
+          "source": "Daum",
+          "url": "https://v.daum.net/v/z7KqbRyOhJ"
         },
         {
           "title": "천안서 존속살해 비극…아버지 숨지게 한 10대 체포",
@@ -65,9 +65,9 @@
       "rank": 3,
       "keyword": "빅뱅",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '추억의 아이돌? 여전히 청춘 아이콘… 스무살 ‘빅뱅’이 왔다' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -93,21 +93,21 @@
       "rank": 4,
       "keyword": "비트코인",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[코인시세] 비트코인 7만 2천달러 돌파…규제 완화 기대에 코인 강세' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '암호화폐 반등은 얼마나 지속될까? 애널리스트의 분석' (Investing.com 한국어) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "암호화폐 반등은 얼마나 지속될까? 애널리스트의 분석",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/cryptocurrency-news/article-2072461"
+        },
         {
           "title": "[코인시세] 비트코인 7만 2천달러 돌파…규제 완화 기대에 코인 강세",
           "source": "연합뉴스TV",
           "url": "https://www.yonhapnewstv.co.kr/news/AKR20260821103226IMN"
-        },
-        {
-          "title": "\"비트코인 상승으로 '디베이스먼트 트레이드' 본격화 조짐\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431440"
         },
         {
           "title": "[크립토하나] 비트코인 약세장 종료론 '솔솔'…27일 빗썸 오지급 1심 결론",
@@ -120,10 +120,10 @@
       "id": "김승현",
       "rank": 5,
       "keyword": "김승현",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '\"수익 1000만 원→100만 원 추락\"…김승현 패밀리, 악플·수익난 속 충격 근황' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -145,41 +145,97 @@
       ]
     },
     {
-      "id": "로베르토-데-제르비",
+      "id": "스테이블코인",
       "rank": 6,
-      "keyword": "로베르토 데 제르비",
-      "volumeLabel": "200+",
+      "keyword": "스테이블코인",
+      "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김지수 빠진 브렌트퍼드, EPL 개막전서 토트넘에 3-0 완승' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '금리 인하에 진심인 미국…트럼프 '가상화폐 밀어주기' 큰 그림' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김지수 빠진 브렌트퍼드, EPL 개막전서 토트넘에 3-0 완승",
+          "title": "금리 인하에 진심인 미국…트럼프 '가상화폐 밀어주기' 큰 그림",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825050003818"
+        },
+        {
+          "title": "“미국, 국채금리 잡는 데 스테이블코인 활용…새 재정 전략”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8644924"
+        },
+        {
+          "title": "[김대호 진단] 스테이블코인 태풍이 온다",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Opinion/2026/08/20260824102719472906806b77b_1"
+        }
+      ]
+    },
+    {
+      "id": "장교",
+      "rank": 7,
+      "keyword": "장교",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[이윤태 기자의 국방이야기]엘리트 놓치는 軍의 ‘엘리트 코스’' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[이윤태 기자의 국방이야기]엘리트 놓치는 軍의 ‘엘리트 코스’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Opinion/article/all/20260824/134535834/2"
+        },
+        {
+          "title": "\"통폐합으로 군 전문성 약해지면 북한에 전략적 이익\"[장세정의 직격토론]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825001550430"
+        },
+        {
+          "title": "[생생토론] 육해공군 사관학교 통합 배경은?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8644367"
+        }
+      ]
+    },
+    {
+      "id": "에코프로비엠",
+      "rank": 8,
+      "keyword": "에코프로비엠",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '에코프로비엠, 하이니켈 양극소재 공급 위해 헝가리공장 개조' (전기신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "에코프로비엠, 하이니켈 양극소재 공급 위해 헝가리공장 개조",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=371555"
+        },
+        {
+          "title": "에코프로비엠, 헝가리공장 개조 착수…\"유럽전기차에 소재 공급\"",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260823011900007"
+          "url": "https://www.yna.co.kr/view/AKR20260824030400003"
         },
         {
-          "title": "\"두 시즌 연속 17위의 악령, 아직 안 떠났다\" BBC, 토트넘 0-3 졸전패에 \"패배 의식 돈으로 치료 불가\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/08/23/HA4WCZBRHA2DCNRXGNTGCY3CHA/"
-        },
-        {
-          "title": "‘HERE WE GO’ 4,732억 쓰고도 개막전 0-3 완패 토트넘, 돈 더 푼다...마르무시 영입 임박",
-          "source": "인터풋볼",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=693084"
+          "title": "에코프로비엠, 헝가리 라인 개조…BMW·벤츠향 물량 확대 기대",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260824090238"
         }
       ]
     },
     {
       "id": "중앙그룹",
-      "rank": 7,
+      "rank": 9,
       "keyword": "중앙그룹",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 'JTBC 회생절차 초읽기..인가 전 M&A로 새 주인 찾나' (마켓인) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -202,12 +258,12 @@
     },
     {
       "id": "天気",
-      "rank": 8,
+      "rank": 10,
       "keyword": "天気",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '台風１８号 大東島地方が暴風域に 九州では酷暑日の予想' (NHKニュース) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -217,70 +273,14 @@
           "url": "https://news.web.nhk/newsweb/na/nb-5060024624"
         },
         {
+          "title": "【台風18号】JAL、那覇・宮古・石垣発着など計168便を欠航",
+          "source": "ｄメニューニュース",
+          "url": "https://topics.smt.docomo.ne.jp/article/okinawa/region/okinawa-20260825080500"
+        },
+        {
           "title": "【台風18号】船の陸揚げや固定に追われる 農漁業者ら「早く去って」 沖縄（琉球新報）",
           "source": "Yahoo!ニュース",
           "url": "https://news.yahoo.co.jp/articles/83bac6d045f88a14ca8892ae502df716cf8edbb2"
-        },
-        {
-          "title": "【台風18号】那覇空港の発着など航空433便欠航、6万人超に影響　海の欠航16便",
-          "source": "ｄメニューニュース",
-          "url": "https://topics.smt.docomo.ne.jp/article/ryukyu/region/ryukyu-20260825050002"
-        }
-      ]
-    },
-    {
-      "id": "사업",
-      "rank": 9,
-      "keyword": "사업",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[사설] 재개발 권한 박탈, 행정처 폐지, 미운 놈 표적 삼은 저격 입법' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[사설] 재개발 권한 박탈, 행정처 폐지, 미운 놈 표적 삼은 저격 입법",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/opinion/editorial/2026/08/25/ZRISFQTXJJASPO3NA7BOKVV7NE/"
-        },
-        {
-          "title": "“구청장 바뀌자 인허가 표류”…정비사업 ‘절대 갑’ 엇박자에 주민들만 희생양",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260825072700225"
-        },
-        {
-          "title": "서울시 “500가구 이하 정비사업 자치구 권한이양···현장도 모르는 구호” 비판",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608241450001"
-        }
-      ]
-    },
-    {
-      "id": "tsla",
-      "rank": 10,
-      "keyword": "tsla",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Tesla (NASDAQ:TSLA) Stock Price Down 3.8% - Should You Sell?' (MarketBeat) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Tesla (NASDAQ:TSLA) Stock Price Down 3.8% - Should You Sell?",
-          "source": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/tesla-nasdaqtsla-stock-price-down-38-should-you-sell-2026-08-24/"
-        },
-        {
-          "title": "Tesla discontinues its Solar Roof tiles, not economically viable",
-          "source": "Electrek",
-          "url": "https://electrek.co/2026/08/20/tesla-discontinues-solar-roof-panels-only/"
-        },
-        {
-          "title": "Tesla Stops Selling Solar Roof Tiles, Refocuses on Regular Solar Panels",
-          "source": "ExtremeTech",
-          "url": "https://www.extremetech.com/energy/tesla-stops-selling-solar-roof-tiles-refocuses-on-regular-solar-panels"
         }
       ]
     }
