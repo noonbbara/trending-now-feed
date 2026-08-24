@@ -1,45 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-24T15:11:28.111Z",
+  "updatedAt": "2026-08-24T16:05:50.159Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "설-영우",
-      "rank": 1,
-      "keyword": "설 영우",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''韓 국가대표 풀백' 설영우, 독일 분데스리가 전격 이적 \"최대 88억... 눈부신 활약\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'韓 국가대표 풀백' 설영우, 독일 분데스리가 전격 이적 \"최대 88억... 눈부신 활약\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824195907286"
-        },
-        {
-          "title": "韓 축구 초대박! '국가대표 주전 수비수' 설영우, 즈베즈다 떠나 마침내 빅리그 입성…\"최대 88억에 아우크스부르크행\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260824n33487"
-        },
-        {
-          "title": "설영우, 즈베즈다 떠나 빅리그 아우크스부르크로…이적료 최대 89억원",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/overseas-soccer/6268078"
-        }
-      ]
-    },
-    {
       "id": "월미도",
-      "rank": 2,
+      "rank": 1,
       "keyword": "월미도",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "volumeLabel": "5000+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '월미도 디스코팡팡서 30대 탑승객 튕겨 나가 부상' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -61,13 +33,41 @@
       ]
     },
     {
+      "id": "설-영우",
+      "rank": 2,
+      "keyword": "설 영우",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 ''韓 국가대표 풀백' 설영우, 독일 분데스리가 전격 이적 \"최대 88억... 눈부신 활약\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'韓 국가대표 풀백' 설영우, 독일 분데스리가 전격 이적 \"최대 88억... 눈부신 활약\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824195907286"
+        },
+        {
+          "title": "韓 축구 초대박! '국가대표 주전 수비수' 설영우, 즈베즈다 떠나 마침내 빅리그 입성…\"최대 88억에 아우크스부르크행\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260824n33487"
+        },
+        {
+          "title": "설영우, 즈베즈다 떠나 빅리그 아우크스부르크로…이적료 최대 89억원",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/overseas-soccer/6268078"
+        }
+      ]
+    },
+    {
       "id": "이다현",
       "rank": 3,
       "keyword": "이다현",
       "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '\"여배우인가? 韓의 벽이다' 日 팬들도 열광한 이다현의 존재감 \"강렬한 인상 남겼다\" 호평' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -89,36 +89,8 @@
       ]
     },
     {
-      "id": "낙상",
-      "rank": 4,
-      "keyword": "낙상",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '\"왜 사람을 담그려 하나\"...박위 낙상 영상 논란에 기관사 '분노'' (YTN) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"왜 사람을 담그려 하나\"...박위 낙상 영상 논란에 기관사 '분노'",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202608241439185371"
-        },
-        {
-          "title": "박위, 강연·토크콘서트 잇달아 취소…KTX 사고 영상 공개 여파 계속",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824230028689"
-        },
-        {
-          "title": "박위, 'CCTV 공익 저격' 역풍…유튜브 구독자 100만선 붕괴",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260824_0003759203"
-        }
-      ]
-    },
-    {
       "id": "박애리",
-      "rank": 5,
+      "rank": 4,
       "keyword": "박애리",
       "volumeLabel": "500+",
       "startedLabel": "3시간 전",
@@ -135,7 +107,35 @@
         {
           "title": "연하 남편 팝핀현준, ♥박애리 뱃살에 보인 반응 \"누나, 없던 게 생겼어\"(넘버원)",
           "source": "네이트",
-          "url": "https://news.nate.com/view/20260824n26691"
+          "url": "https://news.nate.com/view/20260824n26691?mid=e1200"
+        }
+      ]
+    },
+    {
+      "id": "트로트",
+      "rank": 5,
+      "keyword": "트로트",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '전직 트로트 가수에 쌍둥이맘 됐다…이현정, '개그콘서트'에서 뽐낸 존재감 [종합]' (텐아시아) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "전직 트로트 가수에 쌍둥이맘 됐다…이현정, '개그콘서트'에서 뽐낸 존재감 [종합]",
+          "source": "텐아시아",
+          "url": "https://www.tenasia.co.kr/article/2026082481874"
+        },
+        {
+          "title": "1위 임영웅, 2위 박지현, 3위 이찬원",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823090239014"
+        },
+        {
+          "title": "[빅데이터로본다] 트로트 가수 2026년 8월 브랜드평판... 1위 임영웅, 2위 박지현, 3위 이찬원",
+          "source": "일간투데이",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=787369"
         }
       ]
     },
@@ -144,9 +144,9 @@
       "rank": 6,
       "keyword": "하나머티리얼즈",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '하나머티리얼즈 식각 부품 공급 비상…사태 장기화 수순' (디일렉) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -161,9 +161,9 @@
           "url": "https://v.daum.net/v/20260824173439582"
         },
         {
-          "title": "하나머티리얼즈, 파업 시작과 동시에 ‘직장폐쇄’…노조 “부당 노동행위”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/labor/1274406.html"
+          "title": "“교섭 참석 무단결근 처리” 하나머티리얼즈 노조탄압 논란",
+          "source": "매일노동뉴스",
+          "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=236340"
         }
       ]
     },
@@ -172,9 +172,9 @@
       "rank": 7,
       "keyword": "김도환",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 ''1위 경쟁' 삼성과 KT만 엔트리 변화줬다, 포수 김도환-대타 자원 이정훈 1군 말소' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -196,30 +196,30 @@
       ]
     },
     {
-      "id": "레이-달리오",
+      "id": "트럼프",
       "rank": 8,
-      "keyword": "레이 달리오",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '\"3년 안에 큰일 터진다, 금·비트코인 담아라\"…고수의 섬뜩한 경고' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "트럼프",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '캐나다, 美중간선거 전 협상재개 가능성 낮다 판단…장기전 대비' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"3년 안에 큰일 터진다, 금·비트코인 담아라\"…고수의 섬뜩한 경고",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026082488127"
+          "title": "캐나다, 美중간선거 전 협상재개 가능성 낮다 판단…장기전 대비",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825001251403"
         },
         {
-          "title": "월가의 전설 “3년 남았다…채권 줄이고 금·비트코인 사야”",
-          "source": "주간조선",
-          "url": ""
+          "title": "WSJ, 트럼프의 캐나다 관세전에 \"가장 어리석은 무역전쟁\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260824167900072"
         },
         {
-          "title": "“3년 내 美 부채 위기 닥칠 수도…국채 버리고 금·비트코인 모아라” 헤지펀드 대부의 경고",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260824000370"
+          "title": "미국과 맞짱 뜬 캐나다...'탈미국화' 지각변동 부르나",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202608250031181400"
         }
       ]
     },
@@ -228,9 +228,9 @@
       "rank": 9,
       "keyword": "sk 하이닉스 채용",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '[포토뉴스]전남광주에서 열린 ‘SK하이닉스 채용설명회’' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -257,25 +257,25 @@
       "keyword": "tradingview",
       "volumeLabel": "100+",
       "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'Expion Energy Launches Private Placement of Convertible Debentures and …' (TradingView) 관련 뉴스가 함께 포착됐어요.",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 'A battery maker bought a Louisiana oil-and-gas prospect for an adjusted…' (Stock Titan) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "Expion Energy Launches Private Placement of Convertible Debentures and Warrants",
-          "source": "TradingView",
-          "url": "https://www.tradingview.com/news/tradingview:2c79e207632f0:0-expion-energy-launches-private-placement-of-convertible-debentures-and-warrants/"
-        },
         {
           "title": "A battery maker bought a Louisiana oil-and-gas prospect for an adjusted $3.43 million",
           "source": "Stock Titan",
           "url": "https://www.stocktitan.net/news/XPON/expion-acquires-assets-establishing-an-oil-and-gas-exploration-e7mobv73x3tv.html"
         },
         {
-          "title": "Why Is Penny Stock Expion Energy (XPON) Up Today?",
-          "source": "TipRanks",
-          "url": "https://www.tipranks.com/news/why-is-penny-stock-expion-energy-xpon-up-today"
+          "title": "Expion Energy Launches Private Placement of Convertible Debentures and Warrants",
+          "source": "TradingView",
+          "url": "https://www.tradingview.com/news/tradingview:2c79e207632f0:0-expion-energy-launches-private-placement-of-convertible-debentures-and-warrants/"
+        },
+        {
+          "title": "Expion360 changes name, enters oil and gas with Louisiana deal By Investing.com",
+          "source": "Investing.com UK",
+          "url": "https://uk.investing.com/news/stock-market-news/expion360-changes-name-enters-oil-and-gas-with-louisiana-deal-93CH-4844513"
         }
       ]
     }
