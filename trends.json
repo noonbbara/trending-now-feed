@@ -1,222 +1,70 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-24T10:46:59.407Z",
+  "updatedAt": "2026-08-24T11:36:00.966Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "천궁",
+      "id": "전원주",
       "rank": 1,
-      "keyword": "천궁",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
+      "keyword": "전원주",
+      "volumeLabel": "20000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '韓에 ‘천궁-II’ 퇴짜 맞자 日로…우크라이나, 연이어 요격미사일 요청' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''전원주 유튜브' 채널 제작진 하차…\"이유를 알려 달라\" 공지에 당황 [전문]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "韓에 ‘천궁-II’ 퇴짜 맞자 日로…우크라이나, 연이어 요격미사일 요청",
+          "title": "'전원주 유튜브' 채널 제작진 하차…\"이유를 알려 달라\" 공지에 당황 [전문]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260824154412790"
+          "url": "https://v.daum.net/v/20260824171439756"
         },
         {
-          "title": "[단독] 우크라, 한국에 ‘최신형 패트리엇’ 콕 집어 지원 요구… 정부는 난색",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/diplomacy-defense/2026/08/24/RZBSKGKL2FCEZF6ML2IPV2GO3A/"
+          "title": "전원주 유튜브 제작진 전원 하차…“건강 문제 아니야”",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10850538"
         },
         {
-          "title": "펜스 \"한국 요격미사일, 미국에 제공해 우크라 배치\" 제안 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/08/24/2026082406422388157"
-        }
-      ]
-    },
-    {
-      "id": "회사",
-      "rank": 2,
-      "keyword": "회사",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '직장인들 '학을 뗐다'…\"연봉 더 줘도 이 회사 안 간다\" 폭발 [리멤버 오피스워]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "직장인들 '학을 뗐다'…\"연봉 더 줘도 이 회사 안 간다\" 폭발 [리멤버 오피스워]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608237344g"
-        },
-        {
-          "title": "“기업승계, 임직원 인수로” 국회 입법 토론회",
-          "source": "엔지니어링데일리",
-          "url": "https://www.engdaily.com/news/articleView.html?idxno=23145"
-        },
-        {
-          "title": "\"기업 승계 막는 상속세\"…스웨덴·독일 사례서 해법 모색",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03942566645550600"
-        }
-      ]
-    },
-    {
-      "id": "xổ-số-miền-nam",
-      "rank": 3,
-      "keyword": "xổ số miền nam",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Xổ số miền Nam ngày 24 tháng 8: Tìm nhiều người may mắn trúng số đài TP…' (Báo Thanh Niên) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Xổ số miền Nam ngày 24 tháng 8: Tìm nhiều người may mắn trúng số đài TP.HCM",
-          "source": "Báo Thanh Niên",
-          "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-24-thang-8-tim-nhieu-nguoi-may-man-trung-so-dai-tphcm-185260823075558904.htm"
-        },
-        {
-          "title": "Xổ số miền Nam hôm nay 24.8",
-          "source": "Laodong.vn",
-          "url": "https://laodong.vn/ldt/tin-tuc/xo-so-mien-nam-hom-nay-248-1755649.ldo"
-        },
-        {
-          "title": "XSMT 24/8/2026 - Kết quả xổ số miền Trung hôm nay 24/8/2026",
-          "source": "Thể Thao 247",
-          "url": "https://thethao247.vn/493-xsmt-24-8-2026-ket-qua-xo-so-mien-trung-hom-nay-24-8-2026-c123-d433486.html"
-        }
-      ]
-    },
-    {
-      "id": "여군",
-      "rank": 4,
-      "keyword": "여군",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '특전사 여군 고공강하팀, 세계군인대회 '상호활동' 부문 5연패' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "특전사 여군 고공강하팀, 세계군인대회 '상호활동' 부문 5연패",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824163157432"
-        },
-        {
-          "title": "육군 특전사 여군 고공강하팀, 세계군인대회 상호활동 5연패 달성",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260824_0003760368"
-        },
-        {
-          "title": "특전사 여군 고공강하팀, CISM ‘상호활동’ 5년연속 금메달",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260824010007981"
-        }
-      ]
-    },
-    {
-      "id": "스토크-시티-fc",
-      "rank": 5,
-      "keyword": "스토크 시티 fc",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "국채",
-      "rank": 6,
-      "keyword": "국채",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한투증권 \"금융주, 고금리 방어력 높고 주주환원 매력 겸비\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "한투증권 \"금융주, 고금리 방어력 높고 주주환원 매력 겸비\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260824018800008"
-        },
-        {
-          "title": "美 국채금리 불안에 흔들린 국내 증시⋯“실적주로 방어” vs “AI주 반등 기회”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824180104680"
-        },
-        {
-          "title": "'AI 반도체 슈퍼위크'…코스피 '주주환원 약발' 계속되나",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1146573"
-        }
-      ]
-    },
-    {
-      "id": "대한축구협회",
-      "rank": 7,
-      "keyword": "대한축구협회",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '중국축구협회, '韓성접대 의혹' 조사…\"입증할 증거 없어\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "중국축구협회, '韓성접대 의혹' 조사…\"입증할 증거 없어\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260823049200083"
-        },
-        {
-          "title": "'축협 성접대 의혹' 공소시효 지났지만…경찰 \"추가 확인할 부분 살펴\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824140651463"
-        },
-        {
-          "title": "경찰 \"축협 성접대 공소시효 만료, 수사 어려워... 추가로 확인할 부분 살펴보는 중\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/24/2026082413110160020"
-        }
-      ]
-    },
-    {
-      "id": "홍혜걸",
-      "rank": 8,
-      "keyword": "홍혜걸",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '홍혜걸, 아내 여에스더 '화교설' 일축…가족사 공개하며 반박' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "홍혜걸, 아내 여에스더 '화교설' 일축…가족사 공개하며 반박",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260824_0003759154"
-        },
-        {
-          "title": "여에스더, 10년 함께한 가사도우미에게 강남 아파트 선물",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026082007570005686"
-        },
-        {
-          "title": "“여에스더가 화교?” 증조부까지 집안 내력 싹 공개…남편 홍혜걸 정면 반박",
+          "title": "“서울인 줄” 치매 우려 한 달만…전원주, 유튜브 돌연 제작 중단",
           "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/culture/12134374"
+          "url": "https://www.mk.co.kr/news/entertain/12135164"
         }
       ]
     },
     {
-      "id": "마르코스-로드리게스-판토하",
-      "rank": 9,
-      "keyword": "마르코스 로드리게스 판토하",
-      "volumeLabel": "200+",
+      "id": "lg-트윈스",
+      "rank": 2,
+      "keyword": "lg 트윈스",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '현실이 될지도 모를 LG 최악의 시나리오, 그래서 더 반가운 문정빈의 발견' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "현실이 될지도 모를 LG 최악의 시나리오, 그래서 더 반가운 문정빈의 발견",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824162328952"
+        },
+        {
+          "title": "'문정빈 만루포·임찬규 11승' LG, kt전 4연패 탈출",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_sn/0107_202608182314302730"
+        },
+        {
+          "title": "이런 평가 전혀 예상 못 했다 \"송찬의, 문정빈이 쳐줘서 3위 지키고 있다\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260824n25701"
+        }
+      ]
+    },
+    {
+      "id": "마르코스-로드리게스-판-토하",
+      "rank": 3,
+      "keyword": "마르코스 로드리게스 판 토하",
+      "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
@@ -241,30 +89,198 @@
       ]
     },
     {
-      "id": "노상원",
-      "rank": 10,
-      "keyword": "노상원",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '노상원, 계엄 때 주요인사 독살 준비?…종합특검 \"구상 정황 포착\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "id": "김치",
+      "rank": 4,
+      "keyword": "김치",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '처서 지나도 무더위…대상 종가, ‘열무얼갈이겉절이’로 늦여름 입맛 공략' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "노상원, 계엄 때 주요인사 독살 준비?…종합특검 \"구상 정황 포착\"",
+          "title": "처서 지나도 무더위…대상 종가, ‘열무얼갈이겉절이’로 늦여름 입맛 공략",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20260824/134533242/1"
+        },
+        {
+          "title": "[똑똑한한끼] 대상 별미김치·오뚜기 저당 브리또…hy·CJ프레시웨이·스타벅스·하겐다즈",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20260824022335931"
+        },
+        {
+          "title": "대상 종가, 열무·얼갈이배추 담은 별미김치 선보여",
+          "source": "로이슈",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202608240835503572204ead0791_12"
+        }
+      ]
+    },
+    {
+      "id": "박항서",
+      "rank": 5,
+      "keyword": "박항서",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '박항서 감독과 이별 \"옳은 결정이었다\"...'韓 사령탑' 김상식 체제서 제2 전성기 맞은 베트남, PARK 감독 혜안 조명 \"새…' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "박항서 감독과 이별 \"옳은 결정이었다\"...'韓 사령탑' 김상식 체제서 제2 전성기 맞은 베트남, PARK 감독 혜안 조명 \"새 도약 위한 기회 장 열어\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260824123101691"
+          "url": "https://v.daum.net/v/20260824121449269"
         },
         {
-          "title": "종합특검, ‘노상원 수첩’ 독극물·폭발물 암살 공작 정황 포착…국수본 이첩",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12314747"
+          "title": "한국 언론 보도: 김상식 감독, 한국에서는 왕따였지만 베트남에서는 영웅으로 등극.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/bao-han-quoc-hlv-kim-sang-sik-tu-ke-bi-xua-duoi-tai-han-quoc-den-nguoi-hung-o-viet-nam"
         },
         {
-          "title": "종합특검 \"노상원, 폭발물·독극물로 주요 인사 살해 구상\"…국수본 이첩",
+          "title": "인도네시아 언론이 김상식 감독을 예상치 못하게 칭찬했다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/bao-indonesia-bat-ngo-khen-hlv-kim-sang-sik"
+        }
+      ]
+    },
+    {
+      "id": "김효주",
+      "rank": 6,
+      "keyword": "김효주",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김세영, LPGA 투어 CPKC 여자오픈 3위…야마시타 시즌 2승' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김세영, LPGA 투어 CPKC 여자오픈 3위…야마시타 시즌 2승",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260824058300007"
+        },
+        {
+          "title": "김세영, 톱 3…야마시타 '와이어 투 와이어 우승'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824102350369?f=p"
+        },
+        {
+          "title": "우승컵에 입 맞추는 야마시타",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260824_0003760341"
+          "url": "https://www.newsis.com/view/NISI20260824_0002219386"
+        }
+      ]
+    },
+    {
+      "id": "동복댐",
+      "rank": 7,
+      "keyword": "동복댐",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"호남 반도체 팹 결국 9기까지 갈 것\"…정치권도 '확장론' 전망' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"호남 반도체 팹 결국 9기까지 갈 것\"…정치권도 '확장론' 전망",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824180650926"
+        },
+        {
+          "title": "'반도체 클러스터 안착' 전남광주 범시민추진위 출범",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/gwangju-jeonnam/6268065"
+        },
+        {
+          "title": "“속도전 아닌 전격전” SK하이닉스 경영진, 호남권 반도체 부지 점검",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20082614"
+        }
+      ]
+    },
+    {
+      "id": "제주항공",
+      "rank": 8,
+      "keyword": "제주항공",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '제주항공, 육아휴직 사용 1년 새 51%↑…일·가정 양립 지원 성과' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "제주항공, 육아휴직 사용 1년 새 51%↑…일·가정 양립 지원 성과",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824140040120"
+        },
+        {
+          "title": "제주항공, 일·가정 양립 지원 확대…육아휴직 이용 51%↑",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2617307"
+        },
+        {
+          "title": "제주항공, 육아휴직 51% 증가...남성 증가폭 더 커",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202608240925535891"
+        }
+      ]
+    },
+    {
+      "id": "신동욱",
+      "rank": 9,
+      "keyword": "신동욱",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '장동혁, 한 발 물러났지만…연쇄 폭발 '뇌관' 여전' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "장동혁, 한 발 물러났지만…연쇄 폭발 '뇌관' 여전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824184255939"
+        },
+        {
+          "title": "총선 시계 빨라지는 민주당…국힘은 집안싸움 중",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1330290"
+        },
+        {
+          "title": "국민의힘, ‘당협위원장 직선제 재선출’ 의결 보류…“의견 수렴해 논의”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8644139"
+        }
+      ]
+    },
+    {
+      "id": "타이타닉",
+      "rank": 10,
+      "keyword": "타이타닉",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Box Office: 'Spider-Man: Brand New Day' $39M, 'Insidious 6' $25M+ Openi…' (Deadline) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Box Office: 'Spider-Man: Brand New Day' $39M, 'Insidious 6' $25M+ Opening",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/08/box-office-insidious-out-of-the-further-brand-new-day-1237047405/"
+        },
+        {
+          "title": "'Spider-Man: Brand New Day' Powers August Box Office to $1.1 Billion Domestic, Shattering All-Time Record",
+          "source": "TheWrap",
+          "url": "https://www.thewrap.com/industry-news/business/spider-man-brand-new-day-powers-august-box-office-to-1-1-billion-domestic-shattering-all-time-record/"
+        },
+        {
+          "title": "‘Spider-Man’ tops box office in fourth weekend; ‘The Odyssey’ becomes Nolan’s highest-grossing film",
+          "source": "AP News",
+          "url": "https://apnews.com/article/spiderman-box-office-a0a87cd3b8c8e64952e16ec4e1cc7090"
         }
       ]
     }
