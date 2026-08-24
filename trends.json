@@ -1,24 +1,52 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-24T14:19:40.334Z",
+  "updatedAt": "2026-08-24T15:11:28.111Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "월미도",
+      "id": "설-영우",
       "rank": 1,
-      "keyword": "월미도",
+      "keyword": "설 영우",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '월미도 ‘디스코 팡팡’ 타던 30대, 튕겨 나가 머리·목 부상' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''韓 국가대표 풀백' 설영우, 독일 분데스리가 전격 이적 \"최대 88억... 눈부신 활약\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "월미도 ‘디스코 팡팡’ 타던 30대, 튕겨 나가 머리·목 부상",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260824/134536152/1"
+          "title": "'韓 국가대표 풀백' 설영우, 독일 분데스리가 전격 이적 \"최대 88억... 눈부신 활약\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824195907286"
+        },
+        {
+          "title": "韓 축구 초대박! '국가대표 주전 수비수' 설영우, 즈베즈다 떠나 마침내 빅리그 입성…\"최대 88억에 아우크스부르크행\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260824n33487"
+        },
+        {
+          "title": "설영우, 즈베즈다 떠나 빅리그 아우크스부르크로…이적료 최대 89억원",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/overseas-soccer/6268078"
+        }
+      ]
+    },
+    {
+      "id": "월미도",
+      "rank": 2,
+      "keyword": "월미도",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '월미도 디스코팡팡서 30대 탑승객 튕겨 나가 부상' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "월미도 디스코팡팡서 30대 탑승객 튕겨 나가 부상",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260824146000065"
         },
         {
           "title": "월미도 놀이공원서 ‘디스코 팡팡’ 타다 튕켜 나간 30대 부상",
@@ -34,12 +62,12 @@
     },
     {
       "id": "이다현",
-      "rank": 2,
+      "rank": 3,
       "keyword": "이다현",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '\"여배우인가? 韓의 벽이다' 日 팬들도 열광한 이다현의 존재감 \"강렬한 인상 남겼다\" 호평' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -62,12 +90,12 @@
     },
     {
       "id": "낙상",
-      "rank": 3,
+      "rank": 4,
       "keyword": "낙상",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '\"왜 사람을 담그려 하나\"...박위 낙상 영상 논란에 기관사 '분노'' (YTN) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -89,69 +117,13 @@
       ]
     },
     {
-      "id": "설영우",
-      "rank": 4,
-      "keyword": "설영우",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '韓 축구 초대박! '국가대표 주전 수비수' 설영우, 즈베즈다 떠나 마침내 빅리그 입성…\"최대 88억에 아우크스부르크행\"' (네이트) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "韓 축구 초대박! '국가대표 주전 수비수' 설영우, 즈베즈다 떠나 마침내 빅리그 입성…\"최대 88억에 아우크스부르크행\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260824n33487"
-        },
-        {
-          "title": "'韓 국가대표 풀백' 설영우, 독일 분데스리가 전격 이적 \"최대 88억... 눈부신 활약\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/24/2026082419472733268"
-        },
-        {
-          "title": "설영우, 즈베즈다 떠나 빅리그 아우크스부르크로…이적료 최대 89억원",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/overseas-soccer/6268078"
-        }
-      ]
-    },
-    {
-      "id": "애플",
-      "rank": 5,
-      "keyword": "애플",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '애플 첫 폴더블 아이폰 윤곽… \"휴대성·힌지 호평, 망원 카메라는 빠져\"' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "애플 첫 폴더블 아이폰 윤곽… \"휴대성·힌지 호평, 망원 카메라는 빠져\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/08/24/XBVAWOWE4ZDZ5PVAIZMAGKJMRM/"
-        },
-        {
-          "title": "\"아이폰 울트라, 초기 사용자 호평…힌지 촉감·내구성 만족\"",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260824080040"
-        },
-        {
-          "title": "애플 첫 폴더블폰 내달 공개…망원카메라 빠지고 277만원 넘을듯",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260824/134529912/1"
-        }
-      ]
-    },
-    {
       "id": "박애리",
-      "rank": 6,
+      "rank": 5,
       "keyword": "박애리",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '팝핀현준, 아내 박애리 뱃살에 놀라 “누나! 없던 게 생겼어!” ('스타건강랭킹 넘버원')' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -168,41 +140,97 @@
       ]
     },
     {
-      "id": "레이-달리오",
+      "id": "하나머티리얼즈",
+      "rank": 6,
+      "keyword": "하나머티리얼즈",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '하나머티리얼즈 식각 부품 공급 비상…사태 장기화 수순' (디일렉) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "하나머티리얼즈 식각 부품 공급 비상…사태 장기화 수순",
+          "source": "디일렉",
+          "url": "https://www.thelec.kr/news/articleView.html?idxno=61241"
+        },
+        {
+          "title": "'노사 갈등' 하나머티리얼즈, 노조 파업에 '직장폐쇄' 맞불",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824173439582"
+        },
+        {
+          "title": "하나머티리얼즈, 파업 시작과 동시에 ‘직장폐쇄’…노조 “부당 노동행위”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/labor/1274406.html"
+        }
+      ]
+    },
+    {
+      "id": "김도환",
       "rank": 7,
-      "keyword": "레이 달리오",
+      "keyword": "김도환",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"3년 안에 위기 닥친다\"…투자고수가 \"담아라\" 경고한 이유가' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''1위 경쟁' 삼성과 KT만 엔트리 변화줬다, 포수 김도환-대타 자원 이정훈 1군 말소' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"3년 안에 위기 닥친다\"…투자고수가 \"담아라\" 경고한 이유가",
+          "title": "'1위 경쟁' 삼성과 KT만 엔트리 변화줬다, 포수 김도환-대타 자원 이정훈 1군 말소",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260824202642896"
+          "url": "https://v.daum.net/v/20260824182250415"
+        },
+        {
+          "title": "확대 엔트리 D-1, ‘1위 경쟁’ 삼성-KT만 왜 엔트리 변화 줬을까…강민호 백업 대타의 신 나란히 2군행 통보 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/24/202608241653771409O"
+        },
+        {
+          "title": "경기 없는 월요일, 1위와 2위만 엔트리 말소를 단행했다…25일부터 확대엔트리 적용",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/baseball/2026-08-24/202608240100143060009135"
+        }
+      ]
+    },
+    {
+      "id": "레이-달리오",
+      "rank": 8,
+      "keyword": "레이 달리오",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '\"3년 안에 큰일 터진다, 금·비트코인 담아라\"…고수의 섬뜩한 경고' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"3년 안에 큰일 터진다, 금·비트코인 담아라\"…고수의 섬뜩한 경고",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026082488127"
+        },
+        {
+          "title": "월가의 전설 “3년 남았다…채권 줄이고 금·비트코인 사야”",
+          "source": "주간조선",
+          "url": ""
         },
         {
           "title": "“3년 내 美 부채 위기 닥칠 수도…국채 버리고 금·비트코인 모아라” 헤지펀드 대부의 경고",
           "source": "전자신문",
           "url": "https://www.etnews.com/20260824000370"
-        },
-        {
-          "title": "\"3년 안에 큰일 터진다, 금·비트코인 담아라\"…고수의 섬뜩한 경고",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026082488127"
         }
       ]
     },
     {
       "id": "sk-하이닉스-채용",
-      "rank": 8,
+      "rank": 9,
       "keyword": "sk 하이닉스 채용",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '[포토뉴스]전남광주에서 열린 ‘SK하이닉스 채용설명회’' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -225,12 +253,12 @@
     },
     {
       "id": "tradingview",
-      "rank": 9,
+      "rank": 10,
       "keyword": "tradingview",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 'Expion Energy Launches Private Placement of Convertible Debentures and …' (TradingView) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -245,37 +273,9 @@
           "url": "https://www.stocktitan.net/news/XPON/expion-acquires-assets-establishing-an-oil-and-gas-exploration-e7mobv73x3tv.html"
         },
         {
-          "title": "Expion360 changes name, enters oil and gas with Louisiana deal By Investing.com",
-          "source": "Investing.com UK",
-          "url": "https://uk.investing.com/news/stock-market-news/expion360-changes-name-enters-oil-and-gas-with-louisiana-deal-93CH-4844513"
-        }
-      ]
-    },
-    {
-      "id": "차화연",
-      "rank": 10,
-      "keyword": "차화연",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '차재이, 30000:1 뚫은 뉴욕대 조기졸업 이유…차화연 \"1년 학비 8천 벌려고 시체 역할\" (남겨서 뭐하게)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "차재이, 30000:1 뚫은 뉴욕대 조기졸업 이유…차화연 \"1년 학비 8천 벌려고 시체 역할\" (남겨서 뭐하게)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824211950720"
-        },
-        {
-          "title": "차화연 딸, 13년 차 배우였다…똑 닮은 분위기 '눈길' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/24/2026082421290644604"
-        },
-        {
-          "title": "'남겨서' 차재이, 뉴욕대 조기 졸업 이유 \"母 차화연, 학비 위해 드라마 3~4개씩\"",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/515795"
+          "title": "Why Is Penny Stock Expion Energy (XPON) Up Today?",
+          "source": "TipRanks",
+          "url": "https://www.tipranks.com/news/why-is-penny-stock-expion-energy-xpon-up-today"
         }
       ]
     }
