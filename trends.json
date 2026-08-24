@@ -1,153 +1,265 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-24T03:11:24.610Z",
+  "updatedAt": "2026-08-24T04:23:37.226Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "주식시장",
+      "id": "우선주",
       "rank": 1,
-      "keyword": "주식시장",
-      "volumeLabel": "2000+",
+      "keyword": "우선주",
+      "volumeLabel": "50000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[증권가 이모저모] 여의도 증권맨들의 '불편한 점심시간'' (연합인포맥스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '110조 주주환원에도... 개미들 왜 삼전 던지나' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[증권가 이모저모] 여의도 증권맨들의 '불편한 점심시간'",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431352"
-        },
-        {
-          "title": "한국 개미들, 하락장에도 연 40~50% ELS로 몰린다 By The Guru",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2071522"
-        },
-        {
-          "title": "“단타 대박 불가능… 美 증시처럼 ‘장기 우상향’ 신뢰 쌓아야”",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000004834"
-        }
-      ]
-    },
-    {
-      "id": "빌보드",
-      "rank": 2,
-      "keyword": "빌보드",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한미 합작 걸그룹 캣츠아이, 미 빌보드 앨범 차트 첫 1위' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "한미 합작 걸그룹 캣츠아이, 미 빌보드 앨범 차트 첫 1위",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824090601614"
-        },
-        {
-          "title": "“팝 시장서 가장 주목받는 그룹” 빌보드도 극찬한 캣츠아이···‘빌보드 200’ 1위 기록",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608241057001"
-        },
-        {
-          "title": "캣츠아이, ‘와일드’로 美 빌보드 200 첫 정상…K팝 걸그룹 네 번째",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8644046"
-        }
-      ]
-    },
-    {
-      "id": "김서현",
-      "rank": 3,
-      "keyword": "김서현",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''161㎞ 재능 어디가나' 한화 김서현, 구속 저하 우려 사흘 만에 155㎞ 쾅! 그런데 더 반가운 장면이 있다 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'161㎞ 재능 어디가나' 한화 김서현, 구속 저하 우려 사흘 만에 155㎞ 쾅! 그런데 더 반가운 장면이 있다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/24/2026082314331692864"
-        },
-        {
-          "title": "김진욱·이의리처럼 달라질까? 日유학 김서현, 부활 꿈꾼다 \"160㎞ 직구보다 중요한 것은…\" [인터뷰]",
+          "title": "110조 주주환원에도... 개미들 왜 삼전 던지나",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/08/23/MNTDSZJTMYZDIMZXMJRTSNTDHE/"
+          "url": "https://www.chosun.com/economy/stock-finance/2026/08/24/UQCQPJALFNHCBFMZYF3PFDFKLI/"
         },
         {
-          "title": "와, 초구 스트라이크 0사사구! 김서현 진짜 달라졌네…“좋은 모습만 보여주고 싶습니다”",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/sport/baseball/2026/08/24/20260824500003"
+          "title": "삼성전자 고배당에 덜해진 삼성가 상속세 부담.. 올해만 1조 이상 현금으로 받을 듯",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824130900456"
+        },
+        {
+          "title": "‘삼전닉스’ 주주환원 이어 AI반도체까지…금주 코스피 시험대",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260824.22010006314"
         }
       ]
     },
     {
-      "id": "아버지",
-      "rank": 4,
-      "keyword": "아버지",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '\"부모 싸움 말리다 홧김에\"…아버지 살해 후 자진 신고' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "id": "양세형",
+      "rank": 2,
+      "keyword": "양세형",
+      "volumeLabel": "10000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김대호, MC 하차에 입 열었다 …\"화가 많이 나 있어\" 녹화 중 무대 난입 ('전설의사내')' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"부모 싸움 말리다 홧김에\"…아버지 살해 후 자진 신고",
+          "title": "김대호, MC 하차에 입 열었다 …\"화가 많이 나 있어\" 녹화 중 무대 난입 ('전설의사내')",
           "source": "Daum",
-          "url": "https://v.daum.net/v/VGcUUv8Bz8"
+          "url": "https://v.daum.net/v/20260824110110242"
         },
         {
-          "title": "“부모님 다툼 말리다 칼로 찔렀다” 10대 외국인 자수···아버지 숨지고 어머니 중상",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608231009001"
+          "title": "김대호, 양세형에 \"네가 뭔데?\" MC 자리 두고 신경전",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260824_0003759725"
         },
         {
-          "title": "천안서 존속살해 비극…아버지 숨지게 한 10대 체포",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260823580039"
+          "title": "성리, 도배공 출신이었다…양세형 \"母 지금도 도배 일 하셔\"(전설의 사내)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260824n12831"
         }
       ]
     },
     {
-      "id": "햄버거",
+      "id": "김병지",
+      "rank": 3,
+      "keyword": "김병지",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '박문성 겨냥한 김병지 \"축협 법카로 식사·술자리 참석한 적 없나\"' (JTBC) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "박문성 겨냥한 김병지 \"축협 법카로 식사·술자리 참석한 적 없나\"",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12314725"
+        },
+        {
+          "title": "김병지 \"박문성 '성접대 법카'와 관련 없냐…내 아들 말하는데 네 딸은?\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6267176"
+        },
+        {
+          "title": "\"김병지 대표 개인회사 아니다\" 강원FC, 외국인 선수 영입·에이전트 수수료 해외송금 관련 의혹들 정면 반박 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/23/2026082312383882132"
+        }
+      ]
+    },
+    {
+      "id": "엔화",
+      "rank": 4,
+      "keyword": "엔화",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[영상] 일본이 어쩌다 이렇게까지 됐나…‘세계 최악 빚더미’ 오명 썼는데 금리까지 오른다' (서울경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[영상] 일본이 어쩌다 이렇게까지 됐나…‘세계 최악 빚더미’ 오명 썼는데 금리까지 오른다",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20082347"
+        },
+        {
+          "title": "日확장재정 '부메랑'…내년 나랏빚 원리금 부담 17% '껑충'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/yVVFi0gRYq"
+        },
+        {
+          "title": "[기자수첩] 엔저는 하루 아침에 오지 않았다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/08/24/2026082112430881274"
+        }
+      ]
+    },
+    {
+      "id": "화장품",
       "rank": 5,
-      "keyword": "햄버거",
+      "keyword": "화장품",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“오직 코아시스에서만”… 현대홈쇼핑, 코스맥스 손잡고 단독 상품 키운다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“오직 코아시스에서만”… 현대홈쇼핑, 코스맥스 손잡고 단독 상품 키운다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824102437401"
+        },
+        {
+          "title": "코스맥스·현대홈쇼핑, 맞춤형 화장품 공동 개발",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260824029600030"
+        },
+        {
+          "title": "현대홈쇼핑, 코스맥스와 ‘코아시스’ 단독 상품 개발…뷰티 경쟁력 강화",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20082453"
+        }
+      ]
+    },
+    {
+      "id": "유로-환율",
+      "rank": 6,
+      "keyword": "유로 환율",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '1400원 깨진 환율 어디까지…삼전닉스 주주환원에 1350원 전망도' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "1400원 깨진 환율 어디까지…삼전닉스 주주환원에 1350원 전망도",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/economy/trend/6265938"
+        },
+        {
+          "title": "원/달러 환율 1,370원대로 하락…작년 9월 이후 최저",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260824075800002"
+        },
+        {
+          "title": "[외환] '디베이스먼트 트레이드' 이어질까…2.90원↓",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431455"
+        }
+      ]
+    },
+    {
+      "id": "박위-논란",
+      "rank": 7,
+      "keyword": "박위 논란",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"박위, 애쓴 사람 담그려 해\"...현직 기관사도 분노 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"박위, 애쓴 사람 담그려 해\"...현직 기관사도 분노 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/08/24/2026082409205299422"
+        },
+        {
+          "title": "[센터엔터] 박위 'KTX 낙상 영상' 사과에도…후폭풍 계속 外",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824130855453"
+        },
+        {
+          "title": "'공익 저격 논란' 박위, 사과에도 결국…거센 후폭풍",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608247479H"
+        }
+      ]
+    },
+    {
+      "id": "이연복",
+      "rank": 8,
+      "keyword": "이연복",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'tvN ‘스트릿 레스토랑 파이터’ 셰프 메뉴, 인천공항에서 맛본다' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "tvN ‘스트릿 레스토랑 파이터’ 셰프 메뉴, 인천공항에서 맛본다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608241021001"
+        },
+        {
+          "title": "정호영, 매출 180만 원 찍고 결승 직행…‘K-뚝배기’ 통했다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824081548980"
+        },
+        {
+          "title": "'스레파' 매출 1위 정호영 황태해장국, 인천공항 푸드코트 온다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608247663g"
+        }
+      ]
+    },
+    {
+      "id": "한미약품",
+      "rank": 9,
+      "keyword": "한미약품",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[영상] 햄버거에 커피까지 샀는데 “4000원입니다”…직장인들 점심마다 몰려가는 이유' (서울경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''살만 쏙 빠진다고?'…3.2조 '초대박' 터진 한국 비만 신약' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[영상] 햄버거에 커피까지 샀는데 “4000원입니다”…직장인들 점심마다 몰려가는 이유",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20082179"
+          "title": "'살만 쏙 빠진다고?'…3.2조 '초대박' 터진 한국 비만 신약",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608248434i"
         },
         {
-          "title": "“올릴 땐 언제고 2500원?”…버거값 ‘역주행’의 비밀",
+          "title": "한미약품, 3조5000억원 규모 신약 기술수출…제넨텍과 사상 최대 규모 계약",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260824051610195"
+          "url": "https://v.daum.net/v/20260824115103243"
         },
         {
-          "title": "맥도날드, 불고기 버거 가격 1300원 인하",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6566726"
+          "title": "한미약품, 미국에 3.2조원 기술수출 계약",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431460"
         }
       ]
     },
     {
-      "id": "안동농협",
-      "rank": 6,
-      "keyword": "안동농협",
+      "id": "국경일",
+      "rank": 10,
+      "keyword": "국경일",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
@@ -155,108 +267,6 @@
       "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": []
-    },
-    {
-      "id": "부산은행",
-      "rank": 7,
-      "keyword": "부산은행",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'BNK금융그룹, 추석 맞아 중소기업 등에 1조6천억원 특별대출' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "BNK금융그룹, 추석 맞아 중소기업 등에 1조6천억원 특별대출",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260824068200051"
-        },
-        {
-          "title": "BNK금융그룹, 1.6조 추석 특별대출…최대 30억까지 지원",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260824_0003759800"
-        },
-        {
-          "title": "한은 대경본부, 추석 앞두고 중소기업에 300억 자금 지원",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260823204305563"
-        }
-      ]
-    },
-    {
-      "id": "박기량",
-      "rank": 8,
-      "keyword": "박기량",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[포토] 규카츠 '박기량과 흠뻑 젖었어'' (네이트) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[포토] 규카츠 '박기량과 흠뻑 젖었어'",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260823n14738"
-        },
-        {
-          "title": "[포토] 박기량 '젖을수록 째지는 날'",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260823n14799"
-        },
-        {
-          "title": "[포토] 정아련 '어차피 다 젖었어'",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260823n15016"
-        }
-      ]
-    },
-    {
-      "id": "교직원공제회",
-      "rank": 9,
-      "keyword": "교직원공제회",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"보여주기식 정책\" 금융노조, 국책은행 지방 이전 반발' (진일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"보여주기식 정책\" 금융노조, 국책은행 지방 이전 반발",
-          "source": "진일보",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000057625"
-        }
-      ]
-    },
-    {
-      "id": "국회",
-      "rank": 10,
-      "keyword": "국회",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '韓총리 \"정부 확장재정 중요 전환점…지금은 성장에 집중해야\"(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "韓총리 \"정부 확장재정 중요 전환점…지금은 성장에 집중해야\"(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824114651063"
-        },
-        {
-          "title": "의사봉 두드리는 이광재 위원장",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20260824_0021408388"
-        },
-        {
-          "title": "한성숙 \"재정이 경제회복 마중물…대체불가 대한민국 건설에 최선\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/economy/2026/08/24/2026082410270137683"
-        }
-      ]
     }
   ]
 }
