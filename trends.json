@@ -1,101 +1,73 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-24T17:59:53.757Z",
+  "updatedAt": "2026-08-24T18:54:07.632Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "화장실",
+      "id": "imdb",
       "rank": 1,
-      "keyword": "화장실",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '여자화장실 칸막이 아래 휴대전화…공기업 카지노 직원 입건' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "여자화장실 칸막이 아래 휴대전화…공기업 카지노 직원 입건",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260823008100030"
-        },
-        {
-          "title": "화장실 칸막이 밑으로 휴대폰 ‘슥’, 여직원의 침착한 대응",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11611640"
-        },
-        {
-          "title": "\"여자 화장실 칸막이 아래로 휴대폰\"…카지노 팀장급 직원 피고발",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260824_0003759949"
-        }
-      ]
-    },
-    {
-      "id": "트로트",
-      "rank": 2,
-      "keyword": "트로트",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 '전직 트로트 가수에 쌍둥이맘 됐다…이현정, '개그콘서트'에서 뽐낸 존재감 [종합]' (텐아시아) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "전직 트로트 가수에 쌍둥이맘 됐다…이현정, '개그콘서트'에서 뽐낸 존재감 [종합]",
-          "source": "텐아시아",
-          "url": "https://www.tenasia.co.kr/article/2026082481874"
-        },
-        {
-          "title": "1위 임영웅, 2위 박지현, 3위 이찬원",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260823090239014"
-        },
-        {
-          "title": "[빅데이터로본다] 트로트 가수 2026년 8월 브랜드평판... 1위 임영웅, 2위 박지현, 3위 이찬원",
-          "source": "일간투데이",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=787369"
-        }
-      ]
-    },
-    {
-      "id": "영화관",
-      "rank": 3,
-      "keyword": "영화관",
+      "keyword": "imdb",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '\"비싸도 볼래요\" 2만원에도 매진인데…영화관 '줄폐점' 이유' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Weekend Box Office: Spider-Man: Brand New Day Continues to Climb' (Rotten Tomatoes) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"비싸도 볼래요\" 2만원에도 매진인데…영화관 '줄폐점' 이유",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026082495361"
+          "title": "Weekend Box Office: Spider-Man: Brand New Day Continues to Climb",
+          "source": "Rotten Tomatoes",
+          "url": "https://editorial.rottentomatoes.com/article/weekend-box-office-spider-man-brand-new-day-week-4/"
         },
         {
-          "title": "[특집] 체험이 된 영화, 특수관 쏠림과 밀려나는 ‘보통 관람’ - 네 가지 관점으로 보는 2026년➍ 특수관이 도약한 2026년, 평평한 극장은 종말을 앞두고 있는가",
-          "source": "씨네21",
-          "url": "https://cine21.com/news/view/?mag_id=110562"
+          "title": "Spider-Man: Brand New Day Box Office Officially Surpasses the Best Avengers Movie",
+          "source": "IMDb",
+          "url": "https://www.imdb.com/news/ni65985760/?ref_=ttnw_art_perm"
         },
         {
-          "title": "국립극장, 스크린으로 무대 넓혀",
-          "source": "한국금융경제신문",
-          "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=662925"
+          "title": "Box Office: 'Spider-Man: Brand New Day' $39M, 'Insidious 6' $25M+ Opening",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/08/box-office-insidious-out-of-the-further-brand-new-day-1237047405/"
+        }
+      ]
+    },
+    {
+      "id": "유시민",
+      "rank": 2,
+      "keyword": "유시민",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '유시민 \"대통령 지지율 곧 '3자'... 윤석열 때와 비슷한 증상 많아\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "유시민 \"대통령 지지율 곧 '3자'... 윤석열 때와 비슷한 증상 많아\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824221237363"
+        },
+        {
+          "title": "유시민 “이재명 정부, 윤석열 정부와 놀라울 정도로 유사···문명에서 야만으로 가고 있어”",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202608242233001"
+        },
+        {
+          "title": "유시민 “이 대통령 모습 오만한 권력자…왕정, 귀족정으로 가려는 것”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1274426.html"
         }
       ]
     },
     {
       "id": "경주마",
-      "rank": 4,
+      "rank": 3,
       "keyword": "경주마",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '“마사회 ‘말복지 지표’ 의혹 밝혀야”…제주비건, 공익감사 촉구' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -117,41 +89,41 @@
       ]
     },
     {
-      "id": "롯데마트",
-      "rank": 5,
-      "keyword": "롯데마트",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '주말까지 기다리지 마세요…롯데마트 제타, 평일 300여 품목 최대 반값' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "id": "베센트",
+      "rank": 4,
+      "keyword": "베센트",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '미, 이란 거래 제3국 겨냥 '2차 제재'…\"경제적 왕따 작전\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "주말까지 기다리지 마세요…롯데마트 제타, 평일 300여 품목 최대 반값",
+          "title": "미, 이란 거래 제3국 겨냥 '2차 제재'…\"경제적 왕따 작전\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/VJyeazcnCO"
+          "url": "https://v.daum.net/v/20260825032401324"
         },
         {
-          "title": "롯데마트 제타, 신규 고객에 신선식품·생필품 최대 50% 할인",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260822031400030"
+          "title": "美 \"이란 경제 생명선 끊겠다…거래 지속땐 中도 2차제재\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260825_0003760778"
         },
         {
-          "title": "롯데마트 제타, 평일 온라인 장보기 할인 ‘월간제타’ 진행",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20082178"
+          "title": "트럼프 '경제전쟁' 통할까?...초강력 대이란 경제 제재 곧 발표",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202608250026136490"
         }
       ]
     },
     {
       "id": "첼시",
-      "rank": 6,
+      "rank": 5,
       "keyword": "첼시",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '풀럼 vs 첼시 예측: 선두 경쟁의 뜨거운 대결' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -173,41 +145,41 @@
       ]
     },
     {
-      "id": "신봉선",
-      "rank": 7,
-      "keyword": "신봉선",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "id": "영화관",
+      "rank": 6,
+      "keyword": "영화관",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
       "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '신봉선 '웃찾사' 경력 싹 빼고 KBS 갔다 \"뚱뚱한 캐릭터 개그 요구, 싫었다\" 솔직(이홍렬TV)' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "changeLabel": "-3",
+      "summary": "급상승 시점에 '\"비싸도 볼래요\" 2만원에도 매진인데…영화관 '줄폐점' 이유' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "신봉선 '웃찾사' 경력 싹 빼고 KBS 갔다 \"뚱뚱한 캐릭터 개그 요구, 싫었다\" 솔직(이홍렬TV)",
+          "title": "\"비싸도 볼래요\" 2만원에도 매진인데…영화관 '줄폐점' 이유",
           "source": "네이트",
-          "url": "https://news.nate.com/view/20260822n04058"
+          "url": "https://news.nate.com/view/20260824n33783"
         },
         {
-          "title": "신봉선, 눈치 빠른 김구라도 속였다..“딴 예능 간다고 ‘복면가왕’ 펑크” (‘이홍렬TV’) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/22/MI2DGNRYGY2DSMLBGVQWEMRVGA/"
+          "title": "[특집] 체험이 된 영화, 특수관 쏠림과 밀려나는 ‘보통 관람’ - 네 가지 관점으로 보는 2026년➍ 특수관이 도약한 2026년, 평평한 극장은 종말을 앞두고 있는가",
+          "source": "씨네21",
+          "url": "https://cine21.com/news/view/?mag_id=110562"
         },
         {
-          "title": "신봉선, '복면가왕' 퇴출설도 작전이었다…\"김구라까지 다 속아\" (걷다보니)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260822172707144"
+          "title": "국립극장, 스크린으로 무대 넓혀",
+          "source": "한국금융경제신문",
+          "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=662925"
         }
       ]
     },
     {
       "id": "한국거래소",
-      "rank": 8,
+      "rank": 7,
       "keyword": "한국거래소",
-      "volumeLabel": "100+",
+      "volumeLabel": "200+",
       "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-2",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '[단독] 한국거래소, 28일 중간배당 결정…주당 5000원 유력' (쿠키뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -229,30 +201,58 @@
       ]
     },
     {
-      "id": "lg유플러스",
-      "rank": 9,
-      "keyword": "lg유플러스",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
+      "id": "롯데마트",
+      "rank": 8,
+      "keyword": "롯데마트",
+      "volumeLabel": "200+",
+      "startedLabel": "4시간 전",
       "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'LG유플러스, 화이트해커로 보안 취약점 찾는다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "changeLabel": "-3",
+      "summary": "급상승 시점에 '주말까지 기다리지 마세요…롯데마트 제타, 평일 300여 품목 최대 반값' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "LG유플러스, 화이트해커로 보안 취약점 찾는다",
+          "title": "주말까지 기다리지 마세요…롯데마트 제타, 평일 300여 품목 최대 반값",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260824172100043"
+          "url": "https://v.daum.net/v/VJyeazcnCO"
         },
         {
-          "title": "LGU+, 전세계 화이트해커 손잡는다…'글로벌 버그바운티' 운영",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260824_0003759368"
+          "title": "롯데마트 제타, 신규 고객에 신선식품·생필품 최대 50% 할인",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260822031400030"
         },
         {
-          "title": "LGU+, 화이트해커 플랫폼 해커원과 맞손…취약점 발굴 고도화",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026082411291326592"
+          "title": "롯데마트 제타, 평일 온라인 장보기 할인 ‘월간제타’ 진행",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20082178"
+        }
+      ]
+    },
+    {
+      "id": "신봉선",
+      "rank": 9,
+      "keyword": "신봉선",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 '신봉선 '웃찾사' 경력 싹 빼고 KBS 갔다 \"뚱뚱한 캐릭터 개그 요구, 싫었다\" 솔직(이홍렬TV)' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "신봉선 '웃찾사' 경력 싹 빼고 KBS 갔다 \"뚱뚱한 캐릭터 개그 요구, 싫었다\" 솔직(이홍렬TV)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260822n04058"
+        },
+        {
+          "title": "신봉선, 눈치 빠른 김구라도 속였다..“딴 예능 간다고 ‘복면가왕’ 펑크” (‘이홍렬TV’) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/22/MI2DGNRYGY2DSMLBGVQWEMRVGA/"
+        },
+        {
+          "title": "신봉선, '복면가왕' 퇴출설도 작전이었다…\"김구라까지 다 속아\" (걷다보니)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822172707144"
         }
       ]
     }
