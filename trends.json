@@ -1,232 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-25T01:43:30.337Z",
+  "updatedAt": "2026-08-25T03:06:48.812Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "삼성생명",
+      "id": "김상순",
       "rank": 1,
-      "keyword": "삼성생명",
-      "volumeLabel": "10000+",
-      "startedLabel": "1시간 전",
+      "keyword": "김상순",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "summary": "급상승 시점에 ''수사반장' 형사 4인방, 최불암만 남았다…故 김상순, 오늘(25일) 11주기 [MD투데이]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": []
+      "newsSignals": [
+        {
+          "title": "'수사반장' 형사 4인방, 최불암만 남았다…故 김상순, 오늘(25일) 11주기 [MD투데이]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825010148869"
+        },
+        {
+          "title": "'수사반장' 김상순, 오늘(25일) 11주기…그리운 얼굴",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/515802"
+        },
+        {
+          "title": "故 김상순, ‘수사반장’으로 스타덤→폐암 투병 끝 안타까운 죽음…벌써 ’11주기’ [RE:멤버]",
+          "source": "TV리포트",
+          "url": "https://tvreport.co.kr/star/article/1070901/"
+        }
+      ]
     },
     {
-      "id": "임금",
+      "id": "디즈니",
       "rank": 2,
-      "keyword": "임금",
+      "keyword": "디즈니+",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘성과금 400%+1270만원’에 월 기본급 10만원 인상···현대차 노사, 111일 줄다리기 끝 잠정합의' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '9/11 다시 만난 사람들' (Disney Plus) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘성과금 400%+1270만원’에 월 기본급 10만원 인상···현대차 노사, 111일 줄다리기 끝 잠정합의",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608250830001"
+          "title": "9/11 다시 만난 사람들",
+          "source": "Disney Plus",
+          "url": "https://www.disneyplus.com/ko-kr/browse/entity-88f16401-7120-4fd2-9e48-aa0c01bdaf53"
         },
         {
-          "title": "'맏형' 현대차 임금협상 잠정합의…기아, 오늘 오후 '파업' 여부 결정",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260825_0003761271"
-        },
-        {
-          "title": "현대차 임협 111일 만에 잠정합의…성과금 ‘400%+1270만원’",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/business/12135366"
-        }
-      ]
-    },
-    {
-      "id": "인플레이션",
-      "rank": 3,
-      "keyword": "인플레이션",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[속보]美증시 반도체 급락…마이크론 -5.8%·하닉ADR -4.9%' (문화일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[속보]美증시 반도체 급락…마이크론 -5.8%·하닉ADR -4.9%",
+          "title": "9·11때 추락하는 엘베에 갇힌 6명…생명의 은인 ‘유리창 밀대’ 사연 화제",
           "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11611692"
+          "url": "https://www.munhwa.com/article/11609852"
         },
         {
-          "title": "\"미 재무부 TGA 비상금으로 국채 바이백 검토\" 소식, 금리 안정세 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/08/25/2026082509435190622"
-        },
-        {
-          "title": "[뉴욕증시] 혼조세 마감…기술주 실적 앞둔 경계감",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260825074207445"
+          "title": "Disney+ ‘9/11 Reunited’: 생존자들이 25년 만에 자신을 구한 낯선 사람들과 다시 만나다",
+          "source": "Martin Cid Magazine",
+          "url": "https://ko.martincid.com/tv-shows-ko/9-11-reunited/"
         }
       ]
     },
     {
-      "id": "컨테이너선",
-      "rank": 4,
-      "keyword": "컨테이너선",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "id": "파운드리",
+      "rank": 3,
+      "keyword": "파운드리",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“앙숙 대만마저 중국에 발주”… 中에 컨테이너선 다 뺏긴 韓 - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '엔비디아, '그록 3 LPX' 대량 양산 돌입…삼성전자·전기 수혜' (지디넷코리아) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“앙숙 대만마저 중국에 발주”… 中에 컨테이너선 다 뺏긴 韓 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/industry/company/2026/08/25/W63GQX2DSRBQLJQTOJIYBTO664/"
+          "title": "엔비디아, '그록 3 LPX' 대량 양산 돌입…삼성전자·전기 수혜",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260825090225"
         },
         {
-          "title": "K-조선, 역대급 호황에 채용문도 ‘활짝’",
+          "title": "엔비디아, '삼성 생산' 추론칩 '그록3' 양산 돌입…네비우스 첫 고객",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260825003312629"
+          "url": "https://v.daum.net/v/20260825113933308"
         },
         {
-          "title": "’야드 밖으로’ K조선...해외 생산·사업 거점 넓힌다 By EBN",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2071739"
-        }
-      ]
-    },
-    {
-      "id": "이의-리",
-      "rank": 5,
-      "keyword": "이의 리",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[영상] 만루홈런 맞은 KIA 이의리…이중 키킹의 명암?' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[영상] 만루홈런 맞은 KIA 이의리…이중 키킹의 명암?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824140340342?f=p"
-        },
-        {
-          "title": "인생을 보여준 키움 김재현…'누구든 한 번은 주인공이 된다'",
+          "title": "엔비디아, '삼성생산' 추론가속기 그록3 양산 돌입…고객사 확보",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260824106600007"
-        },
-        {
-          "title": "믿었던 이의리마저‥역전 끝내기 만루포 맞고 대역전패",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846713_37004.html"
+          "url": "https://www.yna.co.kr/view/AKR20260825019500091"
         }
       ]
     },
     {
-      "id": "디에고-시메오네",
-      "rank": 6,
-      "keyword": "디에고 시메오네",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "id": "아틀레티코-마드리드",
+      "rank": 4,
+      "keyword": "아틀레티코 마드리드",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이강인 투톱은 '땜빵?' 시메오네 솔직 고백…\"루크먼에게 미안, 원래 최전방 공격수 아냐\"→LEE 본격 경쟁 시작되나' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''평생 용서할 수 없다'…이강인 아틀레티코 마드리드 동료, 팬들도 이적 요구' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이강인 투톱은 '땜빵?' 시메오네 솔직 고백…\"루크먼에게 미안, 원래 최전방 공격수 아냐\"→LEE 본격 경쟁 시작되나",
+          "title": "'평생 용서할 수 없다'…이강인 아틀레티코 마드리드 동료, 팬들도 이적 요구",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260824220150228"
+          "url": "https://v.daum.net/v/20260825055149690"
         },
         {
-          "title": "만족과 아쉬움 공존한 시메오네 감독 “대부분의 시간 경기 통제, 중요한 순간 더 관리 잘해야”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608240510003"
+          "title": "\"빨리 꺼져라!\" 몸풀 때부터 역대급 야유 폭발...'이강인 동료' 알바레스, 비난 속에 24분 복귀전→팬들에게 인사도 없이 도망쳤다 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/football/2026/08/24/HE4GMOLGGM2WGZBZGVSTSMZUG4/"
         },
         {
-          "title": "이강인 투톱 이제 끝날까…공격수 부족에 고육지책 쓴 시메오네 \"루크먼에게 미안하다, 원래 포지션이 아니다\"",
+          "title": "'이강인과 호흡, 없던 일?' 알바레스, 이번엔 아스날 이적설...\"2421억 준비 완료\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/25/202608250557770536O"
+        }
+      ]
+    },
+    {
+      "id": "박성현",
+      "rank": 5,
+      "keyword": "박성현",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '박성현, 1주만에 세계랭킹 반등…윤이나·최혜진·황유민은?' (골프한국) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "박성현, 1주만에 세계랭킹 반등…윤이나·최혜진·황유민은?",
+          "source": "골프한국",
+          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021652"
+        },
+        {
+          "title": "'2주 연속 KLPGA 나들이' 박성현 \"부족한 점 많지만 좋아지고 있어\" [ST현장]",
           "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260824n34977"
+          "url": "https://sports.news.nate.com/view/20260824n02823"
+        },
+        {
+          "title": "'남달라' 박성현 \"아직 40%지만…조금씩 좋아지고 있어요\" [BC카드·한경 KLPGA 챔피언십]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608236897i"
         }
       ]
     },
     {
-      "id": "장서희",
-      "rank": 7,
-      "keyword": "장서희",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "id": "김병주",
+      "rank": 6,
+      "keyword": "김병주",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '7.0% 자체 최고 찍었지만 여전히 한 자릿수…장서희·전혜원 법정 대치 ('욕망의덫')' (텐아시아) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''팔아야 산다' 홈플러스, 지방점포 12곳이 복병 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "7.0% 자체 최고 찍었지만 여전히 한 자릿수…장서희·전혜원 법정 대치 ('욕망의덫')",
-          "source": "텐아시아",
-          "url": "https://www.tenasia.co.kr/article/2026081750234"
+          "title": "'팔아야 산다' 홈플러스, 지방점포 12곳이 복병 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/08/25/2026082419513716083"
+        },
+        {
+          "title": "김병주 MBK 회장, ‘우리투자증권 500억’도 상환 절차 밟는다",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/Read?newsId=03132406645550928"
+        },
+        {
+          "title": "홈플러스 회생 시한 D-11…공익채권 분할 상환 동의 요청",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/fq5XktnQhO"
         }
       ]
     },
     {
-      "id": "브래드-갈링하우스",
-      "rank": 8,
-      "keyword": "브래드 갈링하우스",
+      "id": "에어로케이",
+      "rank": 7,
+      "keyword": "에어로케이",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '리플 CEO가 꼽은 XRP 가격 상승 가로막는 단 하나의 요인은?' (글로벌이코노믹) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '에어로케이, 청주~베이징·마닐라 운항 추진' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "리플 CEO가 꼽은 XRP 가격 상승 가로막는 단 하나의 요인은?",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Securities/2026/08/202608240642098440e250e8e188_1"
+          "title": "에어로케이, 청주~베이징·마닐라 운항 추진",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643756"
         },
         {
-          "title": "미국인 25%가 암호화폐 보유...리플 CEO \"주변부 산업 취급은 끝났다\"",
-          "source": "코인리더스",
-          "url": "https://www.coinreaders.com/254354"
+          "title": "에어로케이, 청주시와 '삿포로 마케팅'…홋카이도發 인바운드 정조준",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824160243728"
         },
         {
-          "title": "리플 IPO 가능성 시사? 500억달러 기업가치·자사주 매입의 의미",
-          "source": "Cryptonews",
-          "url": "https://cryptonews.com/kr/news/ripple-ipo-possibility-50-billion-valuation-share-buyback/"
+          "title": "청주시, 일본 관광객 유치에 박차 가하다",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260824500155"
         }
       ]
     },
     {
-      "id": "대한민국",
-      "rank": 9,
-      "keyword": "대한민국",
+      "id": "태권도",
+      "rank": 8,
+      "keyword": "태권도",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '교촌 영양 발효공방1991, '대한민국 명소' 2개 부문 선정' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '태권도장서 아동 관원에 ‘다리찢기’ 강요한 관장 피소···“전치 8주 부상”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "교촌 영양 발효공방1991, '대한민국 명소' 2개 부문 선정",
+          "title": "태권도장서 아동 관원에 ‘다리찢기’ 강요한 관장 피소···“전치 8주 부상”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608242243001"
+        },
+        {
+          "title": "태권도장서 7세 아이 붙잡고 ‘다리찢기’해 골절…관장 “훈육 과정”",
+          "source": "주간조선",
+          "url": ""
+        },
+        {
+          "title": "[AFTER 8NEWS] '27분' 거꾸로 매달려 사망한 3살…CCTV '300개' 복구해 봤더니 '충격'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/XvSTXqkLYr"
+          "url": "https://v.daum.net/v/QoKOhBEopW?f=p"
+        }
+      ]
+    },
+    {
+      "id": "대한상공회의소",
+      "rank": 9,
+      "keyword": "대한상공회의소",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '대한상의, '신설' 경제연구총괄에 이시욱 내정' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "대한상의, '신설' 경제연구총괄에 이시욱 내정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824171851964"
         },
         {
-          "title": "순천만국가정원·죽녹원 ‘전국 톱10’…전남광주 관광명소 빛났다",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260825010008194"
+          "title": "대한상의 경제연구총괄에 이시욱 전 KIEP 원장",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11611876"
         },
         {
-          "title": "경남 관광명소 775건, ‘대한민국 명소발굴 100×100’ 선정",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=713409"
+          "title": "대한상의, 경제연구 사령탑에 이시욱 전 KIEP 원장 영입",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260824165420"
+        }
+      ]
+    },
+    {
+      "id": "교직원공제회",
+      "rank": 10,
+      "keyword": "교직원공제회",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '교직원공제회, 올해 신입사원 20명 공개채용' (연합인포맥스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "교직원공제회, 올해 신입사원 20명 공개채용",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431524"
+        },
+        {
+          "title": "한국교직원공제회 신입사원 20명 공개채용…IT분야 자격증 필수",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3672995"
+        },
+        {
+          "title": "한국교직원공제회, 올해 신입사원 20명 공개채용",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260824_0003760537"
         }
       ]
     }
