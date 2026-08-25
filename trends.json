@@ -1,251 +1,43 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-25T14:22:25.133Z",
+  "updatedAt": "2026-08-25T15:23:27.658Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "재벌x형사",
+      "id": "재벌x형사-2",
       "rank": 1,
-      "keyword": "재벌x형사",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "keyword": "재벌x형사 2",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '신예 박태린, '재벌X형사2' 반전의 중심' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'SBS 판 뒤집었다…시청률 9.4% 자체 '최고'→거침없는 상승세로 시청자 취향 저격한 韓 드라마 ('재벌X형사2')' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "신예 박태린, '재벌X형사2' 반전의 중심",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824082020093"
-        },
-        {
           "title": "SBS 판 뒤집었다…시청률 9.4% 자체 '최고'→거침없는 상승세로 시청자 취향 저격한 韓 드라마 ('재벌X형사2')",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260825n31520"
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825185437697"
         },
         {
           "title": "안보현, 트라우마 앞 흔들리는 꺼드럭 (재벌X형사2)",
           "source": "스포츠경향",
           "url": "https://sports.khan.co.kr/article/202608251720003"
+        },
+        {
+          "title": "정은채ㆍ유승호 무슨 사이?⋯'재벌X형사2' 의미심장 엔딩",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2617247"
         }
       ]
     },
     {
-      "id": "매매",
+      "id": "이재명-지지율",
       "rank": 2,
-      "keyword": "매매",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '인천시 7월 주택 매매·전세는 하락…월세는 상승폭 확대' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "인천시 7월 주택 매매·전세는 하락…월세는 상승폭 확대",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260825_0003760860"
-        },
-        {
-          "title": "인천 주택시장 매매·전세 ‘숨 고르기’… 월세는 상승폭 확대",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10850761"
-        },
-        {
-          "title": "인천 주택시장 관망세 속 안정…월세만 나 홀로 상승",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260825153602330"
-        }
-      ]
-    },
-    {
-      "id": "충남혁신도시",
-      "rank": 3,
-      "keyword": "충남혁신도시",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“8월에 한다더니 10월 이후로”…또 미뤄진 공공기관 이전' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“8월에 한다더니 10월 이후로”…또 미뤄진 공공기관 이전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260825215217725"
-        },
-        {
-          "title": "미뤄지는 ‘공공기관 지방 이전’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608252034005"
-        },
-        {
-          "title": "2차 공공기관 이전 10~11월 윤곽…“공론화 거칠 것”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8645605"
-        }
-      ]
-    },
-    {
-      "id": "진기주",
-      "rank": 4,
-      "keyword": "진기주",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "pga-투어",
-      "rank": 5,
-      "keyword": "pga 투어",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '핀첨 전 PGA투어 커미셔너와 아내, ‘PGA투어 채리티’에 1300만달러 기부' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "핀첨 전 PGA투어 커미셔너와 아내, ‘PGA투어 채리티’에 1300만달러 기부",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/golf/2026/08/25/BL544YQTCZAYBDXODCYHJYOHOM/"
-        },
-        {
-          "title": "핀첨 전 커미셔너, PGA 투어 자선사업 개편에 180억원 기부",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=05028246645550928&mediaCodeNo=257"
-        },
-        {
-          "title": "‘44억 달러 유산 넘어선다’ 외연 확장에 나서는 PGA 투어",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1682071/%E2%80%9844%EC%96%B5-%EB%8B%AC%EB%9F%AC-%EC%9C%A0%EC%82%B0-%EB%84%98%EC%96%B4%EC%84%A0%EB%8B%A4%E2%80%99-%EC%99%B8%EC%97%B0-2026"
-        }
-      ]
-    },
-    {
-      "id": "강혜연",
-      "rank": 6,
-      "keyword": "강혜연",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '‘현역가왕3’ 전국투어 대장정 마무리…서울 피날레 빛낸 ‘역대급 라인업’' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘현역가왕3’ 전국투어 대장정 마무리…서울 피날레 빛낸 ‘역대급 라인업’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/8qaBKA0HJ3"
-        },
-        {
-          "title": "‘트롯 다람쥐’ 강혜연이 남긴 아름다운 작별과 새로운 도약 [홍동희 시선]",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12135784"
-        },
-        {
-          "title": "‘현역가왕3’ 전국투어, 6개월 대장정 마침표…전유진→홍지윤 총출동",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260824/134528920/1"
-        }
-      ]
-    },
-    {
-      "id": "스디파",
-      "rank": 7,
-      "keyword": "스디파",
-      "volumeLabel": "100+",
+      "keyword": "이재명 지지율",
+      "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''스디파' 시미즈, 제이미 뺏기고 후회…댄서 캐스팅 진행' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'스디파' 시미즈, 제이미 뺏기고 후회…댄서 캐스팅 진행",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260825224050445"
-        },
-        {
-          "title": "'스디파' 립제이, 베이비주와 깜짝 무대…정민준 \"천군만마 획득\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6269228"
-        },
-        {
-          "title": "심재원, ‘SM 20년 인연’ 백구영vs캐스퍼 대결에 눈물 “심리적으로 힘들어” (‘스디파’) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/25/HA4WGYLCMNRTMMJXG5SGCYJRGU/"
-        }
-      ]
-    },
-    {
-      "id": "과천시",
-      "rank": 8,
-      "keyword": "과천시",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"도시 전체가 무대로\"…과천시 '지팝시티 2.0'으로 예술축제 지평 연다 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"도시 전체가 무대로\"…과천시 '지팝시티 2.0'으로 예술축제 지평 연다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/policy/2026/08/25/2026082513342325230"
-        },
-        {
-          "title": "공중 퍼포먼스에 불꽃쇼까지…과천 도심이 사흘간 ‘거대한 무대’ 된다",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260825580201"
-        },
-        {
-          "title": "사흘동안 소환되는 추억과 환상… 9월18~20일 ‘과천공연예술축제’",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1769596"
-        }
-      ]
-    },
-    {
-      "id": "k리그1-순위",
-      "rank": 9,
-      "keyword": "k리그1 순위",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[K리그1] 중간 순위(25일)' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[K리그1] 중간 순위(25일)",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/soccer/6269368"
-        },
-        {
-          "title": "[K리그1] 중간 순위(23일)",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260823n15113?mid=s02&list=recent&cpcd="
-        },
-        {
-          "title": "[K리그1] 중간 순위(22일)",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/soccer/6266460"
-        }
-      ]
-    },
-    {
-      "id": "뉴데일리",
-      "rank": 10,
-      "keyword": "뉴데일리",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 '[속보]대통령 40.0%턱걸이…호남서 16%p급락-미디어토마토' (문화일보) 관련 뉴스가 함께 포착됐어요.",
@@ -257,14 +49,238 @@
           "url": "https://www.munhwa.com/article/11611790"
         },
         {
-          "title": "'추락엔 날개가 없다' 李 지지율 40.0% 또 최저 경신 … 20대 '부정 평가' 68.2%",
-          "source": "뉴데일리",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/08/25/2026082500040.html"
+          "title": "李 지지율·공공기관·당 내분… ‘3대 악재’로 PK 민주 휘청",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825182822027"
         },
         {
           "title": "(정기여론조사)⑤이 대통령 지지도 40.0% '최저치'…부정평가 54.9%",
           "source": "뉴스토마토",
           "url": "https://www.newstomato.com/readnews.aspx?no=1311223"
+        }
+      ]
+    },
+    {
+      "id": "휴민트",
+      "rank": 3,
+      "keyword": "휴민트",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''197만' 굴욕 씻나…'왕사남' 기세에 49일 만 넷플릭스行→공개 5개월 만에 역주행 불 지핀 한국 영화' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'197만' 굴욕 씻나…'왕사남' 기세에 49일 만 넷플릭스行→공개 5개월 만에 역주행 불 지핀 한국 영화",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825161009275"
+        },
+        {
+          "title": "‘왕사남’에 밀려 198만 그쳤는데…갑자기 넷플릭스 TOP10 오른 한국 영화",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1154262"
+        },
+        {
+          "title": "[Y현장] 이창동 감독이 밝힌 '가능한 사랑'이 '가능한 사랑'인 이유",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202608251339395700"
+        }
+      ]
+    },
+    {
+      "id": "하석진",
+      "rank": 4,
+      "keyword": "하석진",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''사랑이 온다' 안희연, 복귀 잘했다...4주 연속 화제성 1위' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'사랑이 온다' 안희연, 복귀 잘했다...4주 연속 화제성 1위",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/BodsEBEoTA"
+        },
+        {
+          "title": "‘사랑이 온다’ 이주연, 짝사랑에서 쌍방향 로맨스 시작 본격화",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608242200003"
+        },
+        {
+          "title": "하석진·안희연, 엇갈린 로맨스 속 다시 사랑할 수 있을까(‘사랑이 온다’) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/25/MM4DKZRSGY3DCZTDHFTDOMJUGQ/"
+        }
+      ]
+    },
+    {
+      "id": "사이클링-히트",
+      "rank": 5,
+      "keyword": "사이클링 히트",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'LG 복덩이 타자 오스틴, 역대 33번째 사이클링 히트' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "LG 복덩이 타자 오스틴, 역대 33번째 사이클링 히트",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260825179200007"
+        },
+        {
+          "title": "0:2→3:2→3:3→3:4→5:4, 극적인 끝내기, 3위 지켰다...염경엽 \"선수들의 끝까지 포기하지 않는 플레이\" 톨허스트, 오스틴 그리고 홍창기",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/08/26/GVSDKZLEHFSTGNJYG42DSYZWGI/"
+        },
+        {
+          "title": "'연장 끝내기' 홍창기 \"끝내기 찬스, '왜 내게 시련 오나' 싶었다…야구 정말 어렵더라\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260825n36247"
+        }
+      ]
+    },
+    {
+      "id": "이재-시",
+      "rank": 6,
+      "keyword": "이재 시",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''이동국 딸' 이재시, 스무 살 되니 연예인급 미모 폭발…쌍둥이 재시도 \"아구 예뻐\" - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'이동국 딸' 이재시, 스무 살 되니 연예인급 미모 폭발…쌍둥이 재시도 \"아구 예뻐\" - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/08/26/MI4DOYZRGFQTKNZVMQYDMNBTMY/"
+        },
+        {
+          "title": "이동국 딸 맞아? 한강에 뜬 이재시, 올블랙으로 드러낸 모델 포스",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1630740"
+        },
+        {
+          "title": "이동국, 매일 자식 자랑해도 무죄…첫째 딸이 올린 사진, 연예인이라 해도 믿을 비주얼 [★해시태그]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260825n24123"
+        }
+      ]
+    },
+    {
+      "id": "윤석민",
+      "rank": 7,
+      "keyword": "윤석민",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''동상이몽2' 윤석민 \"김병현, 방송할 거란 상상 못 해\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'동상이몽2' 윤석민 \"김병현, 방송할 거란 상상 못 해\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825232042795"
+        },
+        {
+          "title": "‘90억의 사나이’ 윤석민, 프로야구 역사상 역봉 최다 삭감 기록 달성한 일화↗",
+          "source": "programs.sbs.co.kr",
+          "url": ""
+        },
+        {
+          "title": "김수현 \"주변 사람들 절 보고 을도 아니고 정이라해\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260824_0003759463"
+        }
+      ]
+    },
+    {
+      "id": "서-건창",
+      "rank": 8,
+      "keyword": "서 건창",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '디아즈, 솔로포 기쁨 만끽' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "디아즈, 솔로포 기쁨 만끽",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260825_0021410671"
+        },
+        {
+          "title": "[사진]서건창, 데이비슨과 하이파이브",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112863493"
+        },
+        {
+          "title": "[IS 고척] 디아즈가 쏘아 올린 추격의 한 방…시즌 20호포 쾅!",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825195041213"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "rank": 9,
+      "keyword": "apple",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 …' (Apple) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
+          "source": "Apple",
+          "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/"
+        },
+        {
+          "title": "Apple’s new desktop computers are designed specifically for local AI development",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/"
+        },
+        {
+          "title": "Apple Gears Up to Launch Its First New Mac Mini in Two Years",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-25/apple-to-launch-new-mac-mini-airpods-5-and-oled-ipad-mini-timing-details"
+        }
+      ]
+    },
+    {
+      "id": "누리호",
+      "rank": 10,
+      "keyword": "누리호",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '우주청, 누리호 5차발사 승인…10월 중 발사 전망' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "우주청, 누리호 5차발사 승인…10월 중 발사 전망",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825184250373"
+        },
+        {
+          "title": "우주항공청, 한국형발사체 누리호 5차 발사 승인",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0105_202608251835345355_005.html"
+        },
+        {
+          "title": "누리호 5호기, 보험 2,000억원 가입 등 16개 평가…\"발사 승인\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260825184918"
         }
       ]
     }
