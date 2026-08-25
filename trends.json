@@ -1,17 +1,45 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-25T15:23:27.658Z",
+  "updatedAt": "2026-08-25T16:09:46.726Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "재벌x형사-2",
+      "id": "하석진",
       "rank": 1,
+      "keyword": "하석진",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+3",
+      "summary": "급상승 시점에 ''사랑이 온다' 안희연, 복귀 잘했다...4주 연속 화제성 1위' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'사랑이 온다' 안희연, 복귀 잘했다...4주 연속 화제성 1위",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/BodsEBEoTA"
+        },
+        {
+          "title": "‘사랑이 온다’ 이주연, 짝사랑에서 쌍방향 로맨스 시작 본격화",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608242200003"
+        },
+        {
+          "title": "하석진·안희연, 엇갈린 로맨스 속 다시 사랑할 수 있을까(‘사랑이 온다’) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/25/MM4DKZRSGY3DCZTDHFTDOMJUGQ/"
+        }
+      ]
+    },
+    {
+      "id": "재벌x형사-2",
+      "rank": 2,
       "keyword": "재벌x형사 2",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 'SBS 판 뒤집었다…시청률 9.4% 자체 '최고'→거침없는 상승세로 시청자 취향 저격한 韓 드라마 ('재벌X형사2')' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -34,12 +62,12 @@
     },
     {
       "id": "이재명-지지율",
-      "rank": 2,
+      "rank": 3,
       "keyword": "이재명 지지율",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '[속보]대통령 40.0%턱걸이…호남서 16%p급락-미디어토마토' (문화일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -49,9 +77,9 @@
           "url": "https://www.munhwa.com/article/11611790"
         },
         {
-          "title": "李 지지율·공공기관·당 내분… ‘3대 악재’로 PK 민주 휘청",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260825182822027"
+          "title": "'추락엔 날개가 없다' 李 지지율 40.0% 또 최저 경신 … 20대 '부정 평가' 68.2%",
+          "source": "뉴데일리",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/08/25/2026082500040.html"
         },
         {
           "title": "(정기여론조사)⑤이 대통령 지지도 40.0% '최저치'…부정평가 54.9%",
@@ -61,86 +89,58 @@
       ]
     },
     {
-      "id": "휴민트",
-      "rank": 3,
-      "keyword": "휴민트",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "id": "장원영",
+      "rank": 4,
+      "keyword": "장원영",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''197만' 굴욕 씻나…'왕사남' 기세에 49일 만 넷플릭스行→공개 5개월 만에 역주행 불 지핀 한국 영화' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '장원영, 사복 추구미는 섹시? 레드 초미니 드레스 입고 밀라노行' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'197만' 굴욕 씻나…'왕사남' 기세에 49일 만 넷플릭스行→공개 5개월 만에 역주행 불 지핀 한국 영화",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260825161009275"
+          "title": "장원영, 사복 추구미는 섹시? 레드 초미니 드레스 입고 밀라노行",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608251405013"
         },
         {
-          "title": "‘왕사남’에 밀려 198만 그쳤는데…갑자기 넷플릭스 TOP10 오른 한국 영화",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1154262"
+          "title": "장원영, 오늘도 어김없이 9등신 몸매",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260824_0003760400"
+        },
+        {
+          "title": "[현장영상] \"오늘자 핫걸\"...장원영, 레드 워뇨공주",
+          "source": "디스패치",
+          "url": "https://www.dispatch.co.kr/2346873"
+        }
+      ]
+    },
+    {
+      "id": "휴민트",
+      "rank": 5,
+      "keyword": "휴민트",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 '이창동 '가능한 사랑', 美 아카데미상 한국 대표로 출품' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이창동 '가능한 사랑', 美 아카데미상 한국 대표로 출품",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/tnNmFj3GHP"
         },
         {
           "title": "[Y현장] 이창동 감독이 밝힌 '가능한 사랑'이 '가능한 사랑'인 이유",
           "source": "YTN",
           "url": "https://www.ytn.co.kr/_ln/0117_202608251339395700"
-        }
-      ]
-    },
-    {
-      "id": "하석진",
-      "rank": 4,
-      "keyword": "하석진",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''사랑이 온다' 안희연, 복귀 잘했다...4주 연속 화제성 1위' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'사랑이 온다' 안희연, 복귀 잘했다...4주 연속 화제성 1위",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/BodsEBEoTA"
         },
         {
-          "title": "‘사랑이 온다’ 이주연, 짝사랑에서 쌍방향 로맨스 시작 본격화",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608242200003"
-        },
-        {
-          "title": "하석진·안희연, 엇갈린 로맨스 속 다시 사랑할 수 있을까(‘사랑이 온다’) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/25/MM4DKZRSGY3DCZTDHFTDOMJUGQ/"
-        }
-      ]
-    },
-    {
-      "id": "사이클링-히트",
-      "rank": 5,
-      "keyword": "사이클링 히트",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'LG 복덩이 타자 오스틴, 역대 33번째 사이클링 히트' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "LG 복덩이 타자 오스틴, 역대 33번째 사이클링 히트",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260825179200007"
-        },
-        {
-          "title": "0:2→3:2→3:3→3:4→5:4, 극적인 끝내기, 3위 지켰다...염경엽 \"선수들의 끝까지 포기하지 않는 플레이\" 톨허스트, 오스틴 그리고 홍창기",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/08/26/GVSDKZLEHFSTGNJYG42DSYZWGI/"
-        },
-        {
-          "title": "'연장 끝내기' 홍창기 \"끝내기 찬스, '왜 내게 시련 오나' 싶었다…야구 정말 어렵더라\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260825n36247"
+          "title": "“노동이 소멸하는 시대에 더 필요”···이창동, 8년 만에 꺼낸 해고노동자 이야기 ‘가능한 사랑’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608251623021"
         }
       ]
     },
@@ -149,9 +149,9 @@
       "rank": 6,
       "keyword": "이재 시",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 ''이동국 딸' 이재시, 스무 살 되니 연예인급 미모 폭발…쌍둥이 재시도 \"아구 예뻐\" - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -173,13 +173,41 @@
       ]
     },
     {
-      "id": "윤석민",
+      "id": "맥미니",
       "rank": 7,
-      "keyword": "윤석민",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "keyword": "맥미니",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''온디바이스 AI용' 맥미니 신제품 출시…애플 첫 2나노 칩도' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'온디바이스 AI용' 맥미니 신제품 출시…애플 첫 2나노 칩도",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825220148885"
+        },
+        {
+          "title": "애플, 맥 스튜디오 신제품 공개…\"기기에서 LLM 구동\"",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260825001191"
+        },
+        {
+          "title": "\"M6 아이맥 출시 임박…색상도 추가된다\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260824101448"
+        }
+      ]
+    },
+    {
+      "id": "윤석민",
+      "rank": 8,
+      "keyword": "윤석민",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 ''동상이몽2' 윤석민 \"김병현, 방송할 거란 상상 못 해\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -189,42 +217,14 @@
           "url": "https://v.daum.net/v/20260825232042795"
         },
         {
-          "title": "‘90억의 사나이’ 윤석민, 프로야구 역사상 역봉 최다 삭감 기록 달성한 일화↗",
-          "source": "programs.sbs.co.kr",
-          "url": ""
-        },
-        {
           "title": "김수현 \"주변 사람들 절 보고 을도 아니고 정이라해\"",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20260824_0003759463"
-        }
-      ]
-    },
-    {
-      "id": "서-건창",
-      "rank": 8,
-      "keyword": "서 건창",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '디아즈, 솔로포 기쁨 만끽' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "디아즈, 솔로포 기쁨 만끽",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260825_0021410671"
         },
         {
-          "title": "[사진]서건창, 데이비슨과 하이파이브",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112863493"
-        },
-        {
-          "title": "[IS 고척] 디아즈가 쏘아 올린 추격의 한 방…시즌 20호포 쾅!",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260825195041213"
+          "title": "윤석민, 도마뱀 50마리 상주하는 '파충류 아파트' 공개",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3674666"
         }
       ]
     },
@@ -233,26 +233,26 @@
       "rank": 9,
       "keyword": "apple",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 …' (Apple) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 'Apple introduces new Mac Studio with M5 Max and M5 Ultra' (Apple) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
+          "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
           "source": "Apple",
-          "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/"
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/"
         },
         {
-          "title": "Apple’s new desktop computers are designed specifically for local AI development",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/"
+          "title": "Apple Launches New Mac Mini as It Bets Big on Consumer AI",
+          "source": "Barron's",
+          "url": "https://www.barrons.com/articles/apple-mac-mini-ai-dbd82dff"
         },
         {
-          "title": "Apple Gears Up to Launch Its First New Mac Mini in Two Years",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-25/apple-to-launch-new-mac-mini-airpods-5-and-oled-ipad-mini-timing-details"
+          "title": "Apple announces new Mac Mini and Mac Studio models with AI upgrades",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/08/25/apple-announces-new-mac-mini-and-mac-studio-models-with-ai-upgrades.html"
         }
       ]
     },
@@ -261,9 +261,9 @@
       "rank": 10,
       "keyword": "누리호",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '우주청, 누리호 5차발사 승인…10월 중 발사 전망' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
