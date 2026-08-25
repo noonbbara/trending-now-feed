@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-25T16:09:46.726Z",
+  "updatedAt": "2026-08-25T17:07:07.792Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,16 +9,16 @@
       "rank": 1,
       "keyword": "하석진",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+3",
-      "summary": "급상승 시점에 ''사랑이 온다' 안희연, 복귀 잘했다...4주 연속 화제성 1위' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 ''사랑이 온다' 안희연, 복귀 잘했다...4주 연속 화제성 1위' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "'사랑이 온다' 안희연, 복귀 잘했다...4주 연속 화제성 1위",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/BodsEBEoTA"
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/25/MFSDSY3DHA3TAMJWG5STQMRRMU/"
         },
         {
           "title": "‘사랑이 온다’ 이주연, 짝사랑에서 쌍방향 로맨스 시작 본격화",
@@ -26,9 +26,9 @@
           "url": "https://sports.khan.co.kr/article/202608242200003"
         },
         {
-          "title": "하석진·안희연, 엇갈린 로맨스 속 다시 사랑할 수 있을까(‘사랑이 온다’) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/25/MM4DKZRSGY3DCZTDHFTDOMJUGQ/"
+          "title": "‘사랑이 온다’ 배윤규 반전 매력, 전국 16.8%↑",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/0Yr68UNd0r?f=p"
         }
       ]
     },
@@ -37,9 +37,9 @@
       "rank": 2,
       "keyword": "재벌x형사 2",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 'SBS 판 뒤집었다…시청률 9.4% 자체 '최고'→거침없는 상승세로 시청자 취향 저격한 韓 드라마 ('재벌X형사2')' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -65,9 +65,9 @@
       "rank": 3,
       "keyword": "이재명 지지율",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '[속보]대통령 40.0%턱걸이…호남서 16%p급락-미디어토마토' (문화일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -89,13 +89,41 @@
       ]
     },
     {
-      "id": "장원영",
+      "id": "유재석",
       "rank": 4,
-      "keyword": "장원영",
+      "keyword": "유재석",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''틈만나면' 차태현 \"유재석 별로죠?\"…'속 뒤집개' 폭소' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'틈만나면' 차태현 \"유재석 별로죠?\"…'속 뒤집개' 폭소",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825222642258"
+        },
+        {
+          "title": "틈만나면, : 유연석×유재석×차태현×진기주, 틈 미션 중 예상치 못한 어려움에 당황!",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/teum/clip/82063/OC481224549"
+        },
+        {
+          "title": "차태현, 조인성과 회사 차리더니 \"운 너무 좋아\"…진기주까지 대박 ('틈만나면')",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/25/MRRTIZJVHBRDENDFMQ2GEZDBGU/"
+        }
+      ]
+    },
+    {
+      "id": "장원영",
+      "rank": 5,
+      "keyword": "장원영",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '장원영, 사복 추구미는 섹시? 레드 초미니 드레스 입고 밀라노行' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -117,142 +145,114 @@
       ]
     },
     {
-      "id": "휴민트",
-      "rank": 5,
-      "keyword": "휴민트",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '이창동 '가능한 사랑', 美 아카데미상 한국 대표로 출품' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "이창동 '가능한 사랑', 美 아카데미상 한국 대표로 출품",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/tnNmFj3GHP"
-        },
-        {
-          "title": "[Y현장] 이창동 감독이 밝힌 '가능한 사랑'이 '가능한 사랑'인 이유",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0117_202608251339395700"
-        },
-        {
-          "title": "“노동이 소멸하는 시대에 더 필요”···이창동, 8년 만에 꺼낸 해고노동자 이야기 ‘가능한 사랑’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608251623021"
-        }
-      ]
-    },
-    {
-      "id": "이재-시",
+      "id": "sk-하이닉스",
       "rank": 6,
-      "keyword": "이재 시",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 ''이동국 딸' 이재시, 스무 살 되니 연예인급 미모 폭발…쌍둥이 재시도 \"아구 예뻐\" - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'이동국 딸' 이재시, 스무 살 되니 연예인급 미모 폭발…쌍둥이 재시도 \"아구 예뻐\" - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/08/26/MI4DOYZRGFQTKNZVMQYDMNBTMY/"
-        },
-        {
-          "title": "이동국 딸 맞아? 한강에 뜬 이재시, 올블랙으로 드러낸 모델 포스",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1630740"
-        },
-        {
-          "title": "이동국, 매일 자식 자랑해도 무죄…첫째 딸이 올린 사진, 연예인이라 해도 믿을 비주얼 [★해시태그]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260825n24123"
-        }
-      ]
-    },
-    {
-      "id": "맥미니",
-      "rank": 7,
-      "keyword": "맥미니",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
+      "keyword": "sk 하이닉스",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''온디바이스 AI용' 맥미니 신제품 출시…애플 첫 2나노 칩도' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '하이닉스 '성과급 60% 주식 지급안' 부결...현대차 노사는 합의' (YTN) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'온디바이스 AI용' 맥미니 신제품 출시…애플 첫 2나노 칩도",
+          "title": "하이닉스 '성과급 60% 주식 지급안' 부결...현대차 노사는 합의",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0102_202608252240485681_005.html"
+        },
+        {
+          "title": "“성과급 주식말고 현금달라”… SK하닉 합의안 25표 차 부결",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260825220148885"
+          "url": "https://v.daum.net/v/20260826002110502"
         },
         {
-          "title": "애플, 맥 스튜디오 신제품 공개…\"기기에서 LLM 구동\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260825001191"
-        },
-        {
-          "title": "\"M6 아이맥 출시 임박…색상도 추가된다\"",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260824101448"
+          "title": "\"이례적\" 호평에도…SK하닉 임단협 '단 0.16%포인트 차' 부결",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608250570g"
         }
       ]
     },
     {
-      "id": "윤석민",
-      "rank": 8,
-      "keyword": "윤석민",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 ''동상이몽2' 윤석민 \"김병현, 방송할 거란 상상 못 해\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'동상이몽2' 윤석민 \"김병현, 방송할 거란 상상 못 해\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260825232042795"
-        },
-        {
-          "title": "김수현 \"주변 사람들 절 보고 을도 아니고 정이라해\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260824_0003759463"
-        },
-        {
-          "title": "윤석민, 도마뱀 50마리 상주하는 '파충류 아파트' 공개",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3674666"
-        }
-      ]
-    },
-    {
-      "id": "apple",
-      "rank": 9,
-      "keyword": "apple",
+      "id": "수능접수",
+      "rank": 7,
+      "keyword": "수능접수",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'Apple introduces new Mac Studio with M5 Max and M5 Ultra' (Apple) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '2027학년도 대학수학능력시험 응시원서 접수 시작' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-          "source": "Apple",
-          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/"
+          "title": "2027학년도 대학수학능력시험 응시원서 접수 시작",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260824035700013"
         },
         {
-          "title": "Apple Launches New Mac Mini as It Bets Big on Consumer AI",
-          "source": "Barron's",
-          "url": "https://www.barrons.com/articles/apple-mac-mini-ai-dbd82dff"
+          "title": "[포토] 개편 전 마지막 수능…'N수생' 얼마나 몰릴까",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1330303"
         },
         {
-          "title": "Apple announces new Mac Mini and Mac Studio models with AI upgrades",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/08/25/apple-announces-new-mac-mini-and-mac-studio-models-with-ai-upgrades.html"
+          "title": "대입 수능 응시 원서 접수 오늘 시작",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8643957"
+        }
+      ]
+    },
+    {
+      "id": "에어부산",
+      "rank": 8,
+      "keyword": "에어부산",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '국민의힘 부산의원들 \"통합 진에어 본사 부산으로 와야\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "국민의힘 부산의원들 \"통합 진에어 본사 부산으로 와야\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260825149500051"
+        },
+        {
+          "title": "LCC ‘3사 합병’에도…트리니티항공, 중장거리 확장 속도",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=348343"
+        },
+        {
+          "title": "곽규택 \"에어부산 헐값 합병…주주 피해 없는지 따져봐야\"",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1147457"
+        }
+      ]
+    },
+    {
+      "id": "불량연애2-2기",
+      "rank": 9,
+      "keyword": "불량연애2 2기",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘사람 몸에 불 질렀다’… 범죄자 미화 역풍에 멈춘 日 법무성 ‘갱생 포스터’' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘사람 몸에 불 질렀다’… 범죄자 미화 역풍에 멈춘 日 법무성 ‘갱생 포스터’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825153240129"
+        },
+        {
+          "title": "“사람에 불 질렀다” 폭탄고백…‘범죄자 갱생’ 홍보 日법무성 ‘역풍’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20260825/134541901/1"
+        },
+        {
+          "title": "'불량연애2' 타이짱의 재도전… 2기 출연진 파격 직업은?",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3674625"
         }
       ]
     },
@@ -261,16 +261,16 @@
       "rank": 10,
       "keyword": "누리호",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "steady",
       "changeLabel": "유지",
-      "summary": "급상승 시점에 '우주청, 누리호 5차발사 승인…10월 중 발사 전망' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '누리호 5호기 발사 승인…위성 15기 싣고 10월 발사될까' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "우주청, 누리호 5차발사 승인…10월 중 발사 전망",
+          "title": "누리호 5호기 발사 승인…위성 15기 싣고 10월 발사될까",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260825184250373"
+          "url": "https://v.daum.net/v/20260825190300961"
         },
         {
           "title": "우주항공청, 한국형발사체 누리호 5차 발사 승인",
@@ -278,9 +278,9 @@
           "url": "https://www.ytn.co.kr/_cs/_ln_0105_202608251835345355_005.html"
         },
         {
-          "title": "누리호 5호기, 보험 2,000억원 가입 등 16개 평가…\"발사 승인\"",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260825184918"
+          "title": "우주청, 누리호 5차발사 승인…10월 중 발사 전망",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260825164700017"
         }
       ]
     }
