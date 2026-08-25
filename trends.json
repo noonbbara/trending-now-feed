@@ -1,286 +1,232 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-24T23:52:13.195Z",
+  "updatedAt": "2026-08-25T01:43:30.337Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "송해나",
+      "id": "삼성생명",
       "rank": 1,
-      "keyword": "송해나",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '\"일반인 입었으면 경악할 패션\"… 송해나, 도쿄 싹 쓸어버린 '쇼킹 레이어드'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "삼성생명",
+      "volumeLabel": "10000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"일반인 입었으면 경악할 패션\"… 송해나, 도쿄 싹 쓸어버린 '쇼킹 레이어드'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824144935826"
-        },
-        {
-          "title": "39세 송해나, 새로운 패션 개척…일본 여행 파격 스타일",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260824_0003759284"
-        },
-        {
-          "title": "\"이런 옷을 소화하네?\"...송해나, 일본 거리 발칵 뒤집은 '난해한 패션'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/23/MU3WKZDCMU3TOMRUGVRTENLDMI/"
-        }
-      ]
+      "newsSignals": []
     },
     {
-      "id": "아버지",
+      "id": "임금",
       "rank": 2,
-      "keyword": "아버지",
+      "keyword": "임금",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '“부부싸움 말리다”…아들이 휘두른 흉기에 아버지 숨져' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘성과금 400%+1270만원’에 월 기본급 10만원 인상···현대차 노사, 111일 줄다리기 끝 잠정합의' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“부부싸움 말리다”…아들이 휘두른 흉기에 아버지 숨져",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/z7KqbRyOhJ"
+          "title": "‘성과금 400%+1270만원’에 월 기본급 10만원 인상···현대차 노사, 111일 줄다리기 끝 잠정합의",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608250830001"
         },
         {
-          "title": "천안서 존속살해 비극…아버지 숨지게 한 10대 체포",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260823580039"
+          "title": "'맏형' 현대차 임금협상 잠정합의…기아, 오늘 오후 '파업' 여부 결정",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260825_0003761271"
         },
         {
-          "title": "부모에게 흉기 휘둘러 부친 사망…외국 국적 대학생 아들 구속",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260824048700063"
+          "title": "현대차 임협 111일 만에 잠정합의…성과금 ‘400%+1270만원’",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12135366"
         }
       ]
     },
     {
-      "id": "빅뱅",
+      "id": "인플레이션",
       "rank": 3,
-      "keyword": "빅뱅",
-      "volumeLabel": "1000+",
+      "keyword": "인플레이션",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '추억의 아이돌? 여전히 청춘 아이콘… 스무살 ‘빅뱅’이 왔다' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[속보]美증시 반도체 급락…마이크론 -5.8%·하닉ADR -4.9%' (문화일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "추억의 아이돌? 여전히 청춘 아이콘… 스무살 ‘빅뱅’이 왔다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/08/25/VOLEG7VU3BBJBJHFP5F6P5MRFM/"
-        },
-        {
-          "title": "고양시, 빅뱅 월드투어 안전관리 총력에… 안전사고 ‘0건’",
+          "title": "[속보]美증시 반도체 급락…마이크론 -5.8%·하닉ADR -4.9%",
           "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11611719"
+          "url": "https://www.munhwa.com/article/11611692"
         },
         {
-          "title": "88세까지 팔팔하게, 추억 소환으로 끝나지 않게…빅뱅 데뷔 20주년 월드투어",
+          "title": "\"미 재무부 TGA 비상금으로 국채 바이백 검토\" 소식, 금리 안정세 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/08/25/2026082509435190622"
+        },
+        {
+          "title": "[뉴욕증시] 혼조세 마감…기술주 실적 앞둔 경계감",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260824203729046"
+          "url": "https://v.daum.net/v/20260825074207445"
         }
       ]
     },
     {
-      "id": "비트코인",
+      "id": "컨테이너선",
       "rank": 4,
-      "keyword": "비트코인",
+      "keyword": "컨테이너선",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '암호화폐 반등은 얼마나 지속될까? 애널리스트의 분석' (Investing.com 한국어) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“앙숙 대만마저 중국에 발주”… 中에 컨테이너선 다 뺏긴 韓 - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "암호화폐 반등은 얼마나 지속될까? 애널리스트의 분석",
+          "title": "“앙숙 대만마저 중국에 발주”… 中에 컨테이너선 다 뺏긴 韓 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/industry/company/2026/08/25/W63GQX2DSRBQLJQTOJIYBTO664/"
+        },
+        {
+          "title": "K-조선, 역대급 호황에 채용문도 ‘활짝’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825003312629"
+        },
+        {
+          "title": "’야드 밖으로’ K조선...해외 생산·사업 거점 넓힌다 By EBN",
           "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/cryptocurrency-news/article-2072461"
-        },
-        {
-          "title": "[코인시세] 비트코인 7만 2천달러 돌파…규제 완화 기대에 코인 강세",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260821103226IMN"
-        },
-        {
-          "title": "[크립토하나] 비트코인 약세장 종료론 '솔솔'…27일 빗썸 오지급 1심 결론",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260824093011"
+          "url": "https://kr.investing.com/news/stock-market-news/article-2071739"
         }
       ]
     },
     {
-      "id": "김승현",
+      "id": "이의-리",
       "rank": 5,
-      "keyword": "김승현",
+      "keyword": "이의 리",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[영상] 만루홈런 맞은 KIA 이의리…이중 키킹의 명암?' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[영상] 만루홈런 맞은 KIA 이의리…이중 키킹의 명암?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824140340342?f=p"
+        },
+        {
+          "title": "인생을 보여준 키움 김재현…'누구든 한 번은 주인공이 된다'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260824106600007"
+        },
+        {
+          "title": "믿었던 이의리마저‥역전 끝내기 만루포 맞고 대역전패",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846713_37004.html"
+        }
+      ]
+    },
+    {
+      "id": "디에고-시메오네",
+      "rank": 6,
+      "keyword": "디에고 시메오네",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이강인 투톱은 '땜빵?' 시메오네 솔직 고백…\"루크먼에게 미안, 원래 최전방 공격수 아냐\"→LEE 본격 경쟁 시작되나' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이강인 투톱은 '땜빵?' 시메오네 솔직 고백…\"루크먼에게 미안, 원래 최전방 공격수 아냐\"→LEE 본격 경쟁 시작되나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824220150228"
+        },
+        {
+          "title": "만족과 아쉬움 공존한 시메오네 감독 “대부분의 시간 경기 통제, 중요한 순간 더 관리 잘해야”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608240510003"
+        },
+        {
+          "title": "이강인 투톱 이제 끝날까…공격수 부족에 고육지책 쓴 시메오네 \"루크먼에게 미안하다, 원래 포지션이 아니다\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260824n34977"
+        }
+      ]
+    },
+    {
+      "id": "장서희",
+      "rank": 7,
+      "keyword": "장서희",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '\"수익 1000만 원→100만 원 추락\"…김승현 패밀리, 악플·수익난 속 충격 근황' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"수익 1000만 원→100만 원 추락\"…김승현 패밀리, 악플·수익난 속 충격 근황",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824182149387"
-        },
-        {
-          "title": "김승현 가족, 외모 악플에 입 열었다 \"화가 나\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260824_0003759428"
-        },
-        {
-          "title": "“한때 1000만원 벌었는데”…김승현 가족, 유튜브 수익 솔직 고백 - 스타투데이",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12134817"
-        }
-      ]
-    },
-    {
-      "id": "스테이블코인",
-      "rank": 6,
-      "keyword": "스테이블코인",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '금리 인하에 진심인 미국…트럼프 '가상화폐 밀어주기' 큰 그림' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '7.0% 자체 최고 찍었지만 여전히 한 자릿수…장서희·전혜원 법정 대치 ('욕망의덫')' (텐아시아) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "금리 인하에 진심인 미국…트럼프 '가상화폐 밀어주기' 큰 그림",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260825050003818"
-        },
-        {
-          "title": "“미국, 국채금리 잡는 데 스테이블코인 활용…새 재정 전략”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8644924"
-        },
-        {
-          "title": "[김대호 진단] 스테이블코인 태풍이 온다",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Opinion/2026/08/20260824102719472906806b77b_1"
+          "title": "7.0% 자체 최고 찍었지만 여전히 한 자릿수…장서희·전혜원 법정 대치 ('욕망의덫')",
+          "source": "텐아시아",
+          "url": "https://www.tenasia.co.kr/article/2026081750234"
         }
       ]
     },
     {
-      "id": "장교",
-      "rank": 7,
-      "keyword": "장교",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[이윤태 기자의 국방이야기]엘리트 놓치는 軍의 ‘엘리트 코스’' (동아일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[이윤태 기자의 국방이야기]엘리트 놓치는 軍의 ‘엘리트 코스’",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Opinion/article/all/20260824/134535834/2"
-        },
-        {
-          "title": "\"통폐합으로 군 전문성 약해지면 북한에 전략적 이익\"[장세정의 직격토론]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260825001550430"
-        },
-        {
-          "title": "[생생토론] 육해공군 사관학교 통합 배경은?",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8644367"
-        }
-      ]
-    },
-    {
-      "id": "에코프로비엠",
+      "id": "브래드-갈링하우스",
       "rank": 8,
-      "keyword": "에코프로비엠",
+      "keyword": "브래드 갈링하우스",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '에코프로비엠, 하이니켈 양극소재 공급 위해 헝가리공장 개조' (전기신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '리플 CEO가 꼽은 XRP 가격 상승 가로막는 단 하나의 요인은?' (글로벌이코노믹) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "에코프로비엠, 하이니켈 양극소재 공급 위해 헝가리공장 개조",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=371555"
+          "title": "리플 CEO가 꼽은 XRP 가격 상승 가로막는 단 하나의 요인은?",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Securities/2026/08/202608240642098440e250e8e188_1"
         },
         {
-          "title": "에코프로비엠, 헝가리공장 개조 착수…\"유럽전기차에 소재 공급\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260824030400003"
+          "title": "미국인 25%가 암호화폐 보유...리플 CEO \"주변부 산업 취급은 끝났다\"",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/254354"
         },
         {
-          "title": "에코프로비엠, 헝가리 라인 개조…BMW·벤츠향 물량 확대 기대",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260824090238"
+          "title": "리플 IPO 가능성 시사? 500억달러 기업가치·자사주 매입의 의미",
+          "source": "Cryptonews",
+          "url": "https://cryptonews.com/kr/news/ripple-ipo-possibility-50-billion-valuation-share-buyback/"
         }
       ]
     },
     {
-      "id": "중앙그룹",
+      "id": "대한민국",
       "rank": 9,
-      "keyword": "중앙그룹",
+      "keyword": "대한민국",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 'JTBC 회생절차 초읽기..인가 전 M&A로 새 주인 찾나' (마켓인) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '교촌 영양 발효공방1991, '대한민국 명소' 2개 부문 선정' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "JTBC 회생절차 초읽기..인가 전 M&A로 새 주인 찾나",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/Read?newsId=02046726645550600"
+          "title": "교촌 영양 발효공방1991, '대한민국 명소' 2개 부문 선정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/XvSTXqkLYr"
         },
         {
-          "title": "중앙그룹, JTBC도 버리나… 법정관리 갈 듯,‘매각설’도",
-          "source": "미주한국일보",
-          "url": ""
+          "title": "순천만국가정원·죽녹원 ‘전국 톱10’…전남광주 관광명소 빛났다",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260825010008194"
         },
         {
-          "title": "“JTBC의 저널리즘 가치는 바뀔 수 없다”",
-          "source": "한겨레21",
-          "url": "https://h21.hani.co.kr/arti/society/society_general/59745.html"
-        }
-      ]
-    },
-    {
-      "id": "天気",
-      "rank": 10,
-      "keyword": "天気",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '台風１８号 大東島地方が暴風域に 九州では酷暑日の予想' (NHKニュース) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "台風１８号 大東島地方が暴風域に 九州では酷暑日の予想",
-          "source": "NHKニュース",
-          "url": "https://news.web.nhk/newsweb/na/nb-5060024624"
-        },
-        {
-          "title": "【台風18号】JAL、那覇・宮古・石垣発着など計168便を欠航",
-          "source": "ｄメニューニュース",
-          "url": "https://topics.smt.docomo.ne.jp/article/okinawa/region/okinawa-20260825080500"
-        },
-        {
-          "title": "【台風18号】船の陸揚げや固定に追われる 農漁業者ら「早く去って」 沖縄（琉球新報）",
-          "source": "Yahoo!ニュース",
-          "url": "https://news.yahoo.co.jp/articles/83bac6d045f88a14ca8892ae502df716cf8edbb2"
+          "title": "경남 관광명소 775건, ‘대한민국 명소발굴 100×100’ 선정",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=713409"
         }
       ]
     }
