@@ -1,258 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-25T10:02:37.284Z",
+  "updatedAt": "2026-08-25T11:01:37.317Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "롯데-대-kia",
+      "id": "fc-서울-대-부천",
       "rank": 1,
-      "keyword": "롯데 대 kia",
+      "keyword": "fc 서울 대 부천",
+      "volumeLabel": "5000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '카메라 향한 세리머니에 '경고'‥\"도발 의도 없었다\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "카메라 향한 세리머니에 '경고'‥\"도발 의도 없었다\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846991_37004.html"
+        },
+        {
+          "title": "'1골 2도움' 서울 정승원, K리그1 24라운드 MVP…'시즌 두 번째'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260825078800007"
+        },
+        {
+          "title": "[SD 상암 인터뷰] 안양전 7-0 대승 이후 부천전 앞둔 김기동 서울 감독, “대승 이후 그동안 어려움 겪었지만 올 시즌은 달라”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20260825/134543129/1"
+        }
+      ]
+    },
+    {
+      "id": "김천상무-대-전북",
+      "rank": 2,
+      "keyword": "김천상무 대 전북",
       "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''롯데 천만다행' 손가락 다친 손성빈 정상 가동→선발 마스크 쓴다…확대 엔트리 맞아 정대선·이호준·정현수 콜업 [광주 라인업]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''김천교육지원청 브랜드데이' 김천상무, 전북현대 꺾고, 홈 무패 이어간다!' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'롯데 천만다행' 손가락 다친 손성빈 정상 가동→선발 마스크 쓴다…확대 엔트리 맞아 정대선·이호준·정현수 콜업 [광주 라인업]",
+          "title": "'김천교육지원청 브랜드데이' 김천상무, 전북현대 꺾고, 홈 무패 이어간다!",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260825164949100"
+          "url": "https://v.daum.net/v/20260824092637449"
         },
         {
-          "title": "김태형 감독의 선수 걱정 \"경기하다가 또 안 좋을 수도 있을 것 같아요...\" 그래도 '힘줄 다친' 이 안방마님 뛴다 [광주 현장] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/25/2026082515324668799"
+          "title": "[B11 현장] 어수선한 전북과 맞서는 김천…주승진 감독, \"우리도 급하다. 누를 때는 확실하게 눌러야\"",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260825n32456"
         },
         {
-          "title": "'가슴 쓸어내린 롯데' 안방마님 손성빈 큰 부상 피해…5강 추격 '청신호'",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6567460"
+          "title": "'상승세' 김천상무, 김포FC 잡고, 코리아컵 8강 진출 정조준...김인균, 빠른 발에 기대",
+          "source": "스포탈코리아",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553470005"
         }
       ]
     },
     {
-      "id": "xrp",
-      "rank": 2,
-      "keyword": "xrp",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'XRP Jumps Nearly 50% in a Week to One-Year High' (Seoul Economic Daily) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "XRP Jumps Nearly 50% in a Week to One-Year High",
-          "source": "Seoul Economic Daily",
-          "url": "https://en.sedaily.com/finance/2026/08/24/xrp-jumps-nearly-50-percent-in-a-week-to-one-year-high"
-        },
-        {
-          "title": "Coinbase Wrapped XRP Climbs 3% To $1.52 As Crypto Rally",
-          "source": "MarketForces Africa",
-          "url": "https://dmarketforces.com/coinbase-wrapped-xrp-climbs-3-to-1-52-as-crypto-rally/"
-        },
-        {
-          "title": "XRP crashes 37% in one Bitstamp wick while the wider market tells a different story",
-          "source": "CryptoRank",
-          "url": "https://cryptorank.io/news/feed/6dce9-xrp-crashes-37-in-one-bitstamp-wick-while-the-wider-market-told-a-different-story"
-        }
-      ]
-    },
-    {
-      "id": "오픈ai",
+      "id": "최여진",
       "rank": 3,
-      "keyword": "오픈ai",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "keyword": "최여진",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '주별 규제 반대했던 오픈AI, 캘리포니아 AI 규제 강화 요구' (YTN 사이언스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '김숙, 최여진 초호화 저택 가더니 \"얘 재밌게 사네\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "주별 규제 반대했던 오픈AI, 캘리포니아 AI 규제 강화 요구",
-          "source": "YTN 사이언스",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202608241601209964"
-        },
-        {
-          "title": "앨라배마주 법무장관, 샘 알트먼 CEO 소환장 발부…허깅페이스 해킹 사태 조사",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260825083739"
-        },
-        {
-          "title": "주별 AI 규제 반대하던 오픈AI \"캘리포니아 AI 규제법 강화\"⋯입장 바꾼 이유는?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824080107691"
-        }
-      ]
-    },
-    {
-      "id": "하이닉스",
-      "rank": 4,
-      "keyword": "하이닉스",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"이례적\" 호평에도…SK하닉 임단협 '단 0.16%포인트 차' 부결' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"이례적\" 호평에도…SK하닉 임단협 '단 0.16%포인트 차' 부결",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608250570g"
-        },
-        {
-          "title": "SK하이닉스 ‘성과급 60% 자사주’ 잠정안 부결…사무직은 가결",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608251801001"
-        },
-        {
-          "title": "SK하이닉스 임단협 잠정안, 전임직 25표차 부결…사무직은 가결",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260825174200403"
-        }
-      ]
-    },
-    {
-      "id": "수영",
-      "rank": 5,
-      "keyword": "수영",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '정상을 향해…아시안게임 수영 국가대표팀 미디어데이 행사' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "정상을 향해…아시안게임 수영 국가대표팀 미디어데이 행사",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/IPT20260825000011365?section=gallery/index"
-        },
-        {
-          "title": "[포토] ‘완벽한 호흡’ 훈련하는 다이빙 국가대표 선수들",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3427687"
-        },
-        {
-          "title": "유도 김민종·허미미에게 금메달이 절실한 이유는?",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0107_202608242316019590"
-        }
-      ]
-    },
-    {
-      "id": "광주공항",
-      "rank": 6,
-      "keyword": "광주공항",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] 광주 軍공항 '숨은 복병' 있었다…호남 반도체 '초비상'' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[단독] 광주 軍공항 '숨은 복병' 있었다…호남 반도체 '초비상'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608250785i"
-        },
-        {
-          "title": "민형배, 무안 국가산단 후보지 지정에 \"반도체 소부장 육성\"",
+          "title": "김숙, 최여진 초호화 저택 가더니 \"얘 재밌게 사네\"",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260825_0003762007"
+          "url": "https://www.newsis.com/view/NISX20260825_0003761112"
         },
         {
-          "title": "국토부, 무안군 현경면 일원 ‘무안 국가산업단지 후보지’ 지정",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8645488"
-        }
-      ]
-    },
-    {
-      "id": "골드만삭스",
-      "rank": 7,
-      "keyword": "골드만삭스",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '골드만삭스 “중국, 2035년이면 첨단 칩 부족 34%로 줄어”' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "골드만삭스 “중국, 2035년이면 첨단 칩 부족 34%로 줄어”",
+          "title": "최여진♥김재욱, '초대형 스케일' 가평 주택 완공…수영장에 광활한 마당까지 (김숙티비)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260825164350855"
+          "url": "https://v.daum.net/v/20260825103609714"
         },
         {
-          "title": "골드만 \"中, 2035년 첨단 칩 부족 34%로 줄어…HBM 자급율↑\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260825138700089"
-        },
-        {
-          "title": "中 7나노 이하 반도체 자급률 10년 뒤 66%…AI가 '일등공신' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/08/25/2026082513582321368"
+          "title": "최여진 ‘3층 대저택’ 신혼집 공개…압도적 크기에 ‘감탄’",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/entertainment/starinterN/2026/08/25/20260825500206"
         }
       ]
     },
     {
-      "id": "오기형",
-      "rank": 8,
-      "keyword": "오기형",
-      "volumeLabel": "200+",
+      "id": "제주-대-포항",
+      "rank": 4,
+      "keyword": "제주 대 포항",
+      "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '민주 “종부세 상한 150% 유지하자”…‘200%로 인상’ 정부안 반대' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '제주SK \"세트피스로 포항 넘어 10경기 무패 가자\"' (한라일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "민주 “종부세 상한 150% 유지하자”…‘200%로 인상’ 정부안 반대",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1274566.html"
+          "title": "제주SK \"세트피스로 포항 넘어 10경기 무패 가자\"",
+          "source": "한라일보",
+          "url": "https://m.ihalla.com/article.php?aid=1787561781789625051"
         },
         {
-          "title": "[뉴스분석]‘비거주 세부담 정상화’ 외쳤는데 비거주 공제도 1주택만큼?…정부 세제 원칙 시험대",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608251727001"
+          "title": "K리그1 제주, 12년 만의 리그 10경기 연속 무패 도전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824181127087"
         },
         {
-          "title": "\"장기 실거주했는데 세금 폭탄\"…2주만에 5만명 몰린 장특공제 청원 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/08/25/2026082513335940180"
+          "title": "제주SK, 포항 잡고 5위 넘어 상위권 정조준",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3672955"
         }
       ]
     },
     {
-      "id": "총장",
-      "rank": 9,
-      "keyword": "총장",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "id": "거북",
+      "rank": 5,
+      "keyword": "거북",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '카이스트 총장 “내년 1학기부터 인문사회·기초과학 수업서 AI 사용 배제”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '거북이 몸부림 치는데…아이 안고 올라탄 中여성 눈살(영상)' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "카이스트 총장 “내년 1학기부터 인문사회·기초과학 수업서 AI 사용 배제”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608251200011"
+          "title": "거북이 몸부림 치는데…아이 안고 올라탄 中여성 눈살(영상)",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20260825/134539477/2"
         },
         {
-          "title": "KAIST, 내년부터 전 과목 AI 시대 맞게 개편 \"AI 네이티브 캠퍼스로\"",
+          "title": "[영상] 아이 안고 거북이 등에 올라타 '히죽히죽'…中 '무개념 엄마'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825140252822"
+        },
+        {
+          "title": "거북이 고통에 몸부림치는 데…아이 안고 등에 올라탄 中여성",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260825000379"
+        }
+      ]
+    },
+    {
+      "id": "뇌물",
+      "rank": 6,
+      "keyword": "뇌물",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘공수처 1호 인지’ 前경무관 7억 뇌물수수 혐의... 1심 징역 10년서 항소심 집유로' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘공수처 1호 인지’ 前경무관 7억 뇌물수수 혐의... 1심 징역 10년서 항소심 집유로",
           "source": "조선일보",
-          "url": "https://www.chosun.com/economy/science/2026/08/25/G6PH2EDRPNEORHIUABVJUVVDAY/"
+          "url": "https://www.chosun.com/national/court_law/2026/08/25/IJOOONXRGNF7NEPZKMA3Z33ILI/"
         },
         {
-          "title": "배충식 KAIST 총장, 학생 창업 드라이브…신입생부터 기업가정신 심는다",
+          "title": "‘7억원대 뇌물 수수’ 前 경찰, 징역 10년→집행유예 대폭 감형",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260825162006778"
+          "url": "https://v.daum.net/v/20260825185400687"
+        },
+        {
+          "title": "‘공수처 1호 인지 수사’ 경찰 7억 뇌물 사건, 1심 징역 10년 → 2심 집유 대폭 감형",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608251132001"
+        }
+      ]
+    },
+    {
+      "id": "휴림로봇",
+      "rank": 7,
+      "keyword": "휴림로봇",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '휴림로봇, 제이케이시냅스 지분 31.71%로 확대…\"책임경영 강화\"' (이데일리) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "휴림로봇, 제이케이시냅스 지분 31.71%로 확대…\"책임경영 강화\"",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02624006645550928&mediaCodeNo=257"
+        },
+        {
+          "title": "휴림로봇, 제이케이시냅스 지분 31.7% 확보…“책임경영 강화”",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20082885"
+        },
+        {
+          "title": "휴림로봇, 제이케이시냅스 지분 31.71%로 확대…30억 CB 전환",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2617672"
+        }
+      ]
+    },
+    {
+      "id": "맷-데이먼",
+      "rank": 8,
+      "keyword": "맷 데이먼",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '신혼부부 몸값이 미쳤다…‘연기력 논란’ 젠데이아 6장면 120억, ♥홀랜드는 230배 폭등' (스포츠서울) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "신혼부부 몸값이 미쳤다…‘연기력 논란’ 젠데이아 6장면 120억, ♥홀랜드는 230배 폭등",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1630572"
+        },
+        {
+          "title": "'오디세이' 맷데이먼 200억인데 젠데이아가 100억원?. 출연료도 관심 [월드스타이슈]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260825n22718?mid=n1101"
+        },
+        {
+          "title": "6장면 나오고 앤 해서웨이 제쳤다… 입 떡 벌어지는 '오디세이' 속 젠데이아 출연료",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1154677"
+        }
+      ]
+    },
+    {
+      "id": "송강",
+      "rank": 9,
+      "keyword": "송강",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''살롱드립' 송강 \"농구부 제의 받은 적 있어…父, 기계체조 선수 출신\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'살롱드립' 송강 \"농구부 제의 받은 적 있어…父, 기계체조 선수 출신\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825190139910"
+        },
+        {
+          "title": "'살롱드립' 송강, BTS 뷔와 군 생활 비화 공개…\"날짜 맞춰 외출\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6269217"
+        },
+        {
+          "title": "송강, 불면증 호소 \"잠 잘 못 자\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260824_0003760692"
+        }
+      ]
+    },
+    {
+      "id": "피고인",
+      "rank": 10,
+      "keyword": "피고인",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''백초크'에 기절한 김창민 영화감독…사인은 '강한 외력' (종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'백초크'에 기절한 김창민 영화감독…사인은 '강한 외력' (종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825191042237"
+        },
+        {
+          "title": "김창민 감독 사망 사건 증인 선 피고인 지인 법정서 고성",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/gyeonggi/6269201"
+        },
+        {
+          "title": "'김창민 감독 사망' 재판 증언…\"백초크 당해 기절\"",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1682181/%EA%B9%80%EC%B0%BD%EB%AF%BC-%EA%B0%90%EB%8F%85-%EC%82%AC%EB%A7%9D-%EC%9E%AC%ED%8C%90-%EC%A6%9D%EC%96%B8%EB%B0%B1%EC%B4%88%ED%81%AC-%EB%8B%B9-2026"
         }
       ]
     }
