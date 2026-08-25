@@ -1,17 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-25T18:52:51.467Z",
+  "updatedAt": "2026-08-25T19:37:53.394Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
       "id": "휴-민트",
       "rank": 1,
       "keyword": "휴 민트",
-      "volumeLabel": "2000+",
+      "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '‘왕사남’에 밀려 198만 그쳤는데…갑자기 넷플릭스 TOP10 오른 한국 영화' (위키트리) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,13 +33,69 @@
       ]
     },
     {
-      "id": "장원영",
+      "id": "블라디미르-푸틴",
       "rank": 2,
-      "keyword": "장원영",
+      "keyword": "블라디미르 푸틴",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '군인 한명 없이 로봇·드론 총출동…외신 놀란 우크라 ‘파격 열병식’' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "군인 한명 없이 로봇·드론 총출동…외신 놀란 우크라 ‘파격 열병식’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/7SfDO4Ikv4"
+        },
+        {
+          "title": "젤렌스키, 트럼프 축전 공개…\"패트리엇 발사음처럼 사기 올려\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260825167600108"
+        },
+        {
+          "title": "[포토뉴스]우크라이나 독립기념일 ‘드론·로봇 부대’ 열병식",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608252043015"
+        }
+      ]
+    },
+    {
+      "id": "유재석",
+      "rank": 3,
+      "keyword": "유재석",
       "volumeLabel": "2000+",
       "startedLabel": "4시간 전",
       "change": "up",
-      "changeLabel": "+3",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '차태현, 유연석 연기 극찬하더니 \"김부장 때문에 올해 나가리\" 찬물 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "차태현, 유연석 연기 극찬하더니 \"김부장 때문에 올해 나가리\" 찬물 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/26/2026082602285553663"
+        },
+        {
+          "title": "'틈만나면' 차태현 \"유재석 별로죠?\"…'속 뒤집개' 폭소",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825222642258"
+        },
+        {
+          "title": "틈만나면, : [55회 선공개] “기주 얘기 좀 듣자” 차태현, 소속 아티스트 ‘진기주’보다 말 많은 대표",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/teum/clip/82063/OC481217194?div=live_end"
+        }
+      ]
+    },
+    {
+      "id": "장원영",
+      "rank": 4,
+      "keyword": "장원영",
+      "volumeLabel": "2000+",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '장원영, 사복 추구미는 섹시? 레드 초미니 드레스 입고 밀라노行' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -54,76 +110,76 @@
           "url": "https://www.donga.com/news/Culture/article/all/20260825/134536545/1"
         },
         {
-          "title": "[현장영상] \"오늘자 핫걸\"...장원영, 레드 워뇨공주",
-          "source": "디스패치",
-          "url": "https://www.dispatch.co.kr/2346873"
+          "title": "장원영, 강렬한 레드로 완성한 출국 패션…과감한 스타일",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260825_0003761967"
         }
       ]
     },
     {
-      "id": "하석진",
-      "rank": 3,
-      "keyword": "하석진",
-      "volumeLabel": "2000+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 ''사랑이 온다' 안희연, 복귀 잘했다...4주 연속 화제성 1위' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "id": "dolly-parton",
+      "rank": 5,
+      "keyword": "dolly parton",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Dolly Parton, Country Music Legend, Dies at 80, Just 4 Days After Sayin…' (People.com) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'사랑이 온다' 안희연, 복귀 잘했다...4주 연속 화제성 1위",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/BodsEBEoTA?f=p"
+          "title": "Dolly Parton, Country Music Legend, Dies at 80, Just 4 Days After Saying, ‘I Still Have so Many Things I Want to Achieve’",
+          "source": "People.com",
+          "url": "https://people.com/dolly-parton-dead-7565853"
         },
         {
-          "title": "‘사랑이 온다’ 이주연, 짝사랑에서 쌍방향 로맨스 시작 본격화",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608242200003"
+          "title": "Dolly Parton’s Husband Carl Dean Died First, But His Cause of Death Was Never Released",
+          "source": "Men's Journal",
+          "url": "https://www.mensjournal.com/news/dolly-parton-husband-carl-dean-died-first-cause-of-death-how-he-died"
         },
         {
-          "title": "하석진·안희연, 엇갈린 로맨스 속 다시 사랑할 수 있을까(‘사랑이 온다’) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/25/MM4DKZRSGY3DCZTDHFTDOMJUGQ/"
+          "title": "Dolly Parton’s peerless career turned country music cliches inside out",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-music-career"
         }
       ]
     },
     {
-      "id": "유재석",
-      "rank": 4,
-      "keyword": "유재석",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '차태현, 유연석 연기 극찬하더니 \"김부장 때문에 올해 나가리\" 찬물 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "id": "퍼플렉시티",
+      "rank": 6,
+      "keyword": "퍼플렉시티",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '엔비디아, 10조 들여 개방형AI 개발한다 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "차태현, 유연석 연기 극찬하더니 \"김부장 때문에 올해 나가리\" 찬물 - 머니투데이",
+          "title": "엔비디아, 10조 들여 개방형AI 개발한다 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/26/2026082602285553663"
+          "url": "https://www.mt.co.kr/world/2026/08/25/2026082419593375966"
         },
         {
-          "title": "차태현, 진기주 영입했더니 '참교육' 성공 \"섭외 전화 많이 와\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/26/2026082601420816397"
-        },
-        {
-          "title": "'틈만나면' 차태현 \"유재석 별로죠?\"…'속 뒤집개' 폭소",
+          "title": "\"엔비디아, 퍼플렉시티 추가 지분투자 논의\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260825222642258"
+          "url": "https://v.daum.net/v/20260825043601586"
+        },
+        {
+          "title": "엔비디아, AI개발사 흡수… 中에 맞서 ‘개방형 AI’ 박차",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/economy/industry/2026/08/25/20260825031003"
         }
       ]
     },
     {
       "id": "수능접수",
-      "rank": 5,
+      "rank": 7,
       "keyword": "수능접수",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '2027학년도 대학수학능력시험 응시원서 접수 시작' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -146,12 +202,12 @@
     },
     {
       "id": "리그컵",
-      "rank": 6,
+      "rank": 8,
       "keyword": "리그컵",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 ''알론소 체제' 첼시, 31초 골로 '아르벨로아 감독' 풀럼에 3-2 승리...4시즌 만에 거둔 '개막전 승리'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -174,12 +230,12 @@
     },
     {
       "id": "대한상공회의소",
-      "rank": 7,
+      "rank": 9,
       "keyword": "대한상공회의소",
       "volumeLabel": "100+",
       "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '대한상의 상근부회장에 김정일 前산업부 실장' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -202,12 +258,12 @@
     },
     {
       "id": "에어부산",
-      "rank": 8,
+      "rank": 10,
       "keyword": "에어부산",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '국민의힘 부산의원들 \"통합 진에어 본사 부산으로 와야\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -225,62 +281,6 @@
           "title": "곽규택 \"에어부산 헐값 합병…주주 피해 없는지 따져봐야\"",
           "source": "매일경제 마켓",
           "url": "https://stock.mk.co.kr/news/view/1147457"
-        }
-      ]
-    },
-    {
-      "id": "불량연애2-2기",
-      "rank": 9,
-      "keyword": "불량연애2 2기",
-      "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '‘사람 몸에 불 질렀다’… 범죄자 미화 역풍에 멈춘 日 법무성 ‘갱생 포스터’' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘사람 몸에 불 질렀다’… 범죄자 미화 역풍에 멈춘 日 법무성 ‘갱생 포스터’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260825153240129"
-        },
-        {
-          "title": "“사람에 불 질렀다” 폭탄고백…‘범죄자 갱생’ 홍보 日법무성 ‘역풍’",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20260825/134541901/1"
-        },
-        {
-          "title": "“불 질러 체포돼” 연애 프로그램에 ‘전과자’ 출연, 논란되더니…日법무부 “협업 중단”",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10850460"
-        }
-      ]
-    },
-    {
-      "id": "누리호",
-      "rank": 10,
-      "keyword": "누리호",
-      "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '누리호 5호기 발사 승인…위성 15기 싣고 10월 발사될까' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "누리호 5호기 발사 승인…위성 15기 싣고 10월 발사될까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260825190300961"
-        },
-        {
-          "title": "우주항공청, 한국형발사체 누리호 5차 발사 승인",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0105_202608251835345355_005.html"
-        },
-        {
-          "title": "우주청, 누리호 5차발사 승인…10월 중 발사 전망",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260825164700017"
         }
       ]
     }
