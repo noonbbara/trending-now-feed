@@ -1,24 +1,80 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-25T17:59:02.183Z",
+  "updatedAt": "2026-08-25T18:52:51.467Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "하석진",
+      "id": "휴-민트",
       "rank": 1,
-      "keyword": "하석진",
+      "keyword": "휴 민트",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘왕사남’에 밀려 198만 그쳤는데…갑자기 넷플릭스 TOP10 오른 한국 영화' (위키트리) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘왕사남’에 밀려 198만 그쳤는데…갑자기 넷플릭스 TOP10 오른 한국 영화",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1154262"
+        },
+        {
+          "title": "‘197만’ 굴욕 씻나…’왕사남’ 기세에 49일 만 넷플릭스行→공개 5개월 만에 역주행 불 지핀 한국 영화",
+          "source": "TV리포트",
+          "url": "https://tvreport.co.kr/uncategorized/article/1071069/"
+        },
+        {
+          "title": "[Y현장] 이창동 감독이 밝힌 '가능한 사랑'이 '가능한 사랑'인 이유",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202608251339395700"
+        }
+      ]
+    },
+    {
+      "id": "장원영",
+      "rank": 2,
+      "keyword": "장원영",
       "volumeLabel": "2000+",
       "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "change": "up",
+      "changeLabel": "+3",
+      "summary": "급상승 시점에 '장원영, 사복 추구미는 섹시? 레드 초미니 드레스 입고 밀라노行' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "장원영, 사복 추구미는 섹시? 레드 초미니 드레스 입고 밀라노行",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608251405013"
+        },
+        {
+          "title": "장원영, 오늘도 어김없이 9등신 몸매",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20260825/134536545/1"
+        },
+        {
+          "title": "[현장영상] \"오늘자 핫걸\"...장원영, 레드 워뇨공주",
+          "source": "디스패치",
+          "url": "https://www.dispatch.co.kr/2346873"
+        }
+      ]
+    },
+    {
+      "id": "하석진",
+      "rank": 3,
+      "keyword": "하석진",
+      "volumeLabel": "2000+",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 ''사랑이 온다' 안희연, 복귀 잘했다...4주 연속 화제성 1위' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "'사랑이 온다' 안희연, 복귀 잘했다...4주 연속 화제성 1위",
           "source": "Daum",
-          "url": "https://v.daum.net/v/BodsEBEoTA"
+          "url": "https://v.daum.net/v/BodsEBEoTA?f=p"
         },
         {
           "title": "‘사랑이 온다’ 이주연, 짝사랑에서 쌍방향 로맨스 시작 본격화",
@@ -33,81 +89,25 @@
       ]
     },
     {
-      "id": "재벌x형사-2",
-      "rank": 2,
-      "keyword": "재벌x형사 2",
-      "volumeLabel": "2000+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '신예 박태린, '재벌X형사2' 반전의 중심' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "신예 박태린, '재벌X형사2' 반전의 중심",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824082020093"
-        },
-        {
-          "title": "SBS 판 뒤집었다…시청률 9.4% 자체 '최고'→거침없는 상승세로 시청자 취향 저격한 韓 드라마 ('재벌X형사2')",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260825n31520"
-        },
-        {
-          "title": "안보현, 트라우마 앞 흔들리는 꺼드럭 (재벌X형사2)",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608251720003"
-        }
-      ]
-    },
-    {
-      "id": "이재명-지지율",
-      "rank": 3,
-      "keyword": "이재명 지지율",
-      "volumeLabel": "2000+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '[속보]대통령 40.0%턱걸이…호남서 16%p급락-미디어토마토' (문화일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[속보]대통령 40.0%턱걸이…호남서 16%p급락-미디어토마토",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11611790"
-        },
-        {
-          "title": "'추락엔 날개가 없다' 李 지지율 40.0% 또 최저 경신 … 20대 '부정 평가' 68.2%",
-          "source": "뉴데일리",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/08/25/2026082500040.html"
-        },
-        {
-          "title": "(정기여론조사)⑤이 대통령 지지도 40.0% '최저치'…부정평가 54.9%",
-          "source": "뉴스토마토",
-          "url": "https://www.newstomato.com/readnews.aspx?no=1311223"
-        }
-      ]
-    },
-    {
       "id": "유재석",
       "rank": 4,
       "keyword": "유재석",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "steady",
       "changeLabel": "유지",
-      "summary": "급상승 시점에 '차태현, 진기주 영입했더니 '참교육' 성공 \"섭외 전화 많이 와\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '차태현, 유연석 연기 극찬하더니 \"김부장 때문에 올해 나가리\" 찬물 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "차태현, 진기주 영입했더니 '참교육' 성공 \"섭외 전화 많이 와\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/26/2026082601420816397"
-        },
         {
           "title": "차태현, 유연석 연기 극찬하더니 \"김부장 때문에 올해 나가리\" 찬물 - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/entertainment/2026/08/26/2026082602285553663"
+        },
+        {
+          "title": "차태현, 진기주 영입했더니 '참교육' 성공 \"섭외 전화 많이 와\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/26/2026082601420816397"
         },
         {
           "title": "'틈만나면' 차태현 \"유재석 별로죠?\"…'속 뒤집개' 폭소",
@@ -117,53 +117,25 @@
       ]
     },
     {
-      "id": "장원영",
-      "rank": 5,
-      "keyword": "장원영",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '장원영, 사복 추구미는 섹시? 레드 초미니 드레스 입고 밀라노行' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "장원영, 사복 추구미는 섹시? 레드 초미니 드레스 입고 밀라노行",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608251405013"
-        },
-        {
-          "title": "장원영, 오늘도 어김없이 9등신 몸매",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260824_0003760400"
-        },
-        {
-          "title": "[현장영상] \"오늘자 핫걸\"...장원영, 레드 워뇨공주",
-          "source": "디스패치",
-          "url": "https://www.dispatch.co.kr/2346873"
-        }
-      ]
-    },
-    {
       "id": "수능접수",
-      "rank": 6,
+      "rank": 5,
       "keyword": "수능접수",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "up",
       "changeLabel": "+1",
-      "summary": "급상승 시점에 '수능 응시원서 접수하는 수험생들' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '2027학년도 대학수학능력시험 응시원서 접수 시작' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "수능 응시원서 접수하는 수험생들",
+          "title": "2027학년도 대학수학능력시험 응시원서 접수 시작",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260824037900013"
+          "url": "https://www.yna.co.kr/view/PYH20260824035700013"
         },
         {
-          "title": "2027학년도 대학수학능력시험 응시원서 접수 시작 [포토뉴스]",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260824580314"
+          "title": "[포토] 개편 전 마지막 수능…'N수생' 얼마나 몰릴까",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1330303"
         },
         {
           "title": "대입 수능 응시 원서 접수 오늘 시작",
@@ -173,13 +145,41 @@
       ]
     },
     {
+      "id": "리그컵",
+      "rank": 6,
+      "keyword": "리그컵",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''알론소 체제' 첼시, 31초 골로 '아르벨로아 감독' 풀럼에 3-2 승리...4시즌 만에 거둔 '개막전 승리'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'알론소 체제' 첼시, 31초 골로 '아르벨로아 감독' 풀럼에 3-2 승리...4시즌 만에 거둔 '개막전 승리'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825055837783?f=p"
+        },
+        {
+          "title": "\"공격진은 PL 최고 수준\" 극찬하던 캐러거, GK 산체스 보자 돌변...\"첼시, 이 골키퍼로는 우승 절대 못 해\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/25/202608250925776173O"
+        },
+        {
+          "title": "‘공격 또 공격’ 확 달라진 ‘알론소 체제’ 첼시, 풀럼 잡고 EPL 개막전 승리…‘1골·1도움’ 파머, ‘에이...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608250859003"
+        }
+      ]
+    },
+    {
       "id": "대한상공회의소",
       "rank": 7,
       "keyword": "대한상공회의소",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '대한상의 상근부회장에 김정일 前산업부 실장' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -205,7 +205,7 @@
       "rank": 8,
       "keyword": "에어부산",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 '국민의힘 부산의원들 \"통합 진에어 본사 부산으로 와야\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
@@ -233,7 +233,7 @@
       "rank": 9,
       "keyword": "불량연애2 2기",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "4시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 '‘사람 몸에 불 질렀다’… 범죄자 미화 역풍에 멈춘 日 법무성 ‘갱생 포스터’' (Daum) 관련 뉴스가 함께 포착됐어요.",
@@ -250,9 +250,9 @@
           "url": "https://www.donga.com/news/Inter/article/all/20260825/134541901/1"
         },
         {
-          "title": "'불량연애2' 타이짱의 재도전… 2기 출연진 파격 직업은?",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3674625"
+          "title": "“불 질러 체포돼” 연애 프로그램에 ‘전과자’ 출연, 논란되더니…日법무부 “협업 중단”",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10850460"
         }
       ]
     },
@@ -261,7 +261,7 @@
       "rank": 10,
       "keyword": "누리호",
       "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
+      "startedLabel": "5시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 '누리호 5호기 발사 승인…위성 15기 싣고 10월 발사될까' (Daum) 관련 뉴스가 함께 포착됐어요.",
