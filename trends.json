@@ -1,288 +1,256 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-26T10:07:59.023Z",
+  "updatedAt": "2026-08-26T11:03:51.519Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "버스",
+      "id": "안양-대-인천",
       "rank": 1,
-      "keyword": "버스",
+      "keyword": "안양 대 인천",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "천안시",
+      "rank": 2,
+      "keyword": "천안시",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 '고속·시외버스 요금 3년 만에 9% 오른다' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "고속·시외버스 요금 3년 만에 9% 오른다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/transport-environment/2026/08/26/G6Z4X3QSXJFZDDLIVCR35MS6TU/"
-        },
-        {
-          "title": "시외·고속버스 요금 3년여 만에 인상…“인건비·유류비 상승”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8646661"
-        },
-        {
-          "title": "시외·고속버스 요금 9% 오른다… 10월부터 운임 상한 조정 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/08/26/2026082614412236109"
-        }
-      ]
-    },
-    {
-      "id": "의사",
-      "rank": 2,
-      "keyword": "의사",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"39.4도 고열 견뎌라?\"…의사 단체, 아옳이 한의사 남친 '저격'' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''2026 천안 K-컬처박람회' 내달 2일 독립기념관서 개막' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"39.4도 고열 견뎌라?\"…의사 단체, 아옳이 한의사 남친 '저격'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608263110H"
-        },
-        {
-          "title": "“39.4도까지 고열 참아라”…의료계, 한의사 발언에 강력 ‘반발’",
+          "title": "'2026 천안 K-컬처박람회' 내달 2일 독립기념관서 개막",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260826170355799"
+          "url": "https://v.daum.net/v/0xIC22mj5m"
         },
         {
-          "title": "‘아옳이♥’ 김형배, “한의사 집안이라 감기약 안 먹어” 39.4도 견디라던 이유 있었네[SC이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/08/26/GA4DCZRSMIYTONBTMQ3GGYJZMY/"
+          "title": "천안 K-컬처 박람회, 역사와 한류 잇는다… ‘산업형 축제’로 전환",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3427938"
+        },
+        {
+          "title": "천안시, ‘2026 천안 K-컬처 박람회’ 내달 2일 개막… K-산업·체험 대폭 강화",
+          "source": "뉴데일리 충청세종",
+          "url": "https://cc.newdaily.co.kr/site/data/html/2026/08/26/2026082600073.html"
         }
       ]
     },
     {
-      "id": "한국-반도체",
+      "id": "강원-대-광주",
       "rank": 3,
-      "keyword": "한국 반도체",
+      "keyword": "강원 대 광주",
       "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '기후부, 세계적인 반도체 기업들과재생에너지 조달 해법 논의' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“될 때까지”… 문민서, 광주 22경기 무승 끊는다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "기후부, 세계적인 반도체 기업들과재생에너지 조달 해법 논의",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775391"
-        },
-        {
-          "title": "SK하이닉스 \"탈탄소, 개별기업만으론 한계\"…ASML도 청정전력 강조",
+          "title": "“될 때까지”… 문민서, 광주 22경기 무승 끊는다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260826160209687"
+          "url": "https://v.daum.net/v/4EOFSWQ9Cl"
         },
         {
-          "title": "국정과제 1년, 이제는 '이행'에서 '체감'으로",
-          "source": "OhmyNews",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003261985"
+          "title": "6연패 끊은 광주FC, 이번엔 강원 넘는다",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3674403"
+        },
+        {
+          "title": "무고사 극장골에 웃은 인천…광주 꺾고 6경기 연속 무패",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3032524"
         }
       ]
     },
     {
-      "id": "관리-종목",
+      "id": "골프장",
       "rank": 4,
-      "keyword": "관리 종목",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '스팩합병 기업, 코스닥 안착 어렵네… 3곳중 1곳 상폐 위기' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "스팩합병 기업, 코스닥 안착 어렵네… 3곳중 1곳 상폐 위기",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260825182133874"
-        },
-        {
-          "title": "\"합병 대상 못 찾아\"…코스닥 한파에 스팩도 줄상폐",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431595"
-        },
-        {
-          "title": "하나31호스팩, 관리종목 지정…SPAC 상장예비심사청구서 미제출로 조치",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16174348"
-        }
-      ]
-    },
-    {
-      "id": "기생충",
-      "rank": 5,
-      "keyword": "기생충",
+      "keyword": "골프장",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+4",
-      "summary": "급상승 시점에 '러 작은 탄광마을에 기생충 감염 폭증…\"北노동자 유입이 원인\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '부산진해경제자유구역청 용원체육공원 파크골프장 시설 개선 완료' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "러 작은 탄광마을에 기생충 감염 폭증…\"北노동자 유입이 원인\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260826077100009"
-        },
-        {
-          "title": "북한 노동자 때문에 기생충 폭증한 러 마을…회충·편충·간흡충 등 다량 발생",
+          "title": "부산진해경제자유구역청 용원체육공원 파크골프장 시설 개선 완료",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260826131109340"
+          "url": "https://v.daum.net/v/20260826114007474"
         },
         {
-          "title": "러시아서 기생충 감염 급증···보건당국 “북한 노동자 유입 탓”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608261315001"
+          "title": "부산진해경자청, 용원체육공원 파크골프장 최종 준공",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260826500949"
+        },
+        {
+          "title": "부산진해경제자유구역청, 창원 용원동 18홀 파크골프장 준공",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3675467"
         }
       ]
     },
     {
-      "id": "이정은",
-      "rank": 6,
-      "keyword": "이정은",
-      "volumeLabel": "200+",
+      "id": "종합격투기",
+      "rank": 5,
+      "keyword": "종합격투기",
+      "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이정은·김무열의 누아르 액션…넷플릭스 '할매' 주연' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '송영재·박보현, ROAD TO UFC 시즌5 4강 출전…UFC행 도전' (문화일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이정은·김무열의 누아르 액션…넷플릭스 '할매' 주연",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260826051200005"
-        },
-        {
-          "title": "배우 이정은, 할머니의 복수 그린다",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026082610231565983"
-        },
-        {
-          "title": "‘참교육’ 글로벌 톱10 ‘역주행’…김무열 차차기작은 넷플릭스 ‘할매’",
+          "title": "송영재·박보현, ROAD TO UFC 시즌5 4강 출전…UFC행 도전",
           "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11612263"
+          "url": "https://www.munhwa.com/article/11612291"
+        },
+        {
+          "title": "계약 노리는 두 명의 한국인",
+          "source": "UFC.com",
+          "url": "https://kr.ufc.com/news/gyeyag-nolineun-du-myeongui-hangugin"
+        },
+        {
+          "title": "[격투기] 박보현·송영재, 'UFC 데뷔 관문' ROAD TO UFC 시즌5 결승행 도전",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260826001151"
         }
       ]
     },
     {
-      "id": "1기-신도시",
-      "rank": 7,
-      "keyword": "1기 신도시",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "id": "반도체-메모리",
+      "rank": 6,
+      "keyword": "반도체 메모리",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[창간24주년특집] 광명·시흥에 진짜 좋은 거 온다' (경기신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '韓 D램 1㎏ 가치, 금 620g 맞먹어… “메모리 공급 부족 더 심해진다” - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[창간24주년특집] 광명·시흥에 진짜 좋은 거 온다",
-          "source": "경기신문",
-          "url": "https://www.kgnews.co.kr/news/article.html?no=907032"
-        },
-        {
-          "title": "[취임 인터뷰] 이형덕 광명시의회 의장",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1769114"
-        },
-        {
-          "title": "시대정신기자협회, 이형덕 광명시의장과 간담회 ··· 지역 현안·의정 발전 방안 논의",
-          "source": "광명포스트",
-          "url": "https://www.thegmpost.com/news/articleView.html?idxno=24996"
-        }
-      ]
-    },
-    {
-      "id": "제주항공",
-      "rank": 8,
-      "keyword": "제주항공",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '제주항공, 부산∼구이린 노선 신규 취항…주 4회 운항' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "제주항공, 부산∼구이린 노선 신규 취항…주 4회 운항",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260826066200003"
-        },
-        {
-          "title": "제주항공, 부산~구이린 신규 취항… 주 4회 운항 - 조선비즈",
+          "title": "韓 D램 1㎏ 가치, 금 620g 맞먹어… “메모리 공급 부족 더 심해진다” - 조선비즈",
           "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/industry/company/2026/08/26/IAWRDM43QRBADOWCGYTTWOMGHI/"
+          "url": "https://biz.chosun.com/it-science/ict/2026/08/26/33MFXT4A6BEHBPT2SIRMV2WNTY/"
         },
         {
-          "title": "[단독]넓어진 中하늘길… “알짜 노선 잡아라” 항공사 경쟁",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260824/134535355/2"
+          "title": "AI 덕에 권력 쥔 메모리…'사상 최초' 비메모리 매출 역전",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04880646645551256"
+        },
+        {
+          "title": "반도체 사이클 내년에 끝난다더니…놀라운 전망 나왔다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608252281i"
         }
       ]
     },
     {
-      "id": "김태효",
-      "rank": 9,
-      "keyword": "김태효",
-      "volumeLabel": "100+",
+      "id": "전략사령부",
+      "rank": 7,
+      "keyword": "전략사령부",
+      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''계엄 정당화 메시지' 김태효 前안보실 차장측 \"내란 목적 아냐\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '軍, '내란 혐의' 전략사령관 직무배제…조성현도 곧 인사조치' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'계엄 정당화 메시지' 김태효 前안보실 차장측 \"내란 목적 아냐\"",
+          "title": "軍, '내란 혐의' 전략사령관 직무배제…조성현도 곧 인사조치",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260826075000004"
+          "url": "https://www.yna.co.kr/view/AKR20260826090000504"
         },
         {
-          "title": "\"비상계엄은 민주주의 수호 행위\" 김태효 오늘 첫 재판",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260826000201086"
-        },
-        {
-          "title": "'계엄 정당화 메시지' 김태효 측, 첫 재판서 \"정상 외교 행위\" 혐의 부인",
+          "title": "군, '내란 가담 혐의' 박재열 전략사령관 직무배제",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260826_0003763094"
+          "url": "https://www.newsis.com/view/NISX20260826_0003763419"
+        },
+        {
+          "title": "'내란 가담 혐의' 전략사령관 직무배제‥조성현 대령은 인사조치",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6847334_36911.html"
         }
       ]
     },
     {
-      "id": "광주-도시철도-2호선",
-      "rank": 10,
-      "keyword": "광주 도시철도 2호선",
+      "id": "박준현",
+      "rank": 8,
+      "keyword": "박준현",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[사진]미소짓는 정현우, '위기는 병살로' - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[사진]미소짓는 정현우, '위기는 병살로' - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/08/26/G5RDKZDEGA2GMNDDMNSTEYTFMY/"
+        },
+        {
+          "title": "특명, 볼넷을 줄여라!…4개월 굶주린 키움 박준현의 2승 도전기",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260825_0003762299"
+        },
+        {
+          "title": "박진만, 박준현 극도 경계 \"우리랑만 하면 완봉급으로 던져→박석민이 정보를 주나...\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/26/2026082615154125925"
+        }
+      ]
+    },
+    {
+      "id": "공연",
+      "rank": 9,
+      "keyword": "공연",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '민형배 \"광주 도시철도2호선 공사 빨리 끝내야\"…재검토 선그어' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'BTS 등 공연 티켓 2천여장 예매·되팔아 4억대 챙긴 30대 송치' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "민형배 \"광주 도시철도2호선 공사 빨리 끝내야\"…재검토 선그어",
+          "title": "BTS 등 공연 티켓 2천여장 예매·되팔아 4억대 챙긴 30대 송치",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260826103353558"
+          "url": "https://v.daum.net/v/20260826140909601"
         },
         {
-          "title": "민형배 “도시철도 2호선 점검, 중단 아닌 조기 개통 위한 것”",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026082612252971158"
+          "title": "매크로로 아이돌 콘서트 표 싹쓸이···4억원 챙긴 암표상 검거",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608260904001"
         },
         {
-          "title": "전남광주시 \"도시철도 2호선 재점검…사업 재검토 아니다\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260824116600054"
+          "title": "BTS 공연 등 암표로 4억여 원 벌어들인 30대 송치",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8646611"
         }
       ]
+    },
+    {
+      "id": "메리츠화재",
+      "rank": 10,
+      "keyword": "메리츠화재",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
     }
   ]
 }
