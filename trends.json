@@ -1,73 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-26T09:21:03.024Z",
+  "updatedAt": "2026-08-26T10:07:59.023Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "시어머니",
+      "id": "버스",
       "rank": 1,
-      "keyword": "시어머니",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '결혼식서 故시어머니 영상 틀자고?...\"내가 주인공\" 예비신부 '뭇매' - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "결혼식서 故시어머니 영상 틀자고?...\"내가 주인공\" 예비신부 '뭇매' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/26/2026082610042190929"
-        },
-        {
-          "title": "\"결혼 때 보여달라\" 결혼식서 故 시어머니 영상 틀자는 시아버지 [어떻게 생각하세요]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260826155508227"
-        },
-        {
-          "title": "결혼식 날 돌아가신 시어머니 생전 영상 틀자는 시아버지 제안 거절한 예비 며느리",
-          "source": "인사이트",
-          "url": "https://www.insight.co.kr/news/570207"
-        }
-      ]
-    },
-    {
-      "id": "자폭형-무인-항공기",
-      "rank": 2,
-      "keyword": "자폭형 무인 항공기",
+      "keyword": "버스",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "up",
       "changeLabel": "+2",
-      "summary": "급상승 시점에 '軍 자폭드론 첫 해상 전투실험 실패…함정서 이륙 직후 추락' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "軍 자폭드론 첫 해상 전투실험 실패…함정서 이륙 직후 추락",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260826144857Myl"
-        },
-        {
-          "title": "국내 개발 자폭드론 이륙 직후 추락…해군 “향후 또 도전”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260826/134546713/1"
-        },
-        {
-          "title": "첫 해상실험 나선 자폭드론, 마라도함서 뜨자마자 바다에 '풍덩'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260825149400504"
-        }
-      ]
-    },
-    {
-      "id": "버스",
-      "rank": 3,
-      "keyword": "버스",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
       "summary": "급상승 시점에 '고속·시외버스 요금 3년 만에 9% 오른다' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -89,66 +33,38 @@
       ]
     },
     {
-      "id": "이진숙-제명",
-      "rank": 4,
-      "keyword": "이진숙 제명",
+      "id": "의사",
+      "rank": 2,
+      "keyword": "의사",
       "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '‘이진숙 제명 촉구 결의안’ 국회 의결…국힘 최소 2명 찬성' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"39.4도 고열 견뎌라?\"…의사 단체, 아옳이 한의사 남친 '저격'' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘이진숙 제명 촉구 결의안’ 국회 의결…국힘 최소 2명 찬성",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1274741.html"
+          "title": "\"39.4도 고열 견뎌라?\"…의사 단체, 아옳이 한의사 남친 '저격'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608263110H"
         },
         {
-          "title": "이진숙 제명 촉구안 본회의 통과…李 “밉보이면 의원 탄핵, 민주당 독재”",
+          "title": "“39.4도까지 고열 참아라”…의료계, 한의사 발언에 강력 ‘반발’",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260826180209529"
+          "url": "https://v.daum.net/v/20260826170355799"
         },
         {
-          "title": "[속보] '5·18 폄훼논란' 이진숙 제명촉구안 與 주도 국회 본회의 통과",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6847500_36911.html"
+          "title": "‘아옳이♥’ 김형배, “한의사 집안이라 감기약 안 먹어” 39.4도 견디라던 이유 있었네[SC이슈]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/08/26/GA4DCZRSMIYTONBTMQ3GGYJZMY/"
         }
       ]
     },
     {
-      "id": "존-f-케네디-센터",
-      "rank": 5,
-      "keyword": "존 f. 케네디 센터",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 '“대통령 이름 넣었더니 사람 안 오고 기부 끊겼다”…파산 위기 몰린 케네디 센터' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“대통령 이름 넣었더니 사람 안 오고 기부 끊겼다”…파산 위기 몰린 케네디 센터",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260826103610686"
-        },
-        {
-          "title": "'트럼프 케네디센터' 개칭 시도 후 티켓·기부금 수입 곤두박질",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260826089500009"
-        },
-        {
-          "title": "\"케네디 센터 보수 못하면 철거될 수 있다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260826_0003762850"
-        }
-      ]
-    },
-    {
-      "id": "한국반도체",
-      "rank": 6,
-      "keyword": "한국반도체",
-      "volumeLabel": "200+",
+      "id": "한국-반도체",
+      "rank": 3,
+      "keyword": "한국 반도체",
+      "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
@@ -173,72 +89,49 @@
       ]
     },
     {
-      "id": "임현식",
-      "rank": 7,
-      "keyword": "임현식",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "id": "관리-종목",
+      "rank": 4,
+      "keyword": "관리 종목",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''세 번 이혼' 박원숙 임현식과 재혼설 부인…\"다신 안 해\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '스팩합병 기업, 코스닥 안착 어렵네… 3곳중 1곳 상폐 위기' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'세 번 이혼' 박원숙 임현식과 재혼설 부인…\"다신 안 해\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/25/2026082509204936037"
-        },
-        {
-          "title": "'77세' 박원숙, 은퇴설에 입 열었다…\"역할 많지 않아, 이만하면 충분\" [마데핫리뷰]",
+          "title": "스팩합병 기업, 코스닥 안착 어렵네… 3곳중 1곳 상폐 위기",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260825130643010?f=p"
+          "url": "https://v.daum.net/v/20260825182133874"
         },
         {
-          "title": "'이혼 3번' 박원숙, '사별' 임현식과 열애설 부인..\"이성간 사랑 절대NO\"",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112862761"
-        }
-      ]
-    },
-    {
-      "id": "강백호",
-      "rank": 8,
-      "keyword": "강백호",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '6살 많은 벤자민에게 주먹 쥐며 노려본 강백호, 사구인데 아무것도 없어? [곽경훈의 현장]' (네이트) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "6살 많은 벤자민에게 주먹 쥐며 노려본 강백호, 사구인데 아무것도 없어? [곽경훈의 현장]",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260826n11321"
+          "title": "\"합병 대상 못 찾아\"…코스닥 한파에 스팩도 줄상폐",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431595"
         },
         {
-          "title": "LG 문보경, 유신고 야구부에 1천500만원 상당 야구용품 기부",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260826081400007"
-        },
-        {
-          "title": "LG 문보경, 유신고 야구부에 1500만원 상당 야구용품 기부",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260826_0003763485"
+          "title": "하나31호스팩, 관리종목 지정…SPAC 상장예비심사청구서 미제출로 조치",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16174348"
         }
       ]
     },
     {
       "id": "기생충",
-      "rank": 9,
+      "rank": 5,
       "keyword": "기생충",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '북한 노동자 때문에 기생충 폭증한 러 마을…회충·편충·간흡충 등 다량 발생' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+4",
+      "summary": "급상승 시점에 '러 작은 탄광마을에 기생충 감염 폭증…\"北노동자 유입이 원인\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "러 작은 탄광마을에 기생충 감염 폭증…\"北노동자 유입이 원인\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260826077100009"
+        },
         {
           "title": "북한 노동자 때문에 기생충 폭증한 러 마을…회충·편충·간흡충 등 다량 발생",
           "source": "Daum",
@@ -248,39 +141,146 @@
           "title": "러시아서 기생충 감염 급증···보건당국 “북한 노동자 유입 탓”",
           "source": "경향신문",
           "url": "https://www.khan.co.kr/article/202608261315001"
-        },
-        {
-          "title": "러 작은 탄광마을에 기생충 감염 폭증…\"北노동자 유입이 원인\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260826077100009"
         }
       ]
     },
     {
-      "id": "미래에셋",
-      "rank": 10,
-      "keyword": "미래에셋",
+      "id": "이정은",
+      "rank": 6,
+      "keyword": "이정은",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이정은·김무열의 누아르 액션…넷플릭스 '할매' 주연' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이정은·김무열의 누아르 액션…넷플릭스 '할매' 주연",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260826051200005"
+        },
+        {
+          "title": "배우 이정은, 할머니의 복수 그린다",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026082610231565983"
+        },
+        {
+          "title": "‘참교육’ 글로벌 톱10 ‘역주행’…김무열 차차기작은 넷플릭스 ‘할매’",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11612263"
+        }
+      ]
+    },
+    {
+      "id": "1기-신도시",
+      "rank": 7,
+      "keyword": "1기 신도시",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[창간24주년특집] 광명·시흥에 진짜 좋은 거 온다' (경기신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[창간24주년특집] 광명·시흥에 진짜 좋은 거 온다",
+          "source": "경기신문",
+          "url": "https://www.kgnews.co.kr/news/article.html?no=907032"
+        },
+        {
+          "title": "[취임 인터뷰] 이형덕 광명시의회 의장",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1769114"
+        },
+        {
+          "title": "시대정신기자협회, 이형덕 광명시의장과 간담회 ··· 지역 현안·의정 발전 방안 논의",
+          "source": "광명포스트",
+          "url": "https://www.thegmpost.com/news/articleView.html?idxno=24996"
+        }
+      ]
+    },
+    {
+      "id": "제주항공",
+      "rank": 8,
+      "keyword": "제주항공",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '제주항공, 부산∼구이린 노선 신규 취항…주 4회 운항' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "제주항공, 부산∼구이린 노선 신규 취항…주 4회 운항",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260826066200003"
+        },
+        {
+          "title": "제주항공, 부산~구이린 신규 취항… 주 4회 운항 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/industry/company/2026/08/26/IAWRDM43QRBADOWCGYTTWOMGHI/"
+        },
+        {
+          "title": "[단독]넓어진 中하늘길… “알짜 노선 잡아라” 항공사 경쟁",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20260824/134535355/2"
+        }
+      ]
+    },
+    {
+      "id": "김태효",
+      "rank": 9,
+      "keyword": "김태효",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“감사위원장 5개월 만에 사임”…미래에셋증권, 감사위 구성요건 미달' (디지털데일리) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''계엄 정당화 메시지' 김태효 前안보실 차장측 \"내란 목적 아냐\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“감사위원장 5개월 만에 사임”…미래에셋증권, 감사위 구성요건 미달",
-          "source": "디지털데일리",
-          "url": "https://www.ddaily.co.kr/page/view/2026082614024900999"
+          "title": "'계엄 정당화 메시지' 김태효 前안보실 차장측 \"내란 목적 아냐\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260826075000004"
         },
         {
-          "title": "미래에셋증권 감사위원장 문홍성 중도 사임…왜?",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20260826163310010"
+          "title": "\"비상계엄은 민주주의 수호 행위\" 김태효 오늘 첫 재판",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826000201086"
         },
         {
-          "title": "박현주 회장, 디지털엑스 직원 만나 '미래에셋 3.0' 비전 설명 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/08/26/2026082617525896811"
+          "title": "'계엄 정당화 메시지' 김태효 측, 첫 재판서 \"정상 외교 행위\" 혐의 부인",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260826_0003763094"
+        }
+      ]
+    },
+    {
+      "id": "광주-도시철도-2호선",
+      "rank": 10,
+      "keyword": "광주 도시철도 2호선",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '민형배 \"광주 도시철도2호선 공사 빨리 끝내야\"…재검토 선그어' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "민형배 \"광주 도시철도2호선 공사 빨리 끝내야\"…재검토 선그어",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826103353558"
+        },
+        {
+          "title": "민형배 “도시철도 2호선 점검, 중단 아닌 조기 개통 위한 것”",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026082612252971158"
+        },
+        {
+          "title": "전남광주시 \"도시철도 2호선 재점검…사업 재검토 아니다\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260824116600054"
         }
       ]
     }
