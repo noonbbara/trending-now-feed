@@ -1,17 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-26T03:13:05.309Z",
+  "updatedAt": "2026-08-26T04:11:45.479Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
       "id": "과태료",
       "rank": 1,
       "keyword": "과태료",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "10000+",
+      "startedLabel": "3시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '\"블랙박스에 딱 걸렸다\"…운전자들 '1조5000억' 토해낼 판' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -21,9 +21,9 @@
           "url": "https://www.hankyung.com/article/2026082522331"
         },
         {
-          "title": "28일부터 아파트 민폐주차 시 과태료 부과",
-          "source": "아파트관리신문",
-          "url": ""
+          "title": "\"블랙박스에 딱 걸렸다\"…운전자들 '1조5000억' 토해낼 판",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260826n04115"
         },
         {
           "title": "주차장 출입구 ‘차로 막으면’ 과태료 최대 500만원",
@@ -33,41 +33,69 @@
       ]
     },
     {
-      "id": "부천-상동-역-롯데-캐슬",
+      "id": "부대",
       "rank": 2,
-      "keyword": "부천 상동 역 롯데 캐슬",
-      "volumeLabel": "5000+",
+      "keyword": "부대",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"이 동네가 16억?\" 분양가에 화들짝…결국 '청약 미달'났다 [주간이집]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''폭염 달리기에 취사병 사망' 육군 8사단장 직무배제‥\"지휘관리 소홀\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"이 동네가 16억?\" 분양가에 화들짝…결국 '청약 미달'났다 [주간이집]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026082513246"
+          "title": "'폭염 달리기에 취사병 사망' 육군 8사단장 직무배제‥\"지휘관리 소홀\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6847412_36911.html"
         },
         {
-          "title": "상동역 앞 49층 랜드마크⋯‘롯데캐슬 시그니처’ 1859가구 분양",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2617444"
+          "title": "군, 8사단장 직무배제…“부대 지휘·관리 소홀”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8646497"
         },
         {
-          "title": "부천 상동역 롯데캐슬 시그니처, 지금 청약 한복판을 지나는 중임.",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/richrise/premium/contents/260825233241368ne"
+          "title": "육군 8사단장 직무배제…부대 관리 소홀",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6269863"
+        }
+      ]
+    },
+    {
+      "id": "배틀그라운드",
+      "rank": 3,
+      "keyword": "배틀그라운드",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '크래프톤, 배틀그라운드 후속작 'PUBG: 데드넷' 공개' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "크래프톤, 배틀그라운드 후속작 'PUBG: 데드넷' 공개",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260826012200017"
+        },
+        {
+          "title": "게임스컴 전야제 달군 K-게임…크래프톤·엔씨 신작 공개",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826113928431"
+        },
+        {
+          "title": "쾰른에 모인 개발자 5000명",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000005760"
         }
       ]
     },
     {
       "id": "롤-패치-노트",
-      "rank": 3,
+      "rank": 4,
       "keyword": "롤 패치 노트",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '26.17 패치 노트' (League of Legends) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -82,104 +110,104 @@
           "url": "https://www.ggilbo.com/news/articleView.html?idxno=1177415"
         },
         {
-          "title": "26.17 패치 롤 서버 점검 시간",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260826045210819"
+          "title": "\"카밀로 꿀 빨았다(?)\"···26.16 패치 이후 탑·서폿 어디로 가나",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260821n10820"
         }
       ]
     },
     {
-      "id": "톱스타뉴스",
-      "rank": 4,
-      "keyword": "톱스타뉴스",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '임영웅, 센스 넘치는 '손 연기'로 새 앨범 트랙리스트 예고' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "임영웅, 센스 넘치는 '손 연기'로 새 앨범 트랙리스트 예고",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260826110037797"
-        },
-        {
-          "title": "임영웅, 손 연기로 신곡 힌트…'IM HERO 10' 스포일러 공개",
-          "source": "YTN",
-          "url": "https://star.ytn.co.kr/_sn/0117_202608261017303566"
-        },
-        {
-          "title": "'컴백' 임영웅, 새 앨범 직접 스포했다 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/26/GRSTGNLCGU2DKMJQMNTGKYJVMU/"
-        }
-      ]
-    },
-    {
-      "id": "정선희",
+      "id": "아침",
       "rank": 5,
-      "keyword": "정선희",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "keyword": "아침",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '정선희, 남자 안 만나는 이유 따로 있었다…\"나와 사귀면 감당해야 할 것 있어\" ('신여성')' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“아침 늦게 먹는 사람, 사망 위험 29% 높아”…몇 시에 먹나? [건강팩트체크]' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "정선희, 남자 안 만나는 이유 따로 있었다…\"나와 사귀면 감당해야 할 것 있어\" ('신여성')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260826074637615"
+          "title": "“아침 늦게 먹는 사람, 사망 위험 29% 높아”…몇 시에 먹나? [건강팩트체크]",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/It/article/all/20260825/134540199/2"
         },
         {
-          "title": "정선희, 과거 박명수와 썸 탔나..\"집이 자가인지 근저당인지 물어\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/26/HAZDSYTEMYYTOYZUHAYGIZTFG4/"
+          "title": "\"16시간 굶으면 살 빠질까?\"... 조영민 교수가 말하는 '시간제한 다이어트'의 모든 것",
+          "source": "하이닥",
+          "url": "https://news.hidoc.co.kr/news/articleView.html?idxno=66577"
         },
         {
-          "title": "정선희 “3개월 만에 12kg 빠져”…이경실 “어떻게 될까 무서웠다” (신여성) - 스타투데이",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12136354"
+          "title": "첫 끼 정오 넘긴 사람, 기대수명 2.5년 짧았다⋯저녁은 몇 시가 좋을까",
+          "source": "코메디닷컴",
+          "url": "https://kormedi.com/2852629/"
         }
       ]
     },
     {
-      "id": "국회",
+      "id": "재혼황후",
       "rank": 6,
-      "keyword": "국회",
-      "volumeLabel": "500+",
+      "keyword": "재혼황후",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '與 \"이진숙 '여자 전두환'으로 부르자…국회에 둘 수 없어\"(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '최초의 로판 한드 '재혼황후', 기대 반 우려 반 11월 공개 확정' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "與 \"이진숙 '여자 전두환'으로 부르자…국회에 둘 수 없어\"(종합)",
+          "title": "최초의 로판 한드 '재혼황후', 기대 반 우려 반 11월 공개 확정",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260826104452076"
+          "url": "https://v.daum.net/v/20260826092152671"
         },
         {
-          "title": "김민석 “이진숙 ‘여자 히틀러’만 시비···‘여자 전두환’ 좋아하는 것 같으니 그렇게 부르자”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608261003001"
+          "title": "주인공들 외국이름 이 감성 통할까.. 신민아X주지훈X이종석X이세영 '재혼 황후' 11월 4일 공개",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826103609683"
         },
         {
-          "title": "'5·18 폄훼 논란' 이진숙 징계촉구안 가결‥\"직무정지 법 개정까지\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6847285_37004.html"
+          "title": "[방송소식] 신민아·주지훈 주연 '재혼 황후', 11월 첫선",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260826055100005"
+        }
+      ]
+    },
+    {
+      "id": "황광희",
+      "rank": 7,
+      "keyword": "황광희",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''1년만에 복귀' 김수현만 빠졌네..'88즈 완전체' 빅뱅 콘서트서 뭉쳤다 [핫피플]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'1년만에 복귀' 김수현만 빠졌네..'88즈 완전체' 빅뱅 콘서트서 뭉쳤다 [핫피플]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825170352741"
+        },
+        {
+          "title": "광희, '지드래곤' 짝사랑 영원해…정해인X임시완까지 반짝이는 '88년생' 의리 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/25/GM2WCYLEGMZDEOBVHBTGCYRXGI/"
+        },
+        {
+          "title": "정해인 의리, 복귀 김수현 좋아요→지드래곤 20주년은 \"우리의 청춘\"…88즈 재조명",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260824n06226"
         }
       ]
     },
     {
       "id": "김의성",
-      "rank": 7,
+      "rank": 8,
       "keyword": "김의성",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "3시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '장항준, 차기작 배우들에 커피차 압박 \"주인공 평균 7.5대\" ('비보티비')' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -201,13 +229,41 @@
       ]
     },
     {
-      "id": "us-오픈",
-      "rank": 8,
-      "keyword": "us 오픈",
+      "id": "탄천물재생센터",
+      "rank": 9,
+      "keyword": "탄천물재생센터",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김윤덕 국토장관 \"7.3만호에 용산은 빠져…탄천 주택공급은 검토\"' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김윤덕 국토장관 \"7.3만호에 용산은 빠져…탄천 주택공급은 검토\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260826105813Hfj"
+        },
+        {
+          "title": "[속보]김윤덕, 오세훈과 2차 회동 후 “추가 발표 그린벨트 7.3만호는 경기도에만”···용산공원은 제외",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608261055001"
+        },
+        {
+          "title": "오세훈 \"재개발 용적률 1.2배 완화 요구, 국토부가 전향적 검토…순증 13만가구\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826120510952"
+        }
+      ]
+    },
+    {
+      "id": "us-오픈",
+      "rank": 10,
+      "keyword": "us 오픈",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 ''여제' 세리나와 '차세대 황제' 알카라스, US오픈 혼복 8강 탈락' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -225,62 +281,6 @@
           "title": "[US오픈] 알카라스-세리나 '혼합복식 드림팀' 8강서 탈락",
           "source": "뉴스핌",
           "url": "https://www.newspim.com/news/view/20260826000369"
-        }
-      ]
-    },
-    {
-      "id": "nol",
-      "rank": 9,
-      "keyword": "nol",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Al Ansari Exchange Partners with RTA Dubai to make nol Travel Cards' (intlbm) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Al Ansari Exchange Partners with RTA Dubai to make nol Travel Cards",
-          "source": "intlbm",
-          "url": "https://intlbm.com/2026/08/24/al-ansari-exchange-partners-with-rta-dubai-to-make-nol-travel-cards/"
-        },
-        {
-          "title": "Dubai commuters can now buy RTA nol cards at Al Ansari Exchange",
-          "source": "Gulf News",
-          "url": "https://gulfnews.com/business/markets/dubai-commuters-can-now-buy-rta-nol-cards-at-al-ansari-exchange-1.500650281"
-        },
-        {
-          "title": "Dubai residents can now purchase RTA nol cards at selected Al Ansari Exchange branches",
-          "source": "Khaleej Times",
-          "url": "https://www.khaleejtimes.com/uae/residents-rta-nol-cards-al-ansari-exchange-selected-branches"
-        }
-      ]
-    },
-    {
-      "id": "모두의창업",
-      "rank": 10,
-      "keyword": "모두의창업",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '단국대 창업지원단, ‘모두의 창업 프로젝트’ 2차 도전자 모집' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "단국대 창업지원단, ‘모두의 창업 프로젝트’ 2차 도전자 모집",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260826103002337"
-        },
-        {
-          "title": "가까운 아이디어가 창업이 된다 - 영상 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148970489&pWise=sub&pWiseSub=I1"
-        },
-        {
-          "title": "인천창조경제혁신센터, ‘모두의 창업 프로젝트’ 2차 인천 지역 설명회 개최",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3032652"
         }
       ]
     }
