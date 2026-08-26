@@ -1,98 +1,14 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-26T07:27:54.010Z",
+  "updatedAt": "2026-08-26T08:20:34.818Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "면허",
+      "id": "군수-산업",
       "rank": 1,
-      "keyword": "면허",
-      "volumeLabel": "10000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''나혼산' 제작진 \"전현무 카자흐 '즉흥 여행' 조작 아니다\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'나혼산' 제작진 \"전현무 카자흐 '즉흥 여행' 조작 아니다\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260825163900005"
-        },
-        {
-          "title": "[단독] 전현무 ‘나혼산’ 조작 의혹, 결국 외교부로 갔다",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608261153003"
-        },
-        {
-          "title": "‘나 혼자 산다’ 제작진, 전현무 카자흐스탄 여행 조작 의혹에 반박 나서",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260825580542"
-        }
-      ]
-    },
-    {
-      "id": "구속",
-      "rank": 2,
-      "keyword": "구속",
-      "volumeLabel": "10000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[속보] 장미란 씨 실종 다음 날 새벽 숨진 듯‥\"타살 가능성 낮아\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[속보] 장미란 씨 실종 다음 날 새벽 숨진 듯‥\"타살 가능성 낮아\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6847473_36974.html"
-        },
-        {
-          "title": "집 나간 뒤 숨졌는데…3일 뒤 \"연락 닿았다\" 뻔뻔한 경찰관",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/jeju/6270297"
-        },
-        {
-          "title": "[속보] 경찰 \"장미란 씨, 집에서 끈 가지고 나간 것으로 추정\"",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12315164"
-        }
-      ]
-    },
-    {
-      "id": "김민석",
-      "rank": 3,
-      "keyword": "김민석",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김민석, 이 대통령에 “인요한 적십자사 회장 임명 않으면 좋겠다”' (한겨레) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김민석, 이 대통령에 “인요한 적십자사 회장 임명 않으면 좋겠다”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/assembly/1274675.html"
-        },
-        {
-          "title": "靑, 인요한 적십자회장 임명 재고 요청에 “검토하겠다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260826160149628"
-        },
-        {
-          "title": "김민석, 이 대통령 독대서 인요한 적십자회장 인준 재고 요청",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202608261045001"
-        }
-      ]
-    },
-    {
-      "id": "군수산업",
-      "rank": 4,
-      "keyword": "군수산업",
-      "volumeLabel": "2000+",
+      "keyword": "군수 산업",
+      "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
@@ -105,9 +21,9 @@
           "url": "https://www.yna.co.kr/view/AKR20260825158000001"
         },
         {
-          "title": "美·獨 경쟁사 수주는 급증하는데… 성장세 한풀 꺾인 K-방산 어쩌나 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/industry/company/2026/08/24/LGKWCZDAOVGOLBEOHOQBNUAW2Q/"
+          "title": "美·獨 방산 기업 수주 급증… K방산 성장세는 주춤",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/industry-company/2026/08/25/VYZH2ZVZZBDYNNVMI6SAICONMY/"
         },
         {
           "title": "여야 손잡고 K-방산 수출강화 패키지법 6종 입법추진",
@@ -117,69 +33,209 @@
       ]
     },
     {
-      "id": "이병헌",
-      "rank": 5,
-      "keyword": "이병헌",
-      "volumeLabel": "500+",
+      "id": "김민석",
+      "rank": 2,
+      "keyword": "김민석",
+      "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''50만 유튜버' 이민정, 285평 초호화 풀빌라 협찬 \"N천만원 뽕 뽑는다\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '이 대통령 독대한 김민석 \"인요한 임명 않는 게 좋겠다\" 건의' (JTBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'50만 유튜버' 이민정, 285평 초호화 풀빌라 협찬 \"N천만원 뽕 뽑는다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/uNNPEtnQTU"
+          "title": "이 대통령 독대한 김민석 \"인요한 임명 않는 게 좋겠다\" 건의",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12315130"
         },
         {
-          "title": "무려 'N천만원' 럭셔리 호캉스…이병헌, 마스크 쓰고 '아빠모드' 포착",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260825151956142"
+          "title": "김민석, 이 대통령에 인요한 적십자회장 “인준 재고 요청”…청와대 “검토하겠다”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608261628001"
         },
         {
-          "title": "'유튜브' 이민정 \"화장실 넓으면 극도로 불안해\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6269212"
+          "title": "[속보]“인요한, 적십자사회장 임명 않았으면” 김민석, 李 대통령에게 직언",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11612145"
         }
       ]
     },
     {
-      "id": "남성진",
-      "rank": 6,
-      "keyword": "남성진",
+      "id": "투신",
+      "rank": 3,
+      "keyword": "투신",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '모친에게 흉기 휘두른 20대, 투신 사망' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "모친에게 흉기 휘두른 20대, 투신 사망",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826120038470"
+        },
+        {
+          "title": "[단독] 경기 광주 아파트서 모친에게 흉기 휘두른 아들 자해 후 사망",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260826580125"
+        },
+        {
+          "title": "경기 광주서 20대 아들이 어머니에게 흉기 휘둘러",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8646572"
+        }
+      ]
+    },
+    {
+      "id": "자폭형-무인-항공기",
+      "rank": 4,
+      "keyword": "자폭형 무인 항공기",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '軍 자폭드론 첫 해상 전투실험 실패…함정서 이륙 직후 추락' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "軍 자폭드론 첫 해상 전투실험 실패…함정서 이륙 직후 추락",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260826144857Myl"
+        },
+        {
+          "title": "국내 개발 자폭드론 이륙 직후 추락…해군 “향후 또 도전”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20260826/134546713/1"
+        },
+        {
+          "title": "해군, 자폭용 드론 해양 운용성 확인 실패 [뉴시스Pic]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260826_0003763447"
+        }
+      ]
+    },
+    {
+      "id": "이진숙-제명",
+      "rank": 5,
+      "keyword": "이진숙 제명",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김지영, 19세 훈남 아들에 굴욕..\"엄마 나와도 TV 안 봐\"[스타이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[속보] '5·18 폄훼논란' 이진숙 제명촉구안 與 주도 국회 본회의 통과' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김지영, 19세 훈남 아들에 굴욕..\"엄마 나와도 TV 안 봐\"[스타이슈]",
+          "title": "[속보] '5·18 폄훼논란' 이진숙 제명촉구안 與 주도 국회 본회의 통과",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6847500_36911.html"
+        },
+        {
+          "title": "[속보] 국회, ‘이진숙 제명 촉구 결의안’ 의결…국힘 최소 2명 찬성",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1274741.html"
+        },
+        {
+          "title": "‘5·18 폄훼 논란’ 이진숙, 제명 촉구 결의안 국회 본회의 통과",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/assembly/2026/08/26/PSPJOXJA4ZCEVKIRB2IPIUC3JA/"
+        }
+      ]
+    },
+    {
+      "id": "내포신도시",
+      "rank": 6,
+      "keyword": "내포신도시",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''속도전' 외치더니 곳곳서 암초 … 공공기관 이전·주택공급 제동' (뉴데일리) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'속도전' 외치더니 곳곳서 암초 … 공공기관 이전·주택공급 제동",
+          "source": "뉴데일리",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/26/2026082600072.html"
+        },
+        {
+          "title": "김상욱 울산시장 \"산업 AX와 에너지 허브에 울산의 미래 달렸다\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260826145409146"
+          "url": "https://v.daum.net/v/20260826162412853"
         },
         {
-          "title": "김지영 아들, 이미 완성형 얼굴…빅뱅 콘서트서 포착",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260826_0003763581"
+          "title": "“8월에 한다더니 10월 이후로”…또 미뤄진 공공기관 이전",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8646197"
+        }
+      ]
+    },
+    {
+      "id": "존-f-케네디-센터",
+      "rank": 7,
+      "keyword": "존 f. 케네디 센터",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“대통령 이름 넣었더니 사람 안 오고 기부 끊겼다”…파산 위기 몰린 케네디 센터' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“대통령 이름 넣었더니 사람 안 오고 기부 끊겼다”…파산 위기 몰린 케네디 센터",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826103610686"
         },
         {
-          "title": "김지영, '♥남성진 닮은' 훈남 아들 공개..배우 비주얼에 '랜선 며느리' 속출 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/26/HBRGGNBVMFRTMODCGVRDIOBZGE/"
+          "title": "트럼프 이름 두고 케네디센터 ‘철거’까지…미 법무부 법원에 경고",
+          "source": "채널A",
+          "url": "https://ichannela.com/news/detail/000000547110.do"
+        },
+        {
+          "title": "'트럼프 케네디센터' 개칭 시도 후 티켓·기부금 수입 곤두박질",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260826089500009"
+        }
+      ]
+    },
+    {
+      "id": "종언-의-잔영",
+      "rank": 8,
+      "keyword": "종언 의 잔영",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''로스트아크', 매주 주어지는 새로운 도전…'종언의 잔영' 추가' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'로스트아크', 매주 주어지는 새로운 도전…'종언의 잔영' 추가",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260826n28421"
+        },
+        {
+          "title": "천공의 파수꾼이 돌아왔다?! 로스트아크 '종언의 잔영' 업데이트",
+          "source": "인벤",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319937&site=lostark"
+        },
+        {
+          "title": "모르페·프로켈의 귀환, 로스트아크 ‘종언의 잔영’ 업데이트",
+          "source": "게임메카",
+          "url": "https://www.gamemeca.com/view.php?gid=1779645"
         }
       ]
     },
     {
       "id": "전주월드컵경기장",
-      "rank": 7,
+      "rank": 9,
       "keyword": "전주월드컵경기장",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '전주월드컵경기장 'KTX역 신설' 추진…공공기관·금융중심지 수요 정조준' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -201,41 +257,13 @@
       ]
     },
     {
-      "id": "여의도-시범아파트",
-      "rank": 8,
-      "keyword": "여의도 시범아파트",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '여의도 '최대어' 시범, 삼성물산 단독 입찰…경쟁 사라진 서울 재건축' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "여의도 '최대어' 시범, 삼성물산 단독 입찰…경쟁 사라진 서울 재건축",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/uSP2DKwatg"
-        },
-        {
-          "title": "'공사비 2조' 여의도 시범아파트 시공사 입찰 유찰…삼성물산만 참여",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260826000572"
-        },
-        {
-          "title": "'여의도 시범'도 래미안 유력…삼성물산 단독 응찰",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260825_0003761966"
-        }
-      ]
-    },
-    {
       "id": "오스탈",
-      "rank": 9,
+      "rank": 10,
       "keyword": "오스탈",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "2시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '’오스탈 USA 위치’ 美앨라배마 지역 관계자 \"한화, 인수 실사 확실히 진행\" By The Guru' (Investing.com 한국어) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -245,42 +273,14 @@
           "url": "https://kr.investing.com/news/stock-market-news/article-2074446"
         },
         {
-          "title": "[MASGA 인사이드] 삼성중공업, 美 조선업 ‘현장’에 韓 조선 기술을 심다",
-          "source": "이코노미톡뉴스",
-          "url": ""
-        },
-        {
           "title": "미국 앨라배마주 경제사절단 한화오션 거제조선소 방문, 오스탈USA 인수 관련",
           "source": "비즈니스포스트",
           "url": "https://www.businesspost.co.kr/BP?command=article_view&num=445584"
-        }
-      ]
-    },
-    {
-      "id": "아옳이",
-      "rank": 10,
-      "keyword": "아옳이",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '아옳이 한의사 남친 \"열 39.4도까진 참아봐야\"…의사단체 '발칵' - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "아옳이 한의사 남친 \"열 39.4도까진 참아봐야\"…의사단체 '발칵' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/26/2026082611035465911"
         },
         {
-          "title": "\"39.4도까지 참아도 된다?\"…'아옳이 남친' 한의사 발언에 의사들 반발",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026082616051730777"
-        },
-        {
-          "title": "“성인 39.4도까지 참아도 된다?”…한의사 발열 조언에 의사단체 “위험한 정보”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260826134353394"
+          "title": "[MASGA 인사이드] 삼성중공업, 美 조선업 ‘현장’에 韓 조선 기술을 심다",
+          "source": "이코노미톡뉴스",
+          "url": ""
         }
       ]
     }
