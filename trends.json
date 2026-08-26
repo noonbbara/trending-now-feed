@@ -1,101 +1,45 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-26T08:20:34.818Z",
+  "updatedAt": "2026-08-26T09:21:03.024Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "군수-산업",
+      "id": "시어머니",
       "rank": 1,
-      "keyword": "군수 산업",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '與김병주·野유용원, 'K-방산 수출강화' 법안 6건 공동발의' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "與김병주·野유용원, 'K-방산 수출강화' 법안 6건 공동발의",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260825158000001"
-        },
-        {
-          "title": "美·獨 방산 기업 수주 급증… K방산 성장세는 주춤",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/industry-company/2026/08/25/VYZH2ZVZZBDYNNVMI6SAICONMY/"
-        },
-        {
-          "title": "여야 손잡고 K-방산 수출강화 패키지법 6종 입법추진",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260825010008406"
-        }
-      ]
-    },
-    {
-      "id": "김민석",
-      "rank": 2,
-      "keyword": "김민석",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '이 대통령 독대한 김민석 \"인요한 임명 않는 게 좋겠다\" 건의' (JTBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "이 대통령 독대한 김민석 \"인요한 임명 않는 게 좋겠다\" 건의",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12315130"
-        },
-        {
-          "title": "김민석, 이 대통령에 인요한 적십자회장 “인준 재고 요청”…청와대 “검토하겠다”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608261628001"
-        },
-        {
-          "title": "[속보]“인요한, 적십자사회장 임명 않았으면” 김민석, 李 대통령에게 직언",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11612145"
-        }
-      ]
-    },
-    {
-      "id": "투신",
-      "rank": 3,
-      "keyword": "투신",
+      "keyword": "시어머니",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '모친에게 흉기 휘두른 20대, 투신 사망' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '결혼식서 故시어머니 영상 틀자고?...\"내가 주인공\" 예비신부 '뭇매' - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "모친에게 흉기 휘두른 20대, 투신 사망",
+          "title": "결혼식서 故시어머니 영상 틀자고?...\"내가 주인공\" 예비신부 '뭇매' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/08/26/2026082610042190929"
+        },
+        {
+          "title": "\"결혼 때 보여달라\" 결혼식서 故 시어머니 영상 틀자는 시아버지 [어떻게 생각하세요]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260826120038470"
+          "url": "https://v.daum.net/v/20260826155508227"
         },
         {
-          "title": "[단독] 경기 광주 아파트서 모친에게 흉기 휘두른 아들 자해 후 사망",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260826580125"
-        },
-        {
-          "title": "경기 광주서 20대 아들이 어머니에게 흉기 휘둘러",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8646572"
+          "title": "결혼식 날 돌아가신 시어머니 생전 영상 틀자는 시아버지 제안 거절한 예비 며느리",
+          "source": "인사이트",
+          "url": "https://www.insight.co.kr/news/570207"
         }
       ]
     },
     {
       "id": "자폭형-무인-항공기",
-      "rank": 4,
+      "rank": 2,
       "keyword": "자폭형 무인 항공기",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+2",
       "summary": "급상승 시점에 '軍 자폭드론 첫 해상 전투실험 실패…함정서 이륙 직후 추락' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -110,76 +54,76 @@
           "url": "https://www.donga.com/news/Politics/article/all/20260826/134546713/1"
         },
         {
-          "title": "해군, 자폭용 드론 해양 운용성 확인 실패 [뉴시스Pic]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260826_0003763447"
+          "title": "첫 해상실험 나선 자폭드론, 마라도함서 뜨자마자 바다에 '풍덩'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260825149400504"
+        }
+      ]
+    },
+    {
+      "id": "버스",
+      "rank": 3,
+      "keyword": "버스",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '고속·시외버스 요금 3년 만에 9% 오른다' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "고속·시외버스 요금 3년 만에 9% 오른다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/transport-environment/2026/08/26/G6Z4X3QSXJFZDDLIVCR35MS6TU/"
+        },
+        {
+          "title": "시외·고속버스 요금 3년여 만에 인상…“인건비·유류비 상승”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8646661"
+        },
+        {
+          "title": "시외·고속버스 요금 9% 오른다… 10월부터 운임 상한 조정 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/08/26/2026082614412236109"
         }
       ]
     },
     {
       "id": "이진숙-제명",
-      "rank": 5,
+      "rank": 4,
       "keyword": "이진숙 제명",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[속보] '5·18 폄훼논란' 이진숙 제명촉구안 與 주도 국회 본회의 통과' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '‘이진숙 제명 촉구 결의안’ 국회 의결…국힘 최소 2명 찬성' (한겨레) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[속보] '5·18 폄훼논란' 이진숙 제명촉구안 與 주도 국회 본회의 통과",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6847500_36911.html"
-        },
-        {
-          "title": "[속보] 국회, ‘이진숙 제명 촉구 결의안’ 의결…국힘 최소 2명 찬성",
+          "title": "‘이진숙 제명 촉구 결의안’ 국회 의결…국힘 최소 2명 찬성",
           "source": "한겨레",
           "url": "https://www.hani.co.kr/arti/politics/politics_general/1274741.html"
         },
         {
-          "title": "‘5·18 폄훼 논란’ 이진숙, 제명 촉구 결의안 국회 본회의 통과",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/assembly/2026/08/26/PSPJOXJA4ZCEVKIRB2IPIUC3JA/"
-        }
-      ]
-    },
-    {
-      "id": "내포신도시",
-      "rank": 6,
-      "keyword": "내포신도시",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''속도전' 외치더니 곳곳서 암초 … 공공기관 이전·주택공급 제동' (뉴데일리) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'속도전' 외치더니 곳곳서 암초 … 공공기관 이전·주택공급 제동",
-          "source": "뉴데일리",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/26/2026082600072.html"
-        },
-        {
-          "title": "김상욱 울산시장 \"산업 AX와 에너지 허브에 울산의 미래 달렸다\"",
+          "title": "이진숙 제명 촉구안 본회의 통과…李 “밉보이면 의원 탄핵, 민주당 독재”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260826162412853"
+          "url": "https://v.daum.net/v/20260826180209529"
         },
         {
-          "title": "“8월에 한다더니 10월 이후로”…또 미뤄진 공공기관 이전",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8646197"
+          "title": "[속보] '5·18 폄훼논란' 이진숙 제명촉구안 與 주도 국회 본회의 통과",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6847500_36911.html"
         }
       ]
     },
     {
       "id": "존-f-케네디-센터",
-      "rank": 7,
+      "rank": 5,
       "keyword": "존 f. 케네디 센터",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "up",
+      "changeLabel": "+2",
       "summary": "급상승 시점에 '“대통령 이름 넣었더니 사람 안 오고 기부 끊겼다”…파산 위기 몰린 케네디 센터' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -189,98 +133,154 @@
           "url": "https://v.daum.net/v/20260826103610686"
         },
         {
-          "title": "트럼프 이름 두고 케네디센터 ‘철거’까지…미 법무부 법원에 경고",
-          "source": "채널A",
-          "url": "https://ichannela.com/news/detail/000000547110.do"
-        },
-        {
           "title": "'트럼프 케네디센터' 개칭 시도 후 티켓·기부금 수입 곤두박질",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260826089500009"
+        },
+        {
+          "title": "\"케네디 센터 보수 못하면 철거될 수 있다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260826_0003762850"
         }
       ]
     },
     {
-      "id": "종언-의-잔영",
-      "rank": 8,
-      "keyword": "종언 의 잔영",
+      "id": "한국반도체",
+      "rank": 6,
+      "keyword": "한국반도체",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '기후부, 세계적인 반도체 기업들과재생에너지 조달 해법 논의' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "기후부, 세계적인 반도체 기업들과재생에너지 조달 해법 논의",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775391"
+        },
+        {
+          "title": "SK하이닉스 \"탈탄소, 개별기업만으론 한계\"…ASML도 청정전력 강조",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826160209687"
+        },
+        {
+          "title": "국정과제 1년, 이제는 '이행'에서 '체감'으로",
+          "source": "OhmyNews",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003261985"
+        }
+      ]
+    },
+    {
+      "id": "임현식",
+      "rank": 7,
+      "keyword": "임현식",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''로스트아크', 매주 주어지는 새로운 도전…'종언의 잔영' 추가' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''세 번 이혼' 박원숙 임현식과 재혼설 부인…\"다신 안 해\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'로스트아크', 매주 주어지는 새로운 도전…'종언의 잔영' 추가",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260826n28421"
+          "title": "'세 번 이혼' 박원숙 임현식과 재혼설 부인…\"다신 안 해\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/25/2026082509204936037"
         },
         {
-          "title": "천공의 파수꾼이 돌아왔다?! 로스트아크 '종언의 잔영' 업데이트",
-          "source": "인벤",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319937&site=lostark"
+          "title": "'77세' 박원숙, 은퇴설에 입 열었다…\"역할 많지 않아, 이만하면 충분\" [마데핫리뷰]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825130643010?f=p"
         },
         {
-          "title": "모르페·프로켈의 귀환, 로스트아크 ‘종언의 잔영’ 업데이트",
-          "source": "게임메카",
-          "url": "https://www.gamemeca.com/view.php?gid=1779645"
+          "title": "'이혼 3번' 박원숙, '사별' 임현식과 열애설 부인..\"이성간 사랑 절대NO\"",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112862761"
         }
       ]
     },
     {
-      "id": "전주월드컵경기장",
-      "rank": 9,
-      "keyword": "전주월드컵경기장",
+      "id": "강백호",
+      "rank": 8,
+      "keyword": "강백호",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '전주월드컵경기장 'KTX역 신설' 추진…공공기관·금융중심지 수요 정조준' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '6살 많은 벤자민에게 주먹 쥐며 노려본 강백호, 사구인데 아무것도 없어? [곽경훈의 현장]' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "전주월드컵경기장 'KTX역 신설' 추진…공공기관·금융중심지 수요 정조준",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260826070301989"
+          "title": "6살 많은 벤자민에게 주먹 쥐며 노려본 강백호, 사구인데 아무것도 없어? [곽경훈의 현장]",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260826n11321"
         },
         {
-          "title": "전북혁신도시 인근 KTX역 추진…경제성·정책성 평가 관건",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6567417"
+          "title": "LG 문보경, 유신고 야구부에 1천500만원 상당 야구용품 기부",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260826081400007"
         },
         {
-          "title": "'전주에 KTX역 하나 더?'…국토부가 '전주월드컵경기장'을 찍은 이유",
-          "source": "프레시안",
-          "url": "https://www.pressian.com/pages/articles/2026082607294771047"
+          "title": "LG 문보경, 유신고 야구부에 1500만원 상당 야구용품 기부",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260826_0003763485"
         }
       ]
     },
     {
-      "id": "오스탈",
-      "rank": 10,
-      "keyword": "오스탈",
+      "id": "기생충",
+      "rank": 9,
+      "keyword": "기생충",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '’오스탈 USA 위치’ 美앨라배마 지역 관계자 \"한화, 인수 실사 확실히 진행\" By The Guru' (Investing.com 한국어) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '북한 노동자 때문에 기생충 폭증한 러 마을…회충·편충·간흡충 등 다량 발생' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "’오스탈 USA 위치’ 美앨라배마 지역 관계자 \"한화, 인수 실사 확실히 진행\" By The Guru",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2074446"
+          "title": "북한 노동자 때문에 기생충 폭증한 러 마을…회충·편충·간흡충 등 다량 발생",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826131109340"
         },
         {
-          "title": "미국 앨라배마주 경제사절단 한화오션 거제조선소 방문, 오스탈USA 인수 관련",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=445584"
+          "title": "러시아서 기생충 감염 급증···보건당국 “북한 노동자 유입 탓”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608261315001"
         },
         {
-          "title": "[MASGA 인사이드] 삼성중공업, 美 조선업 ‘현장’에 韓 조선 기술을 심다",
-          "source": "이코노미톡뉴스",
-          "url": ""
+          "title": "러 작은 탄광마을에 기생충 감염 폭증…\"北노동자 유입이 원인\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260826077100009"
+        }
+      ]
+    },
+    {
+      "id": "미래에셋",
+      "rank": 10,
+      "keyword": "미래에셋",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“감사위원장 5개월 만에 사임”…미래에셋증권, 감사위 구성요건 미달' (디지털데일리) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“감사위원장 5개월 만에 사임”…미래에셋증권, 감사위 구성요건 미달",
+          "source": "디지털데일리",
+          "url": "https://www.ddaily.co.kr/page/view/2026082614024900999"
+        },
+        {
+          "title": "미래에셋증권 감사위원장 문홍성 중도 사임…왜?",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20260826163310010"
+        },
+        {
+          "title": "박현주 회장, 디지털엑스 직원 만나 '미래에셋 3.0' 비전 설명 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/08/26/2026082617525896811"
         }
       ]
     }
