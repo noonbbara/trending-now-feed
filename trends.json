@@ -1,256 +1,288 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-26T11:03:51.519Z",
+  "updatedAt": "2026-08-26T11:58:35.070Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "안양-대-인천",
+      "id": "난징-지하철",
       "rank": 1,
-      "keyword": "안양 대 인천",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "천안시",
-      "rank": 2,
-      "keyword": "천안시",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''2026 천안 K-컬처박람회' 내달 2일 독립기념관서 개막' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'2026 천안 K-컬처박람회' 내달 2일 독립기념관서 개막",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/0xIC22mj5m"
-        },
-        {
-          "title": "천안 K-컬처 박람회, 역사와 한류 잇는다… ‘산업형 축제’로 전환",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3427938"
-        },
-        {
-          "title": "천안시, ‘2026 천안 K-컬처 박람회’ 내달 2일 개막… K-산업·체험 대폭 강화",
-          "source": "뉴데일리 충청세종",
-          "url": "https://cc.newdaily.co.kr/site/data/html/2026/08/26/2026082600073.html"
-        }
-      ]
-    },
-    {
-      "id": "강원-대-광주",
-      "rank": 3,
-      "keyword": "강원 대 광주",
+      "keyword": "난징 지하철",
       "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“될 때까지”… 문민서, 광주 22경기 무승 끊는다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '지하철 바닥 한가득 ’꿈틀’…쏟아진 민물장어에 ’아수라장’' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“될 때까지”… 문민서, 광주 22경기 무승 끊는다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/4EOFSWQ9Cl"
+          "title": "지하철 바닥 한가득 ’꿈틀’…쏟아진 민물장어에 ’아수라장’",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260824092216WmK"
         },
         {
-          "title": "6연패 끊은 광주FC, 이번엔 강원 넘는다",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3674403"
+          "title": "바닥에 쏟아진 수십 마리 뱀?…순식간에 아수라장 된 中 지하철 알고보니",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026082610402158560"
         },
         {
-          "title": "무고사 극장골에 웃은 인천…광주 꺾고 6경기 연속 무패",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3032524"
+          "title": "\"지하철에 뱀 떼 출몰?!\" 승객들 혼비백산 비명 지르게 만든 역대급 돌발 상황",
+          "source": "애니멀플래닛",
+          "url": "https://m.animalplanet.co.kr/contents/?artNo=61248"
         }
       ]
     },
     {
-      "id": "골프장",
+      "id": "네팔",
+      "rank": 2,
+      "keyword": "네팔",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[속보] 외교부 “네팔 홍수 지역, 한국인 8명 연락두절·10명 고립”…이 대통령 “수색·구조 총력 지시”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[속보] 외교부 “네팔 홍수 지역, 한국인 8명 연락두절·10명 고립”…이 대통령 “수색·구조 총력 지시”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608261930001"
+        },
+        {
+          "title": "李, 네팔 홍수로 한국인 실종에 “가용한 모든 수단 동원” 지시",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20260826/134551601/1"
+        },
+        {
+          "title": "[속보] 네팔tj 발전소 짓다 홍수에... 한인 8명 연락두절·10명 고립",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/diplomacy-defense/2026/08/26/3WVN2BHWANHTXHG27K6UILC7NI/"
+        }
+      ]
+    },
+    {
+      "id": "사다리차",
+      "rank": 3,
+      "keyword": "사다리차",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '천안 아파트서 이삿짐 사다리차 넘어져…초등생 덮쳤다' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "천안 아파트서 이삿짐 사다리차 넘어져…초등생 덮쳤다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260826/134546495/2"
+        },
+        {
+          "title": "놀이터로 쓰러진 28층용 사다리차...7세 아이 깔려 '의식불명'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826131909556"
+        },
+        {
+          "title": "이삿짐 사다리차 쓰러져 ‘쿵’…등교 중 8살 어린이 중태",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8646809"
+        }
+      ]
+    },
+    {
+      "id": "키움-히어로즈",
       "rank": 4,
-      "keyword": "골프장",
+      "keyword": "키움 히어로즈",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '부산진해경제자유구역청 용원체육공원 파크골프장 시설 개선 완료' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '특명, 볼넷을 줄여라!…4개월 굶주린 키움 박준현의 2승 도전기' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "부산진해경제자유구역청 용원체육공원 파크골프장 시설 개선 완료",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260826114007474"
-        },
-        {
-          "title": "부산진해경자청, 용원체육공원 파크골프장 최종 준공",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260826500949"
-        },
-        {
-          "title": "부산진해경제자유구역청, 창원 용원동 18홀 파크골프장 준공",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3675467"
-        }
-      ]
-    },
-    {
-      "id": "종합격투기",
-      "rank": 5,
-      "keyword": "종합격투기",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '송영재·박보현, ROAD TO UFC 시즌5 4강 출전…UFC행 도전' (문화일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "송영재·박보현, ROAD TO UFC 시즌5 4강 출전…UFC행 도전",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11612291"
-        },
-        {
-          "title": "계약 노리는 두 명의 한국인",
-          "source": "UFC.com",
-          "url": "https://kr.ufc.com/news/gyeyag-nolineun-du-myeongui-hangugin"
-        },
-        {
-          "title": "[격투기] 박보현·송영재, 'UFC 데뷔 관문' ROAD TO UFC 시즌5 결승행 도전",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260826001151"
-        }
-      ]
-    },
-    {
-      "id": "반도체-메모리",
-      "rank": 6,
-      "keyword": "반도체 메모리",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '韓 D램 1㎏ 가치, 금 620g 맞먹어… “메모리 공급 부족 더 심해진다” - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "韓 D램 1㎏ 가치, 금 620g 맞먹어… “메모리 공급 부족 더 심해진다” - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/it-science/ict/2026/08/26/33MFXT4A6BEHBPT2SIRMV2WNTY/"
-        },
-        {
-          "title": "AI 덕에 권력 쥔 메모리…'사상 최초' 비메모리 매출 역전",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04880646645551256"
-        },
-        {
-          "title": "반도체 사이클 내년에 끝난다더니…놀라운 전망 나왔다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608252281i"
-        }
-      ]
-    },
-    {
-      "id": "전략사령부",
-      "rank": 7,
-      "keyword": "전략사령부",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '軍, '내란 혐의' 전략사령관 직무배제…조성현도 곧 인사조치' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "軍, '내란 혐의' 전략사령관 직무배제…조성현도 곧 인사조치",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260826090000504"
-        },
-        {
-          "title": "군, '내란 가담 혐의' 박재열 전략사령관 직무배제",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260826_0003763419"
-        },
-        {
-          "title": "'내란 가담 혐의' 전략사령관 직무배제‥조성현 대령은 인사조치",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6847334_36911.html"
-        }
-      ]
-    },
-    {
-      "id": "박준현",
-      "rank": 8,
-      "keyword": "박준현",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[사진]미소짓는 정현우, '위기는 병살로' - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[사진]미소짓는 정현우, '위기는 병살로' - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/08/26/G5RDKZDEGA2GMNDDMNSTEYTFMY/"
-        },
         {
           "title": "특명, 볼넷을 줄여라!…4개월 굶주린 키움 박준현의 2승 도전기",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20260825_0003762299"
         },
         {
-          "title": "박진만, 박준현 극도 경계 \"우리랑만 하면 완봉급으로 던져→박석민이 정보를 주나...\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/26/2026082615154125925"
+          "title": "[사진]만루포 허용 아쉬운 키움 정현우 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/08/26/MU2WIZRZMEYGKNBTMRTGMNDGGY/"
+        },
+        {
+          "title": "[스경X현장]박진만 감독 “박준현, 우리랑 할 때 완봉급으로 던지더라”···박준현 상대 전적 좋은 박승규 선발 ...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608261732013"
         }
       ]
     },
     {
-      "id": "공연",
-      "rank": 9,
-      "keyword": "공연",
-      "volumeLabel": "100+",
+      "id": "도지코인",
+      "rank": 5,
+      "keyword": "도지코인",
+      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'BTS 등 공연 티켓 2천여장 예매·되팔아 4억대 챙긴 30대 송치' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '도지코인 ETF '0달러 행진' 끊었다…0.1달러 돌파 시험대' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "BTS 등 공연 티켓 2천여장 예매·되팔아 4억대 챙긴 30대 송치",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260826140909601"
+          "title": "도지코인 ETF '0달러 행진' 끊었다…0.1달러 돌파 시험대",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260826n05636"
         },
         {
-          "title": "매크로로 아이돌 콘서트 표 싹쓸이···4억원 챙긴 암표상 검거",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608260904001"
+          "title": "밈코인 랠리 끝났나…차익 실현에 식어가는 도지코인·시바이누·페페",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/254912"
         },
         {
-          "title": "BTS 공연 등 암표로 4억여 원 벌어들인 30대 송치",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8646611"
+          "title": "오늘 Dog가 상승하는 이유는? 단기 상승세 속 저항선에 주목",
+          "source": "Traders Union",
+          "url": "https://tradersunion.com/ko/news/cryptocurrency-news/show/3112057-dog-jumps-16-17percent-to-usd0-001206/"
         }
       ]
     },
     {
-      "id": "메리츠화재",
-      "rank": 10,
-      "keyword": "메리츠화재",
+      "id": "상주소방서",
+      "rank": 6,
+      "keyword": "상주소방서",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘저 등산가방은!’···퇴근길에 종일 수색했던 실종자 행색 한눈에 알아본 소방관' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘저 등산가방은!’···퇴근길에 종일 수색했던 실종자 행색 한눈에 알아본 소방관",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826153707314"
+        },
+        {
+          "title": "수색근무 마치고 퇴근하던 소방관, 세심한 관심으로 실종자 발견",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260826056100053"
+        },
+        {
+          "title": "경북소방 “퇴근길 소방관이 실종자 발견”",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3427878"
+        }
+      ]
+    },
+    {
+      "id": "삼성-엑시노스",
+      "rank": 7,
+      "keyword": "삼성 엑시노스",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '퀄컴 \"새 오라이언 CPU, 모바일 최초 작동클록 5GHz 돌파\"' (지디넷코리아) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "퀄컴 \"새 오라이언 CPU, 모바일 최초 작동클록 5GHz 돌파\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260826090104"
+        },
+        {
+          "title": "메모리값 뛰고 퀄컴칩도 오른다…성능 높인 '엑시노스' 갤S27 구원투수 될까",
+          "source": "메트로신문",
+          "url": "https://www.metroseoul.co.kr/article/20260825500482"
+        },
+        {
+          "title": "AP 값만 7조4천억…\"퀄컴칩이냐 엑시노스냐\" 갤S27 '두뇌' 주인은? - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/08/24/2026082314052550721"
+        }
+      ]
+    },
+    {
+      "id": "공군사관학교",
+      "rank": 8,
+      "keyword": "공군사관학교",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '국방부 일일 정례 브리핑' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "국방부 일일 정례 브리핑",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156775418"
+        },
+        {
+          "title": "\"규백이 오라 그래!\" 고성…사관학교 공청회 '분위기 험악'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826203601481"
+        },
+        {
+          "title": "고성·욕설 난무한 '사관학교 통합' 공청회…4시간 내내 난장판(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260826138751504"
+        }
+      ]
+    },
+    {
+      "id": "김시아",
+      "rank": 9,
+      "keyword": "김시아",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "summary": "급상승 시점에 '[Y현장] 'D.P'이어 '부활남'으로 재회…구교환 \"신승호와 액션, 멜로처럼 연기\"' (YTN) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": []
+      "newsSignals": [
+        {
+          "title": "[Y현장] 'D.P'이어 '부활남'으로 재회…구교환 \"신승호와 액션, 멜로처럼 연기\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202608261235058646"
+        },
+        {
+          "title": "구교환 \"안무 배우듯 액션연기 소화…촬영 현장 즐기려고 노력\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260826091300005"
+        },
+        {
+          "title": "김시아 \"'부활남' 오디션 망한 줄…엄마에게 울면서 전화했다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/PYK155J6pE"
+        }
+      ]
+    },
+    {
+      "id": "한국여자프로농구",
+      "rank": 10,
+      "keyword": "한국여자프로농구",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '여자농구 우리은행, 드래프트 지명 못 받은 정혜윤 추가 선발' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "여자농구 우리은행, 드래프트 지명 못 받은 정혜윤 추가 선발",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260825125800007"
+        },
+        {
+          "title": "[비하인드] \"기사 보고 마음이 좋지 않았다\" 3명 지명하고도 1명 더 영입한 우리은행... 6년 만에 부활한 수련선수, 정혜윤이 주인공",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/5ndbsv8BCW"
+        },
+        {
+          "title": "WKBL 여자 프로농구",
+          "source": "ZUM 뉴스",
+          "url": "https://m.news.zum.com/photo/58118131/107389229?cm=news_photolist&r=7&thumb=1"
+        }
+      ]
     }
   ]
 }
