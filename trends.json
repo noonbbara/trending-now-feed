@@ -1,270 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-27T00:43:46.246Z",
+  "updatedAt": "2026-08-27T11:07:05.190Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "김시우",
+      "id": "농지",
       "rank": 1,
-      "keyword": "김시우",
+      "keyword": "농지",
+      "volumeLabel": "5000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '내일부터 농지에 신고만으로 화장실·주차장 설치 가능해진다' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "내일부터 농지에 신고만으로 화장실·주차장 설치 가능해진다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260827067900030"
+        },
+        {
+          "title": "농지 규제 대폭 완화… 농업 외 종합 소득금 상향",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/GUh7AFLxOi"
+        },
+        {
+          "title": "\"농지에 화장실 설치 쉬워진다\"…농식품부, 농지법 시행령 개정",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260827_0003764391"
+        }
+      ]
+    },
+    {
+      "id": "100일의-거짓말",
+      "rank": 2,
+      "keyword": "100일의 거짓말",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[방송소식] 김유정·박진영의 '100일의 거짓말' 10월 첫 방송' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[방송소식] 김유정·박진영의 '100일의 거짓말' 10월 첫 방송",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260827061300005"
+        },
+        {
+          "title": "tvN 또 큰 거 온다…최고 시청률 27.6% 흥행 주역, 이번엔 첩보물 '100일의 거짓말'로 귀환",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260827110155674"
+        },
+        {
+          "title": "'100일의 거짓말' 김유정→진선규, 1932년에서 시작되는 운명적 인연과 서사 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/27/2026082709387248019"
+        }
+      ]
+    },
+    {
+      "id": "손예진",
+      "rank": 3,
+      "keyword": "손예진",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '손예진X지창욱X나나, 조선 뒤흔들 유혹의 내기..'스캔들' 스틸 공개' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "손예진X지창욱X나나, 조선 뒤흔들 유혹의 내기..'스캔들' 스틸 공개",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260827174809556"
+        },
+        {
+          "title": "자택 침입자와 항소심 나나, 넷플릭스 ‘스캔들’ 배우로 다시 난다",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608271405003"
+        },
+        {
+          "title": "나나, 지창욱에 흔들린다…넷플릭스 ‘스캔들’로 사극 도전",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260827/134558730/1"
+        }
+      ]
+    },
+    {
+      "id": "양준혁",
+      "rank": 4,
+      "keyword": "양준혁",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''박현선♥︎' 양준혁의 드림하우스… 장모 모시고 찾은 ‘역대급 골프장 안의 집’' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'박현선♥︎' 양준혁의 드림하우스… 장모 모시고 찾은 ‘역대급 골프장 안의 집’",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/24/MJSGCN3DMU3GMOBQMEYWCMZTMU/"
+        },
+        {
+          "title": "양준혁, 포항서 1500평 규모 사업 구상…김요한 \"형수님은 아시냐\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824075155472"
+        },
+        {
+          "title": "200억 매출 포기한 김치 명인과 3개 층 사업 벌인 양준혁의 승부수",
+          "source": "인사이트",
+          "url": "https://www.insight.co.kr/news/569806"
+        }
+      ]
+    },
+    {
+      "id": "헌법",
+      "rank": 5,
+      "keyword": "헌법",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'AP통신 \"김시우, 우승 없이도 최고의 한해…퍼트 개선이 핵심\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[속보] 헌재 \"'재직중 병역기피자 해직의무' 병역법 조항 헌법불합치\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "AP통신 \"김시우, 우승 없이도 최고의 한해…퍼트 개선이 핵심\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260826081653295"
-        },
-        {
-          "title": "김시우·김주형, 총상금 553억원 ‘PGA 왕중왕전’ 출격",
-          "source": "경상일보",
-          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1065569"
-        },
-        {
-          "title": "김시우, 우승 없이도 ‘1000만 달러 사나이’ 눈앞… 투어 챔피언십서 시즌 첫 승 도전",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20260826/134548212/1"
-        }
-      ]
-    },
-    {
-      "id": "티웨이항공",
-      "rank": 2,
-      "keyword": "티웨이항공",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '티웨이항공, 상반기 국제선 이용객 12% 증가…평균 탑승률 90% By 알파경제 alphabiz' (Investing.com 한국어) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "티웨이항공, 상반기 국제선 이용객 12% 증가…평균 탑승률 90% By 알파경제 alphabiz",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2074683"
-        },
-        {
-          "title": "티웨이항공, 상반기 국제선 탑승률 90%…지방공항 발 노선이 실적 견인",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260825083810842"
-        },
-        {
-          "title": "[항공 뉴스브리핑] 티웨이항공, 상반기 국제선 탑승률 90%…중·장거리 고른 수요",
-          "source": "아시아타임즈",
-          "url": "https://www.asiatime.co.kr/article/20260825500402"
-        }
-      ]
-    },
-    {
-      "id": "국민임대주택",
-      "rank": 3,
-      "keyword": "국민임대주택",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "인시디어스",
-      "rank": 4,
-      "keyword": "인시디어스",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''인시디어스' 신작, 전편 안 봐도 된다 이것만 알면' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'인시디어스' 신작, 전편 안 봐도 된다 이것만 알면",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260825105245623"
-        },
-        {
-          "title": "귀신 있거나 없거나... 어떤 공포 영화가 좋아?",
-          "source": "OhmyNews",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003261527"
-        },
-        {
-          "title": "영화 '인시디어스: 그들이 넘어왔다' 쿠키 영상 몇개?",
-          "source": "금강일보",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1177065"
-        }
-      ]
-    },
-    {
-      "id": "구연우",
-      "rank": 5,
-      "keyword": "구연우",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '남자 테니스 권순우, US오픈 예선 1회전서 3세트 기권패' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "남자 테니스 권순우, US오픈 예선 1회전서 3세트 기권패",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260826081752320"
-        },
-        {
-          "title": "홍성찬·구연우, US오픈 테니스 예선 첫판 승전고(종합)",
+          "title": "[속보] 헌재 \"'재직중 병역기피자 해직의무' 병역법 조항 헌법불합치\"",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260826024951007"
+          "url": "https://www.yna.co.kr/view/AKR20260827126700004"
         },
         {
-          "title": "권순우, US오픈 예선 1회전서 부상 기권...강행군 속 몸 상태 악화",
-          "source": "테니스코리아",
-          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=53528"
+          "title": "[속보]헌재 “병역 기피자 해고법은 헌법불합치…당사자 소명 절차 보장해야”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608271444001"
+        },
+        {
+          "title": "헌법재판소 8월 심판사건 선고",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20260827_0021413288"
         }
       ]
     },
     {
-      "id": "홈플러스-창원점",
+      "id": "춘길",
       "rank": 6,
-      "keyword": "홈플러스 창원점",
+      "keyword": "춘길",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] 회생안 근거 ‘깜깜이’인데… 홈플은 “채권단 동의 사실상 확보”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '춘길 무대 도중 쓰러졌다, ‘천만기인쇼’ 첫방에 초유의 사태' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[단독] 회생안 근거 ‘깜깜이’인데… 홈플은 “채권단 동의 사실상 확보”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260827060437763"
+          "title": "춘길 무대 도중 쓰러졌다, ‘천만기인쇼’ 첫방에 초유의 사태",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260827/134555757/1"
         },
         {
-          "title": "정무위, 홈플러스 정상화 촉구 결의안 여야 합의 채택",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2618317"
+          "title": "춘길, '천만기인쇼' 촬영하다 돌연 쓰러져…녹화 일시 중단",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260827_0003764672"
         },
         {
-          "title": "홈플러스 입점 소상공인 “허울뿐인 금융지원, 실질 도움 안돼”",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20260826024516799"
+          "title": "'스타킹' 넘는 대표작 될까…강호동 '천만기인쇼' 정규 편성에 \"어떤 분들 만날지 설렌다\" - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/08/26/MIZWKNJSGI4DQZDBGJTDQZJWG4/"
         }
       ]
     },
     {
-      "id": "시진핑",
+      "id": "성영탁",
       "rank": 7,
-      "keyword": "시진핑",
+      "keyword": "성영탁",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '시진핑에겐 ‘발작 버튼’이 있다…흔들리면 대만 침공도 포기한다는데' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“그냥 고기 구워 먹고…갈매기살 먹었어요” KIA 성영탁 난조의 이유가 밝혀졌다, 필승조 진입 시동 ‘반전의 0000000’[M…' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "시진핑에겐 ‘발작 버튼’이 있다…흔들리면 대만 침공도 포기한다는데",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12137223"
+          "title": "“그냥 고기 구워 먹고…갈매기살 먹었어요” KIA 성영탁 난조의 이유가 밝혀졌다, 필승조 진입 시동 ‘반전의 0000000’[MD광주]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/VSNKqA0HmO"
         },
         {
-          "title": "대만인 68.9% \"현상 유지·중국과 통일 거부\"",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260821095457e5y"
+          "title": "[사진]역투하는 성영탁 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/26/202608262123770088O"
         },
         {
-          "title": "대만은 중국과 싸울 것인가? 대만인들에게 물었다",
-          "source": "https://www.pado.kr/",
-          "url": "https://www.pado.kr/article/2026082114368886389"
+          "title": "[스경x인터뷰] KIA 불펜 막내, 언터처블 성영탁 돌아왔다…“지금은 99%, 대표팀보다 순위 싸움이 먼저”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608261529003"
         }
       ]
     },
     {
-      "id": "뉴스a",
+      "id": "이선민",
       "rank": 8,
-      "keyword": "뉴스a",
+      "keyword": "이선민",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[영상] 대세 개그맨 '영우 삼촌', 리센느 원이 운전연수 다시 한다면?' (OhmyNews) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[영상] 대세 개그맨 '영우 삼촌', 리센느 원이 운전연수 다시 한다면?",
+          "source": "OhmyNews",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003261734"
+        },
+        {
+          "title": "유영우, 리센느 'LOVE ATTACK' 흥행 지분 주장 \"대표가 큰절 올려\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/27/2026082703313857707"
+        },
+        {
+          "title": "유영우, ‘복부대공 챌린지’부터 ‘정준힐’ 모창까지..'라스' 첫 출격 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/27/GJTDGNRQMNSTKZRSMZQWENTCMY/"
+        }
+      ]
+    },
+    {
+      "id": "시장",
+      "rank": 9,
+      "keyword": "시장",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '전공노 \"경기도 하반기 인사 연기, 직원 95%가 반대\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "전공노 \"경기도 하반기 인사 연기, 직원 95%가 반대\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260827174453398"
+        },
+        {
+          "title": "“일방적 인사 보류에 사기 꺾여”…경기도청 직원 98.5% ‘신뢰 훼손’",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260827580462"
+        },
+        {
+          "title": "신상진 성남시장, 경기도에 '부시장 인사' 촉구 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/08/27/2026082716504953815"
+        }
+      ]
+    },
+    {
+      "id": "박위상태",
+      "rank": 10,
+      "keyword": "박위상태",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[속보]대법, ‘서부지법 폭동사태’ 가담자에게 11억 원대 손배소 제기' (채널A) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘공익요원 과실 CCTV 공개 물의’ 유튜버 박위, 서울시 홍보대사 물러난다' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[속보]대법, ‘서부지법 폭동사태’ 가담자에게 11억 원대 손배소 제기",
-          "source": "채널A",
-          "url": "https://ichannela.com/news/detail/000000547114.do"
+          "title": "‘공익요원 과실 CCTV 공개 물의’ 유튜버 박위, 서울시 홍보대사 물러난다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608271730001"
         },
         {
-          "title": "8월 25일 뉴스A CITY LIVE 클로징",
-          "source": "채널A",
-          "url": "https://ichannela.com/news/detail/000000546988.do"
+          "title": "휠체어가 넘어진 것이 아니라 철도 안전체계가 넘어졌다",
+          "source": "에이블뉴스",
+          "url": "https://www.ablenews.co.kr/news/articleView.html?idxno=232910"
         },
         {
-          "title": "8월 25일 뉴스A CITY LIVE 오프닝",
-          "source": "채널A",
-          "url": "https://ichannela.com/news/detail/000000546976.do"
-        }
-      ]
-    },
-    {
-      "id": "발렌시아-cf",
-      "rank": 9,
-      "keyword": "발렌시아 cf",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Kosner joins Valencia CF Women as Official Premium Plus Partner for the…' (Valencia CF) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Kosner joins Valencia CF Women as Official Premium Plus Partner for the next two seasons",
-          "source": "Valencia CF",
-          "url": "https://www.valenciacf.com/kosner-joins-valencia-cf-women-as-official-premium-plus-partner-for-the-next-two-seasons"
-        },
-        {
-          "title": "G. Rodríguez: “We always want to win, but every point is very important”",
-          "source": "Valencia CF",
-          "url": "https://www.valenciacf.com/g-rodriguez-we-always-want-to-win-but-every-point-is-very-important"
-        },
-        {
-          "title": "Valencia vs. Celta Vigo - Game Highlights",
-          "source": "ESPN",
-          "url": "https://www.espn.com/video/clip/_/id/49693772/valencia-vs-celta-vigo-game-highlights"
-        }
-      ]
-    },
-    {
-      "id": "일기예보",
-      "rank": 10,
-      "keyword": "일기예보",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '2026년 8월 27일 날씨 예보: 북부 지역에 국지적으로 집중호우가 예상되며, 중부 지역은 폭염이 예상됩니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "2026년 8월 27일 날씨 예보: 북부 지역에 국지적으로 집중호우가 예상되며, 중부 지역은 폭염이 예상됩니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/du-bao-thoi-tiet-27-8-2026-mien-bac-mua-to-cuc-bo-trung-bo-nang-nong-manh"
-        },
-        {
-          "title": "오늘 뇌우 지역 예보, 일부 지역 80mm 이상의 폭우",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/moi-truong/du-bao-khu-vuc-mua-dong-hom-nay-co-noi-mua-to-tren-80mm-1756533.ldo"
-        },
-        {
-          "title": "베트남 북부 지역에는 산발적인 소나기와 천둥번개가 예상됩니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/bac-bo-co-mua-rao-va-dong-rai-rac"
+          "title": "고영욱, 박위 저격…\"나도 교도소 강연이나 해볼까\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260827_0003765961"
         }
       ]
     }
