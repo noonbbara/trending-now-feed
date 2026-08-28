@@ -1,270 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-27T21:07:39.293Z",
+  "updatedAt": "2026-08-28T05:35:12.211Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "기초노령연금",
+      "id": "환율",
       "rank": 1,
-      "keyword": "기초노령연금",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
+      "keyword": "환율",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "summary": "급상승 시점에 '환율 떨어지자 달러 쟁였다···외화예금 첫 1200억달러대' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": []
+      "newsSignals": [
+        {
+          "title": "환율 떨어지자 달러 쟁였다···외화예금 첫 1200억달러대",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260828120128232"
+        },
+        {
+          "title": "국내 달러화예금 처음으로 1000억달러 넘었다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608281403001"
+        },
+        {
+          "title": "달러예금 한달새 15조원 급증…SK하닉 ADR 자금 유입도 한몫",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20260828/134562411/1"
+        }
+      ]
     },
     {
-      "id": "바르셀로나-대-아틀레틱",
+      "id": "황재균",
       "rank": 2,
-      "keyword": "바르셀로나 대 아틀레틱",
+      "keyword": "황재균",
       "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''손흥민이 인생 최고 레프트윙'…바르셀로나 대승 이끌었다 '성공적인 라리가 데뷔전'' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'손흥민이 인생 최고 레프트윙'…바르셀로나 대승 이끌었다 '성공적인 라리가 데뷔전'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824193151863"
-        },
-        {
-          "title": "\"우승하려고 왔다\" 이강인 도전, 최대 장애물 등장...첫 경기부터 '골골골골골' 폭발한 바르셀로나, 엘체전 압도적 5-0 대승",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/football/2026-08-24/202608240100139340008925"
-        },
-        {
-          "title": "“훌리안? 할 말 없다” 바르사 플릭 감독, 레반도프스키 공백에도 2008년생 공격수 신뢰… ‘초신성 9번’ 탄생 예고?→ 바르셀로나, 바이아웃 10배 재계약 추진",
-          "source": "베스트일레븐",
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=311446"
-        }
-      ]
-    },
-    {
-      "id": "gta6",
-      "rank": 3,
-      "keyword": "gta6",
-      "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'GTAVI: An exclusive deep dive into the video game of the decade' (Dazed) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘18kg 감량’ 황재균 디이어트 성형 미쳤다 [화보]' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "GTAVI: An exclusive deep dive into the video game of the decade",
-          "source": "Dazed",
-          "url": "https://www.dazeddigital.com/life-culture/article/70859/1/gta-6-grand-theft-auto-vi-rockstar-exclusive-deep-dive-game-unparalleled-world"
-        },
-        {
-          "title": "The Grand Ambitions of Grand Theft Auto VI",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/27/arts/grand-theft-auto-vi-trailer-extended-look-rockstar.html"
-        },
-        {
-          "title": "We Saw GTA 6 at Rockstar HQ — Here Are 69 Gameplay Details You Haven’t Seen",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/gta-6-new-gameplay-details"
-        }
-      ]
-    },
-    {
-      "id": "박미선",
-      "rank": 4,
-      "keyword": "박미선",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '박미선, 선우용여 생일 맞아 50만원 쾌척..\"친딸들도 이렇게 안 해\" ('임파서블')' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "박미선, 선우용여 생일 맞아 50만원 쾌척..\"친딸들도 이렇게 안 해\" ('임파서블')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/GqAsyj3GW7"
-        },
-        {
-          "title": "82세 선우용여의 남편 고르는 법…“대기업보다 막일도 해본 남자” [SD톡톡]",
+          "title": "‘18kg 감량’ 황재균 디이어트 성형 미쳤다 [화보]",
           "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260827/134560624/1"
+          "url": "https://sports.donga.com/ent/article/all/20260828/134561403/1"
         },
         {
-          "title": "\"옷 50만원인데 괜찮겠어?\" 선우용여 걱정에도…박미선, 지갑 열었다 '플렉스' (미선임파서블)",
+          "title": "이 몸 만들려고 '추노' 되었나? 황재균, \"노이즈 아님\" 놀라운 피지컬의 바디프로필 공개",
           "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260827n34362?mid=e01&list=recent&cpcd="
+          "url": "https://news.nate.com/view/20260828n13722"
+        },
+        {
+          "title": "18kg 뺀 황재균, 체지방 3.9% 근육질 몸…화려한 인생 2막 시작 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/28/MNRWGY3CHA4GGNBXMQ2DEZBSGA/"
         }
       ]
     },
     {
-      "id": "uefa",
-      "rank": 5,
-      "keyword": "uefa",
-      "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
+      "id": "오마이뉴스",
+      "rank": 3,
+      "keyword": "오마이뉴스",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Beşiktaş UEFA Avrupa Ligi Play-Off Turu İkinci Maçında' (https://beyazbelgehaber.com/) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"저게 피인가?\"… 들길에서 깨달은 아버지의 농심' (OhmyNews) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Beşiktaş UEFA Avrupa Ligi Play-Off Turu İkinci Maçında",
-          "source": "https://beyazbelgehaber.com/",
-          "url": "https://www.beyazbelgehaber.com/haber/besiktas-uefa-avrupa-ligi-play-off-turu-i-kinci-macinda"
+          "title": "\"저게 피인가?\"… 들길에서 깨달은 아버지의 농심",
+          "source": "OhmyNews",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003262528"
         },
         {
-          "title": "Beşiktaş ve Trabzonspor üzdü! Ülke puanında son durum…",
-          "source": "Ajansspor",
-          "url": "https://ajansspor.com/haber/besiktas-ve-trabzonspor-uzdu-ulke-puaninda-son-durum-733554"
+          "title": "가을 준비하는 골짜기, 아침부터 분주하다",
+          "source": "OhmyNews",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003262502"
         },
         {
-          "title": "Zeljko Sopic: \"Beşiktaş ile aramızda çok büyük bir fark var\"",
-          "source": "beinsports.com.tr",
-          "url": "https://www.beinsports.com.tr/haber/zeljko-sopic-besiktas-ile-aramizda-cok-buyuk-bir-fark-var"
+          "title": "[포토뉴스]가을 향해 여물어갑니다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608262111005"
         }
       ]
     },
     {
-      "id": "barcelona-vs-athletic",
+      "id": "한진칼",
+      "rank": 4,
+      "keyword": "한진칼",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '박상진이 쥔 한진칼 캐스팅보트…긴장한 조원태 vs 호반' (딜사이트) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "박상진이 쥔 한진칼 캐스팅보트…긴장한 조원태 vs 호반",
+          "source": "딜사이트",
+          "url": "https://dealsite.co.kr/articles/167722"
+        },
+        {
+          "title": "민형배 \"통합시에 삼성·SK 유치\"…시민공유자본·생애소득 제안",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1021059"
+        },
+        {
+          "title": "아시아나항공 주가 상승 중",
+          "source": "아시아뉴스통신",
+          "url": "https://www.anewsa.com/detail.php?number=3193061"
+        }
+      ]
+    },
+    {
+      "id": "기아-쏘렌토",
+      "rank": 5,
+      "keyword": "기아 쏘렌토",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[시승기] \"블랙으로 완성된 카리스마, 거침없는 효율\"...기아 '쏘렌토 하이브리드 X-Line'' (글로벌이코노믹) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[시승기] \"블랙으로 완성된 카리스마, 거침없는 효율\"...기아 '쏘렌토 하이브리드 X-Line'",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Industry/2026/08/20260824161330224431a5c2dd38_1"
+        },
+        {
+          "title": "\"연비 좋은 차는 이거지\"... 리터당 21.1km, ‘2천만 원대’로 사는 하이브리드 세단",
+          "source": "토픽트리",
+          "url": "https://topictree.co.kr/automobiles/news/hyundai-elantra-hybrid-used-buying-guide/"
+        },
+        {
+          "title": "아빠들의 원픽 쏘렌토…감가 방어력은 기본, 유지비 뽑아보니 ‘이래서 사는구나’",
+          "source": "뉴스와",
+          "url": "https://www.news-wa.com/article/automobiles/new-car/2026/08/27/20260827500116"
+        }
+      ]
+    },
+    {
+      "id": "소유진",
       "rank": 6,
-      "keyword": "barcelona vs athletic",
+      "keyword": "소유진",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''백종원♥' 소유진, 치마가 어디까지 찢어진 거야..이러다 엉덩이 보이겠네 [순간포착]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'백종원♥' 소유진, 치마가 어디까지 찢어진 거야..이러다 엉덩이 보이겠네 [순간포착]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qdrWo5J6vh"
+        },
+        {
+          "title": "'백종원♥' 소유진, 이다해 감탄하게 만든 미모···오버립까지 소화 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/28/G5RDMM3BMFQTEYTCGQ3WCODBMM/"
+        },
+        {
+          "title": "\"백종원 눈 감아\"…소유진, 애 셋맘의 파격 의상 [스타이슈]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260828n04559?mid=n1101"
+        }
+      ]
+    },
+    {
+      "id": "비밀이야",
+      "rank": 7,
+      "keyword": "비밀이야",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Barcelona - Athletic, en directo | El partido de la primera jornada de …' (EL PAÍS) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '강레오 저격?…\"셰프 맞는지도 모르겠다\" 유명 미식 유튜버 발언 논란' (네이트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Barcelona - Athletic, en directo | El partido de la primera jornada de La Liga, en vivo",
-          "source": "EL PAÍS",
-          "url": "https://elpais.com/deportes/futbol/2026-08-27/barcelona-athletic-en-directo-el-partido-de-la-primera-jornada-de-la-liga-en-vivo.html"
+          "title": "강레오 저격?…\"셰프 맞는지도 모르겠다\" 유명 미식 유튜버 발언 논란",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260828n06473"
         },
         {
-          "title": "VIDEO: Raphinha dejó en el camino al arquero y puso en ventaja a Barcelona ante Athletic Club",
-          "source": "dsports",
-          "url": "https://www.directvsports.com/futbol/video-raphinha-dejo-en-el-camino-al-arquero-y-puso-en-ventaja-a-barcelona-ante-athletic-club-20260827-0078.html"
-        },
-        {
-          "title": "Fuera de juego de Lamine Yamal, gol anulado a Pedri",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/es/noticias/fuera-de-juego-de-lamine-yamal-gol-anulado-a-pedri-43350933"
-        }
-      ]
-    },
-    {
-      "id": "양민혁",
-      "rank": 7,
-      "keyword": "양민혁",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''토트넘 떠나자마자 이런 시련이'... 양민혁, 새 소속팀 개막 3연패+골득실 -9→충격의 리그 최하위' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'토트넘 떠나자마자 이런 시련이'... 양민혁, 새 소속팀 개막 3연패+골득실 -9→충격의 리그 최하위",
+          "title": "비밀이야, 강레오 겨냥했나… 미쉐린 발언에 갑론을박",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260827122246696"
+          "url": "https://v.daum.net/v/20260828105440812"
         },
         {
-          "title": "“솔직히 쉽지 않았어” 계속된 임대 생활에 몸도 마음도 지쳤으나…포기 않는 양민혁 “토트넘서 주전 도약해 세계 최고의 무대 EPL서 뛰는 것이 제 꿈”",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%89%E1%85%A9%E1%86%AF%E1%84%8C%E1%85%B5%E1%86%A8%E1%84%92%E1%85%B5-%E1%84%89%E1%85%B1%E1%86%B8%E1%84%8C%E1%85%B5-%E1%84%8B%E1%85%A1%E1%86%AD%E1%84%8B%E1%85%A1%E1%86%BB%E1%84%8B%E1%85%A5-%E1%84%80%E1%85%A8%E1%84%89%E1%85%A9%E1%86%A8%E1%84%83%E1%85%AC%E1%86%AB-%E1%84%8B%E1%85%B5%E1%86%B7%E1%84%83%E1%85%A2-%E1%84%89%E1%85%A2%E1%86%BC%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%A6-%E1%84%86%E1%85%A9%E1%86%B7%E1%84%83%E1%85%A9-%E1%84%86%E1%85%A1%E1%84%8B%E1%85%B3%E1%86%B7%E1%84%83%E1%85%A9-%E1%84%8C%E1%85%B5%E1%84%8E%E1%85%A7%E1%86%BB%E1%84%8B%E1%85%B3%E1%84%82%E1%85%A1--%E1%84%91%E1%85%A9%E1%84%80%E1%85%B5-%E1%84%8B%E1%85%A1%E1%86%AD%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%86%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A7%E1%86%A8-%E1%84%90%E1%85%A9%E1%84%90%E1%85%B3%E1%84%82%E1%85%A5%E1%86%B7%E1%84%89%E1%85%A5-%E1%84%8C%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%AB-%E1%84%83%E1%85%A9%E1%84%8B%E1%85%A3%E1%86%A8%E1%84%92%E1%85%A2-%E1%84%89%E1%85%A6%E1%84%80%E1%85%A8-%E1%84%8E%E1%85%AC%E1%84%80%E1%85%A9%E1%84%8B%E1%85%B4-%E1%84%86%E1%85%AE%E1%84%83%E1%85%A2-epl%E1%84%89%E1%85%A5-%E1%84%84%E1%85%B1%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%80%E1%85%A5%E1%86%BA%E1%84%8B%E1%85%B5-%E1%84%8C%E1%85%A6-%E1%84%81%E1%85%AE%E1%86%B7/blt6d14bd48b8e62f2e"
-        },
-        {
-          "title": "벨기에 언론과 인터뷰서 양민혁이 공개한 목표…“또래 동료들이 벨기에행 추천했어…손흥민처럼 EPL 안착하는 그날을 바라본다”",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20260825/134532867/1"
+          "title": "62만 맛집 유튜버, 강레오 저격했나…\"식당도 없는데 셰프 맞나\" [엑's 이슈]",
+          "source": "엑스포츠뉴스",
+          "url": "https://www.xportsnews.com/article/2189105"
         }
       ]
     },
     {
-      "id": "트위치",
+      "id": "고소",
       "rank": 8,
-      "keyword": "트위치",
+      "keyword": "고소",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '유혜원, 스폰서 루머 유포 '하시' 김지민 고소 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "유혜원, 스폰서 루머 유포 '하시' 김지민 고소 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/08/28/2026082805220597259"
+        },
+        {
+          "title": "'하시4' 김지민, 망신살 자초…스폰설 올렸다가 '고소 엔딩' [MD이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/xC471mB3rG"
+        },
+        {
+          "title": "유혜원, '유명 가수 스폰서설' 게시물에 칼 빼들었다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026082777797"
+        }
+      ]
+    },
+    {
+      "id": "이언주",
+      "rank": 9,
+      "keyword": "이언주",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '트위치·아마존, 스트리머 콘텐츠로 AI 학습했다며 피소' (디지털투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '이언주 \"반도체는 전략 산업, 美 투자 요구 응하기 쉽지 않다\"[팩트앤뷰]' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "트위치·아마존, 스트리머 콘텐츠로 AI 학습했다며 피소",
-          "source": "디지털투데이",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695156"
+          "title": "이언주 \"반도체는 전략 산업, 美 투자 요구 응하기 쉽지 않다\"[팩트앤뷰]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/politics/general-politics/6271211"
         },
         {
-          "title": "트위치 '사용자 동의 없이 콘텐츠를 AI 훈련에 사용' 혐의 피소",
-          "source": "디시인사이드",
-          "url": "https://m.dcinside.com/board/gamemeca/24974"
+          "title": "미국, 호남 반도체 언급하며 \"현지에 공장 지어달라\" 압박",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/P5LG0A0HF0"
         },
         {
-          "title": "Twitch 스트리머, 아마존을 고소, 콘텐츠가 허가 없이 AI 훈련에 사용된다고 주장",
-          "source": "VOI.ID",
-          "url": "https://voi.id/kr/teknologi/591228"
+          "title": "한민수 \"반도체는 정쟁 소재 아냐…국힘 '美 청구서' 운운, 협상 도움 안돼\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260826_0003763227"
         }
       ]
     },
     {
-      "id": "champions-league",
-      "rank": 9,
-      "keyword": "champions league",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Champions League, Europa League and Conference League league phase draw…' (UEFA.com) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Champions League, Europa League and Conference League league phase draws: All you need to know",
-          "source": "UEFA.com",
-          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-216eb10b789e-0768c05cf31b-1000--champions-league-europa-league-and-conference-league-leag/"
-        },
-        {
-          "title": "36 Teams Confirmed for Champions League Group Stage",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/08/27/HBAKLZFKGNATZFF7Q7UTBPLSSY/"
-        },
-        {
-          "title": "Man Utd's Champions League draw in full with Bayern Munich and Atletico showdowns",
-          "source": "Daily Express",
-          "url": "https://www.express.co.uk/sport/football/2243071/Man-Utd-Champions-League-draw-in-full"
-        }
-      ]
-    },
-    {
-      "id": "peter-cullen",
+      "id": "ok저축은행",
       "rank": 10,
-      "keyword": "peter cullen",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
+      "keyword": "ok저축은행",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Peter Cullen, Voice of Optimus Prime in ‘Transformers,’ Dies at 85' (The Hollywood Reporter) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '중앙회 전산망 떠나는 OK저축은행…여신 이어 수신 시스템 자체 구축 추진' (디지털데일리) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Peter Cullen, Voice of Optimus Prime in ‘Transformers,’ Dies at 85",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/peter-cullen-optimus-prime-transformers-eeyore-1236683075/"
+          "title": "중앙회 전산망 떠나는 OK저축은행…여신 이어 수신 시스템 자체 구축 추진",
+          "source": "디지털데일리",
+          "url": "https://www.ddaily.co.kr/page/view/2026082711190568943"
         },
         {
-          "title": "'Transformers' Voice Actor Peter Cullen Dead at 85",
-          "source": "TMZ",
-          "url": "https://www.tmz.com/2026/08/27/peter-cullen-dead/"
+          "title": "OK금융, 아시안게임 국가대표 선수·지도자에 1억 기부 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/finance/2026/08/28/2026082809375997014"
         },
         {
-          "title": "Peter Cullen's best roles as we mourn the legendary voice actor's death",
-          "source": "USA Today",
-          "url": "https://ftw.usatoday.com/story/entertainment/pop-culture/2026/08/27/peter-cullen-best-roles-legendary-voice-actor-death-optimus-prime-eeyore/91489759007/"
+          "title": "CJ제일제당, 국가대표 ‘밥심’부터 협력사 안전까지…상생경영 넓힌다",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260828500146"
         }
       ]
     }
