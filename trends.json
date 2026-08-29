@@ -1,286 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-29T21:05:52.042Z",
+  "updatedAt": "2026-08-29T23:33:35.782Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "세비야-대-아틀레티코",
+      "id": "날씨",
       "rank": 1,
-      "keyword": "세비야 대 아틀레티코",
-      "volumeLabel": "10000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이강인, 라리가 1호 도움…세비야전 바에나 선제골 어시스트' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "이강인, 라리가 1호 도움…세비야전 바에나 선제골 어시스트",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260830_0003768068"
-        },
-        {
-          "title": "이강인 2경기 연속 선발 출격! 아틀레티코, 세비야 원정도 4-4-2 가동",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/sports/12139588"
-        },
-        {
-          "title": "'ATM 공격수는 부족하지만 미드필더는 과잉'…시메오네 고민에도 이강인은 선발 출격 예측",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260829223150718"
-        }
-      ]
-    },
-    {
-      "id": "혈압",
-      "rank": 2,
-      "keyword": "혈압",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"혈압 낮추려면 매일 먹어라\"…영양 전문가들이 추천한 '이 과일'' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"혈압 낮추려면 매일 먹어라\"…영양 전문가들이 추천한 '이 과일'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/tZGqFBEoNQ"
-        },
-        {
-          "title": "“혈압 낮추려면 먹어라”… 영양 전문가 네 명이 공통으로 꼽은 ‘과일’, 뭘까?",
-          "source": "헬스조선",
-          "url": "https://health.chosun.com/site/data/html_dir/2026/08/28/2026082801282.html"
-        },
-        {
-          "title": "“혈압 낮추고 싶다면 매일 먹어라”…영양 전문가들이 동시에 꼽은 ‘이 과일’",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20084707"
-        }
-      ]
-    },
-    {
-      "id": "한반도",
-      "rank": 3,
-      "keyword": "한반도",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '태풍 '사우델' 중국 남동부 상륙...9개 성·자치구에 폭우' (YTN 사이언스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "태풍 '사우델' 중국 남동부 상륙...9개 성·자치구에 폭우",
-          "source": "YTN 사이언스",
-          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202608281601398226"
-        },
-        {
-          "title": "제주해경청장, ‘사우델’ 북상 대비 성산항 현장점검",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=842200"
-        },
-        {
-          "title": "태풍 '사우델' 中저장성 두 차례 상륙…9개 성급 지역 폭우(종합)",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260828_0003766986"
-        }
-      ]
-    },
-    {
-      "id": "오마르-마르무시",
-      "rank": 4,
-      "keyword": "오마르 마르무시",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 ''손흥민 떠나자 공격진 초토화' 토트넘, 사비우-마르무시 영입에도 만족 NO…은디아예도 관심 \"히샬리송과 스왑딜 검토\"' (네이트) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'손흥민 떠나자 공격진 초토화' 토트넘, 사비우-마르무시 영입에도 만족 NO…은디아예도 관심 \"히샬리송과 스왑딜 검토\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260830n00639"
-        },
-        {
-          "title": "[오피셜] ‘1128억!’ 한국에서 ‘이강인 데뷔전’ 망가뜨린 맨시티 FW, 손흥민 친정 토트넘 합류",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608280303003"
-        },
-        {
-          "title": "'토트넘이 미쳤어요!' 英 BBC 확인, '7000억' 역대급 투자 확정...\"마르무시 영입 합의, 몸값 1127억\" 메디컬만 남았다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260827222508925?f=p"
-        }
-      ]
-    },
-    {
-      "id": "spurs-vs-newcastle",
-      "rank": 5,
-      "keyword": "spurs vs newcastle",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 'Tottenham 0-2 Newcastle: First Premier League win for boss Matthias Jai…' (BBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Tottenham 0-2 Newcastle: First Premier League win for boss Matthias Jaissle",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/crjw5316vlzgt"
-        },
-        {
-          "title": "Tottenham suffer first-ever consecutive scoreless opening losses after 0-2 defeat to Newcastle - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/08/30/2I4QFLOQYREH7L4X3H4D5AAA4Q/"
-        },
-        {
-          "title": "Tottenham 0-2 Newcastle highlights",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13567666/spurs-vs-newcastle-live-premier-league-score-updates-news-prediction-lineups-and-how-to-watch-or-stream"
-        }
-      ]
-    },
-    {
-      "id": "유벤투스-대-파르마",
-      "rank": 6,
-      "keyword": "유벤투스 대 파르마",
-      "volumeLabel": "200+",
+      "keyword": "날씨",
+      "volumeLabel": "200000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '유벤투스 vs 파르마 프리뷰: 우승 경쟁의 뜨거운 승부' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[오늘의 날씨] 경기(30일, 일)…흐리고 가끔 비' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "유벤투스 vs 파르마 프리뷰: 우승 경쟁의 뜨거운 승부",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-juventus-vs-parma-diem-nong-cuoc-dua-top-dau"
+          "title": "[오늘의 날씨] 경기(30일, 일)…흐리고 가끔 비",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/gyeonggi/6273557"
         },
         {
-          "title": "세리에 A 유벤투스 대 파르마 축구 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-juventus-vs-parma-tai-serie-a-1758513.ldo"
+          "title": "일요일 인천, 낮 최고 28도…10~60㎜ 비 예보",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260829_0003767999"
         },
         {
-          "title": "유벤투스, 프로시노네전 킥오프 전 단체 사진 포착",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3673393"
-        }
-      ]
-    },
-    {
-      "id": "pl",
-      "rank": 7,
-      "keyword": "pl",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Karol i Marta Nawroccy w pasujących do siebie stylówkach przechadzają s…' (Pudelek.pl) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Karol i Marta Nawroccy w pasujących do siebie stylówkach przechadzają się po plaży w Juracie, TRZYMAJĄC SIĘ ZA RĘCE (ZDJĘCIA)",
-          "source": "Pudelek.pl",
-          "url": "https://www.pudelek.pl/karol-i-marta-nawroccy-w-pasujacych-do-siebie-stylowkach-przechadzaja-sie-po-plazy-w-juracie-trzymajac-sie-za-rece-zdjecia-7323735906932768g"
-        },
-        {
-          "title": "Stylistka spojrzała na Nawrockich w Juracie i już wiedziała. \"Każde było na innej imprezie\"",
-          "source": "Plotek.pl",
-          "url": "https://www.plotek.pl/plotek/7,111483,32993822,stylistka-spojrzala-na-nawrockich-w-juracie-i-juz-wiedziala.html"
-        },
-        {
-          "title": "Jak minął dzień: Młodzi z wizytą u prezydenta w Juracie, Tusk ostrzega przed rosyjską prowokacją, Prezes PKOL w areszcie",
-          "source": "Newsmax Polska",
-          "url": "https://newsmaxpolska.pl/kraj/aktualnosci/67101/jak-minal-dzien-najwazniejsze-informacje-z-29-sierpnia-2026/news"
-        }
-      ]
-    },
-    {
-      "id": "해외축구",
-      "rank": 8,
-      "keyword": "해외축구",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '등 전체를 덮은 '사무라이 문신'…日 문화 푹 빠진 '이강인 전 동료' 바르콜라' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "등 전체를 덮은 '사무라이 문신'…日 문화 푹 빠진 '이강인 전 동료' 바르콜라",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260829225237843"
-        },
-        {
-          "title": "이강인 떠나고 나서야 영향력 인정했던 PSG, 이젠 성골 유스도 판다…음바예 빌라행 임박→HERE WE GO!",
+          "title": "토요일 경기북부, '최대 40㎜' 비 온다…\"체감 33도\" 폭염",
           "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260829n09570?isq=8655&mid=s0401"
-        },
-        {
-          "title": "리버풀, 바르콜라 영입 합의 … EPL 역대 2위 이적료 '2250억'",
-          "source": "뉴데일리",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/08/28/2026082800087.html"
+          "url": "https://news.nate.com/view/20260829n01513"
         }
       ]
     },
     {
-      "id": "fotmob",
-      "rank": 9,
-      "keyword": "fotmob",
-      "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'Milan, Amorim need reinforcements: Leao’s departure must not be underes…' (Goal.com) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Milan, Amorim need reinforcements: Leao’s departure must not be underestimated",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en/lists/milan-amorim-need-reinforcements-leao-s-departure-must-not-be-underestimated/blt1a076a329f1ac78e"
-        },
-        {
-          "title": "Licensable video: Rafael Leao arrives in Istanbul for Galatasaray transfer talks",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/rafael-leao-arrives-in-istanbul-for-galatasaray-transfer-talks/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XQU5BQ0FBVklERU8yMDI2MDgyOTQyMzM1MjU0"
-        },
-        {
-          "title": "Di Stefano: \"Leao left a lot behind at Milanello\"",
-          "source": "Milanreports.com",
-          "url": "https://milanreports.com/2026/08/29/leao-left-a-lot-behind-at-milanello/"
-        }
-      ]
-    },
-    {
-      "id": "헐크",
-      "rank": 10,
-      "keyword": "헐크",
-      "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
+      "id": "thời-tiết",
+      "rank": 2,
+      "keyword": "thời tiết",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[헐크 이만수의 힘] \"만수야\", 귓가에 울리는 따뜻한 음성과 남은 다짐' (내외경제TV) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Bão Saudel có thể mạnh trở lại khi vào Biển Đông' (Báo Nông nghiệp và Môi trường) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[헐크 이만수의 힘] \"만수야\", 귓가에 울리는 따뜻한 음성과 남은 다짐",
-          "source": "내외경제TV",
-          "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4024140"
+          "title": "Bão Saudel có thể mạnh trở lại khi vào Biển Đông",
+          "source": "Báo Nông nghiệp và Môi trường",
+          "url": "https://nongnghiepmoitruong.vn/bao-saudel-co-the-manh-tro-lai-khi-vao-bien-dong-d828745.html"
         },
         {
-          "title": "[헐크 이만수의 힘] 20년의 동행, 숲에서 나누는 변함없는 사랑과 위로",
-          "source": "내외경제TV",
-          "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4024139"
+          "title": "Thời tiết hôm nay (30-8): Nhiều khu vực có mưa dông",
+          "source": "Báo Quân đội nhân dân",
+          "url": "https://www.qdnd.vn/xa-hoi/tin-tuc/thoi-tiet-hom-nay-30-8-nhieu-khu-vuc-co-mua-dong-1055220"
         },
         {
-          "title": "헐크 예상 적중! '역대 최초' 한국 선수가 미국에서 포수로 선발 출전이라니",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1004477"
+          "title": "[Video] Dự báo thời tiết ngày 30/8/2026: Bắc Bộ kết thúc đợt mưa, trời chuyển nắng, Trung Bộ có mưa to",
+          "source": "Báo Nhân Dân điện tử",
+          "url": "https://nhandan.vn/video-du-bao-thoi-tiet-ngay-3082026-bac-bo-ket-thuc-dot-mua-troi-chuyen-nang-trung-bo-co-mua-to-post985330.html"
+        }
+      ]
+    },
+    {
+      "id": "범죄",
+      "rank": 3,
+      "keyword": "범죄",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '檢, '여친 살해·유기' 20대 항소심서 \"항소 기각\" 요청' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "檢, '여친 살해·유기' 20대 항소심서 \"항소 기각\" 요청",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260828160447385"
+        },
+        {
+          "title": "여친 살해 후 고속도로 유기한 20대…\"반성하나 계획범죄 아냐\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/08/28/2026082819383290445"
+        },
+        {
+          "title": "“여자친구 살해 후 계좌 빼내려 해”…검찰, 항소심서도 ‘무기징역’ 요청",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260828580211"
+        }
+      ]
+    },
+    {
+      "id": "สภาพอากาศ",
+      "rank": 4,
+      "keyword": "สภาพอากาศ",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'สภาพอากาศวันนี้ -4 ก.ย.เหนือ อีสาน กลาง ตะวันออก ฝนตกหนักถึงหนักมากบางแ…' (Thansettakij) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "สภาพอากาศวันนี้ -4 ก.ย.เหนือ อีสาน กลาง ตะวันออก ฝนตกหนักถึงหนักมากบางแห่ง",
+          "source": "Thansettakij",
+          "url": "https://www.thansettakij.com/general-news/667729"
+        },
+        {
+          "title": "กรมอุตุนิยมวิทยา. . พยากรณ์อากาศประจำวันที่ 29 สิงหาคม 2569 ตั้งแต่เวลา 12.00 น. วันนี้ ถึงเวลา 12.00 น. วันพรุ่งนี้ https://youtu.be/8mCgLXJHgjI",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/tmd.go.th/videos/%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B3%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-29-%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%84%E0%B8%A1-2569%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%81%E0%B8%95%E0%B9%88%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-1200-%E0%B8%99-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89-%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-1200-%E0%B8%99-/2943604582671280/"
+        },
+        {
+          "title": "เหนือ อีสาน และตะวันออก เจอฝนฟ้าคะนอง ร้อยละ 70 ของพื้นที่",
+          "source": "Ch7.com",
+          "url": "https://news.ch7.com/detail/894096"
+        }
+      ]
+    },
+    {
+      "id": "天气",
+      "rank": 5,
+      "keyword": "天气",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Weather tracker: More extreme rain in Japan and a tornado in France' (The Guardian) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Weather tracker: More extreme rain in Japan and a tornado in France",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/aug/28/weather-tracker-extreme-rain-japan-tornado-france"
+        },
+        {
+          "title": "Heavy rain ongoing in Toyama and Ishikawa prefectures as warnings downgraded",
+          "source": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/08/27/japan/ishikawa-toyama-rains-flooding/"
+        },
+        {
+          "title": "Heavy rain and flooding in north-central Japan strands people and vehicles",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://abcnews.com/International/wireStory/heavy-rain-flooding-north-central-japan-strands-people-135997582"
+        }
+      ]
+    },
+    {
+      "id": "할인",
+      "rank": 6,
+      "keyword": "할인",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이마트 '친환경 추석 선물세트' 사전예약 행사' (매일경제 마켓) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이마트 '친환경 추석 선물세트' 사전예약 행사",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1150252"
+        },
+        {
+          "title": "\"추석 선물도 가치있게\"…이마트, 친환경 세트 물량 20% 늘려",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260828_0003767466"
+        },
+        {
+          "title": "“가치는 높이고 가격은 낮추고”…이마트, 추석 선물부터 초저가 PB까지 선택의 폭 넓혔다",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260828500698"
+        }
+      ]
+    },
+    {
+      "id": "김태균",
+      "rank": 7,
+      "keyword": "김태균",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '인사말 하는 송재혁 센터장' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "인사말 하는 송재혁 센터장",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260828112800013"
+        },
+        {
+          "title": "이영표 \"내 해설 때 '아시안게임' 3연패 금메달…이번에도 기대\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/K7m8SRyOtd"
+        },
+        {
+          "title": "나고야 AG KBS 해설위원 강남, 파격 데뷔 이유는?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8649311"
+        }
+      ]
+    },
+    {
+      "id": "상장지수-펀드",
+      "rank": 8,
+      "keyword": "상장지수 펀드",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '美달러가 무너질 때 오르는 ETF가 있다?…최근 저점 대비 25% 상승 [주末머니]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "美달러가 무너질 때 오르는 ETF가 있다?…최근 저점 대비 25% 상승 [주末머니]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/6Y7PoatWaB?f=p"
+        },
+        {
+          "title": "알트코인에 자금 몰렸다...비트코인 ETF만 2억弗 ’썰물’ By Bloomingbit",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/cryptocurrency-news/article-2078852"
+        },
+        {
+          "title": "비트코인 강세에 다시 뜨는 ‘코인 테마’ 투자...코인 주식·ETF로 자금 유입",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/money/2026/08/28/GANRVEGKDVDZTKGWAA76KDJAAM/"
+        }
+      ]
+    },
+    {
+      "id": "문근영",
+      "rank": 9,
+      "keyword": "문근영",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '문근영, 결혼 후 물 오른 미모 \"내 곱슬은 매직을 이겨\" [N샷]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "문근영, 결혼 후 물 오른 미모 \"내 곱슬은 매직을 이겨\" [N샷]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260829193728458"
+        },
+        {
+          "title": "‘정평♥’ 문근영, 나이 안 믿기는 동안 미모로 깜찍 윙크 “귀여운 예비 신부” - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/29/GVTGEYLBMQYTIMBVMNRWEMLFHE/"
+        },
+        {
+          "title": "‘♥정평’ 새신부 문근영, 청순 비주얼 폭발한 근황",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608291722003"
+        }
+      ]
+    },
+    {
+      "id": "자산",
+      "rank": 10,
+      "keyword": "자산",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[논란의 코인 과세]③ ‘큰 손’은 해외로 가는데… 협조 안 되면 구멍 숭숭 - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[논란의 코인 과세]③ ‘큰 손’은 해외로 가는데… 협조 안 되면 구멍 숭숭 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/stock/finance/2026/08/30/2ZWI4KVPAREOVC24OWZ4ZNI2HM/"
+        },
+        {
+          "title": "가상자산 과세 초읽기…국회예정처 \"손실 5년 이월·기본공제 600만원 상향\"",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=348709"
+        },
+        {
+          "title": "불장에 찬물 뿌리는 22% 세금… '코인 과세' 성큼",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1683267/%EB%B6%88%EC%9E%A5-%EC%B0%AC%EB%AC%BC-%EB%BF%8C%EB%A6%AC%EB%8A%94-22-%EC%84%B8%EA%B8%88-%EC%BD%94%EC%9D%B8-%EA%B3%BC-2026"
         }
       ]
     }
