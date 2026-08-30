@@ -1,286 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-29T23:33:35.782Z",
+  "updatedAt": "2026-08-30T05:08:43.117Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "날씨",
+      "id": "용혜인",
       "rank": 1,
-      "keyword": "날씨",
-      "volumeLabel": "200000+",
+      "keyword": "용혜인",
+      "volumeLabel": "20000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[오늘의 날씨] 경기(30일, 일)…흐리고 가끔 비' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[속보]재경 이형일·국방 강신철·법무 김승원…이 대통령, 개각 단행' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[오늘의 날씨] 경기(30일, 일)…흐리고 가끔 비",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/gyeonggi/6273557"
+          "title": "[속보]재경 이형일·국방 강신철·법무 김승원…이 대통령, 개각 단행",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608301141001"
         },
         {
-          "title": "일요일 인천, 낮 최고 28도…10~60㎜ 비 예보",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260829_0003767999"
+          "title": "[프로필] 김승원 법무부 장관 후보자…판사 출신 법사위 간사 지내",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260830000099"
         },
         {
-          "title": "토요일 경기북부, '최대 40㎜' 비 온다…\"체감 33도\" 폭염",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260829n01513"
+          "title": "경제부총리 후보자에 이형일 차관 발탁‥국방부·법무부 등 6개 부처 개각",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6848307_36911.html"
         }
       ]
     },
     {
-      "id": "thời-tiết",
+      "id": "원자력",
       "rank": 2,
-      "keyword": "thời tiết",
+      "keyword": "원자력",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Bão Saudel có thể mạnh trở lại khi vào Biển Đông' (Báo Nông nghiệp và Môi trường) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'IAEA, 원자력 보안 교육도 ‘강사 역량’부터 세운다' (에너지안전신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Bão Saudel có thể mạnh trở lại khi vào Biển Đông",
-          "source": "Báo Nông nghiệp và Môi trường",
-          "url": "https://nongnghiepmoitruong.vn/bao-saudel-co-the-manh-tro-lai-khi-vao-bien-dong-d828745.html"
+          "title": "IAEA, 원자력 보안 교육도 ‘강사 역량’부터 세운다",
+          "source": "에너지안전신문",
+          "url": "https://www.esnews.kr/news/articleView.html?idxno=5938"
         },
         {
-          "title": "Thời tiết hôm nay (30-8): Nhiều khu vực có mưa dông",
-          "source": "Báo Quân đội nhân dân",
-          "url": "https://www.qdnd.vn/xa-hoi/tin-tuc/thoi-tiet-hom-nay-30-8-nhieu-khu-vuc-co-mua-dong-1055220"
+          "title": "IAEA-KINS, 대전서 원자력 안전규제 인재 키운다",
+          "source": "에너지안전신문",
+          "url": "https://www.esnews.kr/news/articleView.html?idxno=5939"
         },
         {
-          "title": "[Video] Dự báo thời tiết ngày 30/8/2026: Bắc Bộ kết thúc đợt mưa, trời chuyển nắng, Trung Bộ có mưa to",
-          "source": "Báo Nhân Dân điện tử",
-          "url": "https://nhandan.vn/video-du-bao-thoi-tiet-ngay-3082026-bac-bo-ket-thuc-dot-mua-troi-chuyen-nang-trung-bo-co-mua-to-post985330.html"
+          "title": "닌투안 원자력 발전소: 에너지 안보 및 지속 가능한 개발 보장",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/dien-hat-nhan-ninh-thuan-bao-dam-an-ninh-nang-luong-va-phat-trien-ben-vung"
         }
       ]
     },
     {
-      "id": "범죄",
+      "id": "구윤철",
       "rank": 3,
-      "keyword": "범죄",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '檢, '여친 살해·유기' 20대 항소심서 \"항소 기각\" 요청' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "檢, '여친 살해·유기' 20대 항소심서 \"항소 기각\" 요청",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260828160447385"
-        },
-        {
-          "title": "여친 살해 후 고속도로 유기한 20대…\"반성하나 계획범죄 아냐\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/28/2026082819383290445"
-        },
-        {
-          "title": "“여자친구 살해 후 계좌 빼내려 해”…검찰, 항소심서도 ‘무기징역’ 요청",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260828580211"
-        }
-      ]
-    },
-    {
-      "id": "สภาพอากาศ",
-      "rank": 4,
-      "keyword": "สภาพอากาศ",
+      "keyword": "구윤철",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'สภาพอากาศวันนี้ -4 ก.ย.เหนือ อีสาน กลาง ตะวันออก ฝนตกหนักถึงหนักมากบางแ…' (Thansettakij) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘개각 대상’ 구윤철, G20 회의 출장 취소했다가 예정대로 출국' (한겨레) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "สภาพอากาศวันนี้ -4 ก.ย.เหนือ อีสาน กลาง ตะวันออก ฝนตกหนักถึงหนักมากบางแห่ง",
-          "source": "Thansettakij",
-          "url": "https://www.thansettakij.com/general-news/667729"
+          "title": "‘개각 대상’ 구윤철, G20 회의 출장 취소했다가 예정대로 출국",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1275295.html"
         },
         {
-          "title": "กรมอุตุนิยมวิทยา. . พยากรณ์อากาศประจำวันที่ 29 สิงหาคม 2569 ตั้งแต่เวลา 12.00 น. วันนี้ ถึงเวลา 12.00 น. วันพรุ่งนี้ https://youtu.be/8mCgLXJHgjI",
-          "source": "Facebook",
-          "url": "https://www.facebook.com/tmd.go.th/videos/%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B3%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-29-%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%84%E0%B8%A1-2569%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%81%E0%B8%95%E0%B9%88%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-1200-%E0%B8%99-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89-%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-1200-%E0%B8%99-/2943604582671280/"
+          "title": "구윤철 부총리, 美G20 회의 일정 돌연 취소…공항에서 발길 돌려",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260830104252363"
         },
         {
-          "title": "เหนือ อีสาน และตะวันออก เจอฝนฟ้าคะนอง ร้อยละ 70 ของพื้นที่",
-          "source": "Ch7.com",
-          "url": "https://news.ch7.com/detail/894096"
+          "title": "구윤철, G20 재무장관회의 참석차 방미…글로벌 불균형 등 논의",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260830_0003768251"
         }
       ]
     },
     {
-      "id": "天气",
+      "id": "이해민",
+      "rank": 4,
+      "keyword": "이해민",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[속보]청와대 AI수석에 이해민 조국혁신당 의원…대통령 정무특보에 김경수, AI전략위 부위원장 하정우' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[속보]청와대 AI수석에 이해민 조국혁신당 의원…대통령 정무특보에 김경수, AI전략위 부위원장 하정우",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608301150001"
+        },
+        {
+          "title": "[프로필] 하정우 AI委 부위원장…'하GPT' 초대 AI수석 출신",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260830124552183"
+        },
+        {
+          "title": "[속보]이 대통령, 국가AI전략기획위 부위원장에 하정우…정무특보에 김경수 임명",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260830_0003768278"
+        }
+      ]
+    },
+    {
+      "id": "이소영",
       "rank": 5,
-      "keyword": "天气",
+      "keyword": "이소영",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '소상공인 업계, 이소영 중기장관 후보자 환영…\"민생정책 속도 내길\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "소상공인 업계, 이소영 중기장관 후보자 환영…\"민생정책 속도 내길\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260830133640091"
+        },
+        {
+          "title": "두달 만에 중기부 장관 후보 낙점...국회 유니콘팜 멤버 이소영 의원",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260830120924"
+        },
+        {
+          "title": "여성·소상공계, 이소영 중기장관 후보 환영…\"지원 정책 추진\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260830034200030"
+        }
+      ]
+    },
+    {
+      "id": "티파니",
+      "rank": 6,
+      "keyword": "티파니",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Weather tracker: More extreme rain in Japan and a tornado in France' (The Guardian) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '변요한 “당연히 제 와이프랑 왔지요”…♥티파니와 하와이 동행 직접 인증' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Weather tracker: More extreme rain in Japan and a tornado in France",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/environment/2026/aug/28/weather-tracker-extreme-rain-japan-tornado-france"
-        },
-        {
-          "title": "Heavy rain ongoing in Toyama and Ishikawa prefectures as warnings downgraded",
-          "source": "The Japan Times",
-          "url": "https://www.japantimes.co.jp/news/2026/08/27/japan/ishikawa-toyama-rains-flooding/"
-        },
-        {
-          "title": "Heavy rain and flooding in north-central Japan strands people and vehicles",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://abcnews.com/International/wireStory/heavy-rain-flooding-north-central-japan-strands-people-135997582"
-        }
-      ]
-    },
-    {
-      "id": "할인",
-      "rank": 6,
-      "keyword": "할인",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이마트 '친환경 추석 선물세트' 사전예약 행사' (매일경제 마켓) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "이마트 '친환경 추석 선물세트' 사전예약 행사",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1150252"
-        },
-        {
-          "title": "\"추석 선물도 가치있게\"…이마트, 친환경 세트 물량 20% 늘려",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260828_0003767466"
-        },
-        {
-          "title": "“가치는 높이고 가격은 낮추고”…이마트, 추석 선물부터 초저가 PB까지 선택의 폭 넓혔다",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260828500698"
-        }
-      ]
-    },
-    {
-      "id": "김태균",
-      "rank": 7,
-      "keyword": "김태균",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '인사말 하는 송재혁 센터장' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "인사말 하는 송재혁 센터장",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260828112800013"
-        },
-        {
-          "title": "이영표 \"내 해설 때 '아시안게임' 3연패 금메달…이번에도 기대\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/K7m8SRyOtd"
-        },
-        {
-          "title": "나고야 AG KBS 해설위원 강남, 파격 데뷔 이유는?",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8649311"
-        }
-      ]
-    },
-    {
-      "id": "상장지수-펀드",
-      "rank": 8,
-      "keyword": "상장지수 펀드",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '美달러가 무너질 때 오르는 ETF가 있다?…최근 저점 대비 25% 상승 [주末머니]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "美달러가 무너질 때 오르는 ETF가 있다?…최근 저점 대비 25% 상승 [주末머니]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/6Y7PoatWaB?f=p"
-        },
-        {
-          "title": "알트코인에 자금 몰렸다...비트코인 ETF만 2억弗 ’썰물’ By Bloomingbit",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/cryptocurrency-news/article-2078852"
-        },
-        {
-          "title": "비트코인 강세에 다시 뜨는 ‘코인 테마’ 투자...코인 주식·ETF로 자금 유입",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/money/2026/08/28/GANRVEGKDVDZTKGWAA76KDJAAM/"
-        }
-      ]
-    },
-    {
-      "id": "문근영",
-      "rank": 9,
-      "keyword": "문근영",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '문근영, 결혼 후 물 오른 미모 \"내 곱슬은 매직을 이겨\" [N샷]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "문근영, 결혼 후 물 오른 미모 \"내 곱슬은 매직을 이겨\" [N샷]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260829193728458"
-        },
-        {
-          "title": "‘정평♥’ 문근영, 나이 안 믿기는 동안 미모로 깜찍 윙크 “귀여운 예비 신부” - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/29/GVTGEYLBMQYTIMBVMNRWEMLFHE/"
-        },
-        {
-          "title": "‘♥정평’ 새신부 문근영, 청순 비주얼 폭발한 근황",
+          "title": "변요한 “당연히 제 와이프랑 왔지요”…♥티파니와 하와이 동행 직접 인증",
           "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608291722003"
+          "url": "https://sports.khan.co.kr/article/202608290947003"
+        },
+        {
+          "title": "변요한♥티파니, 혼인신고 6개월만에..\"제 와이프랑\" 허니문 자랑 [스타이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260829131307038"
+        },
+        {
+          "title": "'티파니영♥' 변요한, SNS 속 여성 손 관심에 \"당연히 제 와이프\" 사랑꾼 모먼트 [IS하이컷]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260829n04379"
         }
       ]
     },
     {
-      "id": "자산",
-      "rank": 10,
-      "keyword": "자산",
-      "volumeLabel": "100+",
+      "id": "허태정",
+      "rank": 7,
+      "keyword": "허태정",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '국민의힘 \"대전형 고유가 지원금 공약 철회는 시민 기만 행위\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "국민의힘 \"대전형 고유가 지원금 공약 철회는 시민 기만 행위\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260830114251651"
+        },
+        {
+          "title": "국힘 대전시당 \"고유가 지원금 철회는 시민 상대 사기\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260830_0003768349"
+        },
+        {
+          "title": "“캐시백 늘리고 기능 확대”…온통대전 2.0 ‘시험대’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8648816"
+        }
+      ]
+    },
+    {
+      "id": "에스컬레이터",
+      "rank": 8,
+      "keyword": "에스컬레이터",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '에스컬레이터 한 줄이 빠를까, 두 줄이 빠를까…실험 결과는?' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "에스컬레이터 한 줄이 빠를까, 두 줄이 빠를까…실험 결과는?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260829190212960"
+        },
+        {
+          "title": "인사말 하는 윤호중 행안부 장관",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8078185"
+        },
+        {
+          "title": "에스컬레이터, 국민의 선택은…'두줄' 45.9% '한줄' 13.4%(종합)",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260829_0003767951"
+        }
+      ]
+    },
+    {
+      "id": "신세계",
+      "rank": 9,
+      "keyword": "신세계",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[논란의 코인 과세]③ ‘큰 손’은 해외로 가는데… 협조 안 되면 구멍 숭숭 - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '어뮤즈, 미국 오프라인 시장 본격 공략…노드스트롬·타겟 입점' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[논란의 코인 과세]③ ‘큰 손’은 해외로 가는데… 협조 안 되면 구멍 숭숭 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/finance/2026/08/30/2ZWI4KVPAREOVC24OWZ4ZNI2HM/"
+          "title": "어뮤즈, 미국 오프라인 시장 본격 공략…노드스트롬·타겟 입점",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260830060152298"
         },
         {
-          "title": "가상자산 과세 초읽기…국회예정처 \"손실 5년 이월·기본공제 600만원 상향\"",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=348709"
+          "title": "美 대형 마트도 K뷰티 모시기…온라인 흥행 오프라인으로[주末머니]",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026082716340919944"
         },
         {
-          "title": "불장에 찬물 뿌리는 22% 세금… '코인 과세' 성큼",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1683267/%EB%B6%88%EC%9E%A5-%EC%B0%AC%EB%AC%BC-%EB%BF%8C%EB%A6%AC%EB%8A%94-22-%EC%84%B8%EA%B8%88-%EC%BD%94%EC%9D%B8-%EA%B3%BC-2026"
+          "title": "백화점부터 마트까지 입점…어뮤즈, 미국 전역으로 뻗는다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/08/30/2026082816331035992"
+        }
+      ]
+    },
+    {
+      "id": "김경수",
+      "rank": 10,
+      "keyword": "김경수",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[프로필] 김경수 대통령 정무특보…盧비서관 출신 '친문 적자'' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[프로필] 김경수 대통령 정무특보…盧비서관 출신 '친문 적자'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260830031600001"
+        },
+        {
+          "title": "[프로필] 김경수 대통령 정무특보…친노·친문 적자",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/politics/president/6273781"
+        },
+        {
+          "title": "[프로필]김경수 대통령 정무특별보좌관…'노무현의 마지막 비서관'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260830_0003768323"
         }
       ]
     }
