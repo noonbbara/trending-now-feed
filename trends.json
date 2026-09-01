@@ -1,101 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-01T18:20:38.037Z",
+  "updatedAt": "2026-09-01T21:15:37.460Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "기아-쏘렌토",
+      "id": "정오-의-희망곡",
       "rank": 1,
-      "keyword": "기아 쏘렌토",
+      "keyword": "정오 의 희망곡",
       "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '기아, 두 달 연속 내수 1위…8월 완성차 5사 판매 28.3% 급감' (지디넷코리아) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "기아, 두 달 연속 내수 1위…8월 완성차 5사 판매 28.3% 급감",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260901162757"
-        },
-        {
-          "title": "현대차 8월 판매 14% 감소 28.8만대…4년7개월만에 30만대 하회",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260901194237150"
-        },
-        {
-          "title": "현대차, 파업 여파로 8월 판매량 14.2% 줄어",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260901/134586024/2"
-        }
-      ]
-    },
-    {
-      "id": "이민정",
-      "rank": 2,
-      "keyword": "이민정",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''MJ' 이민정, 양가 부모님과 해외여행…\"이병헌, 촬영으로 못 가\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'MJ' 이민정, 양가 부모님과 해외여행…\"이병헌, 촬영으로 못 가\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260901182650433"
-        },
-        {
-          "title": "이병헌 母, 카메라 포착…이민정, 효도 관광",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260901_0003772189"
-        },
-        {
-          "title": "'MJ' 이민정 \"중국에서 골프는 처음\"…3대 가족 해외여행",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6276731"
-        }
-      ]
-    },
-    {
-      "id": "조국",
-      "rank": 3,
-      "keyword": "조국",
-      "volumeLabel": "1000+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '조국 “李 대통령 임기 후 재개될 2심, 유죄 가능성 매우 높다”' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "조국 “李 대통령 임기 후 재개될 2심, 유죄 가능성 매우 높다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260901121307568"
-        },
-        {
-          "title": "조국 \"李대통령 공소취소 밀어붙이면 낭패…조작기소 확인돼야\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260901097000001"
-        },
-        {
-          "title": "조국 \"李 유죄\" 발언에 여권 소용돌이 … 떨어진 지지율에 살아난 사법 리스크",
-          "source": "뉴데일리",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/09/01/2026090100277.html"
-        }
-      ]
-    },
-    {
-      "id": "정오의-희망곡",
-      "rank": 4,
-      "keyword": "정오의 희망곡",
-      "volumeLabel": "1000+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-1",
       "summary": "급상승 시점에 '“제2 인생 위해”…김신영, 14년 진행 ‘정오의 희망곡’ 잠시 떠난다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -117,172 +33,212 @@
       ]
     },
     {
-      "id": "jyp-엔터테인먼트",
-      "rank": 5,
-      "keyword": "jyp 엔터테인먼트",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '중국 엔터, 쯔위 영입해 '하나의 중국' 띄우나 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "중국 엔터, 쯔위 영입해 '하나의 중국' 띄우나 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/01/2026090109060586043"
-        },
-        {
-          "title": "트와이스 쯔위에 “하나의 중국 밝히면 활동 지원” 대만 ‘시끌’",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202609010814003"
-        },
-        {
-          "title": "\"하나의 중국 지지해\"…트와이스 쯔위, 中 압박 속 JYP와 재계약 논의[SC이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/09/01/GZSDANJWGZSDCYJUMM3TSZRRMQ/"
-        }
-      ]
-    },
-    {
-      "id": "케이",
-      "rank": 6,
-      "keyword": "케이",
-      "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'BJ 과즙세연·케이 나란히 입건…향정신성 수면제 투약 혐의' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "BJ 과즙세연·케이 나란히 입건…향정신성 수면제 투약 혐의",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260901191100004"
-        },
-        {
-          "title": "'공개 열애' 과즙세연·케이, 향정신성의약품 투약 혐의 입건 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/09/01/2026090122221335412"
-        },
-        {
-          "title": "'과즙세연 연인' BJ 케이, 수면제 대리처방 의혹에... \"나 맞다, 성실하게 조사 받아\"",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202608280619270479"
-        }
-      ]
-    },
-    {
-      "id": "박신혜",
-      "rank": 7,
-      "keyword": "박신혜",
-      "volumeLabel": "200+",
+      "id": "김성수",
+      "rank": 2,
+      "keyword": "김성수",
+      "volumeLabel": "2000+",
       "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''둘째 임신' 박신혜, 임신부 맞아? D라인 실종 '美친 미모' [N샷]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '김성수 대법관 후보자 임명동의안 국회 제출…재산 5억여원 신고(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'둘째 임신' 박신혜, 임신부 맞아? D라인 실종 '美친 미모' [N샷]",
+          "title": "김성수 대법관 후보자 임명동의안 국회 제출…재산 5억여원 신고(종합)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260901171752416"
+          "url": "https://v.daum.net/v/20260901184654951"
         },
         {
-          "title": "'최태준♥' 박신혜, 둘째 출산 코앞인데 만삭 'D라인' 없는 여신 자태 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/01/MM4DGOLBHBTDMMZQHBSGMMZVME/"
+          "title": "李대통령, 김성수 대법관 후보자 임명동의안 국회 제출",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260901134300001"
         },
         {
-          "title": "‘최태준♥’ 박신혜, 둘째 출산 앞둔 드레스 자태…‘D라인 실종’ [IS하이컷]",
-          "source": "일간스포츠",
-          "url": "https://isplus.com/article/view/isp202609010206"
+          "title": "李대통령, 김성수 대법관 후보자에 \"시대 변화 반영할 적임자\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/court-prosecution/6276345"
         }
       ]
     },
     {
-      "id": "공무원-노동조합",
-      "rank": 8,
-      "keyword": "공무원 노동조합",
-      "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '장흥군공무원노조·의회, ‘존중’으로 갈등 막고 협력문화 만든다' (브릿지경제) 관련 뉴스가 함께 포착됐어요.",
+      "id": "송혜교",
+      "rank": 3,
+      "keyword": "송혜교",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"송혜교는 대체 어떻게 관리하기에\"…엄정화 와인 파티서 고현정이 '찰칵'' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "장흥군공무원노조·의회, ‘존중’으로 갈등 막고 협력문화 만든다",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260901501197"
+          "title": "\"송혜교는 대체 어떻게 관리하기에\"…엄정화 와인 파티서 고현정이 '찰칵'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260901_0003771179"
         },
         {
-          "title": "장흥군 노조·의회 상호존중 협약...건전한 지방자치 문화 조성",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260901000768"
+          "title": "엄정화, 이탈리아서 와인 만든다 “현지 와이너리와 협업…너무 설레”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260901/134587313/1"
         },
         {
-          "title": "장흥군의회-공무원노조, 상호존중 협약 체결",
-          "source": "일등방송",
+          "title": "송혜교x고현정 만남 실화?…\"언니는 나를 찍고\" 다정한 만남, ★들 총출동",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901112351653"
+        }
+      ]
+    },
+    {
+      "id": "로봇",
+      "rank": 4,
+      "keyword": "로봇",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"로봇이 물건 집어주고 결제까지\"… 갈봇, 홍콩에 첫 무인 편의점 오픈' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"로봇이 물건 집어주고 결제까지\"… 갈봇, 홍콩에 첫 무인 편의점 오픈",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3680495"
+        },
+        {
+          "title": "홍콩 첫 휴머노이드 로봇 편의점 개점…글로벌 영토 확장",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/09/2026090119314212992bd56fbc3c_1"
+        },
+        {
+          "title": "[경제+] 中 홍콩, 최초 로봇 완전 자율형 소매점 '갤봇 스토어' 오픈",
+          "source": "내외뉴스통신",
           "url": ""
         }
       ]
     },
     {
-      "id": "강민구",
-      "rank": 9,
-      "keyword": "강민구",
-      "volumeLabel": "200+",
-      "startedLabel": "6시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '[단독] “정청래 세력들, 김기표에 작업”…민주당 윤리감찰단 인선 놓고 계파 갈등 표면화하나' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "id": "김수현",
+      "rank": 5,
+      "keyword": "김수현",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '살 쪽 빠진 김수현, 차기작 40편 러브콜→韓시상식 참석 예고..\"배우하길 잘해\" 근황 [핫피플]' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[단독] “정청래 세력들, 김기표에 작업”…민주당 윤리감찰단 인선 놓고 계파 갈등 표면화하나",
+          "title": "살 쪽 빠진 김수현, 차기작 40편 러브콜→韓시상식 참석 예고..\"배우하길 잘해\" 근황 [핫피플]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/01/GY4WMMDCMVSDCNJVHBSWEM3FGI/"
+        },
+        {
+          "title": "논란 벗은 김수현, 국내 활동 박차…'TMA' 이어 'AAA' 시상식 연속 참석",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202609010951247462"
+        },
+        {
+          "title": "김수현, 밝은 미소로 화려한 복귀..연기 열정까지 \"배우 하길 잘했구나\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260901194728227"
-        },
-        {
-          "title": "김민석, '정청래 측 개입 정황 주장' 강민구 윤리감찰단 부단장 해임",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6848927_36911.html"
-        },
-        {
-          "title": "“정청래, 김기표에 작업”…민주당 윤리감찰단 인선 논란에 부단장 해임",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000008173"
+          "url": "https://v.daum.net/v/20260901202237088?t=m&x_mn=6a962b8a3c0d6c72cd86b40d"
         }
       ]
     },
     {
-      "id": "유튜브-광고",
-      "rank": 10,
-      "keyword": "유튜브 광고",
-      "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '금융상품 광고 심사 깐깐해진다…온라인 '뒷광고' 점검 강화' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "id": "정준하",
+      "rank": 6,
+      "keyword": "정준하",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '정준하, 지상렬 술버릇 언급 \"장례식장마다 진상 부려 걱정\" ('알딸딸한 참견')' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "금융상품 광고 심사 깐깐해진다…온라인 '뒷광고' 점검 강화",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260901113300002"
+          "title": "정준하, 지상렬 술버릇 언급 \"장례식장마다 진상 부려 걱정\" ('알딸딸한 참견')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260902014837775"
         },
         {
-          "title": "“지금이 바겐세일” “상장 후는 늦습니다”…이런 광고 앞으론 금지",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8651558"
+          "title": "정준하, 돌연 지상렬 '디스'…\"어느 장례식 가도 술로 진상\"",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/view.html?ar_id=NISX20260901_0003772202"
         },
         {
-          "title": "유튜브 ETF 광고도 금투협 심사받는다…금융상품 ‘뒷광고’ 차단",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1151678"
+          "title": "정준하, 돌연 지상렬 '디스'…\"어느 장례식 가도 술로 진상\"",
+          "source": "뉴시스",
+          "url": "https://nwww.newsis.com/view/NISX20260901_0003772202"
         }
       ]
+    },
+    {
+      "id": "중위소득",
+      "rank": 7,
+      "keyword": "중위소득",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'LH ‘보편형 공공임대’ 대규모 공급 가시화' (대한경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "LH ‘보편형 공공임대’ 대규모 공급 가시화",
+          "source": "대한경제",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608311451366380003"
+        },
+        {
+          "title": "'30조' 집중 투자… '주택 공급' 힘 쏟는다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/09/02/2026090119364977310"
+        },
+        {
+          "title": "국토부, 내년 예산 69조 편성 ‘역대 최대’…철도·에너지 연계 R&D 확대",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=371949"
+        }
+      ]
+    },
+    {
+      "id": "미국-이란",
+      "rank": 8,
+      "keyword": "미국 이란",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이란 혁명수비대 \"미군 공습에 보복 작전 개시\"(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이란 혁명수비대 \"미군 공습에 보복 작전 개시\"(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260902044806766"
+        },
+        {
+          "title": "미국·이란 교전 재개에 국제 유가 5% 안팎 급등",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202609020530252907"
+        },
+        {
+          "title": "트럼프 \"이란 보복하면 더 세게 때릴 것‥가장 큰 공격 대기 중\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6848965_36925.html"
+        }
+      ]
+    },
+    {
+      "id": "hd한국조선해양",
+      "rank": 9,
+      "keyword": "hd한국조선해양",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
     }
   ]
 }
