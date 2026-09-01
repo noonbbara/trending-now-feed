@@ -1,249 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-08-31T23:43:53.522Z",
+  "updatedAt": "2026-09-01T04:51:30.225Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "일본",
+      "id": "홍명보",
       "rank": 1,
-      "keyword": "일본",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"일본에 반도체 공장 검토\" 최태원 발언에 SK는 '부인'' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"일본에 반도체 공장 검토\" 최태원 발언에 SK는 '부인'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260901064912007"
-        },
-        {
-          "title": "최태원 \"일본 투자 검토\"…SK하이닉스 합작공장설은 \"사실과 달라\" By EBN",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2080093"
-        },
-        {
-          "title": "대한상의 회장 최태원 \"한일 경제공동체로 가야\", 청년·AI·미래산업 협력 제안",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=445993"
-        }
-      ]
-    },
-    {
-      "id": "국립순천대학교",
-      "rank": 2,
-      "keyword": "국립순천대학교",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''의대 후보대학' 순천대 \"최종 승인까지 절차 성실히 이행\"(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'의대 후보대학' 순천대 \"최종 승인까지 절차 성실히 이행\"(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/GDFfebDgGz?f=p"
-        },
-        {
-          "title": "송하철 목포대 총장, 사의…\"의대 유치 실패 책임\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260831156400054"
-        },
-        {
-          "title": "진보당 \"목포·순천 국립의대 동시 설립\"…민주당 \"단일 추진 환영\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260831000632"
-        }
-      ]
-    },
-    {
-      "id": "중국인",
-      "rank": 3,
-      "keyword": "중국인",
-      "volumeLabel": "1000+",
+      "keyword": "홍명보",
+      "volumeLabel": "10000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“도대체 누구야” 中 유학생 살해 강사 정 씨, 내일 신상 공개' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '한국 축구 첫 스페인 사령탑…모레노, 임시감독으로 A매치 6경기 지휘' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“도대체 누구야” 中 유학생 살해 강사 정 씨, 내일 신상 공개",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11613442"
+          "title": "한국 축구 첫 스페인 사령탑…모레노, 임시감독으로 A매치 6경기 지휘",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609011139001"
         },
         {
-          "title": "중국인 여성 살해 30대 남성 피의자 신상 공개된다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260831204800217"
-        },
-        {
-          "title": "‘中 유학생 살해’ 피해자 시신 일부 추가 수습",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8649898"
-        }
-      ]
-    },
-    {
-      "id": "수영",
-      "rank": 4,
-      "keyword": "수영",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '정경호, 수영과 결별 후 첫 근황…\"고마워 늘\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "정경호, 수영과 결별 후 첫 근황…\"고마워 늘\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260831_0003770360"
-        },
-        {
-          "title": "정경호, 14년 열애 수영과 결별 후 첫 생일 \"고마워 늘\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260901075611113"
-        },
-        {
-          "title": "정경호, 수영과 14년 열애 마침표 후 첫 근황..미소 활짝 “고마워들” - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/31/GRSTKNJVMMYGEZLEHFQWCYLDMY/"
-        }
-      ]
-    },
-    {
-      "id": "김원호",
-      "rank": 5,
-      "keyword": "김원호",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"세계 1위 한국 이겼잖아!…해체 취소하고 2년 더 하자\"→4위 말레이 남복 조, 서승재-김원호 완파하자 다시 뭉치기로 \"리총웨…' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"세계 1위 한국 이겼잖아!…해체 취소하고 2년 더 하자\"→4위 말레이 남복 조, 서승재-김원호 완파하자 다시 뭉치기로 \"리총웨이 공식 발표\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260831001107439"
-        },
-        {
-          "title": "안세영 中 안방에서 우승, 대체 누가 막나...천위페이·한웨, 중국 마스터스 기권 확정 \"한순간에 핵심 두 명 잃었다\" [공식발표]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260901044442888"
-        },
-        {
-          "title": "[AG 이 종목] ⑧ '안세영 보유국' 한국, 안세영만 있는 것도 아니다",
+          "title": "축구대표팀 임시 사령탑에 모레노 감독 확정…올해 6경기 지휘",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/general-sport/6273978"
+          "url": "https://www.news1.kr/sports/soccer/6276064"
+        },
+        {
+          "title": "‘엔리케 오른팔’ 모레노, 한국 축구 임시 사령탑 선임",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/09/01/ASLZSDX4ZVF7ZOUEN7KN6ENDEU/"
         }
       ]
     },
     {
-      "id": "tsla",
+      "id": "경부-고속도로",
+      "rank": 2,
+      "keyword": "경부 고속도로",
+      "volumeLabel": "5000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '안성휴게소 인근서 테슬라·25t 화물차 추돌…50대 여성 숨지고 2명 부상' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "안성휴게소 인근서 테슬라·25t 화물차 추돌…50대 여성 숨지고 2명 부상",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901065040024"
+        },
+        {
+          "title": "25톤에 덮쳐진 참혹한 현장...경부고속도로 밤샘 통제 [자막뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0134_202609011115014138"
+        },
+        {
+          "title": "빗길 미끄러진 승용차에 25톤 화물차 들이받아…1명 심정지",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8651024"
+        }
+      ]
+    },
+    {
+      "id": "하영",
+      "rank": 3,
+      "keyword": "하영",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘친일파 증조부 논란’ 하영, ‘중증외상센터’ 시즌 2 자진 하차···넷플릭스 “배우 입장 존중”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘친일파 증조부 논란’ 하영, ‘중증외상센터’ 시즌 2 자진 하차···넷플릭스 “배우 입장 존중”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609011024011"
+        },
+        {
+          "title": "日넷플릭스, 하영 조명 \"기품 있고 의연한 자태\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260901_0003771381"
+        },
+        {
+          "title": "'증조부 친일 논란' 하영, 차기작 '중증외상센터' 하차",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6848744_36918.html"
+        }
+      ]
+    },
+    {
+      "id": "이남철",
+      "rank": 4,
+      "keyword": "이남철",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이남철 경북 고령군수 신병 치료 중 별세…향년 65세' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이남철 경북 고령군수 신병 치료 중 별세…향년 65세",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901085405764"
+        },
+        {
+          "title": "이남철 고령군수 별세…고령군장으로 장례",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026090112481574191"
+        },
+        {
+          "title": "이남철 경북 고령군수 식도암 투병 중 별세",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6848737_36918.html"
+        }
+      ]
+    },
+    {
+      "id": "비바리-퍼블-리카",
+      "rank": 5,
+      "keyword": "비바리 퍼블 리카",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '토스 \"외산 SASE 대신 자체 개발…'타이탄' 2000명 사용\"' (지디넷코리아) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "토스 \"외산 SASE 대신 자체 개발…'타이탄' 2000명 사용\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260831231056"
+        },
+        {
+          "title": "토스증권, 출범 후 첫 자사주 매입·소각⋯최대 2000억원 규모",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901103010226"
+        },
+        {
+          "title": "토스증권, 최대 2천억 첫 자사주 매입…\"배당가능이익 내 진행\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432708"
+        }
+      ]
+    },
+    {
+      "id": "이진호",
       "rank": 6,
-      "keyword": "tsla",
-      "volumeLabel": "500+",
+      "keyword": "이진호",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Tesla at 50% Fib & upper BB: Live levels' (Investing.com) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''상습도박·음주운전' 개그맨 이진호 1심 징역형 집행유예' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Tesla at 50% Fib & upper BB: Live levels",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/tesla-tests-365-fib-resistance-live-levels-93CH-4882990"
+          "title": "'상습도박·음주운전' 개그맨 이진호 1심 징역형 집행유예",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6848763_36918.html"
         },
         {
-          "title": "Tesla Inc Stock (TSLA) Moved Up by 3.41% on Aug 31: What Investors Need To Know",
-          "source": "TradingKey",
-          "url": "https://www.tradingkey.com/news/market-movers/262141945-market-movers-tsla-20260831"
+          "title": "'도박·음주운전' 개그맨 이진호, 1심 징역 1년 6개월·집행유예 3년",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202609011039015310_005.html"
         },
         {
-          "title": "Tesla Tops S&P 500. Was It Cybercab Buzz, Or Elon Musk's New FSD Tease?",
-          "source": "Investor's Business Daily",
-          "url": "https://www.investors.com/news/tesla-sp-500-cybercab-robotaxi-self-driving-cars-elon-musk/"
+          "title": "선고공판 마치고 법원 나서는 개그맨 이진호",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260901_0021418034"
         }
       ]
     },
     {
-      "id": "르윈-디아즈",
+      "id": "nol",
       "rank": 7,
-      "keyword": "르윈 디아즈",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "klasemen-barcelona-vs-rayo-vallecano",
-      "rank": 8,
-      "keyword": "klasemen barcelona vs rayo vallecano",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "tsll",
-      "rank": 9,
-      "keyword": "tsll",
+      "keyword": "nol",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Direxion Daily TSLA Bull 2X Shares (NASDAQ:TSLL) Shares Up 7.1% - What'…' (MarketBeat) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Regulator-Approved Review Finds Hemen Offer Not Fair to NOL Shareholders' (Rigzone) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Direxion Daily TSLA Bull 2X Shares (NASDAQ:TSLL) Shares Up 7.1% - What's Next?",
-          "source": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/price-direxion-daily-tsla-bull-2x-shares-nasdaq-tsll-shares-up-71-whats-next-2026-08-31/"
+          "title": "Regulator-Approved Review Finds Hemen Offer Not Fair to NOL Shareholders",
+          "source": "Rigzone",
+          "url": "https://www.rigzone.com/news/regulatorapproved_review_finds_hemen_offer_not_fair_to_nol_shareholders-31-aug-2026-184496-article/"
         },
         {
-          "title": "Direxion Daily TSLA Bull 2X ETF (Derivatives)",
-          "source": "CryptoRank",
-          "url": "https://cryptorank.io/price/direxion-daily-tsla-bull-2x-etf-derivatives"
+          "title": "NOL: Conclusion of independent statement related to the mandatory offer by Hemen Holding Limited for the shares in Northern Ocean Ltd.",
+          "source": "Finansavisen",
+          "url": "https://www.finansavisen.no/borsmeldinger/2026/08/28/a632032a-a3ac-5532-9f4d-e916fb8686f0/nol-conclusion-of-independent-statement-related-to-the-mandatory-offer-by-hemen-holding-limited-for-the-shares-in-northern-ocean-ltd."
+        },
+        {
+          "title": "UAE residents can get up to 40% off car rentals with Nol travel card from Sept 1",
+          "source": "Khaleej Times",
+          "url": "https://www.khaleejtimes.com/uae/transport/up-to-40-percent-discount-car-rentals-nol-travel-card-from-sept-1-2026"
         }
       ]
     },
     {
-      "id": "민주당tv",
-      "rank": 10,
-      "keyword": "민주당tv",
+      "id": "pv7",
+      "rank": 8,
+      "keyword": "pv7",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Kia unveils teaser for 'The Kia PV7,' expanding PBV lineup to large seg…' (헤럴드경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Kia unveils teaser for 'The Kia PV7,' expanding PBV lineup to large segment",
+          "source": "헤럴드경제",
+          "url": "https://mbiz.heraldcorp.com/article/10856837"
+        },
+        {
+          "title": "Kia Teases Large Electric PV7 Van Ahead of September Debut in Germany",
+          "source": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/finance/2026/08/31/kia-teases-large-electric-pv7-van-ahead-of-september-debut"
+        },
+        {
+          "title": "Kia Unveils Teaser for Large Electrified PBV 'The Kia PV7'",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/en/article/2026083108391550958"
+        }
+      ]
+    },
+    {
+      "id": "삼성-갤럭시-북",
+      "rank": 9,
+      "keyword": "삼성 갤럭시 북",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김민석, 민주당TV '민티07' 첫방 출연…\"공부하는 정치로\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '비싸진 노트북에 부담 커지자…삼성·LG, 100만원대 실속형 '출격'[종합]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김민석, 민주당TV '민티07' 첫방 출연…\"공부하는 정치로\"",
+          "title": "비싸진 노트북에 부담 커지자…삼성·LG, 100만원대 실속형 '출격'[종합]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260901081732617"
+          "url": "https://v.daum.net/v/20260901104907425"
         },
         {
-          "title": "김민석이 띄운 ‘민주당TV’ 오늘 첫 방송…김어준 “반갑다, 파이 커져야”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1275545.html"
+          "title": "삼성전자, ‘New 갤럭시 북6’ 국내 출시",
+          "source": "Samsung Global Newsroom",
+          "url": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-new-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EB%B6%816-%EA%B5%AD%EB%82%B4-%EC%B6%9C%EC%8B%9C"
         },
         {
-          "title": "與 유튜브 '델리민주→민티' 개편…1일 7시 '메가텐' 주제 첫 방송 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/politics/2026/08/31/2026083114402413683"
+          "title": "삼성전자, 119만원짜리 실속형 AI 노트북 내놨다",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20085640"
+        }
+      ]
+    },
+    {
+      "id": "포천시",
+      "rank": 10,
+      "keyword": "포천시",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '포천 고기불판 제조 공장서 불…2명 부상' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "포천 고기불판 제조 공장서 불…2명 부상",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260901105800060"
+        },
+        {
+          "title": "경기 포천시 공장서 불…2명 다쳐",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8651367"
+        },
+        {
+          "title": "포천 동교동 공장서 화재…2명 부상·7명 대피",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260901580054"
         }
       ]
     }
