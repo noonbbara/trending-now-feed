@@ -1,269 +1,241 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-02T20:55:32.097Z",
+  "updatedAt": "2026-09-02T23:14:29.756Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "vfl-오스나브뤼크-대-바이에른",
+      "id": "충남-함",
       "rank": 1,
-      "keyword": "vfl 오스나브뤼크 대 바이에른",
+      "keyword": "충남 함",
       "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Confirmed DFB-Pokal lineups: VfL Osnabrück vs. FC Bayern Munich' (Yahoo Sports) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"美 해군함정, 韓·日·튀르키예 검토…충남급 호위함 포함\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Confirmed DFB-Pokal lineups: VfL Osnabrück vs. FC Bayern Munich",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/confirmed-dfb-pokal-lineups-vfl-175500397.html"
-        },
-        {
-          "title": "Kompany: Bayern prepared for 'real battle' against Osnabruck",
-          "source": "FotMob",
-          "url": "https://www.fotmob.com/news/1g7gvy0zy7lot17m68gccmfiif-kompany-bayern-prepared-real-battle-against-osnabruck"
-        },
-        {
-          "title": "Germany DFB Cup Soccer",
-          "source": "Dayton Daily News",
-          "url": "https://www.daytondailynews.com/nation-world/germany-dfb-cup-soccer/image_8dd346f5-5564-5dda-b38e-83a8714edbbd.html"
-        }
-      ]
-    },
-    {
-      "id": "여자-야구",
-      "rank": 2,
-      "keyword": "여자 야구",
-      "volumeLabel": "2000+",
-      "startedLabel": "6시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '‘야구여왕2’ 국대 출신 9명 보유 강팀과 붙는다…선발 ‘1+1’ 파격 기용' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘야구여왕2’ 국대 출신 9명 보유 강팀과 붙는다…선발 ‘1+1’ 파격 기용",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202609021612003"
-        },
-        {
-          "title": "\"왜 우리에게 이런 시련을\"…이대형, '13번 우승' 강팀 잡을 파격 카드 ('야구여왕2')",
+          "title": "\"美 해군함정, 韓·日·튀르키예 검토…충남급 호위함 포함\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260902085220227"
+          "url": "https://v.daum.net/v/20260902230439485"
         },
         {
-          "title": "[9회예고] “꼭 이기고 싶습니다” 아찔한 송아 부상에0 완벽하게 각성한 블랙퀸즈 에이스 박민서",
-          "source": "채널A",
-          "url": "https://ichannela.com/program/clip/000000547922.do"
-        }
-      ]
-    },
-    {
-      "id": "리사",
-      "rank": 3,
-      "keyword": "리사",
-      "volumeLabel": "2000+",
-      "startedLabel": "8시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '리사, 교토서 찾은 여유…고혹적인 드레스 자태에 \"현실 공주\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "리사, 교토서 찾은 여유…고혹적인 드레스 자태에 \"현실 공주\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/xtYopeWITO?f=p"
+          "title": "미국 해외 건조 전투함 놓고 한국 일본 튀르키예 저울질, 한화오션 필리조선소로 유리한 고지",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446209"
         },
         {
-          "title": "'태국 차은우와 열애설' 리사, 日 교토 여행 중 여신 아우라 폭발 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/09/01/GJSDQNJUMEYGMMRRMQYWEOBWHA/"
-        },
-        {
-          "title": "리사, 신곡 '사와디카' 티저 이미지 공개 '강렬 카리스마'",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260901n30489"
-        }
-      ]
-    },
-    {
-      "id": "투표용지",
-      "rank": 4,
-      "keyword": "투표용지",
-      "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '헌재, ‘6·3 지선 투표용지 부족’ 헌법소원 각하…4건 모두 종결' (동아일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "헌재, ‘6·3 지선 투표용지 부족’ 헌법소원 각하…4건 모두 종결",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260902/134594491/1"
-        },
-        {
-          "title": "조 의장 \"선거관리 부실 우려 해소 안 돼…문제·개혁방안 완결해야\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260831_0003770319"
-        },
-        {
-          "title": "3만5000명 제기한 '투표용지 부족' 헌법소원 각하…4건 모두 종결 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/09/02/2026090219570252004"
-        }
-      ]
-    },
-    {
-      "id": "박재홍",
-      "rank": 5,
-      "keyword": "박재홍",
-      "volumeLabel": "500+",
-      "startedLabel": "6시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '\"밤 10시 트랙 돌다 쓰러져\"…박재홍 아나운서, 뇌경색 당시 상황 [헬스톡]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"밤 10시 트랙 돌다 쓰러져\"…박재홍 아나운서, 뇌경색 당시 상황 [헬스톡]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260903050111822"
-        },
-        {
-          "title": "박재홍 아나, 뇌경색으로 쓰러져 응급실行…\"언어·기억력 100% 회복\"",
+          "title": "美 해군함정 후보에 韓·日·튀르키예 함정 올라…충남급 호위함 검토\"",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/life-culture/general-cultural/6278127"
-        },
-        {
-          "title": "운동하다 쓰러진 박재홍 아나운서…“뇌경색 진단, 생각보다 심각했다”",
-          "source": "주간조선",
-          "url": ""
+          "url": "https://www.news1.kr/world/usa-canada/6278217"
         }
       ]
     },
     {
-      "id": "아시안-게임-야구",
-      "rank": 6,
-      "keyword": "아시안 게임 야구",
-      "volumeLabel": "200+",
-      "startedLabel": "7시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 ''한국킬러 불참 확률↑' AG 금메달 최대 라이벌, 악재 발생…엔트리 대폭 바뀌나' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'한국킬러 불참 확률↑' AG 금메달 최대 라이벌, 악재 발생…엔트리 대폭 바뀌나",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/09/02/HFSDIM3GGQ3TKZBXGI2DKMJXGI/"
-        },
-        {
-          "title": "\"한국 선수들 꼭 군대 보낸다!\"…대만, 벌써 日 AG 도발 시작했나→\"2023년 원태인 만나 홈런 쳤어, 金메달 우리 것\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260901010150155"
-        },
-        {
-          "title": "'한국 킬러' 린위민 포함 대만 야구, 아시안게임 최종 엔트리 조정 가능성",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260902n06642"
-        }
-      ]
-    },
-    {
-      "id": "포항시장",
-      "rank": 7,
-      "keyword": "포항시장",
-      "volumeLabel": "200+",
-      "startedLabel": "7시간 전",
-      "change": "up",
-      "changeLabel": "+3",
-      "summary": "급상승 시점에 '경찰, 박용선 포항시장 선거법 위반 혐의 검찰 재송치' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "경찰, 박용선 포항시장 선거법 위반 혐의 검찰 재송치",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260902161900053"
-        },
-        {
-          "title": "경찰, 박용선 포항시장 선거법 위반 등 혐의로 재송치",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/incident/2026/09/02/NOS3N5RFPFFUHBJAQZVIDAVBSY/"
-        },
-        {
-          "title": "박용선 포항시장 검찰 송치…선거법위반·횡령 혐의",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260902_0003773963"
-        }
-      ]
-    },
-    {
-      "id": "보물",
-      "rank": 8,
-      "keyword": "보물",
-      "volumeLabel": "200+",
-      "startedLabel": "8시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '임실 진구사지 철조여래좌상, 국가지정문화유산 '보물' 승격' (뉴스핌) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "임실 진구사지 철조여래좌상, 국가지정문화유산 '보물' 승격",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260902000532"
-        },
-        {
-          "title": "통일신라 철불 양식 보여주는 ‘임실 진구사지 철조여래좌상’ 보물 지정",
-          "source": "프레시안",
-          "url": "https://www.pressian.com/pages/articles/2026090213551592687"
-        },
-        {
-          "title": "토토 백화점 5G 시대 감정 관리: 인식, 이해 및 응용",
-          "source": "Platea Magazine",
-          "url": "https://www.plateamagazine.com/?app=7923.html"
-        }
-      ]
-    },
-    {
-      "id": "카사마츠-쇼",
-      "rank": 9,
-      "keyword": "카사마츠 쇼",
-      "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
+      "id": "한일전",
+      "rank": 2,
+      "keyword": "한일전",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '카사마츠 쇼, 한국 인기 기대했다가 '굴욕'…\"공항에 안유진 팬들만\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '15년 멈춘 '완전체 한일전' AI로 붙여보니... '韓 100전 42승' 근소 우위 \"손흥민 파괴력, 日도 못 막아\" [창간2…' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "카사마츠 쇼, 한국 인기 기대했다가 '굴욕'…\"공항에 안유진 팬들만\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/03/2026090304113493554"
-        },
-        {
-          "title": "'라스' 카사마츠 쇼 \"공항에 안유진 팬들만 와\" 서운 [RE:TV]",
+          "title": "15년 멈춘 '완전체 한일전' AI로 붙여보니... '韓 100전 42승' 근소 우위 \"손흥민 파괴력, 日도 못 막아\" [창간22 기획②]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260903053155440"
+          "url": "https://v.daum.net/v/20260901041350690"
         },
         {
-          "title": "'모범택시3' 배우, 공항서 40분 꾸몄는데 팬 0명 굴욕…\"한국 인기 거짓\" [라스]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260901n32610"
+          "title": "아시안게임 전 등장한 '음주운전 뺑소니' 이슈…이민성 감독 고개 숙였다 \"내 평생의 아킬레스건, 지금도 죄송하다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260903030207310"
+        },
+        {
+          "title": "이민성호, AG 4연패 도전 시작!…“승률 42%? 그런 경험이 보약될 것”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8652269"
         }
       ]
     },
     {
-      "id": "mbk-파트너스",
-      "rank": 10,
-      "keyword": "mbk 파트너스",
-      "volumeLabel": "100+",
-      "startedLabel": "7시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "id": "연비",
+      "rank": 3,
+      "keyword": "연비",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'BYD, PHEV도 돌풍 일으킬까?' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "BYD, PHEV도 돌풍 일으킬까?",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608311105001"
+        },
+        {
+          "title": "\"사륜은요?\"...씨라이언6 DM-i , FWD만큼 주목받는 AWD",
+          "source": "지피코리아",
+          "url": "https://www.gpkorea.com/news/articleView.html?idxno=146125"
+        },
+        {
+          "title": "[전기웹툰] 전기의 소중함 - 유지수",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=371769"
+        }
+      ]
+    },
+    {
+      "id": "신정환",
+      "rank": 4,
+      "keyword": "신정환",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"광고 나가면 화장실서 토했다\"…김현정, 라디오 DJ 시절 회상' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"광고 나가면 화장실서 토했다\"…김현정, 라디오 DJ 시절 회상",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260903_0003774072"
+        },
+        {
+          "title": "신정환, 아슬아슬한 폭로 \"탁재훈이 김현정 좋아했다\" ('닭터신')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260902214709541"
+        },
+        {
+          "title": "신정환 “탁재훈이 김현정 좋아했다…전 형수님이 닮았다” 깜짝 폭로",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10860835"
+        }
+      ]
+    },
+    {
+      "id": "디에고-시메오네",
+      "rank": 5,
+      "keyword": "디에고 시메오네",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이강인 이렇게 쓰는 거였구나! 시메오네 드디어 '정답' 찾았나…전반 4분 만에 AS→西 매체 \"패스 한 방으로 수비 무너뜨려\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이강인 이렇게 쓰는 거였구나! 시메오네 드디어 '정답' 찾았나…전반 4분 만에 AS→西 매체 \"패스 한 방으로 수비 무너뜨려\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260902040107283"
+        },
+        {
+          "title": "스페인어로 꿈꾼다는 “강인리”…줄무늬 유니폼 입고 역사 쓰나",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/sports/soccer/1275881.html"
+        },
+        {
+          "title": "\"공격 만들려면 항상 경기장에 있어야\" ATM 전설도 이강인에 반했다...3경기 1골 1도움 '필수 선수' 등극 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/01/202609011003774634O"
+        }
+      ]
+    },
+    {
+      "id": "존리",
+      "rank": 6,
+      "keyword": "존리",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"매일 주가 보지 마라…주식 하는 이유는 노후 준비\" 존리의 장기투자 전략' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"매일 주가 보지 마라…주식 하는 이유는 노후 준비\" 존리의 장기투자 전략",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260902_0003773337"
+        },
+        {
+          "title": "\"주식 손댄 20대, 다 손해봤다더라\" 고민에…존리 대답은",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05700646645576184"
+        },
+        {
+          "title": "\"개별 종목보다 ETF…10% 벌고 파는 건 카지노\" 존리의 노후자금 투자법",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202609020010242298"
+        }
+      ]
+    },
+    {
+      "id": "수의사",
+      "rank": 7,
+      "keyword": "수의사",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '여의도에 수의사 2천 명 모인다 ‘동물의료 말살 정책 저지 투쟁 선포식’' (데일리벳) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "여의도에 수의사 2천 명 모인다 ‘동물의료 말살 정책 저지 투쟁 선포식’",
+          "source": "데일리벳",
+          "url": "https://www.dailyvet.co.kr/news/policy/295206"
+        },
+        {
+          "title": "[반려동물] 정부 \"동물병원 진료비 공개\"…수의계 \"단순 비교 안돼\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260902130155175"
+        },
+        {
+          "title": "농해수위, 동물사육금지명령 도입·동물병원 진료기록 발급 법안 의결",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20086409"
+        }
+      ]
+    },
+    {
+      "id": "다우-존스-산업평균지수",
+      "rank": 8,
+      "keyword": "다우 존스 산업평균지수",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[뉴욕증시] 채권금리 조정에 한숨 돌렸다…상승 마감' (연합인포맥스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[뉴욕증시] 채권금리 조정에 한숨 돌렸다…상승 마감",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433185"
+        },
+        {
+          "title": "‘국채 발작’ 진정+엔비디아 3%대 급등…삼전ㆍ하닉 오늘은 힘낼까 [뉴욕증시]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260903052909413"
+        },
+        {
+          "title": "코스피 4% 급락 뒤 엔비디아 3%↑…외국인 ‘현·선물 4조 매도’가 첫 시험대",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=349119"
+        }
+      ]
+    },
+    {
+      "id": "mbk파트너스",
+      "rank": 9,
+      "keyword": "mbk파트너스",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
       "summary": "급상승 시점에 'MBK파트너스, 2년 만에 국내 바이아웃⋯뷰티ㆍ건기식 기업 인수' (이투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -283,6 +255,18 @@
           "url": "https://www.investchosun.com/site/data/html_dir/2026/09/02/2026090280208.html"
         }
       ]
+    },
+    {
+      "id": "울산광역시",
+      "rank": 10,
+      "keyword": "울산광역시",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
     }
   ]
 }
