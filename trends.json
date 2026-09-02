@@ -1,286 +1,270 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-01T23:31:06.101Z",
+  "updatedAt": "2026-09-02T04:11:48.868Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "보조금",
+      "id": "김하성",
       "rank": 1,
-      "keyword": "보조금",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
+      "keyword": "김하성",
+      "volumeLabel": "10000+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '용혜인 부부의 절세·재테크 신공 [안혜리의 시선]' (중앙일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '김하성, 올 시즌 첫 ‘멀티히트’ …워싱턴 상대로 타율 1할 복귀, 0.102' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "용혜인 부부의 절세·재테크 신공 [안혜리의 시선]",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25458261"
-        },
-        {
-          "title": "\"비례대표제 취지 무너뜨려\"‥여당서도 '사퇴론'",
+          "title": "김하성, 올 시즌 첫 ‘멀티히트’ …워싱턴 상대로 타율 1할 복귀, 0.102",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260902064303614"
+          "url": "https://v.daum.net/v/20260902092333655"
         },
         {
-          "title": "[이진영 칼럼]용혜인 논란이 덮은 김승원 인사",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Opinion/article/all/20260901/134586846/2"
-        }
-      ]
-    },
-    {
-      "id": "노화",
-      "rank": 2,
-      "keyword": "노화",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '롱제비티, 성분 경쟁 넘어 ‘노화 기전’ 경쟁' (THE K BEAUTY SCIENCE) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "롱제비티, 성분 경쟁 넘어 ‘노화 기전’ 경쟁",
-          "source": "THE K BEAUTY SCIENCE",
-          "url": "https://www.thekbs.co.kr/news/articleView.html?idxno=15047"
-        },
-        {
-          "title": "“확실히 노화 막는다”… 의사 극찬한 ‘젊어지는 음식’, 뭘까?",
-          "source": "헬스조선",
-          "url": "https://health.chosun.com/site/data/html_dir/2026/09/01/2026090102208.html"
-        },
-        {
-          "title": "잠들기 전 ‘이것’ 꼭 해야..치아 건강이 치매 위험과도 연관",
-          "source": "RadioKorea",
-          "url": "https://www.radiokorea.com/news/article.php?uid=503054"
-        }
-      ]
-    },
-    {
-      "id": "윤후",
-      "rank": 3,
-      "keyword": "윤후",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''윤민수 아들' 윤후, 카투사 최종 불합격…\"응원해 주셔서 감사\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'윤민수 아들' 윤후, 카투사 최종 불합격…\"응원해 주셔서 감사\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/01/2026090119375011100"
-        },
-        {
-          "title": "윤후, 카투사 최종 불합격…발표 전 “기 달라” 부탁했지만 고배 [SD톡톡]",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260901/134585763/1"
-        },
-        {
-          "title": "윤후, 결국 카투사 최종 불합격…'뭔가 잘못됐어' [★해시태그]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260901n36728"
-        }
-      ]
-    },
-    {
-      "id": "젠슨-황",
-      "rank": 4,
-      "keyword": "젠슨 황",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '젠슨 황 \"지금 주식 사라\" 말 믿었다면…석 달 뒤 주가 성적표는? [재테크+]' (네이트) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "젠슨 황 \"지금 주식 사라\" 말 믿었다면…석 달 뒤 주가 성적표는? [재테크+]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260901n38830"
-        },
-        {
-          "title": "[퇴근길머니] 반도체 목표주가 희비…인뱅 3사, 엇갈린 실적",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260901173014032"
-        },
-        {
-          "title": "\"금리·전쟁 탓 반도체주 급락은 기회…장기적 매수 기회로 활용해야\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260831_0003770110"
-        }
-      ]
-    },
-    {
-      "id": "코인니스-빠르고-정확한-코인-투자-뉴스-커뮤니티",
-      "rank": 5,
-      "keyword": "코인니스 - 빠르고 정확한 코인 투자 뉴스 커뮤니티",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '속보 | BTC $8만 일시 회복에도…\"지금은 못 사, 눌림목 대기\" 41.3%' (CoinNess) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "속보 | BTC $8만 일시 회복에도…\"지금은 못 사, 눌림목 대기\" 41.3%",
-          "source": "CoinNess",
-          "url": "https://coinness.com/news/1167142/quote"
-        },
-        {
-          "title": "BTC 23% 급등에 투자자 66% \"사겠다\"…10명 중 4명 \"눌림목 매수 대기\"",
-          "source": "더스탁(The Stock)",
-          "url": "https://www.the-stock.kr/news/articleView.html?idxno=33273"
-        },
-        {
-          "title": "비트코인 8만 달러 회복에도…국내 투자자 절반 이상 “추격 매수 안 해”",
-          "source": "코인리더스",
-          "url": "https://www.coinreaders.com/255529"
-        }
-      ]
-    },
-    {
-      "id": "최지만",
-      "rank": 6,
-      "keyword": "최지만",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘35살 신인’ 최지만, “가고 싶은 팀은 있다. 8년은 더”' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘35살 신인’ 최지만, “가고 싶은 팀은 있다. 8년은 더”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/p4unJHRflt?f=p"
-        },
-        {
-          "title": "[엠빅뉴스] \"온몸이 다 아파요..\" 35살 최지만의 마지막 쇼케이스 현장",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/original/mbig/6848881_29041.html"
-        },
-        {
-          "title": "신인 드래프트 나온 ‘ML 67홈런’ 최지만…“8라운드 지명이면 만족”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609012047035"
-        }
-      ]
-    },
-    {
-      "id": "공연",
-      "rank": 7,
-      "keyword": "공연",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[공연소식] '오페라의 유령' 40주년 스페셜 시즌 12월 개막' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[공연소식] '오페라의 유령' 40주년 스페셜 시즌 12월 개막",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260901104047937"
-        },
-        {
-          "title": "40년간 1억6천만명 홀린 뮤지컬 '오페라의 유령'…12월 개막",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260901_0003771308"
-        },
-        {
-          "title": "\"신화는 계속된다\"…40주년 '오페라의 유령' 12월 서울 상륙",
-          "source": "뉴데일리",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/09/02/2026090200009.html"
-        }
-      ]
-    },
-    {
-      "id": "경북일보",
-      "rank": 8,
-      "keyword": "경북일보",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '포항사랑카드 잔액 부족해도 결제…3일부터 자동충전' (경북일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "포항사랑카드 잔액 부족해도 결제…3일부터 자동충전",
-          "source": "경북일보",
-          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4082869"
-        },
-        {
-          "title": "[포항소식]포항 사랑 상품권 이용 편의 서비스 확대 등",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260901_0003771913"
-        },
-        {
-          "title": "포항사랑상품권 편의 서비스 순차적 확대…시민 편의 높여",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260901164507612"
-        }
-      ]
-    },
-    {
-      "id": "화장",
-      "rank": 9,
-      "keyword": "화장",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '30년 화장 안 지운 아내 '충격'…\"클렌징은 식용유로, 피부도 매끈\"('결혼지옥')' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "30년 화장 안 지운 아내 '충격'…\"클렌징은 식용유로, 피부도 매끈\"('결혼지옥')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260901101640311"
-        },
-        {
-          "title": "남편 없이 겪은 시집살이…\"너 때문에 동생 죽었다\" 시누이 폭언도 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/01/2026090108592618697"
-        },
-        {
-          "title": "시어머니·시누이 폭언에 남편 폭력까지…30년 넘게 맨얼굴 감춘 '가면부부' 아내 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/09/01/GJSDCZDFGBRGKNRXGZTDAY3BMM/"
-        }
-      ]
-    },
-    {
-      "id": "엄지성",
-      "rank": 10,
-      "keyword": "엄지성",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '엄지성 두 경기 연속 1골 1도움…스완지, 왓퍼드에 2-0 승리' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "엄지성 두 경기 연속 1골 1도움…스완지, 왓퍼드에 2-0 승리",
+          "title": "애틀랜타 김하성, 353일 만에 3안타 경기…타율 1할 돌파",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8652358"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8652513"
         },
         {
-          "title": "선제 결승 골, 환호하는 엄지성",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260902_0002227612"
-        },
+          "title": "'안타-안타-안타' 김하성 드디어 제대로 터졌다! 시즌 첫 3안타→타율 0.112 상승…팀은 5-9 패배 [ATL 리뷰]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/09/02/MJSTEMJYGRTGMNLFGY3GMMBVME/"
+        }
+      ]
+    },
+    {
+      "id": "서희-제",
+      "rank": 2,
+      "keyword": "서희 제",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''구준엽 처제' 서희제 \"언니 서희원, 매일 꿈에 나와\"…이름 타투까지 새겨' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
         {
-          "title": "아시안게임 앞둔 엄지성, 2경기 연속 1골 1도움…스완지 2-0 승리",
+          "title": "'구준엽 처제' 서희제 \"언니 서희원, 매일 꿈에 나와\"…이름 타투까지 새겨",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/overseas-soccer/6276922"
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6277424"
+        },
+        {
+          "title": "\"이르지만, 용기냈다\"…'구준엽 처제' 서희제, 故 서희원 아픔 딛고 복귀 [MHN:글로벌]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/3JJZfVsAir?f=p"
+        },
+        {
+          "title": "서희제, 故 서희원 사진 업로드 \"언니 이야기, 일부러 안 피해…모두가 기억하길\"",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260901n32532"
+        }
+      ]
+    },
+    {
+      "id": "카카오",
+      "rank": 3,
+      "keyword": "카카오",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[단독] 5000만명 국민 메신저…결국 '카카오 멤버십' 출시한다' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[단독] 5000만명 국민 메신저…결국 '카카오 멤버십' 출시한다",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260902n04019"
+        },
+        {
+          "title": "카카오, 통합 멤버십 준비…\"택시·음악·쇼핑·웹툰 혜택 묶는다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/09/02/2026090208584276305"
+        },
+        {
+          "title": "\"카톡, 메신저 넘어 AI 행정창구로\"…일본 학계가 주목",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260830055700017"
+        }
+      ]
+    },
+    {
+      "id": "톱스타뉴스",
+      "rank": 4,
+      "keyword": "톱스타뉴스",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '우상향하던 금값, 글로벌 금리 상승에 다시 우하향' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "우상향하던 금값, 글로벌 금리 상승에 다시 우하향",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260902069100008"
+        },
+        {
+          "title": "금리 뛰는데 금값도 오른다…“내년 말 6000달러까지 상승” [오늘 나온 보고서]",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1152047"
+        },
+        {
+          "title": "[뉴욕 금가격] 글로벌 국채금리 급등에 '휘청'…2.33%↓",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432975"
+        }
+      ]
+    },
+    {
+      "id": "김민종",
+      "rank": 5,
+      "keyword": "김민종",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김민종, MC몽 고소…\"불법 도박 허위 주장해 명예훼손\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김민종, MC몽 고소…\"불법 도박 허위 주장해 명예훼손\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260902085500005"
+        },
+        {
+          "title": "김민종, 결국 MC몽 고소…“할리우드 차기작·광고 2편 중단”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260902/134588247/1"
+        },
+        {
+          "title": "가수 선후배서→철천지 악연...김민종-MC몽, 실명폭로 3개월 만에 법정 다툼(종합)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/09/02/MQZTENZVHEYWGZJTGJTDQMJSGI/"
+        }
+      ]
+    },
+    {
+      "id": "기러기",
+      "rank": 6,
+      "keyword": "기러기",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "미군",
+      "rank": 7,
+      "keyword": "미군",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '트럼프 \"대규모 타격 중\"...이란 \"결정적 작전 개시\" 맞불' (YTN) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "트럼프 \"대규모 타격 중\"...이란 \"결정적 작전 개시\" 맞불",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202609020754122123"
+        },
+        {
+          "title": "미국, 이틀만에 다시 대이란 공습…이란 ‘결정적 작전’ 대응",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260902123120588"
+        },
+        {
+          "title": "이란 “미국에 보복 공격해 미군 여러 명 사망”···확전 긴장감",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609020807001"
+        }
+      ]
+    },
+    {
+      "id": "알렉산드라-에알라",
+      "rank": 8,
+      "keyword": "알렉산드라 에알라",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '제니스 젠과 알렉산드라 에알라, WTA 500 싱가포르 테니스 오픈 출전' (VOI.ID) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "제니스 젠과 알렉산드라 에알라, WTA 500 싱가포르 테니스 오픈 출전",
+          "source": "VOI.ID",
+          "url": "https://voi.id/kr/sports/592098"
+        },
+        {
+          "title": "21세 필리핀 女 스타, 올해 1000만 달러 챙긴다!…\"연습 때도 구름 관중\" 세계 테니스계 감탄→2일 US오픈 1회전 티켓값 '2배 폭등'",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260902n00244"
+        },
+        {
+          "title": "'국제대회 싹쓸이' 안세영 수입? 전세계 10위의 30% 수준…女 테니스 선수들 연간 톱10 점령→스키·골프 각 1명씩",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260831034549413"
+        }
+      ]
+    },
+    {
+      "id": "투팍",
+      "rank": 9,
+      "keyword": "투팍",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘힙합 전설’ 투팍 피살 미스터리…30년 만에 유죄 평결, 피고인은? [현장영상]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘힙합 전설’ 투팍 피살 미스터리…30년 만에 유죄 평결, 피고인은? [현장영상]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901180837842?f=p"
+        },
+        {
+          "title": "'전설의 래퍼' 투팍 살인범, 30년 만에 유죄...증거는 '자신의 자서전'",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202609011325425312"
+        },
+        {
+          "title": "[포토] 래퍼 투팍 살해한 갱단 두목, 30년 만에 유죄",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8082290"
+        }
+      ]
+    },
+    {
+      "id": "대기업",
+      "rank": 10,
+      "keyword": "대기업",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“삼전·닉스가 아니네”···‘1인당 1억8400만원’ 평균급여 1위 기업은 어디?' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“삼전·닉스가 아니네”···‘1인당 1억8400만원’ 평균급여 1위 기업은 어디?",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609021103001"
+        },
+        {
+          "title": "대기업 상반기 평균급여 5499만원…‘억대 급여’ 기업 60%가 증권사",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260902063805539"
+        },
+        {
+          "title": "대기업 평균급여 5500만원…한국금융지주 1억8400만원 '1위'",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260902000359"
         }
       ]
     }
