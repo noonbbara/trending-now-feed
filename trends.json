@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-03T19:23:30.016Z",
+  "updatedAt": "2026-09-03T21:51:32.587Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,9 +9,9 @@
       "rank": 1,
       "keyword": "제미나이",
       "volumeLabel": "10000+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "7시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '구글, 사이버 보안 특화 ‘제미나이 3.8 플래시 사이버’ 공개... 추론·코딩 특화 ‘제미나이 3.8 플래시’ 함께' (보안뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,86 +33,86 @@
       ]
     },
     {
-      "id": "gpt",
+      "id": "태풍-경로",
       "rank": 2,
-      "keyword": "gpt",
-      "volumeLabel": "10000+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts' (Axios) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
-          "source": "Axios",
-          "url": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman"
-        },
-        {
-          "title": "Path to Astra: critical capabilities and frontier safeguards",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/path-to-astra/"
-        },
-        {
-          "title": "Inside OpenAI’s Reboot",
-          "source": "Time Magazine",
-          "url": "https://time.com/article/2026/08/26/openai-sam-altman-interview/"
-        }
-      ]
-    },
-    {
-      "id": "chatgpt",
-      "rank": 3,
-      "keyword": "chatgpt",
-      "volumeLabel": "5000+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 'Widespread AI outage underway' (Axios) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Widespread AI outage underway",
-          "source": "Axios",
-          "url": "https://www.axios.com/2026/09/03/chatgpt-claude-grok-outages"
-        },
-        {
-          "title": "Four major AI models suffer rare overlapping downtime",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/"
-        },
-        {
-          "title": "ChatGPT down: OpenAI chatbot not working in major outage",
-          "source": "Yahoo Finance UK",
-          "url": "https://uk.finance.yahoo.com/news/chatgpt-down-openai-chatbot-not-151605806.html"
-        }
-      ]
-    },
-    {
-      "id": "챗gpt",
-      "rank": 4,
-      "keyword": "챗gpt",
+      "keyword": "태풍 경로",
       "volumeLabel": "2000+",
-      "startedLabel": "4시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '콤스코어, 챗GPT 광고 AI 측정 서비스 출시' (Investing.com 한국어) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '18호 태풍 ‘사우델’ 부활…중국 남부 강타' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "콤스코어, 챗GPT 광고 AI 측정 서비스 출시",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/company-news/article-93CH-2083609"
+          "title": "18호 태풍 ‘사우델’ 부활…중국 남부 강타",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8653118"
         },
         {
-          "title": "사용자 대화 분석, 맞춤형 상품 제시… 챗GPT 광고 매출액 1.3조원 돌파",
+          "title": "소멸했던 18호 태풍 사우델 재발달...타이완 쪽으로 이동",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0108_202609030320496609_005.html"
+        },
+        {
+          "title": "‘죽었다 살아난’ 18호 태풍 사우델…이례적 경로에 한반도 영향 촉각",
+          "source": "강원일보",
+          "url": "https://www.kwnews.co.kr/article/20260902500535"
+        }
+      ]
+    },
+    {
+      "id": "박항서",
+      "rank": 3,
+      "keyword": "박항서",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“손흥민과 이재성이 체코전 끝나고 저를 찾아왔다” 박항서 감독의 월드컵 충격고백…축구협회 행정 이렇게 엉망이었나' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“손흥민과 이재성이 체코전 끝나고 저를 찾아왔다” 박항서 감독의 월드컵 충격고백…축구협회 행정 이렇게 엉망이었나",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260902003612311"
+          "url": "https://v.daum.net/v/20260903214808457"
         },
         {
-          "title": "챗지피티 광고, 도입 200일 만에 연환산 매출 1.4조원 돌파…시장 판도 흔드나",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/it/1275679.html"
+          "title": "‘베트남 영웅’ 박항서, 이번엔 태국이다…칸차나부리 파워 FC와 9월 6일 새 시즌 출격",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260903050717078"
+        },
+        {
+          "title": "[단독 인터뷰] 박항서 전 월드컵 단장 “축구협회 카르텔 깨고, 젊은 축구인들에게 맡겨야 한다”",
+          "source": "풋볼리스트",
+          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=214302"
+        }
+      ]
+    },
+    {
+      "id": "손담비",
+      "rank": 4,
+      "keyword": "손담비",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이규혁♥손담비, 드디어 새집..명품 로고 쿠션+딸 소파까지 “완벽” - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이규혁♥손담비, 드디어 새집..명품 로고 쿠션+딸 소파까지 “완벽” - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/01/GE3WGZLBMNTGENZSG43GKNRYGA/"
+        },
+        {
+          "title": "손담비 딸 해이, 금수저 인생 벌써부터 시작···스위스 가구 의자 눈길",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260903041913579"
+        },
+        {
+          "title": "손담비, 쿠션까지 명품으로 채운 새 집‥딸만의 공간 만들고 “완벽”",
+          "source": "뉴스엔",
+          "url": "https://m.newsen.com/news_view.php?uid=202609021211266110"
         }
       ]
     },
@@ -120,10 +120,10 @@
       "id": "폐쇄회로-텔레비전",
       "rank": 5,
       "keyword": "폐쇄회로 텔레비전",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "1000+",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '범죄 예방 CCTV도 '재정' 따라…서울 자치구별 설치 격차' (뉴스핌) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -135,20 +135,132 @@
       ]
     },
     {
-      "id": "스낳대",
+      "id": "러시아",
       "rank": 6,
-      "keyword": "스낳대",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
+      "keyword": "러시아",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '스틸시리즈, ‘자낳대26: 스타크래프트 with 치지직’ 공식 스폰서 참여' (보드나라) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '푸틴, 출산율 강조하며 한국 언급…\"전쟁도 안 하는데 저출산\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "푸틴, 출산율 강조하며 한국 언급…\"전쟁도 안 하는데 저출산\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260903204327224"
+        },
+        {
+          "title": "푸틴, 韓저출생 지적하며 “여성 29세쯤 첫 출산 적절”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20260903/134602523/2"
+        },
+        {
+          "title": "푸틴, 한국 저출생 언급…\"군사 충돌 없어도 출산율 낮아\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260903194740wNS"
+        }
+      ]
+    },
+    {
+      "id": "정일우",
+      "rank": 7,
+      "keyword": "정일우",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '배우 정일우, 네팔 대홍수 이재민 위해 기부…\"하루 빨리 복구되길\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "배우 정일우, 네팔 대홍수 이재민 위해 기부…\"하루 빨리 복구되길\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260902150250080"
+        },
+        {
+          "title": "정일우, 네팔 대홍수 이재민 위해 기부…‘더네이버스클럽’ 회원 등재 - 스타투데이",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12142548"
+        },
+        {
+          "title": "정일우, 네팔 대홍수 피해지역 주민·아동에 기부",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260902030200371"
+        }
+      ]
+    },
+    {
+      "id": "이재영",
+      "rank": 8,
+      "keyword": "이재영",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''학폭' 한국 떠난 이재영, 유럽서 새출발?...근황 보니 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'학폭' 한국 떠난 이재영, 유럽서 새출발?...근황 보니 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/03/2026090321451110452"
+        },
+        {
+          "title": "'180㎝' 이다영, 수영복 입고 뽐낸 탄탄 몸매…日도 주목했다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260902_0003773200"
+        },
+        {
+          "title": "‘학폭 논란’ 이다영, 아제르바이잔 이적 앞두고 파격 비키니 공개 “모델 뺨치네”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202609021140013"
+        }
+      ]
+    },
+    {
+      "id": "손아섭",
+      "rank": 9,
+      "keyword": "손아섭",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '멈춰버린 2653안타…트레이드 승부수 실패인가, 순위 경쟁에도 1군 콜업 기회조차 안 온다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "멈춰버린 2653안타…트레이드 승부수 실패인가, 순위 경쟁에도 1군 콜업 기회조차 안 온다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260903051110177?f=p"
+        },
+        {
+          "title": "'여기서 만나다니'…손아섭-전준우, 퓨처스 경기서 나란히 3번 타자로 씁쓸한 재회",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260903n30000"
+        },
+        {
+          "title": "FA 1억 계약→전격 트레이드, 통산 최다안타 1위였는데, 이제 3위로 밀려나다…퓨처스에서 2타수 2안타",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/08/28/GY2GIM3DMQ4GKYLGMQYDGNJQGM/"
+        }
+      ]
+    },
+    {
+      "id": "스낳대",
+      "rank": 10,
+      "keyword": "스낳대",
+      "volumeLabel": "200+",
+      "startedLabel": "6시간 전",
+      "change": "down",
+      "changeLabel": "-4",
+      "summary": "급상승 시점에 '스틸시리즈, ‘자낳대26: 스타크래프트 with 치지직’ 공식 스폰서 참여' (로이슈) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "스틸시리즈, ‘자낳대26: 스타크래프트 with 치지직’ 공식 스폰서 참여",
-          "source": "보드나라",
-          "url": "https://www.bodnara.co.kr/bbs/article.html?num=214301"
+          "source": "로이슈",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202609032303204263204ead0791_12"
         },
         {
           "title": "[스낳대] '스낳대' 풀리그 2일차, ACDC 결승행 '청신호'",
@@ -156,93 +268,9 @@
           "url": "https://www.inven.co.kr/webzine/news/?news=320366"
         },
         {
-          "title": "[스낳대] 지옥 끝자락까지 갔다가 살아온 ‘쌍베’",
-          "source": "게임톡",
-          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=111206"
-        }
-      ]
-    },
-    {
-      "id": "거점국립대학교",
-      "rank": 7,
-      "keyword": "거점국립대학교",
-      "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '지방거점국립대 정시경쟁률 최근 5년간 최고치' (국제신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "지방거점국립대 정시경쟁률 최근 5년간 최고치",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260903.99099000960"
-        },
-        {
-          "title": "최교진 \"지역 사립대 소외되지 않도록 적극 지원하겠다\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260903177300530"
-        },
-        {
-          "title": "'등록금 0원'에 '서울대 10개'까지…거점국립대, 수시 판도 흔들까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260903085443800"
-        }
-      ]
-    },
-    {
-      "id": "저작권",
-      "rank": 8,
-      "keyword": "저작권",
-      "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '미 정부, 저작권 소송서 AI 빅테크 옹호…\"AI 경쟁력은 안보\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "미 정부, 저작권 소송서 AI 빅테크 옹호…\"AI 경쟁력은 안보\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260903094500463"
-        },
-        {
-          "title": "\"콘텐츠 훔쳤는데\"…트럼프 정부, NYT 아닌 오픈AI 손 들어줘",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03670326645576512"
-        },
-        {
-          "title": "미 법무부, 법원에 \"인공지능 저작권 침해 안해\" 의견서",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260903_0003774329"
-        }
-      ]
-    },
-    {
-      "id": "시부모",
-      "rank": 9,
-      "keyword": "시부모",
-      "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '주말 교회 갈 때마다 용돈 주겠다는 시부모…“얼마 주면 다닐 수 있나요?”' (헤럴드경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "주말 교회 갈 때마다 용돈 주겠다는 시부모…“얼마 주면 다닐 수 있나요?”",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10860816"
-        },
-        {
-          "title": "\"교회 가면 용돈 준다\" 시부모 제안에 고민 빠진 부부 [어떻게 생각하세요]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260902171842788"
-        },
-        {
-          "title": "\"교회 가면 용돈 준다\" 시부모 제안에 고민 빠진 부부 [어떻게 생각하세요]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260902n31104"
+          "title": "스틸시리즈 '자낳대26' 스폰서 참여",
+          "source": "더게임스",
+          "url": "https://www.tgdaily.co.kr/news/articleView.html?idxno=406758"
         }
       ]
     }
