@@ -1,270 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-03T01:21:56.478Z",
+  "updatedAt": "2026-09-03T06:23:21.441Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "왕-즈이",
+      "id": "이재룡",
       "rank": 1,
-      "keyword": "왕 즈이",
+      "keyword": "이재룡",
+      "volumeLabel": "5000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[단독] '뺑소니 후 술타기 의혹' 배우 이재룡, 사고 20분 만에 소주 추가로 마셔' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[단독] '뺑소니 후 술타기 의혹' 배우 이재룡, 사고 20분 만에 소주 추가로 마셔",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260903114015582"
+        },
+        {
+          "title": "‘음주 뺑소니’ 이재룡, ‘술타기’ 혐의 기소…사고 20분 만 또 소주 마셔 - 스타투데이",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12143294"
+        },
+        {
+          "title": "'뺑소니 후 술타기 혐의' 이재룡, 사고 20분 만에 소주 마셨다",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260903n19017"
+        }
+      ]
+    },
+    {
+      "id": "정년",
+      "rank": 2,
+      "keyword": "정년",
+      "volumeLabel": "5000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘버닝썬 경찰총장’ 경기북부청 총경, 정년 1년 앞두고 명예퇴직' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘버닝썬 경찰총장’ 경기북부청 총경, 정년 1년 앞두고 명예퇴직",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260902172835284"
+        },
+        {
+          "title": "'버닝썬 경찰총장' 윤규근 총경, 정년 1년 남기고 명예퇴직",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260902133000060"
+        },
+        {
+          "title": "'버닝썬 경찰총장' 윤규근 총경, 정년 1년 남기고 경찰 떠나",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/gyeonggi/6277968"
+        }
+      ]
+    },
+    {
+      "id": "기아",
+      "rank": 3,
+      "keyword": "기아",
       "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“안세영이 가장 큰 벽이다” 中 언론도 경계심 “우리 홈코트인데도 우승 장담 못한다니...” 한탄' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '기아, 8월 미국서 역대 최다 판매…현대차는 1.9% 감소(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“안세영이 가장 큰 벽이다” 中 언론도 경계심 “우리 홈코트인데도 우승 장담 못한다니...” 한탄",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260903044114605"
+          "title": "기아, 8월 미국서 역대 최다 판매…현대차는 1.9% 감소(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260902006251075"
         },
         {
-          "title": "\"안세영에 도전장\" 中 걱정, 천위페이·한웨도 없는데... 유망주가 '세계 1위 여제'와 붙는다 - 머니투데이",
+          "title": "현기차 효자된 '하이브리드'… 美 8월 판매 신기록 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/03/2026090306092922082"
+          "url": "https://www.mt.co.kr/industry/2026/09/03/2026090220013885178"
         },
         {
-          "title": "‘안세영 한판 붙자!’ 중국의 마지막 자존심 왕즈이, 38분 만에 2-0 셧아웃 승리...16강 진출 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_general/2026/09/02/MM3DSODFGEZTAMJRGBQWCMTBGU/"
-        }
-      ]
-    },
-    {
-      "id": "중앙일보-오늘의-운세",
-      "rank": 2,
-      "keyword": "중앙일보 오늘의 운세",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[오늘의 운세] 2026년 09월 03일 띠별 운세' (YTN) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[오늘의 운세] 2026년 09월 03일 띠별 운세",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0121_202609030000000001"
-        },
-        {
-          "title": "오늘의 운세 9월 2일(음력 7월 21일)",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=842398"
-        },
-        {
-          "title": "[녹유 오늘의 운세] 63년생 처음의 갈등은 꽃으로 변해요",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260831_0003770328"
-        }
-      ]
-    },
-    {
-      "id": "코레일",
-      "rank": 3,
-      "keyword": "코레일",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '코레일 \"SPC 독립 권리주체 아냐\"…과거엔 '사업추진 주체' 명시' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "코레일 \"SPC 독립 권리주체 아냐\"…과거엔 '사업추진 주체' 명시",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/realestate/general/6277933"
-        },
-        {
-          "title": "코레일+에스알 =? 더 편리한 고속철도! - 카드/한컷 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148971069&pWise=sub&pWiseSub=C1"
-        },
-        {
-          "title": "KTX·SRT 통합 첫날 동탄역 승객들 \"열차 많아지고 동선도 편해\"",
+          "title": "기아, 美 판매 신기록…현대차·기아 하이브리드 첫 5만대 돌파",
           "source": "Daum",
-          "url": "https://v.daum.net/v/9h09pxvmZv"
+          "url": "https://v.daum.net/v/20260902114952920"
         }
       ]
     },
     {
-      "id": "내야수",
+      "id": "김경문",
       "rank": 4,
-      "keyword": "내야수",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "keyword": "김경문",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"예상하지 못했다\" KIA 1R 내야수 반성 또 반성…\"신호 왔을 때 잘 대처했어야 하는데\" [창원 인터뷰]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[영상] 위기의 두 명장 김경문과 김태형' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"예상하지 못했다\" KIA 1R 내야수 반성 또 반성…\"신호 왔을 때 잘 대처했어야 하는데\" [창원 인터뷰]",
+          "title": "[영상] 위기의 두 명장 김경문과 김태형",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260903040207428"
+          "url": "https://v.daum.net/v/20260831134552029"
         },
         {
-          "title": "\"예상하지 못했다\" KIA 1R 내야수 반성 또 반성…\"신호 왔을 때 잘 대처했어야 하는데\" [창원 인터뷰]",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260903n01112"
+          "title": "1점 차 승부는 ‘감독의 역량’이라는데…승률 꼴찌는 롯데 자이언츠",
+          "source": "MHN스포츠",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1521318"
         },
         {
-          "title": "[포토]'넘버 98번을 기억해주세요!' 한화 유격수 배승수 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/02/2026090217044767482"
+          "title": "[베이스볼 톡톡] 작전도, 절실함도 없는 야구 / 김경문 감독과 결별 전망",
+          "source": "뉴스엔톡",
+          "url": "https://www.newsntalk.co.kr/news/articleView.html?idxno=5537"
         }
       ]
     },
     {
-      "id": "빙하-붕괴",
+      "id": "전기-요금",
       "rank": 5,
-      "keyword": "빙하 붕괴",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "keyword": "전기 요금",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"네팔이 대신 대가 치렀다\"‥\"기후변화 피해 배상하라\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '삼성전자 20조·하이닉스 5조…한전, 5년치 전기료 선납 제안' (한겨레) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"네팔이 대신 대가 치렀다\"‥\"기후변화 피해 배상하라\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6849184_37004.html"
-        },
-        {
-          "title": "연락두절 한국인 있는 터널 입구, 큰 바위에 막혀…셰르파 \"진입 어려워\"",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12316449"
-        },
-        {
-          "title": "네팔 대홍수 1200여명 사망·실종 5400여명…“터널 생존 기적 기다린다”",
+          "title": "삼성전자 20조·하이닉스 5조…한전, 5년치 전기료 선납 제안",
           "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/international/asiapacific/1275994.html"
+          "url": "https://www.hani.co.kr/arti/society/environment/1276031.html"
+        },
+        {
+          "title": "\"전기요금 5년치 미리 내달라\" 한전, 삼성·SK에 25조 선납 요구",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260903150239455"
+        },
+        {
+          "title": "한국전력, 삼전닉스에 25조 전기료 선납 제안",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202609030939i"
         }
       ]
     },
     {
-      "id": "사우-델",
+      "id": "공공-기관-이전",
       "rank": 6,
-      "keyword": "사우 델",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "keyword": "공공 기관 이전",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '18호 태풍 ‘사우델’ 부활…중국 남부 강타' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '정부 \"공공기관 이전 27년부터 착수...수도권 잔류 최소화\" [현장영상+]' (YTN) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "18호 태풍 ‘사우델’ 부활…중국 남부 강타",
+          "title": "정부 \"공공기관 이전 27년부터 착수...수도권 잔류 최소화\" [현장영상+]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202609031156161399"
+        },
+        {
+          "title": "김민석 \"대법원 등 '헌법기관 이전' 논할 때 올 것\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260902211712972"
+          "url": "https://v.daum.net/v/20260903150241462"
         },
         {
-          "title": "'또 태풍?' 제24호 '크로반' 발생…한반도 영향 가능성은",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260901580400"
-        },
-        {
-          "title": "'이 태풍 뭐지?' 사우델 부활‥홍콩 뚫더니 동쪽 '급턴'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6848862_36925.html"
+          "title": "법무부·성평등부 내년 세종 이전… 발전 5사, 항만공사 4곳 통합",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/goverment/2026/09/03/QU3XLRF6JFDIZFSYKQTPKWROSM/"
         }
       ]
     },
     {
-      "id": "대한민국-독립유공자",
+      "id": "로저-페더러",
       "rank": 7,
-      "keyword": "대한민국 독립유공자",
+      "keyword": "로저 페더러",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '아빠들은 세계 1위 경쟁했는데…17살 아들딸은 '핑크빛' 열애설 \"US오픈서 또 포착\"→프로 랭커 되기 위해 페더러 있는 스위스…' (SPOTV NEWS) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "아빠들은 세계 1위 경쟁했는데…17살 아들딸은 '핑크빛' 열애설 \"US오픈서 또 포착\"→프로 랭커 되기 위해 페더러 있는 스위스 이주까지 검토",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1005307"
+        },
+        {
+          "title": "로저 페더러, 국제 테니스 명예의 전당 헌액으로 테니스 역사에 이름을 새기다",
+          "source": "Hypebeast.KR",
+          "url": "https://hypebeast.kr/2026/8/roger-federer-takes-his-place-in-tennis-history-with-his-hall-of-fame-induction"
+        },
+        {
+          "title": "[김종석의 그라운드] \"처음 만났을 때 우승은 0개\"…페더러의 103개 트로피를 함께 들어 올린 연상 아내 미르카",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260831075348595"
+        }
+      ]
+    },
+    {
+      "id": "협박",
+      "rank": 8,
+      "keyword": "협박",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "summary": "급상승 시점에 '[단독] \"엄마 찔렸어\" 아이가 봤다…악마 남편은 칼 2자루 준비' (JTBC뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": []
+      "newsSignals": [
+        {
+          "title": "[단독] \"엄마 찔렸어\" 아이가 봤다…악마 남편은 칼 2자루 준비",
+          "source": "JTBC뉴스",
+          "url": "https://news.jtbc.co.kr/article/NB12316373"
+        },
+        {
+          "title": "'이혼 소송 중 아내 살해' 30대, 오늘 구속심사",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202609031422349968"
+        },
+        {
+          "title": "\"500원 비싸게 샀다고 폭행\"⋯'아내 살해 공무원' 피해자 유족 증언",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260903084207349"
+        }
+      ]
     },
     {
-      "id": "브루어스-대-컵스",
-      "rank": 8,
-      "keyword": "브루어스 대 컵스",
+      "id": "팔란티어-테크놀로지",
+      "rank": 9,
+      "keyword": "팔란티어 테크놀로지",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '구글의 ‘안방 공습’… 독주하던 AI 방산 공룡 흔들렸다' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "구글의 ‘안방 공습’… 독주하던 AI 방산 공룡 흔들렸다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/money/2026/09/03/WR4EDWMZ3FDKVPHBIVQPHQSNMI/"
+        },
+        {
+          "title": "잇단 호재도 삼킨 PER…팔란티어, 차익실현 직면",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433312"
+        },
+        {
+          "title": "팔란티어 테크 주가, 오늘 하락하는 이유는?",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2082501"
+        }
+      ]
+    },
+    {
+      "id": "필리조선소",
+      "rank": 10,
+      "keyword": "필리조선소",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'MLB 컵스, 밀워키전 9홈런 폭발…역대 한 경기 최다 공동 2위' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[단독] 한화, 美 필리조선소 확장 본격 착수…기존 부지부터 개발' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "MLB 컵스, 밀워키전 9홈런 폭발…역대 한 경기 최다 공동 2위",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260901151100007"
+          "title": "[단독] 한화, 美 필리조선소 확장 본격 착수…기존 부지부터 개발",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/industry/general-industry/6278064"
         },
         {
-          "title": "홈런, 홈런, 또 홈런…컵스 역사에 이름 남겼다…한 시즌 2번째 대기록",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260901144650692"
+          "title": "한화필리조선소 확장, 마스가 협정에 달렸다",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202609031031591627"
         },
         {
-          "title": "시카고 컵스, 밀워키전 9홈런 몰아치며 17-3 대승 질주",
-          "source": "데일리스포츠한국",
-          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=433098"
-        }
-      ]
-    },
-    {
-      "id": "외환시장",
-      "rank": 9,
-      "keyword": "외환시장",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한은, 외환보유액 순위 25년 만에 돌연 비공개로 돌려···8월 증가폭 ‘역대 최대’' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "한은, 외환보유액 순위 25년 만에 돌연 비공개로 돌려···8월 증가폭 ‘역대 최대’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609030747001"
-        },
-        {
-          "title": "한은, 외환보유액 순위 25년 만에 공개 중단…\"분석적 가치 미미\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260903095233859"
-        },
-        {
-          "title": "8월 외환보유액 143.3억 달러↑…“금융기관 외화예수금 큰 폭 증가”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8653364"
-        }
-      ]
-    },
-    {
-      "id": "정책",
-      "rank": 10,
-      "keyword": "정책",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '국힘 \"李정부 청년정책은 '먹고 떨어져'식…청년과 함께 싸울것\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "국힘 \"李정부 청년정책은 '먹고 떨어져'식…청년과 함께 싸울것\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260902083900001"
-        },
-        {
-          "title": "국민의힘 여의도연구원, 2026년 청년정책 수요조사 전달식",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20260903_0021421268"
-        },
-        {
-          "title": "\"돈 모아도 답이 안 보이는데\"…2030 내집마련 어떻게 하나요?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260902150257093"
+          "title": "\"한화, 필라델피아에서 나가\" 美 시민단체 시위…’전쟁 경제’ 참여 비판 By The Guru",
+          "source": "Investing.com",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2079253"
         }
       ]
     }
