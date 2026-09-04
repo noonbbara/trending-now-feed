@@ -1,286 +1,258 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-04T19:48:44.088Z",
+  "updatedAt": "2026-09-04T22:17:40.680Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "입스위치-대-리버풀",
+      "id": "중앙일보-오늘의-운세",
       "rank": 1,
-      "keyword": "입스위치 대 리버풀",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '입스위치 vs 리버풀 프리뷰: 우승 경쟁의 뜨거운 승부' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "입스위치 vs 리버풀 프리뷰: 우승 경쟁의 뜨거운 승부",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-ipswich-vs-liverpool-diem-nong-cuoc-dua-top-dau"
-        },
-        {
-          "title": "입스위치 대 리버풀: 가장 주목할 만한 통계",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/ipswich-vs-liverpool-nhung-thong-ke-dang-chu-y-nhat-1761185.ldo"
-        },
-        {
-          "title": "유럽 ​​축구 경기 일정: 레알 마드리드와 리버풀의 경기.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/lich-truc-tiep-bong-da-chau-au-real-madrid-liverpool-ra-san"
-        }
-      ]
-    },
-    {
-      "id": "레알-베티스-대-레알-마드리드",
-      "rank": 2,
-      "keyword": "레알 베티스 대 레알 마드리드",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '레알 마드리드 무리뉴가 인정했다…'이강인의 아틀레티코 마드리드, 라리가 우승 후보'' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "레알 마드리드 무리뉴가 인정했다…'이강인의 아틀레티코 마드리드, 라리가 우승 후보'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260904050349727"
-        },
-        {
-          "title": "라리가: ‘5실점 대패’ 베티스 vs ‘개막 3연승’ 마드리드… 승자는 누구",
-          "source": "티스토리",
-          "url": "https://sbotopkr.tistory.com/2527"
-        },
-        {
-          "title": "“최고의 영입은 벤치에 있다” 이게 바로 무리뉴 매직?…“선수단이 서로 존중하는 분위기 되살리고자 해”",
-          "source": "인터풋볼",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=693576"
-        }
-      ]
-    },
-    {
-      "id": "이혼",
-      "rank": 3,
-      "keyword": "이혼",
-      "volumeLabel": "5000+",
-      "startedLabel": "6시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '[단독] “신고하면 가만 안 둬” 공무원 남편 협박에…‘이혼 살인’ 피해자 신고 못했다' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[단독] “신고하면 가만 안 둬” 공무원 남편 협박에…‘이혼 살인’ 피해자 신고 못했다",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8655234"
-        },
-        {
-          "title": "이혼소송 아내 살해 공무원, 신상 비공개…“5세 딸 2차 피해 우려”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260904/134606971/1"
-        },
-        {
-          "title": "\"엄마 엄마\" 울음에도 살해…'스마트워치'에 담긴 음성",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008738198"
-        }
-      ]
-    },
-    {
-      "id": "psg-대-as-모나코",
-      "rank": 4,
-      "keyword": "psg 대 as 모나코",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''십자인대 파열' 日 에이스 미나미노가 돌아온다…모나코 5일 PSG전 명단 포함, 일본 대표팀 복귀도 초읽기?' (네이트) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'십자인대 파열' 日 에이스 미나미노가 돌아온다…모나코 5일 PSG전 명단 포함, 일본 대표팀 복귀도 초읽기?",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260904n07126?mid=s22&list=recent&cpcd="
-        },
-        {
-          "title": "파리 생제르맹 vs 모나코 예측: 선두 자리를 노릴 수 있는 기회.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-paris-saint-germain-vs-monaco-co-hoi-bam-duoi-ngoi-dau"
-        },
-        {
-          "title": "PSG 대 모나코, 9월 5일 오전 2시 5분: 생중계 링크, 분석 및 예측.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/psg-vs-monaco-2h05-ngay-5-9-link-xem-truc-tiep-nhan-dinh-du-doan"
-        }
-      ]
-    },
-    {
-      "id": "에이브러햄-링컨",
-      "rank": 5,
-      "keyword": "에이브러햄 링컨",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''지옥에 다녀온' 5천 미군‥\"땅이다\" 파타야 우르르' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'지옥에 다녀온' 5천 미군‥\"땅이다\" 파타야 우르르",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6849661_36925.html"
-        },
-        {
-          "title": "만신창이로 등장한 링컨함 \"지옥 다녀온 듯\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202609031923265533"
-        },
-        {
-          "title": "286일간 무슨 일이…\"전염병처럼 번진다\" 태국에 나타난 美항모 모습 '충격'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/VuSofuSrAG"
-        }
-      ]
-    },
-    {
-      "id": "장영란",
-      "rank": 6,
-      "keyword": "장영란",
+      "keyword": "중앙일보 오늘의 운세",
       "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''복권 카드' 장영란, 타로 예언에 놀랐다 \"스태프 불화→억대 매출까지\"('A급 장영란')' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[오늘의 운세] 2026년 09월 04일 띠별 운세' (YTN) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'복권 카드' 장영란, 타로 예언에 놀랐다 \"스태프 불화→억대 매출까지\"('A급 장영란')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/03/MUYDMZDCGJSDSMBWMVSWKNLDMU/"
+          "title": "[오늘의 운세] 2026년 09월 04일 띠별 운세",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0121_202609040000000001"
         },
         {
-          "title": "장영란, 100억대 자산 예언에 화들짝 \"2028년까지 대운\"('A급 장영란')",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260902031444502"
+          "title": "오늘의 운세 9월 4일(음력 7월 23일)",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=842474"
         },
         {
-          "title": "장영란, 내년 제대로 터지나…“100억 자산가 카드, 2028년까지”",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260902/134595244/1"
+          "title": "[김동완의 오늘의 운세] 2026년 9월 4일",
+          "source": "서울Pn",
+          "url": "https://m.go.seoul.co.kr/news/life/culture-news/fortune-today/2026/09/04/20260904500004?cp=go"
         }
       ]
     },
     {
-      "id": "곽튜브",
-      "rank": 7,
-      "keyword": "곽튜브",
-      "volumeLabel": "1000+",
-      "startedLabel": "6시간 전",
-      "change": "down",
-      "changeLabel": "-5",
-      "summary": "급상승 시점에 '전현무, 2주 연속 녹화 불참 곽튜브 언급 \"오늘도 그 녀석 없어\" (전현무계획4)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "id": "중앙일보",
+      "rank": 2,
+      "keyword": "중앙일보",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '(설명) 중앙일보,\"검찰 지휘 사라지는데...특사경 사건은 60% 급증했다\" 기사 관련' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "전현무, 2주 연속 녹화 불참 곽튜브 언급 \"오늘도 그 녀석 없어\" (전현무계획4)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260904213909139"
+          "title": "(설명) 중앙일보,\"검찰 지휘 사라지는데...특사경 사건은 60% 급증했다\" 기사 관련",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148971178"
         },
         {
-          "title": "\"사전 섭외 없었는데\" 조권·이창민 유명세로 바로 OK···비결은 '무명전설'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/04/MU4WCZRQHA2DGOJVGFQTGMJQMQ/"
-        },
-        {
-          "title": "정진운, 한자리서 맥주 500㏄ 68잔 마셨다",
+          "title": "조국혁신당, 법무부 '수사준칙 입법예고'에 \"檢 부활 조항 삭제·수정해야\"",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260904_0003776583"
+          "url": "https://www.newsis.com/view/NISX20260904_0003776767"
+        },
+        {
+          "title": "檢 수사요청해도 警 입건 검토만?… ‘암장 방지책’ 유명무실 논란",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260903190552887"
         }
       ]
     },
     {
-      "id": "정치",
-      "rank": 8,
-      "keyword": "정치",
+      "id": "지상렬",
+      "rank": 3,
+      "keyword": "지상렬",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''인천 토박이' 지상렬, 16세 연하 ♥신보람 위해 서울로?...\"날 움직이게 할 사람 생겨\" (양락1번지)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'인천 토박이' 지상렬, 16세 연하 ♥신보람 위해 서울로?...\"날 움직이게 할 사람 생겨\" (양락1번지)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Qn1M3WAitl"
+        },
+        {
+          "title": "지상렬 \"♥'16세 연하' 신보람, 날 움직이게 하는 사람\" 애정 폭발 (양락1번지)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260903n16860"
+        },
+        {
+          "title": "지상렬, '16세 연하♥' 신보람과 결혼하나..\"서울로 이사할 수도, 날 움직이게 한 사람\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-03/202609030100020970001201"
+        }
+      ]
+    },
+    {
+      "id": "신지",
+      "rank": 4,
+      "keyword": "신지",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"어떠신지 누구신지\"…문원♥신지 42㎏까지 '쏙' 몰라보게 홀쭉해진 비결' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"어떠신지 누구신지\"…문원♥신지 42㎏까지 '쏙' 몰라보게 홀쭉해진 비결",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260904_0003776325"
+        },
+        {
+          "title": "'42kg' 신지, 언제까지 말라질거야…뾰족해진 턱선 찔리겠어",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260903193709688"
+        },
+        {
+          "title": "\"금주의 힘?\"…신지, 42kg '뼈말라' 된 근황",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260904n00631?mid=e1100"
+        }
+      ]
+    },
+    {
+      "id": "미국-해군",
+      "rank": 5,
+      "keyword": "미국 해군",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '美해군, 차기 호위함에 ‘한국 충남급’ 등 검토' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "美해군, 차기 호위함에 ‘한국 충남급’ 등 검토",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/p3i6Rc6bzl?f=p"
+        },
+        {
+          "title": "한화가 미국 군함까지 노린다?",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0519_202609031905359891"
+        },
+        {
+          "title": "[영상] 美 차기 호위함 '3파전'… 한국·일본·튀르키예 '불꽃 경쟁'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260903012700704"
+        }
+      ]
+    },
+    {
+      "id": "skhy",
+      "rank": 6,
+      "keyword": "skhy",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독]용혜인, 이번엔 ‘꼼수 절세’?… 본인이 만든 당에 1.9억 내고 3600만원 稅 감면' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '$SK hynix (SKHY.US)$ beautiful, get them gains go aespa @one pinky up[O…' (Moomoo) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[단독]용혜인, 이번엔 ‘꼼수 절세’?… 본인이 만든 당에 1.9억 내고 3600만원 稅 감면",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260905014247714"
+          "title": "$SK hynix (SKHY.US)$ beautiful, get them gains go aespa @one pinky up[Onlooker]",
+          "source": "Moomoo",
+          "url": "https://www.moomoo.com/community/feed/sk-hynix-skhy-us-beautiful-get-them-gains-go-aespa-117214914740230"
         },
         {
-          "title": "용혜인 성평등부 후보자, 집시법 위반·교통방해 등 전과 4건",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260904126600001"
+          "title": "Is SK hynix (NasdaqGS:SKHY) Undervalued Following the Launch of a New Short ETF?",
+          "source": "Simply Wall Street",
+          "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-skhy/sk-hynix/news/is-sk-hynix-nasdaqgsskhy-undervalued-following-the-launch-of"
         },
         {
-          "title": "‘부메랑’ 된 4년전 용혜인의 말…“장관직에 연연 말라” 여가부장관 질타",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11614648"
+          "title": "SK hynix Issues Statement: \"No Decisions Made\" on Solidigm's 5-10 Trillion Won Pre-IPO Reports",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/en/article/enterprise-CEO/2026090417282397113"
         }
       ]
     },
     {
-      "id": "스낳대",
-      "rank": 9,
-      "keyword": "스낳대",
-      "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '스틸시리즈, ‘자낳대26: 스타크래프트 with 치지직’ 공식 스폰서 참여' (로이슈) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "스틸시리즈, ‘자낳대26: 스타크래프트 with 치지직’ 공식 스폰서 참여",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=202609032303204263204ead0791_12"
-        },
-        {
-          "title": "[스낳대] '스낳대' 풀리그 2일차, ACDC 결승행 '청신호'",
-          "source": "인벤",
-          "url": "https://www.inven.co.kr/webzine/news/?news=320366"
-        },
-        {
-          "title": "[스낳대] 소풍왔니의 극악무도한 사이오닉 스톰",
-          "source": "게임톡",
-          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=111234"
-        }
-      ]
-    },
-    {
-      "id": "의료",
-      "rank": 10,
-      "keyword": "의료",
+      "id": "реал-бетис-реал-мадрид",
+      "rank": 7,
+      "keyword": "реал бетис реал мадрид",
       "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '경기도 지역응급의료센터 4곳 추가…36곳 운영' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Мбаппе толкнул вратаря «Бетиса», отпраздновавшего отбитый пенальти пере…' (https://www.championat.ru/) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "경기도 지역응급의료센터 4곳 추가…36곳 운영",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260904075322357"
+          "title": "Мбаппе толкнул вратаря «Бетиса», отпраздновавшего отбитый пенальти перед французом",
+          "source": "https://www.championat.ru/",
+          "url": "https://www.championat.ru/football/news-6608290-mbappe-tolknul-vratarya-betisa-otprazdnovavshego-otbityj-penalti-pered-francuzom.html"
         },
         {
-          "title": "수원덕산병원, ‘지역 응급의료센터’ 신규 지정…경기 서남부 의료 책임",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260904580155"
+          "title": "«Бетис» — «Реал»: где смотреть прямую трансляцию матча чемпионата Испании 4 сентября",
+          "source": "Матч ТВ",
+          "url": "https://matchtv.ru/football/matchtvnews_NI2361451_Betis__Real_gde_smotret_pramuju_translaciju_matcha_chempionata_Ispanii_4_sentabra"
         },
         {
-          "title": "대구시, 지역응급의료센터 3곳 지정…응급의료망 강화",
+          "title": "Ла Лига. Драма с нереализованным пенальти Мбаппе на 90+4 минуте: Реал сенсационно проиграл Бетису",
+          "source": "UA-Football",
+          "url": "https://www.ua-football.com/foreign/spain/1788554004-la-liga-drama-s-nerealizovannym-penalti-mbappe-na-904-minute-real-sensacionno-proigral-betisu.html"
+        }
+      ]
+    },
+    {
+      "id": "중대범죄수사청",
+      "rank": 8,
+      "keyword": "중대범죄수사청",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '초대 중수청장 후보에 문홍주·이윤제 전 특검보 등 4명 올라' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "초대 중수청장 후보에 문홍주·이윤제 전 특검보 등 4명 올라",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6849720_37004.html"
+        },
+        {
+          "title": "[속보]초대 중수청장 후보 4명…김관정·김지용·문홍주·이윤제",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609041803001"
+        },
+        {
+          "title": "중대범죄수사청장 후보추천위원회 회의 결과 브리핑",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260903110500053"
+          "url": "https://www.yna.co.kr/view/PYH20260904153000013"
+        }
+      ]
+    },
+    {
+      "id": "이자",
+      "rank": 9,
+      "keyword": "이자",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''비싼 이자 탓' 10년 고정금리 주담대 외면⋯금융당국은 활성화 드라이브' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'비싼 이자 탓' 10년 고정금리 주담대 외면⋯금융당국은 활성화 드라이브",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260905061127330"
+        },
+        {
+          "title": "\"대출 연장하러 은행 갔다가 화들짝\"…1억 빌린 직장인 '날벼락'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026090329281"
+        },
+        {
+          "title": "5년 전 저금리 막차 탄 '영끌족' 이자폭탄…\"3억 주담대 원리금 연 950만원↑\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260902_0003773901"
         }
       ]
     }
