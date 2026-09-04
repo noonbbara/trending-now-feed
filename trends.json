@@ -1,45 +1,185 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-04T17:00:23.712Z",
+  "updatedAt": "2026-09-04T19:48:44.088Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "이혼",
+      "id": "입스위치-대-리버풀",
       "rank": 1,
-      "keyword": "이혼",
+      "keyword": "입스위치 대 리버풀",
       "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] \"이혼 잘 끝내고 아이랑 여행간다 했는데\" 너무 이른 작별' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '입스위치 vs 리버풀 프리뷰: 우승 경쟁의 뜨거운 승부' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[단독] \"이혼 잘 끝내고 아이랑 여행간다 했는데\" 너무 이른 작별",
+          "title": "입스위치 vs 리버풀 프리뷰: 우승 경쟁의 뜨거운 승부",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-ipswich-vs-liverpool-diem-nong-cuoc-dua-top-dau"
+        },
+        {
+          "title": "입스위치 대 리버풀: 가장 주목할 만한 통계",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/ipswich-vs-liverpool-nhung-thong-ke-dang-chu-y-nhat-1761185.ldo"
+        },
+        {
+          "title": "유럽 ​​축구 경기 일정: 레알 마드리드와 리버풀의 경기.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/lich-truc-tiep-bong-da-chau-au-real-madrid-liverpool-ra-san"
+        }
+      ]
+    },
+    {
+      "id": "레알-베티스-대-레알-마드리드",
+      "rank": 2,
+      "keyword": "레알 베티스 대 레알 마드리드",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '레알 마드리드 무리뉴가 인정했다…'이강인의 아틀레티코 마드리드, 라리가 우승 후보'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "레알 마드리드 무리뉴가 인정했다…'이강인의 아틀레티코 마드리드, 라리가 우승 후보'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260904202633502"
+          "url": "https://v.daum.net/v/20260904050349727"
         },
         {
-          "title": "자녀 앞에서 아내 살해한 공무원…얼굴·이름 비공개 결정",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260904110300061"
+          "title": "라리가: ‘5실점 대패’ 베티스 vs ‘개막 3연승’ 마드리드… 승자는 누구",
+          "source": "티스토리",
+          "url": "https://sbotopkr.tistory.com/2527"
         },
         {
-          "title": "딸 앞에서 아내 살해한 남편‥\"신고하면 가만 안 둬\" 협박",
+          "title": "“최고의 영입은 벤치에 있다” 이게 바로 무리뉴 매직?…“선수단이 서로 존중하는 분위기 되살리고자 해”",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=693576"
+        }
+      ]
+    },
+    {
+      "id": "이혼",
+      "rank": 3,
+      "keyword": "이혼",
+      "volumeLabel": "5000+",
+      "startedLabel": "6시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 '[단독] “신고하면 가만 안 둬” 공무원 남편 협박에…‘이혼 살인’ 피해자 신고 못했다' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[단독] “신고하면 가만 안 둬” 공무원 남편 협박에…‘이혼 살인’ 피해자 신고 못했다",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8655234"
+        },
+        {
+          "title": "이혼소송 아내 살해 공무원, 신상 비공개…“5세 딸 2차 피해 우려”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260904/134606971/1"
+        },
+        {
+          "title": "\"엄마 엄마\" 울음에도 살해…'스마트워치'에 담긴 음성",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008738198"
+        }
+      ]
+    },
+    {
+      "id": "psg-대-as-모나코",
+      "rank": 4,
+      "keyword": "psg 대 as 모나코",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''십자인대 파열' 日 에이스 미나미노가 돌아온다…모나코 5일 PSG전 명단 포함, 일본 대표팀 복귀도 초읽기?' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'십자인대 파열' 日 에이스 미나미노가 돌아온다…모나코 5일 PSG전 명단 포함, 일본 대표팀 복귀도 초읽기?",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260904n07126?mid=s22&list=recent&cpcd="
+        },
+        {
+          "title": "파리 생제르맹 vs 모나코 예측: 선두 자리를 노릴 수 있는 기회.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-paris-saint-germain-vs-monaco-co-hoi-bam-duoi-ngoi-dau"
+        },
+        {
+          "title": "PSG 대 모나코, 9월 5일 오전 2시 5분: 생중계 링크, 분석 및 예측.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/psg-vs-monaco-2h05-ngay-5-9-link-xem-truc-tiep-nhan-dinh-du-doan"
+        }
+      ]
+    },
+    {
+      "id": "에이브러햄-링컨",
+      "rank": 5,
+      "keyword": "에이브러햄 링컨",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''지옥에 다녀온' 5천 미군‥\"땅이다\" 파타야 우르르' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'지옥에 다녀온' 5천 미군‥\"땅이다\" 파타야 우르르",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6849643_36918.html"
+          "url": "https://imnews.imbc.com/news/2026/world/article/6849661_36925.html"
+        },
+        {
+          "title": "만신창이로 등장한 링컨함 \"지옥 다녀온 듯\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202609031923265533"
+        },
+        {
+          "title": "286일간 무슨 일이…\"전염병처럼 번진다\" 태국에 나타난 美항모 모습 '충격'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/VuSofuSrAG"
+        }
+      ]
+    },
+    {
+      "id": "장영란",
+      "rank": 6,
+      "keyword": "장영란",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''복권 카드' 장영란, 타로 예언에 놀랐다 \"스태프 불화→억대 매출까지\"('A급 장영란')' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'복권 카드' 장영란, 타로 예언에 놀랐다 \"스태프 불화→억대 매출까지\"('A급 장영란')",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/03/MUYDMZDCGJSDSMBWMVSWKNLDMU/"
+        },
+        {
+          "title": "장영란, 100억대 자산 예언에 화들짝 \"2028년까지 대운\"('A급 장영란')",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260902031444502"
+        },
+        {
+          "title": "장영란, 내년 제대로 터지나…“100억 자산가 카드, 2028년까지”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260902/134595244/1"
         }
       ]
     },
     {
       "id": "곽튜브",
-      "rank": 2,
+      "rank": 7,
       "keyword": "곽튜브",
       "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "6시간 전",
+      "change": "down",
+      "changeLabel": "-5",
       "summary": "급상승 시점에 '전현무, 2주 연속 녹화 불참 곽튜브 언급 \"오늘도 그 녀석 없어\" (전현무계획4)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -49,137 +189,53 @@
           "url": "https://v.daum.net/v/20260904213909139"
         },
         {
+          "title": "\"사전 섭외 없었는데\" 조권·이창민 유명세로 바로 OK···비결은 '무명전설'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/04/MU4WCZRQHA2DGOJVGFQTGMJQMQ/"
+        },
+        {
           "title": "정진운, 한자리서 맥주 500㏄ 68잔 마셨다",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20260904_0003776583"
-        },
-        {
-          "title": "\"사전 섭외 없었는데\" 조권·이창민 유명세로 바로 OK···비결은 '무명전설'",
-          "source": "OSEN",
-          "url": ""
         }
       ]
     },
     {
-      "id": "유가-람",
-      "rank": 3,
-      "keyword": "유가 람",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
+      "id": "정치",
+      "rank": 8,
+      "keyword": "정치",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[오피셜] 여자배구 개막 앞두고 트레이드 성사…GS칼텍스-SOOP, 박사랑-유가람 1대1 맞교환 단행' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[단독]용혜인, 이번엔 ‘꼼수 절세’?… 본인이 만든 당에 1.9억 내고 3600만원 稅 감면' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[오피셜] 여자배구 개막 앞두고 트레이드 성사…GS칼텍스-SOOP, 박사랑-유가람 1대1 맞교환 단행",
+          "title": "[단독]용혜인, 이번엔 ‘꼼수 절세’?… 본인이 만든 당에 1.9억 내고 3600만원 稅 감면",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260904170949527"
+          "url": "https://v.daum.net/v/20260905014247714"
         },
         {
-          "title": "프로배구 GS칼텍스-SOOP, 리베로 유가람↔세터 박사랑 트레이드",
+          "title": "용혜인 성평등부 후보자, 집시법 위반·교통방해 등 전과 4건",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260904149600007"
+          "url": "https://www.yna.co.kr/view/AKR20260904126600001"
         },
         {
-          "title": "\"공격력 극대화에 큰 도움\" 이영택 감독 기대감…GS칼텍스, 유가람 내주고 '장신 세터' 박사랑 품었다 [오피셜]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/volleyball/2026/09/04/GYYTOZDFMI2DAZJUGI2WKMBYGY/"
-        }
-      ]
-    },
-    {
-      "id": "박세완",
-      "rank": 4,
-      "keyword": "박세완",
-      "volumeLabel": "1000+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '박세완, 수영장서 깜짝 비키니 자태…반전 매력 [DA★]' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "박세완, 수영장서 깜짝 비키니 자태…반전 매력 [DA★]",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260904/134609168/1"
-        },
-        {
-          "title": "박세완, 수영복 입고 여름 만끽...“물개들의 여름 나기” - 스타투데이",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12144873"
-        },
-        {
-          "title": "‘북한 아이유’ 박세완, 담요 두르고 과감한 비키니 자태",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202609041638003"
-        }
-      ]
-    },
-    {
-      "id": "장수",
-      "rank": 5,
-      "keyword": "장수",
-      "volumeLabel": "1000+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 '\"63개 마을 식품사막화 해소\" 옥천 이동식 마켓 인기 만점' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"63개 마을 식품사막화 해소\" 옥천 이동식 마켓 인기 만점",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260904104350159"
-        },
-        {
-          "title": "'농촌 주민 찾아가는 이동 점빵'…장수군 41개 마을서 운영",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260904070200055"
-        },
-        {
-          "title": "\"오지마을 장보기 쉬워졌어요\"…옥천군 '찾아가는 행복슈퍼'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/sejong-chungbuk/6279915"
-        }
-      ]
-    },
-    {
-      "id": "여수세계박람회장",
-      "rank": 6,
-      "keyword": "여수세계박람회장",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘클래식의 향연’ 여수음악제 열 돌…인재 양성 요람으로' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘클래식의 향연’ 여수음악제 열 돌…인재 양성 요람으로",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260904223354967"
-        },
-        {
-          "title": "\"섬의 모든 것 한자리에\"...여수세계섬박람회 내일 개막",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0115_202609040031220901"
-        },
-        {
-          "title": "정명훈, 여수음악제 예술고문 위촉…10주년 맞아 새 도약",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20086975"
+          "title": "‘부메랑’ 된 4년전 용혜인의 말…“장관직에 연연 말라” 여가부장관 질타",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11614648"
         }
       ]
     },
     {
       "id": "스낳대",
-      "rank": 7,
+      "rank": 9,
       "keyword": "스낳대",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "500+",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '스틸시리즈, ‘자낳대26: 스타크래프트 with 치지직’ 공식 스폰서 참여' (로이슈) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -194,93 +250,37 @@
           "url": "https://www.inven.co.kr/webzine/news/?news=320366"
         },
         {
-          "title": "스틸시리즈 '자낳대26' 스폰서 참여",
-          "source": "더게임스",
-          "url": "https://www.tgdaily.co.kr/news/articleView.html?idxno=406758"
+          "title": "[스낳대] 소풍왔니의 극악무도한 사이오닉 스톰",
+          "source": "게임톡",
+          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=111234"
         }
       ]
     },
     {
       "id": "의료",
-      "rank": 8,
+      "rank": 10,
       "keyword": "의료",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '울주병원 개원, 울주군 남부권 7년 의료 공백 해소 기대' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "울주병원 개원, 울주군 남부권 7년 의료 공백 해소 기대",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260905001610999"
-        },
-        {
-          "title": "울주병원 정식 개원…남부권 주민 ‘원정 진료’ 불편 던다",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260904500601"
-        },
-        {
-          "title": "'55병상·5개 진료과' 울주병원 개원…\"남부권 7년 의료공백 해소\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/ulsan/6280089"
-        }
-      ]
-    },
-    {
-      "id": "부상",
-      "rank": 9,
-      "keyword": "부상",
-      "volumeLabel": "200+",
       "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''벨기에 1부 임대' 양민혁, 부상으로 리그 명단 제외… 아시안게임 합류 앞두고 '불운'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 '경기도 지역응급의료센터 4곳 추가…36곳 운영' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'벨기에 1부 임대' 양민혁, 부상으로 리그 명단 제외… 아시안게임 합류 앞두고 '불운'",
+          "title": "경기도 지역응급의료센터 4곳 추가…36곳 운영",
           "source": "Daum",
-          "url": "https://v.daum.net/v/1BMUzRu5S0"
+          "url": "https://v.daum.net/v/20260904075322357"
         },
         {
-          "title": "'양민혁 날벼락' 군면제 걸린 AG 큰일났다…\"부상으로 명단 제외\" 1군 경기 사라진 이유 나와→아시안게임 목전인데 괜찮나",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260904n23694"
+          "title": "수원덕산병원, ‘지역 응급의료센터’ 신규 지정…경기 서남부 의료 책임",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260904580155"
         },
         {
-          "title": "韓 축구 비상! ‘아시안게임 핵심’ 양민혁, 부상 소식 전해져…대표팀 합류 여부 관심",
-          "source": "MHN스포츠",
-          "url": "https://mhnse.com/news/articleView.html?idxno=1523111"
-        }
-      ]
-    },
-    {
-      "id": "최대호",
-      "rank": 10,
-      "keyword": "최대호",
-      "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '티앤디소프트, 지속적인 지역사회 나눔 실천… 성남시장 표창 수상' (보안뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "티앤디소프트, 지속적인 지역사회 나눔 실천… 성남시장 표창 수상",
-          "source": "보안뉴스",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=145664"
-        },
-        {
-          "title": "남원시의회, 사회복지박람회서 '찾아가는 의정 홍보부스' 운영",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260904112208973"
-        },
-        {
-          "title": "신상진 성남시장 “누구도 소외되지 않는 행복도시 만들겠다”",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/realtime/sokbo_viewNew.htm?idxno=2026090412163287130"
+          "title": "대구시, 지역응급의료센터 3곳 지정…응급의료망 강화",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260903110500053"
         }
       ]
     }
