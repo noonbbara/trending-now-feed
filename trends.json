@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-05T18:06:37.704Z",
+  "updatedAt": "2026-09-05T20:39:23.093Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,9 +9,9 @@
       "rank": 1,
       "keyword": "샬케 대 바이에른",
       "volumeLabel": "10000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 'FC 샬케 04 vs 바이에른 뮌헨 경기 예측: 원정팀이 연승 행진을 이어갈 수 있을까요?' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -21,14 +21,14 @@
           "url": "https://www.vietnam.vn/ko/nhan-dinh-fc-schalke-04-vs-bayern-munchen-khach-tiep-tuc-bay-cao"
         },
         {
+          "title": "‘역대급 실책’ 골키퍼는 잊어라! 케인 슛 선방하며 MOM 선정, 카리우스 감동적인 빅리그 복귀전",
+          "source": "풋볼리스트",
+          "url": ""
+        },
+        {
           "title": "분데스리가 샬케 04 대 바이에른 뮌헨 경기 예측",
           "source": "Laodong.vn",
           "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-schalke-04-vs-bayern-munich-tai-bundesliga-1761700.ldo"
-        },
-        {
-          "title": "샬케 대 바이에른 뮌헨 경기 예측, 9월 5일 23시 30분: 홈팀을 완파할 것.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-schalke-vs-bayern-munich-23h30-ngay-5-9-vui-dap-chu-nha"
         }
       ]
     },
@@ -37,9 +37,9 @@
       "rank": 2,
       "keyword": "로또 1240",
       "volumeLabel": "2000+",
-      "startedLabel": "5시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "startedLabel": "7시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '로또 1240회 1등 16명···각 17억9000만원씩' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -50,24 +50,80 @@
         },
         {
           "title": "이번 주 로또 1등 16명…당첨번호와 판매점은 어디?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260905204720260"
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260905580115"
         },
         {
           "title": "로또 1등 당첨자 16명 17.9억씩 받는다…전국 명당 판매처 보니",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12145165"
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260905224201593"
+        }
+      ]
+    },
+    {
+      "id": "석유",
+      "rank": 3,
+      "keyword": "석유",
+      "volumeLabel": "500+",
+      "startedLabel": "4시간 전",
+      "change": "up",
+      "changeLabel": "+2",
+      "summary": "급상승 시점에 '이란, 美 자국 유조선 타격에 \"미 군함 공격 강화\" 경고(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이란, 美 자국 유조선 타격에 \"미 군함 공격 강화\" 경고(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260906051251331"
+        },
+        {
+          "title": "미군 \"이란 유조선 3척 보복 타격\"…이란 \"불법 전쟁범죄\"(종합3보)",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260906_0003777798"
+        },
+        {
+          "title": "이란 매체 \"하르그섬 인근 수차례 폭발음…원인 미확인\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260905014800038"
+        }
+      ]
+    },
+    {
+      "id": "아틀레틱-빌바오-대-아틀레티코-마드리드-라인업",
+      "rank": 4,
+      "keyword": "아틀레틱 빌바오 대 아틀레티코 마드리드 라인업",
+      "volumeLabel": "500+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''너무 아깝다!' 이강인, 골대가 2호 골 막았다→시메오네도 얼굴 가리고 좌절...아틀레티코, 빌바오 원정 0-0 전반 종료' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'너무 아깝다!' 이강인, 골대가 2호 골 막았다→시메오네도 얼굴 가리고 좌절...아틀레티코, 빌바오 원정 0-0 전반 종료",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260906001148366"
+        },
+        {
+          "title": "\"아빠! 이강인이 공을 너무 적게 잡아\" 그리즈만 아들의 기가 막힌 예측…\"골 넣을 것 같은데?\"→결과는 '선제골'",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260904n00804"
+        },
+        {
+          "title": "\"이강인 효과 상상 이상\" 유니폼 약 3만 장 판매·온라인 재고 바닥...\"세계 이적시장 최고의 선수\"",
+          "source": "OSEN",
+          "url": ""
         }
       ]
     },
     {
       "id": "f1",
-      "rank": 3,
+      "rank": 5,
       "keyword": "f1",
       "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 'Gasly charges to sensational maiden F1 pole at Monza over Russell and P…' (Formula 1) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -89,114 +145,58 @@
       ]
     },
     {
-      "id": "agi",
-      "rank": 4,
-      "keyword": "agi",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'OpenAI Unveils Astra AI With Evasion Capabilities' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "OpenAI Unveils Astra AI With Evasion Capabilities",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/industry-en/2026/09/05/5PK67HFKHVB3NLAP46JIYLNMOY/"
-        },
-        {
-          "title": "\"Welcome to the AGI Era\"—OpenAI's New Model Surpasses Claude in Coding",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/business/12144767"
-        },
-        {
-          "title": "\"Strengths in Advanced Reasoning and Mathematics\" GPT-6 Astra Performance Reviewed... Price Also Up 2.5 Times",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/en/article/2026090415280432886"
-        }
-      ]
-    },
-    {
-      "id": "석유",
-      "rank": 5,
-      "keyword": "석유",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '미군 \"미 군함 겨냥 미사일 발사 대응해 이란 유조선 3척 타격\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "미군 \"미 군함 겨냥 미사일 발사 대응해 이란 유조선 3척 타격\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260905233000991"
-        },
-        {
-          "title": "이란 “미군, 이란 유조선 공격”…원유 수출 하르그섬 인근 폭발음",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1276397.html"
-        },
-        {
-          "title": "美 중부사령부 \"이란 유조선 3척 타격…운항 불능으로 만들어\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433595"
-        }
-      ]
-    },
-    {
       "id": "athletic-vs-atlético-madrid",
       "rank": 6,
       "keyword": "athletic vs atlético madrid",
       "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 'El eléctrico Athletic de Terzic derriba a un cándido Atlético en tres m…' (EL PAÍS) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "7시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 ''Golazo que golpeó el poste' Lee Kang-in, fuera a los 58 minutos... 'Co…' (스타뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "El eléctrico Athletic de Terzic derriba a un cándido Atlético en tres minutos",
-          "source": "EL PAÍS",
-          "url": "https://elpais.com/deportes/futbol/2026-09-05/el-electrico-athletic-de-terzic-derriba-a-un-candido-atletico-en-tres-minutos.html"
+          "title": "'Golazo que golpeó el poste' Lee Kang-in, fuera a los 58 minutos... 'Colapso' del Atlético, 0-2 'Consecutivos goles en contra'",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/es/sports/2026/09/06/2026090521365778909"
+        },
+        {
+          "title": "Diego Simeone, tras la derrota del Atlético ante Athletic: “Estamos en construcción»",
+          "source": "Yahoo",
+          "url": "https://es-us.noticias.yahoo.com/deportes/diego-simeone-derrota-atl%C3%A9tico-athletic-184500521.html"
         },
         {
           "title": "Robert Navarro: \"Hemos arrancado la 2ª parte de forma espectacular\"",
           "source": "kirolakeitb.eus",
           "url": "https://kirolakeitb.eus/es/futbol/equipos/athletic-club/2026/09/05/robert-navarro-declaraciones-victoria-athletic-atletico-madrid-san-mames-laliga/"
-        },
-        {
-          "title": "Nico Williams entra por Berenguer y Simeone repite el once, con Julián Álvarez suplente",
-          "source": "Yahoo",
-          "url": "https://es-us.noticias.yahoo.com/deportes/nico-williams-entra-berenguer-simeone-142101863.html"
         }
       ]
     },
     {
-      "id": "man-city-vs-coventry",
+      "id": "웨스트-햄-대-더비-카운티",
       "rank": 7,
-      "keyword": "man city vs coventry",
+      "keyword": "웨스트 햄 대 더비 카운티",
       "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 'Manchester City 1-0 Coventry City: Elring Haaland maintains City's winn…' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "7시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'West Ham 3-0 Derby County: Hammers earn back-to-back wins' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Manchester City 1-0 Coventry City: Elring Haaland maintains City's winning start",
+          "title": "West Ham 3-0 Derby County: Hammers earn back-to-back wins",
           "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c6dj4d7xzjzkt"
+          "url": "https://www.bbc.com/sport/football/live/c6n9w3qy5ezjt"
         },
         {
-          "title": "Maresca delighted with Man City wins in 'ugly moments'",
-          "source": "FotMob",
-          "url": "https://www.fotmob.com/news/1wmi3rg7kch2h1qlh5z30symgd-maresca-delighted-man-city-wins-ugly-moments"
+          "title": "West Ham United / Derby County - EFL Championship - London Stadium, London - West Ham United FC",
+          "source": "West Ham United",
+          "url": "https://www.whufc.com/en/matches/mens-team/west-ham-united-fc-v-derby-county-championship-20260905"
         },
         {
-          "title": "Hull City vs Aston Villa Premier League: How to watch and live stream for FREE and without cable",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en-us/news/watch-live-stream-hull-city-aston-villa-free/blt8bbc1ebef60f29e9"
+          "title": "West Ham United 3-0 Derby County: Joel Piroe scores in Hammers win | Football News",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11685/13581261/west-ham-united-3-0-derby-county-joel-piroe-scores-in-hammers-win"
         }
       ]
     },
@@ -205,9 +205,9 @@
       "rank": 8,
       "keyword": "분데스리가",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '‘패스 성공률 98%+평점 7점대+3경기 연속 선발’ 돌아온 철기둥, 김민재, 뮌헨 3번째 시즌은 다르다 ‘뮌헨 오스나크뷔르에 …' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -233,7 +233,7 @@
       "rank": 9,
       "keyword": "nottm forest vs spurs",
       "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
+      "startedLabel": "6시간 전",
       "change": "steady",
       "changeLabel": "유지",
       "summary": "급상승 시점에 'Nottingham Forest 0-0 Tottenham: Scrappy draw leaves both sides still w…' (BBC) 관련 뉴스가 함께 포착됐어요.",
@@ -245,14 +245,14 @@
           "url": "https://www.bbc.com/sport/football/live/c50m31j84m8xt"
         },
         {
-          "title": "Big-spending Spurs must make better attacking decisions, says De Zerbi",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/live-news/20260905-big-spending-spurs-must-make-better-attacking-decisions-says-de-zerbi"
+          "title": "De Zerbi confident goals will come at Spurs despite City Ground blank",
+          "source": "FotMob",
+          "url": "https://www.fotmob.com/sw/news/1ajgqngqe5pv51afys32cp8ivs-de-zerbi-confident-goals-will-come-at-spurs-despite-city-ground-blank"
         },
         {
-          "title": "Tottenham predicted team vs Forest - Savio and Kudus decisions made as De Zerbi changes attack",
-          "source": "Football London",
-          "url": "https://www.football.london/tottenham-hotspur-fc/news/tottenham-predicted-team-vs-forest-34571705"
+          "title": "Premier League: Forest and Spurs still goalless, Coventry pressing for equaliser at Man City",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/sport/football/live/cqr7dedzlmjgt?page=19"
         }
       ]
     },
@@ -261,9 +261,9 @@
       "rank": 10,
       "keyword": "실시간스포츠",
       "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-2",
+      "startedLabel": "6시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 ''6연승 도전' LG 라인업 떴다...오지환-박동원 선발 제외, 어제 라인업과 똑같다 [오!쎈 잠실]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
