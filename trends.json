@@ -1,286 +1,281 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-05T20:39:23.093Z",
+  "updatedAt": "2026-09-05T22:46:00.159Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "샬케-대-바이에른",
+      "id": "양주시",
       "rank": 1,
-      "keyword": "샬케 대 바이에른",
-      "volumeLabel": "10000+",
-      "startedLabel": "5시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'FC 샬케 04 vs 바이에른 뮌헨 경기 예측: 원정팀이 연승 행진을 이어갈 수 있을까요?' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "양주시",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '양주시, ‘과천경마공원 유치 TF’ 첫 회의… 총력전 선언' (브릿지경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "FC 샬케 04 vs 바이에른 뮌헨 경기 예측: 원정팀이 연승 행진을 이어갈 수 있을까요?",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-fc-schalke-04-vs-bayern-munchen-khach-tiep-tuc-bay-cao"
+          "title": "양주시, ‘과천경마공원 유치 TF’ 첫 회의… 총력전 선언",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260905500034"
         },
         {
-          "title": "‘역대급 실책’ 골키퍼는 잊어라! 케인 슛 선방하며 MOM 선정, 카리우스 감동적인 빅리그 복귀전",
-          "source": "풋볼리스트",
-          "url": ""
+          "title": "[패트롤] 과천시의회-군포시의회-부천시의회-안산시의회",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20260905024441021"
         },
         {
-          "title": "분데스리가 샬케 04 대 바이에른 뮌헨 경기 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-schalke-04-vs-bayern-munich-tai-bundesliga-1761700.ldo"
+          "title": "[과천 24시] 과천시, “경마공원·방첩사 부지 주택공급 계획 전면 철회” 촉구",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260904163607105?f=p"
         }
       ]
     },
     {
-      "id": "로또-1240",
+      "id": "왕즈이",
       "rank": 2,
-      "keyword": "로또 1240",
+      "keyword": "왕즈이",
       "volumeLabel": "2000+",
-      "startedLabel": "7시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '로또 1240회 1등 16명···각 17억9000만원씩' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "로또 1240회 1등 16명···각 17억9000만원씩",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609052112001"
-        },
-        {
-          "title": "이번 주 로또 1등 16명…당첨번호와 판매점은 어디?",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260905580115"
-        },
-        {
-          "title": "로또 1등 당첨자 16명 17.9억씩 받는다…전국 명당 판매처 보니",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260905224201593"
-        }
-      ]
-    },
-    {
-      "id": "석유",
-      "rank": 3,
-      "keyword": "석유",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 '이란, 美 자국 유조선 타격에 \"미 군함 공격 강화\" 경고(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "이란, 美 자국 유조선 타격에 \"미 군함 공격 강화\" 경고(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260906051251331"
-        },
-        {
-          "title": "미군 \"이란 유조선 3척 보복 타격\"…이란 \"불법 전쟁범죄\"(종합3보)",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260906_0003777798"
-        },
-        {
-          "title": "이란 매체 \"하르그섬 인근 수차례 폭발음…원인 미확인\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20260905014800038"
-        }
-      ]
-    },
-    {
-      "id": "아틀레틱-빌바오-대-아틀레티코-마드리드-라인업",
-      "rank": 4,
-      "keyword": "아틀레틱 빌바오 대 아틀레티코 마드리드 라인업",
-      "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''너무 아깝다!' 이강인, 골대가 2호 골 막았다→시메오네도 얼굴 가리고 좌절...아틀레티코, 빌바오 원정 0-0 전반 종료' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '안세영 때문에 지친다…\"세계 챔피언, 아시아 챔피언, 올림픽 챔피언, 설명할 시간이 부족해\"→세계연맹 캐스터 소개 중단 '눈에 …' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'너무 아깝다!' 이강인, 골대가 2호 골 막았다→시메오네도 얼굴 가리고 좌절...아틀레티코, 빌바오 원정 0-0 전반 종료",
+          "title": "안세영 때문에 지친다…\"세계 챔피언, 아시아 챔피언, 올림픽 챔피언, 설명할 시간이 부족해\"→세계연맹 캐스터 소개 중단 '눈에 띄네'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260906001148366"
+          "url": "https://v.daum.net/v/20260906064547421"
         },
         {
-          "title": "\"아빠! 이강인이 공을 너무 적게 잡아\" 그리즈만 아들의 기가 막힌 예측…\"골 넣을 것 같은데?\"→결과는 '선제골'",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260904n00804"
+          "title": "안세영 두 대회 연속 '퍼펙트 우승' 대업 보인다! 결승 상대는 '세계 9위' 日 미야자키 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/06/2026090607055789974"
         },
         {
-          "title": "\"이강인 효과 상상 이상\" 유니폼 약 3만 장 판매·온라인 재고 바닥...\"세계 이적시장 최고의 선수\"",
-          "source": "OSEN",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "id": "f1",
-      "rank": 5,
-      "keyword": "f1",
-      "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 'Gasly charges to sensational maiden F1 pole at Monza over Russell and P…' (Formula 1) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Gasly charges to sensational maiden F1 pole at Monza over Russell and Piastri",
-          "source": "Formula 1",
-          "url": "https://www.formula1.com/en/latest/article/gasly-charges-to-sensational-maiden-f1-pole-at-monza-over-russell-and-piastri.4CKkkbvgmqL04ijMNBfuXF"
-        },
-        {
-          "title": "F1 qualifying LIVE: Reaction as Pierre Gasly takes Italian Grand Prix pole",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/formula1/live/c8ejw95jj4rt"
-        },
-        {
-          "title": "Gasly a 'class act' says Alpine boss after Monza pole",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/live-news/20260905-gasly-a-class-act-says-alpine-boss-after-monza-pole"
-        }
-      ]
-    },
-    {
-      "id": "athletic-vs-atlético-madrid",
-      "rank": 6,
-      "keyword": "athletic vs atlético madrid",
-      "volumeLabel": "500+",
-      "startedLabel": "7시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 ''Golazo que golpeó el poste' Lee Kang-in, fuera a los 58 minutos... 'Co…' (스타뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'Golazo que golpeó el poste' Lee Kang-in, fuera a los 58 minutos... 'Colapso' del Atlético, 0-2 'Consecutivos goles en contra'",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/es/sports/2026/09/06/2026090521365778909"
-        },
-        {
-          "title": "Diego Simeone, tras la derrota del Atlético ante Athletic: “Estamos en construcción»",
-          "source": "Yahoo",
-          "url": "https://es-us.noticias.yahoo.com/deportes/diego-simeone-derrota-atl%C3%A9tico-athletic-184500521.html"
-        },
-        {
-          "title": "Robert Navarro: \"Hemos arrancado la 2ª parte de forma espectacular\"",
-          "source": "kirolakeitb.eus",
-          "url": "https://kirolakeitb.eus/es/futbol/equipos/athletic-club/2026/09/05/robert-navarro-declaraciones-victoria-athletic-atletico-madrid-san-mames-laliga/"
-        }
-      ]
-    },
-    {
-      "id": "웨스트-햄-대-더비-카운티",
-      "rank": 7,
-      "keyword": "웨스트 햄 대 더비 카운티",
-      "volumeLabel": "500+",
-      "startedLabel": "7시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'West Ham 3-0 Derby County: Hammers earn back-to-back wins' (BBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "West Ham 3-0 Derby County: Hammers earn back-to-back wins",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c6n9w3qy5ezjt"
-        },
-        {
-          "title": "West Ham United / Derby County - EFL Championship - London Stadium, London - West Ham United FC",
-          "source": "West Ham United",
-          "url": "https://www.whufc.com/en/matches/mens-team/west-ham-united-fc-v-derby-county-championship-20260905"
-        },
-        {
-          "title": "West Ham United 3-0 Derby County: Joel Piroe scores in Hammers win | Football News",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11685/13581261/west-ham-united-3-0-derby-county-joel-piroe-scores-in-hammers-win"
-        }
-      ]
-    },
-    {
-      "id": "분데스리가",
-      "rank": 8,
-      "keyword": "분데스리가",
-      "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '‘패스 성공률 98%+평점 7점대+3경기 연속 선발’ 돌아온 철기둥, 김민재, 뮌헨 3번째 시즌은 다르다 ‘뮌헨 오스나크뷔르에 …' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘패스 성공률 98%+평점 7점대+3경기 연속 선발’ 돌아온 철기둥, 김민재, 뮌헨 3번째 시즌은 다르다 ‘뮌헨 오스나크뷔르에 4-1 대역전승→포칼 2라운드 진출’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/3HZQKXDgCb"
-        },
-        {
-          "title": "바이에른 뮌헨 김민재, 3경기 연속 선발‥포칼 첫 경기서 대승",
+          "title": "안세영, 중국 마스터스 결승행‥아시안게임 앞두고 '최상 컨디션'",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6849283_36946.html"
-        },
-        {
-          "title": "“KIM 큰 실수 저질렀다” 獨 언론, 김민재에게 내린 각박한 평가 그리고 엇갈린 의견, 통계 매체는 ‘높은 평...",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202609031945003"
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6849809_36946.html"
         }
       ]
     },
     {
-      "id": "nottm-forest-vs-spurs",
-      "rank": 9,
-      "keyword": "nottm forest vs spurs",
-      "volumeLabel": "200+",
-      "startedLabel": "6시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'Nottingham Forest 0-0 Tottenham: Scrappy draw leaves both sides still w…' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "id": "충돌",
+      "rank": 3,
+      "keyword": "충돌",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '예멘 정부군·후티 반군 충돌로 이틀새 190명 넘게 사망' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Nottingham Forest 0-0 Tottenham: Scrappy draw leaves both sides still winless",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c50m31j84m8xt"
+          "title": "예멘 정부군·후티 반군 충돌로 이틀새 190명 넘게 사망",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260906001200108"
         },
         {
-          "title": "De Zerbi confident goals will come at Spurs despite City Ground blank",
-          "source": "FotMob",
-          "url": "https://www.fotmob.com/sw/news/1ajgqngqe5pv51afys32cp8ivs-de-zerbi-confident-goals-will-come-at-spurs-despite-city-ground-blank"
-        },
-        {
-          "title": "Premier League: Forest and Spurs still goalless, Coventry pressing for equaliser at Man City",
-          "source": "BBC",
-          "url": "https://www.bbc.co.uk/sport/football/live/cqr7dedzlmjgt?page=19"
-        }
-      ]
-    },
-    {
-      "id": "실시간스포츠",
-      "rank": 10,
-      "keyword": "실시간스포츠",
-      "volumeLabel": "100+",
-      "startedLabel": "6시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 ''6연승 도전' LG 라인업 떴다...오지환-박동원 선발 제외, 어제 라인업과 똑같다 [오!쎈 잠실]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'6연승 도전' LG 라인업 떴다...오지환-박동원 선발 제외, 어제 라인업과 똑같다 [오!쎈 잠실]",
+          "title": "[국제유가] 공급 차질 우려에 상승 지속…WTI, 닷새 내리 올라",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260905143207699"
+          "url": "https://v.daum.net/v/20260905055609010"
         },
         {
-          "title": "[AI프리뷰] 5일 잠실 LG-삼성전, 톨허스트 '삼성전 ERA 1.57' LG 연승 이끌까",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260905000065"
+          "title": "국제 유가 미-이란 충돌 재발에 이번주 급등 마감",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260905_0003777364"
+        }
+      ]
+    },
+    {
+      "id": "카밀라-발리예바",
+      "rank": 4,
+      "keyword": "카밀라 발리예바",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김연아 작심 발언, 4년 흘러도 빛난다…'56가지 약물 범벅' 발리예바, AIN 자격 박탈 → 국제대회 복귀 불가' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김연아 작심 발언, 4년 흘러도 빛난다…'56가지 약물 범벅' 발리예바, AIN 자격 박탈 → 국제대회 복귀 불가",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/ZcH9ff5TvR"
         },
         {
-          "title": "[5일 프리뷰] 톨허스트, 삼성 상대로 6연승 이끌까",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112870338"
+          "title": "김연아 \"있을 수 없는 일!\" 분노 폭발했는데…발리예바 '약물 4년 징계' 끝나고 버젓이 복귀→그런데 또 제동 걸렸다 \"푸틴에 충성\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260906040709054"
+        }
+      ]
+    },
+    {
+      "id": "하석진",
+      "rank": 5,
+      "keyword": "하석진",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘사랑이 온다’ 권해효, 하석진 친아들 거짓말…14회 예고' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘사랑이 온다’ 권해효, 하석진 친아들 거짓말…14회 예고",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260905224309603"
+        },
+        {
+          "title": "'사랑이 온다' 안희연, 불안에 휩싸인 눈빛...새로운 위기 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/05/2026090510497233543"
+        },
+        {
+          "title": "[사랑이 온다] 윤유선, 권해효에 “그 아이 내 딸이에요” 고백…! 하석진 결혼 반대한 이유 전해",
+          "source": "KBS연예",
+          "url": "https://kstar.kbs.co.kr/list_view.html?idx=409266"
+        }
+      ]
+    },
+    {
+      "id": "이다영",
+      "rank": 6,
+      "keyword": "이다영",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘학폭 논란→국대 박탈→V리그 퇴출’ 이다영, 해외 떠돌다 아제르바이잔까지…활짝 웃으며 “정말 설렌다”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘학폭 논란→국대 박탈→V리그 퇴출’ 이다영, 해외 떠돌다 아제르바이잔까지…활짝 웃으며 “정말 설렌다”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/QuC4dZwaWd"
+        },
+        {
+          "title": "'학폭' 한국 떠난 이재영, 유럽서 새출발?...근황 보니 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/03/2026090321451110452"
+        },
+        {
+          "title": "'180㎝' 이다영, 수영복 입고 뽐낸 탄탄 몸매…日도 주목했다",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260903n00037"
+        }
+      ]
+    },
+    {
+      "id": "테일러-프리츠",
+      "rank": 7,
+      "keyword": "테일러 프리츠",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Taylor Fritz blows 2-set lead, falls to Francisco Cerundolo in US Open' (ESPN) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Taylor Fritz blows 2-set lead, falls to Francisco Cerundolo in US Open",
+          "source": "ESPN",
+          "url": "https://www.espn.com/tennis/story/_/id/49839555/taylor-fritz-blows-2-set-lead-falls-francisco-cerundolo-us-open"
+        },
+        {
+          "title": "US Open Tennis 2026 Results, Winners, Losers and Highlights from Saturday's Bracket",
+          "source": "Bleacher Report",
+          "url": "https://bleacherreport.com/articles/25496433-us-open-tennis-2026-results-winners-losers-and-highlights-saturdays-bracket"
+        },
+        {
+          "title": "Francisco Cerundolo roars back from brink to stun home hope Taylor Fritz at US Open",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/sport/2026/sep/05/francisco-cerundolo-roars-back-stun-home-hope-taylor-fritz-us-open-tennis"
+        }
+      ]
+    },
+    {
+      "id": "세인트-미렌-대-셀틱",
+      "rank": 8,
+      "keyword": "세인트 미렌 대 셀틱",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''AG 와일드카드' 양현준 '역전 결승골' 폭발, 2경기 연속골... 셀틱 개막 5연승 질주 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'AG 와일드카드' 양현준 '역전 결승골' 폭발, 2경기 연속골... 셀틱 개막 5연승 질주 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/06/2026090606393193814"
+        },
+        {
+          "title": "'재료는 너무 좋다!' 이민성 감독, 어떻게 요리할까...AG 앞두고 주포 양현준·이영준 득점포 가동→전방 무게감↑",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260903100727889"
+        },
+        {
+          "title": "양현준-이영준 나란히 골맛… 亞게임 앞두고 예열 끝내",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260904/134602757/2"
+        }
+      ]
+    },
+    {
+      "id": "서울경제",
+      "rank": 9,
+      "keyword": "서울경제",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"그만 나오셔도 돼요\" 해고 칼바람...관리자 줄이는 미국 기업, 왜 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"그만 나오셔도 돼요\" 해고 칼바람...관리자 줄이는 미국 기업, 왜 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/09/05/2026090411551621452"
+        },
+        {
+          "title": "“여보, 내일부터 나오지 말래”…코로나 이후 최대 규모 피바람 불었다는 ‘이 기업’",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20086728"
+        },
+        {
+          "title": "미즈호, 우버 테크놀로지스 감원에도 ’시장수익률 상회’ 등급 유지",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/analyst-ratings/article-93CH-2083472"
+        }
+      ]
+    },
+    {
+      "id": "불후의-명곡-전설을-노래하다",
+      "rank": 10,
+      "keyword": "불후의 명곡 전설을 노래하다",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '성리, ‘무명전설’ 1위 후 인기 실감…“식당서 서비스 받아”(‘불후’)' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "성리, ‘무명전설’ 1위 후 인기 실감…“식당서 서비스 받아”(‘불후’)",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12145095"
+        },
+        {
+          "title": "신유부터 양지은까지 맞붙는다, ‘불후의 명곡’ 최후의 왕좌 주인공은?",
+          "source": "데일리스포츠한국",
+          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=433238"
+        },
+        {
+          "title": "성리X장한별 - 어쩌다 마주친 그대 | KBS 260905 방송",
+          "source": "대한민국 대표 공영미디어 KBS",
+          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026149658-01-000_MFSC15&program_code=T2011-0781&program_id=PS-2026149658-01-000&section_code=04&broadcast_complete_yn=N&section_id=10739"
         }
       ]
     }
