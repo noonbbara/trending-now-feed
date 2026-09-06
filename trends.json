@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-06T17:18:10.989Z",
+  "updatedAt": "2026-09-06T19:26:49.464Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,26 +9,26 @@
       "rank": 1,
       "keyword": "아스널 대 첼시",
       "volumeLabel": "10000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '아스널 세트피스 얼마나 무섭길래…원장 맞대결 앞둔 첼시, '럭비 충돌 패드'까지 꺼내 맞춤 훈련' (네이트) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '디펜딩 챔피언답다! 아스날, 2분 만에 선제 실점 딛고 짜릿한 역전승, 하베르츠·외데고르 연속골→첼시 2-1 격파...개막 3연…' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "아스널 세트피스 얼마나 무섭길래…원장 맞대결 앞둔 첼시, '럭비 충돌 패드'까지 꺼내 맞춤 훈련",
+          "title": "디펜딩 챔피언답다! 아스날, 2분 만에 선제 실점 딛고 짜릿한 역전승, 하베르츠·외데고르 연속골→첼시 2-1 격파...개막 3연승 질주",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260907023450894?t=m&x_mn=6a9daa21afd4137a09cf876a"
+        },
+        {
+          "title": "'캡틴 외데고르의 역전골!'…전반 2분 만에 선제 실점 내준 아스널, 첼시 상대로 침착함 유지하며 2-1 승리",
           "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260904n03719"
+          "url": "https://m.news.nate.com/view/20260907n00902?mid=s22&list=recent&cpcd="
         },
         {
           "title": "프리미어리그: ‘짠물 수비’ 아스널 vs ‘2경기 5실점’ 첼시… 승자는 누구",
           "source": "티스토리",
           "url": "https://sbotopkr.tistory.com/2534"
-        },
-        {
-          "title": "시즌 첫 고비인데 수비수가 없다… 아스널 첼시전 앞두고 '부상 도미노', 살리바 못 뛰고 모스케라·팀버도 불투명",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/HMryJvaeCg"
         }
       ]
     },
@@ -36,10 +36,10 @@
       "id": "김승현",
       "rank": 2,
       "keyword": "김승현",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "2000+",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '드라마 섭외 안 들어온다더니…김승현, 6년 공백 끝에 작가 데뷔' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -56,41 +56,13 @@
       ]
     },
     {
-      "id": "arsenal-vs-chelsea",
-      "rank": 3,
-      "keyword": "arsenal vs chelsea",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Arsenal vs Chelsea: Premier League preview, team news, stats & head-to-…' (BBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Arsenal vs Chelsea: Premier League preview, team news, stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/ck1wx0010el5t"
-        },
-        {
-          "title": "Live Updates, Scores, Highlights and Standings From Europe's Top League (9/6)",
-          "source": "Bleacher Report",
-          "url": "https://bleacherreport.com/liveblogs/25496626-live-updates-scores-highlights-and-standings-europes-top-league-96"
-        },
-        {
-          "title": "Soccer Picks: Arsenal’s Midfield Edge Drives Best Bets Against Chelsea",
-          "source": "Betway Insider",
-          "url": "https://blog.betway.com/ca/soccer/soccer-picks-arsenals-midfield-edge-drives-best-bets-against-chelsea/"
-        }
-      ]
-    },
-    {
       "id": "꽃게",
-      "rank": 4,
+      "rank": 3,
       "keyword": "꽃게",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "2000+",
+      "startedLabel": "5시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '\"버릴 거면 한국에 줘…\" 이탈리아 덮친 '꽃게' 반전 근황' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -112,13 +84,69 @@
       ]
     },
     {
-      "id": "거점-국립-대학교",
+      "id": "arsenal-vs-chelsea",
+      "rank": 4,
+      "keyword": "arsenal vs chelsea",
+      "volumeLabel": "1000+",
+      "startedLabel": "4시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 'Arsenal 2-1 Chesleas: Martin Odegaard sinks Chelsea in London derby thr…' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Arsenal 2-1 Chesleas: Martin Odegaard sinks Chelsea in London derby thriller",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/ck1wx0010el5t"
+        },
+        {
+          "title": "Preview: Arsenal v Chelsea",
+          "source": "Arsenal.com",
+          "url": "https://www.arsenal.com/news/preview-arsenal-v-chelsea-acWW16B5vPoM"
+        },
+        {
+          "title": "Arsenal 2-1 Chelsea: Premier League – as it happened",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/sep/06/arsenal-v-chelsea-premier-league-live"
+        }
+      ]
+    },
+    {
+      "id": "첼시",
       "rank": 5,
-      "keyword": "거점 국립 대학교",
+      "keyword": "첼시",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"첼시로 왔으면 좋겠지만, 맨체스터 유나이티드로 갈 겁니다!\" 前 첼시 미드필더의 깜짝 전망…\"워튼, 다음 시즌 팰리스 떠날 것\"' (포포투) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"첼시로 왔으면 좋겠지만, 맨체스터 유나이티드로 갈 겁니다!\" 前 첼시 미드필더의 깜짝 전망…\"워튼, 다음 시즌 팰리스 떠날 것\"",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=97490"
+        },
+        {
+          "title": "‘리버풀-맨시티-첼시가 동시에 달려들었는데!’ 英 MF 워튼 두고 ‘구체적 관심’→팰리스는 이적시장 막판 판매 ‘사실상 거부’",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=97047"
+        },
+        {
+          "title": "디펜딩 챔피언답다! 아스날, 2분 만에 선제 실점 딛고 짜릿한 역전승, 하베르츠·외데고르 연속골→첼시 2-1 격파...개막 3연승 질주",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260907023450894?t=m&x_mn=6a9daa21afd4137a09cf876a"
+        }
+      ]
+    },
+    {
+      "id": "거점-국립-대학교",
+      "rank": 6,
+      "keyword": "거점 국립 대학교",
+      "volumeLabel": "500+",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '[현장의 시각]부산대 양산캠퍼스 유휴부지에 ‘훈풍’이 분다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -140,41 +168,13 @@
       ]
     },
     {
-      "id": "대둔산",
-      "rank": 6,
-      "keyword": "대둔산",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '대둔산 전망대서 사진 찍다 ‘악’…60대 등산객 발 헛디뎌 추락' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "대둔산 전망대서 사진 찍다 ‘악’…60대 등산객 발 헛디뎌 추락",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260906190612098"
-        },
-        {
-          "title": "대둔산 전망대서 추락 60대 헬기 이송…사진 찍으려다 발 헛디뎌",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260906042300055"
-        },
-        {
-          "title": "완주 대둔산서 사진 찍던 60대 추락…헬기로 병원 이송",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/jeonbuk/6281481"
-        }
-      ]
-    },
-    {
       "id": "อาร-เซนอล-พบ-เชลซ",
       "rank": 7,
       "keyword": "อาร เซนอล พบ เชลซ",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 'ผลการแข่งขันฟุตบอลวันนี้ 6 กันยายน' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -184,14 +184,14 @@
           "url": "https://www.vietnam.vn/th/ket-qua-bong-da-hom-nay-6-9"
         },
         {
-          "title": "LIVE ดูบอลสด ถ่ายทอดสด อาร์เซน่อล พบ เชลซี พรีเมียร์ลีก วันนี้ 6 ก.ย.69",
-          "source": "posttoday",
-          "url": "https://www.posttoday.com/lifestyle/748207"
+          "title": "อาร์เซนอล เฉือนชนะ เชลซี เช็กผลบอลสด -ตารางคะแนนพรีเมียร์ลีกล่าสุดที่นี่",
+          "source": "Thansettakij",
+          "url": "https://www.thansettakij.com/sport/668304"
         },
         {
-          "title": "อาร์เซน่อล เปิดบ้านรับเชลซีที่กลางยวบ สถิติปืนข่มมิดพร้อมยัดเยียดความปราชัยให้ผู้มาเยือน",
-          "source": "LINE TODAY",
-          "url": "https://today.line.me/th/v3/article/1Dlz5P8"
+          "title": "อลอนโซ่ คิดหนัก! เยือนอาร์เซน่อล แผนไหน? แมนยูห้ามบุ่มบ่ามใส่ทอฟฟี่",
+          "source": "Thairath.co.th",
+          "url": "https://www.thairath.co.th/sport/video/football-fact-clarify/4"
         }
       ]
     },
@@ -200,44 +200,72 @@
       "rank": 8,
       "keyword": "모건 로저스",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Chelsea hit bullseye with Morgan Rogers as Arsenal rue what might have …' (The Guardian) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 'Declan Rice reveals two-word message that inspired Arsenal comeback aga…' (Yahoo Sports) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Chelsea hit bullseye with Morgan Rogers as Arsenal rue what might have been",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/football/blog/2026/sep/04/chelsea-morgan-rogers-arsenal-xabi-alonso-mikel-arteta"
+          "title": "Declan Rice reveals two-word message that inspired Arsenal comeback against Chelsea after Xabi Alonso meltdown",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/declan-rice-reveals-two-word-165932843.html"
         },
         {
-          "title": "How Morgan Rogers has fulfilled Xabi Alonso's expectations at Chelsea | News | Official Site",
-          "source": "Chelsea Football Club",
-          "url": "https://www.chelseafc.com/en/news/article/how-morgan-rogers-has-fulfilled-xabi-alonsos-expectations-at-chelsea"
+          "title": "Arsenal fans have last laugh with brutal chant after cheeky Morgan Rogers gesture",
+          "source": "The Mirror",
+          "url": "https://www.mirror.co.uk/sport/football/news/arsenal-fans-chelsea-morgan-rogers-37633604"
         },
         {
-          "title": "Theo Walcott and Ian Wright admit Arsenal made a massive mistake missing out on Chelsea's new star",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en/lists/theo-walcott-ian-wright-admit-arsenal-made-massive-mistake-missing-chelsea-new-star-Morgan-Rogers/bltdf65334c4c6d15dc"
+          "title": "Declan Rice and Morgan Rogers in furious bust-up during Arsenal vs Chelsea",
+          "source": "The Sun",
+          "url": "https://www.thesun.co.uk/sport/40290669/declan-rice-morgan-rogers-england-arsenal-chelsea/"
+        }
+      ]
+    },
+    {
+      "id": "라민-야말",
+      "rank": 9,
+      "keyword": "라민 야말",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '파격 그 자체! '제2의 메시' 19세 나이로 바르셀로나 주장단 합류, 5주장 전격 선임...플릭 감독+선수단 투표로 결정' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "파격 그 자체! '제2의 메시' 19세 나이로 바르셀로나 주장단 합류, 5주장 전격 선임...플릭 감독+선수단 투표로 결정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/7YUWaaV7Dc?f=p"
+        },
+        {
+          "title": "19살에 바르셀로나 주장단이라니…'주장' 하피냐, '부주장' 페드리 이어 야말은 5순위 캡틴!",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260905n08203?mid=s22&list=recent&cpcd="
+        },
+        {
+          "title": "라민 야말은 19세라는 어린 나이에 예상치 못하게 바르셀로나 주장 완장을 차게 되었습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/lamine-yamal-bat-ngo-vao-nhom-doi-truong-barca-o-tuoi-19"
         }
       ]
     },
     {
       "id": "валенсия-барселона",
-      "rank": 9,
+      "rank": 10,
       "keyword": "валенсия барселона",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '«Барселона» разгромила «Валенсию» в матче Ла Лиги и единолично возглави…' (https://www.championat.ru/) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 'Гол Рафиньи. Валенсия - Барселона. 0:3 (видео). Чемпионат Испании. Футб…' (Sportbox) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "«Барселона» разгромила «Валенсию» в матче Ла Лиги и единолично возглавила таблицу",
-          "source": "https://www.championat.ru/",
-          "url": "https://www.championat.ru/football/news-6610394-valensiya-barselona-rezultat-matcha-6-sentyabrya-2026-schet-0-5-4-j-tur-la-ligi-2026-2027.html"
+          "title": "Гол Рафиньи. Валенсия - Барселона. 0:3 (видео). Чемпионат Испании. Футбол",
+          "source": "Sportbox",
+          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Evropejskie_chempionaty/Ispaniya/spbvideo_NI2362543_clip_Gol_Rafini_Valensija___Barselona_03_video_Chempionat_Ispanii_Futbol"
         },
         {
           "title": "«Валенсия» — «Барселона»: где смотреть прямую трансляцию матча Ла Лиги 6 сентября",
@@ -245,37 +273,9 @@
           "url": "https://matchtv.ru/football/matchtvnews_NI2362329_Valensija__Barselona_gde_smotret_pramuju_translaciju_matcha_La_Ligi_6_sentabra"
         },
         {
-          "title": "Дубль Ямаля помог «Барселоне» разгромить «Валенсию» в матче чемпионата Испании",
-          "source": "Sportbox",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/spbnews_NI2362595_Dubl_Jamala_pomog_Barselone_razgromit_Valensiju_v_matche_chempionata_Ispanii"
-        }
-      ]
-    },
-    {
-      "id": "차량-화재",
-      "rank": 10,
-      "keyword": "차량 화재",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '대구포항고속도로 윙바디 차량 화재 1시간여만에 진화(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "대구포항고속도로 윙바디 차량 화재 1시간여만에 진화(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260906172038758"
-        },
-        {
-          "title": "대구포항고속도로 도평터널 인근 화물차 화재‥산불로 번져 진화 중",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6849917_36918.html"
-        },
-        {
-          "title": "대구포항고속도로 5톤 트럭 불…야산 번져",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260906165059CWc"
+          "title": "Родри вырубил своего же партнёра! А «Барса» выдала тотальный разгром",
+          "source": "https://www.championat.ru/",
+          "url": "https://www.championat.ru/football/article-6610418-valensiya-barselona-0-5-obzor-matcha-4-go-tura-la-ligi-goly-yamal-fermin-rafinya-pedri-rodri-statistika-6-sentyabrya-2026.html"
         }
       ]
     }
