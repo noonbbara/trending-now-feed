@@ -1,286 +1,270 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-06T05:45:26.447Z",
+  "updatedAt": "2026-09-06T10:45:29.748Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "김밥",
+      "id": "자동차",
       "rank": 1,
-      "keyword": "김밥",
+      "keyword": "자동차",
       "volumeLabel": "10000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"기차역서 김밥 한 줄 사 먹었는데…\" 화들짝 놀란 이유가' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '관세 피해 美에서 쇳물 뽑는다‥\"반도체도 지어라\" 압박' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"기차역서 김밥 한 줄 사 먹었는데…\" 화들짝 놀란 이유가",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026090662817"
+          "title": "관세 피해 美에서 쇳물 뽑는다‥\"반도체도 지어라\" 압박",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6849833_37004.html"
         },
         {
-          "title": "철도역 먹거리 가격 급등...김밥·돈가스 5년 새 20~30%대 ‘껑충’",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260906580012"
-        },
-        {
-          "title": "“서울 평균보다 비싸다” 驛(역) 물가 고공행진",
+          "title": "미국서 쇳물까지 만드는 현대차…자동차·아틀라스 원가절감 속도",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260906101008321"
+          "url": "https://v.daum.net/v/20260906180034733"
+        },
+        {
+          "title": "[그래픽] 현대제철-포스코 미국 루이지애나 전기로 제철소",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/GYH20260905000300044"
         }
       ]
     },
     {
-      "id": "이혜영",
+      "id": "안양-대-강원",
       "rank": 2,
-      "keyword": "이혜영",
+      "keyword": "안양 대 강원",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이혜영, 의붓딸과 시밀러 코디 선보여···너무 다정하네 - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "신다인",
+      "rank": 3,
+      "keyword": "신다인",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '준우승만 9번 최예림, KLPGA투어 9전 10기로 첫 우승' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이혜영, 의붓딸과 시밀러 코디 선보여···너무 다정하네 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/05/GJRDQZBZGRRTSY3GGNSDCMJWGE/"
+          "title": "준우승만 9번 최예림, KLPGA투어 9전 10기로 첫 우승",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/1oQpXGkLSQ"
         },
         {
-          "title": "이혜영, 의붓딸과 '찐 모녀' 케미…시밀러룩 입고 \"알로하\" [★해시태그]",
-          "source": "Nate News",
-          "url": "https://m.news.nate.com/view/20260906n04520?mid=e01&list=recent&cpcd="
+          "title": "이젠 더 이상 최종 라운드에서 떨지 않겠네...두려움 이겨낸 최예림의 감격 첫 우승, 1억8천 그 이상의 가치",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/golf/2026/09/06/GE4GIODCMQ2DENRXMIZTEZJSMQ/"
         },
         {
-          "title": "친딸이 아니라니...'재혼' 이혜영, 의붓딸과 투샷에 \"너무 예쁜 모녀\" 팬들 감탄",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-09-06/202609060100038750002507"
+          "title": "최예림, KLPGA투어 OK저축은행 읏맨 오픈 우승",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260906_0021425823"
         }
       ]
     },
     {
-      "id": "앤트로픽",
-      "rank": 3,
-      "keyword": "앤트로픽",
+      "id": "수원-대-충남-아산-fc",
+      "rank": 4,
+      "keyword": "수원 대 충남 아산 fc",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''수원전 승리 기억 되살린다!' 충남아산FC, 해결사 한교원·손준호 앞세워 연승 도전' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'수원전 승리 기억 되살린다!' 충남아산FC, 해결사 한교원·손준호 앞세워 연승 도전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260904204237884"
+        },
+        {
+          "title": "'루이스 선발 복귀' 수원, 브루노실바-강성진 '선봉'...충남아산은 김종민-한교원으로 맞불[현장 라인업]",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/football/2026-09-06/202609060100042700002790"
+        },
+        {
+          "title": "\"수원 GK 실수 좀 해줬으면\"…충남아산 안드레 감독의 미소 \"승점 3점 가져오겠다\" [현장인터뷰]",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260906n15096"
+        }
+      ]
+    },
+    {
+      "id": "인도네시아-화산",
+      "rank": 5,
+      "keyword": "인도네시아 화산",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '700㎞ 밖에서 들린 굉음…화산재 뒤덮인 인도네시아 무더기 결항' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "700㎞ 밖에서 들린 굉음…화산재 뒤덮인 인도네시아 무더기 결항",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/world/12145580"
+        },
+        {
+          "title": "인니 화산 분화로 화산재 15㎞ 치솟아...700㎞ 밖 굉음, 공항 6곳 일시 폐쇄",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260906191208184"
+        },
+        {
+          "title": "인니 화산 폭발에 자카르타 공항 '셧다운'…잿더미에 하늘길 막혔다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026090666127"
+        }
+      ]
+    },
+    {
+      "id": "다음-뉴스",
+      "rank": 6,
+      "keyword": "다음 뉴스",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[네팔 대홍수] 中티베트 지역 사망자 43명으로 늘어…실종자 519명' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[네팔 대홍수] 中티베트 지역 사망자 43명으로 늘어…실종자 519명",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260906191307204"
+        },
+        {
+          "title": "히말라야 재앙은 이제 시작…중국이 무심코 건드린 '최악의 수' [지금이뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0545_202609061227054222"
+        },
+        {
+          "title": "네팔 실종자만 5천명대…대홍수 사망 1,300여 명",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260905004300038"
+        }
+      ]
+    },
+    {
+      "id": "김천상무-대-광주",
+      "rank": 7,
+      "keyword": "김천상무 대 광주",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''2조달러' 앤트로픽 IPO에 불안한 삼전닉스 개미들' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '24경기 무승 끝낸다…광주FC, 김천과 벼랑 끝 ‘승점 6점’ 승부' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'2조달러' 앤트로픽 IPO에 불안한 삼전닉스 개미들",
+          "title": "24경기 무승 끝낸다…광주FC, 김천과 벼랑 끝 ‘승점 6점’ 승부",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260905172128668"
+          "url": "https://v.daum.net/v/20260905171722614"
         },
         {
-          "title": "앤트로픽, 11월 美중간선거 직전 상장할 듯…한 달쯤 지연",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260905020000091"
+          "title": "[B11 현장] \"우리 색깔 버리지 말자. '용기' 가지는 게 먼저\"…광주 이정규 감독, '무승 압박'에도 가던 대로 간다",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260906n14646"
         },
         {
-          "title": "앤트로픽, 다음 주 증권신고서 제출 전망…10월 초 상장 타임라인 구체화",
-          "source": "AI타임스",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214890"
+          "title": "[B11 현장] 김천 주승진 감독의 ‘9월’… “홈에서 하는 경기들은 무조건 이겼으면, 3승 1무 목표”",
+          "source": "베스트일레븐",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=311922"
         }
       ]
     },
     {
-      "id": "장애인",
-      "rank": 4,
-      "keyword": "장애인",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '장애등급제 폐지 9년 만에…연금 '사각지대' 중증장애인 26만명 품는다' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "장애등급제 폐지 9년 만에…연금 '사각지대' 중증장애인 26만명 품는다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260906070314705"
-        },
-        {
-          "title": "내년 3급 단일장애인 장애인연금 '최대 24만6895원' 지급",
-          "source": "에이블뉴스",
-          "url": "https://www.ablenews.co.kr/news/articleView.html?idxno=233101"
-        },
-        {
-          "title": "\"예산 없이 권리 없다\"…전장연, 여의도서 결의대회",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260904_0003777087"
-        }
-      ]
-    },
-    {
-      "id": "여주시",
-      "rank": 5,
-      "keyword": "여주시",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“여주시민들 뿔났다”...물·전력 내주고 희생만 강요받아' (경기일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“여주시민들 뿔났다”...물·전력 내주고 희생만 강요받아",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260905580102"
-        },
-        {
-          "title": "여주시 범시민대책위, SK 연결납세·용수공급 세수 증발…“특단 보상” 촉구",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260906114502365"
-        },
-        {
-          "title": "여주범시민대책위 “세수는 0원” 기자회견…정부·SK에 4대 요구",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1770269"
-        }
-      ]
-    },
-    {
-      "id": "농구",
-      "rank": 6,
-      "keyword": "농구",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘와 한국이 프랑스를 잡나?’ 1쿼터 31-24로 이긴 한국, 결국 와르르 무너져 26점차 역전패' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘와 한국이 프랑스를 잡나?’ 1쿼터 31-24로 이긴 한국, 결국 와르르 무너져 26점차 역전패",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260906053110492"
-        },
-        {
-          "title": "'박지현 27점' 여자 농구대표팀, 월드컵 첫 경기 나이지리아에 완승",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6849783_36946.html"
-        },
-        {
-          "title": "돌파 시도하는 이소희",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260906_0002231303"
-        }
-      ]
-    },
-    {
-      "id": "엘에이-fc",
-      "rank": 7,
-      "keyword": "엘에이 fc",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Real Salt Lake battles hard for draw against LAFC' (The Salt Lake Tribune) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Real Salt Lake battles hard for draw against LAFC",
-          "source": "The Salt Lake Tribune",
-          "url": "https://www.sltrib.com/sports/rsl/2026/09/05/real-salt-lake-battles-hard-draw/"
-        },
-        {
-          "title": "DeAndre Yedlin makes sliding clearance in 87th to preserve Real Salt Lake's 2-2 draw with LAFC",
-          "source": "kare11.com",
-          "url": "https://www.kare11.com/article/syndication/associatedpress/deandre-yedlin-makes-sliding-clearance-in-87th-to-preserve-real-salt-lakes-2-2-draw-with-lafc/616-87930000-6f30-4a2f-b140-98f752231160"
-        },
-        {
-          "title": "Recap | Real Salt Lake 2-2 LAFC | 2026 MLS Season",
-          "source": "Los Angeles Football Club",
-          "url": "https://www.lafc.com/news/recap-real-salt-lake-2-2-lafc-2026-mls-season-september-5"
-        }
-      ]
-    },
-    {
-      "id": "무안국제공항",
+      "id": "양현준",
       "rank": 8,
-      "keyword": "무안국제공항",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
+      "keyword": "양현준",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''800조 반도체' 연결고리로 뜬 무안공항…청사진 현실화할까' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '아시안게임 앞둔 양현준 2경기 연속골…셀틱 개막 5연승(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'800조 반도체' 연결고리로 뜬 무안공항…청사진 현실화할까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/FjzMpJqFyA"
-        },
-        {
-          "title": "무안공항 특화 전략에 등장한 '반도체'…국가산단 연계 주목",
+          "title": "아시안게임 앞둔 양현준 2경기 연속골…셀틱 개막 5연승(종합)",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260904063600054"
+          "url": "https://www.yna.co.kr/view/AKR20260906006751007"
         },
         {
-          "title": "무안군, ‘국가산단 TF팀’ 출범 ... 분산에너지 산단 조성 본격화",
-          "source": "아이뉴스24",
-          "url": ""
+          "title": "'한국 축구 초비상!' 아시안게임 와일드카드 양현준, 결승골 넣고 4분 만에 부상 OUT...\"양 무릎에 얼음주머니\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260906134152447"
+        },
+        {
+          "title": "'양현준 역전 골' 셀틱, 세인트 미렌에 2-1 승리",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260906_0002231374"
         }
       ]
     },
     {
-      "id": "인턴",
+      "id": "손연재",
       "rank": 9,
-      "keyword": "인턴",
+      "keyword": "손연재",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '37년차 막내와 3년차 CEO의 따뜻한 동행…최민식·한소희 '인턴'' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '손연재, 계란 사는데 백화점…72억 집 살더니 장보기도 럭셔리' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "37년차 막내와 3년차 CEO의 따뜻한 동행…최민식·한소희 '인턴'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260905001700005"
+          "title": "손연재, 계란 사는데 백화점…72억 집 살더니 장보기도 럭셔리",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260905083236675"
         },
         {
-          "title": "한소희라 더 와닿은 '인턴'…위로 그 이상의 '좋은 어른'을 말하다 [영화있슈] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/culture/2026/09/05/2026090418141793441"
+          "title": "손연재, \"이게 10만원대라고?\" 명품인 줄 알았던 화이트 레이스 스커트",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260904n28909"
         },
         {
-          "title": "[ET포토] 류혜영, '스카프로 멋내고'",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260905000052"
+          "title": "\"엄마가 돼도 변함없는 슬림 실루엣\"…손연재, 레이스 스커트로 완성한 산뜻한 데일리 룩",
+          "source": "스타패션",
+          "url": "https://www.kstarfashion.com/ko-kr/articles/255148"
         }
       ]
     },
     {
-      "id": "레드삭스-대-오리올스",
+      "id": "하하",
       "rank": 10,
-      "keyword": "레드삭스 대 오리올스",
+      "keyword": "하하",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'MLB 보스턴 포수 러치맨, 이적 이후 첫 친정 방문서 홈런 '쾅쾅'' (파이낸셜뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '하하 \"'무한도전' 부담 때문에 공황 오기도…유재석이 엄마처럼 채찍질\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "MLB 보스턴 포수 러치맨, 이적 이후 첫 친정 방문서 홈런 '쾅쾅'",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202609041432199788"
-        },
-        {
-          "title": "친정 팀 울린 러치맨, MLB 볼티모어 상대로 '멀티 홈런'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/overseas-baseball/6280185"
-        },
-        {
-          "title": "‘올스타 포수’ 러치맨, 보스턴 이적 후 첫 멀티홈런 ‘친정팀 울렸다’",
+          "title": "하하 \"'무한도전' 부담 때문에 공황 오기도…유재석이 엄마처럼 채찍질\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/7Q6YGbYC7p"
+          "url": "https://v.daum.net/v/20260906185050818"
+        },
+        {
+          "title": "'사당귀' 부산원정대 지분 놓고 갈등...양상국 \"51% 달라\"",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3686203"
+        },
+        {
+          "title": "하하 “너 말고도 사투리 하는 애 많아”…박영진→양상국과 극한 갈등 (사당귀)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260906/134611600/1"
         }
       ]
     }
