@@ -1,281 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-07T09:37:38.043Z",
+  "updatedAt": "2026-09-07T15:43:15.215Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "산삼",
+      "id": "윤종훈",
       "rank": 1,
-      "keyword": "산삼",
+      "keyword": "윤종훈",
       "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '지리산서 100년 묵은 천종산삼 등 11뿌리 발견…감정가 1억2000만원' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘연예인 잉꼬 부부’ 또 탄생···‘펜트하우스’ 윤종훈, 10살 연하 배우 한은서와 결혼 알려' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "지리산서 100년 묵은 천종산삼 등 11뿌리 발견…감정가 1억2000만원",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260907155642342"
+          "title": "‘연예인 잉꼬 부부’ 또 탄생···‘펜트하우스’ 윤종훈, 10살 연하 배우 한은서와 결혼 알려",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609072207001"
         },
         {
-          "title": "지리산서 100년 모삼 등 5대 가족군 천종산삼 11뿌리 발견",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260907107800052"
-        },
-        {
-          "title": "지리산 올랐다가 “심봤다”…‘감정가 1억2000만원’ 천종산삼 무더기 발견",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260907/134621767/2"
-        }
-      ]
-    },
-    {
-      "id": "기본소득당",
-      "rank": 2,
-      "keyword": "기본소득당",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '용혜인 남편, 기본소득당 최고위원 당선…새 대표는 “원내정당 유지”' (한겨레) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "용혜인 남편, 기본소득당 최고위원 당선…새 대표는 “원내정당 유지”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1276566.html"
-        },
-        {
-          "title": "용혜인 남편, 최고위원 당선...\"가족정당 아니다\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202609071758385498_001"
-        },
-        {
-          "title": "기본소득당 신임 대표 오준호…용혜인 배우자 박기홍 최고위원",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260907110820zSA"
-        }
-      ]
-    },
-    {
-      "id": "김지용-변호사",
-      "rank": 3,
-      "keyword": "김지용 변호사",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '초대 중수청장 최종 후보에 검찰 출신 김지용 변호사' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "초대 중수청장 최종 후보에 검찰 출신 김지용 변호사",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6850138_36918.html"
-        },
-        {
-          "title": "초대 중수청장 후보에 檢 출신 김지용…'정권 독립·수사 완결성' 시험대",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260907181750147"
-        },
-        {
-          "title": "중수청 초대청장 최종 후보자에 김지용 변호사",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1276631.html"
-        }
-      ]
-    },
-    {
-      "id": "분당구",
-      "rank": 4,
-      "keyword": "분당구",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '최근 1년새 집값 가장 많이 뛴 곳은…29.5% 오른 ‘이곳’' (동아일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "최근 1년새 집값 가장 많이 뛴 곳은…29.5% 오른 ‘이곳’",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260907/134619164/1"
-        },
-        {
-          "title": "분당 29.5% '최고'…강남 대신 비강남·신도시 아파트값 뛰었다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260907172111509"
-        },
-        {
-          "title": "최근 1년간 전국에서 아파트 값이 가장 많이 오른 분당구",
+          "title": "윤종훈, 10살 연하 한은서와 11월1일 결혼…\"평생 함께 걸을 것\"",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260907_0021426676"
-        }
-      ]
-    },
-    {
-      "id": "간암",
-      "rank": 5,
-      "keyword": "간암",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '림프절까지 번진 간암도 방사선치료 효과? 종양 반응률 최대 83.8%' (BRIC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "림프절까지 번진 간암도 방사선치료 효과? 종양 반응률 최대 83.8%",
-          "source": "BRIC",
-          "url": "https://www.ibric.org/bric/trend/results-of-research.do?mode=view&articleNo=10053122"
+          "url": "https://www.newsis.com/view/NISX20260907_0003779924"
         },
         {
-          "title": "림프절까지 번진 간암, 방사선치료 받았더니?75%서 종양 줄거나 사라져",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260907n07653"
-        },
-        {
-          "title": "림프절 전이 간암, 방사선치료 반응률 83.8%",
-          "source": "메디칼트리뷴",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "id": "김용현",
-      "rank": 6,
-      "keyword": "김용현",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김용현 측 \"무인기 작전은 전면전 피한 심리전… 특검, 군 존재 이유 부인\"' (프리진뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김용현 측 \"무인기 작전은 전면전 피한 심리전… 특검, 군 존재 이유 부인\"",
-          "source": "프리진뉴스",
-          "url": "https://www.freezinenews.com/news/articleView.html?idxno=29447"
-        },
-        {
-          "title": "尹 ‘평양 무인기’ 항소심…특검·변호인, 일반이적죄 ‘이적의사’ 놓고 공방",
-          "source": "프리진뉴스",
-          "url": "https://www.freezinenews.com/news/articleView.html?idxno=29443"
-        }
-      ]
-    },
-    {
-      "id": "권혁빈",
-      "rank": 7,
-      "keyword": "권혁빈",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘8兆 재산’ 권혁빈 이혼소송 9일 첫 결론···스마일게이트 지배구조 시험대' (시사저널e) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘8兆 재산’ 권혁빈 이혼소송 9일 첫 결론···스마일게이트 지배구조 시험대",
-          "source": "시사저널e",
-          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423502"
-        },
-        {
-          "title": "권혁빈 '8조 이혼소송' 9일 1심 결과 주목, 스마일게이트 그룹 지배구조 흔들리나",
-          "source": "비즈니스포스트",
-          "url": "https://m.businesspost.co.kr/BP?command=mobile_view&num=446571"
-        },
-        {
-          "title": "'이종섭 호주도피' 尹 1심 선고…'8조 자산가' 권혁빈 이혼소송도",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260905053800004"
-        }
-      ]
-    },
-    {
-      "id": "항공기",
-      "rank": 8,
-      "keyword": "항공기",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '청주대 FALCON팀, 로봇항공기 경연대회 우수상' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "청주대 FALCON팀, 로봇항공기 경연대회 우수상",
+          "title": "윤종훈, 11월 1일 결혼식..예비 신부는 10살 연하 ♥배우 한은서 [단독]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260907150130372"
+          "url": "https://v.daum.net/v/20260907211909313"
+        }
+      ]
+    },
+    {
+      "id": "화산",
+      "rank": 2,
+      "keyword": "화산",
+      "volumeLabel": "5000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"150km 날아와 하늘을 덮었다\"…17만 명 발 묶은 '대폭발' [스프]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"150km 날아와 하늘을 덮었다\"…17만 명 발 묶은 '대폭발' [스프]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260907103903260"
         },
         {
-          "title": "청주대 학생들 '로봇항공기 경연대회' 정규부문 우수상",
+          "title": "[영상] 인니 아낙크라카타우 분화…화산재로 공항들 마비",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260907120600704"
+        },
+        {
+          "title": "인도네시아 화산 폭발로 6개 공항 폐쇄…승객 15만명 '발 동동'(종합)",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/local/sejong-chungbuk/6282296"
-        },
-        {
-          "title": "AAM 테크 챌린지서 인하대 'DOK4' 대상",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260906111420"
+          "url": "https://www.news1.kr/world/asia-australia/6281522"
         }
       ]
     },
     {
-      "id": "배틀그라운드",
-      "rank": 9,
-      "keyword": "배틀그라운드",
+      "id": "나는-solo",
+      "rank": 3,
+      "keyword": "나는 solo",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '23기 겹겹경사…상철·영수도 '품절남' 예약, 영철♥순자 이어 결혼 발표 (촌장TV)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "23기 겹겹경사…상철·영수도 '품절남' 예약, 영철♥순자 이어 결혼 발표 (촌장TV)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260907123109661"
+        },
+        {
+          "title": "'23기 첫 부부' 순자♥영철, 오늘 결혼…\"우당탕탕 싱글라이프 끝\" [★해시태그]",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260905n08216?issue_sq=3018"
+        },
+        {
+          "title": "`나솔` 23기 순자♥영철, 오늘(5일) 결혼…이별·재결합 끝 백년가약 [MD이슈]",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026090509094462304"
+        }
+      ]
+    },
+    {
+      "id": "공연",
+      "rank": 4,
+      "keyword": "공연",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '전남광주 공연예술축제 '그라제' 10월 1∼3일 개최' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "전남광주 공연예술축제 '그라제' 10월 1∼3일 개최",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260907129000054"
+        },
+        {
+          "title": "뮤지컬·오페라·국악 한자리… 전남광주 예술의전당서 공연예술축제",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3430804"
+        },
+        {
+          "title": "전남광주시 예술의전당, '그라제' 10월 개최…소향·손승연 무대 오른다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qg3HYc6bgT"
+        }
+      ]
+    },
+    {
+      "id": "피의자",
+      "rank": 5,
+      "keyword": "피의자",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '파주 카페 냉동창고서 실종 여성 숨진 채 발견···경찰, 30대 점주 검거' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "파주 카페 냉동창고서 실종 여성 숨진 채 발견···경찰, 30대 점주 검거",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609071543001"
+        },
+        {
+          "title": "카페 냉동창고서 여성 시신 발견‥수백억대 위조 상품권도",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6850193_37004.html"
+        },
+        {
+          "title": "실종신고 여성 카페 냉동창고서 '꽁꽁 언' 시신으로 발견(종합2보)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260907048652060"
+        }
+      ]
+    },
+    {
+      "id": "공대공-미사일",
+      "rank": 6,
+      "keyword": "공대공 미사일",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '미티어 후계 F-Bvraam 개발 착수, 英 차세대 공대공 미사일 청사진' (데일리방산) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "미티어 후계 F-Bvraam 개발 착수, 英 차세대 공대공 미사일 청사진",
+          "source": "데일리방산",
+          "url": "https://www.dailydefense.co.kr/news/articleView.html?idxno=1935"
+        },
+        {
+          "title": "'KF-21' 이달 말 공군에 첫 인도…내년 말 전력화 예상",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9klMvbYCmE"
+        },
+        {
+          "title": "3파전이었는데 ‘2대1’로?…KF-21 2조원 미사일 수주전 판 바뀌나 [밀리터리+]",
+          "source": "나우뉴스",
+          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260907601026"
+        }
+      ]
+    },
+    {
+      "id": "아시아-남자-배구-선수권-대회",
+      "rank": 7,
+      "keyword": "아시아 남자 배구 선수권 대회",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '남자 배구, 박기원 감독의 태국에 패배…亞 선수권 8강은 진출' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "남자 배구, 박기원 감독의 태국에 패배…亞 선수권 8강은 진출",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260907200749872"
+        },
+        {
+          "title": "‘허수봉·임동혁 건재’ 확인한 남자배구 ‘라미레스호’, 이제는 공격 다변화가 과제…동아시아선수권 빛난 정한용·임성진까지 살아나야",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20260906/134613162/1"
+        },
+        {
+          "title": "남자배구, 박기원 감독의 태국에 무릎…카타르 이겨야 8강",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260907156300007"
+        }
+      ]
+    },
+    {
+      "id": "지동원",
+      "rank": 8,
+      "keyword": "지동원",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'PUBG x 주술회전 - 뉴스 - PUBG: 배틀그라운드' (PUBG: BATTLEGROUNDS) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''런던올림픽 영웅·레전드 공격수' 지동원, 공식 은퇴 선언 \"새로운 삶도 많은 응원 부탁드린다\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "PUBG x 주술회전 - 뉴스 - PUBG: 배틀그라운드",
-          "source": "PUBG: BATTLEGROUNDS",
-          "url": "https://pubg.com/ko/news/10991"
+          "title": "'런던올림픽 영웅·레전드 공격수' 지동원, 공식 은퇴 선언 \"새로운 삶도 많은 응원 부탁드린다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/07/2026090722551827708"
         },
         {
-          "title": "장병규 크래프톤 의장, 모디 인도 총리 만나…투자 확대",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260907036500017"
+          "title": "'런던 올림픽 영국전 골 잊지 않을게요'…'韓 축구의 대형 공격수' 지동원, 현역 은퇴→\"행복했던 여정을 마무리\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9luhydztYb"
         },
         {
-          "title": "장병규 크래프톤 의장, 모디 인도 총리와 회담",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20260907/134620269/1"
+          "title": "[오피셜] 'PL·분데스리가 통산 167경기' 지동원, 16년 선수 생활 마침표…\"긴 시간 함께해주신 분들께 감사\"",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260907n36196"
         }
       ]
     },
     {
-      "id": "김옥빈",
-      "rank": 10,
-      "keyword": "김옥빈",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "id": "빌보드",
+      "rank": 9,
+      "keyword": "빌보드",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김옥빈, 깜짝 임신 소식…\"엄마 될 준비\"' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '에반 \"엔하이픈 빌보드 정상 자랑스러워, 탈퇴 우려 알아\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김옥빈, 깜짝 임신 소식…\"엄마 될 준비\"",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260907153411iJs"
+          "title": "에반 \"엔하이픈 빌보드 정상 자랑스러워, 탈퇴 우려 알아\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260907114200005"
         },
         {
-          "title": "김옥빈, 결혼 10개월 만 임신 발표 \"엄마 될 준비 중\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260907181048889"
+          "title": "소아암 이겨낸 엔하이픈 출신 에반(EVAN) 묻다…\"사람이 언제 죽는다고 생각하나요?\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260907_0003779568"
         },
         {
-          "title": "김옥빈, 결혼 10개월 만에 임신…“태명은 울루, 말띠 아이”",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10865146"
+          "title": "신곡 ‘Death of Me’, 베일 벗었다",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202609071826003"
+        }
+      ]
+    },
+    {
+      "id": "하현승",
+      "rank": 10,
+      "keyword": "하현승",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '하현승, U-18 아시아야구선수권서 대만 상대로 12K 무실점 역투' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "하현승, U-18 아시아야구선수권서 대만 상대로 12K 무실점 역투",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260907160300007"
+        },
+        {
+          "title": "“한국에 이런 투수가…” 日도 놀란 ‘부산의 오타니’, 151km 쾅! 5⅔이닝 무실점 12K 괴력투",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/08/GU4DONBRMYYDOODCMUYDMNDGGQ/"
+        },
+        {
+          "title": "[일문일답]U-18 주장 엄준상 “앞으로도 긴장 안 하고 즐기면 금메달 딸 수 있다”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202609080001003"
         }
       ]
     }
