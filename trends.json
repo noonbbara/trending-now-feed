@@ -1,258 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-08T01:05:41.600Z",
+  "updatedAt": "2026-09-08T06:28:35.021Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "일본",
+      "id": "임신",
       "rank": 1,
-      "keyword": "일본",
-      "volumeLabel": "2000+",
+      "keyword": "임신",
+      "volumeLabel": "5000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"지하차도서 또\"‥일본, 큰비에 피해 잇따라' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '양지원, 임신 겹경사 속 결혼식 이후..♥양준모와 행복한 웨딩화보' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"지하차도서 또\"‥일본, 큰비에 피해 잇따라",
+          "title": "양지원, 임신 겹경사 속 결혼식 이후..♥양준모와 행복한 웨딩화보",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260908073109403"
+          "url": "https://v.daum.net/v/20260908095947828"
         },
         {
-          "title": "“일본 여행 취소해야 해? 어떡해”…기상청도 놀란 역대급 폭우, 대피령까지 떨어졌다",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20088293"
+          "title": "'혼전임신' 양지원, 결혼식 일주일 만에 ♥양준모와 웨딩 화보 공개 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/09/08/GQ2WCOBYHAZWEYTGGE4TEY3FME/"
         },
         {
-          "title": "'소멸 직전' 日도쿄 일대 물폭탄‥새벽 5시 긴급 발표 '날벼락'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6850128_36925.html"
+          "title": "[IS하이컷] 꿀이 뚝뚝…'임신' 양지원, ♥양준모와 눈맞춤 웨딩 화보",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260908n18697"
         }
       ]
     },
     {
-      "id": "gpt-아스트라",
+      "id": "이현배",
       "rank": 2,
-      "keyword": "gpt 아스트라",
+      "keyword": "이현배",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '젠슨 황 \"GPT-6 아스트라, AGI 시대 열었다…GPU 10만개 투입\"' (지디넷코리아) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“화해는 안 했지만 이건 못 참아”…이하늘, 김창열 악성 영상에 분노' (매일경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "젠슨 황 \"GPT-6 아스트라, AGI 시대 열었다…GPU 10만개 투입\"",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260907170942"
+          "title": "“화해는 안 했지만 이건 못 참아”…이하늘, 김창열 악성 영상에 분노",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12146894"
         },
         {
-          "title": "\"AGI가 도래했다\"...AI 피크아웃 잠재운 '아스트라'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202609079200i"
-        },
-        {
-          "title": "\"똑똑한 애가 쉬지도 않고 일하더라\"…이번에 온 '신입' 무섭네[클릭 e산업]",
+          "title": "DJ DOC 이하늘, 김창열 화해엔 선 긋더니→정재용만 챙겼다…\"행복 찾아와\" [RE:뷰]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/XFqQQTNdjM"
+          "url": "https://v.daum.net/v/z5PO5VZv5v?f=p"
+        },
+        {
+          "title": "\"창열아, 고소해라\" 이하늘, 김창열 악플러에 분노",
+          "source": "인사이트",
+          "url": "https://www.insight.co.kr/news/572505"
         }
       ]
     },
     {
-      "id": "gpt-6-astra",
+      "id": "어선",
       "rank": 3,
-      "keyword": "gpt 6 astra",
+      "keyword": "어선",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '따뜻한 바닷물에 레저 여전...해양 안전사고 '경고등'' (YTN 사이언스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "따뜻한 바닷물에 레저 여전...해양 안전사고 '경고등'",
+          "source": "YTN 사이언스",
+          "url": "https://m.science.ytn.co.kr/program/view.php?s_mcd=0082&key=202609071105378362"
+        },
+        {
+          "title": "낚시어선과 고무보트 ‘쾅’… 당진 앞바다서 승선원 1명 추락·구조",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260908580309"
+        },
+        {
+          "title": "해경청, 오는 30일까지 해양안전 특별관리",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8656097"
+        }
+      ]
+    },
+    {
+      "id": "장기-기증",
+      "rank": 4,
+      "keyword": "장기 기증",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '폭우 속 배달하다 사고…가족 위해 산 46세, 4명 살리고 영면[아살세]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "폭우 속 배달하다 사고…가족 위해 산 46세, 4명 살리고 영면[아살세]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260908140709404"
+        },
+        {
+          "title": "하루 14시간 배달일하던 40대 가장, 장기 기증해 4명에 '새 삶'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260908039100530"
+        },
+        {
+          "title": "“배달만 하루 14시간씩“…4명에 ’새 삶’ 선물하고 떠난 40대",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202609081414497os"
+        }
+      ]
+    },
+    {
+      "id": "한국토지주택공사",
+      "rank": 5,
+      "keyword": "한국토지주택공사",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'GPT-6 Astra: A new generation of intelligence' (OpenAI) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '5천억 들여 수도권 땅 산다...국토부·LH, 주택용지 공공비축 첫 추진' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "GPT-6 Astra: A new generation of intelligence",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/gpt-6-astra/"
-        },
-        {
-          "title": "Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI",
-          "source": "Business Insider",
-          "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9"
-        },
-        {
-          "title": "OpenAI's new model costs 2.5x more per token — and developers are saving money anyway",
-          "source": "The New Stack",
-          "url": "https://thenewstack.io/astra-reasoning-effort-cost/"
-        }
-      ]
-    },
-    {
-      "id": "문구점",
-      "rank": 4,
-      "keyword": "문구점",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“탁구채 2개에 14만 원” 논란에…본사 “가맹계약 해지” [잇슈 키워드]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“탁구채 2개에 14만 원” 논란에…본사 “가맹계약 해지” [잇슈 키워드]",
+          "title": "5천억 들여 수도권 땅 산다...국토부·LH, 주택용지 공공비축 첫 추진",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260908070910130"
+          "url": "https://v.daum.net/v/20260908072536332"
         },
         {
-          "title": "중학생에 탁구채 2개 14만원…논란의 알파문구 가맹점 결국 계약 해지 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/topics/topics_social/2026/09/08/RYRWXQEWRRFZRFSGHWWFOPVUAU/"
-        },
-        {
-          "title": "\"한 세트는 기사님 드세요\"…똑같은 메뉴 2개 주문해 건넨 '천사 고객'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6282240"
-        }
-      ]
-    },
-    {
-      "id": "구직",
-      "rank": 5,
-      "keyword": "구직",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '8년 다닌 회사에서 잘렸다, 구직급여 신청하고 깨달은 것' (OhmyNews) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "8년 다닌 회사에서 잘렸다, 구직급여 신청하고 깨달은 것",
-          "source": "OhmyNews",
-          "url": "https://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0003264631"
-        },
-        {
-          "title": "만성적자 실업급여 내년 흑자 전환…재정정상화는 정부전입금 관건",
+          "title": "5천억원 규모 수도권 유휴부지 비축 공모…\"주택수요 대비\"",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260904157200530"
+          "url": "https://www.yna.co.kr/view/AKR20260907116100003"
         },
         {
-          "title": "[성명] 고용보험 개편...국가 책임은 뒤로, 노동자 부담은 먼저일 수 없다",
-          "source": "민주노총",
-          "url": "https://nodong.org/statement/7944078"
+          "title": "LH, 수도권 주택공급용 토지 5000억 규모 매입 공모",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=372147"
         }
       ]
     },
     {
-      "id": "박용택",
+      "id": "미국",
       "rank": 6,
-      "keyword": "박용택",
-      "volumeLabel": "100+",
+      "keyword": "미국",
+      "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''짠한형' 이대호 \"나지완, 진짜 주당…물 대신 소주\" [RE:TV]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '트럼프, 캐나다 제트기 회사에 “美에서 팔지 말라”' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'짠한형' 이대호 \"나지완, 진짜 주당…물 대신 소주\" [RE:TV]",
+          "title": "트럼프, 캐나다 제트기 회사에 “美에서 팔지 말라”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20260908/134623890/1"
+        },
+        {
+          "title": "캐나다, 美에 보복관세 시작⋯무역갈등 점점 더 격화",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260908053156600"
+          "url": "https://v.daum.net/v/20260908144127224"
         },
         {
-          "title": "이대호 \"박용택은 해설할 때 말 길어, 3절까지 다 해\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260907_0003779904"
-        },
-        {
-          "title": "박용택→나지완 \"다시 태어나면 선발 투수하고 싶어\"",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/517504"
+          "title": "트럼프, 캐나다 봄바디어 콕 찍어 “미국서 판매금지”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11615357"
         }
       ]
     },
     {
-      "id": "응급실",
+      "id": "위조",
       "rank": 7,
-      "keyword": "응급실",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "keyword": "위조",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''10대 응급실 미수용→사망' 병원책임 인정…응급醫들 \"또 책임 전가\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '베트남 도피 위조상품 판매 총책 국제공조 검거…국내 첫 송환' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'10대 응급실 미수용→사망' 병원책임 인정…응급醫들 \"또 책임 전가\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/thebio/2026/09/07/2026090711545354516"
-        },
-        {
-          "title": "대법원 “대구 응급실 뺑뺑이 수용 거부 병원 행정 처분 정당”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260906151636749?f=p"
-        },
-        {
-          "title": "대법 \"'대구 응급실 뺑뺑이' 수용 거부 병원 행정처분은 정당\"",
+          "title": "베트남 도피 위조상품 판매 총책 국제공조 검거…국내 첫 송환",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260904122500063"
+          "url": "https://www.yna.co.kr/view/AKR20260908021400063"
+        },
+        {
+          "title": "베트남에서 ‘짝퉁’ 판매 총책…인터폴과 공조해 첫 국내 송환",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/society/2026/09/08/20260908500194"
+        },
+        {
+          "title": "해외서 ‘라방’으로 ‘짝퉁’ 판매···기업형 유통조직 총책 인터폴 적색수배로 검거",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609081100001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
         }
       ]
     },
     {
-      "id": "여수시",
+      "id": "춘천마라톤",
       "rank": 8,
-      "keyword": "여수시",
-      "volumeLabel": "100+",
+      "keyword": "춘천마라톤",
+      "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[밀착카메라] '예산 700억' 여수 섬 박람회 구경 뒤…\"볼거리가 있습니까?\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '회복의 핵심은 수면… 대회 앞두고 커피를 끊었다' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[밀착카메라] '예산 700억' 여수 섬 박람회 구경 뒤…\"볼거리가 있습니까?\"",
+          "title": "회복의 핵심은 수면… 대회 앞두고 커피를 끊었다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/09/08/RYMVOUX5SBHNRD7A33XL6DL3QU/"
+        },
+        {
+          "title": "프로스펙스, 옛 매장 터에 서촌 플래그십 개장…‘모두의 스포츠’ 가치담는다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260907210359987"
+          "url": "https://v.daum.net/v/20260907163437247"
         },
         {
-          "title": "700억 썼는데 볼거리 1시간?…여수섬박람회 첫 주말 '싸늘'",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026090809173498898"
-        },
-        {
-          "title": "인니 전통공연부터 이원일 셰프까지…문화·미식 잡은 ‘여수세계섬박람회’ - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/topics/topics_social/2026/09/07/WKFPH4KM3JCBXJDTUSRMEID37M/"
+          "title": "프로-스펙스, 서촌에 플래그십 스토어 오픈…춘마 80주년 기념 전시도",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260907_0003778863"
         }
       ]
     },
     {
-      "id": "르윈-디아즈",
+      "id": "nol-티켓",
       "rank": 9,
-      "keyword": "르윈 디아즈",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "keyword": "nol 티켓",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''그렇게 간절했나' 삼성 亞쿼터 1억 돈값 다했다, 1호 세이브→1호 홀드 기념구 모두 박제…\"디아즈보다 빠르던데?\" [MD잠실]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '여행·전시를 한 번에…놀유니버스, 인터파크투어·NOL티켓 통합' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'그렇게 간절했나' 삼성 亞쿼터 1억 돈값 다했다, 1호 세이브→1호 홀드 기념구 모두 박제…\"디아즈보다 빠르던데?\" [MD잠실]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260907120244071"
+          "title": "여행·전시를 한 번에…놀유니버스, 인터파크투어·NOL티켓 통합",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260908025100030"
         },
         {
-          "title": "‘미야지 바꾸길 잘했네’ ERA 32.40→5경기 연속 무실점…2군 갈 줄 알았더니 필승조 변신하다 \"적응 마친 것 같다\" - 머니투데이",
+          "title": "여행도 공연도 한곳에서…NOL, '슈퍼앱' 시동",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260908_0003780866"
+        },
+        {
+          "title": "놀유니버스, 여행·공연·레저 'NOL'로 통합…AI 여행 서비스 강화 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/08/202609080255771752O"
+          "url": "https://www.mt.co.kr/culture/2026/09/08/2026090809025588633"
+        }
+      ]
+    },
+    {
+      "id": "유해란",
+      "rank": 10,
+      "keyword": "유해란",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '여자골프 김민솔 세계랭킹 14위…3주 연속 상승' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "여자골프 김민솔 세계랭킹 14위…3주 연속 상승",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260908063038538"
         },
         {
-          "title": "평균자책 8월 11.81→9월 제로···사토시, 뒤늦게 발현한 삼성의 우승 청부사?",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202609071510003"
+          "title": "3연속 ‘톱3’ 김민솔, 세계 랭킹 14위…KLPGA 선수 중 최고",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20088233"
+        },
+        {
+          "title": "유해란·김효주, 세계랭킹 3위·4위 지켜…김세영·윤이나·최혜진·황유민은? [LPGA]",
+          "source": "골프한국",
+          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021803"
         }
       ]
     }
