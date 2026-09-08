@@ -1,270 +1,258 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-08T19:49:31.183Z",
+  "updatedAt": "2026-09-08T22:31:54.969Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "레알-마드리드-대-인테르",
+      "id": "주가",
       "rank": 1,
-      "keyword": "레알 마드리드 대 인테르",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "keyword": "주가",
+      "volumeLabel": "10000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "summary": "급상승 시점에 '[단독] “김승원 10억 받기로” 제보에 수사…결론 왜 뒤집혔나' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": []
+      "newsSignals": [
+        {
+          "title": "[단독] “김승원 10억 받기로” 제보에 수사…결론 왜 뒤집혔나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260909060637876"
+        },
+        {
+          "title": "한동훈, “비서실장 안다” 녹취 공개…국민의힘 “핵심은 청탁”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8658390"
+        },
+        {
+          "title": "김승원 기소 의견 냈던 檢, 총장 교체뒤 ‘기소유예’로 선회",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260909/134631305/2"
+        }
+      ]
     },
     {
-      "id": "포르투-대-맨-시티",
+      "id": "이완규",
       "rank": 2,
-      "keyword": "포르투 대 맨 시티",
+      "keyword": "이완규",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '시티, FC 포르투전 원정 명단 확정' (Manchester City FC) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''안가회동 위증' 이완규, 항소기각에 불복했지만…대법서 최종 기각' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "시티, FC 포르투전 원정 명단 확정",
-          "source": "Manchester City FC",
-          "url": "https://kr.mancity.com/news/mens/fc-porto-manchester-city-travelling-squad-63924422"
-        },
-        {
-          "title": "[오피셜]'끔찍한 머리 충돌 여파→결장 결정' 황인범의 포르투 동료 덴마크 국대 미드필더 프로홀트, UCL 맨체스터 시티전 못 뛴다..'회복중, 아직 무리 판단'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/09/08/MM2DMMJZMFRTENJYMJQTQMBYGM/"
-        },
-        {
-          "title": "'엔소와 한판승부' 황인범, 맨시티전 선발 출전 유력! '뇌진탕 변수'로 빠지는 MVP 공백 메워라",
+          "title": "'안가회동 위증' 이완규, 항소기각에 불복했지만…대법서 최종 기각",
           "source": "Daum",
-          "url": "https://v.daum.net/v/p7vyp8tWlC"
+          "url": "https://v.daum.net/v/pQbqwnb0HW"
+        },
+        {
+          "title": "'위증 공소기각' 이완규 무죄 주장 항소…대법원서 최종 기각",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260908_0003781533"
+        },
+        {
+          "title": "‘안가 회동 위증’ 이완규 전 법제처장, 무죄받고자 항소했지만…대법서 최종 기각",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260908.99099002648"
         }
       ]
     },
     {
-      "id": "양구",
+      "id": "김하영",
       "rank": 3,
-      "keyword": "양구",
+      "keyword": "김하영",
       "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '양구 해안면 농가 흙탕물 저감·작목 전환에 4개 기관 손잡아' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "양구 해안면 농가 흙탕물 저감·작목 전환에 4개 기관 손잡아",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260908154800951"
-        },
-        {
-          "title": "양구 국유지 배추밭, 사과 과수원으로 바꿔 흙탕물 줄인다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260908/134622102/2"
-        },
-        {
-          "title": "원주환경청 등 4개 기관, 8일 양구 고랭지밭 작목전환 협력 협약",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260907100700062"
-        }
-      ]
-    },
-    {
-      "id": "한화에어로스페이스",
-      "rank": 4,
-      "keyword": "한화에어로스페이스",
-      "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '현대로템, 폴란드형 K2 전차 최초 공개…현지 임무장비 탑재' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "현대로템, 폴란드형 K2 전차 최초 공개…현지 임무장비 탑재",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260908084221104"
-        },
-        {
-          "title": "한화, 유럽서 위성영상 AI 분석 솔루션 공개…\"나토 방산 기여\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260907081000003"
-        },
-        {
-          "title": "현대로템, 폴란드 국제방산전시회 참가..K2PL 현지화 속도 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/index.php/industry/2026/09/08/2026090808470581956"
-        }
-      ]
-    },
-    {
-      "id": "sbs",
-      "rank": 5,
-      "keyword": "sbs",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'SBS News Hunters Preview for September 8' (news.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "SBS News Hunters Preview for September 8",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008743656"
-        },
-        {
-          "title": "Today's SBS News Hunters Preview (September 7)",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008741776"
-        },
-        {
-          "title": "Preview of Today's SBS News Hunters (August 31)",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008730723"
-        }
-      ]
-    },
-    {
-      "id": "인플루언서",
-      "rank": 6,
-      "keyword": "인플루언서",
-      "volumeLabel": "200+",
       "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '팔로워 123만 먹방 中 인플루언서 사망…사인은 미공개' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''서프라이즈' 22년' 김하영, \"토니안 부인\" 됐다!..장기근속 보람' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "팔로워 123만 먹방 中 인플루언서 사망…사인은 미공개",
+          "title": "'서프라이즈' 22년' 김하영, \"토니안 부인\" 됐다!..장기근속 보람",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260909042207108"
+          "url": "https://v.daum.net/v/20260908211759627"
         },
         {
-          "title": "\"이 행동이 죽음 불렀다\"…오리알 60~70개 먹방 100만 中인플루언서 사망",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026090818292417904"
+          "title": "'서프라이즈 그녀' 김하영, 토니안 부인 되다…\"연기도 잘하고 성격도 최고\"",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260908n03722?mid=e01&list=recent&cpcd="
         },
         {
-          "title": "\"피단 70개 먹방\" 123만 유명 먹방 유튜버, 24세 나이로 사망",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3688777"
+          "title": "‘서프라이즈 걔’ 김하영, 이미 유부녀인데…“토니 부인까지 해보다니 영광”",
+          "source": "뉴스엔",
+          "url": "https://m.newsen.com/news_view.php?uid=202609080901092310"
         }
       ]
     },
     {
-      "id": "풍자",
-      "rank": 7,
-      "keyword": "풍자",
+      "id": "킬리안-음바페",
+      "rank": 4,
+      "keyword": "킬리안 음바페",
       "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '풍자, 벌써부터 결혼 발표 파장 예상 \"대한민국 시끌벅적, 남편 공개 안할 것\" (풍자테레비)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '득점한 킬리안과 퇴장당한 에단…UCL '음바페 형제'의 상반된 하루' (일간스포츠) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "풍자, 벌써부터 결혼 발표 파장 예상 \"대한민국 시끌벅적, 남편 공개 안할 것\" (풍자테레비)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/xZjVlZwath"
+          "title": "득점한 킬리안과 퇴장당한 에단…UCL '음바페 형제'의 상반된 하루",
+          "source": "일간스포츠",
+          "url": "https://isplus.com/article/view/isp202609090005"
         },
         {
-          "title": "풍자, 미래 남편 비공개 선언 “괜히 미안” (풍자테레비) [DA클립]",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260908/134625601/1"
+          "title": "73골 몰아친 케인, 월드컵 우승 트로피 없이 발롱도르 가능할까",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260908019800007"
         },
         {
-          "title": "풍자 \"결혼하면 대한민국 시끌벅적…남편 공개 안 해\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260907_0003779927"
+          "title": "'73골' 케인vs'월드컵 22골' 음바페vs\"PSG가 받는다\" 뎀벨레...'메날두 이후' 역대급 발롱도르 경쟁 시작 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/09/202609082134778914O"
         }
       ]
     },
     {
-      "id": "club-brugge-vs-aston-villa",
-      "rank": 8,
-      "keyword": "club brugge vs aston villa",
-      "volumeLabel": "100+",
+      "id": "реал-мадрид-интер",
+      "rank": 5,
+      "keyword": "реал мадрид интер",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Club Brugge vs Aston Villa Confirmed Lineups' (WhoScored.com) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '«Реал Мадрид» - «Интер»: Тікелей эфир!' (Qazsport) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Club Brugge vs Aston Villa Confirmed Lineups",
-          "source": "WhoScored.com",
-          "url": "https://www.whoscored.com/news/BOCV7AZDLEmpQ4b9P4v5jw/show/20260908-club-brugge-vs-aston-villa-confirmed-lineup-1788881899"
+          "title": "«Реал Мадрид» - «Интер»: Тікелей эфир!",
+          "source": "Qazsport",
+          "url": "https://qazsporttv.kz/ru/news/20983"
         },
         {
-          "title": "Nicolas Jackson opens his account as Aston Villa survive late scare in Champions League thriller against Club Brugge",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en-ca/lists/nicolas-jackson-scores-debut-goal-aston-villa-champions-league-club-brugge/blt275b33db1886253a"
+          "title": "«Реал» с Моуринью удачно вернулся в ЛЧ! Помог дикий «привозище» вратаря «Интера»",
+          "source": "https://www.championat.ru/",
+          "url": "https://www.championat.ru/football/article-6613126-real-madrid-inter-2-1-obzor-matcha-1-go-tura-obschego-etapa-ligi-chempionov-goly-mbappe-valverde-augusto-8-sentyabrya-2026.html"
         },
         {
-          "title": "Club Brugge 2-3 Aston Villa (8 Sep, 2026) Game Analysis",
-          "source": "ESPN",
-          "url": "https://africa.espn.com/football/report/_/gameId/401915426"
+          "title": "Текстовая трансляция Реал Мадрид - Интер:",
+          "source": "Sport24.ru",
+          "url": "https://sport24.ru/football/leagues/uefa-champions-league/match/real-madrid-inter-2026-09-08/text-online"
         }
       ]
     },
     {
-      "id": "메이드인코리아-시즌2",
+      "id": "대구-도시철도-엑스코선",
+      "rank": 6,
+      "keyword": "대구 도시철도 엑스코선",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '착공 앞둔 대구 4호선 '건설방식 재검토'…시민 의견 묻는다' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "착공 앞둔 대구 4호선 '건설방식 재검토'…시민 의견 묻는다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260908119000053"
+        },
+        {
+          "title": "[대구소식]도시철도 4호선 공론화위 10일 출범 등",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260908_0003781110"
+        },
+        {
+          "title": "차량 시스템 논란 해소될까…대구 4호선 공론화위 10일 출범",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/daegu-gyeongbuk/6283968"
+        }
+      ]
+    },
+    {
+      "id": "real-madrid-đấu-với-inter",
+      "rank": 7,
+      "keyword": "real madrid đấu với inter",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Video bóng đá Real Madrid - Inter Milan: Trừng phạt sai lầm, Mbappe lên…' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Video bóng đá Real Madrid - Inter Milan: Trừng phạt sai lầm, Mbappe lên tiếng (Cúp C1)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-real-madrid-inter-milan-trung-phat-sai-lam-cup-c1-c48a1793141.html"
+        },
+        {
+          "title": "Nhận định Real Madrid vs Inter Milan, 2h00 ngày 9/9 - Champions League 2026/27",
+          "source": "Thể Thao 247",
+          "url": "https://thethao247.vn/441-nhan-dinh-real-madrid-vs-inter-milan-2h00-ngay-9-9-champions-league-2026-27-c288-d435073.html"
+        },
+        {
+          "title": "HLV Mourinho nhận món quà đặc biệt, khơi lại nỗi đau của Barcelona",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/hlv-mourinho-nhan-mon-qua-dac-biet-khoi-lai-noi-dau-cua-barcelona"
+        }
+      ]
+    },
+    {
+      "id": "real-madrid",
+      "rank": 8,
+      "keyword": "real madrid",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Curtis Jones vive una pesadilla ante el Real Madrid en su debut en Cham…' (The Mirror US en Español) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Curtis Jones vive una pesadilla ante el Real Madrid en su debut en Champions League con el Inter",
+          "source": "The Mirror US en Español",
+          "url": "https://www.es.themirror.com/deportes/curtis-jones-pesadilla-debut-champions-2016205"
+        },
+        {
+          "title": "Bernardo Silva no juega ante Inter: la razón de su ausencia en Champions",
+          "source": "365Scores",
+          "url": "https://www.365scores.com/es/news/por-que-no-juega-bernardo-silva-inter/"
+        },
+        {
+          "title": "📸 ¿Qué hace el portero? Real aprovecha un error grosero: 2-0",
+          "source": "Yahoo",
+          "url": "https://es-us.noticias.yahoo.com/deportes/portero-real-aprovecha-error-grosero-194400411.html"
+        }
+      ]
+    },
+    {
+      "id": "경마",
       "rank": 9,
-      "keyword": "메이드인코리아 시즌2",
+      "keyword": "경마",
       "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-8",
-      "summary": "급상승 시점에 '[TF초점] 9월 OTT 점령한 부부…현빈·손예진, 동시 출격' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이천시, 경마공원 유치 본격화…\"최적의 유치 전략 추진\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[TF초점] 9월 OTT 점령한 부부…현빈·손예진, 동시 출격",
+          "title": "이천시, 경마공원 유치 본격화…\"최적의 유치 전략 추진\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260909000225976"
+          "url": "https://v.daum.net/v/20260908171255288"
         },
         {
-          "title": "정우성, '후배' 우도환에게 先연락 부탁..\"먼저 보내줘\" ('엘르')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/08/MNRDMZLDGAYWEZJVHEZGMZBZHE/"
+          "title": "성수석 이천시장, “시민과 함께 최적의 한국마사회 유치 전략 짜겠다”",
+          "source": "서울Pn",
+          "url": "https://go.seoul.co.kr/news/newsView.php?id=20260908500229"
         },
         {
-          "title": "‘메이드 인 코리아 시즌2’ 공개시간 언제? 등장인물과 몇부작 궁금증",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3688729"
-        }
-      ]
-    },
-    {
-      "id": "신병",
-      "rank": 10,
-      "keyword": "신병",
-      "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 ''신병4' 김민호·이원정, 밝혀진 악연의 비밀…4.1%, 꾸준한 상승세' (YTN) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'신병4' 김민호·이원정, 밝혀진 악연의 비밀…4.1%, 꾸준한 상승세",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0117_202609080939000467"
-        },
-        {
-          "title": "한가인, 김동준 친누나로 등장…김민호·이원정 눈물의 화해 ('신병4') [종합]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260909003637681"
-        },
-        {
-          "title": "'신병4', 김민호X김요한 굳은 얼굴...2중대에 무슨 일이? - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/08/2026090813447232659"
+          "title": "이상현 남원시의원, 한국마사회 본사 남원 이전 촉구",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/jeonbuk/6283332"
         }
       ]
     }
