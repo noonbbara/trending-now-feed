@@ -1,165 +1,160 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-07T22:44:40.044Z",
+  "updatedAt": "2026-09-08T01:05:41.600Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "투자",
+      "id": "일본",
       "rank": 1,
-      "keyword": "투자",
-      "volumeLabel": "5000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '(설명자료)대미투자 관련, 제1호 프로젝트는 확정된 바가 없습니다' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "(설명자료)대미투자 관련, 제1호 프로젝트는 확정된 바가 없습니다",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148971388"
-        },
-        {
-          "title": "대미투자 1호 윤곽…텍사스 복합화력에 220억",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260908064038686"
-        },
-        {
-          "title": "대미투자 1호는 가스발전소... 대형 원전 8기 건설도 유력",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/industry-company/2026/09/07/FUQTI7BBEBDSHPC3TWOTWZQWUA/"
-        }
-      ]
-    },
-    {
-      "id": "코레일-추석예매",
-      "rank": 2,
-      "keyword": "코레일 추석예매",
+      "keyword": "일본",
       "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '추석 연휴 기차표는 통합된 코레일+앱에서 예매하세요' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"지하차도서 또\"‥일본, 큰비에 피해 잇따라' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "추석 연휴 기차표는 통합된 코레일+앱에서 예매하세요",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148971347&pWise=sub&pWiseSub=R3"
+          "title": "\"지하차도서 또\"‥일본, 큰비에 피해 잇따라",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260908073109403"
         },
         {
-          "title": "코레일 '2026 추석 승차권 예매'…경전선·중앙선·강릉선",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2622821"
+          "title": "“일본 여행 취소해야 해? 어떡해”…기상청도 놀란 역대급 폭우, 대피령까지 떨어졌다",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20088293"
         },
         {
-          "title": "오늘부터 추석 명절 승차권 예매 시작‥\"코레일+ 가입해야 예매 가능\"",
+          "title": "'소멸 직전' 日도쿄 일대 물폭탄‥새벽 5시 긴급 발표 '날벼락'",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6849963_36932.html"
+          "url": "https://imnews.imbc.com/news/2026/world/article/6850128_36925.html"
         }
       ]
     },
     {
-      "id": "적금",
+      "id": "gpt-아스트라",
+      "rank": 2,
+      "keyword": "gpt 아스트라",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '젠슨 황 \"GPT-6 아스트라, AGI 시대 열었다…GPU 10만개 투입\"' (지디넷코리아) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "젠슨 황 \"GPT-6 아스트라, AGI 시대 열었다…GPU 10만개 투입\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260907170942"
+        },
+        {
+          "title": "\"AGI가 도래했다\"...AI 피크아웃 잠재운 '아스트라'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202609079200i"
+        },
+        {
+          "title": "\"똑똑한 애가 쉬지도 않고 일하더라\"…이번에 온 '신입' 무섭네[클릭 e산업]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/XFqQQTNdjM"
+        }
+      ]
+    },
+    {
+      "id": "gpt-6-astra",
       "rank": 3,
-      "keyword": "적금",
-      "volumeLabel": "2000+",
+      "keyword": "gpt 6 astra",
+      "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '충남 “중소기업 청년 살고 일하게” 목돈 마련 지원' (서울Pn) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'GPT-6 Astra: A new generation of intelligence' (OpenAI) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "충남 “중소기업 청년 살고 일하게” 목돈 마련 지원",
-          "source": "서울Pn",
-          "url": "https://go.seoul.co.kr/news/newsView.php?id=20260908019005"
+          "title": "GPT-6 Astra: A new generation of intelligence",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/gpt-6-astra/"
         },
         {
-          "title": "하나은행 충청하나그룹-충남도, 청년 자산형성 돕는다…'정착플러스 적금' 맞손",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260907174551768"
+          "title": "Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI",
+          "source": "Business Insider",
+          "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9"
         },
         {
-          "title": "대구시, '2026년 고용친화기업' 3개사 신규 선정",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260906_0003778112"
+          "title": "OpenAI's new model costs 2.5x more per token — and developers are saving money anyway",
+          "source": "The New Stack",
+          "url": "https://thenewstack.io/astra-reasoning-effort-cost/"
         }
       ]
     },
     {
-      "id": "발견",
+      "id": "문구점",
       "rank": 4,
-      "keyword": "발견",
-      "volumeLabel": "2000+",
+      "keyword": "문구점",
+      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '파주 카페 냉동창고서 실종 여성 숨진 채 발견···경찰, 30대 점주 검거' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“탁구채 2개에 14만 원” 논란에…본사 “가맹계약 해지” [잇슈 키워드]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "파주 카페 냉동창고서 실종 여성 숨진 채 발견···경찰, 30대 점주 검거",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609071543001"
-        },
-        {
-          "title": "파주 카페 女시신 나왔는데 \"금일 휴무\"…수백억대 위조 상품권까지 발견",
+          "title": "“탁구채 2개에 14만 원” 논란에…본사 “가맹계약 해지” [잇슈 키워드]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260908071310168"
+          "url": "https://v.daum.net/v/20260908070910130"
         },
         {
-          "title": "‘파주 카페 살인’ 피의자 사기 혐의 등 경찰 수사 확대",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260908/134623949/1"
+          "title": "중학생에 탁구채 2개 14만원…논란의 알파문구 가맹점 결국 계약 해지 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/09/08/RYRWXQEWRRFZRFSGHWWFOPVUAU/"
+        },
+        {
+          "title": "\"한 세트는 기사님 드세요\"…똑같은 메뉴 2개 주문해 건넨 '천사 고객'",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6282240"
         }
       ]
     },
     {
-      "id": "박항서",
+      "id": "구직",
       "rank": 5,
-      "keyword": "박항서",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "keyword": "구직",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''박항서 매직' 이제는 태국에서 계속된다...칸차나부리, 개막전부터 4-2 대역전승...강렬한 존재감' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '8년 다닌 회사에서 잘렸다, 구직급여 신청하고 깨달은 것' (OhmyNews) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'박항서 매직' 이제는 태국에서 계속된다...칸차나부리, 개막전부터 4-2 대역전승...강렬한 존재감",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260907161607468"
+          "title": "8년 다닌 회사에서 잘렸다, 구직급여 신청하고 깨달은 것",
+          "source": "OhmyNews",
+          "url": "https://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0003264631"
         },
         {
-          "title": "‘박항서 매직’ 태국서도 곧바로 효과! 개막전 4-2 짜릿한 역전승",
-          "source": "풋볼리스트",
-          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=214468"
+          "title": "만성적자 실업급여 내년 흑자 전환…재정정상화는 정부전입금 관건",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260904157200530"
         },
         {
-          "title": "박항서 감독, 태국 프로축구 9월6일 킥오프... 재태국한인회, 9월 13일 교민 응원단 운영 : 아시아 한인뉴스",
-          "source": "뉴스케이",
-          "url": "https://newsk.net/asia/?idx=173710574&bmode=view"
+          "title": "[성명] 고용보험 개편...국가 책임은 뒤로, 노동자 부담은 먼저일 수 없다",
+          "source": "민주노총",
+          "url": "https://nodong.org/statement/7944078"
         }
       ]
     },
     {
-      "id": "야구-선수",
+      "id": "박용택",
       "rank": 6,
-      "keyword": "야구 선수",
-      "volumeLabel": "500+",
+      "keyword": "박용택",
+      "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"돈에 쪼들려서 그랬습니다\"...'취객 지갑 슬쩍→DVD방서 부정 사용' 日 전직 프로야구 선수, 경찰에 체포' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''짠한형' 이대호 \"나지완, 진짜 주당…물 대신 소주\" [RE:TV]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "\"돈에 쪼들려서 그랬습니다\"...'취객 지갑 슬쩍→DVD방서 부정 사용' 日 전직 프로야구 선수, 경찰에 체포",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260907165237094"
-        },
         {
           "title": "'짠한형' 이대호 \"나지완, 진짜 주당…물 대신 소주\" [RE:TV]",
           "source": "Daum",
@@ -169,118 +164,95 @@
           "title": "이대호 \"박용택은 해설할 때 말 길어, 3절까지 다 해\"",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20260907_0003779904"
+        },
+        {
+          "title": "박용택→나지완 \"다시 태어나면 선발 투수하고 싶어\"",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/517504"
         }
       ]
     },
     {
-      "id": "교사",
+      "id": "응급실",
       "rank": 7,
-      "keyword": "교사",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "keyword": "응급실",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"교사 64% 학교 경제교육 미흡…기업가정신 모르는 교사도 절반\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''10대 응급실 미수용→사망' 병원책임 인정…응급醫들 \"또 책임 전가\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"교사 64% 학교 경제교육 미흡…기업가정신 모르는 교사도 절반\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260907120500003"
+          "title": "'10대 응급실 미수용→사망' 병원책임 인정…응급醫들 \"또 책임 전가\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/thebio/2026/09/07/2026090711545354516"
         },
         {
-          "title": "창업 몰라서 못 권하는 교사들…교사 2명 중 1명 \"기업가 정신 몰라\"",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01620326645578152"
-        },
-        {
-          "title": "교사 절반 가까이 기업가정신 인지도 낮아…\"연수 확대 필요\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260907000877"
-        }
-      ]
-    },
-    {
-      "id": "sf",
-      "rank": 8,
-      "keyword": "sf",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'S.F. homeless service providers must prove their programs work. S.F. pe…' (Mission Local) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "S.F. homeless service providers must prove their programs work. S.F. permitting software, not so much…",
-          "source": "Mission Local",
-          "url": "https://missionlocal.org/2026/09/san-francisco-opengov-homeless-performance-based-contracting-permit/"
-        },
-        {
-          "title": "San Francisco advances up-to-$38M OpenGov permit deal",
-          "source": "The San Francisco Standard",
-          "url": "https://sfstandard.com/2026/09/02/san-francisco-opengov-daniel-lurie-contract-software/"
-        },
-        {
-          "title": "Daniel Lurie’s homeless reforms will finally deliver accountability",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/news/us/articles/daniel-lurie-homeless-reforms-finally-020652750.html"
-        }
-      ]
-    },
-    {
-      "id": "홈플러스",
-      "rank": 9,
-      "keyword": "홈플러스",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '법원 인가는 끝났다…홈플러스, 이제 시장의 인가 받을 차례 [기자의눈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "법원 인가는 끝났다…홈플러스, 이제 시장의 인가 받을 차례 [기자의눈]",
+          "title": "대법원 “대구 응급실 뺑뺑이 수용 거부 병원 행정 처분 정당”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260908063156565"
+          "url": "https://v.daum.net/v/20260906151636749?f=p"
         },
         {
-          "title": "1.4조 실탄 확보 나선 홈플러스…점포 19곳 매각 돌입",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202609077331g"
-        },
-        {
-          "title": "홈플러스, 일단 살렸는데 살 곳이 없다?… 인수자 찾기 딜레마 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/distribution/channel/2026/09/07/G7VOQCXEEFHKTCU6D3DTPHLQZM/"
+          "title": "대법 \"'대구 응급실 뺑뺑이' 수용 거부 병원 행정처분은 정당\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260904122500063"
         }
       ]
     },
     {
-      "id": "삼성-갤럭시-z-폴드-8",
-      "rank": 10,
-      "keyword": "삼성 갤럭시 z 폴드 8",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "id": "여수시",
+      "rank": 8,
+      "keyword": "여수시",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '갤폴드8에 빠진 1030세대…아이폰→갤폴드 환승 '2배 폭증'' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[밀착카메라] '예산 700억' 여수 섬 박람회 구경 뒤…\"볼거리가 있습니까?\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "갤폴드8에 빠진 1030세대…아이폰→갤폴드 환승 '2배 폭증'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260907_0003778453"
+          "title": "[밀착카메라] '예산 700억' 여수 섬 박람회 구경 뒤…\"볼거리가 있습니까?\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260907210359987"
         },
         {
-          "title": "'아재폰'이라 놀렸는데…1030女 꽂히자 폰케이스까지 '대박'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202609078606H"
+          "title": "700억 썼는데 볼거리 1시간?…여수섬박람회 첫 주말 '싸늘'",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026090809173498898"
         },
         {
-          "title": "8월 번호이동 갤럭시Z8으로 ’후끈’…통신사별 희비 By EBN",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2085692"
+          "title": "인니 전통공연부터 이원일 셰프까지…문화·미식 잡은 ‘여수세계섬박람회’ - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/09/07/WKFPH4KM3JCBXJDTUSRMEID37M/"
+        }
+      ]
+    },
+    {
+      "id": "르윈-디아즈",
+      "rank": 9,
+      "keyword": "르윈 디아즈",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''그렇게 간절했나' 삼성 亞쿼터 1억 돈값 다했다, 1호 세이브→1호 홀드 기념구 모두 박제…\"디아즈보다 빠르던데?\" [MD잠실]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'그렇게 간절했나' 삼성 亞쿼터 1억 돈값 다했다, 1호 세이브→1호 홀드 기념구 모두 박제…\"디아즈보다 빠르던데?\" [MD잠실]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260907120244071"
+        },
+        {
+          "title": "‘미야지 바꾸길 잘했네’ ERA 32.40→5경기 연속 무실점…2군 갈 줄 알았더니 필승조 변신하다 \"적응 마친 것 같다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/08/202609080255771752O"
+        },
+        {
+          "title": "평균자책 8월 11.81→9월 제로···사토시, 뒤늦게 발현한 삼성의 우승 청부사?",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202609071510003"
         }
       ]
     }
