@@ -1,258 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-08T22:31:54.969Z",
+  "updatedAt": "2026-09-09T01:09:57.408Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "주가",
+      "id": "이재명-정부",
       "rank": 1,
-      "keyword": "주가",
-      "volumeLabel": "10000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] “김승원 10억 받기로” 제보에 수사…결론 왜 뒤집혔나' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[단독] “김승원 10억 받기로” 제보에 수사…결론 왜 뒤집혔나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260909060637876"
-        },
-        {
-          "title": "한동훈, “비서실장 안다” 녹취 공개…국민의힘 “핵심은 청탁”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8658390"
-        },
-        {
-          "title": "김승원 기소 의견 냈던 檢, 총장 교체뒤 ‘기소유예’로 선회",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260909/134631305/2"
-        }
-      ]
-    },
-    {
-      "id": "이완규",
-      "rank": 2,
-      "keyword": "이완규",
+      "keyword": "이재명 정부",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''안가회동 위증' 이완규, 항소기각에 불복했지만…대법서 최종 기각' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '이재명 정부의 위기, 지지율보다 더 심각한 것 [신진욱의 시선]' (한겨레) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'안가회동 위증' 이완규, 항소기각에 불복했지만…대법서 최종 기각",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/pQbqwnb0HW"
+          "title": "이재명 정부의 위기, 지지율보다 더 심각한 것 [신진욱의 시선]",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/opinion/column/1276913.html"
         },
         {
-          "title": "'위증 공소기각' 이완규 무죄 주장 항소…대법원서 최종 기각",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260908_0003781533"
+          "title": "[강준만의 화이부동]이재명, ‘부정적 당파성’ 약발이 떨어졌다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609081959005"
         },
         {
-          "title": "‘안가 회동 위증’ 이완규 전 법제처장, 무죄받고자 항소했지만…대법서 최종 기각",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260908.99099002648"
+          "title": "[이태규 칼럼] 흔들리는 국정, 좁아지는 외교",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026090713580000228"
         }
       ]
     },
     {
-      "id": "김하영",
+      "id": "폭발",
+      "rank": 2,
+      "keyword": "폭발",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"기름 다 뺐는데‥\"‥갑자기 폭발 1명 사망' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"기름 다 뺐는데‥\"‥갑자기 폭발 1명 사망",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6850469_37004.html"
+        },
+        {
+          "title": "경주 폐기물 처리 공장 폭발 화재…3명 사상",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8658043"
+        },
+        {
+          "title": "경주 공장에서 폭발·화재...1명 사망·2명 중상",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0115_202609090019137328"
+        }
+      ]
+    },
+    {
+      "id": "의왕역",
       "rank": 3,
-      "keyword": "김하영",
+      "keyword": "의왕역",
       "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''서프라이즈' 22년' 김하영, \"토니안 부인\" 됐다!..장기근속 보람' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'서프라이즈' 22년' 김하영, \"토니안 부인\" 됐다!..장기근속 보람",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260908211759627"
-        },
-        {
-          "title": "'서프라이즈 그녀' 김하영, 토니안 부인 되다…\"연기도 잘하고 성격도 최고\"",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260908n03722?mid=e01&list=recent&cpcd="
-        },
-        {
-          "title": "‘서프라이즈 걔’ 김하영, 이미 유부녀인데…“토니 부인까지 해보다니 영광”",
-          "source": "뉴스엔",
-          "url": "https://m.newsen.com/news_view.php?uid=202609080901092310"
-        }
-      ]
-    },
-    {
-      "id": "킬리안-음바페",
-      "rank": 4,
-      "keyword": "킬리안 음바페",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '득점한 킬리안과 퇴장당한 에단…UCL '음바페 형제'의 상반된 하루' (일간스포츠) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "득점한 킬리안과 퇴장당한 에단…UCL '음바페 형제'의 상반된 하루",
-          "source": "일간스포츠",
-          "url": "https://isplus.com/article/view/isp202609090005"
-        },
-        {
-          "title": "73골 몰아친 케인, 월드컵 우승 트로피 없이 발롱도르 가능할까",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260908019800007"
-        },
-        {
-          "title": "'73골' 케인vs'월드컵 22골' 음바페vs\"PSG가 받는다\" 뎀벨레...'메날두 이후' 역대급 발롱도르 경쟁 시작 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/09/202609082134778914O"
-        }
-      ]
-    },
-    {
-      "id": "реал-мадрид-интер",
-      "rank": 5,
-      "keyword": "реал мадрид интер",
-      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '«Реал Мадрид» - «Интер»: Тікелей эфир!' (Qazsport) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '국토부, 입환 작업 사고 막는다…무선제어 시스템 확대·안전관리 강화' (전기신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "«Реал Мадрид» - «Интер»: Тікелей эфир!",
-          "source": "Qazsport",
-          "url": "https://qazsporttv.kz/ru/news/20983"
+          "title": "국토부, 입환 작업 사고 막는다…무선제어 시스템 확대·안전관리 강화",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=372193"
         },
         {
-          "title": "«Реал» с Моуринью удачно вернулся в ЛЧ! Помог дикий «привозище» вратаря «Интера»",
-          "source": "https://www.championat.ru/",
-          "url": "https://www.championat.ru/football/article-6613126-real-madrid-inter-2-1-obzor-matcha-1-go-tura-obschego-etapa-ligi-chempionov-goly-mbappe-valverde-augusto-8-sentyabrya-2026.html"
+          "title": "반복되는 철도 차량정리 사고…국토부, 작업 방식부터 바꾼다",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/economy/2363370.htm"
         },
         {
-          "title": "Текстовая трансляция Реал Мадрид - Интер:",
-          "source": "Sport24.ru",
-          "url": "https://sport24.ru/football/leagues/uefa-champions-league/match/real-madrid-inter-2026-09-08/text-online"
-        }
-      ]
-    },
-    {
-      "id": "대구-도시철도-엑스코선",
-      "rank": 6,
-      "keyword": "대구 도시철도 엑스코선",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '착공 앞둔 대구 4호선 '건설방식 재검토'…시민 의견 묻는다' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "착공 앞둔 대구 4호선 '건설방식 재검토'…시민 의견 묻는다",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260908119000053"
-        },
-        {
-          "title": "[대구소식]도시철도 4호선 공론화위 10일 출범 등",
+          "title": "열차 정리 사망사고 잇따르자…정부, 무선제어 차량정리 확대",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260908_0003781110"
-        },
-        {
-          "title": "차량 시스템 논란 해소될까…대구 4호선 공론화위 10일 출범",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/daegu-gyeongbuk/6283968"
+          "url": "https://www.newsis.com/view/NISX20260908_0003781331"
         }
       ]
     },
     {
-      "id": "real-madrid-đấu-với-inter",
-      "rank": 7,
-      "keyword": "real madrid đấu với inter",
+      "id": "황희찬",
+      "rank": 4,
+      "keyword": "황희찬",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '말도 안 돼! 김민재 '주전 입지' 다시 흔들리나...'경쟁자' 샬케전 최우수 선수 선정, \"KIM과의 센터백 경쟁 우위 점할 …' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "말도 안 돼! 김민재 '주전 입지' 다시 흔들리나...'경쟁자' 샬케전 최우수 선수 선정, \"KIM과의 센터백 경쟁 우위 점할 것\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260909065730557"
+        },
+        {
+          "title": "'황희찬 오자 379골 레전드가 벤치 신세' 제코, 뮌헨전 90분 통째로 결장…\"HWANG 영입→출전시간 줄어든건가\"",
+          "source": "Nate News",
+          "url": "https://m.news.nate.com/view/20260909n06606?mid=s22&list=recent&cpcd="
+        },
+        {
+          "title": "민재도·희찬도 없었다 ‘분데스리가 코리안 더비 무산’···‘점유율 83%’ 뮌헨, 승격팀 샬케에 0-0 무승부",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202609061404003/?utm_source=khan_rss&utm_medium=rss&utm_campaign=soccer"
+        }
+      ]
+    },
+    {
+      "id": "땅집고",
+      "rank": 5,
+      "keyword": "땅집고",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Video bóng đá Real Madrid - Inter Milan: Trừng phạt sai lầm, Mbappe lên…' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '원주민 이익 빼앗는 지분 쪼개기, \"조합원 추가분담금 폭탄으로\"' (땅집고) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Video bóng đá Real Madrid - Inter Milan: Trừng phạt sai lầm, Mbappe lên tiếng (Cúp C1)",
-          "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/video-bong-da-real-madrid-inter-milan-trung-phat-sai-lam-cup-c1-c48a1793141.html"
+          "title": "원주민 이익 빼앗는 지분 쪼개기, \"조합원 추가분담금 폭탄으로\"",
+          "source": "땅집고",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/09/02/2026090200545.html"
         },
         {
-          "title": "Nhận định Real Madrid vs Inter Milan, 2h00 ngày 9/9 - Champions League 2026/27",
-          "source": "Thể Thao 247",
-          "url": "https://thethao247.vn/441-nhan-dinh-real-madrid-vs-inter-milan-2h00-ngay-9-9-champions-league-2026-27-c288-d435073.html"
+          "title": "내 땅 뺏어가는 공공기여?…용적률 챙겨 분담금 폭탄 막는다",
+          "source": "땅집고",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/09/09/2026090900596.html"
         },
         {
-          "title": "HLV Mourinho nhận món quà đặc biệt, khơi lại nỗi đau của Barcelona",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/hlv-mourinho-nhan-mon-qua-dac-biet-khoi-lai-noi-dau-cua-barcelona"
-        }
-      ]
-    },
-    {
-      "id": "real-madrid",
-      "rank": 8,
-      "keyword": "real madrid",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Curtis Jones vive una pesadilla ante el Real Madrid en su debut en Cham…' (The Mirror US en Español) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Curtis Jones vive una pesadilla ante el Real Madrid en su debut en Champions League con el Inter",
-          "source": "The Mirror US en Español",
-          "url": "https://www.es.themirror.com/deportes/curtis-jones-pesadilla-debut-champions-2016205"
-        },
-        {
-          "title": "Bernardo Silva no juega ante Inter: la razón de su ausencia en Champions",
-          "source": "365Scores",
-          "url": "https://www.365scores.com/es/news/por-que-no-juega-bernardo-silva-inter/"
-        },
-        {
-          "title": "📸 ¿Qué hace el portero? Real aprovecha un error grosero: 2-0",
-          "source": "Yahoo",
-          "url": "https://es-us.noticias.yahoo.com/deportes/portero-real-aprovecha-error-grosero-194400411.html"
-        }
-      ]
-    },
-    {
-      "id": "경마",
-      "rank": 9,
-      "keyword": "경마",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이천시, 경마공원 유치 본격화…\"최적의 유치 전략 추진\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "이천시, 경마공원 유치 본격화…\"최적의 유치 전략 추진\"",
+          "title": "\"반포 새 아파트 분양권 달라!\" 50년 구축 아파트서 무슨일?",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260908171255288"
+          "url": "https://v.daum.net/v/ppeX3kPKLR"
+        }
+      ]
+    },
+    {
+      "id": "dwcs",
+      "rank": 6,
+      "keyword": "dwcs",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Prediction, pick for Martin Kozak vs. Christian Echols at DWCS Season 1…' (DraftKings Network) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Prediction, pick for Martin Kozak vs. Christian Echols at DWCS Season 10, Week 5",
+          "source": "DraftKings Network",
+          "url": "https://dknetwork.draftkings.com/2026/09/08/prediction-pick-for-martin-kozak-vs-christian-echols-at-dwcs-season-10-week-5/"
         },
         {
-          "title": "성수석 이천시장, “시민과 함께 최적의 한국마사회 유치 전략 짜겠다”",
-          "source": "서울Pn",
-          "url": "https://go.seoul.co.kr/news/newsView.php?id=20260908500229"
+          "title": "DWCS video: Martin Kozak dismantles tough Christian Echols for TKO",
+          "source": "MMA Junkie",
+          "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/08/ufc-dwcs-martin-kozak-vs-christian-echols-video/91667176007/"
         },
         {
-          "title": "이상현 남원시의원, 한국마사회 본사 남원 이전 촉구",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/jeonbuk/6283332"
+          "title": "Highlights: Martin Kozak batters Christian Echols for violent TKO |Contender Series 10, Ep. 5",
+          "source": "MMA Mania",
+          "url": "https://www.mmamania.com/ufc-contender-series-dana-white/470531/highlights-martin-kozak-christian-echols-tko-dwcs-week-5"
+        }
+      ]
+    },
+    {
+      "id": "홍윤화",
+      "rank": 7,
+      "keyword": "홍윤화",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '동상이몽2_너는 내 운명 : 오경주, 홍윤화의 독보적인 ‘먹부림 스킬’ 전수받아 치즈와 물아일체 퍼포먼스' (programs.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "동상이몽2_너는 내 운명 : 오경주, 홍윤화의 독보적인 ‘먹부림 스킬’ 전수받아 치즈와 물아일체 퍼포먼스",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC481691878"
+        },
+        {
+          "title": "홍윤화, 9개월 만에 40㎏ 빼더니 결국 요요 \"금팔찌가 꽉 끼네\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/09/2026090901365251899"
+        },
+        {
+          "title": "40kg 뺐던 홍윤화, 요요 제대로 온 근황 \"망원동 홍금보..행복하게 지내\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/08/MMYWKODGME2TANDDG44DSNBZGA/"
+        }
+      ]
+    },
+    {
+      "id": "이종상",
+      "rank": 8,
+      "keyword": "이종상",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘5만원 신사임당’ 그린 한국화 대가 이종상 화백 별세' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘5만원 신사임당’ 그린 한국화 대가 이종상 화백 별세",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/culture/culture_general/1276899.html"
+        },
+        {
+          "title": "5만원권 신사임당·5천원권 율곡 이이 그린 이종상 화백 별세",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260909075853772"
+        },
+        {
+          "title": "’신사임당·율곡 이이’ 화폐 영정 작가 이종상 화백 별세",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260909091157Pg1"
+        }
+      ]
+    },
+    {
+      "id": "리버풀-fc",
+      "rank": 9,
+      "keyword": "리버풀 fc",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이강인부터 김민재까지, '태극전사 4인방' 내일부터 UCL 출격' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이강인부터 김민재까지, '태극전사 4인방' 내일부터 UCL 출격",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260908_0003780331"
+        },
+        {
+          "title": "[오피셜]韓 축구 에이스! 이강인 정장 차림으로 UCL 정조준…최종 스쿼드 합류→리버풀 원정 출격",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/09/08/GUYDANDEMM4DQNZZGEZTMMZYHA/"
+        },
+        {
+          "title": "챔스 의무 기자회견 '노쇼'한 아스널, 그런데 벌금은 없다…UEFA가 인정한 '불가항력'",
+          "source": "Nate News",
+          "url": "https://m.news.nate.com/view/20260909n08485?mid=s22&list=recent&cpcd="
+        }
+      ]
+    },
+    {
+      "id": "삼성sds",
+      "rank": 10,
+      "keyword": "삼성sds",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '삼성SDS “로봇통합운영 플랫폼 내년 출시”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "삼성SDS “로봇통합운영 플랫폼 내년 출시”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609082036015"
+        },
+        {
+          "title": "LS證 “삼성SDS, AI 내러티브에서 실행으로⋯목표가 30만7000원”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260909080205888"
+        },
+        {
+          "title": "‘클로드 디자인’, 3명이 8주 만에 뚝딱… 최기영 앤트로픽 “개발 주기 바뀌어”",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169685"
         }
       ]
     }
