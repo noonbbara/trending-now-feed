@@ -1,209 +1,265 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-09T06:34:34.831Z",
+  "updatedAt": "2026-09-09T12:16:48.027Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "최태원",
+      "id": "김지원",
       "rank": 1,
-      "keyword": "최태원",
+      "keyword": "김지원",
       "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '최태원, 노소영 재산분할 7천억은 인정…나머지 2천440억만 다툰다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"다른 사람 같다\"…김지원, 묘하게 달라진 분위기 '깜짝 근황'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "최태원, 노소영 재산분할 7천억은 인정…나머지 2천440억만 다툰다",
+          "title": "\"다른 사람 같다\"…김지원, 묘하게 달라진 분위기 '깜짝 근황'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260909133331634"
+          "url": "https://v.daum.net/v/20260909175328935"
         },
         {
-          "title": "[단독] 최태원, 재산분할 2440억만 다툰다…7천억은 인정",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260909151819lRq"
+          "title": "[1차 티저] “나는 실패도 하지 않습니다” 김지원, 죽음 앞에서도 반드시 살려내는 천재의사 등장★",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/drama/doctorx/clip/88586/OC481645803?cliptyp=01&div=hotissue"
         },
         {
-          "title": "9440억 중 7000억 인정한 최태원…재상고 범위 2440억으로 축소",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260909/134634700/1"
+          "title": "'닥터X' 김우석, 김지원 대형견 활약…극과 극 사제 케미 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/08/2026090810027273315"
         }
       ]
     },
     {
-      "id": "차준환",
+      "id": "상인푸르지오센터파크",
       "rank": 2,
-      "keyword": "차준환",
+      "keyword": "상인푸르지오센터파크",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '텅 빈 ‘유령 아파트’였는데…텐트치고 ‘밤샘 오픈런’, 무슨 일' (이데일리) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "텅 빈 ‘유령 아파트’였는데…텐트치고 ‘밤샘 오픈런’, 무슨 일",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03066806645578480&mediaCodeNo=257"
+        },
+        {
+          "title": "‘미분양 무덤’ 대구에 전세분양 ‘오픈런’ 왜…다주택자 규제 강화가 부른 역설",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260909165209912"
+        },
+        {
+          "title": "분양 때는 외면받더니…'상인푸르지오' 전세에 텐트치고 오픈런",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260909_0003781931"
+        }
+      ]
+    },
+    {
+      "id": "홍라희",
+      "rank": 3,
+      "keyword": "홍라희",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[속보] 이재용 회장, 모친 홍라희 보유 삼성전자 주식 718만주 1.9조원에 매수' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[속보] 이재용 회장, 모친 홍라희 보유 삼성전자 주식 718만주 1.9조원에 매수",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12148598"
+        },
+        {
+          "title": "홍라희, 삼성전자 지분 1.9조원어치 이재용에 매각",
+          "source": "MTN 머니투데이방송",
+          "url": "https://news.mtn.co.kr/news-detail/2026090917543233050"
+        },
+        {
+          "title": "홍라희, 이재용에 삼성전자 1.9조 매각⋯'12조 상속세' 막바지",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260909195127173"
+        }
+      ]
+    },
+    {
+      "id": "관리종목",
+      "rank": 4,
+      "keyword": "관리종목",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''김부장' 서수민, 차준환과 청춘 로맨스...'스파클' MV 주인공 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"준비할 시간 없었다\"…상폐 기로 골드앤에스, 거래소 상대 가처분(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'김부장' 서수민, 차준환과 청춘 로맨스...'스파클' MV 주인공 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/09/2026090910447220581"
-        },
-        {
-          "title": "로이킴, ‘너의 이름은.’ OST ‘스파클’ 다시 부른다",
+          "title": "\"준비할 시간 없었다\"…상폐 기로 골드앤에스, 거래소 상대 가처분(종합)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/YZvnWA8BDb"
+          "url": "https://v.daum.net/v/20260909165127878"
         },
         {
-          "title": "‘김부장’ 소지섭 딸 서수민, 또 다른 청춘의 얼굴",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202609090939003"
-        }
-      ]
-    },
-    {
-      "id": "커버-드-콜",
-      "rank": 3,
-      "keyword": "커버 드 콜",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"격주로 분배금 받으세요\"…S&P500커버드콜 투자 전략은? - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"격주로 분배금 받으세요\"…S&P500커버드콜 투자 전략은? - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/09/09/2026090911413852055"
+          "title": "[상장사 생존의 갈림길] 상폐 피하려 꺼낸 카드마다 꼬였다…골드앤에스 ‘삼중고’ : 네이버 블로그",
+          "source": "Naver Blog",
+          "url": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224405944415&redirect=Dlog"
         },
         {
-          "title": "TIGER S&P500 커버드콜, 분배 재원 강화...원금 손실은 주의",
-          "source": "스트레이트뉴스",
-          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=310749"
-        },
-        {
-          "title": "미래에셋자산운용 “S&P500·나스닥100 조합해 월 2회 분배”",
-          "source": "메트로신문",
-          "url": "https://www.metroseoul.co.kr/article/20260909500177"
-        }
-      ]
-    },
-    {
-      "id": "아이폰-에어",
-      "rank": 4,
-      "keyword": "아이폰 에어",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '애플도 마침내 '접는다'…내일 새벽 첫 폴더블 아이폰 등판' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "애플도 마침내 '접는다'…내일 새벽 첫 폴더블 아이폰 등판",
+          "title": "골드앤에스, 관리종목 지정 효력정지·상폐 금지 가처분 신청",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260908_0003781359"
-        },
-        {
-          "title": "애플, 내일 새 아이폰 발표…첫 폴더블폰 출시할지 시선집중",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1156114"
-        },
-        {
-          "title": "\"아이폰18 사라진다…아이폰 에어2로 보급형 대체\"",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260909092134"
+          "url": "https://www.newsis.com/view/NISX20260909_0003782160"
         }
       ]
     },
     {
-      "id": "만평",
+      "id": "거스-히딩크",
       "rank": 5,
-      "keyword": "만평",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "keyword": "거스 히딩크",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '인천시, 해양안전 최일선 지킨 모범해양경찰 8명 표창' (경기신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '24년째 '편파 판정' 물고 늘어진 이탈리아…히딩크 \"신사답게 행동해\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "인천시, 해양안전 최일선 지킨 모범해양경찰 8명 표창",
-          "source": "경기신문",
-          "url": "https://www.kgnews.co.kr/mobile/article_comment.html?no=910888&comment_mode=write"
+          "title": "24년째 '편파 판정' 물고 늘어진 이탈리아…히딩크 \"신사답게 행동해\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/09/2026090916095371936"
         },
         {
-          "title": "인천시 연수구드림스타트 더하기통합발달센터 업무협약",
-          "source": "경기신문",
-          "url": "https://www.kgnews.co.kr/mobile/article_comment.html?no=910874&comment_mode=write"
+          "title": "‘2002 월드컵 매수잖아?’ 히딩크 전 韓 대표팀 감독 극대노! “경기에서 졌으면 신사답게 인정해라”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202609091812003"
         },
         {
-          "title": "인천시 남동구, '청렴이 빛나는 순간' 청렴 전시회 개최",
-          "source": "경기신문",
-          "url": "https://www.kgnews.co.kr/mobile/article_comment.html?no=910866&comment_mode=write"
+          "title": "히딩크, 24년 만에 伊 직격…\"심판 탓 그만, 그 멤버로 한국 이겼어야\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/soccer/6285444"
         }
       ]
     },
     {
-      "id": "베스트셀러",
+      "id": "테트라포드",
       "rank": 6,
-      "keyword": "베스트셀러",
-      "volumeLabel": "200+",
+      "keyword": "테트라포드",
+      "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '베스트셀러 순위 올리려 1천6백 권 '사재기'‥유명 작가 기소' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“살려주세요” 외침에 달려간 울산 공무원 3명···함께 여행갔다가 테트라포드 빠진 여성 구조' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "베스트셀러 순위 올리려 1천6백 권 '사재기'‥유명 작가 기소",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6850640_36918.html"
+          "title": "“살려주세요” 외침에 달려간 울산 공무원 3명···함께 여행갔다가 테트라포드 빠진 여성 구조",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609091511011"
         },
         {
-          "title": "유명 작가, 베스트셀러 순위 올리려 책 1천631권 ‘사재기’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260909111411437"
-        },
-        {
-          "title": "신간 순위 높이려 1600여권 사재기…유명 에세이 작가 기소",
+          "title": "“살려달라” 밤바다서 비명…테트라포드 추락 여성, 공무원 3명이 구했다",
           "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260909/134633643/2"
+          "url": "https://www.donga.com/news/Society/article/all/20260909/134635365/2"
+        },
+        {
+          "title": "바다여행 간 울산 공무원 동기들, 테트라포드 빠진 여성 구조",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260909093400057"
         }
       ]
     },
     {
-      "id": "은마아파트",
+      "id": "sh공사",
       "rank": 7,
-      "keyword": "은마아파트",
+      "keyword": "sh공사",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'SH, 재개발임대주택 3821가구 모집 재공고…전용 39㎡ 이하 소형 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "SH, 재개발임대주택 3821가구 모집 재공고…전용 39㎡ 이하 소형 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/09/09/2026090916483512189"
+        },
+        {
+          "title": "SH, 재개발임대주택 3821가구 입주자 모집… 29일부터 선순위 접수 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/09/09/23WKCS3JBBEU7JRQCBXSW3BM64/"
+        },
+        {
+          "title": "SH, 재개발임대 3821가구 공급 재개…저소득 청년 입주 기회 확대",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260909501135"
+        }
+      ]
+    },
+    {
+      "id": "전희철",
+      "rank": 8,
+      "keyword": "전희철",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '전수완, 미코 탈락 후 5성급 호텔서 생일 즐겨' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "전수완, 미코 탈락 후 5성급 호텔서 생일 즐겨",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260909_0003782236"
+        },
+        {
+          "title": "‘미코 진’ 우서윤에 밀린 전희철 딸…미코 탈락 후 더 예뻐졌다",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202609091421003"
+        },
+        {
+          "title": "전수완, '성형 논란' 우서윤과는 달랐다…왁자지껄 생일 파티 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/09/MI2TOZRQMU3TEYZRMYYGENRRGU/"
+        }
+      ]
+    },
+    {
+      "id": "고승민",
+      "rank": 9,
+      "keyword": "고승민",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '희림건축, 은마아파트 재건축 건설사업관리업체 선정' (매일경제 마켓) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[영상] 김태형 감독 경기 중 훈계…박세웅 힘겹게 시즌 3승' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "희림건축, 은마아파트 재건축 건설사업관리업체 선정",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1155975"
+          "title": "[영상] 김태형 감독 경기 중 훈계…박세웅 힘겹게 시즌 3승",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8658831"
         },
         {
-          "title": "희림건축, 은마아파트 재건축 CM 수주…설계 이어 사업관리까지",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260909500943"
+          "title": "동점까지 갔지만 역전은 없었다…NC, 롯데에 3-6 패배",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260908224007075"
         },
         {
-          "title": "한미글로벌·희림, 서울 대치동 은마아파트 재건축 건설사업관리 업무 맡아",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446568"
+          "title": "[8일 프리뷰] ‘롯데 킬러’ 토다, 롯데전 4승 도전",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112871775"
         }
       ]
     },
     {
-      "id": "춘천마라톤",
-      "rank": 8,
-      "keyword": "춘천마라톤",
+      "id": "옥순이",
+      "rank": 10,
+      "keyword": "옥순이",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
@@ -211,62 +267,6 @@
       "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": []
-    },
-    {
-      "id": "김천시",
-      "rank": 9,
-      "keyword": "김천시",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '코오롱인더, 반도체 기판 소재 mPPO 생산능력 확대' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "코오롱인더, 반도체 기판 소재 mPPO 생산능력 확대",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260909048300003"
-        },
-        {
-          "title": "코오롱인더스트리, 김천에 360억 투자…AI·6G 핵심소재 생산 본격화",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20260909020352509"
-        },
-        {
-          "title": "\"범용 제품만으론 성장 한계\"... K화학, 반도체 소재 승부수 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/09/08/2026090719593371788"
-        }
-      ]
-    },
-    {
-      "id": "kbo-리그-신인-드래프트",
-      "rank": 10,
-      "keyword": "kbo 리그 신인 드래프트",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'KBO 신인 드래프트 오는 21일 열려…키움·두산·KIA 순 지명' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "KBO 신인 드래프트 오는 21일 열려…키움·두산·KIA 순 지명",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260909111710664"
-        },
-        {
-          "title": "2027 프로야구 신인 드래프트, 21일 서울 롯데호텔서 개최",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3034087"
-        },
-        {
-          "title": "해외파 신인 '흑역사' 2번 겪었는데, 또 최지만 고를까?…'미움받을 용기'가 필요해 [SC포커스]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/09/08/MIZTSMZUGZQWEMJWGJSTGZJUGA/"
-        }
-      ]
     }
   ]
 }
