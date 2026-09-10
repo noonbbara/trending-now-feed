@@ -1,286 +1,270 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-10T05:47:17.750Z",
+  "updatedAt": "2026-09-10T11:06:34.273Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "항공",
+      "id": "시장",
       "rank": 1,
-      "keyword": "항공",
-      "volumeLabel": "2000+",
+      "keyword": "시장",
+      "volumeLabel": "5000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '공정위, 대한항공 '좌석 유지 의무' 완화에 기각 의견…심의 개시' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '김민석 “서울시장·강릉 국회의원 보궐선거 99.99% 있을 것…수첩에 적힌 MS는 나”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "공정위, 대한항공 '좌석 유지 의무' 완화에 기각 의견…심의 개시",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260910133001549"
-        },
-        {
-          "title": "대한항공-아시아나 기업결합 시정조치 변경신청 2건, (주)대한항공 및 소속 직원들의 조사방해 사건 심의 절차 개시",
-          "source": "서울Pn",
-          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=446697"
-        },
-        {
-          "title": "\"좌석 줄여달라\" 떼쓰다 증거인멸…대한항공 법인·직원 검찰 고발 예고한 공정위",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026091009190471323"
-        }
-      ]
-    },
-    {
-      "id": "소농",
-      "rank": 2,
-      "keyword": "소농",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“농사는 남이 짓고 직불금은 내가?”…소농 직불금이 부른 ‘위장자경’ 그림자' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“농사는 남이 짓고 직불금은 내가?”…소농 직불금이 부른 ‘위장자경’ 그림자",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260910092114164"
-        },
-        {
-          "title": "농지임차 대규모 농가 집중 심화…10ha 이상 농가 비중 20년 새 6%→25%",
-          "source": "한국영농신문",
-          "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=70084"
-        },
-        {
-          "title": "농지 임대차 줄어드는데 대농 쏠림 심화…10㏊ 이상 비중 6%→25%",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260908_0003780065"
-        }
-      ]
-    },
-    {
-      "id": "다음-뉴스",
-      "rank": 3,
-      "keyword": "다음 뉴스",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '쓰레기만 보냈는데 전액 환불?…\"어떻게 이러나\" 분통' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "쓰레기만 보냈는데 전액 환불?…\"어떻게 이러나\" 분통",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260910084805613"
-        },
-        {
-          "title": "소주까지 마셨는데 \"벌레 나와\" 환불…쓰레기만 돌려준 배달거지 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/09/10/2026091011083232255"
-        },
-        {
-          "title": "\"배달된 초밥 차가워서 못 먹겠다\" 환불 요청한 손님…회만 쏙 빼 먹었다",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6284709"
-        }
-      ]
-    },
-    {
-      "id": "아시안게임",
-      "rank": 4,
-      "keyword": "아시안게임",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[社告] 연합뉴스 아이치·나고야 아시안게임 특별취재단 가동' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[社告] 연합뉴스 아이치·나고야 아시안게임 특별취재단 가동",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260909147800007"
-        },
-        {
-          "title": "\"AI가 알아서 하이라이트\"…네이버, 치지직 AG 중계 AI 강화 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/tech/2026/09/10/2026091010114637177"
-        },
-        {
-          "title": "[AG D-10]K양궁, 금 5개 싹쓸이 겨냥…맏형 김우진 ‘선봉’",
+          "title": "김민석 “서울시장·강릉 국회의원 보궐선거 99.99% 있을 것…수첩에 적힌 MS는 나”",
           "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609090600015"
+          "url": "https://www.khan.co.kr/article/202609101147001"
+        },
+        {
+          "title": "오세훈 측 “김민석, ‘재보궐 99.99%’ 망언…사법부 압박하나”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260910190549256"
+        },
+        {
+          "title": "김민석 “한동훈 국회 있으면 안돼…자격정지法 통과되면 가능”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/NewsStand/article/all/20260910/134640910/1"
         }
       ]
     },
     {
-      "id": "트레이드",
+      "id": "한화-대-ssg",
+      "rank": 2,
+      "keyword": "한화 대 ssg",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[한번에쓱] '선선한 가을밤에 역투를 펼치다!' 한화 박준영 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[한번에쓱] '선선한 가을밤에 역투를 펼치다!' 한화 박준영 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/10/2026091018534714786"
+        },
+        {
+          "title": "[사진]박준영,'아빌라와 선발 맞대결'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/09/10/MJRDEMBRG4YDSNRWGBSDOYZSGQ/"
+        },
+        {
+          "title": "[10일 프리뷰] SSG 구세주 아빌라, 시즌 6승 도전",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112873041"
+        }
+      ]
+    },
+    {
+      "id": "광주광역시",
+      "rank": 3,
+      "keyword": "광주광역시",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "노화",
+      "rank": 4,
+      "keyword": "노화",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[생활속 과학이야기] 면역은 늘 우리 편이 아니다' (대전일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[생활속 과학이야기] 면역은 늘 우리 편이 아니다",
+          "source": "대전일보",
+          "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2299047"
+        },
+        {
+          "title": "노화 염증 줄이려면…설탕부터 줄여야 할까, 의사가 짚은 생활습관",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16189014"
+        },
+        {
+          "title": "면역은 강한 것이 아니라 균형이 중요하다",
+          "source": "Arts & Culture",
+          "url": "https://www.artsnculture.com/news/articleView.html?idxno=7081"
+        }
+      ]
+    },
+    {
+      "id": "일교차",
       "rank": 5,
-      "keyword": "트레이드",
-      "volumeLabel": "500+",
+      "keyword": "일교차",
+      "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '어떻게 다저스 위협하는 3대3 초대형 트레이드가 됐나…\"올스타급 선수 하나 없는데\" 대반전' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '오늘보다 더 춥다…내일 아침 10도 '뚝'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "어떻게 다저스 위협하는 3대3 초대형 트레이드가 됐나…\"올스타급 선수 하나 없는데\" 대반전",
+          "title": "오늘보다 더 춥다…내일 아침 10도 '뚝'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260910055051854"
+          "url": "https://v.daum.net/v/20260910191728596"
         },
         {
-          "title": "'슈퍼스타 없이 만든 윈-윈 신화' 과거 사례로 본 보스턴-밀워키 트레이드의 독특한 가치",
-          "source": "https://www.mlbkor.com/",
-          "url": "https://www.mlbkor.com/news/articleView.html?idxno=32876"
+          "title": "[뉴스7 날씨] 다시 낮 기온 올라…일교차 커요!",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8660362"
         },
         {
-          "title": "'우리는 5년 미래 잃었는데 레너드는 고작 70만 달러?'…분노한 클리퍼스, '솜방망이 징계'에 NBA 레전드도 의심→압둘-자바 \"거대한 은폐처럼 느껴진다\"",
-          "source": "Nate News",
-          "url": "https://m.news.nate.com/view/20260909n21051"
+          "title": "[날씨] \"갑자기 싸늘해요\" 한낮에도 서늘...내일까지 해상 '강풍·풍랑'",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0108_202609101304083632"
         }
       ]
     },
     {
-      "id": "교사",
+      "id": "미스트롯-포유",
       "rank": 6,
-      "keyword": "교사",
+      "keyword": "미스트롯 포유",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“방송사고” 비명…안성훈·손빈아 무대 중 돌발 상황 (미스트롯 포유)' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“방송사고” 비명…안성훈·손빈아 무대 중 돌발 상황 (미스트롯 포유)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260910/134643772/1"
+        },
+        {
+          "title": "춘길, \"이렇게 더는 못하겠다\"라며 은퇴 선언…대체 무슨 일? (미스트롯포유) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/09/10/GU2DKMZZGJQWINZXMM3GGMBRGE/"
+        },
+        {
+          "title": "‘미스트롯 포유’ 춘길, 돌연 은퇴 선언",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260910131442140?f=m"
+        }
+      ]
+    },
+    {
+      "id": "고소",
+      "rank": 7,
+      "keyword": "고소",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[속보]빅뱅 출신 승리, 30대男 특수폭행 혐의 피소' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[속보]빅뱅 출신 승리, 30대男 특수폭행 혐의 피소",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260910184439626"
+        },
+        {
+          "title": "그룹 빅뱅 출신 승리, 특수폭행 혐의로 고소당해…강남서 접수",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260910163100004"
+        },
+        {
+          "title": "빅뱅 출신 승리, 특수폭행 혐의 피소…경찰 \"아직 고소인 조사도 안해\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260910_0003784966"
+        }
+      ]
+    },
+    {
+      "id": "공화당",
+      "rank": 8,
+      "keyword": "공화당",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '다급해진 트럼프?…\"공화당 승리하면 1인당 5천 달러 준다\"' (JTBC) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "다급해진 트럼프?…\"공화당 승리하면 1인당 5천 달러 준다\"",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12317710"
+        },
+        {
+          "title": "트럼프 “중간선거 이기면 성인 1명당 5천 달러씩”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260910192412790"
+        },
+        {
+          "title": "“중간선거 이기면 美국민에 5000달러 쏜다” 트럼프 파격 공약",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20260910/134642174/1"
+        }
+      ]
+    },
+    {
+      "id": "검사",
+      "rank": 9,
+      "keyword": "검사",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '기간제 교사 밀어내고 수당 챙겼나, ‘얌체복직’ 논란···21명은 학기 시작 맞춰 다시 휴직' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"전국민 콜센터 된 지 오래\"…젊은 경찰들 5년도 못 버텼다 [불신 청구서]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "기간제 교사 밀어내고 수당 챙겼나, ‘얌체복직’ 논란···21명은 학기 시작 맞춰 다시 휴직",
+          "title": "\"전국민 콜센터 된 지 오래\"…젊은 경찰들 5년도 못 버텼다 [불신 청구서]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202609092902H"
+        },
+        {
+          "title": "이 대통령, 공소청 직제안 수정 지시…'검사 정원·사법통제부' 지적",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260910080328171"
+          "url": "https://v.daum.net/v/20260910191803615"
         },
         {
-          "title": "[팩트체크] 정규 교사 '얌체복직'에 기간제 교사 피해 여전?…실태 살펴보니",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260909137600518"
-        },
-        {
-          "title": "「정교사 '얌체복직' 296건, 8만 기간제교원 해고 위기?」 : 사회",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/981679"
+          "title": "검찰개혁추진단 前자문위원장 \"경찰 수사 점검도 색안경 끼고 막나\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6850947_36918.html"
         }
       ]
     },
     {
-      "id": "불펜",
-      "rank": 7,
-      "keyword": "불펜",
+      "id": "이정은",
+      "rank": 10,
+      "keyword": "이정은",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“불펜 ERA 1위, 이승민이 가장 큰 역할” 레이예스·김도영도 잡았다…국민 유격수가 활짝 웃는 이유 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“하루 5개만 피우자” 실패한 유재석…20년 금연한 몸은 어떻게 달라졌나' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“불펜 ERA 1위, 이승민이 가장 큰 역할” 레이예스·김도영도 잡았다…국민 유격수가 활짝 웃는 이유 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/10/202609101403771192O"
+          "title": "“하루 5개만 피우자” 실패한 유재석…20년 금연한 몸은 어떻게 달라졌나",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20260910/134640721/2"
         },
         {
-          "title": "\"불펜 ERA 1위, 이승민이 가장 큰 역할\" 레이예스·김도영도 잡았다…국민 유격수가 활짝 웃는 이유",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/09/10/HA3TON3DGE4DCMZXGVRWGMZWME/"
-        },
-        {
-          "title": "\"홀드왕 경쟁, 하늘에 맡긴다\" 시즌 전엔 상상도 못한 '20홀드' 해냈다…그러나 '타이틀' 목표 대신 \"마지막에 웃는 팀이길\" [대구 인터뷰]",
-          "source": "Nate News",
-          "url": "https://m.news.nate.com/view/20260909n26510"
-        }
-      ]
-    },
-    {
-      "id": "미국-중간선거",
-      "rank": 8,
-      "keyword": "미국 중간선거",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '백악관, 이란전쟁 엇갈린 시선...트럼프 '11월 종전' vs 참모진 '장기화' - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "백악관, 이란전쟁 엇갈린 시선...트럼프 '11월 종전' vs 참모진 '장기화' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/09/10/2026091008255630252"
-        },
-        {
-          "title": "\"이란전, 중간선거 직후 종결\"‥'새 통제구역' 예고",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6850820_37012.html"
-        },
-        {
-          "title": "고유가·고금리에 관세전쟁까지…악재 쌓이는 트럼프의 중간선거",
+          "title": "“화장실서 반라로 발견될 정도”…이준서 의사, 9년 알코올 중독 고백 [TVis] (유퀴즈)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260910081351451"
-        }
-      ]
-    },
-    {
-      "id": "캐나다-총리",
-      "rank": 9,
-      "keyword": "캐나다 총리",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '외계인 침공하면 뭉쳐야‥트럼프 보복에 캐나다 '끝까지 간다'' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "외계인 침공하면 뭉쳐야‥트럼프 보복에 캐나다 '끝까지 간다'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6850740_37004.html"
+          "url": "https://v.daum.net/v/GaWuCZwar4"
         },
         {
-          "title": "\"대가 치르더라도 후퇴는 없다\" 캐나다인, 美보복관세에 강경",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/09/10/XBYILFRROJHDNLUYGFGSHF2SQE/"
-        },
-        {
-          "title": "지지율, 한 번에 11%P 급등했다…역대 최고치 찍은 캐나다 총리, 비결은",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260910074200513"
-        }
-      ]
-    },
-    {
-      "id": "lafc-vs-ny-red-bulls",
-      "rank": 10,
-      "keyword": "lafc vs ny red bulls",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Son Heung-min Sparks Opening Goal Despite Crossbar Bad Luck, LAFC Secur…' (news.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Son Heung-min Sparks Opening Goal Despite Crossbar Bad Luck, LAFC Secures First Win in 7 Matches",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008747060"
-        },
-        {
-          "title": "Son Heung-min leads LAFC attack but fails to score in 2-0 win over New York - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/09/10/R5XHW4YDPZCDHAMMMOQP6Z4TGU/"
-        },
-        {
-          "title": "Los Angeles FC - New York Red Bulls",
-          "source": "Flashscore.com",
-          "url": "https://www.flashscore.com/match/football/los-angeles-fc-txUJt9AR/new-york-red-bulls-zV5YmQAr/summary/lineups/?mid=MBEQJUDD"
+          "title": "이정은, 극단 빚 갚기 위해 '이효리 연기 스승'까지…\"되게 재능 있다고 생각해\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6285669"
         }
       ]
     }
