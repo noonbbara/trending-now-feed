@@ -1,286 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-09T22:26:26.700Z",
+  "updatedAt": "2026-09-10T00:30:36.470Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "태풍",
+      "id": "운세",
       "rank": 1,
-      "keyword": "태풍",
-      "volumeLabel": "10000+",
+      "keyword": "운세",
+      "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '하늘로 '촤악' 지하로 '콸콸'‥태풍 뒤끝 '나고야 마비'' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[오늘의 운세] 9월 10일' (중앙일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "하늘로 '촤악' 지하로 '콸콸'‥태풍 뒤끝 '나고야 마비'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6850664_36925.html"
+          "title": "[오늘의 운세] 9월 10일",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25460546"
         },
         {
-          "title": "일본 중부 폭우로 곳곳 피해…\"최소 41명 부상\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260910053254770"
+          "title": "[오늘의 운세] 2026년 09월 10일 띠별 운세",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0121_202609100000000001"
         },
         {
-          "title": "아시안게임 앞둔 나고야 물바다…선수단 400명 긴급 대피",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20260909/134637260/1"
+          "title": "[오늘의 운세] 9월 10일 목요일 (음력 7월 29일) 띠별 운세",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260907580248"
         }
       ]
     },
     {
-      "id": "투자",
+      "id": "이정후",
       "rank": 2,
-      "keyword": "투자",
+      "keyword": "이정후",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '美 제시 사업, 세 달 만에 436억→2093억달러…\"전례 없는 압박\"' (이데일리) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "美 제시 사업, 세 달 만에 436억→2093억달러…\"전례 없는 압박\"",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=04460806645578480&mediaCodeNo=257"
-        },
-        {
-          "title": "[단독] 미, 2천억달러 대미투자 ‘최종 안전판’ 깼다…일부 사업 원금 회수 어려울 수도",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1277093.html"
-        },
-        {
-          "title": "\"원전 2기는 한국형으로...웨스팅하우스 지분 인수도 추진\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202609082302134876"
-        }
-      ]
-    },
-    {
-      "id": "김나영",
-      "rank": 3,
-      "keyword": "김나영",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“머리띠 또 유행하겠네”..김나영, 패션 선두주자 답게 가을·겨울룩 찰떡 소화' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“머리띠 또 유행하겠네”..김나영, 패션 선두주자 답게 가을·겨울룩 찰떡 소화",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260909235808071"
-        },
-        {
-          "title": "'마이큐♥' 김나영, '뼈말라' 몸매의 정석…애엄마 안 믿기는 동안 미모",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260908n18387?mid=e01&list=recent&cpcd="
-        },
-        {
-          "title": "김나영, ♥마이큐도 다시 반할 능소화 빛 아름다움",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/10/MQ2DAMTFMQ2GIMZWMRTDINZSMI/"
-        }
-      ]
-    },
-    {
-      "id": "콜레스테롤",
-      "rank": 4,
-      "keyword": "콜레스테롤",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“콜레스테롤 수치 낮추는 확실한 효과”… 하버드에서 밝힌 3가지 음식' (헬스조선) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“콜레스테롤 수치 낮추는 확실한 효과”… 하버드에서 밝힌 3가지 음식",
-          "source": "헬스조선",
-          "url": "https://health.chosun.com/site/data/html_dir/2026/09/09/2026090902107.html"
-        },
-        {
-          "title": "사하구 보건소, 심뇌혈관질환 예방 및 치매 인식 개선 합동 홍보 캠페인",
-          "source": "부산일보",
-          "url": "https://www.busan.com/view/newsunicollvill/view.php?code=2026090716285992850"
-        },
-        {
-          "title": "날씨 좋은 9월, ‘혈압·혈당·콜레스테롤’ 관리 시작",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/QIgqIVZv17"
-        }
-      ]
-    },
-    {
-      "id": "원자력",
-      "rank": 5,
-      "keyword": "원자력",
-      "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '고리원자력본부, 불법 드론 비행 방지 총력대응 체계 구축' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '이정후, 극적인 동점 2타점 2루타…멀티히트로 타율 0.281' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "고리원자력본부, 불법 드론 비행 방지 총력대응 체계 구축",
+          "title": "이정후, 극적인 동점 2타점 2루타…멀티히트로 타율 0.281",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8659739"
+        },
+        {
+          "title": "'1:6→7:6 기적의 8회 6득점' 이정후가 해냈다! 2사 풀카운트 동점 2타점 2루타 대폭발→WBC 동료 위트컴 역전 결승타 [SF 리뷰]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/qKkJmTNdAS"
+          "url": "https://v.daum.net/v/20260910074637603?t=m&x_mn=6aa1e11e739d2e40003b9252"
         },
         {
-          "title": "고리원전 18.5㎞ 내 불법 드론 띄우면 ‘징역형’…17일부터 처벌 강화",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20088874"
-        },
-        {
-          "title": "한수원 고리본부, 개정법 맞춰 불법 드론비행 방지 강화",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260909_0003782558"
-        }
-      ]
-    },
-    {
-      "id": "종합격투기",
-      "rank": 6,
-      "keyword": "종합격투기",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '일반인 기절시키고 뺨 ‘툭툭’…‘조폭 출신’ 격투기 선수, 소속 단체서 퇴출' (JTBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "일반인 기절시키고 뺨 ‘툭툭’…‘조폭 출신’ 격투기 선수, 소속 단체서 퇴출",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12317322"
-        },
-        {
-          "title": "일반인 출연자 마비 증상까지…김중우 생방송 논란에 '정찬성 ZFN' 계약 해지",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/2oFVDiB3cQ"
-        },
-        {
-          "title": "‘코리안 좀비’ 정찬성, ‘길로틴 초크’로 일반인 기절시킨 김중우 퇴출 - 스타투데이",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12147841"
-        }
-      ]
-    },
-    {
-      "id": "아시아나항공",
-      "rank": 7,
-      "keyword": "아시아나항공",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '아시아나와 합병 후 ‘서열 갈등’… 대한항공 조종사노조 파업 위기' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "아시아나와 합병 후 ‘서열 갈등’… 대한항공 조종사노조 파업 위기",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/674bU7vmHl"
-        },
-        {
-          "title": "\"서열 불만\" 대한항공 조종사들, 노동쟁의 조정신청",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202609082259409947"
-        },
-        {
-          "title": "‘조종사 서열 조종사 손으로’ 노조 주장에…대한항공 “고유 인사권으로 조정 대상 될 수 없어”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260908/134627746/1"
-        }
-      ]
-    },
-    {
-      "id": "알테오젠",
-      "rank": 8,
-      "keyword": "알테오젠",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[기자수첩] 알테오젠에 붙은 '신뢰 할인'' (청년의사) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[기자수첩] 알테오젠에 붙은 '신뢰 할인'",
-          "source": "청년의사",
-          "url": ""
-        },
-        {
-          "title": "신한증권, 알테오젠 목표가↓…\"노바티스 신약 1개 3상 실패\"",
+          "title": "샌프란시스코 이정후, 대타 출전해 무안타…타율 0.279",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260909030400008"
-        },
-        {
-          "title": "알테오젠, AOC 일부 품목 임상 3상 실패…목표가 52만원 하향-신한",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02732246645578480"
+          "url": "https://www.yna.co.kr/view/AKR20260909105200007"
         }
       ]
     },
     {
-      "id": "농업",
+      "id": "아시안-게임-배드민턴",
+      "rank": 3,
+      "keyword": "아시안 게임 배드민턴",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''日에서 神으로 추앙' 韓 전설의 당황·복잡한 감정 \"20년 동고동락, 이제 적이라니 부담이네요\"' (노컷뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'日에서 神으로 추앙' 韓 전설의 당황·복잡한 감정 \"20년 동고동락, 이제 적이라니 부담이네요\"",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6575188"
+        },
+        {
+          "title": "애플, 접이식 '아이폰 듀오' 공개…폴더블 시장서 삼성과 격돌",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/IPT20260910000001365?section=gallery/index"
+        },
+        {
+          "title": "[오피셜] '와' 안세영, 생애 최초 남북대결 펼치나?…여자단식 北 2명 등록→1명은 809위, 1명은 랭킹 없어",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260910033551619"
+        }
+      ]
+    },
+    {
+      "id": "송영길",
+      "rank": 4,
+      "keyword": "송영길",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘김生용死’ 나선 與… “용혜인 사퇴 안하면 의원직 유지도 위험”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘김生용死’ 나선 與… “용혜인 사퇴 안하면 의원직 유지도 위험”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260910043350086"
+        },
+        {
+          "title": "용혜인 후보자 기다리는 취재진",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260910_0021431282"
+        },
+        {
+          "title": "[남지원의 다른 시선들]성평등가족부 장관 잔혹사",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609092004005"
+        }
+      ]
+    },
+    {
+      "id": "레이스-대-브레이브스",
+      "rank": 5,
+      "keyword": "레이스 대 브레이브스",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김하성 없었으면 어쩔 뻔했나! '타율 0.068' 딛고 다저스 격침→ATL 선두 이끈 \"예상 밖 영웅\" 美 극찬' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김하성 없었으면 어쩔 뻔했나! '타율 0.068' 딛고 다저스 격침→ATL 선두 이끈 \"예상 밖 영웅\" 美 극찬",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260910044207202"
+        },
+        {
+          "title": "홈런 3방 맞은 애틀랜타, 탬파베이에 1-7 패배…김하성 결장",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260909_0003782251"
+        },
+        {
+          "title": "애틀랜타 김하성, 3타수 무안타 2삼진…타율 0.110",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260908013600007"
+        }
+      ]
+    },
+    {
+      "id": "ios27",
+      "rank": 6,
+      "keyword": "ios27",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Apple releases iOS 27 RC ahead of public launch' (9to5Mac) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Apple releases iOS 27 RC ahead of public launch",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/09/09/apple-releases-ios-27-rc-ahead-of-public-launch/"
+        },
+        {
+          "title": "How to update to iOS27 and experience all its new features",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/new-ios-27-features-apple-iphone-event-2026"
+        },
+        {
+          "title": "macOS Golden Gate Release Candidate Now Available",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/09/09/apple-seeds-macos-27-rc/"
+        }
+      ]
+    },
+    {
+      "id": "에코프로",
+      "rank": 7,
+      "keyword": "에코프로",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '에코프로비엠 주가, 9월 9일 114,900원 9.64% 상승 마감' (톱스타뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "에코프로비엠 주가, 9월 9일 114,900원 9.64% 상승 마감",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16187900"
+        },
+        {
+          "title": "[특징주] 에코프로머티, 뚜렷한 재료 없이 관망세 속 소폭 상승 : 기업주식정보",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/980809"
+        },
+        {
+          "title": "에코프로 8만2400원 상승 마감 미국 금리 향방 다시 변수로",
+          "source": "CBC뉴스",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=604347"
+        }
+      ]
+    },
+    {
+      "id": "축제",
+      "rank": 8,
+      "keyword": "축제",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '가을 밤하늘 수놓는 '2026 수원 드론·불꽃 축제' [포토뉴스]' (경기일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "가을 밤하늘 수놓는 '2026 수원 드론·불꽃 축제' [포토뉴스]",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260909580578"
+        },
+        {
+          "title": "수원 일월·영흥수목원 10월 한달간 '밤빛정원' 운영",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026091008325976929"
+        },
+        {
+          "title": "수원시, AI 뮤직비디오로 가을축제 알린다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/GtzLCj4qGH"
+        }
+      ]
+    },
+    {
+      "id": "애플워치",
       "rank": 9,
-      "keyword": "농업",
-      "volumeLabel": "200+",
+      "keyword": "애플워치",
+      "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '괴산친환경농업대학 전문 농업인 70명 배출' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Introducing Apple Watch Series 12, with the all-new Health Sensing Syst…' (Apple) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "괴산친환경농업대학 전문 농업인 70명 배출",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/sejong-chungbuk/6285135"
+          "title": "Introducing Apple Watch Series 12, with the all-new Health Sensing System",
+          "source": "Apple",
+          "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/"
         },
         {
-          "title": "괴산 친환경농업대학 전문농입인 70명 졸업",
-          "source": "충청매일",
-          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1098848"
+          "title": "Apple debuts Watch Series 12 and Apple Watch",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/article/apple-debuts-watch-series-12-and-apple-watch-175526349.html"
         },
         {
-          "title": "봉화 농민사관학교 사과 병해충관리과정 수료 전문농업인 31명 배출",
-          "source": "경북도민일보",
-          "url": "https://www.hidomin.com/news/articleView.html?idxno=719597"
+          "title": "Apple’s Redesigned Health App Brings a Slew of New Features",
+          "source": "CNET",
+          "url": "https://www.cnet.com/tech/mobile/apple-redesigned-health-app/"
         }
       ]
     },
     {
-      "id": "첼시",
+      "id": "우규민",
       "rank": 10,
-      "keyword": "첼시",
-      "volumeLabel": "200+",
+      "keyword": "우규민",
+      "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''0-2→6-3' 도파민 터지는 '알론소볼' 첼시, 리즈에 6-3 대역전승...웰백 멀티골 로저스 3어시스트→EFL컵 4라운드로…' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '스포츠 스타들의 인터뷰' (ZUM 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'0-2→6-3' 도파민 터지는 '알론소볼' 첼시, 리즈에 6-3 대역전승...웰백 멀티골 로저스 3어시스트→EFL컵 4라운드로 - 머니투데이",
+          "title": "스포츠 스타들의 인터뷰",
+          "source": "ZUM 뉴스",
+          "url": "https://m.news.zum.com/photo/49606050/107662078?cm=news_photolist&r=1&thumb=1"
+        },
+        {
+          "title": "'LG→삼성→KT' 프로 23년차 베테랑 철완에 우승 명장 극찬 \"우규민 정말 대단! 선발까지 했는데 902G나 던졌다\" - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/10/202609100621771520O"
+          "url": "https://www.mt.co.kr/sports/2026/09/10/2026090914460048284"
         },
         {
-          "title": "\"첼시의 수비? 어수선한 느낌\" 맨유 레전드 네빌, '3경기 7실점' 알론소의 백3 혹평…\"그래도 최소 3위, 2위도 가능할 듯\"",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260907n06449"
-        },
-        {
-          "title": "‘수비진이 너무 산만해!’ 첼시 수비에 네빌 충격 혹평...“완전히 엉망, 추가 영입 필요”",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=97524"
+          "title": "'한·미·일 단 2명뿐' 41세 우규민에게 亞 최초 대기록도 보이기 시작했다... '신의 한 수'로 돌아온 3년 전 KT의 선택",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/y3MJkLKpWv?f=p"
         }
       ]
     }
