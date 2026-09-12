@@ -1,258 +1,270 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-12T06:24:35.109Z",
+  "updatedAt": "2026-09-12T11:10:43.808Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "치지직",
+      "id": "배용준",
       "rank": 1,
-      "keyword": "치지직",
-      "volumeLabel": "5000+",
+      "keyword": "배용준",
+      "volumeLabel": "10000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[기업]네이버 치지직, LCK·오버워치 월드컵 결승 동시중계' (YTN) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘백발’ 배용준, 근황 보니…골프장서 포착' (매일경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[기업]네이버 치지직, LCK·오버워치 월드컵 결승 동시중계",
-          "source": "YTN",
-          "url": "https://m.ytn.co.kr/news_view.php?key=202609111822502969&s_mcd=0102"
+          "title": "‘백발’ 배용준, 근황 보니…골프장서 포착",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12151056"
         },
         {
-          "title": "LCK 결승부터 오버워치 월드컵까지…치지직 'e스포츠 주말' 개최",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260911000219"
+          "title": "'박수진♥' 배용준, 백발 장발 근황 후 또 포착…'14세 장타자'와 라운딩",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260912135549879"
         },
         {
-          "title": "[현장] 경기 전부터 달아오른 KSPO돔…LCK 팬들, 포토존·굿즈·체험 즐겨",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1689578/%ED%98%84%EC%9E%A5-%EA%B2%BD%EA%B8%B0-%EC%A0%84-%EB%8B%AC%EC%95%84%EC%98%A4%EB%A5%B8-KSPO%EB%8F%94LC-2026"
+          "title": "‘박수진♥’ 배용준, 백발 목격담 이후… 모자 눌러쓰고 포착된 근황",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202609121623003"
         }
       ]
     },
     {
-      "id": "경찰",
+      "id": "신지수",
       "rank": 2,
-      "keyword": "경찰",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[정치1인치] 한동훈이 살아남는 법…판 바꾸는 ‘일당백 정치’의 명암' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[정치1인치] 한동훈이 살아남는 법…판 바꾸는 ‘일당백 정치’의 명암",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260912103150008"
-        },
-        {
-          "title": "한동훈 “김민석 이빨 다 뽑겠다”…민주 “검사 때 그대로, 상대 인간으로 안 봐”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/assembly/1277464.html"
-        },
-        {
-          "title": "‘한동훈 공무상 비밀누설 의혹’ 경찰 수사 착수…\"짖어놓고 물 용기 없나\"",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12318023"
-        }
-      ]
-    },
-    {
-      "id": "캠-브리-콘",
-      "rank": 3,
-      "keyword": "캠 브리 콘",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''웃돈 5배 줘도 못 구한다'…삼전닉스에 목줄 잡힌 中 [강경주의 테크X]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'웃돈 5배 줘도 못 구한다'…삼전닉스에 목줄 잡힌 中 [강경주의 테크X]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026091194276"
-        },
-        {
-          "title": "주문 쏟아지는 중국산 AI칩… HBM 부족에 가격 급등",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/09/11/DU4WNUNG6NDNXK6ZVHEIUGNQT4/"
-        },
-        {
-          "title": "[中 거인의 공급망] ②AI 서버 강자 '낭조정보' 없으면 '딥시크'도 없다",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260911000928"
-        }
-      ]
-    },
-    {
-      "id": "트롯-데스-매치-금-타는-금요일",
-      "rank": 4,
-      "keyword": "트롯 데스 매치 금 타는 금요일",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''윤여정과 이혼' 조영남 또..\"바람피우기 전, 행복하게 잘 살 때\" ('금타는 금요일')' (미주중앙일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'윤여정과 이혼' 조영남 또..\"바람피우기 전, 행복하게 잘 살 때\" ('금타는 금요일')",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260911161951715"
-        },
-        {
-          "title": "[TV조선] 조영남의 냉정한 심사평",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/f2u3HkPK5S"
-        },
-        {
-          "title": "조영남, 춘길에 “비겁한 놈, 두고 보자” 살벌 경고…무슨 일? (금타는 금요일)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260911/134650171/1"
-        }
-      ]
-    },
-    {
-      "id": "lck",
-      "rank": 5,
-      "keyword": "lck",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Gumayusi vs Keria: T1 legends clash on Korean LoL's biggest weekend' (The Korea Herald) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Gumayusi vs Keria: T1 legends clash on Korean LoL's biggest weekend",
-          "source": "The Korea Herald",
-          "url": "https://www.koreaherald.com/article/10868127"
-        },
-        {
-          "title": "'Proof or Revenge'... Hanwha Life Esports and T1 in Unforgiving Elimination Match",
-          "source": "Inven Global",
-          "url": "https://www.invenglobal.com/articles/25854/proof-or-revenge-hanwha-life-esports-and-t1-in-unforgiving-elimination-match"
-        },
-        {
-          "title": "5 Things You Need to Know About 2026 LCK Finals Weekend",
-          "source": "Sheep Esports",
-          "url": "https://www.sheepesports.com/en/articles/5-things-you-need-to-know-about-2026-lck-finals-weekend/en"
-        }
-      ]
-    },
-    {
-      "id": "이범호",
-      "rank": 6,
-      "keyword": "이범호",
+      "keyword": "신지수",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] 퇴원 직후 복귀한 김도영‥KBO \"AG 정상 합류 결정\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '신지수, 웨딩화보 직접 공개 \"홍콩-서울 오가며 2년반 연애 끝 결혼..축하 감사\"[전문]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[단독] 퇴원 직후 복귀한 김도영‥KBO \"AG 정상 합류 결정\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6851288_37004.html"
-        },
-        {
-          "title": "\"팀 지분 50%\", \"형! 절대 다치지 마\" 뛰지 않고 벤치만 앉아도 이긴다...김도영의 존재감 이렇게 컸나 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/12/202609120923775439O"
-        },
-        {
-          "title": "KIA 김도영, 코뼈 수술 후 퇴원…13일 한화전 출전 검토",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260911136500007"
-        }
-      ]
-    },
-    {
-      "id": "궁금한-이야기-y",
-      "rank": 7,
-      "keyword": "궁금한 이야기 y",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[자막뉴스] \"흙탕물로 버텼다\" 9일 만 '극적 구조'…\"터널 완전히 바뀌어\" 생존 비결은?' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[자막뉴스] \"흙탕물로 버텼다\" 9일 만 '극적 구조'…\"터널 완전히 바뀌어\" 생존 비결은?",
+          "title": "신지수, 웨딩화보 직접 공개 \"홍콩-서울 오가며 2년반 연애 끝 결혼..축하 감사\"[전문]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260912145407555"
+          "url": "https://v.daum.net/v/20260912162451614"
         },
         {
-          "title": "민간 수색 주말도 계속‥2진 '재건·복구' 지원",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6851330_37012.html"
+          "title": "'슈퍼스타K' 출신 신지수, 오는 19일 비연예인과 결혼",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260912_0003786817"
         },
-        {
-          "title": "[네팔 대홍수] 韓구호대 2진 대장 \"네팔당국과 수색·구조 재개 협의할 것\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260912029000084"
-        }
-      ]
-    },
-    {
-      "id": "비행기",
-      "rank": 8,
-      "keyword": "비행기",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"탑승권 없어도?\" 공항 직원들만 몰래 가던 숨은 비행기 뷰 명당의 정체' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"탑승권 없어도?\" 공항 직원들만 몰래 가던 숨은 비행기 뷰 명당의 정체",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260912064530409?f=p"
-        },
-        {
-          "title": "\"폭발물 실은 비행기 美로\" 경고에도…CIA, 9·11 기밀자료 공개",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Ff8AXHEoG4"
-        },
-        {
-          "title": "9·11테러 25주년에 美, 이란 연계 알카에다 지도부 최대 134억 현상금",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11616481"
-        }
-      ]
-    },
-    {
-      "id": "슈퍼스타k",
-      "rank": 9,
-      "keyword": "슈퍼스타k",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''슈퍼스타K' 출신 신지수, 품절녀 된다…결혼 청첩장 공개 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
         {
           "title": "'슈퍼스타K' 출신 신지수, 품절녀 된다…결혼 청첩장 공개 - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/entertainment/2026/09/12/2026091211404272967"
+        }
+      ]
+    },
+    {
+      "id": "수익률",
+      "rank": 3,
+      "keyword": "수익률",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '송은이, 33년째 묵인 연금저축 수익률 공개…\"은행서 해지 권유까지\"' (세계일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "송은이, 33년째 묵인 연금저축 수익률 공개…\"은행서 해지 권유까지\"",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260910509453"
         },
         {
-          "title": "‘결혼 D-7’ 신지수, 홍콩 웨딩스냅 공개…“잘 살아가겠습니다”",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260912/134654968/1"
+          "title": "\"30년 전 20%대 적금, 은행이 전화와도 안깼다\"... 송은이, 누적 수익률은?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260910143809656"
         },
         {
-          "title": "‘슈스케3’ 출신 신지수, 직접 전한 결혼 소감 “존중하며 살겠다”",
+          "title": "'이율 20%' 대박 적금으로 노후 준비 끝?…'연금저축 33년째' 송은이 수익률 얼마",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026091015324149208"
+        }
+      ]
+    },
+    {
+      "id": "재산",
+      "rank": 4,
+      "keyword": "재산",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“내 재산은 평균일까?”…한국인 48세에 ‘빚’·61세 ‘자산’ 정점 [데이터로 읽는 머니 무브]' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“내 재산은 평균일까?”…한국인 48세에 ‘빚’·61세 ‘자산’ 정점 [데이터로 읽는 머니 무브]",
           "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12151054"
+          "url": "https://www.mk.co.kr/news/economy/12149835"
+        },
+        {
+          "title": "\"빚이 곧 자산증식 기회더라\"…가계빚 2천조 시대의 단면",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6575780"
+        },
+        {
+          "title": "”정부, ‘대출 정책’ 다시 보라!” 전문가 탄식, 가난할수록 고금리로 몰리는 규제의 역설",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202609080851042142"
+        }
+      ]
+    },
+    {
+      "id": "대학-입학",
+      "rank": 5,
+      "keyword": "대학 입학",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "가능한-사랑",
+      "rank": 6,
+      "keyword": "가능한 사랑",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이창동 ‘가능한 사랑’, 베네치아영화제 국제비평가연맹상 [지금뉴스]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이창동 ‘가능한 사랑’, 베네치아영화제 국제비평가연맹상 [지금뉴스]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260912191952884"
+        },
+        {
+          "title": "베니스 홀린 ’가능한 사랑’…황금사자상 거머쥘까?",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260912093451JjV"
+        },
+        {
+          "title": "‘가능한 사랑’을 기다리며",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202609120600031"
+        }
+      ]
+    },
+    {
+      "id": "키움-히어로즈",
+      "rank": 7,
+      "keyword": "키움 히어로즈",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '키움, 'SGC E&C와 함께하는 THE LIV 8월 MVP'에 박진형·서건창 선정→퓨처스팀은 김성진·주성원 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "키움, 'SGC E&C와 함께하는 THE LIV 8월 MVP'에 박진형·서건창 선정→퓨처스팀은 김성진·주성원 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/12/2026091217254943785"
+        },
+        {
+          "title": "키움, 8월 월간 MVP에 투수 박진형-타자 서건창 선정…상금 150만원 수여",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202609121809003"
+        },
+        {
+          "title": "박진형·서건창, 키움 8월 MVP 선정…퓨처스팀 김성진·주성원도 각각 이름 올려",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026091217375675513"
+        }
+      ]
+    },
+    {
+      "id": "lpl",
+      "rank": 8,
+      "keyword": "lpl",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Former LPL CEO Dan Arnold Lands at AI-Native Wealth Firm' (Yahoo Finance) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Former LPL CEO Dan Arnold Lands at AI-Native Wealth Firm",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/former-lpl-ceo-dan-arnold-173541031.html"
+        },
+        {
+          "title": "Dan Arnold is back, and he’s leading a startup.",
+          "source": "InvestmentNews",
+          "url": "https://www.investmentnews.com/independent-broker-dealers/dan-arnold-is-back-and-hes-leading-a-startup/268130"
+        },
+        {
+          "title": "Former LPL Financial Boss Dan Arnold Joins Wealthtech Firm",
+          "source": "Barron's",
+          "url": "https://www.barrons.com/advisor/articles/former-lpl-ceo-dan-arnold-stirlingshire-0c8eae94"
+        }
+      ]
+    },
+    {
+      "id": "호텔",
+      "rank": 9,
+      "keyword": "호텔",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '회기 중 女와 호텔 간 광명시의원 “사생활 있는 것 아니냐”…항변에도 결국 징계 절차' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "회기 중 女와 호텔 간 광명시의원 “사생활 있는 것 아니냐”…항변에도 결국 징계 절차",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260912090510939"
+        },
+        {
+          "title": "‘여성과 모텔’ 들킨 유부남 광명시의원…“남자로서 꿍꿍이가 있었다” 황당 해명",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260912/134654742/1"
+        },
+        {
+          "title": "회기 중 여성과 숙박업소 방문 물의…광명시의회, 징계 착수",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260911580233"
+        }
+      ]
+    },
+    {
+      "id": "대구fc",
+      "rank": 10,
+      "keyword": "대구fc",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"5월의 한 갚았다\" 대구FC, 홈에서 용인FC 맞아 3대1 승리' (매일신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"5월의 한 갚았다\" 대구FC, 홈에서 용인FC 맞아 3대1 승리",
+          "source": "매일신문",
+          "url": "https://www.imaeil.com/page/view/2026091218493906711"
+        },
+        {
+          "title": "팀당 8~9경기 남은 K리그2 승격 경쟁 판도는? 다이렉트 승격권 주어지는 1, 2위 경쟁-준PO 마지노선인 6위 경쟁에 주목",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260910n29177"
+        },
+        {
+          "title": "승리 절실한 대구FC···홈에서 용인 상대 '승점 3점' 도전",
+          "source": "대구MBC",
+          "url": "https://dgmbc.com/NewsArticle/861837"
         }
       ]
     }
