@@ -1,258 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-12T19:41:42.116Z",
+  "updatedAt": "2026-09-12T22:09:42.366Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "박재현",
+      "id": "삼성전자",
       "rank": 1,
-      "keyword": "박재현",
-      "volumeLabel": "10000+",
+      "keyword": "삼성전자",
+      "volumeLabel": "5000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"2스트라이크 잡고 왜 한가운데 던져?\" 이강철 한마디에 확 바뀌었다! KT 새 외인, 3이닝 강판 굴욕→6일만에 '개인 최다 …' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '아이폰18·첫 폴더블 출격…삼성·LGD, 하반기 '애플 효과' 볼까' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"2스트라이크 잡고 왜 한가운데 던져?\" 이강철 한마디에 확 바뀌었다! KT 새 외인, 3이닝 강판 굴욕→6일만에 '개인 최다 9K' 설욕투 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/13/2026091214223098856"
+          "title": "아이폰18·첫 폴더블 출격…삼성·LGD, 하반기 '애플 효과' 볼까",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260911129300003"
         },
         {
-          "title": "이러려고 한화가 포기한 좌완에 20억 질렀나…득점권 빈타+포일+밀어내기 볼넷, KIA 충격 역전패→준PO 직행 멀어진다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/09/13/GRTDINDGGU3TCZJUHFTGEMZQGQ/"
-        },
-        {
-          "title": "'KIA 이닝이터' 네일이 왜 이러나…KT 상대 올 시즌 최다 '4볼넷' 흔들, 7경기 연속 QS 도전도 무산 [수원 라이브]",
+          "title": "롯데하이마트, 아이폰18 프로 시리즈 사전예약 진행",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260912191551826?f=p"
+          "url": "https://v.daum.net/v/20260913060150825"
+        },
+        {
+          "title": "200만원 아이폰18 오늘부터 예약...통신 3사 할인 경쟁",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260911212856"
         }
       ]
     },
     {
-      "id": "레알-마드리드-대-라요",
+      "id": "아시아-남자-배구-선수권-대회",
       "rank": 2,
-      "keyword": "레알 마드리드 대 라요",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '레알 마드리드 vs 라요 바예카노 프리뷰: 선두 경쟁의 뜨거운 승부' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "레알 마드리드 vs 라요 바예카노 프리뷰: 선두 경쟁의 뜨거운 승부",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-real-madrid-vs-rayo-vallecano-diem-nong-cuoc-dua-top-dau"
-        },
-        {
-          "title": "‘싸우고 벌금까지...완전히 망가졌던 레알!’ 그런데 무리뉴 오자 대반전→음바페-벨링엄도 ‘엄지척’",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=97739"
-        },
-        {
-          "title": "[농담]'무리뉴'감독의 인터뷰를 보고",
-          "source": "브런치",
-          "url": "https://brunch.co.kr/@vitribox/124"
-        }
-      ]
-    },
-    {
-      "id": "선덜랜드-대-아스널",
-      "rank": 3,
-      "keyword": "선덜랜드 대 아스널",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '선덜랜드 vs 아스널 예측: 선두 자리를 노릴 기회' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "선덜랜드 vs 아스널 예측: 선두 자리를 노릴 기회",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-sunderland-vs-arsenal-co-hoi-bam-duoi-ngoi-dau"
-        },
-        {
-          "title": "선덜랜드 대 아스날 예상 점수: \"거너스\" 연승 행진 연장",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/du-doan-ti-so-sunderland-vs-arsenal-phao-thu-keo-dai-mach-thang-1765322.ldo"
-        },
-        {
-          "title": "선덜랜드 - 아스널: 아르테타 감독은 프리미어 리그에서 완벽한 출발을 이어가고 싶어한다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/sunderland-arsenal-hlv-arteta-muon-duy-tri-khoi-dau-hoan-hao-o-premier-league"
-        }
-      ]
-    },
-    {
-      "id": "토트넘",
-      "rank": 4,
-      "keyword": "토트넘",
-      "volumeLabel": "500+",
+      "keyword": "아시아 남자 배구 선수권 대회",
+      "volumeLabel": "5000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''손흥민이 그렇게 아꼈는데' 불과 29세에 '커리어 폭망'... '마지막 희망' 토트넘 탈출마저 실패' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '세계랭킹 6위 일본은 다르네...한일전 별렸던 라미레스호 0-3 완패...호주와 3위 결정전' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'손흥민이 그렇게 아꼈는데' 불과 29세에 '커리어 폭망'... '마지막 희망' 토트넘 탈출마저 실패",
+          "title": "세계랭킹 6위 일본은 다르네...한일전 별렸던 라미레스호 0-3 완패...호주와 3위 결정전",
           "source": "Daum",
-          "url": "https://v.daum.net/v/Wxg9MxpXym"
+          "url": "https://v.daum.net/v/20260912204451964"
         },
         {
-          "title": "[오피셜]\"모르겠다, 내 일이 아니다\" 히샬리송과 완전히 갈라선 토트넘 데 제르비 감독의 단호함 \"그가 지난 두달 동안 뭘 했는 지 알고 있다\"",
+          "title": "韓배구 충격 사태, 숙적 일본에 0-3 참사 왜 발생했나…日언론 의기양양 \"일본 경기 내내 압도, 한국 감독 고개 숙였다\"",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/09/12/HA3WEMLGGVQWGMTEMJRWGZJUGI/"
+          "url": "https://www.chosun.com/sports/volleyball/2026/09/13/MY4TOYZTGFRTAYJVMYZTGOBRMI/"
         },
         {
-          "title": "토트넘 '1092억' 공중분해 위기! '최악 먹튀' 히샬리송, FIFA 제소 초강수 던진다…\"계약 기간 무효 원해\" - 머니투데이",
+          "title": "韓 0-3 박살냈는데 “내일이 진짜 승부”라니…13점→11점→14점 굴욕 안긴 日 주장, 시선은 이미 이란으로 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/11/202609111920776696O"
+          "url": "https://www.mt.co.kr/sports/2026/09/13/202609130016771164O"
         }
       ]
     },
     {
-      "id": "오버워치",
+      "id": "us-오픈",
+      "rank": 3,
+      "keyword": "us 오픈",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '남자 테니스 츠베레프, 하차노프 3-0 꺾고 US오픈 결승행' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "남자 테니스 츠베레프, 하차노프 3-0 꺾고 US오픈 결승행",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260912080455251"
+        },
+        {
+          "title": "'3연속 결승' 츠베레프 vs '23년 숙원' 셸턴…US오픈 결승 격돌(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260912014151007"
+        },
+        {
+          "title": "메이저 우승 맛 본 츠베레프 VS 알카라스 꺾은 셸턴 ... US오픈 남자 결승 맞붙는다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/09/12/ZQUASFZPBZF5XDSBPUYIOP3YUY/"
+        }
+      ]
+    },
+    {
+      "id": "이란",
+      "rank": 4,
+      "keyword": "이란",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '트럼프 \"이란 전쟁, 11월 중간선거 직후 끝나고 유가도 급락\"(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "트럼프 \"이란 전쟁, 11월 중간선거 직후 끝나고 유가도 급락\"(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260912215755863"
+        },
+        {
+          "title": "\"미국의 협박 같은 요청, 거절 어렵지만 전투병은 안 돼\"…전문가들 호르무즈 파병 신중론",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260911_0003785239"
+        },
+        {
+          "title": "트럼프 \"이란 전쟁, 선거 뒤 끝난다\" 호언장담...그때 유가도 급락? - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/09/12/2026091220194334828"
+        }
+      ]
+    },
+    {
+      "id": "xrp-레저",
       "rank": 5,
-      "keyword": "오버워치",
+      "keyword": "xrp 레저",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '전 리플 CTO \"XRP가 비트코인 시총 추월 가능\"...역전 시나리오는?' (글로벌이코노믹) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "전 리플 CTO \"XRP가 비트코인 시총 추월 가능\"...역전 시나리오는?",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Securities/2026/09/202609121931546804e250e8e188_1"
+        },
+        {
+          "title": "XRP, 컵앤핸들 패턴 재시험…1.35달러 지키면 3.63달러 목표",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260909n10916"
+        },
+        {
+          "title": "하락장에도 뭉칫돈 쏠렸다… 암호화폐(코인) 예측 시장이 리플 1.50달러에 베팅하는 이유",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1158880"
+        }
+      ]
+    },
+    {
+      "id": "박지현",
+      "rank": 6,
+      "keyword": "박지현",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘13억→31억’ 집 등장에 박지현 “집 사보고 싶다”' (세계일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘13억→31억’ 집 등장에 박지현 “집 사보고 싶다”",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260911510411"
+        },
+        {
+          "title": "'절친' 변우석은 130억 한남더힐 샀다더니…주우재, 평균 16억 서울 아파트 임장 ('홈즈')[종합]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260911183151710"
+        },
+        {
+          "title": "2년 전 10억이던 옥수동 아파트, 現 매매가 약 18억…'홈즈' 서울 평균 매물 임장 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/09/11/G4ZDAN3EGQYDSN3DHBRTQNTEHA/"
+        }
+      ]
+    },
+    {
+      "id": "선우용여",
+      "rank": 7,
+      "keyword": "선우용여",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '르세라핌 ‘메이드 마이 나이트’ 발매…“‘오버워치’와 뮤직비디오 공동 제작”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '82세 선우용여, 뇌경색 후 주4회 숯가마…‘혈액순환’ 효과는' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "르세라핌 ‘메이드 마이 나이트’ 발매…“‘오버워치’와 뮤직비디오 공동 제작”",
+          "title": "82세 선우용여, 뇌경색 후 주4회 숯가마…‘혈액순환’ 효과는",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20260911/134650190/2"
+        },
+        {
+          "title": "“아픈 데만 땀이 안 난다”...선우용녀, 숯가마 이용 시 신체차이 전해",
           "source": "Daum",
-          "url": "https://v.daum.net/v/GQxNHNfzWO"
+          "url": "https://v.daum.net/v/8LR1DzTskE"
         },
         {
-          "title": "르세라핌, 새 싱글 '메이드 마이 나이트'로 컴백",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20260912004400038"
-        },
-        {
-          "title": "[EVENT] LE SSERAFIM 2nd Single Album ‘Made My Night’ 대면 팬사인회 안내 (뮤직아트/final)",
-          "source": "Weverse",
-          "url": "https://weverse.io/lesserafim/notice/39153"
+          "title": "\"발목에서 땀이 안 난다\" 선우용여가 말한 뇌경색 후유증 [헬스톡]",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202609112114551521"
         }
       ]
     },
     {
-      "id": "추미애",
-      "rank": 6,
-      "keyword": "추미애",
+      "id": "ซ-นเดอร-แลนด-พบ-อาร-เซนอล",
+      "rank": 8,
+      "keyword": "ซ นเดอร แลนด พบ อาร เซนอล",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'การคาดการณ์ผลการแข่งขันซันเดอร์แลนด์ vs อาร์เซนอล: โอกาสในการไล่ล่าตำแห…' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "การคาดการณ์ผลการแข่งขันซันเดอร์แลนด์ vs อาร์เซนอล: โอกาสในการไล่ล่าตำแหน่งสูงสุด",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-sunderland-vs-arsenal-co-hoi-bam-duoi-ngoi-dau"
+        },
+        {
+          "title": "\"ปืนใหญ่\" บุกทุบ \"แมวดำ\" ยึดจ่าฝูง",
+          "source": "เดลินิวส์",
+          "url": "https://www.dailynews.co.th/news/6185377/"
+        },
+        {
+          "title": "ดูบอลสด ซันเดอร์แลนด์ พบ อาร์เซน่อล พรีเมียร์ลีก วันนี้ 12 ก.ย.69",
+          "source": "posttoday",
+          "url": "https://www.posttoday.com/lifestyle/748583"
+        }
+      ]
+    },
+    {
+      "id": "토트넘-홋스퍼-fc",
+      "rank": 9,
+      "keyword": "토트넘 홋스퍼 fc",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"대통령은 왜 내란세력에 전전긍긍하나\"…추미애, 작심 발언(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '손흥민 ‘2016~2017시즌 EPL 우승 트로피’ 도둑맞았다, ‘뒤늦은 항의’ 포체티노 감독 공식입장 “토트넘이 챔피언 돼야 …' (Goal.com) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"대통령은 왜 내란세력에 전전긍긍하나\"…추미애, 작심 발언(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260912223701229"
-        },
-        {
-          "title": "추미애, 민주주의 헌신 희생자 추모 “민주화는 현재진행형”",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260912580081"
-        },
-        {
-          "title": "추미애 “대통령 지지율 하락, 검찰개혁 때문”···김지용 중수청장 후보자엔 “모순의 극치”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609101438001"
-        }
-      ]
-    },
-    {
-      "id": "twitch",
-      "rank": 7,
-      "keyword": "twitch",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '5 Best Sites to Buy Twitch Viewers with Chatters: Tested and Reviewed f…' (Billings Gazette) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "5 Best Sites to Buy Twitch Viewers with Chatters: Tested and Reviewed for Safety",
-          "source": "Billings Gazette",
-          "url": "https://billingsgazette.com/exclusive/article_1d7d403d-820b-5841-a670-9915629967d3.html"
-        },
-        {
-          "title": "7 Best Sites to Buy Twitch Viewers in 2026 – See Which Ones Are Actually Worth It",
-          "source": "Muddy River Sports",
-          "url": "https://muddyriversports.com/sponsored-content/7-best-sites-to-buy-twitch-viewers-in-2026-see-which-ones-are-actually-worth-it/20260912070124/"
-        },
-        {
-          "title": "6 Best Sites to Buy Twitch Viewers with Raid Options",
-          "source": "Onrec",
-          "url": "https://www.onrec.com/news/6-best-sites-to-buy-twitch-viewers-with-raid-options"
-        }
-      ]
-    },
-    {
-      "id": "세리에",
-      "rank": 8,
-      "keyword": "세리에",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '메시 넘은 마스탄투오노…19세 28일에 유럽 빅리그 해트트릭' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "메시 넘은 마스탄투오노…19세 28일에 유럽 빅리그 해트트릭",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260912026600007"
-        },
-        {
-          "title": "메시 대기록 깼다…마스탄투오노, 아르헨 최연소 유럽 빅리그 해트트릭",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260912_0003786771"
-        },
-        {
-          "title": "메시를 넘어선 아르헨티나의 ‘신성’…마스탄투오노, ‘19세28일’에 유럽 빅리그 해트트릭 작성!",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202609121240003"
-        }
-      ]
-    },
-    {
-      "id": "spurs-vs-everton",
-      "rank": 9,
-      "keyword": "spurs vs everton",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Tottenham 0-0 Everton: Spurs still without Premier League goal this sea…' (BBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Tottenham 0-0 Everton: Spurs still without Premier League goal this season",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cqx2zkde1xpet"
-        },
-        {
-          "title": "Sunderland vs Arsenal Premier League: How to watch and live stream for FREE and without cable",
+          "title": "손흥민 ‘2016~2017시즌 EPL 우승 트로피’ 도둑맞았다, ‘뒤늦은 항의’ 포체티노 감독 공식입장 “토트넘이 챔피언 돼야 해”",
           "source": "Goal.com",
-          "url": "https://www.goal.com/en-us/news/watch-live-stream-sunderland-arsenal-free/blt28c46091367bf1d6"
+          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%89%E1%85%A9%E1%86%AB%E1%84%92%E1%85%B3%E1%86%BC%E1%84%86%E1%85%B5%E1%86%AB-2016~2017%E1%84%89%E1%85%B5%E1%84%8C%E1%85%B3%E1%86%AB-epl-%E1%84%8B%E1%85%AE%E1%84%89%E1%85%B3%E1%86%BC-%E1%84%90%E1%85%B3%E1%84%85%E1%85%A9%E1%84%91%E1%85%B5-%E1%84%83%E1%85%A9%E1%84%83%E1%85%AE%E1%86%A8%E1%84%86%E1%85%A1%E1%86%BD%E1%84%8B%E1%85%A1%E1%86%BB%E1%84%83%E1%85%A1--%E1%84%83%E1%85%B1%E1%84%82%E1%85%B3%E1%86%BD%E1%84%8B%E1%85%B3%E1%86%AB-%E1%84%92%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B4-%E1%84%91%E1%85%A9%E1%84%8E%E1%85%A6%E1%84%90%E1%85%B5%E1%84%82%E1%85%A9-%E1%84%80%E1%85%A1%E1%86%B7%E1%84%83%E1%85%A9%E1%86%A8-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%8C%E1%85%A1%E1%86%BC-%E1%84%90%E1%85%A9%E1%84%90%E1%85%B3%E1%84%82%E1%85%A5%E1%86%B7%E1%84%8B%E1%85%B5-%E1%84%8E%E1%85%A2%E1%86%B7%E1%84%91%E1%85%B5%E1%84%8B%E1%85%A5%E1%86%AB-%E1%84%83%E1%85%AB%E1%84%8B%E1%85%A3-%E1%84%92%E1%85%A2/bltb75826802731e2ad"
         },
         {
-          "title": "Defensive masterclass but Everton were toothless in attack",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/en/news/defensive-masterclass-but-everton-were-toothless-in-attack-43447722"
+          "title": "충격 반전! 손흥민, 토트넘 '깜짝 복귀' 진짜 가능했다...\"포체티노 감독, 돌아왔다면 낭만적 재회 이뤘을 수도\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260912063151164"
+        },
+        {
+          "title": "\"첼시 2016-2017시즌 우승 박탈해야\" 포체티노 감독 직격탄…박탈하면 우승은 토트넘? EPL \"처벌 공정했다\" 반박",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260911n17232"
+        }
+      ]
+    },
+    {
+      "id": "la-liga",
+      "rank": 10,
+      "keyword": "la liga",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Licensable picture: Real Madrid CF V Rayo Vallecano De Madrid - LaLiga …' (Reuters Connect) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Licensable picture: Real Madrid CF V Rayo Vallecano De Madrid - LaLiga EA Sports 2026/27",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/real-madrid-cf-v-rayo-vallecano-de-madrid-laliga-ea-sports-202627/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBCQkRWMU8"
+        },
+        {
+          "title": "Mbappé leads a night of braces across Europe and Pulisic returns for AC Milan",
+          "source": "iNFOnews.ca",
+          "url": "https://infonews.ca/news/7869034/mbapp-leads-a-night-of-braces-across-europe-and-pulisic-returns-for-ac-milan/"
+        },
+        {
+          "title": "A commanding win with a brace from Mbappé",
+          "source": "Real Madrid CF | Web Oficial",
+          "url": "https://www.realmadrid.com/en-US/news/football/first-team/reports/cronica-real-madrid-rayo-vallecano-12-09-2026"
         }
       ]
     }
