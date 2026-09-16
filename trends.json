@@ -1,20 +1,53 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-16T14:46:40.582Z",
+  "updatedAt": "2026-09-16T18:47:59.509Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "시어머니",
+      "id": "아틀레티코-대-오사수나",
       "rank": 1,
-      "keyword": "시어머니",
+      "keyword": "아틀레티코 대 오사수나",
       "volumeLabel": "5000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"시어머니 못 들어오게 비밀번호 바꿨는데\"…남편이 몰래 한 행동' (이데일리) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"이강인 공 너무 오래 소유\" 스페인 매체 지적에 '日 동감'…\"ATM 7번 될 수 있나, 현대축구와 안 맞아\" 지적' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "\"이강인 공 너무 오래 소유\" 스페인 매체 지적에 '日 동감'…\"ATM 7번 될 수 있나, 현대축구와 안 맞아\" 지적",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260916205951040"
+        },
+        {
+          "title": "소시에다드전 부진에도 흔들리지 않은 신뢰...이강인, 공식전 6경기 연속 선발 '입지 굳혔다' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/17/202609170147773795O"
+        },
+        {
+          "title": "이강인, 모레노호 합류 전 골 폭죽 쏠까…내일 오사수나 상대",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260915_0003790741"
+        }
+      ]
+    },
+    {
+      "id": "시어머니",
+      "rank": 2,
+      "keyword": "시어머니",
+      "volumeLabel": "5000+",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '\"연락도 없이 주말 아침 방문\"…시어머니 육아 간섭에 무너진 6년 차 가정' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"연락도 없이 주말 아침 방문\"…시어머니 육아 간섭에 무너진 6년 차 가정",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260916_0003791965"
+        },
         {
           "title": "\"시어머니 못 들어오게 비밀번호 바꿨는데\"…남편이 몰래 한 행동",
           "source": "이데일리",
@@ -24,57 +57,24 @@
           "title": "수시로 비번 누르고 집 드나든 시모…\"난 늦잠 자는데 빨래 개고 있었다\"",
           "source": "뉴스1",
           "url": "https://www.news1.kr/society/general-society/6292124"
-        },
-        {
-          "title": "현관 비번 바꿨는데 시어머니가 또…남편은 \"네가 예민해\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/09/16/2026091608092814217"
         }
       ]
     },
     {
-      "id": "고지용",
-      "rank": 2,
-      "keyword": "고지용",
-      "volumeLabel": "5000+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '고지용, 전처 상대로 법적 대응…“2년간 아이 6번밖에 못 만나”' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "고지용, 전처 상대로 법적 대응…“2년간 아이 6번밖에 못 만나”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260916181433082"
-        },
-        {
-          "title": "고지용, 전처 허양임에 법적 대응…\"아이 못 보게 해\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260916_0003792317"
-        },
-        {
-          "title": "고지용, 전처 허양임에 '子 면접교섭 방해금지' 가처분…\"더 참을 수 없어\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6293025"
-        }
-      ]
-    },
-    {
-      "id": "집단감염",
+      "id": "집단-감염",
       "rank": 3,
-      "keyword": "집단감염",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "keyword": "집단 감염",
+      "volumeLabel": "2000+",
+      "startedLabel": "5시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '강릉 정형외과 집단감염 ‘4명 사망’…병원장·간호조무사 3명 송치' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''환자 4명 사망' 정형외과 집단감염…병원장·간호조무사 송치' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "강릉 정형외과 집단감염 ‘4명 사망’…병원장·간호조무사 3명 송치",
+          "title": "'환자 4명 사망' 정형외과 집단감염…병원장·간호조무사 송치",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260916174352723"
+          "url": "https://v.daum.net/v/GUIi99UZYu"
         },
         {
           "title": "강릉 정형외과 집단감염 4명 사망…병원장 검찰 송치",
@@ -89,142 +89,142 @@
       ]
     },
     {
-      "id": "홈플러스",
+      "id": "sk텔레콤",
       "rank": 4,
-      "keyword": "홈플러스",
+      "keyword": "sk텔레콤",
       "volumeLabel": "1000+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'SKT 정재헌, AI 스타트업과 '성공 모델' 만든다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "SKT 정재헌, AI 스타트업과 '성공 모델' 만든다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260916110204334"
+        },
+        {
+          "title": "네트워크 운용에 AI 적용… SKT 고장·복구시간 줄어",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/tech_it/2026/09/17/OLPKAUGR3ZHTXFJMLSCI5F46JY/"
+        },
+        {
+          "title": "SKT, 스타트업과 파트너십 강화…\"육성 넘어서 협력까지\"",
+          "source": "MTN 머니투데이방송",
+          "url": "https://news.mtn.co.kr/news-detail/2026091611225575760"
+        }
+      ]
+    },
+    {
+      "id": "kbs",
+      "rank": 5,
+      "keyword": "kbs",
+      "volumeLabel": "500+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'KBS Issues Official Response to Bereaved Family's Petition Over Stalker…' (SBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "KBS Issues Official Response to Bereaved Family's Petition Over Stalker's Sister Starring in Drama",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008756721"
+        },
+        {
+          "title": "KBS defends casting after bereaved family protests actress relative of Busan perpetrator",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-entertainment/2026/09/16/FM76GL6XURHFFA4B2ZQZ5HUOTU/"
+        },
+        {
+          "title": "\"Famous Actress on KBS Is Perpetrator's Sister\"... KBS Responds to 'Busan Fall Death' Family's Plea",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/en/article/social-general/2026091618481644558"
+        }
+      ]
+    },
+    {
+      "id": "이스라엘",
+      "rank": 6,
+      "keyword": "이스라엘",
+      "volumeLabel": "200+",
       "startedLabel": "4시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독]홈플러스, 매각 재시동…국내외 기업에 티저레터 배포' (이데일리) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '트럼프, 이스라엘에 3조 원대 항공폭탄 판매 승인 강행' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[단독]홈플러스, 매각 재시동…국내외 기업에 티저레터 배포",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03624406645580776&mediaCodeNo=257"
-        },
-        {
-          "title": "목표 매출 40% 그친 홈플러스, 임금 분할 지급…희망퇴직도 검토(종합)",
+          "title": "트럼프, 이스라엘에 3조 원대 항공폭탄 판매 승인 강행",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260916150757207"
+          "url": "https://v.daum.net/v/20260916140601871"
         },
         {
-          "title": "홈플러스 다시 판다…‘몸집 줄였는데’ 누가 품을까?",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=350251"
-        }
-      ]
-    },
-    {
-      "id": "정해영",
-      "rank": 5,
-      "keyword": "정해영",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '정해영과 조상우는 정녕 이곳과 안 맞나요…개막전 악몽이 어제 같은데 마지막 경기까지 ‘악몽의 인천’[MD인천]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "정해영과 조상우는 정녕 이곳과 안 맞나요…개막전 악몽이 어제 같은데 마지막 경기까지 ‘악몽의 인천’[MD인천]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/4wcB3e4qms?f=p"
-        },
-        {
-          "title": "[사진]에레디아 '동점'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/09/15/MU3WIZRTGE2TCZJRHFSWMZRSGM/"
-        },
-        {
-          "title": "[사진]에레디아 '무사 만루 찬스에서 동점 2타점 적시타'",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112876185"
-        }
-      ]
-    },
-    {
-      "id": "유주상",
-      "rank": 6,
-      "keyword": "유주상",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"무조건 이길 것 같다, 편하게 응원해달라\"...KO 고집 버리고 판정승까지 계산한 유주상, 첫 패배 딛고 UFC 2승 자신 […' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"무조건 이길 것 같다, 편하게 응원해달라\"...KO 고집 버리고 판정승까지 계산한 유주상, 첫 패배 딛고 UFC 2승 자신 [오!쎈 인터뷰]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/XAre66b0Ss"
-        },
-        {
-          "title": "\"펀치도 기술도 내가 위, 핏불은 판정까지 못 버틴다\"...랭킹 진입 노리는 최두호, \"변명 못할 정도로 좋은 컨디션\" [오!쎈 인터뷰]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/09/16/GNTGCOBWGJQWEOJUGNRTEMZSMY/"
-        },
-        {
-          "title": "최두호, 8년 만에 UFC 랭킹 재진입 도전…\"핏불, 판정까지 못 버틸 것\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260916_0003791631"
-        }
-      ]
-    },
-    {
-      "id": "돼지국밥",
-      "rank": 7,
-      "keyword": "돼지국밥",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '부산이 사랑하는 ‘돼지국밥’ 20선' (부산일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "부산이 사랑하는 ‘돼지국밥’ 20선",
-          "source": "부산일보",
-          "url": "https://www.busan.com/view/busan/view.php?code=2026091418241417586"
-        },
-        {
-          "title": "부산 시민이 직접 뽑은 ‘최애’ 돼지국밥집은?",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260915.22002004617"
-        },
-        {
-          "title": "정연욱 \"우리 수영구 돼지국밥에 투표해주세요\"",
-          "source": "폴리뉴스 Polinews",
-          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=743137"
-        }
-      ]
-    },
-    {
-      "id": "파라타항공",
-      "rank": 8,
-      "keyword": "파라타항공",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '내년 여름엔 중국으로 가볼까···베이징·상하이·광저우 항공권값 ‘뚝’ 떨어진다' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "내년 여름엔 중국으로 가볼까···베이징·상하이·광저우 항공권값 ‘뚝’ 떨어진다",
+          "title": "트럼프, 이스라엘에 ‘민간인 살상 폭탄’ 또 보낸다···“세금으로 전범 국가에 무기 보내나” 비판",
           "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609161618001"
+          "url": "https://www.khan.co.kr/article/202609161522001"
         },
         {
-          "title": "25개 국제선 노선 10개 항공사에 배분…중국 노선 확대에 중점",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148971988"
+          "title": "네타냐후에 불만 드러내더니…트럼프, 폭탄 4만 발에 구매자금까지 지원 [핫이슈]",
+          "source": "나우뉴스",
+          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260916601013"
+        }
+      ]
+    },
+    {
+      "id": "중고",
+      "rank": 7,
+      "keyword": "중고",
+      "volumeLabel": "200+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"포장지·냄새만 팝니다?\"... 디저트 열풍에 등장한 신종 꼼수 [앵커리포트]' (YTN) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"포장지·냄새만 팝니다?\"... 디저트 열풍에 등장한 신종 꼼수 [앵커리포트]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202609161853532341"
         },
         {
-          "title": "부산~청두·하얼빈·항저우 가는 항공편 더 많아진다",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20260916.99099005228"
+          "title": "\"다 먹고 남은 찹쌀떡 포장지가 5만원?\"…중고거래서 벌어진 황당한 꼼수",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026091620010828815"
+        },
+        {
+          "title": "“먹고 남은 포장지가 5만원”…당근마켓에 등장한 ‘한정선’ 뭐길래",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260911_0003785779"
+        }
+      ]
+    },
+    {
+      "id": "abl바이오",
+      "rank": 8,
+      "keyword": "abl바이오",
+      "volumeLabel": "200+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '에이비엘바이오 이상훈 대표 가족도 미공개정보 이용 의심…임원 배우자도 연루' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "에이비엘바이오 이상훈 대표 가족도 미공개정보 이용 의심…임원 배우자도 연루",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260916080218837"
+        },
+        {
+          "title": "\"호재 발표전 미리 매수\"…K-바이오 잇단 구설수",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260916_0003792035"
+        },
+        {
+          "title": "에이비엘바이오 사태가 드러낸 허점…코스닥 바이오, 정보는 막지만 거래는 못 막아",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260916000969"
         }
       ]
     },
@@ -233,16 +233,16 @@
       "rank": 9,
       "keyword": "혈우병",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "6시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '혈우병 여행유튜버…'유리몸이군' 이견우 \"평균 기대 수명 20세, 내 삶은 보너스\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "혈우병 여행유튜버…'유리몸이군' 이견우 \"평균 기대 수명 20세, 내 삶은 보너스\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260916110927947"
+          "url": "https://v.daum.net/v/20260916110927947?f=p"
         },
         {
           "title": "‘57분 그 목소리’ 배아량 누구? CCTV 15대 보고 53초 생방송",
@@ -257,30 +257,30 @@
       ]
     },
     {
-      "id": "자라",
+      "id": "서대구역",
       "rank": 10,
-      "keyword": "자라",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
+      "keyword": "서대구역",
+      "volumeLabel": "100+",
+      "startedLabel": "5시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '리사 ‘흑인 비하’ 살해위협 받았는데 “사과 YG가 막아”' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '서대구역 인근에 UAM 버티포트…\"미래 도심항공 주도권 선점\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "리사 ‘흑인 비하’ 살해위협 받았는데 “사과 YG가 막아”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202609150854003"
-        },
-        {
-          "title": "리사 \"유출자가 계속 살해 협박\"…코첼라 앞두고 겪은 고통 고백",
+          "title": "서대구역 인근에 UAM 버티포트…\"미래 도심항공 주도권 선점\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260916110128250"
+          "url": "https://v.daum.net/v/20260916153355792"
         },
         {
-          "title": "리사, 블랙핑크 연습생 영상 유출→살해협박 공식입장 \"슬펐지만 이겨냈다\"[SC이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/09/16/GVRDGYRSG4YGKYZSGNRWMNJQME/"
+          "title": "대구시, 서대구역에 도심항공교통 거점…2030년 시범운항",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260916140158J7a"
+        },
+        {
+          "title": "경기도 UAM 상용화 속도 못 내나…올해도 공모 탈락",
+          "source": "중부일보",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363736988"
         }
       ]
     }
