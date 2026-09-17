@@ -1,34 +1,34 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-17T16:48:12.003Z",
+  "updatedAt": "2026-09-17T20:09:20.741Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "특공무술",
+      "id": "봉누도2",
       "rank": 1,
-      "keyword": "특공무술",
-      "volumeLabel": "20000+",
-      "startedLabel": "2시간 전",
+      "keyword": "봉누도2",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[속보]특공무술 심사 중 쓰러진 특전사 숨져…유가족은 장기기증 결정' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''봉누도 시즌2' 2일차. '갱단' 설립을 향한 레이스 … 온 세상이 '범죄'다' (경향게임스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[속보]특공무술 심사 중 쓰러진 특전사 숨져…유가족은 장기기증 결정",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11617893"
+          "title": "'봉누도 시즌2' 2일차. '갱단' 설립을 향한 레이스 … 온 세상이 '범죄'다",
+          "source": "경향게임스",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=308432"
         },
         {
-          "title": "특공무술 겨루기 심사 중 쓰러진 특전사 숨져…장기기증 결정",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260917148300065"
+          "title": "치지직 ‘봉누도2’ 오픈 전 둘러보자, 공무직 RP 가이드",
+          "source": "게임플",
+          "url": "https://www.gameple.co.kr/news/articleView.html?idxno=216458"
         },
         {
-          "title": "특공무술 승단 심사 중 쓰러진 20대 부사관 숨져…유족, 장기 기증",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/incident/2026/09/17/FNFCT37CC5EURBHFJA52FNKROA/"
+          "title": "‘봉누도2’ 공무직 49명 선발 완료 … 14일 ‘크랭크 인’",
+          "source": "경향게임스",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=308292"
         }
       ]
     },
@@ -36,10 +36,10 @@
       "id": "시부모",
       "rank": 2,
       "keyword": "시부모",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "1000+",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '\"손주 보러 가려했는데\"…호텔서 자라는 며느리 말에 시어머니 '엉엉'' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -61,226 +61,226 @@
       ]
     },
     {
-      "id": "웨이모",
+      "id": "백화점",
       "rank": 3,
-      "keyword": "웨이모",
-      "volumeLabel": "1000+",
+      "keyword": "백화점",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘유통 공룡’ 이케아, 신세계 대구점 오픈…900개 홈퍼니싱 제품 선보여' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘유통 공룡’ 이케아, 신세계 대구점 오픈…900개 홈퍼니싱 제품 선보여",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260917140130512"
+        },
+        {
+          "title": "노란 장바구니 가득 든 시민들",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260917_0002242185"
+        },
+        {
+          "title": "개점 첫날 이케아 ‘도심형 대구매장’ 가보니… 수백명 대기줄 진풍경",
+          "source": "영남일보",
+          "url": "https://www.yeongnam.com/web/view.php?key=20260917028239240"
+        }
+      ]
+    },
+    {
+      "id": "압구정-현대아파트",
+      "rank": 4,
+      "keyword": "압구정 현대아파트",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '압구정현대보다 비쌌던 '원조 부촌'…대규모 부활 예고' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "압구정현대보다 비쌌던 '원조 부촌'…대규모 부활 예고",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202609166959i"
+        },
+        {
+          "title": "광진구, '자양2동 모아타운' 내 첫 모아주택 조합설립인가",
+          "source": "서울로컬뉴스",
+          "url": "https://www.slnews.co.kr/ko-kr/articles/91522"
+        },
+        {
+          "title": "\"와이프한테 너무 고맙죠\" 6평짜리 빌라가 3억→7억 상승한 서울 '이 동네' 전망",
+          "source": "나남뉴스",
+          "url": "https://www.nanamcom.co.kr/news/articleView.html?idxno=52892"
+        }
+      ]
+    },
+    {
+      "id": "송지효",
+      "rank": 5,
+      "keyword": "송지효",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '송지효, 업로드 주기 자주 바뀌더니 결국 중단..\"마음만 앞서서 될 일 아냐\"' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "송지효, 업로드 주기 자주 바뀌더니 결국 중단..\"마음만 앞서서 될 일 아냐\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/17/GMYWGNZXGU2DAMZWGM3DCMJQHE/"
+        },
+        {
+          "title": "송지효, 유튜브 휴업 선언…“마음만 앞선다고 되는 게 아냐” 울컥",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12155890"
+        },
+        {
+          "title": "송지효 “그동안 감사했다” 울컥…유튜브 휴업 선언",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260917212727724"
+        }
+      ]
+    },
+    {
+      "id": "록히드-마틴-f-35-라이트닝-ii",
+      "rank": 6,
+      "keyword": "록히드 마틴 f-35 라이트닝 ii",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'US clears way for $24.3 billion military aircraft sale to Saudi Arabia' (Reuters) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "US clears way for $24.3 billion military aircraft sale to Saudi Arabia",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/us-state-department-oks-possible-243-billion-military-aircraft-sale-saudi-arabia-2026-09-17/"
+        },
+        {
+          "title": "U.S. Intelligence Warns of China Theft Over Sale of F-35 Jets to Saudis",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/09/16/us/politics/us-intelligence-china-f35-jets-saudis.html"
+        },
+        {
+          "title": "World in Brief: Trump approves F-35 sale to Saudi Arabia; Bank of England holds rates",
+          "source": "The Economist",
+          "url": "https://www.economist.com/the-world-in-brief/2026/09/17/3b92c432-ffb7-4137-9594-fb1ebf8c8bac"
+        }
+      ]
+    },
+    {
+      "id": "삼중살",
+      "rank": 7,
+      "keyword": "삼중살",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘8일 만에 나왔는데 5초 만에 삼중살이라니’ 김혜성 망연자실…日 매체도 깜짝 “역대 가장 쿨?”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘8일 만에 나왔는데 5초 만에 삼중살이라니’ 김혜성 망연자실…日 매체도 깜짝 “역대 가장 쿨?”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260917180711216"
+        },
+        {
+          "title": "8일 만에 경기 나선 김혜성에게 무슨 일이…무사 1·2루서 ‘충격의 삼중살’, 다음 타석 적시타 쾅! 5타수 1안타 1타점 1득점 1도루",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/09/17/MU2TQN3BMM2DAZBUGUYDEYTDMM/"
+        },
+        {
+          "title": "8일 만에 경기 나선 김혜성에게 무슨 일이…무사 1·2루서 ‘충격의 삼중살’, 다음 타석 적시타 쾅! 5타수 1안타 1타점 1득점 1도루 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/17/202609171030775318O"
+        }
+      ]
+    },
+    {
+      "id": "철산-자이",
+      "rank": 8,
+      "keyword": "철산 자이",
+      "volumeLabel": "200+",
       "startedLabel": "5시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '美 웨이모는 도쿄·中바이두는 런던…韓 자율주행 어디까지 왔나' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '광명 자이아파트 '줍줍' 6가구 나왔다…시세차익 최대 7억' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "美 웨이모는 도쿄·中바이두는 런던…韓 자율주행 어디까지 왔나",
+          "title": "광명 자이아파트 '줍줍' 6가구 나왔다…시세차익 최대 7억",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260917_0003794162"
+        },
+        {
+          "title": "최대 7억 '줍줍' 나왔다…경기 무주택자 4가구·광명 거주 2가구",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260917163207809"
+          "url": "https://v.daum.net/v/20260917170051209"
         },
         {
-          "title": "일본도 내년부터 무인택시 시대…웨이모, “도쿄 100대 운영”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8665038"
-        },
-        {
-          "title": "자회사는 웨이모와 경쟁, 본사는 車 판매…현대차만 가능한 로보택시 '투트랙' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/09/16/2026091510030438457"
+          "title": "철산자이 더 헤리티지 무순위 줍줍 (’26. 9/22)",
+          "source": "홈두부",
+          "url": "https://homedubu.com/12179/"
         }
       ]
     },
     {
-      "id": "안선영",
-      "rank": 4,
-      "keyword": "안선영",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "id": "아스트라에-오라티오",
+      "rank": 9,
+      "keyword": "아스트라에 오라티오",
+      "volumeLabel": "100+",
+      "startedLabel": "4시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '안선영, 子 유학 따라간 캐나다서 '대재앙'..\"연예인 여기서 아무 쓸모 없어\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'K게임, 도쿄게임쇼 '큰손' 됐다…참가사 2.5배 급증' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "안선영, 子 유학 따라간 캐나다서 '대재앙'..\"연예인 여기서 아무 쓸모 없어\"",
+          "title": "K게임, 도쿄게임쇼 '큰손' 됐다…참가사 2.5배 급증",
           "source": "Daum",
-          "url": "https://v.daum.net/v/POochV71hE"
+          "url": "https://v.daum.net/v/f4uk1d8B5D"
         },
         {
-          "title": "안선영, 캐나다서 어금니 빠져 ‘대재앙’…子 하키 인연으로 응급사태 해결",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/celebrity/2026/09/17/HBSDCZRVGAYWCYTCHA3TGMJTHE/"
+          "title": "연애 감성에 RPG 손맛 더했다…넷마블엔투, '펄인블루' 첫선[도쿄게임쇼 2026]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260917_0003794521"
         },
         {
-          "title": "안선영, 캐나다서 치아 크라운 빠졌다‥子 간식 몰래 먹다 사고에 멘붕",
-          "source": "뉴스엔",
-          "url": "https://m.newsen.com/news_view.php?uid=202609171232166110"
-        }
-      ]
-    },
-    {
-      "id": "전제완",
-      "rank": 5,
-      "keyword": "전제완",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''꼬꼬무', 1세대 IT계 신화 프리챌 전제완, 청소부 된 충격 근황 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'꼬꼬무', 1세대 IT계 신화 프리챌 전제완, 청소부 된 충격 근황 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/17/2026091720007284709"
-        },
-        {
-          "title": "1세대 벤처 신화 ‘프리챌’ 창업자 충격 근황…펜션 청소부 됐다",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12154989"
-        },
-        {
-          "title": "꼬리에 꼬리를 무는 그날 이야기 : 전제완, 컴퓨터 독학 시작하며 직접 만들어버린 새로운 인사 관리 시스템!",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/culture/thetail/clip/70242/OC481799376"
+          "title": "'나혼렙'부터 '샹그릴라'까지…넷마블, TGS서 신작 보따리",
+          "source": "MTN 머니투데이방송",
+          "url": "https://news.mtn.co.kr/news-detail/2026091717083757609"
         }
       ]
     },
     {
       "id": "india-vs-afghanistan",
-      "rank": 6,
+      "rank": 10,
       "keyword": "india vs afghanistan",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'IND vs AFG Cricket Scorecard, 3rd T20I at Delhi, September 17, 2026' (Cricinfo) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-4",
+      "summary": "급상승 시점에 'Live Cricket Score, Schedule, Latest News, Stats & Videos' (Cricbuzz) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "IND vs AFG Cricket Scorecard, 3rd T20I at Delhi, September 17, 2026",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/afghanistan-in-india-2026-1549583/india-vs-afghanistan-3rd-t20i-1549588/full-scorecard"
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
+          "source": "Cricbuzz",
+          "url": "https://www.cricbuzz.com/player-match-performance/match/170120/player/8808/bowling?inningsId=2"
         },
         {
-          "title": "'Series going well...India will win third match as well,' Rajiv Shukla on Afghanistan T20Is",
-          "source": "FM Bharat",
-          "url": "https://fmbharat.com/en/sports/series-going-wellindia-will-win-third-match-as-well-rajiv-shukla-on-afghanistan-t20is"
+          "title": "Abhishek Sharma-Erling Haaland: Fans react as India opener does Man City star's 'meditation celebration' after scoring historic 100 vs AFG",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/abhishek-sharma-erling-haaland-fans-165220760.html"
         },
         {
-          "title": "LIVE: India vs Afghanistan – T20 international cricket series",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/9/17/live-india-vs-afghanistan-t20-international-cricket-series"
-        }
-      ]
-    },
-    {
-      "id": "로맥",
-      "rank": 7,
-      "keyword": "로맥",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘어서와 한국은’ 제이미 로맥, 문학경기장→치맥 맛집' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘어서와 한국은’ 제이미 로맥, 문학경기장→치맥 맛집",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260917203843761"
-        },
-        {
-          "title": "이대호 \"가장 만나기 싫었던 선수는 니퍼트\" (어서와 한국은)",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/518504"
-        },
-        {
-          "title": "‘SSG 레전드’ 제이미 로맥, 5년 만에 랜더스 필드 방문...뭉클한 韓여행",
-          "source": "싱글리스트",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=766515"
-        }
-      ]
-    },
-    {
-      "id": "what-is-a-data-breach",
-      "rank": 8,
-      "keyword": "what is a data breach",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Hackers demand Revolut pay $3mn ransom after data breach' (Financial Times) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Hackers demand Revolut pay $3mn ransom after data breach",
-          "source": "Financial Times",
-          "url": "https://www.ft.com/content/d1f2c9bd-26ce-4e87-9da4-fe0238bd531d?syn-25a6b1a6=1"
-        },
-        {
-          "title": "Revolut confirms customer data breach through fake government requests",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/"
-        },
-        {
-          "title": "Italian banks under security review in wake of Revolut data breach",
-          "source": "MLex",
-          "url": "https://www.mlex.com/mlex/articles/2526742/italian-banks-under-security-review-in-wake-of-revolut-data-breach"
-        }
-      ]
-    },
-    {
-      "id": "황유민",
-      "rank": 9,
-      "keyword": "황유민",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '아시안게임 출전 양윤서, KLPGA 하나금융 대회 1R서 이븐파 선전' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "아시안게임 출전 양윤서, KLPGA 하나금융 대회 1R서 이븐파 선전",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260917138800007"
-        },
-        {
-          "title": "'돌격대장'에게도 LPGA는 높은 벽이었나, 솔직한 고백 \"적응보다 내 샷이 문제였다\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/golf/2026/09/17/GVSWIMRXG4YTONZUGAYGCMTBHE/"
-        },
-        {
-          "title": "박민지‧성유진, KLPGA 투어 하나금융그룹 챔피언십 첫날 공동 1위",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260917501405"
-        }
-      ]
-    },
-    {
-      "id": "지진희",
-      "rank": 10,
-      "keyword": "지진희",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '염정아, 20년지기 남사친 등장에 기절초풍…“결혼식 사회도 봐” (산지직송3)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "염정아, 20년지기 남사친 등장에 기절초풍…“결혼식 사회도 봐” (산지직송3)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260917131251353"
-        },
-        {
-          "title": "‘염정아 20년 절친’ 지진희 출격…4천마리 장어떼에 ‘질겁’ (언니네3)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260917/134690345/1"
-        },
-        {
-          "title": "지진희, 4000마리 노지장어에 뛰어들었다…‘장어 사냥꾼’ 변신 (언니네 산지직송3)",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12155256"
+          "title": "AFG vs IND T20 2026: Abhishek Sharma record century powers India to Afghanistan series sweep",
+          "source": "Olympics",
+          "url": "https://www.olympics.com/en/news/afghanistan-vs-india-t20-cricket-2026-match-3-report"
         }
       ]
     }
