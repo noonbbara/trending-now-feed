@@ -1,99 +1,43 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-17T23:00:57.806Z",
+  "updatedAt": "2026-09-18T01:24:47.393Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "날씨",
+      "id": "이재명",
       "rank": 1,
-      "keyword": "날씨",
-      "volumeLabel": "100000+",
-      "startedLabel": "1시간 전",
+      "keyword": "이재명",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[날씨] 동해안·남부 5~20㎜ 비…제주 최고 80㎜↑' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '이 대통령 회견 30분 연기…靑 \"무거운 책임감에 발언 가다듬는 시간\"' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[날씨] 동해안·남부 5~20㎜ 비…제주 최고 80㎜↑",
+          "title": "이 대통령 회견 30분 연기…靑 \"무거운 책임감에 발언 가다듬는 시간\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260918084139WQD"
+        },
+        {
+          "title": "홍준표 \"이 대통령, 정신 차려 정국 대전환 선언하면 좋으련만\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260918063302423"
+          "url": "https://v.daum.net/v/20260918100643597"
         },
         {
-          "title": "대구·경북 흐리고 곳에 따라 비…낮 기온 21∼26도",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260918008900053"
-        },
-        {
-          "title": "제주에 많은 비…남해안·내륙 곳곳 ‘강풍’",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8666747"
+          "title": "이재명 대통령 기자회견 30분 순연‥10시 30분 진행",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6852692_36911.html"
         }
       ]
     },
     {
-      "id": "weather",
+      "id": "크리스티안-로메로",
       "rank": 2,
-      "keyword": "weather",
+      "keyword": "크리스티안 로메로",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'China Builds 10-Day Weather Forecast System on Homegrown AI Chips' (Seoul Economic Daily) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "China Builds 10-Day Weather Forecast System on Homegrown AI Chips",
-          "source": "Seoul Economic Daily",
-          "url": "https://en.sedaily.com/international/2026/09/18/china-builds-10-day-weather-forecast-system-on-homegrown-ai"
-        },
-        {
-          "title": "A world 20 light-years away reveals surprisingly organized, Jupiter-like weather",
-          "source": "Phys.org",
-          "url": "https://phys.org/news/2026-09-world-years-reveals-jupiter-weather.html"
-        },
-        {
-          "title": "Clouds of the brown dwarf SIMP 0136 change in accordance the pattern",
-          "source": "Universe Space Tech",
-          "url": "https://universemagazine.com/en/cloud-systems-on-the-brown-dwarf-change-in-an-orderly-pattern/"
-        }
-      ]
-    },
-    {
-      "id": "thời-tiết",
-      "rank": 3,
-      "keyword": "thời tiết",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Đường Hà Nội ngập sâu, giao thông tê liệt' (VnExpress) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Đường Hà Nội ngập sâu, giao thông tê liệt",
-          "source": "VnExpress",
-          "url": "https://vnexpress.net/duong-ha-noi-ngap-sau-giao-thong-te-liet-5121237.html"
-        },
-        {
-          "title": "Hà Nội ngập nặng, người dân chèo thuyền trên phố",
-          "source": "Nguoi Viet Online",
-          "url": "https://www.nguoi-viet.com/viet-nam/ha-noi-ngap-nang-nguoi-dan-cheo-thuyen-tren-pho/"
-        },
-        {
-          "title": "Dự báo thời tiết ngày 18/9: Miền Bắc tiếp tục có mưa diện rộng",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/du-bao-thoi-tiet-ngay-18-9-mien-bac-tiep-tuc-co-mua-dien-rong"
-        }
-      ]
-    },
-    {
-      "id": "디에고-시메오네",
-      "rank": 4,
-      "keyword": "디에고 시메오네",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 '\"이강인, 그리즈만처럼 원터치 패스 못해\"→\"이미 그리즈만 역할 하고 있다\"…LEE 2호골 폭발! 스페인 현지 시선 돌변 \"확실…' (Daum) 관련 뉴스가 함께 포착됐어요.",
@@ -102,187 +46,227 @@
         {
           "title": "\"이강인, 그리즈만처럼 원터치 패스 못해\"→\"이미 그리즈만 역할 하고 있다\"…LEE 2호골 폭발! 스페인 현지 시선 돌변 \"확실한 주전, 공격의 중심축\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260917182807881"
+          "url": "https://v.daum.net/v/8XkCxvmjt8"
         },
         {
-          "title": "물음표를 느낌표로 바꾸다, 6슈팅·4유효슈팅·1골→라리가 공식 MVP...'최고조'로 생애 첫 마드리드 더비 출격 준비 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/football/2026/09/18/HFTDIZRRHBRDCMRWMVSTENBSGE/"
+          "title": "'韓 에이스 플레이 극찬' 日 부러움 폭발…\"7번 단 이강인, '마드리드 더비' 승리 이끌 수 있을지 관심 집중\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/09/18/MJRTQNJWMM3DMMBYME2TOZDCGY/"
         },
         {
-          "title": "2호골 이강인, 20일 마드리드 더비…음바페와 맞대결 '기대감↑'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260917125600007"
+          "title": "아틀레티코 이강인, 리그 2호 골에 첫 풀타임‥팀은 4-0 대승",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6852416_36946.html"
         }
       ]
     },
     {
-      "id": "김서현",
-      "rank": 5,
-      "keyword": "김서현",
+      "id": "sk그룹",
+      "rank": 3,
+      "keyword": "sk그룹",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘타자들도 깜짝’ 시속 155km 강속구·날카롭게 떨어진 슬라이더···조금씩 감 찾아가는 한화 김서현, 1이닝 3K 무실점 ‘부…' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[단독] SK그룹 핵심 부회장 3人, 하이닉스에 일제히 합류' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘타자들도 깜짝’ 시속 155km 강속구·날카롭게 떨어진 슬라이더···조금씩 감 찾아가는 한화 김서현, 1이닝 3K 무실점 ‘부활 희망투’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260917055710928"
+          "title": "[단독] SK그룹 핵심 부회장 3人, 하이닉스에 일제히 합류",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/industry-company/2026/09/18/7QHMEZAUBRCNRC2FUU2VYBANAY/"
         },
         {
-          "title": "'155km→KKK 미쳤다' 2025 김서현의 재림…공 하나 던질 때마다 함성 대폭발, 볼파크 뜨겁게 달아올랐다 - 머니투데이",
+          "title": "SK그룹 부회장 3인, SK하이닉스 합류…AI·반도체 힘 싣는다 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/17/202609162213776978O"
+          "url": "https://www.mt.co.kr/industry/2026/09/18/2026091808482884383"
         },
         {
-          "title": "다시 9회로 돌아온 김서현, 155km로 증명한 '마무리 본능'",
-          "source": "데일리스포츠한국",
-          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=433645"
+          "title": "SK그룹 부회장 서진우·유정준·이형희, SK하이닉스로 이동",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=447532"
         }
       ]
     },
     {
-      "id": "vix",
-      "rank": 6,
-      "keyword": "vix",
+      "id": "세무사",
+      "rank": 4,
+      "keyword": "세무사",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Direxion Daily Semiconductor Bear 3x Shares ETF rStock (RSOXS) Tokenomi…' (MEXC) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '경남 진주지역세무사회, ‘찾아가는 마을세무사’ 행사 개최' (국제신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Direxion Daily Semiconductor Bear 3x Shares ETF rStock (RSOXS) Tokenomics",
-          "source": "MEXC",
-          "url": "https://www.mexc.co/en-IN/price/direxion-daily-semiconductor-bear-3x-shares-etf-rstock/tokenomics"
+          "title": "경남 진주지역세무사회, ‘찾아가는 마을세무사’ 행사 개최",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0900&key=20260918.22017006156"
         },
         {
-          "title": "SOXL Trade: Betting Against the AI Frontier Slowdown Narrative",
-          "source": "Moomoo",
-          "url": "https://www.moomoo.com/community/feed/soxl-trade-betting-against-the-ai-frontier-slowdown-narrative-117285427871750"
+          "title": "“세금이 제일 어렵죠”…김포 무료 세무상담실 가보니",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260917134240605"
         },
         {
-          "title": "Precision vs. Risk: A Targeted Approach to Semiconductor ETFs",
-          "source": "ETF Database",
-          "url": "https://etfdb.com/leveraged-inverse-content-hub/approach-to-semiconductor-etfs-precision-vs-risk/"
+          "title": "'찾아가는 마을세무사' 10주년…세무사회, 무료 세무 상담",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04972486645580776"
         }
       ]
     },
     {
-      "id": "погода",
-      "rank": 7,
-      "keyword": "погода",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Дождь и понижение температуры – прогноз погоды на 18 сентября' (Cursorinfo) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Дождь и понижение температуры – прогноз погоды на 18 сентября",
-          "source": "Cursorinfo",
-          "url": "https://cursorinfo.co.il/weather/dozhd-i-ponizhenie-temperatury-prognoz-pogody-na-18-sentyabrya/"
-        },
-        {
-          "title": "Дождь после жары: прогноз погоды на выходные и Йом-Кипур",
-          "source": "Vesty.co.il",
-          "url": "https://www.vesty.co.il/main/article/byhmquftfg"
-        },
-        {
-          "title": "Прогноз погоды в Израиле, 17.09.2026 Newsru.co.il",
-          "source": "NEWSru.co.il",
-          "url": "https://www.newsru.co.il/israel/17sep2026/pogoda.html"
-        }
-      ]
-    },
-    {
-      "id": "외환시장",
-      "rank": 8,
-      "keyword": "외환시장",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"한동안 코스피 잠잠하더니\"…개미들 다시 '초긴장 모드' [분석+]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"한동안 코스피 잠잠하더니\"…개미들 다시 '초긴장 모드' [분석+]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026091718256"
-        },
-        {
-          "title": "영향 제한적이라지만…고금리 이어지나",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8666766"
-        },
-        {
-          "title": "한미 금리차 1%p로 확대…한은 연내 추가인상 가능성 커져",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1278375.html"
-        }
-      ]
-    },
-    {
-      "id": "ionq",
-      "rank": 9,
-      "keyword": "ionq",
+      "id": "허양-임",
+      "rank": 5,
+      "keyword": "허양 임",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'IonQ, Synopsys cut simulation time by 14.6% with quantum tech' (Investing.com) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '고지용 VS 허양임, 5년 전에도 극과 극 성향…\"진짜 스트레스 받았다\" [엑's 이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "IonQ, Synopsys cut simulation time by 14.6% with quantum tech",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/company-news/ionq-synopsys-cut-simulation-time-by-146-with-quantum-tech-93CH-4905765"
+          "title": "고지용 VS 허양임, 5년 전에도 극과 극 성향…\"진짜 스트레스 받았다\" [엑's 이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260918092036408"
         },
         {
-          "title": "IonQ Demonstrates Computer-Aided Engineering Workload Acceleration by up to 14.6% with Quantum Tech",
-          "source": "HPCwire",
-          "url": "https://www.hpcwire.com/off-the-wire/ionq-demonstrates-computer-aided-engineering-workload-acceleration-by-up-to-14-6-with-quantum-tech/"
+          "title": "소재원 \"고지용, 4000만원 미지급?…양육비부터 주고 아이 면접 말하라\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6294622"
         },
         {
-          "title": "IonQ (NYSE: IONQ) Wins Four IEEE Best Paper Awards From 857 Global Quantum Research Submissions",
-          "source": "Foreign Policy Journal",
-          "url": "https://www.foreignpolicyjournal.com/2026/09/16/ionq-nyse-ionq-wins-four-ieee-best-paper-awards-from-857-global-quantum-research-submissions/"
+          "title": "\"2년간 아들 6번 봤다\"…고지용 주장에 결국 입 연 허양임",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202609171890H"
         }
       ]
     },
     {
-      "id": "블레이크-스넬",
-      "rank": 10,
-      "keyword": "블레이크 스넬",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "id": "왕옌청",
+      "rank": 6,
+      "keyword": "왕옌청",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'MLB 스넬, 1이닝 던지고 사타구니 통증으로 교체…다저스 대형 악재' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '한국 야구 터질 것이 터졌다! 한화 아쿼 좌완, 진짜 비수 꽂나? 대만 한국전 올인 선언…왕옌청 선발→린위민 불펜 전망 \"경의 …' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "MLB 스넬, 1이닝 던지고 사타구니 통증으로 교체…다저스 대형 악재",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20260917/134686769/1"
-        },
-        {
-          "title": "2511억 먹튀 좌완, 1이닝 만에 사라졌다…갑작스러운 부상에 모든 게 꼬인 LAD, 결국 2-6 패배 [LAD 리뷰]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/09/17/GRRDAOJRMFSDCZTBGI2TMYTGHA/"
-        },
-        {
-          "title": "프리드먼, 도대체 몇 수 앞을 봤나? 다저스, 스쿠발 트레이드 '신의 한 수'로 급부상, 스넬·오타니 줄부상",
+          "title": "한국 야구 터질 것이 터졌다! 한화 아쿼 좌완, 진짜 비수 꽂나? 대만 한국전 올인 선언…왕옌청 선발→린위민 불펜 전망 \"경의 표할 상대\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/95tXDwaedp"
+          "url": "https://v.daum.net/v/fguwMSrNtX"
+        },
+        {
+          "title": "'대만 대표팀 합류' 왕옌청, 18일 나고야행 비행기 탄다…한국전 선발 등판하나? 일정 절묘하네",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/17/GJTGKMBQMUZDOZBYGNTDIZBTGI/"
+        },
+        {
+          "title": "'韓 호재' 대만 좌승사자 19일 日도착→'161㎞ 마이너 파이어볼러' 합류 불투명, 결국 왕옌청이 21일 등판하나 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/17/2026091711224952495"
         }
       ]
+    },
+    {
+      "id": "한화그룹",
+      "rank": 7,
+      "keyword": "한화그룹",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '한화, 군인가족의 날 맞아 모범군인 60가족 초청 '힐링데이'' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "한화, 군인가족의 날 맞아 모범군인 60가족 초청 '힐링데이'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260918034800003"
+        },
+        {
+          "title": "한화 방산 3사, 모범 군인 60가족 초청 “가족 헌신에 감사”",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2627076"
+        },
+        {
+          "title": "한화, 군인가족 초청 '힐링데이' 행사 진행…\"헌신에 감사\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/industry/general-industry/6294753"
+        }
+      ]
+    },
+    {
+      "id": "노란봉투법",
+      "rank": 8,
+      "keyword": "노란봉투법",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '법원, '노란봉투법' 첫 판단…극동건설 집행정지 신청 기각' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "법원, '노란봉투법' 첫 판단…극동건설 집행정지 신청 기각",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260917187300530"
+        },
+        {
+          "title": "법원 “극동건설, 하청 교섭요구 공고해야”…노란봉투법 관련 첫 판단",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609172034001"
+        },
+        {
+          "title": "법원, ‘하청노조 교섭요구 공고’ 멈춰달라는 원청 신청 첫 기각",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20092376"
+        }
+      ]
+    },
+    {
+      "id": "단발",
+      "rank": 9,
+      "keyword": "단발",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''이게 54만 원?' 아이유, 단발에 플라워 원피스…청순美 한도 초과' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'이게 54만 원?' 아이유, 단발에 플라워 원피스…청순美 한도 초과",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/5hSzHEoMDy"
+        },
+        {
+          "title": "[기고] 이 별로부터 이별(Farewell from this star)",
+          "source": "충청매일",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1100484"
+        },
+        {
+          "title": "아이유·제니, 톱티어 솔로 가수의 안목 ‘남성 뮤즈’ 화제",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260917/134689215/1"
+        }
+      ]
+    },
+    {
+      "id": "철도망",
+      "rank": 10,
+      "keyword": "철도망",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
     }
   ]
 }
