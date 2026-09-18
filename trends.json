@@ -1,43 +1,99 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-18T16:40:01.943Z",
+  "updatedAt": "2026-09-18T19:30:17.908Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "마이크론-테크놀로지",
+      "id": "바이에른-대-우니온-베를린",
       "rank": 1,
-      "keyword": "마이크론 테크놀로지",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "keyword": "바이에른 대 우니온 베를린",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Micron Gains 1.4% as 512GB Module Raises the AI Memory Ceiling' (Yahoo Finance) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '이럴 수가! '코리안 더비' 불발되나...김민재 '선발 제외' 전망한 獨 유력지, 정우영은 '출격 예측'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Micron Gains 1.4% as 512GB Module Raises the AI Memory Ceiling",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/micron-gains-1-4-512gb-152828297.html"
+          "title": "이럴 수가! '코리안 더비' 불발되나...김민재 '선발 제외' 전망한 獨 유력지, 정우영은 '출격 예측'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260918122350614"
         },
         {
-          "title": "Micron Technology Has Just Shared Great News (NASDAQ:MU)",
-          "source": "Seeking Alpha",
-          "url": "https://seekingalpha.com/article/4947243-micron-technology-has-just-shared-great-news"
+          "title": "분데스리가 바이에른 뮌헨 대 우니온 베를린 경기 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-bayern-munich-vs-union-berlin-tai-bundesliga-1768725.ldo"
         },
         {
-          "title": "Micron announces 512GB DDR5-9200 memory modules with 16W power draw — up to 12TB per server, claims 60% less energy-intensive than four 128GB modules",
-          "source": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/pc-components/dram/micron-announces-512gb-ddr5-9200-memory-modules-with-16w-power-draw-up-to-12tb-per-server-claims-60-percent-less-energy-intensive-than-four-128gb-modules"
+          "title": "이제 독일은 매주 코리안 더비야! ‘김민재 VS 정우영’ 나란히 선발출장 예상",
+          "source": "풋볼리스트",
+          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=214919"
         }
       ]
     },
     {
-      "id": "자동차산업",
+      "id": "레알-마드리드-cf",
       "rank": 2,
-      "keyword": "자동차산업",
-      "volumeLabel": "200+",
+      "keyword": "레알 마드리드 cf",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''왼발의 천재'가 오른발을 얻을 때...이강인을 깨운 시메오네 [박순규의 창]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'왼발의 천재'가 오른발을 얻을 때...이강인을 깨운 시메오네 [박순규의 창]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Buvd8lwacn"
+        },
+        {
+          "title": "'첫 풀타임' 이강인, 시즌 2호골 폭발…MVP 선정",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260917020200038"
+        },
+        {
+          "title": "\"터치 과도\"→\"최고 영입\"…AT마드리드 이강인, 현지 평가 '대반전'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260918_0003795212"
+        }
+      ]
+    },
+    {
+      "id": "팬심",
+      "rank": 3,
+      "keyword": "팬심",
+      "volumeLabel": "2000+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '넷마블 방준혁, 도쿄게임쇼 현장 점검…\"유저 목소리 살펴야\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "넷마블 방준혁, 도쿄게임쇼 현장 점검…\"유저 목소리 살펴야\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260918131000017"
+        },
+        {
+          "title": "“대기만 90분”... 엔씨 신작 ‘아스트라에 오라티오’ 해보니",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260918163407293"
+        },
+        {
+          "title": "\"라인업 절반 서브컬처로 채운다\"…스마일게이트, 日 진출 본격화 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/09/18/2026091815200217474"
+        }
+      ]
+    },
+    {
+      "id": "자동차-산업",
+      "rank": 4,
+      "keyword": "자동차 산업",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 '中 전기차 판매 비중 35%…“생산 연계 세액공제 서둘러야”' (전기신문) 관련 뉴스가 함께 포착됐어요.",
@@ -61,20 +117,48 @@
       ]
     },
     {
-      "id": "지창욱",
-      "rank": 3,
-      "keyword": "지창욱",
+      "id": "주한-미군-사령관",
+      "rank": 5,
+      "keyword": "주한 미군 사령관",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''비서진' 이서진 \"손예진 제일 예뻐!\"…'스캔들' 제발회 깜짝 만남' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '벨 前주한미군사령관 \"전작권 전환 반대 소신 지금도 그대로\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'비서진' 이서진 \"손예진 제일 예뻐!\"…'스캔들' 제발회 깜짝 만남",
+          "title": "벨 前주한미군사령관 \"전작권 전환 반대 소신 지금도 그대로\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260918235638259"
+          "url": "https://v.daum.net/v/20260918191352322"
+        },
+        {
+          "title": "브런슨 \"美방위공약 흔들림 없어…확고한 조건기반 전작권 전환\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260917001600038"
+        },
+        {
+          "title": "브런슨 “한반도 안보 재설계가 우리 임무”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20260917/134685126/2"
+        }
+      ]
+    },
+    {
+      "id": "넷플",
+      "rank": 6,
+      "keyword": "넷플",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''비서진' 이서진, 나나 밥 사준 일화 공개…\"팬들 식사까지\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'비서진' 이서진, 나나 밥 사준 일화 공개…\"팬들 식사까지\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260918233928161"
         },
         {
           "title": "지창욱, 바쁜 스케줄에 ‘인간관계’ 뚝..“아무도 연락 NO, 외톨이 됐다” (‘비서진’) - 조선비즈",
@@ -82,205 +166,121 @@
           "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/19/HBRTSYLEHFTGGZTGHFSWGYJVMQ/"
         },
         {
-          "title": "'비서진' 이서진, 나나 밥 사준 일화 공개…\"팬들 식사까지\"",
+          "title": "'비서진' 이서진 \"손예진 제일 예뻐!\"…'스캔들' 제발회 깜짝 만남",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6295823"
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6295825"
         }
       ]
     },
     {
-      "id": "이선민",
-      "rank": 4,
-      "keyword": "이선민",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''대세' 이선민, '가성비 인간'의 쇼핑법 [나혼산]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'대세' 이선민, '가성비 인간'의 쇼핑법 [나혼산]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/toe1c71yTj"
-        },
-        {
-          "title": "유리, ‘확신의 기혼상’ 이선민에 “미혼? 신분증 보여달라” (나혼산)",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/518690"
-        },
-        {
-          "title": "이선민, 첫눈에 반했다 \"가성비냐 예쁨이냐\"..할인 유혹 앞 눈빛 흔들 ('나혼산')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/18/GUZTSNLCMJSWIZLDGU4GKNTGMM/"
-        }
-      ]
-    },
-    {
-      "id": "장신영",
-      "rank": 5,
-      "keyword": "장신영",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '장신영, 아파트 1층서만 살았던 이유 “펜트하우스 살고 싶지만…” - 스타투데이' (매일경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "장신영, 아파트 1층서만 살았던 이유 “펜트하우스 살고 싶지만…” - 스타투데이",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12156204"
-        },
-        {
-          "title": "'강경준♥' 장신영, 펜트하우스 살고 싶었다 \"항상 1층 살아\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260918072110159?t=m&x_mn=6aac7cb8080ff169e8cbb8d7"
-        },
-        {
-          "title": "`1층 맘` 배우 장신영, 조수빈 아나운서 만난 강릉 교동 하이엔드 아파트는 어디?",
-          "source": "매일신문",
-          "url": "https://www.imaeil.com/page/view/2026091816381648021"
-        }
-      ]
-    },
-    {
-      "id": "업비트",
-      "rank": 6,
-      "keyword": "업비트",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '1엔짜리 스테이블코인이 4배 폭등?…업비트서 무슨 일이' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "1엔짜리 스테이블코인이 4배 폭등?…업비트서 무슨 일이",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260918173753740"
-        },
-        {
-          "title": "업비트서 스테이블코인 상장 직후 190%대 이례적 급등",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260917189700002"
-        },
-        {
-          "title": "업비트 상장 엔화코인, 스테이블코인인데 200% 급등 [매일코인]",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1161713"
-        }
-      ]
-    },
-    {
-      "id": "두산",
+      "id": "재귀적-자기-개선",
       "rank": 7,
-      "keyword": "두산",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '두산로보틱스, 신임 CEO에 권영민 두산모트롤 대표 선임 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "두산로보틱스, 신임 CEO에 권영민 두산모트롤 대표 선임 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/09/18/2026091816233984259"
-        },
-        {
-          "title": "[경제계 인사] 두산로보틱스 신임 CEO에 권영민",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/industry-company/2026/09/19/JNKIYWJ4ANFFLNQ6E642VDVOD4/"
-        },
-        {
-          "title": "두산로보틱스 신임 최고경영자(CEO)으로 권영민 사장 선임",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=447612"
-        }
-      ]
-    },
-    {
-      "id": "재벌형사2",
-      "rank": 8,
-      "keyword": "재벌형사2",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '재벌X형사 2 : [최종회 예고] “내가 마무리할게” 정은채, 도망친 유승호 향한 숨 막히는 마지막 추격' (programs.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "재벌X형사 2 : [최종회 예고] “내가 마무리할게” 정은채, 도망친 유승호 향한 숨 막히는 마지막 추격",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/drama/sd243062/clip/88571/OC481815191"
-        },
-        {
-          "title": "안보현, 백수 됐다... \"사직서 제출하고 유승호 모자에게 순금 수갑 선물\" ('재벌X형사2')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260918224613688"
-        },
-        {
-          "title": "'재벌X형사2' 안보현, 연쇄살인 유승호 잡아야지...사직서 승부 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/18/2026091808117276925"
-        }
-      ]
-    },
-    {
-      "id": "아스트라에-오라티오",
-      "rank": 9,
-      "keyword": "아스트라에 오라티오",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“대기만 90분”... 엔씨 신작 ‘아스트라에 오라티오’ 해보니' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“대기만 90분”... 엔씨 신작 ‘아스트라에 오라티오’ 해보니",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/09/18/62QMWHVOEJEIVFMDKWV6KVUPGY/"
-        },
-        {
-          "title": "공백의 27년, 무슨 일이 있었나…'나혼렙: 카르마' [TGS 2026]",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1692409/%EA%B3%B5%EB%B0%B1-27%EB%85%84-%EB%AC%B4%EC%8A%A8-%EC%9D%BC%EC%9D%B4-%EC%9E%88%EC%97%88%EB%82%98%EB%82%98%ED%98%BC%EB%A0%99-2026"
-        },
-        {
-          "title": "스마일게이트 CBO \"향후 애니메이션 게임 라인업 비중 늘릴 것\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260918088800017"
-        }
-      ]
-    },
-    {
-      "id": "비트코인-시세",
-      "rank": 10,
-      "keyword": "비트코인 시세",
+      "keyword": "재귀적 자기 개선",
       "volumeLabel": "100+",
       "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[코인시황] 지캐시 20.19% 상승, 스테이블 10.45% 하락' (이투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '구글, AI 문제 해결에 ‘재귀적 자기개선’ 도입...탐색 비용 162배 절감' (AI타임스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[코인시황] 지캐시 20.19% 상승, 스테이블 10.45% 하락",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2626621"
+          "title": "구글, AI 문제 해결에 ‘재귀적 자기개선’ 도입...탐색 비용 162배 절감",
+          "source": "AI타임스",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215459"
         },
         {
-          "title": "[코인시황] 비트코인 7만6000달러선 유지…네 마녀·엔 캐리 청산 '변수'",
-          "source": "뉴스웍스",
-          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=854190"
+          "title": "[시사금융용어] 재귀적 자기 개선(RSI)",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435520"
         },
         {
-          "title": "비트코인 82,000달러 넘으면 94,000달러 보인다…니어 30%·유니스왑 26% 급등",
-          "source": "코인리더스",
-          "url": "https://www.coinreaders.com/259058"
+          "title": "\"구글이 RSI에 도달했다\" 루머, 근거는 X 계정 게시물 이니셜 글자들이었다",
+          "source": "AI 매터스",
+          "url": "https://aimatters.co.kr/news-report/52376/"
+        }
+      ]
+    },
+    {
+      "id": "백종원",
+      "rank": 8,
+      "keyword": "백종원",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[단독] 백종원도 ‘사이버 레커’ 잡았다…유튜브 채널 삭제 엔딩' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[단독] 백종원도 ‘사이버 레커’ 잡았다…유튜브 채널 삭제 엔딩",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260918180551777"
+        },
+        {
+          "title": "“욕도 안 했는데 고소라니”…더본코리아 고소에 투자자들 ‘반발’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/uv1QtjJ6CU"
+        },
+        {
+          "title": "\"백종원 회사 적자 비판했는데\"...종토방 이용자, 줄줄이 고소당했다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/09/17/2026091717285421255"
+        }
+      ]
+    },
+    {
+      "id": "버크셔-해서웨이",
+      "rank": 9,
+      "keyword": "버크셔 해서웨이",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '96세 버핏, 버크셔 회장에서도 퇴진…명예회장으로' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "96세 버핏, 버크셔 회장에서도 퇴진…명예회장으로",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260918182700009"
+        },
+        {
+          "title": "“세월에 장사 없네…”워런 버핏, 56년 만에 회장직 내려놓고 명예회장으로",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11618159"
+        },
+        {
+          "title": "워런 버핏, 버크셔 해서웨이 회장직 '56년' 만에 내려놨다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/09/18/2026091820272532849"
+        }
+      ]
+    },
+    {
+      "id": "배틀그라운드",
+      "rank": 10,
+      "keyword": "배틀그라운드",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'PUBG 아시아 스타즈 2026 - 이벤트 - PUBG: 배틀그라운드' (PUBG: BATTLEGROUNDS) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "PUBG 아시아 스타즈 2026 - 이벤트 - PUBG: 배틀그라운드",
+          "source": "PUBG: BATTLEGROUNDS",
+          "url": "https://www.pubg.com/ko/events/notice/10926"
+        },
+        {
+          "title": "[이슈] 크래프톤, ‘PUBG 아시아 스타즈’ 운영 논란 사과… 선수 2명 구성 조정",
+          "source": "인벤",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321179"
+        },
+        {
+          "title": "넥슨, FC온라인 등 16종 게임 추석 이벤트 진행",
+          "source": "주간한국",
+          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7184999"
         }
       ]
     }
