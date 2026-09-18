@@ -1,258 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-18T12:11:01.690Z",
+  "updatedAt": "2026-09-18T16:40:01.943Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "전투기",
+      "id": "마이크론-테크놀로지",
       "rank": 1,
-      "keyword": "전투기",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "keyword": "마이크론 테크놀로지",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[르포] \"KF-21 월 2대 이상\"…전투기·헬기 넘어 우주까지 뻗어가는 KAI' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Micron Gains 1.4% as 512GB Module Raises the AI Memory Ceiling' (Yahoo Finance) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[르포] \"KF-21 월 2대 이상\"…전투기·헬기 넘어 우주까지 뻗어가는 KAI",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260918060119823"
+          "title": "Micron Gains 1.4% as 512GB Module Raises the AI Memory Ceiling",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/micron-gains-1-4-512gb-152828297.html"
         },
         {
-          "title": "‘KF-21’ 1호기 22일 공군 예천기지에 인도…동남아 시장 선점 후 중동으로 영토 넓힐 듯",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11617714"
+          "title": "Micron Technology Has Just Shared Great News (NASDAQ:MU)",
+          "source": "Seeking Alpha",
+          "url": "https://seekingalpha.com/article/4947243-micron-technology-has-just-shared-great-news"
         },
         {
-          "title": "[현장] KAI 한국형 전투기 KF-21 양산 준비 '착착', 본격 수출 확대 나선다",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=447383"
+          "title": "Micron announces 512GB DDR5-9200 memory modules with 16W power draw — up to 12TB per server, claims 60% less energy-intensive than four 128GB modules",
+          "source": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/pc-components/dram/micron-announces-512gb-ddr5-9200-memory-modules-with-16w-power-draw-up-to-12tb-per-server-claims-60-percent-less-energy-intensive-than-four-128gb-modules"
         }
       ]
     },
     {
-      "id": "두산에너-빌리티",
+      "id": "자동차산업",
       "rank": 2,
-      "keyword": "두산에너 빌리티",
-      "volumeLabel": "2000+",
+      "keyword": "자동차산업",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '반토막 난 '텐배거' 두산에너빌리티⋯대미투자에 다시 쏠린 눈' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '中 전기차 판매 비중 35%…“생산 연계 세액공제 서둘러야”' (전기신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "반토막 난 '텐배거' 두산에너빌리티⋯대미투자에 다시 쏠린 눈",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260918151807008"
+          "title": "中 전기차 판매 비중 35%…“생산 연계 세액공제 서둘러야”",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=372609"
         },
         {
-          "title": "[K-TECH 글로벌 리더스]글로벌 에너지 선도기업 거듭나는 두산에너빌리티…가스터빈·SMR 생산 확충에 2조 투입",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/K-TECH%20Global%20Leaders/article/all/20260918/134697126/1"
-        },
-        {
-          "title": "[리포트 브리핑]두산에너빌리티, '대미 원전투자의 Safe pick' 목표가 120,000원 - 미래에셋증권",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260915000122"
-        }
-      ]
-    },
-    {
-      "id": "청하",
-      "rank": 3,
-      "keyword": "청하",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '청하, 오늘(18일) 새벽 응급실 이송…소속사 결별 앞두고 연속 악재 [Oh!쎈 이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "청하, 오늘(18일) 새벽 응급실 이송…소속사 결별 앞두고 연속 악재 [Oh!쎈 이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260918143007243"
-        },
-        {
-          "title": "청하, 무슨 일? 새벽 응급실행…대학 축제 불참 - 머니투데이",
+          "title": "\"中 전기차 저가 공세 본격화...韓 전기차산업 대응 마련 시급\" - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/18/2026091815372245819"
+          "url": "https://www.mt.co.kr/industry/2026/09/18/2026091809413864447"
         },
         {
-          "title": "청하, 오늘 응급실행…대학축제 무대 취소",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260918_0003795760"
+          "title": "中BYD, EU ‘45%관세’ 뚫는데…8%세율로 버티는 韓",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11618118"
         }
       ]
     },
     {
-      "id": "특별감찰관",
+      "id": "지창욱",
+      "rank": 3,
+      "keyword": "지창욱",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''비서진' 이서진 \"손예진 제일 예뻐!\"…'스캔들' 제발회 깜짝 만남' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'비서진' 이서진 \"손예진 제일 예뻐!\"…'스캔들' 제발회 깜짝 만남",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260918235638259"
+        },
+        {
+          "title": "지창욱, 바쁜 스케줄에 ‘인간관계’ 뚝..“아무도 연락 NO, 외톨이 됐다” (‘비서진’) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/19/HBRTSYLEHFTGGZTGHFSWGYJVMQ/"
+        },
+        {
+          "title": "'비서진' 이서진, 나나 밥 사준 일화 공개…\"팬들 식사까지\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6295823"
+        }
+      ]
+    },
+    {
+      "id": "이선민",
       "rank": 4,
-      "keyword": "특별감찰관",
+      "keyword": "이선민",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '최길수, '김현지 실장 감찰'에 \"법상 수석비서관 이상만 대상\"(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''대세' 이선민, '가성비 인간'의 쇼핑법 [나혼산]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "최길수, '김현지 실장 감찰'에 \"법상 수석비서관 이상만 대상\"(종합)",
+          "title": "'대세' 이선민, '가성비 인간'의 쇼핑법 [나혼산]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260918165752167"
+          "url": "https://v.daum.net/v/toe1c71yTj"
         },
         {
-          "title": "[비하인드 뉴스] AI가 꼽은 실세 \"김현지\"…감찰대상도 아닌데 \"성역이냐\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260918204725899"
+          "title": "유리, ‘확신의 기혼상’ 이선민에 “미혼? 신분증 보여달라” (나혼산)",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/518690"
         },
         {
-          "title": "이 대통령 아들 ‘코인업자 친분’ 의혹에…최길수 “조사할 것”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1278508.html"
+          "title": "이선민, 첫눈에 반했다 \"가성비냐 예쁨이냐\"..할인 유혹 앞 눈빛 흔들 ('나혼산')",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/18/GUZTSNLCMJSWIZLDGU4GKNTGMM/"
         }
       ]
     },
     {
-      "id": "스캔들-넷플릭스",
+      "id": "장신영",
       "rank": 5,
-      "keyword": "스캔들 넷플릭스",
+      "keyword": "장신영",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '지창욱 vs 배용준… 누구 스캔들이 더 요란할까' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '장신영, 아파트 1층서만 살았던 이유 “펜트하우스 살고 싶지만…” - 스타투데이' (매일경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "지창욱 vs 배용준… 누구 스캔들이 더 요란할까",
+          "title": "장신영, 아파트 1층서만 살았던 이유 “펜트하우스 살고 싶지만…” - 스타투데이",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12156204"
+        },
+        {
+          "title": "'강경준♥' 장신영, 펜트하우스 살고 싶었다 \"항상 1층 살아\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260918043615711"
+          "url": "https://v.daum.net/v/20260918072110159?t=m&x_mn=6aac7cb8080ff169e8cbb8d7"
         },
         {
-          "title": "24년 만의 사극 복귀 손예진부터 지창욱·나나의 변신…넷플릭스 '스캔들', 오늘(18일) 공개",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008760665"
-        },
-        {
-          "title": "손예진이 얼마나 좋으면…광고주도 응원 \"'스캔들' 보며 감탄해보세요\" - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/18/GJQWMMZWGRRGKN3BGMYDAZLCHE/"
+          "title": "`1층 맘` 배우 장신영, 조수빈 아나운서 만난 강릉 교동 하이엔드 아파트는 어디?",
+          "source": "매일신문",
+          "url": "https://www.imaeil.com/page/view/2026091816381648021"
         }
       ]
     },
     {
-      "id": "리센느빵",
+      "id": "업비트",
       "rank": 6,
-      "keyword": "리센느빵",
+      "keyword": "업비트",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '민음사빵 대항마 리센느빵 나온다…치열해진 편의점빵 경쟁' (이데일리) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '1엔짜리 스테이블코인이 4배 폭등?…업비트서 무슨 일이' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "민음사빵 대항마 리센느빵 나온다…치열해진 편의점빵 경쟁",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03840886645581104&mediaCodeNo=257"
-        },
-        {
-          "title": "\"원이가 좋아하는 맛 그대로\"…CU, 리센느 빵 5종 출시",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260915091011"
-        },
-        {
-          "title": "CU, 리센느와 브랜드 마케팅 \"원이가 할인상품을 알려줘요\" [편의점 이야기]",
+          "title": "1엔짜리 스테이블코인이 4배 폭등?…업비트서 무슨 일이",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260916160313528"
+          "url": "https://v.daum.net/v/20260918173753740"
+        },
+        {
+          "title": "업비트서 스테이블코인 상장 직후 190%대 이례적 급등",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260917189700002"
+        },
+        {
+          "title": "업비트 상장 엔화코인, 스테이블코인인데 200% 급등 [매일코인]",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1161713"
         }
       ]
     },
     {
-      "id": "배그",
+      "id": "두산",
       "rank": 7,
-      "keyword": "배그",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "keyword": "두산",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '미디어웹, Npay와 'CBL: PUBG' 랭킹전 개최… 마일리지 및 경' (디스이즈게임) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '두산로보틱스, 신임 CEO에 권영민 두산모트롤 대표 선임 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "미디어웹, Npay와 'CBL: PUBG' 랭킹전 개최… 마일리지 및 경",
-          "source": "디스이즈게임",
-          "url": "https://www.thisisgame.com/articles/430110"
+          "title": "두산로보틱스, 신임 CEO에 권영민 두산모트롤 대표 선임 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/09/18/2026091816233984259"
         },
         {
-          "title": "자칭 배그 고수들 주목 미디어웹 'CBL: PUBG with Npay' 개최, 최대 백만 네이버페이 마일리지 제공",
-          "source": "게임포커스",
-          "url": ""
+          "title": "[경제계 인사] 두산로보틱스 신임 CEO에 권영민",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/industry-company/2026/09/19/JNKIYWJ4ANFFLNQ6E642VDVOD4/"
         },
         {
-          "title": "미디어웹, Npay와 함께 ‘CBL: PUBG’ 랭킹전 개최",
-          "source": "인벤",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321082"
+          "title": "두산로보틱스 신임 최고경영자(CEO)으로 권영민 사장 선임",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=447612"
         }
       ]
     },
     {
-      "id": "south-korea",
+      "id": "재벌형사2",
       "rank": 8,
-      "keyword": "south korea",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "keyword": "재벌형사2",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Korea men’s basketball routs Iran, reaches Asian Games final - CHOSUNBIZ' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '재벌X형사 2 : [최종회 예고] “내가 마무리할게” 정은채, 도망친 유승호 향한 숨 막히는 마지막 추격' (programs.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Korea men’s basketball routs Iran, reaches Asian Games final - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/09/18/ETBOIJ72KJGYLKGKWLCZXJYE2U/"
+          "title": "재벌X형사 2 : [최종회 예고] “내가 마무리할게” 정은채, 도망친 유승호 향한 숨 막히는 마지막 추격",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/drama/sd243062/clip/88571/OC481815191"
         },
         {
-          "title": "\"I Want to Win Every Game as a National Representative\"... Ace Lee Hyun-jung's Resolve Ahead of the Final",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008760907"
+          "title": "안보현, 백수 됐다... \"사직서 제출하고 유승호 모자에게 순금 수갑 선물\" ('재벌X형사2')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260918224613688"
         },
         {
-          "title": "(Asiad) Sharpshooter trying to keep cool after lifting S. Korea to men's hoops final",
-          "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/AEN20260918010900315"
+          "title": "'재벌X형사2' 안보현, 연쇄살인 유승호 잡아야지...사직서 승부 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/18/2026091808117276925"
         }
       ]
     },
     {
-      "id": "지승현",
+      "id": "아스트라에-오라티오",
       "rank": 9,
-      "keyword": "지승현",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "keyword": "아스트라에 오라티오",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''편스토랑' 지승현 \"父 무도 10단 체육 교사·母 교장선생님 출신\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“대기만 90분”... 엔씨 신작 ‘아스트라에 오라티오’ 해보니' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'편스토랑' 지승현 \"父 무도 10단 체육 교사·母 교장선생님 출신\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260917212927785"
+          "title": "“대기만 90분”... 엔씨 신작 ‘아스트라에 오라티오’ 해보니",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/tech_it/2026/09/18/62QMWHVOEJEIVFMDKWV6KVUPGY/"
         },
         {
-          "title": "지승현 \"무명시절, 부모님 찬스로 단편영화 제작·연출해\" - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/18/GZQTKOLCMRQWIYZWME4DQMJVMU/"
+          "title": "공백의 27년, 무슨 일이 있었나…'나혼렙: 카르마' [TGS 2026]",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1692409/%EA%B3%B5%EB%B0%B1-27%EB%85%84-%EB%AC%B4%EC%8A%A8-%EC%9D%BC%EC%9D%B4-%EC%9E%88%EC%97%88%EB%82%98%EB%82%98%ED%98%BC%EB%A0%99-2026"
         },
         {
-          "title": "지승현父, 아들 무명시절 제작비까지 지원",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260917_0003793924"
+          "title": "스마일게이트 CBO \"향후 애니메이션 게임 라인업 비중 늘릴 것\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260918088800017"
+        }
+      ]
+    },
+    {
+      "id": "비트코인-시세",
+      "rank": 10,
+      "keyword": "비트코인 시세",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[코인시황] 지캐시 20.19% 상승, 스테이블 10.45% 하락' (이투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[코인시황] 지캐시 20.19% 상승, 스테이블 10.45% 하락",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2626621"
+        },
+        {
+          "title": "[코인시황] 비트코인 7만6000달러선 유지…네 마녀·엔 캐리 청산 '변수'",
+          "source": "뉴스웍스",
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=854190"
+        },
+        {
+          "title": "비트코인 82,000달러 넘으면 94,000달러 보인다…니어 30%·유니스왑 26% 급등",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/259058"
         }
       ]
     }
