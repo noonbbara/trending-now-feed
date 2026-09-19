@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-19T17:22:53.752Z",
+  "updatedAt": "2026-09-19T19:32:15.455Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,16 +9,16 @@
       "rank": 1,
       "keyword": "로또번호",
       "volumeLabel": "2000+",
-      "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '로또 제1242회 당첨번호 ‘2·4·10·16·31·41’…보너스 ‘9’' (이데일리) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "7시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '“9명에게 32억8천만원씩”…이번주 로또 명당은 어디?' (경기일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "로또 제1242회 당첨번호 ‘2·4·10·16·31·41’…보너스 ‘9’",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03017606645581760&mediaCodeNo=257"
+          "title": "“9명에게 32억8천만원씩”…이번주 로또 명당은 어디?",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260919580169"
         },
         {
           "title": "1242회 로또 1등번호 당첨자 9명...32억씩 배당",
@@ -26,9 +26,9 @@
           "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=599281"
         },
         {
-          "title": "\"배우자 꿈에 스님 나타나서…\" 복권 1·2등 동시에 당첨된 사연은?",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1692523/%EB%B0%B0%EC%9A%B0%EC%9E%90-%EA%BF%88%EC%97%90-%EC%8A%A4%EB%8B%98-%EB%82%98%ED%83%80%EB%82%98%EC%84%9C-%EB%B3%B5%EA%B6%8C-12-2026"
+          "title": "로또 1242회 당첨번호 ‘2·4·10·16·31·41’…1등 당첨금 32억원",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609192055001"
         }
       ]
     },
@@ -37,26 +37,26 @@
       "rank": 2,
       "keyword": "토트넘",
       "volumeLabel": "1000+",
-      "startedLabel": "6시간 전",
+      "startedLabel": "8시간 전",
       "change": "steady",
       "changeLabel": "유지",
-      "summary": "급상승 시점에 ''5경기 0승' 골 하나 넣는 데만 446분, 승리는 아직도 없다...토트넘, 5873억짜리 선수단으로 빌라에 2-3 패배→강등…' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"손흥민이 결국 다 해줬던 거였다\" 국내 팬들 비판 계속...최악의 토트넘, 아스톤 빌라에 2-3 패배→또 강등 위기' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'5경기 0승' 골 하나 넣는 데만 446분, 승리는 아직도 없다...토트넘, 5873억짜리 선수단으로 빌라에 2-3 패배→강등권 추락 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/19/202609192233773266O"
-        },
-        {
-          "title": "토트넘, 불발탄 쏜다…“케인과 손흥민, 가장 정확한 슈터였다” 가디언 지적",
+          "title": "\"손흥민이 결국 다 해줬던 거였다\" 국내 팬들 비판 계속...최악의 토트넘, 아스톤 빌라에 2-3 패배→또 강등 위기",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260919202608477"
+          "url": "https://v.daum.net/v/20260919233728375"
         },
         {
           "title": "'충격! 너무 다급해 이 선수까지 검토하다니' 개막 4경기 무득점 졸전 토트넘, 갈라타사라이 방출→'무적' FA 아르헨 국대 출신 이카르디 영입 검토中..'전력외 히샬리송 보다 잘 할까'",
           "source": "조선일보",
           "url": "https://www.chosun.com/sports/world-football/2026/09/19/GI4WMMDBGIYDOZRSMNQWCMLGMU/"
+        },
+        {
+          "title": "또 졌다, 5경기 무승 \"토트넘, 팬들에 새 고통 안기는 능력 있다\" 혹평까지... 日 골키퍼에 막혀 빌라에 2-3 패 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/20/2026091923315279449"
         }
       ]
     },
@@ -64,10 +64,10 @@
       "id": "아스날",
       "rank": 3,
       "keyword": "아스날",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "500+",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '[pl.review] ‘브라이튼의 미친 압박에 완전히 무너졌다!’ 아스널, 원정서 충격의 0-3 완패...결국 시즌 첫 패배' (포포투) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -93,9 +93,9 @@
       "rank": 4,
       "keyword": "최예나",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "4시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '‘워터밤’ 전신 수영복은 최예나 아이디어, ‘전참시’로 보이는 ‘프로 아이돌’의 진수' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -105,14 +105,14 @@
           "url": "https://v.daum.net/v/8WGmqKpXpa"
         },
         {
+          "title": "최예나, '워터밤' 전신 슈트·'청룡' 화제의 무대 비하인드 공개",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6296244"
+        },
+        {
           "title": "최예나, ‘캐치 캐치’ 대박 예상했다 “이준 커버 보고 '곡 뺏겼다' 위기의식”(전참시) - 조선비즈",
           "source": "Chosunbiz",
           "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/19/MIZWCODFMQZTGYJZMIYDMMZVGI/"
-        },
-        {
-          "title": "‘캐치캐치’ 최예나, 절친 김민주와 기절초풍 불량식품 먹방 (전참시) - 스타투데이",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12156625"
         }
       ]
     },
@@ -121,16 +121,16 @@
       "rank": 5,
       "keyword": "sxmb",
       "volumeLabel": "200+",
-      "startedLabel": "6시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 'XSMN 19/9 - Kết quả xổ số miền Nam hôm nay ngày 19/9/2026' (Giáo dục Thủ đô) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "8시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 'Kết quả xổ số miền Bắc hôm nay ngày 19/9/2026' (An ninh Tiền tệ) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "XSMN 19/9 - Kết quả xổ số miền Nam hôm nay ngày 19/9/2026",
-          "source": "Giáo dục Thủ đô",
-          "url": "https://giaoducthudo.giaoducthoidai.vn/xsmn-19-9-ket-qua-xo-so-mien-nam-hom-nay-ngay-19-9-2026-222421.html"
+          "title": "Kết quả xổ số miền Bắc hôm nay ngày 19/9/2026",
+          "source": "An ninh Tiền tệ",
+          "url": "https://antt.nguoiduatin.vn/ket-qua-xo-so-mien-bac-hom-nay-ngay-19-9-2026-205260918222542149.htm"
         },
         {
           "title": "XSMT 20/9. Kết quả xổ số miền Trung hôm nay ngày 20/9/2026. XSMT chủ Nhật ngày 20/9",
@@ -138,27 +138,55 @@
           "url": "https://bnews.vn/xsmt-20-9-ket-qua-xo-so-mien-trung-hom-nay-ngay-20-9-2026-xsmt-chu-nhat-ngay-20-9/437429.html"
         },
         {
-          "title": "Xổ số miền Nam ngày 19 tháng 9: Cây vé trúng 39,2 tỉ đồng xuất hiện sớm",
-          "source": "Báo Thanh Niên",
-          "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-19-thang-9-cay-ve-trung-392-ti-dong-xuat-hien-som-185260919102522842.htm"
+          "title": "XSMN 19/9 - Kết quả xổ số miền Nam hôm nay 19/9/2026 - XSMN ngày 19 tháng 9",
+          "source": "CafeF",
+          "url": "https://cafef.vn/xsmn-19-9-ket-qua-xo-so-mien-nam-hom-nay-19-9-2026-xsmn-ngay-19-thang-9-188260919173849111.chn"
+        }
+      ]
+    },
+    {
+      "id": "프로야구-순위",
+      "rank": 6,
+      "keyword": "프로야구 순위",
+      "volumeLabel": "200+",
+      "startedLabel": "9시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 'KIA 초대형 트레이드 주인공, '80억 유격수' 대체자 가능할까…'희생번트 더블아웃→수어사이드 스퀴즈 대실패' 울고 싶네 [광…' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "KIA 초대형 트레이드 주인공, '80억 유격수' 대체자 가능할까…'희생번트 더블아웃→수어사이드 스퀴즈 대실패' 울고 싶네 [광주 현장]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260918120220046"
+        },
+        {
+          "title": "[스경x인터뷰] KIA 1선발의 승부욕은 오직 순위 싸움…득점지원 ‘0’에도 웃은 올러 “커피라도 좀 돌려야겠어...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202609191002013"
+        },
+        {
+          "title": "이의리 1이닝 KKK 퍼펙트 세이브는 처음...\"만루홈런 맞은 볼 후회없다\" 했는데 김재현 라인업 빠지자 안도 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/baseball/2026/09/18/GQYDAMRZMY4DIYZVGI3DAYZXMY/"
         }
       ]
     },
     {
       "id": "유영우",
-      "rank": 6,
+      "rank": 7,
       "keyword": "유영우",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '유영우, 리센느 대표 이어 원이 모친에게도 큰절 받았다 \"눈물 흘리며 감사하다고\" (전참시)[종합]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 ''전참시' 유영우, 리센느 시상식 무대 보고 '울컥'…훈훈한 응원' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "유영우, 리센느 대표 이어 원이 모친에게도 큰절 받았다 \"눈물 흘리며 감사하다고\" (전참시)[종합]",
+          "title": "'전참시' 유영우, 리센느 시상식 무대 보고 '울컥'…훈훈한 응원",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260920010510800"
+          "url": "https://v.daum.net/v/20260919095052965"
         },
         {
           "title": "유영우, 리센느와 무슨 사이? 세상 짠돌이가 25만원 한우 선사 ('전참시')",
@@ -173,58 +201,30 @@
       ]
     },
     {
-      "id": "프로야구-순위",
-      "rank": 7,
-      "keyword": "프로야구 순위",
-      "volumeLabel": "200+",
-      "startedLabel": "7시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 'KIA 초대형 트레이드 주인공, '80억 유격수' 대체자 가능할까…'희생번트 더블아웃→수어사이드 스퀴즈 대실패' 울고 싶네 [광…' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "KIA 초대형 트레이드 주인공, '80억 유격수' 대체자 가능할까…'희생번트 더블아웃→수어사이드 스퀴즈 대실패' 울고 싶네 [광주 현장]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260918120220046"
-        },
-        {
-          "title": "이의리 1이닝 KKK 퍼펙트 세이브는 처음...\"만루홈런 맞은 볼 후회없다\" 했는데 김재현 라인업 빠지자 안도",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/09/18/MQYWMODCMJRDANDFHEZDEZLGMQ/"
-        },
-        {
-          "title": "[스경x인터뷰] KIA 1선발의 승부욕은 오직 순위 싸움…득점지원 ‘0’에도 웃은 올러 “커피라도 좀 돌려야겠어...",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202609191002013"
-        }
-      ]
-    },
-    {
-      "id": "재벌형사2",
+      "id": "재벌형사",
       "rank": 8,
-      "keyword": "재벌형사2",
+      "keyword": "재벌형사",
       "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
+      "startedLabel": "6시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“당신도 꼭 모델로 쓰고 싶었거든” 유승호, 김혜은으로 위장한 정은채 향해 겨누는 총구' (programs.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''재벌X형사2' 살인마 유승호, 안보현에 총 겨눴다…최후의 결전' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“당신도 꼭 모델로 쓰고 싶었거든” 유승호, 김혜은으로 위장한 정은채 향해 겨누는 총구",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/drama/sd243062/clip/88571/OC481824798"
-        },
-        {
-          "title": "'재벌X형사2' 안보현, 피습 당해 위기…9.4%로 '자체 최고'",
+          "title": "'재벌X형사2' 살인마 유승호, 안보현에 총 겨눴다…최후의 결전",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260919130444390"
+          "url": "https://v.daum.net/v/20260919201251301"
         },
         {
-          "title": "안보현X정은채, 재벌 살인마 유승호와 최후의 결전…‘재벌X형사2’ 막방",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260919/134701090/1"
+          "title": "“시신을 보고 영감을 받은 거야” 최희진, 안보현에게 전한 유승호의 뒤틀린 유년 시절 이야기",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/drama/sd243062/clip/88571/OC481814833?div=live_end"
+        },
+        {
+          "title": "소지섭 '김부장' 벽 너무 높았다…'재벌X형사2' 자체 최고 시청률에도 씁쓸 [美친 시청률]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/19/G4YTEZRUGM4WKZRXMQZGCNZRMQ/"
         }
       ]
     },
@@ -233,26 +233,26 @@
       "rank": 9,
       "keyword": "pl",
       "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Ukraińcy komentują nowy pomysł w ramach SAFE. Spodziewają się walki z P…' (Geekweek Interia) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "6시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 'Gorąco wokół kopalni \"Kłodawa\". Oświadczenie zarządu, list do załogi -' (Onet) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Ukraińcy komentują nowy pomysł w ramach SAFE. Spodziewają się walki z Polską",
-          "source": "Geekweek Interia",
-          "url": "https://geekweek.interia.pl/militaria/news-ukraincy-spodziewaja-sie-walki-z-polakami-chodzi-o-miliardy,nId,23545986"
+          "title": "Gorąco wokół kopalni \"Kłodawa\". Oświadczenie zarządu, list do załogi -",
+          "source": "Onet",
+          "url": "https://www.onet.pl/informacje/codziennypoznanpl/goraco-wokol-kopalni-klodawa-oswiadczenie-zarzadu-list-do-zalogi/69y64yj,30bc1058"
         },
         {
-          "title": "Komisja Europejska zdecydowała. Miliardy euro dla Ukrainy",
-          "source": "Wyborcza.pl",
-          "url": "https://wyborcza.pl/7,75399,33031467,komisja-europejska-zdecydowala-3-3-mld-euro-na-dla-ukrainy.html"
+          "title": "\"Sposób na zniszczenie\". Dramatyczny apel Zajączkowskiej-Hernik",
+          "source": "Do Rzeczy",
+          "url": "https://dorzeczy.pl/opinie/945034/zajaczkowska-hernik-apeluje-ratujmy-polska-kopalnie-chronmy-mieszkancow.html"
         },
         {
-          "title": "W obliczu nasilających się nalotów ze strony Rosji, Ukraina otrzymuje znaczący dar od UE.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/pl/giua-leo-thang-khong-kich-tu-nga-ukraine-nhan-mon-qua-lon-tu-eu"
+          "title": "Polska kopalnia soli zawiesza pomysł stworzenia składowiska odpadów, ale z niego nie rezygnuje",
+          "source": "wnp.pl",
+          "url": "https://www.wnp.pl/rynki/polska-kopalnia-soli-zawiesza-pomysl-stworzenia-skladowiska-odpadow-ale-z-niego-nie-rezygnuje,1100913.html"
         }
       ]
     },
@@ -261,9 +261,9 @@
       "rank": 10,
       "keyword": "라이엇게임즈",
       "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "7시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '“한국 게이머 위해 특별한 선물 준비” 라이엇 게임즈 ‘리프트바운드’ 국내 상륙' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
