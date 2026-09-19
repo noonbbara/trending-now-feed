@@ -1,242 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-19T00:33:08.311Z",
+  "updatedAt": "2026-09-19T05:40:46.819Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "사고",
+      "id": "윤석열",
       "rank": 1,
-      "keyword": "사고",
+      "keyword": "윤석열",
       "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '故윤희상, 교통사고→전신마비 극복했는데..오늘(19일) 사망 9주기' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[단독] 윤석열·김건희, 올여름 ‘냉방’ 구치소 접견실 하루 4∼7회 ‘특혜 이용’' (한겨레) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "故윤희상, 교통사고→전신마비 극복했는데..오늘(19일) 사망 9주기",
+          "title": "[단독] 윤석열·김건희, 올여름 ‘냉방’ 구치소 접견실 하루 4∼7회 ‘특혜 이용’",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1278569.html"
+        },
+        {
+          "title": "靑 \"김지용 중수청장 후보자 추가 검증 중…꼼꼼히 살펴보고 있다\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260919051151568"
+          "url": "https://v.daum.net/v/20260919133651744"
         },
         {
-          "title": "‘카스바의 여인’ 가수 故 윤희상, 오늘(19일) 9주기",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16199192"
-        },
-        {
-          "title": "교통사고→전신마비 극복했는데…故 윤희상, 위장관 출혈로 떠난 지 9년",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1636286"
+          "title": "“이게 국민이 요구한 검찰개혁인가?”…추미애 이어 이성윤도 중수청 때리기",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11618173"
         }
       ]
     },
     {
-      "id": "김영웅",
+      "id": "이미숙",
       "rank": 2,
-      "keyword": "김영웅",
+      "keyword": "이미숙",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이미숙 “며느리 올까 봐 무서워…명절에도 안 부르고 여행 가라고”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이미숙 “며느리 올까 봐 무서워…명절에도 안 부르고 여행 가라고”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/tcWP3fzt7O"
+        },
+        {
+          "title": "싱글 시어머니 이미숙, 시집살이는 없다 “명절 내가 바빠, 며느리 올까 봐 겁나”",
+          "source": "뉴스엔",
+          "url": "https://m.newsen.com/news_view.php?uid=202609191122192110"
+        },
+        {
+          "title": "이미숙, 명절에 며느리 올까 무서워 여행 보내",
+          "source": "미디어파인",
+          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=90204"
+        }
+      ]
+    },
+    {
+      "id": "원자력-발전소",
+      "rank": 3,
+      "keyword": "원자력 발전소",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '봤는가, 130m 초대형 홈런 터졌다…멀티 출루→멀티 안타, '2군행' 삼성 젊은 영웅이 살아난다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '세계 최초의 레이저 기반 핵융합 발전소가 독일에서 건설되고 있습니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "봤는가, 130m 초대형 홈런 터졌다…멀티 출루→멀티 안타, '2군행' 삼성 젊은 영웅이 살아난다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260919014151024"
+          "title": "세계 최초의 레이저 기반 핵융합 발전소가 독일에서 건설되고 있습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nha-may-dien-nhiet-hach-bang-laser-dau-tien-the-gioi-duoc-xay-dung-tai-duc"
         },
         {
-          "title": "‘타율 1할→2군행’ 삼성 김영웅, 4타수 무안타→1타수 1안타 1볼넷 반등 보여주다…감독 작심발언 “주위에서 이상한 소리를” - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/18/202609180901770438O"
+          "title": "“핵융합 패권, 이제 ‘초전도 테이프’가 가른다…독일, 유럽 첫 HTS 대형공장 추진”",
+          "source": "에너지안전신문",
+          "url": "https://www.esnews.kr/news/articleView.html?idxno=6195"
         },
         {
-          "title": "야구인 '책임없는' 훈수 제발 그만! → 박진만 감독 호소 \"자꾸 이상한 소스를..\" [잠실 현장]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/09/17/ME2WMOJYMQZDGMRQMM4TEZRSMY/"
-        }
-      ]
-    },
-    {
-      "id": "필리조선소",
-      "rank": 3,
-      "keyword": "필리조선소",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한화시스템, 필리조선소 지분 60% 한화디펜스USA 자회사에 매각' (인베스트조선) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "한화시스템, 필리조선소 지분 60% 한화디펜스USA 자회사에 매각",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/09/18/2026091880190.html"
-        },
-        {
-          "title": "한화시스템, 종속회사 HS USA가 필리조선소 지분 3251억원에 처분 결정",
-          "source": "데이터투자",
-          "url": "https://www.datatooza.com/article/20260918183221526152ef325a0d_80"
-        },
-        {
-          "title": "비핵심 덜고 3251억 베팅…한화시스템 '우주·스마트시티' 대전환",
-          "source": "파이낸셜포스트",
-          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=276554"
-        }
-      ]
-    },
-    {
-      "id": "이승철",
-      "rank": 4,
-      "keyword": "이승철",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이승철, 할아버지 됐다…손자 공개하며 \"웰컴\"' (SBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "이승철, 할아버지 됐다…손자 공개하며 \"웰컴\"",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008759241"
-        },
-        {
-          "title": "'라이브 황제' 이승철, 할아버지 됐다…\"내 손주 웰컴\"",
+          "title": "IAEA \"러시아 쿠르스크 원전 냉각탑 드론 피격\"",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260917043500005"
-        },
-        {
-          "title": "가수 이승철, 데뷔 40주년에 첫 손자 봐…\"세상 첫 구경, 웰컴\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260917103528736"
+          "url": "https://www.yna.co.kr/view/AKR20260919001000079"
         }
       ]
     },
     {
-      "id": "조선일보",
+      "id": "김수현",
+      "rank": 4,
+      "keyword": "김수현",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김수현, 오늘 국내 무대 복귀…1년 반 만에' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김수현, 오늘 국내 무대 복귀…1년 반 만에",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260919_0003796456"
+        },
+        {
+          "title": "김수현, 1년 6개월 침묵 깨고 대중 앞에...'첫인사'에 초미의 관심",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260919113050335"
+        },
+        {
+          "title": "'2026 TMA' 부산서 첫 개최…리센느·임영웅→시상자 김수현까지 총출동",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008759833"
+        }
+      ]
+    },
+    {
+      "id": "도쿄-게임-쇼",
       "rank": 5,
-      "keyword": "조선일보",
+      "keyword": "도쿄 게임 쇼",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[게임위드인] K게임의 도쿄게임쇼 키워드는…모바일·서브컬처' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[게임위드인] K게임의 도쿄게임쇼 키워드는…모바일·서브컬처",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260919110155930"
+        },
+        {
+          "title": "TSG에 韓 서브컬처 태풍 분다…넥슨·NC·스마게 부스 '인산인해'",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/it-science/game-review/6296077"
+        },
+        {
+          "title": "TGS 시연부터 연내 글로벌 CBT까지… 엔씨 신작 ‘아스오라’, 완성도 높인다",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112878228"
+        }
+      ]
+    },
+    {
+      "id": "weather-tomorrow",
+      "rank": 6,
+      "keyword": "weather tomorrow",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'IMD forecasts heavy rainfall across several states and UTs today' (News On AIR) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "IMD forecasts heavy rainfall across several states and UTs today",
+          "source": "News On AIR",
+          "url": "https://newsonair.gov.in/imd-forecasts-heavy-rainfall-across-several-states-and-uts-today/"
+        },
+        {
+          "title": "Daily weather tracker: Bihar, Rajasthan, Kerala, Odisha, Sikkim among states to receive heavy rainfall",
+          "source": "Down To Earth",
+          "url": "https://www.downtoearth.org.in/climate-change/daily-weather-tracker-bihar-rajasthan-kerala-odisha-sikkim-among-states-to-receive-heavy-rainfall"
+        },
+        {
+          "title": "Delhi-NCR likely to receive light to moderate rain",
+          "source": "DD News",
+          "url": "https://ddnews.gov.in/en/delhi-ncr-likely-to-receive-light-to-moderate-rain/"
+        }
+      ]
+    },
+    {
+      "id": "도서관",
+      "rank": 7,
+      "keyword": "도서관",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '다대포 노을에 책 펼치고… 하반기 '부산바다도서관'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "다대포 노을에 책 펼치고… 하반기 '부산바다도서관'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260918115842854"
+        },
+        {
+          "title": "바다와 도서관이 만나는 독서축제…다대포서 바다도서관",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260918018000051"
+        },
+        {
+          "title": "부산바다도서관, 19일 다대포서 출항… “가을밤 바다에서 책을 읽다”",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260918500423"
+        }
+      ]
+    },
+    {
+      "id": "타이거스-대-화이트삭스",
+      "rank": 8,
+      "keyword": "타이거스 대 화이트삭스",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''뼈아픈 역전패' 8회에만 5실점 무너진 화이트삭스, 가을야구 순위 싸움서 클리블랜드에 지구 선두 헌납' (https://www.mlbkor.com/) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'뼈아픈 역전패' 8회에만 5실점 무너진 화이트삭스, 가을야구 순위 싸움서 클리블랜드에 지구 선두 헌납",
+          "source": "https://www.mlbkor.com/",
+          "url": "https://www.mlbkor.com/news/articleView.html?idxno=33215"
+        },
+        {
+          "title": "클리블랜드 가디언스전 패배로 7월 이후 처음 지구 1위 자리 내어준 시카고 화이트삭스",
+          "source": "https://www.mlbkor.com/",
+          "url": "https://www.mlbkor.com/news/articleView.html?idxno=33144"
+        },
+        {
+          "title": "아메리칸리그 중부지구 우승과 양대 리그 와일드카드를 흔들 시리즈들...이번 주 주목할 5대 시리즈",
+          "source": "https://www.mlbkor.com/",
+          "url": "https://www.mlbkor.com/news/articleView.html?idxno=33049"
+        }
+      ]
+    },
+    {
+      "id": "최형우",
+      "rank": 9,
+      "keyword": "최형우",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[조우석 칼럼] 실로 충격인 조선일보 김대중의 실체' (파이낸스투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '삼성 초비상! 구자욱, 6회 주루 도중 우측 햄스트링 불편함 호소→대주자 교체…\"선수 보호 차원\" [대전 라이브]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[조우석 칼럼] 실로 충격인 조선일보 김대중의 실체",
-          "source": "파이낸스투데이",
-          "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=393303"
-        },
-        {
-          "title": "2030 기자들의 내집 마련 분투기 \"그래서 열심히 모으면 살 수 있긴 한가요?\"",
-          "source": "주간조선",
-          "url": ""
-        },
-        {
-          "title": "'17년 보유 4개월 거주', '철거민 특공'...이게 다 뭔 말인가요? [몇층이세요]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202609181500502112"
-        }
-      ]
-    },
-    {
-      "id": "klasemen-brentford-vs-chelsea",
-      "rank": 6,
-      "keyword": "klasemen brentford vs chelsea",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "장유여객터미널",
-      "rank": 7,
-      "keyword": "장유여객터미널",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김해 장유여객터미널 추석 전 개장 무산…\"안정 운영기반 우선\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김해 장유여객터미널 추석 전 개장 무산…\"안정 운영기반 우선\"",
+          "title": "삼성 초비상! 구자욱, 6회 주루 도중 우측 햄스트링 불편함 호소→대주자 교체…\"선수 보호 차원\" [대전 라이브]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260918140640313"
+          "url": "https://v.daum.net/v/Hrn1dtWIGc"
         },
         {
-          "title": "김해시, 장유여객터미널 추석 전 개장 유보…정상화에 집중",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=716247"
+          "title": "'이럴 수가' 왕옌청 없는데, 박준영마저 허리 잡고 교체됐다…3회부터 '불펜 총동원령'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/18/GBRTEMTFMRSDEYTGHFRDCZBUGA/"
         },
         {
-          "title": "김해 장유여객터미널 또 개장 미뤄져…추석 전 개장 무산",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/busan-gyeongnam/6295193"
+          "title": "다시 선두 1.5G 차이로 좁힌 삼성, 선두 싸움 마지막 기회 왔다! 주말 롯데전 2연전 분수령 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/19/2026091907574780386"
         }
       ]
     },
     {
-      "id": "최두호",
-      "rank": 8,
-      "keyword": "최두호",
+      "id": "응급",
+      "rank": 10,
+      "keyword": "응급",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '8년 만의 UFC 랭킹 복귀 노리는 최두호…\"핏불, 판정까지 못 버틴다\"' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '추석에 아프면 어디로? 경북 응급의료기관 36곳 24시간 운영' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "8년 만의 UFC 랭킹 복귀 노리는 최두호…\"핏불, 판정까지 못 버틴다\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/general-sport/6293867"
+          "title": "추석에 아프면 어디로? 경북 응급의료기관 36곳 24시간 운영",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260919101239302"
         },
         {
-          "title": "최두호 ‘미소와 함께 계체를’ [MK포토]",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/sports/12156974"
+          "title": "경남도, 추석 연휴 나흘간 응급진료체계 가동",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260919500155"
         },
         {
-          "title": "\"마지막…\" 3번 외친 최두호 vs \"내가 죽인다!\" 핏불 [인터뷰]",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6580050"
-        }
-      ]
-    },
-    {
-      "id": "해군",
-      "rank": 9,
-      "keyword": "해군",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '해군제2함대사령부 소청도 감시대 장병들, 음악으로 모병활동 힘 보탠다' (시사의창) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "해군제2함대사령부 소청도 감시대 장병들, 음악으로 모병활동 힘 보탠다",
-          "source": "시사의창",
-          "url": "https://sisaissue.com/View.aspx?No=4234301"
-        },
-        {
-          "title": "해군 소청도 감시대 밴드 동아리, 연주 재능기부 펼쳐",
-          "source": "뉴스피크",
-          "url": ""
-        },
-        {
-          "title": "[단독] 미 전쟁부 부차관보 한화오션 거제사업장 찾았다...‘마스가’ 속도 빨라지나",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260917508531"
+          "title": "김해시 추석 연휴 종합상황실 운영…의료·교통 공백 차단 등",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260918112500052"
         }
       ]
     }
