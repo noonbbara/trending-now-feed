@@ -1,15 +1,43 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-20T10:02:02.993Z",
+  "updatedAt": "2026-09-20T14:19:41.204Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "조슈아-반",
+      "id": "이현중",
       "rank": 1,
-      "keyword": "조슈아 반",
+      "keyword": "이현중",
+      "volumeLabel": "5000+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[아시안게임] 이현중 27점·18리바운드‥남자 농구 12년만의 금메달' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[아시안게임] 이현중 27점·18리바운드‥남자 농구 12년만의 금메달",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6853145_36946.html"
+        },
+        {
+          "title": "[1보] 한국 남자농구, 개최국 일본 꺾고 12년 만에 아시안게임 금메달",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260920053800007"
+        },
+        {
+          "title": "사상 첫 ‘결승 한일전’… 남자 농구, 통쾌한 金",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_special/2026/09/20/CTZOD2WEDBHDZH2URY3I43PUVU/"
+        }
+      ]
+    },
+    {
+      "id": "최두호",
+      "rank": 2,
+      "keyword": "최두호",
       "volumeLabel": "2000+",
-      "startedLabel": "6시간 전",
+      "startedLabel": "15시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 'UFC 한국인 파이터 전멸… 최두호 1R KO패하며 랭커 복귀 실패' (조선일보) 관련 뉴스가 함께 포착됐어요.",
@@ -21,112 +49,112 @@
           "url": "https://www.chosun.com/sports/sports_general/2026/09/20/HCVNV56EWJAYDPM3VJYDCT2Z6U/"
         },
         {
-          "title": "UFC 최두호, 핏불에 1R TKO 패배…8년 만의 랭킹 재진입 무산",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260920_0003797063"
-        },
-        {
           "title": "파이터의 세계",
           "source": "ZUM 뉴스",
           "url": "https://m.news.zum.com/photo/54046543/107853178?cm=news_photolist&r=1&thumb=1"
+        },
+        {
+          "title": "UFC 최두호, 핏불에 1R TKO 패배…8년 만의 랭킹 재진입 무산",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260920_0003797063"
         }
       ]
     },
     {
-      "id": "ufc",
-      "rank": 2,
-      "keyword": "ufc",
-      "volumeLabel": "2000+",
-      "startedLabel": "13시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'The press conference for 'UFC 331' was held at CryptoCom Arena on the 1…' (매일경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "The press conference for 'UFC 331' was held at CryptoCom Arena on the 18th (Korea Standard Time).Lig..",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/sports/12157113"
-        },
-        {
-          "title": "Joshua Van dominates Alexandre Pantoja in rematch to retain UFC title",
-          "source": "ESPN",
-          "url": "https://www.espn.com/mma/story/_/id/49986556/joshua-van-dominates-alexandre-pantoja-rematch-retain-ufc-title"
-        },
-        {
-          "title": "UFC 331 Results: Van vs. Pantoja 2",
-          "source": "MMA Fighting",
-          "url": "https://www.mmafighting.com/ufc/510861/ufc-331-results-van-vs-pantoja-2"
-        }
-      ]
-    },
-    {
-      "id": "아시안게임",
+      "id": "google",
       "rank": 3,
-      "keyword": "아시안게임",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "keyword": "google",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[아시안게임]한국 첫 金 터졌다…성승민, 여자 근대5종 사상 첫 우승' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Exclusive | Gemini Hacked Three Companies in First Known Breakout by Go…' (WSJ) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[아시안게임]한국 첫 金 터졌다…성승민, 여자 근대5종 사상 첫 우승",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11618326"
+          "title": "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2"
         },
         {
-          "title": "근대5종 성승민 한국 첫 금메달...\"중계 없어 속상해\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0107_202609201813251666_005.html"
+          "title": "Google Gemini breaches company systems as Trump unveils new ‘AI Force’",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/live-news/artificial-intelligence-google-gemini-trump-09-20"
         },
         {
-          "title": "[아시안게임] 남자 근대5종, 단체전 정상‥전웅태는 3연속 금메달",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6853110_36946.html"
+          "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html"
         }
       ]
     },
     {
-      "id": "아시안게임-농구",
+      "id": "kbs",
       "rank": 4,
-      "keyword": "아시안게임 농구",
+      "keyword": "kbs",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "4시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[아시안게임] 남자농구 결승 한일전 당일에…대표팀 훈련 버스 '황당 노쇼'(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[Graphic News] Aichi-Nagoya Asian Games to raise curtain Friday' (The Korea Herald) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[아시안게임] 남자농구 결승 한일전 당일에…대표팀 훈련 버스 '황당 노쇼'(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260920023451007"
+          "title": "[Graphic News] Aichi-Nagoya Asian Games to raise curtain Friday",
+          "source": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10877917"
         },
         {
-          "title": "'황금 세대' 남자 농구, 日 잡고 12년 만에 금메달 한 푼다[AG]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260920080135756?f=p"
+          "title": "아이치·나고야 AG 개막 카운트다운…한국, 종합 2위 도전",
+          "source": "신아일보",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5059944"
+        }
+      ]
+    },
+    {
+      "id": "김영범",
+      "rank": 5,
+      "keyword": "김영범",
+      "volumeLabel": "100+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[아시안게임] 수영 김영범, 판잔러에 0.04초 뒤진 은메달‥황선우는 3위' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[아시안게임] 수영 김영범, 판잔러에 0.04초 뒤진 은메달‥황선우는 3위",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6853116_36946.html"
         },
         {
-          "title": "[자막뉴스] \"설마 일부러?\" 한일전 앞두고…차량 '노쇼'에 발목 잡힌 대표팀",
-          "source": "SBS 뉴스",
-          "url": "https://m.news.sbs.co.kr/news/endPage.do?newsId=N1008762189"
+          "title": "김영범·황선우, 아시안게임 자유형 100m서 銀·銅 합작",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11618386"
+        },
+        {
+          "title": "\"완벽했는데...마지막 25m서 아마추어 들통\" 0.04초 銀→'초신성' 김영범의 유쾌한 한마디[아이치-나고야아시안게임]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/09/20/GVTGKOLCGI3TAOLEGNSGGMZZGE/"
         }
       ]
     },
     {
       "id": "백억커피",
-      "rank": 5,
+      "rank": 6,
       "keyword": "백억커피",
       "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'PUBG 아시아 스타즈 2026 - 이벤트 - PUBG: 배틀그라운드' (PUBG: BATTLEGROUNDS) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "9시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '베트남 선수 부정행위에 PUBG 대회 파행…한국팀 전원 보이콧' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "베트남 선수 부정행위에 PUBG 대회 파행…한국팀 전원 보이콧",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260920046300017"
+        },
         {
           "title": "PUBG 아시아 스타즈 2026 - 이벤트 - PUBG: 배틀그라운드",
           "source": "PUBG: BATTLEGROUNDS",
@@ -136,39 +164,6 @@
           "title": "크래프톤 ‘방플’ 논란 파장..백억커피 \"후원 중단\"",
           "source": "포쓰저널",
           "url": "https://www.4th.kr/news/articleView.html?idxno=2118402"
-        },
-        {
-          "title": "배그 대회서 베트남 선수 '방플' 논란에 한국팀 전원 보이콧…후원사도 활동 중단",
-          "source": "펜앤마이크",
-          "url": "https://www.pennmike.com/news/articleView.html?idxno=128150"
-        }
-      ]
-    },
-    {
-      "id": "유주상",
-      "rank": 6,
-      "keyword": "유주상",
-      "volumeLabel": "500+",
-      "startedLabel": "16시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 '‘좀비 주니어’ 유주상, UFC 2연패…11개월 만의 복귀전서 애스웰 주니어에 쓴맛' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘좀비 주니어’ 유주상, UFC 2연패…11개월 만의 복귀전서 애스웰 주니어에 쓴맛",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/qoM66Rfzmd"
-        },
-        {
-          "title": "'도발→TKO 패' UFC 유주상 \"내 방식! 또 도발할 수 있다\" [인터뷰]",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6580598"
-        },
-        {
-          "title": "뒤늦은 추격전! 유주상, 애즈웰 주니어에게 판정패→UFC 2연패 늪",
-          "source": "마이데일리",
-          "url": "https://www.mydaily.co.kr/page/view/2026092009292430786"
         }
       ]
     },
@@ -177,26 +172,26 @@
       "rank": 7,
       "keyword": "lafc",
       "volumeLabel": "100+",
-      "startedLabel": "9시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 'Son Heung-min's Heroics Undone as LAFC Draw 2-2' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "13시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 'Son Heung-min Shines, LAFC Draws 2-2 with San Jose' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Son Heung-min's Heroics Undone as LAFC Draw 2-2",
+          "title": "Son Heung-min Shines, LAFC Draws 2-2 with San Jose",
           "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/09/20/5L5TGIFAEJGUZHCOWTRNDTOWV4/"
-        },
-        {
-          "title": "Son Heung-min scores but LAFC concedes late equalizer in MLS draw - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/09/20/4G45OU3VE5FSROMIBMZ3POWIEQ/"
+          "url": "https://www.chosun.com/english/world-en/2026/09/20/NEZIFNN45ZDTJOISTSBIGUMBME/"
         },
         {
           "title": "Son Heung-min Records One Goal and One Assist... LAFC Draws 2-2 with San Jose Despite Numerical Disadvantage",
           "source": "아시아경제",
           "url": "https://www.asiae.co.kr/en/article/2026092012290657538"
+        },
+        {
+          "title": "Son Heung-min (Los Angeles FC) showed off his sharp toes ahead of the A-match period.",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/sports/12157300"
         }
       ]
     },
@@ -205,54 +200,26 @@
       "rank": 8,
       "keyword": "하피냐",
       "volumeLabel": "100+",
-      "startedLabel": "10시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 ''유럽 축구 1대장'은 하피냐...'또 해트트릭' 7경기 12골 3도움→11-12시즌 '프라임 메시'까지 소환' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "14시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 ''강인아 큰일 났다, 우승 못 하겠다' '미친' 하피냐 또 해트트릭 대폭발! 바르셀로나 7전 전승 행진, 세비야 원정 3-1 역…' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "'강인아 큰일 났다, 우승 못 하겠다' '미친' 하피냐 또 해트트릭 대폭발! 바르셀로나 7전 전승 행진, 세비야 원정 3-1 역전승..'벌써 개인 리그 12골, 팀 전 경기 멀티골 행진'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/09/20/MRRDIZJQMQYGIOBSGYYGMMJWGA/"
+        },
         {
           "title": "'유럽 축구 1대장'은 하피냐...'또 해트트릭' 7경기 12골 3도움→11-12시즌 '프라임 메시'까지 소환",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/09/20/HBSTOMRRMFRWEYJQHAYTEYLFGY/"
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260919234258698"
         },
         {
-          "title": "메시 50골 대기록 소환한 하피냐! 라리가 7경기 12골→메시 뛰어넘는 미친 페이스…바르셀로나 라리가 7연승",
-          "source": "마이데일리",
-          "url": "https://www.mydaily.co.kr/page/view/2026092015071637398"
-        },
-        {
-          "title": "골골골골골골골! '7경기 33골' 바르셀로나, 역대 최강 공격력 과시→라리가 선두 질주",
+          "title": "'오른발-머리-왼발로 쾅쾅쾅' 하피냐 美친 페이스...2G 연속 해트트릭→7경기 12골 폭발, 메시 기록까지 넘었다!",
           "source": "Daum",
-          "url": "https://v.daum.net/v/GBrTU0Hlra"
-        }
-      ]
-    },
-    {
-      "id": "최예나",
-      "rank": 9,
-      "keyword": "최예나",
-      "volumeLabel": "100+",
-      "startedLabel": "18시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '최예나, 이준에 '캐치 캐치' 뺏길 뻔?...\"위기감 들어\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "최예나, 이준에 '캐치 캐치' 뺏길 뻔?...\"위기감 들어\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/20/2026092007482053792"
-        },
-        {
-          "title": "최예나, 소아암 투병 고백…\"살 수 없던 운명, 부모님이 살려주셨다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260920_0003796913"
-        },
-        {
-          "title": "'전참시' 최예나, '지구미'와 완성한 동화 같은 무대…첫 앙코르 콘서트 공개",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/518782"
+          "url": "https://v.daum.net/v/20260920113709523"
         }
       ]
     }
