@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-20T17:37:27.386Z",
+  "updatedAt": "2026-09-20T20:40:42.648Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,26 +9,26 @@
       "rank": 1,
       "keyword": "이현중",
       "volumeLabel": "5000+",
-      "startedLabel": "7시간 전",
+      "startedLabel": "10시간 전",
       "change": "steady",
       "changeLabel": "유지",
-      "summary": "급상승 시점에 '[아시안게임] 이현중 27점·18리바운드‥남자 농구 12년만의 금메달' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“일본이 언제부터 다국적 국가였나” 농구 결승에 귀화 선수까지 총출동…'외국계 부모 4명+귀화 1명'에도 한국 못 넘었다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "“일본이 언제부터 다국적 국가였나” 농구 결승에 귀화 선수까지 총출동…'외국계 부모 4명+귀화 1명'에도 한국 못 넘었다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260920235251378?x_trkm=t"
+        },
+        {
+          "title": "'버스 실종-강제 훈련 취소'에도 일본 잡고 金! 韓 농구, 日 안방서 사상 첫 결승 한일전 완승→나고야서 태극기 가장 높이 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_general/2026/09/21/MQ3TKNZVGEYDAMZZMQZDSNTGGY/"
+        },
         {
           "title": "[아시안게임] 이현중 27점·18리바운드‥남자 농구 12년만의 금메달",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/news/2026/sports/article/6853145_36946.html"
-        },
-        {
-          "title": "‘한일 결승전’ 승리 이끈 이현중, ‘母子 농구 금메달리스트’ 역사",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20260920/134706533/1"
-        },
-        {
-          "title": "[1보] 한국 남자농구, 개최국 일본 꺾고 12년 만에 아시안게임 금메달",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260920213252721"
         }
       ]
     },
@@ -37,26 +37,26 @@
       "rank": 2,
       "keyword": "레알마드리드",
       "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이강인, 첫 마드리드 더비 제대로 즐겼다! 89분 종횡무진→평점 7.2점...ATM, 레알 2-1 격파하고 2위 탈환 - 머니투…' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "6시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 ''무려' 레알 마드리드 무너뜨린 이강인 황금 왼발, 스페인 현지 극찬 \"LEE 발끝에서 결승골 시작\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이강인, 첫 마드리드 더비 제대로 즐겼다! 89분 종횡무진→평점 7.2점...ATM, 레알 2-1 격파하고 2위 탈환 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/21/202609210119778761O"
+          "title": "'무려' 레알 마드리드 무너뜨린 이강인 황금 왼발, 스페인 현지 극찬 \"LEE 발끝에서 결승골 시작\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/FdKmw1yOWr"
         },
         {
           "title": "이강인, 음바페와 적으로 재회…첫 마드리드 더비서 승리",
           "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026092101582493591"
+          "url": "https://view.asiae.co.kr/article/2026092101582493591"
         },
         {
-          "title": "시메오네 감독 강조! \"이강인, 압박감 느낄 수 있지만, 평정심·침착함 중요하다\" 첫 마드리드 더비서 꼽은 키포인트",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260920175808394"
+          "title": "'패스 성공률 81% 기회 창출 1회' 이강인 선발로 나선 마드리드 더비, 0-0으로 전반 마무리 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/21/202609202312774038O"
         }
       ]
     },
@@ -65,9 +65,9 @@
       "rank": 3,
       "keyword": "축구중계",
       "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "7시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": []
@@ -77,16 +77,16 @@
       "rank": 4,
       "keyword": "리버풀",
       "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "7시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '맨체스터 유나이티드 결단! '넌 어디에도 못 간다'…15세 초신성 퇴단 요청 거절하다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "맨체스터 유나이티드 결단! '넌 어디에도 못 간다'…15세 초신성 퇴단 요청 거절하다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260919190549367"
+          "url": "https://v.daum.net/v/43GbnoMVEp"
         },
         {
           "title": "‘1845억? 우리가 산다’ 레알 마드리드, 맨유의 ‘15살 초신성’ 영입 매우 적극적 “맨체스터에서 시간은 사...",
@@ -105,12 +105,17 @@
       "rank": 5,
       "keyword": "맨시티",
       "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''8골 터진 난타전' 맨시티, 선덜랜드에 5-3 승리...리그 5승 전승으로 선두 '질주' - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "7시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '[2분 하이라이트] 맨시티 5-3 선덜랜드' (Manchester City FC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "[2분 하이라이트] 맨시티 5-3 선덜랜드",
+          "source": "Manchester City FC",
+          "url": "https://kr.mancity.com/citytv/mens/city-5-3-sunderland-two-minute-highlights-63925531"
+        },
         {
           "title": "'8골 터진 난타전' 맨시티, 선덜랜드에 5-3 승리...리그 5승 전승으로 선두 '질주' - 머니투데이",
           "source": "머니투데이",
@@ -120,11 +125,6 @@
           "title": "마드리드 더비는 맨체스터 유나이티드와 맨체스터 시티가 맞붙는 경기로, 가장 큰 하이라이트입니다.",
           "source": "Vietnam.vn",
           "url": "https://www.vietnam.vn/ko/tam-diem-derby-madrid-manchester-united-manchester-city-cung-ra-san"
-        },
-        {
-          "title": "세메뉴, 맹활약하며 맨시티를 프리미어 리그 선두로 이끌다",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/semenyo-toa-sang-dua-man-city-len-dau-bang-ngoai-hang-anh-1769946.ldo"
         }
       ]
     },
@@ -133,26 +133,26 @@
       "rank": 6,
       "keyword": "instagram",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Kate Beckinsale Shares Bleak Messages on Instagram' (People.com) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "6시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 'Kate Beckinsale sparks concern with cryptic Instagram posts – 'I give u…' (USA Today) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "Kate Beckinsale sparks concern with cryptic Instagram posts – 'I give up'",
+          "source": "USA Today",
+          "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/09/20/kate-beckinsale-instagram-posts/91861630007/"
+        },
         {
           "title": "Kate Beckinsale Shares Bleak Messages on Instagram",
           "source": "People.com",
           "url": "https://people.com/kate-beckinsale-shares-bleak-messages-on-instagram-12130092"
         },
         {
-          "title": "Kate Beckinsale posts alarming messages on social media weeks after sharing PTSD struggles",
-          "source": "Page Six",
-          "url": "https://pagesix.com/2026/09/20/celebrity-news/kate-beckinsale-posts-alarming-messages-on-social-media-weeks-after-sharing-ptsd-struggles/"
-        },
-        {
-          "title": "Kate Beckinsale Shares Cryptic “I Give Up” Message on Instagram, Leaving Fans Concerned",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/news/general-news/kate-beckinsale-i-give-up-message-instagram-fans-concerned-1236706414/"
+          "title": "Kate Beckinsale sparks fan concern with cryptic Instagram post weeks after sharing PTSD struggles",
+          "source": "Entertainment Weekly",
+          "url": "https://ew.com/kate-beckinsale-worries-fans-with-cryptic-instagram-posts-12130345"
         }
       ]
     },
@@ -161,26 +161,26 @@
       "rank": 7,
       "keyword": "google",
       "volumeLabel": "100+",
-      "startedLabel": "6시간 전",
-      "change": "down",
-      "changeLabel": "-4",
-      "summary": "급상승 시점에 'Google's Gemini becomes latest AI model to break out and hack computer …' (CNBC) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "9시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 'Exclusive | Gemini Hacked Three Companies in First Known Breakout by Go…' (WSJ) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2"
+        },
+        {
+          "title": "Google says its AI model gained unauthorized access to three outside systems",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651"
+        },
         {
           "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html"
-        },
-        {
-          "title": "Gemini Joins the Hacker Club",
-          "source": "WSJ",
-          "url": "https://www.wsj.com/tech/ai/gemini-joins-the-hacker-club-d4338198"
-        },
-        {
-          "title": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html"
         }
       ]
     },
@@ -189,9 +189,9 @@
       "rank": 8,
       "keyword": "sxmb",
       "volumeLabel": "100+",
-      "startedLabel": "6시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "9시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 'Xổ số miền Nam ngày 20 tháng 9: Người trúng 32 tờ nhận chuyển khoản ngay' (Báo Thanh Niên) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -217,16 +217,16 @@
       "rank": 9,
       "keyword": "kbs",
       "volumeLabel": "100+",
-      "startedLabel": "7시간 전",
-      "change": "down",
-      "changeLabel": "-5",
-      "summary": "급상승 시점에 '[Graphic News] Aichi-Nagoya Asian Games to raise curtain Friday' (The Korea Herald) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "10시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 'PPP Media Committee: 'Alleged Protest Call to KBS by DP Aide Constitute…' (news.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[Graphic News] Aichi-Nagoya Asian Games to raise curtain Friday",
-          "source": "The Korea Herald",
-          "url": "https://www.koreaherald.com/article/10877917"
+          "title": "PPP Media Committee: 'Alleged Protest Call to KBS by DP Aide Constitutes External Pressure if True'",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008762457"
         }
       ]
     },
@@ -235,26 +235,26 @@
       "rank": 10,
       "keyword": "김영범",
       "volumeLabel": "100+",
-      "startedLabel": "7시간 전",
-      "change": "down",
-      "changeLabel": "-5",
-      "summary": "급상승 시점에 '[아시안게임] 수영 김영범, 판잔러에 0.04초 뒤진 은메달‥황선우는 3위' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "10시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '세계 1위와 '박빙' 승부…샛별처럼 나타나 '은메달'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "세계 1위와 '박빙' 승부…샛별처럼 나타나 '은메달'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260920215401061"
+        },
+        {
+          "title": "세계 최강과 0.04초차… 김영범 자유형 100m 銀",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260921/134706890/2"
+        },
         {
           "title": "[아시안게임] 수영 김영범, 판잔러에 0.04초 뒤진 은메달‥황선우는 3위",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/news/2026/sports/article/6853116_36946.html"
-        },
-        {
-          "title": "[아시안게임] 자유형 100ｍ 동메달 획득한 황선우 \"최선 다하고 왔다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/HhQxVLx21l"
-        },
-        {
-          "title": "\"완벽했는데...마지막 25m서 아마추어 들통\" 0.04초 銀→'초신성' 김영범의 유쾌한 한마디[아이치-나고야아시안게임]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/09/20/GVTGKOLCGI3TAOLEGNSGGMZZGE/"
         }
       ]
     }
