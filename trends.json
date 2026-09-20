@@ -1,15 +1,15 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-20T05:18:27.805Z",
+  "updatedAt": "2026-09-20T10:02:02.993Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "최두호",
+      "id": "조슈아-반",
       "rank": 1,
-      "keyword": "최두호",
+      "keyword": "조슈아 반",
       "volumeLabel": "2000+",
-      "startedLabel": "5시간 전",
+      "startedLabel": "6시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 'UFC 한국인 파이터 전멸… 최두호 1R KO패하며 랭커 복귀 실패' (조선일보) 관련 뉴스가 함께 포착됐어요.",
@@ -37,9 +37,9 @@
       "rank": 2,
       "keyword": "ufc",
       "volumeLabel": "2000+",
-      "startedLabel": "8시간 전",
-      "change": "down",
-      "changeLabel": "-1",
+      "startedLabel": "13시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 'The press conference for 'UFC 331' was held at CryptoCom Arena on the 1…' (매일경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -49,32 +49,116 @@
           "url": "https://www.mk.co.kr/en/sports/12157113"
         },
         {
-          "title": "‘Van is on another level’: Pros react to Joshua Van winning rollicking UFC 331 main event over Alexandre Pantoja",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/van-another-level-pros-react-042424360.html"
+          "title": "Joshua Van dominates Alexandre Pantoja in rematch to retain UFC title",
+          "source": "ESPN",
+          "url": "https://www.espn.com/mma/story/_/id/49986556/joshua-van-dominates-alexandre-pantoja-rematch-retain-ufc-title"
         },
         {
-          "title": "UFC 331 purses revealed: Arman Tsarukyan earned less than 4 fighters on card he co-headlined",
-          "source": "Bloody Elbow",
-          "url": "https://bloodyelbow.com/2026/09/20/ufc-331-purses-revealed-arman-tsarukyan-earned-less-than-4-fighters-on-card-he-co-headlined/"
+          "title": "UFC 331 Results: Van vs. Pantoja 2",
+          "source": "MMA Fighting",
+          "url": "https://www.mmafighting.com/ufc/510861/ufc-331-results-van-vs-pantoja-2"
+        }
+      ]
+    },
+    {
+      "id": "아시안게임",
+      "rank": 3,
+      "keyword": "아시안게임",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[아시안게임]한국 첫 金 터졌다…성승민, 여자 근대5종 사상 첫 우승' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[아시안게임]한국 첫 金 터졌다…성승민, 여자 근대5종 사상 첫 우승",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11618326"
+        },
+        {
+          "title": "근대5종 성승민 한국 첫 금메달...\"중계 없어 속상해\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0107_202609201813251666_005.html"
+        },
+        {
+          "title": "[아시안게임] 남자 근대5종, 단체전 정상‥전웅태는 3연속 금메달",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6853110_36946.html"
+        }
+      ]
+    },
+    {
+      "id": "아시안게임-농구",
+      "rank": 4,
+      "keyword": "아시안게임 농구",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[아시안게임] 남자농구 결승 한일전 당일에…대표팀 훈련 버스 '황당 노쇼'(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[아시안게임] 남자농구 결승 한일전 당일에…대표팀 훈련 버스 '황당 노쇼'(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260920023451007"
+        },
+        {
+          "title": "'황금 세대' 남자 농구, 日 잡고 12년 만에 금메달 한 푼다[AG]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260920080135756?f=p"
+        },
+        {
+          "title": "[자막뉴스] \"설마 일부러?\" 한일전 앞두고…차량 '노쇼'에 발목 잡힌 대표팀",
+          "source": "SBS 뉴스",
+          "url": "https://m.news.sbs.co.kr/news/endPage.do?newsId=N1008762189"
+        }
+      ]
+    },
+    {
+      "id": "백억커피",
+      "rank": 5,
+      "keyword": "백억커피",
+      "volumeLabel": "200+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'PUBG 아시아 스타즈 2026 - 이벤트 - PUBG: 배틀그라운드' (PUBG: BATTLEGROUNDS) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "PUBG 아시아 스타즈 2026 - 이벤트 - PUBG: 배틀그라운드",
+          "source": "PUBG: BATTLEGROUNDS",
+          "url": "https://www.pubg.com/ko/events/notice/10926"
+        },
+        {
+          "title": "크래프톤 ‘방플’ 논란 파장..백억커피 \"후원 중단\"",
+          "source": "포쓰저널",
+          "url": "https://www.4th.kr/news/articleView.html?idxno=2118402"
+        },
+        {
+          "title": "배그 대회서 베트남 선수 '방플' 논란에 한국팀 전원 보이콧…후원사도 활동 중단",
+          "source": "펜앤마이크",
+          "url": "https://www.pennmike.com/news/articleView.html?idxno=128150"
         }
       ]
     },
     {
       "id": "유주상",
-      "rank": 3,
+      "rank": 6,
       "keyword": "유주상",
       "volumeLabel": "500+",
-      "startedLabel": "11시간 전",
-      "change": "up",
-      "changeLabel": "+2",
+      "startedLabel": "16시간 전",
+      "change": "down",
+      "changeLabel": "-3",
       "summary": "급상승 시점에 '‘좀비 주니어’ 유주상, UFC 2연패…11개월 만의 복귀전서 애스웰 주니어에 쓴맛' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "‘좀비 주니어’ 유주상, UFC 2연패…11개월 만의 복귀전서 애스웰 주니어에 쓴맛",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260920090727655"
+          "url": "https://v.daum.net/v/qoM66Rfzmd"
         },
         {
           "title": "'도발→TKO 패' UFC 유주상 \"내 방식! 또 도발할 수 있다\" [인터뷰]",
@@ -82,112 +166,79 @@
           "url": "https://www.nocutnews.co.kr/news/6580598"
         },
         {
-          "title": "‘한 방이 없었다’ 유주상, 애스웰 주니어에 판정패 [MK현장]",
-          "source": "m.mksports.co.kr",
-          "url": "https://www.mksports.co.kr/news/sports/12157286"
-        }
-      ]
-    },
-    {
-      "id": "아스날",
-      "rank": 4,
-      "keyword": "아스날",
-      "volumeLabel": "500+",
-      "startedLabel": "15시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '디펜딩 챔피언 아스널, 브라이튼 원정서 0-3 완패…개막 후 이어진 연승 행진 마감' (데일리스포츠한국) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "디펜딩 챔피언 아스널, 브라이튼 원정서 0-3 완패…개막 후 이어진 연승 행진 마감",
-          "source": "데일리스포츠한국",
-          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=433712"
-        },
-        {
-          "title": "[오피셜]'미친 아스널에 충격적인 3골차 첫 패를 안긴 더욱 미친 팀' 브라이턴의 만 33세 사령탑 휘르첼러 감독의 일침 \"겸손하게 왜 승리했는지 알아야 한다\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/football/2026-09-20/202609200100134940008780"
-        },
-        {
-          "title": "0-3 굴욕패에 화풀이? 라이스, 경기 막판 상대 선수 걷어차고도 '옐로'… 팬들 \"VAR은 차 마시러 갔나\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/yMEBvGhDyI"
+          "title": "뒤늦은 추격전! 유주상, 애즈웰 주니어에게 판정패→UFC 2연패 늪",
+          "source": "마이데일리",
+          "url": "https://www.mydaily.co.kr/page/view/2026092009292430786"
         }
       ]
     },
     {
       "id": "lafc",
-      "rank": 5,
+      "rank": 7,
       "keyword": "lafc",
       "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Son Heung-min scores as LAFC concedes late equalizer to draw 2-2 - CHOS…' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "9시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 'Son Heung-min's Heroics Undone as LAFC Draw 2-2' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Son Heung-min scores as LAFC concedes late equalizer to draw 2-2 - CHOSUNBIZ",
+          "title": "Son Heung-min's Heroics Undone as LAFC Draw 2-2",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/09/20/5L5TGIFAEJGUZHCOWTRNDTOWV4/"
+        },
+        {
+          "title": "Son Heung-min scores but LAFC concedes late equalizer in MLS draw - CHOSUNBIZ",
           "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/09/20/CO4GKSEFZJBR3MRT232YHGHAKI/"
+          "url": "https://biz.chosun.com/en/en-sports/2026/09/20/4G45OU3VE5FSROMIBMZ3POWIEQ/"
         },
         {
           "title": "Son Heung-min Records One Goal and One Assist... LAFC Draws 2-2 with San Jose Despite Numerical Disadvantage",
           "source": "아시아경제",
           "url": "https://www.asiae.co.kr/en/article/2026092012290657538"
-        },
-        {
-          "title": "Son Heung-min (Los Angeles FC) showed off his sharp toes ahead of the A-match period.",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/sports/12157300"
         }
       ]
     },
     {
       "id": "하피냐",
-      "rank": 6,
+      "rank": 8,
       "keyword": "하피냐",
       "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''강인아 큰일 났다, 우승 못 하겠다' '미친' 하피냐 또 해트트릭 대폭발! 바르셀로나 7전 전승 행진, 세비야 원정 3-1 역…' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "10시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 ''유럽 축구 1대장'은 하피냐...'또 해트트릭' 7경기 12골 3도움→11-12시즌 '프라임 메시'까지 소환' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'강인아 큰일 났다, 우승 못 하겠다' '미친' 하피냐 또 해트트릭 대폭발! 바르셀로나 7전 전승 행진, 세비야 원정 3-1 역전승..'벌써 개인 리그 12골, 팀 전 경기 멀티골 행진'",
+          "title": "'유럽 축구 1대장'은 하피냐...'또 해트트릭' 7경기 12골 3도움→11-12시즌 '프라임 메시'까지 소환",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/09/20/MRRDIZJQMQYGIOBSGYYGMMJWGA/"
+          "url": "https://www.chosun.com/sports/world-football/2026/09/20/HBSTOMRRMFRWEYJQHAYTEYLFGY/"
+        },
+        {
+          "title": "메시 50골 대기록 소환한 하피냐! 라리가 7경기 12골→메시 뛰어넘는 미친 페이스…바르셀로나 라리가 7연승",
+          "source": "마이데일리",
+          "url": "https://www.mydaily.co.kr/page/view/2026092015071637398"
         },
         {
           "title": "골골골골골골골! '7경기 33골' 바르셀로나, 역대 최강 공격력 과시→라리가 선두 질주",
           "source": "Daum",
           "url": "https://v.daum.net/v/GBrTU0Hlra"
-        },
-        {
-          "title": "'오른발-머리-왼발로 쾅쾅쾅' 하피냐 美친 페이스...2G 연속 해트트릭→7경기 12골 폭발, 메시 기록까지 넘었다!",
-          "source": "스포탈코리아",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553554623"
         }
       ]
     },
     {
       "id": "최예나",
-      "rank": 7,
+      "rank": 9,
       "keyword": "최예나",
       "volumeLabel": "100+",
-      "startedLabel": "14시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '소아암 투병 최예나 “무당이 ‘죽은 애 사진 왜 갖고 오냐’며 던졌다”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "18시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 '최예나, 이준에 '캐치 캐치' 뺏길 뻔?...\"위기감 들어\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "소아암 투병 최예나 “무당이 ‘죽은 애 사진 왜 갖고 오냐’며 던졌다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Xs4gZ3GhHI"
-        },
         {
           "title": "최예나, 이준에 '캐치 캐치' 뺏길 뻔?...\"위기감 들어\" - 머니투데이",
           "source": "머니투데이",
@@ -197,62 +248,11 @@
           "title": "최예나, 소아암 투병 고백…\"살 수 없던 운명, 부모님이 살려주셨다\"",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20260920_0003796913"
-        }
-      ]
-    },
-    {
-      "id": "유영우",
-      "rank": 8,
-      "keyword": "유영우",
-      "volumeLabel": "100+",
-      "startedLabel": "15시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '\"한끼 5천원 이하\" 유영우, 이선민·리센느 원이에 51만원 한우 플렉스…\"평생 은인\"('전참시')' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"한끼 5천원 이하\" 유영우, 이선민·리센느 원이에 51만원 한우 플렉스…\"평생 은인\"('전참시')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/PfB6crNdCq"
         },
         {
-          "title": "몇백 원 아끼던 유영우, 한우 51만원 ‘플렉스’…리센느 원이 보며 눈물",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260920/134701446/1"
-        },
-        {
-          "title": "유영우, 스케줄 10배 뛰었는데..다 노래 요청만 \"개그맨인지 가수인지 헷갈려\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/20/GQYTAMZTGNQTQYTDHE3TAMTDME/"
-        }
-      ]
-    },
-    {
-      "id": "재벌형사",
-      "rank": 9,
-      "keyword": "재벌형사",
-      "volumeLabel": "100+",
-      "startedLabel": "15시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '유승호 단죄한 안보현…'재벌X형사2' 11.8% 자체 최고 종영' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "유승호 단죄한 안보현…'재벌X형사2' 11.8% 자체 최고 종영",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260920012000005"
-        },
-        {
-          "title": "안보현·정은채 '재벌X형사2', 11.8% 자체 최고 종영",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260920_0003796950"
-        },
-        {
-          "title": "안보현·정은채, 시즌1 시청률 넘었다..미치광이 살인마 유승호 완벽 응징(재벌X형사2)[종합]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112878571"
+          "title": "'전참시' 최예나, '지구미'와 완성한 동화 같은 무대…첫 앙코르 콘서트 공개",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/518782"
         }
       ]
     }
