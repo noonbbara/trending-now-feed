@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-20T14:19:41.204Z",
+  "updatedAt": "2026-09-20T17:37:27.386Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,9 +9,9 @@
       "rank": 1,
       "keyword": "이현중",
       "volumeLabel": "5000+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "7시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '[아시안게임] 이현중 27점·18리바운드‥남자 농구 12년만의 금메달' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -21,81 +21,205 @@
           "url": "https://imnews.imbc.com/news/2026/sports/article/6853145_36946.html"
         },
         {
-          "title": "[1보] 한국 남자농구, 개최국 일본 꺾고 12년 만에 아시안게임 금메달",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260920053800007"
+          "title": "‘한일 결승전’ 승리 이끈 이현중, ‘母子 농구 금메달리스트’ 역사",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260920/134706533/1"
         },
         {
-          "title": "사상 첫 ‘결승 한일전’… 남자 농구, 통쾌한 金",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_special/2026/09/20/CTZOD2WEDBHDZH2URY3I43PUVU/"
+          "title": "[1보] 한국 남자농구, 개최국 일본 꺾고 12년 만에 아시안게임 금메달",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260920213252721"
         }
       ]
     },
     {
-      "id": "최두호",
+      "id": "레알마드리드",
       "rank": 2,
-      "keyword": "최두호",
-      "volumeLabel": "2000+",
-      "startedLabel": "15시간 전",
+      "keyword": "레알마드리드",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'UFC 한국인 파이터 전멸… 최두호 1R KO패하며 랭커 복귀 실패' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '이강인, 첫 마드리드 더비 제대로 즐겼다! 89분 종횡무진→평점 7.2점...ATM, 레알 2-1 격파하고 2위 탈환 - 머니투…' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "UFC 한국인 파이터 전멸… 최두호 1R KO패하며 랭커 복귀 실패",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/09/20/HCVNV56EWJAYDPM3VJYDCT2Z6U/"
+          "title": "이강인, 첫 마드리드 더비 제대로 즐겼다! 89분 종횡무진→평점 7.2점...ATM, 레알 2-1 격파하고 2위 탈환 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/21/202609210119778761O"
         },
         {
-          "title": "파이터의 세계",
-          "source": "ZUM 뉴스",
-          "url": "https://m.news.zum.com/photo/54046543/107853178?cm=news_photolist&r=1&thumb=1"
+          "title": "이강인, 음바페와 적으로 재회…첫 마드리드 더비서 승리",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026092101582493591"
         },
         {
-          "title": "UFC 최두호, 핏불에 1R TKO 패배…8년 만의 랭킹 재진입 무산",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260920_0003797063"
+          "title": "시메오네 감독 강조! \"이강인, 압박감 느낄 수 있지만, 평정심·침착함 중요하다\" 첫 마드리드 더비서 꼽은 키포인트",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260920175808394"
+        }
+      ]
+    },
+    {
+      "id": "축구중계",
+      "rank": 3,
+      "keyword": "축구중계",
+      "volumeLabel": "500+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "리버풀",
+      "rank": 4,
+      "keyword": "리버풀",
+      "volumeLabel": "200+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '맨체스터 유나이티드 결단! '넌 어디에도 못 간다'…15세 초신성 퇴단 요청 거절하다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "맨체스터 유나이티드 결단! '넌 어디에도 못 간다'…15세 초신성 퇴단 요청 거절하다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260919190549367"
+        },
+        {
+          "title": "‘1845억? 우리가 산다’ 레알 마드리드, 맨유의 ‘15살 초신성’ 영입 매우 적극적 “맨체스터에서 시간은 사...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202609191010003"
+        },
+        {
+          "title": "‘충격’ 바르셀로나 머무는 중, 맨유에 즉시 계약 해지 요구→훈련 불참→이미 영국 떠나 ‘15세 유망주 맨유와 충격적인 작별 추진’",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1008295"
+        }
+      ]
+    },
+    {
+      "id": "맨시티",
+      "rank": 5,
+      "keyword": "맨시티",
+      "volumeLabel": "200+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''8골 터진 난타전' 맨시티, 선덜랜드에 5-3 승리...리그 5승 전승으로 선두 '질주' - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'8골 터진 난타전' 맨시티, 선덜랜드에 5-3 승리...리그 5승 전승으로 선두 '질주' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/21/202609210000773725O"
+        },
+        {
+          "title": "마드리드 더비는 맨체스터 유나이티드와 맨체스터 시티가 맞붙는 경기로, 가장 큰 하이라이트입니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/tam-diem-derby-madrid-manchester-united-manchester-city-cung-ra-san"
+        },
+        {
+          "title": "세메뉴, 맹활약하며 맨시티를 프리미어 리그 선두로 이끌다",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/semenyo-toa-sang-dua-man-city-len-dau-bang-ngoai-hang-anh-1769946.ldo"
+        }
+      ]
+    },
+    {
+      "id": "instagram",
+      "rank": 6,
+      "keyword": "instagram",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Kate Beckinsale Shares Bleak Messages on Instagram' (People.com) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Kate Beckinsale Shares Bleak Messages on Instagram",
+          "source": "People.com",
+          "url": "https://people.com/kate-beckinsale-shares-bleak-messages-on-instagram-12130092"
+        },
+        {
+          "title": "Kate Beckinsale posts alarming messages on social media weeks after sharing PTSD struggles",
+          "source": "Page Six",
+          "url": "https://pagesix.com/2026/09/20/celebrity-news/kate-beckinsale-posts-alarming-messages-on-social-media-weeks-after-sharing-ptsd-struggles/"
+        },
+        {
+          "title": "Kate Beckinsale Shares Cryptic “I Give Up” Message on Instagram, Leaving Fans Concerned",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/news/general-news/kate-beckinsale-i-give-up-message-instagram-fans-concerned-1236706414/"
         }
       ]
     },
     {
       "id": "google",
-      "rank": 3,
+      "rank": 7,
       "keyword": "google",
       "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Exclusive | Gemini Hacked Three Companies in First Known Breakout by Go…' (WSJ) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "6시간 전",
+      "change": "down",
+      "changeLabel": "-4",
+      "summary": "급상승 시점에 'Google's Gemini becomes latest AI model to break out and hack computer …' (CNBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
-        {
-          "title": "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-          "source": "WSJ",
-          "url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2"
-        },
-        {
-          "title": "Google Gemini breaches company systems as Trump unveils new ‘AI Force’",
-          "source": "Fox News",
-          "url": "https://www.foxnews.com/live-news/artificial-intelligence-google-gemini-trump-09-20"
-        },
         {
           "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html"
+        },
+        {
+          "title": "Gemini Joins the Hacker Club",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/tech/ai/gemini-joins-the-hacker-club-d4338198"
+        },
+        {
+          "title": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html"
+        }
+      ]
+    },
+    {
+      "id": "sxmb",
+      "rank": 8,
+      "keyword": "sxmb",
+      "volumeLabel": "100+",
+      "startedLabel": "6시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Xổ số miền Nam ngày 20 tháng 9: Người trúng 32 tờ nhận chuyển khoản ngay' (Báo Thanh Niên) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Xổ số miền Nam ngày 20 tháng 9: Người trúng 32 tờ nhận chuyển khoản ngay",
+          "source": "Báo Thanh Niên",
+          "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-20-thang-9-nguoi-trung-32-to-nhan-chuyen-khoan-ngay-185260920171315124.htm"
+        },
+        {
+          "title": "XSMT 20/9 - Kết quả xổ số miền Trung hôm nay 20/9/2026 - XSMT ngày 20 tháng 9",
+          "source": "CafeF",
+          "url": "https://cafef.vn/xsmt-20-9-ket-qua-xo-so-mien-trung-hom-nay-20-9-2026-xsmt-ngay-20-thang-9-188260920174137078.chn"
+        },
+        {
+          "title": "Cập nhật kết quả xổ số Huế, Kon Tum, Khánh Hòa hôm nay 20.9",
+          "source": "Laodong.vn",
+          "url": "https://laodong.vn/ldt/tin-tuc/cap-nhat-ket-qua-xo-so-hue-kon-tum-khanh-hoa-hom-nay-209-1769839.ldo"
         }
       ]
     },
     {
       "id": "kbs",
-      "rank": 4,
+      "rank": 9,
       "keyword": "kbs",
       "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "7시간 전",
+      "change": "down",
+      "changeLabel": "-5",
       "summary": "급상승 시점에 '[Graphic News] Aichi-Nagoya Asian Games to raise curtain Friday' (The Korea Herald) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -103,22 +227,17 @@
           "title": "[Graphic News] Aichi-Nagoya Asian Games to raise curtain Friday",
           "source": "The Korea Herald",
           "url": "https://www.koreaherald.com/article/10877917"
-        },
-        {
-          "title": "아이치·나고야 AG 개막 카운트다운…한국, 종합 2위 도전",
-          "source": "신아일보",
-          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5059944"
         }
       ]
     },
     {
       "id": "김영범",
-      "rank": 5,
+      "rank": 10,
       "keyword": "김영범",
       "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "7시간 전",
+      "change": "down",
+      "changeLabel": "-5",
       "summary": "급상승 시점에 '[아시안게임] 수영 김영범, 판잔러에 0.04초 뒤진 은메달‥황선우는 3위' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -128,98 +247,14 @@
           "url": "https://imnews.imbc.com/news/2026/sports/article/6853116_36946.html"
         },
         {
-          "title": "김영범·황선우, 아시안게임 자유형 100m서 銀·銅 합작",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11618386"
+          "title": "[아시안게임] 자유형 100ｍ 동메달 획득한 황선우 \"최선 다하고 왔다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/HhQxVLx21l"
         },
         {
           "title": "\"완벽했는데...마지막 25m서 아마추어 들통\" 0.04초 銀→'초신성' 김영범의 유쾌한 한마디[아이치-나고야아시안게임]",
           "source": "조선일보",
           "url": "https://www.chosun.com/sports/sports_general/2026/09/20/GVTGKOLCGI3TAOLEGNSGGMZZGE/"
-        }
-      ]
-    },
-    {
-      "id": "백억커피",
-      "rank": 6,
-      "keyword": "백억커피",
-      "volumeLabel": "200+",
-      "startedLabel": "9시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '베트남 선수 부정행위에 PUBG 대회 파행…한국팀 전원 보이콧' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "베트남 선수 부정행위에 PUBG 대회 파행…한국팀 전원 보이콧",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260920046300017"
-        },
-        {
-          "title": "PUBG 아시아 스타즈 2026 - 이벤트 - PUBG: 배틀그라운드",
-          "source": "PUBG: BATTLEGROUNDS",
-          "url": "https://www.pubg.com/ko/events/notice/10926"
-        },
-        {
-          "title": "크래프톤 ‘방플’ 논란 파장..백억커피 \"후원 중단\"",
-          "source": "포쓰저널",
-          "url": "https://www.4th.kr/news/articleView.html?idxno=2118402"
-        }
-      ]
-    },
-    {
-      "id": "lafc",
-      "rank": 7,
-      "keyword": "lafc",
-      "volumeLabel": "100+",
-      "startedLabel": "13시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'Son Heung-min Shines, LAFC Draws 2-2 with San Jose' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Son Heung-min Shines, LAFC Draws 2-2 with San Jose",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/world-en/2026/09/20/NEZIFNN45ZDTJOISTSBIGUMBME/"
-        },
-        {
-          "title": "Son Heung-min Records One Goal and One Assist... LAFC Draws 2-2 with San Jose Despite Numerical Disadvantage",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/en/article/2026092012290657538"
-        },
-        {
-          "title": "Son Heung-min (Los Angeles FC) showed off his sharp toes ahead of the A-match period.",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/sports/12157300"
-        }
-      ]
-    },
-    {
-      "id": "하피냐",
-      "rank": 8,
-      "keyword": "하피냐",
-      "volumeLabel": "100+",
-      "startedLabel": "14시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 ''강인아 큰일 났다, 우승 못 하겠다' '미친' 하피냐 또 해트트릭 대폭발! 바르셀로나 7전 전승 행진, 세비야 원정 3-1 역…' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'강인아 큰일 났다, 우승 못 하겠다' '미친' 하피냐 또 해트트릭 대폭발! 바르셀로나 7전 전승 행진, 세비야 원정 3-1 역전승..'벌써 개인 리그 12골, 팀 전 경기 멀티골 행진'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/09/20/MRRDIZJQMQYGIOBSGYYGMMJWGA/"
-        },
-        {
-          "title": "'유럽 축구 1대장'은 하피냐...'또 해트트릭' 7경기 12골 3도움→11-12시즌 '프라임 메시'까지 소환",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260919234258698"
-        },
-        {
-          "title": "'오른발-머리-왼발로 쾅쾅쾅' 하피냐 美친 페이스...2G 연속 해트트릭→7경기 12골 폭발, 메시 기록까지 넘었다!",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260920113709523"
         }
       ]
     }
