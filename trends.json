@@ -1,17 +1,45 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-19T22:17:25.778Z",
+  "updatedAt": "2026-09-20T00:18:24.394Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "로또번호",
+      "id": "ufc",
       "rank": 1,
+      "keyword": "ufc",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'The press conference for 'UFC 331' was held at CryptoCom Arena on the 1…' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "The press conference for 'UFC 331' was held at CryptoCom Arena on the 18th (Korea Standard Time).Lig..",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/sports/12157113"
+        },
+        {
+          "title": "UFC 331 ‘Van vs. Pantoja 2’ play-by-play, results & round scoring",
+          "source": "Sherdog",
+          "url": "https://www.sherdog.com/news/news/UFC-331-Van-vs-Pantoja-2-playbyplay-results-round-scoring-202850"
+        },
+        {
+          "title": "Joshua Van Talks With Megan Olivi | Crypto.com UFC 331",
+          "source": "UFC.com",
+          "url": "https://www.ufc.com/video/160258"
+        }
+      ]
+    },
+    {
+      "id": "로또번호",
+      "rank": 2,
       "keyword": "로또번호",
       "volumeLabel": "2000+",
-      "startedLabel": "10시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "startedLabel": "12시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '로또 제1242회 당첨번호 ‘2·4·10·16·31·41’…보너스 ‘9’' (이데일리) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -34,12 +62,12 @@
     },
     {
       "id": "토트넘",
-      "rank": 2,
+      "rank": 3,
       "keyword": "토트넘",
       "volumeLabel": "1000+",
-      "startedLabel": "11시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "startedLabel": "13시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '\"손흥민이 결국 다 해줬던 거였다\" 국내 팬들 비판 계속...최악의 토트넘, 아스톤 빌라에 2-3 패배→또 강등 위기' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -49,53 +77,81 @@
           "url": "https://v.daum.net/v/20260919233728375"
         },
         {
+          "title": "또 졌어? ‘AV전 패배’ 토트넘, EPL 개막 후 5G 무승…데 제르비 감독,“이렇게 지면 안 되는데”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20260920/134701474/1"
+        },
+        {
           "title": "'5경기 0승' 골 하나 넣는 데만 446분, 승리는 아직도 없다...토트넘, 5873억짜리 선수단으로 빌라에 2-3 패배→강등권 추락 - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/sports/2026/09/19/202609192233773266O"
-        },
-        {
-          "title": "'충격! 너무 다급해 이 선수까지 검토하다니' 개막 4경기 무득점 졸전 토트넘, 갈라타사라이 방출→'무적' FA 아르헨 국대 출신 이카르디 영입 검토中..'전력외 히샬리송 보다 잘 할까'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/09/19/GI4WMMDBGIYDOZRSMNQWCMLGMU/"
         }
       ]
     },
     {
       "id": "아스날",
-      "rank": 3,
+      "rank": 4,
       "keyword": "아스날",
       "volumeLabel": "500+",
-      "startedLabel": "8시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '\"무조건 퇴장이야\" 아스널 0-3 대참사→라이스는 상대 다리 걷어차고도 퇴장 면했다...英 \"100% 레드카드, 정말 운 좋았다\"' (스포탈코리아) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "10시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 ''이럴 수가' 디펜딩 챔피언 아스널 완전 박살났다!…맨체스터 유나이티드에 굴욕 준 브라이턴 원정에서 0-3 대패' (마이데일리) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "'이럴 수가' 디펜딩 챔피언 아스널 완전 박살났다!…맨체스터 유나이티드에 굴욕 준 브라이턴 원정에서 0-3 대패",
+          "source": "마이데일리",
+          "url": "https://www.mydaily.co.kr/page/view/2026092006434550257"
+        },
+        {
+          "title": "‘4경기 1실점→1경기 3실점’ 아스널, 브라이튼 원정서 0-3 충격패",
+          "source": "뉴스엔",
+          "url": "https://m.newsen.com/news_view.php?uid=202609200844190640"
+        },
         {
           "title": "\"무조건 퇴장이야\" 아스널 0-3 대참사→라이스는 상대 다리 걷어차고도 퇴장 면했다...英 \"100% 레드카드, 정말 운 좋았다\"",
           "source": "스포탈코리아",
           "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553554400"
+        }
+      ]
+    },
+    {
+      "id": "유주상",
+      "rank": 5,
+      "keyword": "유주상",
+      "volumeLabel": "200+",
+      "startedLabel": "6시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '천당과 지옥 오간 '코리안 슈퍼보이' 최두호, 레전드 핏불 꺾고 UFC 챔피언 꿈 이어갈까' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "천당과 지옥 오간 '코리안 슈퍼보이' 최두호, 레전드 핏불 꺾고 UFC 챔피언 꿈 이어갈까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260919194549891"
         },
         {
-          "title": "[pl.told] '125번째 생일에 제대로 사고쳤다!' 브라이튼, 1901년 특별 유니폼 입고 아스널 3-0 격파",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=98090"
+          "title": "'8년 만에 랭킹 진입 도전' 최두호, 계체 통과…내일 핏불과 대결",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/general-sport/6296049"
         },
         {
-          "title": "슈퍼컴퓨터가 잉글랜드 프리미어 리그 5라운드 결과를 예측했습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/sieu-may-tinh-du-doan-vong-5-giai-ngoai-hang-anh"
+          "title": "'도발→TKO 패' UFC 유주상 \"내 방식! 또 도발할 수 있다\" [인터뷰]",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6580598"
         }
       ]
     },
     {
       "id": "sxmb",
-      "rank": 4,
+      "rank": 6,
       "keyword": "sxmb",
       "volumeLabel": "200+",
-      "startedLabel": "11시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "startedLabel": "13시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 'Kết quả xổ số miền Bắc hôm nay ngày 19/9/2026' (An ninh Tiền tệ) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -117,170 +173,114 @@
       ]
     },
     {
-      "id": "프로야구-순위",
-      "rank": 5,
-      "keyword": "프로야구 순위",
-      "volumeLabel": "200+",
-      "startedLabel": "12시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 'KIA 초대형 트레이드 주인공, '80억 유격수' 대체자 가능할까…'희생번트 더블아웃→수어사이드 스퀴즈 대실패' 울고 싶네 [광…' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "KIA 초대형 트레이드 주인공, '80억 유격수' 대체자 가능할까…'희생번트 더블아웃→수어사이드 스퀴즈 대실패' 울고 싶네 [광주 현장]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260918120220046"
-        },
-        {
-          "title": "[스경x인터뷰] KIA 1선발의 승부욕은 오직 순위 싸움…득점지원 ‘0’에도 웃은 올러 “커피라도 좀 돌려야겠어...",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202609191002013"
-        },
-        {
-          "title": "이의리 1이닝 KKK 퍼펙트 세이브는 처음...\"만루홈런 맞은 볼 후회없다\" 했는데 김재현 라인업 빠지자 안도 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/baseball/2026/09/18/GQYDAMRZMY4DIYZVGI3DAYZXMY/"
-        }
-      ]
-    },
-    {
       "id": "최예나",
-      "rank": 6,
+      "rank": 7,
       "keyword": "최예나",
       "volumeLabel": "100+",
-      "startedLabel": "7시간 전",
+      "startedLabel": "9시간 전",
       "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '최예나, '워터밤' 전신 슈트·'청룡' 화제의 무대 비하인드 공개' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '최예나 '캐치 캐치' 처음 듣고 대박 예감…\"5초 만에 안무 만들어\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "최예나, '워터밤' 전신 슈트·'청룡' 화제의 무대 비하인드 공개",
+          "title": "최예나 '캐치 캐치' 처음 듣고 대박 예감…\"5초 만에 안무 만들어\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/20/2026092007482053792"
+        },
+        {
+          "title": "“죽은 애 사진 왜 가져왔냐고”…최예나, 4살 소아암 생사 고비 고백",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260919205749914"
+          "url": "https://v.daum.net/v/20260920083603148"
         },
         {
-          "title": "최예나 ‘워터밤’ 역대급 의상 어떻게 탄생했나 봤더니 (전참시)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260919/134701048/1"
-        },
-        {
-          "title": "최예나, ‘캐치 캐치’ 대박 예상했다 “이준 커버 보고 '곡 뺏겼다' 위기의식”(전참시)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/19/GRSWENLFGY3WINBYGFSTEOBVGI/"
+          "title": "최예나, '워터밤' 전신 슈트·'청룡' 화제의 무대 비하인드 공개",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6296244"
         }
       ]
     },
     {
       "id": "유영우",
-      "rank": 7,
+      "rank": 8,
       "keyword": "유영우",
       "volumeLabel": "100+",
-      "startedLabel": "8시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '유영우, 19만원 옷 사고 교통카드 잔액 부족…\"3만원도 못 받아\" (전참시)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "10시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '유영우, 개그맨이야? 가수야? \"스케줄 10배 이상 증가..대부분 노래 요청\" [전참시][별별TV]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "유영우, 19만원 옷 사고 교통카드 잔액 부족…\"3만원도 못 받아\" (전참시)",
+          "title": "유영우, 개그맨이야? 가수야? \"스케줄 10배 이상 증가..대부분 노래 요청\" [전참시][별별TV]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260920052636444"
+          "url": "https://v.daum.net/v/GbbsPnQ9vY"
         },
         {
-          "title": "유영우, 리센느와 무슨 사이? 세상 짠돌이가 25만원 한우 선사 ('전참시')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/19/GAYGEOJWGNRDSZJXGRSWGNZSGY/"
+          "title": "몇백 원 아끼던 유영우, 한우 51만원 ‘플렉스’…리센느 원이 보며 눈물",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260920/134701446/1"
         },
         {
-          "title": "'전참시' 유영우, 리센느 시상식 무대 보고 '울컥'…훈훈한 응원",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6295980"
+          "title": "유영우, 리센느 원이 母와 맞절한 사연 “잘 돼서 감사하다고”",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112878557"
         }
       ]
     },
     {
       "id": "재벌형사",
-      "rank": 8,
+      "rank": 9,
       "keyword": "재벌형사",
       "volumeLabel": "100+",
-      "startedLabel": "8시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 ''재벌X형사2' 살인마 유승호, 안보현에 총 겨눴다…최후의 결전' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "10시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '유승호 단죄한 안보현…'재벌X형사2' 11.8% 자체 최고 종영' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'재벌X형사2' 살인마 유승호, 안보현에 총 겨눴다…최후의 결전",
+          "title": "유승호 단죄한 안보현…'재벌X형사2' 11.8% 자체 최고 종영",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260919201251301"
+          "url": "https://v.daum.net/v/20260920085751358"
+        },
+        {
+          "title": "'재벌X형사2' 안보현X정은채, 유승호 처단→역대 시즌 최고 시청률 11.8% 해피엔딩 [종합] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/20/2026092007257241780"
         },
         {
           "title": "“시신을 보고 영감을 받은 거야” 최희진, 안보현에게 전한 유승호의 뒤틀린 유년 시절 이야기",
           "source": "programs.sbs.co.kr",
           "url": "https://programs.sbs.co.kr/drama/sd243062/clip/88571/OC481814833?div=live_end"
-        },
-        {
-          "title": "안보현X정은채, 재벌 살인마 유승호와 최후의 결전…‘재벌X형사2’ 막방",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260919/134701090/1"
         }
       ]
     },
     {
       "id": "pl",
-      "rank": 9,
+      "rank": 10,
       "keyword": "pl",
       "volumeLabel": "100+",
-      "startedLabel": "9시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'Polska może produkować TNT w Kanadzie. Rozmowy na szczeblu rządowym' (Defence24) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "11시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 'Mieli zagrać z Polakami. Bułgaria w szoku. 'Dramat i porażka' Siatkówka' (Sport.pl) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Polska może produkować TNT w Kanadzie. Rozmowy na szczeblu rządowym",
-          "source": "Defence24",
-          "url": "https://defence24.pl/przemysl/polska-moze-produkowac-tnt-w-kanadzie-rozmowy-na-szczeblu-rzadowym"
+          "title": "Mieli zagrać z Polakami. Bułgaria w szoku. 'Dramat i porażka' Siatkówka",
+          "source": "Sport.pl",
+          "url": "https://www.sport.pl/siatkowka/7,64948,33033834,mieli-zagrac-z-polakami-bulgaria-w-szoku-dramat-i-porazka.html"
         },
         {
-          "title": "Gorąco wokół kopalni \"Kłodawa\". Oświadczenie zarządu, list do załogi -",
-          "source": "Onet",
-          "url": "https://www.onet.pl/informacje/codziennypoznanpl/goraco-wokol-kopalni-klodawa-oswiadczenie-zarzadu-list-do-zalogi/69y64yj,30bc1058"
+          "title": "Pokonali Polaków, a teraz katastrofa. Blisko awantury pod siatką, hala w Sofii uciszona",
+          "source": "Interia Sport",
+          "url": "https://sport.interia.pl/siatkowka/mistrzostwa-europy-mezczyzn/news-pokonali-polakow-a-teraz-katastrofa-blisko-awantury-pod-siat,nId,23546040"
         },
         {
-          "title": "\"Sposób na zniszczenie\". Dramatyczny apel Zajączkowskiej-Hernik",
-          "source": "Do Rzeczy",
-          "url": "https://dorzeczy.pl/opinie/945034/zajaczkowska-hernik-apeluje-ratujmy-polska-kopalnie-chronmy-mieszkancow.html"
-        }
-      ]
-    },
-    {
-      "id": "이승기",
-      "rank": 10,
-      "keyword": "이승기",
-      "volumeLabel": "100+",
-      "startedLabel": "12시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'TV-라디오 화제의 순간|'너 말고 다른 연애' 서강준♥안은진, 풀세팅 ‘꾸꾸꾸’ 데이트 전말 베일 벗는다 [방송 프리뷰]' (ZUM 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "TV-라디오 화제의 순간|'너 말고 다른 연애' 서강준♥안은진, 풀세팅 ‘꾸꾸꾸’ 데이트 전말 베일 벗는다 [방송 프리뷰]",
-          "source": "ZUM 뉴스",
-          "url": "https://m.news.zum.com/photo/39547648/107845928?cm=news_photolist&r=3&thumb=1"
-        },
-        {
-          "title": "'불후' 이승기 \"싸이 히트곡 '아버지', 원래 내 노래\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/PjkoeiPKZG"
-        },
-        {
-          "title": "‘이다인♥’ 이승기, 두 아이 아빠 되더니…‘아버지’ 가사에 울컥 (불후)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260919/134700386/1"
+          "title": "Znamy rywali Polski w ćwierćfinale siatkarskich ME",
+          "source": "Newsmax Polska",
+          "url": "https://newsmaxpolska.pl/sport/aktualnosci/70970/z-kim-zagra-polska-w-cwiercfinale-jaki-wynik-niemcy-bulgaria/news"
         }
       ]
     }
