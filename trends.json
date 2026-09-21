@@ -1,34 +1,34 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-21T19:43:02.548Z",
+  "updatedAt": "2026-09-21T23:10:07.649Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "구글",
+      "id": "프로야구-순위",
       "rank": 1,
-      "keyword": "구글",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
+      "keyword": "프로야구 순위",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '퀄컴·구글 AI 동맹…제미나이 품은 PC '구글북' 전격 공개' (지디넷코리아) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Ha Hyun-seung Goes to Kiwoom as Overall No. 1 Pick in Rookie Draft' (SBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "퀄컴·구글 AI 동맹…제미나이 품은 PC '구글북' 전격 공개",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260921155254"
+          "title": "Ha Hyun-seung Goes to Kiwoom as Overall No. 1 Pick in Rookie Draft",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008764977"
         },
         {
-          "title": "[스냅드래곤서밋 2026] 퀄컴 \"구글북에 스냅드래곤X 엘리트 탑재\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/3whLcGhDh5"
+          "title": "Samsung picks best players each round, satisfied with 2027 draft - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/09/22/WU6GS4ARGBFUXHS7XZNGNKLQLQ/"
         },
         {
-          "title": "구글, AI 기반 Googlebook 노트북 사전 주문 개시",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2101412"
+          "title": "[Photo] Kim Ji-woo and Seol Jae-min, 'We are Doosan's future' - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-photo-spo/2026/09/21/KQ3YZMNNQNDA5KXFLM2SGA6J5E/"
         }
       ]
     },
@@ -37,9 +37,9 @@
       "rank": 2,
       "keyword": "발로란트 추석 이벤트",
       "volumeLabel": "2000+",
-      "startedLabel": "13시간 전",
-      "change": "up",
-      "changeLabel": "+1",
+      "startedLabel": "16시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '(9/21~10/5) 2026 발로란트 추석 맞이 이벤트 안내' (VALORANT) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -56,193 +56,182 @@
       ]
     },
     {
-      "id": "아시안게임",
+      "id": "구글",
       "rank": 3,
-      "keyword": "아시안게임",
-      "volumeLabel": "1000+",
-      "startedLabel": "10시간 전",
+      "keyword": "구글",
+      "volumeLabel": "500+",
+      "startedLabel": "7시간 전",
       "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '도쿄는 이미 물바다‥아시안게임·총리 출국까지 연기' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 '퀄컴·구글 AI 동맹…제미나이 품은 PC '구글북' 전격 공개' (지디넷코리아) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "도쿄는 이미 물바다‥아시안게임·총리 출국까지 연기",
+          "title": "퀄컴·구글 AI 동맹…제미나이 품은 PC '구글북' 전격 공개",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260921155254"
+        },
+        {
+          "title": "퀄컴 스냅드래곤 X 엘리트, '구글북' 탑재…제미나이 인텔리전스 최적화",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260921000071"
+        },
+        {
+          "title": "델, Gemini AI 탑재 XPS Googlebook 출시",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/company-news/article-93CH-2101262"
+        }
+      ]
+    },
+    {
+      "id": "아시안게임",
+      "rank": 4,
+      "keyword": "아시안게임",
+      "volumeLabel": "1000+",
+      "startedLabel": "14시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '하루 두차례 AG 기록 갈아치운 ‘피지컬 몬스터’' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "하루 두차례 AG 기록 갈아치운 ‘피지컬 몬스터’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260922/134715027/2"
+        },
+        {
+          "title": "[아시안게임] 김효열 수영 총감독 \"김영범, 허허 웃어도 물속에선 철저\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260921220709581"
+          "url": "https://v.daum.net/v/20260922070655848"
         },
         {
-          "title": "태풍 ‘두쥐안’ 일본 접근…아시안게임 영향 주나",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8668874"
-        },
-        {
-          "title": "아시안게임 야외전 날씨 촉각...추석 보름달 전망은?",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0108_202609211654507184"
+          "title": "한국에 없던 단거리 간판‥\"50m는 이미 정상급\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6853418_37012.html"
         }
       ]
     },
     {
       "id": "치지직",
-      "rank": 4,
+      "rank": 5,
       "keyword": "치지직",
       "volumeLabel": "500+",
-      "startedLabel": "10시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 ''농구 결승에 38만명 몰렸다'...한일전 응원 열기 모인 치지직, 스포츠 중계 가능성 확인' (테크M) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "13시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "삼성전자-주가",
+      "rank": 6,
+      "keyword": "삼성전자 주가",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“코스피 겨우 버텼는데 어쩌지”...삼전닉스 자사주 매입 종료 임박' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'농구 결승에 38만명 몰렸다'...한일전 응원 열기 모인 치지직, 스포츠 중계 가능성 확인",
-          "source": "테크M",
-          "url": "https://www.techm.kr/news/articleView.html?idxno=155448"
+          "title": "“코스피 겨우 버텼는데 어쩌지”...삼전닉스 자사주 매입 종료 임박",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260921150002083"
         },
         {
-          "title": "아시안게임 영상 클립, AI로 생성…‘스포터’로 생태계 확대하는 네이버 치지직",
-          "source": "www.dt.co.kr",
-          "url": "https://www.dt.co.kr/article/12085177"
+          "title": "삼전닉스 '8조' 팔아치운 외국인 몰려간 곳이…'파격 전망' [종목+]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026091837776"
+        },
+        {
+          "title": "삼성전자 개미들 9월 억지로라도 버텨라…10월 '이것' 터지면 돈벼락에 잠 못 잔다 (홍운기 유케이인베스트 대표)",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/vod/4752956"
         }
       ]
     },
     {
       "id": "윤동희",
-      "rank": 5,
+      "rank": 7,
       "keyword": "윤동희",
       "volumeLabel": "200+",
-      "startedLabel": "7시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 '롯데 2군선수 국대 승선 논란, 대타 쐐기포 폭발→솔직 심경 밝혔다 “난 대표팀에 어울리지 않는 선수인데…” [오!쎈 오카자키]…' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "11시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 ''국대' 윤동희, 태극마크 자격 증명했다…\"대표팀에 안 어울리는 성적이라 마음 무거웠어\" [AG 현장]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "'국대' 윤동희, 태극마크 자격 증명했다…\"대표팀에 안 어울리는 성적이라 마음 무거웠어\" [AG 현장]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260922072408090"
+        },
         {
           "title": "롯데 2군선수 국대 승선 논란, 대타 쐐기포 폭발→솔직 심경 밝혔다 “난 대표팀에 어울리지 않는 선수인데…” [오!쎈 오카자키] - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/sports/2026/09/22/202609220023771335O"
         },
         {
-          "title": "'대타 쐐기포' 윤동희 \"대표팀 승선 부담됐지만…한시름 놓았다\"[AG]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/5KqDkHlwXB"
-        },
-        {
-          "title": "'절치부심 특타 동기' 박준순·윤동희의 불방망이…질타에 2군행 아픔 '훨훨'",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6581673"
+          "title": "유일한 2군 선수가 홈런 때렸다… 윤동희 “홈런 기뻐, 한시름 덜었다”",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260921155002106"
         }
       ]
     },
     {
       "id": "조병현",
-      "rank": 6,
+      "rank": 8,
       "keyword": "조병현",
       "volumeLabel": "200+",
-      "startedLabel": "8시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''김도영에 4번이나 키킹?' 대만 20살에 당할 뻔…감독의 항의는 의도된 연출이었다' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'김도영에 4번이나 키킹?' 대만 20살에 당할 뻔…감독의 항의는 의도된 연출이었다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/8AGvbLx2sF"
-        },
-        {
-          "title": "왕옌청 한국전 불발…\"한화 차출 조건 영향\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20260921016600038"
-        },
-        {
-          "title": "'韓 야구, 난적 대만 완파' 5연속 金 향해 산뜻한 출발…B조 1위 사실상 확정",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6581672"
-        }
-      ]
-    },
-    {
-      "id": "김영범",
-      "rank": 7,
-      "keyword": "김영범",
-      "volumeLabel": "200+",
       "startedLabel": "11시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '20살 괴물 김영범 금메달에 어머니 눈물 “꽃게탕 먹자”' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 '‘김도영 속수무책’ 대만 실업투수, 亞쿼터로 한국행 성사? 하마터면 참사날 뻔 “포크볼 정말 좋아, 까다로웠다” [오!쎈 오카자…' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "20살 괴물 김영범 금메달에 어머니 눈물 “꽃게탕 먹자”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8668876"
-        },
-        {
-          "title": "'동메달' 지유찬의 멈추지 않는 물살…2연속 메달",
+          "title": "‘김도영 속수무책’ 대만 실업투수, 亞쿼터로 한국행 성사? 하마터면 참사날 뻔 “포크볼 정말 좋아, 까다로웠다” [오!쎈 오카자키]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/GTtnJ9UZ0n"
+          "url": "https://v.daum.net/v/20260922061207097"
         },
         {
-          "title": "50m 왕자들",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20260921_0021449747"
+          "title": "한국 야구, 곽빈 꽉찬 직구로 대만 타선 꽁꽁 묶었다!",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8669164"
+        },
+        {
+          "title": "10개 구단 팬들 다 모였다, 대~한민국 대신 울려 퍼진 '선수 응원가' [오카자키 현장] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/22/2026092117410172470"
         }
       ]
     },
     {
       "id": "dmz",
-      "rank": 8,
+      "rank": 9,
       "keyword": "dmz",
       "volumeLabel": "200+",
-      "startedLabel": "13시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '3 military officers injured in unidentified explosion during operation …' (Yonhap News Agency) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "16시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 'Yonhap News Summary' (Yonhap News Agency) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "3 military officers injured in unidentified explosion during operation at DMZ: JCS",
+          "title": "Yonhap News Summary",
           "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/AEN20260921006100315"
+          "url": "https://en.yna.co.kr/view/AEN20260921009700320"
         },
         {
-          "title": "Three Soldiers Injured in Landmine Blast; North Korean Mine Suspected",
+          "title": "Three Soldiers Injured in Landmine Explosion, North Korean Placement Suspected",
           "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008764693"
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008764894"
         },
         {
-          "title": "Rep. Yu Yong-weon Links DMZ Explosion to North Korean Minefield",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/national-en/2026/09/21/REMX5U3JYBAK7MQYPWNJS2DVTI/"
-        }
-      ]
-    },
-    {
-      "id": "양승혜",
-      "rank": 9,
-      "keyword": "양승혜",
-      "volumeLabel": "200+",
-      "startedLabel": "13시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '\"실제 인물 맞나\" 외신 극찬… 펜싱 아이돌 양승혜, 실력까지 '완벽' [아시안게임]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"실제 인물 맞나\" 외신 극찬… 펜싱 아이돌 양승혜, 실력까지 '완벽' [아시안게임]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/tb1U5waeyF"
-        },
-        {
-          "title": "“AI가 만든 줄”…태국 언론도 놀란 韓 20세 ‘펜싱 국대’",
-          "source": "주간조선",
-          "url": ""
-        },
-        {
-          "title": "“AI가 만든 이미지인줄” 외신도 감탄한 韓펜싱 국대",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20260921/134713093/1"
+          "title": "President Lee: \"Government Will Fully Support Treatment and Recovery of DMZ Landmine Explosion Victims\"",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/en/article/2026092117422849174"
         }
       ]
     },
@@ -251,26 +240,26 @@
       "rank": 10,
       "keyword": "업비트",
       "volumeLabel": "100+",
-      "startedLabel": "7시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '스마트폰으로 배우는 금융지식…업비트·서울시 '금융골든벨' 개최' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "10시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '한국 상장하며 몸집 불린 엔화 코인…일평균 거래 2억→450억원' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "스마트폰으로 배우는 금융지식…업비트·서울시 '금융골든벨' 개최",
+          "title": "한국 상장하며 몸집 불린 엔화 코인…일평균 거래 2억→450억원",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260921101149542"
+          "url": "https://v.daum.net/v/G6J30qFYtp"
         },
         {
-          "title": "[게시판] 업비트·서울시, 청년의 날 맞아 '금융골든벨'",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1162643"
+          "title": "널뛰기 반복하는 스테이블코인… 스테이블 맞나?",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170572"
         },
         {
-          "title": "두나무, 서울시와 '금융골든벨' 개최…비트코인부터 RWA까지",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260921000031"
+          "title": "[단독]2% 이자 받고 병원선 15% 할인…국내 이용 늘어 자금세탁 우려도",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20093576"
         }
       ]
     }
