@@ -1,73 +1,45 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-21T14:29:10.105Z",
+  "updatedAt": "2026-09-21T19:43:02.548Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "드래프트",
+      "id": "구글",
       "rank": 1,
-      "keyword": "드래프트",
-      "volumeLabel": "2000+",
-      "startedLabel": "9시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '‘고교야구 최대어’ 하현승, 전체 1순위로 키움행' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘고교야구 최대어’ 하현승, 전체 1순위로 키움행",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609212020015"
-        },
-        {
-          "title": "'완승 투수' 하현승, 예상대로 전체 1순위 키움행",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008764518&plink=PLAY&cooper=RSS&autoplay=Y"
-        },
-        {
-          "title": "전체 1순위 하현승부터 ‘라밤바’까지…드래프트 명장면 [현장영상]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8668728"
-        }
-      ]
-    },
-    {
-      "id": "아시안게임",
-      "rank": 2,
-      "keyword": "아시안게임",
-      "volumeLabel": "1000+",
-      "startedLabel": "5시간 전",
+      "keyword": "구글",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘10K 노히트 철벽투’ 곽빈, 대만 묶고 5연패 첫발' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '퀄컴·구글 AI 동맹…제미나이 품은 PC '구글북' 전격 공개' (지디넷코리아) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘10K 노히트 철벽투’ 곽빈, 대만 묶고 5연패 첫발",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609212217005"
+          "title": "퀄컴·구글 AI 동맹…제미나이 품은 PC '구글북' 전격 공개",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260921155254"
         },
         {
-          "title": "'3안타 펄펄' 한국 타선 물꼬 튼 김주원 \"상대 투수에 말려들지 않으려 노력\"[나고야AG]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260921_0003799226"
+          "title": "[스냅드래곤서밋 2026] 퀄컴 \"구글북에 스냅드래곤X 엘리트 탑재\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/3whLcGhDh5"
         },
         {
-          "title": "[아시안게임] 곽빈 1OK 무피안타 6이닝 무실점‥야구대표팀, 대만 완파",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6853374_36946.html"
+          "title": "구글, AI 기반 Googlebook 노트북 사전 주문 개시",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2101412"
         }
       ]
     },
     {
       "id": "발로란트-추석-이벤트",
-      "rank": 3,
+      "rank": 2,
       "keyword": "발로란트 추석 이벤트",
-      "volumeLabel": "1000+",
-      "startedLabel": "8시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "2000+",
+      "startedLabel": "13시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '(9/21~10/5) 2026 발로란트 추석 맞이 이벤트 안내' (VALORANT) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -84,41 +56,41 @@
       ]
     },
     {
-      "id": "최지만",
-      "rank": 4,
-      "keyword": "최지만",
+      "id": "아시안게임",
+      "rank": 3,
+      "keyword": "아시안게임",
       "volumeLabel": "1000+",
-      "startedLabel": "9시간 전",
+      "startedLabel": "10시간 전",
       "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 '최지만 2R까지 밀렸다! KT 전격 지명 완료!…ML 67홈런+35세 베테랑 최지만 어떤 모습일까' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '도쿄는 이미 물바다‥아시안게임·총리 출국까지 연기' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "최지만 2R까지 밀렸다! KT 전격 지명 완료!…ML 67홈런+35세 베테랑 최지만 어떤 모습일까",
+          "title": "도쿄는 이미 물바다‥아시안게임·총리 출국까지 연기",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260921152927998"
+          "url": "https://v.daum.net/v/20260921220709581"
         },
         {
-          "title": "[속보] ‘2027 KBO 신인드래프트’ 전 메이저리거 최지만, 2라운드 kt 지명",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2627885"
+          "title": "태풍 ‘두쥐안’ 일본 접근…아시안게임 영향 주나",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8668874"
         },
         {
-          "title": "'이게 웬 횡재냐' KT 초대박! 최지만까지 김현수·힐리어드·안현민·최원준 있는데→숨 쉴 틈 없는 타선 완성 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/21/2026092118372797100"
+          "title": "아시안게임 야외전 날씨 촉각...추석 보름달 전망은?",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0108_202609211654507184"
         }
       ]
     },
     {
       "id": "치지직",
-      "rank": 5,
+      "rank": 4,
       "keyword": "치지직",
       "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "10시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 ''농구 결승에 38만명 몰렸다'...한일전 응원 열기 모인 치지직, 스포츠 중계 가능성 확인' (테크M) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -135,109 +107,109 @@
       ]
     },
     {
-      "id": "김다현",
-      "rank": 6,
-      "keyword": "김다현",
-      "volumeLabel": "1000+",
-      "startedLabel": "10시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '심수봉, 후배 가수에 \"노래 모르는 아가씨\" 직격…논란일자 사과' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "심수봉, 후배 가수에 \"노래 모르는 아가씨\" 직격…논란일자 사과",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260921140200005"
-        },
-        {
-          "title": "심수봉, 54세 연하 후배 김다현 공개 비판 논란…하루 만에 “실언했다” 사과",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0117_202609211705337955"
-        },
-        {
-          "title": "심수봉, ‘17세 후배 저격 논란’ 하루만에 사과···“실언을 했다”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609211628001"
-        }
-      ]
-    },
-    {
       "id": "윤동희",
-      "rank": 7,
+      "rank": 5,
       "keyword": "윤동희",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''대타 쐐기포' 윤동희 \"대표팀 승선 부담됐지만…한시름 놓았다\"[AG]' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "7시간 전",
+      "change": "up",
+      "changeLabel": "+2",
+      "summary": "급상승 시점에 '롯데 2군선수 국대 승선 논란, 대타 쐐기포 폭발→솔직 심경 밝혔다 “난 대표팀에 어울리지 않는 선수인데…” [오!쎈 오카자키]…' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
+          "title": "롯데 2군선수 국대 승선 논란, 대타 쐐기포 폭발→솔직 심경 밝혔다 “난 대표팀에 어울리지 않는 선수인데…” [오!쎈 오카자키] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/22/202609220023771335O"
+        },
+        {
           "title": "'대타 쐐기포' 윤동희 \"대표팀 승선 부담됐지만…한시름 놓았다\"[AG]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/baseball/6298098"
+          "source": "Daum",
+          "url": "https://v.daum.net/v/5KqDkHlwXB"
         },
         {
           "title": "'절치부심 특타 동기' 박준순·윤동희의 불방망이…질타에 2군행 아픔 '훨훨'",
           "source": "노컷뉴스",
           "url": "https://www.nocutnews.co.kr/news/6581673"
+        }
+      ]
+    },
+    {
+      "id": "조병현",
+      "rank": 6,
+      "keyword": "조병현",
+      "volumeLabel": "200+",
+      "startedLabel": "8시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''김도영에 4번이나 키킹?' 대만 20살에 당할 뻔…감독의 항의는 의도된 연출이었다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'김도영에 4번이나 키킹?' 대만 20살에 당할 뻔…감독의 항의는 의도된 연출이었다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/8AGvbLx2sF"
         },
         {
-          "title": "[사진]대타 솔로포 윤동희, 대만전 승리가 보인다",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112879655"
+          "title": "왕옌청 한국전 불발…\"한화 차출 조건 영향\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260921016600038"
+        },
+        {
+          "title": "'韓 야구, 난적 대만 완파' 5연속 金 향해 산뜻한 출발…B조 1위 사실상 확정",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6581672"
         }
       ]
     },
     {
       "id": "김영범",
-      "rank": 8,
+      "rank": 7,
       "keyword": "김영범",
       "volumeLabel": "200+",
-      "startedLabel": "6시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''동메달' 지유찬의 멈추지 않는 물살…2연속 메달' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "11시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '20살 괴물 김영범 금메달에 어머니 눈물 “꽃게탕 먹자”' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "20살 괴물 김영범 금메달에 어머니 눈물 “꽃게탕 먹자”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8668876"
+        },
         {
           "title": "'동메달' 지유찬의 멈추지 않는 물살…2연속 메달",
           "source": "Daum",
           "url": "https://v.daum.net/v/GTtnJ9UZ0n"
         },
         {
-          "title": "김영범, 남자 자유형 50m '금빛 역영'…한국 야구, '숙적' 대만에 완승[나고야AG]",
+          "title": "50m 왕자들",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260921_0003799253"
-        },
-        {
-          "title": "20살 괴물 김영범 금메달에 어머니 눈물 “꽃게탕 먹자”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8668876"
+          "url": "https://mobile.newsis.com/photo/NISI20260921_0021449747"
         }
       ]
     },
     {
       "id": "dmz",
-      "rank": 9,
+      "rank": 8,
       "keyword": "dmz",
       "volumeLabel": "200+",
-      "startedLabel": "7시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Yonhap News Summary' (Yonhap News Agency) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "13시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '3 military officers injured in unidentified explosion during operation …' (Yonhap News Agency) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Yonhap News Summary",
+          "title": "3 military officers injured in unidentified explosion during operation at DMZ: JCS",
           "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/AEN20260921009700320"
+          "url": "https://en.yna.co.kr/view/AEN20260921006100315"
         },
         {
-          "title": "Landmine on Western Front Injures 3 Soldiers: North Korean Mine Suspected?",
+          "title": "Three Soldiers Injured in Landmine Blast; North Korean Mine Suspected",
           "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008764603"
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008764693"
         },
         {
           "title": "Rep. Yu Yong-weon Links DMZ Explosion to North Korean Minefield",
@@ -248,12 +220,12 @@
     },
     {
       "id": "양승혜",
-      "rank": 10,
+      "rank": 9,
       "keyword": "양승혜",
       "volumeLabel": "200+",
-      "startedLabel": "8시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "13시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '\"실제 인물 맞나\" 외신 극찬… 펜싱 아이돌 양승혜, 실력까지 '완벽' [아시안게임]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -263,14 +235,42 @@
           "url": "https://v.daum.net/v/tb1U5waeyF"
         },
         {
-          "title": "\"AI 미녀야?\"…韓 펜싱 국대 양승혜, 해외 언론도 주목[AG]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/general-sport/6297240"
-        },
-        {
           "title": "“AI가 만든 줄”…태국 언론도 놀란 韓 20세 ‘펜싱 국대’",
           "source": "주간조선",
           "url": ""
+        },
+        {
+          "title": "“AI가 만든 이미지인줄” 외신도 감탄한 韓펜싱 국대",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260921/134713093/1"
+        }
+      ]
+    },
+    {
+      "id": "업비트",
+      "rank": 10,
+      "keyword": "업비트",
+      "volumeLabel": "100+",
+      "startedLabel": "7시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '스마트폰으로 배우는 금융지식…업비트·서울시 '금융골든벨' 개최' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "스마트폰으로 배우는 금융지식…업비트·서울시 '금융골든벨' 개최",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260921101149542"
+        },
+        {
+          "title": "[게시판] 업비트·서울시, 청년의 날 맞아 '금융골든벨'",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1162643"
+        },
+        {
+          "title": "두나무, 서울시와 '금융골든벨' 개최…비트코인부터 RWA까지",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260921000031"
         }
       ]
     }
