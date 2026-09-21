@@ -1,272 +1,278 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-21T07:04:19.036Z",
+  "updatedAt": "2026-09-21T14:29:10.105Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "최지만",
-      "rank": 1,
-      "keyword": "최지만",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''롯지만', '엔지만'도 아니었다…10구단 모두 최지만 1라운드 패싱, 언제 이름 불릴까 [2027 신인드래프트]' (OSEN) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'롯지만', '엔지만'도 아니었다…10구단 모두 최지만 1라운드 패싱, 언제 이름 불릴까 [2027 신인드래프트]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112879398"
-        },
-        {
-          "title": "‘1·2순위 이후 예측불허’ 2027 KBO 신인드래프트, 최대 변수 ‘빅리거’ 최지만",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20260920/134703102/1"
-        },
-        {
-          "title": "KT 파격 선택! 'ML 67홈런' 35세 빅리거, 마법사 군단 합류한다…2라운드 전체 15순위 지명 [2027 신인드래프트]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/09/21/GMYTIYJUMNSTMMDDMFTGMZRRGI/"
-        }
-      ]
-    },
-    {
       "id": "드래프트",
-      "rank": 2,
+      "rank": 1,
       "keyword": "드래프트",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''2027 KBO 신인 드래프트' 1·2·3라운드 지명순위별 명단 공개' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "volumeLabel": "2000+",
+      "startedLabel": "9시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '‘고교야구 최대어’ 하현승, 전체 1순위로 키움행' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'2027 KBO 신인 드래프트' 1·2·3라운드 지명순위별 명단 공개",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3702298"
+          "title": "‘고교야구 최대어’ 하현승, 전체 1순위로 키움행",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609212020015"
         },
         {
-          "title": "투타 겸업 하현승, KBO 드래프트 전체 1순위로 키움에 지명",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11618647"
+          "title": "'완승 투수' 하현승, 예상대로 전체 1순위 키움행",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008764518&plink=PLAY&cooper=RSS&autoplay=Y"
         },
         {
-          "title": "‘2026시즌 최고 라이징 스타’ 인창고 투수 윤예성 인터뷰",
-          "source": "m.mksports.co.kr",
-          "url": "https://www.mksports.co.kr/news/sports/12157627"
+          "title": "전체 1순위 하현승부터 ‘라밤바’까지…드래프트 명장면 [현장영상]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8668728"
         }
       ]
     },
     {
-      "id": "25사단",
-      "rank": 3,
-      "keyword": "25사단",
+      "id": "아시안게임",
+      "rank": 2,
+      "keyword": "아시안게임",
       "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "5시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '합참 “비무장지대에서 군인 3명 폭발로 부상”…지뢰 폭발 추정' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘10K 노히트 철벽투’ 곽빈, 대만 묶고 5연패 첫발' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "합참 “비무장지대에서 군인 3명 폭발로 부상”…지뢰 폭발 추정",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8668647"
+          "title": "‘10K 노히트 철벽투’ 곽빈, 대만 묶고 5연패 첫발",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609212217005"
         },
         {
-          "title": "서부전선 DMZ서 지뢰 추정 폭발…군 간부 3명 부상, 2명 중상",
-          "source": "주간조선",
-          "url": "https://weekly.chosun.com/news/articleView.html?idxno=55496"
+          "title": "'3안타 펄펄' 한국 타선 물꼬 튼 김주원 \"상대 투수에 말려들지 않으려 노력\"[나고야AG]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260921_0003799226"
         },
         {
-          "title": "서부전선 비무장지대서 작전 중 지뢰폭발 추정 사고‥3명 부상",
+          "title": "[아시안게임] 곽빈 1OK 무피안타 6이닝 무실점‥야구대표팀, 대만 완파",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6853260_36911.html"
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6853374_36946.html"
+        }
+      ]
+    },
+    {
+      "id": "발로란트-추석-이벤트",
+      "rank": 3,
+      "keyword": "발로란트 추석 이벤트",
+      "volumeLabel": "1000+",
+      "startedLabel": "8시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '(9/21~10/5) 2026 발로란트 추석 맞이 이벤트 안내' (VALORANT) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "(9/21~10/5) 2026 발로란트 추석 맞이 이벤트 안내",
+          "source": "VALORANT",
+          "url": "https://playvalorant.com/ko-kr/news/announcements/2026-chuseok-event/"
+        },
+        {
+          "title": "(9/21 ~ 소진 시까지) 카카오페이 VP 충전 10% 할인 이벤트",
+          "source": "VALORANT",
+          "url": "https://playvalorant.com/ko-kr/news/announcements/kakaopay-vp-discount-event-0921/"
+        }
+      ]
+    },
+    {
+      "id": "최지만",
+      "rank": 4,
+      "keyword": "최지만",
+      "volumeLabel": "1000+",
+      "startedLabel": "9시간 전",
+      "change": "down",
+      "changeLabel": "-3",
+      "summary": "급상승 시점에 '최지만 2R까지 밀렸다! KT 전격 지명 완료!…ML 67홈런+35세 베테랑 최지만 어떤 모습일까' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "최지만 2R까지 밀렸다! KT 전격 지명 완료!…ML 67홈런+35세 베테랑 최지만 어떤 모습일까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260921152927998"
+        },
+        {
+          "title": "[속보] ‘2027 KBO 신인드래프트’ 전 메이저리거 최지만, 2라운드 kt 지명",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2627885"
+        },
+        {
+          "title": "'이게 웬 횡재냐' KT 초대박! 최지만까지 김현수·힐리어드·안현민·최원준 있는데→숨 쉴 틈 없는 타선 완성 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/21/2026092118372797100"
+        }
+      ]
+    },
+    {
+      "id": "치지직",
+      "rank": 5,
+      "keyword": "치지직",
+      "volumeLabel": "500+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''농구 결승에 38만명 몰렸다'...한일전 응원 열기 모인 치지직, 스포츠 중계 가능성 확인' (테크M) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'농구 결승에 38만명 몰렸다'...한일전 응원 열기 모인 치지직, 스포츠 중계 가능성 확인",
+          "source": "테크M",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=155448"
+        },
+        {
+          "title": "아시안게임 영상 클립, AI로 생성…‘스포터’로 생태계 확대하는 네이버 치지직",
+          "source": "www.dt.co.kr",
+          "url": "https://www.dt.co.kr/article/12085177"
         }
       ]
     },
     {
       "id": "김다현",
-      "rank": 4,
+      "rank": 6,
       "keyword": "김다현",
-      "volumeLabel": "500+",
+      "volumeLabel": "1000+",
+      "startedLabel": "10시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 '심수봉, 후배 가수에 \"노래 모르는 아가씨\" 직격…논란일자 사과' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "심수봉, 후배 가수에 \"노래 모르는 아가씨\" 직격…논란일자 사과",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260921140200005"
+        },
+        {
+          "title": "심수봉, 54세 연하 후배 김다현 공개 비판 논란…하루 만에 “실언했다” 사과",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202609211705337955"
+        },
+        {
+          "title": "심수봉, ‘17세 후배 저격 논란’ 하루만에 사과···“실언을 했다”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609211628001"
+        }
+      ]
+    },
+    {
+      "id": "윤동희",
+      "rank": 7,
+      "keyword": "윤동희",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"제 앞에 노래한 여자, 머리 어지럽다\"…심수봉, 17세 김다현에 막말' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''대타 쐐기포' 윤동희 \"대표팀 승선 부담됐지만…한시름 놓았다\"[AG]' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"제 앞에 노래한 여자, 머리 어지럽다\"…심수봉, 17세 김다현에 막말",
+          "title": "'대타 쐐기포' 윤동희 \"대표팀 승선 부담됐지만…한시름 놓았다\"[AG]",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6297617"
+          "url": "https://www.news1.kr/sports/baseball/6298098"
         },
         {
-          "title": "‘김다현 저격 논란’ 심수봉…“김다현 父에 전화 사과, 100% 잘못”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20260921/134710694/1"
+          "title": "'절치부심 특타 동기' 박준순·윤동희의 불방망이…질타에 2군행 아픔 '훨훨'",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6581673"
         },
         {
-          "title": "[속보] 심수봉, 17살 김다현 공개저격 사과 \"실언했다…망신주려 한 거 아냐\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/21/MY2TINLGMY4WMYZWME4DAMZUG4/"
+          "title": "[사진]대타 솔로포 윤동희, 대만전 승리가 보인다",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112879655"
         }
       ]
     },
     {
-      "id": "강훈식",
-      "rank": 5,
-      "keyword": "강훈식",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[속보]이 대통령, 강훈식 사의 표명에 “아직 어떻게 할지 결정 못해”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[속보]이 대통령, 강훈식 사의 표명에 “아직 어떻게 할지 결정 못해”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609211425001"
-        },
-        {
-          "title": "국힘, 강훈식 사의표명에 ‘꼬리자르기’ 김현지 정조준…장외 집회로 대여 공세 강화",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3035459"
-        },
-        {
-          "title": "총대 멘 강훈식 비서실장, 李대통령에게 사의 표명",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/politics_general/2026/09/21/RKXZD7XNZVHV3BMGYLFUB6YIKQ/"
-        }
-      ]
-    },
-    {
-      "id": "인스타그램",
-      "rank": 6,
-      "keyword": "인스타그램",
-      "volumeLabel": "1000+",
+      "id": "김영범",
+      "rank": 8,
+      "keyword": "김영범",
+      "volumeLabel": "200+",
       "startedLabel": "6시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Brief Facebook outage impacted users across world, reports say' (9News) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''동메달' 지유찬의 멈추지 않는 물살…2연속 메달' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Brief Facebook outage impacted users across world, reports say",
-          "source": "9News",
-          "url": "https://www.9news.com/article/news/nation-world/is-facebook-down/507-caecdf85-bd54-48ac-b0ee-01264b797f8e"
-        },
-        {
-          "title": "Meta's Facebook, Instagram recover after brief outage in US",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/metas-social-networks-down-thousands-users-us-downdetector-says-2026-09-21/"
-        },
-        {
-          "title": "Is Facebook down? Users have problem with Facebook",
-          "source": "Asbury Park Press",
-          "url": "https://www.app.com/story/news/2026/09/20/is-facebook-down-facebook-down-sunday/91867575007/"
-        }
-      ]
-    },
-    {
-      "id": "부산국제영화제",
-      "rank": 7,
-      "keyword": "부산국제영화제",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '유럽 여성·젠더퀴어 영화의 시선, 올해 BIFF 물들인다' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "유럽 여성·젠더퀴어 영화의 시선, 올해 BIFF 물들인다",
+          "title": "'동메달' 지유찬의 멈추지 않는 물살…2연속 메달",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260921135821410"
+          "url": "https://v.daum.net/v/GTtnJ9UZ0n"
         },
         {
-          "title": "오늘 오후 2시 '부국제' 예매 시작…상영 코드 사전 준비 및 유의사항",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1160959"
+          "title": "김영범, 남자 자유형 50m '금빛 역영'…한국 야구, '숙적' 대만에 완승[나고야AG]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260921_0003799253"
         },
         {
-          "title": "부국제 심사위원 확정…장이모우 감독 필두로 정주리·최희서 등 합류",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0117_202609171035505762"
+          "title": "20살 괴물 김영범 금메달에 어머니 눈물 “꽃게탕 먹자”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8668876"
         }
       ]
     },
     {
-      "id": "부국제",
-      "rank": 8,
-      "keyword": "부국제",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘그대, 별처럼’ 부국제 전석 매진...후지이 미치히토·요코하마 류세이 내한' (싱글리스트) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘그대, 별처럼’ 부국제 전석 매진...후지이 미치히토·요코하마 류세이 내한",
-          "source": "싱글리스트",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=767832"
-        },
-        {
-          "title": "요코하마 류세이·히로세 스즈가 그린 15년의 사랑…‘그대, 별처럼’, 10월 개봉",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1691302/%EC%9A%94%EC%BD%94%ED%95%98%EB%A7%88-%EB%A5%98%EC%84%B8%EC%9D%B4%ED%9E%88%EB%A1%9C%EC%84%B8-%EC%8A%A4%EC%A6%88-%EA%B7%B8%EB%A6%B0-15-2026"
-        },
-        {
-          "title": "‘그대, 별처럼’, 가을 극장가 감성으로 물들인다",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1635688"
-        }
-      ]
-    },
-    {
-      "id": "ai",
+      "id": "dmz",
       "rank": 9,
-      "keyword": "ai",
+      "keyword": "dmz",
       "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
+      "startedLabel": "7시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Bessent calls meeting with China Vice Premier He Lifeng 'successful' ah…' (CNBC) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Yonhap News Summary' (Yonhap News Agency) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Bessent calls meeting with China Vice Premier He Lifeng 'successful' ahead of Trump-Xi summit",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html"
+          "title": "Yonhap News Summary",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/AEN20260921009700320"
         },
         {
-          "title": "Xi and Trump will meet this week. Here’s the exclusive info you need to know",
-          "source": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/article/3368194/xi-and-trump-will-meet-week-heres-exclusive-info-you-need-know"
+          "title": "Landmine on Western Front Injures 3 Soldiers: North Korean Mine Suspected?",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008764603"
         },
         {
-          "title": "US and China Hail Constructive Talks on AI, Trade Before Summit",
-          "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-21/bessent-hails-very-successful-china-talks-on-ai-threats-trade"
+          "title": "Rep. Yu Yong-weon Links DMZ Explosion to North Korean Minefield",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/national-en/2026/09/21/REMX5U3JYBAK7MQYPWNJS2DVTI/"
         }
       ]
     },
     {
-      "id": "기상청-날씨누리",
+      "id": "양승혜",
       "rank": 10,
-      "keyword": "기상청 날씨누리",
+      "keyword": "양승혜",
       "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
+      "startedLabel": "8시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "summary": "급상승 시점에 '\"실제 인물 맞나\" 외신 극찬… 펜싱 아이돌 양승혜, 실력까지 '완벽' [아시안게임]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": []
+      "newsSignals": [
+        {
+          "title": "\"실제 인물 맞나\" 외신 극찬… 펜싱 아이돌 양승혜, 실력까지 '완벽' [아시안게임]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/tb1U5waeyF"
+        },
+        {
+          "title": "\"AI 미녀야?\"…韓 펜싱 국대 양승혜, 해외 언론도 주목[AG]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/general-sport/6297240"
+        },
+        {
+          "title": "“AI가 만든 줄”…태국 언론도 놀란 韓 20세 ‘펜싱 국대’",
+          "source": "주간조선",
+          "url": ""
+        }
+      ]
     }
   ]
 }
