@@ -1,34 +1,34 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-20T23:08:41.964Z",
+  "updatedAt": "2026-09-21T01:30:04.137Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "이현중",
+      "id": "크래프톤-주가",
       "rank": 1,
-      "keyword": "이현중",
-      "volumeLabel": "5000+",
-      "startedLabel": "12시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '“일본이 언제부터 다국적 국가였나” 농구 결승에 귀화 선수까지 총출동…'외국계 부모 4명+귀화 1명'에도 한국 못 넘었다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "크래프톤 주가",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '베트남 선수 '방플' 논란에 PUBG 대회 취소…\"재발 방지책 마련\"(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“일본이 언제부터 다국적 국가였나” 농구 결승에 귀화 선수까지 총출동…'외국계 부모 4명+귀화 1명'에도 한국 못 넘었다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260920235251378?x_trkm=t"
-        },
-        {
-          "title": "'이강인 89분' 아틀레티코. 1명 퇴장 레알 마드리드에 2-1 승리",
+          "title": "베트남 선수 '방플' 논란에 PUBG 대회 취소…\"재발 방지책 마련\"(종합)",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/IPT20260921000003365?section=gallery/index"
+          "url": "https://www.yna.co.kr/view/AKR20260920046351017"
         },
         {
-          "title": "[속보]‘버스 노쇼’도 안 통했다…韓, 개최국 日 꺾고 농구 금메달",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11618388"
+          "title": "'방플' 논란에 스폰서도 떠났다…크래프톤 비난 폭주한 사연",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202609216931i"
+        },
+        {
+          "title": "PUBG 아시아 스타즈 2026 - 이벤트 - PUBG: 배틀그라운드",
+          "source": "www.pubg.com",
+          "url": "https://www.pubg.com/ko/events/notice/10926"
         }
       ]
     },
@@ -37,55 +37,105 @@
       "rank": 2,
       "keyword": "레알마드리드",
       "volumeLabel": "2000+",
-      "startedLabel": "9시간 전",
+      "startedLabel": "11시간 전",
       "change": "steady",
       "changeLabel": "유지",
-      "summary": "급상승 시점에 '‘쐐기골 기점’ 이강인, 첫 마드리드 더비서 기립박수 받았다' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“이건 명백한 퇴장”… 이강인 태클 장면 프린트 들고온 모리뉴' (국민일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘쐐기골 기점’ 이강인, 첫 마드리드 더비서 기립박수 받았다",
+          "title": "“이건 명백한 퇴장”… 이강인 태클 장면 프린트 들고온 모리뉴",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000013941"
+        },
+        {
+          "title": "韓 축구 에이스 충격 위기! 이강인 거친 태클 논란, 스페인 심판 기술위원회 'LEE 퇴장당했어야 했다→경기 중 가장 큰 실수' 판단",
           "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/09/21/DCYXYV5Z4ZC6NIF6QXO6ZYREEM/"
+          "url": "https://www.chosun.com/sports/world-football/2026/09/21/HBRWCZRSMVRWEMJRHFSTOZRUMI/"
         },
         {
-          "title": "이강인 발끝에서 시작된 결승골…AT 마드리드, ‘마드리드 더비’서 레알 격파",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20093212"
+          "title": "이강인, 음바페와 적으로 재회…첫 마드리드 더비서 승리",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260921020051411"
+        }
+      ]
+    },
+    {
+      "id": "기상청",
+      "rank": 3,
+      "keyword": "기상청",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[날씨] 한낮, 늦더위 기승…남부 자외선 주의' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[날씨] 한낮, 늦더위 기승…남부 자외선 주의",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260921063303347"
         },
         {
-          "title": "'이강인 결승골 기점' 아틀레티코, 레알 2-1로 꺾고 마드리드 더비 승리",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260921_0003797404"
+          "title": "전국 맑고 내륙 일부는 일교차 15도 이상…낮 최고 24∼30도",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260921023500530"
+        },
+        {
+          "title": "동해안만 선선, 나머지 전국 30도 근접 늦더위",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8668336"
         }
       ]
     },
     {
       "id": "축구중계",
-      "rank": 3,
+      "rank": 4,
       "keyword": "축구중계",
       "volumeLabel": "500+",
-      "startedLabel": "9시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 ''놀뭐', AG 중계로 3주 결방…유재석 \"4년 땀 흘린 선수들 멋진 경기 펼치길\"' (파이낸셜뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "12시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "달력",
+      "rank": 5,
+      "keyword": "달력",
+      "volumeLabel": "200+",
+      "startedLabel": "10시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '달력은 똑같이 빨간데…작은 회사 다니면 ‘유급휴일’도 남 얘기' (이데일리) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'놀뭐', AG 중계로 3주 결방…유재석 \"4년 땀 흘린 선수들 멋진 경기 펼치길\"",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202609130848482921"
+          "title": "달력은 똑같이 빨간데…작은 회사 다니면 ‘유급휴일’도 남 얘기",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02791286645582088&mediaCodeNo=257"
+        },
+        {
+          "title": "'5인 미만 사업장' 직장인 절반 이상, \"추석에도 유급으로 못 쉰다\"",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260920580381"
+        },
+        {
+          "title": "최저임금 위반 신고 10건 중 9건 ‘50인 미만’…5인 미만만 68%",
+          "source": "헤럴드경제",
+          "url": "https://mbiz.heraldcorp.com/article/10880219"
         }
       ]
     },
     {
       "id": "조선일보",
-      "rank": 4,
+      "rank": 6,
       "keyword": "조선일보",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '[에너지 오디세이]⑤대왕고래는 죄가 없다…정권 5년보다 긴 자원개발의 시간' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -95,25 +145,25 @@
           "url": "https://v.daum.net/v/qMo4wIkLju"
         },
         {
+          "title": "[와이라노] 尹 대왕고래 ‘140억 배럴’ 확률 0.0002%",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/contents/newsbody.asp?code=0200&key=20260921.99099006805"
+        },
+        {
           "title": "윤석열의 ‘대왕고래 쇼’…감사원 “140억 배럴 탐사 확률 0.000218%”",
           "source": "한겨레",
           "url": "https://www.hani.co.kr/arti/politics/politics_general/1278164.html"
-        },
-        {
-          "title": "윤석열 정부 대왕고래 감사 결과에 조선일보와 동아일보 엇갈렸다",
-          "source": "미디어오늘",
-          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=337157"
         }
       ]
     },
     {
       "id": "리버풀",
-      "rank": 5,
+      "rank": 7,
       "keyword": "리버풀",
       "volumeLabel": "200+",
-      "startedLabel": "9시간 전",
+      "startedLabel": "12시간 전",
       "change": "down",
-      "changeLabel": "-1",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '맨체스터 유나이티드 결단! '넌 어디에도 못 간다'…15세 초신성 퇴단 요청 거절하다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -136,12 +186,12 @@
     },
     {
       "id": "맨시티",
-      "rank": 6,
+      "rank": 8,
       "keyword": "맨시티",
       "volumeLabel": "200+",
-      "startedLabel": "10시간 전",
+      "startedLabel": "12시간 전",
       "change": "down",
-      "changeLabel": "-1",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 'BRITAIN SOCCER' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -151,25 +201,25 @@
           "url": "https://v.daum.net/v/20260921051158146"
         },
         {
-          "title": "승리에 기뻐한 마레스카 감독 - 하지만 무실점 경기 역시 원했다!",
-          "source": "Manchester City FC",
-          "url": "https://kr.mancity.com/news/mens/man-city-5-3-sunderland-enzo-maresca-reaction-63925531"
+          "title": "맨시티 홀란의 독특한 득점 기록…EPL 25개 구단 상대 득점포",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260921050000007"
         },
         {
-          "title": "해트트릭 하고도 졌다…브로비 혼자 3골, 맨시티 화력엔 못 당했다",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202609210741003"
+          "title": "선덜랜드 상대 슛 시도하는 홀란",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260921_0002244652"
         }
       ]
     },
     {
       "id": "instagram",
-      "rank": 7,
+      "rank": 9,
       "keyword": "instagram",
       "volumeLabel": "100+",
-      "startedLabel": "8시간 전",
+      "startedLabel": "10시간 전",
       "change": "down",
-      "changeLabel": "-1",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 'Kate Beckinsale Shares Bleak Messages on Instagram' (People.com) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -189,74 +239,6 @@
           "url": "https://pagesix.com/2026/09/20/celebrity-news/kate-beckinsale-posts-alarming-messages-on-social-media-weeks-after-sharing-ptsd-struggles/"
         }
       ]
-    },
-    {
-      "id": "google",
-      "rank": 8,
-      "keyword": "google",
-      "volumeLabel": "100+",
-      "startedLabel": "11시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'Exclusive | Gemini Hacked Three Companies in First Known Breakout by Go…' (WSJ) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-          "source": "WSJ",
-          "url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2"
-        },
-        {
-          "title": "Google says its AI model gained unauthorized access to three outside systems",
-          "source": "NBC News",
-          "url": "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651"
-        },
-        {
-          "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html"
-        }
-      ]
-    },
-    {
-      "id": "sxmb",
-      "rank": 9,
-      "keyword": "sxmb",
-      "volumeLabel": "100+",
-      "startedLabel": "12시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'XSMT 20/9 - Kết quả xổ số miền Trung hôm nay 20/9/2026 - XSMT ngày 20 t…' (Giáo dục Thủ đô) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "XSMT 20/9 - Kết quả xổ số miền Trung hôm nay 20/9/2026 - XSMT ngày 20 tháng 9",
-          "source": "Giáo dục Thủ đô",
-          "url": "https://giaoducthudo.giaoducthoidai.vn/xsmt-20-9-ket-qua-xo-so-mien-trung-hom-nay-20-9-2026-xsmt-ngay-20-thang-9-222501.html"
-        },
-        {
-          "title": "Kết quả xổ số hôm nay ngày 20.9: Tiền Giang, Kiên Giang, Đà Lạt",
-          "source": "Laodong.vn",
-          "url": "https://laodong.vn/ban-doc/ket-qua-xo-so-hom-nay-ngay-209-tien-giang-kien-giang-da-lat-1769805.ldo"
-        },
-        {
-          "title": "Xổ số miền Nam ngày 20 tháng 9: Người trúng 32 tờ nhận chuyển khoản ngay",
-          "source": "Báo Thanh Niên",
-          "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-20-thang-9-nguoi-trung-32-to-nhan-chuyen-khoan-ngay-185260920171315124.htm"
-        }
-      ]
-    },
-    {
-      "id": "kbs",
-      "rank": 10,
-      "keyword": "kbs",
-      "volumeLabel": "100+",
-      "startedLabel": "12시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
     }
   ]
 }
