@@ -1,286 +1,270 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-22T07:37:46.753Z",
+  "updatedAt": "2026-09-22T13:20:22.458Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "제미나이",
+      "id": "삼성전기",
       "rank": 1,
-      "keyword": "제미나이",
-      "volumeLabel": "10000+",
-      "startedLabel": "6시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '퀄컴·구글 AI 동맹…제미나이 품은 PC '구글북' 전격 공개' (지디넷코리아) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "퀄컴·구글 AI 동맹…제미나이 품은 PC '구글북' 전격 공개",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260921155254"
-        },
-        {
-          "title": "퀄컴 스냅드래곤 X 엘리트, '구글북' 탑재…제미나이 인텔리전스 최적화",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260921000071"
-        },
-        {
-          "title": "구글 AI 노트북 '구글북'에 퀄컴 스냅드래곤 X 엘리트 탑재 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/tech/2026/09/22/2026092209123125671"
-        }
-      ]
-    },
-    {
-      "id": "게임",
-      "rank": 2,
-      "keyword": "게임",
-      "volumeLabel": "2000+",
-      "startedLabel": "7시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '넷마블 게임 11종, 추석 명절 이벤트 진행' (전기신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "넷마블 게임 11종, 추석 명절 이벤트 진행",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=372717"
-        },
-        {
-          "title": "밸로프, 추석 맞아 1000만 V코인 이벤트 진행",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260922000387"
-        },
-        {
-          "title": "넥슨, FC온라인 등 16종 게임 추석 이벤트 진행",
-          "source": "한국아이닷컴",
-          "url": "https://www.hankooki.com/news/articleView.html?idxno=343921"
-        }
-      ]
-    },
-    {
-      "id": "기상청-날씨누리",
-      "rank": 3,
-      "keyword": "기상청 날씨누리",
-      "volumeLabel": "1000+",
-      "startedLabel": "7시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '기상청 ‘날씨지도’ 전 세계로 확대…3차원 대기 흐름 한눈에' (전기신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "기상청 ‘날씨지도’ 전 세계로 확대…3차원 대기 흐름 한눈에",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=372744"
-        },
-        {
-          "title": "한반도 넘어 전 세계 날씨 한눈에…기상청 ‘날씨지도’ 개편",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609221455001"
-        },
-        {
-          "title": "한국형 수치예보모델 전 지구 전망을 지도로 편하게 확인",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260922070500530"
-        }
-      ]
-    },
-    {
-      "id": "타자",
-      "rank": 4,
-      "keyword": "타자",
+      "keyword": "삼성전기",
       "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''日·대만 기자도 놀란 164km 실화냐' 항저우 무임승차? \"金 따낸 뒤 한없이 말할게요\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘뮤즈’가 깨운 AI 부품주…코스피 주춤해도 PCB는 질주' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'日·대만 기자도 놀란 164km 실화냐' 항저우 무임승차? \"金 따낸 뒤 한없이 말할게요\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260922102108199"
+          "title": "‘뮤즈’가 깨운 AI 부품주…코스피 주춤해도 PCB는 질주",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202609221615i"
         },
         {
-          "title": "“慘(참담)!” 대만 언론이 먼저 꺼낸 한마디…한국전 0-5 완봉패에 탄식 쏟아져",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11618720"
-        },
-        {
-          "title": "한국 야구, 곽빈 꽉 찬 직구로 대만 타선 꽁꽁 묶었다!",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8669122"
-        }
-      ]
-    },
-    {
-      "id": "청약홈",
-      "rank": 5,
-      "keyword": "청약홈",
-      "volumeLabel": "1000+",
-      "startedLabel": "9시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '시세 14억인데 분양가 7억…철산자이 6가구 '줍줍' 오늘 청약' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "시세 14억인데 분양가 7억…철산자이 6가구 '줍줍' 오늘 청약",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260921_0003798981"
-        },
-        {
-          "title": "\"14억 아파트 7억에\"…'누구나 신청 가능' 광명 철산자이 '로또 청약' 시작",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260922103137815"
-        },
-        {
-          "title": "\"당첨만 되면 7억 로또\"…분양가 2배 뛴 광명에 '줍줍' 뜬다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/09/22/2026092115041487221"
-        }
-      ]
-    },
-    {
-      "id": "달력",
-      "rank": 6,
-      "keyword": "달력",
-      "volumeLabel": "200+",
-      "startedLabel": "9시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '음력으로 오늘 9월 18일은 음력 8월 8일입니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "음력으로 오늘 9월 18일은 음력 8월 8일입니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/lich-am-hom-nay-18-9-mung-8-thang-8"
-        },
-        {
-          "title": "2026년 9월 21일부터 27일까지의 길일과 길시간을 확인해 보세요. 개업식, 기공식, 여행에 좋은 날짜와 시간을 제안합니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/xem-ngay-gio-tuan-moi-21-9-27-9-2026-goi-y-ngay-dep-gio-tot-cho-khai-truong-dong-tho-va-xuat-hanh"
-        },
-        {
-          "title": "오늘(9월 21일)의 음력 달력은 마우투앗(땅개)의 날입니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/lich-am-hom-nay-21-9-ngay-mau-tuat-nham"
-        }
-      ]
-    },
-    {
-      "id": "메타-뮤즈",
-      "rank": 7,
-      "keyword": "메타 뮤즈",
-      "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'AMD, AI 훈풍 타고 사상 첫 시총 1조달러 돌파' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "AMD, AI 훈풍 타고 사상 첫 시총 1조달러 돌파",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/09/22/IVXHOJWUAVHPTHN6LW5Q7JDQN4/"
-        },
-        {
-          "title": "AI가 대신 쇼핑…아마존은 '차단', 쇼피파이는 '제휴' 엇갈린 선택",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04313206645582744"
-        },
-        {
-          "title": "메타 '뮤즈' 출시 2주 만에 앱스토어 1위…주가 11% 급등 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/09/22/2026092206524457676"
-        }
-      ]
-    },
-    {
-      "id": "삼성전자-주가",
-      "rank": 8,
-      "keyword": "삼성전자 주가",
-      "volumeLabel": "200+",
-      "startedLabel": "12시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '“삼전 1000주면 460만원”…역대급 배당 앞두고 28일 ‘막차’' (이데일리) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“삼전 1000주면 460만원”…역대급 배당 앞두고 28일 ‘막차’",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02302566645582416&mediaCodeNo=257"
-        },
-        {
-          "title": "삼성전자, 30조 ‘매머드’ 현금배당 임박...이달 28일 배당 ‘막차’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260922144509696?f=m"
-        },
-        {
-          "title": "\"삼전 1000주에 460만원\" 건보료 제외 5%대 실질 수익…배당막차에 '우르르'",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026092208433569843"
-        }
-      ]
-    },
-    {
-      "id": "하이닉스-주가",
-      "rank": 9,
-      "keyword": "하이닉스 주가",
-      "volumeLabel": "100+",
-      "startedLabel": "10시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'SK하이닉스 주가, 오늘 급등하는 이유는?' (Investing.com 한국어) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "SK하이닉스 주가, 오늘 급등하는 이유는?",
+          "title": "[1% 초고수의 개장 선택] ’코리아써키트’ 사고 ’대덕전자’ 줄였다 By EBN",
           "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2101825"
+          "url": "https://kr.investing.com/news/stock-market-news/article-2101779"
         },
         {
-          "title": "AI가 분석해주는 SK하이닉스 (000660) 상승확률은?",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/emoneyai/aisignal/contents/260921090037354eg"
-        },
-        {
-          "title": "\"국장은 불안해\" 미국판 하닉 웃돈 주고 산다...프리미엄 '50%' [종목e슈]",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=06166406645581432&mediaCodeNo=257"
+          "title": "특징주, 태성-반도체 기판(FC-BGA/PCB/MLB 등) 테마 상승세에 2.99% ↑",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1163453"
         }
       ]
     },
     {
-      "id": "조선일보",
-      "rank": 10,
-      "keyword": "조선일보",
-      "volumeLabel": "100+",
-      "startedLabel": "11시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '이 대통령 기자회견 30분 늦춘 이유, 이것 때문이었나 [이게 이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "id": "이대역-화재",
+      "rank": 2,
+      "keyword": "이대역 화재",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[속보] '기계실 화재' 2호선 이대역 다시 무정차 통과…스크린도어 장애' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이 대통령 기자회견 30분 늦춘 이유, 이것 때문이었나 [이게 이슈]",
+          "title": "[속보] '기계실 화재' 2호선 이대역 다시 무정차 통과…스크린도어 장애",
           "source": "Daum",
-          "url": "https://v.daum.net/v/98MoOx2uUK"
+          "url": "https://v.daum.net/v/20260922214451676"
         },
         {
-          "title": "“연임·공소취소 논란 정리는 긍정적…부동산 문제 전임 정부 탓은 아쉬워”",
+          "title": "국방장관 이·취임식…국방부 지휘권 이양 [현장영상]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8669617"
+        },
+        {
+          "title": "강신철 신임 국방부 장관, 주한미군사령관과 인사",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260922157600013"
+        }
+      ]
+    },
+    {
+      "id": "죽도시장",
+      "rank": 3,
+      "keyword": "죽도시장",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"값 더 오르기 전에 사야죠\"…새벽 5시부터 북적인 포항 죽도시장' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"값 더 오르기 전에 사야죠\"…새벽 5시부터 북적인 포항 죽도시장",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/GFDi2yOc1A"
+        },
+        {
+          "title": "추석 제수 용품 구입 행렬",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8119821"
+        },
+        {
+          "title": "포항시, 추석 맞아 죽도시장 식품안전·부당요금 근절 캠페인 실시",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3702328"
+        }
+      ]
+    },
+    {
+      "id": "교통-사고",
+      "rank": 4,
+      "keyword": "교통 사고",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[이슈날씨] 추석 연휴 전날 교통사고 평소 1.4배' (YTN) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[이슈날씨] 추석 연휴 전날 교통사고 평소 1.4배",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0108_202609222114092659"
+        },
+        {
+          "title": "고삼호수휴게소서 안전 캠페인…도로공사, 귀성길 안전운전 당부",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1332691"
+        },
+        {
+          "title": "추석 연휴 갯벌·방파제 조심조심!…평소 대비 사고 약 3배 급증",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260922065300063"
+        }
+      ]
+    },
+    {
+      "id": "eng-vs-sl",
+      "rank": 5,
+      "keyword": "eng vs sl",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Adil Rashid ruled out of England’s ODI series against Sri Lanka with ha…' (Belfast Telegraph) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Adil Rashid ruled out of England’s ODI series against Sri Lanka with hand injury",
+          "source": "Belfast Telegraph",
+          "url": "https://www.belfasttelegraph.co.uk/sport/cricket/adil-rashid-ruled-out-of-englands-odi-series-against-sri-lanka-with-hand-injury/a/161884063.html"
+        },
+        {
+          "title": "England Elects to Bat Against Sri Lanka in First ODI",
+          "source": "SuaraGarut.ID",
+          "url": "https://suaragarut.id/en/england-elects-bat-sri-lanka-first-odi"
+        },
+        {
+          "title": "England wins toss, bats first in opening match of ODI cricket series against Sri Lanka",
+          "source": "Toronto Star",
+          "url": "https://www.thestar.com/sports/cricket/england-wins-toss-bats-first-in-opening-match-of-odi-cricket-series-against-sri-lanka/article_c1569684-b1be-5645-a64d-8ade298f06cc.html"
+        }
+      ]
+    },
+    {
+      "id": "노원구",
+      "rank": 6,
+      "keyword": "노원구",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '노원구, 잇따른 재건축 추진위원회 승인…쾌속 추진 성과' (서울Pn) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "노원구, 잇따른 재건축 추진위원회 승인…쾌속 추진 성과",
+          "source": "서울Pn",
+          "url": "https://m.go.seoul.co.kr/news/2026/09/22/20260922500075"
+        },
+        {
+          "title": "노원구, 재건축 추진위 승인 잇따라…5개 단지 추진 속도 탄력",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026092209083218341"
+        },
+        {
+          "title": "상계주공7단지 재건축사업, 추진위 승인",
+          "source": "하우징헤럴드",
+          "url": "https://www.housingherald.co.kr/news/articleView.html?idxno=62971"
+        }
+      ]
+    },
+    {
+      "id": "대한민국-축구",
+      "rank": 7,
+      "keyword": "대한민국 축구",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '모레노호 첫 훈련 보러 온 팬들 “월드컵 때 실망, 한국 축구 새출발 응원”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "모레노호 첫 훈련 보러 온 팬들 “월드컵 때 실망, 한국 축구 새출발 응원”",
           "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609202104015"
+          "url": "https://www.khan.co.kr/article/202609222016005"
         },
         {
-          "title": "1부 오늘의 주요뉴스",
+          "title": "“손흥민 삼촌 여기 봐주세요!” 귀여운 소녀팬의 외침…손흥민 응답했다! [오!쎈 천안]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112880181"
+        },
+        {
+          "title": "취재진과 인터뷰하는 이한범",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20260922_0021451227"
+        }
+      ]
+    },
+    {
+      "id": "아시안-게임-축구-남자",
+      "rank": 8,
+      "keyword": "아시안 게임 축구 남자",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[아시안게임] 조별리그 탈락 위기 몰린 北남자축구…\"한 경기 더 있다\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[아시안게임] 조별리그 탈락 위기 몰린 北남자축구…\"한 경기 더 있다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/YmdABAiPtO"
+        },
+        {
+          "title": "'일본 개최 아시안게임' 첫 출전‥북한, 열띤 응원전 '눈길'",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6853409_37012.html"
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6852593_37004.html"
+        },
+        {
+          "title": "\"이정효 형에게 신세 많이 졌죠\"…부산 시절 동료 안영학의 바람→\"수원 꼭 1부 승격하길, OB로 다시 가겠다\" [가리야 현장]",
+          "source": "www.xportsnews.com",
+          "url": "https://www.xportsnews.com/article/2196891"
+        }
+      ]
+    },
+    {
+      "id": "광명시",
+      "rank": 9,
+      "keyword": "광명시",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "희토류-원소",
+      "rank": 10,
+      "keyword": "희토류 원소",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“안 팔면 직접 만든다”⋯ 중국 ‘희토류 횡포’에 맞선 일본의 승부수' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“안 팔면 직접 만든다”⋯ 중국 ‘희토류 횡포’에 맞선 일본의 승부수",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/china/2026/09/22/VMPMPDR5DNHO5NV4RTR4Y5DTC4/"
+        },
+        {
+          "title": "[광물산업전쟁]⑤\"자원은 없지만 기술은 있다, 韓 대체불가 공급망 파트너 돼야\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260922130650158"
+        },
+        {
+          "title": "희토류 공급난에 '50년 전' 기술 꺼내든 항공우주업계",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04391926645582744"
         }
       ]
     }
