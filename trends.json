@@ -1,239 +1,15 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-22T13:20:22.458Z",
+  "updatedAt": "2026-09-22T17:43:52.106Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "삼성전기",
+      "id": "혼인",
       "rank": 1,
-      "keyword": "삼성전기",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘뮤즈’가 깨운 AI 부품주…코스피 주춤해도 PCB는 질주' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘뮤즈’가 깨운 AI 부품주…코스피 주춤해도 PCB는 질주",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202609221615i"
-        },
-        {
-          "title": "[1% 초고수의 개장 선택] ’코리아써키트’ 사고 ’대덕전자’ 줄였다 By EBN",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2101779"
-        },
-        {
-          "title": "특징주, 태성-반도체 기판(FC-BGA/PCB/MLB 등) 테마 상승세에 2.99% ↑",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1163453"
-        }
-      ]
-    },
-    {
-      "id": "이대역-화재",
-      "rank": 2,
-      "keyword": "이대역 화재",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[속보] '기계실 화재' 2호선 이대역 다시 무정차 통과…스크린도어 장애' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[속보] '기계실 화재' 2호선 이대역 다시 무정차 통과…스크린도어 장애",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260922214451676"
-        },
-        {
-          "title": "국방장관 이·취임식…국방부 지휘권 이양 [현장영상]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8669617"
-        },
-        {
-          "title": "강신철 신임 국방부 장관, 주한미군사령관과 인사",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260922157600013"
-        }
-      ]
-    },
-    {
-      "id": "죽도시장",
-      "rank": 3,
-      "keyword": "죽도시장",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"값 더 오르기 전에 사야죠\"…새벽 5시부터 북적인 포항 죽도시장' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"값 더 오르기 전에 사야죠\"…새벽 5시부터 북적인 포항 죽도시장",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/GFDi2yOc1A"
-        },
-        {
-          "title": "추석 제수 용품 구입 행렬",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8119821"
-        },
-        {
-          "title": "포항시, 추석 맞아 죽도시장 식품안전·부당요금 근절 캠페인 실시",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3702328"
-        }
-      ]
-    },
-    {
-      "id": "교통-사고",
-      "rank": 4,
-      "keyword": "교통 사고",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[이슈날씨] 추석 연휴 전날 교통사고 평소 1.4배' (YTN) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[이슈날씨] 추석 연휴 전날 교통사고 평소 1.4배",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0108_202609222114092659"
-        },
-        {
-          "title": "고삼호수휴게소서 안전 캠페인…도로공사, 귀성길 안전운전 당부",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1332691"
-        },
-        {
-          "title": "추석 연휴 갯벌·방파제 조심조심!…평소 대비 사고 약 3배 급증",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260922065300063"
-        }
-      ]
-    },
-    {
-      "id": "eng-vs-sl",
-      "rank": 5,
-      "keyword": "eng vs sl",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Adil Rashid ruled out of England’s ODI series against Sri Lanka with ha…' (Belfast Telegraph) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Adil Rashid ruled out of England’s ODI series against Sri Lanka with hand injury",
-          "source": "Belfast Telegraph",
-          "url": "https://www.belfasttelegraph.co.uk/sport/cricket/adil-rashid-ruled-out-of-englands-odi-series-against-sri-lanka-with-hand-injury/a/161884063.html"
-        },
-        {
-          "title": "England Elects to Bat Against Sri Lanka in First ODI",
-          "source": "SuaraGarut.ID",
-          "url": "https://suaragarut.id/en/england-elects-bat-sri-lanka-first-odi"
-        },
-        {
-          "title": "England wins toss, bats first in opening match of ODI cricket series against Sri Lanka",
-          "source": "Toronto Star",
-          "url": "https://www.thestar.com/sports/cricket/england-wins-toss-bats-first-in-opening-match-of-odi-cricket-series-against-sri-lanka/article_c1569684-b1be-5645-a64d-8ade298f06cc.html"
-        }
-      ]
-    },
-    {
-      "id": "노원구",
-      "rank": 6,
-      "keyword": "노원구",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '노원구, 잇따른 재건축 추진위원회 승인…쾌속 추진 성과' (서울Pn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "노원구, 잇따른 재건축 추진위원회 승인…쾌속 추진 성과",
-          "source": "서울Pn",
-          "url": "https://m.go.seoul.co.kr/news/2026/09/22/20260922500075"
-        },
-        {
-          "title": "노원구, 재건축 추진위 승인 잇따라…5개 단지 추진 속도 탄력",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026092209083218341"
-        },
-        {
-          "title": "상계주공7단지 재건축사업, 추진위 승인",
-          "source": "하우징헤럴드",
-          "url": "https://www.housingherald.co.kr/news/articleView.html?idxno=62971"
-        }
-      ]
-    },
-    {
-      "id": "대한민국-축구",
-      "rank": 7,
-      "keyword": "대한민국 축구",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '모레노호 첫 훈련 보러 온 팬들 “월드컵 때 실망, 한국 축구 새출발 응원”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "모레노호 첫 훈련 보러 온 팬들 “월드컵 때 실망, 한국 축구 새출발 응원”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609222016005"
-        },
-        {
-          "title": "“손흥민 삼촌 여기 봐주세요!” 귀여운 소녀팬의 외침…손흥민 응답했다! [오!쎈 천안]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112880181"
-        },
-        {
-          "title": "취재진과 인터뷰하는 이한범",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20260922_0021451227"
-        }
-      ]
-    },
-    {
-      "id": "아시안-게임-축구-남자",
-      "rank": 8,
-      "keyword": "아시안 게임 축구 남자",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[아시안게임] 조별리그 탈락 위기 몰린 北남자축구…\"한 경기 더 있다\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[아시안게임] 조별리그 탈락 위기 몰린 北남자축구…\"한 경기 더 있다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/YmdABAiPtO"
-        },
-        {
-          "title": "'일본 개최 아시안게임' 첫 출전‥북한, 열띤 응원전 '눈길'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6852593_37004.html"
-        },
-        {
-          "title": "\"이정효 형에게 신세 많이 졌죠\"…부산 시절 동료 안영학의 바람→\"수원 꼭 1부 승격하길, OB로 다시 가겠다\" [가리야 현장]",
-          "source": "www.xportsnews.com",
-          "url": "https://www.xportsnews.com/article/2196891"
-        }
-      ]
-    },
-    {
-      "id": "광명시",
-      "rank": 9,
-      "keyword": "광명시",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "keyword": "혼인",
+      "volumeLabel": "1000+",
+      "startedLabel": "5시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
@@ -241,30 +17,254 @@
       "newsSignals": []
     },
     {
-      "id": "희토류-원소",
-      "rank": 10,
-      "keyword": "희토류 원소",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "id": "김혜수",
+      "rank": 2,
+      "keyword": "김혜수",
+      "volumeLabel": "500+",
+      "startedLabel": "4시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“안 팔면 직접 만든다”⋯ 중국 ‘희토류 횡포’에 맞선 일본의 승부수' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"김혜수·엄정화 애 안 낳아 안 늙은 것 아냐\" 백지연 소신 발언 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“안 팔면 직접 만든다”⋯ 중국 ‘희토류 횡포’에 맞선 일본의 승부수",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/china/2026/09/22/VMPMPDR5DNHO5NV4RTR4Y5DTC4/"
+          "title": "\"김혜수·엄정화 애 안 낳아 안 늙은 것 아냐\" 백지연 소신 발언 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/22/2026092209511418403"
         },
         {
-          "title": "[광물산업전쟁]⑤\"자원은 없지만 기술은 있다, 韓 대체불가 공급망 파트너 돼야\"",
+          "title": "“김혜수 애 안 낳아 안 늙는다?” 댓글에 백지연이 한 말",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260922130650158"
+          "url": "https://v.daum.net/v/338ZjyOcGB"
         },
         {
-          "title": "희토류 공급난에 '50년 전' 기술 꺼내든 항공우주업계",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04391926645582744"
+          "title": "백지연 \"김혜수씨 사진에 '역시 애를 안 낳아서' 이런 말 있는데…\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260922_0003799435"
+        }
+      ]
+    },
+    {
+      "id": "대통령",
+      "rank": 3,
+      "keyword": "대통령",
+      "volumeLabel": "500+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"지금까지 국민 속인 것\" 날 선 발언…또 이 대통령 직격' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"지금까지 국민 속인 것\" 날 선 발언…또 이 대통령 직격",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/3cxYBiPK34"
+        },
+        {
+          "title": "김민석, '신발 속 돌멩이' 언급 유시민에 \"상대가 희롱이라 느끼면 희롱\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6853458_36911.html"
+        },
+        {
+          "title": "유시민 \"李대통령, 검찰개혁 놓고 지금까지 국민 속였다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/assembly/2026/09/22/MOQAQ7KXCJDP5MC2ZG4HISKMVU/"
+        }
+      ]
+    },
+    {
+      "id": "죽음",
+      "rank": 4,
+      "keyword": "죽음",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[공감]죽음의 메시지' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[공감]죽음의 메시지",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260922201244889"
+        },
+        {
+          "title": "죽음, 삶의 끝에서 만나는 질문",
+          "source": "브런치",
+          "url": "https://brunch.co.kr/@heroyw1/547"
+        },
+        {
+          "title": "“사후세계 있다” 40년 연구한 서울대병원 의사의 고백",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260919060239429?f=p"
+        }
+      ]
+    },
+    {
+      "id": "신병4",
+      "rank": 5,
+      "keyword": "신병4",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘신병4’ 2중대 ‘전원 전사’ 충격에 각성…3회 연속 시청률 4.6% 콘크리트 [차트IS]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘신병4’ 2중대 ‘전원 전사’ 충격에 각성…3회 연속 시청률 4.6% 콘크리트 [차트IS]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260922091439394"
+        },
+        {
+          "title": "'신병4' 이정현, 개과천선 빌런의 전역...뭉클한 작별 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/22/2026092214107220939"
+        },
+        {
+          "title": "땅개X해병아저씨 '완벽 공조'..서로를 업고 산 내려왔다 (‘신병4’)",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112879856"
+        }
+      ]
+    },
+    {
+      "id": "무신사",
+      "rank": 6,
+      "keyword": "무신사",
+      "volumeLabel": "200+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '무신사, 라코스테·핏더사이즈 협업 에디션 선봬' (로이슈) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "무신사, 라코스테·핏더사이즈 협업 에디션 선봬",
+          "source": "로이슈",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202609220920494747204ead0791_12"
+        },
+        {
+          "title": "무신사, 라코스테·핏더사이즈 단독판 흥행…랭킹 1~8위",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260922000082"
+        },
+        {
+          "title": "[패션브리핑] 무신사, '라코스테·핏더사이즈' 단독 에디션 출시 외",
+          "source": "서울파이낸스",
+          "url": "https://www.seoulfn.com/news/articleView.html?idxno=638577"
+        }
+      ]
+    },
+    {
+      "id": "박남정",
+      "rank": 7,
+      "keyword": "박남정",
+      "volumeLabel": "200+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '박남정 \"둘째 박시우, 한예종 수석 입학…아이돌 언니 보고 따라간 듯\" (새롭게하소서)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "박남정 \"둘째 박시우, 한예종 수석 입학…아이돌 언니 보고 따라간 듯\" (새롭게하소서)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/3lpHcYCEYt"
+        },
+        {
+          "title": "박남정, '한예종 수석 입학' 둘째 박시우…\"눈 뜨면 공부밖에 안 하는 애\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6299457"
+        },
+        {
+          "title": "‘내 새끼의 연애2’ 현커된 박시우, 한예종 수석 입학했다…박남정 “내가 설자리가 없다”",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16207407"
+        }
+      ]
+    },
+    {
+      "id": "england-vs-sri-lanka",
+      "rank": 8,
+      "keyword": "england vs sri lanka",
+      "volumeLabel": "200+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'England vs Sri Lanka LIVE: First ODI, Chester-le-Street - cricket score…' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "England vs Sri Lanka LIVE: First ODI, Chester-le-Street - cricket score, commentary & video highlights",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/cricket/live/clyxlnz9r6gt"
+        },
+        {
+          "title": "England v Sri Lanka: first men’s one-day cricket international – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/sport/live/2026/sep/22/england-v-sri-lanka-first-one-day-cricket-international-live-score-updates?page=with:block-6ab2b1688f087b35939b057f"
+        },
+        {
+          "title": "Sri Lanka seek ODI revival in bruising England tour",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/sri-lanka-in-england-2026-1496567/england-vs-sri-lanka-1st-odi-1496588/match-preview"
+        }
+      ]
+    },
+    {
+      "id": "노원구",
+      "rank": 9,
+      "keyword": "노원구",
+      "volumeLabel": "200+",
+      "startedLabel": "6시간 전",
+      "change": "down",
+      "changeLabel": "-3",
+      "summary": "급상승 시점에 '전세 알아보다 '화들짝'… 노원 30년 된 구축 9억 찍었다' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "전세 알아보다 '화들짝'… 노원 30년 된 구축 9억 찍었다",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/visual-news/article/2026092215454125283"
+        },
+        {
+          "title": "‘강북 중저가’ 옛말…‘성북의 반란’ 어디까지",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/economy/12158202"
+        },
+        {
+          "title": "'전월세난'에 무주택자는 '매수 고민'…1주택자는 '세금 고민' [몇층이세요]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0134_202609221000017866"
+        }
+      ]
+    },
+    {
+      "id": "편의점",
+      "rank": 10,
+      "keyword": "편의점",
+      "volumeLabel": "100+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '상어 '부캉이' 장기체류 조짐…추석 연휴 후 외해 유도 검토(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "상어 '부캉이' 장기체류 조짐…추석 연휴 후 외해 유도 검토(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260922142851051"
+        },
+        {
+          "title": "부산 북항 상어 닷새째 목격...안 떠나는 이유는?",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0115_202609221138250376"
+        },
+        {
+          "title": "[만물상] 도심에 출몰한 ‘세로·늑구·상구’",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/opinion/manmulsang/2026/09/22/7EIUELKJC5BE7PCBTBVWSTONGU/"
         }
       ]
     }
