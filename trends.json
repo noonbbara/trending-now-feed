@@ -1,74 +1,90 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-22T17:43:52.106Z",
+  "updatedAt": "2026-09-22T21:11:09.551Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "혼인",
+      "id": "성영탁",
       "rank": 1,
-      "keyword": "혼인",
+      "keyword": "성영탁",
       "volumeLabel": "1000+",
-      "startedLabel": "5시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "김혜수",
-      "rank": 2,
-      "keyword": "김혜수",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"김혜수·엄정화 애 안 낳아 안 늙은 것 아냐\" 백지연 소신 발언 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[아시안게임] 노시환 투런포·조형우 만루포…한국 야구, 홍콩에 '팀 퍼펙트'' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"김혜수·엄정화 애 안 낳아 안 늙은 것 아냐\" 백지연 소신 발언 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/09/22/2026092209511418403"
+          "title": "[아시안게임] 노시환 투런포·조형우 만루포…한국 야구, 홍콩에 '팀 퍼펙트'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260922192800007"
         },
         {
-          "title": "“김혜수 애 안 낳아 안 늙는다?” 댓글에 백지연이 한 말",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/338ZjyOcGB"
+          "title": "류지현호, 홍콩에 콜드게임 대승‥슈퍼라운드 진출 눈앞",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6853588_37004.html"
         },
         {
-          "title": "백지연 \"김혜수씨 사진에 '역시 애를 안 낳아서' 이런 말 있는데…\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260922_0003799435"
+          "title": "‘팀 퍼펙트’ 야구 대표팀, 홍콩에 13 대 0 콜드게임 승리",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8669739"
         }
       ]
     },
     {
-      "id": "대통령",
-      "rank": 3,
-      "keyword": "대통령",
+      "id": "한다감",
+      "rank": 2,
+      "keyword": "한다감",
       "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"지금까지 국민 속인 것\" 날 선 발언…또 이 대통령 직격' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''47세 최고령 임신' 한다감, 드디어 엄마 됐다..건강한 첫 득남 [단독]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"지금까지 국민 속인 것\" 날 선 발언…또 이 대통령 직격",
+          "title": "'47세 최고령 임신' 한다감, 드디어 엄마 됐다..건강한 첫 득남 [단독]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/3cxYBiPK34"
+          "url": "https://v.daum.net/v/y0ueUpXSlQ"
         },
         {
-          "title": "김민석, '신발 속 돌멩이' 언급 유시민에 \"상대가 희롱이라 느끼면 희롱\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6853458_36911.html"
+          "title": "배우 한다감, 아들 출산…\"산모와 아이 모두 건강\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260922197500005"
         },
         {
-          "title": "유시민 \"李대통령, 검찰개혁 놓고 지금까지 국민 속였다\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/assembly/2026/09/22/MOQAQ7KXCJDP5MC2ZG4HISKMVU/"
+          "title": "한다감, 출산 앞두고 고급 외제차 선물 \"내 이미지와 맞아\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260921_0003798805"
+        }
+      ]
+    },
+    {
+      "id": "opus-5-5",
+      "rank": 3,
+      "keyword": "opus 5.5",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Introducing GPT-6 Sol and Luna' (OpenAI) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Introducing GPT-6 Sol and Luna",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/"
+        },
+        {
+          "title": "Anthropic Cuts AI Processing Costs 40% With Opus 5.5 Debut",
+          "source": "PYMNTS.com",
+          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-cuts-ai-processing-costs-40-with-opus-5-5-debut/"
+        },
+        {
+          "title": "Introducing Claude Opus 5.5",
+          "source": "Anthropic",
+          "url": "https://www.anthropic.com/claude-opus-5-5"
         }
       ]
     },
@@ -76,10 +92,10 @@
       "id": "죽음",
       "rank": 4,
       "keyword": "죽음",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "1000+",
+      "startedLabel": "7시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '[공감]죽음의 메시지' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -101,170 +117,154 @@
       ]
     },
     {
-      "id": "신병4",
+      "id": "보험",
       "rank": 5,
-      "keyword": "신병4",
+      "keyword": "보험",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘신병4’ 2중대 ‘전원 전사’ 충격에 각성…3회 연속 시청률 4.6% 콘크리트 [차트IS]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“100세에도 매일 출근해 새 계약 따내”…최고령 보험설계사' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘신병4’ 2중대 ‘전원 전사’ 충격에 각성…3회 연속 시청률 4.6% 콘크리트 [차트IS]",
+          "title": "“100세에도 매일 출근해 새 계약 따내”…최고령 보험설계사",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20260922/134719600/1"
+        },
+        {
+          "title": "“100세에도 매일 출근해 신계약”…한화손보, 현역 보험설계사 헌정식",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03161926645582744&mediaCodeNo=257"
+        },
+        {
+          "title": "100세 현역 설계사 헌신에… 한화손보 ‘최고령’ 헌정 행사",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260922091439394"
-        },
-        {
-          "title": "'신병4' 이정현, 개과천선 빌런의 전역...뭉클한 작별 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/22/2026092214107220939"
-        },
-        {
-          "title": "땅개X해병아저씨 '완벽 공조'..서로를 업고 산 내려왔다 (‘신병4’)",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112879856"
+          "url": "https://v.daum.net/v/20260922211310233"
         }
       ]
     },
     {
-      "id": "무신사",
+      "id": "이재명-지지율",
       "rank": 6,
-      "keyword": "무신사",
+      "keyword": "이재명 지지율",
       "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '무신사, 라코스테·핏더사이즈 협업 에디션 선봬' (로이슈) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '이 대통령 기자회견, ‘잘못했다’ 57.7%…‘잘했다’ 39.2%[리얼미터]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "무신사, 라코스테·핏더사이즈 협업 에디션 선봬",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=202609220920494747204ead0791_12"
-        },
-        {
-          "title": "무신사, 라코스테·핏더사이즈 단독판 흥행…랭킹 1~8위",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260922000082"
-        },
-        {
-          "title": "[패션브리핑] 무신사, '라코스테·핏더사이즈' 단독 에디션 출시 외",
-          "source": "서울파이낸스",
-          "url": "https://www.seoulfn.com/news/articleView.html?idxno=638577"
-        }
-      ]
-    },
-    {
-      "id": "박남정",
-      "rank": 7,
-      "keyword": "박남정",
-      "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '박남정 \"둘째 박시우, 한예종 수석 입학…아이돌 언니 보고 따라간 듯\" (새롭게하소서)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "박남정 \"둘째 박시우, 한예종 수석 입학…아이돌 언니 보고 따라간 듯\" (새롭게하소서)",
+          "title": "이 대통령 기자회견, ‘잘못했다’ 57.7%…‘잘했다’ 39.2%[리얼미터]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/3lpHcYCEYt"
+          "url": "https://v.daum.net/v/20260922165527548"
         },
         {
-          "title": "박남정, '한예종 수석 입학' 둘째 박시우…\"눈 뜨면 공부밖에 안 하는 애\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6299457"
+          "title": "이 대통령 지지층 ‘중도·서울·30대·뉴이재명’ 이탈 많았다",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1279171.html"
         },
         {
-          "title": "‘내 새끼의 연애2’ 현커된 박시우, 한예종 수석 입학했다…박남정 “내가 설자리가 없다”",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16207407"
+          "title": "[속보]국민 과반 이상, 李 대통령 기자 회견 “잘못했다”-리얼미터",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11619000"
         }
       ]
     },
     {
-      "id": "england-vs-sri-lanka",
-      "rank": 8,
-      "keyword": "england vs sri lanka",
+      "id": "음식",
+      "rank": 7,
+      "keyword": "음식",
       "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'England vs Sri Lanka LIVE: First ODI, Chester-le-Street - cricket score…' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '추석 연휴 ‘기도 폐쇄’ 1.7배↑…환자 86%는 60세 이상' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "England vs Sri Lanka LIVE: First ODI, Chester-le-Street - cricket score, commentary & video highlights",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/cricket/live/clyxlnz9r6gt"
+          "title": "추석 연휴 ‘기도 폐쇄’ 1.7배↑…환자 86%는 60세 이상",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260922151940586"
         },
         {
-          "title": "England v Sri Lanka: first men’s one-day cricket international – live",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/sport/live/2026/sep/22/england-v-sri-lanka-first-one-day-cricket-international-live-score-updates?page=with:block-6ab2b1688f087b35939b057f"
+          "title": "음식 준비·섭취 느는 추석, 목막힘·화상 사고도 2배가량 증가",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6853541_36918.html"
         },
         {
-          "title": "Sri Lanka seek ODI revival in bruising England tour",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/sri-lanka-in-england-2026-1496567/england-vs-sri-lanka-1st-odi-1496588/match-preview"
+          "title": "추석 응급의료센터 내원, 평일의 '2배'…\"경증은 병의원 권장\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260922136600530"
         }
       ]
     },
     {
-      "id": "노원구",
+      "id": "미사일",
+      "rank": 8,
+      "keyword": "미사일",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''모자이크 없이' 다 보여준 북한…\"적들 두통 줄\" 기술 완성?' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'모자이크 없이' 다 보여준 북한…\"적들 두통 줄\" 기술 완성?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260922191657646"
+        },
+        {
+          "title": "北, 극초음속미사일 시험 확인…김정은 \"무력 현대화 갱신\"(종합2보)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260922011752504"
+        },
+        {
+          "title": "北, 이틀 만에 \"새 무기체계 시험\" 공개…극초음속 추정",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260922182509zou"
+        }
+      ]
+    },
+    {
+      "id": "인천광역시",
       "rank": 9,
-      "keyword": "노원구",
+      "keyword": "인천광역시",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "전국노래자랑",
+      "rank": 10,
+      "keyword": "전국노래자랑",
       "volumeLabel": "200+",
       "startedLabel": "6시간 전",
-      "change": "down",
-      "changeLabel": "-3",
-      "summary": "급상승 시점에 '전세 알아보다 '화들짝'… 노원 30년 된 구축 9억 찍었다' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "전세 알아보다 '화들짝'… 노원 30년 된 구축 9억 찍었다",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/visual-news/article/2026092215454125283"
-        },
-        {
-          "title": "‘강북 중저가’ 옛말…‘성북의 반란’ 어디까지",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/economy/12158202"
-        },
-        {
-          "title": "'전월세난'에 무주택자는 '매수 고민'…1주택자는 '세금 고민' [몇층이세요]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202609221000017866"
-        }
-      ]
-    },
-    {
-      "id": "편의점",
-      "rank": 10,
-      "keyword": "편의점",
-      "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '상어 '부캉이' 장기체류 조짐…추석 연휴 후 외해 유도 검토(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '유리, 제주 정착 3년만에 '전국노래자랑'까지…도민들 사이 흥 폭발 [엑's 이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "상어 '부캉이' 장기체류 조짐…추석 연휴 후 외해 유도 검토(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260922142851051"
+          "title": "유리, 제주 정착 3년만에 '전국노래자랑'까지…도민들 사이 흥 폭발 [엑's 이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/bwUI1kLxXE"
         },
         {
-          "title": "부산 북항 상어 닷새째 목격...안 떠나는 이유는?",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0115_202609221138250376"
+          "title": "이래도 이효리 따라하기? 소녀시대 유리, 제주도 전국노래자랑 관람 포착 [Oh!쎈 이슈] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/22/GJSDEZJXMQ3DCNZZHFSTGOLBGU/"
         },
         {
-          "title": "[만물상] 도심에 출몰한 ‘세로·늑구·상구’",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/opinion/manmulsang/2026/09/22/7EIUELKJC5BE7PCBTBVWSTONGU/"
+          "title": "유리, '전국노래자랑'서 손뼉 치며…찐 제주도민 된 근황",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260922_0003800365"
         }
       ]
     }
