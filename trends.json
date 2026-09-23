@@ -1,258 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-22T23:45:44.383Z",
+  "updatedAt": "2026-09-23T04:32:05.263Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "사건",
+      "id": "열대-저압-부",
       "rank": 1,
-      "keyword": "사건",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "keyword": "열대 저압 부",
+      "volumeLabel": "5000+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독]이 대통령, 귀국 직후 ‘내란 사건 특별수사본부’ 구성 지시 검토' (JTBC) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '추석 하루 전 태풍 '수리개' 발달 전망…한반도 영향은' (이데일리) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[단독]이 대통령, 귀국 직후 ‘내란 사건 특별수사본부’ 구성 지시 검토",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12319707"
+          "title": "추석 하루 전 태풍 '수리개' 발달 전망…한반도 영향은",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02879846645583072&mediaCodeNo=257"
         },
         {
-          "title": "[국세청의 ‘조세심판 대응법’-⑤] 사건조사서도 전략이 필요하다…“논리의 무게”",
-          "source": "세정일보",
-          "url": "https://www.sejungilbo.com/news/articleView.html?idxno=60227"
+          "title": "[태풍경로]\"또 태풍 올라온다\"…제54호 열대저압부, 28일 대만 인근서 ‘강도 3’",
+          "source": "남도일보",
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=924314"
         },
         {
-          "title": "[국세청의 ‘조세심판 대응법’-④] 압도적 설득력으로 ‘골든타임’을 선점하라",
-          "source": "세정일보",
-          "url": "https://www.sejungilbo.com/news/articleView.html?idxno=60210"
+          "title": "[26호 태풍 수리개 경로 등 오늘의 날씨 및 추석 연휴기간 날씨]낮과 밤 큰 기온차,추석 중부지방 중심 곳에 따라 비!",
+          "source": "이코노미톡뉴스",
+          "url": ""
         }
       ]
     },
     {
-      "id": "신봉선",
+      "id": "김건우",
       "rank": 2,
-      "keyword": "신봉선",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "keyword": "김건우",
+      "volumeLabel": "10000+",
+      "startedLabel": "5시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이웃에 얼마나 잘했길래...신봉선, 이사 앞두고 현관문 열었다가 울컥 \"제 선물도\"' (스포츠조선) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '전 쇼트트랙 국가대표 김건우 별세…향년 28세' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이웃에 얼마나 잘했길래...신봉선, 이사 앞두고 현관문 열었다가 울컥 \"제 선물도\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-09-22/202609220100156090010177"
-        },
-        {
-          "title": "신봉선, 이웃에 얼마나 잘했으면…문고리에 걸린 선물 \"감사해요\" [★해시태그]",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2199161"
-        },
-        {
-          "title": "'18kg→20kg→37kg' 데뷔 후 폭풍 감량…'체중과의 전쟁' 치른 아이돌 ★들 [종합]",
+          "title": "전 쇼트트랙 국가대표 김건우 별세…향년 28세",
           "source": "Daum",
-          "url": "https://v.daum.net/v/G3lWdwaets"
-        }
-      ]
-    },
-    {
-      "id": "정준하",
-      "rank": 3,
-      "keyword": "정준하",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '정준하 아들, 배우 상 얼굴…이국적 분위기' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "정준하 아들, 배우 상 얼굴…이국적 분위기",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260922_0003800621"
+          "url": "https://v.daum.net/v/20260923103044221"
         },
         {
-          "title": "정준하 아들 로하, 언제 이렇게 컸지?..깜짝 놀랄 ‘훈훈’ 비주얼 [Oh!쎈 이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/22/GI3DKOBWGFRTGY3BMZRWINZXGU/"
-        },
-        {
-          "title": "정준하 아들, 훈남으로 자랐다…\"이번이 마지막\" 아빠 지원군 자처",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260922103139818"
-        }
-      ]
-    },
-    {
-      "id": "황보라",
-      "rank": 4,
-      "keyword": "황보라",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '황보라, 화장실서 낙상 사고→병원行 \"머리 뒤로 완전히 박았다\" [보라이어티]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "황보라, 화장실서 낙상 사고→병원行 \"머리 뒤로 완전히 박았다\" [보라이어티]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/qjQyz71yvp"
-        },
-        {
-          "title": "황보라 “아들 목욕시킨 뒤 뒤로 꽈당”…머리 부딪혀 병원행",
+          "title": "전 쇼트트랙 국가대표 김건우, 은퇴 3개월 만에 사망",
           "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260922/134723974/1"
+          "url": "https://sports.donga.com/sports/article/all/20260923/134725747/1"
         },
         {
-          "title": "‘김용건 며느리’ 황보라, 촬영 앞두고 병원行 “이렇게 넘어진 적 처음”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/22/MM2WKMJVMU3DSNRXMQ4TAZRYGM/"
+          "title": "‘월드컵 금메달리스트’ 쇼트트랙 김건우 별세…향년 28세",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260923580108"
         }
       ]
     },
     {
-      "id": "부부의-세계",
-      "rank": 5,
-      "keyword": "부부의 세계",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "id": "신혼여행",
+      "rank": 3,
+      "keyword": "신혼여행",
+      "volumeLabel": "5000+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한소희, \"진짜 제니야?\"...6년 만에 '부부의 세계' 딸 만났다 '울컥'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"전 남친 돈으로 산 침대서 신혼여행 첫날밤 보낸 거냐\"…남편이 이혼 요구' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "한소희, \"진짜 제니야?\"...6년 만에 '부부의 세계' 딸 만났다 '울컥'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260922072749141?f=m"
-        },
-        {
-          "title": "한소희, '부부의 세계' 딸과 재회 \"너 진짜 제니야?\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260922_0003800301"
-        },
-        {
-          "title": "“진짜 제니야?” 한소희도 깜짝…‘부부의 세계’ 모녀 6년 만 재회",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202609221033003"
-        }
-      ]
-    },
-    {
-      "id": "관광",
-      "rank": 6,
-      "keyword": "관광",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '부산 해운대시장에서 ‘한국 관광 공정가격·친절 캠페인’ 진행 : 네이버 블로그' (Naver Blog) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "부산 해운대시장에서 ‘한국 관광 공정가격·친절 캠페인’ 진행 : 네이버 블로그",
-          "source": "Naver Blog",
-          "url": "https://blog.naver.com/mcstkorea/224419574182?fromRss=true&trackingCode=rss"
-        },
-        {
-          "title": "\"바가지 격파\" 해운대서 공정가격 캠페인",
-          "source": "OhmyNews",
-          "url": "https://www.ohmynews.com/NWS_Web/OhmyPhoto/annual/2026_at_pg.aspx?CNTN_CD=A0003269589"
-        },
-        {
-          "title": "추석 앞둔 영주365시장, 고객 신뢰 위한 캠페인 행사 진행",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3703881"
-        }
-      ]
-    },
-    {
-      "id": "시즌2",
-      "rank": 7,
-      "keyword": "시즌2",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '서은수, 9년 지나 더 단단해졌다…'메인코2' 강렬 존재감' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "서은수, 9년 지나 더 단단해졌다…'메인코2' 강렬 존재감",
+          "title": "\"전 남친 돈으로 산 침대서 신혼여행 첫날밤 보낸 거냐\"…남편이 이혼 요구",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6298659"
+          "url": "https://www.news1.kr/society/general-society/6299330"
         },
         {
-          "title": "'메이드 인 코리아2' 현빈, 끝내 총구 겨눴다…폭주하는 욕망의 끝은",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260923000095"
-        },
-        {
-          "title": "'메이드 인 코리아' 황대식의 월권, 실제 전두환은 더 심각했다",
+          "title": "류화영, 사업가 남편 '태평양 어깨'에 반했나...신혼여행 영상 공개 [스타이슈]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/zJwNzfztpc?f=p"
+          "url": "https://v.daum.net/v/5Ul2MwaeCO"
+        },
+        {
+          "title": "‘사업가♥’ 류화영 “결혼, 아직도 꿈 같아…부부가 되어가고 있음을 느껴”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/entertain/12160089"
         }
       ]
     },
     {
-      "id": "맨체스터-유나이티드-fc",
+      "id": "25-사단-지뢰",
+      "rank": 4,
+      "keyword": "25 사단 지뢰",
+      "volumeLabel": "5000+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'DMZ 지뢰폭발 사고 육군 25사단에서 장교 숨진 채 발견…‘DMZ 폭발’과는 관련 없는 듯' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "DMZ 지뢰폭발 사고 육군 25사단에서 장교 숨진 채 발견…‘DMZ 폭발’과는 관련 없는 듯",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11619046"
+        },
+        {
+          "title": "강신철 국방장관, DMZ 폭발사고 부상 장병 위문…\"책임지고 지원\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/09/23/2026092311570787661"
+        },
+        {
+          "title": "나경원 \"李대통령, UN서 '北 쉴드' 낭만적 평화 구걸론... 대한민국 대통령 맞나\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202609230825285996"
+        }
+      ]
+    },
+    {
+      "id": "gpt-6-sol",
+      "rank": 5,
+      "keyword": "gpt 6 sol",
+      "volumeLabel": "2000+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Introducing GPT-6 Sol and Luna' (OpenAI) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Introducing GPT-6 Sol and Luna",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/"
+        },
+        {
+          "title": "Introducing Claude Opus 5.5",
+          "source": "Anthropic",
+          "url": "https://www.anthropic.com/claude-opus-5-5"
+        },
+        {
+          "title": "Anthropic and OpenAI Launch Low-Cost AI Models Side by Side, Intensifying Price Competition",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/en/article/world-stockmarket/2026092308290558123"
+        }
+      ]
+    },
+    {
+      "id": "김하성",
+      "rank": 6,
+      "keyword": "김하성",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김하성 또 3타수 무안타…6경기 연속 침묵하며 타율 0.116' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김하성 또 3타수 무안타…6경기 연속 침묵하며 타율 0.116",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8670266"
+        },
+        {
+          "title": "‘14타수 무안타’ 김하성, 신시내티전 선발복귀…유격수-9번 타자 출격",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/152GvAiPLA"
+        },
+        {
+          "title": "김하성, 송성문과 PS 격돌하나? 애틀랜타, 휴스턴 4-2 꺾고 NL 동부지구 우승 확정 [ATL 리뷰] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/21/202609210627776771O"
+        }
+      ]
+    },
+    {
+      "id": "대만",
+      "rank": 7,
+      "keyword": "대만",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '美·中 정상회담 앞두고 주미 中대사 “대만 등 ‘4대 레드라인’ 침해 말라”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "美·中 정상회담 앞두고 주미 中대사 “대만 등 ‘4대 레드라인’ 침해 말라”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260923131136738"
+        },
+        {
+          "title": "中, 시진핑 방미 앞 대만·인권·제도 등 '4대 레드라인' 제시",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260923099500083"
+        },
+        {
+          "title": "\"시진핑, 트럼프에게 타이완 무기 판매 중단 요구할 듯\"",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008766415&plink=ORI&cooper=ATOM"
+        }
+      ]
+    },
+    {
+      "id": "김민국",
       "rank": 8,
-      "keyword": "맨체스터 유나이티드 fc",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "keyword": "김민국",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '맨유, 16세 '제2의 라민 야말' 노린다! '프로 데뷔 11초 만에 결승골' 역대급 재능→\"광범위한 스카우팅 진행\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '김성주, '명문대' 아들 민국 근황 깜짝 공개…\"지금 망나니 됐다\" (일타강사 리센느)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "맨유, 16세 '제2의 라민 야말' 노린다! '프로 데뷔 11초 만에 결승골' 역대급 재능→\"광범위한 스카우팅 진행\"",
+          "title": "김성주, '명문대' 아들 민국 근황 깜짝 공개…\"지금 망나니 됐다\" (일타강사 리센느)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260922180250501?f=p"
+          "url": "https://v.daum.net/v/WVmAZV71GW"
         },
         {
-          "title": "절대 맨유에서 뛰는 일은 없을 것…시즌 중 훈련 불참, 이적 통보 “JJ 가브리엘 뮌헨·레알 이적 위해 회동”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/3WyPzyOcy7"
+          "title": "김민국, 리센느 원이 결혼 발언에 폭주 “망나니가 되겠다”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260923/134725549/1"
         },
         {
-          "title": "'1800억 특급 유망주' 5억에 뺏기는 맨유 대충격! 죽 쒀서 바르사 준다…1년 동안 배려했지만 \"팀 떠나겠다\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/football/2026-09-23/202609230100157750010288"
+          "title": "'김성주子' 김민국, 리센느 원이 결혼 언급에 폭주 \"식장 알아볼 것…식은 내년\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6299756"
         }
       ]
     },
     {
-      "id": "주식",
+      "id": "암살자-들",
       "rank": 9,
-      "keyword": "주식",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "keyword": "암살자 들",
+      "volumeLabel": "1000+",
+      "startedLabel": "4시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '남선알미늄, 최대주주 삼라 측 주식등 보유 비율 1.50%p 증가' (디지털투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '추석 대작 떴다...'시청률 25.6%→천만영화 5편' 커리어 하이 찍고 '실화 영화'로 돌아온 배우' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "남선알미늄, 최대주주 삼라 측 주식등 보유 비율 1.50%p 증가",
-          "source": "디지털투데이",
-          "url": "https://www.digitaltoday.co.kr/disclosure/articleView.html?idxno=702571"
+          "title": "추석 대작 떴다...'시청률 25.6%→천만영화 5편' 커리어 하이 찍고 '실화 영화'로 돌아온 배우",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260923073030875"
         },
         {
-          "title": "주식모으기 2주년… 91% “계속 이용”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260922/134714021/2"
+          "title": "박해일, ‘암살자(들)’ 기자 변신…“늦은 밤·새벽에도 YTN 뉴스 봤다”",
+          "source": "YTN star",
+          "url": "https://star.ytn.co.kr/_sn/0117_202609230740233547"
         },
         {
-          "title": "삼성증권 '주식모으기' 3분의 2 절세계좌로…美지수 ETF 집중",
+          "title": "육영수 여사 암살, 진짜 배후는?… 허진호가 다시 꺼낸 '51년 전 암살사건'",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026092023120004472"
+        }
+      ]
+    },
+    {
+      "id": "추석인사",
+      "rank": 10,
+      "keyword": "추석인사",
+      "volumeLabel": "500+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"명절 잘 보내세요~\" 귀성 인사 전하는 김민석 대표와 지도부 [TF사진관]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"명절 잘 보내세요~\" 귀성 인사 전하는 김민석 대표와 지도부 [TF사진관]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260923121455415"
+        },
+        {
+          "title": "귀성객들과 인사 나누는 신장식 조국혁신당 대표",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260922_0003799821"
+          "url": "https://www.newsis.com/view/NISI20260923_0021452714"
+        },
+        {
+          "title": "與 “민생에 올인” vs 野 “李재판 재개”… 추석 앞 ‘메시지경쟁’",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11619257"
         }
       ]
     }
