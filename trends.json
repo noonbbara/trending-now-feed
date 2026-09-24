@@ -1,153 +1,181 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-24T00:48:45.484Z",
+  "updatedAt": "2026-09-24T06:01:48.806Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "두류공원",
+      "id": "신지",
       "rank": 1,
-      "keyword": "두류공원",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "keyword": "신지",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'BTS·임영웅 대구에?…대구시 ‘돔구장 유치’ 도전장' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘인바디 측정 불가’ 신지, 근육량 늘어났나..“무게 20kg까지 쳐” (어떠신지)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "BTS·임영웅 대구에?…대구시 ‘돔구장 유치’ 도전장",
+          "title": "‘인바디 측정 불가’ 신지, 근육량 늘어났나..“무게 20kg까지 쳐” (어떠신지)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260923143207589"
+          "url": "https://v.daum.net/v/HpXWTJXSya?f=p"
         },
         {
-          "title": "파주 돔구장 유치전 본격화…정부 공모 준비 나섰다",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260923580073"
+          "title": "42kg까지 빠졌던 신지, 운동으로 달라진 근황…“요즘 20kg까지 든다”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202609241111003"
         },
         {
-          "title": "대구 두류공원에 2만석 규모 ‘스포츠·공연 복합 돔구장’ 추진···정부 공모 도전장",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609231137001"
+          "title": "신지, 긴 머리 하니 배우상 미모 반응 폭발…♥문원 또 반할 듯 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/23/GUZTAOLBGAZGCMZQMIYDIMJWGE/"
         }
       ]
     },
     {
-      "id": "습관",
+      "id": "배드민턴",
       "rank": 2,
-      "keyword": "습관",
-      "volumeLabel": "1000+",
+      "keyword": "배드민턴",
+      "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"체한 줄 알았는데\"…추석 복통이 응급질환일 수도 [헬스톡]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '최강 안세영 1승 챙겼지만…여자 배드민턴, 아쉬운 동메달' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"체한 줄 알았는데\"…추석 복통이 응급질환일 수도 [헬스톡]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260924060131891"
+          "title": "최강 안세영 1승 챙겼지만…여자 배드민턴, 아쉬운 동메달",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8670690"
         },
         {
-          "title": "“당뇨 있으면 추석 때 더 조심해야”…저녁 과식·술 삼가고 외식은 한식·일식으로",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260924060127870"
+          "title": "‘적수가 없다’ 최강 안세영, 더 기대되는 단식 2연패",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260924/134731421/1"
         },
         {
-          "title": "추석에 1∼2㎏ 쪘다고 굶지 마세요…\"체지방 아닐 수도\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260923080000530"
+          "title": "'세계 챔피언' 이소희-백하나, 왜 이틀 연속 충격패...단체전 2연속 0-2 패배, 여자복식 개인전 메달 '초비상'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/09/24/GQ3WKM3BME2WKMZQGBSTQMBYHE/"
         }
       ]
     },
     {
-      "id": "삼전닉스",
+      "id": "전현무",
       "rank": 3,
-      "keyword": "삼전닉스",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "keyword": "전현무",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"삼전닉스 지금 사도 될까\"…바닥 확인, '분할매수' 유리' (이데일리) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"제가 생각만큼 부자는 아니다\"…전현무, '600억 재산설' 해명' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"삼전닉스 지금 사도 될까\"…바닥 확인, '분할매수' 유리",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03450566645583072&mediaCodeNo=257"
+          "title": "\"제가 생각만큼 부자는 아니다\"…전현무, '600억 재산설' 해명",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260923_0003802174"
         },
         {
-          "title": "[오늘 이 종목] 반도체 훈풍에 삼전닉스 주목…LFP 수주 · AI 웹툰도 눈길",
+          "title": "곽튜브, 또 녹화 불참했다…반복되는 부재에 전현무도 체념 \"오늘도 없어\" ('전현무계획')",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260923112400292"
+          "url": "https://v.daum.net/v/20260924070115689"
         },
         {
-          "title": "한달 16% 뛴 코스닥 IT…삼전·하닉 넘어 소부장 ‘질주’",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2628707"
+          "title": "'재산 600억설' 전현무, 직접 입 열었다 \"생각만큼..\" ('전현무계획4')",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112880455"
         }
       ]
     },
     {
-      "id": "전설의-사내",
+      "id": "적금",
       "rank": 4,
-      "keyword": "전설의 사내",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "keyword": "적금",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''전설의 사내' 김영옥 \"하루에게 투표했다\"…스페셜 무대 성사 [RE:TV]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"매일 모으는 맛에 빠졌다\"…적금 넘어 ETF·금까지 '소액 짠테크'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'전설의 사내' 김영옥 \"하루에게 투표했다\"…스페셜 무대 성사 [RE:TV]",
+          "title": "\"매일 모으는 맛에 빠졌다\"…적금 넘어 ETF·금까지 '소액 짠테크'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/GkKvq0NdZx"
+          "url": "https://v.daum.net/v/20260924070206770"
         },
         {
-          "title": "'전설의 사내' 신승태, 성리와 맞대결 요청…\"제대로 된 습격!\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6300885"
+          "title": "목돈마련 적금에 꽂힌 2030…5년새 76% 쑥",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/economy/12160474"
         },
         {
-          "title": "‘47세’ 이루네, 막내 대결 등판 “실제 13남매 중 막내” (전설의 사내)",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/519158"
+          "title": "미션 달성하듯이 돈 모은다…\"저축도 챌린지\" 적금 인기",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008762603"
         }
       ]
     },
     {
-      "id": "굿파트너",
+      "id": "기성용",
       "rank": 5,
-      "keyword": "굿파트너",
+      "keyword": "기성용",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독]장나라 그대로·김혜윤 합류..돌아온 '굿파트너2', 11월 20일 첫방' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '사랑꾼 기성용, 한혜진과 망가짐도 불사…화기애애 가족' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[단독]장나라 그대로·김혜윤 합류..돌아온 '굿파트너2', 11월 20일 첫방",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260924063252420"
+          "title": "사랑꾼 기성용, 한혜진과 망가짐도 불사…화기애애 가족",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260923/134727477/1"
         },
         {
-          "title": "[단독] 장나라 그대로·김혜윤 합류..돌아온 '굿파트너2', 11월 20일 첫방",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/broadcast-drama/2026/09/24/2026092315263755064"
+          "title": "한혜진♥기성용, 딸이 직접 찍어준 해변 투샷...결혼 13년차 안 믿겨",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/celebrity/2026/09/23/MY3TAYTEMZRDKYZVG5QWKYLFME/"
         },
         {
-          "title": "김혜윤, 한국방송대상 최우수연기자상…‘굿파트너2’ 잇는다",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16201721"
+          "title": "한혜진♥기성용 딸, 벌써 189cm 아빠 어깨까지…12살인데 ‘폭풍 성장’",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202609231413003"
         }
       ]
     },
     {
-      "id": "재테크",
+      "id": "성과급",
       "rank": 6,
-      "keyword": "재테크",
+      "keyword": "성과급",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '삼성전자 DS 특별성과급 9월말 발표...1인당 6억원대 보상 전망' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "삼성전자 DS 특별성과급 9월말 발표...1인당 6억원대 보상 전망",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260924120137838"
+        },
+        {
+          "title": "‘6억 성과급’ 삼성 반도체, ‘200만원 의자’에 앉아서 일한다…복지 어떻길래",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/economy/industry/2026/09/24/20260924500057"
+        },
+        {
+          "title": "삼성전자 성과급 세부안 추석 연휴 뒤 공개",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8671070"
+        }
+      ]
+    },
+    {
+      "id": "군수산업",
+      "rank": 7,
+      "keyword": "군수산업",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
@@ -157,114 +185,86 @@
       "newsSignals": []
     },
     {
-      "id": "한일전",
-      "rank": 7,
-      "keyword": "한일전",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"심장을 바쳐라!\" 고개 숙인 안세영 앞에서 미친 도발...\"볼수록 예쁘다\" 외모로 일본 사로잡고, 세리머니로 팬심 챙겼다' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"심장을 바쳐라!\" 고개 숙인 안세영 앞에서 미친 도발...\"볼수록 예쁘다\" 외모로 일본 사로잡고, 세리머니로 팬심 챙겼다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260924011245070"
-        },
-        {
-          "title": "안세영 '기선 제압'에도…일본에 져 동메달",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008768557"
-        },
-        {
-          "title": "안세영, 야마구치에 확실한 기선제압‥단식 2연패에 집중",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6853837_37004.html"
-        }
-      ]
-    },
-    {
-      "id": "무안국제공항",
+      "id": "이승철",
       "rank": 8,
-      "keyword": "무안국제공항",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '구석구석 현장소통!!' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "구석구석 현장소통!!",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148972394"
-        },
-        {
-          "title": "해썹도 AI로 만든다…‘미션 임파서블 해썹’ 대상",
-          "source": "식약일보",
-          "url": ""
-        },
-        {
-          "title": "식약처, ‘해썹(HACCP) AI 콘텐츠 공모전’ 수상작 선정",
-          "source": "BBS불교방송",
-          "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106970"
-        }
-      ]
-    },
-    {
-      "id": "원자력-발전소",
-      "rank": 9,
-      "keyword": "원자력 발전소",
-      "volumeLabel": "200+",
+      "keyword": "이승철",
+      "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '美 원전 손잡은 폴란드, 2036년 가동 '속도전'…본계약 9부 능선 넘었다' (에너지안전신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '40년 라이브 외길 이승철…“레전드보다 현역이 좋죠”' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "美 원전 손잡은 폴란드, 2036년 가동 '속도전'…본계약 9부 능선 넘었다",
-          "source": "에너지안전신문",
-          "url": "https://www.esnews.kr/news/articleView.html?idxno=6442"
+          "title": "40년 라이브 외길 이승철…“레전드보다 현역이 좋죠”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8670652"
         },
         {
-          "title": "\"K원전 안 짓겠다면 없던 일로\"… 美에 '배수의 진'을 쳤다",
+          "title": "[잇슈 컬처] ‘데뷔 40주년’ 이승철, 후배 가수들과 협업",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260923160000810"
+          "url": "https://v.daum.net/v/Zd2jjPKpTR"
         },
         {
-          "title": "[사설]국회 비공개 회의를 녹취해 유출하다니, 묵과 안 된다",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609231819001"
+          "title": "안방서 즐기는 ‘라이브의 황제’ 단독 공연 [福작福작 한가위]",
+          "source": "세계일보",
+          "url": "https://m.segye.com/view/20260922521073"
         }
       ]
     },
     {
-      "id": "장윤주",
-      "rank": 10,
-      "keyword": "장윤주",
-      "volumeLabel": "100+",
+      "id": "실신",
+      "rank": 9,
+      "keyword": "실신",
+      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '런던에서 만난 장윤주 가족' (하퍼스 바자 코리아) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '사우나 하다가 실신→아시안게임 출전 무산됐다…무리한 체중 감량 시도가 원인, 인도 MMA 선수 '눈물의 불참' [나고야 AG]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "런던에서 만난 장윤주 가족",
-          "source": "하퍼스 바자 코리아",
-          "url": "https://www.harpersbazaar.co.kr/article/1910244"
+          "title": "사우나 하다가 실신→아시안게임 출전 무산됐다…무리한 체중 감량 시도가 원인, 인도 MMA 선수 '눈물의 불참' [나고야 AG]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260921151637093"
         },
         {
-          "title": "'역시 모델' 장윤주, 민소매 하나에도 포스…근데 호밀빵 먹고도 가능?",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260923_0003801839"
+          "title": "인도 무술가, 아시안 게임 20 앞두고 체중 감량으로 실신",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/the-thao/vo-si-an-do-ngat-xiu-vi-ep-can-truoc-them-asiad-20-1770165.ldo"
         },
         {
-          "title": "‘런던 이주’ 장윤주 근황…민소매+청바지 뿐인데 남달라",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202609231203003"
+          "title": "사우나서 땀 빼다가 '실신'...\"전신 경련, 몸 정상 아냐\" 아시안게임 인도 MMA 국가대표, 계체 측정 앞두고 수분 감량 과정서 졸도→대회 기권",
+          "source": "스포탈코리아",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553555508"
+        }
+      ]
+    },
+    {
+      "id": "김나희",
+      "rank": 10,
+      "keyword": "김나희",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"시母가 영웅시대\"..김나희, 사회 이찬원·축가 송가인 '결혼식 어벤저스' 비화 [한복인터뷰③]' (스타뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"시母가 영웅시대\"..김나희, 사회 이찬원·축가 송가인 '결혼식 어벤저스' 비화 [한복인터뷰③]",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/star/2026/09/24/2026092311082512910"
+        },
+        {
+          "title": "아는 척해야 하나…? 정동하 X 김나희, 연예인끼리 마주쳤을 때 현실 반응! [유민상의 배고픈 라디오]",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/radio/sbshungry/clip/80120/22000636052"
+        },
+        {
+          "title": "[단독]김나희, ♥남편 '남주혁 닮은꼴' 적극 해명..\"큰 고통받고 있어\"[한복인터뷰②]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260924072613110"
         }
       ]
     }
