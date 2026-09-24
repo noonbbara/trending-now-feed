@@ -1,182 +1,238 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-24T06:01:48.806Z",
+  "updatedAt": "2026-09-24T12:07:12.352Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "신지",
+      "id": "쿠팡플레이",
       "rank": 1,
-      "keyword": "신지",
+      "keyword": "쿠팡플레이",
       "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘인바디 측정 불가’ 신지, 근육량 늘어났나..“무게 20kg까지 쳐” (어떠신지)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '박명수X정준하 ‘하와수’ 다시 뭉쳤다…‘직장인들3’ 출격' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘인바디 측정 불가’ 신지, 근육량 늘어났나..“무게 20kg까지 쳐” (어떠신지)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/HpXWTJXSya?f=p"
-        },
-        {
-          "title": "42kg까지 빠졌던 신지, 운동으로 달라진 근황…“요즘 20kg까지 든다”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202609241111003"
-        },
-        {
-          "title": "신지, 긴 머리 하니 배우상 미모 반응 폭발…♥문원 또 반할 듯 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/23/GUZTAOLBGAZGCMZQMIYDIMJWGE/"
-        }
-      ]
-    },
-    {
-      "id": "배드민턴",
-      "rank": 2,
-      "keyword": "배드민턴",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '최강 안세영 1승 챙겼지만…여자 배드민턴, 아쉬운 동메달' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "최강 안세영 1승 챙겼지만…여자 배드민턴, 아쉬운 동메달",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8670690"
-        },
-        {
-          "title": "‘적수가 없다’ 최강 안세영, 더 기대되는 단식 2연패",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20260924/134731421/1"
-        },
-        {
-          "title": "'세계 챔피언' 이소희-백하나, 왜 이틀 연속 충격패...단체전 2연속 0-2 패배, 여자복식 개인전 메달 '초비상'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/09/24/GQ3WKM3BME2WKMZQGBSTQMBYHE/"
-        }
-      ]
-    },
-    {
-      "id": "전현무",
-      "rank": 3,
-      "keyword": "전현무",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"제가 생각만큼 부자는 아니다\"…전현무, '600억 재산설' 해명' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"제가 생각만큼 부자는 아니다\"…전현무, '600억 재산설' 해명",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260923_0003802174"
-        },
-        {
-          "title": "곽튜브, 또 녹화 불참했다…반복되는 부재에 전현무도 체념 \"오늘도 없어\" ('전현무계획')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260924070115689"
-        },
-        {
-          "title": "'재산 600억설' 전현무, 직접 입 열었다 \"생각만큼..\" ('전현무계획4')",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112880455"
-        }
-      ]
-    },
-    {
-      "id": "적금",
-      "rank": 4,
-      "keyword": "적금",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"매일 모으는 맛에 빠졌다\"…적금 넘어 ETF·금까지 '소액 짠테크'' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"매일 모으는 맛에 빠졌다\"…적금 넘어 ETF·금까지 '소액 짠테크'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260924070206770"
-        },
-        {
-          "title": "목돈마련 적금에 꽂힌 2030…5년새 76% 쑥",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/economy/12160474"
-        },
-        {
-          "title": "미션 달성하듯이 돈 모은다…\"저축도 챌린지\" 적금 인기",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008762603"
-        }
-      ]
-    },
-    {
-      "id": "기성용",
-      "rank": 5,
-      "keyword": "기성용",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '사랑꾼 기성용, 한혜진과 망가짐도 불사…화기애애 가족' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "사랑꾼 기성용, 한혜진과 망가짐도 불사…화기애애 가족",
+          "title": "박명수X정준하 ‘하와수’ 다시 뭉쳤다…‘직장인들3’ 출격",
           "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260923/134727477/1"
+          "url": "https://sports.donga.com/ent/article/all/20260923/134724892/1"
         },
         {
-          "title": "한혜진♥기성용, 딸이 직접 찍어준 해변 투샷...결혼 13년차 안 믿겨",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/celebrity/2026/09/23/MY3TAYTEMZRDKYZVG5QWKYLFME/"
+          "title": "추석 밥친구를 구한다면 쿠팡플레이…‘군체’ ‘인턴’ 등 추석 추천작 27편",
+          "source": "ER 이코노믹리뷰",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=751745"
         },
         {
-          "title": "한혜진♥기성용 딸, 벌써 189cm 아빠 어깨까지…12살인데 ‘폭풍 성장’",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202609231413003"
+          "title": "[이번 주 뭐 볼까] 현실고증 코미디 ‘직장인들’ 시즌3",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260922004012906"
         }
       ]
     },
     {
-      "id": "성과급",
-      "rank": 6,
-      "keyword": "성과급",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
+      "id": "이건태",
+      "rank": 2,
+      "keyword": "이건태",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '삼성전자 DS 특별성과급 9월말 발표...1인당 6억원대 보상 전망' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '한준호부터 김용· 박균택·이건태까지 … 흔들리는 李 대통령, 호위무사 전면 배치 나설까' (뉴데일리) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "삼성전자 DS 특별성과급 9월말 발표...1인당 6억원대 보상 전망",
+          "title": "한준호부터 김용· 박균택·이건태까지 … 흔들리는 李 대통령, 호위무사 전면 배치 나설까",
+          "source": "뉴데일리",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/09/23/2026092300263.html"
+        },
+        {
+          "title": "한준호? 천준호? 아니면 ○○○? 차기 비서실장 하마평 (20260921 월요일 클립) 노영희 이정주 강수영",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/video/article/202609212015001"
+        },
+        {
+          "title": "靑, 유시민에 법적 대응 검토…\"李대통령 검찰 개혁 의지 왜곡\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260924120137838"
-        },
-        {
-          "title": "‘6억 성과급’ 삼성 반도체, ‘200만원 의자’에 앉아서 일한다…복지 어떻길래",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/economy/industry/2026/09/24/20260924500057"
-        },
-        {
-          "title": "삼성전자 성과급 세부안 추석 연휴 뒤 공개",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8671070"
+          "url": "https://v.daum.net/v/20260924145952891"
         }
       ]
     },
     {
-      "id": "군수산업",
-      "rank": 7,
-      "keyword": "군수산업",
+      "id": "south-korea-vs-ecuador",
+      "rank": 3,
+      "keyword": "south korea vs ecuador",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[Photo] South Korea football team prepares for match against Ecuador - …' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[Photo] South Korea football team prepares for match against Ecuador - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-photo-spo/2026/09/24/XLHLHBIY7JG2ZDZ3O6BVQFP3VM/"
+        },
+        {
+          "title": "Son Heung-min (34, Los Angeles FC) will wear the captain's armband and make Roberto Moreno's debut i..",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/sports/12160976"
+        },
+        {
+          "title": "Moreno's Korea Debut: Three Things to Prove Against Ecuador",
+          "source": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/sports/2026/09/24/morenos-korea-debut-three-things-to-prove-against-ecuador"
+        }
+      ]
+    },
+    {
+      "id": "tvn",
+      "rank": 4,
+      "keyword": "tvn",
       "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Mamy \"nową Olgę Król\"? Fala krytyki po metamorfozach w \"Top Model\"' (Pudelek.pl) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Mamy \"nową Olgę Król\"? Fala krytyki po metamorfozach w \"Top Model\"",
+          "source": "Pudelek.pl",
+          "url": "https://www.pudelek.pl/a-w-top-model-potok-lez-metamorfozy-bez-metamorfoz-i-nowa-olga-krol-ktora-zaraz-odpadla-w-komentarzach-sie-zagotowalo-dramat-7332792125851872a"
+        },
+        {
+          "title": "Burza po najnowszym odcinku \"Top Model\". Ta metamorfoza przejdzie do historii",
+          "source": "Pomponik",
+          "url": "https://www.pomponik.pl/plotki/news-afera-po-najnowszym-odcinku-top-model-najpierw-przeprowadzon,nId,23548285"
+        },
+        {
+          "title": "Burza wokół metamorfozy w 'Top Model'. Fryzjerzy gwiazd też nie są zgodni. 'Obroni praktycznie wszystko, ale...'",
+          "source": "Plotek.pl",
+          "url": "https://www.plotek.pl/plotek/7,111483,33042349,burza-wokol-metamorfozy-w-top-model-fryzjerzy-gwiazd-tez.html"
+        }
+      ]
+    },
+    {
+      "id": "고속도로",
+      "rank": 5,
+      "keyword": "고속도로",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '짧은 연휴 정체 극심…이 시각 고속도로' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "짧은 연휴 정체 극심…이 시각 고속도로",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260924191251876"
+        },
+        {
+          "title": "추석 귀성길 고속도로 정체 대부분 해소…서울→부산 4시간 30분",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260924/134731898/1"
+        },
+        {
+          "title": "국립중앙박물관서 공연 관람하는 시민들",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260924_0021455218"
+        }
+      ]
+    },
+    {
+      "id": "일본-우루과이",
+      "rank": 6,
+      "keyword": "일본 우루과이",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '일본 대 우루과이 경기 예측: 원정팀 일본, 부진을 끝내겠다는 의지 표출.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "일본 대 우루과이 경기 예측: 원정팀 일본, 부진을 끝내겠다는 의지 표출.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-nhat-ban-vs-uruguay-khach-quyet-chan-da-sa-sut"
+        },
+        {
+          "title": "韓전 앞두고 먼저 만나는 일본 극찬...우루과이 포를란 감독, \"日 탑클래스 팀! 수준 높은 선수들 모였어\"",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=98273"
+        },
+        {
+          "title": "일본 수도권 할퀸 태풍 두쥐안…6명 사망·6명 실종",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Z0Cu95Tshi"
+        }
+      ]
+    },
+    {
+      "id": "아시안게임-축구",
+      "rank": 7,
+      "keyword": "아시안게임 축구",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"홍명보보다 더 큰 재앙 올 수도\" 팬들 우려, 이영표도 '작심발언'으로 보탰다 \"전술 이해할 수 없어\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"홍명보보다 더 큰 재앙 올 수도\" 팬들 우려, 이영표도 '작심발언'으로 보탰다 \"전술 이해할 수 없어\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260924130128554"
+        },
+        {
+          "title": "“군면제를 위한 게임?” 군필자 이영준의 항변",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8670696"
+        },
+        {
+          "title": "[그래픽] 2026 아이치·나고야 아시안 게임 남자 축구 8강 대진표",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8125015"
+        }
+      ]
+    },
+    {
+      "id": "tv조선",
+      "rank": 8,
+      "keyword": "tv조선",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '빙판 서바이벌, 천만뷰 도전, 출장 디너쇼… TV조선 예능 ‘판’ 커졌네' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "빙판 서바이벌, 천만뷰 도전, 출장 디너쇼… TV조선 예능 ‘판’ 커졌네",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/bgccE8lw1v"
+        },
+        {
+          "title": "與 \"조희대, 판사는 출퇴근 관리도 독립인가…尹 가짜출근 떠올라\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260924154329385"
+        },
+        {
+          "title": "민주 \"정치적 배후 답해야\"...국힘 \"내란 협박 중단해야\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202609241900007676"
+        }
+      ]
+    },
+    {
+      "id": "축제",
+      "rank": 9,
+      "keyword": "축제",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
@@ -185,86 +241,30 @@
       "newsSignals": []
     },
     {
-      "id": "이승철",
-      "rank": 8,
-      "keyword": "이승철",
-      "volumeLabel": "500+",
+      "id": "뿌요뿌요",
+      "rank": 10,
+      "keyword": "뿌요뿌요",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '40년 라이브 외길 이승철…“레전드보다 현역이 좋죠”' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '11세가 아시안게임 ‘뿌요뿌요’ 출전…“금 딸래요”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "40년 라이브 외길 이승철…“레전드보다 현역이 좋죠”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8670652"
+          "title": "11세가 아시안게임 ‘뿌요뿌요’ 출전…“금 딸래요”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609231854005"
         },
         {
-          "title": "[잇슈 컬처] ‘데뷔 40주년’ 이승철, 후배 가수들과 협업",
+          "title": "[아시안게임] 11살 초등학생 구리하라, 뿌요뿌요 4연승으로 예선 통과",
           "source": "Daum",
-          "url": "https://v.daum.net/v/Zd2jjPKpTR"
+          "url": "https://v.daum.net/v/20260924181152162"
         },
         {
-          "title": "안방서 즐기는 ‘라이브의 황제’ 단독 공연 [福작福작 한가위]",
-          "source": "세계일보",
-          "url": "https://m.segye.com/view/20260922521073"
-        }
-      ]
-    },
-    {
-      "id": "실신",
-      "rank": 9,
-      "keyword": "실신",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '사우나 하다가 실신→아시안게임 출전 무산됐다…무리한 체중 감량 시도가 원인, 인도 MMA 선수 '눈물의 불참' [나고야 AG]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "사우나 하다가 실신→아시안게임 출전 무산됐다…무리한 체중 감량 시도가 원인, 인도 MMA 선수 '눈물의 불참' [나고야 AG]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260921151637093"
-        },
-        {
-          "title": "인도 무술가, 아시안 게임 20 앞두고 체중 감량으로 실신",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/the-thao/vo-si-an-do-ngat-xiu-vi-ep-can-truoc-them-asiad-20-1770165.ldo"
-        },
-        {
-          "title": "사우나서 땀 빼다가 '실신'...\"전신 경련, 몸 정상 아냐\" 아시안게임 인도 MMA 국가대표, 계체 측정 앞두고 수분 감량 과정서 졸도→대회 기권",
-          "source": "스포탈코리아",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553555508"
-        }
-      ]
-    },
-    {
-      "id": "김나희",
-      "rank": 10,
-      "keyword": "김나희",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"시母가 영웅시대\"..김나희, 사회 이찬원·축가 송가인 '결혼식 어벤저스' 비화 [한복인터뷰③]' (스타뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"시母가 영웅시대\"..김나희, 사회 이찬원·축가 송가인 '결혼식 어벤저스' 비화 [한복인터뷰③]",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/star/2026/09/24/2026092311082512910"
-        },
-        {
-          "title": "아는 척해야 하나…? 정동하 X 김나희, 연예인끼리 마주쳤을 때 현실 반응! [유민상의 배고픈 라디오]",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/radio/sbshungry/clip/80120/22000636052"
-        },
-        {
-          "title": "[단독]김나희, ♥남편 '남주혁 닮은꼴' 적극 해명..\"큰 고통받고 있어\"[한복인터뷰②]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260924072613110"
+          "title": "한국 선수까지 꺾었다…11살 '뿌요뿌요 천재' 日구리하라, AG4연승 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/09/24/2026092416225832673"
         }
       ]
     }
