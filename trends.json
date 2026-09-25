@@ -1,270 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-24T23:50:03.136Z",
+  "updatedAt": "2026-09-25T04:40:48.263Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "weather",
+      "id": "장윤정",
       "rank": 1,
-      "keyword": "weather",
-      "volumeLabel": "2000+",
+      "keyword": "장윤정",
+      "volumeLabel": "10000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Isolated showers linger today, noticeably cooler temps ahead' (Local 3 News) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '장윤정 父 \"가세 기울고 서해대교 2번 가…딸 쌍욕에 끌어안고 펑펑 울어\"' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Isolated showers linger today, noticeably cooler temps ahead",
-          "source": "Local 3 News",
-          "url": "https://www.local3news.com/local-weather/isolated-showers-linger-today-noticeably-cooler-temps-ahead/article_67e4658d-ea11-4e01-a612-01a403dcfb6f.html"
-        },
-        {
-          "title": "Lingering spotty showers bring in a taste of fall",
-          "source": "WVLT",
-          "url": "https://www.wvlt.tv/2026/09/24/lingering-spotty-showers-bring-taste-fall/"
-        },
-        {
-          "title": "American Airlines to move Sky Harbor flights to new terminal",
-          "source": "WOWT",
-          "url": "https://www.wowt.com/video/2026/09/22/american-airlines-move-sky-harbor-flights-new-terminal/"
-        }
-      ]
-    },
-    {
-      "id": "thời-tiết",
-      "rank": 2,
-      "keyword": "thời tiết",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Mưa lớn ở miền Trung, cảnh báo nguy cơ lũ quét, sạt lở đất' (Cổng thông tin đài tiếng nói Việt Nam) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Mưa lớn ở miền Trung, cảnh báo nguy cơ lũ quét, sạt lở đất",
-          "source": "Cổng thông tin đài tiếng nói Việt Nam",
-          "url": "https://vov.gov.vn/mua-lon-o-mien-trung-canh-bao-nguy-co-lu-quet-sat-lo-dat-dtnew-1166561"
-        },
-        {
-          "title": "[Video] Dự báo thời tiết ngày 25/9/2026: Mưa lớn tại Trung Bộ, cục bộ có thể mưa trên 150mm",
-          "source": "Báo Nhân Dân điện tử",
-          "url": "https://nhandan.vn/video-du-bao-thoi-tiet-ngay-2592026-mua-lon-tai-trung-bo-cuc-bo-co-the-mua-tren-150mm-post990838.html"
-        },
-        {
-          "title": "Thời tiết hôm nay 25/9: Trung thu mưa lớn dồn dập ở những khu vực nào?",
-          "source": "Một Thế Giới",
-          "url": "https://1thegioi.vn/thoi-tiet-hom-nay-25-9-trung-thu-mua-lon-don-dap-o-nhung-khu-vuc-nao-258678.html"
-        }
-      ]
-    },
-    {
-      "id": "天气",
-      "rank": 3,
-      "keyword": "天气",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'What is a 'super El Niño' and how will it affect the weather?' (Reuters) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "What is a 'super El Niño' and how will it affect the weather?",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/environment/what-is-super-el-nio-how-will-it-affect-weather-2026-09-24/"
-        },
-        {
-          "title": "Super-sized El Niño could cause more than 450,000 heat deaths by February, study suggests",
-          "source": "ABC7 Los Angeles",
-          "url": "https://abc7.com/story/super-sized-el-nio-could-cause-more-450000-heat-deaths-february-study-suggests/19867587/"
-        },
-        {
-          "title": "The Guardian view on a supersized El Niño: a natural phenomenon and human folly are a lethal combination | Editorial",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/commentisfree/2026/sep/24/the-guardian-view-on-a-supersized-el-nino-a-natural-phenomenon-and-human-folly-are-a-lethal-combination"
-        }
-      ]
-    },
-    {
-      "id": "차례상",
-      "rank": 4,
-      "keyword": "차례상",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '5000원짜리 제수용품? 추석에도 다이소 대박 났다 [언박싱]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "5000원짜리 제수용품? 추석에도 다이소 대박 났다 [언박싱]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260924110209854"
-        },
-        {
-          "title": "\"음식 준비 대신 가족여행·외식\"…10가구 중 7곳 차례 안 지낸다",
+          "title": "장윤정 父 \"가세 기울고 서해대교 2번 가…딸 쌍욕에 끌어안고 펑펑 울어\"",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/society/incident-accident/6300663"
+          "url": "https://www.news1.kr/life-culture/general-cultural/6301497"
         },
         {
-          "title": "많이 차려야 정성?…전통 차례상은 오히려 간소했다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260922_0003800773"
+          "title": "'절연' 모친은 사기 실형...장윤정, 부친 첫 공개 \"제일 친해\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/25/2026092507545178258"
+        },
+        {
+          "title": "장윤정, 영재 교육 포기···장윤정 父, 딸에 미안함 \"목숨 바쳐 해줄 텐데\"",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260924034601218"
         }
       ]
     },
     {
-      "id": "추석-차례상",
+      "id": "조희대",
+      "rank": 2,
+      "keyword": "조희대",
+      "volumeLabel": "5000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '박지원 “조희대는 제2의 윤석열, 대선 나오려 할지도…탄핵하자”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "박지원 “조희대는 제2의 윤석열, 대선 나오려 할지도…탄핵하자”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609240952001"
+        },
+        {
+          "title": "조국 \"조희대 '재제청 거부' 李대통령이 매듭지어야…새 대법원장과 협의하라\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260925_0003803412"
+        },
+        {
+          "title": "민주 \"정치적 배후 답해야\"...국힘 \"내란 협박 중단해야\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202609242237068826"
+        }
+      ]
+    },
+    {
+      "id": "비치발리볼",
+      "rank": 3,
+      "keyword": "비치발리볼",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"노출병 걸렸냐\" 한국서 욕 먹었는데...신지은, 대만선 '비치발리볼 여신' 조명 \"8년 버텨 AG 첫 승 거뒀다\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"노출병 걸렸냐\" 한국서 욕 먹었는데...신지은, 대만선 '비치발리볼 여신' 조명 \"8년 버텨 AG 첫 승 거뒀다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260925061109473"
+        },
+        {
+          "title": "[아시안게임] 비치발리볼 신지은-김정아, 16강 진출 확정 \"최고 기량 펼칠 것\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260925027400007"
+        },
+        {
+          "title": "\"술집 여자 같다\" 비키니 입었다고 악플→돌아온 韓 국대 미녀, 감격의 AG 첫 승...日서도 스타 됐다 \"비방에도 힘차게 전진\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/09/24/GZRDGOBUGVTDSMJYGYZWCOJXGU/"
+        }
+      ]
+    },
+    {
+      "id": "이혼",
+      "rank": 4,
+      "keyword": "이혼",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''고지용 저격' 소재원, '이혼 이유' 밝혔다 \"내 펜=칼날..전처 상처\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'고지용 저격' 소재원, '이혼 이유' 밝혔다 \"내 펜=칼날..전처 상처\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260923153536836?f=m"
+        },
+        {
+          "title": "\"내 펜이 전처에게 칼날\"…소재원 작가가 밝힌 '이혼 사유' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/23/2026092315592378583"
+        },
+        {
+          "title": "‘고지용 저격’ 소재원 작가, 전 장인어른과 통화 공개…“내 펜이 아내에겐 칼날 같았다”",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1637376"
+        }
+      ]
+    },
+    {
+      "id": "육상-경기",
       "rank": 5,
-      "keyword": "추석 차례상",
-      "volumeLabel": "200+",
+      "keyword": "육상 경기",
+      "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '예년보다 11일 이른 추석… “차례상 비용에 영향 미쳤다”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''육상 신성' 중2 왕서윤 연거푸 신기록인데 왜 아시안게임 못 가죠? 잇단 댓글에 취재해봤습니다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "예년보다 11일 이른 추석… “차례상 비용에 영향 미쳤다”",
+          "title": "'육상 신성' 중2 왕서윤 연거푸 신기록인데 왜 아시안게임 못 가죠? 잇단 댓글에 취재해봤습니다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260925052930947"
+          "url": "https://v.daum.net/v/20260924093847169"
         },
         {
-          "title": "[추석생활백과] “홍동백서·조율이시 꼭 따라야 하나”… 차례상 과일 놓는 법",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3433921"
-        },
-        {
-          "title": "추석 성수과일 2주전보다 10% 넘게 상승...휴게소 물가도 비상",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202609231825446606"
-        }
-      ]
-    },
-    {
-      "id": "서울지하철",
-      "rank": 6,
-      "keyword": "서울지하철",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "ionq",
-      "rank": 7,
-      "keyword": "ionq",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Miami’s first quantum computer coming to FIU' (Florida International University) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Miami’s first quantum computer coming to FIU",
-          "source": "Florida International University",
-          "url": "https://news.fiu.edu/2026/miamis-first-quantum-computer-coming-to-fiu"
-        },
-        {
-          "title": "IonQ (IONQ) to Install Superion 256 Quantum Computer at FIU",
-          "source": "TradingView",
-          "url": "https://www.tradingview.com/news/tradingview:249ac102e58b0:0-ionq-ionq-to-install-superion-256-quantum-computer-at-fiu/"
-        },
-        {
-          "title": "FIU Secures Florida’s First IonQ Superion Quantum System",
-          "source": "IonQ",
-          "url": "https://www.ionq.com/news/ionqs-superion-256-platform-selected-by-florida-international-university-for-flagship-deployment"
-        }
-      ]
-    },
-    {
-      "id": "ai-데이터-센터",
-      "rank": 8,
-      "keyword": "ai 데이터 센터",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '오라클 '불가항력' 카드…AI 데이터센터 금융 흔든다' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "오라클 '불가항력' 카드…AI 데이터센터 금융 흔든다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202609245338i"
-        },
-        {
-          "title": "Oracle, 대규모 ’Project Jupiter’ 데이터센터에 불가항력 조항 발동",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2105578"
-        },
-        {
-          "title": "오라클, ‘프로젝트 주피터’ 지연 우려에 주가 4%↓",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01252966645583728"
-        }
-      ]
-    },
-    {
-      "id": "skhy",
-      "rank": 9,
-      "keyword": "skhy",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'SK Hynix Falls 3% Despite Wolfe Research Lifting Its Target to $250; Sa…' (Yahoo Finance) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "SK Hynix Falls 3% Despite Wolfe Research Lifting Its Target to $250; SanDisk Drops 3%, Micron Slides 2%",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-falls-3-despite-182027199.html"
-        },
-        {
-          "title": "Goldman Sachs Research Report Analysis: SK hynix HBM Pricing Rises, LTA Locks in Demand",
-          "source": "深潮TechFlow",
-          "url": "https://www.techflowpost.com/en-US/article/34192"
-        },
-        {
-          "title": "SK hynix: It's Getting Better And Better (NASDAQ:SKHY)",
-          "source": "Seeking Alpha",
-          "url": "https://seekingalpha.com/article/4948936-sk-hynix-its-getting-better-and-better"
-        }
-      ]
-    },
-    {
-      "id": "해외여행",
-      "rank": 10,
-      "keyword": "해외여행",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"케데헌 속 한국, 직접 왔다\"…추석 도심 관광지 '북적'' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"케데헌 속 한국, 직접 왔다\"…추석 도심 관광지 '북적'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/7b3v3ZiPUk"
-        },
-        {
-          "title": "\"짧은 연휴에 유류할증료 부담\"…일본·중국 등 단거리 여행 증가",
+          "title": "보은군, 제7회 전국 초·중·고등학교 학년별 육상경기대회 성료",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260923155600030"
+          "url": "https://www.yna.co.kr/view/RPR20260922005600353"
         },
         {
-          "title": "너도나도 해외여행 가더니…\"비싼 돈 쓰고 생고생\" 지갑 닫는 이유 셋 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/culture/2026/09/24/2026092312345775444"
+          "title": "경기체고 임재우, 전국초중고 학년별 육상 남고부 3학년 800m 신기록",
+          "source": "중부일보",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363737637"
+        }
+      ]
+    },
+    {
+      "id": "추가은",
+      "rank": 6,
+      "keyword": "추가은",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[아시안게임] 사격 추가은-홍수현, 공기권총 혼성 단체전 은메달' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[아시안게임] 사격 추가은-홍수현, 공기권총 혼성 단체전 은메달",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260925027500007"
+        },
+        {
+          "title": "남자 사격, 50m 소총 3자세 단체전 동메달…정승우 결선행[나고야AG]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260925_0003803351"
+        },
+        {
+          "title": "중국 관중 방해 뚫고 금메달 추가한 추가은",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8670858"
+        }
+      ]
+    },
+    {
+      "id": "김지찬",
+      "rank": 7,
+      "keyword": "김지찬",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘엉성 운영’에 ‘말끔 뒷정리’로 답한 야구대표팀…내일 슈퍼라운드' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘엉성 운영’에 ‘말끔 뒷정리’로 답한 야구대표팀…내일 슈퍼라운드",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8670892"
+        },
+        {
+          "title": "결승전 '올인' 하려면…\"사회인도 기량 안 떨어져\" 한일전 승리, 자존심 말고도 수확이 많다 [도요하시 현장]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/25/GQ2DQNTGGE3WMNZYG44WIOJSHA/"
+        },
+        {
+          "title": "'아프니까 홈런이다' 박재현, 꼬리뼈에 공 맞고 만루포…\"덕분에 정신 차린 것 같아\" [AG 현장]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260924050142838"
+        }
+      ]
+    },
+    {
+      "id": "은가은",
+      "rank": 8,
+      "keyword": "은가은",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[단독]\"임신 후 무대 줄어\"..은가은♥박현호, 트로트 1호 부부의 진심 [한복인터뷰①]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[단독]\"임신 후 무대 줄어\"..은가은♥박현호, 트로트 1호 부부의 진심 [한복인터뷰①]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260925061253490"
+        },
+        {
+          "title": "트로트가수 은가은, 한복 입고 윙크로 전한 추석 인사",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16211417"
+        },
+        {
+          "title": "[단독] 은가은♥박현호, 이혼 루머 물렀거라..\"재벌설? 헛웃음만\" [한복인터뷰③]",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/music/2026/09/25/2026092315081840523"
+        }
+      ]
+    },
+    {
+      "id": "설영우",
+      "rank": 9,
+      "keyword": "설영우",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''국민 욕받이'였던 선수도 전술 바뀌자 여론 반전! 설영우에게 쏟아진 호평' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'국민 욕받이'였던 선수도 전술 바뀌자 여론 반전! 설영우에게 쏟아진 호평",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260925081149007"
+        },
+        {
+          "title": "크로스 올리는 설영우",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260924_0021456285"
+        },
+        {
+          "title": "“확실히 포백을 쓰니까 편하다!” 홍명보 스리백과 결별한 김민재도 ‘함박웃음’…모레노 첫 경기 무실점 완승 [현장 인터뷰]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/X4e6i8lwTD"
+        }
+      ]
+    },
+    {
+      "id": "도지코인",
+      "rank": 10,
+      "keyword": "도지코인",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '비트코인, 유가·美국채금리 급등에도 상승…1억1500만원대' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "비트코인, 유가·美국채금리 급등에도 상승…1억1500만원대",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260925103737563"
+        },
+        {
+          "title": "비트코인, 1억1500만원선 상승…미중 정상회담 영향은 제한적",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260925_0003803345"
+        },
+        {
+          "title": "美금리 악재에 버티기…숏청산에 8.4만달러 회복",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01708886645583728"
         }
       ]
     }
