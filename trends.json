@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-25T15:28:26.410Z",
+  "updatedAt": "2026-09-25T19:29:41.831Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,72 +9,44 @@
       "rank": 1,
       "keyword": "내일 날씨",
       "volumeLabel": "500000+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[날씨/XR] '구름 뒤 보름달' 전국 비…내일까지 이어져' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "8시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '[뉴스9 날씨] 내일, 남부·제주에 비…중부 오전부터 맑아져' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[날씨/XR] '구름 뒤 보름달' 전국 비…내일까지 이어져",
+          "title": "[뉴스9 날씨] 내일, 남부·제주에 비…중부 오전부터 맑아져",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260925220006655"
+          "url": "https://v.daum.net/v/20260925214622502"
         },
         {
-          "title": "[날씨] 한옥마을에 울려 퍼지는 '판소리', 추석 정취 물씬...전국 곳곳 비",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0108_202609251554524766_005.html"
+          "title": "[날씨] 추석 연휴 흐린 날씨 속 비…보름달 감상 어려워",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260924014300038"
         },
         {
-          "title": "[날씨] 내일까지 전국 비‥풍랑·너울 주의",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6854141_37004.html"
-        }
-      ]
-    },
-    {
-      "id": "중산층",
-      "rank": 2,
-      "keyword": "중산층",
-      "volumeLabel": "5000+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"4억 자산 있어도 중산층 아닙니다\"…진짜 중산층의 6가지 조건 뭐길래[주末머니]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"4억 자산 있어도 중산층 아닙니다\"…진짜 중산층의 6가지 조건 뭐길래[주末머니]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260925141651236"
-        },
-        {
-          "title": "＇순자산 4억원＇도 부족하다…＇진짜 중산층＇ 6가지 조건 따져보니",
-          "source": "한국경제TV",
-          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609250041"
-        },
-        {
-          "title": "“월 631만원 벌어도 끝 아니야”…진짜 중산층은 4가구 중 1가구",
-          "source": "한경매거진&북",
-          "url": "https://magazine.hankyung.com/business/article/202609255913b"
+          "title": "밤사이 전남 해안 강한 비…오전에 중부 지방부터 점차 맑아져",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8671759"
         }
       ]
     },
     {
       "id": "정은혜",
-      "rank": 3,
+      "rank": 2,
       "keyword": "정은혜",
       "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '다운증후군 작가 서은혜, 초음파 사진 확산 후 \"AI 이미지, 임신 아냐\" 해명' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "7시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '다운증후군 작가 서은혜, 초음파 사진 확산 후 \"AI 이미지, 임신 아냐\" 해명' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "다운증후군 작가 서은혜, 초음파 사진 확산 후 \"AI 이미지, 임신 아냐\" 해명",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/3cT91fCEXI"
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6301687"
         },
         {
           "title": "서은혜, 임신설 해명 \"초음파 사진, AI 이미지…아이 갖지 않기로 합의\" - 머니투데이",
@@ -82,20 +54,76 @@
           "url": "https://www.mt.co.kr/entertainment/2026/09/25/2026092515391184725"
         },
         {
-          "title": "'한지민 쌍둥이 언니' 서은혜, 초음파 사진 공개…조영남과 미소 활짝",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202609251415210782"
+          "title": "“임신 사실무근, AI 사진”…‘우리들의 블루스’ 서은혜 측 해명 [단독]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/zwwKlpjJvT"
+        }
+      ]
+    },
+    {
+      "id": "하주석",
+      "rank": 3,
+      "keyword": "하주석",
+      "volumeLabel": "1000+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이범호 “KIA에서 많이 안 뛰더니 도루 많이 하네”…80억 유격수 “뒤에서 빵빵 쳤으니까 뛸 필요가 없었죠”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이범호 “KIA에서 많이 안 뛰더니 도루 많이 하네”…80억 유격수 “뒤에서 빵빵 쳤으니까 뛸 필요가 없었죠”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qAqW7PvmWv"
+        },
+        {
+          "title": "\"박찬호 아니었으면 지금도 서산에…\" KIA 트레이드 보물도 인정, 80억 FA는 누군가의 야구인생을 바꿨다",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1009357"
+        },
+        {
+          "title": "KT→삼성→LG→KIA→두산→가을야구 대진표 확정? 야구에 100% 없지만…박찬호가 괜히 광주행 티켓 얘기한 게 아니다",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260924n15699?issue_sq=8588"
+        }
+      ]
+    },
+    {
+      "id": "맨시티",
+      "rank": 4,
+      "keyword": "맨시티",
+      "volumeLabel": "1000+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"우승 박탈까지 가능\" 맨시티, 115개 혐의 중 114개 '유죄' 판정...프리미어리그 퇴출 가능성도' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"우승 박탈까지 가능\" 맨시티, 115개 혐의 중 114개 '유죄' 판정...프리미어리그 퇴출 가능성도",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260926000213634"
+        },
+        {
+          "title": "맨체스터 시티 초대형 위기! ‘115개 혐의 중 114개 유죄’ 판정…승점 삭감 넘어 PL 퇴출 가능성까지",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=695234"
+        },
+        {
+          "title": "맨체스터 시티는 115개 혐의 중 114개 혐의에 대해 유죄 판결을 받았습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/man-city-bi-ket-toi-o-114-115-cao-buoc"
         }
       ]
     },
     {
       "id": "이은결",
-      "rank": 4,
+      "rank": 5,
       "keyword": "이은결",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "6시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '용인문화재단, 이은결 데뷔 30주년 기념 공연 10월 말 개최' (기호일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -117,97 +145,41 @@
       ]
     },
     {
-      "id": "thời-tiết-ngày-mai",
-      "rank": 5,
-      "keyword": "thời tiết ngày mai",
-      "volumeLabel": "2000+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Cảnh báo đợt mưa lớn cục bộ kèm lốc sét tại Trung Bộ và Nam Bộ từ chiều…' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Cảnh báo đợt mưa lớn cục bộ kèm lốc sét tại Trung Bộ và Nam Bộ từ chiều tối 25/09/2026",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/canh-bao-dot-mua-lon-cuc-bo-kem-loc-set-tai-trung-bo-va-nam-bo-tu-chieu-toi-25-09-2026"
-        },
-        {
-          "title": "Ngày mai, nhiều tỉnh thành sẽ có mưa to đến rất to",
-          "source": "Chuyển động Thị trường",
-          "url": "https://chuyendongthitruong.vn/ngay-mai-nhieu-tinh-thanh-se-co-mua-to-den-rat-to-340445.html"
-        },
-        {
-          "title": "Bản tin dự báo thời tiết đêm nay và ngày mai 26.9",
-          "source": "Laodong.vn",
-          "url": "https://laodong.vn/video/ban-tin-du-bao-thoi-tiet-dem-nay-va-ngay-mai-269-1772768.ldo"
-        }
-      ]
-    },
-    {
-      "id": "weather-tomorrow",
+      "id": "olympia",
       "rank": 6,
-      "keyword": "weather tomorrow",
-      "volumeLabel": "2000+",
-      "startedLabel": "4시간 전",
+      "keyword": "olympia",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'UAE weather: it's officially autumn equinox today, so why still 45°C?' (Gulf News) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Mr. Olympia schedule 2026: Dates, times, live stream to watch men's, wo…' (Sporting News AU) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "UAE weather: it's officially autumn equinox today, so why still 45°C?",
-          "source": "Gulf News",
-          "url": "https://gulfnews.com/uae/weather/uae-weather-its-officially-autumn-equinox-today-so-why-still-45c-1.500684604"
+          "title": "Mr. Olympia schedule 2026: Dates, times, live stream to watch men's, women's bodybuilding events",
+          "source": "Sporting News AU",
+          "url": "https://www.sportingnews.com/us/tsn/news/mr-olympia-schedule-2026-times-live-stream-watch-bodybuilding/1f0b6628afa9a07020047700"
         },
         {
-          "title": "NCM forecasts fair, partly cloudy, and humid conditions Saturday",
-          "source": "Sharjah24",
-          "url": "https://sharjah24.ae/en/Articles/2026/09/25/KMR3"
+          "title": "2026 Mr. Olympia Free Livestream: Watch Here (Friday Pre-Judging LIVE)",
+          "source": "Generation Iron",
+          "url": "https://generationiron.com/watch-2026-olympia-livestream/"
         },
         {
-          "title": "UAE weather forecast: Head to Jebel Jais for 29°C this weekend",
-          "source": "Emirates 24|7",
-          "url": "https://www.emirates247.com/uae/uae-weather-forecast-41c-in-abu-dhabi-and-dubai-but-head-to-jebel-jais-for-29c-this-weekend/6024"
-        }
-      ]
-    },
-    {
-      "id": "박현호",
-      "rank": 7,
-      "keyword": "박현호",
-      "volumeLabel": "2000+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] 은가은♥박현호, 이혼 루머 물렀거라..\"재벌설? 헛웃음만\" [한복인터뷰③]' (스타뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[단독] 은가은♥박현호, 이혼 루머 물렀거라..\"재벌설? 헛웃음만\" [한복인터뷰③]",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/music/2026/09/25/2026092315081840523"
-        },
-        {
-          "title": "트로트가수 은가은, 한복 입고 윙크로 전한 추석 인사",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16211417"
-        },
-        {
-          "title": "“연분홍 한복이 이렇게 잘 어울려?”...은가은, 추석 맞아 단아한 명절 인사",
-          "source": "https://www.ppss.kr/",
-          "url": "https://www.ppss.kr/news/articleView.html?idxno=312448"
+          "title": "How to Watch the 2026 Mr. Olympia Press Conference Free Today",
+          "source": "Fitness Volt",
+          "url": "https://fitnessvolt.com/watch-the-2026-mr-olympia-press-conference/"
         }
       ]
     },
     {
       "id": "이승철",
-      "rank": 8,
+      "rank": 7,
       "keyword": "이승철",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "5시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '박보검 뜨자 “내 이럴 줄 알았다”…1.2만명 빵 터진 이승철 발언' (중앙일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -217,42 +189,70 @@
           "url": "https://www.joongang.co.kr/article/25464709"
         },
         {
-          "title": "한가위 대기획 '이승철 콘서트', 국대 축구 A매치도 이겼다…분당 최고 6.1%",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260925132241615"
-        },
-        {
           "title": "거장들의 무대부터 흥행 영화까지…풍성한 추석 안방 볼거리",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260923137100005"
+        },
+        {
+          "title": "가수 이승철 출연한 더헤븐리조트 캠페인, 뉴욕 타임스퀘어에 등장",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260925195013995"
         }
       ]
     },
     {
-      "id": "기사",
-      "rank": 9,
-      "keyword": "기사",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
+      "id": "사회적-고립",
+      "rank": 8,
+      "keyword": "사회적 고립",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이 대통령, 임기 다시 언급…유시민 겨냥 발언도' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“일주일 동안 전화 한통 안와”…쓸쓸히 죽음 맞는 노인들' (매일경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이 대통령, 임기 다시 언급…유시민 겨냥 발언도",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260925131634IZt"
+          "title": "“일주일 동안 전화 한통 안와”…쓸쓸히 죽음 맞는 노인들",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/society/12161378"
         },
         {
-          "title": "이 대통령 \"멕시코와 모든 방면에서 협력 지속\"‥연임 가능성 재차 일축",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6854126_37004.html"
+          "title": "“일주일 동안 전화 한통 안와”…쓸쓸히 죽음 맞는 노인들",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260925163904898"
         },
         {
-          "title": "이 대통령, 유시민 겨냥 “국보법 폐지 주장했던 누군가 때문에 독소조항 못없애”",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202609251717001"
+          "title": "친구 0명, 전화 한 통 없이 일주일 지나간다…가난보다 무서운 혼자의 삶",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20094911"
+        }
+      ]
+    },
+    {
+      "id": "윌스미스",
+      "rank": 9,
+      "keyword": "윌스미스",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Rob Lowe explains why he was ‘the only person happy’ when Will Smith sl…' (Yahoo) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Rob Lowe explains why he was ‘the only person happy’ when Will Smith slapped Chris Rock at the Oscars",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/entertainment/articles/rob-lowe-explains-why-only-023008649.html"
+        },
+        {
+          "title": "Rob Lowe Explains Why He Was The 'Only Person' Who Was 'Happy' Will Smith Slapped Chris Rock",
+          "source": "HuffPost",
+          "url": "https://www.huffpost.com/entry/rob-lowe-happy-will-smith-chris-rock-oscars-slap_n_6ab677c9e4b0bad9a6470c5b"
+        },
+        {
+          "title": "Rob Lowe Discusses 1989 Oscars Blunder and Will Smith Incident",
+          "source": "SuaraGarut.ID",
+          "url": "https://suaragarut.id/en/rob-lowe-oscars-will-smith"
         }
       ]
     }
