@@ -1,17 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-25T19:29:41.831Z",
+  "updatedAt": "2026-09-26T01:25:10.178Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "내일-날씨",
+      "id": "날씨",
       "rank": 1,
-      "keyword": "내일 날씨",
-      "volumeLabel": "500000+",
-      "startedLabel": "8시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
+      "keyword": "날씨",
+      "volumeLabel": "200000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
       "summary": "급상승 시점에 '[뉴스9 날씨] 내일, 남부·제주에 비…중부 오전부터 맑아져' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -21,238 +21,266 @@
           "url": "https://v.daum.net/v/20260925214622502"
         },
         {
-          "title": "[날씨] 추석 연휴 흐린 날씨 속 비…보름달 감상 어려워",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20260924014300038"
+          "title": "낮에 남부, 저녁엔 제주도 곳에 따라 비",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609260904001"
         },
         {
-          "title": "밤사이 전남 해안 강한 비…오전에 중부 지방부터 점차 맑아져",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8671759"
+          "title": "인천, 새벽까지 5~10㎜ 비 예보…오전부터 맑아져",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260925_0003803560"
         }
       ]
     },
     {
-      "id": "정은혜",
+      "id": "과일",
       "rank": 2,
-      "keyword": "정은혜",
-      "volumeLabel": "2000+",
-      "startedLabel": "7시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '다운증후군 작가 서은혜, 초음파 사진 확산 후 \"AI 이미지, 임신 아냐\" 해명' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "과일",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“혼수 상태로 실려온다” 당뇨 의사가 질색하는 과일 2가지' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "다운증후군 작가 서은혜, 초음파 사진 확산 후 \"AI 이미지, 임신 아냐\" 해명",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6301687"
-        },
-        {
-          "title": "서은혜, 임신설 해명 \"초음파 사진, AI 이미지…아이 갖지 않기로 합의\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/25/2026092515391184725"
-        },
-        {
-          "title": "“임신 사실무근, AI 사진”…‘우리들의 블루스’ 서은혜 측 해명 [단독]",
+          "title": "“혼수 상태로 실려온다” 당뇨 의사가 질색하는 과일 2가지",
           "source": "Daum",
-          "url": "https://v.daum.net/v/zwwKlpjJvT"
+          "url": "https://v.daum.net/v/20260926060230283"
+        },
+        {
+          "title": "‘혈당 관리할 때’ 먹기 좋은 과일 4가지",
+          "source": "헬스조선",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/09/15/2026091503004.html"
+        },
+        {
+          "title": "사과 vs 배, 혈당 관리에 더 좋은 과일은 어느 쪽?",
+          "source": "조세일보",
+          "url": "https://m.joseilbo.com/news/view.htm?newsid=576290&class2=&class=6"
         }
       ]
     },
     {
-      "id": "하주석",
+      "id": "임영웅",
       "rank": 3,
-      "keyword": "하주석",
-      "volumeLabel": "1000+",
-      "startedLabel": "4시간 전",
+      "keyword": "임영웅",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이범호 “KIA에서 많이 안 뛰더니 도루 많이 하네”…80억 유격수 “뒤에서 빵빵 쳤으니까 뛸 필요가 없었죠”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"임영웅 행사비 1억, 가수 추가 섭외 힘들다\"…김호중·박지현 몸값은 얼마' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이범호 “KIA에서 많이 안 뛰더니 도루 많이 하네”…80억 유격수 “뒤에서 빵빵 쳤으니까 뛸 필요가 없었죠”",
+          "title": "\"임영웅 행사비 1억, 가수 추가 섭외 힘들다\"…김호중·박지현 몸값은 얼마",
           "source": "Daum",
-          "url": "https://v.daum.net/v/qAqW7PvmWv"
+          "url": "https://v.daum.net/v/uwcsOfCEZp"
         },
         {
-          "title": "\"박찬호 아니었으면 지금도 서산에…\" KIA 트레이드 보물도 인정, 80억 FA는 누군가의 야구인생을 바꿨다",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1009357"
+          "title": "“임영웅 오면 다른 가수 못 부른다. 행사비 1억 이상”..확 달라진 2026 트로트 행사 시장",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-25/202609250100168570011077"
         },
         {
-          "title": "KT→삼성→LG→KIA→두산→가을야구 대진표 확정? 야구에 100% 없지만…박찬호가 괜히 광주행 티켓 얘기한 게 아니다",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260924n15699?issue_sq=8588"
+          "title": "임영웅 행사비 관심… 정말 억 소리 나는 금액이다",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1162013"
         }
       ]
     },
     {
-      "id": "맨시티",
+      "id": "jpn-vs-nep",
       "rank": 4,
-      "keyword": "맨시티",
-      "volumeLabel": "1000+",
-      "startedLabel": "4시간 전",
+      "keyword": "jpn vs nep",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"우승 박탈까지 가능\" 맨시티, 115개 혐의 중 114개 '유죄' 판정...프리미어리그 퇴출 가능성도' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'JPN vs NEP Today’s Match Prediction & Cricket Betting Tips: Asian Games…' (India Fantasy) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"우승 박탈까지 가능\" 맨시티, 115개 혐의 중 114개 '유죄' 판정...프리미어리그 퇴출 가능성도",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260926000213634"
+          "title": "JPN vs NEP Today’s Match Prediction & Cricket Betting Tips: Asian Games 2026, Match 5, September 26",
+          "source": "India Fantasy",
+          "url": "https://www.indiafantasy.com/cricket-betting/tips/jpn-vs-nep-september-26/"
         },
         {
-          "title": "맨체스터 시티 초대형 위기! ‘115개 혐의 중 114개 유죄’ 판정…승점 삭감 넘어 PL 퇴출 가능성까지",
-          "source": "인터풋볼",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=695234"
+          "title": "Japan vs Nepal Live Streaming: When And Where To Watch JPN vs NEP Asian Games 2026 Match",
+          "source": "NDTV Profit",
+          "url": "https://www.ndtvprofit.com/sports/japan-vs-nepal-live-streaming-when-and-where-to-watch-jpn-vs-nep-asian-games-2026-match-online-12096782"
         },
         {
-          "title": "맨체스터 시티는 115개 혐의 중 114개 혐의에 대해 유죄 판결을 받았습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/man-city-bi-ket-toi-o-114-115-cao-buoc"
+          "title": "Japan vs Nepal and Malaysia vs Oman: T20 Predictions and Fantasy Tips",
+          "source": "Cricket World",
+          "url": "https://www.cricketworld.com/match-predictions-asian-games-in-japan-mens-2026-5th-match-japan-vs-nepal-and-6th-match-malaysia-vs-oman-september-25th/113495.htm"
         }
       ]
     },
     {
-      "id": "이은결",
+      "id": "연애전쟁",
       "rank": 5,
-      "keyword": "이은결",
-      "volumeLabel": "1000+",
-      "startedLabel": "6시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '용인문화재단, 이은결 데뷔 30주년 기념 공연 10월 말 개최' (기호일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "용인문화재단, 이은결 데뷔 30주년 기념 공연 10월 말 개최",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3035738"
-        },
-        {
-          "title": "이은결 30주년 공연 ‘매직콘서트’ 추석 안방 최초 공개",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/519253"
-        },
-        {
-          "title": "마술사 이은결, “나의 가장 강력한 주문은 ‘될때까지’” [송원섭의 와칭]",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260924140035475"
-        }
-      ]
-    },
-    {
-      "id": "olympia",
-      "rank": 6,
-      "keyword": "olympia",
+      "keyword": "연애전쟁",
       "volumeLabel": "500+",
       "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Mr. Olympia schedule 2026: Dates, times, live stream to watch men's, wo…' (Sporting News AU) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"방송 후 각자의 길\"…'연애전쟁'서 갈등 공개한 22기 현숙·16기 광수 결별' (노컷뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Mr. Olympia schedule 2026: Dates, times, live stream to watch men's, women's bodybuilding events",
-          "source": "Sporting News AU",
-          "url": "https://www.sportingnews.com/us/tsn/news/mr-olympia-schedule-2026-times-live-stream-watch-bodybuilding/1f0b6628afa9a07020047700"
+          "title": "\"방송 후 각자의 길\"…'연애전쟁'서 갈등 공개한 22기 현숙·16기 광수 결별",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6583168"
         },
         {
-          "title": "2026 Mr. Olympia Free Livestream: Watch Here (Friday Pre-Judging LIVE)",
-          "source": "Generation Iron",
-          "url": "https://generationiron.com/watch-2026-olympia-livestream/"
+          "title": "22기현숙·16기광수 결별…\"촬영 후 각자 길 가기로 해\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260924_0003803150"
         },
         {
-          "title": "How to Watch the 2026 Mr. Olympia Press Conference Free Today",
-          "source": "Fitness Volt",
-          "url": "https://fitnessvolt.com/watch-the-2026-mr-olympia-press-conference/"
+          "title": "'나솔' 22기 현숙, 16기 광수와 결별 인정 \"이혼 후 첫 연애 서툴러…각자의 길 걷기로\"",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260924n12933?mid=e01&list=recent&cpcd="
         }
       ]
     },
     {
-      "id": "이승철",
-      "rank": 7,
-      "keyword": "이승철",
-      "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 '박보검 뜨자 “내 이럴 줄 알았다”…1.2만명 빵 터진 이승철 발언' (중앙일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "박보검 뜨자 “내 이럴 줄 알았다”…1.2만명 빵 터진 이승철 발언",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25464709"
-        },
-        {
-          "title": "거장들의 무대부터 흥행 영화까지…풍성한 추석 안방 볼거리",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260923137100005"
-        },
-        {
-          "title": "가수 이승철 출연한 더헤븐리조트 캠페인, 뉴욕 타임스퀘어에 등장",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260925195013995"
-        }
-      ]
-    },
-    {
-      "id": "사회적-고립",
-      "rank": 8,
-      "keyword": "사회적 고립",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "id": "박명수",
+      "rank": 6,
+      "keyword": "박명수",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“일주일 동안 전화 한통 안와”…쓸쓸히 죽음 맞는 노인들' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '박명수 기도 통했네…'무용 엘리트' 딸 수시로 대학 합격' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“일주일 동안 전화 한통 안와”…쓸쓸히 죽음 맞는 노인들",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12161378"
+          "title": "박명수 기도 통했네…'무용 엘리트' 딸 수시로 대학 합격",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260925_0003803555"
         },
         {
-          "title": "“일주일 동안 전화 한통 안와”…쓸쓸히 죽음 맞는 노인들",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260925163904898"
+          "title": "박명수 딸 ‘무용 영재’ 민서, 대학 수시 합격에 축하 쏟아져",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202609260717003"
         },
         {
-          "title": "친구 0명, 전화 한 통 없이 일주일 지나간다…가난보다 무서운 혼자의 삶",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20094911"
+          "title": "박명수, 딸 민서 언급 “아빠가 박명수라고 절대 말 안 해”..왜? (‘할명수’) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/25/MJSTSODEMQ4DSMBQGI4DKMBYHA/"
         }
       ]
     },
     {
-      "id": "윌스미스",
+      "id": "재건축",
+      "rank": 7,
+      "keyword": "재건축",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '서울 아파트는 신축보다 재건축…20년 초과, 매매가 상승폭 압도' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "서울 아파트는 신축보다 재건축…20년 초과, 매매가 상승폭 압도",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260925092702234"
+        },
+        {
+          "title": "서울 20년 초과 노후 아파트, 신축 상승률 누르고 진격",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0102_202609251520248556"
+        },
+        {
+          "title": "서울 '20년 초과' 구축 아파트, 신축보다 8월 매매가격 상승폭 커",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6854089_36932.html"
+        }
+      ]
+    },
+    {
+      "id": "배틀그라운드",
+      "rank": 8,
+      "keyword": "배틀그라운드",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '영구 제재에 피해자 보호까지…크래프톤, '방플' 논란 수습 국면' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "영구 제재에 피해자 보호까지…크래프톤, '방플' 논란 수습 국면",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260924054607644"
+        },
+        {
+          "title": "‘방플 논란’ 베트남 선수 2명, 배그 e스포츠서 영구 퇴출",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20094748"
+        },
+        {
+          "title": "크래프톤, 'PUBG 아시아 스타즈' 논란 수습... 선수 영구 제재·피해자 보호 나서",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260923000195"
+        }
+      ]
+    },
+    {
+      "id": "김가연",
       "rank": 9,
-      "keyword": "윌스미스",
+      "keyword": "김가연",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Rob Lowe explains why he was ‘the only person happy’ when Will Smith sl…' (Yahoo) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '김가연 모친, 사위보다 6살 어린 손주사위에 대만족 \"마음에 쏙 들어\" (게임부부)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Rob Lowe explains why he was ‘the only person happy’ when Will Smith slapped Chris Rock at the Oscars",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/entertainment/articles/rob-lowe-explains-why-only-023008649.html"
+          "title": "김가연 모친, 사위보다 6살 어린 손주사위에 대만족 \"마음에 쏙 들어\" (게임부부)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/tVZQNKmjHK"
         },
         {
-          "title": "Rob Lowe Explains Why He Was The 'Only Person' Who Was 'Happy' Will Smith Slapped Chris Rock",
-          "source": "HuffPost",
-          "url": "https://www.huffpost.com/entry/rob-lowe-happy-will-smith-chris-rock-oscars-slap_n_6ab677c9e4b0bad9a6470c5b"
+          "title": "김가연 “박보검에 반찬 보내줘…팬클럽 ‘보검복지부’ 회원”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260926/134733524/1"
         },
         {
-          "title": "Rob Lowe Discusses 1989 Oscars Blunder and Will Smith Incident",
-          "source": "SuaraGarut.ID",
-          "url": "https://suaragarut.id/en/rob-lowe-oscars-will-smith"
+          "title": "김가연, 박보검에 “한번씩 반찬 보내준다”",
+          "source": "BNT뉴스",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202609260067"
+        }
+      ]
+    },
+    {
+      "id": "퇴장",
+      "rank": 10,
+      "keyword": "퇴장",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '총 쏘는 세리머니?…이스라엘 축구 선수, 경고 누적으로 '퇴장'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "총 쏘는 세리머니?…이스라엘 축구 선수, 경고 누적으로 '퇴장'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/yobNlbrNH9"
+        },
+        {
+          "title": "7만명 넘게 숨졌는데…골 넣고 '탕탕' 총질 세리머니 한 이스라엘 축구선수",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260925000037"
+        },
+        {
+          "title": "총쏘는 세리머니? 당구 세리머니? 이게 퇴장감?",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202609250905003"
         }
       ]
     }
