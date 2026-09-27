@@ -1,258 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-26T22:38:02.022Z",
+  "updatedAt": "2026-09-27T01:17:33.518Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "복권",
+      "id": "스타벅스",
       "rank": 1,
-      "keyword": "복권",
-      "volumeLabel": "20000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[속보]로또 1243회 당첨번호 '9·18·24·38·43·44'…보너스 '35'' (이데일리) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[속보]로또 1243회 당첨번호 '9·18·24·38·43·44'…보너스 '35'",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02312406645584056&mediaCodeNo=257"
-        },
-        {
-          "title": "밤 10시 넘었는데…로또 추첨, 아시안게임 야구 경기로 지연 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/09/26/2026092622255739524"
-        },
-        {
-          "title": "1243회 로또 1등 12명… 당첨금 각 25.9억원 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/topics/topics_social/2026/09/26/TQGIFRGYFNG5ZNCD253IR2KMR4/"
-        }
-      ]
-    },
-    {
-      "id": "심수봉",
-      "rank": 2,
-      "keyword": "심수봉",
+      "keyword": "스타벅스",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '심수봉 '김다현 비난' 사태 정미애에 불똥…\"발언 못 들었다\"' (노컷뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "심수봉 '김다현 비난' 사태 정미애에 불똥…\"발언 못 들었다\"",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6583300"
-        },
-        {
-          "title": "유퉁 \"심수봉 정신 왔다 갔다, 스스로 연예계 사망 선고\"…'김다현 직격'에 쓴소리",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/people/6301585"
-        },
-        {
-          "title": "\"심수봉, 일반인도 비꼬고 훈계\" 녹화장 폭로글 등장 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/09/24/2026092411514728169"
-        }
-      ]
-    },
-    {
-      "id": "육상-경기",
-      "rank": 3,
-      "keyword": "육상 경기",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"한국 육상 여신, 말 안 나올 정도로 예쁘다\" 일본 팬들, 나고야 트랙에 등장한 김주하에 환호…외모→기록→소신 발언까지' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"한국 육상 여신, 말 안 나올 정도로 예쁘다\" 일본 팬들, 나고야 트랙에 등장한 김주하에 환호…외모→기록→소신 발언까지",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260927040639927"
-        },
-        {
-          "title": "\"밥이 너무 부실해\" 불만 터뜨린 韓 미녀 스프린터, 준결승 탈락에도 日 사로잡았다 \"말을 잃을 정도 미모\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/09/26/GBSTONZSG5TDMZLCGY4DQMRYMY/"
-        },
-        {
-          "title": "\"식사가 너무 부실해\" 韓 미녀 스프린터 쓴소리, 日 매체도 한숨 쉰 AG 부실 운영 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/25/2026092508095223213"
-        }
-      ]
-    },
-    {
-      "id": "대통령",
-      "rank": 4,
-      "keyword": "대통령",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이 대통령 \"한·멕 무역협정 논의 조속히 재개…기업 도전 뒷받침\"' (정책브리핑) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "이 대통령 \"한·멕 무역협정 논의 조속히 재개…기업 도전 뒷받침\"",
-          "source": "정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148972615&pWise=sub&pWiseSub=R1"
-        },
-        {
-          "title": "이 대통령, 미국·멕시코 순방 마치고 귀국길…국내 현안 집중",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260927071503267"
-        },
-        {
-          "title": "순방 외교 마무리...대북 정책 '험로' 예고",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202609270312115551"
-        }
-      ]
-    },
-    {
-      "id": "박서진",
-      "rank": 5,
-      "keyword": "박서진",
-      "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '박서진, 비극적 가정사 또 있었다..\"母 뱃일 하다 유산\" [별별TV][살림남2]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '스타벅스 전국 250개 매장 이번주 폐점' (미주중앙일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "박서진, 비극적 가정사 또 있었다..\"母 뱃일 하다 유산\" [별별TV][살림남2]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/zM5PFTQ9hm"
+          "title": "스타벅스 전국 250개 매장 이번주 폐점",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260926090008989"
         },
         {
-          "title": "박서진, 父 병원행에 30년 만 ‘선상제’까지…추석에 다시 꺼낸 가슴 아픈 가족사(살림남)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/27/GMYGMOLFGA2DOZLCGQ2WKYJTGI/"
+          "title": "스타벅스, 북미 250개 지점 문 닫는다…1년만에 또 대규모 폐점",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260925016400075"
         },
         {
-          "title": "첫 친정 방문! 조카 은가은을 위한 가족들의 선물🥰 | KBS 260926 방송",
-          "source": "대한민국 대표 공영미디어 KBS",
-          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026162997-01-000_MFSC5&program_code=T2016-0651&program_id=PS-2026162997-01-000&section_code=04&broadcast_complete_yn=N&section_id=10737"
+          "title": "스벅 또 250곳 폐점…집·직장 사이 '제3의 공간' 정체성 안간힘",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01954886645583728&mediaCodeNo=257"
         }
       ]
     },
     {
-      "id": "김혜성",
-      "rank": 6,
-      "keyword": "김혜성",
-      "volumeLabel": "500+",
+      "id": "김하성",
+      "rank": 2,
+      "keyword": "김하성",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘4개월째 마이너’ 김혜성 드디어 희소식 터졌다…日 언론까지 주목, “PS 로스터 후보로 검토”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '김하성, 2년 만에 3루타+시즌 첫 멀티 득점…타율 0.118↑' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘4개월째 마이너’ 김혜성 드디어 희소식 터졌다…日 언론까지 주목, “PS 로스터 후보로 검토”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Xm7bkBwahz"
+          "title": "김하성, 2년 만에 3루타+시즌 첫 멀티 득점…타율 0.118↑",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8672030"
         },
         {
-          "title": "‘2년 연속 WS 나설까’ 김혜성, PCL 챔피언십 3G-5안타 ‘로버츠 봤어?’",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20260925/134733181/1"
-        },
-        {
-          "title": "또 부상자 복귀→김혜성 좌절? 아니 김혜성 편도 있다!…\"이 선수 PS 데려가는 게 합리적일 수도\"",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1009685"
-        }
-      ]
-    },
-    {
-      "id": "전지적-참견-시점",
-      "rank": 7,
-      "keyword": "전지적 참견 시점",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘타운하우스 입주’ 박세리 “이웃들에 간장게장+갈치김치 FLEX” (‘전참시’)' (매일경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘타운하우스 입주’ 박세리 “이웃들에 간장게장+갈치김치 FLEX” (‘전참시’)",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12161731"
-        },
-        {
-          "title": "또 연예인 집자랑이다…프라이빗 시네마에 술장고까지, 박세리 새 집 최초 공개 ('전참시')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260926133136644"
-        },
-        {
-          "title": "'리치 언니' 박세리, 불꽃축제? 63빌딩 루프톱에서 즐긴다",
+          "title": "김하성, 2년 만에 3루타 '쾅'…1안타 1볼넷 2득점 '펄펄'",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260926_0003803795"
+          "url": "https://www.newsis.com/view/NISX20260927_0003803997"
+        },
+        {
+          "title": "김하성에게 이런 장타가 얼마 만인가! 무려 847일 만에 3루타 폭발…두 번 홈 밟고 5점 차 승리 견인 [ATL 리뷰]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/09/27/MM2WKMRQHA4DGOBUGEYDMMJWGY/"
         }
       ]
     },
     {
-      "id": "100일의-거짓말",
-      "rank": 8,
-      "keyword": "100일의 거짓말",
+      "id": "공무원",
+      "rank": 3,
+      "keyword": "공무원",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '서해피격 공무원 월북 판단한 해경 총경, 직위해제 취소소송 승소' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "서해피격 공무원 월북 판단한 해경 총경, 직위해제 취소소송 승소",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260927085407225"
+        },
+        {
+          "title": "‘서해피격 공무원 월북’ 수사 발표 해경총경, 직위해제 취소소송 승소",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260927.99099008463"
+        },
+        {
+          "title": "’서해 공무원 피격’ 징계 불복한 전 남해해경청장, 행정소송 승소",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202609171523173p2"
+        }
+      ]
+    },
+    {
+      "id": "증여세",
+      "rank": 4,
+      "keyword": "증여세",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '부모에게 집 받거나 돈 빌릴 때… 증여세만 따지면 낭패 - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "부모에게 집 받거나 돈 빌릴 때… 증여세만 따지면 낭패 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/09/27/KCG4KDAIMRB5ZFU7H7D4QNH2KI/"
+        },
+        {
+          "title": "“집 사는 데 보태라”…올해 증여·상속자금 7조원 육박",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260926134337770"
+        },
+        {
+          "title": "\"아버지, 집 사게 돈 좀 주세요\" 20대 주택 매수 2건 중 1건은 '부모 찬스'였다",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260925n10442?issue_sq=10477"
+        }
+      ]
+    },
+    {
+      "id": "특허침해",
+      "rank": 5,
+      "keyword": "특허침해",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '20주년 tvN, 상반기는 아쉬움…김유정에 쏠린 기대 [엑's 초점]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '애플, 美서 특허침해 사상 최대 손배 위기…7.7조원 배상 평결' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "20주년 tvN, 상반기는 아쉬움…김유정에 쏠린 기대 [엑's 초점]",
+          "title": "애플, 美서 특허침해 사상 최대 손배 위기…7.7조원 배상 평결",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260926121110776"
+          "url": "https://v.daum.net/v/20260927032150882"
         },
         {
-          "title": "'100일의 거짓말' 작가의 참말 “암흑의 시기, 밝은 횃불의 사랑\"",
-          "source": "KBS연예",
-          "url": "https://kstar.kbs.co.kr/list_view.html?idx=410560"
+          "title": "\"아이폰, 진동기술 베꼈다\" 7.7조 배상 평결…미 특허소송 사상 최대 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/09/27/2026092704192179798"
         },
         {
-          "title": "김유정·박진영 ‘100일의 거짓말’ 미리 만난다…10월 3일 스페셜 방송 - 스타투데이",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12159072"
+          "title": "애플, ’햅틱’ 특허 침해 평결…7조 7천억 원 배상 위기",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202609270329015fk"
         }
       ]
     },
     {
-      "id": "외국인",
-      "rank": 9,
-      "keyword": "외국인",
+      "id": "김상식",
+      "rank": 6,
+      "keyword": "김상식",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[르포]\"이게 한산한 거라고요?\"…귀성객 빠진 서울 채운 외국인들' (노컷뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '이영표의 소신 발언 \"지금은 결과, 이민성 감독 말이 맞다\"…\"전술 이해할 수 없다\"에서 지지 → 안정환도 \"대회 내내 잘하는 …' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[르포]\"이게 한산한 거라고요?\"…귀성객 빠진 서울 채운 외국인들",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6583322"
+          "title": "이영표의 소신 발언 \"지금은 결과, 이민성 감독 말이 맞다\"…\"전술 이해할 수 없다\"에서 지지 → 안정환도 \"대회 내내 잘하는 팀은 없어\" 응원",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/HJIZG4hDSs"
         },
         {
-          "title": "빈틈 노린 외국인들…“일부러 연휴에 왔어요”",
-          "source": "채널A 뉴스",
-          "url": "https://ichannela.com/news/detail/000000552132.do"
+          "title": "'이영준 멀티골' 축구대표팀, 베트남 4：0으로 꺾고 4강 진출",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0107_202609252146155132_005.html"
         },
         {
-          "title": "[현장in] 명동 외국인 관광객부터 공항 여행객까지… 추석 연휴 풍경 ‘각양각색’",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3435694"
+          "title": "한국, 베트남에 4-0 대승…8강 승리 만끽하는 태극전사들",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/IPT20260926000005365?section=gallery/index"
+        }
+      ]
+    },
+    {
+      "id": "최동석",
+      "rank": 7,
+      "keyword": "최동석",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘돌싱’ 박지윤, 올케표 추석 한상 공개 “난 고기 선물로 면피”' (뉴스엔) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘돌싱’ 박지윤, 올케표 추석 한상 공개 “난 고기 선물로 면피”",
+          "source": "뉴스엔",
+          "url": "https://www.newsen.com/news_view.php?uid=202609261442412410"
+        },
+        {
+          "title": "이혼 박지윤, 올케 덕분에 또 추석에 한자리에",
+          "source": "미디어파인",
+          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=90906"
+        },
+        {
+          "title": "박지윤, 최동석과 이혼 후 맞은 추석...친정 가족 품에서 활짝 웃은 뭉클한 근황",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-26/202609260100172640011364"
+        }
+      ]
+    },
+    {
+      "id": "소송",
+      "rank": 8,
+      "keyword": "소송",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '전남편 욕 올리자 ‘좋아요~’…이 영상이 이혼 소송 독 됐다' (미주중앙일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "전남편 욕 올리자 ‘좋아요~’…이 영상이 이혼 소송 독 됐다",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260925140028850"
+        },
+        {
+          "title": "“외도 의심해서”…아내 차에 녹음기 설치한 30대 집행유예",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260926/134733829/1"
+        },
+        {
+          "title": "“내연관계 의심돼서”…아내 차 몰래 녹음한 30대, 법원 판단은",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20095091"
+        }
+      ]
+    },
+    {
+      "id": "한옥",
+      "rank": 9,
+      "keyword": "한옥",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“돈 많이 줘도 못 바꿔”…도심 속 한옥 지키는 사람들' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“돈 많이 줘도 못 바꿔”…도심 속 한옥 지키는 사람들",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8671916"
+        },
+        {
+          "title": "\"10월 북촌 한옥으로 물들다\"…서울한옥위크, 역대 최대 규모 개최 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/09/17/2026091710025288429"
+        },
+        {
+          "title": "“연휴 쉬면서 가을 나들이 계획할까”…서울한옥위크 10월 개최",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20260923022408438"
+        }
+      ]
+    },
+    {
+      "id": "이경실",
+      "rank": 10,
+      "keyword": "이경실",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '조영남 \"바람둥이 오해받아\" 발언에… 임예진·이경실 \"바람피운 적 있지 뭐\" 강력 일침 ('동치미')' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "조영남 \"바람둥이 오해받아\" 발언에… 임예진·이경실 \"바람피운 적 있지 뭐\" 강력 일침 ('동치미')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260927002114260"
+        },
+        {
+          "title": "55세 김승수에 “어딘가 모자란 거다”…조영남 “돈도 여자에 잘 보이려고”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/entertain/12161750"
+        },
+        {
+          "title": "“이혼해 봐” “배 터지겠다” 조영남, 후배 울리는 막말 폭격...네티즌들 ‘부글 부글’",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1637658"
         }
       ]
     }
