@@ -1,230 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-27T07:01:29.487Z",
+  "updatedAt": "2026-09-27T13:14:34.084Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "시청률",
+      "id": "이정후",
       "rank": 1,
-      "keyword": "시청률",
+      "keyword": "이정후",
+      "volumeLabel": "10000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"이정후 평범한 수준의 타자, 수비도 급격히 무너지고…\" 美 언론 실망했네, 이제는 트레이드도 쉽지 않다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"이정후 평범한 수준의 타자, 수비도 급격히 무너지고…\" 美 언론 실망했네, 이제는 트레이드도 쉽지 않다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/tcwCW1Lxvr"
+        },
+        {
+          "title": "ML 진출 3년차 이정후…'타율·홈런·타점·도루' 개인 최고",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6581915"
+        },
+        {
+          "title": "이정후 향한 감독 폭탄 발언! \"개같은 선수 옆에 있고 싶어 해\"…오프시즌 회복 전념 \"개인적인 기복은 아쉬웠다\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/baseball/2026-09-27/202609270100178220011771"
+        }
+      ]
+    },
+    {
+      "id": "아시안게임-야구",
+      "rank": 2,
+      "keyword": "아시안게임 야구",
+      "volumeLabel": "10000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '일본 실업팀에 진땀승 거두며 AG 5연패 ... 한국 야구 숙제 남긴 금메달' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "일본 실업팀에 진땀승 거두며 AG 5연패 ... 한국 야구 숙제 남긴 금메달",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_special/2026/09/27/I7ONC66QO5G3LKZO74IRNGA4JI/"
+        },
+        {
+          "title": "선두 타자 김지찬 환호",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20260927_0021461305"
+        },
+        {
+          "title": "[아시안게임] 대표팀 1선발 곽빈, 히구치 제압하고 한국 야구 5연패 이끌까",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260927016100007"
+        }
+      ]
+    },
+    {
+      "id": "로또당첨",
+      "rank": 3,
+      "keyword": "로또당첨",
       "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '아시안게임도 제쳤다…특선 영화 ‘왕과 사는 남자’, 지상파 전체 시청률 정상' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“25억9천만원씩 받는다”…추석 연휴 로또 1등 12명, 명당은 어디' (경기일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "아시안게임도 제쳤다…특선 영화 ‘왕과 사는 남자’, 지상파 전체 시청률 정상",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260927082050922"
+          "title": "“25억9천만원씩 받는다”…추석 연휴 로또 1등 12명, 명당은 어디",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260926580120"
         },
         {
-          "title": "1692만 '왕사남', 추석 시청률도 역대급…AG 제치고 1위",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6302372"
+          "title": "[속보]로또 1243회 당첨번호 '9·18·24·38·43·44'…보너스 '35'",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02312406645584056&mediaCodeNo=257"
         },
         {
-          "title": "역대 흥행 2위 ‘왕사남’, 안방 극장도 울렸다...시청률 11%로 연휴 전체 1위",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/27/GXW2HRXL2NARFJ3Y5G5BIJYXHM/"
+          "title": "1243회 로또 1등 12명… 당첨금 각 25.9억원 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/09/26/TQGIFRGYFNG5ZNCD253IR2KMR4/"
         }
       ]
     },
     {
-      "id": "이재명",
-      "rank": 2,
-      "keyword": "이재명",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '지뢰추정 폭발 닷새 만에‥DMZ 현장조사 착수' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "지뢰추정 폭발 닷새 만에‥DMZ 현장조사 착수",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6854291_37012.html"
-        },
-        {
-          "title": "민주 “국힘, 장병 부상 앞에서 정쟁 멈추라”",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260927.99099008640"
-        },
-        {
-          "title": "\"이적행위\" 탄핵까지 언급한 국힘…민주 \"음모론\" 반발",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12320132"
-        }
-      ]
-    },
-    {
-      "id": "은가은",
-      "rank": 3,
-      "keyword": "은가은",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '박서진, 추석 앞두고 父 쓰러져 병원행 \"토하고 어지럽다고\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "박서진, 추석 앞두고 父 쓰러져 병원행 \"토하고 어지럽다고\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/27/2026092702093332722"
-        },
-        {
-          "title": "‘살림남’ 은가은, 친정어머니와 육아관 차이로 갈등…母 결국 눈물",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20260927/134735379/1"
-        },
-        {
-          "title": "‘9살 연하와 재혼♥’ 은지원, 장모님 사랑 듬뿍 받네 “음식 한 상 차려..남기는 게 죄송할 정도”",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260926152333275"
-        }
-      ]
-    },
-    {
-      "id": "나-혼자-산다",
+      "id": "우상혁",
       "rank": 4,
-      "keyword": "나 혼자 산다",
+      "keyword": "우상혁",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '유리, 요리하는 김대호에 \"섹시해\"…10년 솔로 탈출하나 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[속보] 아쉽지만 웃었다…‘스마일 점퍼’ 우상혁, 2m22로 동메달 [아시안게임]' (경기일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "유리, 요리하는 김대호에 \"섹시해\"…10년 솔로 탈출하나 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/27/2026092620290342450"
+          "title": "[속보] 아쉽지만 웃었다…‘스마일 점퍼’ 우상혁, 2m22로 동메달 [아시안게임]",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260927580308"
         },
         {
-          "title": "'50살' 전현무 \"46살까진 결혼생각, 이젠 없다…외롭지도 않아\"'[TV핫샷]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/PYd5r2OcCm"
+          "title": "'스마일 점퍼' 우상혁, 남자 높이뛰기 3회 연속 메달[나고야AG]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260927_0003804414"
         },
         {
-          "title": "‘나혼산’ 김대호 “10년 후? 기안84는 결혼, 전현무는 그대로일 듯”",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/519289"
+          "title": "[아시안게임] 펜싱 사브르 4연패노리고 여자농구 한일 결승",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3435642"
         }
       ]
     },
     {
-      "id": "학생",
+      "id": "미운-우리-새끼",
       "rank": 5,
-      "keyword": "학생",
-      "volumeLabel": "2000+",
+      "keyword": "미운 우리 새끼",
+      "volumeLabel": "1000+",
       "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'SKY 다니다 그만둔 학생 5년 새 1만 명 돌파…결국 의대행?' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '방송용 연애 사실이었다…'55세' 김승수, 16년째 솔로 고백→송종호와 합숙 맞선 ('미우새')' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "SKY 다니다 그만둔 학생 5년 새 1만 명 돌파…결국 의대행?",
+          "title": "방송용 연애 사실이었다…'55세' 김승수, 16년째 솔로 고백→송종호와 합숙 맞선 ('미우새')",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260927080131669"
+          "url": "https://v.daum.net/v/20260927150148656"
         },
         {
-          "title": "\"차라리 지방 의대\" 서연고 중도탈락 5년 새 1만명 넘어",
-          "source": "제민일보",
-          "url": ""
+          "title": "'미운 우리 새끼' 김승수-송종호, 50대 노총각들의 합숙맞선 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/27/2026092715107233145"
         },
         {
-          "title": "종로학원 “서울대·연대·고대 다니다 그만둔 학생 5년간 만 명 넘어”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8672046"
+          "title": "김승수 母, 아들 남성 호르몬 수치까지 어필 했는데…서장훈 \"하지마!\" 호통 (미우새) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/09/27/GY4TOMZUMZQWCNBZGZRGCNRQMQ/"
         }
       ]
     },
     {
-      "id": "주가",
+      "id": "레버리지",
       "rank": 6,
-      "keyword": "주가",
+      "keyword": "레버리지",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '삼성전자 3분기 ‘영업이익 100조원’ 넘나…또 역대 최대 예측' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“코스피를 도박판으로”…韓 증시 할퀸 레버리지 ETF' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "삼성전자 3분기 ‘영업이익 100조원’ 넘나…또 역대 최대 예측",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/marketing/1279591.html"
-        },
-        {
-          "title": "\"D램 공급부족 장기화\"…HBM4 매출 3배 증가 기대 '이 회사' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/09/27/2026092715152610581"
-        },
-        {
-          "title": "삼성전자, 분기 영업익 첫 100조원 넘나…증권가 107조원 전망",
+          "title": "“코스피를 도박판으로”…韓 증시 할퀸 레버리지 ETF",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260927152337097"
+          "url": "https://v.daum.net/v/20260926235245993"
+        },
+        {
+          "title": "단종레 장투하면 ‘음의 복리효과’ 직격탄…장기 보유 늪 빠진 개미",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01774486645584384&mediaCodeNo=257"
+        },
+        {
+          "title": "단일 레버리지 규제 효과…거래대금 92%↓, 회전율도 한 자릿수",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1165330"
         }
       ]
     },
     {
-      "id": "라이언-와이스",
+      "id": "조형우",
       "rank": 7,
-      "keyword": "라이언 와이스",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "keyword": "조형우",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[오피셜] 'ML 콜업 불발' 와이스 마지막은 화려했다...9월 ERA 1.37→美 커리어 최초 이달의 선수 선정' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[한번에쓱]아 포구실패 '7회말 동점득점 일본' - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[오피셜] 'ML 콜업 불발' 와이스 마지막은 화려했다...9월 ERA 1.37→美 커리어 최초 이달의 선수 선정",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/unLVkrb0Jm?f=p"
-        },
-        {
-          "title": "결국 한화 돌아올 운명인가, 트리플A MVP로 부활했는데…끝내 ML 복귀 불발, 휴스턴과 결별 임박했다 - 머니투데이",
+          "title": "[한번에쓱]아 포구실패 '7회말 동점득점 일본' - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/27/202609261928777111O"
+          "url": "https://www.mt.co.kr/sports/2026/09/27/2026092721270057821"
         },
         {
-          "title": "와이스 ERA 1.37 에이스 모드…완봉승 놓쳐서 아깝네, 휴스턴에 69억원 받을 일 없다? 한화 복귀 각인가",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026091913412915347"
+          "title": "'111구 혼신의 역투' 곽빈, 결승전서 6⅓이닝 9K 1실점…'야속한 타선'[나고야AG]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260927_0003804454"
+        },
+        {
+          "title": "한국 야구 대표팀 향한 응원",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260927000146"
         }
       ]
     },
     {
-      "id": "휴직",
+      "id": "박유천",
       "rank": 8,
-      "keyword": "휴직",
+      "keyword": "박유천",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '성과급 ‘최대 6억’이라는데 누가 쉬겠나…삼성·하이닉스 육아휴직률 ‘뚝’' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '미키광수 “여친 믿고 주식 투자 맡겼는데…3천만원→3백만원”' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "성과급 ‘최대 6억’이라는데 누가 쉬겠나…삼성·하이닉스 육아휴직률 ‘뚝’",
+          "title": "미키광수 “여친 믿고 주식 투자 맡겼는데…3천만원→3백만원”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/pCTYbxyOlw"
+          "url": "https://v.daum.net/v/bwSq28lwWV?f=p"
         },
         {
-          "title": "삼전·닉스, 육아휴직률 나란히 '주춤'…억대 성과급 영향일까",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260927_0003804278"
+          "title": "김구라, '마약파문→日도피' 박유천 응원 '무리수'..\"위기딛고 일어나야\"[Oh!쎈 이슈]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/27/GQZWGM3GGY4DCZDBMMYWKYRXMM/"
         },
         {
-          "title": "반도체 초호황에 성과급 기대감...삼성·SK하닉 육아휴직률 첫 동반 하락",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/business/12161843"
+          "title": "김구라, 日서 행복한 ‘마약 투약’ 박유천 소환 “누구나 부침 있어, 딛고 일어나는 게 중요”",
+          "source": "뉴스엔",
+          "url": "https://m.newsen.com/news_view.php?uid=202609270901062310"
+        }
+      ]
+    },
+    {
+      "id": "영천시",
+      "rank": 9,
+      "keyword": "영천시",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '와인 마시고 한우 맛보고…영천 공동축제 내달 2일 개막' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "와인 마시고 한우 맛보고…영천 공동축제 내달 2일 개막",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260927065151963"
+        },
+        {
+          "title": "'영천 공동축제' 10월 2일 개막…문화·한방·와인·한우 한자리에",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/daegu-gyeongbuk/6301856"
+        },
+        {
+          "title": "[숨은 영천을 걷다④] 300년 솔숲 따라 2㎞…은해사 금포정길에서 만난 가을",
+          "source": "MSN",
+          "url": "https://www.msn.com/ko-kr/news/other/%EC%88%A8%EC%9D%80-%EC%98%81%EC%B2%9C%EC%9D%84-%EA%B1%B7%EB%8B%A4-300%EB%85%84-%EC%86%94%EC%88%B2-%EB%94%B0%EB%9D%BC-2-%EC%9D%80%ED%95%B4%EC%82%AC-%EA%B8%88%ED%8F%AC%EC%A0%95%EA%B8%B8%EC%97%90%EC%84%9C-%EB%A7%8C%EB%82%9C-%EA%B0%80%EC%9D%84/ar-AA2cRrys"
+        }
+      ]
+    },
+    {
+      "id": "england-vs-sri-lanka",
+      "rank": 10,
+      "keyword": "england vs sri lanka",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Ball by Ball Commentary & Live Score - ENG vs SL, 3rd ODI' (Cricinfo) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Ball by Ball Commentary & Live Score - ENG vs SL, 3rd ODI",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/sri-lanka-in-england-2026-1496567/england-vs-sri-lanka-3rd-odi-1496590/ball-by-ball-commentary"
+        },
+        {
+          "title": "England v Sri Lanka: third and deciding men’s one-day cricket international – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/sport/live/2026/sep/27/england-v-sri-lanka-third-one-day-cricket-international-live-score-updates?page=with:block-6ab912e38f089b24256ff8bf"
+        },
+        {
+          "title": "England vs Sri Lanka: Jos Buttler's bravery in vain as tourists fight back to level series",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/cricket/articles/cw804nd022elo"
         }
       ]
     }
