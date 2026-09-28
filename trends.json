@@ -1,286 +1,270 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-28T05:07:30.895Z",
+  "updatedAt": "2026-09-28T11:55:48.102Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "어머니",
+      "id": "한국-대-우루과이",
       "rank": 1,
-      "keyword": "어머니",
-      "volumeLabel": "10000+",
+      "keyword": "한국 대 우루과이",
+      "volumeLabel": "200000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김기태 \"어머니 사망, 서류 떼다 뒤늦게 알았다\"' (노컷뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''우루과이전 D-1' 모레노 감독 \"이강인 포지션 변경은 경솔한 선택\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김기태 \"어머니 사망, 서류 떼다 뒤늦게 알았다\"",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6583470"
+          "title": "'우루과이전 D-1' 모레노 감독 \"이강인 포지션 변경은 경솔한 선택\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6854338_36946.html"
         },
         {
-          "title": "김기태, 17세에 이혼한 母 연락없더니…\"이미 사망, 너무 후회돼\"('데이앤나잇')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260927114240627"
+          "title": "인사 나누는 양팀 감독",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20260928_0021463407"
         },
         {
-          "title": "\"유명해지면 엄마가 날 찾을 줄\"…김기태, 뒤늦게 알게 된 모친상 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/27/2026092711120612011"
+          "title": "[속보] 이강인 선발, 한국 우루과이 축구 선발 라인업 발표",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3707457"
         }
       ]
     },
     {
-      "id": "삼전-닉스",
+      "id": "해외여행",
       "rank": 2,
-      "keyword": "삼전 닉스",
-      "volumeLabel": "10000+",
+      "keyword": "해외여행",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“다낭도 오사카도 아니었다”…추석 해외여행 1위 찍은 ‘이 나라’' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“다낭도 오사카도 아니었다”…추석 해외여행 1위 찍은 ‘이 나라’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/xQ9kBWMVlg"
+        },
+        {
+          "title": "추석 해외여행 1위는 ‘이 나라’…일본, 베트남도 아니었다",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000017800"
+        },
+        {
+          "title": "“너도 이번에 중국 갔어? 나돈데” 이런 사람들 참 많더니…추석 연휴에 생긴 일",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20095518"
+        }
+      ]
+    },
+    {
+      "id": "노현정",
+      "rank": 3,
+      "keyword": "노현정",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘현대家 4세’ 노현정 19살 아들, HNIX 최대주주 됐다 - 스타투데이' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘현대家 4세’ 노현정 19살 아들, HNIX 최대주주 됐다 - 스타투데이",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12162767"
+        },
+        {
+          "title": "‘현대家’ 정대선·노현정 19살 아들 정창건, HNIX 최대주주 됐다",
+          "source": "헤럴드경제",
+          "url": "https://mbiz.heraldcorp.com/article/10886570"
+        },
+        {
+          "title": "'현대家 4세' 노현정 19살 子, 알고보니 연매출 766억 기업 최대주주 [Oh!쎈 이슈] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/28/GEZTMY3BGA2DGZTEMVQTIODBMQ/"
+        }
+      ]
+    },
+    {
+      "id": "영종도",
+      "rank": 4,
+      "keyword": "영종도",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"영종 갯벌서 쌀 페트병 50여개 보인다\" 신고…살포자 수사(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"영종 갯벌서 쌀 페트병 50여개 보인다\" 신고…살포자 수사(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260928162158084"
+        },
+        {
+          "title": "인천 무의도 해안서 ‘쌀 페트병’ 수십 개 발견… 경찰 수사",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/incident/2026/09/28/6KA5LZCKSZCTRD4ES3A5F7Y7UM/"
+        },
+        {
+          "title": "북한에 보냈나…영종도 갯벌서 쌀·달러 담긴 페트병 10여개 발견",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260928000385"
+        }
+      ]
+    },
+    {
+      "id": "재산세",
+      "rank": 5,
+      "keyword": "재산세",
+      "volumeLabel": "2000+",
       "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '코스피, 연휴 끝나자 7000선 붕괴…삼전닉스 2%대 하락 [투자360]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '7월에 냈는데 또 세금 내라고?…헷갈리는 9월 재산세, 작년과 달라진 점은' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "코스피, 연휴 끝나자 7000선 붕괴…삼전닉스 2%대 하락 [투자360]",
+          "title": "7월에 냈는데 또 세금 내라고?…헷갈리는 9월 재산세, 작년과 달라진 점은",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260928100113295"
+          "url": "https://v.daum.net/v/20260928153600548"
         },
         {
-          "title": "추석 연휴 끝나자 삼전닉스, 3%대 동반 하락…증권가는 “기대해도 좋아”",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1165664"
+          "title": "김제시, 지방세 17억 징수…고액 · 소액체납자 동시 관리 강화",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3707184"
         },
         {
-          "title": "美국채금리 급등에 칠천피 붕괴…삼전닉스 4%대 낙폭",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260928/134742130/1"
+          "title": "김제시 세정과, 재산세 납부의 달 맞아 거리 홍보 캠페인 전개",
+          "source": "아시아뉴스통신",
+          "url": "https://m.anewsa.com/article_sub3.php?number=3202657&type=&mobile="
         }
       ]
     },
     {
-      "id": "중앙일보",
-      "rank": 3,
-      "keyword": "중앙일보",
-      "volumeLabel": "5000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘미디어 그룹’ 의지까지…OK금융, 중앙일보 인수전 승리 가능성은' (에너지경제신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘미디어 그룹’ 의지까지…OK금융, 중앙일보 인수전 승리 가능성은",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20260927023279118"
-        },
-        {
-          "title": "중앙일보 인수후보, 오리온-OK금융-다우기술-글로벌세아 등 6곳",
-          "source": "금융소비자뉴스",
-          "url": "https://www.newsfc.co.kr/news/articleView.html?idxno=81372"
-        },
-        {
-          "title": "의류·제지·건설 이어 언론사 인수전… 글로벌세아의 M&A 셈법",
-          "source": "블로터",
-          "url": "https://www.bloter.net/news/articleView.html?idxno=674201"
-        }
-      ]
-    },
-    {
-      "id": "고영욱",
-      "rank": 4,
-      "keyword": "고영욱",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '심수봉 '김다현 비난' 사태 정미애에 불똥…\"발언 못 들었다\"' (노컷뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "심수봉 '김다현 비난' 사태 정미애에 불똥…\"발언 못 들었다\"",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6583300"
-        },
-        {
-          "title": "김다현 '심수봉 논란' 이후 첫 무대 심경…\"큰 가수 되겠다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260928104800982"
-        },
-        {
-          "title": "고영욱, 심수봉 지지 \"나도 미소포니아\"…SG워너비·서인영 저격도 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/09/28/2026092811254653446"
-        }
-      ]
-    },
-    {
-      "id": "이탁수",
-      "rank": 5,
-      "keyword": "이탁수",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] 23살 된 '이종혁 아들' 이탁수, 드디어 데뷔…\"인생 바뀌었다\" (인터뷰①)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[단독] 23살 된 '이종혁 아들' 이탁수, 드디어 데뷔…\"인생 바뀌었다\" (인터뷰①)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/4zZceTQ9Xl"
-        },
-        {
-          "title": "[단독] 이탁수 \"차인표는 밥 사주고, 오만석은 교수님\"...첫 프로무대 비하인드 (인터뷰②)",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2198929"
-        },
-        {
-          "title": "[우리가 알던 꼬마들, 잘 컸네②] '부자 배우' 이종혁·이탁수, '사고 치지 맙시다' 의미 (창간 19th)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260926075607445?f=p"
-        }
-      ]
-    },
-    {
-      "id": "우루과이-축구-국가-대표팀",
+      "id": "south-korea-vs-uruguay",
       "rank": 6,
-      "keyword": "우루과이 축구 국가 대표팀",
-      "volumeLabel": "2000+",
+      "keyword": "south korea vs uruguay",
+      "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''이강인·황인범 합류' 모레노호, 우루과이전서 두 번째 시험대' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[Photo] Lee Kang-in fires decisive shot - CHOSUNBIZ' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'이강인·황인범 합류' 모레노호, 우루과이전서 두 번째 시험대",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260928061654780"
+          "title": "[Photo] Lee Kang-in fires decisive shot - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-photo-spo/2026/09/28/WDQRAMDGTVCJHLGPLNI67L2VGM/"
         },
         {
-          "title": "‘차범근 최다골 대기록 넘는다!’ 손흥민, 명실상부 한국축구 GOAT로 올라선다! - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/28/202609272318772032O"
+          "title": "Lee Kang-in to Make Debut under Moreno in Uruguay Match... Son Heung-min and Oh Hyun-gyu Paired Up Front Again",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008773528"
         },
         {
-          "title": "훈련하는 황희찬",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20260927_0021460703"
+          "title": "South Korea vs Uruguay: Friendlies stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cq9v94nn0zlet"
         }
       ]
     },
     {
-      "id": "강남구",
+      "id": "박세인",
       "rank": 7,
-      "keyword": "강남구",
+      "keyword": "박세인",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '내달 3∼5일 도산대로 '강남페스티벌'…주민 퍼레이드·싸이 공연' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "내달 3∼5일 도산대로 '강남페스티벌'…주민 퍼레이드·싸이 공연",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260928111653750"
-        },
-        {
-          "title": "개천절 연휴, 압구정 도산대로가 ‘축제’로 물든다",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609281335001"
-        },
-        {
-          "title": "강남페스티벌, 사흘간 도산대로서 열린다…강남주민 1㎞ 퍼레이드 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/policy/2026/09/28/2026092810475986934"
-        }
-      ]
+      "newsSignals": []
     },
     {
-      "id": "국민의힘",
+      "id": "삼성-갤럭시",
       "rank": 8,
-      "keyword": "국민의힘",
+      "keyword": "삼성 갤럭시",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '홍준표 “국민의힘, 연말에 큰 고비…정당 해산 대비해야”' (경기일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"갤S27 울트라, '분할 화면' 프라이버시 디스플레이 탑재\"' (지디넷코리아) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "홍준표 “국민의힘, 연말에 큰 고비…정당 해산 대비해야”",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260928580053"
+          "title": "\"갤S27 울트라, '분할 화면' 프라이버시 디스플레이 탑재\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260925215500"
         },
         {
-          "title": "홍준표 “장동혁 중심으로 뭉치자…국힘 정당해산 대비해야”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1279716.html"
+          "title": "LPDDR6 시장 열리는데 가격은 ‘고공행진’…갤S27 메모리 셈법",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260928010009722"
         },
         {
-          "title": "홍준표 \"국민의힘, 연말에 큰 고비 온다…정당 해산 대비해야\"",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202609281039033237"
+          "title": "폰 교체 내년 초까지 기다릴까…베일 벗는 ‘갤럭시 S27’",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20094915"
         }
       ]
     },
     {
-      "id": "대기업",
+      "id": "인천대공원",
       "rank": 9,
-      "keyword": "대기업",
+      "keyword": "인천대공원",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"스타트업에 대기업 성장 사다리 지원\"…민간 중심 창업 생태계 구축' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '인천 서해구, 발달장애 청년 전통 성년례' (인천일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"스타트업에 대기업 성장 사다리 지원\"…민간 중심 창업 생태계 구축",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260928110158766"
+          "title": "인천 서해구, 발달장애 청년 전통 성년례",
+          "source": "인천일보",
+          "url": ""
         },
         {
-          "title": "한경협 ‘더하기창업’ 100팀 선발…대기업 협력·투자 연계 지원",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02571526645584712"
+          "title": "청년·구민 755명 인천대공원 달렸다… 인천시 남동구 ‘남동런’ 개최",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3035988"
         },
         {
-          "title": "한국경제인협회, 스타트업에 '대기업 성장사다리'…100개팀 육성",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1165677"
+          "title": "인천 서해구, 청년의날 맞아 발달장애청년 전통성년례 열어",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260928580380"
         }
       ]
     },
     {
-      "id": "식이",
+      "id": "연합뉴스",
       "rank": 10,
-      "keyword": "식이",
+      "keyword": "연합뉴스",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[healthy &] 쥬비스 세로식 쥬비스다이어트·클린 밸런스 샷 올라타' (한국정경신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '구연우·백다연, 아시안게임 테니스 여자 단식 첫날 2회전 진출' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[healthy &] 쥬비스 세로식 쥬비스다이어트·클린 밸런스 샷 올라타",
-          "source": "한국정경신문",
-          "url": "https://kpenews.com/View.aspx?No=4242854"
+          "title": "구연우·백다연, 아시안게임 테니스 여자 단식 첫날 2회전 진출",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260927153601334"
         },
         {
-          "title": "식이섬유·단백질·탄수화물 순서대로…쥬비스, 3단 구조 ‘세로식’ 출시",
-          "source": "뉴스탭",
-          "url": "https://www.newstap.co.kr/news/articleView.html?idxno=334730"
+          "title": "[아시안게임] 테니스 권순우-홍성찬, 남자복식 2회전 진출",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260928160300007"
         },
         {
-          "title": "쥬비스다이어트, 한 끼 식사 솔루션 '세로식' 출시",
-          "source": "비욘드포스트",
-          "url": "https://www.beyondpost.co.kr/view.php?ud=20260928082541710046a9e4dd7f_30"
+          "title": "테니스 구연우·백다연, 여자 단식 2회전 안착[나고야AG]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260927_0003804301"
         }
       ]
     }
