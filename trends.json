@@ -1,276 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-28T19:35:10.236Z",
+  "updatedAt": "2026-09-29T00:19:03.810Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "김연자",
+      "id": "날씨",
       "rank": 1,
-      "keyword": "김연자",
-      "volumeLabel": "5000+",
-      "startedLabel": "8시간 전",
+      "keyword": "날씨",
+      "volumeLabel": "50000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"침대서 일어서지도 못해\"…김연자, 급성 파킨슨병 母 생각에 오열 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[날씨] 동해안 중심 비…모레부터 기온 '뚝'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"침대서 일어서지도 못해\"…김연자, 급성 파킨슨병 母 생각에 오열 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/28/2026092817270868793"
-        },
-        {
-          "title": "김연자, '급성 파킨슨병' 母에 오열 \"2년만에 일어서지도 못해\"('유퀴즈')",
+          "title": "[날씨] 동해안 중심 비…모레부터 기온 '뚝'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/qvfRiPvmCX"
+          "url": "https://v.daum.net/v/20260929063604517"
         },
         {
-          "title": "김연자, 화려함 뒤 아픈 가정사..“母 급성 파킨슨병..일어서지도 못해” (‘유퀴즈’) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/28/GYYDINBWHBSDIMJYGA4GKNDBGQ/"
+          "title": "[날씨] 출근길 서늘, 큰 일교차...찬 바람 점차 강해져",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0108_202609290657215583"
+        },
+        {
+          "title": "대구·경북 구름 많고 일부 비…아침 13도·한낮 27도",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260929_0003806256"
         }
       ]
     },
     {
-      "id": "벨기에-대-프랑스",
+      "id": "재산",
       "rank": 2,
-      "keyword": "벨기에 대 프랑스",
+      "keyword": "재산",
+      "volumeLabel": "10000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김상욱 울산시장 재산, 반년 새 31억 늘어 50억' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김상욱 울산시장 재산, 반년 새 31억 늘어 50억",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/politics_general/2026/09/29/JI6CHKXA2VGI5FOGQ2PQ4QEAYI/"
+        },
+        {
+          "title": "김상욱 울산시장 50억·최기영 봉화군수 349억 '광역·기초 상위 1위'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260929085216025"
+        },
+        {
+          "title": "추미애 재산 반년 새 9억 늘어 36억…“집 매각하고 여윳돈 ETF 투자”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/administration/1279876.html"
+        }
+      ]
+    },
+    {
+      "id": "창신메모리테크놀로지",
+      "rank": 3,
+      "keyword": "창신메모리테크놀로지",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '네이션스 리그 벨기에 대 프랑스 생중계 링크' (Laodong.vn) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“창신메모리 공정, 100% 삼성 것…기술 넘기자 쫓겨나” 유출범 후회' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "네이션스 리그 벨기에 대 프랑스 생중계 링크",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bi-vs-phap-tai-nations-league-1774176.ldo"
-        }
-      ]
-    },
-    {
-      "id": "선거",
-      "rank": 3,
-      "keyword": "선거",
-      "volumeLabel": "2000+",
-      "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“나쁘다서 ‘최악’으로”…트럼프 지지율 급락에 공화당 선거판 ‘흔들’' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“나쁘다서 ‘최악’으로”…트럼프 지지율 급락에 공화당 선거판 ‘흔들’",
+          "title": "“창신메모리 공정, 100% 삼성 것…기술 넘기자 쫓겨나” 유출범 후회",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260928032042705"
+          "url": "https://v.daum.net/v/20260929050330000"
         },
         {
-          "title": "미국 민주당, 중간선거 하원 탈환 땐 이스라엘 인권 침해 압박 전망",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6854471_36925.html"
+          "title": "[단독] “삼전 레시피 훔쳐와”…대놓고 협박한 창신메모리 CEO",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260928130104104"
         },
         {
-          "title": "\"실시간으로 붕괴하는 듯\"…트럼프 불길한 지표에 공화당 '초비상' [지금이뉴스]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0545_202609281120020630"
+          "title": "중국 반도체 회사에 스카웃된 삼성 출신 한국인의 폭로... 무섭다",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1162572"
         }
       ]
     },
     {
-      "id": "파운드리",
+      "id": "대학",
       "rank": 4,
-      "keyword": "파운드리",
-      "volumeLabel": "2000+",
-      "startedLabel": "6시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '퀄컴-삼성 '2나노' 수주 막판 불발…수율 높였지만 '가격'서 엇갈렸다' (뉴스핌) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "퀄컴-삼성 '2나노' 수주 막판 불발…수율 높였지만 '가격'서 엇갈렸다",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260928000360"
-        },
-        {
-          "title": "가동률 오른 삼성 파운드리… 2나노·테일러가 흑자전환 시점 가른다 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/it-science/ict/2026/09/21/FBVPRGVBDFGOBGZSJ6R7YIKP7M/"
-        },
-        {
-          "title": "\"삼성전자, 10년 보면\"…파운드리 점유율 30% 전망 나온 이유",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260924_0003803026"
-        }
-      ]
-    },
-    {
-      "id": "김민수",
-      "rank": 5,
-      "keyword": "김민수",
-      "volumeLabel": "2000+",
-      "startedLabel": "8시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[SPO 이슈] 이강인 ‘윙백’ 배치, 홍명보와 정반대 모레노 감독 “이렇게 잘 하는 선수를 다른 포지션에 배치하는 건 경솔하고…' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[SPO 이슈] 이강인 ‘윙백’ 배치, 홍명보와 정반대 모레노 감독 “이렇게 잘 하는 선수를 다른 포지션에 배치하는 건 경솔하고 무모한 일…” 아틀레티코 7번, 대한민국 세컨톱 LEE 뜬다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/B6CJexyOyc"
-        },
-        {
-          "title": "훈련하는 대한민국 축구대표팀",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260927_0021460636"
-        },
-        {
-          "title": "모레노호, 우루과이에 전반 0-3 밀려…출범 첫 패배 위기",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8673032"
-        }
-      ]
-    },
-    {
-      "id": "전지현",
-      "rank": 6,
-      "keyword": "전지현",
+      "keyword": "대학",
       "volumeLabel": "1000+",
-      "startedLabel": "5시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '전지현, 생얼에 가죽재킷..올블랙 여신, 파리行 [스타이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘꿈의 대학’… 학생은 하버드·부모는 MIT 선호' (미주한국일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "전지현, 생얼에 가죽재킷..올블랙 여신, 파리行 [스타이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260928111910954"
-        },
-        {
-          "title": "전지현, 가죽재킷으로 멋낸 공항 패션",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8129404"
-        },
-        {
-          "title": "[사진]전지현 '비주얼로 국위선양'",
-          "source": "OSEN",
+          "title": "‘꿈의 대학’… 학생은 하버드·부모는 MIT 선호",
+          "source": "미주한국일보",
           "url": ""
-        }
-      ]
-    },
-    {
-      "id": "박지선",
-      "rank": 7,
-      "keyword": "박지선",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '故박지선 떠난 뒤 발 끊겨.. 22기 동기들에 박성광 “이름조차 못 꺼내” 뭉클 (‘짠한형’)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
+        },
         {
-          "title": "故박지선 떠난 뒤 발 끊겨.. 22기 동기들에 박성광 “이름조차 못 꺼내” 뭉클 (‘짠한형’)",
+          "title": "\"대학 품은 단지가 대세\"...대학 인근 아파트 신고가 행진",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260928230814752"
+          "url": "https://v.daum.net/v/8cUYVs9Ua0"
         },
         {
-          "title": "'짠한형' 신동엽, 故 박지선 언급…동기 장효인 '울컥'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6303696"
-        },
-        {
-          "title": "장효인, 짝사랑 고백에…박성광 \"다른 한 명\" 故 박지선 언급 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/28/2026092821383146053"
+          "title": "대학가 배후수요가 집값 견인…전국 캠퍼스 인근 신고가 행진",
+          "source": "로이슈",
+          "url": "https://www.lawissue.co.kr/view.php?ud=20260928150350481567191f6c6e_12"
         }
       ]
     },
     {
-      "id": "채무",
-      "rank": 8,
-      "keyword": "채무",
+      "id": "골프",
+      "rank": 5,
+      "keyword": "골프",
       "volumeLabel": "1000+",
-      "startedLabel": "8시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“해외로 가면 그만” 빚 안 갚고 해외 이주한 채무자 4127명...캠코 회수율은 고작 6% 그쳐' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '여자골프 전설 박인비, 세계골프 명예의 전당 최종 후보' (헤럴드경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“해외로 가면 그만” 빚 안 갚고 해외 이주한 채무자 4127명...캠코 회수율은 고작 6% 그쳐",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260928091607025"
+          "title": "여자골프 전설 박인비, 세계골프 명예의 전당 최종 후보",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10886827"
         },
         {
-          "title": "외국 가버린 뒤엔 빚 상환 6%뿐…캠코 미회수액 6천억 육박",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260927049900002"
+          "title": "박인비, 세계 골프 명예의 전당 최종 후보…LPGA 이어 10년 만에 입성 도전",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02456726645585040&mediaCodeNo=257"
         },
         {
-          "title": "\"빚 안 갚고 해외로 이주\"…캠코 미회수 채권 5800억원",
+          "title": "‘골프 여제’ 박인비, 세계골프 명예의 전당 최종 후보",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202609290856003"
+        }
+      ]
+    },
+    {
+      "id": "핑클",
+      "rank": 6,
+      "keyword": "핑클",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'god만 있나? 핑클·플투스·쥬얼리까지 줄줄이 귀환..1세대 ‘레전드✭’ 컴백 [Oh!쎈 이슈]' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "god만 있나? 핑클·플투스·쥬얼리까지 줄줄이 귀환..1세대 ‘레전드✭’ 컴백 [Oh!쎈 이슈]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/29/GEYDQYJUGVQTGNLFMMZDQM3DHA/"
+        },
+        {
+          "title": "성유리, 핑클 완전체 컴백에 관리 모드…\"체력아 눈치 챙겨\"",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260928_0003804952"
+          "url": "https://www.newsis.com/view/NISX20260928_0003806079"
+        },
+        {
+          "title": "45세 성유리, 핑클 21년 만 완전체 앞두고 발레 삼매경…“체력아 눈치 챙겨” [SD셀픽]",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260928/134744842/1"
         }
       ]
     },
     {
-      "id": "설영우",
-      "rank": 9,
-      "keyword": "설영우",
+      "id": "weather",
+      "rank": 7,
+      "keyword": "weather",
       "volumeLabel": "1000+",
-      "startedLabel": "8시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"멍청한 플레이, 대체 왜 가만히 서있나\" 우루과이전 도중 설영우의 안일한 플레이...휘슬 안 불렸으면 실점 위기→팬들 비판 쏟…' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Muggy weather has its sights set on Middle Tennessee once again' (WSMV) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"멍청한 플레이, 대체 왜 가만히 서있나\" 우루과이전 도중 설영우의 안일한 플레이...휘슬 안 불렸으면 실점 위기→팬들 비판 쏟아져 [SPO 현장]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260928203831691"
+          "title": "Muggy weather has its sights set on Middle Tennessee once again",
+          "source": "WSMV",
+          "url": "https://www.wsmv.com/2026/09/28/muggy-weather-has-its-sights-set-middle-tennessee-once-again/"
         },
         {
-          "title": "[포토] 설영우 '뚫어라 피케레스' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/28/2026092821015842601"
+          "title": "First to Know Weather - The Mugginess Slowly Returns",
+          "source": "WTXL ABC 27",
+          "url": "https://www.wtxl.com/weather/first-to-know-weather-the-mugginess-slowly-returns"
         },
         {
-          "title": "설영우 '그대로 올린다'",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1695302/%EC%84%A4%EC%98%81%EC%9A%B0-%EA%B7%B8%EB%8C%80%EB%A1%9C-%EC%98%AC%EB%A6%B0%EB%8B%A4-2026"
+          "title": "Late-season surge of heat and humidity Wednesday through Friday",
+          "source": "Capital Weather",
+          "url": "https://www.capitalweather.com/late-season-surge-of-heat-and-humidity-wednesday-through-friday/"
         }
       ]
     },
     {
-      "id": "국가수사본부",
-      "rank": 10,
-      "keyword": "국가수사본부",
+      "id": "전설-의-사내",
+      "rank": 8,
+      "keyword": "전설 의 사내",
       "volumeLabel": "500+",
-      "startedLabel": "8시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '국가수사본부장 “경찰만 할 수 있는 민생 범죄 수사 집중…국가 수사 총 역량에 공백 없도록 하겠다”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘전설의 사내’ 빈예서 “가장 좋아하는 연예인 성리 오빠”' (싱글리스트) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "국가수사본부장 “경찰만 할 수 있는 민생 범죄 수사 집중…국가 수사 총 역량에 공백 없도록 하겠다”",
+          "title": "‘전설의 사내’ 빈예서 “가장 좋아하는 연예인 성리 오빠”",
+          "source": "싱글리스트",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=769436"
+        },
+        {
+          "title": "‘전설의사내’ 빈예서·성리 듀엣",
+          "source": "BNT뉴스",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202609290046"
+        },
+        {
+          "title": "빈예서, ‘최애’ 성리 고백… “성리 오빠다” (‘전설의 사내’)",
+          "source": "MHN스포츠",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1562195"
+        }
+      ]
+    },
+    {
+      "id": "수익률",
+      "rank": 9,
+      "keyword": "수익률",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '브레이크 없는 美 국채…\"전쟁 끝나도 안 돌아갈 것\" [글로벌 뉴스픽]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "브레이크 없는 美 국채…\"전쟁 끝나도 안 돌아갈 것\" [글로벌 뉴스픽]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/PfOlj3aeTy"
+          "url": "https://v.daum.net/v/20260929062216363"
         },
         {
-          "title": "경찰, 개정형소법 시행 '3단계 지원팀' 운영…법령해석 등",
+          "title": "5% 넘어간 美금리…개미들 금리 하락 ETF 베팅 10배로 '쑥'",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436808"
+        },
+        {
+          "title": "미·이란 대치 속 美국채금리 또 상승…뉴욕증시 하락(종합)",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260928029600004"
+          "url": "https://www.yna.co.kr/view/AKR20260929006451072"
+        }
+      ]
+    },
+    {
+      "id": "놀면-뭐하니",
+      "rank": 10,
+      "keyword": "놀면 뭐하니",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '유재석 없는 '놀뭐' 여행…주우재 오열에 허경환도 눈물 터졌다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "유재석 없는 '놀뭐' 여행…주우재 오열에 허경환도 눈물 터졌다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260928175657326"
         },
         {
-          "title": "국수본, 형사사법체계 개편 앞두고 \"국가 수사 역량 공백 없도록 할 것\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6854499_36918.html"
+          "title": "주우재, 팬티 모델 열일…진짜 '뭔데뭔데! 이게 무슨 난리고'",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/519488"
+        },
+        {
+          "title": "하하 “주우재 열정에 박수를” 팬티 모델 변신에 폭소 터뜨렸다",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16226350"
         }
       ]
     }
