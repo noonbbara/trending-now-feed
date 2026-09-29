@@ -1,286 +1,281 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-29T06:03:52.353Z",
+  "updatedAt": "2026-09-29T13:15:20.012Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "부부",
+      "id": "강남구",
       "rank": 1,
-      "keyword": "부부",
-      "volumeLabel": "10000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '사카구치, 결혼 발표 열흘여 만에 부부 싸움…아내 폭행설 부인' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "사카구치, 결혼 발표 열흘여 만에 부부 싸움…아내 폭행설 부인",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260929144853106"
-        },
-        {
-          "title": "\"아내가 경찰 신고\" 이세영과 호흡 맞춘 日배우 불화설...\"폭력 없었다\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/29/2026092910055631932"
-        },
-        {
-          "title": "\"아내가 신고\"…사카구치 켄타로, 결혼 10일 만에 무슨 일이",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202609289678H"
-        }
-      ]
-    },
-    {
-      "id": "기초노령연금",
-      "rank": 2,
-      "keyword": "기초노령연금",
-      "volumeLabel": "10000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '기초연금 수급 어르신·부양 가족, 소득·재산 확인한다…기준 넘으면 수급 중단' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "기초연금 수급 어르신·부양 가족, 소득·재산 확인한다…기준 넘으면 수급 중단",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260929070314938"
-        },
-        {
-          "title": "함안군, 사회보장급여 정기 확인조사 실시…복지 재정 누수 방지",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260929000268"
-        },
-        {
-          "title": "[기고] 투명한 소명이 여는 복지의 첫 단추",
-          "source": "DWBNEWS",
-          "url": "https://www.dwbnews.kr/news/articleView.html?idxno=122396"
-        }
-      ]
-    },
-    {
-      "id": "일본",
-      "rank": 3,
-      "keyword": "일본",
-      "volumeLabel": "10000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '충북 영동군, 일본 니라사키와 와인산업 교류' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "충북 영동군, 일본 니라사키와 와인산업 교류",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260929110351019"
-        },
-        {
-          "title": "영동군, 일본 니라사키시와 협약…\"와인산업 육성\" 맞손",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260929_0003806764"
-        },
-        {
-          "title": "영동군-일본 니라사키시, 와인산업 교류 MOU 체결",
-          "source": "중도일보",
-          "url": "https://www.joongdo.co.kr/web/view.php?key=20260929010008653"
-        }
-      ]
-    },
-    {
-      "id": "당뇨병",
-      "rank": 4,
-      "keyword": "당뇨병",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '창원파티마병원 구대정 과장 연구팀, 제2형 당뇨병 분석 국제 학술지 게재' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "창원파티마병원 구대정 과장 연구팀, 제2형 당뇨병 분석 국제 학술지 게재",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260929094402288"
-        },
-        {
-          "title": "“평균값만 보지 마라”… 창원파티마병원, 콜레스테롤 누적 효과 규명",
-          "source": "간호사신문",
-          "url": "https://www.nursenews.co.kr/news/articleView.html?idxno=44528"
-        },
-        {
-          "title": "파주시 운정보건소, ‘연속혈당 건강관리’ 참여자 모집",
-          "source": "아시아뉴스통신",
-          "url": "https://www.anewsa.com/detail.php?number=3203290"
-        }
-      ]
-    },
-    {
-      "id": "박나래",
-      "rank": 5,
-      "keyword": "박나래",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''박나래 매출 10% 요구' 전 매니저 2인, 오늘(29일) 공갈 혐의 첫 재판' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'박나래 매출 10% 요구' 전 매니저 2인, 오늘(29일) 공갈 혐의 첫 재판",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260929060113814"
-        },
-        {
-          "title": "“매출 10% 주면 폭로 안 할게”… 박나래 전 매니저, 구속기소 후 ‘첫 법정’",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12163333"
-        },
-        {
-          "title": "박나래 복귀 가를 운명의 날…'공갈 혐의' 전 매니저들 오늘(29일) 첫 공판 [Oh!쎈 이슈] - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/29/MM2WINRQMQZTEZRXHEYDQMRSGM/"
-        }
-      ]
-    },
-    {
-      "id": "신인감독-김연경",
-      "rank": 6,
-      "keyword": "신인감독 김연경",
+      "keyword": "강남구",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''프로 계약' 인쿠시, 김연경과 재회…'신인감독 김연경2' 합류' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"집 팔아주세요\" 전화 폭주…분위기 심상치 않은 이유가' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'프로 계약' 인쿠시, 김연경과 재회…'신인감독 김연경2' 합류",
+          "title": "\"집 팔아주세요\" 전화 폭주…분위기 심상치 않은 이유가",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026092927391"
+        },
+        {
+          "title": "강남 재건축 '억' 빠질 때…중저가 신고가 행진",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260929095500930"
+          "url": "https://v.daum.net/v/20260928230749742"
         },
         {
-          "title": "‘신인감독 김연경2’ 2차 티저 공개… 인쿠시 합류 예고",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3436307"
-        },
-        {
-          "title": "김연경, 프로 다녀온 인쿠시와 재회…\"지금 아예 내보내고 싶어\" 혹평 왜",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6304421"
+          "title": "“55억 아파트가 어떻게 47억에”…강남 거래한파, 마포·용산까지 덮쳐",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/economy/12163457"
         }
       ]
     },
     {
-      "id": "박성재",
-      "rank": 7,
-      "keyword": "박성재",
+      "id": "콜레스테롤",
+      "rank": 2,
+      "keyword": "콜레스테롤",
       "volumeLabel": "2000+",
       "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''397억 선거비용 반환' 尹 선거법 위반 항소심 결심 다음 달로 연기' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '콩 한 줌의 힘, '대두'의 효능 5가지… \"콜레스테롤·혈압 낮추고 뼈 건강 지켜\"' (하이닥) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'397억 선거비용 반환' 尹 선거법 위반 항소심 결심 다음 달로 연기",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6854719_36918.html"
+          "title": "콩 한 줌의 힘, '대두'의 효능 5가지… \"콜레스테롤·혈압 낮추고 뼈 건강 지켜\"",
+          "source": "하이닥",
+          "url": "https://news.hidoc.co.kr/news/articleView.html?idxno=68043"
         },
         {
-          "title": "법정서 만난 대윤-소윤...윤대진 “내가 형한테 변호사 소개, 尹 오지랖 부린 것”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260929144313698"
-        },
-        {
-          "title": "’국힘 397억’ 달린 윤석열 항소심…오늘 매듭",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260929054839T8q"
+          "title": "최홍석, ‘7~8년 전’ 콜레스테롤 진단 무시…혈관 압력 ‘0.44’로 스텐트 시술 (‘생로병사의 비밀’)",
+          "source": "MHN스포츠",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1562943"
         }
       ]
     },
     {
-      "id": "허미미",
-      "rank": 8,
-      "keyword": "허미미",
+      "id": "공매도",
+      "rank": 3,
+      "keyword": "공매도",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '200% 넘게 오르더니 \"떨어질 때 됐나\"…공매도 몰렸다' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "200% 넘게 오르더니 \"떨어질 때 됐나\"…공매도 몰렸다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202609292140i"
+        },
+        {
+          "title": "[공시] 씨싸이트 '거래정지', HLB 등 12개 종목 '공매도 금지', 네오티스 '투자경고' 등...52건",
+          "source": "뉴스티앤티",
+          "url": "https://www.newstnt.com/news/articleView.html?idxno=720674"
+        },
+        {
+          "title": "코스닥에 공매도 과열 지정 85% 집중…'반도체·바이오' 몰려",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260922000952"
+        }
+      ]
+    },
+    {
+      "id": "항소",
+      "rank": 4,
+      "keyword": "항소",
+      "volumeLabel": "2000+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '檢, \"이재명 아들 군 면제\" 허위글 이수정 항소 기각 요청' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "檢, \"이재명 아들 군 면제\" 허위글 이수정 항소 기각 요청",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/G4H9tBwaH5"
+        },
+        {
+          "title": "'이재명 아들 군면제' 허위글 이수정 측 \"허위 인식 못해…즉시 삭제\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260929_0003807047"
+        },
+        {
+          "title": "“이 대통령 두 아들 군면제” 허위글 이수정, 선처 호소",
+          "source": "헤럴드경제",
+          "url": "https://mbiz.heraldcorp.com/article/10887991"
+        }
+      ]
+    },
+    {
+      "id": "김혜성",
+      "rank": 5,
+      "keyword": "김혜성",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '일본 안방에서 애국가를... 허미미, 태극마크 금메달 도전' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"투수 많을 필요 없잖아, 김혜성 믿는다\" 로버츠 깜짝 발언, 다저스 PS 파격 결정하나…그만한 대주자 없다 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "일본 안방에서 애국가를... 허미미, 태극마크 금메달 도전",
+          "title": "\"투수 많을 필요 없잖아, 김혜성 믿는다\" 로버츠 깜짝 발언, 다저스 PS 파격 결정하나…그만한 대주자 없다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/29/202609281135770478O"
+        },
+        {
+          "title": "“김혜성, 다저 스타디움에 있다” 로버츠 감독, ‘가을야구’ 승선 가능성 또 언급",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260929094759494"
+          "url": "https://v.daum.net/v/pNnXn1LxRw"
         },
         {
-          "title": "[내일의 아시안게임] 한국 유도, 금메달 메치기 시작…양궁 무더기 金도전",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260928102500007"
-        },
-        {
-          "title": "'독립운동가 후손 허미미'가 일본에 뜬다…유도 금빛 메치기 시작[AG]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/general-sport/6303873"
+          "title": "김혜성, 다저스 가을야구 로스터 후보로 재부상…로버츠 감독, 가능성 제기",
+          "source": "데일리스포츠한국",
+          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=433971"
         }
       ]
     },
     {
-      "id": "sonnet-5-5",
+      "id": "노동조합",
+      "rank": 6,
+      "keyword": "노동조합",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'LH 노조 \"강제분할 강행 시 총파업 등 대정부 총력투쟁\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "LH 노조 \"강제분할 강행 시 총파업 등 대정부 총력투쟁\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6854752_36932.html"
+        },
+        {
+          "title": "LH 분사 갈등 확전…한국노총까지 나섰다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260929145231331"
+        },
+        {
+          "title": "LH 노사 내일 첫 교섭…결렬 땐 ‘창사 이래 첫 파업’ 수순 밟나",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03791686645585040"
+        }
+      ]
+    },
+    {
+      "id": "마이큐",
+      "rank": 7,
+      "keyword": "마이큐",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김나영, ♥마이큐와 결혼 1년 만에…“막내 생겼어요” 깜짝 소식' (TWIG) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김나영, ♥마이큐와 결혼 1년 만에…“막내 생겼어요” 깜짝 소식",
+          "source": "TWIG",
+          "url": "https://www.twig24.com/news/entertainments/celebrity/2026/09/28/20260928500178"
+        },
+        {
+          "title": "김나영♥마이큐, 셋째 된 반려견 공개..꿀 뚝뚝 일상 \"진짜 뭘 해도 귀엽네\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/28/GNTDCMRTGFQTGOBWMJSTONRXGU/"
+        },
+        {
+          "title": "\"결국 우리집 새 식구=유기견 입양\" 김나영, ♥마이큐와 재혼 1년 만에 반가운 소식 전했다",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1010423"
+        }
+      ]
+    },
+    {
+      "id": "군수-산업",
+      "rank": 8,
+      "keyword": "군수 산업",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '현대 방위산업의 기원으로 돌아가 보자.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "현대 방위산업의 기원으로 돌아가 보자.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/tro-ve-noi-khoi-nguon-cua-nen-cong-nghiep-quoc-phong-hien-dai"
+        },
+        {
+          "title": "기술을 숙달하는 것은 베트남의 무기에 상당한 발전을 가져다줄 것이다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/lam-chu-cong-nghe-tao-suc-bat-cho-vu-khi-viet-nam"
+        },
+        {
+          "title": "미국은 베트남 방위산업전시회에서 C-130J 항공기와 로켓포를 선보일 예정이다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/my-se-trung-bay-may-bay-c-130j-phao-phan-luc-tai-trien-lam-quoc-phong-viet-nam"
+        }
+      ]
+    },
+    {
+      "id": "북항친수공원",
       "rank": 9,
-      "keyword": "sonnet 5.5",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "keyword": "북항친수공원",
+      "volumeLabel": "1000+",
+      "startedLabel": "4시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Introducing GPT-6 Sol and Luna' (OpenAI) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[포토타임] ‘부캉이’ 물대포에 유유히 역주행…구조 실패, 10월 2일 다시 시도' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Introducing GPT-6 Sol and Luna",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/"
+          "title": "[포토타임] ‘부캉이’ 물대포에 유유히 역주행…구조 실패, 10월 2일 다시 시도",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260929153058705"
         },
         {
-          "title": "Introducing Claude Opus 5.5",
-          "source": "Anthropic",
-          "url": "https://www.anthropic.com/claude-opus-5-5"
+          "title": "물대포 쏴도 숨었다 '빼꼼'…작전 실패에 오히려 환호",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008775481"
         },
         {
-          "title": "Anthropic launches cheaper AI model, its second release since CEO's call for a slowdown",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/09/28/anthropic-sonnet-5-5-launch.html"
+          "title": "[속보] 상어 '부캉이' 구조작업 중단…수로 밖으로 안 나가",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260929129100051"
         }
       ]
     },
     {
-      "id": "망명",
+      "id": "산사태",
       "rank": 10,
-      "keyword": "망명",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "keyword": "산사태",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한국 망명 시도하다 붙잡힌 北해커…“온몸 석고로 떠서 북한 끌려가”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[잇슈 SNS] 대홍수 한 달 만에…네팔, 잇단 산사태·돌발 홍수로 몸살' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "한국 망명 시도하다 붙잡힌 北해커…“온몸 석고로 떠서 북한 끌려가”",
+          "title": "[잇슈 SNS] 대홍수 한 달 만에…네팔, 잇단 산사태·돌발 홍수로 몸살",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260929104114617"
+          "url": "https://v.daum.net/v/20260929073919434"
         },
         {
-          "title": "‘韓망명 시도’ 北해커, 온몸 석고로 떠서 강제북송",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260929/134749686/2"
+          "title": "'히말라야 쇼크 : 재난 사슬'| 디지털 KBS",
+          "source": "MyloveKBS",
+          "url": "https://mylovekbs.kbs.co.kr/index.html?source=mylovekbs&sname=mylovekbs&stype=magazine&contents_id=70000000403988"
         },
         {
-          "title": "\"베이징 북대사관 지하에 비밀감옥…‘전신깁스’해 강제북송\"",
-          "source": "JTBC뉴스",
-          "url": "https://news.jtbc.co.kr/article/NB12320472"
+          "title": "[쇼츠] '9배 물폭탄' 120여명 사망·실종…인도·네팔 덮친 자연재해",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260928072500704"
         }
       ]
     }
