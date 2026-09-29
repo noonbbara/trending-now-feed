@@ -1,286 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-29T00:19:03.810Z",
+  "updatedAt": "2026-09-29T06:03:52.353Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "날씨",
+      "id": "부부",
       "rank": 1,
-      "keyword": "날씨",
-      "volumeLabel": "50000+",
-      "startedLabel": "2시간 전",
+      "keyword": "부부",
+      "volumeLabel": "10000+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[날씨] 동해안 중심 비…모레부터 기온 '뚝'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '사카구치, 결혼 발표 열흘여 만에 부부 싸움…아내 폭행설 부인' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[날씨] 동해안 중심 비…모레부터 기온 '뚝'",
+          "title": "사카구치, 결혼 발표 열흘여 만에 부부 싸움…아내 폭행설 부인",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260929063604517"
+          "url": "https://v.daum.net/v/20260929144853106"
         },
         {
-          "title": "[날씨] 출근길 서늘, 큰 일교차...찬 바람 점차 강해져",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0108_202609290657215583"
+          "title": "\"아내가 경찰 신고\" 이세영과 호흡 맞춘 日배우 불화설...\"폭력 없었다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/29/2026092910055631932"
         },
         {
-          "title": "대구·경북 구름 많고 일부 비…아침 13도·한낮 27도",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260929_0003806256"
+          "title": "\"아내가 신고\"…사카구치 켄타로, 결혼 10일 만에 무슨 일이",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202609289678H"
         }
       ]
     },
     {
-      "id": "재산",
+      "id": "기초노령연금",
       "rank": 2,
-      "keyword": "재산",
+      "keyword": "기초노령연금",
       "volumeLabel": "10000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '기초연금 수급 어르신·부양 가족, 소득·재산 확인한다…기준 넘으면 수급 중단' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "기초연금 수급 어르신·부양 가족, 소득·재산 확인한다…기준 넘으면 수급 중단",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260929070314938"
+        },
+        {
+          "title": "함안군, 사회보장급여 정기 확인조사 실시…복지 재정 누수 방지",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260929000268"
+        },
+        {
+          "title": "[기고] 투명한 소명이 여는 복지의 첫 단추",
+          "source": "DWBNEWS",
+          "url": "https://www.dwbnews.kr/news/articleView.html?idxno=122396"
+        }
+      ]
+    },
+    {
+      "id": "일본",
+      "rank": 3,
+      "keyword": "일본",
+      "volumeLabel": "10000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '충북 영동군, 일본 니라사키와 와인산업 교류' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "충북 영동군, 일본 니라사키와 와인산업 교류",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260929110351019"
+        },
+        {
+          "title": "영동군, 일본 니라사키시와 협약…\"와인산업 육성\" 맞손",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260929_0003806764"
+        },
+        {
+          "title": "영동군-일본 니라사키시, 와인산업 교류 MOU 체결",
+          "source": "중도일보",
+          "url": "https://www.joongdo.co.kr/web/view.php?key=20260929010008653"
+        }
+      ]
+    },
+    {
+      "id": "당뇨병",
+      "rank": 4,
+      "keyword": "당뇨병",
+      "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김상욱 울산시장 재산, 반년 새 31억 늘어 50억' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '창원파티마병원 구대정 과장 연구팀, 제2형 당뇨병 분석 국제 학술지 게재' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김상욱 울산시장 재산, 반년 새 31억 늘어 50억",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/politics_general/2026/09/29/JI6CHKXA2VGI5FOGQ2PQ4QEAYI/"
-        },
-        {
-          "title": "김상욱 울산시장 50억·최기영 봉화군수 349억 '광역·기초 상위 1위'",
+          "title": "창원파티마병원 구대정 과장 연구팀, 제2형 당뇨병 분석 국제 학술지 게재",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260929085216025"
+          "url": "https://v.daum.net/v/20260929094402288"
         },
         {
-          "title": "추미애 재산 반년 새 9억 늘어 36억…“집 매각하고 여윳돈 ETF 투자”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/administration/1279876.html"
+          "title": "“평균값만 보지 마라”… 창원파티마병원, 콜레스테롤 누적 효과 규명",
+          "source": "간호사신문",
+          "url": "https://www.nursenews.co.kr/news/articleView.html?idxno=44528"
+        },
+        {
+          "title": "파주시 운정보건소, ‘연속혈당 건강관리’ 참여자 모집",
+          "source": "아시아뉴스통신",
+          "url": "https://www.anewsa.com/detail.php?number=3203290"
         }
       ]
     },
     {
-      "id": "창신메모리테크놀로지",
-      "rank": 3,
-      "keyword": "창신메모리테크놀로지",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“창신메모리 공정, 100% 삼성 것…기술 넘기자 쫓겨나” 유출범 후회' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“창신메모리 공정, 100% 삼성 것…기술 넘기자 쫓겨나” 유출범 후회",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260929050330000"
-        },
-        {
-          "title": "[단독] “삼전 레시피 훔쳐와”…대놓고 협박한 창신메모리 CEO",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260928130104104"
-        },
-        {
-          "title": "중국 반도체 회사에 스카웃된 삼성 출신 한국인의 폭로... 무섭다",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1162572"
-        }
-      ]
-    },
-    {
-      "id": "대학",
-      "rank": 4,
-      "keyword": "대학",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘꿈의 대학’… 학생은 하버드·부모는 MIT 선호' (미주한국일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘꿈의 대학’… 학생은 하버드·부모는 MIT 선호",
-          "source": "미주한국일보",
-          "url": ""
-        },
-        {
-          "title": "\"대학 품은 단지가 대세\"...대학 인근 아파트 신고가 행진",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/8cUYVs9Ua0"
-        },
-        {
-          "title": "대학가 배후수요가 집값 견인…전국 캠퍼스 인근 신고가 행진",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=20260928150350481567191f6c6e_12"
-        }
-      ]
-    },
-    {
-      "id": "골프",
+      "id": "박나래",
       "rank": 5,
-      "keyword": "골프",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "keyword": "박나래",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '여자골프 전설 박인비, 세계골프 명예의 전당 최종 후보' (헤럴드경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''박나래 매출 10% 요구' 전 매니저 2인, 오늘(29일) 공갈 혐의 첫 재판' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "여자골프 전설 박인비, 세계골프 명예의 전당 최종 후보",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10886827"
+          "title": "'박나래 매출 10% 요구' 전 매니저 2인, 오늘(29일) 공갈 혐의 첫 재판",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260929060113814"
         },
         {
-          "title": "박인비, 세계 골프 명예의 전당 최종 후보…LPGA 이어 10년 만에 입성 도전",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02456726645585040&mediaCodeNo=257"
+          "title": "“매출 10% 주면 폭로 안 할게”… 박나래 전 매니저, 구속기소 후 ‘첫 법정’",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/entertain/12163333"
         },
         {
-          "title": "‘골프 여제’ 박인비, 세계골프 명예의 전당 최종 후보",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202609290856003"
+          "title": "박나래 복귀 가를 운명의 날…'공갈 혐의' 전 매니저들 오늘(29일) 첫 공판 [Oh!쎈 이슈] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/29/MM2WINRQMQZTEZRXHEYDQMRSGM/"
         }
       ]
     },
     {
-      "id": "핑클",
+      "id": "신인감독-김연경",
       "rank": 6,
-      "keyword": "핑클",
-      "volumeLabel": "1000+",
+      "keyword": "신인감독 김연경",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'god만 있나? 핑클·플투스·쥬얼리까지 줄줄이 귀환..1세대 ‘레전드✭’ 컴백 [Oh!쎈 이슈]' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''프로 계약' 인쿠시, 김연경과 재회…'신인감독 김연경2' 합류' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "god만 있나? 핑클·플투스·쥬얼리까지 줄줄이 귀환..1세대 ‘레전드✭’ 컴백 [Oh!쎈 이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/29/GEYDQYJUGVQTGNLFMMZDQM3DHA/"
+          "title": "'프로 계약' 인쿠시, 김연경과 재회…'신인감독 김연경2' 합류",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260929095500930"
         },
         {
-          "title": "성유리, 핑클 완전체 컴백에 관리 모드…\"체력아 눈치 챙겨\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260928_0003806079"
+          "title": "‘신인감독 김연경2’ 2차 티저 공개… 인쿠시 합류 예고",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3436307"
         },
         {
-          "title": "45세 성유리, 핑클 21년 만 완전체 앞두고 발레 삼매경…“체력아 눈치 챙겨” [SD셀픽]",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260928/134744842/1"
+          "title": "김연경, 프로 다녀온 인쿠시와 재회…\"지금 아예 내보내고 싶어\" 혹평 왜",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6304421"
         }
       ]
     },
     {
-      "id": "weather",
+      "id": "박성재",
       "rank": 7,
-      "keyword": "weather",
+      "keyword": "박성재",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''397억 선거비용 반환' 尹 선거법 위반 항소심 결심 다음 달로 연기' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'397억 선거비용 반환' 尹 선거법 위반 항소심 결심 다음 달로 연기",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6854719_36918.html"
+        },
+        {
+          "title": "법정서 만난 대윤-소윤...윤대진 “내가 형한테 변호사 소개, 尹 오지랖 부린 것”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260929144313698"
+        },
+        {
+          "title": "’국힘 397억’ 달린 윤석열 항소심…오늘 매듭",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260929054839T8q"
+        }
+      ]
+    },
+    {
+      "id": "허미미",
+      "rank": 8,
+      "keyword": "허미미",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Muggy weather has its sights set on Middle Tennessee once again' (WSMV) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '일본 안방에서 애국가를... 허미미, 태극마크 금메달 도전' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Muggy weather has its sights set on Middle Tennessee once again",
-          "source": "WSMV",
-          "url": "https://www.wsmv.com/2026/09/28/muggy-weather-has-its-sights-set-middle-tennessee-once-again/"
-        },
-        {
-          "title": "First to Know Weather - The Mugginess Slowly Returns",
-          "source": "WTXL ABC 27",
-          "url": "https://www.wtxl.com/weather/first-to-know-weather-the-mugginess-slowly-returns"
-        },
-        {
-          "title": "Late-season surge of heat and humidity Wednesday through Friday",
-          "source": "Capital Weather",
-          "url": "https://www.capitalweather.com/late-season-surge-of-heat-and-humidity-wednesday-through-friday/"
-        }
-      ]
-    },
-    {
-      "id": "전설-의-사내",
-      "rank": 8,
-      "keyword": "전설 의 사내",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘전설의 사내’ 빈예서 “가장 좋아하는 연예인 성리 오빠”' (싱글리스트) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘전설의 사내’ 빈예서 “가장 좋아하는 연예인 성리 오빠”",
-          "source": "싱글리스트",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=769436"
-        },
-        {
-          "title": "‘전설의사내’ 빈예서·성리 듀엣",
-          "source": "BNT뉴스",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202609290046"
-        },
-        {
-          "title": "빈예서, ‘최애’ 성리 고백… “성리 오빠다” (‘전설의 사내’)",
-          "source": "MHN스포츠",
-          "url": "https://mhnse.com/news/articleView.html?idxno=1562195"
-        }
-      ]
-    },
-    {
-      "id": "수익률",
-      "rank": 9,
-      "keyword": "수익률",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '브레이크 없는 美 국채…\"전쟁 끝나도 안 돌아갈 것\" [글로벌 뉴스픽]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "브레이크 없는 美 국채…\"전쟁 끝나도 안 돌아갈 것\" [글로벌 뉴스픽]",
+          "title": "일본 안방에서 애국가를... 허미미, 태극마크 금메달 도전",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260929062216363"
+          "url": "https://v.daum.net/v/20260929094759494"
         },
         {
-          "title": "5% 넘어간 美금리…개미들 금리 하락 ETF 베팅 10배로 '쑥'",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436808"
-        },
-        {
-          "title": "미·이란 대치 속 美국채금리 또 상승…뉴욕증시 하락(종합)",
+          "title": "[내일의 아시안게임] 한국 유도, 금메달 메치기 시작…양궁 무더기 金도전",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260929006451072"
+          "url": "https://www.yna.co.kr/view/AKR20260928102500007"
+        },
+        {
+          "title": "'독립운동가 후손 허미미'가 일본에 뜬다…유도 금빛 메치기 시작[AG]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/general-sport/6303873"
         }
       ]
     },
     {
-      "id": "놀면-뭐하니",
-      "rank": 10,
-      "keyword": "놀면 뭐하니",
+      "id": "sonnet-5-5",
+      "rank": 9,
+      "keyword": "sonnet 5.5",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '유재석 없는 '놀뭐' 여행…주우재 오열에 허경환도 눈물 터졌다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Introducing GPT-6 Sol and Luna' (OpenAI) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "유재석 없는 '놀뭐' 여행…주우재 오열에 허경환도 눈물 터졌다",
+          "title": "Introducing GPT-6 Sol and Luna",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/"
+        },
+        {
+          "title": "Introducing Claude Opus 5.5",
+          "source": "Anthropic",
+          "url": "https://www.anthropic.com/claude-opus-5-5"
+        },
+        {
+          "title": "Anthropic launches cheaper AI model, its second release since CEO's call for a slowdown",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/28/anthropic-sonnet-5-5-launch.html"
+        }
+      ]
+    },
+    {
+      "id": "망명",
+      "rank": 10,
+      "keyword": "망명",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '한국 망명 시도하다 붙잡힌 北해커…“온몸 석고로 떠서 북한 끌려가”' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "한국 망명 시도하다 붙잡힌 北해커…“온몸 석고로 떠서 북한 끌려가”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260928175657326"
+          "url": "https://v.daum.net/v/20260929104114617"
         },
         {
-          "title": "주우재, 팬티 모델 열일…진짜 '뭔데뭔데! 이게 무슨 난리고'",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/519488"
+          "title": "‘韓망명 시도’ 北해커, 온몸 석고로 떠서 강제북송",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20260929/134749686/2"
         },
         {
-          "title": "하하 “주우재 열정에 박수를” 팬티 모델 변신에 폭소 터뜨렸다",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16226350"
+          "title": "\"베이징 북대사관 지하에 비밀감옥…‘전신깁스’해 강제북송\"",
+          "source": "JTBC뉴스",
+          "url": "https://news.jtbc.co.kr/article/NB12320472"
         }
       ]
     }
