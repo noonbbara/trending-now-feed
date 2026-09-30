@@ -1,286 +1,258 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-30T08:23:15.170Z",
+  "updatedAt": "2026-09-30T15:11:51.881Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "아시안-게임",
+      "id": "송일국",
       "rank": 1,
-      "keyword": "아시안 게임",
-      "volumeLabel": "10000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '4연패 향해 순항, 이민성호, 오늘 중국과 준결승 격돌' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "4연패 향해 순항, 이민성호, 오늘 중국과 준결승 격돌",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8674181"
-        },
-        {
-          "title": "[아시안게임] 한국 축구, 4회 연속 결승 진출…양궁 은·동메달 추가",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260930164500007"
-        },
-        {
-          "title": "[속보] 男축구, 4강전 중국과 1-1 전반 종료… 이영준 동점골",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_special/2026/09/30/3UIXEB2GKBDY5OQVT74APRPVWU/"
-        }
-      ]
-    },
-    {
-      "id": "허경환",
-      "rank": 2,
-      "keyword": "허경환",
+      "keyword": "송일국",
       "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '성현주, 허경환 신인 시절 폭로 “우리 집에서 자주 잤다”' (세계일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '송일국 “삼둥이 중2병에 하루하루 기도”…“너무 힘들다” 육아 고충 토로' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "성현주, 허경환 신인 시절 폭로 “우리 집에서 자주 잤다”",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260930503559"
+          "title": "송일국 “삼둥이 중2병에 하루하루 기도”…“너무 힘들다” 육아 고충 토로",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202609281440003"
         },
         {
-          "title": "\"허경환과 자주 잤다\" 유부녀 개그우먼 '폭로' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/30/2026093010280158593"
-        },
-        {
-          "title": "'짠한형' 송준근 \"허경환, 동기들 모임 싫어해\" 폭로",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6303698"
-        }
-      ]
-    },
-    {
-      "id": "추경호",
-      "rank": 3,
-      "keyword": "추경호",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[속보] 내란특검, '계엄해제 표결 방해 의혹' 추경호에 징역 20년 구형' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[속보] 내란특검, '계엄해제 표결 방해 의혹' 추경호에 징역 20년 구형",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6854976_36918.html"
-        },
-        {
-          "title": "與 \"'징역 20년 구형' 추경호, 법과 역사 심판 피할 수 없을 것\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260930_0003809430"
-        },
-        {
-          "title": "장동혁 \"추경호 징역 20년 구형? 의미 없다…반드시 무죄 선고\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/politics/2026/09/30/2026093016033441144"
-        }
-      ]
-    },
-    {
-      "id": "잠실-주공-5-단지-아파트",
-      "rank": 4,
-      "keyword": "잠실 주공 5 단지 아파트",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“새집 얻고 8억도 받아” 잠실5단지와 4억 더 내야 하는 은마 ‘희비’ [부동산360]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“새집 얻고 8억도 받아” 잠실5단지와 4억 더 내야 하는 은마 ‘희비’ [부동산360]",
+          "title": "'판사♥' 송일국, 중2된 '삼둥이' 사춘기에 고통…박명수 \"본인이 낳았으니 책임져야\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260930095120404"
+          "url": "https://v.daum.net/v/20260928223050072"
         },
         {
-          "title": "같은 84㎡ 받는데 4억3000만원 더 낸다… 은마 재건축 분담금 또 뛰어 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/09/29/YF3J73P4FBCQJGURI5NOUFE6UE/"
+          "title": "송일국, 공채 붙고 스타 된 줄 알았는데…“연기하지 마” 소리까지",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/entertain/12163040"
+        }
+      ]
+    },
+    {
+      "id": "재건축",
+      "rank": 2,
+      "keyword": "재건축",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '대전 대덕구, 재개발·재건축 주민 대상 찾아가는 기본교육 실시' (디트NEWS24) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "대전 대덕구, 재개발·재건축 주민 대상 찾아가는 기본교육 실시",
+          "source": "디트NEWS24",
+          "url": "https://www.dtnews24.com/news/articleView.html?idxno=815651"
         },
         {
-          "title": "\"34평은 재초환, 66평은 23억 분담금\"…잠실5단지 덮친 딜레마",
+          "title": "대전 대덕구, 재개발·재건축 갈등 줄인다…찾아가는 주민교육 운영",
           "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260929000899"
+          "url": "https://www.newspim.com/news/view/20260930001042"
+        },
+        {
+          "title": "대전 대덕구, 재개발·재건축 주민갈등 예방 나섰다",
+          "source": "충청매일",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1102629"
         }
       ]
     },
     {
-      "id": "과태료",
-      "rank": 5,
-      "keyword": "과태료",
+      "id": "고현정",
+      "rank": 3,
+      "keyword": "고현정",
       "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '어린이대공원 '도토리 줍기'에 골머리…\"선 좀 지켜주세요\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '고현정 맞아? 고윤정인 줄..50대 중반이라더니 여전한 미스코리아 '선'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "어린이대공원 '도토리 줍기'에 골머리…\"선 좀 지켜주세요\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260929_0003806934"
-        },
-        {
-          "title": "송이·밤 등 임산물 '불법 채취'...광양시 집중단속",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2630123"
-        },
-        {
-          "title": "“도토리와 밤, 다람쥐에 양보하세요“…주워 가면 ’과태료’",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260929112713JXG"
-        }
-      ]
-    },
-    {
-      "id": "심우정",
-      "rank": 6,
-      "keyword": "심우정",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김건희 도이치 무죄 준 재판장... 불기소 처분 검사들은 피고인석에' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김건희 도이치 무죄 준 재판장... 불기소 처분 검사들은 피고인석에",
+          "title": "고현정 맞아? 고윤정인 줄..50대 중반이라더니 여전한 미스코리아 '선'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260929151257642"
+          "url": "https://v.daum.net/v/20260930181411028"
         },
         {
-          "title": "심우정 전 검찰총장 ‘내란 가담’ 재판 시작…혐의 모두 부인",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8674594"
-        },
-        {
-          "title": "'내란 가담' 심우정·전무곤, 첫 재판서 \"공소사실 전부 부인\"",
+          "title": "고현정, 50대 안 믿기는 동안 비주얼…역대급 아우라 [N샷]",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/society/court-prosecution/6305724"
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6306591"
+        },
+        {
+          "title": "고현정, 브이로그 이어 일상 셀카 공개…붕어빵 사랑 전한 미소",
+          "source": "TopStarNews",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16229740"
         }
       ]
     },
     {
-      "id": "소멸시효",
-      "rank": 7,
-      "keyword": "소멸시효",
+      "id": "안전",
+      "rank": 4,
+      "keyword": "안전",
+      "volumeLabel": "2000+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '민·관이 함께 '국가 AI 안전 종합계획' 수립한다' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "민·관이 함께 '국가 AI 안전 종합계획' 수립한다",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148972829"
+        },
+        {
+          "title": "인사말 하는 김민재 행안부 차관",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260930_0021468174"
+        },
+        {
+          "title": "첨단 AI 위험 국가가 관리…연내 'AI 안전 마스터플랜' 만든다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/H2xcB0NdYM"
+        }
+      ]
+    },
+    {
+      "id": "가상자산",
+      "rank": 5,
+      "keyword": "가상자산",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '빚 독촉 전화, 일주일에 7번까지만 가능…받지 않은 전화는 제외' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '전 CFTC 위원 \"크래리티법이 유일한 방법은 아냐...명확한 규칙 나올것\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "빚 독촉 전화, 일주일에 7번까지만 가능…받지 않은 전화는 제외",
+          "title": "전 CFTC 위원 \"크래리티법이 유일한 방법은 아냐...명확한 규칙 나올것\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260930121613288"
+          "url": "https://v.daum.net/v/20260930151412278"
         },
         {
-          "title": "소멸시효 완성 채권은 추심중단 요청…불법추심 의심시 증거확보",
+          "title": "[블록체인 칼럼] 디지털자산시장 명확화법과 규제체계 재정립에 대한 담론〈상〉",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260929000163"
+        },
+        {
+          "title": "“美 클래리티 재추진까지 최소 2년… 다음 화두는 세제” [KBW 2026]",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171136"
+        }
+      ]
+    },
+    {
+      "id": "2026년-아시안게임",
+      "rank": 6,
+      "keyword": "2026년 아시안게임",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '천포젠, 2026 아시안게임 남자 110kg 역도 결승 나고야서 출전' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "천포젠, 2026 아시안게임 남자 110kg 역도 결승 나고야서 출전",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3709384"
+        },
+        {
+          "title": "역도 110kg 우승 주라예프, 팬들에게 박수…아시안게임 10일째 시상식 개최",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3709401"
+        },
+        {
+          "title": "우즈베키스탄 주라예프, 2026 아시안게임 110kg 역도 결승 출전",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3709382"
+        }
+      ]
+    },
+    {
+      "id": "여자-농구",
+      "rank": 7,
+      "keyword": "여자 농구",
+      "volumeLabel": "1000+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '여자프로농구 11월 1일 개막…정규리그 경기 수 90→105로 늘어' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "여자프로농구 11월 1일 개막…정규리그 경기 수 90→105로 늘어",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/amp/view/AKR20260930083300002"
+          "url": "https://www.yna.co.kr/view/AKR20260930066900007"
         },
         {
-          "title": "7일 7번 넘는 ‘빚 독촉’ 안 된다…교통사고 수술 중이면 석달 유예",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260930/134759091/1"
+          "title": "WKBL 정규리그 105경기로 확대…PO는 3전 2선승제로 축소",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/press/press-release/6305666"
+        },
+        {
+          "title": "6개 구단 감독들에게 직접 물었다, 월드컵→AG에 주축 빠진 여자농구 '고민과 기대' 남은 선수들에겐 기회다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/25/2026092210150992337"
         }
       ]
     },
     {
-      "id": "catl",
+      "id": "명태균",
       "rank": 8,
-      "keyword": "catl",
+      "keyword": "명태균",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "4시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'CATL Debrecen Kicks Off Trial Operations in its New Cell Building' (CATL) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '명태균 “‘오 시장 몰라요’ 녹취는 단일화 내용”…오세훈 2심 증거 왜곡 주장' (한겨레) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "CATL Debrecen Kicks Off Trial Operations in its New Cell Building",
-          "source": "CATL",
-          "url": "https://www.catl.com/en/news/7000.html"
+          "title": "명태균 “‘오 시장 몰라요’ 녹취는 단일화 내용”…오세훈 2심 증거 왜곡 주장",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1280263.html"
         },
         {
-          "title": "CATL Starts Battery Production at Hungary Plant",
-          "source": "Caixin Global",
-          "url": "https://www.caixinglobal.com/2026-09-30/catl-starts-battery-production-at-hungary-plant-102489959.html"
+          "title": "[단독] 명태균 \"'오세훈은 모른다' 녹취는 허위주장\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6855044_37004.html"
         },
         {
-          "title": "CATL starts preproduction tests at Hungary plant",
-          "source": "Power Progress",
-          "url": "https://www.powerprogress.com/news/catl-starts-preproduction-tests-at-hungary-plant/8132173.article"
+          "title": "명태균 “‘오세훈은 몰라’ 녹취는 단일화 과정을 얘기한 것”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609301917001"
         }
       ]
     },
     {
-      "id": "주진우",
+      "id": "서승재",
       "rank": 9,
-      "keyword": "주진우",
+      "keyword": "서승재",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "4시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이 대통령, SNS에 ‘대외비 문건’…청 \"선관위 특검 내통? 사실 아냐\"' (JTBC) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '안세영도 못했는데 '세계 1위' 韓 잡고 2관왕...1056개월 월급이 포상금→랭킹 46위의 '인생 대회'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이 대통령, SNS에 ‘대외비 문건’…청 \"선관위 특검 내통? 사실 아냐\"",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12320709"
-        },
-        {
-          "title": "국힘, '선관위 특검 수사' 보고 의혹 靑부인에 \"특별감찰 요청해야\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260930_0003809326"
-        },
-        {
-          "title": "주진우 “선관위 특검, 청와대에 보고하나…명백히 밝혀야”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8674629"
-        }
-      ]
-    },
-    {
-      "id": "국군-의-날-공휴일",
-      "rank": 10,
-      "keyword": "국군 의 날 공휴일",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '2026년 국군의날 공휴일 지정 되나' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "2026년 국군의날 공휴일 지정 되나",
+          "title": "안세영도 못했는데 '세계 1위' 韓 잡고 2관왕...1056개월 월급이 포상금→랭킹 46위의 '인생 대회'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260930035747419"
+          "url": "https://v.daum.net/v/qMCGfqDghI"
         },
         {
-          "title": "국군의날 기념행사를 '국민과 함께' 원년되나",
-          "source": "중도일보",
-          "url": "https://m.joongdo.co.kr/view.php?key=20260929010008865"
+          "title": "인터뷰하는 김원호-서승재",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260930_0021467720"
         },
         {
-          "title": "[발언대] ‘서울수복’과 ‘국군의 날’ 의미",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260929183238553"
+          "title": "“포상금이 88년치 월급”…‘세계 1위 한국 격파’ 이변의 주인공, 대박",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/world/12164385"
         }
       ]
     }
