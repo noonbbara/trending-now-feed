@@ -1,270 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-30T01:58:41.100Z",
+  "updatedAt": "2026-09-30T08:23:15.170Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "국군-의-날",
+      "id": "아시안-게임",
       "rank": 1,
-      "keyword": "국군 의 날",
-      "volumeLabel": "20000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '세븐일레븐, 국군의 날 맞아 제2작전사령부에 4000만원 상당 물품 지원 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "세븐일레븐, 국군의 날 맞아 제2작전사령부에 4000만원 상당 물품 지원 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/living/2026/09/30/2026093009185733788"
-        },
-        {
-          "title": "세븐일레븐, 육군 제2작전사령부에 4000만원 상당 위문품 후원",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260930000053"
-        },
-        {
-          "title": "세븐일레븐, 국군의 날 맞아 장병에 4000만원 상당 물품 지원",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/industry/distribution/6305466"
-        }
-      ]
-    },
-    {
-      "id": "멕시코-대-페루",
-      "rank": 2,
-      "keyword": "멕시코 대 페루",
-      "volumeLabel": "5000+",
+      "keyword": "아시안 게임",
+      "volumeLabel": "10000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'How to watch Mexico vs. Peru online for free' (Mashable) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '4연패 향해 순항, 이민성호, 오늘 중국과 준결승 격돌' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "How to watch Mexico vs. Peru online for free",
-          "source": "Mashable",
-          "url": "https://mashable.com/entertainment/mexico-peru-international-friendly-2026-live-stream-for-free"
+          "title": "4연패 향해 순항, 이민성호, 오늘 중국과 준결승 격돌",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8674181"
         },
         {
-          "title": "Mexico vs. Peru—International Friendly: Preview, Predictions and Lineups",
-          "source": "Sports Illustrated",
-          "url": "https://www.si.com/soccer/mexico-vs-peru-international-friendly-preview-predictions-lineups-9-29-26"
+          "title": "[아시안게임] 한국 축구, 4회 연속 결승 진출…양궁 은·동메달 추가",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260930164500007"
         },
         {
-          "title": "Watch Mexico vs Peru Friendlies soccer game LIVE: Online streams, TV channel, confirmed teams news, start time",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en-us/news/watch-mexico-v-peru-live-stream-online-tv-channel/blt9ac52e7a8c343395"
+          "title": "[속보] 男축구, 4강전 중국과 1-1 전반 종료… 이영준 동점골",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_special/2026/09/30/3UIXEB2GKBDY5OQVT74APRPVWU/"
         }
       ]
     },
     {
-      "id": "다음",
+      "id": "허경환",
+      "rank": 2,
+      "keyword": "허경환",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '성현주, 허경환 신인 시절 폭로 “우리 집에서 자주 잤다”' (세계일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "성현주, 허경환 신인 시절 폭로 “우리 집에서 자주 잤다”",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260930503559"
+        },
+        {
+          "title": "\"허경환과 자주 잤다\" 유부녀 개그우먼 '폭로' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/30/2026093010280158593"
+        },
+        {
+          "title": "'짠한형' 송준근 \"허경환, 동기들 모임 싫어해\" 폭로",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6303698"
+        }
+      ]
+    },
+    {
+      "id": "추경호",
       "rank": 3,
-      "keyword": "다음",
+      "keyword": "추경호",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '윤대진 前검사장 \"형에 내가 변호사 소개\"…尹에 유리한 증언' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[속보] 내란특검, '계엄해제 표결 방해 의혹' 추경호에 징역 20년 구형' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "윤대진 前검사장 \"형에 내가 변호사 소개\"…尹에 유리한 증언",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/WS01kKmjHT"
-        },
-        {
-          "title": "'397억 선거비용 반환' 尹 선거법 위반 항소심 결심 다음 달로 연기",
+          "title": "[속보] 내란특검, '계엄해제 표결 방해 의혹' 추경호에 징역 20년 구형",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6854719_36918.html"
+          "url": "https://imnews.imbc.com/news/2026/society/article/6854976_36918.html"
         },
         {
-          "title": "'국힘 397억' 걸린 윤석열 선거법 2심 결심 연기...윤대진 \"내가 변호사 소개\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202609291409412923"
+          "title": "與 \"'징역 20년 구형' 추경호, 법과 역사 심판 피할 수 없을 것\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260930_0003809430"
+        },
+        {
+          "title": "장동혁 \"추경호 징역 20년 구형? 의미 없다…반드시 무죄 선고\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/09/30/2026093016033441144"
         }
       ]
     },
     {
-      "id": "김사랑",
+      "id": "잠실-주공-5-단지-아파트",
       "rank": 4,
-      "keyword": "김사랑",
+      "keyword": "잠실 주공 5 단지 아파트",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "summary": "급상승 시점에 '“새집 얻고 8억도 받아” 잠실5단지와 4억 더 내야 하는 은마 ‘희비’ [부동산360]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": []
+      "newsSignals": [
+        {
+          "title": "“새집 얻고 8억도 받아” 잠실5단지와 4억 더 내야 하는 은마 ‘희비’ [부동산360]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260930095120404"
+        },
+        {
+          "title": "같은 84㎡ 받는데 4억3000만원 더 낸다… 은마 재건축 분담금 또 뛰어 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/09/29/YF3J73P4FBCQJGURI5NOUFE6UE/"
+        },
+        {
+          "title": "\"34평은 재초환, 66평은 23억 분담금\"…잠실5단지 덮친 딜레마",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260929000899"
+        }
+      ]
     },
     {
-      "id": "핵무기",
+      "id": "과태료",
       "rank": 5,
-      "keyword": "핵무기",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "keyword": "과태료",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[삶-특집] \"韓 현무 미사일 2000기로도 北 핵무기 1기 감당 못한다\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '어린이대공원 '도토리 줍기'에 골머리…\"선 좀 지켜주세요\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[삶-특집] \"韓 현무 미사일 2000기로도 北 핵무기 1기 감당 못한다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260930060310889"
-        },
-        {
-          "title": "핵무장 논쟁 커질수록 한미 원자력·군사협력 공간 좁아진다",
-          "source": "신동아",
-          "url": "https://shindonga.donga.com/inter/article/all/13/6400465/1"
-        },
-        {
-          "title": "\"마하 10 속도로 내리꽂힌다\"…韓 독자 개발 탄도미사일 '현무-5'의 압도적 위력",
+          "title": "어린이대공원 '도토리 줍기'에 골머리…\"선 좀 지켜주세요\"",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260921_0003797585"
+          "url": "https://www.newsis.com/view/NISX20260929_0003806934"
+        },
+        {
+          "title": "송이·밤 등 임산물 '불법 채취'...광양시 집중단속",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2630123"
+        },
+        {
+          "title": "“도토리와 밤, 다람쥐에 양보하세요“…주워 가면 ’과태료’",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260929112713JXG"
         }
       ]
     },
     {
-      "id": "빈곤",
+      "id": "심우정",
       "rank": 6,
-      "keyword": "빈곤",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "keyword": "심우정",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“국민연금 65세→68세로 늦추자?”…개혁 또 나오는 이유는? [잇슈 머니]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '김건희 도이치 무죄 준 재판장... 불기소 처분 검사들은 피고인석에' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“국민연금 65세→68세로 늦추자?”…개혁 또 나오는 이유는? [잇슈 머니]",
+          "title": "김건희 도이치 무죄 준 재판장... 불기소 처분 검사들은 피고인석에",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260930071320274"
+          "url": "https://v.daum.net/v/20260929151257642"
         },
         {
-          "title": "정은경 “기초연금 목표수급률, 소득 기준으로 변경 필요”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/rights/1280030.html"
+          "title": "심우정 전 검찰총장 ‘내란 가담’ 재판 시작…혐의 모두 부인",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8674594"
         },
         {
-          "title": "\"국민연금 수익률 2%p 높이면 2120년까지 기금 고갈 없어\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260929100600530"
+          "title": "'내란 가담' 심우정·전무곤, 첫 재판서 \"공소사실 전부 부인\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/court-prosecution/6305724"
         }
       ]
     },
     {
-      "id": "아시안게임-롤",
+      "id": "소멸시효",
       "rank": 7,
-      "keyword": "아시안게임 롤",
+      "keyword": "소멸시효",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[아시안게임] 제카 앞세운 한국 LoL, 대만 꺾고 첫 승' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '빚 독촉 전화, 일주일에 7번까지만 가능…받지 않은 전화는 제외' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[아시안게임] 제카 앞세운 한국 LoL, 대만 꺾고 첫 승",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260930062200017"
-        },
-        {
-          "title": "“페이커 대신 제카 출격”…한국 LoL 대표팀, 대만 꺾고 아시안게임 첫 승",
+          "title": "빚 독촉 전화, 일주일에 7번까지만 가능…받지 않은 전화는 제외",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260930103001688"
+          "url": "https://v.daum.net/v/20260930121613288"
         },
         {
-          "title": "홍콩, LoL 조별 예선서 인도에 승리",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000018519&code=61162012&sid1=esp&stg=ws_real"
+          "title": "소멸시효 완성 채권은 추심중단 요청…불법추심 의심시 증거확보",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/amp/view/AKR20260930083300002"
+        },
+        {
+          "title": "7일 7번 넘는 ‘빚 독촉’ 안 된다…교통사고 수술 중이면 석달 유예",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20260930/134759091/1"
         }
       ]
     },
     {
-      "id": "연애전쟁",
+      "id": "catl",
       "rank": 8,
-      "keyword": "연애전쟁",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
+      "keyword": "catl",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '삐에로 남친 “2억은커녕 2000만원도 없어”…서장훈 분노 (연애전쟁)' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'CATL Debrecen Kicks Off Trial Operations in its New Cell Building' (CATL) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "삐에로 남친 “2억은커녕 2000만원도 없어”…서장훈 분노 (연애전쟁)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260929/134749048/1"
+          "title": "CATL Debrecen Kicks Off Trial Operations in its New Cell Building",
+          "source": "CATL",
+          "url": "https://www.catl.com/en/news/7000.html"
         },
         {
-          "title": "'연애전쟁' 이효리, 피에로男 귀여운 척에 '솔직 반응' [RE:TV]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260929053214462?f=m"
+          "title": "CATL Starts Battery Production at Hungary Plant",
+          "source": "Caixin Global",
+          "url": "https://www.caixinglobal.com/2026-09-30/catl-starts-battery-production-at-hungary-plant-102489959.html"
         },
         {
-          "title": "이경규, 피에로 사위 반대 이유…\"자기 가정 못 다스려\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260928_0003806100"
+          "title": "CATL starts preproduction tests at Hungary plant",
+          "source": "Power Progress",
+          "url": "https://www.powerprogress.com/news/catl-starts-preproduction-tests-at-hungary-plant/8132173.article"
         }
       ]
     },
     {
-      "id": "라민-야말",
+      "id": "주진우",
       "rank": 9,
-      "keyword": "라민 야말",
-      "volumeLabel": "1000+",
+      "keyword": "주진우",
+      "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '스페인, 크로아티아 4-1 격파하고 UNL 2연승…야말 멀티골 폭발' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '이 대통령, SNS에 ‘대외비 문건’…청 \"선관위 특검 내통? 사실 아냐\"' (JTBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "스페인, 크로아티아 4-1 격파하고 UNL 2연승…야말 멀티골 폭발",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260930016000007"
+          "title": "이 대통령, SNS에 ‘대외비 문건’…청 \"선관위 특검 내통? 사실 아냐\"",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12320709"
         },
         {
-          "title": "크로아티아 상대 선제골 넣는 라민 야말",
+          "title": "국힘, '선관위 특검 수사' 보고 의혹 靑부인에 \"특별감찰 요청해야\"",
           "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20260930_0002251527&provider_id=&cID=&type=Main&catg=&idx=5"
+          "url": "https://www.newsis.com/view/NISX20260930_0003809326"
         },
         {
-          "title": "'야말 멀티골' 스페인, 크로아티아 격파하고 네이션스리그 2연승",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008775879"
+          "title": "주진우 “선관위 특검, 청와대에 보고하나…명백히 밝혀야”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8674629"
         }
       ]
     },
     {
-      "id": "원주시",
+      "id": "국군-의-날-공휴일",
       "rank": 10,
-      "keyword": "원주시",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
+      "keyword": "국군 의 날 공휴일",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '원주 달빛도깨비야시장, 10월 운영 재개' (뉴스타운) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '2026년 국군의날 공휴일 지정 되나' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "원주 달빛도깨비야시장, 10월 운영 재개",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=717218"
+          "title": "2026년 국군의날 공휴일 지정 되나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260930035747419"
         },
         {
-          "title": "\"원도심 밤이 달라졌다\"…원주 달빛도깨비야시장 주목",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260930_0003807980"
+          "title": "국군의날 기념행사를 '국민과 함께' 원년되나",
+          "source": "중도일보",
+          "url": "https://m.joongdo.co.kr/view.php?key=20260929010008865"
         },
         {
-          "title": "원주 달빛도깨비야시장 10월 재개…6회 운영에 9천253명 방문",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260930038800062"
+          "title": "[발언대] ‘서울수복’과 ‘국군의 날’ 의미",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260929183238553"
         }
       ]
     }
