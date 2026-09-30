@@ -1,230 +1,270 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-29T22:54:59.222Z",
+  "updatedAt": "2026-09-30T01:58:41.100Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "날씨",
+      "id": "국군-의-날",
       "rank": 1,
-      "keyword": "날씨",
-      "volumeLabel": "100000+",
-      "startedLabel": "1시간 전",
+      "keyword": "국군 의 날",
+      "volumeLabel": "20000+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '9월 마지막 날 중부 중심 가을비…내달부터 쌀쌀(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '세븐일레븐, 국군의 날 맞아 제2작전사령부에 4000만원 상당 물품 지원 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "9월 마지막 날 중부 중심 가을비…내달부터 쌀쌀(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260930063202327"
-        },
-        {
-          "title": "[날씨] 9월 마지막 날, 남부 안개...중서부 중심 비, 기온 '뚝'",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0108_202609300648521652_005.html"
-        },
-        {
-          "title": "강원 내륙·산지 오후 들어 비…동해안 너울 주의",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260930007700062"
-        }
-      ]
-    },
-    {
-      "id": "weather",
-      "rank": 2,
-      "keyword": "weather",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'WSAZ+ | Heat set to return before weekend rain' (WSAZ) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "WSAZ+ | Heat set to return before weekend rain",
-          "source": "WSAZ",
-          "url": "https://www.wsaz.com/2026/09/29/wsaz-heat-set-return-before-weekend-rain/"
-        },
-        {
-          "title": "First Alert Forecast: Dry Tuesday evening",
-          "source": "WWBT",
-          "url": "https://www.12onyourside.com/2026/09/29/first-alert-forecast-clouds-decrease-tuesday-warmup-continues/"
-        },
-        {
-          "title": "Big warm-up in Virginia this week",
-          "source": "WTVR.com",
-          "url": "https://www.wtvr.com/weather/todays-forecast/richmond-virginia-sept-29-2026"
-        }
-      ]
-    },
-    {
-      "id": "김해준",
-      "rank": 3,
-      "keyword": "김해준",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '코미디언 김해준·김승혜 부부 득녀…\"사랑으로 키울 것\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "코미디언 김해준·김승혜 부부 득녀…\"사랑으로 키울 것\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260929164420366"
-        },
-        {
-          "title": "김승혜·김해준 부부, 부모 됐다…\"자연분만 성공\" - 머니투데이",
+          "title": "세븐일레븐, 국군의 날 맞아 제2작전사령부에 4000만원 상당 물품 지원 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/29/2026092917235579921"
+          "url": "https://www.mt.co.kr/living/2026/09/30/2026093009185733788"
         },
         {
-          "title": "코미디언 김해준·김승혜 부부, 첫딸 출산…“사랑으로 잘 키우겠다”",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260929580592"
-        }
-      ]
-    },
-    {
-      "id": "장마",
-      "rank": 4,
-      "keyword": "장마",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '14명 숨졌는데 태풍 또 온다‥아시안게임도 줄줄이 차질' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "14명 숨졌는데 태풍 또 온다‥아시안게임도 줄줄이 차질",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260928231005781"
+          "title": "세븐일레븐, 육군 제2작전사령부에 4000만원 상당 위문품 후원",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260930000053"
         },
         {
-          "title": "완연한 초가을 제주지방 내일부터 찬 공기 영향 '쌀쌀'",
-          "source": "한라일보",
-          "url": "https://app.ihalla.com/article.php?aid=1790721430791055044"
-        },
-        {
-          "title": "해가 사라진 도쿄, 34일 연속 ‘비’…140년 만에 무슨 일이?",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1279949.html"
-        }
-      ]
-    },
-    {
-      "id": "天气",
-      "rank": 5,
-      "keyword": "天气",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Scientists solve 1840s space weather mystery' (Ars Technica) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Scientists solve 1840s space weather mystery",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/"
-        },
-        {
-          "title": "Tesla Roadster Speed Bump: Does It Dent TSLA's Investment Thesis?",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-roadster-speed-bump-does-114500544.html"
-        },
-        {
-          "title": "Tesla Delays Long-Awaited Roadster Supercar Launch Event",
-          "source": "WSJ",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-29-2026/card/tesla-delays-long-awaited-roadster-supercar-launch-event-ykMc0gBwie1hXEgqiae5"
-        }
-      ]
-    },
-    {
-      "id": "견미리",
-      "rank": 6,
-      "keyword": "견미리",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '가수 이승기 장인, '코스닥 상장사 주가조작' 징역 3년6개월' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "가수 이승기 장인, '코스닥 상장사 주가조작' 징역 3년6개월",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/9F5QLpjJ5Q"
-        },
-        {
-          "title": "‘코스닥 상장사 주가 조작’ 일당, 징역형 선고",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8673716"
-        },
-        {
-          "title": "연예인 사위에 ‘손절’ 당한 ‘주가조작’ 장인, 1심서 실형 선고받았다",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/society/law/2026/09/29/20260929500132"
-        }
-      ]
-    },
-    {
-      "id": "노화",
-      "rank": 7,
-      "keyword": "노화",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '노화 가늠하려면, ‘얼굴 주름’ 대신 ‘엉덩이’ 확인해라' (헬스조선) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "노화 가늠하려면, ‘얼굴 주름’ 대신 ‘엉덩이’ 확인해라",
-          "source": "헬스조선",
-          "url": "https://health.chosun.com/site/data/html_dir/2026/09/29/2026092904086.html"
-        },
-        {
-          "title": "암세포도 정상으로 되돌릴까…세포 운명 바꿀 '최소 자극' 찾았다[헬스LAB]",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202609231412090707"
-        },
-        {
-          "title": "노화 줄기세포 '회춘'…5분 물리자극으로 기능 되살려 [언박싱 연구실]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260924063208418"
-        }
-      ]
-    },
-    {
-      "id": "기자",
-      "rank": 8,
-      "keyword": "기자",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"편견 넘어 공감으로\"…복지부, '정신건강 미디어 심포지엄'' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"편견 넘어 공감으로\"…복지부, '정신건강 미디어 심포지엄'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260929_0003806735"
-        },
-        {
-          "title": "기자도 트라우마 겪는다…정신건강 보도, 편견 대신 공감으로",
+          "title": "세븐일레븐, 국군의 날 맞아 장병에 4000만원 상당 물품 지원",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/bio/welfare-medical/6304539"
+          "url": "https://www.news1.kr/industry/distribution/6305466"
+        }
+      ]
+    },
+    {
+      "id": "멕시코-대-페루",
+      "rank": 2,
+      "keyword": "멕시코 대 페루",
+      "volumeLabel": "5000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'How to watch Mexico vs. Peru online for free' (Mashable) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "How to watch Mexico vs. Peru online for free",
+          "source": "Mashable",
+          "url": "https://mashable.com/entertainment/mexico-peru-international-friendly-2026-live-stream-for-free"
         },
         {
-          "title": "기협·복지부·중앙지원단 '2026 정신건강 심포지엄'",
+          "title": "Mexico vs. Peru—International Friendly: Preview, Predictions and Lineups",
+          "source": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/mexico-vs-peru-international-friendly-preview-predictions-lineups-9-29-26"
+        },
+        {
+          "title": "Watch Mexico vs Peru Friendlies soccer game LIVE: Online streams, TV channel, confirmed teams news, start time",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/en-us/news/watch-mexico-v-peru-live-stream-online-tv-channel/blt9ac52e7a8c343395"
+        }
+      ]
+    },
+    {
+      "id": "다음",
+      "rank": 3,
+      "keyword": "다음",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '윤대진 前검사장 \"형에 내가 변호사 소개\"…尹에 유리한 증언' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "윤대진 前검사장 \"형에 내가 변호사 소개\"…尹에 유리한 증언",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260929191831770"
+          "url": "https://v.daum.net/v/WS01kKmjHT"
+        },
+        {
+          "title": "'397억 선거비용 반환' 尹 선거법 위반 항소심 결심 다음 달로 연기",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6854719_36918.html"
+        },
+        {
+          "title": "'국힘 397억' 걸린 윤석열 선거법 2심 결심 연기...윤대진 \"내가 변호사 소개\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202609291409412923"
+        }
+      ]
+    },
+    {
+      "id": "김사랑",
+      "rank": 4,
+      "keyword": "김사랑",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "핵무기",
+      "rank": 5,
+      "keyword": "핵무기",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[삶-특집] \"韓 현무 미사일 2000기로도 北 핵무기 1기 감당 못한다\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[삶-특집] \"韓 현무 미사일 2000기로도 北 핵무기 1기 감당 못한다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260930060310889"
+        },
+        {
+          "title": "핵무장 논쟁 커질수록 한미 원자력·군사협력 공간 좁아진다",
+          "source": "신동아",
+          "url": "https://shindonga.donga.com/inter/article/all/13/6400465/1"
+        },
+        {
+          "title": "\"마하 10 속도로 내리꽂힌다\"…韓 독자 개발 탄도미사일 '현무-5'의 압도적 위력",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260921_0003797585"
+        }
+      ]
+    },
+    {
+      "id": "빈곤",
+      "rank": 6,
+      "keyword": "빈곤",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“국민연금 65세→68세로 늦추자?”…개혁 또 나오는 이유는? [잇슈 머니]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“국민연금 65세→68세로 늦추자?”…개혁 또 나오는 이유는? [잇슈 머니]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260930071320274"
+        },
+        {
+          "title": "정은경 “기초연금 목표수급률, 소득 기준으로 변경 필요”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/rights/1280030.html"
+        },
+        {
+          "title": "\"국민연금 수익률 2%p 높이면 2120년까지 기금 고갈 없어\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260929100600530"
+        }
+      ]
+    },
+    {
+      "id": "아시안게임-롤",
+      "rank": 7,
+      "keyword": "아시안게임 롤",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[아시안게임] 제카 앞세운 한국 LoL, 대만 꺾고 첫 승' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[아시안게임] 제카 앞세운 한국 LoL, 대만 꺾고 첫 승",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260930062200017"
+        },
+        {
+          "title": "“페이커 대신 제카 출격”…한국 LoL 대표팀, 대만 꺾고 아시안게임 첫 승",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260930103001688"
+        },
+        {
+          "title": "홍콩, LoL 조별 예선서 인도에 승리",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000018519&code=61162012&sid1=esp&stg=ws_real"
+        }
+      ]
+    },
+    {
+      "id": "연애전쟁",
+      "rank": 8,
+      "keyword": "연애전쟁",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '삐에로 남친 “2억은커녕 2000만원도 없어”…서장훈 분노 (연애전쟁)' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "삐에로 남친 “2억은커녕 2000만원도 없어”…서장훈 분노 (연애전쟁)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260929/134749048/1"
+        },
+        {
+          "title": "'연애전쟁' 이효리, 피에로男 귀여운 척에 '솔직 반응' [RE:TV]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260929053214462?f=m"
+        },
+        {
+          "title": "이경규, 피에로 사위 반대 이유…\"자기 가정 못 다스려\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260928_0003806100"
+        }
+      ]
+    },
+    {
+      "id": "라민-야말",
+      "rank": 9,
+      "keyword": "라민 야말",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '스페인, 크로아티아 4-1 격파하고 UNL 2연승…야말 멀티골 폭발' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "스페인, 크로아티아 4-1 격파하고 UNL 2연승…야말 멀티골 폭발",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260930016000007"
+        },
+        {
+          "title": "크로아티아 상대 선제골 넣는 라민 야말",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20260930_0002251527&provider_id=&cID=&type=Main&catg=&idx=5"
+        },
+        {
+          "title": "'야말 멀티골' 스페인, 크로아티아 격파하고 네이션스리그 2연승",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008775879"
+        }
+      ]
+    },
+    {
+      "id": "원주시",
+      "rank": 10,
+      "keyword": "원주시",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '원주 달빛도깨비야시장, 10월 운영 재개' (뉴스타운) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "원주 달빛도깨비야시장, 10월 운영 재개",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=717218"
+        },
+        {
+          "title": "\"원도심 밤이 달라졌다\"…원주 달빛도깨비야시장 주목",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260930_0003807980"
+        },
+        {
+          "title": "원주 달빛도깨비야시장 10월 재개…6회 운영에 9천253명 방문",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260930038800062"
         }
       ]
     }
