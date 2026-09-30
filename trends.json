@@ -1,258 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-30T15:11:51.881Z",
+  "updatedAt": "2026-09-30T20:15:28.837Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "송일국",
+      "id": "한일전",
       "rank": 1,
-      "keyword": "송일국",
-      "volumeLabel": "5000+",
+      "keyword": "한일전",
+      "volumeLabel": "20000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[H.L] 에이스 배준호가 해냈다! 남자축구 4연속 결승행' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[H.L] 에이스 배준호가 해냈다! 남자축구 4연속 결승행",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8675021"
+        },
+        {
+          "title": "\"한국도 쉽게 못 이겼다\" 中, 졌는데도 호평 세례... \"40년 만에 韓 골문 열었다\" [아이치 나고야 AG] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/01/2026100104110951721"
+        },
+        {
+          "title": "이민성호, 또 하늘이 돕는다! '89분 극장골' 일본-우즈벡, 1-1로 연장 돌입...한국과 결승 앞두고 '120분' 혈투 확정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260930212612822"
+        }
+      ]
+    },
+    {
+      "id": "에콰도르-축구-국가대표팀",
+      "rank": 2,
+      "keyword": "에콰도르 축구 국가대표팀",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"에콰도르가 한국에 진 건 컨디션 탓\" 日 모리야스 감독의 경계심, \"일본전에서는 완전히 다른 팀 될 것\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"에콰도르가 한국에 진 건 컨디션 탓\" 日 모리야스 감독의 경계심, \"일본전에서는 완전히 다른 팀 될 것\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qko2BjpXSh"
+        },
+        {
+          "title": "일본 대 에콰도르 축구 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-nhat-ban-vs-ecuador-1775366.ldo"
+        },
+        {
+          "title": "냉온탕 오간 모레노호, 베네수엘라와 격돌…중원 조합 등 관심",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/taf4u1Lxtf"
+        }
+      ]
+    },
+    {
+      "id": "연합뉴스",
+      "rank": 3,
+      "keyword": "연합뉴스",
+      "volumeLabel": "1000+",
       "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '송일국 “삼둥이 중2병에 하루하루 기도”…“너무 힘들다” 육아 고충 토로' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '美 10년물 금리 장중 5.3% 돌파…24년 만에 최고치 경신' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "송일국 “삼둥이 중2병에 하루하루 기도”…“너무 힘들다” 육아 고충 토로",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202609281440003"
-        },
-        {
-          "title": "'판사♥' 송일국, 중2된 '삼둥이' 사춘기에 고통…박명수 \"본인이 낳았으니 책임져야\"",
+          "title": "美 10년물 금리 장중 5.3% 돌파…24년 만에 최고치 경신",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260928223050072"
+          "url": "https://v.daum.net/v/20261001044802939"
         },
         {
-          "title": "송일국, 공채 붙고 스타 된 줄 알았는데…“연기하지 마” 소리까지",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12163040"
-        }
-      ]
-    },
-    {
-      "id": "재건축",
-      "rank": 2,
-      "keyword": "재건축",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '대전 대덕구, 재개발·재건축 주민 대상 찾아가는 기본교육 실시' (디트NEWS24) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "대전 대덕구, 재개발·재건축 주민 대상 찾아가는 기본교육 실시",
-          "source": "디트NEWS24",
-          "url": "https://www.dtnews24.com/news/articleView.html?idxno=815651"
-        },
-        {
-          "title": "대전 대덕구, 재개발·재건축 갈등 줄인다…찾아가는 주민교육 운영",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260930001042"
-        },
-        {
-          "title": "대전 대덕구, 재개발·재건축 주민갈등 예방 나섰다",
-          "source": "충청매일",
-          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1102629"
-        }
-      ]
-    },
-    {
-      "id": "고현정",
-      "rank": 3,
-      "keyword": "고현정",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '고현정 맞아? 고윤정인 줄..50대 중반이라더니 여전한 미스코리아 '선'' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "고현정 맞아? 고윤정인 줄..50대 중반이라더니 여전한 미스코리아 '선'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260930181411028"
-        },
-        {
-          "title": "고현정, 50대 안 믿기는 동안 비주얼…역대급 아우라 [N샷]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6306591"
-        },
-        {
-          "title": "고현정, 브이로그 이어 일상 셀카 공개…붕어빵 사랑 전한 미소",
-          "source": "TopStarNews",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16229740"
-        }
-      ]
-    },
-    {
-      "id": "안전",
-      "rank": 4,
-      "keyword": "안전",
-      "volumeLabel": "2000+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '민·관이 함께 '국가 AI 안전 종합계획' 수립한다' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "민·관이 함께 '국가 AI 안전 종합계획' 수립한다",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148972829"
-        },
-        {
-          "title": "인사말 하는 김민재 행안부 차관",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260930_0021468174"
-        },
-        {
-          "title": "첨단 AI 위험 국가가 관리…연내 'AI 안전 마스터플랜' 만든다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/H2xcB0NdYM"
-        }
-      ]
-    },
-    {
-      "id": "가상자산",
-      "rank": 5,
-      "keyword": "가상자산",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '전 CFTC 위원 \"크래리티법이 유일한 방법은 아냐...명확한 규칙 나올것\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "전 CFTC 위원 \"크래리티법이 유일한 방법은 아냐...명확한 규칙 나올것\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260930151412278"
-        },
-        {
-          "title": "[블록체인 칼럼] 디지털자산시장 명확화법과 규제체계 재정립에 대한 담론〈상〉",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260929000163"
-        },
-        {
-          "title": "“美 클래리티 재추진까지 최소 2년… 다음 화두는 세제” [KBW 2026]",
-          "source": "IT조선",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171136"
-        }
-      ]
-    },
-    {
-      "id": "2026년-아시안게임",
-      "rank": 6,
-      "keyword": "2026년 아시안게임",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '천포젠, 2026 아시안게임 남자 110kg 역도 결승 나고야서 출전' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "천포젠, 2026 아시안게임 남자 110kg 역도 결승 나고야서 출전",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3709384"
-        },
-        {
-          "title": "역도 110kg 우승 주라예프, 팬들에게 박수…아시안게임 10일째 시상식 개최",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3709401"
-        },
-        {
-          "title": "우즈베키스탄 주라예프, 2026 아시안게임 110kg 역도 결승 출전",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3709382"
-        }
-      ]
-    },
-    {
-      "id": "여자-농구",
-      "rank": 7,
-      "keyword": "여자 농구",
-      "volumeLabel": "1000+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '여자프로농구 11월 1일 개막…정규리그 경기 수 90→105로 늘어' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "여자프로농구 11월 1일 개막…정규리그 경기 수 90→105로 늘어",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260930066900007"
-        },
-        {
-          "title": "WKBL 정규리그 105경기로 확대…PO는 3전 2선승제로 축소",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/press/press-release/6305666"
-        },
-        {
-          "title": "6개 구단 감독들에게 직접 물었다, 월드컵→AG에 주축 빠진 여자농구 '고민과 기대' 남은 선수들에겐 기회다 - 머니투데이",
+          "title": "[기자수첩]불안한 채권시장, 원인은 '호르무즈'가 아니다 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/25/2026092210150992337"
+          "url": "https://www.mt.co.kr/world/2026/10/01/2026093012220414691"
+        },
+        {
+          "title": "예전 같지 않은 미국…예전과 다른 非미국 ETF[이번주 찜할 ETF]",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1167630"
         }
       ]
     },
     {
-      "id": "명태균",
-      "rank": 8,
-      "keyword": "명태균",
-      "volumeLabel": "500+",
+      "id": "김장",
+      "rank": 4,
+      "keyword": "김장",
+      "volumeLabel": "1000+",
       "startedLabel": "4시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '명태균 “‘오 시장 몰라요’ 녹취는 단일화 내용”…오세훈 2심 증거 왜곡 주장' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '배추 절이고 양념 버무리고…'고된 김장' 사라진다' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "명태균 “‘오 시장 몰라요’ 녹취는 단일화 내용”…오세훈 2심 증거 왜곡 주장",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1280263.html"
-        },
-        {
-          "title": "[단독] 명태균 \"'오세훈은 모른다' 녹취는 허위주장\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6855044_37004.html"
-        },
-        {
-          "title": "명태균 “‘오세훈은 몰라’ 녹취는 단일화 과정을 얘기한 것”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609301917001"
-        }
-      ]
-    },
-    {
-      "id": "서승재",
-      "rank": 9,
-      "keyword": "서승재",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '안세영도 못했는데 '세계 1위' 韓 잡고 2관왕...1056개월 월급이 포상금→랭킹 46위의 '인생 대회'' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "안세영도 못했는데 '세계 1위' 韓 잡고 2관왕...1056개월 월급이 포상금→랭킹 46위의 '인생 대회'",
+          "title": "배추 절이고 양념 버무리고…'고된 김장' 사라진다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/qMCGfqDghI"
+          "url": "https://v.daum.net/v/20260930161513008"
         },
         {
-          "title": "인터뷰하는 김원호-서승재",
+          "title": "“아니 벌써 김장철” 롯데마트 절임배주 사전예약 시작",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609301446001"
+        },
+        {
+          "title": "[똑똑한쇼핑] 홈플러스, 롯데마트·슈퍼, SSG닷컴, KT알파 쇼핑, G마켓, CJ온스타일",
+          "source": "에너지경제신문",
+          "url": "https://www.ekn.kr/web/view.php?key=20260930025290263"
+        }
+      ]
+    },
+    {
+      "id": "한화오션",
+      "rank": 5,
+      "keyword": "한화오션",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '한화오션 하청노동자 원청 교섭 요구 고공농성…진보정당 \"연대\"(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "한화오션 하청노동자 원청 교섭 요구 고공농성…진보정당 \"연대\"(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260930163902075"
+        },
+        {
+          "title": "\"하청노동자 저임금 방치\"…한화오션 하청노동자 고공농성 돌입",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260930001082"
+        },
+        {
+          "title": "“노란봉투법 준수하라” 한화오션 하청노조 기습 고공농성 돌입",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=351130"
+        }
+      ]
+    },
+    {
+      "id": "담배",
+      "rank": 6,
+      "keyword": "담배",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '성인 남성 절반이 '비만'…흡연·운동·식생활 악화' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "성인 남성 절반이 '비만'…흡연·운동·식생활 악화",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/uzp7wIV7GS"
+        },
+        {
+          "title": "2030세대, 담배 늘고 운동은 줄었다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260930/134763967/2"
+        },
+        {
+          "title": "2030 건강 살펴보니…술은 줄고 살은 찌고",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8674784"
+        }
+      ]
+    },
+    {
+      "id": "이동진",
+      "rank": 7,
+      "keyword": "이동진",
+      "volumeLabel": "500+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘육영수 암살범은 北공작원’…美CIA 문건에 이렇게 적혔다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘육영수 암살범은 北공작원’…美CIA 문건에 이렇게 적혔다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260930195211630"
+        },
+        {
+          "title": "“‘암살자(들)‘은 역사왜곡”... 들끓는 2030 비난 여론",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/09/30/2BCWXY7C6NFVVASHIWHL5RUZLQ/"
+        },
+        {
+          "title": "'암살자들' 논란에 '부엉이바위' 포스터 등장‥또 음모론",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6855037_37004.html"
+        }
+      ]
+    },
+    {
+      "id": "대한민국-검찰청",
+      "rank": 8,
+      "keyword": "대한민국 검찰청",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '사건기록 보낼 통신망 아직… 수사관들 어디서 일하는지도 몰라' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "사건기록 보낼 통신망 아직… 수사관들 어디서 일하는지도 몰라",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261001043336815"
+        },
+        {
+          "title": "개편 앞둔 공소청-중수청에 법무부-경찰까지 ‘수장 공백’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261001/134764297/2"
+        },
+        {
+          "title": "‘부산검찰청’ 떼고 ‘공소청’ 간판",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261001.22001010028"
+        }
+      ]
+    },
+    {
+      "id": "항공-엔진",
+      "rank": 9,
+      "keyword": "항공 엔진",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '남의 엔진 쓰던 KF-21 한 푼다…'국산 독자 엔진' 거점 닻 올려' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "남의 엔진 쓰던 KF-21 한 푼다…'국산 독자 엔진' 거점 닻 올려",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260930165410057"
+        },
+        {
+          "title": "창원국가산단, 경남 첫 첨단항공엔진 특화단지 지정",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=717315"
+        },
+        {
+          "title": "창원국가산단, 방산 첨단 항공엔진 특화단지로 지정",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260930_0021467720"
+          "url": "https://www.newsis.com/view/NISX20260930_0003809582"
+        }
+      ]
+    },
+    {
+      "id": "fat-bear",
+      "rank": 10,
+      "keyword": "fat bear",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Alaska’s Fat Bear Week Winner Is 89 Backpack' (The New York Times) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Alaska’s Fat Bear Week Winner Is 89 Backpack",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/09/29/style/fat-bear-week-winner.html"
         },
         {
-          "title": "“포상금이 88년치 월급”…‘세계 1위 한국 격파’ 이변의 주인공, 대박",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/world/12164385"
+          "title": "The fattest bear in Alaska? 'Backpack' takes 2026 Fat Bear title",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/news/videos/fattest-bear-alaska-backpack-takes-102714583.html"
+        },
+        {
+          "title": "'Backpack' declared Alaska's Fat Bear Week winner",
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/ck8d3vl9mj13o"
         }
       ]
     }
