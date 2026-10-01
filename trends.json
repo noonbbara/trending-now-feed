@@ -1,286 +1,270 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-09-30T20:15:28.837Z",
+  "updatedAt": "2026-10-01T00:07:44.481Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "한일전",
+      "id": "이영표",
       "rank": 1,
-      "keyword": "한일전",
-      "volumeLabel": "20000+",
+      "keyword": "이영표",
+      "volumeLabel": "10000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[H.L] 에이스 배준호가 해냈다! 남자축구 4연속 결승행' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"전 군대 갔다왔지만, 다른 애들 가라고 하지 말길\"...동점골 주인공 이영준, 금메달 가능성은 \"100%\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[H.L] 에이스 배준호가 해냈다! 남자축구 4연속 결승행",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8675021"
-        },
-        {
-          "title": "\"한국도 쉽게 못 이겼다\" 中, 졌는데도 호평 세례... \"40년 만에 韓 골문 열었다\" [아이치 나고야 AG] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/01/2026100104110951721"
-        },
-        {
-          "title": "이민성호, 또 하늘이 돕는다! '89분 극장골' 일본-우즈벡, 1-1로 연장 돌입...한국과 결승 앞두고 '120분' 혈투 확정",
+          "title": "\"전 군대 갔다왔지만, 다른 애들 가라고 하지 말길\"...동점골 주인공 이영준, 금메달 가능성은 \"100%\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260930212612822"
-        }
-      ]
-    },
-    {
-      "id": "에콰도르-축구-국가대표팀",
-      "rank": 2,
-      "keyword": "에콰도르 축구 국가대표팀",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"에콰도르가 한국에 진 건 컨디션 탓\" 日 모리야스 감독의 경계심, \"일본전에서는 완전히 다른 팀 될 것\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"에콰도르가 한국에 진 건 컨디션 탓\" 日 모리야스 감독의 경계심, \"일본전에서는 완전히 다른 팀 될 것\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/qko2BjpXSh"
+          "url": "https://v.daum.net/v/20261001024657535"
         },
         {
-          "title": "일본 대 에콰도르 축구 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-nhat-ban-vs-ecuador-1775366.ldo"
-        },
-        {
-          "title": "냉온탕 오간 모레노호, 베네수엘라와 격돌…중원 조합 등 관심",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/taf4u1Lxtf"
-        }
-      ]
-    },
-    {
-      "id": "연합뉴스",
-      "rank": 3,
-      "keyword": "연합뉴스",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '美 10년물 금리 장중 5.3% 돌파…24년 만에 최고치 경신' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "美 10년물 금리 장중 5.3% 돌파…24년 만에 최고치 경신",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261001044802939"
-        },
-        {
-          "title": "[기자수첩]불안한 채권시장, 원인은 '호르무즈'가 아니다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/10/01/2026093012220414691"
-        },
-        {
-          "title": "예전 같지 않은 미국…예전과 다른 非미국 ETF[이번주 찜할 ETF]",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1167630"
-        }
-      ]
-    },
-    {
-      "id": "김장",
-      "rank": 4,
-      "keyword": "김장",
-      "volumeLabel": "1000+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '배추 절이고 양념 버무리고…'고된 김장' 사라진다' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "배추 절이고 양념 버무리고…'고된 김장' 사라진다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260930161513008"
-        },
-        {
-          "title": "“아니 벌써 김장철” 롯데마트 절임배주 사전예약 시작",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609301446001"
-        },
-        {
-          "title": "[똑똑한쇼핑] 홈플러스, 롯데마트·슈퍼, SSG닷컴, KT알파 쇼핑, G마켓, CJ온스타일",
-          "source": "에너지경제신문",
-          "url": "https://www.ekn.kr/web/view.php?key=20260930025290263"
-        }
-      ]
-    },
-    {
-      "id": "한화오션",
-      "rank": 5,
-      "keyword": "한화오션",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한화오션 하청노동자 원청 교섭 요구 고공농성…진보정당 \"연대\"(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "한화오션 하청노동자 원청 교섭 요구 고공농성…진보정당 \"연대\"(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260930163902075"
-        },
-        {
-          "title": "\"하청노동자 저임금 방치\"…한화오션 하청노동자 고공농성 돌입",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260930001082"
-        },
-        {
-          "title": "“노란봉투법 준수하라” 한화오션 하청노조 기습 고공농성 돌입",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=351130"
-        }
-      ]
-    },
-    {
-      "id": "담배",
-      "rank": 6,
-      "keyword": "담배",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '성인 남성 절반이 '비만'…흡연·운동·식생활 악화' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "성인 남성 절반이 '비만'…흡연·운동·식생활 악화",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/uzp7wIV7GS"
-        },
-        {
-          "title": "2030세대, 담배 늘고 운동은 줄었다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260930/134763967/2"
-        },
-        {
-          "title": "2030 건강 살펴보니…술은 줄고 살은 찌고",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8674784"
-        }
-      ]
-    },
-    {
-      "id": "이동진",
-      "rank": 7,
-      "keyword": "이동진",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘육영수 암살범은 北공작원’…美CIA 문건에 이렇게 적혔다' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘육영수 암살범은 北공작원’…美CIA 문건에 이렇게 적혔다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260930195211630"
-        },
-        {
-          "title": "“‘암살자(들)‘은 역사왜곡”... 들끓는 2030 비난 여론",
+          "title": "'눈에 멍든지도 모르고' 골 없던 배준호, 중국전에서 천금 결승골 \"이러려고 그동안 골 아껴둔 것 같다\"[오사카 현장]",
           "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/09/30/2BCWXY7C6NFVVASHIWHL5RUZLQ/"
+          "url": "https://www.chosun.com/sports/football/2026/10/01/MQYWCZJTGRRWEMJZGBRDQNZSHE/"
         },
         {
-          "title": "'암살자들' 논란에 '부엉이바위' 포스터 등장‥또 음모론",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6855037_37004.html"
+          "title": "소림 축구엔 역전승 참교육…이민성호, 한일전 결승 성사",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8675189"
         }
       ]
     },
     {
-      "id": "대한민국-검찰청",
-      "rank": 8,
-      "keyword": "대한민국 검찰청",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "id": "쓰레기봉투",
+      "rank": 2,
+      "keyword": "쓰레기봉투",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '사건기록 보낼 통신망 아직… 수사관들 어디서 일하는지도 몰라' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“종량제 봉투 아끼려면?”…페트병 압착·상자 접어 분리배출' (제주교통복지신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "사건기록 보낼 통신망 아직… 수사관들 어디서 일하는지도 몰라",
+          "title": "“종량제 봉투 아끼려면?”…페트병 압착·상자 접어 분리배출",
+          "source": "제주교통복지신문",
+          "url": "https://www.jejutwn.com/news/article.html?no=460760"
+        },
+        {
+          "title": "[서울 25]중구, 빈 즉석밥 용기 ‘종량제봉투’로 보상",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609282152025"
+        },
+        {
+          "title": "“햇반 용기 모아봤니?” 중구에 가져가면 종량제봉투로 바꿔준다[서울25]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20261001043336815"
-        },
-        {
-          "title": "개편 앞둔 공소청-중수청에 법무부-경찰까지 ‘수장 공백’",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261001/134764297/2"
-        },
-        {
-          "title": "‘부산검찰청’ 떼고 ‘공소청’ 간판",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261001.22001010028"
+          "url": "https://v.daum.net/v/0WgnZRYChR?f=p"
         }
       ]
     },
     {
-      "id": "항공-엔진",
-      "rank": 9,
-      "keyword": "항공 엔진",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "id": "토트넘-홋스퍼-fc",
+      "rank": 3,
+      "keyword": "토트넘 홋스퍼 fc",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '남의 엔진 쓰던 KF-21 한 푼다…'국산 독자 엔진' 거점 닻 올려' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘韓 축구 레전드’ 손흥민, 또 그 이름을 외쳤다···英 언론 “2년 동안 토트넘 떠난 선수 29명, SON은 ...' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "남의 엔진 쓰던 KF-21 한 푼다…'국산 독자 엔진' 거점 닻 올려",
+          "title": "‘韓 축구 레전드’ 손흥민, 또 그 이름을 외쳤다···英 언론 “2년 동안 토트넘 떠난 선수 29명, SON은 ...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610010707003"
+        },
+        {
+          "title": "“역사상 가장 위대한 선수” 손흥민, 72년 역사 美 언론 선정 ‘토트넘 사상 최고의 선수’ 영혼의 짝 케인과 함께 선정",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260930165410057"
+          "url": "https://v.daum.net/v/PZAG86Sr7e"
         },
         {
-          "title": "창원국가산단, 경남 첫 첨단항공엔진 특화단지 지정",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=717315"
+          "title": "‘손흥민도, 로메로도 잘 살고 있네…’ 몰락하는 토트넘 탈출, 잘 살고 있는 선수 많았다",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=98558"
+        }
+      ]
+    },
+    {
+      "id": "최유빈",
+      "rank": 4,
+      "keyword": "최유빈",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "이옥섭",
+      "rank": 5,
+      "keyword": "이옥섭",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[단독] 구교환, ♥이옥섭 감독과 결혼…이미 4년전 혼인신고' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[단독] 구교환, ♥이옥섭 감독과 결혼…이미 4년전 혼인신고",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261001060611471"
         },
         {
-          "title": "창원국가산단, 방산 첨단 항공엔진 특화단지로 지정",
+          "title": "구교환♥이옥섭, 4년 전 이미 법적 부부…\"결혼식 계획 없다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/01/2026100108071484368"
+        },
+        {
+          "title": "[공식] 구교환, 유부남이었다..♥이옥섭 감독과 4년 전 혼인신고",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112885447"
+        }
+      ]
+    },
+    {
+      "id": "분리수거",
+      "rank": 6,
+      "keyword": "분리수거",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '연내 폐가전 수거함 8천개 추가 설치…지도 앱에 위치 표시' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "연내 폐가전 수거함 8천개 추가 설치…지도 앱에 위치 표시",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260930066600530"
+        },
+        {
+          "title": "보조 배터리 그냥 버렸다간 ‘화재’…그럼 어떻게?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260930152406934"
+        },
+        {
+          "title": "\"보조배터리 종량제봉투에 버리지마세요\"…전용 수거함 8000개 확충",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260930_0003809582"
+          "url": "https://www.newsis.com/view/NISX20260930_0003807995"
         }
       ]
     },
     {
-      "id": "fat-bear",
-      "rank": 10,
-      "keyword": "fat bear",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
+      "id": "웨스팅하우스",
+      "rank": 7,
+      "keyword": "웨스팅하우스",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Alaska’s Fat Bear Week Winner Is 89 Backpack' (The New York Times) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"韓기업, 웨스팅하우스 지분 5~10% 인수 추진\"…이사회 진입이 관건' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Alaska’s Fat Bear Week Winner Is 89 Backpack",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/09/29/style/fat-bear-week-winner.html"
+          "title": "\"韓기업, 웨스팅하우스 지분 5~10% 인수 추진\"…이사회 진입이 관건",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261001081358997"
         },
         {
-          "title": "The fattest bear in Alaska? 'Backpack' takes 2026 Fat Bear title",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/news/videos/fattest-bear-alaska-backpack-takes-102714583.html"
+          "title": "K-원전, 미국 진출하나…웨스팅하우스 지분 인수 추진",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261001075030ic8"
         },
         {
-          "title": "'Backpack' declared Alaska's Fat Bear Week winner",
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/ck8d3vl9mj13o"
+          "title": "대미투자 낙수효과 어디까지…엇갈린 한전 형제들",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437027"
+        }
+      ]
+    },
+    {
+      "id": "이상순",
+      "rank": 8,
+      "keyword": "이상순",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''건강 이상' 이상순, 한 달 만에 근황…정재형에 감사 선물 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'건강 이상' 이상순, 한 달 만에 근황…정재형에 감사 선물 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/30/2026093017514016290"
+        },
+        {
+          "title": "이상순, ‘미주신경 기능 저하’ 후 한 달째 공백…♥이효리와 대타 DJ 챙겼다",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260930/134761703/1"
+        },
+        {
+          "title": "‘건강 이상’ 이상순, 근황 전했다…대타 DJ 정재형에 선물 훈훈",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10889377"
+        }
+      ]
+    },
+    {
+      "id": "gemini-4",
+      "rank": 9,
+      "keyword": "gemini 4",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Gemini 4 Argon: our next era of frontier intelligence' (blog.google) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Gemini 4 Argon: our next era of frontier intelligence",
+          "source": "blog.google",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
+        },
+        {
+          "title": "Google rolls out Gemini 4 Argon, its most advanced AI model",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html"
+        },
+        {
+          "title": "Google announces Gemini 4 flagship AI model after months of delays",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/legal/litigation/google-announces-gemini-4-flagship-ai-model-after-months-delays-2026-09-30/"
+        }
+      ]
+    },
+    {
+      "id": "신승호",
+      "rank": 10,
+      "keyword": "신승호",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '42세 윤은혜, 신승호와 다정 투샷…11살 차이 무색' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "42세 윤은혜, 신승호와 다정 투샷…11살 차이 무색",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260930_0003809222"
+        },
+        {
+          "title": "“망붕렌즈 껴도 될까요?” 윤은혜, 11살 연하 신승호와 ‘설렘 유발’ 다정 투샷",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260930203145600"
+        },
+        {
+          "title": "윤은혜, 11살 연하 신승호 심쿵하게 할 깜찍함···하트까지 붙였네 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/movie/2026/09/30/GQ4TQMRQHE2WMNRTMQYWMMZSMY/"
         }
       ]
     }
