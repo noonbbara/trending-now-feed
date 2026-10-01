@@ -1,17 +1,17 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-01T13:48:39.816Z",
+  "updatedAt": "2026-10-01T19:24:59.109Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
       "id": "미사일",
       "rank": 1,
       "keyword": "미사일",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "10000+",
+      "startedLabel": "7시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '국힘, 李대통령 '불의의 사고' 기념사에 \"군 통수권자 맞나\"(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -21,165 +21,221 @@
           "url": "https://v.daum.net/v/VjMaayx2tO"
         },
         {
-          "title": "“남북 군사적 긴장 낮추는 실질적 조치 이어갈 것”",
-          "source": "K-공감",
-          "url": "https://gonggam.korea.kr/newsContentView.es?mid=a10201000000&section_id=NCCD_POLICY&content=NC002&code_cd=0101000000&nPage=1&b_list=9&news_id=c3bb9650-06a5-4d70-8606-a7e144bdf5a7"
+          "title": "전시작전권 환수로 자주국방의 꿈에 마침표를 - 카드/한컷 | 멀티미디어",
+          "source": "정책브리핑",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148972893"
         },
         {
-          "title": "대통령 참석 국군의날 기념식서 표적드론 2대 추락 소동",
+          "title": "대통령 참석 국군의날 기념식서 표적드론 2대 '오작동' 소동",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/news/2026/politics/article/6855222_36911.html"
         }
       ]
     },
     {
-      "id": "최태원",
+      "id": "자동차",
       "rank": 2,
-      "keyword": "최태원",
-      "volumeLabel": "5000+",
-      "startedLabel": "3시간 전",
+      "keyword": "자동차",
+      "volumeLabel": "2000+",
+      "startedLabel": "5시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '최태원, 김희영과 공식석상 등장…밴 플리트 시상식 동행' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '기아, 해외 판매에 ‘가속 페달’…현대차, 내수 급감에 ‘후진’' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "최태원, 김희영과 공식석상 등장…밴 플리트 시상식 동행",
+          "title": "기아, 해외 판매에 ‘가속 페달’…현대차, 내수 급감에 ‘후진’",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20261001175430586"
+          "url": "https://v.daum.net/v/QlrXw1Lxlk"
         },
         {
-          "title": "한복 입은 김희영 포착…최태원 재산분할 판결 후 첫 동반행보 [영상]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610016767H"
+          "title": "현대차·기아, 9월 실적 엇갈려⋯ 현대차 주춤·기아 3분기 최다 판매",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261001501474"
         },
         {
-          "title": "한복 입은 김희영, 최태원과 뉴욕서 나란히…재산분할 후 첫 동행 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/01/2026100114494966608"
+          "title": "추석 연휴에 내수 급감… 기아·GM은 글로벌 판매 늘렸다",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3437226"
         }
       ]
     },
     {
-      "id": "최준희",
+      "id": "덴마크-대-포르투갈",
       "rank": 3,
-      "keyword": "최준희",
-      "volumeLabel": "5000+",
-      "startedLabel": "3시간 전",
+      "keyword": "덴마크 대 포르투갈",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''최진실 딸' 최준희 \"죽고 싶다\"...무슨 일이 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'UEFA 네이션스리그: 헤수스 감독은 완벽한 3연승을 노린다' (티스토리) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'최진실 딸' 최준희 \"죽고 싶다\"...무슨 일이 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/01/2026100117394062848"
+          "title": "UEFA 네이션스리그: 헤수스 감독은 완벽한 3연승을 노린다",
+          "source": "티스토리",
+          "url": "https://sbotopkr.tistory.com/2577"
         },
         {
-          "title": "'故 최진실 딸' 최준희, 23만 SNS 돌연 차단에 \"'억까' 무슨 일…진짜 속상\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6307775"
+          "title": "실시간 점수 덴마크 대 포르투갈: Højlund가 Seleção 수비를 상대로 공간을 찾았습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/truc-tiep-ti-so-dan-mach-vs-bo-dao-nha-hjlund-tim-khoang-trong-truoc-hang-thu-selecao"
         },
         {
-          "title": "“23만 팔로워 자랑했는데” 최준희, 영문도 모른 채 ‘디지털 실업자’ 됐다",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12166484"
+          "title": "'괴물' 홀란의 미친 페이스! 'A매치 56경기 64골' 호나우두-즐라탄 넘었다...덴마크 상대로 '멀티골' 달성, 호날두의 '최다골' 경신도 가능",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260925113640474"
+        }
+      ]
+    },
+    {
+      "id": "포스코-퓨처-엠",
+      "rank": 4,
+      "keyword": "포스코 퓨처 엠",
+      "volumeLabel": "2000+",
+      "startedLabel": "6시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '고점서 28% 빠진 삼성SDI…개미들 '줍줍' 기회 열렸다' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "고점서 28% 빠진 삼성SDI…개미들 '줍줍' 기회 열렸다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610017323i"
+        },
+        {
+          "title": "삼성SDI, 美 BESS 지연은 시간 문제…수혜 방향성 명확",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261001090607836"
+        },
+        {
+          "title": "한투證 “삼성SDI, 美 대형 BESS 속도 조절은 일시적… 목표가 60만원” - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/10/01/QUZBDDA7IRHR3AW74XEGQAUTGQ/"
         }
       ]
     },
     {
       "id": "군함",
-      "rank": 4,
+      "rank": 5,
       "keyword": "군함",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[영상] 美·英 퇴역함 실사격 격침 훈련…NSM 대함미사일 첫 실사격' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "8시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '中 매빅보다 2배 멀리, 30㎞ 날아간다…우크라 정찰드론 '슬라빅' 공개' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[영상] 美·英 퇴역함 실사격 격침 훈련…NSM 대함미사일 첫 실사격",
+          "title": "中 매빅보다 2배 멀리, 30㎞ 날아간다…우크라 정찰드론 '슬라빅' 공개",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261001_0003810153"
+        },
+        {
+          "title": "[영상] 끈질긴 추격 끝에 쾅!…'시속 425km 비행' 러 제트 드론 요격",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20261001135345442"
+          "url": "https://v.daum.net/v/20260930171147068?f=p"
         },
         {
-          "title": "미국이 스코틀랜드 해안에서 낡은 군함을 침몰시킨 순간.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/khoanh-khac-my-danh-chim-tau-chien-cu-o-ngoai-khoi-scotland"
+          "title": "[포착] 이걸 잡는다고?…어깨서 쏜 미사일에 푸틴의 제트 드론 ‘화르르’ [영상]",
+          "source": "나우뉴스",
+          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260930601011"
+        }
+      ]
+    },
+    {
+      "id": "강화도",
+      "rank": 6,
+      "keyword": "강화도",
+      "volumeLabel": "2000+",
+      "startedLabel": "8시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“집 흔들릴 정도로 쾅”…귀신소리 울린 그곳, 이젠 北폭발에 떤다 [르포]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“집 흔들릴 정도로 쾅”…귀신소리 울린 그곳, 이젠 北폭발에 떤다 [르포]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261001142213167"
         },
         {
-          "title": "퇴역 호위함에 SM-6 최대사거리 시험, 美·英 격침훈련",
-          "source": "데일리방산",
-          "url": "https://www.dailydefense.co.kr/news/articleView.html?idxno=2285"
+          "title": "북한 전술 도로 건설 발파 작업",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/amp/view/PYH20261001194500065"
+        },
+        {
+          "title": "‘지뢰 폭발’에 인천시 대북·평화사업 날아갈 판",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1771881"
         }
       ]
     },
     {
       "id": "구속",
-      "rank": 5,
+      "rank": 7,
       "keyword": "구속",
       "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“고령자 보내라”…‘냉동창고 살인’ 계획에 수십억 위약금 노려' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "8시간 전",
+      "change": "down",
+      "changeLabel": "-2",
+      "summary": "급상승 시점에 '\"고령의 여성 보내달라\"…'냉동창고 살해' 치밀한 계획' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "\"고령의 여성 보내달라\"…'냉동창고 살해' 치밀한 계획",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/uE28W5nQFY"
+        },
         {
           "title": "“고령자 보내라”…‘냉동창고 살인’ 계획에 수십억 위약금 노려",
           "source": "KBS 뉴스",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8675862"
         },
         {
-          "title": "일부러 고령자 보내달라고 했나...파주 카페 주인, 수십억 위약금 노렸다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261001112100328"
-        },
-        {
-          "title": "'냉동창고 살인' 카페 사장 구속기소‥\"행방불명 시나리오 계획\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6855171_36918.html"
+          "title": "검찰, '냉동창고 살인' 30대 기소...\"돈 노리고 계획 범죄\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610011626404716_005.html"
         }
       ]
     },
     {
-      "id": "김예지",
-      "rank": 6,
-      "keyword": "김예지",
+      "id": "분당구",
+      "rank": 8,
+      "keyword": "분당구",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "6시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[아시안게임] 대한민국, 총·활·태권도서 하루 최다 금메달 6개(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '복지부, 미래건강전략 포럼서 '근거 기반' 건강정책 논의' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[아시안게임] 대한민국, 총·활·태권도서 하루 최다 금메달 6개(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261001213807516"
-        },
-        {
-          "title": "2차례 연장 끝에 마지막 5발 '퍼펙트'‥이건혁, 속사권총 2관왕",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6855257_37004.html"
-        },
-        {
-          "title": "[아시안게임] '동반 金 명중' 사격 추가은·윤서영, 사랑도 함께 쐈다",
+          "title": "복지부, 미래건강전략 포럼서 '근거 기반' 건강정책 논의",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261001179900007"
+          "url": "https://www.yna.co.kr/view/AKR20260930094900530"
+        },
+        {
+          "title": "수명 늘었지만 아픈 기간 길어졌다…기대·건강수명 15년차",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260930/134759705/1"
+        },
+        {
+          "title": "건강수명 3년 연속 뒷걸음…2032년 의료비 GDP 10% 중반 전망",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1696010/%EA%B1%B4%EA%B0%95%EC%88%98%EB%AA%85-3%EB%85%84-%EC%97%B0%EC%86%8D-%EB%92%B7%EA%B1%B8%EC%9D%8C2032%EB%85%84-2026"
         }
       ]
     },
     {
       "id": "청라하늘대교",
-      "rank": 7,
+      "rank": 9,
       "keyword": "청라하늘대교",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "8시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "급상승 시점에 '\"창원 실리도-원전항 해상 배전선로 지나는 25m 선박은 반드시 신고\"' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -201,86 +257,30 @@
       ]
     },
     {
-      "id": "송강",
-      "rank": 8,
-      "keyword": "송강",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[사진]송강,'부드러운 손인사' - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[사진]송강,'부드러운 손인사' - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/10/01/MU3TCOJZMYZGCZLCGM3WIMDGMI/"
-        },
-        {
-          "title": "[현장포토] \"눈빛이 멜로다\"…송강, 로맨틱 출국",
-          "source": "디스패치",
-          "url": "https://www.dispatch.co.kr/2348645"
-        },
-        {
-          "title": "“욕 나오게 잘생겨” 송강, 카페서 우연히 포착…183cm 팬도 내려다본 피지컬",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202609301427003"
-        }
-      ]
-    },
-    {
-      "id": "포스코퓨처엠",
-      "rank": 9,
-      "keyword": "포스코퓨처엠",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '같은 이차전지인데…'삼성SDI·포스코퓨처엠'만 올린 이유' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "같은 이차전지인데…'삼성SDI·포스코퓨처엠'만 올린 이유",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610017970i"
-        },
-        {
-          "title": "삼성SDI, 美 BESS 지연은 시간 문제…수혜 방향성 명확",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261001090607836"
-        },
-        {
-          "title": "한투證 “삼성SDI, 美 대형 BESS 속도 조절은 일시적… 목표가 60만원” - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/stock_general/2026/10/01/QUZBDDA7IRHR3AW74XEGQAUTGQ/"
-        }
-      ]
-    },
-    {
-      "id": "어벤지드-세븐폴드",
+      "id": "탄약",
       "rank": 10,
-      "keyword": "어벤지드 세븐폴드",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
+      "keyword": "탄약",
+      "volumeLabel": "500+",
+      "startedLabel": "5시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"My dream’s come true!\" 16-year-old America's Got Talent winner Nene Ro…' (Louder) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '로켓 파편 살펴보는 우크라이나 소년' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"My dream’s come true!\" 16-year-old America's Got Talent winner Nene Royal on performing with Linkin Park, being invited to support Avenged Sevenfold, and how a Deep Purple classic changed her life",
-          "source": "Louder",
-          "url": "https://www.loudersound.com/bands-artists/americas-got-talent-winner-nene-royal-on-linkin-park-avenged-sevenfold-and-how-a-deep-purple-classic-changed-her-life"
+          "title": "로켓 파편 살펴보는 우크라이나 소년",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261001_0002252689"
         },
         {
-          "title": "“I’m going to play in front of how many? 40,000?!”: America's Got Talent winner Nene Royal on being invited to open for Avenged Sevenfold",
-          "source": "Guitar.com",
-          "url": "https://guitar.com/news/music-news/nene-royal-on-being-invited-to-open-for-avenged-sevenfold/"
+          "title": "[포착] 드론 한 대 꽂히자 탄약까지 ‘쾅쾅’…러 다연장로켓 연쇄 폭발",
+          "source": "나우뉴스",
+          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261001601022"
         },
         {
-          "title": "\"Siam Music Yamaha empowers 'Nene Royal' and her 'OZONE' band",
-          "source": "Bangkok Post",
-          "url": "https://www.bangkokpost.com/thailand/pr/3329630/siam-music-yamaha-empowers-nene-royal-and-her-ozone-band"
+          "title": "무인 항공기가 우크라이나에서 몰도바로 침투해 브라네슈티 인근에서 폭발했습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/uav-xam-nhap-moldova-tu-ukraine-va-phat-no-gan-branesti"
         }
       ]
     }
