@@ -1,270 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-01T00:07:44.481Z",
+  "updatedAt": "2026-10-01T06:26:08.849Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "이영표",
+      "id": "정치",
       "rank": 1,
-      "keyword": "이영표",
-      "volumeLabel": "10000+",
+      "keyword": "정치",
+      "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"전 군대 갔다왔지만, 다른 애들 가라고 하지 말길\"...동점골 주인공 이영준, 금메달 가능성은 \"100%\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '정점식 “검찰청 폐지 앞두고 핵심 기관장 전원 공석…국정 기본 무너져”' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"전 군대 갔다왔지만, 다른 애들 가라고 하지 말길\"...동점골 주인공 이영준, 금메달 가능성은 \"100%\"",
+          "title": "정점식 “검찰청 폐지 앞두고 핵심 기관장 전원 공석…국정 기본 무너져”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20261001024657535"
+          "url": "https://v.daum.net/v/20261001144347899"
         },
         {
-          "title": "'눈에 멍든지도 모르고' 골 없던 배준호, 중국전에서 천금 결승골 \"이러려고 그동안 골 아껴둔 것 같다\"[오사카 현장]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/10/01/MQYWCZJTGRRWEMJZGBRDQNZSHE/"
+          "title": "장동혁, 3일 거리서 첫 세몰이…보수결집·당내 장악력 시험대 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/10/01/2026100114242187761"
         },
         {
-          "title": "소림 축구엔 역전승 참교육…이민성호, 한일전 결승 성사",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8675189"
+          "title": "국힘, 중수청 앞 현장 의총‥\"내일 치안 붕괴 지옥문 열려\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6855183_36911.html"
         }
       ]
     },
     {
-      "id": "쓰레기봉투",
+      "id": "복싱",
       "rank": 2,
-      "keyword": "쓰레기봉투",
+      "keyword": "복싱",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“종량제 봉투 아끼려면?”…페트병 압착·상자 접어 분리배출' (제주교통복지신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“종량제 봉투 아끼려면?”…페트병 압착·상자 접어 분리배출",
-          "source": "제주교통복지신문",
-          "url": "https://www.jejutwn.com/news/article.html?no=460760"
-        },
-        {
-          "title": "[서울 25]중구, 빈 즉석밥 용기 ‘종량제봉투’로 보상",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609282152025"
-        },
-        {
-          "title": "“햇반 용기 모아봤니?” 중구에 가져가면 종량제봉투로 바꿔준다[서울25]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/0WgnZRYChR?f=p"
-        }
-      ]
-    },
-    {
-      "id": "토트넘-홋스퍼-fc",
-      "rank": 3,
-      "keyword": "토트넘 홋스퍼 fc",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘韓 축구 레전드’ 손흥민, 또 그 이름을 외쳤다···英 언론 “2년 동안 토트넘 떠난 선수 29명, SON은 ...' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘韓 축구 레전드’ 손흥민, 또 그 이름을 외쳤다···英 언론 “2년 동안 토트넘 떠난 선수 29명, SON은 ...",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610010707003"
-        },
-        {
-          "title": "“역사상 가장 위대한 선수” 손흥민, 72년 역사 美 언론 선정 ‘토트넘 사상 최고의 선수’ 영혼의 짝 케인과 함께 선정",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/PZAG86Sr7e"
-        },
-        {
-          "title": "‘손흥민도, 로메로도 잘 살고 있네…’ 몰락하는 토트넘 탈출, 잘 살고 있는 선수 많았다",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=98558"
-        }
-      ]
-    },
-    {
-      "id": "최유빈",
-      "rank": 4,
-      "keyword": "최유빈",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "이옥섭",
-      "rank": 5,
-      "keyword": "이옥섭",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] 구교환, ♥이옥섭 감독과 결혼…이미 4년전 혼인신고' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[단독] 구교환, ♥이옥섭 감독과 결혼…이미 4년전 혼인신고",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261001060611471"
-        },
-        {
-          "title": "구교환♥이옥섭, 4년 전 이미 법적 부부…\"결혼식 계획 없다\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/01/2026100108071484368"
-        },
-        {
-          "title": "[공식] 구교환, 유부남이었다..♥이옥섭 감독과 4년 전 혼인신고",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112885447"
-        }
-      ]
-    },
-    {
-      "id": "분리수거",
-      "rank": 6,
-      "keyword": "분리수거",
-      "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '연내 폐가전 수거함 8천개 추가 설치…지도 앱에 위치 표시' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '세계랭킹 26위의 반란… 장동환, 12년만의 복싱 金 도전' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "연내 폐가전 수거함 8천개 추가 설치…지도 앱에 위치 표시",
+          "title": "세계랭킹 26위의 반란… 장동환, 12년만의 복싱 金 도전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261001043304799"
+        },
+        {
+          "title": "[오늘의 영상] 코너 몰아 연타…김민성 결승 진출",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8674034"
+        },
+        {
+          "title": "[아시안게임] 12년 만의 복싱 남자 金 보인다…출격 준비하는 장동환·김민성",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260930066600530"
-        },
-        {
-          "title": "보조 배터리 그냥 버렸다간 ‘화재’…그럼 어떻게?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260930152406934"
-        },
-        {
-          "title": "\"보조배터리 종량제봉투에 버리지마세요\"…전용 수거함 8000개 확충",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260930_0003807995"
+          "url": "https://www.yna.co.kr/view/AKR20260930140200007"
         }
       ]
     },
     {
-      "id": "웨스팅하우스",
-      "rank": 7,
-      "keyword": "웨스팅하우스",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"韓기업, 웨스팅하우스 지분 5~10% 인수 추진\"…이사회 진입이 관건' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"韓기업, 웨스팅하우스 지분 5~10% 인수 추진\"…이사회 진입이 관건",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261001081358997"
-        },
-        {
-          "title": "K-원전, 미국 진출하나…웨스팅하우스 지분 인수 추진",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261001075030ic8"
-        },
-        {
-          "title": "대미투자 낙수효과 어디까지…엇갈린 한전 형제들",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437027"
-        }
-      ]
-    },
-    {
-      "id": "이상순",
-      "rank": 8,
-      "keyword": "이상순",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''건강 이상' 이상순, 한 달 만에 근황…정재형에 감사 선물 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'건강 이상' 이상순, 한 달 만에 근황…정재형에 감사 선물 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/30/2026093017514016290"
-        },
-        {
-          "title": "이상순, ‘미주신경 기능 저하’ 후 한 달째 공백…♥이효리와 대타 DJ 챙겼다",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260930/134761703/1"
-        },
-        {
-          "title": "‘건강 이상’ 이상순, 근황 전했다…대타 DJ 정재형에 선물 훈훈",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10889377"
-        }
-      ]
-    },
-    {
-      "id": "gemini-4",
-      "rank": 9,
-      "keyword": "gemini 4",
-      "volumeLabel": "200+",
+      "id": "육영수",
+      "rank": 3,
+      "keyword": "육영수",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Gemini 4 Argon: our next era of frontier intelligence' (blog.google) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''암살자들' 논란에 '부엉이바위' 포스터 등장‥또 음모론' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Gemini 4 Argon: our next era of frontier intelligence",
-          "source": "blog.google",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
+          "title": "'암살자들' 논란에 '부엉이바위' 포스터 등장‥또 음모론",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6855037_37004.html"
         },
         {
-          "title": "Google rolls out Gemini 4 Argon, its most advanced AI model",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html"
+          "title": "김고은이 “현재에 대한 감사함을 많이 느꼈다”고 언급한 영화 ‘암살자(들)’ 만든 제작진 명예훼손 처벌 가능성은?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261001144428927"
         },
         {
-          "title": "Google announces Gemini 4 flagship AI model after months of delays",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/legal/litigation/google-announces-gemini-4-flagship-ai-model-after-months-delays-2026-09-30/"
+          "title": "이동진, ‘암살자(들)’ 별 3개에…“평가 철회나 사과 없다”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1280343.html"
         }
       ]
     },
     {
-      "id": "신승호",
-      "rank": 10,
-      "keyword": "신승호",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "id": "병무청",
+      "rank": 4,
+      "keyword": "병무청",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '42세 윤은혜, 신승호와 다정 투샷…11살 차이 무색' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''재입대' 하겠다던 송민호, 1심 판결 나오자 반응이‥' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "42세 윤은혜, 신승호와 다정 투샷…11살 차이 무색",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260930_0003809222"
-        },
-        {
-          "title": "“망붕렌즈 껴도 될까요?” 윤은혜, 11살 연하 신승호와 ‘설렘 유발’ 다정 투샷",
+          "title": "'재입대' 하겠다던 송민호, 1심 판결 나오자 반응이‥",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260930203145600"
+          "url": "https://v.daum.net/v/20261001134618083"
         },
         {
-          "title": "윤은혜, 11살 연하 신승호 심쿵하게 할 깜찍함···하트까지 붙였네 - 조선비즈",
+          "title": "송민호 “매일 후회했다”…법원, 징역 1년에 집행유예 2년 선고 [현장영상]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8675485"
+        },
+        {
+          "title": "‘사회복무 102일 무단결근’ 가수 송민호, 1심서 징역형 집행유예···재복무 계획 묻자 ‘입 꾹’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610011054001"
+        }
+      ]
+    },
+    {
+      "id": "나솔",
+      "rank": 5,
+      "keyword": "나솔",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘나솔사계’ 미스터 서 승부욕 발동, 7기 옥순이 빵 터졌다' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘나솔사계’ 미스터 서 승부욕 발동, 7기 옥순이 빵 터졌다",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610011322003"
+        },
+        {
+          "title": "정혜성, 난자 냉동 고백 \"20대 말에 해놨다\"…데프콘도 깜짝 (나솔사계)",
+          "source": "www.xportsnews.com",
+          "url": "https://www.xportsnews.com/article/2202948"
+        },
+        {
+          "title": "“박보영 닮았어요” 데이트는 26정숙과? 갈팡지팡 미스터 조 #나솔사계 EP.184ㅣSBS PLUS X ENAㅣ목요일 밤 10시 30분",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/plus/loveforever/clip/74495/22000636677"
+        }
+      ]
+    },
+    {
+      "id": "이상준",
+      "rank": 6,
+      "keyword": "이상준",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“생각보다 눈 높다”는 유명 개그맨, ‘미모의 탈북 방송인’과 결혼설' (서울신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“생각보다 눈 높다”는 유명 개그맨, ‘미모의 탈북 방송인’과 결혼설",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/entertainment/starinterN/2026/10/01/20261001500174"
+        },
+        {
+          "title": "'탈북미녀' 한송이, 개그맨 이상준이 남편?..결혼설에 \"그분 눈높아\" 해명",
           "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/movie/2026/09/30/GQ4TQMRQHE2WMNRTMQYWMMZSMY/"
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/01/GBRTKNJZMNSDOZLDMQZTENZVG4/"
+        },
+        {
+          "title": "'탈북 유튜버' 한송이 \"이상준이 남편인줄 알아…남친도 아니다\" 결혼설 해명",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1010698"
+        }
+      ]
+    },
+    {
+      "id": "ssg-랜더스",
+      "rank": 7,
+      "keyword": "ssg 랜더스",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'SSG, 대학 선수 7명 육성선수 영입…선수단 뎁스 강화' (경기일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "SSG, 대학 선수 7명 육성선수 영입…선수단 뎁스 강화",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261001580068"
+        },
+        {
+          "title": "SSG, 육성선수 7명 영입…전 포지션 유망주 보강",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3036346"
+        },
+        {
+          "title": "“선수단 운영 폭 확대+유망주들 기량 발전 기대”…SSG, 대학 유망주 7명 육성선수 영입",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/sports/12165908"
+        }
+      ]
+    },
+    {
+      "id": "india-vs-sri-lanka",
+      "rank": 8,
+      "keyword": "india vs sri lanka",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'SL 0/1 (0.2) vs IND 169/7 (Lasith Croospulle 0(0) ) | India vs Sri Lank…' (Cricbuzz) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "SL 0/1 (0.2) vs IND 169/7 (Lasith Croospulle 0(0) ) | India vs Sri Lanka, 2nd Semi-Final, Asian Games 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada",
+          "source": "Cricbuzz",
+          "url": "https://www.cricbuzz.com/live-cricket-scores/171060/ind-vs-sl-2nd-semi-final-asian-games-2026"
+        },
+        {
+          "title": "Rain Cancels Asian Games Cricket Quarterfinals",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/09/30/ONIJY2RVZFATFIFY4RRHXD747Q/"
+        },
+        {
+          "title": "Cricket Quarterfinals All Stopped by Rain... Semifinalists Decided by Rankings Without a Single Match",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008776042"
+        }
+      ]
+    },
+    {
+      "id": "전설의-사내",
+      "rank": 9,
+      "keyword": "전설의 사내",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘전설의 사내’ 성리·장한별 입담에 신동 무대까지… ‘팔도 명물 대잔치’' (천지일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘전설의 사내’ 성리·장한별 입담에 신동 무대까지… ‘팔도 명물 대잔치’",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3437021"
+        },
+        {
+          "title": "성리, 간식차 지원에 \"상금이 거의 탕진되고 있지만 안 아깝다\" ('전설의 사내')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261001072615940"
+        },
+        {
+          "title": "빈예서가 꼽은 최애는 성리…하루의 질문 이어져",
+          "source": "제주교통복지신문",
+          "url": "https://www.jejutwn.com/news/article.html?no=460616"
+        }
+      ]
+    },
+    {
+      "id": "허미미",
+      "rank": 10,
+      "keyword": "허미미",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[아시안게임] 정하은·윤규성, 태권도 품새 나란히 조 1위로 결승행' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[아시안게임] 정하은·윤규성, 태권도 품새 나란히 조 1위로 결승행",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261001132418099"
+        },
+        {
+          "title": "[아시안게임] 유도 허미미, 결승 진출…은메달 확보",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261001132600007"
+        },
+        {
+          "title": "유도 간판 허미미·이준환, 준결승 진출…첫 금메달 도전",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261001/134767297/1"
         }
       ]
     }
