@@ -1,258 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-02T09:36:52.191Z",
+  "updatedAt": "2026-10-02T16:12:14.823Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "유승준",
+      "id": "여행",
       "rank": 1,
-      "keyword": "유승준",
-      "volumeLabel": "5000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '유승준, ‘비자 거부’ 또 이겼지만…한국 들어올 수 있을까? [이런뉴스]' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "유승준, ‘비자 거부’ 또 이겼지만…한국 들어올 수 있을까? [이런뉴스]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8676733"
-        },
-        {
-          "title": "[속보] '병역기피' 유승준 비자발급 거부 세번째 소송 항소심도 승소",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261002140751930"
-        },
-        {
-          "title": "[현장에서] 갓난아기까지 법정에…유승준 향한 20년 팬심",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12167162"
-        }
-      ]
-    },
-    {
-      "id": "쓰레기-봉투",
-      "rank": 2,
-      "keyword": "쓰레기 봉투",
+      "keyword": "여행",
       "volumeLabel": "10000+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "4시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '쓰레기봉투 속 2500만 원 끝내 주인 안 나타나… 최초 발견자 품으로' (세계일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '네이버, 해외여행 검색 강화…아시아 45개 지역으로 확대' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "쓰레기봉투 속 2500만 원 끝내 주인 안 나타나… 최초 발견자 품으로",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261002502623"
+          "title": "네이버, 해외여행 검색 강화…아시아 45개 지역으로 확대",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261002045800017"
         },
         {
-          "title": "쓰레기봉투서 2500만원 돈뭉치…주인 안 나타나 '횡재'",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6586256"
+          "title": "발리·나트랑 여행정보 네이버에서 찾는다…아시아 45개 도시 여행 정보 노출",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261002000046"
         },
         {
-          "title": "쓰레기봉투 속 2500만원, 주인 없어 발견한 헌옷 수거 60대 몫으로",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261002/134773090/1"
+          "title": "네이버, 해외여행 검색 결과 보강…날씨·비자 등 확인 가능",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261002104817"
         }
       ]
     },
     {
-      "id": "코스피",
-      "rank": 3,
-      "keyword": "코스피",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '7000 탈환한 코스피, 美 고용지표·삼전실적 변수 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "7000 탈환한 코스피, 美 고용지표·삼전실적 변수 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/02/2026100216393151389"
-        },
-        {
-          "title": "닷새 만에 7천피 턱걸이…연휴 앞 관망세",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261002181619069"
-        },
-        {
-          "title": "증시 마감 시황",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261002_0021472703"
-        }
-      ]
-    },
-    {
-      "id": "김성근",
-      "rank": 4,
-      "keyword": "김성근",
+      "id": "김민",
+      "rank": 2,
+      "keyword": "김민",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''불꽃야구' 제대로 잘못 걸렸다…프로 진출자만 14명, 김성근도 칼 빼들었다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''나혼산' 김민 등장에 기안84 감탄사 연발 \"X멋있다\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'불꽃야구' 제대로 잘못 걸렸다…프로 진출자만 14명, 김성근도 칼 빼들었다",
+          "title": "'나혼산' 김민 등장에 기안84 감탄사 연발 \"X멋있다\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20261002141215099"
+          "url": "https://v.daum.net/v/20261002235456419"
         },
         {
-          "title": "‘불꽃야구2’ 불꽃 파이터즈, 대학 국가대표팀과 맞대결",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3437342"
-        },
-        {
-          "title": "'불꽃야구2' 김성근 감독, 파격 선발 라인업으로 승리 정조준[방송 프리뷰] - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/02/GFTDSYZSMRSGKNZRMNRGMM3FMI/"
-        }
-      ]
-    },
-    {
-      "id": "아버지",
-      "rank": 5,
-      "keyword": "아버지",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '아버지가 아파트 남겨줬더니…새엄마, “내 아들 아냐” 소송' (문화일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "아버지가 아파트 남겨줬더니…새엄마, “내 아들 아냐” 소송",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11620963"
-        },
-        {
-          "title": "네 살부터 '내 아들'이라더니...아버지 떠나자 서울 아파트 놓고 '돌변'",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202610010011032167"
-        },
-        {
-          "title": "아버지 죽고 상속 앞두자…새엄마가 50년 키운 아들에게 \"친자 아냐\" 소송",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6307215"
-        }
-      ]
-    },
-    {
-      "id": "최환희",
-      "rank": 6,
-      "keyword": "최환희",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '18년째 故 최진실 찾은 팬들…기일에 묘소 찾아 꽃·생전 사진으로 추모 [N현장]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "18년째 故 최진실 찾은 팬들…기일에 묘소 찾아 꽃·생전 사진으로 추모 [N현장]",
+          "title": "'자취 28년차' 김민, 구옥 주택 공개...드레스룸은 빈티지숍 (나 혼자 산다)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20261002101606060"
+          "url": "https://v.daum.net/v/20261003000222549"
         },
         {
-          "title": "故최진실 18주기…딸 최준희, 결혼 후 맞은 첫 기일",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261002502267"
-        },
-        {
-          "title": "최환희 \"어머니, 국민 여배우로 기억되길\"…故최진실 향한 그리움 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/02/2026100214025089846"
-        }
-      ]
-    },
-    {
-      "id": "신혼여행",
-      "rank": 7,
-      "keyword": "신혼여행",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"180석에 달랑 3명 탔다\"…충격에 빠진 '신혼여행 성지' 근황' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"180석에 달랑 3명 탔다\"…충격에 빠진 '신혼여행 성지' 근황",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026100120192930821"
-        },
-        {
-          "title": "“괌 비행기 누워서 갑니다”…한국인 떠나자 벌어진 충격 근황 [잇슈#태그]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261002174812227"
-        },
-        {
-          "title": "오늘의 운세 10월 1일(음력 8월 21일)",
+          "title": "카메라 밖에선 합기도 사범…‘나 혼자 산다’ 김민, 무술 10단의 두 얼굴",
           "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=843593"
+          "url": "https://www.jemin.com/news/articleView.html?idxno=843746"
         }
       ]
     },
     {
-      "id": "공소청",
-      "rank": 8,
-      "keyword": "공소청",
+      "id": "타잔",
+      "rank": 3,
+      "keyword": "타잔",
+      "volumeLabel": "5000+",
+      "startedLabel": "6시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"관객 믿고 몸 던졌다 그대로 '쿵'\"…올데프 타잔, 축제서 추락' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"관객 믿고 몸 던졌다 그대로 '쿵'\"…올데프 타잔, 축제서 추락",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261002211158215"
+        },
+        {
+          "title": "올데프 타잔, 관객석으로 몸 던졌다가 ‘쿵’…공연 중 추락",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12167221"
+        },
+        {
+          "title": "‘올데프’ 타잔, 대학 축제서 관객석으로 몸 던졌다 맨바닥 추락 ‘아찔’",
+          "source": "헤럴드경제",
+          "url": "https://mbiz.heraldcorp.com/article/10892107"
+        }
+      ]
+    },
+    {
+      "id": "이상순",
+      "rank": 4,
+      "keyword": "이상순",
       "volumeLabel": "2000+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''복귀' 이상순 \"완전히 나은 건 아니다\"…아침 러닝까지 \"저도 살아보겠다고\" [엑's 이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'복귀' 이상순 \"완전히 나은 건 아니다\"…아침 러닝까지 \"저도 살아보겠다고\" [엑's 이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261002155113461"
+        },
+        {
+          "title": "이상순, 라디오 DJ 복귀…\"조금 긴 휴가 다녀왔어요\"",
+          "source": "디스패치",
+          "url": "https://www.dispatch.co.kr/2348715"
+        },
+        {
+          "title": "‘미주신경기능저하 투병’ 이상순 복귀...밝은 목소리 “한 달 푹 쉬었다”[Oh!쎈 이슈] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/02/GQ2DKYRRMY3WKZJVMY3DGY3BME/"
+        }
+      ]
+    },
+    {
+      "id": "사우디-아라비아",
+      "rank": 5,
+      "keyword": "사우디 아라비아",
+      "volumeLabel": "2000+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"美, 대이란 폭격재개 대비해 사우디·카타르에 패트리엇 증강\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"美, 대이란 폭격재개 대비해 사우디·카타르에 패트리엇 증강\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261002152056109"
+        },
+        {
+          "title": "트럼프 '이란 폭격 결단' 임박에 중동 패트리엇 증강",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610021638230275"
+        },
+        {
+          "title": "미, 사우디·카타르에 패트리어트 포대 1개씩 추가 배치",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261002_0003812027"
+        }
+      ]
+    },
+    {
+      "id": "진양곤",
+      "rank": 6,
+      "keyword": "진양곤",
+      "volumeLabel": "1000+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '진양곤 HLB그룹 의장, 개인법인 '에포케' 통해 계열사 지분 확대' (팜이데일리) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "진양곤 HLB그룹 의장, 개인법인 '에포케' 통해 계열사 지분 확대",
+          "source": "팜이데일리",
+          "url": "https://pharm.edaily.co.kr/news/read?newsId=03503046645608984"
+        },
+        {
+          "title": "진양곤 개인법인, 계열사 주식 39억 매수 … HLB는 이노베이션 주식 담보로 120억 차입",
+          "source": "뉴데일리",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/02/2026100200216.html"
+        },
+        {
+          "title": "진양곤 HLB 의장, 후속 파이프라인 자신감...각막염·CAR-T에도 베팅 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/index.php/stock/2026/10/02/2026100210593135051"
+        }
+      ]
+    },
+    {
+      "id": "신랑",
+      "rank": 7,
+      "keyword": "신랑",
+      "volumeLabel": "1000+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''11만원 뷔페' 결혼식에 5만원 내고 식사한 커플…\"모르는 사람\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'11만원 뷔페' 결혼식에 5만원 내고 식사한 커플…\"모르는 사람\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/02/2026100209184876774"
+        },
+        {
+          "title": "\"5만원 내고 22만원 먹었다\"…신랑·신부도 모르는 하객",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02797846645608984&mediaCodeNo=257"
+        },
+        {
+          "title": "\"식대 1인당 11만원인데\" 축의금 5만원 내고 식권 2장 받아간 남녀…\"누구세요?\" [영상]",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610021051204368"
+        }
+      ]
+    },
+    {
+      "id": "south-korea-vs-venezuela",
+      "rank": 8,
+      "keyword": "south korea vs venezuela",
+      "volumeLabel": "1000+",
+      "startedLabel": "6시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[Photo] Manager Moreno pushes for more aggressive approach - CHOSUNBIZ' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[Photo] Manager Moreno pushes for more aggressive approach - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-photo-spo/2026/10/02/QG4JRWUOEVGHXLVYLGO6LNVSA4/"
+        },
+        {
+          "title": "South Korea Held to 0-0 Draw by Venezuela in Friendly",
+          "source": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/sports/2026/10/02/south-korea-held-to-0-0-draw-by-venezuela-in-friendly"
+        },
+        {
+          "title": "Kim Min-jae's 'deliberate remarks': \"Defenders are in a pitiable state... Even if we had won, the feeling would not have been good\"",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/en/sports/2026/10/02/2026100222541184226"
+        }
+      ]
+    },
+    {
+      "id": "최동원",
+      "rank": 9,
+      "keyword": "최동원",
+      "volumeLabel": "500+",
       "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] \"수사기관도 아닌데 공소청에 왜 보내죠?\"...출범 첫날 구속 피의자 인치 혼선' (JTBC) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '최동원·윤학길·손민한도 못했던 '롯데 신인 10승', 32년 만에 나오나…\"7~8승 땐 생각 없었는데, 이젠 10승 하고 싶다\"…' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[단독] \"수사기관도 아닌데 공소청에 왜 보내죠?\"...출범 첫날 구속 피의자 인치 혼선",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12321111"
+          "title": "최동원·윤학길·손민한도 못했던 '롯데 신인 10승', 32년 만에 나오나…\"7~8승 땐 생각 없었는데, 이젠 10승 하고 싶다\" 도전장",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/4kl5cGe4YU"
         },
         {
-          "title": "'개문발차하더니' 중수청, 출근 첫날 결국 공쳤다",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/daegu-gyeongbuk/6309461"
+          "title": "'후반기 ERA 3.68' 호투에도 무승 불운…영웅들 21세 영건, 선발이 체질이었다 “올해의 성과다” [오!쎈 부산]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112885125"
         },
         {
-          "title": "검찰기 내리고 공소청기 게양…막 내린 ‘78년 검찰’ 마지막 장면 [현장영상]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8676479"
+          "title": "[사진] 위기 돌파 박정민, 주먹 불끈 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/30/202609302104771470O"
         }
       ]
     },
     {
-      "id": "김태규",
-      "rank": 9,
-      "keyword": "김태규",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "id": "인천국제공항",
+      "rank": 10,
+      "keyword": "인천국제공항",
+      "volumeLabel": "500+",
+      "startedLabel": "6시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '민주당, “전두환 신군부는 내란 아냐” 발언 김태규 제명 촉구 결의안 당론 채택' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '인천공항, CAPA '올해의 아시아 대형공항상' 수상' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "민주당, “전두환 신군부는 내란 아냐” 발언 김태규 제명 촉구 결의안 당론 채택",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11620951"
+          "title": "인천공항, CAPA '올해의 아시아 대형공항상' 수상",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261002056800065"
         },
         {
-          "title": "국회 운영위, 與 주도로 김태규 제명 촉구 결의안 처리",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6855408_36911.html"
+          "title": "연간 여객 3천만 명 아시아 공항 중 ‘1위’... 인천공항, ‘올해의 대형공항상’ 품었다",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261002580241"
         },
         {
-          "title": "민주당, 오늘 운영위서 김태규 제명 촉구 결의안 처리…\"고발도 검토\"",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12321054"
+          "title": "인천공항, ‘올해의 아시아 대형공항상’ 수상…“아시아태평양 환승 허브”",
+          "source": "대한민국 대표 공영미디어 KBS",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8676481"
         }
       ]
     }
