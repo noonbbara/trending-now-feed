@@ -1,281 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-03T05:38:50.762Z",
+  "updatedAt": "2026-10-03T11:31:16.391Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "키움-대-한화",
+      "id": "한국-u-23-대-일본-u-23",
       "rank": 1,
-      "keyword": "키움 대 한화",
-      "volumeLabel": "10000+",
+      "keyword": "한국 u-23 대 일본 u-23",
+      "volumeLabel": "20000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[3일 프리뷰] 한화 이상규-키움 하영민, 9-10위 맞대결' (OSEN) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“한국축구, 병역면제에 목숨 걸었잖아?” U23+유럽파 와일드카드까지 총출동, 日언론 벌써부터 결승전 패배 핑계찾기에 올인' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[3일 프리뷰] 한화 이상규-키움 하영민, 9-10위 맞대결",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112886741"
-        },
-        {
-          "title": "[AI프리뷰] 3일 대전 한화-키움전, 유종의 미 바라는 최하위권 두 팀",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261003000065"
-        }
-      ]
-    },
-    {
-      "id": "10억",
-      "rank": 2,
-      "keyword": "10억",
-      "volumeLabel": "10000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '은행 10억 넣으면 월 얼마 받을까…세후 이자·배당금 계산해보니' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "은행 10억 넣으면 월 얼마 받을까…세후 이자·배당금 계산해보니",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261002_0003811773"
-        },
-        {
-          "title": "고액 자산가 47만 명, 10억 원 예치해도 세후 월 211만 원 그쳐···수익 갉아먹는 건보료 폭탄 방어로 승부",
-          "source": "한국신용신문",
-          "url": "https://www.creditnews.kr/news/articleView.html?idxno=31500"
-        },
-        {
-          "title": "'김구라 아들' 그리 \"아파트 하나 사놨다\" 재산 공개 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/02/2026100221410896812"
-        }
-      ]
-    },
-    {
-      "id": "kia-대-lg",
-      "rank": 3,
-      "keyword": "kia 대 lg",
-      "volumeLabel": "5000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '준PO 직행 티켓이 걸려있다…‘5연패’ LG, 천적 네일 공략 못하면 진짜 4위 추락 위기다' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "준PO 직행 티켓이 걸려있다…‘5연패’ LG, 천적 네일 공략 못하면 진짜 4위 추락 위기다",
+          "title": "“한국축구, 병역면제에 목숨 걸었잖아?” U23+유럽파 와일드카드까지 총출동, 日언론 벌써부터 결승전 패배 핑계찾기에 올인",
           "source": "Daum",
-          "url": "https://v.daum.net/v/bHvgWBwaWH"
+          "url": "https://v.daum.net/v/20261003190212460"
         },
         {
-          "title": "1번도 3번도 아닌 왜 김도영 2번카드일까, 이범호 “1점이라도 더 뽑아야...불펜 3연투 준비시켰다",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112886773"
+          "title": "[사진]한일 결승전 나서는 한국 축구대표팀 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/10/03/MNQWMMBVMZRWINBRMZRWMYJYMY/"
         },
         {
-          "title": "[오피셜] '벌써 잠실벌 매진' KIA-LG전 열기 정말 뜨겁다! LG 선발 라인업 공개 '3·4위 뒤집히냐, 굳히기냐' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/03/2026100312102798938"
-        }
-      ]
-    },
-    {
-      "id": "두산-대-삼성",
-      "rank": 4,
-      "keyword": "두산 대 삼성",
-      "volumeLabel": "5000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[AI프리뷰] 3일 대구 삼성-두산전, 부상 복귀전 삼성 최원태 반등할까' (뉴스핌) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[AI프리뷰] 3일 대구 삼성-두산전, 부상 복귀전 삼성 최원태 반등할까",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261003000061"
-        },
-        {
-          "title": "[3일 프리뷰] 5연승 삼성에 최원태까지 돌아온다! 6연승 도전 청신호…상대 선발은 삼성전 ERA 9.53",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112886605"
-        },
-        {
-          "title": "가까워진 PO 직행, 좁혀지지 않는 KS행···5연승 삼성라이온즈, 두산과 홈 3연전",
-          "source": "대구MBC",
-          "url": "https://dgmbc.com/NewsArticle/865292"
-        }
-      ]
-    },
-    {
-      "id": "롯데-대-kt",
-      "rank": 5,
-      "keyword": "롯데 대 kt",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''PS 탈락' 롯데, 그래도 시즌은 남았다…3일 KT전 라인업 공개→'팔꿈치 타박' 전민재 선발 제외 [수원 현장]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'PS 탈락' 롯데, 그래도 시즌은 남았다…3일 KT전 라인업 공개→'팔꿈치 타박' 전민재 선발 제외 [수원 현장]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261003123411268"
-        },
-        {
-          "title": "[AI프리뷰] 3일 수원 KT-롯데전, KT에 강했던 롯데 비슬리 이번엔 설욕할까",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261003000060"
-        },
-        {
-          "title": "'10G 타율 3할' 전민재 사라졌다, 김세민 9번 유격수 출격 왜?…로드리게스는 시즌 아웃 확정",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1011172"
-        }
-      ]
-    },
-    {
-      "id": "군함",
-      "rank": 6,
-      "keyword": "군함",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“美군함 수주했다간 남는 게 없다”…잭팟 터진 K조선 ‘반전’ [Focus 인사이드]' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“美군함 수주했다간 남는 게 없다”…잭팟 터진 K조선 ‘반전’ [Focus 인사이드]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/W1L6a1LxyO"
-        },
-        {
-          "title": "美 싱크탱크 \"美 전투함 한국 건조, 정치적으로 어려워\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/10/03/B7SUFUKGYRER3MO2QIBDRHGXVM/"
-        },
-        {
-          "title": "미국 예산관리국장 “대미투자 기업 보상해야”",
+          "title": "한일전 앞두고 잔디 탓에 훈련 삐끗? 이민성호, 변수도 문제 없다",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8677047"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8677087"
         }
       ]
     },
     {
-      "id": "수도권-전철-1호선",
+      "id": "치지직",
+      "rank": 2,
+      "keyword": "치지직",
+      "volumeLabel": "10000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[테크스냅] 네이버 치지직 '데마시아 컵' 국제대회 생중계' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[테크스냅] 네이버 치지직 '데마시아 컵' 국제대회 생중계",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261002058100017"
+        },
+        {
+          "title": "치지직, LoL 국제대회 'DCGI 2026' 전 경기 생중계…AI 한국어 자막 제공",
+          "source": "메트로신문",
+          "url": "https://www.metroseoul.co.kr/article/20261002500021"
+        },
+        {
+          "title": "네이버 치지직, '데마시아 컵 글로벌 인비테이셔널 2026' 생중계…3일부터 17일까지",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261002000070"
+        }
+      ]
+    },
+    {
+      "id": "고현정",
+      "rank": 3,
+      "keyword": "고현정",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''가을 입은' 고현정, 20대 못지않은 패션 소화력...남다른 아우라' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'가을 입은' 고현정, 20대 못지않은 패션 소화력...남다른 아우라",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261002184143693"
+        },
+        {
+          "title": "[사진]파리 향하는 고현정 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/10/02/GM3TGNLDMVSTGMBYHBSDSZRUMM/"
+        },
+        {
+          "title": "\"모래시계 거꾸로 놓은 듯\" 고현정…'꾸준한 걷기·식단 조절'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261001_0003809921"
+        }
+      ]
+    },
+    {
+      "id": "현대",
+      "rank": 4,
+      "keyword": "현대",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '현대캐피탈도 해킹‥주택대출 모집인 146명 정보 유출' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "현대캐피탈도 해킹‥주택대출 모집인 146명 정보 유출",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6855591_36932.html"
+        },
+        {
+          "title": "[단독] 예가람저축은행, 열흘 공격받고 이틀 털릴 동안 몰랐다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261003190411483"
+        },
+        {
+          "title": "안랩, 이용자 계정정보 보호 위한 5대 보안 수칙 발표",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261003160058"
+        }
+      ]
+    },
+    {
+      "id": "소송",
+      "rank": 5,
+      "keyword": "소송",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''병역기피' 유승준, 비자발급 거부 세번째 소송 항소심도 승소' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'병역기피' 유승준, 비자발급 거부 세번째 소송 항소심도 승소",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261002107600004"
+        },
+        {
+          "title": "‘입국금지 24년’ 유승준, 비자 소송 또 이겼다…3차 소송 항소심도 승소",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10891885"
+        },
+        {
+          "title": "[TOP주간이슈] ‘암살자(들)’ 논란 속 관객 200만 돌파→송민호, 병역법 위반 혐의 1심서 징역형 집행유예→구교환-이옥섭...",
+          "source": "TopStarNews",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16236525"
+        }
+      ]
+    },
+    {
+      "id": "안성맞춤-남사당바우덕이-축제",
+      "rank": 6,
+      "keyword": "안성맞춤 남사당바우덕이 축제",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '줄꾼 2.5m 추락…안성 바우덕이축제, 사고 뒤에야 안전매트' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "줄꾼 2.5m 추락…안성 바우덕이축제, 사고 뒤에야 안전매트",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261003151811247"
+        },
+        {
+          "title": "너도나도 '얼쑤'...전통의 흥 가득 '바우덕이 축제'",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202610021718290473"
+        },
+        {
+          "title": "안성시, 남사당 바우덕이 축제 세계와 호흡하는 글로벌 축제로 도약",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026100312372290969"
+        }
+      ]
+    },
+    {
+      "id": "송영길",
       "rank": 7,
-      "keyword": "수도권 전철 1호선",
+      "keyword": "송영길",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '지하철 1호선 의왕∼성균관대역 선로서 60대 열차에 치여 사망(종합)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘김지용 옹호 송영길’에 조국 “노무현·문재인 정신과 배치”' (한겨레) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "지하철 1호선 의왕∼성균관대역 선로서 60대 열차에 치여 사망(종합)",
+          "title": "‘김지용 옹호 송영길’에 조국 “노무현·문재인 정신과 배치”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1280746.html"
+        },
+        {
+          "title": "조국 \"송영길, 조모닝 중단하고 본연 임무나…'책상' 앉아 발언 점검하라\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20261003094454892"
+          "url": "https://v.daum.net/v/20261003100030080"
         },
         {
-          "title": "의왕역 근처 선로에 또 '무단 진입'‥열차에 치여 60대 사망",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6855545_36918.html"
-        },
-        {
-          "title": "1호선 의왕역 선로에 60대 무단 침입해 사망...2시간 운행 지연 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/03/2026100309342646690"
+          "title": "조국 \"송영길, '노무현-문재인' 흠집내기 일관성 있어…내부 갈라치기 그만\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813449"
         }
       ]
     },
     {
-      "id": "오연희",
+      "id": "전쟁",
       "rank": 8,
-      "keyword": "오연희",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김요한, 오연희와 '현커'됐다 \"오늘부터 1일\"...드디어 솔로탈출('신랑수업2')' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김요한, 오연희와 '현커'됐다 \"오늘부터 1일\"...드디어 솔로탈출('신랑수업2')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261003074831527"
-        },
-        {
-          "title": "“우리가 진짜 연인이 됐구나” 공식커플 요한♥연희 오직 둘만의 세상?",
-          "source": "채널A 뉴스",
-          "url": "https://ichannela.com/program/clip/000000553401.do"
-        },
-        {
-          "title": "‘신랑수업2’ 김요한 작심 발언 “오연희와 사귈지, 끝낼지 관계 정리하겠다”",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/519941"
-        }
-      ]
-    },
-    {
-      "id": "pak-vs-ind",
-      "rank": 9,
-      "keyword": "pak vs ind",
+      "keyword": "전쟁",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Final, Nisshin, October 03, 2026, Asian Games Men's Cricket Competition' (Cricinfo) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '이 대통령 \"예의 갖췄더니…전쟁 기도?\" 최후통첩 날렸다' (JTBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Final, Nisshin, October 03, 2026, Asian Games Men's Cricket Competition",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/asian-games-men-s-cricket-competition-2026-1552449/india-vs-pakistan-final-1552779/live-cricket-score"
+          "title": "이 대통령 \"예의 갖췄더니…전쟁 기도?\" 최후통첩 날렸다",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12321140"
         },
         {
-          "title": "Pakistan vs India, Gold Medal Match, Asian Games 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada",
-          "source": "Cricbuzz",
-          "url": "https://www.cricbuzz.com/live-cricket-scores/171070/pak-vs-ind-gold-medal-match-asian-games-2026"
+          "title": "“외교적 오해” 우크라 외무장관에 이 대통령 “사과 안하면 추가 조치”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261002213818571"
         },
         {
-          "title": "India vs Pakistan: No handshake between Shreyas Iyer and Sahibzada Farhan at Asian Games final toss",
-          "source": "Moneycontrol.com",
-          "url": "https://www.moneycontrol.com/sports/cricket/india-vs-pakistan-no-handshake-between-shreyas-iyer-and-sahibzada-farhan-at-asian-games-final-toss-article-14043697.html"
+          "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261002152500011"
         }
       ]
     },
     {
-      "id": "오예진",
-      "rank": 10,
-      "keyword": "오예진",
+      "id": "india-vs-west-indies",
+      "rank": 9,
+      "keyword": "india vs west indies",
       "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[아시안게임] 양궁 오예진, 여자 개인전 은메달‥인도 17세 모호드 우승' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Can West Indies quell India's batting might in New Chandigarh's ODI deb…' (Cricinfo) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[아시안게임] 양궁 오예진, 여자 개인전 은메달‥인도 17세 모호드 우승",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6855564_36946.html"
+          "title": "Can West Indies quell India's batting might in New Chandigarh's ODI debut?",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-3rd-odi-1529229/match-preview"
         },
         {
-          "title": "여자 양궁 리커브, 아시안게임 첫 '노골드'",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0107_202610031310211864"
+          "title": "India wins toss and opts to bat against West Indies in third ODI",
+          "source": "FOX Sports",
+          "url": "https://www.foxsports.com/articles/soccer/india-wins-toss-and-opts-to-bat-against-west-indies-in-third-odi"
         },
         {
-          "title": "‘명궁 삼총사’ AG 통산 10번째 남자 단체전 금메달…인도 반란 잠재웠다",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8677069"
+          "title": "After run-fests, India’s stung bowling attack seek redemption against WI in dead rubber | Gulf Today - newspaper",
+          "source": "Magzter",
+          "url": "https://www.magzter.com/stories/newspaper/Gulf-Today/AFTER-RUNFESTS-INDIAS-STUNG-BOWLING-ATTACK-SEEK-REDEMPTION-AGAINST-WI-IN-DEAD-RUBBER"
+        }
+      ]
+    },
+    {
+      "id": "양현종",
+      "rank": 10,
+      "keyword": "양현종",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''마무리 부재' KIA, 선발을 돌리면 어떨까...혹시 양현종은? \"신박하긴 하다\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'마무리 부재' KIA, 선발을 돌리면 어떨까...혹시 양현종은? \"신박하긴 하다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/0xxCEHd8nz"
+        },
+        {
+          "title": "이틀연속 역전패 KIA 스윕 모면할까...삼진만 6개 침묵 호령존 벤치대기, 박정우 중견수 [오!쎈 광주] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/01/202610011545772339O"
+        },
+        {
+          "title": "3위 바라보다 5위에 쫓기는 KIA...197승 대투수, 또 연패스토퍼? 어쩌나 필승조 죄다 3연투 걸렸다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/01/GRQWKNLGGYYTSMRWMRSTCZRQHE/"
         }
       ]
     }
