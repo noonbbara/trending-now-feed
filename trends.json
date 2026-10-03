@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-03T16:06:49.307Z",
+  "updatedAt": "2026-10-03T19:21:08.543Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,16 +9,16 @@
       "rank": 1,
       "keyword": "내일 날씨",
       "volumeLabel": "200000+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '내일 밤부터 전국 곳곳에 비…연휴 마지막 날엔 강풍 분다' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "8시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '[뉴스9 날씨] 선선한 가을 날씨…곳곳 가을비' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "내일 밤부터 전국 곳곳에 비…연휴 마지막 날엔 강풍 분다",
+          "title": "[뉴스9 날씨] 선선한 가을 날씨…곳곳 가을비",
           "source": "Daum",
-          "url": "https://v.daum.net/v/p3ppxDqFyo"
+          "url": "https://v.daum.net/v/20261003214013432"
         },
         {
           "title": "밤부터 중부 비…기온의 일교차 커",
@@ -26,20 +26,48 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8677309"
         },
         {
-          "title": "[날씨] 내일 내륙 선선한 가을, 영남 해안 비...도심 '가을축제'로 북적",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0108_202610031649014626"
+          "title": "쌀쌀한 개천절, 낮 25도 안팎…맑다가 오후부터 구름 많아져",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610030815001"
+        }
+      ]
+    },
+    {
+      "id": "크로아티아-대-잉글랜드",
+      "rank": 2,
+      "keyword": "크로아티아 대 잉글랜드",
+      "volumeLabel": "5000+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '`쏘니 나 기록 도전해`…`골골골골골골골` 케인, 잉글랜드 역대 네 번째 원정 6경기 연속골 도전' (마이데일리) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "`쏘니 나 기록 도전해`…`골골골골골골골` 케인, 잉글랜드 역대 네 번째 원정 6경기 연속골 도전",
+          "source": "마이데일리",
+          "url": "https://www.mydaily.co.kr/page/view/2026100319453836161"
+        },
+        {
+          "title": "크로아티아 대 잉글랜드 (10월 4일 0시): 맨체스터 시티 스캔들 와중에 펼쳐지는 맞대결.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/croatia-anh-00h00-ngay-4-10-dai-chien-trong-con-bao-be-boi-man-city"
+        },
+        {
+          "title": "네이션스 리그 크로아티아 대 잉글랜드 생중계 링크",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-croatia-vs-anh-tai-nations-league-1777017.ldo"
         }
       ]
     },
     {
       "id": "인도-대-브라질",
-      "rank": 2,
+      "rank": 3,
       "keyword": "인도 대 브라질",
       "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "6시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 'India vs Brazil: Friendlies stats & head-to-head' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -49,32 +77,32 @@
           "url": "https://www.bbc.com/sport/football/live/cm36lgnwx4zpt"
         },
         {
-          "title": "India vs Brazil football 2026: Know where to watch IND vs BRA friendly match live streaming and telecast",
-          "source": "Olympics",
-          "url": "https://www.olympics.com/en/news/india-vs-brazil-football-2026-friendly-match-time-watch-live-streaming-telecast"
-        },
-        {
           "title": "India vs. Brazil 2026 livestream: How to watch International Friendly for free",
           "source": "Mashable",
           "url": "https://mashable.com/entertainment/india-brazil-international-friendly-2026-live-stream-for-free"
+        },
+        {
+          "title": "India vs. Brazil: Preview, Predictions and Lineups",
+          "source": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/india-vs-brazil-preview-predictions-lineups-10-3-26"
         }
       ]
     },
     {
       "id": "박서진",
-      "rank": 3,
+      "rank": 4,
       "keyword": "박서진",
       "volumeLabel": "5000+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''살림남' 박서진, 본선 직전 초비상...박효정에 \"너 필요없어\" 분노' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "7시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '“응급 처치 해야 해”…박서진, ‘국중박 분장놀이’ 본선 당일 초비상 (살림남)' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'살림남' 박서진, 본선 직전 초비상...박효정에 \"너 필요없어\" 분노",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261003110631208"
+          "title": "“응급 처치 해야 해”…박서진, ‘국중박 분장놀이’ 본선 당일 초비상 (살림남)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261003/134779888/1"
         },
         {
           "title": "박서진, 동생 효정에게 폭발…\"너 필요없다\" 분노 (살림남) - 조선비즈",
@@ -82,48 +110,48 @@
           "url": "https://biz.chosun.com/entertainment/tv/2026/10/03/HEYDOM3CHA2TSOLCHFTDIZJXME/"
         },
         {
-          "title": "박서진, \"한판 붙자\"는 여동생에 번쩍 들려 패대기 당했다…씨름 굴욕 '폭소'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6307107"
+          "title": "'국중박 분장놀이' 비하인드를 아시나요?",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3712676"
         }
       ]
     },
     {
-      "id": "jyp-엔터테인먼트",
-      "rank": 4,
-      "keyword": "jyp 엔터테인먼트",
-      "volumeLabel": "2000+",
+      "id": "croatia-vs-england",
+      "rank": 5,
+      "keyword": "croatia vs england",
+      "volumeLabel": "1000+",
       "startedLabel": "4시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘JYP신사옥 부지’ 논란에 유현준 공개 저격한 서울시···“어떻게 용산공원과 비교하나”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Croatia vs England: UEFA Nations League stats & head-to-head' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘JYP신사옥 부지’ 논란에 유현준 공개 저격한 서울시···“어떻게 용산공원과 비교하나”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610011713001"
+          "title": "Croatia vs England: UEFA Nations League stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cm046w9zdkrwt"
         },
         {
-          "title": "(카드뉴스) 고덕강일 공원·녹지 변경, 사실은 이렇습니다!!",
-          "source": "내 손안에 서울",
-          "url": "https://mediahub.seoul.go.kr/archives/2019560"
+          "title": "Croatia v England buildup; tempers flare at Ireland v Israel press conference – as it happened",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/oct/03/england-scotland-nations-league-action-manchester-city-latest-matchday-live"
         },
         {
-          "title": "“소탐대실의 전형”…유현준, JYP 신사옥 앞 공원 용도변경 작심 비판",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12167719"
+          "title": "On video: Gordon finally beats Livaković, and Saka contributes to Croatia's festival | Goal.com India",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/en-in/news/video-gordon-finally-beats-livakovic-as-saka-contributes-to-croatia-s-goal-fest/bltc1ce82010f5dbc4b"
         }
       ]
     },
     {
       "id": "weather-tomorrow",
-      "rank": 5,
+      "rank": 6,
       "keyword": "weather tomorrow",
       "volumeLabel": "2000+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "8시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 'Monsoon withdrawal advances Saturday: Rain expected in south, northeast' (India Today) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -146,12 +174,12 @@
     },
     {
       "id": "유재석",
-      "rank": 6,
+      "rank": 7,
       "keyword": "유재석",
       "volumeLabel": "1000+",
-      "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "8시간 전",
+      "change": "down",
+      "changeLabel": "-1",
       "summary": "급상승 시점에 '유재석, 명절에 한우 100여명 보낸다더니 \"주소 취합해 우체국 가서 붙이면 돼\" (핑계고)' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -161,9 +189,9 @@
           "url": "https://v.daum.net/v/20261003151513225"
         },
         {
-          "title": "유재석, 명절마다 100여명에 선물…\"주소 취합해 우체국 간다\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/03/2026100315403666485"
+          "title": "“거의 100명에게 보낸다”…유재석, 명절 선물도 남다른 ‘국민 MC’ - 스타투데이",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12167812"
         },
         {
           "title": "‘부산 남자’ 정용화, 알고보니 잠실 출생..유재석 “니는 뭐고?” 배신감 (핑계고) - 조선비즈",
@@ -173,58 +201,30 @@
       ]
     },
     {
-      "id": "미스터-서",
-      "rank": 7,
-      "keyword": "미스터 서",
-      "volumeLabel": "1000+",
-      "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '14기 영자, 미스터 서와 파국 위기?…“실망했다” (나솔사계)' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "14기 영자, 미스터 서와 파국 위기?…“실망했다” (나솔사계)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261003/134780035/1"
-        },
-        {
-          "title": "미스터 서가 얼마나 좋은 건지 감도 안 옴.. 7옥순의 플러팅으로 꽉 채운 데이트!ㅣSBS PLUS X ENAㅣ목요일 밤 10시 30분",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/plus/loveforever/clip/74495/22000637464"
-        },
-        {
-          "title": "‘나솔사계’ 7기 옥순, 미스터 서에 흔들⋯14기 영자는 거리두기",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2632012"
-        }
-      ]
-    },
-    {
       "id": "금융위기",
       "rank": 8,
       "keyword": "금융위기",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“주담대 금리 7.28%, 숨쉴수가 없습니다”…매일 돈 삭제된다는 미국상황' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "7시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '\"집 보러 오는 사람 없다\"…美 주담대 7.28%, 세계 경제에도 부담' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
+          "title": "\"집 보러 오는 사람 없다\"…美 주담대 7.28%, 세계 경제에도 부담",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/int_economy/2026/10/02/HMTGJIKNRRH45FYXLFXDRIQ33A/"
+        },
+        {
           "title": "“주담대 금리 7.28%, 숨쉴수가 없습니다”…매일 돈 삭제된다는 미국상황",
           "source": "Daum",
-          "url": "https://v.daum.net/v/yQEQjFgRTF"
+          "url": "https://v.daum.net/v/20261003060300656"
         },
         {
           "title": "\"국채 5%인데 굳이?\"… 美 MBS 펀드 6년 만에 최대 자금 이탈 - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/world/2026/10/02/2026100211004717713"
-        },
-        {
-          "title": "\"집 보러 오는 사람 없다\"…美 주담대 7.28%, 세계 경제에도 부담",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/int_economy/2026/10/02/HMTGJIKNRRH45FYXLFXDRIQ33A/"
         }
       ]
     },
@@ -233,9 +233,9 @@
       "rank": 9,
       "keyword": "이주승",
       "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "8시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 '\"통장 텅장돼\" 이주승, 1억 기부하고 성수동 새 집 이사..천우희와 첫 집들이 [핫피플]' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -261,9 +261,9 @@
       "rank": 10,
       "keyword": "mbc",
       "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "8시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 'Swift Current, Sask., man charged with sexual assault as RCMP look for …' (CBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
