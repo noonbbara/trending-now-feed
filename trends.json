@@ -1,286 +1,258 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-03T19:21:08.543Z",
+  "updatedAt": "2026-10-03T22:22:20.960Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "내일-날씨",
+      "id": "시어머니",
       "rank": 1,
-      "keyword": "내일 날씨",
-      "volumeLabel": "200000+",
-      "startedLabel": "8시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '[뉴스9 날씨] 선선한 가을 날씨…곳곳 가을비' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "keyword": "시어머니",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '고3 아들 방서 자고 가겠다는 시모…거절하니, 시누 \"너도 쫓겨날 것\" 막말' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[뉴스9 날씨] 선선한 가을 날씨…곳곳 가을비",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261003214013432"
+          "title": "고3 아들 방서 자고 가겠다는 시모…거절하니, 시누 \"너도 쫓겨날 것\" 막말",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6308693"
         },
         {
-          "title": "밤부터 중부 비…기온의 일교차 커",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8677309"
+          "title": "\"수능 앞둔 아들 거실서 재우라고?\"…시어머니 숙박 거절했다가 ‘싸가지’ 된 며느리",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261002_0003812891"
         },
         {
-          "title": "쌀쌀한 개천절, 낮 25도 안팎…맑다가 오후부터 구름 많아져",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610030815001"
+          "title": "고3 아들 방서 자고 가겠다던 시모…거절 뒤 시누 막말",
+          "source": "스페셜타임스",
+          "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=470302"
         }
       ]
     },
     {
-      "id": "크로아티아-대-잉글랜드",
+      "id": "이동국",
       "rank": 2,
-      "keyword": "크로아티아 대 잉글랜드",
-      "volumeLabel": "5000+",
-      "startedLabel": "4시간 전",
+      "keyword": "이동국",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '`쏘니 나 기록 도전해`…`골골골골골골골` 케인, 잉글랜드 역대 네 번째 원정 6경기 연속골 도전' (마이데일리) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '이동국 셋째 설아, 美 중학교 입학..언니 재시 이어 유학길 \"가족 다 흩어져\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "`쏘니 나 기록 도전해`…`골골골골골골골` 케인, 잉글랜드 역대 네 번째 원정 6경기 연속골 도전",
-          "source": "마이데일리",
-          "url": "https://www.mydaily.co.kr/page/view/2026100319453836161"
-        },
-        {
-          "title": "크로아티아 대 잉글랜드 (10월 4일 0시): 맨체스터 시티 스캔들 와중에 펼쳐지는 맞대결.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/croatia-anh-00h00-ngay-4-10-dai-chien-trong-con-bao-be-boi-man-city"
-        },
-        {
-          "title": "네이션스 리그 크로아티아 대 잉글랜드 생중계 링크",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-croatia-vs-anh-tai-nations-league-1777017.ldo"
-        }
-      ]
-    },
-    {
-      "id": "인도-대-브라질",
-      "rank": 3,
-      "keyword": "인도 대 브라질",
-      "volumeLabel": "5000+",
-      "startedLabel": "6시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'India vs Brazil: Friendlies stats & head-to-head' (BBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "India vs Brazil: Friendlies stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cm36lgnwx4zpt"
-        },
-        {
-          "title": "India vs. Brazil 2026 livestream: How to watch International Friendly for free",
-          "source": "Mashable",
-          "url": "https://mashable.com/entertainment/india-brazil-international-friendly-2026-live-stream-for-free"
-        },
-        {
-          "title": "India vs. Brazil: Preview, Predictions and Lineups",
-          "source": "Sports Illustrated",
-          "url": "https://www.si.com/soccer/india-vs-brazil-preview-predictions-lineups-10-3-26"
-        }
-      ]
-    },
-    {
-      "id": "박서진",
-      "rank": 4,
-      "keyword": "박서진",
-      "volumeLabel": "5000+",
-      "startedLabel": "7시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '“응급 처치 해야 해”…박서진, ‘국중박 분장놀이’ 본선 당일 초비상 (살림남)' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“응급 처치 해야 해”…박서진, ‘국중박 분장놀이’ 본선 당일 초비상 (살림남)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261003/134779888/1"
-        },
-        {
-          "title": "박서진, 동생 효정에게 폭발…\"너 필요없다\" 분노 (살림남) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/10/03/HEYDOM3CHA2TSOLCHFTDIZJXME/"
-        },
-        {
-          "title": "'국중박 분장놀이' 비하인드를 아시나요?",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3712676"
-        }
-      ]
-    },
-    {
-      "id": "croatia-vs-england",
-      "rank": 5,
-      "keyword": "croatia vs england",
-      "volumeLabel": "1000+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Croatia vs England: UEFA Nations League stats & head-to-head' (BBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Croatia vs England: UEFA Nations League stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cm046w9zdkrwt"
-        },
-        {
-          "title": "Croatia v England buildup; tempers flare at Ireland v Israel press conference – as it happened",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/oct/03/england-scotland-nations-league-action-manchester-city-latest-matchday-live"
-        },
-        {
-          "title": "On video: Gordon finally beats Livaković, and Saka contributes to Croatia's festival | Goal.com India",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en-in/news/video-gordon-finally-beats-livakovic-as-saka-contributes-to-croatia-s-goal-fest/bltc1ce82010f5dbc4b"
-        }
-      ]
-    },
-    {
-      "id": "weather-tomorrow",
-      "rank": 6,
-      "keyword": "weather tomorrow",
-      "volumeLabel": "2000+",
-      "startedLabel": "8시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'Monsoon withdrawal advances Saturday: Rain expected in south, northeast' (India Today) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Monsoon withdrawal advances Saturday: Rain expected in south, northeast",
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/science/story/monsoon-retreat-india-october-weather-forecast-rain-storms-keralam-tamil-nadu-3008153-2026-10-02"
-        },
-        {
-          "title": "IMD forecasts heavy rainfall over Arunachal Pradesh for today; Says conditions are favourable for further withdrawal of southwest monsoon for North | Akashvani News",
-          "source": "News On AIR",
-          "url": "https://newsonair.gov.in/imd-forecasts-heavy-rainfall-over-arunachal-pradesh-for-today-says-conditions-are-favourable-for-further-withdrawal-of-southwest-monsoon-for-north-west-india/"
-        },
-        {
-          "title": "Weather tomorrow October 3: Rain, thunderstorms alert for 10 states - Check IMD forecast for Delhi, Uttar Pra",
-          "source": "India.com",
-          "url": "https://www.india.com/news/india/weather-tomorrow-october-3-rain-thunderstorms-alert-for-10-states-check-imd-forecast-for-delhi-uttar-pradesh-odish-himachal-karnataka-8532476/"
-        }
-      ]
-    },
-    {
-      "id": "유재석",
-      "rank": 7,
-      "keyword": "유재석",
-      "volumeLabel": "1000+",
-      "startedLabel": "8시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '유재석, 명절에 한우 100여명 보낸다더니 \"주소 취합해 우체국 가서 붙이면 돼\" (핑계고)' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "유재석, 명절에 한우 100여명 보낸다더니 \"주소 취합해 우체국 가서 붙이면 돼\" (핑계고)",
+          "title": "이동국 셋째 설아, 美 중학교 입학..언니 재시 이어 유학길 \"가족 다 흩어져\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20261003151513225"
+          "url": "https://v.daum.net/v/V3DxRWMVhA"
         },
         {
-          "title": "“거의 100명에게 보낸다”…유재석, 명절 선물도 남다른 ‘국민 MC’ - 스타투데이",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12167812"
-        },
-        {
-          "title": "‘부산 남자’ 정용화, 알고보니 잠실 출생..유재석 “니는 뭐고?” 배신감 (핑계고) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/03/G4ZWINJZMJQWKYZWGVRDSMBXGM/"
-        }
-      ]
-    },
-    {
-      "id": "금융위기",
-      "rank": 8,
-      "keyword": "금융위기",
-      "volumeLabel": "200+",
-      "startedLabel": "7시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '\"집 보러 오는 사람 없다\"…美 주담대 7.28%, 세계 경제에도 부담' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"집 보러 오는 사람 없다\"…美 주담대 7.28%, 세계 경제에도 부담",
+          "title": "이동국 셋째딸 설아, 장녀 뉴욕행 포기하자 美 유학 결정..\"덜컥 입학\"[핫피플]",
           "source": "조선일보",
-          "url": "https://www.chosun.com/economy/int_economy/2026/10/02/HMTGJIKNRRH45FYXLFXDRIQ33A/"
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/03/GRRWGNJWHEYGIZJWMRRGMOJWMU/"
         },
         {
-          "title": "“주담대 금리 7.28%, 숨쉴수가 없습니다”…매일 돈 삭제된다는 미국상황",
+          "title": "스타 가족 슬라이드",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/photoSlide/view?section=ent&clstId=1193922"
+        }
+      ]
+    },
+    {
+      "id": "1244-회-로또",
+      "rank": 3,
+      "keyword": "1244 회 로또",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '1244회 로또복권 1등 18명…당첨금 16억469만 원' (국제신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "1244회 로또복권 1등 18명…당첨금 16억469만 원",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261003.99099000624"
+        },
+        {
+          "title": "[속보]로또 124회 당첨번호 '1·13·18·26·34·38'…보너스 25",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03306246645609312&mediaCodeNo=257"
+        },
+        {
+          "title": "[오늘 로또]로또 1244회 추첨 오후 9시35분께...아시안게임 축구 한일전 중계로 변경",
+          "source": "남도일보",
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=925108"
+        }
+      ]
+    },
+    {
+      "id": "김소영",
+      "rank": 4,
+      "keyword": "김소영",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''오상진 판박이 子' 수호, 6개월 지나니 母 김소영 닮아가네…\"눈이 계속 내려가\" [RE:스타]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'오상진 판박이 子' 수호, 6개월 지나니 母 김소영 닮아가네…\"눈이 계속 내려가\" [RE:스타]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20261003060300656"
+          "url": "https://v.daum.net/v/20261002101513014"
         },
         {
-          "title": "\"국채 5%인데 굳이?\"… 美 MBS 펀드 6년 만에 최대 자금 이탈 - 머니투데이",
+          "title": "'오상진♥' 김소영, 6개월 아들 성격 테스트 했다 깜짝...\"엄마 연기가 부족했나\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-10-03/202610030100019530001054"
+        },
+        {
+          "title": "김소영, '오상진 붕어빵' 子 얼굴 근황 \"요즘 눈 계속 내려가\"",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/star/2026/10/02/2026100207171394556"
+        }
+      ]
+    },
+    {
+      "id": "송기윤",
+      "rank": 5,
+      "keyword": "송기윤",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '송기윤 아내 \"차량 형체도 없이 사라져\"…교통사고 후유증 전해' (노컷뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "송기윤 아내 \"차량 형체도 없이 사라져\"…교통사고 후유증 전해",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6586844"
+        },
+        {
+          "title": "74세 송기윤, 15세 연하 미모의 아내 공개",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261002_0003811637"
+        },
+        {
+          "title": "'74세' 송기윤, 15세 연하 미모 아내 공개…첫인상은 \"뚱뚱한 아저씨\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6308345"
+        }
+      ]
+    },
+    {
+      "id": "선수",
+      "rank": 6,
+      "keyword": "선수",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '양의지와 오타니의 공통점… 몸값보다 중요한 선수의 가치' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "양의지와 오타니의 공통점… 몸값보다 중요한 선수의 가치",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/10/03/FU2ASWZSDJCGRBUBGV3VCW5CPM/"
+        },
+        {
+          "title": "'하현승 포함 12명' 키움, 6일 고척 KT전서 신인 환영 행사 '영웅의 첫걸음' 개최 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/10/02/2026100211004717713"
+          "url": "https://www.mt.co.kr/sports/2026/10/03/2026100309223862082"
+        },
+        {
+          "title": "'괴물' 하현승, 키움 팬들 앞에서 첫 인사한다...6일 KT전 신인 환영회 개최",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112886373"
         }
       ]
     },
     {
-      "id": "이주승",
-      "rank": 9,
-      "keyword": "이주승",
-      "volumeLabel": "200+",
-      "startedLabel": "8시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 '\"통장 텅장돼\" 이주승, 1억 기부하고 성수동 새 집 이사..천우희와 첫 집들이 [핫피플]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "id": "후티",
+      "rank": 7,
+      "keyword": "후티",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘후티 전면전’ 계획 사우디 빈살만, 트럼프 지원 요청했지만 거절 당해' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"통장 텅장돼\" 이주승, 1억 기부하고 성수동 새 집 이사..천우희와 첫 집들이 [핫피플]",
+          "title": "‘후티 전면전’ 계획 사우디 빈살만, 트럼프 지원 요청했지만 거절 당해",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20261003113914727"
+          "url": "https://v.daum.net/v/20261004035513226"
         },
         {
-          "title": "김신영, ‘밥 소믈리에’ 도전한다",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261003502451"
+          "title": "예멘 수도서 폭음…사우디 아람코 시설에서도 화염",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261003052200108"
         },
         {
-          "title": "다음주 '나 혼자 산다' 예고, 김신영 밥 소믈리에 시험→천우희 이주승 새 집 방문",
-          "source": "비즈엔터",
-          "url": "https://enter.etoday.co.kr/news/view/303232"
+          "title": "“사우디, 후티 반군 공격 준비…10만명 이상 동원\" - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/international/international_general/2026/10/03/FNHR56XVFBH4RKUGX6A3LH4Q5U/"
         }
       ]
     },
     {
-      "id": "mbc",
-      "rank": 10,
-      "keyword": "mbc",
+      "id": "원자력-발전소",
+      "rank": 8,
+      "keyword": "원자력 발전소",
       "volumeLabel": "200+",
-      "startedLabel": "8시간 전",
-      "change": "steady",
-      "changeLabel": "유지",
-      "summary": "급상승 시점에 'Swift Current, Sask., man charged with sexual assault as RCMP look for …' (CBC) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '트럼프 “알래스카에 인류 역사상 누구보다 많은 것 가져와”' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Swift Current, Sask., man charged with sexual assault as RCMP look for more victims",
-          "source": "CBC",
-          "url": "https://www.cbc.ca/news/canada/saskatoon/swift-current-rcmp-sexual-assault-snapchat-girls-aniken-edwards-9.7367734"
+          "title": "트럼프 “알래스카에 인류 역사상 누구보다 많은 것 가져와”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8677313"
         },
         {
-          "title": "Swift Current man charged with two counts of sexual assault involving teens",
-          "source": "650 CKOM",
-          "url": "https://www.ckom.com/2026/10/02/swift-current-man-charged-with-two-counts-of-sexual-assault-involving-teens/"
+          "title": "\"한국 투자한다\" 또 일방 주장…\"기준은 단 하나\" 단호한 정부",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12321237"
         },
         {
-          "title": "Swift Current RCMP investigating sexual assaults",
-          "source": "MBC Radio",
-          "url": "https://www.mbcradio.com/2026/10/swift-current-rcmp-investigating-sexual-assaults"
+          "title": "첫 수출 17년 만에 '종주국' 美 문 열었다…K원전 새 분기점",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261002_0003812579"
+        }
+      ]
+    },
+    {
+      "id": "김다영",
+      "rank": 9,
+      "keyword": "김다영",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''배성재♥' 김다영 \"사진 한 장 때문에 임신 공개…올 연말 출산 예정\"' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'배성재♥' 김다영 \"사진 한 장 때문에 임신 공개…올 연말 출산 예정\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6309969"
+        },
+        {
+          "title": "배성재, 48세에 아빠 된다…아내 김다영 아나운서 연말 출산",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260929185400005"
+        },
+        {
+          "title": "`배성재♥` 김다영, 축구장서 강제 임밍아웃…\"천천히 말하려 했는데\"",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026100222230546781"
         }
       ]
     }
