@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-04T14:18:47.638Z",
+  "updatedAt": "2026-10-04T18:18:37.326Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
@@ -9,26 +9,26 @@
       "rank": 1,
       "keyword": "내일 날씨",
       "volumeLabel": "100000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[오늘의 날씨 및 내일 날씨]27호 태풍 초이완 경로,오늘 밤~내일 오전 전국 대부분 비, 해상 높은 물결 유의!' (이코노미톡뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "6시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
+      "summary": "급상승 시점에 '[날씨] 연휴 마지막 날 오전까지 전국 비…돌풍·우박 가능성' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[오늘의 날씨 및 내일 날씨]27호 태풍 초이완 경로,오늘 밤~내일 오전 전국 대부분 비, 해상 높은 물결 유의!",
-          "source": "이코노미톡뉴스",
-          "url": ""
+          "title": "[날씨] 연휴 마지막 날 오전까지 전국 비…돌풍·우박 가능성",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261004194704Sna"
         },
         {
-          "title": "날씨 \"태풍경로→제주 영향끼치나\" 서울 밤부터 빗방울",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3712687"
+          "title": "[날씨] 개천절 연휴 곳곳 가을비…큰 일교차 유의",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261004144517266"
         },
         {
-          "title": "10월 4일 부산 오전부터 비…27호 태풍 초이완 북상",
-          "source": "제주교통복지신문",
-          "url": "https://www.jejutwn.com/news/article.html?no=461794"
+          "title": "연휴 마지막날 낮 기온도 5도 뚝... 전국 곳곳에 비",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/transport-environment/2026/10/04/MKJCVIIRJ5HULEMT5YVRVAEZKY/"
         }
       ]
     },
@@ -36,10 +36,10 @@
       "id": "넷플릭스",
       "rank": 2,
       "keyword": "넷플릭스",
-      "volumeLabel": "10000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "20000+",
+      "startedLabel": "5시간 전",
+      "change": "steady",
+      "changeLabel": "유지",
       "summary": "급상승 시점에 ''화제성 88.3% 급상승→넷플릭스 1위'…글로벌 인기 쌍끌이 중인 韓 예능 ('기안장2')' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -61,72 +61,21 @@
       ]
     },
     {
-      "id": "김희애",
-      "rank": 3,
-      "keyword": "김희애",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '59세 김희애, 자연스러운 주름 공개 속 여전한 미모 과시' (동아일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "59세 김희애, 자연스러운 주름 공개 속 여전한 미모 과시",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261004/134781753/1"
-        },
-        {
-          "title": "김희애는 얼굴, 고소영은 손…‘주름’까지 평가받는 여배우들 [SD이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261004152758080"
-        },
-        {
-          "title": "‘물광 아이콘’ 김희애, 세월의 흔적에 누리꾼 “주름도 우아해”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610041224003"
-        }
-      ]
-    },
-    {
-      "id": "weather-tomorrow",
-      "rank": 4,
-      "keyword": "weather tomorrow",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Kauai Weather Forecast for October 04, 2026' (Kauai Now) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Kauai Weather Forecast for October 04, 2026",
-          "source": "Kauai Now",
-          "url": "https://kauainownews.com/2026/10/03/kauai-weather-forecast-for-october-04-2026/"
-        },
-        {
-          "title": "Kauai Weather Forecast for October 03, 2026",
-          "source": "Kauai Now",
-          "url": "https://kauainownews.com/2026/10/02/kauai-weather-forecast-for-october-03-2026/"
-        },
-        {
-          "title": "Kauai Weather Forecast for October 02, 2026",
-          "source": "Kauai Now",
-          "url": "https://kauainownews.com/2026/10/01/kauai-weather-forecast-for-october-02-2026/"
-        }
-      ]
-    },
-    {
       "id": "정년",
-      "rank": 5,
+      "rank": 3,
       "keyword": "정년",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[fn이사람] \"50대에 정년 걱정 덜어주니… 고난도 연구 온전히 집중\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "volumeLabel": "5000+",
+      "startedLabel": "5시간 전",
+      "change": "up",
+      "changeLabel": "+2",
+      "summary": "급상승 시점에 '[단독] ‘소득공백’ 정년퇴직 공무원, 3년새 2배↑' (세계일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
+        {
+          "title": "[단독] ‘소득공백’ 정년퇴직 공무원, 3년새 2배↑",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261004506958"
+        },
         {
           "title": "[fn이사람] \"50대에 정년 걱정 덜어주니… 고난도 연구 온전히 집중\"",
           "source": "Daum",
@@ -140,20 +89,48 @@
       ]
     },
     {
+      "id": "김희애",
+      "rank": 4,
+      "keyword": "김희애",
+      "volumeLabel": "2000+",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '‘물광 아이콘’ 김희애, 세월의 흔적에 누리꾼 “주름도 우아해”' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘물광 아이콘’ 김희애, 세월의 흔적에 누리꾼 “주름도 우아해”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610041224003"
+        },
+        {
+          "title": "김희애는 얼굴, 고소영은 손…‘주름’까지 평가받는 여배우들 [SD이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261004152758080"
+        },
+        {
+          "title": "59세 김희애, 자연스러운 주름 공개 속 여전한 미모 과시",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261004/134781753/1"
+        }
+      ]
+    },
+    {
       "id": "과즙세연",
-      "rank": 6,
+      "rank": 5,
       "keyword": "과즙세연",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''마약 혐의' 과즙세연, 하루 만에 돈방석 앉았다..엑셀 방송 '1억' 잭팟 [Oh!쎈 이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "volumeLabel": "2000+",
+      "startedLabel": "6시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 ''마약 혐의' 과즙세연, 하루 만에 돈방석 앉았다..엑셀 방송 '1억' 잭팟 [Oh!쎈 이슈]' (미주중앙일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
           "title": "'마약 혐의' 과즙세연, 하루 만에 돈방석 앉았다..엑셀 방송 '1억' 잭팟 [Oh!쎈 이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/8XrFCkb0TD"
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261003164540798"
         },
         {
           "title": "'마약류 위반 혐의' 과즙세연, 복귀 방송 하루 만에 후원금 1억 2천만 원",
@@ -161,20 +138,20 @@
           "url": "https://www.gukjenews.com/news/articleView.html?idxno=3712710"
         },
         {
-          "title": "마약 조사 받던 과즙세연, 엑셀방송 오픈…1억 후원 터졌다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026100422077"
+          "title": "\"마약 경찰 수사 받는데\"...과즙세연, '엑셀 방송' 열어 1억원 쓸어 담았다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261004095946925"
         }
       ]
     },
     {
       "id": "기능사",
-      "rank": 7,
+      "rank": 6,
       "keyword": "기능사",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "2000+",
+      "startedLabel": "6시간 전",
+      "change": "up",
+      "changeLabel": "+1",
       "summary": "급상승 시점에 '“돈 되는 자격증 이것뿐” 前트럭기사가 찾은 ‘월 400 직장’' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -197,85 +174,113 @@
     },
     {
       "id": "허미미",
-      "rank": 8,
+      "rank": 7,
       "keyword": "허미미",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '유도 대표팀, 혼성단체전 준결승서 카자흐에 패배…결승 실패 [AG 영상]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "6시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 '할머니가 이어준 태극마크…허미미 재일동포 할머니들과 “대한민국”' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "유도 대표팀, 혼성단체전 준결승서 카자흐에 패배…결승 실패 [AG 영상]",
+          "title": "할머니가 이어준 태극마크…허미미 재일동포 할머니들과 “대한민국”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/YGAWKbrNUB"
-        },
-        {
-          "title": "허미미 \"할머니께 금메달 보여드리면 좋아하시겠죠\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0107_202610041354458002"
+          "url": "https://v.daum.net/v/20261004213505137"
         },
         {
           "title": "2026 아이치-나고야 아시안게임",
           "source": "MBC",
           "url": "https://m.imbc.com/VOD/VodView?progCode=1006923100000100000&broadcastID=1006923101266100001&type=Clip"
+        },
+        {
+          "title": "[아시안게임] 유도 대표팀, 혼성 단체전 노메달…우즈베크에 2-4 패배",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261003044600007"
         }
       ]
     },
     {
       "id": "thời-tiết-ngày-mai",
-      "rank": 9,
+      "rank": 8,
       "keyword": "thời tiết ngày mai",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[Video] Dự báo thời tiết đêm nay và ngày mai 5/10/2026: Bắc Bộ đón khôn…' (Báo Nhân Dân điện tử) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "6시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 'Dự báo gió mạnh, sóng lớn và mưa dông trên biển trong ngày và đêm 5/10' (Đài Phát thanh và Truyền hình TP.HCM) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[Video] Dự báo thời tiết đêm nay và ngày mai 5/10/2026: Bắc Bộ đón không khí lạnh, Trung Bộ mưa lớn",
-          "source": "Báo Nhân Dân điện tử",
-          "url": "https://nhandan.vn/video-du-bao-thoi-tiet-dem-nay-va-ngay-mai-5102026-bac-bo-don-khong-khi-lanh-trung-bo-mua-lon-post992862.html"
+          "title": "Dự báo gió mạnh, sóng lớn và mưa dông trên biển trong ngày và đêm 5/10",
+          "source": "Đài Phát thanh và Truyền hình TP.HCM",
+          "url": "https://htv.vn/du-bao-gio-manh-song-lon-va-mua-dong-tren-bien-trong-ngay-va-dem-5-10-22226100410511709.htm"
         },
         {
-          "title": "Không khí lạnh tràn về, nhiều khu vực mưa lớn",
-          "source": "Báo Tin tức và Dân tộc",
-          "url": "https://baotintuc.vn/khong-khi-lanh-tran-ve-nhieu-khu-vuc-mua-lon-post1391353.html"
+          "title": "Trạm tin sáng 5/10: Nam bộ và Trung bộ sắp có đợt mưa lớn nhiều ngày | 2,5 triệu người được tăng trợ cấp hưu trí xã hội",
+          "source": "VOH",
+          "url": "https://voh.com.vn/thoi-su/tram-tin-sang-510-nam-bo-va-trung-bo-sap-co-dot-mua-lon-nhieu-ngay-25-trieu-nguoi-duoc-tang-tro-cap-huu-tri-xa-hoi-671557.html"
         },
         {
-          "title": "Không khí lạnh tràn về, miền Bắc có nơi rét 14 độ C",
-          "source": "Tiin.vn",
-          "url": "https://tiin.vn/video/xa-hoi/khong-khi-lanh-tran-ve-mien-bac-co-noi-ret-14-do-c/3819268.html"
+          "title": "Dự báo thời tiết ngày 05/10/2026: Nhiều mây, có mưa, cục bộ có nơi mưa to",
+          "source": "moitruong.net.vn",
+          "url": "https://moitruong.net.vn/du-bao-thoi-tiet-ngay-05-10-2026-nhieu-may-co-mua-cuc-bo-co-noi-mua-to-102942.html"
         }
       ]
     },
     {
-      "id": "머스캣",
-      "rank": 10,
-      "keyword": "머스캣",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "id": "김혜자",
+      "rank": 9,
+      "keyword": "김혜자",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''싸서 자주 사 먹었는데'…5년새 71% 폭락하자 농가들 결국' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '85세 김혜자, 65년 연기와 35년 나눔…‘죽지 마세요’에 담았다' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'싸서 자주 사 먹었는데'…5년새 71% 폭락하자 농가들 결국",
+          "title": "85세 김혜자, 65년 연기와 35년 나눔…‘죽지 마세요’에 담았다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/article/all/20261001/134765833/2?gid=134773457&srev=2&regdate=20261002"
+        },
+        {
+          "title": "다큐 '김혜자의 안부' 김혜자 나이 85세 삶 조명",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20261004071059165"
+          "url": "https://v.daum.net/v/20261004231113767?t=m&x_mn=6ac2700eeefa53584b3a8816"
         },
         {
-          "title": "\"3만원 주고 사 먹었는데 1년 만에\"…'귀족 과일'의 반전",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026100425811"
+          "title": "'김혜자의 안부' 김혜자 나이 85세 삶 조명…내레이션 이병헌",
+          "source": "비즈엔터",
+          "url": "https://m.enter.etoday.co.kr/view/news_view.php?varAtcId=303279"
+        }
+      ]
+    },
+    {
+      "id": "이희진",
+      "rank": 10,
+      "keyword": "이희진",
+      "volumeLabel": "200+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“이희진과 100일” 임원희, 과감한 스킨십→마음 고백 (미우새)' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“이희진과 100일” 임원희, 과감한 스킨십→마음 고백 (미우새)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261004090143095"
         },
         {
-          "title": "'금포도' 옛말 된 샤인머스캣…공급과잉·품질저하에 재배 감소",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261003020600030"
+          "title": "[다시보기] 미운 우리 새끼 513회",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/woori/vod/52018/22000637530"
+        },
+        {
+          "title": "'미우새' 임원희, 재혼 아주 작정했네..\"♥이희진과 100일째 만남\" 설레발",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112887235"
         }
       ]
     }
