@@ -1,286 +1,281 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-04T08:18:54.800Z",
+  "updatedAt": "2026-10-04T14:18:47.638Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "아들",
+      "id": "내일-날씨",
       "rank": 1,
-      "keyword": "아들",
-      "volumeLabel": "20000+",
+      "keyword": "내일 날씨",
+      "volumeLabel": "100000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"60세에 딸 낳았다\"…58세에 아들 출산한 여성, 2년 만에 둘째 순산' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[오늘의 날씨 및 내일 날씨]27호 태풍 초이완 경로,오늘 밤~내일 오전 전국 대부분 비, 해상 높은 물결 유의!' (이코노미톡뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"60세에 딸 낳았다\"…58세에 아들 출산한 여성, 2년 만에 둘째 순산",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/general-world/6310075"
+          "title": "[오늘의 날씨 및 내일 날씨]27호 태풍 초이완 경로,오늘 밤~내일 오전 전국 대부분 비, 해상 높은 물결 유의!",
+          "source": "이코노미톡뉴스",
+          "url": ""
         },
         {
-          "title": "58세에 아들 낳더니 60세에 또 출산…\"내 마음은 28살\"라는 中여성 [글로벌pick]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261004065458928"
+          "title": "날씨 \"태풍경로→제주 영향끼치나\" 서울 밤부터 빗방울",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3712687"
         },
         {
-          "title": "60세에 2.8㎏ 딸 낳은 여성…초고령 출산 비난 폭주하자 던진 ‘한마디’ [월드픽]",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/international/2026/10/04/20261004500002"
+          "title": "10월 4일 부산 오전부터 비…27호 태풍 초이완 북상",
+          "source": "제주교통복지신문",
+          "url": "https://www.jejutwn.com/news/article.html?no=461794"
         }
       ]
     },
     {
-      "id": "kia-대-lg",
+      "id": "넷플릭스",
       "rank": 2,
-      "keyword": "kia 대 lg",
-      "volumeLabel": "20000+",
-      "startedLabel": "3시간 전",
+      "keyword": "넷플릭스",
+      "volumeLabel": "10000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘안 잡았으면 파울인데…’ 통한의 결승 스퀴즈 번트 허용, 염갈량은 어떻게 봤나 “누구나 보면 다 알죠” [오!쎈 잠실]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''화제성 88.3% 급상승→넷플릭스 1위'…글로벌 인기 쌍끌이 중인 韓 예능 ('기안장2')' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘안 잡았으면 파울인데…’ 통한의 결승 스퀴즈 번트 허용, 염갈량은 어떻게 봤나 “누구나 보면 다 알죠” [오!쎈 잠실]",
+          "title": "'화제성 88.3% 급상승→넷플릭스 1위'…글로벌 인기 쌍끌이 중인 韓 예능 ('기안장2')",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20261004120513743"
+          "url": "https://v.daum.net/v/20261004180052410"
         },
         {
-          "title": "KIA 신의 한 수 나왔다 \"3연투도 불사\" 사령탑 'LG 겨냥 승부수' 통했다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/04/2026100312095534295"
+          "title": "'대환장'인데 또 본다…기안84표 예능이 통하는 이유[초점S]",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1010848"
         },
         {
-          "title": "[사진]네일, 위기는 없다",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112886921"
+          "title": "기안84 리더십 부재에 임직원 원망…'대환장 기안장 2' 속마음 토크",
+          "source": "팸타임스 FAM Times",
+          "url": "https://www.famtimes.co.kr/news/articleView.html?idxno=701403"
         }
       ]
     },
     {
-      "id": "진중권",
+      "id": "김희애",
       "rank": 3,
-      "keyword": "진중권",
-      "volumeLabel": "5000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '유해진에 ‘북한상’이라는 주진우…진중권마저 “참 저질” 때렸다' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "유해진에 ‘북한상’이라는 주진우…진중권마저 “참 저질” 때렸다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/286hM2lwCV"
-        },
-        {
-          "title": "주진우 암살자(들) 배우 비하에…진중권 “영화를 비판하라” 일침",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000019582"
-        },
-        {
-          "title": "최민희 “‘암살자(들)’ 왜 지금 유독 공격하나…치졸한 정치공세”",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261003580035"
-        }
-      ]
-    },
-    {
-      "id": "분만",
-      "rank": 4,
-      "keyword": "분만",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '인천 분만 절반 이상 미추홀구…지역별 분만 인프라 격차' (기호일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "인천 분만 절반 이상 미추홀구…지역별 분만 인프라 격차",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3036557"
-        },
-        {
-          "title": "전남 ‘분만 공백’ 전국 최다…출산 안전망 무너진다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/HbmZJh4qST"
-        },
-        {
-          "title": "화순·무안·진도군 7년간 분만 '0건'…전남광주시 12개 시·군 분만실 전무",
-          "source": "뉴스웍스",
-          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=855529"
-        }
-      ]
-    },
-    {
-      "id": "울산바위",
-      "rank": 5,
-      "keyword": "울산바위",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[속보]고성 금강산서 사진찍다 40ｍ 추락…심정지 상태로 헬기 이송' (문화일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[속보]고성 금강산서 사진찍다 40ｍ 추락…심정지 상태로 헬기 이송",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11621296"
-        },
-        {
-          "title": "설악산 울산바위 사진 찍다 추락한 70대 남성 숨져",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6855665_36918.html"
-        },
-        {
-          "title": "개천절 연휴 첫날 강원서 산악사고 등 잇따라…4명 헬기 구조",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261003041500062"
-        }
-      ]
-    },
-    {
-      "id": "티빙",
-      "rank": 6,
-      "keyword": "티빙",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[연합뉴스 이 시각 헤드라인] - 10:30' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261004011900011"
-        },
-        {
-          "title": "대규모 정보유출 '티빙', 국감서 집중포화 예고",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261004110811004"
-        },
-        {
-          "title": "올해도 해킹 국감… 티빙 보안 부실·보상안 쟁점 [미리보는 국감①]",
-          "source": "IT조선",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171003"
-        }
-      ]
-    },
-    {
-      "id": "남문철",
-      "rank": 7,
-      "keyword": "남문철",
-      "volumeLabel": "500+",
+      "keyword": "김희애",
+      "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''범죄도시2' 故 남문철, 대장암 투병 끝 별세…향년 50세→벌써 돌아온 '5주기' [MHN:그날]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '59세 김희애, 자연스러운 주름 공개 속 여전한 미모 과시' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'범죄도시2' 故 남문철, 대장암 투병 끝 별세…향년 50세→벌써 돌아온 '5주기' [MHN:그날]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261004063054789"
+          "title": "59세 김희애, 자연스러운 주름 공개 속 여전한 미모 과시",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261004/134781753/1"
         },
         {
-          "title": "故 남문철 오늘(4일) 5주기…여전히 생생한 그 얼굴",
+          "title": "김희애는 얼굴, 고소영은 손…‘주름’까지 평가받는 여배우들 [SD이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261004152758080"
+        },
+        {
+          "title": "‘물광 아이콘’ 김희애, 세월의 흔적에 누리꾼 “주름도 우아해”",
           "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610040905003"
-        },
-        {
-          "title": "故 남문철, 대장암 투병 중 유작 '범죄도시2' 남기고 별세..오늘(4일) 5주기",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/star/2026/10/04/2026100408020791030"
+          "url": "https://sports.khan.co.kr/article/202610041224003"
         }
       ]
     },
     {
-      "id": "김상욱",
-      "rank": 8,
-      "keyword": "김상욱",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[속보]“저는 잘못한 것 없다”…김상욱, 해외 성매매·선거법 위반 의혹 첫 경찰 출석' (문화일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[속보]“저는 잘못한 것 없다”…김상욱, 해외 성매매·선거법 위반 의혹 첫 경찰 출석",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11621300"
-        },
-        {
-          "title": "“무혐의 나오면 책임져야 할 것”···‘성매매 의혹’ 고발당한 김상욱, 경찰 출석",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610041053001"
-        },
-        {
-          "title": "김상욱 경찰 출석…\"성매매 의혹? 선동자 정계 은퇴해야\"",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12321279"
-        }
-      ]
-    },
-    {
-      "id": "미국",
-      "rank": 9,
-      "keyword": "미국",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '트럼프 \"이란 관련 결정 내릴 것‥쉬운 길 아니면 어려운 길\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "트럼프 \"이란 관련 결정 내릴 것‥쉬운 길 아니면 어려운 길\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6855654_36925.html"
-        },
-        {
-          "title": "유엔 총회 끝났는데...미국 \"쫓겨나\"·이란 \"자진 출국\" 신경전",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202610040855117802_005.html"
-        },
-        {
-          "title": "美, 기존 합의 토대로 핵 협상 조기 추진…이란 \"약속 이행 먼저\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261004_0003813758"
-        }
-      ]
-    },
-    {
-      "id": "원주-db-대-고양-소노",
-      "rank": 10,
-      "keyword": "원주 db 대 고양 소노",
-      "volumeLabel": "200+",
+      "id": "weather-tomorrow",
+      "rank": 4,
+      "keyword": "weather tomorrow",
+      "volumeLabel": "2000+",
       "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '프로농구 DB, 4일 원주 홈 개막전에 다채로운 행사' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Kauai Weather Forecast for October 04, 2026' (Kauai Now) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "프로농구 DB, 4일 원주 홈 개막전에 다채로운 행사",
+          "title": "Kauai Weather Forecast for October 04, 2026",
+          "source": "Kauai Now",
+          "url": "https://kauainownews.com/2026/10/03/kauai-weather-forecast-for-october-04-2026/"
+        },
+        {
+          "title": "Kauai Weather Forecast for October 03, 2026",
+          "source": "Kauai Now",
+          "url": "https://kauainownews.com/2026/10/02/kauai-weather-forecast-for-october-03-2026/"
+        },
+        {
+          "title": "Kauai Weather Forecast for October 02, 2026",
+          "source": "Kauai Now",
+          "url": "https://kauainownews.com/2026/10/01/kauai-weather-forecast-for-october-02-2026/"
+        }
+      ]
+    },
+    {
+      "id": "정년",
+      "rank": 5,
+      "keyword": "정년",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[fn이사람] \"50대에 정년 걱정 덜어주니… 고난도 연구 온전히 집중\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[fn이사람] \"50대에 정년 걱정 덜어주니… 고난도 연구 온전히 집중\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/zkIGCyx2Nc?f=p"
+        },
+        {
+          "title": "[fn이사람] \"50대에 정년 걱정 덜어주니… 고난도 연구 온전히 집중\"",
+          "source": "부산파이낸셜뉴스",
+          "url": "https://busan.fnnews.com/news/202610011847224625"
+        }
+      ]
+    },
+    {
+      "id": "과즙세연",
+      "rank": 6,
+      "keyword": "과즙세연",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''마약 혐의' 과즙세연, 하루 만에 돈방석 앉았다..엑셀 방송 '1억' 잭팟 [Oh!쎈 이슈]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'마약 혐의' 과즙세연, 하루 만에 돈방석 앉았다..엑셀 방송 '1억' 잭팟 [Oh!쎈 이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/8XrFCkb0TD"
+        },
+        {
+          "title": "'마약류 위반 혐의' 과즙세연, 복귀 방송 하루 만에 후원금 1억 2천만 원",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3712710"
+        },
+        {
+          "title": "마약 조사 받던 과즙세연, 엑셀방송 오픈…1억 후원 터졌다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026100422077"
+        }
+      ]
+    },
+    {
+      "id": "기능사",
+      "rank": 7,
+      "keyword": "기능사",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“돈 되는 자격증 이것뿐” 前트럭기사가 찾은 ‘월 400 직장’' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“돈 되는 자격증 이것뿐” 前트럭기사가 찾은 ‘월 400 직장’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Kt4GQZgRvM"
+        },
+        {
+          "title": "유연석·낸시랭도 땄다더니…20대~60대 ＇선호도 1위＇ 자격증",
+          "source": "한국경제TV",
+          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610010024"
+        },
+        {
+          "title": "[더차트] \"이건 절대 안 망해\"…20~60대가 다 따는 '국민 자격증' 1위는? - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/03/2026100213450297568"
+        }
+      ]
+    },
+    {
+      "id": "허미미",
+      "rank": 8,
+      "keyword": "허미미",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '유도 대표팀, 혼성단체전 준결승서 카자흐에 패배…결승 실패 [AG 영상]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "유도 대표팀, 혼성단체전 준결승서 카자흐에 패배…결승 실패 [AG 영상]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/YGAWKbrNUB"
+        },
+        {
+          "title": "허미미 \"할머니께 금메달 보여드리면 좋아하시겠죠\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0107_202610041354458002"
+        },
+        {
+          "title": "2026 아이치-나고야 아시안게임",
+          "source": "MBC",
+          "url": "https://m.imbc.com/VOD/VodView?progCode=1006923100000100000&broadcastID=1006923101266100001&type=Clip"
+        }
+      ]
+    },
+    {
+      "id": "thời-tiết-ngày-mai",
+      "rank": 9,
+      "keyword": "thời tiết ngày mai",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[Video] Dự báo thời tiết đêm nay và ngày mai 5/10/2026: Bắc Bộ đón khôn…' (Báo Nhân Dân điện tử) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[Video] Dự báo thời tiết đêm nay và ngày mai 5/10/2026: Bắc Bộ đón không khí lạnh, Trung Bộ mưa lớn",
+          "source": "Báo Nhân Dân điện tử",
+          "url": "https://nhandan.vn/video-du-bao-thoi-tiet-dem-nay-va-ngay-mai-5102026-bac-bo-don-khong-khi-lanh-trung-bo-mua-lon-post992862.html"
+        },
+        {
+          "title": "Không khí lạnh tràn về, nhiều khu vực mưa lớn",
+          "source": "Báo Tin tức và Dân tộc",
+          "url": "https://baotintuc.vn/khong-khi-lanh-tran-ve-nhieu-khu-vuc-mua-lon-post1391353.html"
+        },
+        {
+          "title": "Không khí lạnh tràn về, miền Bắc có nơi rét 14 độ C",
+          "source": "Tiin.vn",
+          "url": "https://tiin.vn/video/xa-hoi/khong-khi-lanh-tran-ve-mien-bac-co-noi-ret-14-do-c/3819268.html"
+        }
+      ]
+    },
+    {
+      "id": "머스캣",
+      "rank": 10,
+      "keyword": "머스캣",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''싸서 자주 사 먹었는데'…5년새 71% 폭락하자 농가들 결국' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'싸서 자주 사 먹었는데'…5년새 71% 폭락하자 농가들 결국",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261004071059165"
+        },
+        {
+          "title": "\"3만원 주고 사 먹었는데 1년 만에\"…'귀족 과일'의 반전",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026100425811"
+        },
+        {
+          "title": "'금포도' 옛말 된 샤인머스캣…공급과잉·품질저하에 재배 감소",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261002135300007"
-        },
-        {
-          "title": "'우승 후보 자격 증명' … DB, 개막전서 '준우승팀' 소노 제압",
-          "source": "뉴데일리",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/10/04/2026100400030.html"
-        },
-        {
-          "title": "‘팬들과 함께하는 축제의 장’ 원주 DB, 4일 홈 개막전 다채롭게 준비했다",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1639127"
+          "url": "https://www.yna.co.kr/view/AKR20261003020600030"
         }
       ]
     }
