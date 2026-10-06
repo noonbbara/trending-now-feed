@@ -1,270 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-06T02:28:40.885Z",
+  "updatedAt": "2026-10-06T09:21:20.020Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "클로드",
+      "id": "코스피",
       "rank": 1,
-      "keyword": "클로드",
+      "keyword": "코스피",
       "volumeLabel": "10000+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '클로드 이어 챗GPT도 텍스트 워터마크 적용…EU지역 우선 적용' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '삼성전자 잠정 실적 발표 앞두고 외인 '이탈'⋯코스피 1.6% 밀려 '6890선'' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "클로드 이어 챗GPT도 텍스트 워터마크 적용…EU지역 우선 적용",
+          "title": "삼성전자 잠정 실적 발표 앞두고 외인 '이탈'⋯코스피 1.6% 밀려 '6890선'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20261006050146626"
+          "url": "https://v.daum.net/v/20261006162211808"
         },
         {
-          "title": "오픈AI도 AI 글에 ’워터마크’…EU서 우선 적용",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR202610060547337Xk"
+          "title": "질주하는 소부장·바이오·2차전지, 거래대금도 회복…애물단지 벗나",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20098710"
         },
         {
-          "title": "AI로 옷 벗기면 불법…EU, ‘누디파이’ 12월부터 철퇴",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261002190003"
+          "title": "코스피 다시 7,000선 아래로…코스닥은 3% 가까이 상승",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8678689"
         }
       ]
     },
     {
-      "id": "이자",
+      "id": "주식",
       "rank": 2,
-      "keyword": "이자",
-      "volumeLabel": "5000+",
-      "startedLabel": "3시간 전",
+      "keyword": "주식",
+      "volumeLabel": "20000+",
+      "startedLabel": "4시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '은행보다 1~2%P 높다…‘5% 이자’ 증권사 특판 러시' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '나이 들면 채권 매수?…주식 더 담은 美 70대' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "은행보다 1~2%P 높다…‘5% 이자’ 증권사 특판 러시",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/F9DQIau5vx"
+          "title": "나이 들면 채권 매수?…주식 더 담은 美 70대",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026100663271"
         },
         {
-          "title": "예금 닮았지만 보호는 없다···발행어음, 뭐가 다를까",
-          "source": "뉴스웨이",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026100210550755774"
+          "title": "토큰화 주식 보유자 3개월 만에 10배…420만명 돌파 By EBN",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2117165"
         },
         {
-          "title": "이익잉여금 2.7조인데…메리츠증권, 4년 만에 자본준비금 감액",
-          "source": "코리아리포트",
-          "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=53265"
+          "title": "미국 국채부터 주식까지 싹 쓸어 담았다…RWA 시장 폭발에 금융권 '비상'",
+          "source": "핀포인트뉴스",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491216"
         }
       ]
     },
     {
-      "id": "성현주",
+      "id": "전원주",
       "rank": 3,
-      "keyword": "성현주",
+      "keyword": "전원주",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '성현주, 8살 아들상 비보..\"천일간 의식 無→마지막 눈 직접 감겨줘\" 눈물[짠한형]' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''자산 40억' 전원주, 자식에 절반 증여…\"다 주면 효도 못 받아\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "성현주, 8살 아들상 비보..\"천일간 의식 無→마지막 눈 직접 감겨줘\" 눈물[짠한형]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261005195211851"
-        },
-        {
-          "title": "성현주, 먼저 떠나보낸 8살 아들에 눈물…\"동기들 덕분에 버텼다\" - 머니투데이",
+          "title": "'자산 40억' 전원주, 자식에 절반 증여…\"다 주면 효도 못 받아\" - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/05/2026100520480092991"
+          "url": "https://www.mt.co.kr/entertainment/2026/10/06/2026100614502975896"
         },
         {
-          "title": "故박지선 떠난 후 또..\"KBS 22기. 코로나때 장례식, 발인 곁 지켰다\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/06/MZRTCNDBMRSWEMJZGFQWEYLFG4/"
-        }
-      ]
-    },
-    {
-      "id": "조세",
-      "rank": 4,
-      "keyword": "조세",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "우리은행",
-      "rank": 5,
-      "keyword": "우리은행",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '우리은행 런던트레이딩센터, 현지 기업과 첫 파생상품 거래' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "우리은행 런던트레이딩센터, 현지 기업과 첫 파생상품 거래",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261004021100002"
-        },
-        {
-          "title": "우리은행 런던트레이딩센터, 현지 기업과 첫 파생상품 거래",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261003_0003813610"
-        },
-        {
-          "title": "우리은행 런던서 현지 기업과 첫 파생상품 거래, 국내 은행 최초 자체 운용",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=448608"
-        }
-      ]
-    },
-    {
-      "id": "엔화",
-      "rank": 6,
-      "keyword": "엔화",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '토스뱅크 엔화 환전 사고, '오류냐 아니냐'…금융당국 법리 검토 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "토스뱅크 엔화 환전 사고, '오류냐 아니냐'…금융당국 법리 검토 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/finance/2026/10/04/2026092915563875663"
-        },
-        {
-          "title": "토스뱅크 ′반값 엔화′ 7개월 만에 다시 쟁점…금융위, 거래취소 적법성 따진다",
-          "source": "토요경제",
-          "url": "https://sateconomy.co.kr/news/view/1065553600110233"
-        },
-        {
-          "title": "[인뱅 보안 시험대]③ 케이뱅크, 망분리 완화 '선제 대응'…IT 자산·취약점 관리 강화",
-          "source": "위키리크스한국",
-          "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=192655"
-        }
-      ]
-    },
-    {
-      "id": "하나은행",
-      "rank": 7,
-      "keyword": "하나은행",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '서울 달빛야장 소상공인에 687억 특별보증' (동아일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "서울 달빛야장 소상공인에 687억 특별보증",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261005/134789320/2"
-        },
-        {
-          "title": "네이버페이, 하나은행·서울신보와 맞손…골목상권 금융지원",
+          "title": "명절 밥상에서 시작되는 상속 분쟁[알쏭달쏭 상속]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/pxJAkau5j4"
+          "url": "https://v.daum.net/v/WHqqwe5Tj9?f=p"
         },
         {
-          "title": "중랑구, 소상공인 특별신용보증 총 412억 지원",
+          "title": "전원주 “아들들 유산 싸움할까 걱정”이라더니…‘PD수첩’ 나와 “재산 절반 자식에 넘겨줘”",
           "source": "헤럴드경제",
-          "url": "https://mbiz.heraldcorp.com/article/10893520"
+          "url": "https://biz.heraldcorp.com/article/10894237"
         }
       ]
     },
     {
-      "id": "송강",
-      "rank": 8,
-      "keyword": "송강",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
+      "id": "비상사태",
+      "rank": 4,
+      "keyword": "비상사태",
+      "volumeLabel": "5000+",
+      "startedLabel": "4시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '송강 옆에서 '쩍벌'한 태국 배우…\"미안해, 다음엔 내 다리 쳐도 돼\"' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''백신 거부'가 불러온 보건 재앙…美 뉴욕주, 홍역 비상사태' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "송강 옆에서 '쩍벌'한 태국 배우…\"미안해, 다음엔 내 다리 쳐도 돼\"",
+          "title": "'백신 거부'가 불러온 보건 재앙…美 뉴욕주, 홍역 비상사태",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20261006022611075"
+          "url": "https://v.daum.net/v/20261006093605841"
         },
         {
-          "title": "\"내 다리 때려\"...송강, '쩍벌' 태국 배우 공개 사과 받아 - 머니투데이",
+          "title": "30년 만에 최악의 유행…美 3900명 확진에 비상사태 선포",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026100641597"
+        },
+        {
+          "title": "미국 홍역 확산 지속…뉴욕주, 지난해 유행 후 첫 비상사태",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8678206"
+        }
+      ]
+    },
+    {
+      "id": "사기",
+      "rank": 5,
+      "keyword": "사기",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '전세사기 피해자, 정부가 '보증금 3분의 1' 보장‥다음 달부터 시행' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "전세사기 피해자, 정부가 '보증금 3분의 1' 보장‥다음 달부터 시행",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6856067_36932.html"
+        },
+        {
+          "title": "전세사기 피해자 ‘보증금 최소보장제’ 11월 13일 시행",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03670326645610296"
+        },
+        {
+          "title": "“전세사기 피해액 1/3까지 정부가 보장”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8678611"
+        }
+      ]
+    },
+    {
+      "id": "이서진",
+      "rank": 6,
+      "keyword": "이서진",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"돈이 다야\" 주 40개 스케줄·섭외만 하루 100통…이서진, 인생 역전한 걸그룹에 조언 ('비서진')' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"돈이 다야\" 주 40개 스케줄·섭외만 하루 100통…이서진, 인생 역전한 걸그룹에 조언 ('비서진')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261005163113011"
+        },
+        {
+          "title": "이서진 \"돈 많으면 행복, 주식하지 마\"...리센느에 현실 조언 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/06/2026100606490869831"
+          "url": "https://www.mt.co.kr/entertainment/2026/10/03/2026100307271239559"
         },
         {
-          "title": "송강 배려 심에 미소 지었던 순간, 태국 배우 테이 타완의 뒤늦은 반응",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3713502"
+          "title": "“돈이 다 일까용?” 원이×메이, 이서진의 현실적인 조언에 당황♨ (ft. 소확행)",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/mygeniesecretary/clip/90105/OC481933942?div=entersectionmain_clip"
         }
       ]
     },
     {
-      "id": "1박-2일",
-      "rank": 9,
-      "keyword": "1박 2일",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
+      "id": "흑상어",
+      "rank": 7,
+      "keyword": "흑상어",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''1박2일' 문세윤 거짓말 논란 일파만파..KBS 출연 정지·하차 요구 빗발 '웃음'' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '부산 '부캉이' 정체는 멸종위기 흑상어…\"몸길이 3ｍ 암컷\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'1박2일' 문세윤 거짓말 논란 일파만파..KBS 출연 정지·하차 요구 빗발 '웃음'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/WhgPNn3GTN"
-        },
-        {
-          "title": "'1박2일' 신입 이기택, 합류 100일 소감…\"많이 편해졌다\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6310259"
-        },
-        {
-          "title": "문세윤 “딱복 살래요?” 한 마디에 일파만파 (1박 2일)",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610060159003"
-        }
-      ]
-    },
-    {
-      "id": "유승민",
-      "rank": 10,
-      "keyword": "유승민",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"BTS도 군대갔는데\" 53년 만에 'AG 병역특례' 없어지나…여야 간만에 '한목소리'' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"BTS도 군대갔는데\" 53년 만에 'AG 병역특례' 없어지나…여야 간만에 '한목소리'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261006073945926"
-        },
-        {
-          "title": "축구 국대가 쏘아올린 파장…\"BTS도 갔다\" 대수술 하나",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12321437"
-        },
-        {
-          "title": "[아시안게임] 병역 망발로 물 흐린 후배들…이강인·손흥민은 달랐다",
+          "title": "부산 '부캉이' 정체는 멸종위기 흑상어…\"몸길이 3ｍ 암컷\"",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261005056300007"
+          "url": "https://www.yna.co.kr/view/AKR20261006141700051"
+        },
+        {
+          "title": "‘부캉이’ 무태상어 아니었다…3m 암컷 ‘흑상어’ 확인…“수온 하락 전 외해 귀환 더 시급한 이유”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11621711"
+        },
+        {
+          "title": "’부캉이’ 정체는 흑상어 암컷…“체장 3m 최종 확인“",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202610061531398pn"
+        }
+      ]
+    },
+    {
+      "id": "위원장",
+      "rank": 8,
+      "keyword": "위원장",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '경찰, 삼성전자 노조위원장 '장인 회사 계약 논란' 수사 착수' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "경찰, 삼성전자 노조위원장 '장인 회사 계약 논란' 수사 착수",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6855993_36918.html"
+        },
+        {
+          "title": "최승호 삼성 초기업노조 위원장 \"성과급 합의, 노사 자율로 도출\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261006174213614"
+        },
+        {
+          "title": "최승호 “파업 전제로 교섭 안 해…조합원 80% 동의로 가결”",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2632977"
+        }
+      ]
+    },
+    {
+      "id": "엑스포츠뉴스",
+      "rank": 9,
+      "keyword": "엑스포츠뉴스",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '8세 日 아이돌 연습생, 무대 선 지 5일 만에…'독감 합병증' 사망 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "8세 日 아이돌 연습생, 무대 선 지 5일 만에…'독감 합병증' 사망 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/10/05/2026100510044671636"
+        },
+        {
+          "title": "\"독감 합병증이 이렇게 무섭나\"…日 8세 아이돌, 급성 심근염으로 사망",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20261004n03337?sect=ent&list=rank&cate=interest"
+        },
+        {
+          "title": "'8세' 日 연습생, 마지막 무대 닷새 만 사망…\"인생의 3분의 1 바쳤는데\" [엑's 해외이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261005011658410?f=p"
+        }
+      ]
+    },
+    {
+      "id": "재산세",
+      "rank": 10,
+      "keyword": "재산세",
+      "volumeLabel": "1000+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '집값 계속 뛰면 서울 외곽도 재산세 폭탄 … 2030년 노도강 연 57만원 더 낸다' (뉴데일리) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "집값 계속 뛰면 서울 외곽도 재산세 폭탄 … 2030년 노도강 연 57만원 더 낸다",
+          "source": "뉴데일리",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/05/2026100500023.html"
+        },
+        {
+          "title": "'세금 폭탄' 곧 터진다...'섬뜩한' 전망",
+          "source": "한경매거진&북",
+          "url": "https://magazine.hankyung.com/business/article/202610053459b"
+        },
+        {
+          "title": "\"집값 상승세 지속시 2030년 서울 주요단지 재산세 54%↑\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/KZzlQUDg5A"
         }
       ]
     }
