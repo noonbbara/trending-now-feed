@@ -1,272 +1,272 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-08T07:13:56.926Z",
+  "updatedAt": "2026-10-08T14:50:47.133Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "육아",
+      "id": "마이클-버리",
       "rank": 1,
-      "keyword": "육아",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“육아휴직? 신청서 내면 찢어 버리겠다”…일, 직장인 아빠 괴롭히는 ‘파타하라’' (한겨레) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“육아휴직? 신청서 내면 찢어 버리겠다”…일, 직장인 아빠 괴롭히는 ‘파타하라’",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1281493.html"
-        },
-        {
-          "title": "빅마마 이혜정, 45세 딸 임신에 눈물…손녀 육아 부탁엔 “자기 자식은 자기가 키워야”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261008/134807192/2"
-        },
-        {
-          "title": "이혜정, 45살 딸 임신에 황혼 육아 거절 “자기 자식은 알아서”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12171298"
-        }
-      ]
-    },
-    {
-      "id": "중국",
-      "rank": 2,
-      "keyword": "중국",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '금융권 해커 단서 포착‥\"中 광둥성 26세 추정\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "금융권 해커 단서 포착‥\"中 광둥성 26세 추정\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6856559_36967.html"
-        },
-        {
-          "title": "동양생명, 성대규 대표 주재 '위기대응위원회' 가동",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261008_0003819324"
-        },
-        {
-          "title": "[단독] “취약 표면 침해 시도 증가” 17번 경고 무시한 시중은행",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8680177"
-        }
-      ]
-    },
-    {
-      "id": "한동훈",
-      "rank": 3,
-      "keyword": "한동훈",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] 한동훈 딸 수사 ‘국제 공조 요청’, 검찰서 자체 중단' (한겨레) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[단독] 한동훈 딸 수사 ‘국제 공조 요청’, 검찰서 자체 중단",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1281466.html"
-        },
-        {
-          "title": "조국, ‘한동훈 딸 수사’ 검찰 중단 보도에 “이래놓고 온 가족 베었다”",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202610081510001"
-        },
-        {
-          "title": "한동훈 딸 수사 국제공조 요청, 검찰이 불송부…법무차관 \"진상 확인\"",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6588943"
-        }
-      ]
-    },
-    {
-      "id": "전투기",
-      "rank": 4,
-      "keyword": "전투기",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '120만원짜리 전투기 위조 부품 ‘1억 정품’ 둔갑···공군 정비대금 128억 가로챈 일당 기소' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "120만원짜리 전투기 위조 부품 ‘1억 정품’ 둔갑···공군 정비대금 128억 가로챈 일당 기소",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610081216011"
-        },
-        {
-          "title": "전투기 위조 부품으로 128억 편취…5명 기소",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH202610081513119qP"
-        },
-        {
-          "title": "공소청, 공군 전투기 '정비대금 편취' 업체 대표 등 3명 구속 기소",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261008_0003819050"
-        }
-      ]
-    },
-    {
-      "id": "송지호-바다하늘길",
-      "rank": 5,
-      "keyword": "송지호 바다하늘길",
+      "keyword": "마이클 버리",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '고성 송지호 새로운 관광명소 ‘바다하늘길’ 한달만에 방문객 10만명 돌파' (Daum) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''빅쇼트' 마이클 버리 \"증시 붕괴 1단계 진입…6~9개월 뒤 다음 단계\"' (연합인포맥스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "고성 송지호 새로운 관광명소 ‘바다하늘길’ 한달만에 방문객 10만명 돌파",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261006143210807?f=p"
+          "title": "'빅쇼트' 마이클 버리 \"증시 붕괴 1단계 진입…6~9개월 뒤 다음 단계\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438387"
         },
         {
-          "title": "04화 3장. 고성 송지호 죽도",
-          "source": "브런치",
-          "url": "https://brunch.co.kr/@cometyou/638"
+          "title": "“미국주식? 이미 폭락 1단계 들어섰다” 마이클 버리 경고…“6~9개월밖에 안 남아”",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10896928"
         },
         {
-          "title": "전국 첫 평화경제특구 지정 염원 DMZ 평화통일페스티벌 풋풋한 고성 해변길 맨발걷기 열려",
-          "source": "강원일보",
-          "url": "https://www.kwnews.co.kr/article/20261003500037"
+          "title": "'빅쇼트' 버리, '남미의 아마존' 메르카도리브레에 꽂혔다",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Securities/2026/10/2026100613364064e250e8e188_1"
         }
       ]
     },
     {
-      "id": "도쿄도",
-      "rank": 6,
-      "keyword": "도쿄도",
-      "volumeLabel": "1000+",
+      "id": "식중독",
+      "rank": 2,
+      "keyword": "식중독",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김제지평선축제서 김밥 먹은 260명 집단 식중독 의심 증상' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김제지평선축제서 김밥 먹은 260명 집단 식중독 의심 증상",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261008105200055"
+        },
+        {
+          "title": "김제 축제서 김밥 먹은 313명 '집단 식중독' 의심…구토·설사에 병원행",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261008580312"
+        },
+        {
+          "title": "지평선축제서 김밥 먹고 설사·고열…260명 '식중독' 의심",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261008_0003819367"
+        }
+      ]
+    },
+    {
+      "id": "김영광",
+      "rank": 3,
+      "keyword": "김영광",
+      "volumeLabel": "500+",
       "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '도쿄도 밀어낸 ‘여행하기 좋은 세계 최고 대도시’ 1위 정체는 서울···“서로 다른 매력 누릴 수 있는 곳”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘39세’ 김영광도 피해갈 수 없는 세월..“먹는 족족 살쪄, 1일 2운동” [순간포착] - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "도쿄도 밀어낸 ‘여행하기 좋은 세계 최고 대도시’ 1위 정체는 서울···“서로 다른 매력 누릴 수 있는 곳”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610080923001"
+          "title": "‘39세’ 김영광도 피해갈 수 없는 세월..“먹는 족족 살쪄, 1일 2운동” [순간포착] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/08/HAYDMODBMUYGEZLDMUYDOMJWGA/"
         },
         {
-          "title": "서울, 도쿄 제치고 ‘세계 최고 대도시’ 첫 1위…미 여행전문지 독자들 선정",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/area/capital/1281450.html"
+          "title": "‘39세’ 김영광, ‘로코’ 연달아 찍는 이유..“나이 들면 안 들어와” (유튜브하지영)",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112889662"
         },
         {
-          "title": "서울, 美 여행지 독자 선정 '세계 최고 대도시 1위'…日 도쿄 제쳐 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/policy/2026/10/08/2026100811294225322"
+          "title": "39세 김영광, '먹는 족족 살쪄' 하루 2번 운동한 이유 : 연예",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1013036"
         }
       ]
     },
     {
-      "id": "압구정동",
+      "id": "병목",
+      "rank": 4,
+      "keyword": "병목",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '푸토시는 디지털 전환 과정에서 데이터 및 병목 현상 해결에 중점을 두고 있습니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "푸토시는 디지털 전환 과정에서 데이터 및 병목 현상 해결에 중점을 두고 있습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/phu-tho-lay-du-lieu-va-xu-ly-diem-nghen-lam-trong-tam-chuyen-doi-so"
+        },
+        {
+          "title": "푸토, 중앙 정부 자금 2조 7,260억 동 미지급",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/kinh-doanh/phu-tho-con-2726-ti-dong-von-trung-uong-chua-giai-ngan-1779174.ldo"
+        },
+        {
+          "title": "푸토시: 모든 면과 동에 과학, 기술, 혁신 및 디지털 전환 개발에 관한 운영위원회가 있습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/phu-tho-100-xa-phuong-co-ban-chi-dao-ve-phat-trien-kh-cn-dmst-cds"
+        }
+      ]
+    },
+    {
+      "id": "채널a",
+      "rank": 5,
+      "keyword": "채널a",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '소비자 대신 가격 깎는다…채널A 웹예능 ‘까까죠’ 19일 첫 공개' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "소비자 대신 가격 깎는다…채널A 웹예능 ‘까까죠’ 19일 첫 공개",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261008/134808212/1"
+        },
+        {
+          "title": "강남 ‘까까죠’, 19일 첫 공개",
+          "source": "BNT뉴스",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202610080156"
+        },
+        {
+          "title": "강남, “가격 깎아 달라” 외친다…딜커머스 예능 ‘까까죠’ MC 합류",
+          "source": "TopStarNews",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16241474"
+        }
+      ]
+    },
+    {
+      "id": "로맥",
+      "rank": 6,
+      "keyword": "로맥",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'KBO 레전드들 '승리 징크스'는?…\"29일간 짜장면만 먹어\" (어서와)' (MBC) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "KBO 레전드들 '승리 징크스'는?…\"29일간 짜장면만 먹어\" (어서와)",
+          "source": "MBC",
+          "url": "https://m.imbc.com/enews/view/520359"
+        },
+        {
+          "title": "로맥, 5년 만에 찾은 랜더스필드에서 울컥 “팬들이 나를 잊은 줄 알았는데…” (어서와~ 한국은 처음이지?)",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610081216003"
+        },
+        {
+          "title": "‘어서와’ 이택근, 29일간 짜장면",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261007083340142"
+        }
+      ]
+    },
+    {
+      "id": "박지훈",
       "rank": 7,
-      "keyword": "압구정동",
-      "volumeLabel": "500+",
+      "keyword": "박지훈",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '박지훈과 함께한 더벤티, 캠페인 영상 조회수 1,500만 기록' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "박지훈과 함께한 더벤티, 캠페인 영상 조회수 1,500만 기록",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610082309003"
+        },
+        {
+          "title": "더벤티 ‘알찬 포도·옥수수’ 출시 한 달 만에 30만잔 돌파",
+          "source": "푸드투데이",
+          "url": "https://www.foodtoday.or.kr/news/article.html?no=208519"
+        },
+        {
+          "title": "'알찬' 한 잔에 담은 유쾌함…더벤티 새광고",
+          "source": "AP신문",
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3051565"
+        }
+      ]
+    },
+    {
+      "id": "이데일리",
+      "rank": 8,
+      "keyword": "이데일리",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“집값 비싸다고 포기 안 한다”…2030세대, AI로 ‘월급 밖 소득’ 키운다' (이데일리) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“집값 비싸다고 포기 안 한다”…2030세대, AI로 ‘월급 밖 소득’ 키운다",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04621526645610952&mediaCodeNo=257"
+        },
+        {
+          "title": "“할 수 있을까”에서 “무엇을 보여줄까”로…청년 취업 키워드, AI 경험으로 재편",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/It/article/all/20261008/134811684/1"
+        },
+        {
+          "title": "윤종수 지바이크 대표 \"개인형 이동장치 면허 도입해야\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261007133902211"
+        }
+      ]
+    },
+    {
+      "id": "로또1등도-출근합니다",
+      "rank": 9,
+      "keyword": "로또1등도 출근합니다",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이준혁 “마지막 지켜봐 달라”, ‘로또 1등도’ 오늘 종영' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이준혁 “마지막 지켜봐 달라”, ‘로또 1등도’ 오늘 종영",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261008/134806816/1"
+        },
+        {
+          "title": "\"진짜 계약직 데려다 놓은 줄\"…시청률 폭발 중인 韓 드라마서 '신스틸러' 존재감 입증한 여배우 정체 (로또 1등)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261006212025821"
+        },
+        {
+          "title": "'로또 1등도 출근합니다' 최종회 티빙 공개일…시즌1 결말 관전 포인트 공개",
+          "source": "비즈엔터",
+          "url": "https://enter.etoday.co.kr/news/view/303461"
+        }
+      ]
+    },
+    {
+      "id": "하이마트",
+      "rank": 10,
+      "keyword": "하이마트",
+      "volumeLabel": "100+",
       "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": []
-    },
-    {
-      "id": "중동",
-      "rank": 8,
-      "keyword": "중동",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한·이집트 협정·양해각서 체결식 - 포토 | 멀티미디어' (정책브리핑) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "한·이집트 협정·양해각서 체결식 - 포토 | 멀티미디어",
-          "source": "정책브리핑",
-          "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=73732&pageIndex=1"
-        },
-        {
-          "title": "이 대통령 “카이로, 민족적 희망 처음 기록된 곳…더 큰 번영 향해 함께 나아가길”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8680960"
-        },
-        {
-          "title": "韓-이집트, 조선·통상 협력에 ‘속도’…CEPA 협상도 공식화",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=373240"
-        }
-      ]
-    },
-    {
-      "id": "김영옥",
-      "rank": 9,
-      "keyword": "김영옥",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김영옥, 며느리 제사 음식 준비 만류 “고급 인력인데…”' (매일경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김영옥, 며느리 제사 음식 준비 만류 “고급 인력인데…”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12171125"
-        },
-        {
-          "title": "반효정, 20년 인연 매니저가 전한 미담 \"그만둔 뒤에도 개인번호 줘\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6313734"
-        },
-        {
-          "title": "김영옥 “며느리는 고급 인력”… 85세 할머니에게 배운 ‘집안일 대물림 안 하기’",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1640160"
-        }
-      ]
-    },
-    {
-      "id": "1기-신도시",
-      "rank": 10,
-      "keyword": "1기 신도시",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '1기 신도시 중동 정비사업 가시화…부천시, 5개 마을 특별정비 궤도 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "1기 신도시 중동 정비사업 가시화…부천시, 5개 마을 특별정비 궤도 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/policy/2026/10/07/2026100710283512891"
-        },
-        {
-          "title": "부천 중동 1기 신도시 5개 마을 재정비 본격화…1만7천105세대 추진",
-          "source": "중부일보",
-          "url": "https://www.joongboo.com/news/articleView.html?idxno=363738684"
-        },
-        {
-          "title": "부천시, 중동 1기 신도시 5개 마을 특별정비계획 주민공람",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026100809013245211"
-        }
-      ]
     }
   ]
 }
