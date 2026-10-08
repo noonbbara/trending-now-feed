@@ -1,17 +1,101 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-08T14:50:47.133Z",
+  "updatedAt": "2026-10-08T20:38:38.351Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "마이클-버리",
+      "id": "쿠팡",
       "rank": 1,
-      "keyword": "마이클 버리",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "keyword": "쿠팡",
+      "volumeLabel": "20000+",
+      "startedLabel": "5시간 전",
       "change": "new",
       "changeLabel": "NEW",
+      "summary": "급상승 시점에 '쿠팡·쿠팡이츠·라이더 앱 접속 오류…쿠팡 \"원인 파악 중\"' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "쿠팡·쿠팡이츠·라이더 앱 접속 오류…쿠팡 \"원인 파악 중\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261009014240gb5"
+        },
+        {
+          "title": "쿠팡 한밤 '접속 불가'…\"전부 먹통이라 불편\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261009002200030"
+        },
+        {
+          "title": "쿠팡도 쿠팡이츠도, 쿠팡플레이도 한밤중 '모두 먹통'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6856709_36918.html"
+        }
+      ]
+    },
+    {
+      "id": "북한이탈주민",
+      "rank": 2,
+      "keyword": "북한이탈주민",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[2026 국감] 북향민 위기가구 관리 ‘구멍’… 연락두절·사회적 고립 못 잡는다' (월간중앙) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[2026 국감] 북향민 위기가구 관리 ‘구멍’… 연락두절·사회적 고립 못 잡는다",
+          "source": "월간중앙",
+          "url": "https://www.m-joongang.com/news/articleView.html?idxno=403148"
+        },
+        {
+          "title": "북향민 위기관리, 체납·실업은 잡아도 ‘고립’은 못 잡는다",
+          "source": "위클리서울",
+          "url": "https://www.weeklyseoul.net/news/articleView.html?idxno=87243"
+        },
+        {
+          "title": "이기헌 의원, 늘어나는 북한이탈주민 무연고 사망…고령·독거 안전망부터 사후 장제까지 제도 보완 시급",
+          "source": "경기in",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "이정현",
+      "rank": 3,
+      "keyword": "이정현",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''194억 건물주' 이정현 \"남편보다 내가 더 벌어\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'194억 건물주' 이정현 \"남편보다 내가 더 벌어\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261008_0003819961"
+        },
+        {
+          "title": "이정현, 닭고기 20kg→100인분 ‘큰손’ 요리…“스트레스 확 풀려”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261008/134809372/1"
+        },
+        {
+          "title": "[신상출시 편스토랑] 대패삼겹살로 완성하는 이정현 ‘10분 감자탕’, “맛있다…!” 남편도 감탄한 진국의 맛~",
+          "source": "KBS연예",
+          "url": "https://kstar.kbs.co.kr/list_view.html?idx=411607"
+        }
+      ]
+    },
+    {
+      "id": "마이클-버리",
+      "rank": 4,
+      "keyword": "마이클 버리",
+      "volumeLabel": "1000+",
+      "startedLabel": "7시간 전",
+      "change": "down",
+      "changeLabel": "-3",
       "summary": "급상승 시점에 ''빅쇼트' 마이클 버리 \"증시 붕괴 1단계 진입…6~9개월 뒤 다음 단계\"' (연합인포맥스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -33,240 +117,156 @@
       ]
     },
     {
-      "id": "식중독",
-      "rank": 2,
-      "keyword": "식중독",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김제지평선축제서 김밥 먹은 260명 집단 식중독 의심 증상' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김제지평선축제서 김밥 먹은 260명 집단 식중독 의심 증상",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261008105200055"
-        },
-        {
-          "title": "김제 축제서 김밥 먹은 313명 '집단 식중독' 의심…구토·설사에 병원행",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261008580312"
-        },
-        {
-          "title": "지평선축제서 김밥 먹고 설사·고열…260명 '식중독' 의심",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261008_0003819367"
-        }
-      ]
-    },
-    {
-      "id": "김영광",
-      "rank": 3,
-      "keyword": "김영광",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘39세’ 김영광도 피해갈 수 없는 세월..“먹는 족족 살쪄, 1일 2운동” [순간포착] - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘39세’ 김영광도 피해갈 수 없는 세월..“먹는 족족 살쪄, 1일 2운동” [순간포착] - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/08/HAYDMODBMUYGEZLDMUYDOMJWGA/"
-        },
-        {
-          "title": "‘39세’ 김영광, ‘로코’ 연달아 찍는 이유..“나이 들면 안 들어와” (유튜브하지영)",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112889662"
-        },
-        {
-          "title": "39세 김영광, '먹는 족족 살쪄' 하루 2번 운동한 이유 : 연예",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1013036"
-        }
-      ]
-    },
-    {
       "id": "병목",
-      "rank": 4,
+      "rank": 5,
       "keyword": "병목",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '푸토시는 디지털 전환 과정에서 데이터 및 병목 현상 해결에 중점을 두고 있습니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "volumeLabel": "500+",
+      "startedLabel": "7시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '주가 35% 빠졌는데…기관들은 '줍줍' 노리는 AI 병목株' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "푸토시는 디지털 전환 과정에서 데이터 및 병목 현상 해결에 중점을 두고 있습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/phu-tho-lay-du-lieu-va-xu-ly-diem-nghen-lam-trong-tam-chuyen-doi-so"
+          "title": "주가 35% 빠졌는데…기관들은 '줍줍' 노리는 AI 병목株",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610080983i"
         },
         {
-          "title": "푸토, 중앙 정부 자금 2조 7,260억 동 미지급",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/kinh-doanh/phu-tho-con-2726-ti-dong-von-trung-uong-chua-giai-ngan-1779174.ldo"
+          "title": "유안타증권 \"LS일렉트릭, 3분기 실적 서프라이즈 전망\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261007084902620"
         },
         {
-          "title": "푸토시: 모든 면과 동에 과학, 기술, 혁신 및 디지털 전환 개발에 관한 운영위원회가 있습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/phu-tho-100-xa-phuong-co-ban-chi-dao-ve-phat-trien-kh-cn-dmst-cds"
+          "title": "[리포트 브리핑]LS ELECTRIC, 'Hakuna Matata' 목표가 270,000원 - 하나증권",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261007000111"
+        }
+      ]
+    },
+    {
+      "id": "ps",
+      "rank": 6,
+      "keyword": "ps",
+      "volumeLabel": "200+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Sony Sells off Dozens of XR Patents to Meta in Apparent Pullback from A…' (Road to VR) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Sony Sells off Dozens of XR Patents to Meta in Apparent Pullback from AR/VR Hardware",
+          "source": "Road to VR",
+          "url": "https://roadtovr.com/sony-sells-xr-headset-patents-meta/"
+        },
+        {
+          "title": "Sony Sells Dozens of Patents to Meta, Seemingly Signifies End of VR Efforts",
+          "source": "Digital Foundry",
+          "url": "https://www.digitalfoundry.net/news/2026/10/sony-sells-dozens-of-patents-to-meta-seemingly-signifies-end-of-vr-efforts"
+        },
+        {
+          "title": "PlayStation Is Done With the PS VR Headset, Says New Report—What Happened?",
+          "source": "Player.One",
+          "url": "https://www.player.one/playstation-done-ps-vr-headset-says-new-report-what-happened-164241"
         }
       ]
     },
     {
       "id": "채널a",
-      "rank": 5,
+      "rank": 7,
       "keyword": "채널a",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '소비자 대신 가격 깎는다…채널A 웹예능 ‘까까죠’ 19일 첫 공개' (동아일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "소비자 대신 가격 깎는다…채널A 웹예능 ‘까까죠’ 19일 첫 공개",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261008/134808212/1"
-        },
-        {
-          "title": "강남 ‘까까죠’, 19일 첫 공개",
-          "source": "BNT뉴스",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202610080156"
-        },
-        {
-          "title": "강남, “가격 깎아 달라” 외친다…딜커머스 예능 ‘까까죠’ MC 합류",
-          "source": "TopStarNews",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16241474"
-        }
-      ]
-    },
-    {
-      "id": "로맥",
-      "rank": 6,
-      "keyword": "로맥",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'KBO 레전드들 '승리 징크스'는?…\"29일간 짜장면만 먹어\" (어서와)' (MBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "KBO 레전드들 '승리 징크스'는?…\"29일간 짜장면만 먹어\" (어서와)",
-          "source": "MBC",
-          "url": "https://m.imbc.com/enews/view/520359"
-        },
-        {
-          "title": "로맥, 5년 만에 찾은 랜더스필드에서 울컥 “팬들이 나를 잊은 줄 알았는데…” (어서와~ 한국은 처음이지?)",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610081216003"
-        },
-        {
-          "title": "‘어서와’ 이택근, 29일간 짜장면",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261007083340142"
-        }
-      ]
-    },
-    {
-      "id": "박지훈",
-      "rank": 7,
-      "keyword": "박지훈",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '박지훈과 함께한 더벤티, 캠페인 영상 조회수 1,500만 기록' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "박지훈과 함께한 더벤티, 캠페인 영상 조회수 1,500만 기록",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610082309003"
-        },
-        {
-          "title": "더벤티 ‘알찬 포도·옥수수’ 출시 한 달 만에 30만잔 돌파",
-          "source": "푸드투데이",
-          "url": "https://www.foodtoday.or.kr/news/article.html?no=208519"
-        },
-        {
-          "title": "'알찬' 한 잔에 담은 유쾌함…더벤티 새광고",
-          "source": "AP신문",
-          "url": "https://www.apnews.kr/news/articleView.html?idxno=3051565"
-        }
-      ]
-    },
-    {
-      "id": "이데일리",
-      "rank": 8,
-      "keyword": "이데일리",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“집값 비싸다고 포기 안 한다”…2030세대, AI로 ‘월급 밖 소득’ 키운다' (이데일리) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“집값 비싸다고 포기 안 한다”…2030세대, AI로 ‘월급 밖 소득’ 키운다",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=04621526645610952&mediaCodeNo=257"
-        },
-        {
-          "title": "“할 수 있을까”에서 “무엇을 보여줄까”로…청년 취업 키워드, AI 경험으로 재편",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/It/article/all/20261008/134811684/1"
-        },
-        {
-          "title": "윤종수 지바이크 대표 \"개인형 이동장치 면허 도입해야\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261007133902211"
-        }
-      ]
-    },
-    {
-      "id": "로또1등도-출근합니다",
-      "rank": 9,
-      "keyword": "로또1등도 출근합니다",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이준혁 “마지막 지켜봐 달라”, ‘로또 1등도’ 오늘 종영' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "이준혁 “마지막 지켜봐 달라”, ‘로또 1등도’ 오늘 종영",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261008/134806816/1"
-        },
-        {
-          "title": "\"진짜 계약직 데려다 놓은 줄\"…시청률 폭발 중인 韓 드라마서 '신스틸러' 존재감 입증한 여배우 정체 (로또 1등)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261006212025821"
-        },
-        {
-          "title": "'로또 1등도 출근합니다' 최종회 티빙 공개일…시즌1 결말 관전 포인트 공개",
-          "source": "비즈엔터",
-          "url": "https://enter.etoday.co.kr/news/view/303461"
-        }
-      ]
-    },
-    {
-      "id": "하이마트",
-      "rank": 10,
-      "keyword": "하이마트",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "startedLabel": "7시간 전",
+      "change": "down",
+      "changeLabel": "-2",
       "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": []
+    },
+    {
+      "id": "장민호",
+      "rank": 8,
+      "keyword": "장민호",
+      "volumeLabel": "100+",
+      "startedLabel": "6시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“아이들이 꿈꾸며 건강하게 자라길” 장민호 한마디에…팬클럽, 3000만원 기부' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“아이들이 꿈꾸며 건강하게 자라길” 장민호 한마디에…팬클럽, 3000만원 기부",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261008/134808004/2"
+        },
+        {
+          "title": "가수 장민호 팬클럽, 굿네이버스에 3천만원 기부",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261008042100371"
+        },
+        {
+          "title": "장민호 “아이들 꿈꾸게 해달라” 한마디에…‘민호특공대’ 3000만원 쐈다",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1640178"
+        }
+      ]
+    },
+    {
+      "id": "아리엘-후라도",
+      "rank": 9,
+      "keyword": "아리엘 후라도",
+      "volumeLabel": "100+",
+      "startedLabel": "7시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '프로야구 삼성, 신인 선수 계약 완료…김민훈 계약금 2억5천만원' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "프로야구 삼성, 신인 선수 계약 완료…김민훈 계약금 2억5천만원",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261008119700007"
+        },
+        {
+          "title": "출발은 소박하지만… \"후라세웅 아닌 훈라도입니다\" 후라도 길을 간다. 2억5000만원 삼성 입단",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/08/MQ2DQYRXGVQWMNTDMYZGMY3FGU/"
+        },
+        {
+          "title": "삼성, 1라운드 지명 투수 김민훈과 2억5000만원에 계약",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261008_0003819291"
+        }
+      ]
+    },
+    {
+      "id": "수면제",
+      "rank": 10,
+      "keyword": "수면제",
+      "volumeLabel": "100+",
+      "startedLabel": "7시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"매일 6~8알 먹었더니 통잠 자\"…백지연, '천연수면제' 극찬한 '이것' [헬스톡]' (파이낸셜뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"매일 6~8알 먹었더니 통잠 자\"…백지연, '천연수면제' 극찬한 '이것' [헬스톡]",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610070901105472"
+        },
+        {
+          "title": "“천연 수면제 효과” 백지연이 자기 전 먹는 ‘의외의 간식’",
+          "source": "헬스조선",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/10/06/2026100601565.html"
+        },
+        {
+          "title": "백지연이 찾은 잠의 해답은 아몬드…6알로 꿀잠 말했다",
+          "source": "스페셜타임스",
+          "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=470885"
+        }
+      ]
     }
   ]
 }
