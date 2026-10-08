@@ -1,286 +1,270 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-08T00:54:26.419Z",
+  "updatedAt": "2026-10-08T07:13:56.926Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "10-월-9-일",
+      "id": "육아",
       "rank": 1,
-      "keyword": "10 월 9 일",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한글날, 세종대왕 발자취 따라가 볼까? 광화문·서촌 일대 6곳(ft. 참여행사)' (서울특별시) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "한글날, 세종대왕 발자취 따라가 볼까? 광화문·서촌 일대 6곳(ft. 참여행사)",
-          "source": "서울특별시",
-          "url": "https://mediahub.seoul.go.kr/archives/2019571"
-        },
-        {
-          "title": "미래엔, 2026 세종한글축제 후원… ‘미래엔 한글마당’ 운영",
-          "source": "조선에듀",
-          "url": "https://edu.chosun.com/site/data/html_dir/2026/10/08/2026100880024.html"
-        },
-        {
-          "title": "'우리말' 관련 서적 판매량 11% 증가",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261007151842298"
-        }
-      ]
-    },
-    {
-      "id": "삼성전자-실적",
-      "rank": 2,
-      "keyword": "삼성전자 실적",
-      "volumeLabel": "2000+",
+      "keyword": "육아",
+      "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[속보] 삼성전자 3분기 영업이익 107조4천억 원‥4분기 연속 신기록' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“육아휴직? 신청서 내면 찢어 버리겠다”…일, 직장인 아빠 괴롭히는 ‘파타하라’' (한겨레) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[속보] 삼성전자 3분기 영업이익 107조4천억 원‥4분기 연속 신기록",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6856509_36932.html"
+          "title": "“육아휴직? 신청서 내면 찢어 버리겠다”…일, 직장인 아빠 괴롭히는 ‘파타하라’",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1281493.html"
         },
         {
-          "title": "[특징주] 삼성전자, 실적호조에도 장초반 약세…하닉은 0.7%↑",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261008048600008"
+          "title": "빅마마 이혜정, 45세 딸 임신에 눈물…손녀 육아 부탁엔 “자기 자식은 자기가 키워야”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261008/134807192/2"
         },
         {
-          "title": "[속보]‘영업이익 100조’ 열었다...삼성전자 3분기 영업이익 107조4000억원",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/10/08/CKM366WDTJAGZF3X3XIYONJQI4/"
-        }
-      ]
-    },
-    {
-      "id": "성심당",
-      "rank": 3,
-      "keyword": "성심당",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[빅데이터로본다] 제과제빵 전문점 2026년 10월 브랜드평판... 1위 성심당, 2위 뚜레쥬르, 3위 던킨도너츠' (일간투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[빅데이터로본다] 제과제빵 전문점 2026년 10월 브랜드평판... 1위 성심당, 2위 뚜레쥬르, 3위 던킨도너츠",
-          "source": "일간투데이",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=795750"
-        },
-        {
-          "title": "성심당, 제과제빵 브랜드평판 1위…뚜레쥬르·던킨도너츠 제쳤다",
-          "source": "핀포인트뉴스",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493524"
-        },
-        {
-          "title": "성심당, 제과제빵 전문점 브랜드평판 2026년 10월...1위",
-          "source": "비욘드포스트",
-          "url": "https://www.beyondpost.co.kr/view.php?ud=20261008082303359946a9e4dd7f_30"
-        }
-      ]
-    },
-    {
-      "id": "제민일보",
-      "rank": 4,
-      "keyword": "제민일보",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[오늘의 운세] 2026년 10월 08일 띠별 운세' (YTN) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[오늘의 운세] 2026년 10월 08일 띠별 운세",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0121_202610080000000001"
-        },
-        {
-          "title": "[오늘의 운세] 10월 8일 목요일 (음력 8월 28일) 띠별 운세",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261002580243"
-        },
-        {
-          "title": "최고위원회의 발언하는 국민의힘 장동혁 대표",
+          "title": "이혜정, 45살 딸 임신에 황혼 육아 거절 “자기 자식은 알아서”",
           "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/politics/12171099"
+          "url": "https://www.mk.co.kr/news/hot-issues/12171298"
         }
       ]
     },
     {
-      "id": "삼성전자-성과급",
-      "rank": 5,
-      "keyword": "삼성전자 성과급",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "id": "중국",
+      "rank": 2,
+      "keyword": "중국",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '삼성전자 반도체 특별성과급 내년 3월말경 지급…전액 자사주' (연합인포맥스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '금융권 해커 단서 포착‥\"中 광둥성 26세 추정\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "삼성전자 반도체 특별성과급 내년 3월말경 지급…전액 자사주",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438177"
-        },
-        {
-          "title": "[와글와글 플러스] 삼성전자 반도체 특별성과급 내년 3월 말쯤 지급",
+          "title": "금융권 해커 단서 포착‥\"中 광둥성 26세 추정\"",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6856498_37012.html"
+          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6856559_36967.html"
         },
         {
-          "title": "\"연봉 8000만원이면 성과급 7.5억\"…삼성 성과급 윤곽 나왔다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610078646g"
+          "title": "동양생명, 성대규 대표 주재 '위기대응위원회' 가동",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261008_0003819324"
+        },
+        {
+          "title": "[단독] “취약 표면 침해 시도 증가” 17번 경고 무시한 시중은행",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8680177"
         }
       ]
     },
     {
-      "id": "최순실",
-      "rank": 6,
-      "keyword": "최순실",
+      "id": "한동훈",
+      "rank": 3,
+      "keyword": "한동훈",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[단독] 한동훈 딸 수사 ‘국제 공조 요청’, 검찰서 자체 중단' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[단독] 한동훈 딸 수사 ‘국제 공조 요청’, 검찰서 자체 중단",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1281466.html"
+        },
+        {
+          "title": "조국, ‘한동훈 딸 수사’ 검찰 중단 보도에 “이래놓고 온 가족 베었다”",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202610081510001"
+        },
+        {
+          "title": "한동훈 딸 수사 국제공조 요청, 검찰이 불송부…법무차관 \"진상 확인\"",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6588943"
+        }
+      ]
+    },
+    {
+      "id": "전투기",
+      "rank": 4,
+      "keyword": "전투기",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '120만원짜리 전투기 위조 부품 ‘1억 정품’ 둔갑···공군 정비대금 128억 가로챈 일당 기소' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "120만원짜리 전투기 위조 부품 ‘1억 정품’ 둔갑···공군 정비대금 128억 가로챈 일당 기소",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610081216011"
+        },
+        {
+          "title": "전투기 위조 부품으로 128억 편취…5명 기소",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202610081513119qP"
+        },
+        {
+          "title": "공소청, 공군 전투기 '정비대금 편취' 업체 대표 등 3명 구속 기소",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261008_0003819050"
+        }
+      ]
+    },
+    {
+      "id": "송지호-바다하늘길",
+      "rank": 5,
+      "keyword": "송지호 바다하늘길",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '구치소서 넘어진 최서원 병원비 3천900만원 회수하나…15일 선고' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '고성 송지호 새로운 관광명소 ‘바다하늘길’ 한달만에 방문객 10만명 돌파' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "구치소서 넘어진 최서원 병원비 3천900만원 회수하나…15일 선고",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261007153700004"
-        },
-        {
-          "title": "최순실 병원비 3900만원 대신 낸 국가…5년 지나도록 한 푼도 못 받아",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026100809404479436"
-        },
-        {
-          "title": "‘최순실 병원비’ 세금 대납 논란…국가가 3927만원 대신 내고 5년째 못 받아",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11622111"
-        }
-      ]
-    },
-    {
-      "id": "트로트",
-      "rank": 7,
-      "keyword": "트로트",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김다현, 역경 딛고 부산국제영화제(BIFF) 참석' (Daum) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김다현, 역경 딛고 부산국제영화제(BIFF) 참석",
+          "title": "고성 송지호 새로운 관광명소 ‘바다하늘길’ 한달만에 방문객 10만명 돌파",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20261006180622785?f=p"
+          "url": "https://v.daum.net/v/20261006143210807?f=p"
         },
         {
-          "title": "트로트 가수 김다현, 조부모 사랑담은 '광양에서 만난 사랑' 발표",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/gwangju-jeonnam/6312986"
+          "title": "04화 3장. 고성 송지호 죽도",
+          "source": "브런치",
+          "url": "https://brunch.co.kr/@cometyou/638"
         },
         {
-          "title": "[사진]제31회 부산국제영화제 레드카펫 밟는 김동호 전 집행위원장",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/10/06/G4ZWKYZYMZTDCY3DGQZTCMTEG4/"
+          "title": "전국 첫 평화경제특구 지정 염원 DMZ 평화통일페스티벌 풋풋한 고성 해변길 맨발걷기 열려",
+          "source": "강원일보",
+          "url": "https://www.kwnews.co.kr/article/20261003500037"
         }
       ]
     },
     {
-      "id": "임윤찬",
+      "id": "도쿄도",
+      "rank": 6,
+      "keyword": "도쿄도",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '도쿄도 밀어낸 ‘여행하기 좋은 세계 최고 대도시’ 1위 정체는 서울···“서로 다른 매력 누릴 수 있는 곳”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "도쿄도 밀어낸 ‘여행하기 좋은 세계 최고 대도시’ 1위 정체는 서울···“서로 다른 매력 누릴 수 있는 곳”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610080923001"
+        },
+        {
+          "title": "서울, 도쿄 제치고 ‘세계 최고 대도시’ 첫 1위…미 여행전문지 독자들 선정",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/area/capital/1281450.html"
+        },
+        {
+          "title": "서울, 美 여행지 독자 선정 '세계 최고 대도시 1위'…日 도쿄 제쳐 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/10/08/2026100811294225322"
+        }
+      ]
+    },
+    {
+      "id": "압구정동",
+      "rank": 7,
+      "keyword": "압구정동",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "중동",
       "rank": 8,
-      "keyword": "임윤찬",
+      "keyword": "중동",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '한·이집트 협정·양해각서 체결식 - 포토 | 멀티미디어' (정책브리핑) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "한·이집트 협정·양해각서 체결식 - 포토 | 멀티미디어",
+          "source": "정책브리핑",
+          "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=73732&pageIndex=1"
+        },
+        {
+          "title": "이 대통령 “카이로, 민족적 희망 처음 기록된 곳…더 큰 번영 향해 함께 나아가길”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8680960"
+        },
+        {
+          "title": "韓-이집트, 조선·통상 협력에 ‘속도’…CEPA 협상도 공식화",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=373240"
+        }
+      ]
+    },
+    {
+      "id": "김영옥",
+      "rank": 9,
+      "keyword": "김영옥",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '임윤찬, 영국 그라모폰 어워즈 수상 불발' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '김영옥, 며느리 제사 음식 준비 만류 “고급 인력인데…”' (매일경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "임윤찬, 영국 그라모폰 어워즈 수상 불발",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261008004700085"
+          "title": "김영옥, 며느리 제사 음식 준비 만류 “고급 인력인데…”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12171125"
         },
         {
-          "title": "임윤찬, ’클래식계 오스카’ 그라모폰 어워즈 수상 불발",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261008064958Tei"
+          "title": "반효정, 20년 인연 매니저가 전한 미담 \"그만둔 뒤에도 개인번호 줘\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6313734"
         },
         {
-          "title": "임윤찬, 英 그라모폰 2년 만의 탈환 불발…'카네기홀 바흐' 분전 : 문화",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1011362"
+          "title": "김영옥 “며느리는 고급 인력”… 85세 할머니에게 배운 ‘집안일 대물림 안 하기’",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1640160"
         }
       ]
     },
     {
-      "id": "금양",
-      "rank": 9,
-      "keyword": "금양",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '금융위, '회계기준 위반' 금양에 76억3천만원 과징금 의결' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "금융위, '회계기준 위반' 금양에 76억3천만원 과징금 의결",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261007173900002"
-        },
-        {
-          "title": "상폐결정 금양, 회계위반으로 과징금 91억 ‘철퇴’",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1171237"
-        },
-        {
-          "title": "금융위, 금양에 76억 과징금…허위 매출 계상에 외부감사 방해 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/stock_general/2026/10/07/A67G4NLQKREIRKON5QX2R35JCE/"
-        }
-      ]
-    },
-    {
-      "id": "에페",
+      "id": "1기-신도시",
       "rank": 10,
-      "keyword": "에페",
+      "keyword": "1기 신도시",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '돌아온 신약, 끝내 살아남았다… 한미약품 에페가 견딘 침묵의 시간' (히트뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '1기 신도시 중동 정비사업 가시화…부천시, 5개 마을 특별정비 궤도 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "돌아온 신약, 끝내 살아남았다… 한미약품 에페가 견딘 침묵의 시간",
-          "source": "히트뉴스",
-          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79739"
+          "title": "1기 신도시 중동 정비사업 가시화…부천시, 5개 마을 특별정비 궤도 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/10/07/2026100710283512891"
         },
         {
-          "title": "식약처, 한미약품 ‘GLP-1’ 비만치료제 허가…국내 첫 비만 신약",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8680635"
+          "title": "부천 중동 1기 신도시 5개 마을 재정비 본격화…1만7천105세대 추진",
+          "source": "중부일보",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363738684"
         },
         {
-          "title": "\"한 달 20만원에 맞는다\"…'한국판 위고비' 나온다 '들썩'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026100794021"
+          "title": "부천시, 중동 1기 신도시 5개 마을 특별정비계획 주민공람",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026100809013245211"
         }
       ]
     }
