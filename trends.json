@@ -1,286 +1,260 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-09T07:56:39.955Z",
+  "updatedAt": "2026-10-09T15:12:57.324Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "투자",
+      "id": "부유세",
       "rank": 1,
-      "keyword": "투자",
+      "keyword": "부유세",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '충북도·충주시, 중국 닝보 롱바이와 4천300억원 투자협약' (매일경제 마켓) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '부자들 벌써부터 ‘벌벌’...41억 초과 자산에 1% 세금 매기겠단 이 나라' (매일경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "충북도·충주시, 중국 닝보 롱바이와 4천300억원 투자협약",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1172213"
+          "title": "부자들 벌써부터 ‘벌벌’...41억 초과 자산에 1% 세금 매기겠단 이 나라",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/world/12172476"
         },
         {
-          "title": "투자유치에 판로개척까지…찾아가는 신용한 지사",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000021303&code=61122017&sid1=photo"
+          "title": "헝가리 내년부터 부유세 도입…41억원 넘는 자산에 1% 세금",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261009049800109"
         },
         {
-          "title": "월드옥타, APEC·혁신도시 中 선전서 글로벌 공동 번영 모색",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261008001405"
+          "title": "헝가리, 내년부터 41억원 초과 자산에 부유세 1% 부과",
+          "source": "매일신문",
+          "url": "https://www.imaeil.com/page/view/2026100917512636770"
         }
       ]
     },
     {
-      "id": "간호사",
+      "id": "패션",
       "rank": 2,
-      "keyword": "간호사",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“보건의료인력 36%가 간호조무사, 대체 대상 아닌 필수 간호인력”' (의사신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“보건의료인력 36%가 간호조무사, 대체 대상 아닌 필수 간호인력”",
-          "source": "의사신문",
-          "url": ""
-        },
-        {
-          "title": "비활동 간무사 35만 명…간무협, 현장 유입 유인책 촉구",
-          "source": "병원신문",
-          "url": "https://www.khanews.com/news/articleView.html?idxno=251122"
-        },
-        {
-          "title": "\"의료분야 직종별 임금격차 확대...저임금 해소 대책 마련해야”",
-          "source": "라포르시안",
-          "url": "https://www.rapportian.com/news/articleView.html?idxno=241061"
-        }
-      ]
-    },
-    {
-      "id": "월드컵",
-      "rank": 3,
-      "keyword": "월드컵",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '베트남 U17 대표팀의 월드컵 예선: 역사적인 진출권 획득부터 힘겨운 시험대까지.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "베트남 U17 대표팀의 월드컵 예선: 역사적인 진출권 획득부터 힘겨운 시험대까지.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/u17-viet-nam-du-world-cup-tu-tam-ve-lich-su-den-bai-kiem-tra-khac-nghiet"
-        },
-        {
-          "title": "U17 베트남 여자 대표팀, 아시아 예선에서 상대 골망에 20골 득점",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/the-thao/u17-nu-viet-nam-ghi-20-ban-vao-luoi-doi-thu-o-vong-loai-chau-a-1779990.ldo"
-        },
-        {
-          "title": "베트남 U15 대표팀은 2026 FIFA U15 월드컵 및 페스티벌을 준비하고 있습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/doi-tuyen-u15-viet-nam-chuan-bi-cho-fifa-u15-world-cup-festival-2026"
-        }
-      ]
-    },
-    {
-      "id": "엔화",
-      "rank": 4,
-      "keyword": "엔화",
-      "volumeLabel": "500+",
+      "keyword": "패션",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[도쿄환시] 美 달러 실수요 매수에 158엔대 상승' (연합인포맥스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''부잣집 딸'처럼 입는다더니…2030 女 난리 난 패션' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[도쿄환시] 美 달러 실수요 매수에 158엔대 상승",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438491"
+          "title": "'부잣집 딸'처럼 입는다더니…2030 女 난리 난 패션",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026100928931"
         },
         {
-          "title": "씨티은행, 엔화 개입 전망 속 유로/엔 상승 여력 제한적 시사",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/forex-news/article-93CH-2121556"
-        },
-        {
-          "title": "엔화 가치 18년 만에 최저…한글날 일본 여행, 태풍이 변수",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=06910966645610952"
-        }
-      ]
-    },
-    {
-      "id": "사관학교",
-      "rank": 5,
-      "keyword": "사관학교",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[기고]사관학교 통합 이유는 자꾸 느는데, 통합해야만 가능한 것은 무엇인가?…국방부 국감 보며 묻는다' (문화일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[기고]사관학교 통합 이유는 자꾸 느는데, 통합해야만 가능한 것은 무엇인가?…국방부 국감 보며 묻는다",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11622347"
-        },
-        {
-          "title": "국방부 '국군사관학교' 창설 추진... 강신철 장관 \"병역특례 폐지 추진 계획\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261007124413248"
-        },
-        {
-          "title": "'졸속통합 끝내 후폭풍' 2027사관학교 경쟁률 '함흥차사'..'정권이 무력화한 4년예고제'",
-          "source": "베리타스알파",
-          "url": "https://www.veritas-a.com/news/articleView.html?idxno=630902"
-        }
-      ]
-    },
-    {
-      "id": "펩-과르디올라",
-      "rank": 6,
-      "keyword": "펩 과르디올라",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''맨시티 진짜 정신 못차렸네?' 이강인 전 동료에게 \"우리가 항소 이길거니까 안심해!\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'맨시티 진짜 정신 못차렸네?' 이강인 전 동료에게 \"우리가 항소 이길거니까 안심해!\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/08/202610080830771537O"
-        },
-        {
-          "title": "\"과르디올라가 돌아온다\" 유죄 판결→벼랑 끝! 맨시티 버팀목 될 것, 떠난 후 첫 홈 방문…우승 박탈, 강등 \"나는 여기 있을 것\"",
+          "title": "부자보다 ‘부잣집 딸’… ‘현백 코어’를 아시나요",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/10/08/GI3WGMJUGE4TANLFMRTDANZZME/"
+          "url": "https://www.chosun.com/economy/money/2026/10/08/VSXHU5OHXRFZDB6UKEZAIFFRHI/"
         },
         {
-          "title": "'충격 그 자체'…맨체스터 시티 '대몰락' 위기, 8조 8천억→처참한 '0원' 매각도 가능하다→'114건 유죄' 항소 따라 만수르 구단 존폐 결정",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20261008n01434"
+          "title": "김고은의 ‘부잣집 딸 룩’, 블라우스는 10만 원대였습니다",
+          "source": "www.cosmopolitan.co.kr",
+          "url": "https://www.cosmopolitan.co.kr/article/1910934"
         }
       ]
     },
     {
-      "id": "oman-vs-canada",
-      "rank": 7,
-      "keyword": "oman vs canada",
-      "volumeLabel": "200+",
+      "id": "sri-lanka-vs-pakistan",
+      "rank": 3,
+      "keyword": "sri lanka vs pakistan",
+      "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'ICC Men's Cricket World Cup League 2 - ODI -' (Cricketnmore) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Experimental Pakistan host transitional Sri Lanka in rare home T20Is th…' (Cricinfo) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "ICC Men's Cricket World Cup League 2 - ODI -",
-          "source": "Cricketnmore",
-          "url": "https://www.cricketnmore.com/cricket-livescore/scorecard/13072010189/icc-mens-cricket-world-cup-league-2-odi-1"
-        },
-        {
-          "title": "ICC Men's Cricket World Cup League 2 - ODI -",
-          "source": "Cricketnmore",
-          "url": "https://www.cricketnmore.com/cricket-livescore/scorecard/13072010188/icc-mens-cricket-world-cup-league-2-odi-1"
-        },
-        {
-          "title": "ICC Men's Cricket World Cup League 2 - ODI -",
-          "source": "Cricketnmore",
-          "url": "https://www.cricketnmore.com/cricket-livescore/scorecard/13072010187/icc-mens-cricket-world-cup-league-2-odi-1"
-        }
-      ]
-    },
-    {
-      "id": "위천파크골프장",
-      "rank": 8,
-      "keyword": "위천파크골프장",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '108홀 규모 의성위천파크골프장 유료 전환…지역 소비하면 반값' (경북일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "108홀 규모 의성위천파크골프장 유료 전환…지역 소비하면 반값",
-          "source": "경북일보",
-          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4086607"
-        },
-        {
-          "title": "의성위천파크골프장, 7일부터 유료 전환… 비안·의성위천 통합연회원제 도입",
-          "source": "폴리뉴스 Polinews",
-          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=745177"
-        },
-        {
-          "title": "의성위천파크골프장 10월 7일부터 유료 운영",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/region/article/all/20261007/134802382/1"
-        }
-      ]
-    },
-    {
-      "id": "bangladesh-vs-afghanistan",
-      "rank": 9,
-      "keyword": "bangladesh vs afghanistan",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Afghanistan look to tick boxes in rare Test outing against confident Ba…' (Cricinfo) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Afghanistan look to tick boxes in rare Test outing against confident Bangladesh",
+          "title": "Experimental Pakistan host transitional Sri Lanka in rare home T20Is this season",
           "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/afghanistan-v-bangladesh-2026-27-1555106/afghanistan-vs-bangladesh-only-test-1555116/match-preview"
+          "url": "https://www.cricinfo.com/series/sri-lanka-in-pakistan-2026-27-1550703/pakistan-vs-sri-lanka-1st-t20i-1550708/match-preview"
         },
         {
-          "title": "Bangladesh opt to bat and pick Nayeem Hasan",
-          "source": "ESPN India",
-          "url": "https://www.espn.in/cricket/story/_/id/50138143/afg-vs-ban-test-bangladesh-opt-bat-leave-shoriful-islam-ebadot-hossain"
+          "title": "Young guns begin WC 2028 journey against Sri Lanka today",
+          "source": "The News Pakistan",
+          "url": "https://www.thenews.pk/print/1441794-young-guns-begin-wc-2028-journey-against-sri-lanka-today"
         },
         {
-          "title": "Naveen-ul-Haq's commentary stint not an indication of his playing career - ACB",
-          "source": "Cricbuzz",
-          "url": "https://www.cricbuzz.com/cricket-news/140434/naveen-ul-haqs-commentary-stint-not-an-indication-of-his-playing-career-acb-cricbuzzcom"
+          "title": "Farhan hopes Pakistan's new combination takes off in Sri Lanka T20Is",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/live-news/20261008-farhan-hopes-pakistan-s-new-combination-takes-off-in-sri-lanka-t20is"
         }
       ]
     },
     {
-      "id": "스피또",
-      "rank": 10,
-      "keyword": "스피또",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "id": "암호화폐",
+      "rank": 4,
+      "keyword": "암호화폐",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“부모님 산소 찾아 하소연했더니”…복권 2장 ‘20억 당첨’ 잭팟' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'IMF, '조각 투자' 공식 보고서 게재…\"금융 변혁 잠재력 보유\"' (노컷뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“부모님 산소 찾아 하소연했더니”…복권 2장 ‘20억 당첨’ 잭팟",
+          "title": "IMF, '조각 투자' 공식 보고서 게재…\"금융 변혁 잠재력 보유\"",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6589046"
+        },
+        {
+          "title": "한은·IMF \"토큰화, 중개 통합해 효율 높이지만 유동성·레버리지 리스크 키울 수도\"…4대 제약 완화가 관건",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=351730"
+        },
+        {
+          "title": "서울거래 \"내년 2월부터 비상장주식 토큰증권 거래 가능하도록 준비\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261008_0003819499"
+        }
+      ]
+    },
+    {
+      "id": "김가영",
+      "rank": 5,
+      "keyword": "김가영",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“실수연발에 불운까지 겹쳤다” 김가영, 히다 오리에에게 0-3 완패 4강 진출 실패[크라운해태LPBA]' (mkbn.mk.co.kr) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“실수연발에 불운까지 겹쳤다” 김가영, 히다 오리에에게 0-3 완패 4강 진출 실패[크라운해태LPBA]",
+          "source": "mkbn.mk.co.kr",
+          "url": "https://mkbn.mk.co.kr/news/sports/12172488"
+        },
+        {
+          "title": "'4년 만의 4강' 히다, 김가영에 3-0 완승 ‘천적 극복’…정수빈도 박정현 완파",
+          "source": "빌리어즈",
+          "url": "https://www.thebilliards.kr/news/articleView.html?idxno=32129"
+        },
+        {
+          "title": "'10대 당구 소녀, 또 이변' 16살 최연소 이승희, 챔피언 출신 강호 넘어 첫 16강",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6588663"
+        }
+      ]
+    },
+    {
+      "id": "제니",
+      "rank": 6,
+      "keyword": "제니",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '8년만에 韓돌아온 위켄드… 5만 명 ‘떼창’ 울려 퍼졌다' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "8년만에 韓돌아온 위켄드… 5만 명 ‘떼창’ 울려 퍼졌다",
           "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261008/134807625/2"
+          "url": "https://www.donga.com/news/Culture/article/all/20261009/134812392/2"
         },
         {
-          "title": "부모님 산소서 “돈 없어 힘들다” 하소연 했는데…“20억 복권 당첨”",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261008000221"
+          "title": "블랙핑크 제니, 위켄드 공연에 깜짝 등장…노래 끝나자 '뜨거운 포옹' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/09/2026100917090444481"
         },
         {
-          "title": "\"너무 힘듭니다, 부모님\" 산소 찾아 하소연…세트 복권 20억 '대박'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6313687"
+          "title": "팝스타 위켄드, 내한 공연 앞두고 시프트업 사옥 깜짝 방문",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261008125721"
+        }
+      ]
+    },
+    {
+      "id": "김현",
+      "rank": 7,
+      "keyword": "김현",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김현 국회의원 민주당 세월호특위 위원장 연임' (반월신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김현 국회의원 민주당 세월호특위 위원장 연임",
+          "source": "반월신문",
+          "url": "https://www.banwol.net/news/articleView.html?idxno=69972"
+        },
+        {
+          "title": "김현 \"AI 디지털배움터에 411억 투입…구체적 점검 시스템 필요\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/PO0Pr9hDzC"
+        },
+        {
+          "title": "김현 의원 “AI 인재양성 20개 조직·디지털배움터 411억…집행·고용성과 관리 미흡”",
+          "source": "KNS뉴스통신",
+          "url": "https://www.kns.tv/news/articleView.html?idxno=1020327"
+        }
+      ]
+    },
+    {
+      "id": "광주광역시",
+      "rank": 8,
+      "keyword": "광주광역시",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "sbs",
+      "rank": 9,
+      "keyword": "sbs",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Preview of SBS 8 News (October 9)' (news.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Preview of SBS 8 News (October 9)",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008790685"
+        }
+      ]
+    },
+    {
+      "id": "주차",
+      "rank": 10,
+      "keyword": "주차",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '주차장 빈자리 AI가 찾아준다…파킹고, 주차 관제 솔루션 선봬' (산업일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "주차장 빈자리 AI가 찾아준다…파킹고, 주차 관제 솔루션 선봬",
+          "source": "산업일보",
+          "url": "https://kidd.co.kr/news/247669"
+        },
+        {
+          "title": "바이비 관리자앱, 스마트폰만 비추면 지하주차장 불법주차도 단속",
+          "source": "스페셜타임스",
+          "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=468608"
+        },
+        {
+          "title": "부평구, 22개 동 주차환경 전수 점검…정책 기반 마련",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=717916"
         }
       ]
     }
