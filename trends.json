@@ -1,258 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-10T00:16:31.810Z",
+  "updatedAt": "2026-10-10T06:17:56.878Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "축구",
+      "id": "fc-서울-대-제주",
       "rank": 1,
-      "keyword": "축구",
-      "volumeLabel": "10000+",
+      "keyword": "fc 서울 대 제주",
+      "volumeLabel": "20000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '대충격 '은퇴 소동' 아시아 올스타에 3명이나 있는데…태극마크 볼모로 거래, 몇 년째 하나로 뭉치지 못한다' (SPOTV NEWS) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '김기동 서울 감독, '한국 축구 문제점' 질문에 \"나도 전해듣는 상황...확실한 것 없어 말하기 어렵다\"...\"포항전과 다른 모…' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "대충격 '은퇴 소동' 아시아 올스타에 3명이나 있는데…태극마크 볼모로 거래, 몇 년째 하나로 뭉치지 못한다",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1012213"
+          "title": "김기동 서울 감독, '한국 축구 문제점' 질문에 \"나도 전해듣는 상황...확실한 것 없어 말하기 어렵다\"...\"포항전과 다른 모습 보여주길\" [현장 인터뷰] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/10/202610101337775499O"
         },
         {
-          "title": "손흥민·이강인·김민재, 대한민국 자존심 지켰다…亞 현역 베스트11 공개, 일본은 무려 ‘6명’",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99007"
+          "title": "서울 독주에 제동 걸겠다? 클리말라·문선민·정승원 출격...'잡으면 2위' 제주와 정면승부 [오!쎈 서울]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112890814"
         },
         {
-          "title": "손흥민-박지성-김민재, 대한민국 자존심 지켰다...'일본만 6명' 아시아 21세기 베스트 일레븐 공개",
-          "source": "인터풋볼",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=696068"
+          "title": "다시 K리그의 시간…서울, 조기 우승까지 10점",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20261008018900038"
         }
       ]
     },
     {
-      "id": "대한민국-축구-국가대표팀",
+      "id": "어머니",
       "rank": 2,
-      "keyword": "대한민국 축구 국가대표팀",
+      "keyword": "어머니",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"여자는 상주 하면 안 돼\"...엄마 장례 치르던 장녀, 눈물짓게 한 말 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"여자는 상주 하면 안 돼\"...엄마 장례 치르던 장녀, 눈물짓게 한 말 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/10/2026101014093899227"
+        },
+        {
+          "title": "어머니 빈소서 완장 찬 장녀에 \"여자 상주 부적절\"…장례지도사 지적 '시끌'",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6315488"
+        },
+        {
+          "title": "딸 셋 집 장녀가 찬 상주 완장...\"원래 여자는 안 된다\" 핀잔에 터진 분통 [어떻게 생각하세요]",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610091042463001"
+        }
+      ]
+    },
+    {
+      "id": "국채",
+      "rank": 3,
+      "keyword": "국채",
+      "volumeLabel": "5000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'AI 수요 오해 풀렸지만, S&P 신기록 다가섰지만, 또 떨어진 반도체 [김현석의 월스트리트나우]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "AI 수요 오해 풀렸지만, S&P 신기록 다가섰지만, 또 떨어진 반도체 [김현석의 월스트리트나우]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610103221i"
+        },
+        {
+          "title": "뉴욕증시, 기술주 반등·러시아 경유 공급 합의에 상승(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261010006751072"
+        },
+        {
+          "title": "유가·금리 상승에도 기술주 실적 기대감…증시 반등[뉴욕마감] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/10/10/2026101008054812965"
+        }
+      ]
+    },
+    {
+      "id": "투르키스탄-바퀴벌레",
+      "rank": 4,
+      "keyword": "투르키스탄 바퀴벌레",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘단독 1위’ 겨냥! 손흥민, 韓 축구 대역사 이어 메시·호날두 기록 눈앞···두 명의 ‘축구의 신’ 넘을 수 ...' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '중동 출신 바퀴벌레가 부산에 살림을 차렸다…성충·알집 발견' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘단독 1위’ 겨냥! 손흥민, 韓 축구 대역사 이어 메시·호날두 기록 눈앞···두 명의 ‘축구의 신’ 넘을 수 ...",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610100606003"
+          "title": "중동 출신 바퀴벌레가 부산에 살림을 차렸다…성충·알집 발견",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261009054500530"
         },
         {
-          "title": "‘96라인’이 벌인 한밤의 ‘용인 은퇴 소동’, 모레노 감독의 “팀보다 위대한 선수는 없다”가 의미심장하게 들리는 이유",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261008500575"
+          "title": "외래 바퀴벌레 떼에 빈대까지...해충 방역 '비상'",
+          "source": "부산경남대표방송 KNN 뉴스",
+          "url": "https://news.knn.co.kr/news/article/193004"
         },
         {
-          "title": "[사진]오세훈,'뜨거운 환호'",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112888551"
-        }
-      ]
-    },
-    {
-      "id": "서동주",
-      "rank": 3,
-      "keyword": "서동주",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '서동주, 절벽으로 추락해 죽을 뻔.. \"브레이크 대신 액셀 밟았다\"' (미주중앙일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "서동주, 절벽으로 추락해 죽을 뻔.. \"브레이크 대신 액셀 밟았다\"",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261009031128121"
-        },
-        {
-          "title": "서동주 “엑셀 잘못 밟아 절벽으로 추락” 아찔한 사고 고백",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12172538"
-        },
-        {
-          "title": "서동주, 과거 운전 중 절벽 추락…“무서워서 액셀 밟았다”",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10897931"
-        }
-      ]
-    },
-    {
-      "id": "한혜연",
-      "rank": 4,
-      "keyword": "한혜연",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘20kg 감량’ 한혜연, 과감한 레깅스 패션..납작배 뽐내며 “연휴 시작” - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘20kg 감량’ 한혜연, 과감한 레깅스 패션..납작배 뽐내며 “연휴 시작” - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/09/MIZTGZBQHBRWKZDCMQ2WEOJWHE/"
-        },
-        {
-          "title": "한혜연, 이 정도면 ‘뼈말라’…위고비 의혹까지 부른 호피 패션 [IS하이컷]",
-          "source": "일간스포츠",
-          "url": "https://isplus.com/article/view/isp202610070234"
-        },
-        {
-          "title": "한혜연, 20kg 감량 후 이렇게 달라졌다…뼈만 남은 '극세사 각선미'",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112889402"
-        }
-      ]
-    },
-    {
-      "id": "황정음",
-      "rank": 5,
-      "keyword": "황정음",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '황정음, 힘든 시간 눈물 쏙 들어간다..\"멀리서 언제나 응원\" 팬 편지 뭉클' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "황정음, 힘든 시간 눈물 쏙 들어간다..\"멀리서 언제나 응원\" 팬 편지 뭉클",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/10/MEZGCOJRMEYTOOBZMIZDQMRSME/"
-        },
-        {
-          "title": "'30㎏ 감량' 황정음 \"드라마 때문에 미친 듯이 살 뺐는데…'훈남정음' 잘 안돼\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6314880"
-        },
-        {
-          "title": "\"임신 때 '이것' 폭풍흡입 했다가\"...황정음 80kg 찍게 만든 '의외의 복병' [헬스톡]",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610081043486917"
-        }
-      ]
-    },
-    {
-      "id": "여수세계박람회장",
-      "rank": 6,
-      "keyword": "여수세계박람회장",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] 여수 세계 섬 박람회 84%가 무료 관람객' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[단독] 여수 세계 섬 박람회 84%가 무료 관람객",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/10/10/CJMBBNX77BGY7DJB6JSHKV5BKM/"
-        },
-        {
-          "title": "어촌-도시 연결 직거래 장터...\"남도 수산물 판매 촉진\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0115_202610090431093147"
-        },
-        {
-          "title": "[르포] 1850억 쏟은 '세계 최초' 섬박람회…\"정작 섬이 안 보인다\" [축제 공화국의 민낯 ④]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20261008n01675"
-        }
-      ]
-    },
-    {
-      "id": "노윤서",
-      "rank": 7,
-      "keyword": "노윤서",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''산지직송3' 노윤서, 모두가 뺏고 싶어할 다 잘하는 '황금 막내' - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'산지직송3' 노윤서, 모두가 뺏고 싶어할 다 잘하는 '황금 막내' - 머니투데이",
+          "title": "\"못 보던 3cm 바퀴벌레가 바글\"...부산서 외래종 정착 '발칵' - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/09/2026100907007296379"
-        },
-        {
-          "title": "'산지직송3' 정상훈 \"염정아의 귀염둥이\"…메기남 출격 [RE:TV]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6314917"
-        },
-        {
-          "title": "‘언니네 산지직송3’ 강유석,가짜 깁스 깜짝 카메라부터 13m 대형 벽화 작업까지 예측불허",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610100226003"
+          "url": "https://www.mt.co.kr/society/2026/10/10/2026101012525372281"
         }
       ]
     },
     {
-      "id": "홍혜걸",
-      "rank": 8,
-      "keyword": "홍혜걸",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "id": "박종훈",
+      "rank": 5,
+      "keyword": "박종훈",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '여에스더, 홍혜걸 '암살자들' 저격 후폭풍에 분노 \"회사 안 해야겠다\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'SSG, '잠수함 투수' 박종훈과 결별…8명 재계약 불가 통보' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "여에스더, 홍혜걸 '암살자들' 저격 후폭풍에 분노 \"회사 안 해야겠다\"",
+          "title": "SSG, '잠수함 투수' 박종훈과 결별…8명 재계약 불가 통보",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261010028900007"
+        },
+        {
+          "title": "65억 핵잠수함, 결국 살아나지 못했다…SSG, 선수단 정비 단행→8명 재계약 불가 통보 [공식 발표]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112890835"
+        },
+        {
+          "title": "'우승 멤버' 잠수함 투수 박종훈, 17년 몸 담은 SSG에서 방출",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261009_0003820338"
-        },
-        {
-          "title": "여에스더, 홍혜걸 SNS 논란에 회사까지 악플 세례…결국 '회사 매각'까지 선언 ('에스더TV') - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/10/MQ3WKNRYMNSTCNZYGRTDAYZSMY/"
-        },
-        {
-          "title": "“돈 그만 벌겠다” 여에스더 발언 왜?… “고인 모독” 홍혜걸 ‘암살자(들)’ 비판했다 악플러들 부부 공격",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/society/2026/10/10/20261010500004"
+          "url": "https://www.newsis.com/view/NISX20261010_0003820561"
         }
       ]
     },
     {
-      "id": "조선민주주의인민공화국",
-      "rank": 9,
-      "keyword": "조선민주주의인민공화국",
+      "id": "대구-마트",
+      "rank": 6,
+      "keyword": "대구 마트",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '대구 관음동 마트 천장 무너져 60여 명 대피' (YTN) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "대구 관음동 마트 천장 무너져 60여 명 대피",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0115_202610101159241895_005.html"
+        },
+        {
+          "title": "대구 상가 천장 마감재 10초간 ‘와르르’… 38명 부상, 9명 병원행(종합)",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3439170"
+        },
+        {
+          "title": "[속보] 대구서 천장 붕괴 사고···36명 경상, 9명 병원 이송",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610101145001"
+        }
+      ]
+    },
+    {
+      "id": "시카고-컵스",
+      "rank": 7,
+      "keyword": "시카고 컵스",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“지뢰 사과하라” 면전에서 요구하자, 北대사 “정동영도…”' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"도둑 관람, 더는 안돼\" MLB 시카고 컵스, 구장 밖 옥상 관람석 운영주에 승소' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“지뢰 사과하라” 면전에서 요구하자, 北대사 “정동영도…”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20261009/134815008/1"
+          "title": "\"도둑 관람, 더는 안돼\" MLB 시카고 컵스, 구장 밖 옥상 관람석 운영주에 승소",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/10/10/D7VXW6HXMBBI3DTCI5W72SFZ7Y/"
         },
         {
-          "title": "[이슈&한반도] 군, 북한 지뢰 제거 작전…북 “침범하면 무력 대응” 외",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8682227"
+          "title": "'옥상서 야구보려면 허락받아라' MLB 컵스, 업주에 승소",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261010020300007"
         },
         {
-          "title": "北 ’국경선 요새화’ 여전히 진행…사라지는 DMZ 완충지대",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261009095542o6W"
+          "title": "야구장 밖이 ‘명당’이었는데…연매출 13억 옥상 관람석에 제동",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/world/12172680"
+        }
+      ]
+    },
+    {
+      "id": "다시보기",
+      "rank": 8,
+      "keyword": "다시보기",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '조계종, 故 명진스님에 종단 최고 법계 '대종사' 추서' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "조계종, 故 명진스님에 종단 최고 법계 '대종사' 추서",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/life-culture/religion/6315191"
+        },
+        {
+          "title": "8월 입적한 명진 스님, 불교 최고 법계 ‘대종사’ 추서",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/religious/1281502.html"
+        },
+        {
+          "title": "조계종, 故명진스님에 종단 최고 법계 추서",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/culture/12172368"
+        }
+      ]
+    },
+    {
+      "id": "티비",
+      "rank": 9,
+      "keyword": "티비",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Skydance TV: George Cheeks’ Evolution & JB Perrette’s Linear-DTC Job' (Deadline) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Skydance TV: George Cheeks’ Evolution & JB Perrette’s Linear-DTC Job",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/10/skydance-tv-george-cheeks-jb-perrette-responsibilities-1237147315/"
+        },
+        {
+          "title": "Channing Dungey Extends Deal at Skydance As Head of Warner Bros. TV Group and U.S. Networks",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/channing-dungey-deal-skydance-warner-bros-tv-1236906685/"
+        },
+        {
+          "title": "Skydance’s New TV Empire Explained: Who’s in Charge and What May Be Ahead | Analysis",
+          "source": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/tv/skydance-tv-paramount-warner-bros-discovery-merger-analysis/"
+        }
+      ]
+    },
+    {
+      "id": "주식시장",
+      "rank": 10,
+      "keyword": "주식시장",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '한글날 은행·병원·약국·택배 다 쉴까? 10월 9일 연휴에 꼭 확인해야 할 12가지' (네이버 프리미엄콘텐츠) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "한글날 은행·병원·약국·택배 다 쉴까? 10월 9일 연휴에 꼭 확인해야 할 12가지",
+          "source": "네이버 프리미엄콘텐츠",
+          "url": "https://contents.premium.naver.com/firstnews/9firstnews9/contents/261008203958220wl"
+        },
+        {
+          "title": "“가갸날을 아시나요”…한글날 유래와 공휴일 제외 이유",
+          "source": "제주교통복지신문",
+          "url": "https://www.jejutwn.com/news/article.html?no=462890"
+        },
+        {
+          "title": "580돌 맞은 한글날, 국내 주식시장 문 닫고 은행 휴무",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3717069"
         }
       ]
     }
