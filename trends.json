@@ -1,14 +1,154 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-10T12:57:57.120Z",
+  "updatedAt": "2026-10-10T17:47:11.740Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "환경일보",
+      "id": "맨유-대-토트넘",
       "rank": 1,
-      "keyword": "환경일보",
+      "keyword": "맨유 대 토트넘",
+      "volumeLabel": "20000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'A매치 끝나고 꼭 봐야할 유럽 축구 경기 3선' (금강일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "A매치 끝나고 꼭 봐야할 유럽 축구 경기 3선",
+          "source": "금강일보",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1185401"
+        },
+        {
+          "title": "프리미어 리그 맨유 대 토트넘 생중계 링크",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-man-united-vs-tottenham-tai-premier-league-1780840.ldo"
+        },
+        {
+          "title": "페르난드스 맨유, 토트넘전 부상 비상…경기시간·중계는?",
+          "source": "TopStarNews",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16243029"
+        }
+      ]
+    },
+    {
+      "id": "바르셀로나-대-헤타페",
+      "rank": 2,
+      "keyword": "바르셀로나 대 헤타페",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[if.preview] ‘에이스’ 야말, 헤타페의 ‘밀집 수비’ 뚫고 개막 8연승 이끌까?' (포포투) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[if.preview] ‘에이스’ 야말, 헤타페의 ‘밀집 수비’ 뚫고 개막 8연승 이끌까?",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99091"
+        },
+        {
+          "title": "“하피냐는 다음 경기까지도 뛸 수 없다”… 바르셀로나에 들려온 비보, 한지 플릭 감독이 내세운 대체자는 제수스",
+          "source": "베스트일레븐",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=312985"
+        },
+        {
+          "title": "한시 플릭 감독은 라피냐가 브라질 국가대표팀에서 과도한 훈련을 받고 있는 것에 대해 격분했다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/hansi-flick-noi-gian-khi-raphinha-bi-vat-kiet-suc-o-tuyen-brazil"
+        }
+      ]
+    },
+    {
+      "id": "man-utd-vs-spurs",
+      "rank": 3,
+      "keyword": "man utd vs spurs",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Manchester United vs Tottenham Hotspur: Premier League preview, team ne…' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Manchester United vs Tottenham Hotspur: Premier League preview, team news, stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cmpwgrrx0nqpt"
+        },
+        {
+          "title": "Premier League predictions & Jones Knows' best bets: Liverpool vs Manchester City, Manchester United vs Tottenham and more",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/13591795/premier-league-predictions-and-jones-knows-best-bets-liverpool-vs-manchester-city-manchester-united-vs-tottenham-and-more"
+        },
+        {
+          "title": "Manchester United v Tottenham: Premier League – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/oct/10/manchester-united-v-tottenham-premier-league-live"
+        }
+      ]
+    },
+    {
+      "id": "barcelona-vs-getafe",
+      "rank": 4,
+      "keyword": "barcelona vs getafe",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Alineación confirmada del Barcelona vs Getafe: Gabriel Jesús debuta com…' (365Scores) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Alineación confirmada del Barcelona vs Getafe: Gabriel Jesús debuta como titular",
+          "source": "365Scores",
+          "url": "https://www.365scores.com/es/news/alineacion-confirmada-barcelona-getafe/"
+        },
+        {
+          "title": "⚽ SKY Sports EN VIVO por Internet — cómo ver partido FC Barcelona vs. Getafe CF por Fútbol TV y SKY Plus Online",
+          "source": "Gestión",
+          "url": "https://gestion.pe/mix/sports/sky-sports-en-vivo-por-internet-como-ver-partido-fc-barcelona-vs-getafe-cf-por-futbol-tv-y-sky-plus-online-nnda-nnrt-noticia/"
+        },
+        {
+          "title": "Choque de contradicciones en el Camp Nou entre Barcelona y Getafe",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/es/noticias/choque-de-contradicciones-en-el-camp-nou-entre-barcelona-y-getafe-43588650"
+        }
+      ]
+    },
+    {
+      "id": "man-utd-đấu-với-tottenham",
+      "rank": 5,
+      "keyword": "man utd đấu với tottenham",
       "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Trực tiếp bóng đá MU - Tottenham: \"Quỷ đỏ\" vất vả chống đỡ (Ngoại hạng …' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Trực tiếp bóng đá MU - Tottenham: \"Quỷ đỏ\" vất vả chống đỡ (Ngoại hạng Anh)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-mu-tottenham-dai-chien-giai-cuu-ghe-nong-ngoai-hang-anh-c48a1801631.html"
+        },
+        {
+          "title": "Chiếc ghế của Carrick chao đảo",
+          "source": "Znews",
+          "url": "https://lifestyle.zingnews.vn/chiec-ghe-cua-carrick-chao-dao-post1688755.html"
+        },
+        {
+          "title": "סקירה מקדימה של מנצ'סטר יונייטד נגד טוטנהאם: נושא חם במרוץ לצמרת",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/he/nhan-dinh-manchester-united-vs-tottenham-diem-nong-cuoc-dua-top-dau"
+        }
+      ]
+    },
+    {
+      "id": "스포츠-중계",
+      "rank": 6,
+      "keyword": "스포츠 중계",
+      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
@@ -17,90 +157,11 @@
       "newsSignals": []
     },
     {
-      "id": "노웅래",
-      "rank": 2,
-      "keyword": "노웅래",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘정치자금 수수’ 무죄 노웅래, “전과 16범” 발언에 명예훼손 벌금형 확정' (동아일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘정치자금 수수’ 무죄 노웅래, “전과 16범” 발언에 명예훼손 벌금형 확정",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261010/134817862/2"
-        },
-        {
-          "title": "'뇌물수수 무죄' 노웅래, \"전과 16범\" 발언 명예훼손 벌금형 확정",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/court-prosecution/6315656"
-        },
-        {
-          "title": "'정치자금 수수' 무죄 노웅래 前의원, '명예훼손' 벌금형 확정",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261010_0003820626"
-        }
-      ]
-    },
-    {
-      "id": "사미자",
-      "rank": 3,
-      "keyword": "사미자",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '사미자, 진짜 며느리 눈치도 안 보나..윤유선에 또 며느리 욕심 \"서운해 하지 않나\"' (스포츠조선) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "사미자, 진짜 며느리 눈치도 안 보나..윤유선에 또 며느리 욕심 \"서운해 하지 않나\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-10-09/202610090100061860003974"
-        },
-        {
-          "title": "사미자 “이 새X는 지금” 진짜 며느리 두고, 욕심 나는 윤유선에 며느리 플러팅ing(오미자)",
-          "source": "뉴스엔",
-          "url": "https://www.newsen.com/news_view.php?uid=202610101006442110&code=100100"
-        }
-      ]
-    },
-    {
-      "id": "위조",
-      "rank": 4,
-      "keyword": "위조",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '컬러 프린터로 5만원권 위조지폐 20장 제작한 20대…항소심도 실형' (동아일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "컬러 프린터로 5만원권 위조지폐 20장 제작한 20대…항소심도 실형",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261010/134817751/2"
-        },
-        {
-          "title": "집에서 5만원권 위조해 편의점서 사용…20대 항소심도 징역 2년",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261010580035"
-        },
-        {
-          "title": "‘컬러프린터로 5만원권 위조’ 20대, 항소 기각… 원심 징역 2년 유지",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1772248"
-        }
-      ]
-    },
-    {
-      "id": "อาร-เซนอล-พบ-ล-ดส",
-      "rank": 5,
-      "keyword": "อาร เซนอล พบ ล ดส",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "id": "แมนย-พบ-สเปอร-ส",
+      "rank": 7,
+      "keyword": "แมนย พบ สเปอร ส",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 'เดอ แซร์บี และ \"เกมสุดท้าย\" ของเขา ขณะที่ท็อตแนมพบกับแมนเชสเตอร์ ยูไนเต…' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
@@ -112,9 +173,9 @@
           "url": "https://www.vietnam.vn/th/de-zerbi-va-tran-dau-cuoi-cung-khi-tottenham-gap-man-united"
         },
         {
-          "title": "ผีจะหลอนหรือไก่จะจิก! วิเคราะห์บอล แมนยู พบ สเปอร์ส ฟุตบอลพรีเมียร์ลีก 2026/27 นัดที่ 6 | Soccersuck",
-          "source": "LINE TODAY",
-          "url": "https://today.line.me/th/v3/article/1DPZqW2"
+          "title": "~$!+!$[[ถ่ายทอดสด@สตรีม]] พรีเมียร์ลีก บอลสดวันนี้",
+          "source": "Узнай Москву",
+          "url": "https://um.mos.ru/uploads/virtual_tours/lefortovo/Lefortovo/Lefortovo.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2R1a2Vucmd5MTQ3LmdpdGh1Yi5pby9uZXdzLyIvPjwva3JwYW5vPg==&id=strong-chelsea-brounmoth-live-th-98352744"
         },
         {
           "title": "ลิ้งค์ดูสดวันนี้ 'แมนยู พบ สเปอร์ส' ดูบอลสด พรีเมียร์ลีก อังกฤษ",
@@ -124,142 +185,86 @@
       ]
     },
     {
-      "id": "상장지수-펀드",
-      "rank": 6,
-      "keyword": "상장지수 펀드",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"제2의 엔비디아 놓칠라\"…상장 전인데 개미들 벌써 '들썩' [이수의 ETF줌인]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"제2의 엔비디아 놓칠라\"…상장 전인데 개미들 벌써 '들썩' [이수의 ETF줌인]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026100813616"
-        },
-        {
-          "title": "'반도체 밸류체인 투자' 등 ETF 4종 13일 신규 상장",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261008157800008"
-        },
-        {
-          "title": "'SOL 글로벌DRAM반도체플러스'ETF, 상장일 개인순매수 몰렸다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/08/2026100809480622350"
-        }
-      ]
-    },
-    {
-      "id": "여자-축구",
-      "rank": 7,
-      "keyword": "여자 축구",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '2026년 여자 축구 전국 선수권 대회의 2차전이 시작됩니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "2026년 여자 축구 전국 선수권 대회의 2차전이 시작됩니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/khai-dien-giai-doan-hai-giai-bong-da-nu-vo-dich-quoc-gia-2026"
-        },
-        {
-          "title": "2026년 여자 축구 국가대표팀 11라운드 순위",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/bang-xep-hang-vong-11-giai-bong-da-nu-vdqg-2026"
-        },
-        {
-          "title": "호치민시 FC I이 탄 KSVN을 꺾고 전국 선수권 대회 선두 자리를 지켰습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/clb-tp-hcm-i-danh-bai-than-ksvn-tiep-tuc-dung-dau-giai-vo-dich-quoc-gia"
-        }
-      ]
-    },
-    {
-      "id": "첼시",
+      "id": "나는-solo-그-후-사랑은-계속된다",
       "rank": 8,
-      "keyword": "첼시",
+      "keyword": "나는 solo 그 후 사랑은 계속된다",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[오피셜] '맨시티 떠난 건 신의 한 수'...알론소 아래 부활한 팔머, 첼시와 2034년까지 장기 동행! \"재계약 당연했어\"' (인터풋볼) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''나솔사계' 미스터서, 14기 영자에 싹싹 빈다…꽃다발 들고 최종 선택 전 총력전' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[오피셜] '맨시티 떠난 건 신의 한 수'...알론소 아래 부활한 팔머, 첼시와 2034년까지 장기 동행! \"재계약 당연했어\"",
-          "source": "인터풋볼",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=696138"
+          "title": "'나솔사계' 미스터서, 14기 영자에 싹싹 빈다…꽃다발 들고 최종 선택 전 총력전",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6315547"
         },
         {
-          "title": "첼시 FC, GAC와 새로운 글로벌 파트너십 발표",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/ALSX20261010_0000007802"
+          "title": "[다시보기] 나는 SOLO, 그 후 사랑은 계속된다 186회",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/plus/loveforever/vod/74494/22000637522"
         },
         {
-          "title": "첼시, 4년 전 바르셀로나에 뺏겼던 ‘만능 수비수’ 다시 노린다...이적료는 최소 ‘750억’",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99074"
+          "title": "26기 정숙, 한밤중 미스터 최 앞 눈물 \"무슨 생각까지 했냐면…\" (나솔사계) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/10/10/MUZTSNJRGZTDSM3EHE2DMMBXGY/"
         }
       ]
     },
     {
-      "id": "arsenal-đấu-với-leeds",
+      "id": "논술",
       "rank": 9,
-      "keyword": "arsenal đấu với leeds",
-      "volumeLabel": "200+",
+      "keyword": "논술",
+      "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Trực tiếp bóng đá Arsenal - Leeds United: Ăn miếng trả miếng (Ngoại hạn…' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '논술 시험 마치고 대학교 나서는 수험생들' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Trực tiếp bóng đá Arsenal - Leeds United: Ăn miếng trả miếng (Ngoại hạng Anh)",
-          "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-arsenal-leeds-united-phao-thu-coi-chung-ngoai-hang-anh-c48a1801490.html"
+          "title": "논술 시험 마치고 대학교 나서는 수험생들",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261010_0021483222"
         },
         {
-          "title": "Arsenal – Leeds, thuốc thử cho chiều sâu lực lượng của HLV Arteta",
-          "source": "BÁO SÀI GÒN GIẢI PHÓNG",
-          "url": "https://www.sggp.org.vn/arsenal-leeds-thuoc-thu-cho-chieu-sau-luc-luong-cua-hlv-arteta-post875882.html"
+          "title": "[포토] 연세대, 수시모집 논술 시험 실시",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261010500184"
         },
         {
-          "title": "Declan Rice báo tin vui cho Arsenal, Kai Havertz bỏ ngỏ khả năng",
-          "source": "Bongda24h",
-          "url": "https://bongda24h.vn/bong-da-anh/declan-rice-bao-tin-vui-cho-arsenal-kai-havertz-bo-ngo-kha-nang-ra-san-172-461838.html"
+          "title": "연세대 수시 논술시험 실시… 과학논술 도입 첫해",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026101016360001921"
         }
       ]
     },
     {
-      "id": "pl",
+      "id": "브라이튼",
       "rank": 10,
-      "keyword": "pl",
-      "volumeLabel": "200+",
+      "keyword": "브라이튼",
+      "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Polskie Radio: są cięcia w budżecie UE, ale nie dla Polski' (Polskie Radio 24) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '프리미어 리그 선덜랜드 대 브라이튼 축구 예측' (Laodong.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Polskie Radio: są cięcia w budżecie UE, ale nie dla Polski",
-          "source": "Polskie Radio 24",
-          "url": "https://polskieradio24.pl/swiat/polskie-radio-sa-ciecia-w-budzecie-ue-ale-nie-dla-polski"
+          "title": "프리미어 리그 선덜랜드 대 브라이튼 축구 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-sunderland-vs-brighton-tai-premier-league-1780672.ldo"
         },
         {
-          "title": "Limit 100 tys. euro i \"wspólny worek\". Nowa WPR wisi na budżecie UE. Kolejne decyzje w sobotę",
-          "source": "Wieści Rolnicze",
-          "url": "https://wiescirolnicze.pl/polityka-rolna/limit-100-tys-euro-i-wspolny-worek-nowa-wpr-wisi-na-budzecie-ue-kolejne-decyzje-w-sobote,34446/"
+          "title": "선덜랜드 vs 브라이튼 경기 예측: 선두 자리를 노릴 기회",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-sunderland-vs-brighton-co-hoi-bam-duoi-ngoi-dau"
         },
         {
-          "title": "Niemczycki: Polska utrzymuje największą alokację w przyszłym budżecie UE",
-          "source": "Polska Agencja Prasowa SA",
-          "url": "https://www.pap.pl/aktualnosci/niemczycki-polska-utrzymuje-najwieksza-alokacje-w-przyszlym-budzecie-ue"
+          "title": "'미친 가성비 구단' 브라이튼, '한국의 메시' 윤도영 이렇게 영입했다…BBC가 살짝 공개한 '영업 비밀'",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/football/2026-10-09/202610090100059380003777"
         }
       ]
     }
