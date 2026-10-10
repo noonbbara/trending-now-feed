@@ -1,286 +1,265 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-10T06:17:56.878Z",
+  "updatedAt": "2026-10-10T12:57:57.120Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "fc-서울-대-제주",
+      "id": "환경일보",
       "rank": 1,
-      "keyword": "fc 서울 대 제주",
-      "volumeLabel": "20000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김기동 서울 감독, '한국 축구 문제점' 질문에 \"나도 전해듣는 상황...확실한 것 없어 말하기 어렵다\"...\"포항전과 다른 모…' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김기동 서울 감독, '한국 축구 문제점' 질문에 \"나도 전해듣는 상황...확실한 것 없어 말하기 어렵다\"...\"포항전과 다른 모습 보여주길\" [현장 인터뷰] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/10/202610101337775499O"
-        },
-        {
-          "title": "서울 독주에 제동 걸겠다? 클리말라·문선민·정승원 출격...'잡으면 2위' 제주와 정면승부 [오!쎈 서울]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112890814"
-        },
-        {
-          "title": "다시 K리그의 시간…서울, 조기 우승까지 10점",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20261008018900038"
-        }
-      ]
-    },
-    {
-      "id": "어머니",
-      "rank": 2,
-      "keyword": "어머니",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"여자는 상주 하면 안 돼\"...엄마 장례 치르던 장녀, 눈물짓게 한 말 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"여자는 상주 하면 안 돼\"...엄마 장례 치르던 장녀, 눈물짓게 한 말 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/10/2026101014093899227"
-        },
-        {
-          "title": "어머니 빈소서 완장 찬 장녀에 \"여자 상주 부적절\"…장례지도사 지적 '시끌'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6315488"
-        },
-        {
-          "title": "딸 셋 집 장녀가 찬 상주 완장...\"원래 여자는 안 된다\" 핀잔에 터진 분통 [어떻게 생각하세요]",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610091042463001"
-        }
-      ]
-    },
-    {
-      "id": "국채",
-      "rank": 3,
-      "keyword": "국채",
-      "volumeLabel": "5000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'AI 수요 오해 풀렸지만, S&P 신기록 다가섰지만, 또 떨어진 반도체 [김현석의 월스트리트나우]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "AI 수요 오해 풀렸지만, S&P 신기록 다가섰지만, 또 떨어진 반도체 [김현석의 월스트리트나우]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610103221i"
-        },
-        {
-          "title": "뉴욕증시, 기술주 반등·러시아 경유 공급 합의에 상승(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/amp/view/AKR20261010006751072"
-        },
-        {
-          "title": "유가·금리 상승에도 기술주 실적 기대감…증시 반등[뉴욕마감] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/10/10/2026101008054812965"
-        }
-      ]
-    },
-    {
-      "id": "투르키스탄-바퀴벌레",
-      "rank": 4,
-      "keyword": "투르키스탄 바퀴벌레",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '중동 출신 바퀴벌레가 부산에 살림을 차렸다…성충·알집 발견' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "중동 출신 바퀴벌레가 부산에 살림을 차렸다…성충·알집 발견",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261009054500530"
-        },
-        {
-          "title": "외래 바퀴벌레 떼에 빈대까지...해충 방역 '비상'",
-          "source": "부산경남대표방송 KNN 뉴스",
-          "url": "https://news.knn.co.kr/news/article/193004"
-        },
-        {
-          "title": "\"못 보던 3cm 바퀴벌레가 바글\"...부산서 외래종 정착 '발칵' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/10/2026101012525372281"
-        }
-      ]
-    },
-    {
-      "id": "박종훈",
-      "rank": 5,
-      "keyword": "박종훈",
+      "keyword": "환경일보",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'SSG, '잠수함 투수' 박종훈과 결별…8명 재계약 불가 통보' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "SSG, '잠수함 투수' 박종훈과 결별…8명 재계약 불가 통보",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261010028900007"
-        },
-        {
-          "title": "65억 핵잠수함, 결국 살아나지 못했다…SSG, 선수단 정비 단행→8명 재계약 불가 통보 [공식 발표]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112890835"
-        },
-        {
-          "title": "'우승 멤버' 잠수함 투수 박종훈, 17년 몸 담은 SSG에서 방출",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261010_0003820561"
-        }
-      ]
+      "newsSignals": []
     },
     {
-      "id": "대구-마트",
-      "rank": 6,
-      "keyword": "대구 마트",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '대구 관음동 마트 천장 무너져 60여 명 대피' (YTN) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "대구 관음동 마트 천장 무너져 60여 명 대피",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0115_202610101159241895_005.html"
-        },
-        {
-          "title": "대구 상가 천장 마감재 10초간 ‘와르르’… 38명 부상, 9명 병원행(종합)",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3439170"
-        },
-        {
-          "title": "[속보] 대구서 천장 붕괴 사고···36명 경상, 9명 병원 이송",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610101145001"
-        }
-      ]
-    },
-    {
-      "id": "시카고-컵스",
-      "rank": 7,
-      "keyword": "시카고 컵스",
-      "volumeLabel": "200+",
+      "id": "노웅래",
+      "rank": 2,
+      "keyword": "노웅래",
+      "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"도둑 관람, 더는 안돼\" MLB 시카고 컵스, 구장 밖 옥상 관람석 운영주에 승소' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘정치자금 수수’ 무죄 노웅래, “전과 16범” 발언에 명예훼손 벌금형 확정' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"도둑 관람, 더는 안돼\" MLB 시카고 컵스, 구장 밖 옥상 관람석 운영주에 승소",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/10/10/D7VXW6HXMBBI3DTCI5W72SFZ7Y/"
+          "title": "‘정치자금 수수’ 무죄 노웅래, “전과 16범” 발언에 명예훼손 벌금형 확정",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261010/134817862/2"
         },
         {
-          "title": "'옥상서 야구보려면 허락받아라' MLB 컵스, 업주에 승소",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261010020300007"
-        },
-        {
-          "title": "야구장 밖이 ‘명당’이었는데…연매출 13억 옥상 관람석에 제동",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/world/12172680"
-        }
-      ]
-    },
-    {
-      "id": "다시보기",
-      "rank": 8,
-      "keyword": "다시보기",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '조계종, 故 명진스님에 종단 최고 법계 '대종사' 추서' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "조계종, 故 명진스님에 종단 최고 법계 '대종사' 추서",
+          "title": "'뇌물수수 무죄' 노웅래, \"전과 16범\" 발언 명예훼손 벌금형 확정",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/life-culture/religion/6315191"
+          "url": "https://www.news1.kr/society/court-prosecution/6315656"
         },
         {
-          "title": "8월 입적한 명진 스님, 불교 최고 법계 ‘대종사’ 추서",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/religious/1281502.html"
-        },
-        {
-          "title": "조계종, 故명진스님에 종단 최고 법계 추서",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/culture/12172368"
+          "title": "'정치자금 수수' 무죄 노웅래 前의원, '명예훼손' 벌금형 확정",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261010_0003820626"
         }
       ]
     },
     {
-      "id": "티비",
-      "rank": 9,
-      "keyword": "티비",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Skydance TV: George Cheeks’ Evolution & JB Perrette’s Linear-DTC Job' (Deadline) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Skydance TV: George Cheeks’ Evolution & JB Perrette’s Linear-DTC Job",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/10/skydance-tv-george-cheeks-jb-perrette-responsibilities-1237147315/"
-        },
-        {
-          "title": "Channing Dungey Extends Deal at Skydance As Head of Warner Bros. TV Group and U.S. Networks",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/channing-dungey-deal-skydance-warner-bros-tv-1236906685/"
-        },
-        {
-          "title": "Skydance’s New TV Empire Explained: Who’s in Charge and What May Be Ahead | Analysis",
-          "source": "TheWrap",
-          "url": "https://www.thewrap.com/media-platforms/tv/skydance-tv-paramount-warner-bros-discovery-merger-analysis/"
-        }
-      ]
-    },
-    {
-      "id": "주식시장",
-      "rank": 10,
-      "keyword": "주식시장",
-      "volumeLabel": "100+",
+      "id": "사미자",
+      "rank": 3,
+      "keyword": "사미자",
+      "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한글날 은행·병원·약국·택배 다 쉴까? 10월 9일 연휴에 꼭 확인해야 할 12가지' (네이버 프리미엄콘텐츠) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '사미자, 진짜 며느리 눈치도 안 보나..윤유선에 또 며느리 욕심 \"서운해 하지 않나\"' (스포츠조선) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "한글날 은행·병원·약국·택배 다 쉴까? 10월 9일 연휴에 꼭 확인해야 할 12가지",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/firstnews/9firstnews9/contents/261008203958220wl"
+          "title": "사미자, 진짜 며느리 눈치도 안 보나..윤유선에 또 며느리 욕심 \"서운해 하지 않나\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-10-09/202610090100061860003974"
         },
         {
-          "title": "“가갸날을 아시나요”…한글날 유래와 공휴일 제외 이유",
-          "source": "제주교통복지신문",
-          "url": "https://www.jejutwn.com/news/article.html?no=462890"
+          "title": "사미자 “이 새X는 지금” 진짜 며느리 두고, 욕심 나는 윤유선에 며느리 플러팅ing(오미자)",
+          "source": "뉴스엔",
+          "url": "https://www.newsen.com/news_view.php?uid=202610101006442110&code=100100"
+        }
+      ]
+    },
+    {
+      "id": "위조",
+      "rank": 4,
+      "keyword": "위조",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '컬러 프린터로 5만원권 위조지폐 20장 제작한 20대…항소심도 실형' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "컬러 프린터로 5만원권 위조지폐 20장 제작한 20대…항소심도 실형",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261010/134817751/2"
         },
         {
-          "title": "580돌 맞은 한글날, 국내 주식시장 문 닫고 은행 휴무",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3717069"
+          "title": "집에서 5만원권 위조해 편의점서 사용…20대 항소심도 징역 2년",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261010580035"
+        },
+        {
+          "title": "‘컬러프린터로 5만원권 위조’ 20대, 항소 기각… 원심 징역 2년 유지",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1772248"
+        }
+      ]
+    },
+    {
+      "id": "อาร-เซนอล-พบ-ล-ดส",
+      "rank": 5,
+      "keyword": "อาร เซนอล พบ ล ดส",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'เดอ แซร์บี และ \"เกมสุดท้าย\" ของเขา ขณะที่ท็อตแนมพบกับแมนเชสเตอร์ ยูไนเต…' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "เดอ แซร์บี และ \"เกมสุดท้าย\" ของเขา ขณะที่ท็อตแนมพบกับแมนเชสเตอร์ ยูไนเต็ด",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/de-zerbi-va-tran-dau-cuoi-cung-khi-tottenham-gap-man-united"
+        },
+        {
+          "title": "ผีจะหลอนหรือไก่จะจิก! วิเคราะห์บอล แมนยู พบ สเปอร์ส ฟุตบอลพรีเมียร์ลีก 2026/27 นัดที่ 6 | Soccersuck",
+          "source": "LINE TODAY",
+          "url": "https://today.line.me/th/v3/article/1DPZqW2"
+        },
+        {
+          "title": "ลิ้งค์ดูสดวันนี้ 'แมนยู พบ สเปอร์ส' ดูบอลสด พรีเมียร์ลีก อังกฤษ",
+          "source": "bangkokbiznews",
+          "url": "https://www.bangkokbiznews.com/news/sport/1255839"
+        }
+      ]
+    },
+    {
+      "id": "상장지수-펀드",
+      "rank": 6,
+      "keyword": "상장지수 펀드",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"제2의 엔비디아 놓칠라\"…상장 전인데 개미들 벌써 '들썩' [이수의 ETF줌인]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"제2의 엔비디아 놓칠라\"…상장 전인데 개미들 벌써 '들썩' [이수의 ETF줌인]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026100813616"
+        },
+        {
+          "title": "'반도체 밸류체인 투자' 등 ETF 4종 13일 신규 상장",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261008157800008"
+        },
+        {
+          "title": "'SOL 글로벌DRAM반도체플러스'ETF, 상장일 개인순매수 몰렸다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/10/08/2026100809480622350"
+        }
+      ]
+    },
+    {
+      "id": "여자-축구",
+      "rank": 7,
+      "keyword": "여자 축구",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '2026년 여자 축구 전국 선수권 대회의 2차전이 시작됩니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "2026년 여자 축구 전국 선수권 대회의 2차전이 시작됩니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/khai-dien-giai-doan-hai-giai-bong-da-nu-vo-dich-quoc-gia-2026"
+        },
+        {
+          "title": "2026년 여자 축구 국가대표팀 11라운드 순위",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/bang-xep-hang-vong-11-giai-bong-da-nu-vdqg-2026"
+        },
+        {
+          "title": "호치민시 FC I이 탄 KSVN을 꺾고 전국 선수권 대회 선두 자리를 지켰습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/clb-tp-hcm-i-danh-bai-than-ksvn-tiep-tuc-dung-dau-giai-vo-dich-quoc-gia"
+        }
+      ]
+    },
+    {
+      "id": "첼시",
+      "rank": 8,
+      "keyword": "첼시",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[오피셜] '맨시티 떠난 건 신의 한 수'...알론소 아래 부활한 팔머, 첼시와 2034년까지 장기 동행! \"재계약 당연했어\"' (인터풋볼) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[오피셜] '맨시티 떠난 건 신의 한 수'...알론소 아래 부활한 팔머, 첼시와 2034년까지 장기 동행! \"재계약 당연했어\"",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=696138"
+        },
+        {
+          "title": "첼시 FC, GAC와 새로운 글로벌 파트너십 발표",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/ALSX20261010_0000007802"
+        },
+        {
+          "title": "첼시, 4년 전 바르셀로나에 뺏겼던 ‘만능 수비수’ 다시 노린다...이적료는 최소 ‘750억’",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99074"
+        }
+      ]
+    },
+    {
+      "id": "arsenal-đấu-với-leeds",
+      "rank": 9,
+      "keyword": "arsenal đấu với leeds",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Trực tiếp bóng đá Arsenal - Leeds United: Ăn miếng trả miếng (Ngoại hạn…' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Trực tiếp bóng đá Arsenal - Leeds United: Ăn miếng trả miếng (Ngoại hạng Anh)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-arsenal-leeds-united-phao-thu-coi-chung-ngoai-hang-anh-c48a1801490.html"
+        },
+        {
+          "title": "Arsenal – Leeds, thuốc thử cho chiều sâu lực lượng của HLV Arteta",
+          "source": "BÁO SÀI GÒN GIẢI PHÓNG",
+          "url": "https://www.sggp.org.vn/arsenal-leeds-thuoc-thu-cho-chieu-sau-luc-luong-cua-hlv-arteta-post875882.html"
+        },
+        {
+          "title": "Declan Rice báo tin vui cho Arsenal, Kai Havertz bỏ ngỏ khả năng",
+          "source": "Bongda24h",
+          "url": "https://bongda24h.vn/bong-da-anh/declan-rice-bao-tin-vui-cho-arsenal-kai-havertz-bo-ngo-kha-nang-ra-san-172-461838.html"
+        }
+      ]
+    },
+    {
+      "id": "pl",
+      "rank": 10,
+      "keyword": "pl",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Polskie Radio: są cięcia w budżecie UE, ale nie dla Polski' (Polskie Radio 24) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Polskie Radio: są cięcia w budżecie UE, ale nie dla Polski",
+          "source": "Polskie Radio 24",
+          "url": "https://polskieradio24.pl/swiat/polskie-radio-sa-ciecia-w-budzecie-ue-ale-nie-dla-polski"
+        },
+        {
+          "title": "Limit 100 tys. euro i \"wspólny worek\". Nowa WPR wisi na budżecie UE. Kolejne decyzje w sobotę",
+          "source": "Wieści Rolnicze",
+          "url": "https://wiescirolnicze.pl/polityka-rolna/limit-100-tys-euro-i-wspolny-worek-nowa-wpr-wisi-na-budzecie-ue-kolejne-decyzje-w-sobote,34446/"
+        },
+        {
+          "title": "Niemczycki: Polska utrzymuje największą alokację w przyszłym budżecie UE",
+          "source": "Polska Agencja Prasowa SA",
+          "url": "https://www.pap.pl/aktualnosci/niemczycki-polska-utrzymuje-najwieksza-alokacje-w-przyszlym-budzecie-ue"
         }
       ]
     }
