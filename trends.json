@@ -1,286 +1,281 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-11T13:57:00.911Z",
+  "updatedAt": "2026-10-11T18:46:36.363Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "한화-이글스",
+      "id": "청년",
       "rank": 1,
-      "keyword": "한화 이글스",
+      "keyword": "청년",
       "volumeLabel": "5000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "5시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '19년만의 KS, 문현빈과 허인서...김경문의 한화 3년, 실패한 시간이었을까' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '정부는 안정적인 계란 공급을 위해 신선란 수입선을 다변화해 왔습니다.' (정책브리핑) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "19년만의 KS, 문현빈과 허인서...김경문의 한화 3년, 실패한 시간이었을까",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/11/GZTDKMJTHA3DSMZYMM3TCNRVMM/"
+          "title": "정부는 안정적인 계란 공급을 위해 신선란 수입선을 다변화해 왔습니다.",
+          "source": "정책브리핑",
+          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148973280"
         },
         {
-          "title": "MOON도 못 비켜간 ‘1000승 명장의 무덤’",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610112100016"
+          "title": "'연 수익률 19.4%' 청년미래적금, 출생연도 관계없이 신청",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01433366645611936&mediaCodeNo=257"
         },
         {
-          "title": "'KS 준우승' 감독도 9위 추락에 결별→'7-7-7(8)위' 롯데 김태형, 재계약 명분 있나 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/11/2026101107421339857"
+          "title": "매월 50만원 넣고 2255만원…내일부터 딱 닷새간 '연 최대 19.4% 금리' 적금 가입 효과",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261011000093"
         }
       ]
     },
     {
-      "id": "weather-tomorrow",
+      "id": "황희찬",
       "rank": 2,
-      "keyword": "weather tomorrow",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "keyword": "황희찬",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Updated Weather Forecasts for Giants, Steelers, NFL Games Impacted by H…' (Bleacher Report) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘96 라인’ 3인방, 진짜 원하는 게 무엇인가? 대표팀 은퇴로 원하는 바를 흥정했다면 큰 오산이다…‘태극마크’는 결코 흥정, …' (세계일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Updated Weather Forecasts for Giants, Steelers, NFL Games Impacted by Hurricane Isaias Remnants",
-          "source": "Bleacher Report",
-          "url": "https://bleacherreport.com/articles/25508639-updated-weather-forecasts-giants-steelers-nfl-games-impacted-hurricane-isaias-remnants"
+          "title": "‘96 라인’ 3인방, 진짜 원하는 게 무엇인가? 대표팀 은퇴로 원하는 바를 흥정했다면 큰 오산이다…‘태극마크’는 결코 흥정, 거래의 대상이 될 수 없다",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261009502745"
         },
         {
-          "title": "Jets vs Browns Game Day Forecast",
-          "source": "Gang Green Nation",
-          "url": "https://www.ganggreennation.com/new-york-jets-game-information/97421/jets-vs-browns-game-day-forecast"
+          "title": "[이원홍의 스포트라이트]철없는 언행, 자중지란… 혼돈의 한국 축구",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Opinion/article/all/20261011/134822048/2"
         },
         {
-          "title": "NFL Week 5 Weather Conditions (Fantasy Football)",
-          "source": "Fantasy Footballers Podcast",
-          "url": "https://www.thefantasyfootballers.com/analysis/nfl-week-5-weather-conditions-fantasy-football-6/"
+          "title": "\"김민재 은퇴해라\"…뮌헨 SNS에 비난 댓글 잇달아",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261011155212ef5"
         }
       ]
     },
     {
-      "id": "유현-조",
+      "id": "liverpool-vs-man-city",
       "rank": 3,
-      "keyword": "유현 조",
+      "keyword": "liverpool vs man city",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "4시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '안지현 버디 11개 폭풍 추격에도 … 유현조, 1점 차 극적 승부로 통산 4승' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Man City cruise to statement win over 10-man Liverpool' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "안지현 버디 11개 폭풍 추격에도 … 유현조, 1점 차 극적 승부로 통산 4승",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/golf/2026/10/11/KPB7B6PQTFFHVDZIG3CAWVAGO4/"
+          "title": "Man City cruise to statement win over 10-man Liverpool",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cr3el8xwnnxkt"
         },
         {
-          "title": "유현조, 여자골프 HJ중공업·동부건설 챔피언십 우승…시즌 2승",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261011035200007"
+          "title": "Liverpool 0-3 Man City highlights",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/13592734/liverpool-vs-man-city-live-premier-league-score-updates-news-prediction-lineups-and-how-to-watch-or-stream"
         },
         {
-          "title": "[오늘의 영상] 황홀한 버디…짜릿한 시즌 2승",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8682617"
+          "title": "Confirmed Liverpool line-up v Manchester City",
+          "source": "Liverpool FC",
+          "url": "https://www.liverpoolfc.com/news/confirmed-liverpool-line-up-v-manchester-city"
         }
       ]
     },
     {
-      "id": "pak-vs-sl",
+      "id": "f1",
       "rank": 4,
-      "keyword": "pak vs sl",
+      "keyword": "f1",
       "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "5시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'PAK vs SL 2026/27, PAK vs SL 2nd T20I Match Preview - Sri Lanka hope to…' (Cricinfo) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Kim Kardashian and Martin Brundle bury the hatchet after infamous grid-…' (The Telegraph) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "PAK vs SL 2026/27, PAK vs SL 2nd T20I Match Preview - Sri Lanka hope to get out of T20I rut and keep series alive",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/sri-lanka-in-pakistan-2026-27-1550703/pakistan-vs-sri-lanka-2nd-t20i-1550709/match-preview"
+          "title": "Kim Kardashian and Martin Brundle bury the hatchet after infamous grid-walk snub",
+          "source": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/formula-1/2026/10/11/kim-kardashian-and-martin-brundle-bury-the-hatchet/"
         },
         {
-          "title": "Pakistan cricket at a crossroads: Build a system, not just a team through experiments | Sports",
-          "source": "The News Pakistan",
-          "url": "https://www.thenews.pk/tns/detail/1442165-pakistan-cricket-at-a-crossroads-build-a-system-not-just-a-team-through-experiments"
-        },
-        {
-          "title": "Match-winning knock on captaincy debut! Sahibzada Farhan leads Pakistan to stunning chase against Sri Lanka",
+          "title": "F1 fans think Kim Kardashian’s presence will give Lewis Hamilton a big Singapore GP boost",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/match-winning-knock-captaincy-debut-230200773.html"
+          "url": "https://sports.yahoo.com/articles/f1-fans-think-kim-kardashian-093000790.html"
+        },
+        {
+          "title": "Kim Kardashian’s Dress Comes With Plunging Cutout at F1 Singapore",
+          "source": "InStyle",
+          "url": "https://www.instyle.com/kim-kardashian-dress-plunging-cutout-f1-singapore-12169309"
         }
       ]
     },
     {
-      "id": "주주",
+      "id": "김성한",
       "rank": 5,
-      "keyword": "주주",
+      "keyword": "김성한",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "4시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"1조달러 보상해달라\" 머스크 제안에…주주들 열광한 이유' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '차에서 내린 취객이 ‘빠직’···또 파손된 김성한 전 해태 타이거즈 선수 조형물, 이번엔 발목만 남았다' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"1조달러 보상해달라\" 머스크 제안에…주주들 열광한 이유",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026101144751"
+          "title": "차에서 내린 취객이 ‘빠직’···또 파손된 김성한 전 해태 타이거즈 선수 조형물, 이번엔 발목만 남았다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610111919001"
         },
         {
-          "title": "자사주매입 5배 늘었지만 삼닉 빼면 13%↓",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/stock/12173038"
+          "title": "취객이 또 부순 김성한 조형물…광주 용봉동 거리엔 발목만 남았다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261011_0003821104"
         },
         {
-          "title": "주가 방패 아닌 외국인 엑싯 유도였나…삼전·하닉 '55조 자사주' 매입 역설",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/08/2026100880094.html"
+          "title": "김성한 전 해태 선수 조형물 또 훼손… 경찰 수사",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261011580321"
         }
       ]
     },
     {
-      "id": "김승수",
+      "id": "레알-소시에다드-대-데포르티보",
       "rank": 6,
-      "keyword": "김승수",
+      "keyword": "레알 소시에다드 대 데포르티보",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "5시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '미운 우리 새끼 : [선공개] “여기에 오면 어떻게 해?” 김승수, 훈훈한 비주얼 뽐내는 송종호에 긴장' (m.programs.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '레알 소시에다드 대 데포르티보 라 코루나 예측: 방문객들은 하락세를 멈추기로 결정했습니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "미운 우리 새끼 : [선공개] “여기에 오면 어떻게 해?” 김승수, 훈훈한 비주얼 뽐내는 송종호에 긴장",
-          "source": "m.programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC482008511?div=live_end"
+          "title": "레알 소시에다드 대 데포르티보 라 코루나 예측: 방문객들은 하락세를 멈추기로 결정했습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-real-sociedad-vs-deportivo-la-coruna-khach-quyet-chan-da-sa-sut"
         },
         {
-          "title": "김승수·송종호, 母와 '합숙 맞선' 나섰다…서장훈, 맞선녀 미모에 “정말 감사합니다” - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/11/GZRDEYTGG43GMOLFMZTGIMZTMY/"
-        },
-        {
-          "title": "'미우새' 맞선녀 박혜연·민지수 등장…김승수·송종호 관심↑",
-          "source": "비즈엔터",
-          "url": "https://enter.etoday.co.kr/news/view/303578"
+          "title": "라리가 레알 소시에다드 대 데포르티보 경기 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-real-sociedad-vs-deportivo-tai-la-liga-1781415.ldo"
         }
       ]
     },
     {
-      "id": "persib-bandung-vs-dewa-united",
+      "id": "india-vs-west-indies",
       "rank": 7,
-      "keyword": "persib bandung vs dewa united",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "keyword": "india vs west indies",
+      "volumeLabel": "500+",
+      "startedLabel": "5시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Link Live Streaming Persib vs Dewa United: Igor Tolic Waspadai Taktik F…' (AFU.id) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Windies overhaul India’s 249 in record-breaking Ranchi run fest' (Caribbean National Weekly) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Link Live Streaming Persib vs Dewa United: Igor Tolic Waspadai Taktik Fleksibel Dewa United, Tayang di TV",
-          "source": "AFU.id",
-          "url": "https://afu.id/olahraga/link-live-streaming-persib-vs-dewa-united-igor-tolic-waspadai-taktik-fleksibel-dewa-united-tayang-di-tv"
+          "title": "Windies overhaul India’s 249 in record-breaking Ranchi run fest",
+          "source": "Caribbean National Weekly",
+          "url": "https://www.caribbeannationalweekly.com/posts/windies-overhaul-indias-249-in-record-breaking-ranchi-run-fest"
         },
         {
-          "title": "Gol Balsa Sekulic dan Marc Klok bikin \"come back\" Persib",
-          "source": "ANTARA News Megapolitan",
-          "url": "https://megapolitan.antaranews.com/berita/554193/gol-balsa-sekulic-dan-marc-klok-bikin-come-back-persib"
+          "title": "5 Highest Run Chases In T20I History",
+          "source": "Sportscape Magazine",
+          "url": "https://www.sportscapemagazine.com/blog/5-highest-run-chases-in-t20i-history"
         },
         {
-          "title": "Babak I Persib vs Dewa United: Maung Bandung Dibobol Egy dan Noah",
-          "source": "BeritaSatu.com",
-          "url": "https://www.beritasatu.com/sport/3032991/babak-i-persib-vs-dewa-united-maung-bandung-dibobol-egy-dan-noah"
+          "title": "BCCI Can't Afford To Ignore Gautam Gambhir's Warning Again. Cricket Might Have To Pay A Huge Cost",
+          "source": "NDTV Sports",
+          "url": "https://sports.ndtv.com/cricket/bcci-cant-afford-to-ignore-gautam-gambhirs-warning-again-cricket-might-have-to-pay-a-huge-cost-12168564"
         }
       ]
     },
     {
-      "id": "정친원",
+      "id": "ล-เวอร-พ-ล-พบ-แมนซ-ต",
       "rank": 8,
-      "keyword": "정친원",
+      "keyword": "ล เวอร พ ล พบ แมนซ ต",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '정친원, 메르텐스 잡고 차이나오픈 결승행' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'ลิเวอร์พูล ปะทะ แมนเชสเตอร์ ซิตี้: สนามแอนฟิลด์ที่แข็งแกร่งรอต้อนรับทีม…' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "정친원, 메르텐스 잡고 차이나오픈 결승행",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261011_0002259949"
+          "title": "ลิเวอร์พูล ปะทะ แมนเชสเตอร์ ซิตี้: สนามแอนฟิลด์ที่แข็งแกร่งรอต้อนรับทีมเรือใบสีฟ้าอยู่",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/liverpool-manchester-city-hiem-dia-anfield-cho-the-citizens"
         },
         {
-          "title": "정친원, 차이나 오픈 8강전서 스비톨리나와 맞대결",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3717518"
+          "title": "เปิดที่มา \"กล้วยเป่าลม\" สัญลักษณ์คู่ใจแฟนแมนซิตี้ บุกถอนขนหงส์คาแอนฟิลด์",
+          "source": "Siamsport",
+          "url": "https://www.siamsport.co.th/football-international/premierleague/110594/"
         },
         {
-          "title": "정친원, 차이나오픈 8강…승패보다 깊게 보는 테니스",
-          "source": "뉴스N연합",
-          "url": "https://newsyonhap.com/news/129571"
+          "title": "115คดีแมนซิตี้vsพรีเมียร์ลีก ‘เรื่องบอล’ที่ไม่ใช่’เรื่องบอล’",
+          "source": "แนวหน้า",
+          "url": "https://www.naewna.com/n/sports/107171/"
         }
       ]
     },
     {
-      "id": "cuaca-besok",
+      "id": "liverpool-đấu-với-man-city",
       "rank": 9,
-      "keyword": "cuaca besok",
+      "keyword": "liverpool đấu với man city",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Prakiraan Cuaca Sulawesi Besok 12 Oktober 2026, Makassar, Palu, dan Gor…' (TribunStyle.com) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Nỗi tiếc nuối của Liverpool trong ngày để thua Man City' (yeuthethao.net.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Prakiraan Cuaca Sulawesi Besok 12 Oktober 2026, Makassar, Palu, dan Gorontalo Berawan, Mamuju Cerah",
-          "source": "TribunStyle.com",
-          "url": "https://style.tribunnews.com/news/386254/prakiraan-cuaca-sulawesi-besok-12-oktober-2026-makassar-palu-dan-gorontalo-berawan-mamuju-cerah"
+          "title": "Nỗi tiếc nuối của Liverpool trong ngày để thua Man City",
+          "source": "yeuthethao.net.vn",
+          "url": "https://yeuthethao.net.vn/noi-tiec-nuoi-cua-liverpool-trong-ngay-de-thua-man-city-d898238.html"
         },
         {
-          "title": "BMKG: Waspada Udara Panas dan Angin Kencang di Sejumlah Wilayah Sulsel",
-          "source": "RRI.co.id",
-          "url": "https://rri.co.id/makassar/regional/2802434/bmkg-waspada-udara-panas-dan-angin-kencang-di-sejumlah-wilayah-sulsel"
+          "title": "Man City bị chỉ trích dữ dội tại Anfield sau bê bối tài chính",
+          "source": "Bongda24h",
+          "url": "https://bongda24h.vn/bong-da-anh/man-city-bi-chi-trich-du-doi-tai-anfield-sau-be-boi-tai-chinh-172-461984.html"
         },
         {
-          "title": "Suhu Kota Makassar Diprakirakan Capai 33,0°C",
-          "source": "Databoks",
-          "url": "https://databoks.katadata.co.id/lingkungan/statistik/376232bb0b50181/suhu-kota-makassar-diprakirakan-capai-33-0-c"
+          "title": "Trực tiếp Liverpool vs Manchester City: Đội hình xuất phát",
+          "source": "Báo Lâm Đồng",
+          "url": "https://baolamdong.vn/truc-tiep-liverpool-vs-manchester-city-doi-hinh-xuat-phat-468826.html"
         }
       ]
     },
     {
-      "id": "엑소-크리스",
+      "id": "fotmob",
       "rank": 10,
-      "keyword": "엑소 크리스",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "keyword": "fotmob",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''징역 13년' 크리스, 사망설 돌더니 이번엔 후덕한 옥중샷?' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''Not a football country!' - Olivier Giroud slams MLS after abrupt LAFC …' (Yahoo Sports) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'징역 13년' 크리스, 사망설 돌더니 이번엔 후덕한 옥중샷?",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261010_0003820711"
+          "title": "'Not a football country!' - Olivier Giroud slams MLS after abrupt LAFC exit",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/not-football-country-olivier-giroud-101156408.html"
         },
         {
-          "title": "콩밥이 체질?…前 엑소 크리스, 징역 12년 수감 중 '후덕 근황' 실체[SC이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/10/11/MFRDQYLBME3DOMZVMI2DIYZTME/"
+          "title": "'USA is not a football country', says Giroud",
+          "source": "FotMob",
+          "url": "https://www.fotmob.com/nb/news/1c73r2ub9a41j1n70plhn44939-usa-is-not-football-country-says-giroud"
         },
         {
-          "title": "엑소 출신 크리스, 수감 중 사망설 이어 조작 사진까지..'후덕' 사진 가짜였다",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261010180441612"
+          "title": "'The US is Not a Football Country' - Olivier Giroud Slams MLS After Spell at LAFC",
+          "source": "GiveMeSport",
+          "url": "https://www.givemesport.com/olivier-giroud-slams-mls-lafc-united-states-not-football-country/"
         }
       ]
     }
