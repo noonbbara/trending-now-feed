@@ -1,286 +1,270 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-14T17:55:35.634Z",
+  "updatedAt": "2026-10-14T21:32:43.800Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "멜론",
+      "id": "부동산",
       "rank": 1,
-      "keyword": "멜론",
+      "keyword": "부동산",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''2000년 보아'의 귀환?…A2O 라이트 아이찡, 세대 잇는 이수만 안목 [N이슈]' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '다주택 규제도, 종부세 강화도 ‘헛바퀴’… 실수요자 불안만 키워 [10·15 부동산 대책 1년]' (세계일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'2000년 보아'의 귀환?…A2O 라이트 아이찡, 세대 잇는 이수만 안목 [N이슈]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/music/6319325"
+          "title": "다주택 규제도, 종부세 강화도 ‘헛바퀴’… 실수요자 불안만 키워 [10·15 부동산 대책 1년]",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261014520351"
         },
         {
-          "title": "\"아이찡 부모, 직원 월급 안 줘\"…이수만 걸그룹 데뷔 하루 만에 '시끌' - 머니투데이",
+          "title": "\"여보, 집 빼래\" 전세 없어 월세살이…\"주거비 1억 껑충\" 세입자 눈물 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/14/2026101418181195915"
+          "url": "https://www.mt.co.kr/estate/2026/10/15/2026101414065791044"
         },
         {
-          "title": "이수만, 유영진과 돌아왔다…24명 아이돌로 K팝 흔들까",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/culture/music/1282132.html"
+          "title": "[사설] 집값 못 잡고 세입자 고통 더 키운 ’10·15 대책' 1년",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/opinion/editorial/2026/10/15/AXSWM3DFKVGENFDTAYXZH2MG3Y/"
         }
       ]
     },
     {
-      "id": "리버풀",
+      "id": "예금",
       "rank": 2,
-      "keyword": "리버풀",
+      "keyword": "예금",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '은행권서 4%대 예금 속속 등장…대출 차주는 '부담'' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "은행권서 4%대 예금 속속 등장…대출 차주는 '부담'",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/finance/general-finance/6320163"
+        },
+        {
+          "title": "1년 정기예금 3.7% 상품 등장…10월 14일 금리 비교, 기준일·조건 따져야",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=351970"
+        },
+        {
+          "title": "시중은행도 4% 예금 등장… 저축은행은 수신 확대에 신중 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/stock/finance/2026/10/14/NWD3XDWS7VFNHANRI6QWUU2COA/"
+        }
+      ]
+    },
+    {
+      "id": "테슬라",
+      "rank": 3,
+      "keyword": "테슬라",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[단독] “국산차 왜 타냐?” 비웃던 테슬라 오너…2배 수리비에 말 없어졌다' (매일경제 마켓) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[단독] “국산차 왜 타냐?” 비웃던 테슬라 오너…2배 수리비에 말 없어졌다",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1174559"
+        },
+        {
+          "title": "[기고] 남의 사고로 내 차보험료 오르는 건 불공정할까",
+          "source": "DFT 대한금융신문",
+          "url": "https://www.kbanker.co.kr/news/articleView.html?idxno=226138"
+        },
+        {
+          "title": "[테크 차이나] 전기차 샀는데 수리비가 두렵다…고도화된 기술이 만든 '수리의 역설'",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261008000141"
+        }
+      ]
+    },
+    {
+      "id": "링컨-시티-대-웨스트-햄",
+      "rank": 4,
+      "keyword": "링컨 시티 대 웨스트 햄",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '역시 ‘큰 ’선수는 달랐다···제라드 “우승 소급 메달? 관심없다···맨시티가 누린, 우리가 빼앗긴 추억은 어떡하나”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Lincoln City 0-6 West Ham United: Soucek scores twice as Imps are thras…' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "역시 ‘큰 ’선수는 달랐다···제라드 “우승 소급 메달? 관심없다···맨시티가 누린, 우리가 빼앗긴 추억은 어떡하나”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610140846001"
+          "title": "Lincoln City 0-6 West Ham United: Soucek scores twice as Imps are thrashed",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c83vqp3qexrlt"
         },
         {
-          "title": "'충격, 안필드 소요 사태' 맨체스터 시티에 0-3 충격패→관중과 경찰 충돌→10명 체포, 경찰 얼굴 부상..'완패한 리버풀의 어두운 그림자",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/10/13/MRSGIZTGMJSTQZBVMI4TMNDCGE/"
+          "title": "Lincoln 0-6 West Ham highlights",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/13598872/lincoln-vs-west-ham-live-championship-match-updates-news-score-and-highlights"
         },
         {
-          "title": "“맨시티, 프리미어리그 재정 규정 위반 징계 피하길 바란다” PSG 엔리케 감독 깜짝 발언",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1013160"
+          "title": "Championship LIVE: Four matches including Lincoln v West Ham",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c62e0ejnezy4t"
         }
       ]
     },
     {
-      "id": "기온",
-      "rank": 3,
-      "keyword": "기온",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[날씨] 오늘(수) 대체로 맑고, 쌀쌀해…큰 일교차 유의' (YTN 사이언스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[날씨] 오늘(수) 대체로 맑고, 쌀쌀해…큰 일교차 유의",
-          "source": "YTN 사이언스",
-          "url": "https://m.science.ytn.co.kr/weather/weather_view.php?s_mcd=1000&key=202610140639070001"
-        },
-        {
-          "title": "아침에 쌀쌀…내륙 서리, 동해안 너울 주의",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8686074"
-        },
-        {
-          "title": "올가을 들어 가장 쌀쌀한 아침…찬바람에 체감온도 ‘뚝’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610140813011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-        }
-      ]
-    },
-    {
-      "id": "lask",
-      "rank": 4,
-      "keyword": "lask",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Preview: LASK Linz vs Liverpool - prediction, team news, lineups' (Sports Mole) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Preview: LASK Linz vs Liverpool - prediction, team news, lineups",
-          "source": "Sports Mole",
-          "url": "https://www.sportsmole.co.uk/football/lask-linz/champions-league/preview/lask-vs-liverpool-prediction-team-news-lineups_606769.html"
-        },
-        {
-          "title": "LASK Linz vs Liverpool: Lineups, Prediction, Odds & Bet Builder Tip",
-          "source": "WhoScored.com",
-          "url": "https://www.whoscored.com/articles/l3uzIgbkj0aL1mQ6lJNXJw/show/cng111-20261014-lask-linz-vs-liverpool-prediction-1791968232"
-        },
-        {
-          "title": "Liverpool's Alexander Isak, Cody Gakpo, Dominik Szoboszlai to miss Champions League clash with LASK",
-          "source": "ESPN",
-          "url": "https://www.espn.co.uk/football/story/_/id/50173447/liverpool-alexander-isak-cody-gakpo-dominik-szoboszlai-miss-champions-league-clash-lask"
-        }
-      ]
-    },
-    {
-      "id": "west-indies-vs-india",
+      "id": "서울경제",
       "rank": 5,
-      "keyword": "west indies vs india",
+      "keyword": "서울경제",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[단독] 최태원 지분 5440억 사들인 ‘전략적 투자자’는 마이클 델' (서울경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[단독] 최태원 지분 5440억 사들인 ‘전략적 투자자’는 마이클 델",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20101220"
+        },
+        {
+          "title": "최태원, SK 지분 9천440억 매각 계약…델 일가에 5천440억",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439221"
+        },
+        {
+          "title": "최태원, 델 창업자·한국투자증권과 SK 주식 매매계약…9440억 확보",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/industry/general-industry/6320240"
+        }
+      ]
+    },
+    {
+      "id": "육군사관학교",
+      "rank": 6,
+      "keyword": "육군사관학교",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Another batting paradise greets India and West Indies in Hyderabad' (Cricinfo) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Another batting paradise greets India and West Indies in Hyderabad",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-4th-t20i-1529233/match-preview"
-        },
-        {
-          "title": "Did Shreyas Iyer Trick Shai Hope? India Captain's Antics Go Viral During Toss For 4th T20I",
-          "source": "NDTV Sports",
-          "url": "https://sports.ndtv.com/india-vs-west-indies-2026/did-shreyas-iyer-trick-shai-hope-india-captains-antics-go-viral-during-toss-for-4th-t20i-12185113"
-        },
-        {
-          "title": "Jewel Andrew Sparks West Indies Powerplay Surge Against India in Hyderabad",
-          "source": "cristinaiglesias.com",
-          "url": "https://cristinaiglesias.com/newsday/jewel-andrew-sparks-west-indies-powerplay-surge-against-india-in-hyderabad/"
-        }
-      ]
+      "newsSignals": []
     },
     {
-      "id": "앤트로픽",
-      "rank": 6,
-      "keyword": "앤트로픽",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'AI 자기복제·자기개선 앞당겨지나…앤트로픽 잇단 경고' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "AI 자기복제·자기개선 앞당겨지나…앤트로픽 잇단 경고",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261014053800009"
-        },
-        {
-          "title": "[내일을 열며] 기술이 삶을 위협한다면",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000022684&code=11171348&sid1=col&sid2=1348"
-        },
-        {
-          "title": "[AI는 지금] 해킹에 쓰인 AI, 스스로 복제까지…앤트로픽, 연내 가능성 경고",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261014095823"
-        }
-      ]
-    },
-    {
-      "id": "준플레이오프-예매",
+      "id": "real-madrid",
       "rank": 7,
-      "keyword": "준플레이오프 예매",
+      "keyword": "real madrid",
       "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[그래픽] 2026 KBO 포스트 시즌 경기 일정' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'El calendario de los próximos 5 partidos del Real Madrid tras la remont…' (Sports Illustrated) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[그래픽] 2026 KBO 포스트 시즌 경기 일정",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261013_0002261427"
+          "title": "El calendario de los próximos 5 partidos del Real Madrid tras la remontada a la Roma",
+          "source": "Sports Illustrated",
+          "url": "https://www.si.com/es-us/el-calendario-de-los-proximos-5-partidos-del-real-madrid-tras-la-remontada-a-la-roma"
         },
         {
-          "title": "‘마지막 잠실더비’ 티켓 한 장에 200만원…암표 단속에도 되팔이는 여전",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20101586"
+          "title": "Dos semanas decisivas con la guinda del clásico",
+          "source": "El Correo",
+          "url": "https://www.elcorreo.com/deportes/futbol/liga-primera/dos-semanas-decisivas-guinda-clasico-20261008135805-ntrc.html"
         },
         {
-          "title": "2년 전 두산 울렸던 벤자민, 이젠 베어스의 가을 비밀병기로",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261013065300007"
+          "title": "Amenaza de noviembre negro",
+          "source": "Diario AS",
+          "url": "https://as.com/futbol/primera/amenaza-de-noviembre-negro-f202610-n/"
         }
       ]
     },
     {
-      "id": "팬오션",
+      "id": "แมนซ-ต-พบ-เปแอ-สเฌ",
       "rank": 8,
-      "keyword": "팬오션",
-      "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
+      "keyword": "แมนซ ต พบ เปแอ สเฌ",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"같은 배 아니였어?\"…팬오션·HMM 수익률 두 배 차이 난 이유' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'สตรีม]นี่เลย!* ถ่ายทอดสด โรม่า พบ เรอัล มาดริด ถ่ายทอดสดทางทีวี 15 ตุลา…' (Universidad de Córdoba (UCO)) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"같은 배 아니였어?\"…팬오션·HMM 수익률 두 배 차이 난 이유",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610141531i"
+          "title": "สตรีม]นี่เลย!* ถ่ายทอดสด โรม่า พบ เรอัล มาดริด ถ่ายทอดสดทางทีวี 15 ตุลาคม 2569",
+          "source": "Universidad de Córdoba (UCO)",
+          "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vcGFraGlwb2suZ2l0aHViLmlvL3NyLmVkdS94b2QueG1sIi8+PC9rcnBhbm8+&id=video-as-roma-vs-real-madrid-liv-hdtv-en-th-014"
         },
         {
-          "title": "[특징주] 사우디-예멘 후티 충돌에…해운주 '운임 상승 기대' 강세 마감(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261014048351008"
+          "title": "ผลฟุตบอล ยูฟ่า แชมเปี้ยนส์ ลีก 26/27 : รอบลีกเฟส นัด 2 แมนฯ ซิตี 2-4 เปแอสเช สมัครและดูได้แล้ววันนี้ Now Football 199 บาท/เดือน (1 จอ ดูได้ทุกอุปกรณ์) คลิก : https://truevisions-now.onelink.me/RQwi/2jit4dpv - สามารถชำระเงินได้ผ่านบัตรเครดิต,ทรูมันนี่ วอลเล็ท และบิลทรู - ดูได้",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/Truevisions/posts/%E0%B8%9C%E0%B8%A5%E0%B8%9F%E0%B8%B8%E0%B8%95%E0%B8%9A%E0%B8%AD%E0%B8%A5-%E0%B8%A2%E0%B8%B9%E0%B8%9F%E0%B9%88%E0%B8%B2-%E0%B9%81%E0%B8%8A%E0%B8%A1%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%99%E0%B8%AA%E0%B9%8C-%E0%B8%A5%E0%B8%B5%E0%B8%81-2627-%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%A5%E0%B8%B5%E0%B8%81%E0%B9%80%E0%B8%9F%E0%B8%AA-%E0%B8%99%E0%B8%B1%E0%B8%94-2%E0%B9%81%E0%B8%A1%E0%B8%99%E0%B8%AF-%E0%B8%8B%E0%B8%B4%E0%B8%95%E0%B8%B5-2-4-%E0%B9%80%E0%B8%9B%E0%B9%81%E0%B8%AD%E0%B8%AA%E0%B9%80%E0%B8%8A%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B9%81%E0%B8%A5%E0%B8%B0/1568757351964270/"
         },
         {
-          "title": "특징주, HMM-해운 테마 상승세에 5.22% ↑",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1174087"
+          "title": "ดูบอลสด แมนซิตี้ พบ เปแอสเช ยูฟ่า แชมเปี้ยนส์ลีก วันนี้ 14 ต.ค.69",
+          "source": "posttoday",
+          "url": "https://www.posttoday.com/lifestyle/750427"
         }
       ]
     },
     {
-      "id": "박성현",
+      "id": "맨시티",
       "rank": 9,
-      "keyword": "박성현",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
+      "keyword": "맨시티",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''총상금 15억원'…\"이 대회가 판도를 가른다\"' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '마레스카 “PSG를 넘으려면 완벽한 경기가 필요하다”' (Manchester City FC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'총상금 15억원'…\"이 대회가 판도를 가른다\"",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026101415031038456"
+          "title": "마레스카 “PSG를 넘으려면 완벽한 경기가 필요하다”",
+          "source": "Manchester City FC",
+          "url": "https://kr.mancity.com/news/mens/enzo-maresca-manchester-city-v-paris-saint-germain-preview-63927493"
         },
         {
-          "title": "상금 1위 김민솔·대상 1위 서교림, KLPGA 투어 아이스버그골프·서울신문 오픈서 ‘솔‧림 대전‘ 이어가",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261014500279"
+          "title": "챔스 리그페이즈 2차전…바르사·아스널 2연승, 아틀레티코 첫 승",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2635404"
         },
         {
-          "title": "김효주, 유해란 이어 이번엔 윤이나?…한층 성장한 ‘LPGA 2년 차’, 올해 첫 국내 대회 출격",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20261014/134833805/1"
+          "title": "[UCL 리뷰]\"이게 바로 '유럽의 왕'의 참교육이다\" 홈에서 영혼까지 털린 '공공의 적' 맨시티…전반 0-3→2-4 참패 '마레스카 무패 종료'",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/football/2026-10-15/202610150100095140006178"
         }
       ]
     },
     {
-      "id": "스테파니",
+      "id": "man-city-đấu-với-psg",
       "rank": 10,
-      "keyword": "스테파니",
+      "keyword": "man city đấu với psg",
       "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''전설의 사내' 금잔디 \"성리, 겸손한 학생이었다\"…사제지간 고백' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Trực tiếp bóng đá Man City - PSG: Ghi bàn thứ 4 may mắn (Cúp C1)' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'전설의 사내' 금잔디 \"성리, 겸손한 학생이었다\"…사제지간 고백",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6320281"
+          "title": "Trực tiếp bóng đá Man City - PSG: Ghi bàn thứ 4 may mắn (Cúp C1)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-man-city-psg-dai-chien-ruc-lua-cup-c1-c48a1802712.html"
         },
         {
-          "title": "'23세 연상 열애' 스테파니, 황윤성 플러팅에 \"나 남친 있는 거 알지?\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261013_0003824050"
+          "title": "Nhận định Manchester City vs Paris Saint Germain: Màn so tài của hai đội vào phom",
+          "source": "Báo Lâm Đồng",
+          "url": "https://baolamdong.vn/nhan-dinh-manchester-city-vs-paris-saint-germain-man-so-tai-cua-hai-doi-vao-phom-469328.html"
         },
         {
-          "title": "‘전설의 사내’ 성리 대학 담당 교수까지 떴다! 금잔디, 훈훈한 폭로",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610141715003"
+          "title": "Lịch thi đấu Champions League: Man City đại chiến PSG, Real Madrid làm khách Roma",
+          "source": "Báo Phú Thọ",
+          "url": "https://baophutho.vn/lich-thi-dau-champions-league-man-city-dai-chien-psg-real-madrid-lam-khach-roma-262822.htm"
         }
       ]
     }
