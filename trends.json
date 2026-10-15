@@ -1,154 +1,70 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-14T21:32:43.800Z",
+  "updatedAt": "2026-10-15T00:24:25.567Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "부동산",
+      "id": "브루어스-대-다저스",
       "rank": 1,
-      "keyword": "부동산",
-      "volumeLabel": "500+",
+      "keyword": "브루어스 대 다저스",
+      "volumeLabel": "5000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '다주택 규제도, 종부세 강화도 ‘헛바퀴’… 실수요자 불안만 키워 [10·15 부동산 대책 1년]' (세계일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '타율 .150, 우리가 알던 '엄친아' 맞나? '스리핏 좌절 대위기' 패닉 빠진 다저스, 결국 팽?…옛 스승 시선은 정반대, 왜?' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "다주택 규제도, 종부세 강화도 ‘헛바퀴’… 실수요자 불안만 키워 [10·15 부동산 대책 1년]",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261014520351"
-        },
-        {
-          "title": "\"여보, 집 빼래\" 전세 없어 월세살이…\"주거비 1억 껑충\" 세입자 눈물 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/10/15/2026101414065791044"
-        },
-        {
-          "title": "[사설] 집값 못 잡고 세입자 고통 더 키운 ’10·15 대책' 1년",
+          "title": "타율 .150, 우리가 알던 '엄친아' 맞나? '스리핏 좌절 대위기' 패닉 빠진 다저스, 결국 팽?…옛 스승 시선은 정반대, 왜?",
           "source": "조선일보",
-          "url": "https://www.chosun.com/opinion/editorial/2026/10/15/AXSWM3DFKVGENFDTAYXZH2MG3Y/"
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/14/GYZDGZJSGIZDMYZZMEZDGODBGQ/"
+        },
+        {
+          "title": "[스포츠 영상] 밀워키, 다저스 상대 2연승‥월드시리즈까지 '2승!'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6857708_37004.html"
+        },
+        {
+          "title": "\"야마모토도 사람이야, 로봇이 아니라고\" 그런데 포수 때문에 무너질 줄 몰랐다…로버츠도 당혹, 왜 ABS 요청 안 했나",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112892299"
         }
       ]
     },
     {
-      "id": "예금",
+      "id": "인터-마이애미-대-뉴욕-시티",
       "rank": 2,
-      "keyword": "예금",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '은행권서 4%대 예금 속속 등장…대출 차주는 '부담'' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "은행권서 4%대 예금 속속 등장…대출 차주는 '부담'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/finance/general-finance/6320163"
-        },
-        {
-          "title": "1년 정기예금 3.7% 상품 등장…10월 14일 금리 비교, 기준일·조건 따져야",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=351970"
-        },
-        {
-          "title": "시중은행도 4% 예금 등장… 저축은행은 수신 확대에 신중 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/finance/2026/10/14/NWD3XDWS7VFNHANRI6QWUU2COA/"
-        }
-      ]
-    },
-    {
-      "id": "테슬라",
-      "rank": 3,
-      "keyword": "테슬라",
-      "volumeLabel": "500+",
+      "keyword": "인터 마이애미 대 뉴욕 시티",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] “국산차 왜 타냐?” 비웃던 테슬라 오너…2배 수리비에 말 없어졌다' (매일경제 마켓) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'MATCH PREVIEW: Inter Miami CF Set to Host New York City FC on Wednesday' (Inter Miami CF) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[단독] “국산차 왜 타냐?” 비웃던 테슬라 오너…2배 수리비에 말 없어졌다",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1174559"
+          "title": "MATCH PREVIEW: Inter Miami CF Set to Host New York City FC on Wednesday",
+          "source": "Inter Miami CF",
+          "url": "https://www.intermiamicf.com/news/match-preview-inter-miami-cf-set-to-host-new-york-city-fc-on-wednesday"
         },
         {
-          "title": "[기고] 남의 사고로 내 차보험료 오르는 건 불공정할까",
-          "source": "DFT 대한금융신문",
-          "url": "https://www.kbanker.co.kr/news/articleView.html?idxno=226138"
+          "title": "Inter Miami vs New York City LIVE Score, Lionel Messi in the starting lineup (0-0)",
+          "source": "VAVEL.com",
+          "url": "https://www.vavel.com/en-us/soccer/2026/10/14/1275242-inter-miami-vs-new-york-city-fc-live-updates-mls.html"
         },
         {
-          "title": "[테크 차이나] 전기차 샀는데 수리비가 두렵다…고도화된 기술이 만든 '수리의 역설'",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261008000141"
+          "title": "Gonzalez lauds Casemiro's impact on Miami defence",
+          "source": "beIN SPORTS",
+          "url": "https://www.beinsports.com/en-asia/football/mls/articles/gonzalez-lauds-casemiros-impact-on-miami-defence-2026-10-13"
         }
       ]
     },
     {
-      "id": "링컨-시티-대-웨스트-햄",
-      "rank": 4,
-      "keyword": "링컨 시티 대 웨스트 햄",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Lincoln City 0-6 West Ham United: Soucek scores twice as Imps are thras…' (BBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Lincoln City 0-6 West Ham United: Soucek scores twice as Imps are thrashed",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c83vqp3qexrlt"
-        },
-        {
-          "title": "Lincoln 0-6 West Ham highlights",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/13598872/lincoln-vs-west-ham-live-championship-match-updates-news-score-and-highlights"
-        },
-        {
-          "title": "Championship LIVE: Four matches including Lincoln v West Ham",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c62e0ejnezy4t"
-        }
-      ]
-    },
-    {
-      "id": "서울경제",
-      "rank": 5,
-      "keyword": "서울경제",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] 최태원 지분 5440억 사들인 ‘전략적 투자자’는 마이클 델' (서울경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[단독] 최태원 지분 5440억 사들인 ‘전략적 투자자’는 마이클 델",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20101220"
-        },
-        {
-          "title": "최태원, SK 지분 9천440억 매각 계약…델 일가에 5천440억",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439221"
-        },
-        {
-          "title": "최태원, 델 창업자·한국투자증권과 SK 주식 매매계약…9440억 확보",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/industry/general-industry/6320240"
-        }
-      ]
-    },
-    {
-      "id": "육군사관학교",
-      "rank": 6,
-      "keyword": "육군사관학교",
-      "volumeLabel": "200+",
+      "id": "의대생",
+      "rank": 3,
+      "keyword": "의대생",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
@@ -157,114 +73,198 @@
       "newsSignals": []
     },
     {
-      "id": "real-madrid",
+      "id": "띠별-운세",
+      "rank": 4,
+      "keyword": "띠별 운세",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[오늘의 운세] 2026년 10월 15일 띠별 운세' (YTN) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[오늘의 운세] 2026년 10월 15일 띠별 운세",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0121_202610150000000001"
+        },
+        {
+          "title": "[오늘의 운세] 10월 15일 목요일 (음력 9월 5일) 띠별 운세",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261012580341"
+        },
+        {
+          "title": "[오늘의 운세/10월 15일]",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261015/134843729/2"
+        }
+      ]
+    },
+    {
+      "id": "톱스타뉴스",
+      "rank": 5,
+      "keyword": "톱스타뉴스",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '2024년과 2025년 우승 팀의 만남…KIA-LG, PO행 티켓 놓고 격돌[준PO]' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "2024년과 2025년 우승 팀의 만남…KIA-LG, PO행 티켓 놓고 격돌[준PO]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261014_0003826434"
+        },
+        {
+          "title": "‘KIA전 7연패 악몽’ LG, 준PO에서 설욕할까…10년 만에 '가을' 리턴매치, 관건은 김도영 봉쇄 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/baseball/2026/10/15/MFRTSMDDMYZGCMRXGM2GEZDBGE/"
+        },
+        {
+          "title": "'탈락-탈락-탈락-탈락' 선동열 이종범도 돌파 못한 준PO 장벽, 슈퍼스타는 징크스 털어낼까 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/14/202610141003774090O"
+        }
+      ]
+    },
+    {
+      "id": "교통-사고",
+      "rank": 6,
+      "keyword": "교통 사고",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[종합] 제주 평화로서 차량 12대 연쇄 충돌...2명 중상.14명 경상' (헤드라인제주) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[종합] 제주 평화로서 차량 12대 연쇄 충돌...2명 중상.14명 경상",
+          "source": "헤드라인제주",
+          "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=600425"
+        },
+        {
+          "title": "제주 평화로에서 다중 추돌 교통사고…12대 추정",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261014135000056"
+        },
+        {
+          "title": "평화로서 차량 12대 ‘쾅쾅’…16명 부상·도로 마비",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=844492"
+        }
+      ]
+    },
+    {
+      "id": "슈퍼맨이-돌아왔다",
       "rank": 7,
-      "keyword": "real madrid",
+      "keyword": "슈퍼맨이 돌아왔다",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'El calendario de los próximos 5 partidos del Real Madrid tras la remont…' (Sports Illustrated) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'KCM 아내, 15년 만에 버진로드 서자 오열…\"눈물 계속 나\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "El calendario de los próximos 5 partidos del Real Madrid tras la remontada a la Roma",
-          "source": "Sports Illustrated",
-          "url": "https://www.si.com/es-us/el-calendario-de-los-proximos-5-partidos-del-real-madrid-tras-la-remontada-a-la-roma"
+          "title": "KCM 아내, 15년 만에 버진로드 서자 오열…\"눈물 계속 나\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/15/2026101422162553201"
         },
         {
-          "title": "Dos semanas decisivas con la guinda del clásico",
-          "source": "El Correo",
-          "url": "https://www.elcorreo.com/deportes/futbol/liga-primera/dos-semanas-decisivas-guinda-clasico-20261008135805-ntrc.html"
+          "title": "KCM♥방예원, 15년 만의 결혼식서 오열…“평생 잘할게 사랑해”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261014/134844268/1"
         },
         {
-          "title": "Amenaza de noviembre negro",
-          "source": "Diario AS",
-          "url": "https://as.com/futbol/primera/amenaza-de-noviembre-negro-f202610-n/"
+          "title": "'슈돌' KCM♥방예원, 삼 남매 함께한 결혼식…\"더 행복\" [RE:TV]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6320384"
         }
       ]
     },
     {
-      "id": "แมนซ-ต-พบ-เปแอ-สเฌ",
+      "id": "정웅인",
       "rank": 8,
-      "keyword": "แมนซ ต พบ เปแอ สเฌ",
+      "keyword": "정웅인",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'สตรีม]นี่เลย!* ถ่ายทอดสด โรม่า พบ เรอัล มาดริด ถ่ายทอดสดทางทีวี 15 ตุลา…' (Universidad de Córdoba (UCO)) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"신동엽 때렸다\" 폭행설...정웅인 결국 입 열었다 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "สตรีม]นี่เลย!* ถ่ายทอดสด โรม่า พบ เรอัล มาดริด ถ่ายทอดสดทางทีวี 15 ตุลาคม 2569",
-          "source": "Universidad de Córdoba (UCO)",
-          "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vcGFraGlwb2suZ2l0aHViLmlvL3NyLmVkdS94b2QueG1sIi8+PC9rcnBhbm8+&id=video-as-roma-vs-real-madrid-liv-hdtv-en-th-014"
+          "title": "\"신동엽 때렸다\" 폭행설...정웅인 결국 입 열었다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/13/2026101221070315976"
         },
         {
-          "title": "ผลฟุตบอล ยูฟ่า แชมเปี้ยนส์ ลีก 26/27 : รอบลีกเฟส นัด 2 แมนฯ ซิตี 2-4 เปแอสเช สมัครและดูได้แล้ววันนี้ Now Football 199 บาท/เดือน (1 จอ ดูได้ทุกอุปกรณ์) คลิก : https://truevisions-now.onelink.me/RQwi/2jit4dpv - สามารถชำระเงินได้ผ่านบัตรเครดิต,ทรูมันนี่ วอลเล็ท และบิลทรู - ดูได้",
-          "source": "Facebook",
-          "url": "https://www.facebook.com/Truevisions/posts/%E0%B8%9C%E0%B8%A5%E0%B8%9F%E0%B8%B8%E0%B8%95%E0%B8%9A%E0%B8%AD%E0%B8%A5-%E0%B8%A2%E0%B8%B9%E0%B8%9F%E0%B9%88%E0%B8%B2-%E0%B9%81%E0%B8%8A%E0%B8%A1%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%99%E0%B8%AA%E0%B9%8C-%E0%B8%A5%E0%B8%B5%E0%B8%81-2627-%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%A5%E0%B8%B5%E0%B8%81%E0%B9%80%E0%B8%9F%E0%B8%AA-%E0%B8%99%E0%B8%B1%E0%B8%94-2%E0%B9%81%E0%B8%A1%E0%B8%99%E0%B8%AF-%E0%B8%8B%E0%B8%B4%E0%B8%95%E0%B8%B5-2-4-%E0%B9%80%E0%B8%9B%E0%B9%81%E0%B8%AD%E0%B8%AA%E0%B9%80%E0%B8%8A%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B9%81%E0%B8%A5%E0%B8%B0/1568757351964270/"
+          "title": "정웅인, 대학 후배 괴롭힘 논란 직접 입 열었다…신동엽 \"웃기려고 한 말이 와전\"",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008794616"
         },
         {
-          "title": "ดูบอลสด แมนซิตี้ พบ เปแอสเช ยูฟ่า แชมเปี้ยนส์ลีก วันนี้ 14 ต.ค.69",
-          "source": "posttoday",
-          "url": "https://www.posttoday.com/lifestyle/750427"
+          "title": "정웅인 ‘후배 폭행’ 루머에 입 열었다... “홀로 감내 중” 심경 최초공개",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/13/MZRTQMDCGYYWEZRQGJRDENJVHE/"
         }
       ]
     },
     {
-      "id": "맨시티",
+      "id": "씨네타운",
       "rank": 9,
-      "keyword": "맨시티",
-      "volumeLabel": "200+",
+      "keyword": "씨네타운",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '박하선, 6년 만에 SBS 라디오 '씨네타운' 하차…\"연기에 집중\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "박하선, 6년 만에 SBS 라디오 '씨네타운' 하차…\"연기에 집중\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261014086700005"
+        },
+        {
+          "title": "박하선, 6년만에 아쉬운 이별 '씨네타운' 떠난다..\"연기 집중\" [공식] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/14/G4ZDAMZQGBQWMNZSG42TCYTCHE/"
+        },
+        {
+          "title": "박하선, 6년 지킨 ‘씨네타운’ 떠난다…하차 이유 ‘눈길’",
+          "source": "헤럴드경제",
+          "url": "https://mbiz.heraldcorp.com/article/10902570"
+        }
+      ]
+    },
+    {
+      "id": "매일경제",
+      "rank": 10,
+      "keyword": "매일경제",
+      "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '마레스카 “PSG를 넘으려면 완벽한 경기가 필요하다”' (Manchester City FC) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“부모·자식 다 내 책임, 쓰러질 수도 없네요”…60대 연체율 4년새 두배로' (매일경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "마레스카 “PSG를 넘으려면 완벽한 경기가 필요하다”",
-          "source": "Manchester City FC",
-          "url": "https://kr.mancity.com/news/mens/enzo-maresca-manchester-city-v-paris-saint-germain-preview-63927493"
+          "title": "“부모·자식 다 내 책임, 쓰러질 수도 없네요”…60대 연체율 4년새 두배로",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/economy/12176319"
         },
         {
-          "title": "챔스 리그페이즈 2차전…바르사·아스널 2연승, 아틀레티코 첫 승",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2635404"
+          "title": "빚에서 은퇴 못한 고령층… 고금리 빚, 60대 이상이 가장 많다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/economy_general/2026/10/14/GNE7OC7WCRCZZO5WJNXJJ3BSEA/"
         },
         {
-          "title": "[UCL 리뷰]\"이게 바로 '유럽의 왕'의 참교육이다\" 홈에서 영혼까지 털린 '공공의 적' 맨시티…전반 0-3→2-4 참패 '마레스카 무패 종료'",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/football/2026-10-15/202610150100095140006178"
-        }
-      ]
-    },
-    {
-      "id": "man-city-đấu-với-psg",
-      "rank": 10,
-      "keyword": "man city đấu với psg",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Trực tiếp bóng đá Man City - PSG: Ghi bàn thứ 4 may mắn (Cúp C1)' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Trực tiếp bóng đá Man City - PSG: Ghi bàn thứ 4 may mắn (Cúp C1)",
-          "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-man-city-psg-dai-chien-ruc-lua-cup-c1-c48a1802712.html"
-        },
-        {
-          "title": "Nhận định Manchester City vs Paris Saint Germain: Màn so tài của hai đội vào phom",
-          "source": "Báo Lâm Đồng",
-          "url": "https://baolamdong.vn/nhan-dinh-manchester-city-vs-paris-saint-germain-man-so-tai-cua-hai-doi-vao-phom-469328.html"
-        },
-        {
-          "title": "Lịch thi đấu Champions League: Man City đại chiến PSG, Real Madrid làm khách Roma",
-          "source": "Báo Phú Thọ",
-          "url": "https://baophutho.vn/lich-thi-dau-champions-league-man-city-dai-chien-psg-real-madrid-lam-khach-roma-262822.htm"
+          "title": "“연봉 5천인데 2천이 원리금” 40대 3명중 1명이 이렇다는데",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11623274"
         }
       ]
     }
