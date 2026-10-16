@@ -1,276 +1,226 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-16T11:49:20.194Z",
+  "updatedAt": "2026-10-16T16:30:26.246Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "태풍",
+      "id": "장승조",
       "rank": 1,
-      "keyword": "태풍",
-      "volumeLabel": "5000+",
-      "startedLabel": "1시간 전",
+      "keyword": "장승조",
+      "volumeLabel": "10000+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '30호 태풍 ’참피’ 북상 중…“경로 유동적“' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[방송소식] 스튜디오드래곤, 넷플릭스 글로벌 1위 10편 배출' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "30호 태풍 ’참피’ 북상 중…“경로 유동적“",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261016045146uca"
-        },
-        {
-          "title": "13년 만의 '30호 태풍'에 일본 초긴장…\"다음 주말 큰 영향\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/10/16/2026101618215428944"
-        },
-        {
-          "title": "[오늘의 날씨 및 내일날씨]제30호 태풍 참피 정보,오늘 밤까지 일부 중부지방 비 조금!",
-          "source": "이코노미톡뉴스",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "id": "창신메모리테크놀로지",
-      "rank": 2,
-      "keyword": "창신메모리테크놀로지",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '분기 영업익 세계 1위 삼성전자, 주가는 왜 또 폭락한 건데?' (인베스트조선) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "분기 영업익 세계 1위 삼성전자, 주가는 왜 또 폭락한 건데?",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/15/2026101580087.html"
-        },
-        {
-          "title": "[삼전닉스는 지금] CXMT 기술 마케팅에 흔들린 주가…경쟁력 판단은 아직 일러",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=352296"
-        },
-        {
-          "title": "“삼성 7만원·하이닉스 20만원”…이주완의 반도체 거품론, 과거 전망은 맞았나",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202610151749011"
-        }
-      ]
-    },
-    {
-      "id": "티켓링크",
-      "rank": 3,
-      "keyword": "티켓링크",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '인스파이어서 한일 음악과 패션 한 무대에 ACF KOREA 2026 티켓링크 단독 판매' (ER 이코노믹리뷰) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "인스파이어서 한일 음악과 패션 한 무대에 ACF KOREA 2026 티켓링크 단독 판매",
-          "source": "ER 이코노믹리뷰",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=753868"
-        },
-        {
-          "title": "티켓링크, ‘아시아 컬처 페스티벌 코리아 2026’ 티켓 단독 판매",
-          "source": "쿠키뉴스",
-          "url": "https://www.kukinews.com/article/view/kuk202610160026"
-        },
-        {
-          "title": "혼다 히토미·아다치 유토가 진행…오프닝은 에루와 청려사명여자",
-          "source": "유스연합",
-          "url": "https://www.youthassembly.kr/news/1011775"
-        }
-      ]
-    },
-    {
-      "id": "제네시스-gv90",
-      "rank": 4,
-      "keyword": "제네시스 gv90",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '2억 원짜리 국내차 상륙… GV90이 마이바흐에 도전장을 내다 [조두현의 테이스티드라이브]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "2억 원짜리 국내차 상륙… GV90이 마이바흐에 도전장을 내다 [조두현의 테이스티드라이브]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610078935i"
-        },
-        {
-          "title": "“나만의 GV90 컬러 찾는다” 제네시스, 네오룬 퍼스트 에디션 특별 전시[재율 아빠 국산차 업계 소식]",
-          "source": "Naver Blog",
-          "url": "https://blog.naver.com/PostView.naver?blogId=nasimo&logNo=224437681801"
-        },
-        {
-          "title": "[Car Special] 브랜드 혁신 담은 4대의 新車",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/culture/12175578"
-        }
-      ]
-    },
-    {
-      "id": "대장동",
-      "rank": 5,
-      "keyword": "대장동",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '성남도시개발공사, 대장동 김만배 아내에게 22억 ‘사해행위 취소 소송’' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "성남도시개발공사, 대장동 김만배 아내에게 22억 ‘사해행위 취소 소송’",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/10/16/NEGYQVURYBHDXCYLWAV5CA7LQA/"
-        },
-        {
-          "title": "성남도시개발공사, ‘김만배 아내 22억’ 환수 소송...토지 가압류 신청",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261016580008"
-        },
-        {
-          "title": "‘대장동’ 김만배, 아내에 22억 은닉 의혹…성남도개공, 환수 소송",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261016/134854952/1"
-        }
-      ]
-    },
-    {
-      "id": "노화",
-      "rank": 6,
-      "keyword": "노화",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '늙은 세포를 다시 젊게… 노화 늦추는 유전자 찾았다 - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "늙은 세포를 다시 젊게… 노화 늦추는 유전자 찾았다 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/science-chosun/science/2026/10/16/GUZDAYZYGRSWEMRXGIZTQZRQGQ/"
-        },
-        {
-          "title": "노화 진행 44% ↓…하버드대가 찾아낸 '젊음의 유전자'",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800146"
-        },
-        {
-          "title": "“인류의 난제 드디어 해결되나”… AI 노화 속도 늦추는 유전자 발견",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12176765"
-        }
-      ]
-    },
-    {
-      "id": "에이피알",
-      "rank": 7,
-      "keyword": "에이피알",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] 미공개정보 샜나...에이피알, 비공개 그룹콜 10분 뒤 주가 급락' (매일경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[단독] 미공개정보 샜나...에이피알, 비공개 그룹콜 10분 뒤 주가 급락",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/business/12177923"
-        },
-        {
-          "title": "[특징주] 화장품주, 반발매수세에 강세…달바글로벌 8%대 상승(종합)",
+          "title": "[방송소식] 스튜디오드래곤, 넷플릭스 글로벌 1위 10편 배출",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261016041051008"
+          "url": "https://www.yna.co.kr/view/AKR20261016149400005"
         },
         {
-          "title": "'K뷰티 대장주' 에이피알, 연매출 3조시대 연다",
+          "title": "“언제 의사하십니까?” 김지원, 이기적인 교수들의 행동에 날리는 일침♨",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/drama/doctorx/clip/88586/OC482525095"
+        },
+        {
+          "title": "\"잘못된 인식 우려\"…현직 의사, '닥터X' 방송심의 요청 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/16/2026101616010349300"
+        }
+      ]
+    },
+    {
+      "id": "대만",
+      "rank": 2,
+      "keyword": "대만",
+      "volumeLabel": "500+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '中, AI·바이오·태양광 등 '수출통제 기술' 적용 확대한다' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "中, AI·바이오·태양광 등 '수출통제 기술' 적용 확대한다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261016161200083"
+        },
+        {
+          "title": "대만 경제부 장관 \"중국에 AI 반도체 수출통제 강화, 미국과 동일하게 시행\"",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449580"
+        },
+        {
+          "title": "대만, 中 AI 반도체 수출 규제 강화…밀수출 땐 형사처벌",
           "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026101522392771869"
+          "url": "https://view.asiae.co.kr/article/2026101616242905832"
         }
       ]
     },
     {
-      "id": "강원도민일보",
-      "rank": 8,
-      "keyword": "강원도민일보",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "id": "지예은",
+      "rank": 3,
+      "keyword": "지예은",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '평창읍 주민총회·소통한마당 개최…오늘 오후 1시부터 8시까지 진행' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '무엇이든 해줄지니 - 비서진 : 이서진, ‘예비 신부’ 지예은의 결혼 말리지 않은 지석진 당황시킨 한마디' (programs.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "평창읍 주민총회·소통한마당 개최…오늘 오후 1시부터 8시까지 진행",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3720986"
+          "title": "무엇이든 해줄지니 - 비서진 : 이서진, ‘예비 신부’ 지예은의 결혼 말리지 않은 지석진 당황시킨 한마디",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/mygeniesecretary/clip/90105/OC482525446"
         },
         {
-          "title": "[포토뉴스]2026년 평창읍 주민총회·소통 한마당 행사",
-          "source": "강원일보",
-          "url": "https://www.kwnews.co.kr/article/20261016500256"
+          "title": "‘12월 결혼’ 지예은, 예비 시누이 깜짝 만남..♥바타에 “자기야 너무 신기해” [순간포착] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/16/MI2TAYJYGQYWINDGGY4WKYRTGM/"
         },
         {
-          "title": "평창읍 주민총회 및 주민소통 한마당 열려",
-          "source": "강원도민일보",
-          "url": "https://www.kado.net/news/articleView.html?idxno=2078599"
+          "title": "이서진, 지석진 10년전 ‘발연기’에 팩폭..“쌈마이 연기, 엉망이다” (‘비서진’)",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112893871"
         }
       ]
     },
     {
-      "id": "광주-도시철도-2호선",
-      "rank": 9,
-      "keyword": "광주 도시철도 2호선",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "id": "최예나",
+      "rank": 4,
+      "keyword": "최예나",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '광주 도시철도 2호선 또 10개월 연기… \"2035년 완공도 불투명\"' (녹색경제신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "광주 도시철도 2호선 또 10개월 연기… \"2035년 완공도 불투명\"",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=352161"
-        },
-        {
-          "title": "‘2량짜리 2호선’ 반입…수송 능력 ‘의문’ 여전",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8685780"
-        },
-        {
-          "title": "917억 규모 광주 2호선 전동차 사업…첫 차량 반입",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/politics/12177620"
-        }
-      ]
+      "newsSignals": []
     },
     {
-      "id": "스마일게이트",
-      "rank": 10,
-      "keyword": "스마일게이트",
+      "id": "유실물",
+      "rank": 5,
+      "keyword": "유실물",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Smilegate STOVE Officially Launches LUV PLACE' (Inven Global) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '서울 지하철 유실물 1위는 '지갑'…6년간 접수된 현금만 30억원' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Smilegate STOVE Officially Launches LUV PLACE",
-          "source": "Inven Global",
-          "url": "https://www.invenglobal.com/articles/27283/smilegate-stove-officially-launches-luv-place"
+          "title": "서울 지하철 유실물 1위는 '지갑'…6년간 접수된 현금만 30억원",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261015162500004"
+        },
+        {
+          "title": "\"지하철에 놓고 내린 돈만 30억\"…돌아오는 물건은 절반도 안 돼",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04411606645613576&mediaCodeNo=257"
+        },
+        {
+          "title": "\"지하철서 지갑 잘 챙기세요\"…승객이 잃어버린 현금, 6년간 30억 원",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261016085030IU8"
+        }
+      ]
+    },
+    {
+      "id": "기업은행-채용",
+      "rank": 6,
+      "keyword": "기업은행 채용",
+      "volumeLabel": "200+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "축의금",
+      "rank": 7,
+      "keyword": "축의금",
+      "volumeLabel": "200+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“하객이 왜 식대까지 고려” vs “원래 축의금은 품앗이” SNS 갑론을박 [당신의견은]' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“하객이 왜 식대까지 고려” vs “원래 축의금은 품앗이” SNS 갑론을박 [당신의견은]",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11624090"
+        },
+        {
+          "title": "하객이 결혼식 식대까지 고려해야 하나요?…’축의금 의견 분분’ [SNS 와글]",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261015155002q29"
+        },
+        {
+          "title": "광주신세계, 예비부부 결혼 준비 돕는다…웨딩 멤버십 런칭",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/gwangju-jeonnam/6320897"
+        }
+      ]
+    },
+    {
+      "id": "고민시",
+      "rank": 8,
+      "keyword": "고민시",
+      "volumeLabel": "200+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '시급 50배의 유혹 '꿀알바', '오겜' 맞먹을 세계관이 열린다 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "시급 50배의 유혹 '꿀알바', '오겜' 맞먹을 세계관이 열린다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/16/2026101609517297805"
+        },
+        {
+          "title": "\"악몽이라니요, 알바죠\"… 넷플릭스 '꿀알바' 메인 예고편 공개",
+          "source": "금강일보",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1187348"
+        },
+        {
+          "title": "이재욱, 고수익 믿고 '꿀알바' 시작했는데…리미널 스페이스 괴담이었다",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/521443"
+        }
+      ]
+    },
+    {
+      "id": "콜오브듀티-모던워페어4",
+      "rank": 9,
+      "keyword": "콜오브듀티 모던워페어4",
+      "volumeLabel": "200+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '콜 오브 듀티: 모던 워페어 4가 묘사한 한반도 전면전' (게임메카) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "콜 오브 듀티: 모던 워페어 4가 묘사한 한반도 전면전",
+          "source": "게임메카",
+          "url": "https://www.gamemeca.com/view.php?gid=1781767"
+        },
+        {
+          "title": "파페 산, 파리에서 'Chez Pape' 코리안 팝업 식료품점 겸 PC방을 열다, Call of Duty Modern Warfare 4 출시를 기념해",
+          "source": "Sortir à Paris",
+          "url": "https://www.sortiraparis.com/ko/palieseo-hal-il/noleum/articles/354494-pepe-san-eun-pepe-ui-hangug-siglyopumjeom-eseo-pab-eob-seuto-eowa-pcbang-eul-yeolgo-palieseo-call-of-duty-modern-warfare-4-chulsileul-maj-ihanda"
+        },
+        {
+          "title": "CoD Modern Warfare 4(MW4) 최신 업데이트: 프리시즌 로드맵, 쉽먼트(Shipment) 맵, 할로윈 이벤트 등",
+          "source": "MMOEXP",
+          "url": "https://www.mmoexp.com/News/cod-modern-warfare-4-latest-updates-pre-season-roadmap-shipment-map-halloween-event-and-more.html"
         }
       ]
     }
