@@ -1,270 +1,276 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-16T06:17:00.814Z",
+  "updatedAt": "2026-10-16T11:49:20.194Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "소방",
+      "id": "태풍",
       "rank": 1,
-      "keyword": "소방",
-      "volumeLabel": "2000+",
+      "keyword": "태풍",
+      "volumeLabel": "5000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '벽에 기대 울음 터뜨린 소방관...‘재정 빨대’ 발언 사흘 만에 추미애도 현장에' (JTBC) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '30호 태풍 ’참피’ 북상 중…“경로 유동적“' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "벽에 기대 울음 터뜨린 소방관...‘재정 빨대’ 발언 사흘 만에 추미애도 현장에",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12323335"
-        },
-        {
-          "title": "‘부천 화재 현장 방문’ 추미애 “큰 충격…소방관 치료 만전”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8687716"
-        },
-        {
-          "title": "부천 화재 완진…\"석유류 20리터 100통 비치\"",
+          "title": "30호 태풍 ’참피’ 북상 중…“경로 유동적“",
           "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261016133242jrM"
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261016045146uca"
+        },
+        {
+          "title": "13년 만의 '30호 태풍'에 일본 초긴장…\"다음 주말 큰 영향\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/10/16/2026101618215428944"
+        },
+        {
+          "title": "[오늘의 날씨 및 내일날씨]제30호 태풍 참피 정보,오늘 밤까지 일부 중부지방 비 조금!",
+          "source": "이코노미톡뉴스",
+          "url": ""
         }
       ]
     },
     {
-      "id": "남보라",
+      "id": "창신메모리테크놀로지",
       "rank": 2,
-      "keyword": "남보라",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '남보라, 금손 인증? \"엔비디아 수익률 300%\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "남보라, 금손 인증? \"엔비디아 수익률 300%\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261016_0003828798"
-        },
-        {
-          "title": "남보라, 엔비디아·하이닉스 ‘초저점 매수’ 신화?…탄식 터진 ‘반전’, 뭐길래",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/economy/2026/10/16/20261016500134"
-        },
-        {
-          "title": "“엔비디아 수익률 300% 찍고 매도”…‘13남매 장녀’ 남보라, 투자 금손 인증?",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12177482"
-        }
-      ]
-    },
-    {
-      "id": "신인감독-김연경-2",
-      "rank": 3,
-      "keyword": "신인감독 김연경 2",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김연경, 리벤지 매치인데 선수들 줄줄이 부상 ‘위기’(‘신인감독2’) - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김연경, 리벤지 매치인데 선수들 줄줄이 부상 ‘위기’(‘신인감독2’) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/16/GA3DCM3GMQ2GEZBZMIZWGZBYMU/"
-        },
-        {
-          "title": "‘배구황제’ 김연경 감독, 슈지츠와의 복수전 승리 위한 만반의 준비 (신인감독 김연경2)",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610160116003"
-        },
-        {
-          "title": "다시 시작된 김연경의 도전… '신인감독 김연경' 신드롬 이어갈까",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026101316480000744"
-        }
-      ]
-    },
-    {
-      "id": "송중기",
-      "rank": 4,
-      "keyword": "송중기",
-      "volumeLabel": "1000+",
+      "keyword": "창신메모리테크놀로지",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '송중기·케이티, 이탈리아 결혼 생활·두 아이 공개... \"올리브 오일도 만들어\"' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '분기 영업익 세계 1위 삼성전자, 주가는 왜 또 폭락한 건데?' (인베스트조선) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "송중기·케이티, 이탈리아 결혼 생활·두 아이 공개... \"올리브 오일도 만들어\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/16/MU4GCMRRGM4DKMBTGRSTOZJZMQ/"
+          "title": "분기 영업익 세계 1위 삼성전자, 주가는 왜 또 폭락한 건데?",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/15/2026101580087.html"
         },
         {
-          "title": "최화정, 송중기 부부가 준 특별한 선물 공개…“너무 귀해서 아껴 먹어”",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261016/134852461/1"
+          "title": "[삼전닉스는 지금] CXMT 기술 마케팅에 흔들린 주가…경쟁력 판단은 아직 일러",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=352296"
         },
         {
-          "title": "'65세' 최화정, 송중기도 반한 다이어트 레시피 공개..\"이국적인 맛\"",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261015033911901"
+          "title": "“삼성 7만원·하이닉스 20만원”…이주완의 반도체 거품론, 과거 전망은 맞았나",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202610151749011"
         }
       ]
     },
     {
-      "id": "경상남도",
+      "id": "티켓링크",
+      "rank": 3,
+      "keyword": "티켓링크",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '인스파이어서 한일 음악과 패션 한 무대에 ACF KOREA 2026 티켓링크 단독 판매' (ER 이코노믹리뷰) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "인스파이어서 한일 음악과 패션 한 무대에 ACF KOREA 2026 티켓링크 단독 판매",
+          "source": "ER 이코노믹리뷰",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=753868"
+        },
+        {
+          "title": "티켓링크, ‘아시아 컬처 페스티벌 코리아 2026’ 티켓 단독 판매",
+          "source": "쿠키뉴스",
+          "url": "https://www.kukinews.com/article/view/kuk202610160026"
+        },
+        {
+          "title": "혼다 히토미·아다치 유토가 진행…오프닝은 에루와 청려사명여자",
+          "source": "유스연합",
+          "url": "https://www.youthassembly.kr/news/1011775"
+        }
+      ]
+    },
+    {
+      "id": "제네시스-gv90",
+      "rank": 4,
+      "keyword": "제네시스 gv90",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '2억 원짜리 국내차 상륙… GV90이 마이바흐에 도전장을 내다 [조두현의 테이스티드라이브]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "2억 원짜리 국내차 상륙… GV90이 마이바흐에 도전장을 내다 [조두현의 테이스티드라이브]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610078935i"
+        },
+        {
+          "title": "“나만의 GV90 컬러 찾는다” 제네시스, 네오룬 퍼스트 에디션 특별 전시[재율 아빠 국산차 업계 소식]",
+          "source": "Naver Blog",
+          "url": "https://blog.naver.com/PostView.naver?blogId=nasimo&logNo=224437681801"
+        },
+        {
+          "title": "[Car Special] 브랜드 혁신 담은 4대의 新車",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/culture/12175578"
+        }
+      ]
+    },
+    {
+      "id": "대장동",
       "rank": 5,
-      "keyword": "경상남도",
+      "keyword": "대장동",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "summary": "급상승 시점에 '성남도시개발공사, 대장동 김만배 아내에게 22억 ‘사해행위 취소 소송’' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": []
+      "newsSignals": [
+        {
+          "title": "성남도시개발공사, 대장동 김만배 아내에게 22억 ‘사해행위 취소 소송’",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/10/16/NEGYQVURYBHDXCYLWAV5CA7LQA/"
+        },
+        {
+          "title": "성남도시개발공사, ‘김만배 아내 22억’ 환수 소송...토지 가압류 신청",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261016580008"
+        },
+        {
+          "title": "‘대장동’ 김만배, 아내에 22억 은닉 의혹…성남도개공, 환수 소송",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261016/134854952/1"
+        }
+      ]
     },
     {
-      "id": "위버스",
+      "id": "노화",
       "rank": 6,
-      "keyword": "위버스",
+      "keyword": "노화",
       "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '늙은 세포를 다시 젊게… 노화 늦추는 유전자 찾았다 - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "늙은 세포를 다시 젊게… 노화 늦추는 유전자 찾았다 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/science-chosun/science/2026/10/16/GUZDAYZYGRSWEMRXGIZTQZRQGQ/"
+        },
+        {
+          "title": "노화 진행 44% ↓…하버드대가 찾아낸 '젊음의 유전자'",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800146"
+        },
+        {
+          "title": "“인류의 난제 드디어 해결되나”… AI 노화 속도 늦추는 유전자 발견",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/society/12176765"
+        }
+      ]
+    },
+    {
+      "id": "에이피알",
+      "rank": 7,
+      "keyword": "에이피알",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[단독] 미공개정보 샜나...에이피알, 비공개 그룹콜 10분 뒤 주가 급락' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[단독] 미공개정보 샜나...에이피알, 비공개 그룹콜 10분 뒤 주가 급락",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12177923"
+        },
+        {
+          "title": "[특징주] 화장품주, 반발매수세에 강세…달바글로벌 8%대 상승(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261016041051008"
+        },
+        {
+          "title": "'K뷰티 대장주' 에이피알, 연매출 3조시대 연다",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026101522392771869"
+        }
+      ]
+    },
+    {
+      "id": "강원도민일보",
+      "rank": 8,
+      "keyword": "강원도민일보",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '평창읍 주민총회·소통한마당 개최…오늘 오후 1시부터 8시까지 진행' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "평창읍 주민총회·소통한마당 개최…오늘 오후 1시부터 8시까지 진행",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3720986"
+        },
+        {
+          "title": "[포토뉴스]2026년 평창읍 주민총회·소통 한마당 행사",
+          "source": "강원일보",
+          "url": "https://www.kwnews.co.kr/article/20261016500256"
+        },
+        {
+          "title": "평창읍 주민총회 및 주민소통 한마당 열려",
+          "source": "강원도민일보",
+          "url": "https://www.kado.net/news/articleView.html?idxno=2078599"
+        }
+      ]
+    },
+    {
+      "id": "광주-도시철도-2호선",
+      "rank": 9,
+      "keyword": "광주 도시철도 2호선",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '광주 도시철도 2호선 또 10개월 연기… \"2035년 완공도 불투명\"' (녹색경제신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "광주 도시철도 2호선 또 10개월 연기… \"2035년 완공도 불투명\"",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=352161"
+        },
+        {
+          "title": "‘2량짜리 2호선’ 반입…수송 능력 ‘의문’ 여전",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8685780"
+        },
+        {
+          "title": "917억 규모 광주 2호선 전동차 사업…첫 차량 반입",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/politics/12177620"
+        }
+      ]
+    },
+    {
+      "id": "스마일게이트",
+      "rank": 10,
+      "keyword": "스마일게이트",
+      "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'CORTIS Community Post - 여러분 위버스 커뮤니티 가입자' (Weverse) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Smilegate STOVE Officially Launches LUV PLACE' (Inven Global) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "CORTIS Community Post - 여러분 위버스 커뮤니티 가입자",
-          "source": "Weverse",
-          "url": "https://weverse.io/cortis/artist/2-181016492"
-        },
-        {
-          "title": "[알림] NCT WISH ‘I SPY’ 진행 안내",
-          "source": "Weverse",
-          "url": "https://weverse.io/nctwish/notice/40085"
-        },
-        {
-          "title": "NCT 위시, 네 번째 미니앨범 발매... '고척스카이돔' 입성까지",
-          "source": "금강일보",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1187236"
-        }
-      ]
-    },
-    {
-      "id": "일본-프로-야구",
-      "rank": 7,
-      "keyword": "일본 프로 야구",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '하현승과 엇갈린 선택…일본 '157㎞/h 괴물 투수', NPB 대신 미국 도전' (일간스포츠) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "하현승과 엇갈린 선택…일본 '157㎞/h 괴물 투수', NPB 대신 미국 도전",
-          "source": "일간스포츠",
-          "url": "https://isplus.com/article/view/isp202610150167"
-        },
-        {
-          "title": "'157㎞' 오타니도 못한 걸 해낸 고3 유망주, 거취 놓고 기자회견 열었다 \"언어의 벽 넘고 메이저리그 진출하겠다\"",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1013233"
-        },
-        {
-          "title": "‘하현승 놓친 양키스가 40억 제안’ 日 157km 특급 유망주, 美 진출 공식 선언 “U-18 대회에서 자극받아” - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/16/202610160546778932O"
-        }
-      ]
-    },
-    {
-      "id": "tesla-stock",
-      "rank": 8,
-      "keyword": "tesla stock",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Barclays: \"Tesla and SpaceX Could Announce Merger This Year\"' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Barclays: \"Tesla and SpaceX Could Announce Merger This Year\"",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/en/article/2026101508563824981"
-        },
-        {
-          "title": "Wall Street has predicted that the announcement of a merger between Tesla and space company SpaceX l..",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/world/12177054"
-        },
-        {
-          "title": "Tesla-SpaceX Deal News Possible This Year, Barclays Analyst Says",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-14/tesla-spacex-deal-news-possible-this-year-barclays-analyst-says"
-        }
-      ]
-    },
-    {
-      "id": "임금체불",
-      "rank": 9,
-      "keyword": "임금체불",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '5인 미만 사업장 신고 83%는 임금체불…괴롭힘·부당해고는 ‘구제 대상 아님’' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "5인 미만 사업장 신고 83%는 임금체불…괴롭힘·부당해고는 ‘구제 대상 아님’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610161147001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news"
-        },
-        {
-          "title": "5인 미만 사업장 노동법 위반 신고 20만건…83%가 임금-퇴직금 미지급",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261016/134854092/1"
-        },
-        {
-          "title": "“우린 2등 국민이 아닙니다”…직장갑질119 첫 ‘5인 미만 노조’ 출범",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/labor/1282432.html"
-        }
-      ]
-    },
-    {
-      "id": "준플레이오프-예매",
-      "rank": 10,
-      "keyword": "준플레이오프 예매",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[그래픽] 2026 프로야구 포스트시즌 일정' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[그래픽] 2026 프로야구 포스트시즌 일정",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/GYH20261014001400044"
-        },
-        {
-          "title": "[그래픽] KBO 준플레이오프 경기 일정",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261015_0002263878"
-        },
-        {
-          "title": "‘마지막 잠실더비’ 티켓 한 장에 200만원…암표 단속에도 되팔이는 여전",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20101586"
+          "title": "Smilegate STOVE Officially Launches LUV PLACE",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/27283/smilegate-stove-officially-launches-luv-place"
         }
       ]
     }
