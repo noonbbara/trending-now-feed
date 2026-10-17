@@ -1,239 +1,71 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-17T19:40:57.239Z",
+  "updatedAt": "2026-10-17T22:09:41.486Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "betis-vs-barcelona",
+      "id": "태풍",
       "rank": 1,
-      "keyword": "betis vs barcelona",
-      "volumeLabel": "1000+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 '¿Cómo ver el partido Betis vs Barcelona en TV y streaming?' (Sports Illustrated) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "¿Cómo ver el partido Betis vs Barcelona en TV y streaming?",
-          "source": "Sports Illustrated",
-          "url": "https://www.si.com/es-us/como-ver-el-partido-betis-vs-barcelona-en-tv-y-streaming-17-10-2026"
-        },
-        {
-          "title": "«Carta de presentación para el Balón de Oro»: Lamine Yamal hace enloquecer a Hansi Flick con un gol increíble para el FC Barcelona",
-          "source": "Yahoo",
-          "url": "https://es-us.noticias.yahoo.com/deportes/carta-presentaci%C3%B3n-bal%C3%B3n-oro-lamine-153610164.html"
-        },
-        {
-          "title": "Así fue el cabezazo de Valentín Gómez para el 1-1 vs Barca",
-          "source": "365Scores",
-          "url": "https://www.365scores.com/es/news/asi-fue-el-cabezazo-de-valentin-gomez/"
-        }
-      ]
-    },
-    {
-      "id": "맨시티",
-      "rank": 2,
-      "keyword": "맨시티",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+3",
-      "summary": "급상승 시점에 '마레스카, 기록적인 출발에 기쁨 드러내' (Manchester City FC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "마레스카, 기록적인 출발에 기쁨 드러내",
-          "source": "Manchester City FC",
-          "url": "https://kr.mancity.com/news/mens/maresca-ipswich-postmatch-written-presser-63927854"
-        },
-        {
-          "title": "시티, 입스위치 꺾고 마레스카 프리미어리그 역사 새로 쓰다",
-          "source": "Manchester City FC",
-          "url": "https://kr.mancity.com/news/mens/man-city-ipswich-premier-league-match-report-october-2026-63927854"
-        },
-        {
-          "title": "포든, 시티 팬들의 응원에 \"최고\" 찬사",
-          "source": "Manchester City FC",
-          "url": "https://kr.mancity.com/news/mens/foden-post-ipswich-reaction-pl-17-oct-63927854"
-        }
-      ]
-    },
-    {
-      "id": "김정은",
-      "rank": 3,
-      "keyword": "김정은",
-      "volumeLabel": "200+",
+      "keyword": "태풍",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[클로즈업 북한] 살 쪄도 빠져도 관심…‘김정은 체중’에 담긴 의미는' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '30호 태풍 ’참피’ 북상 중…“경로 유동적“' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[클로즈업 북한] 살 쪄도 빠져도 관심…‘김정은 체중’에 담긴 의미는",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8688133"
+          "title": "30호 태풍 ’참피’ 북상 중…“경로 유동적“",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261016045146uca"
         },
         {
-          "title": "[지평선] 초고도비만 김정은",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026100614120004281"
+          "title": "제30호 태풍 참피 경로 서쪽 조정…22일 오키나와 남남서쪽",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16249891"
         },
         {
-          "title": "[알립니다] NK경제는 김정은 총비서 몸무게 기사를 쓰지 않습니다",
-          "source": "NK경제",
-          "url": "https://www.nkeconomy.com/news/articleView.html?idxno=17284"
+          "title": "13년 만의 30호 태풍에 '물난리 악몽' 日 초긴장…\"4등급까지 세진다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/10/16/2026101618215428944"
         }
       ]
     },
     {
-      "id": "라민-야말",
-      "rank": 4,
-      "keyword": "라민 야말",
-      "volumeLabel": "100+",
+      "id": "한국경제",
+      "rank": 2,
+      "keyword": "한국경제",
+      "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한시 플릭 감독은 바르셀로나가 단 한 번도 승리를 놓치는 것을 원하지 않는다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '전쟁은 얼마나 오래 주식시장을 지배하는가 [조윤남의 사이클투자]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "한시 플릭 감독은 바르셀로나가 단 한 번도 승리를 놓치는 것을 원하지 않는다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/hansi-flick-khong-muon-barcelona-danh-roi-bat-ky-chien-thang-nao"
+          "title": "전쟁은 얼마나 오래 주식시장을 지배하는가 [조윤남의 사이클투자]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610126778i"
         },
         {
-          "title": "[오늘, 이 장면] ‘라보나 드리블’ 본 적 있나요? 야말이라 가능한…",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12323035"
+          "title": "미 증시, 이란 협상 결렬 버티기...호르무즈 전운에도 선물 '반등'",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/262738"
         },
         {
-          "title": "'와' 2007년생 발롱도르 2위, 인격도 월클이네!…마스코트 키즈에 재킷 벗어 선물→그라운드선 환상 2도움 \"경기 MVP\"",
-          "source": "www.xportsnews.com",
-          "url": "https://www.xportsnews.com/article/2207402"
+          "title": "한국 잠재성장률 '대반전'…40년 만에 연속 반등 전망",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261017019100002"
         }
       ]
     },
     {
-      "id": "분데스리가",
-      "rank": 5,
-      "keyword": "분데스리가",
-      "volumeLabel": "200+",
+      "id": "김민재",
+      "rank": 3,
+      "keyword": "김민재",
+      "volumeLabel": "2000+",
       "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '분데스리가 2위 에네르기, 코트부스서 뉘른베르크와 맞대결' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "분데스리가 2위 에네르기, 코트부스서 뉘른베르크와 맞대결",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3724612"
-        },
-        {
-          "title": "이재성-황희찬, 대표팀 은퇴 소동 이후 첫 맞대결…'이재성 선발 출전' 마인츠, '황희찬 교체 투입' 샬케에 승리",
-          "source": "마이데일리",
-          "url": "https://www.mydaily.co.kr/page/view/2026101800373651193"
-        },
-        {
-          "title": "‘이재성 VS 황희찬 정면대결’ 코리안 더비 발발! 마인츠 승리로 이재성 판정승",
-          "source": "풋볼리스트",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "id": "psg",
-      "rank": 6,
-      "keyword": "psg",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 'Le résumé : City 2-4 PSG' (Manchester City FC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Le résumé : City 2-4 PSG",
-          "source": "Manchester City FC",
-          "url": "https://fr.mancity.com/citytv/mens/le-resume-city-2-4-psg-63927754"
-        },
-        {
-          "title": "Manchester City : Enzo Maresca ne digère toujours pas la défaite face au PSG !",
-          "source": "Foot Mercato",
-          "url": "https://www.footmercato.net/a8560048598238839720-manchester-city-enzo-maresca-ne-digere-toujours-pas-la-defaite-face-au-psg"
-        },
-        {
-          "title": "Luis Enrique prend la défense de City concernant les infractions financières et se fait allumer : « Dès qu’il parle d’autre chose, il est catastrophique",
-          "source": "Circus Daily",
-          "url": "https://www.circusdaily.com/fr/ligue-des-champions/luis-enrique-prend-la-defense-de-city-concernant-les-infractions-financieres-et-12953"
-        }
-      ]
-    },
-    {
-      "id": "la-liga",
-      "rank": 7,
-      "keyword": "la liga",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Youssouf Fofana reaches ‘firm decision’ on joining Man Utd in January' (Football365) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Youssouf Fofana reaches ‘firm decision’ on joining Man Utd in January",
-          "source": "Football365",
-          "url": "https://www.football365.com/news/youssouf-fofana-manchester-united-sevilla-ac-milan-2027-january-transfer-decision-made"
-        },
-        {
-          "title": "Youssouf Fofana reacts after Man Utd put ‘pressure’ to sign him",
-          "source": "TEAMtalk",
-          "url": "https://www.teamtalk.com/manchester-united/youssouf-fofana-man-utd-sevilla-ac-milan-2927-january-transfer-decision-reached"
-        },
-        {
-          "title": "PREVIEW | Getafe CF vs Rayo Vallecano: team news, lineups, predictions (La Liga 19/10)",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/preview-getafe-cf-vs-rayo-191000840.html"
-        }
-      ]
-    },
-    {
-      "id": "이재성",
-      "rank": 8,
-      "keyword": "이재성",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '이재성-황희찬, 대표팀 은퇴 소동 이후 첫 맞대결…'이재성 선발 출전' 마인츠, '황희찬 교체 투입' 샬케에 승리' (마이데일리) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "이재성-황희찬, 대표팀 은퇴 소동 이후 첫 맞대결…'이재성 선발 출전' 마인츠, '황희찬 교체 투입' 샬케에 승리",
-          "source": "마이데일리",
-          "url": "https://www.mydaily.co.kr/page/view/2026101800373651193"
-        },
-        {
-          "title": "‘이재성 VS 황희찬 정면대결’ 코리안 더비 발발! 마인츠 승리로 이재성 판정승",
-          "source": "풋볼리스트",
-          "url": ""
-        },
-        {
-          "title": "“이제 황희찬의 시간이 오는가?” 대표팀 은퇴 논란 빚은 황희찬, 샬케서 주전 기회 잡을까",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610161918003"
-        }
-      ]
-    },
-    {
-      "id": "바이에른-뮌헨",
-      "rank": 9,
-      "keyword": "바이에른 뮌헨",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "급상승 시점에 '축구 국가대표 수비수 김민재, 'EPL 챔피언' 아스널 이적설' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
@@ -245,14 +77,210 @@
           "url": "https://www.newsis.com/view/NISX20261017_0003829958"
         },
         {
-          "title": "'국가대표 은퇴설'로 비판 받는 김민재, 프리미어리그 입성할까…아스날, 긴급 영입 추진한다 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/football/2026/10/17/GE2TKMBTMUYTAYRXMFRWKYTCGI/"
+          "title": "‘새 움직임!’ 토트넘, 韓 축구 21호 프리미어리거 탄생 가능성 재점화 “로메로 대체자로 겨울에 KIM 영입 ...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610180606003"
         },
         {
-          "title": "‘공식 입장’ 밝혔다! 김민재, 아스널 이적 가능성···바이에른 단장 “지금 선수단에 만족, 1월에 별다른 조치...",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610171932003"
+          "title": "'국가대표 수비수' 김민재, 獨 바이에른 뮌헨→英 아스널 이적설",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261017000083"
+        }
+      ]
+    },
+    {
+      "id": "편의점",
+      "rank": 4,
+      "keyword": "편의점",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '아이스크림 냉동고가 안방?…3시간 드러누운 취객에 편의점 ‘발칵’' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "아이스크림 냉동고가 안방?…3시간 드러누운 취객에 편의점 ‘발칵’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261017/134858642/1"
+        },
+        {
+          "title": "아이스크림 냉동고서 3시간 '쿨쿨'…무인매장 민폐 취객",
+          "source": "TV조선뉴스",
+          "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/17/2026101790125.html"
+        },
+        {
+          "title": "물건 사러 온 손님들 오가는데... 무인 편의점 ‘냉동고’에 3시간 누워 버틴 취객",
+          "source": "인사이트",
+          "url": "https://www.insight.co.kr/news/578119"
+        }
+      ]
+    },
+    {
+      "id": "손아섭",
+      "rank": 5,
+      "keyword": "손아섭",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘FA 1억→트레이드’ 지난해 KS 뛰었던 2655안타 베테랑, 가을야구 대타 기회도 없이 벤치에서 끝나다' (OSEN) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘FA 1억→트레이드’ 지난해 KS 뛰었던 2655안타 베테랑, 가을야구 대타 기회도 없이 벤치에서 끝나다",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112893089"
+        },
+        {
+          "title": "'2번의 대타 모두 외면' FA 1억 '찬밥' 대우 → 트레이드 감수했는데…2번째 KS는 없었다. 빛바랜 2655안타, 허망하게 끝난 손아섭의 가을야구 [SC피플]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/15/MFSDONLBGAYDEOJYGY3GGNZTMY/"
+        },
+        {
+          "title": "'한화→두산' 대형 트레이드 주인공, 깜짝 WC 합류→그러나 대타 기회도 없었다…'내년 39세' 현역 은퇴 기로 설까",
+          "source": "엑스포츠뉴스",
+          "url": "https://www.xportsnews.com/article/2207936"
+        }
+      ]
+    },
+    {
+      "id": "파운드리",
+      "rank": 6,
+      "keyword": "파운드리",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'TSMC2나노 돌풍에 파운드리 요동… 삼성 ‘추격’, SK ‘수혜’' (글로벌이코노믹) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "TSMC2나노 돌풍에 파운드리 요동… 삼성 ‘추격’, SK ‘수혜’",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610171414437887fbbec65dfb_1"
+        },
+        {
+          "title": "D.A. Davidson, 호실적에 TSMC 매수 의견 재확인",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/analyst-ratings/article-93CH-2130159"
+        },
+        {
+          "title": "외인 매도폭탄에도 굳센 대만, 한국 구원투수는 자충수만…",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/economy_general/2026/10/16/TENMCIK46RDKZCZLT53HJC7SGM/"
+        }
+      ]
+    },
+    {
+      "id": "ufc",
+      "rank": 7,
+      "keyword": "ufc",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'NOW PLAY@~STREAMING] BEARS VS VIKINGS LIVE Fighting 2026 UPDATE IN 18 O…' (Universidad de Córdoba (UCO)) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "NOW PLAY@~STREAMING] BEARS VS VIKINGS LIVE Fighting 2026 UPDATE IN 18 October 2026",
+          "source": "Universidad de Córdoba (UCO)",
+          "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2dldnRzdi5naXRodWIuaW8vdmFsby9jaS54bWwiLz48L2tycGFubz4=&id=video-now-playstreaming-bears-vs-v-b98pgprl"
+        },
+        {
+          "title": "UFC Edmonton live results, highlights, play-by-play",
+          "source": "MMA Mania",
+          "url": "https://www.mmamania.com/ufc-results/478559/ufc-edmonton-live-results-highlights-play-by-play-malott-vs-buckley"
+        },
+        {
+          "title": "LIVE/FREE:Buckley vs Malott LIVE STREA.Ms ON 17th. October. 2026",
+          "source": "Universidad de Córdoba (UCO)",
+          "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vc2Fnb3JtaWEwMDQ3LmdpdGh1Yi5pby9hbnRzdHJlYW0vbmNhLnhtbCIvPjwva3JwYW5vPg==&id=video-buckley-vs-malott-live-on-free-today-match-en-gb9001-f2ekzjj"
+        }
+      ]
+    },
+    {
+      "id": "real-betis-vs-fc-barcelona-standings",
+      "rank": 8,
+      "keyword": "real betis vs fc barcelona standings",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''Best in the world' Yamal propels Barcelona to record-equaling LaLiga s…' (ESPN) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'Best in the world' Yamal propels Barcelona to record-equaling LaLiga start",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50203285/lamine-yamal-barcelona-laliga-start-record-real-betis"
+        },
+        {
+          "title": "Real Betis 2-5 Barcelona - Lamine Yamal and Rodri score as Barca continue winning run",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/ck5ynp68evpvt"
+        },
+        {
+          "title": "European football: Barcelona thrash Real Betis to maintain 100% record",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/17/european-football-bayern-munich-barcelona-psg-inter"
+        }
+      ]
+    },
+    {
+      "id": "봉화송이축제",
+      "rank": 9,
+      "keyword": "봉화송이축제",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '봉화송이축제서 교류도시 한자리에···지역 간 상생협력 강화' (뉴데일리 대구경북) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "봉화송이축제서 교류도시 한자리에···지역 간 상생협력 강화",
+          "source": "뉴데일리 대구경북",
+          "url": "https://tk.newdaily.co.kr/site/data/html/2026/10/16/2026101600281.html"
+        },
+        {
+          "title": "경북 봉화군, 경북도민체전 상징물 디자인 매뉴얼 중간보고회 개최",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261016500066"
+        },
+        {
+          "title": "봉화송이축제 30주년, 가을 먹거리와 문화공연으로 축제 열기 더해",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=718724"
+        }
+      ]
+    },
+    {
+      "id": "wnba-finals",
+      "rank": 10,
+      "keyword": "wnba finals",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Angel Reese rocks Barbie x Reebok collab for WNBA Finals debut' (Yahoo Sports) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Angel Reese rocks Barbie x Reebok collab for WNBA Finals debut",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/angel-reese-rocks-barbie-x-195611459.html"
+        },
+        {
+          "title": "Angel Reese drives fans wild with behind-the-scenes look at collaboration ahead of WNBA Finals",
+          "source": "MARCA",
+          "url": "https://www.marca.com/en/basketball/wnba/atlanta-dream/2026/10/17/angel-reese-drives-fans-wild-with-behind-the-scenes-look-at-collaboration-ahead-of-wnba-finals.html"
+        },
+        {
+          "title": "Your Next Brand Collaboration Needs A Better Reason For Existing Than ‘Publicity’",
+          "source": "Inc.com",
+          "url": "https://www.inc.com/emily-cody/brand-collaborations-angel-reese-jcrew/91415699"
         }
       ]
     }
