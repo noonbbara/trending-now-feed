@@ -1,270 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-17T01:13:33.082Z",
+  "updatedAt": "2026-10-17T06:02:43.527Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "메이저-리그-사커",
+      "id": "lg-대-kia",
       "rank": 1,
-      "keyword": "메이저 리그 사커",
-      "volumeLabel": "2000+",
+      "keyword": "lg 대 kia",
+      "volumeLabel": "50000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '손흥민, 'LAFC 동료' 부앙가와 함께 MLS 이주의 팀 선정' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '이범호 KIA 감독 \"1∼5번 상위 타순 활약에 승패 달려\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "손흥민, 'LAFC 동료' 부앙가와 함께 MLS 이주의 팀 선정",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261017_0003829858"
-        },
-        {
-          "title": "살아난 ’흥부 듀오’ MLS 주간 베스트11 선정",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261016232306rae"
-        },
-        {
-          "title": "'1골 2도움 원맨쇼' 손흥민, 메시 제치고 리그 도움 1위",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858299_37004.html"
-        }
-      ]
-    },
-    {
-      "id": "레이스-대-가디언즈",
-      "rank": 2,
-      "keyword": "레이스 대 가디언즈",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'MLB 클리블랜드, ALCS서 탬파베이 꺾고 2승 1패로 앞서가' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "MLB 클리블랜드, ALCS서 탬파베이 꺾고 2승 1패로 앞서가",
+          "title": "이범호 KIA 감독 \"1∼5번 상위 타순 활약에 승패 달려\"",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261016021000007"
+          "url": "https://www.yna.co.kr/view/AKR20261017024900007"
         },
         {
-          "title": "정규시즌 4홈런 타자의 가을 반란… 가디언스, ALCS 2승 1패",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/10/16/EOXR4YKSYZDOJHWFDPZNC65CHI/"
-        },
-        {
-          "title": "'핼핀 결승 투런포' 클리블랜드, 탬파베이에 역전승",
+          "title": "야구 팬들로 북적이는 KIA팀스토어",
           "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261016_0002265213"
+          "url": "https://mobile.newsis.com/photo/NISI20261017_0021492386"
+        },
+        {
+          "title": "'한 달째 무안타, 터질 때까지 간다'...홍창기 톱타자, 무릎 부상 오지환 전격 복귀, 희망과 불안의 LG 라인업 터질까",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112893963"
         }
       ]
     },
     {
-      "id": "백진희",
-      "rank": 3,
-      "keyword": "백진희",
+      "id": "티빙",
+      "rank": 2,
+      "keyword": "티빙",
       "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''내년 헨리와♥결혼' 백진희, 다이어트 돌입?..\"어린이만큼 먹어\" ('지니이즈백')' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[디깅노트] 반복된 질타, 세 번 사과한 티빙…국감은 무엇을 남겼나' (블로터) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'내년 헨리와♥결혼' 백진희, 다이어트 돌입?..\"어린이만큼 먹어\" ('지니이즈백')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/17/GM4GCMZYMQ2TCNZXMNSWKNJSGQ/"
+          "title": "[디깅노트] 반복된 질타, 세 번 사과한 티빙…국감은 무엇을 남겼나",
+          "source": "블로터",
+          "url": "https://www.bloter.net/news/articleView.html?idxno=675813"
         },
         {
-          "title": "'헨리♥와 결혼' 백진희, 캐나다 신혼 준비 중 몸매 관리?..군살 제로",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261016154221109"
+          "title": "티빙, 3954만 계정 유출 뒤 ‘보상판촉’ 논란…과징금 감경·보안투자 공백 도마",
+          "source": "로이슈",
+          "url": "https://www.lawissue.co.kr/view.php?ud=2026101417103019979817d053b9_12"
         },
         {
-          "title": "백진희, 1월 결혼 앞두고 “다이어트 그만해”…수영복까지 입었다",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12178359"
+          "title": "국감서 드러난 티빙의 '성장통'…보안 부실에 보상 논란까지 [엔터그알]",
+          "source": "MTN 머니투데이방송",
+          "url": "https://news.mtn.co.kr/article/2026100719191677522"
         }
       ]
     },
     {
-      "id": "조세",
-      "rank": 4,
-      "keyword": "조세",
+      "id": "mlb",
+      "rank": 3,
+      "keyword": "mlb",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "한다감",
-      "rank": 5,
-      "keyword": "한다감",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '47세 한다감, 손예진·이민정과 같은 산후조리원…2주 최고 5040만원' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Game 4 of MLB American League Championship Series Postponed Due to Rain' (news.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "47세 한다감, 손예진·이민정과 같은 산후조리원…2주 최고 5040만원",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261016/134856199/1"
+          "title": "Game 4 of MLB American League Championship Series Postponed Due to Rain",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008802059"
         },
         {
-          "title": "한다감, '47세 출산' 한 달도 안 됐는데…민낯에도 독보적 동안 미모 [N샷]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6322916"
-        },
-        {
-          "title": "'연예계 최고령 출산' 한다감, 뭉클한 심경 \"늦은 나이에 만났지만…잘 키워 볼게요\" - 조선비즈",
+          "title": "Cleveland pauses ALCS as rain delays Game 4, tightens schedule - CHOSUNBIZ",
           "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/10/16/G44DMZTDMU2TENBTG5RTEYZUGQ/"
+          "url": "https://biz.chosun.com/en/en-sports/2026/10/17/G3NSDDOG2JE5PDMSDJSLYDIYBM/"
+        },
+        {
+          "title": "Rays-Guardians ALCS Game 4 lineups, FAQ (Sat., 8 ET, TBS/HBO Max)",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/when-is-rays-vs-guardians-alcs-game-4-date-time-and-lineups"
         }
       ]
     },
     {
-      "id": "한화오션",
-      "rank": 6,
-      "keyword": "한화오션",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
+      "id": "can-vs-nep",
+      "rank": 4,
+      "keyword": "can vs nep",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한화오션 원·하청 임단협 교섭 평행선…고공농성 지속 전망' (매일경제 마켓) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Match Predictions: ICC CWC League 2 2026 - Match 138 - Canada vs Nepal …' (Cricket World) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "한화오션 원·하청 임단협 교섭 평행선…고공농성 지속 전망",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1176176"
+          "title": "Match Predictions: ICC CWC League 2 2026 - Match 138 - Canada vs Nepal - October 16th",
+          "source": "Cricket World",
+          "url": "https://www.cricketworld.com/match-predictions-icc-cwc-league-2-2026-match-138-canada-vs-nepal-october-16th/113837.htm"
         },
         {
-          "title": "‘노사 임단협에 골머리’ 한화오션 고공농성 지속 전망",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3440965"
+          "title": "Nepal Beats Canada by 24 Runs to Strengthen League Two Position",
+          "source": "SuaraGarut.ID",
+          "url": "https://suaragarut.id/en/nepal-beats-canada-league-two"
         },
         {
-          "title": "한화오션, ‘고공 농성’ 노조 주장에…“교섭과 불법행위 대응은 별개”",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20261016029197294"
+          "title": "Canada’s Victory Prolongs Nepal’s Wait",
+          "source": "Ekantipur",
+          "url": "https://ekantipur.com/sports/2026/10/15/en/canadas-victory-prolongs-nepals-wait-58-20.html"
         }
       ]
     },
     {
-      "id": "서효림",
+      "id": "야구중계",
+      "rank": 5,
+      "keyword": "야구중계",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''아빠, 저 여자는 왜 벗고 있어?' MLB 중계 중 선정 광고 논란…다저스 외야수 \"제발 없애달라\"' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'아빠, 저 여자는 왜 벗고 있어?' MLB 중계 중 선정 광고 논란…다저스 외야수 \"제발 없애달라\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/16/GRTGMNDGMFSGKNZZGQ2WKODEMI/"
+        },
+        {
+          "title": "시드니 스위니 광고 논란, 스포츠·연예계 비판 쏟아져 [DA할리우드]",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261016/134853210/1"
+        },
+        {
+          "title": "온 가족이 보는 야구 중계에 '반나체 여성' 광고 노출…선수 분노 \"광고 없애라\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261016_0003829229"
+        }
+      ]
+    },
+    {
+      "id": "tving",
+      "rank": 6,
+      "keyword": "tving",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Winning the Lottery’s Top Prize Finally Brought Work and Colleagues int…' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Winning the Lottery’s Top Prize Finally Brought Work and Colleagues into Focus",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/culture/12175879"
+        },
+        {
+          "title": "\"I've never made a fortune off my face\"... Lee Jun-hyuk has already hit the jackpot, 'Lotto 1st Prize' [★FULL Interview]",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/en/star/2026/10/17/2026101617115725402"
+        },
+        {
+          "title": "Lotto Win Doesn't Reverse Life, Office Drama Shows Work's Value",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/national-en/2026/10/10/HHTQTEPASRG4DHV7PCZTRCNRYE/"
+        }
+      ]
+    },
+    {
+      "id": "아주대-소아-응급실",
       "rank": 7,
-      "keyword": "서효림",
+      "keyword": "아주대 소아 응급실",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"진료 중단, 의료진 범죄자 취급\" 소아응급센터장이 전한 그날' (의협신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"진료 중단, 의료진 범죄자 취급\" 소아응급센터장이 전한 그날",
+          "source": "의협신문",
+          "url": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=166773"
+        },
+        {
+          "title": "의료계, 경찰에 ’소아응급실 압수수색’ 사과 요구",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/myh20261016062249iz7"
+        },
+        {
+          "title": "“생후 6개월 경련 환아 응급처치 중 압색… 절차도 무시”",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261015519752"
+        }
+      ]
+    },
+    {
+      "id": "싸이카",
+      "rank": 8,
+      "keyword": "싸이카",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"'故김수미 팔아 김치 판다' 시선 두려웠다\"…서효림, 2주기 맞춰 김치 론칭' (스포츠조선) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“살려야 한다. 23㎞를 20분에”…중상 소방관 태운 구급차 앞에 싸이카가 달렸다' (문화일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"'故김수미 팔아 김치 판다' 시선 두려웠다\"…서효림, 2주기 맞춰 김치 론칭",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-10-16/202610160100105130006791"
+          "title": "“살려야 한다. 23㎞를 20분에”…중상 소방관 태운 구급차 앞에 싸이카가 달렸다",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11624160"
         },
         {
-          "title": "서효림, 故 김수미 2주기에 김치 브랜드 정식 론칭…“엄마가 옆에 와준 느낌”",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16248998"
+          "title": "[영상]\"당신을 위하여\"…다친 소방관 위해 '23km 싸이카 질주'[뉴스럽다]",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6592586"
         },
         {
-          "title": "서효림, 故 김수미 떠난 지 2년 만에 결심…시어머니 따라 '김치 브랜드' 정식 론칭",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2208159"
+          "title": "[와글와글] 시민 구하는 \"당신을 위하여\" 경찰 특급 호송 작전",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6858348_37012.html"
         }
       ]
     },
     {
-      "id": "라면",
-      "rank": 8,
-      "keyword": "라면",
+      "id": "오마이뉴스",
+      "rank": 9,
+      "keyword": "오마이뉴스",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '라면까지 제쳤다…미국인들 환장한다는 '한국 밥도둑' [권용훈의 트렌드워치]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '이화영 재심 쟁점 된 국정원 문건... 수원고법원장 \"고도의 개연성 있어야\"' (OhmyNews) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "라면까지 제쳤다…미국인들 환장한다는 '한국 밥도둑' [권용훈의 트렌드워치]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610165778i"
+          "title": "이화영 재심 쟁점 된 국정원 문건... 수원고법원장 \"고도의 개연성 있어야\"",
+          "source": "OhmyNews",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003275995"
         },
         {
-          "title": "\"주문 쏟아지는데\"…화장품용기 '대란' 속타는 K뷰티",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026101520325645291"
+          "title": "野 \"이화영 재심 청구는 형집행정지 노림수\"…국감서 질타",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261016149100061"
         },
         {
-          "title": "[데스크리포트 10월] 옛 말 된 '미제 일제 넘버원', 그러나 세계가 찾는 'K브랜드' 성취감에 취할 때 아니다",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449374"
+          "title": "이화영 재심 청구 추진에…수원고등법원장 “유죄 유지할 수 없는 개연성 있어야”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610161829001"
         }
       ]
     },
     {
-      "id": "신승태",
-      "rank": 9,
-      "keyword": "신승태",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김용빈, 라이벌 신승태와 재대결…100점으로 승리' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김용빈, 라이벌 신승태와 재대결…100점으로 승리",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261017_0003829873"
-        },
-        {
-          "title": "[TV조선] 세기의 가왕 특집",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/16/L4P5NPYD2BGUXM4EC2IQ4TQH4A/"
-        },
-        {
-          "title": "‘금타는 금요일’ 양지은, 제3대 골든컵 주인공 될까…뜻밖의 복병 등장",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/521528"
-        }
-      ]
-    },
-    {
-      "id": "손아섭",
+      "id": "포괄적-점진적-환태평양-경제-동반자-협정",
       "rank": 10,
-      "keyword": "손아섭",
+      "keyword": "포괄적 점진적 환태평양 경제 동반자 협정",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''2번의 대타 모두 외면' FA 1억 '찬밥' 대우 → 트레이드 감수했는데…2번째 KS는 없었다. 빛바랜 2655안타, 허망하게…' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '전세계 GDP 14% 묶은 거대블록 CPTPP…트럼프 시대 뜨거운 감자' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'2번의 대타 모두 외면' FA 1억 '찬밥' 대우 → 트레이드 감수했는데…2번째 KS는 없었다. 빛바랜 2655안타, 허망하게 끝난 손아섭의 가을야구 [SC피플]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/15/MFSDONLBGAYDEOJYGY3GGNZTMY/"
+          "title": "전세계 GDP 14% 묶은 거대블록 CPTPP…트럼프 시대 뜨거운 감자",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261016069000003"
         },
         {
-          "title": "'한화→두산' 대형 트레이드 주인공, 깜짝 WC 합류→그러나 대타 기회도 없었다…'내년 39세' 현역 은퇴 기로 설까",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2207936"
+          "title": "세계 GDP 14% 묶은 CPTPP…가입하면 수출 기회, 농업은 타격 우려",
+          "source": "매일경제TV",
+          "url": "https://mbnmoney.mbn.co.kr/mobile/view?news_no=MM1005940845"
         },
         {
-          "title": "[포토] 손아섭-임찬규, 가을야구에서 만났네",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/baseball/2026-10-14/202610140100091180005895"
+          "title": "농업인단체 “농림축수산업 희생 전제한 통상정책 벗어나야”",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2635384"
         }
       ]
     }
