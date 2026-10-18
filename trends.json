@@ -1,288 +1,267 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-17T22:09:41.486Z",
+  "updatedAt": "2026-10-18T00:12:59.089Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "태풍",
+      "id": "음식",
       "rank": 1,
-      "keyword": "태풍",
+      "keyword": "음식",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '30호 태풍 ’참피’ 북상 중…“경로 유동적“' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"아, 단 게 당긴다!\"… 스트레스받은 날 먹기 좋은 건강한 음식 5가지' (하이닥) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "30호 태풍 ’참피’ 북상 중…“경로 유동적“",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261016045146uca"
+          "title": "\"아, 단 게 당긴다!\"… 스트레스받은 날 먹기 좋은 건강한 음식 5가지",
+          "source": "하이닥",
+          "url": "https://news.hidoc.co.kr/news/articleView.html?idxno=68779"
         },
         {
-          "title": "제30호 태풍 참피 경로 서쪽 조정…22일 오키나와 남남서쪽",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16249891"
+          "title": "“스트레스받으면 살이 쏙 빠진다고요?”…알고 보니 ‘내장지방’만 쌓이는 무서운 이유 [헬스픽]",
+          "source": "www.twig24.com",
+          "url": "https://www.twig24.com/news/lifestyle/healthcare/2026/10/15/20261015500266"
         },
         {
-          "title": "13년 만의 30호 태풍에 '물난리 악몽' 日 초긴장…\"4등급까지 세진다\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/10/16/2026101618215428944"
-        }
-      ]
-    },
-    {
-      "id": "한국경제",
-      "rank": 2,
-      "keyword": "한국경제",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '전쟁은 얼마나 오래 주식시장을 지배하는가 [조윤남의 사이클투자]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "전쟁은 얼마나 오래 주식시장을 지배하는가 [조윤남의 사이클투자]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610126778i"
-        },
-        {
-          "title": "미 증시, 이란 협상 결렬 버티기...호르무즈 전운에도 선물 '반등'",
-          "source": "코인리더스",
-          "url": "https://www.coinreaders.com/262738"
-        },
-        {
-          "title": "한국 잠재성장률 '대반전'…40년 만에 연속 반등 전망",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261017019100002"
-        }
-      ]
-    },
-    {
-      "id": "김민재",
-      "rank": 3,
-      "keyword": "김민재",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '축구 국가대표 수비수 김민재, 'EPL 챔피언' 아스널 이적설' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "축구 국가대표 수비수 김민재, 'EPL 챔피언' 아스널 이적설",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261017_0003829958"
-        },
-        {
-          "title": "‘새 움직임!’ 토트넘, 韓 축구 21호 프리미어리거 탄생 가능성 재점화 “로메로 대체자로 겨울에 KIM 영입 ...",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610180606003"
-        },
-        {
-          "title": "'국가대표 수비수' 김민재, 獨 바이에른 뮌헨→英 아스널 이적설",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261017000083"
-        }
-      ]
-    },
-    {
-      "id": "편의점",
-      "rank": 4,
-      "keyword": "편의점",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '아이스크림 냉동고가 안방?…3시간 드러누운 취객에 편의점 ‘발칵’' (동아일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "아이스크림 냉동고가 안방?…3시간 드러누운 취객에 편의점 ‘발칵’",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261017/134858642/1"
-        },
-        {
-          "title": "아이스크림 냉동고서 3시간 '쿨쿨'…무인매장 민폐 취객",
-          "source": "TV조선뉴스",
-          "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/17/2026101790125.html"
-        },
-        {
-          "title": "물건 사러 온 손님들 오가는데... 무인 편의점 ‘냉동고’에 3시간 누워 버틴 취객",
+          "title": "스트레스 받으면 터지는 식탐... 몸속에 숨겨진 ‘이 유전자’ 탓",
           "source": "인사이트",
-          "url": "https://www.insight.co.kr/news/578119"
+          "url": "https://www.insight.co.kr/news/577990"
         }
       ]
     },
     {
-      "id": "손아섭",
-      "rank": 5,
-      "keyword": "손아섭",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘FA 1억→트레이드’ 지난해 KS 뛰었던 2655안타 베테랑, 가을야구 대타 기회도 없이 벤치에서 끝나다' (OSEN) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘FA 1억→트레이드’ 지난해 KS 뛰었던 2655안타 베테랑, 가을야구 대타 기회도 없이 벤치에서 끝나다",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112893089"
-        },
-        {
-          "title": "'2번의 대타 모두 외면' FA 1억 '찬밥' 대우 → 트레이드 감수했는데…2번째 KS는 없었다. 빛바랜 2655안타, 허망하게 끝난 손아섭의 가을야구 [SC피플]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/15/MFSDONLBGAYDEOJYGY3GGNZTMY/"
-        },
-        {
-          "title": "'한화→두산' 대형 트레이드 주인공, 깜짝 WC 합류→그러나 대타 기회도 없었다…'내년 39세' 현역 은퇴 기로 설까",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2207936"
-        }
-      ]
-    },
-    {
-      "id": "파운드리",
-      "rank": 6,
-      "keyword": "파운드리",
+      "id": "애틀랜타-유나이티드-대-인터-마이애미",
+      "rank": 2,
+      "keyword": "애틀랜타 유나이티드 대 인터 마이애미",
       "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'TSMC2나노 돌풍에 파운드리 요동… 삼성 ‘추격’, SK ‘수혜’' (글로벌이코노믹) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'MLS 2026 애틀랜타 유나이티드 대 인터 마이애미 축구 예측' (Laodong.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "TSMC2나노 돌풍에 파운드리 요동… 삼성 ‘추격’, SK ‘수혜’",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610171414437887fbbec65dfb_1"
+          "title": "MLS 2026 애틀랜타 유나이티드 대 인터 마이애미 축구 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/the-thao/nhan-dinh-bong-da-atlanta-united-vs-inter-miami-tai-giai-mls-2026-1784713.ldo"
         },
         {
-          "title": "D.A. Davidson, 호실적에 TSMC 매수 의견 재확인",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/analyst-ratings/article-93CH-2130159"
-        },
-        {
-          "title": "외인 매도폭탄에도 굳센 대만, 한국 구원투수는 자충수만…",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/economy_general/2026/10/16/TENMCIK46RDKZCZLT53HJC7SGM/"
+          "title": "애틀랜타 유나이티드 FC 대 인터 마이애미 경기 예측: 홈팀이 큰 도전에 직면할 것입니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-atlanta-united-fc-vs-inter-miami-chu-nha-dung-truoc-thu-thach-lon"
         }
       ]
     },
     {
-      "id": "ufc",
-      "rank": 7,
-      "keyword": "ufc",
+      "id": "전투기",
+      "rank": 3,
+      "keyword": "전투기",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'F-22 조종사, 무인전투기 '퓨리' 첫 지휘…공중서 임무 하달' (데일리방산) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "F-22 조종사, 무인전투기 '퓨리' 첫 지휘…공중서 임무 하달",
+          "source": "데일리방산",
+          "url": "https://www.dailydefense.co.kr/news/articleView.html?idxno=2562"
+        },
+        {
+          "title": "F-22, 무인전투기 '퓨리' 공중 지휘 첫 성공 : 미국",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1030600"
+        },
+        {
+          "title": "[영상] 러 본토 날아간 '롱넵튠'…우크라 \"전폭기 4대 파괴·2대 타격\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20261016009800704"
+        }
+      ]
+    },
+    {
+      "id": "경주-국제-마라톤",
+      "rank": 4,
+      "keyword": "경주 국제 마라톤",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'NOW PLAY@~STREAMING] BEARS VS VIKINGS LIVE Fighting 2026 UPDATE IN 18 O…' (Universidad de Córdoba (UCO)) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '김홍민·김가이, 경주국제마라톤대회 국내 남녀부 우승' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "NOW PLAY@~STREAMING] BEARS VS VIKINGS LIVE Fighting 2026 UPDATE IN 18 October 2026",
-          "source": "Universidad de Córdoba (UCO)",
-          "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2dldnRzdi5naXRodWIuaW8vdmFsby9jaS54bWwiLz48L2tycGFubz4=&id=video-now-playstreaming-bears-vs-v-b98pgprl"
+          "title": "김홍민·김가이, 경주국제마라톤대회 국내 남녀부 우승",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261017027200007"
         },
         {
-          "title": "UFC Edmonton live results, highlights, play-by-play",
-          "source": "MMA Mania",
-          "url": "https://www.mmamania.com/ufc-results/478559/ufc-edmonton-live-results-highlights-play-by-play-malott-vs-buckley"
+          "title": "42.195km 달리고 '불과 3초 차' 대접전, 경주국제마라톤 혈투 끝 벌어졌다! 김홍민·김가이 국내 정상 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/17/2026101713271695944"
         },
         {
-          "title": "LIVE/FREE:Buckley vs Malott LIVE STREA.Ms ON 17th. October. 2026",
-          "source": "Universidad de Córdoba (UCO)",
-          "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vc2Fnb3JtaWEwMDQ3LmdpdGh1Yi5pby9hbnRzdHJlYW0vbmNhLnhtbCIvPjwva3JwYW5vPg==&id=video-buckley-vs-malott-live-on-free-today-match-en-gb9001-f2ekzjj"
+          "title": "서울시 \"시 후원 마라톤 줄었지만 중앙정부 후원 마라톤 급증…시민 불편 줄일 것\"",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800558"
         }
       ]
     },
     {
-      "id": "real-betis-vs-fc-barcelona-standings",
+      "id": "아시아-축구-연맹",
+      "rank": 5,
+      "keyword": "아시아 축구 연맹",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'AFC가 주목한 아시안컵 스타 \"34세 손흥민, 마지막 정상 도전\"' (노컷뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "AFC가 주목한 아시안컵 스타 \"34세 손흥민, 마지막 정상 도전\"",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6592902"
+        },
+        {
+          "title": "\"한국 무려 66년간 아시안컵 무관이잖아!\" AFC도 주목한 한국축구…월클 손흥민, 아시안컵 우승할 마지막 기회 잡을까",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112894252"
+        },
+        {
+          "title": "AFC, 아시안컵 주목할 선수에 손흥민…\"마지막 우승 도전\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261017027700007"
+        }
+      ]
+    },
+    {
+      "id": "날씨예보",
+      "rank": 6,
+      "keyword": "날씨예보",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '베트남 북부 맑고 남부 늦은 오후 뇌우 : 날씨' (재경일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "베트남 북부 맑고 남부 늦은 오후 뇌우 : 날씨",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1030346"
+        },
+        {
+          "title": "2026년 10월 17일 밤부터 2026년 10월 27일까지 내륙 지역 날씨 예보: 천둥, 강풍, 번개에 주의하십시오.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/du-bao-thoi-tiet-dat-lien-tu-dem-17-10-2026-den-ngay-27-10-2026-de-phong-mua-dong-loc-set"
+        },
+        {
+          "title": "10월 17일 하노이 날씨 예보: 하노이는 맑은 날씨에 기온이 34°C까지 올라 덥고 습하겠습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/du-bao-thoi-tiet-ngay-17-10-ha-noi-nang-34c-troi-oi-buc"
+        }
+      ]
+    },
+    {
+      "id": "뇌사",
+      "rank": 7,
+      "keyword": "뇌사",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '가수 김하늘 \"뇌사 판정 동생 장기기증 수술…장례식 않기로\"' (노컷뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "가수 김하늘 \"뇌사 판정 동생 장기기증 수술…장례식 않기로\"",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6592937"
+        },
+        {
+          "title": "김하늘 동생 사고로 응급실 치료중 사망 “뇌사 판정” 안타까운 소식",
+          "source": "서울신문",
+          "url": "https://m.seoul.co.kr/news/entertainment/2026/10/16/20261016500264"
+        },
+        {
+          "title": "로맨틱멜로디초비, 동생 사고로 뇌사 판정 비보 “가족 뜻따라 장기기증 결정” - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/16/GJRGMMZWMVQWCNRXGUZWKNTBME/"
+        }
+      ]
+    },
+    {
+      "id": "제이미-바디",
       "rank": 8,
-      "keyword": "real betis vs fc barcelona standings",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''Best in the world' Yamal propels Barcelona to record-equaling LaLiga s…' (ESPN) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'Best in the world' Yamal propels Barcelona to record-equaling LaLiga start",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/story/_/id/50203285/lamine-yamal-barcelona-laliga-start-record-real-betis"
-        },
-        {
-          "title": "Real Betis 2-5 Barcelona - Lamine Yamal and Rodri score as Barca continue winning run",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/ck5ynp68evpvt"
-        },
-        {
-          "title": "European football: Barcelona thrash Real Betis to maintain 100% record",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/oct/17/european-football-bayern-munich-barcelona-psg-inter"
-        }
-      ]
-    },
-    {
-      "id": "봉화송이축제",
-      "rank": 9,
-      "keyword": "봉화송이축제",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '봉화송이축제서 교류도시 한자리에···지역 간 상생협력 강화' (뉴데일리 대구경북) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "봉화송이축제서 교류도시 한자리에···지역 간 상생협력 강화",
-          "source": "뉴데일리 대구경북",
-          "url": "https://tk.newdaily.co.kr/site/data/html/2026/10/16/2026101600281.html"
-        },
-        {
-          "title": "경북 봉화군, 경북도민체전 상징물 디자인 매뉴얼 중간보고회 개최",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261016500066"
-        },
-        {
-          "title": "봉화송이축제 30주년, 가을 먹거리와 문화공연으로 축제 열기 더해",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=718724"
-        }
-      ]
-    },
-    {
-      "id": "wnba-finals",
-      "rank": 10,
-      "keyword": "wnba finals",
+      "keyword": "제이미 바디",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Angel Reese rocks Barbie x Reebok collab for WNBA Finals debut' (Yahoo Sports) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '주급 5만원 공장 노동자에 18억 베팅…결과는 ‘5000분의 1 우승 동화’' (세계일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Angel Reese rocks Barbie x Reebok collab for WNBA Finals debut",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/angel-reese-rocks-barbie-x-195611459.html"
+          "title": "주급 5만원 공장 노동자에 18억 베팅…결과는 ‘5000분의 1 우승 동화’",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261013517655"
         },
         {
-          "title": "Angel Reese drives fans wild with behind-the-scenes look at collaboration ahead of WNBA Finals",
-          "source": "MARCA",
-          "url": "https://www.marca.com/en/basketball/wnba/atlanta-dream/2026/10/17/angel-reese-drives-fans-wild-with-behind-the-scenes-look-at-collaboration-ahead-of-wnba-finals.html"
+          "title": "손흥민도 이런 꿈의 복귀 가능할까...39세에 英 무대 돌아온 레전드, 5경기 만에 데뷔골 폭발",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99392"
         },
         {
-          "title": "Your Next Brand Collaboration Needs A Better Reason For Existing Than ‘Publicity’",
-          "source": "Inc.com",
-          "url": "https://www.inc.com/emily-cody/brand-collaborations-angel-reese-jcrew/91415699"
+          "title": "‘늦게 핀 꽃이 아름답다!’ 프리미어리그 득점왕 출신 제이미 바디의 화려한 복귀...무려 ‘20시즌 연속 득점’ 대기록 달성",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=696573"
         }
       ]
+    },
+    {
+      "id": "thứ-hạng-của-real-betis-gặp-barcelona",
+      "rank": 9,
+      "keyword": "thứ hạng của real betis gặp barcelona",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Video bóng đá Real Betis - Barcelona: Siêu phẩm Yamal mở màn đại tiệc 7…' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Video bóng đá Real Betis - Barcelona: Siêu phẩm Yamal mở màn đại tiệc 7 bàn (La Liga)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-real-betis-barcelona-sieu-pham-yamal-mo-man-dai-tiec-7-ban-la-liga-c48a1803589.html"
+        },
+        {
+          "title": "Barca trả giá đắt, Garcia nguy cơ lỡ hẹn đại chiến PSG và Real",
+          "source": "bongda.com.vn",
+          "url": "https://bongda.com.vn/barca-tra-gia-dat-garcia-nguy-co-lo-hen-dai-chien-psg-va-real-d851475.html"
+        },
+        {
+          "title": "Flick khen Yamal là cầu thủ hay nhất thế giới lúc này",
+          "source": "yeuthethao.net.vn",
+          "url": "https://yeuthethao.net.vn/flick-khen-yamal-la-cau-thu-hay-nhat-the-gioi-luc-nay-d899008.html"
+        }
+      ]
+    },
+    {
+      "id": "klasemen-real-betis-vs-fc-barcelona",
+      "rank": 10,
+      "keyword": "klasemen real betis vs fc barcelona",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
     }
   ]
 }
