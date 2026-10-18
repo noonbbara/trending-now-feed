@@ -1,267 +1,288 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-18T00:12:59.089Z",
+  "updatedAt": "2026-10-18T05:01:04.309Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "음식",
+      "id": "골프",
       "rank": 1,
-      "keyword": "음식",
-      "volumeLabel": "2000+",
+      "keyword": "골프",
+      "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"아, 단 게 당긴다!\"… 스트레스받은 날 먹기 좋은 건강한 음식 5가지' (하이닥) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '군위군, 전국 최대 규모 파크골프장으로 스포츠관광 선도' (브릿지경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"아, 단 게 당긴다!\"… 스트레스받은 날 먹기 좋은 건강한 음식 5가지",
-          "source": "하이닥",
-          "url": "https://news.hidoc.co.kr/news/articleView.html?idxno=68779"
+          "title": "군위군, 전국 최대 규모 파크골프장으로 스포츠관광 선도",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261017500028"
         },
         {
-          "title": "“스트레스받으면 살이 쏙 빠진다고요?”…알고 보니 ‘내장지방’만 쌓이는 무서운 이유 [헬스픽]",
-          "source": "www.twig24.com",
-          "url": "https://www.twig24.com/news/lifestyle/healthcare/2026/10/15/20261015500266"
+          "title": "군위 삼국유사 파크골프장 1단계 81홀 준공",
+          "source": "스트레이트뉴스",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=313327"
         },
         {
-          "title": "스트레스 받으면 터지는 식탐... 몸속에 숨겨진 ‘이 유전자’ 탓",
-          "source": "인사이트",
-          "url": "https://www.insight.co.kr/news/577990"
+          "title": "81홀 문 열고 99홀 더…군위, 180홀 파크골프장 조성",
+          "source": "경북일보",
+          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4087466"
         }
       ]
     },
     {
-      "id": "애틀랜타-유나이티드-대-인터-마이애미",
+      "id": "매출액",
       "rank": 2,
-      "keyword": "애틀랜타 유나이티드 대 인터 마이애미",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "keyword": "매출액",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'MLS 2026 애틀랜타 유나이티드 대 인터 마이애미 축구 예측' (Laodong.vn) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[더차트] '오디세이', 역대 외화 매출액 1위...'아바타2'도 넘었다 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "MLS 2026 애틀랜타 유나이티드 대 인터 마이애미 축구 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/the-thao/nhan-dinh-bong-da-atlanta-united-vs-inter-miami-tai-giai-mls-2026-1784713.ldo"
-        },
-        {
-          "title": "애틀랜타 유나이티드 FC 대 인터 마이애미 경기 예측: 홈팀이 큰 도전에 직면할 것입니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-atlanta-united-fc-vs-inter-miami-chu-nha-dung-truoc-thu-thach-lon"
-        }
-      ]
-    },
-    {
-      "id": "전투기",
-      "rank": 3,
-      "keyword": "전투기",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'F-22 조종사, 무인전투기 '퓨리' 첫 지휘…공중서 임무 하달' (데일리방산) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "F-22 조종사, 무인전투기 '퓨리' 첫 지휘…공중서 임무 하달",
-          "source": "데일리방산",
-          "url": "https://www.dailydefense.co.kr/news/articleView.html?idxno=2562"
-        },
-        {
-          "title": "F-22, 무인전투기 '퓨리' 공중 지휘 첫 성공 : 미국",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1030600"
-        },
-        {
-          "title": "[영상] 러 본토 날아간 '롱넵튠'…우크라 \"전폭기 4대 파괴·2대 타격\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20261016009800704"
-        }
-      ]
-    },
-    {
-      "id": "경주-국제-마라톤",
-      "rank": 4,
-      "keyword": "경주 국제 마라톤",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김홍민·김가이, 경주국제마라톤대회 국내 남녀부 우승' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김홍민·김가이, 경주국제마라톤대회 국내 남녀부 우승",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261017027200007"
-        },
-        {
-          "title": "42.195km 달리고 '불과 3초 차' 대접전, 경주국제마라톤 혈투 끝 벌어졌다! 김홍민·김가이 국내 정상 - 머니투데이",
+          "title": "[더차트] '오디세이', 역대 외화 매출액 1위...'아바타2'도 넘었다 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/17/2026101713271695944"
+          "url": "https://www.mt.co.kr/society/2026/10/17/2026101515103743832"
         },
         {
-          "title": "서울시 \"시 후원 마라톤 줄었지만 중앙정부 후원 마라톤 급증…시민 불편 줄일 것\"",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800558"
+          "title": "[최한수의 그리스 문명기행] 고대 그리스어의 두 얼굴",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261015580050"
+        },
+        {
+          "title": "오디세우스도 누군가에겐 '바다민족'이었다? 영화 '오디세이' 속 바다민족의 정체는",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026101321240004511"
         }
       ]
     },
     {
-      "id": "아시아-축구-연맹",
-      "rank": 5,
-      "keyword": "아시아 축구 연맹",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "id": "la-갤럭시-대-샌디에이고-fc",
+      "rank": 3,
+      "keyword": "la 갤럭시 대 샌디에이고 fc",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'AFC가 주목한 아시안컵 스타 \"34세 손흥민, 마지막 정상 도전\"' (노컷뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[la 갤럭시 대 샌디에이고 fc] 토미·클라우스 골 폭발로 리드 잡았다' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "AFC가 주목한 아시안컵 스타 \"34세 손흥민, 마지막 정상 도전\"",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6592902"
+          "title": "[la 갤럭시 대 샌디에이고 fc] 토미·클라우스 골 폭발로 리드 잡았다",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3724749"
         },
         {
-          "title": "\"한국 무려 66년간 아시안컵 무관이잖아!\" AFC도 주목한 한국축구…월클 손흥민, 아시안컵 우승할 마지막 기회 잡을까",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112894252"
+          "title": "로스앤젤레스 갤럭시 vs 샌디에이고 예측: 원정팀이 부진을 끝내기 위해 필사적으로 노력할 것이다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-los-angeles-galaxy-vs-san-diego-khach-quyet-chan-da-sa-sut"
         },
         {
-          "title": "AFC, 아시안컵 주목할 선수에 손흥민…\"마지막 우승 도전\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261017027700007"
-        }
-      ]
-    },
-    {
-      "id": "날씨예보",
-      "rank": 6,
-      "keyword": "날씨예보",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '베트남 북부 맑고 남부 늦은 오후 뇌우 : 날씨' (재경일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "베트남 북부 맑고 남부 늦은 오후 뇌우 : 날씨",
+          "title": "LA 갤럭시, 샌디에고 FC에 2-1 전반 리드 : 스포츠",
           "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1030346"
-        },
-        {
-          "title": "2026년 10월 17일 밤부터 2026년 10월 27일까지 내륙 지역 날씨 예보: 천둥, 강풍, 번개에 주의하십시오.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/du-bao-thoi-tiet-dat-lien-tu-dem-17-10-2026-den-ngay-27-10-2026-de-phong-mua-dong-loc-set"
-        },
-        {
-          "title": "10월 17일 하노이 날씨 예보: 하노이는 맑은 날씨에 기온이 34°C까지 올라 덥고 습하겠습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/du-bao-thoi-tiet-ngay-17-10-ha-noi-nang-34c-troi-oi-buc"
+          "url": "https://news.jkn.co.kr/post/1031446"
         }
       ]
     },
     {
-      "id": "뇌사",
-      "rank": 7,
-      "keyword": "뇌사",
-      "volumeLabel": "100+",
+      "id": "사우디-아라비아",
+      "rank": 4,
+      "keyword": "사우디 아라비아",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이슬람 성지서 ‘부적절한 행위’…사우디, 외국인 남녀 2명 사형 집행' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이슬람 성지서 ‘부적절한 행위’…사우디, 외국인 남녀 2명 사형 집행",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261018/134859568/1"
+        },
+        {
+          "title": "메카 모스크에서 음행한 남녀…사우디 전격 처형에 외교 분쟁 조짐",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1702771/%EB%A9%94%EC%B9%B4-%EB%AA%A8%EC%8A%A4%ED%81%AC-%EC%9D%8C%ED%96%89%ED%95%9C-%EB%82%A8%EB%85%80%EC%82%AC%EC%9A%B0%EB%94%94-%EC%A0%84%EA%B2%A9-2026"
+        },
+        {
+          "title": "모스크에서 남녀가 뭘 했길래…사우디, 외국인 2명 사형",
+          "source": "한국경제TV",
+          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610170044"
+        }
+      ]
+    },
+    {
+      "id": "대학수학능력시험",
+      "rank": 5,
+      "keyword": "대학수학능력시험",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '수능 수학 상위권 지역 격차 12%p…5년 새 최대' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "수능 수학 상위권 지역 격차 12%p…5년 새 최대",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261016_0003829392"
+        },
+        {
+          "title": "수능 영어 1~2등급 지역 간 격차, 5년 연속 국어·수학보다 컸다",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6592602"
+        },
+        {
+          "title": "고3 수능 수학 성적보니...서울 2등급 이내는 16.7%인데 꼴찌는 4.7% - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/10/18/2026101809221633928"
+        }
+      ]
+    },
+    {
+      "id": "일론-머스크",
+      "rank": 6,
+      "keyword": "일론 머스크",
+      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '가수 김하늘 \"뇌사 판정 동생 장기기증 수술…장례식 않기로\"' (노컷뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"중국이 D램 쏟아낼 것\"…머스크는 왜 2028년을 콕 집었나' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "가수 김하늘 \"뇌사 판정 동생 장기기증 수술…장례식 않기로\"",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6592937"
+          "title": "\"중국이 D램 쏟아낼 것\"…머스크는 왜 2028년을 콕 집었나",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261016074300003"
         },
         {
-          "title": "김하늘 동생 사고로 응급실 치료중 사망 “뇌사 판정” 안타까운 소식",
-          "source": "서울신문",
-          "url": "https://m.seoul.co.kr/news/entertainment/2026/10/16/20261016500264"
+          "title": "머스크 “中, 2028년 D램 대량 생산”… 삼성·SK하이닉스 겨냥했나",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172224"
         },
         {
-          "title": "로맨틱멜로디초비, 동생 사고로 뇌사 판정 비보 “가족 뜻따라 장기기증 결정” - 조선비즈",
+          "title": "추락한 삼전·닉스 솟아날 구멍 있을까…머스크마저 \"中 엄청난 양 D램 쏟아낼 것\"",
+          "source": "매일신문",
+          "url": "https://www.imaeil.com/page/view/2026101806521084157"
+        }
+      ]
+    },
+    {
+      "id": "로스-앤젤레스-다저스",
+      "rank": 7,
+      "keyword": "로스 앤젤레스 다저스",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘또 유령 취급’ 김혜성 솔직 인터뷰 떴다, 마음고생 이 정도였다니 “ML서 고작 한 달, 가장 마음 아팠다” - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘또 유령 취급’ 김혜성 솔직 인터뷰 떴다, 마음고생 이 정도였다니 “ML서 고작 한 달, 가장 마음 아팠다” - 조선비즈",
           "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/16/GJRGMMZWMVQWCNRXGUZWKNTBME/"
+          "url": "https://biz.chosun.com/sports/baseball/2026/10/18/MZQWGMZTG5SWGOBWGY3DAY3EHA/"
+        },
+        {
+          "title": "“야구 인생서 가장 아쉬운 한해” 2026시즌 돌아본 LA 다저스 김혜성의 소회",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20261018/134860046/1"
+        },
+        {
+          "title": "\"KIM 더 나은 선수 만들겠다\" 참선배 자처한 로하스, 눈물의 은퇴 선언...\"이렇게 끝내고 싶지 않았는데, 오늘이 마지막\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/16/202610161359775341O"
         }
       ]
     },
     {
-      "id": "제이미-바디",
+      "id": "서승재",
       "rank": 8,
-      "keyword": "제이미 바디",
+      "keyword": "서승재",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '주급 5만원 공장 노동자에 18억 베팅…결과는 ‘5000분의 1 우승 동화’' (세계일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘와! 1세트 21-5, 10분 만에 이겼다고?’ 역시 세계 1위 김원호-서승재, 한일전 통쾌한 승리…덴마크오픈 4강 진출' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "주급 5만원 공장 노동자에 18억 베팅…결과는 ‘5000분의 1 우승 동화’",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261013517655"
+          "title": "‘와! 1세트 21-5, 10분 만에 이겼다고?’ 역시 세계 1위 김원호-서승재, 한일전 통쾌한 승리…덴마크오픈 4강 진출",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/16/202610161840776503O"
         },
         {
-          "title": "손흥민도 이런 꿈의 복귀 가능할까...39세에 英 무대 돌아온 레전드, 5경기 만에 데뷔골 폭발",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99392"
+          "title": "서승재-김원호, 말레이시아 조에 패배 \"아쉽지만 최선을 다했다\"",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3724570"
         },
         {
-          "title": "‘늦게 핀 꽃이 아름답다!’ 프리미어리그 득점왕 출신 제이미 바디의 화려한 복귀...무려 ‘20시즌 연속 득점’ 대기록 달성",
-          "source": "인터풋볼",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=696573"
+          "title": "한일전 제압했지만…김원호·서승재, 4강서 세계 1위에 덜미",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12323520"
         }
       ]
     },
     {
-      "id": "thứ-hạng-của-real-betis-gặp-barcelona",
+      "id": "총경",
       "rank": 9,
-      "keyword": "thứ hạng của real betis gặp barcelona",
+      "keyword": "총경",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Video bóng đá Real Betis - Barcelona: Siêu phẩm Yamal mở màn đại tiệc 7…' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '울릉경찰서 제70대 정용우 서장 취임… “현장 중심 치안·인명 피해 Zero”' (뉴데일리 대구경북) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Video bóng đá Real Betis - Barcelona: Siêu phẩm Yamal mở màn đại tiệc 7 bàn (La Liga)",
-          "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/video-bong-da-real-betis-barcelona-sieu-pham-yamal-mo-man-dai-tiec-7-ban-la-liga-c48a1803589.html"
+          "title": "울릉경찰서 제70대 정용우 서장 취임… “현장 중심 치안·인명 피해 Zero”",
+          "source": "뉴데일리 대구경북",
+          "url": "https://tk.newdaily.co.kr/site/data/html/2026/10/16/2026101600168.html"
         },
         {
-          "title": "Barca trả giá đắt, Garcia nguy cơ lỡ hẹn đại chiến PSG và Real",
-          "source": "bongda.com.vn",
-          "url": "https://bongda.com.vn/barca-tra-gia-dat-garcia-nguy-co-lo-hen-dai-chien-psg-va-real-d851475.html"
+          "title": "정용우 울릉경찰서장 취임…“주민·관광객 안전 지키는 현장 치안”",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/General-News/2026/10/202610161649219824de70f162d1_1"
         },
         {
-          "title": "Flick khen Yamal là cầu thủ hay nhất thế giới lúc này",
-          "source": "yeuthethao.net.vn",
-          "url": "https://yeuthethao.net.vn/flick-khen-yamal-la-cau-thu-hay-nhat-the-gioi-luc-nay-d899008.html"
+          "title": "제70대 울릉경찰서장 정용우 총경 취임… `현장·안전 최우선`",
+          "source": "매일신문",
+          "url": "https://www.imaeil.com/page/view/2026101613422865546"
         }
       ]
     },
     {
-      "id": "klasemen-real-betis-vs-fc-barcelona",
+      "id": "강풍-경보",
       "rank": 10,
-      "keyword": "klasemen real betis vs fc barcelona",
+      "keyword": "강풍 경보",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "summary": "급상승 시점에 '인천 연평도.우도에 호우주의보 해제' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": []
+      "newsSignals": [
+        {
+          "title": "인천 연평도.우도에 호우주의보 해제",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261018028500527"
+        },
+        {
+          "title": "인천 백령도·대청도 강풍경보…서해중부 안쪽 먼바다 풍랑경보",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261018_0003830368"
+        },
+        {
+          "title": "속보 서해5도·흑산도·홍도 강풍경보...서해안 강풍주의보",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0108_202610180837030217"
+        }
+      ]
     }
   ]
 }
