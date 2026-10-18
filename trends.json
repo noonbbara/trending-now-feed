@@ -1,85 +1,29 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-18T19:34:38.941Z",
+  "updatedAt": "2026-10-18T22:21:40.550Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "레알-마드리드-대-세비야",
+      "id": "신세계-백화점-강남점",
       "rank": 1,
-      "keyword": "레알 마드리드 대 세비야",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
+      "keyword": "신세계 백화점 강남점",
+      "volumeLabel": "20000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '! [FOX TV] 2026년 레알 마드리드 CF vs 세비야 FC - 무료 TV 중계' (Universidad de Córdoba (UCO)) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '강풍에 지붕 날아가고…폭우에 곳곳 도로 침수' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "! [FOX TV] 2026년 레알 마드리드 CF vs 세비야 FC - 무료 TV 중계",
-          "source": "Universidad de Córdoba (UCO)",
-          "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2Vtb25mZmhzaHMtdGVjaC5naXRodWIuaW8vY29wYWsvaW5kZXgueG1sIi8+PC9rcnBhbm8+&id=video-fox-tv-2026-cf-vs-fc-tv-kor"
+          "title": "강풍에 지붕 날아가고…폭우에 곳곳 도로 침수",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261018180444qH0"
         },
         {
-          "title": "레알 마드리드 vs 세비야 경기 예측: 우승 경쟁의 뜨거운 화제",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-real-madrid-vs-sevilla-diem-nong-cuoc-dua-top-dau"
-        },
-        {
-          "title": "라리가: 레알에게 있어 홈 세비야 전은 반드시 이겨야 하는 경기다",
-          "source": "티스토리",
-          "url": "https://sbotopkr.tistory.com/2625"
-        }
-      ]
-    },
-    {
-      "id": "구성환",
-      "rank": 2,
-      "keyword": "구성환",
-      "volumeLabel": "2000+",
-      "startedLabel": "4시간 전",
-      "change": "up",
-      "changeLabel": "+2",
-      "summary": "급상승 시점에 ''나혼산' 또 시끌...구성환 번지점프, 뭐가 문제였나 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'나혼산' 또 시끌...구성환 번지점프, 뭐가 문제였나 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/18/2026101822193675760"
-        },
-        {
-          "title": "감 잃은 ‘나혼산’ 조작 논란도 모자라 안전불감증까지? 아찔한 잡음 [MK★이슈]",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12178669"
-        },
-        {
-          "title": "구성환, 26살 연하 친구 공개..\"꽃분이 덕에 가까워져\" ('나혼산') - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/GYZGIZBRGAYTCNRWGUZTEOBQGA/"
-        }
-      ]
-    },
-    {
-      "id": "신세계백화점-강남점",
-      "rank": 3,
-      "keyword": "신세계백화점 강남점",
-      "volumeLabel": "2000+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 '강풍에 뜯겨 날아간 아파트 지붕…도로를 막은 쓰러진 나무' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "강풍에 뜯겨 날아간 아파트 지붕…도로를 막은 쓰러진 나무",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8688463"
-        },
-        {
-          "title": "침수에 천막까지 ‘와르르’…요란한 가을비에 곳곳 물바다",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12323581"
+          "title": "미끄러지고 잠기고‥전국 호우·강풍 피해 7백 건",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6858851_37012.html"
         },
         {
           "title": "신세계백화점 강남점 출차 지연…\"5시간째 제자리, 지옥 같아\"",
@@ -89,182 +33,254 @@
       ]
     },
     {
-      "id": "김건희",
-      "rank": 4,
-      "keyword": "김건희",
-      "volumeLabel": "200+",
+      "id": "후티",
+      "rank": 2,
+      "keyword": "후티",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] 검찰, “김건희 방조범 성립 가능” 반부패부 보고 받고도 ‘무혐의’' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '분쟁 격화 후 첫 연합군 사망…예멘선 수십 명 사상' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[단독] 검찰, “김건희 방조범 성립 가능” 반부패부 보고 받고도 ‘무혐의’",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1282961.html"
+          "title": "분쟁 격화 후 첫 연합군 사망…예멘선 수십 명 사상",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8688578"
         },
         {
-          "title": "[단독] '김건희 황제조사' 검사, 조서엔 이름도 없었다‥수사팀과는 '3천 번' 연락",
+          "title": "사우디 헬기 격추‥'첫 전사자' 긴장 고조",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6858789_36918.html"
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6858859_37012.html"
         },
         {
-          "title": "‘김건희 황제조사’ 검사, 인사 뒤에도 수사팀과 3300여건 대화·수사 관여",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1282934.html"
+          "title": "기름값 또 오르겠네…전쟁 불안에 재고까지 '뚝'[주末머니]",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026101611315321673"
         }
       ]
     },
     {
-      "id": "nottm-forest-vs-arsenal",
-      "rank": 5,
-      "keyword": "nottm forest vs arsenal",
-      "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
-      "change": "up",
-      "changeLabel": "+1",
-      "summary": "급상승 시점에 'EPL: Madueke Strikes Late as Arsenal Beat Forest to Go Back Up to Second' (Dawan Africa) 관련 뉴스가 함께 포착됐어요.",
+      "id": "기사",
+      "rank": 3,
+      "keyword": "기사",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '까마귀처럼 앉은 '부천 전깃줄'…욕하고 조롱하더니 결국' (주간조선) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "EPL: Madueke Strikes Late as Arsenal Beat Forest to Go Back Up to Second",
-          "source": "Dawan Africa",
-          "url": "https://www.dawan.africa/news/epl-madueke-strikes-late-as-arsenal-beat-forest-to-go-back-up-to-second"
+          "title": "까마귀처럼 앉은 '부천 전깃줄'…욕하고 조롱하더니 결국",
+          "source": "주간조선",
+          "url": ""
         },
         {
-          "title": "Premier League LIVE: Arsenal beat Forest after Man Utd & Leeds draw, Brighton and Bournemouth win",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cq62j1yn44jxt"
+          "title": "부천시, 막장 유튜버 강력 대응 1년…기행 방송 감소",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261015128100065"
         },
         {
-          "title": "Noni Madueke’s late goal gives Arsenal victory over Forest — BBC Sport",
-          "source": "UA.NEWS",
-          "url": "https://ua.news/en/sport/noni-madueke-piznim-golom-prinis-arsenalu-peremogu-nad-forest-bbc-sport"
+          "title": "행인에게 욕설하고 기괴한 춤…\"까마귀 같다\" 단속했더니",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801989"
         }
       ]
     },
     {
-      "id": "연휴",
+      "id": "madrid-vs-sevilla",
+      "rank": 4,
+      "keyword": "madrid vs sevilla",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '¿Cómo ver el partido Real Madrid vs Sevilla en TV y streaming?' (Sports Illustrated) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "¿Cómo ver el partido Real Madrid vs Sevilla en TV y streaming?",
+          "source": "Sports Illustrated",
+          "url": "https://www.si.com/es-us/como-ver-el-partido-real-madrid-vs-sevilla-en-tv-y-streaming-18-10-2026"
+        },
+        {
+          "title": "Jose Mourinho encuentra el equilibrio",
+          "source": "Infobae",
+          "url": "https://www.infobae.com/america/agencias/2026/10/18/jose-mourinho-encuentra-el-equilibrio/"
+        },
+        {
+          "title": "Goles de museo",
+          "source": "Diario AS",
+          "url": "https://as.com/opinion/goles-de-museo-f202610-n/"
+        }
+      ]
+    },
+    {
+      "id": "로스앤젤레스-다저스",
+      "rank": 5,
+      "keyword": "로스앤젤레스 다저스",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"내가 마법을 부렸어!\" 前 한화 외인 타자 감격, 밀워키 '우승 요정' 되나…끝내기 안타 3번 다 현장에 있었다' (OSEN) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"내가 마법을 부렸어!\" 前 한화 외인 타자 감격, 밀워키 '우승 요정' 되나…끝내기 안타 3번 다 현장에 있었다",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112894789"
+        },
+        {
+          "title": "\"로버츠보다 극한 직업 없다, 1년 전 다저스 축하 모습 보고…\" 밀워키 승자의 품격, MVP는 왜 자극받았나 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/18/202610171238774662O"
+        },
+        {
+          "title": "“건강보험이 필요했다” 2년 전 은퇴 결심했던 망한 유망주가 밀워키의 구세주가 됐다… NLCS MVP 제이크 바...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610171203003"
+        }
+      ]
+    },
+    {
+      "id": "라리가",
       "rank": 6,
-      "keyword": "연휴",
+      "keyword": "라리가",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '바르셀로나, 개막 9연승…새 역사까지 단 ‘1승’' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "바르셀로나, 개막 9연승…새 역사까지 단 ‘1승’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610182033005"
+        },
+        {
+          "title": "'야말 1골 1도움' 바르사, 라리가 개막 최다 연승 타이 '9연승'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261018012900007"
+        },
+        {
+          "title": "'충격, 이건 축구가 아니고 오락 게임이다' 9연승 39골 몰아쳤다, 바르셀로나 또 베티스 5-2 대파..'경기당 평균 4골 이상 폭발, 시즌 11연승→모든 대회 우승한다'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/10/18/MQ3TGMDDMY3GMYRVMM3TKN3BMY/"
+        }
+      ]
+    },
+    {
+      "id": "реал-мадрид-севилья",
+      "rank": 7,
+      "keyword": "реал мадрид севилья",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '2027년 음력 설 연휴에는 공무원과 공공기관 직원들이 7일간의 휴가를 갖게 됩니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '«Реал» — «Севилья»: Килиан Мбаппе обыграл вратаря и забил на 37-й минуте' (https://www.championat.ru/) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "2027년 음력 설 연휴에는 공무원과 공공기관 직원들이 7일간의 휴가를 갖게 됩니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/can-bo-cong-chuc-vien-chuc-nghi-7-ngay-tet-am-lich-2027"
+          "title": "«Реал» — «Севилья»: Килиан Мбаппе обыграл вратаря и забил на 37-й минуте",
+          "source": "https://www.championat.ru/",
+          "url": "https://www.championat.ru/football/news-6662996-real-madrid-sevilya-kilian-mbappe-obygral-vratarya-i-zabil-na-37-j-minute-18-oktyabrya-2026.html"
         },
         {
-          "title": "2027년 기업의 주요 휴일 및 설날(음력 설) 일정은 무엇인가요?",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/lich-nghi-le-tet-nam-2027-tai-doanh-nghiep-co-gi-dang-chu-y"
+          "title": "«Реал» огласил стартовый состав на игру с «Севильей»",
+          "source": "Sport24.ru",
+          "url": "https://sport24.ru/football/news-890802-real-oglasil-startovyy-sostav-na-igru-s-sevilyey"
         },
         {
-          "title": "2027년 연휴 기간 동안 직원들은 총 며칠의 유급 휴가를 받을 수 있습니까?",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/le-tet-2027-nguoi-lao-dong-duoc-nghi-bao-nhieu-ngay-huong-nguyen-luong"
+          "title": "Лунин остался в резерве. Реал – Севилья: обнародованы стартовые составы",
+          "source": "Sport.ua",
+          "url": "https://sport.ua/news/916858-lunin-ostalsya-v-rezerve-real-sevilya-obnarodovany-startovye-sostavy"
         }
       ]
     },
     {
-      "id": "빗썸",
-      "rank": 7,
-      "keyword": "빗썸",
+      "id": "real-madrid-đấu-với-sevilla",
+      "rank": 8,
+      "keyword": "real madrid đấu với sevilla",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Video bóng đá Real Madrid - Sevilla: Thị uy trước Siêu kinh điển (La Li…' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Video bóng đá Real Madrid - Sevilla: Thị uy trước Siêu kinh điển (La Liga)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-real-madrid-sevilla-thi-uy-truoc-sieu-kinh-dien-la-liga-c48a1803814.html"
+        },
+        {
+          "title": "ריאל מדריד הבטיחה ניצחון מוחץ 4-1 על סביליה, ובכך ביססה את מקומה בין ארבע הראשונות של לה ליגה.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/he/thang-dam-sevilla-4-1-real-madrid-cung-co-top-4-la-liga"
+        },
+        {
+          "title": "Trực tiếp Real Madrid vs Sevilla: Hết hiệp 1, Real Madrid dẫn 2-0",
+          "source": "Báo Lâm Đồng",
+          "url": "https://baolamdong.vn/truc-tiep-real-madrid-vs-sevilla-het-hiep-1-real-madrid-dan-2-0-470078.html"
+        }
+      ]
+    },
+    {
+      "id": "김희재",
+      "rank": 9,
+      "keyword": "김희재",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“또 욕받이 되겠네”…정보유출 사태에 멍드는 콜센터 상담사들' (미주중앙일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '에반, '불후'서 Y2K 감성 완벽 재현…박근태 작곡가 \"극찬\"' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“또 욕받이 되겠네”…정보유출 사태에 멍드는 콜센터 상담사들",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261017140035515"
+          "title": "에반, '불후'서 Y2K 감성 완벽 재현…박근태 작곡가 \"극찬\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/music/2026/10/18/ME4DIMDCMFRTONJXGNSTQMJUGM/"
         },
         {
-          "title": "[전성인의 난세직필] (55) 금융권 해킹 배상 호미로 막을 걸 가래로 막지 마라",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202610161404011"
+          "title": "이찬원, 누가보면 성리 낳은 줄 알겠네..\"트로트 동료로서 뿌듯\"(불후)",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112894008"
         },
         {
-          "title": "가상자산거래소 빗썸, 개인정보 유출 악용한 2차 사기 예방 캠페인 진행",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449584"
+          "title": "‘불후의 명곡’ 김희재, 슬프도록 감미로운 ‘해바라기’ 선사",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610181110003"
         }
       ]
     },
     {
-      "id": "윤여정",
-      "rank": 8,
-      "keyword": "윤여정",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "ngoại-hạng-anh",
-      "rank": 9,
-      "keyword": "ngoại hạng anh",
-      "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Kết quả bóng đá Nottingham Forest - Arsenal: Thế trận giằng co (Ngoại h…' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Kết quả bóng đá Nottingham Forest - Arsenal: Thế trận giằng co (Ngoại hạng Anh)",
-          "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/ket-qua-bong-da-nottingham-forest-arsenal-the-tran-giang-co-ngoai-hang-anh-c48a1803798.html"
-        },
-        {
-          "title": "Mikel Arteta: 'Arsenal đã thua liền 2 mùa trước, thắng là tốt lắm rồi!'",
-          "source": "Thể Thao 247",
-          "url": "https://thethao247.vn/461-mikel-arteta-arsenal-da-thua-lien-2-mua-truoc-thang-la-tot-lam-roi-c2-d440889.html"
-        },
-        {
-          "title": "Arsenal thắng sít sao nhờ phút lóe sáng của Madueke",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/nl/arsenal-thang-sit-sao-nho-phut-loe-sang-cua-madueke"
-        }
-      ]
-    },
-    {
-      "id": "pl",
+      "id": "배정남",
       "rank": 10,
-      "keyword": "pl",
+      "keyword": "배정남",
       "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
-      "change": "down",
-      "changeLabel": "-1",
-      "summary": "급상승 시점에 'Tylko u nas! Prezes PSE: Polska potrzebuje energetycznego SAFE' (GospodarkaMorska.pl) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '배정남, 반려견 벨 떠나보낸 후..벨 똑닮은 동생들 만났다 '먹먹' - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Tylko u nas! Prezes PSE: Polska potrzebuje energetycznego SAFE",
-          "source": "GospodarkaMorska.pl",
-          "url": "https://www.gospodarkamorska.pl/tylko-u-nas-prezes-polskich-sieci-elektroenergetycznych-polska-potrzebuje-energetycznego-safe-95764"
+          "title": "배정남, 반려견 벨 떠나보낸 후..벨 똑닮은 동생들 만났다 '먹먹' - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/18/HAYDMMJRG44WKYTFGRQTIYJRGE/"
         },
         {
-          "title": "Koniec ery biernego odbiorcy energii - cyfryzacja nauczy nas zarządzać własnym zużycieme, by klienci",
-          "source": "Trojmiasto.pl",
-          "url": "https://www.trojmiasto.pl/tv/Koniec-ery-biernego-odbiorcy-energii-cyfryzacja-nauczy-nas-zarzadzac-wlasnym-zuzycieme-by-klienci-18-10-2026-video-111695.html"
+          "title": "배정남, 반려견 벨 떠나보낸 후..벨 똑닮은 동생들 만났다 '먹먹'",
+          "source": "OSEN",
+          "url": ""
         },
         {
-          "title": "Jak przygotować Polskę na skutki zmian klimatu? Dyskusja z udziałem wiceministra Sławomira Ćwika na EFNI 2026",
-          "source": "Gov.pl",
-          "url": "https://www.gov.pl/web/klimat/jak-przygotowac-polske-na-skutki-zmian-klimatu-dyskusja-z-udzialem-wiceministra-slawomira-cwika-na-efni-2026"
+          "title": "‘사랑이 온다’ 박유나, 배정남과 진한 포옹… ‘러브라인’ 시작되나",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610182219003"
         }
       ]
     }
