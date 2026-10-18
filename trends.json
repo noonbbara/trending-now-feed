@@ -1,101 +1,45 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-18T17:13:31.378Z",
+  "updatedAt": "2026-10-18T19:34:38.941Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "노팅엄-포레스트-대-아스널",
+      "id": "레알-마드리드-대-세비야",
       "rank": 1,
-      "keyword": "노팅엄 포레스트 대 아스널",
-      "volumeLabel": "5000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '실시간 축구 경기: 노팅엄 포레스트 vs 아스널: 프리미어 리그 7라운드' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "실시간 축구 경기: 노팅엄 포레스트 vs 아스널: 프리미어 리그 7라운드",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/truc-tiep-bong-da-nottingham-forest-vs-arsenal-vong-7-ngoai-hang-anh"
-        },
-        {
-          "title": "아스널은 시티 그라운드에서 어려운 경기를 치르게 될 것이다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/arsenal-gap-thach-thuc-tai-city-ground"
-        },
-        {
-          "title": "노팅엄 포레스트 vs 아스널 경기 예측: 원정 경기에서의 경기력이 시험대에 오를 것이다",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-nottingham-forest-vs-arsenal-ban-linh-san-khach-duoc-thu-lua"
-        }
-      ]
-    },
-    {
-      "id": "신세계백화점-강남점",
-      "rank": 2,
-      "keyword": "신세계백화점 강남점",
+      "keyword": "레알 마드리드 대 세비야",
       "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '강풍에 뜯겨 날아간 아파트 지붕…도로를 막은 쓰러진 나무' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '! [FOX TV] 2026년 레알 마드리드 CF vs 세비야 FC - 무료 TV 중계' (Universidad de Córdoba (UCO)) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "강풍에 뜯겨 날아간 아파트 지붕…도로를 막은 쓰러진 나무",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8688463"
+          "title": "! [FOX TV] 2026년 레알 마드리드 CF vs 세비야 FC - 무료 TV 중계",
+          "source": "Universidad de Córdoba (UCO)",
+          "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2Vtb25mZmhzaHMtdGVjaC5naXRodWIuaW8vY29wYWsvaW5kZXgueG1sIi8+PC9rcnBhbm8+&id=video-fox-tv-2026-cf-vs-fc-tv-kor"
         },
         {
-          "title": "침수에 천막까지 ‘와르르’…요란한 가을비에 곳곳 물바다",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12323581"
+          "title": "레알 마드리드 vs 세비야 경기 예측: 우승 경쟁의 뜨거운 화제",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-real-madrid-vs-sevilla-diem-nong-cuoc-dua-top-dau"
         },
         {
-          "title": "신세계백화점 강남점 출차 지연…\"5시간째 제자리, 지옥 같아\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261018060200004"
-        }
-      ]
-    },
-    {
-      "id": "박위",
-      "rank": 3,
-      "keyword": "박위",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '최강희까지...\"박위 부친, 여배우들과 부녀처럼\" 재조명 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "최강희까지...\"박위 부친, 여배우들과 부녀처럼\" 재조명 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/18/2026101807255558441"
-        },
-        {
-          "title": "“내가 네 아빠다” 박위 父, 윤소희 이어 최강희까지… ‘수양딸’ 발언 재조명",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610180135003"
-        },
-        {
-          "title": "여배우들은 무슨 죄? ‘잠적’ 박위가 쌓은 가족 서사 콘텐츠의 피해자 [Oh!쎈 이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/18/HY32KH4VKRGQ7DZXJSLAFTQEMA/"
+          "title": "라리가: 레알에게 있어 홈 세비야 전은 반드시 이겨야 하는 경기다",
+          "source": "티스토리",
+          "url": "https://sbotopkr.tistory.com/2625"
         }
       ]
     },
     {
       "id": "구성환",
-      "rank": 4,
+      "rank": 2,
       "keyword": "구성환",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
+      "volumeLabel": "2000+",
+      "startedLabel": "4시간 전",
+      "change": "up",
+      "changeLabel": "+2",
       "summary": "급상승 시점에 ''나혼산' 또 시끌...구성환 번지점프, 뭐가 문제였나 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
@@ -117,170 +61,210 @@
       ]
     },
     {
-      "id": "붕-은-우",
-      "rank": 5,
-      "keyword": "붕 은 우",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘붕어빵 파는 차은우’?…“광명 ‘붕은우’ 만나러 2시간 줄 서”' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "id": "신세계백화점-강남점",
+      "rank": 3,
+      "keyword": "신세계백화점 강남점",
+      "volumeLabel": "2000+",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 '강풍에 뜯겨 날아간 아파트 지붕…도로를 막은 쓰러진 나무' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘붕어빵 파는 차은우’?…“광명 ‘붕은우’ 만나러 2시간 줄 서”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261018/134860504/1"
+          "title": "강풍에 뜯겨 날아간 아파트 지붕…도로를 막은 쓰러진 나무",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8688463"
         },
         {
-          "title": "'붕어빵 파는 차은우' 보려고 2시간 줄 섰다…광명 꽃미남 '붕은우' 누구?",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6322598"
+          "title": "침수에 천막까지 ‘와르르’…요란한 가을비에 곳곳 물바다",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12323581"
         },
         {
-          "title": "차은우 닮은 붕어빵 청년 '붕은우' 화제...인파 몰려",
-          "source": "KBC광주방송",
-          "url": "https://www.ikbc.co.kr/article/view/kbc202610160067"
+          "title": "신세계백화점 강남점 출차 지연…\"5시간째 제자리, 지옥 같아\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261018060200004"
+        }
+      ]
+    },
+    {
+      "id": "김건희",
+      "rank": 4,
+      "keyword": "김건희",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[단독] 검찰, “김건희 방조범 성립 가능” 반부패부 보고 받고도 ‘무혐의’' (한겨레) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[단독] 검찰, “김건희 방조범 성립 가능” 반부패부 보고 받고도 ‘무혐의’",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1282961.html"
+        },
+        {
+          "title": "[단독] '김건희 황제조사' 검사, 조서엔 이름도 없었다‥수사팀과는 '3천 번' 연락",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6858789_36918.html"
+        },
+        {
+          "title": "‘김건희 황제조사’ 검사, 인사 뒤에도 수사팀과 3300여건 대화·수사 관여",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1282934.html"
         }
       ]
     },
     {
       "id": "nottm-forest-vs-arsenal",
-      "rank": 6,
+      "rank": 5,
       "keyword": "nottm forest vs arsenal",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Nottingham Forest vs Arsenal: Premier League preview, team news, stats …' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "5시간 전",
+      "change": "up",
+      "changeLabel": "+1",
+      "summary": "급상승 시점에 'EPL: Madueke Strikes Late as Arsenal Beat Forest to Go Back Up to Second' (Dawan Africa) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Nottingham Forest vs Arsenal: Premier League preview, team news, stats & head-to-head",
+          "title": "EPL: Madueke Strikes Late as Arsenal Beat Forest to Go Back Up to Second",
+          "source": "Dawan Africa",
+          "url": "https://www.dawan.africa/news/epl-madueke-strikes-late-as-arsenal-beat-forest-to-go-back-up-to-second"
+        },
+        {
+          "title": "Premier League LIVE: Arsenal beat Forest after Man Utd & Leeds draw, Brighton and Bournemouth win",
           "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cq62yg1vvl1lt"
+          "url": "https://www.bbc.com/sport/football/live/cq62j1yn44jxt"
         },
         {
-          "title": "Preview: Nottingham Forest vs Arsenal - prediction, team news, lineups",
-          "source": "Sports Mole",
-          "url": "https://www.sportsmole.co.uk/football/arsenal/preview/nottm-forest-vs-arsenal-prediction-team-news-lineups_607033.html"
-        },
-        {
-          "title": "Nottingham Forest vs Arsenal Confirmed Lineups",
-          "source": "WhoScored.com",
-          "url": "https://www.whoscored.com/news/QqovyMqouE-oxDpgDl9qLQ/show/cng112-20261018-nottingham-forest-vs-arsenal-confirmed-lineup-1792333621"
+          "title": "Noni Madueke’s late goal gives Arsenal victory over Forest — BBC Sport",
+          "source": "UA.NEWS",
+          "url": "https://ua.news/en/sport/noni-madueke-piznim-golom-prinis-arsenalu-peremogu-nad-forest-bbc-sport"
         }
       ]
     },
     {
-      "id": "수능",
-      "rank": 7,
-      "keyword": "수능",
-      "volumeLabel": "200+",
+      "id": "연휴",
+      "rank": 6,
+      "keyword": "연휴",
+      "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“수능 문제 보자 5초 만에 답이 눈앞에”…AI 안경 직접 써보니' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '2027년 음력 설 연휴에는 공무원과 공공기관 직원들이 7일간의 휴가를 갖게 됩니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“수능 문제 보자 5초 만에 답이 눈앞에”…AI 안경 직접 써보니",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261018/134859256/1"
+          "title": "2027년 음력 설 연휴에는 공무원과 공공기관 직원들이 7일간의 휴가를 갖게 됩니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/can-bo-cong-chuc-vien-chuc-nghi-7-ngay-tet-am-lich-2027"
         },
         {
-          "title": "대입 코앞 대학가, '스마트 안경'에 골치…소지만 해도 '시험 무효'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/daegu-gyeongbuk/6322258"
+          "title": "2027년 기업의 주요 휴일 및 설날(음력 설) 일정은 무엇인가요?",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/lich-nghi-le-tet-nam-2027-tai-doanh-nghiep-co-gi-dang-chu-y"
         },
         {
-          "title": "김문수 \"AI 안경·스마트렌즈로 수능 부정행위... 적발 대책 있나\"",
-          "source": "OhmyNews",
-          "url": "https://www.ohmynews.com/NWS_Web/View/mov_pg.aspx?CNTN_CD=ME000116331"
+          "title": "2027년 연휴 기간 동안 직원들은 총 며칠의 유급 휴가를 받을 수 있습니까?",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/le-tet-2027-nguoi-lao-dong-duoc-nghi-bao-nhieu-ngay-huong-nguyen-luong"
         }
       ]
     },
     {
-      "id": "premier-league",
-      "rank": 8,
-      "keyword": "premier league",
-      "volumeLabel": "200+",
+      "id": "빗썸",
+      "rank": 7,
+      "keyword": "빗썸",
+      "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Leeds 1-1 Man Utd: Dominic Calvert-Lewin equaliser denies Michael Carri…' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“또 욕받이 되겠네”…정보유출 사태에 멍드는 콜센터 상담사들' (미주중앙일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Leeds 1-1 Man Utd: Dominic Calvert-Lewin equaliser denies Michael Carrick's side",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cwzrdvx44pkpt"
+          "title": "“또 욕받이 되겠네”…정보유출 사태에 멍드는 콜센터 상담사들",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261017140035515"
         },
         {
-          "title": "Leeds United 1-1 Manchester United: Premier League – as it happened",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/oct/18/leeds-v-manchester-united-premier-league-live"
+          "title": "[전성인의 난세직필] (55) 금융권 해킹 배상 호미로 막을 걸 가래로 막지 마라",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202610161404011"
         },
         {
-          "title": "[WATCHTM] Bournemouth vs Sunderland Live Free EPL",
-          "source": "Universidad de Córdoba (UCO)",
-          "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2x4Y2x4ZHMuZ2l0aHViLmlvL2JhbmthaS9sYXcueG1sIi8+PC9rcnBhbm8+&id=video-watchtm-bournemouth-vs-sunde-ustv"
+          "title": "가상자산거래소 빗썸, 개인정보 유출 악용한 2차 사기 예방 캠페인 진행",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449584"
+        }
+      ]
+    },
+    {
+      "id": "윤여정",
+      "rank": 8,
+      "keyword": "윤여정",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "ngoại-hạng-anh",
+      "rank": 9,
+      "keyword": "ngoại hạng anh",
+      "volumeLabel": "100+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Kết quả bóng đá Nottingham Forest - Arsenal: Thế trận giằng co (Ngoại h…' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Kết quả bóng đá Nottingham Forest - Arsenal: Thế trận giằng co (Ngoại hạng Anh)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/ket-qua-bong-da-nottingham-forest-arsenal-the-tran-giang-co-ngoai-hang-anh-c48a1803798.html"
+        },
+        {
+          "title": "Mikel Arteta: 'Arsenal đã thua liền 2 mùa trước, thắng là tốt lắm rồi!'",
+          "source": "Thể Thao 247",
+          "url": "https://thethao247.vn/461-mikel-arteta-arsenal-da-thua-lien-2-mua-truoc-thang-la-tot-lam-roi-c2-d440889.html"
+        },
+        {
+          "title": "Arsenal thắng sít sao nhờ phút lóe sáng của Madueke",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/nl/arsenal-thang-sit-sao-nho-phut-loe-sang-cua-madueke"
         }
       ]
     },
     {
       "id": "pl",
-      "rank": 9,
+      "rank": 10,
       "keyword": "pl",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Klucz do pokoju na Wschodzie leży w Pekinie? Argumenty za chińskim scen…' (Gazeta Prawna) 관련 뉴스가 함께 포착됐어요.",
+      "startedLabel": "5시간 전",
+      "change": "down",
+      "changeLabel": "-1",
+      "summary": "급상승 시점에 'Tylko u nas! Prezes PSE: Polska potrzebuje energetycznego SAFE' (GospodarkaMorska.pl) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Klucz do pokoju na Wschodzie leży w Pekinie? Argumenty za chińskim scenariuszem",
-          "source": "Gazeta Prawna",
-          "url": "https://edgp.gazetaprawna.pl/opinie/artykuly/11329604,klucz-do-pokoju-lezy-nie-w-moskwie-a-w-pekinie.html"
+          "title": "Tylko u nas! Prezes PSE: Polska potrzebuje energetycznego SAFE",
+          "source": "GospodarkaMorska.pl",
+          "url": "https://www.gospodarkamorska.pl/tylko-u-nas-prezes-polskich-sieci-elektroenergetycznych-polska-potrzebuje-energetycznego-safe-95764"
         },
         {
-          "title": "Wskazał scenariusz dla Polski. Ekspert o wojnie i oskarżeniach o zdradę",
-          "source": "Defence24",
-          "url": "https://defence24.pl/geopolityka/wskazal-scenariusz-dla-polski-ekspert-o-wojnie-i-oskarzeniach-o-zdrade"
+          "title": "Koniec ery biernego odbiorcy energii - cyfryzacja nauczy nas zarządzać własnym zużycieme, by klienci",
+          "source": "Trojmiasto.pl",
+          "url": "https://www.trojmiasto.pl/tv/Koniec-ery-biernego-odbiorcy-energii-cyfryzacja-nauczy-nas-zarzadzac-wlasnym-zuzycieme-by-klienci-18-10-2026-video-111695.html"
         },
         {
-          "title": "Golonka: Święta wojna Zachodu",
-          "source": "Do Rzeczy",
-          "url": "https://dorzeczy.pl/opinie/958189/golonka-swieta-wojna-zachodu.html"
-        }
-      ]
-    },
-    {
-      "id": "사업",
-      "rank": 10,
-      "keyword": "사업",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '중국산 부품 빼려 대만 찾는 미국 드론업체들…한국 기업 대응 비상' (서울경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "중국산 부품 빼려 대만 찾는 미국 드론업체들…한국 기업 대응 비상",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20102091"
-        },
-        {
-          "title": "대만, 美 드론 지배력 사업에 FPV 공격드론 1520대 납품 완료",
-          "source": "데일리방산",
-          "url": "https://www.dailydefense.co.kr/news/articleView.html?idxno=2572"
-        },
-        {
-          "title": "대만 드론업체, 군용 드론에 '중국산 칩·렌즈' 무단 사용으로 경영진 구속",
-          "source": "드론저널",
-          "url": "https://www.dronejournal.net/news/articleView.html?idxno=754"
+          "title": "Jak przygotować Polskę na skutki zmian klimatu? Dyskusja z udziałem wiceministra Sławomira Ćwika na EFNI 2026",
+          "source": "Gov.pl",
+          "url": "https://www.gov.pl/web/klimat/jak-przygotowac-polske-na-skutki-zmian-klimatu-dyskusja-z-udzialem-wiceministra-slawomira-cwika-na-efni-2026"
         }
       ]
     }
