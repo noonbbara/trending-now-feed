@@ -1,242 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-19T17:41:58.297Z",
+  "updatedAt": "2026-10-19T22:15:10.889Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "김정은",
+      "id": "연금",
       "rank": 1,
-      "keyword": "김정은",
-      "volumeLabel": "500+",
+      "keyword": "연금",
+      "volumeLabel": "5000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“북한 원산 앞바다 호화유람선 포착…김정은 여름휴가용 추정”' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"노후자금 어쩌나\"‥국민연금, 100일 만에 보유주식 182조 원 손실' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“북한 원산 앞바다 호화유람선 포착…김정은 여름휴가용 추정”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8688519"
-        },
-        {
-          "title": "\"수영장만 50m\"...북한 김정은 일가 별장 부근 초호화 선박 포착",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12323644"
-        },
-        {
-          "title": "김정은 별장 앞에 나타난 80m 선박, 위성사진으로 추적해보니",
-          "source": "BBC",
-          "url": "https://www.bbc.com/korean/articles/c804y7rr9y5o"
-        }
-      ]
-    },
-    {
-      "id": "수영",
-      "rank": 2,
-      "keyword": "수영",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[전국체전] 6관왕 도전 황선우, 연이틀 '금빛 물살'…육상 조엘진도 2관왕(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[전국체전] 6관왕 도전 황선우, 연이틀 '금빛 물살'…육상 조엘진도 2관왕(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261019168251007"
-        },
-        {
-          "title": "[전국체전] 나마디 조엘진, 육상 남자 200ｍ에서 20초47 대회신",
+          "title": "\"노후자금 어쩌나\"‥국민연금, 100일 만에 보유주식 182조 원 손실",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6858998_36946.html"
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858808_37004.html"
         },
         {
-          "title": "황선우, 연이틀 금빛 물살…절친 김우민도 응원 더했다!",
+          "title": "[칼럼]연기금 카지노 책임론?…'쉬운길' 선택의 결과일 수 있다",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6593683"
+        },
+        {
+          "title": "국내 증시 폭락에 국민연금 ‘휘청’…3분기 182조 손실",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8689532"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8688622"
         }
       ]
     },
     {
-      "id": "시험",
-      "rank": 3,
-      "keyword": "시험",
-      "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '윤건영 교육감,“수능은 수험생의 눈으로, 수업은 학생의 성장으로” : 네이버 블로그' (Naver Blog) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "윤건영 교육감,“수능은 수험생의 눈으로, 수업은 학생의 성장으로” : 네이버 블로그",
-          "source": "Naver Blog",
-          "url": "https://blog.naver.com/PostView.naver?blogId=cbe_news&logNo=224446781419&redirect=Dlog"
-        },
-        {
-          "title": "[포토] 수능 D-31, 고3의 시간",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261019501330"
-        },
-        {
-          "title": "전남광주 8개 수능 시험지구 체제 유지…'스마트안경' 금지",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261019136400054"
-        }
-      ]
-    },
-    {
-      "id": "블리치",
-      "rank": 4,
-      "keyword": "블리치",
-      "volumeLabel": "200+",
+      "id": "부동산",
+      "rank": 2,
+      "keyword": "부동산",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘Bleach: Thousand-Year Blood War – The Calamity’ Drops Its Final Trailer' (Hypebeast) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '강남 3구 집값 상승 둔화…정부 \"공급 확대로 시장 안정 총력\"' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘Bleach: Thousand-Year Blood War – The Calamity’ Drops Its Final Trailer",
-          "source": "Hypebeast",
-          "url": "https://hypebeast.com/2026/10/bleach-thousand-year-blood-war-the-calamity-last-teaser-trailer-final-two-episodes-release-info"
+          "title": "강남 3구 집값 상승 둔화…정부 \"공급 확대로 시장 안정 총력\"",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148973758&pWise=sub&pWiseSub=R5"
         },
         {
-          "title": "Bleach: Thousand-Year Blood War - The Calamity Anime Goes Out with a Bang in Final Trailer",
-          "source": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/news/latest/2026/10/16/bleach-thousand-year-blood-war-the-calamity-anime-final-trailer"
+          "title": "팔 집 쌓이는데 거래는 '뚝'…서울 부동산에 무슨 일이 [시장톡]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026101904296"
         },
         {
-          "title": "Bleach Final Season Preview Reveals First Look & Synopsis for Final Episodes",
-          "source": "ComicBook.com",
-          "url": "https://comicbook.com/anime/news/bleach-final-season-preview-reveals-first-look-synopsis-for-final-episodes/"
-        }
-      ]
-    },
-    {
-      "id": "우유",
-      "rank": 5,
-      "keyword": "우유",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"흰우유 대신 가공우유로 연명?\"⋯벼랑 끝 유업계, '맛'만으론 못 버틴다' (아이뉴스24) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"흰우유 대신 가공우유로 연명?\"⋯벼랑 끝 유업계, '맛'만으론 못 버틴다",
-          "source": "아이뉴스24",
-          "url": ""
-        },
-        {
-          "title": "[크랩] 40년 만에 ‘역대 최저’라는 우리나라 흰 우유 소비 근황",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8682500"
-        },
-        {
-          "title": "원유 물량 조정 합의…실효성 확보가 관건",
-          "source": "축산신문",
-          "url": "https://www.chuksannews.co.kr/news/article.html?no=274040"
-        }
-      ]
-    },
-    {
-      "id": "사이버펑크",
-      "rank": 6,
-      "keyword": "사이버펑크",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '바르토시 슈티보르, 팬들에게 ‘사이버펑크: 엣지러너 2’의 인물들에게 너무 정붙이지 말라고 경고하다' (Hypebeast.KR) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "바르토시 슈티보르, 팬들에게 ‘사이버펑크: 엣지러너 2’의 인물들에게 너무 정붙이지 말라고 경고하다",
-          "source": "Hypebeast.KR",
-          "url": "https://hypebeast.kr/2026/10/cyberpunk-edgerunners-2-cd-projekt-red-bartosz-sztybor-showrunner-interview"
-        },
-        {
-          "title": "사펑 엣지러너 2, 영화 매체는 아니지만 110점 주겠습니다",
-          "source": "게임메카",
-          "url": "https://www.gamemeca.com/view.php?gid=1781886"
-        },
-        {
-          "title": "[인터뷰] 다시 나이트 시티로… '엣지러너 2'가 펼칠 새로운 이야기는",
-          "source": "디스이즈게임",
-          "url": "https://www.thisisgame.com/articles/430998"
-        }
-      ]
-    },
-    {
-      "id": "바바라-팔빈",
-      "rank": 7,
-      "keyword": "바바라 팔빈",
-      "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "로이킴",
-      "rank": 8,
-      "keyword": "로이킴",
-      "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''막걸리 수저' 로이킴 \"고교 졸업 선물로 엄마가 ○렉스는 어떻냐…\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'막걸리 수저' 로이킴 \"고교 졸업 선물로 엄마가 ○렉스는 어떻냐…\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261019_0003832322"
-        },
-        {
-          "title": "'슈스케 우승' 로이킴 없을 뻔.. \"父 반대..이승철 선배는 노래 못한다고\" ('짠한형') - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/19/MMYDQNBXGYZGEMDFMU4GKODGGY/"
-        },
-        {
-          "title": "'짠한형' 로이킴 \"원래 꿈은 코미디언…개그 키즈 활동\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6325054"
-        }
-      ]
-    },
-    {
-      "id": "이종혁",
-      "rank": 9,
-      "keyword": "이종혁",
-      "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''내 새끼의 연애' 시즌3…이종혁 아들 이준수 출연' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'내 새끼의 연애' 시즌3…이종혁 아들 이준수 출연",
+          "title": "정부 \"주택공급·시장동향 지표 개선…안정화 낙관\"",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261019104000005"
+          "url": "https://www.yna.co.kr/view/MYH20261019002200038"
+        }
+      ]
+    },
+    {
+      "id": "안세영",
+      "rank": 3,
+      "keyword": "안세영",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘부상 딛고 대역전승’ 안세영, 최다 우승 신기록으로 전설이 되다!' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘부상 딛고 대역전승’ 안세영, 최다 우승 신기록으로 전설이 되다!",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8689457"
         },
         {
-          "title": "'이종혁 아들' 이준수, 키 190cm 남자됐다 \"쌍방 연애하고파\" ('내 새끼의 연애') - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/19/MNRGMYLCMQYGCN3CGBQWIN3FMY/"
+          "title": "\"ASY보다 수산티가 더 위\" 안세영, 아직 GOAT 아니다? '47회 우승' 신기록에도 인니 팬들 반론...\"그때는 대회도 훨씬 적었잖아\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/20/202610191830770227O"
         },
         {
-          "title": "‘10준수’ 이준수, 형 이탁수에 이어 ‘내 새끼의 연애’ 새 시즌 합류",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610191135003"
+          "title": "안세영, 47번째 우승으로 여자 단식 역대 최다 우승 기록 경신",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261019017400007"
+        }
+      ]
+    },
+    {
+      "id": "반도체",
+      "rank": 4,
+      "keyword": "반도체",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '뉴욕증시, 반도체·AI주 반등 속 혼조…나스닥 1.11%↑(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "뉴욕증시, 반도체·AI주 반등 속 혼조…나스닥 1.11%↑(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261020006051072"
+        },
+        {
+          "title": "반도체주 반등에 한숨 돌렸다…'AI 빚투' 우려는 지속[뉴욕마감] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/10/20/2026102005584753440"
+        },
+        {
+          "title": "뉴욕증시, 기술주 저가 매수에 혼조 출발",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440016"
+        }
+      ]
+    },
+    {
+      "id": "삼성sdi",
+      "rank": 5,
+      "keyword": "삼성sdi",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"미국 사업 사실상 포기\" 백기 든 중국 ESS 기업들...2차전지주 '불기둥' - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"미국 사업 사실상 포기\" 백기 든 중국 ESS 기업들...2차전지주 '불기둥' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/10/19/2026101911111211909"
+        },
+        {
+          "title": "3분기 K배터리 실적전망은…LG엔솔·삼성SDI '맑음' SK온 '흐림'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261016152800003"
+        },
+        {
+          "title": "신규 수주로 美 시장 지배력 확대…성장 기회에 쏠리는 관심",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026101615484672599"
+        }
+      ]
+    },
+    {
+      "id": "한화오션",
+      "rank": 6,
+      "keyword": "한화오션",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'PRS 만기 1년의 의미...한화오션 지분 내년 시장 풀린다' (인베스트조선) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "PRS 만기 1년의 의미...한화오션 지분 내년 시장 풀린다",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/19/2026101980082.html"
+        },
+        {
+          "title": "한화시스템 우주·AI 투자 위해 한화오션 보유 지분 다 매각, 양기원 고수익 방산사업 확대 '방점'",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449697"
+        },
+        {
+          "title": "조선 지분 턴 한화시스템… 확보재원 3조로 ‘대공망’ 키운다",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261020010006206"
+        }
+      ]
+    },
+    {
+      "id": "폴더블-스마트폰",
+      "rank": 7,
+      "keyword": "폴더블 스마트폰",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘아이폰 듀오’ 공급난 심각…\"애플, 알면서 서둘러 출시\"' (지디넷코리아) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘아이폰 듀오’ 공급난 심각…\"애플, 알면서 서둘러 출시\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261019081149"
+        },
+        {
+          "title": "애플이 안 밝힌 '329만원 아이폰 듀오' 성적표…배터리·수리성 평가는?",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261019_0003832161"
+        },
+        {
+          "title": "키움증권 \"접이식 스마트폰 성장세 두드러질 것…국내 수혜주는\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261019021800008"
+        }
+      ]
+    },
+    {
+      "id": "qqq",
+      "rank": 8,
+      "keyword": "qqq",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'QQQ Price Prediction: Trading Below Every Key Average as Oversold Signa…' (Blockchain News) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "QQQ Price Prediction: Trading Below Every Key Average as Oversold Signals Build Near Lower Band",
+          "source": "Blockchain News",
+          "url": "https://blockchain.news/news/20261019-price-prediction-qqq-trading-below-every-key-average-as"
+        },
+        {
+          "title": "check in 6",
+          "source": "Moomoo",
+          "url": "https://www.moomoo.com/community/feed/check-in-6-117469709533190"
+        },
+        {
+          "title": "Invesco QQQ (NASDAQ:QQQ) Stock Jumps 1.2% - Here's Why",
+          "source": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/price-invesco-qqq-nasdaq-qqq-stock-jumps-12-heres-why-2026-10-19/"
+        }
+      ]
+    },
+    {
+      "id": "택시",
+      "rank": 9,
+      "keyword": "택시",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '양산시, 노후택시 50대 교체 지원해 시민 교통안전 높인다' (뉴스타운) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "양산시, 노후택시 50대 교체 지원해 시민 교통안전 높인다",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=718899"
+        },
+        {
+          "title": "양산시 노후택시 교체 지원 50대로 확대…대당 100만원 지급",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261019010006011"
+        },
+        {
+          "title": "양산시, 노후택시 교체 지원 확대…대당 100만 원 지급",
+          "source": "헬로tv뉴스",
+          "url": "https://news.lghellovision.net/news/articleView.html?idxno=558833"
+        }
+      ]
+    },
+    {
+      "id": "프리미어리그-순위",
+      "rank": 10,
+      "keyword": "프리미어리그 순위",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '최신 프리미어 리그 순위: 1위 3팀의 이변, 토트넘 최하위.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "최신 프리미어 리그 순위: 1위 3팀의 이변, 토트넘 최하위.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/bang-xep-hang-ngoai-hang-anh-moi-nhat-top-3-co-bat-ngo-tottenham-dung-duoi-day"
+        },
+        {
+          "title": "A매치 끝나고 꼭 봐야할 유럽 축구 경기 3선",
+          "source": "금강일보",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1185401"
+        },
+        {
+          "title": "'슈퍼컴 예측 EPL 최종 순위 TOP 20' … 토트넘 '승점 1점 차'로 강등 피해, 3년 연속 '17위'",
+          "source": "뉴데일리",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/10/12/2026101200224.html"
         }
       ]
     }
