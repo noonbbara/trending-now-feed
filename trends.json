@@ -1,286 +1,254 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-18T22:21:40.550Z",
+  "updatedAt": "2026-10-19T00:24:47.968Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "신세계-백화점-강남점",
+      "id": "김승수",
       "rank": 1,
-      "keyword": "신세계 백화점 강남점",
-      "volumeLabel": "20000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '강풍에 지붕 날아가고…폭우에 곳곳 도로 침수' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "강풍에 지붕 날아가고…폭우에 곳곳 도로 침수",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261018180444qH0"
-        },
-        {
-          "title": "미끄러지고 잠기고‥전국 호우·강풍 피해 7백 건",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6858851_37012.html"
-        },
-        {
-          "title": "신세계백화점 강남점 출차 지연…\"5시간째 제자리, 지옥 같아\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261018060200004"
-        }
-      ]
-    },
-    {
-      "id": "후티",
-      "rank": 2,
-      "keyword": "후티",
+      "keyword": "김승수",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '분쟁 격화 후 첫 연합군 사망…예멘선 수십 명 사상' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '김승수, 16세연하 아나운서와 설렘 폭발...\"실제 연락처 교환\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "분쟁 격화 후 첫 연합군 사망…예멘선 수십 명 사상",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8688578"
-        },
-        {
-          "title": "사우디 헬기 격추‥'첫 전사자' 긴장 고조",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6858859_37012.html"
-        },
-        {
-          "title": "기름값 또 오르겠네…전쟁 불안에 재고까지 '뚝'[주末머니]",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026101611315321673"
-        }
-      ]
-    },
-    {
-      "id": "기사",
-      "rank": 3,
-      "keyword": "기사",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '까마귀처럼 앉은 '부천 전깃줄'…욕하고 조롱하더니 결국' (주간조선) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "까마귀처럼 앉은 '부천 전깃줄'…욕하고 조롱하더니 결국",
-          "source": "주간조선",
-          "url": ""
-        },
-        {
-          "title": "부천시, 막장 유튜버 강력 대응 1년…기행 방송 감소",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261015128100065"
-        },
-        {
-          "title": "행인에게 욕설하고 기괴한 춤…\"까마귀 같다\" 단속했더니",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801989"
-        }
-      ]
-    },
-    {
-      "id": "madrid-vs-sevilla",
-      "rank": 4,
-      "keyword": "madrid vs sevilla",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '¿Cómo ver el partido Real Madrid vs Sevilla en TV y streaming?' (Sports Illustrated) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "¿Cómo ver el partido Real Madrid vs Sevilla en TV y streaming?",
-          "source": "Sports Illustrated",
-          "url": "https://www.si.com/es-us/como-ver-el-partido-real-madrid-vs-sevilla-en-tv-y-streaming-18-10-2026"
-        },
-        {
-          "title": "Jose Mourinho encuentra el equilibrio",
-          "source": "Infobae",
-          "url": "https://www.infobae.com/america/agencias/2026/10/18/jose-mourinho-encuentra-el-equilibrio/"
-        },
-        {
-          "title": "Goles de museo",
-          "source": "Diario AS",
-          "url": "https://as.com/opinion/goles-de-museo-f202610-n/"
-        }
-      ]
-    },
-    {
-      "id": "로스앤젤레스-다저스",
-      "rank": 5,
-      "keyword": "로스앤젤레스 다저스",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"내가 마법을 부렸어!\" 前 한화 외인 타자 감격, 밀워키 '우승 요정' 되나…끝내기 안타 3번 다 현장에 있었다' (OSEN) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"내가 마법을 부렸어!\" 前 한화 외인 타자 감격, 밀워키 '우승 요정' 되나…끝내기 안타 3번 다 현장에 있었다",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112894789"
-        },
-        {
-          "title": "\"로버츠보다 극한 직업 없다, 1년 전 다저스 축하 모습 보고…\" 밀워키 승자의 품격, MVP는 왜 자극받았나 - 머니투데이",
+          "title": "김승수, 16세연하 아나운서와 설렘 폭발...\"실제 연락처 교환\" - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/18/202610171238774662O"
+          "url": "https://www.mt.co.kr/entertainment/2026/10/19/2026101904221982911"
         },
         {
-          "title": "“건강보험이 필요했다” 2년 전 은퇴 결심했던 망한 유망주가 밀워키의 구세주가 됐다… NLCS MVP 제이크 바...",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610171203003"
+          "title": "53세 김승수, 39세 아나운서 박혜연과 커플 됐다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261019_0003830764"
+        },
+        {
+          "title": "'미우새' 신동엽, 김승수 극찬하는 서장훈에 \"여성이었다면 결혼했을 것\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6323806"
         }
       ]
     },
     {
-      "id": "라리가",
-      "rank": 6,
-      "keyword": "라리가",
+      "id": "토스증권",
+      "rank": 2,
+      "keyword": "토스증권",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '토스증권 “고객 신뢰 가장 중요” 윤리·준법경영 선포' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "토스증권 “고객 신뢰 가장 중요” 윤리·준법경영 선포",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610182048005"
+        },
+        {
+          "title": "토스증권, 윤리·준법경영 선포식…김규빈 대표가 TF장",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1176420"
+        },
+        {
+          "title": "토스증권, 대표가 직접 내부통제 점검 TF 이끈다",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01781046645614232"
+        }
+      ]
+    },
+    {
+      "id": "농협",
+      "rank": 3,
+      "keyword": "농협",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '농협법 개정안 연내 처리 가능할까…직선제·감사체계 개편 이견 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "농협법 개정안 연내 처리 가능할까…직선제·감사체계 개편 이견 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/10/18/2026101813184798033"
+        },
+        {
+          "title": "강호동 농협회장 “지방이전 논의 없어… 정부 요청땐 검토”",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20102709"
+        },
+        {
+          "title": "농협 개혁안 두고 여야 충돌… 독립 감사기구·직선제 공방",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261019010005728"
+        }
+      ]
+    },
+    {
+      "id": "대기업",
+      "rank": 4,
+      "keyword": "대기업",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '바르셀로나, 개막 9연승…새 역사까지 단 ‘1승’' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '100대 기업 임원 비중 0.8%…SK하이닉스 최다 증가' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "바르셀로나, 개막 9연승…새 역사까지 단 ‘1승’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610182033005"
+          "title": "100대 기업 임원 비중 0.8%…SK하이닉스 최다 증가",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261019082741U3H"
         },
         {
-          "title": "'야말 1골 1도움' 바르사, 라리가 개막 최다 연승 타이 '9연승'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261018012900007"
+          "title": "100대 기업 임원 승진율 0.83% '바늘구멍'…삼성전자 임원 1108명 최다",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026101907411683101"
         },
         {
-          "title": "'충격, 이건 축구가 아니고 오락 게임이다' 9연승 39골 몰아쳤다, 바르셀로나 또 베티스 5-2 대파..'경기당 평균 4골 이상 폭발, 시즌 11연승→모든 대회 우승한다'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/10/18/MQ3TGMDDMY3GMYRVMM3TKN3BMY/"
+          "title": "대기업 들어가도 임원은 ‘하늘의 별 따기’…100명 중 1명도 못 단다",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261019580007"
         }
       ]
     },
     {
-      "id": "реал-мадрид-севилья",
-      "rank": 7,
-      "keyword": "реал мадрид севилья",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '«Реал» — «Севилья»: Килиан Мбаппе обыграл вратаря и забил на 37-й минуте' (https://www.championat.ru/) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "«Реал» — «Севилья»: Килиан Мбаппе обыграл вратаря и забил на 37-й минуте",
-          "source": "https://www.championat.ru/",
-          "url": "https://www.championat.ru/football/news-6662996-real-madrid-sevilya-kilian-mbappe-obygral-vratarya-i-zabil-na-37-j-minute-18-oktyabrya-2026.html"
-        },
-        {
-          "title": "«Реал» огласил стартовый состав на игру с «Севильей»",
-          "source": "Sport24.ru",
-          "url": "https://sport24.ru/football/news-890802-real-oglasil-startovyy-sostav-na-igru-s-sevilyey"
-        },
-        {
-          "title": "Лунин остался в резерве. Реал – Севилья: обнародованы стартовые составы",
-          "source": "Sport.ua",
-          "url": "https://sport.ua/news/916858-lunin-ostalsya-v-rezerve-real-sevilya-obnarodovany-startovye-sostavy"
-        }
-      ]
-    },
-    {
-      "id": "real-madrid-đấu-với-sevilla",
-      "rank": 8,
-      "keyword": "real madrid đấu với sevilla",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Video bóng đá Real Madrid - Sevilla: Thị uy trước Siêu kinh điển (La Li…' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Video bóng đá Real Madrid - Sevilla: Thị uy trước Siêu kinh điển (La Liga)",
-          "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/video-bong-da-real-madrid-sevilla-thi-uy-truoc-sieu-kinh-dien-la-liga-c48a1803814.html"
-        },
-        {
-          "title": "ריאל מדריד הבטיחה ניצחון מוחץ 4-1 על סביליה, ובכך ביססה את מקומה בין ארבע הראשונות של לה ליגה.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/he/thang-dam-sevilla-4-1-real-madrid-cung-co-top-4-la-liga"
-        },
-        {
-          "title": "Trực tiếp Real Madrid vs Sevilla: Hết hiệp 1, Real Madrid dẫn 2-0",
-          "source": "Báo Lâm Đồng",
-          "url": "https://baolamdong.vn/truc-tiep-real-madrid-vs-sevilla-het-hiep-1-real-madrid-dan-2-0-470078.html"
-        }
-      ]
-    },
-    {
-      "id": "김희재",
-      "rank": 9,
-      "keyword": "김희재",
-      "volumeLabel": "100+",
+      "id": "허양임",
+      "rank": 5,
+      "keyword": "허양임",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '에반, '불후'서 Y2K 감성 완벽 재현…박근태 작곡가 \"극찬\"' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''고지용과 법적 공방' 허양임, 근황 공개…\"더 잘해내고 싶은 마음\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "에반, '불후'서 Y2K 감성 완벽 재현…박근태 작곡가 \"극찬\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/music/2026/10/18/ME4DIMDCMFRTONJXGNSTQMJUGM/"
+          "title": "'고지용과 법적 공방' 허양임, 근황 공개…\"더 잘해내고 싶은 마음\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/18/2026101822095198033"
         },
         {
-          "title": "이찬원, 누가보면 성리 낳은 줄 알겠네..\"트로트 동료로서 뿌듯\"(불후)",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112894008"
-        },
-        {
-          "title": "‘불후의 명곡’ 김희재, 슬프도록 감미로운 ‘해바라기’ 선사",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610181110003"
-        }
-      ]
-    },
-    {
-      "id": "배정남",
-      "rank": 10,
-      "keyword": "배정남",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '배정남, 반려견 벨 떠나보낸 후..벨 똑닮은 동생들 만났다 '먹먹' - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "배정남, 반려견 벨 떠나보낸 후..벨 똑닮은 동생들 만났다 '먹먹' - 조선비즈",
+          "title": "'고지용과 법정공방' 허양임, 이혼 후 \"더 잘해내고 싶은 마음\" 눈길 - 조선비즈",
           "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/18/HAYDMMJRG44WKYTFGRQTIYJRGE/"
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/19/HFSGMYLDGI4TSNZVGY3GEYJWMI/"
         },
         {
-          "title": "배정남, 반려견 벨 떠나보낸 후..벨 똑닮은 동생들 만났다 '먹먹'",
+          "title": "`고지용과 이혼` 허양임, 양육비·면접교섭 갈등 속…\"고민 남겨주세요\"",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026101823025007400"
+        }
+      ]
+    },
+    {
+      "id": "권상우",
+      "rank": 6,
+      "keyword": "권상우",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '권상우·손태영 17살 아들 \"키 183㎝ 이제 아빠보다 커\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "권상우·손태영 17살 아들 \"키 183㎝ 이제 아빠보다 커\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261018_0003830524"
+        },
+        {
+          "title": "17살 子 룩희, 벌써 183cm..아빠 권상우 키 따라잡았다 “더 크고파” (Mrs.뉴저지) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/18/ME4TCMJWGYYWMNRYGJSDMZTFGY/"
+        },
+        {
+          "title": "“학생이 운전중” 권상우♥손태영 17살 子, 벌써 ‘베스트 드라이버’ (뉴저지 손태영)",
           "source": "OSEN",
-          "url": ""
+          "url": "https://www.osen.co.kr/article/G1112894749"
+        }
+      ]
+    },
+    {
+      "id": "klasemen-real-madrid-vs-sevilla-fc",
+      "rank": 7,
+      "keyword": "klasemen real madrid vs sevilla fc",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "나스닥-선물",
+      "rank": 8,
+      "keyword": "나스닥 선물",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "크래프톤",
+      "rank": 9,
+      "keyword": "크래프톤",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '버투스 프로 PGS10 우승…지케이 7위·DNS 8위' (국민일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "버투스 프로 PGS10 우승…지케이 7위·DNS 8위",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000023587&code=61162013&sid1=prj"
         },
         {
-          "title": "‘사랑이 온다’ 박유나, 배정남과 진한 포옹… ‘러브라인’ 시작되나",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610182219003"
+          "title": "[PGS] 지케이, 에란겔 치킨 앞세워 생존 청신호...韓 젠지·T1·DN, 하위권 가시밭길",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112893848"
+        },
+        {
+          "title": "[PGS] ' 韓 희비교차'...지케이, 서바이벌 스테이지 1위 등극...젠지·DN 그랜드 파이널행, T1 홀로 탈락(종합)",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261016065550191"
+        }
+      ]
+    },
+    {
+      "id": "마블-시네마틱-유니버스",
+      "rank": 10,
+      "keyword": "마블 시네마틱 유니버스",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Marvel TV Chief Sidesteps \"Young Avengers\" Talk' (Dark Horizons) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Marvel TV Chief Sidesteps \"Young Avengers\" Talk",
+          "source": "Dark Horizons",
+          "url": "https://www.darkhorizons.com/marvel-tv-chief-sidesteps-young-avengers-talk/"
+        },
+        {
+          "title": "Marvel TV Boss Comments On Young Avengers/Champions Frustrations",
+          "source": "LRMonline",
+          "url": "https://lrmonline.com/news/marvel-tv-boss-comments-on-young-avengers-champions-frustrations/"
+        },
+        {
+          "title": "'VisionQuest' Star Officially Confirms 'Young Avengers' Connection to MCU Debut [Exclusive]",
+          "source": "IMDb",
+          "url": "https://www.imdb.com/news/ni66065140/?ref_=nmnw_art_perm"
         }
       ]
     }
