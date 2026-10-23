@@ -1,286 +1,258 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-22T21:52:21.375Z",
+  "updatedAt": "2026-10-23T00:31:38.917Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "삼전-닉스",
+      "id": "상속",
       "rank": 1,
-      "keyword": "삼전 닉스",
+      "keyword": "상속",
       "volumeLabel": "10000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '나스닥 올라도 코스피는 급락…따로노는 한·미 증시, 왜?' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '서울 집 상속인 8000명 육박...강남·5060이 '최다'' (파이낸셜뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "나스닥 올라도 코스피는 급락…따로노는 한·미 증시, 왜?",
+          "title": "서울 집 상속인 8000명 육박...강남·5060이 '최다'",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610221055296251"
+        },
+        {
+          "title": "부동산 꽁꽁 묶이자…‘강남 50·60 상속인’ 쑥 늘었다",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02781446645615544"
+        },
+        {
+          "title": "\"파느니 물려줄게\"…강남 사는 50·60 부모들의 상속 행렬",
           "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610228756i"
-        },
-        {
-          "title": "[특징주] 삼전·닉스, AI 투자 수익성 의혹 지속에 4∼5%대 하락(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022042451008"
-        },
-        {
-          "title": "삼전닉스도 '와르르'…코스피, 상승분 그대로 반납 [퇴근길픽]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0541_202610221639427132"
+          "url": "https://www.hankyung.com/article/2026102276126"
         }
       ]
     },
     {
-      "id": "육군사관학교",
+      "id": "파리",
       "rank": 2,
-      "keyword": "육군사관학교",
-      "volumeLabel": "1000+",
+      "keyword": "파리",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '사관학교 통합 놓고 격돌…“미래전 대비” vs “육사 폐지만 목적”' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '프랑스 10여 개 도시 시위 금지령…파리는 장갑차 동원 예고' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "사관학교 통합 놓고 격돌…“미래전 대비” vs “육사 폐지만 목적”",
+          "title": "프랑스 10여 개 도시 시위 금지령…파리는 장갑차 동원 예고",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8692765"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8693159"
         },
         {
-          "title": "육사 학교장 \"사관학교 통합, 계획보완·의견수렴 후 추진돼야\"",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261023051605xw4"
-        },
-        {
-          "title": "2026년 국방위원회 국정감사",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261022_0021499717"
-        }
-      ]
-    },
-    {
-      "id": "검사",
-      "rank": 3,
-      "keyword": "검사",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"李가 공소 취소 요청하면\" 묻자… 즉답 피한 공소청 수장' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"李가 공소 취소 요청하면\" 묻자… 즉답 피한 공소청 수장",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/10/23/C4S5LKPSHJAD3DJQXLOXQQAHDQ/"
-        },
-        {
-          "title": "이정현 검찰총장 대행 “정치검사였다면 윤석열에 붙었다...윤이 ‘자백 안하면 고통줘야’ 말해”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610221637001"
-        },
-        {
-          "title": "공소청 국감서도 '제미나이' 공방...강제북송도 충돌",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202610222207353406"
-        }
-      ]
-    },
-    {
-      "id": "코스피",
-      "rank": 4,
-      "keyword": "코스피",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '코스피 장중 5500선까지 무너졌는데…與 대변인 “내년엔 1만 간다”' (주간조선) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "코스피 장중 5500선까지 무너졌는데…與 대변인 “내년엔 1만 간다”",
-          "source": "주간조선",
-          "url": ""
-        },
-        {
-          "title": "9천피 내년에 또 옵니다…국장 투자전략, 6천피 밑에선 ‘적극 매수’ [오늘 나온 보고서]",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1178962"
-        },
-        {
-          "title": "연일 출렁이는데…한화증권 \"내년 코스피 최대 9,300\" 전망",
+          "title": "시위·파업에 이탈리아 몸살…물류 차질에 사재기까지",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022183400008"
-        }
-      ]
-    },
-    {
-      "id": "10월-22일",
-      "rank": 5,
-      "keyword": "10월 22일",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[오늘의 운세] 2026년 10월 22일 별자리 운세' (YTN) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[오늘의 운세] 2026년 10월 22일 별자리 운세",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0121_202610220000000002"
+          "url": "https://www.yna.co.kr/view/IPT20261022000017365?section=gallery/index"
         },
         {
-          "title": "[오늘의 운세] 10월 22일 목요일 (음력 9월 12일) 띠별 운세",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261016580223"
-        },
-        {
-          "title": "[녹유 오늘의 운세] 01년생 몸 둘 바를 모르는 축하를 받아요",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261020_0003834109"
-        }
-      ]
-    },
-    {
-      "id": "손주",
-      "rank": 6,
-      "keyword": "손주",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘손주 돌봄’ 수당에… 할머니는 돈벌고, 엄마는 걱정 덜고[온나라 다함께 아이키우기 프로젝트]' (문화일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘손주 돌봄’ 수당에… 할머니는 돈벌고, 엄마는 걱정 덜고[온나라 다함께 아이키우기 프로젝트]",
+          "title": "20명의 공격에도 안 뚫린 루이비통 유리… 파리 폭동에 드러난 명품의 역설",
           "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11625318"
-        },
-        {
-          "title": "황혼육아가 늘어나는 이유, 조부모의 역할은",
-          "source": "오아시스뉴스",
-          "url": ""
-        },
-        {
-          "title": "손주 독박 육아하느라 집 옮기고 일 내려놓은 조부모들",
-          "source": "주간동아",
-          "url": "https://weekly.donga.com/society/article/all/11/6421405/1"
+          "url": "https://www.munhwa.com/article/11625523"
         }
       ]
     },
     {
-      "id": "환율",
-      "rank": 7,
-      "keyword": "환율",
-      "volumeLabel": "500+",
+      "id": "테오스카-에르난데스",
+      "rank": 3,
+      "keyword": "테오스카 에르난데스",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '원/달러 환율 '매파적 동결' 금통위에 하락…연저점 또 경신(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“다저스 노쇠화 모두 알고 있잖아”…특급 유망주 기용 절실! 그런데 오타니·테오스카·터커 있다' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "원/달러 환율 '매파적 동결' 금통위에 하락…연저점 또 경신(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022102851002"
+          "title": "“다저스 노쇠화 모두 알고 있잖아”…특급 유망주 기용 절실! 그런데 오타니·테오스카·터커 있다",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20261021/134884491/1"
         },
         {
-          "title": "[외환-마감] 금통위 소화 후 네고물량에 하락…저점 경신 5일째",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440686"
+          "title": "충격! “김혜성 결국 다저스 떠난다” 美 트레이드 방출 가능성 제기 왜? “다저스 좋아한다” 고백에도 불안한 입지 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/22/202610220730776386O"
         },
         {
-          "title": "[단독] “자동차 주식은 좋은 일이 아예 없나요?”…환율까지 안도와준다는데",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1179574"
+          "title": "김혜성 아니었다면 다저스 축복의 트레이드 없었다…떠난 선수는 야구인생 최대 위기 \"한번도 홈런 10개 넘어선적 없다\"",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014879"
         }
       ]
     },
     {
-      "id": "경찰",
-      "rank": 8,
-      "keyword": "경찰",
+      "id": "필라데피아-대-클리블랜드",
+      "rank": 4,
+      "keyword": "필라데피아 대 클리블랜드",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '76ers home opener excitement spreads as fans, artists embrace new era i…' (6abc Philadelphia) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "76ers home opener excitement spreads as fans, artists embrace new era in Philadelphia",
+          "source": "6abc Philadelphia",
+          "url": "https://6abc.com/post/76ers-home-opener-excitement-spreads-fans-artists-embrace-new-era-philadelphia/19967036/"
+        },
+        {
+          "title": "Sixers-Cavaliers: Game Discussion Thread",
+          "source": "Liberty Ballers",
+          "url": "https://www.libertyballers.com/76ers-discussion-threads/99540/sixers-cleveland-cavaliers-game-discussion-thread-philadelphia-76ers-nba"
+        },
+        {
+          "title": "Previewing Sixers-Cavaliers: How did Cleveland react to LeBron James' decision?",
+          "source": "PhillyVoice",
+          "url": "https://www.phillyvoice.com/sixers-news-analysis-injury-report-vs-cavs-cavaliers-status-dean-wade-lebron-james-nba-rosters-depth-chart/"
+        }
+      ]
+    },
+    {
+      "id": "독도의-날",
+      "rank": 5,
+      "keyword": "독도의 날",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '北 IT인력, 국내업체 위장 취업 첫 포착…개발까지 했다' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '울릉도에 '독도교육원' 짓는다…현장 체험형 독도교육 거점 조성' (노컷뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "北 IT인력, 국내업체 위장 취업 첫 포착…개발까지 했다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261022/134893264/1"
+          "title": "울릉도에 '독도교육원' 짓는다…현장 체험형 독도교육 거점 조성",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6595522"
         },
         {
-          "title": "북한 IT 인력 국내 위장취업 정황…경찰 수사",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH202610230521079nB"
+          "title": "세종국제고, 대동여지도 통해 세종을 보다",
+          "source": "디트NEWS24",
+          "url": ""
         },
         {
-          "title": "우리 기업도 뚫렸다‥北 '위장 취업' 첫 확인",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6860071_36989.html"
+          "title": "경북교육청정보센터, 독도 해양교실 운영…\"우리땅 지킨다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261022_0003837029"
         }
       ]
     },
     {
-      "id": "한국경제신문사",
-      "rank": 9,
-      "keyword": "한국경제신문사",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "id": "록히드-마틴",
+      "rank": 6,
+      "keyword": "록히드 마틴",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '금 800톤 쌓여있다…스위스 대신할 ‘비밀금고’로 떠오른 이 나라' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '록히드마틴, 美와 F-35 전투기 850대 공급 합의…최소 103조원 규모' (마켓인) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "금 800톤 쌓여있다…스위스 대신할 ‘비밀금고’로 떠오른 이 나라",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/world/12182726"
+          "title": "록히드마틴, 美와 F-35 전투기 850대 공급 합의…최소 103조원 규모",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02988086645615872"
         },
         {
-          "title": "금값 넘어 보관장소까지 따진다…서방 부유층이 싱가포르 찾는 이유 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/10/22/2026102215263129573"
+          "title": "록히드 마틴, 방산 매출 급증으로 실적 예상치 상회",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/earnings/article-2136912"
         },
         {
-          "title": "[취재수첩] 글로벌 자본이 한국으로 오는 길",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102294091"
+          "title": "[미국 특징주] 록히드마틴 10% 급등…미사일 수요 폭발에 실적 전망 상향",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261022001451"
         }
       ]
     },
     {
-      "id": "콜-오브-듀티",
-      "rank": 10,
-      "keyword": "콜 오브 듀티",
+      "id": "아코스타",
+      "rank": 7,
+      "keyword": "아코스타",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '격투기 경기 중 가슴 노출에도 웃었다…\"덕분에 성인 플랫폼으로 7억 벌었어\"' (노컷뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "격투기 경기 중 가슴 노출에도 웃었다…\"덕분에 성인 플랫폼으로 7억 벌었어\"",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6594530"
+        },
+        {
+          "title": "루세로 아코스타, 경기 중 신체 노출 사고…7억 수익? 난리",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20261021/134879982/1"
+        },
+        {
+          "title": "'성인모델' 파이터, 경기 중 '가슴 노출→TKO 참패'에도 \"덕분에 돈 벌었다\" 환호... 이유는 온리팬스 '수입 급증'",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/sports/2026/10/20/2026102016374993269"
+        }
+      ]
+    },
+    {
+      "id": "금양",
+      "rank": 8,
+      "keyword": "금양",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''상폐 기로' 금양, 데이터센터 진출 위한 물적분할 안건 가결' (노컷뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'상폐 기로' 금양, 데이터센터 진출 위한 물적분할 안건 가결",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6593849"
+        },
+        {
+          "title": "[뭐라노] 금양 부활할까",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/contents/newsbody.asp?code=0200&key=20261020.99099005519"
+        },
+        {
+          "title": "금양 물적분할, 노르웨이 국부펀드 '반대'…주주수익·투명성 원칙 제시",
+          "source": "KPI뉴스",
+          "url": "https://kpinews.kr/newsView/1065541083271784"
+        }
+      ]
+    },
+    {
+      "id": "김태원",
+      "rank": 9,
+      "keyword": "김태원",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '서울서 남북 교전·北주석궁 폭격… 게임이라 괜찮나, 선을 넘었나' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘1980년생’ 김태원 청와대 청년미래비서관 161억원 재산 신고' (한겨레) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "서울서 남북 교전·北주석궁 폭격… 게임이라 괜찮나, 선을 넘었나",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/10/23/RYDPTFXXBBE3FAS3S4XUEUM7VI/"
+          "title": "‘1980년생’ 김태원 청와대 청년미래비서관 161억원 재산 신고",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/area/area_general/1283757.html"
         },
         {
-          "title": "북한의 남침 소재로 한 ‘콜 오브 듀티’ 신작 … 현실에서도 벌어질 수 있을까",
-          "source": "BBC",
-          "url": "https://www.bbc.com/korean/articles/ckpdg26vq3x8o"
+          "title": "이세웅 전 이북5도 평북지사 2천759억 원…주식 1천162억 원↑",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811296&plink=ORI&cooper=NAVER"
         },
         {
-          "title": "런던 한복판에 등장한 한국 골목길",
-          "source": "heyPOP",
-          "url": "https://heypop.kr/n/144669/"
+          "title": "주식으로 1162억 늘었다…'2759억' 퇴직 공직자 최고 부자는?[재산공개]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/moi/6328845"
         }
       ]
     }
