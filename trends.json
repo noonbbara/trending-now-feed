@@ -1,206 +1,154 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-24T07:08:31.496Z",
+  "updatedAt": "2026-10-24T12:10:39.808Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "최태원",
+      "id": "애스턴-빌라-대-맨-시티",
       "rank": 1,
-      "keyword": "최태원",
-      "volumeLabel": "5000+",
+      "keyword": "애스턴 빌라 대 맨 시티",
+      "volumeLabel": "10000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '을지로 뜬 최태원, 깜짝 회식…SK하이닉스 개미들 반응은' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Aston Villa vs Manchester City: Premier League preview, team news, stat…' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "을지로 뜬 최태원, 깜짝 회식…SK하이닉스 개미들 반응은",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR202610221050265rj"
+          "title": "Aston Villa vs Manchester City: Premier League preview, team news, stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cj62ynzwg4pet"
         },
         {
-          "title": "소주 즐긴 최태원 '힙지로 회식' 목격담…밝은 표정에 \"주가 기대\"[뉴스럽다]",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6595412"
+          "title": "Maresca says Haaland is 100% available for Villa trip",
+          "source": "Manchester City FC",
+          "url": "https://www.mancity.com/news/mens/enzo-maresca-aston-villa-away-press-conference-written-63928256"
         },
         {
-          "title": "힙지로로… 최태원, 격식 내려놓고 둘러앉아 소맥 '한잔' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/10/23/2026102219444730559"
+          "title": "City’s Perfect Start Faces First Real Test as Premier League Returns",
+          "source": "Dawan Africa",
+          "url": "https://www.dawan.africa/news/citys-perfect-start-faces-first-real-test-as-premier-league-returns"
         }
       ]
     },
     {
-      "id": "fc-서울-대-강원",
+      "id": "교통-사고",
       "rank": 2,
-      "keyword": "fc 서울 대 강원",
-      "volumeLabel": "5000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''이기면 우승' FC서울 김기동 감독, 두 손 쥐고 \"오늘 끝내길\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'이기면 우승' FC서울 김기동 감독, 두 손 쥐고 \"오늘 끝내길\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261024031000007"
-        },
-        {
-          "title": "서울, 조기우승까지 ’승점 3’…상암 팬들로 북적",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261024140600Omk"
-        },
-        {
-          "title": "구성윤, 전반 추가시간 PK 막았다...서울 강원 0-0, 울산 포항 0-2 우승까지 45분 [오!쎈 서울]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/10/24/GE3TSZTGGEZDAYTBGRSTAYJSME/"
-        }
-      ]
-    },
-    {
-      "id": "안양-대-전북",
-      "rank": 3,
-      "keyword": "안양 대 전북",
-      "volumeLabel": "5000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "삼성전기",
-      "rank": 4,
-      "keyword": "삼성전기",
-      "volumeLabel": "5000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '삼성전기·LG이노텍 실적 희비…AI 전략 달랐다' (IT조선) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "삼성전기·LG이노텍 실적 희비…AI 전략 달랐다",
-          "source": "IT조선",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172654"
-        },
-        {
-          "title": "[단독] 빅테크, 첨단기판 못구해 발동동 … 韓·日공장 증설에 돈 쏟아부어",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/business/12183246"
-        },
-        {
-          "title": "삼성전기, 4분기 영업익 8천억 돌파 전망 By 알파경제 alphabiz",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2138558"
-        }
-      ]
-    },
-    {
-      "id": "인천-대-제주",
-      "rank": 5,
-      "keyword": "인천 대 제주",
+      "keyword": "교통 사고",
       "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "김천상무-대-대전",
-      "rank": 6,
-      "keyword": "김천상무 대 대전",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[현장목소리] \"최대한 높은 곳까지 가보겠다\" 대전 황선홍 감독, 정규 시즌 '마지막 라운드' 김천전 앞두고 '의지 활활'' (Your Field) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '김종철 경찰청장 대행 \"고속도로 사고수습 중 다친 경찰관 지원 총력\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[현장목소리] \"최대한 높은 곳까지 가보겠다\" 대전 황선홍 감독, 정규 시즌 '마지막 라운드' 김천전 앞두고 '의지 활활'",
-          "source": "Your Field",
-          "url": "https://yourfield.nexon.com/today/view/2025052909553641111?type=all"
-        },
-        {
-          "title": "김천상무, 대전과 정규라운드 마지막 경기…할로윈 홈경기 이벤트 진행",
-          "source": "웹이코노미",
-          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2344688"
-        },
-        {
-          "title": "김천상무, '든든한 동반자' 후원회 후원금 전달식 진행:중수청일보",
-          "source": "중수청일보",
-          "url": "https://unionilbo.com/2228778"
-        }
-      ]
-    },
-    {
-      "id": "낚시",
-      "rank": 7,
-      "keyword": "낚시",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '공원 연못서 낚은 몸통만한 잉어 메고 떠난 여성 놓고 ‘와글와글’' (동아일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "공원 연못서 낚은 몸통만한 잉어 메고 떠난 여성 놓고 ‘와글와글’",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20261023/134899915/2"
-        },
-        {
-          "title": "[와글와글] \"골칫거리 잡았는데?\"‥\"하면 안 되는 행동\"",
+          "title": "김종철 경찰청장 대행 \"고속도로 사고수습 중 다친 경찰관 지원 총력\"",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6860110_37012.html"
+          "url": "https://imnews.imbc.com/news/2026/society/article/6860446_36918.html"
         },
         {
-          "title": "\"월척 잡았네\" 어깨에 잉어 메고 유유히…공원 발칵 뒤집혔다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/10/24/2026102408534264999"
+          "title": "‘순식간에 경찰 위로 덮친 6.5t 화물차’…고속도로 사고 수습하던 경찰 발목 절단 중상",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625934"
+        },
+        {
+          "title": "강원 횡성 영동고속도로서 차량 3대 추돌…2명 사망·3명 부상",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261024008400062"
         }
       ]
     },
     {
-      "id": "김재윤",
-      "rank": 8,
-      "keyword": "김재윤",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "id": "코스피",
+      "rank": 3,
+      "keyword": "코스피",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[속보] '세이브 1위' 김재윤, 플레이오프 앞두고 충격 이탈…삼성 뒷문 비상, 2주 휴식 불가피' (OSEN) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[특징주] 삼성E&A, 증권가 목표주가 줄상향 속 8% 강세(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[속보] '세이브 1위' 김재윤, 플레이오프 앞두고 충격 이탈…삼성 뒷문 비상, 2주 휴식 불가피",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112897637"
+          "title": "[특징주] 삼성E&A, 증권가 목표주가 줄상향 속 8% 강세(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023044651008"
         },
         {
-          "title": "[PO] '세이브왕' 삼성 김재윤, 부상 2주 이탈...백정현·좌승현에 이어 부상 악재",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261024000052"
+          "title": "반도체 투자 확대 기대에...1주일간 40% 오른 '이 종목'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610242271i"
         },
         {
-          "title": "'세이브왕' 김재윤 전거근 손상으로 이탈…삼성, 뒷문 공백 악재[PO]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261024_0003839565"
+          "title": "[오늘 이 종목] 수주·주주환원 확대 삼성E&A·AI 데이터센터 확장 SGC에너지 ‘주목’ - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/10/23/2026102311197063713"
         }
       ]
     },
     {
-      "id": "6-25-전쟁",
-      "rank": 9,
-      "keyword": "6.25 전쟁",
-      "volumeLabel": "200+",
+      "id": "경찰",
+      "rank": 4,
+      "keyword": "경찰",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"또 털리느니\" 직접 무장 나섰다…프랑스 주말 ‘최대 분수령’' (JTBC) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"또 털리느니\" 직접 무장 나섰다…프랑스 주말 ‘최대 분수령’",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12324569"
+        },
+        {
+          "title": "잠시 뒤 파리 대규모 집회...이 시각 바스티유 광장",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610242010074069"
+        },
+        {
+          "title": "[크랩] 교실에 나온 쥐 잡으려다 나라 뒤집힌 프랑스…대선 판까지 ‘출렁’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694254"
+        }
+      ]
+    },
+    {
+      "id": "hd현대중공업",
+      "rank": 5,
+      "keyword": "hd현대중공업",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'HD현대중 노사, 올해 임단협 2차 잠정 합의…기본급 12만원 인상' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "HD현대중 노사, 올해 임단협 2차 잠정 합의…기본급 12만원 인상",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023076300057"
+        },
+        {
+          "title": "한화오션 하청노조, 한 달 넘는 생산시설 점거…“산재·교섭 오해, 대화 필요”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261023/134895094/1"
+        },
+        {
+          "title": "'단속 농성' 위원장 건강 악화, 지부장은 크레인 '고공 농성'",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6596006"
+        }
+      ]
+    },
+    {
+      "id": "서식스-공작-해리",
+      "rank": 6,
+      "keyword": "서식스 공작 해리",
+      "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
@@ -209,30 +157,114 @@
       "newsSignals": []
     },
     {
-      "id": "k리그2",
-      "rank": 10,
-      "keyword": "k리그2",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "id": "인플루엔자",
+      "rank": 7,
+      "keyword": "인플루엔자",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[K리그2 프리뷰]'서울E와 동률' 15경기 무패 수원FC, 한발 치고 나갈까...6연승 수원은 성남과 '마계 대전'' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '제주도, 26일부터 보건소서 독감 무료 예방접종' (제민일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[K리그2 프리뷰]'서울E와 동률' 15경기 무패 수원FC, 한발 치고 나갈까...6연승 수원은 성남과 '마계 대전'",
+          "title": "제주도, 26일부터 보건소서 독감 무료 예방접종",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845175"
+        },
+        {
+          "title": "26일부터 제주서 인플루엔자 무료 예방 접종",
+          "source": "한라일보",
+          "url": "https://m.ihalla.com/article.php?aid=1792720837791946044"
+        },
+        {
+          "title": "괴산군, 독감·대상포진 등 예방접종 무료 지원 확대",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610211556069613"
+        }
+      ]
+    },
+    {
+      "id": "니케-4주년",
+      "rank": 8,
+      "keyword": "니케 4주년",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '레벨 인피니트, ‘승리의 여신: 니케’ 4주년 특별 방송 진행' (지디넷코리아) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "레벨 인피니트, ‘승리의 여신: 니케’ 4주년 특별 방송 진행",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261023132652"
+        },
+        {
+          "title": "용산 '스탬프 랠리'도 예고, 니케 4주년 라이브 24일 실시",
+          "source": "게임메카",
+          "url": "https://www.gamemeca.com/view.php?gid=1782296"
+        },
+        {
+          "title": "시프트업 '니케', 4주년 특별 방송 임박…'지상 탈환전' 새 국면 열리나",
+          "source": "스포츠한국",
+          "url": "https://sports.hankooki.com/news/articleView.html?idxno=6942093"
+        }
+      ]
+    },
+    {
+      "id": "고우림",
+      "rank": 9,
+      "keyword": "고우림",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '고우림♥김연아 결혼 4주년…日 여행 사진 공개' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "고우림♥김연아 결혼 4주년…日 여행 사진 공개",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261024_0003839589"
+        },
+        {
+          "title": "고우림♥김연아, 결혼 4주년 삿포로 떠났다..야경 속 달달한 근황",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/10/23/GJRDMYJTGNSDGNRUGA3DAM3BMU/"
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/23/GI2WCZRQGA2DOYZVGFQTAODDGQ/"
         },
         {
-          "title": "지지 않는 수원 형제, ‘쉬는’ 이랜드는 노심초사",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610231144003"
+          "title": "김연아♥고우림, 3주년 ‘까죽커플’→4주년 밤 10시 22분 아내 뒤태",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/entertain/12184551"
+        }
+      ]
+    },
+    {
+      "id": "상동광산",
+      "rank": 10,
+      "keyword": "상동광산",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[르포] 화약 냄새에 푸른 광맥 '반짝'…32년 만에 깬 영월 상동광산' (매일경제 마켓) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[르포] 화약 냄새에 푸른 광맥 '반짝'…32년 만에 깬 영월 상동광산",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1180548"
         },
         {
-          "title": "신송훈 선방쇼로 막는다...8위 충남아산, '15경기 무패' 수원FC 상대로 첫 승 도전",
-          "source": "인터풋볼",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=696902"
+          "title": "33년 만에 부활한 '영월 상동광산'··· 24일 텅스텐 첫 상업 출하",
+          "source": "그린포스트코리아",
+          "url": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307805"
+        },
+        {
+          "title": "영월 상동광산 32년 만에 재가동 채굴 돌입 : 경제",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1045729"
         }
       ]
     }
