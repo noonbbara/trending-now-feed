@@ -1,258 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-24T16:10:51.178Z",
+  "updatedAt": "2026-10-24T18:56:25.136Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "ufc",
+      "id": "첼시-대-토트넘",
       "rank": 1,
-      "keyword": "ufc",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "keyword": "첼시 대 토트넘",
+      "volumeLabel": "20000+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'UFC 333 ‘Volkanovski vs. Evloev’ play-by-play, results & round scoring' (Sherdog) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '첼시-토트넘 경기에서 실시간 얼굴인식 시스템 가동…범죄 예방인가, 관중 감시인가' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "UFC 333 ‘Volkanovski vs. Evloev’ play-by-play, results & round scoring",
-          "source": "Sherdog",
-          "url": "https://www.sherdog.com/news/news/UFC-333-Volkanovski-vs-Evloev-playbyplay-results-round-scoring-203314"
+          "title": "첼시-토트넘 경기에서 실시간 얼굴인식 시스템 가동…범죄 예방인가, 관중 감시인가",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610221358003"
         },
         {
-          "title": "Volkanovski Eyes Featherweight GOAT Status Against Unbeaten Challenger",
-          "source": "Seoul Economic Daily",
-          "url": "https://en.sedaily.com/sports/2026/10/24/volkanovski-eyes-featherweight-goat-status-against-unbeaten"
-        },
-        {
-          "title": "UFC 333 Predictions, Odds, Picks, Previews for Every Fight (October 24)",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/ufc-333-predictions-odds-picks-024804358.html"
-        }
-      ]
-    },
-    {
-      "id": "아스날",
-      "rank": 2,
-      "keyword": "아스날",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '왜 아스날은 이번 시즌 프리미어 리그에서 코너킥으로 득점하지 못했을까요?' (Laodong.vn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "왜 아스날은 이번 시즌 프리미어 리그에서 코너킥으로 득점하지 못했을까요?",
+          "title": "프리미어 리그 첼시 대 토트넘 생중계 링크",
           "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/vi-sao-arsenal-chua-ghi-ban-tu-phat-goc-tai-premier-league-mua-nay-1788514.ldo"
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-chelsea-vs-tottenham-tai-premier-league-1788618.ldo"
         },
         {
-          "title": "아스널 공격수 사카, 허벅지 부상으로 최소 6주 이탈",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261024015000007"
-        },
-        {
-          "title": "[EPL] 아스널 사카, 허벅지 부상으로 최소 6주 결장 전망",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261024000029"
+          "title": "프리미어리그: ‘2연승’ 첼시, 안방서 토트넘 상대로 리그 첫 3연승 도전",
+          "source": "티스토리",
+          "url": "https://sbotopkr.tistory.com/2638"
         }
       ]
     },
     {
-      "id": "arsenal",
+      "id": "황희찬",
+      "rank": 2,
+      "keyword": "황희찬",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[분데스·리뷰] ‘韓 국대’ 황희찬, 눈도장 찍을 절호의 기회→0공포로 마무리···샬케04 이적 후 첫 선발, ...' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[분데스·리뷰] ‘韓 국대’ 황희찬, 눈도장 찍을 절호의 기회→0공포로 마무리···샬케04 이적 후 첫 선발, ...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610250141003"
+        },
+        {
+          "title": "대표팀 92-96 갈등?…이재성, 황희찬과 다정한 근황 \"아프지 말자\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/23/2026102308294438574"
+        },
+        {
+          "title": "'韓 국가대표 공격수' 황희찬, 마침내 '반격 시작'하나...\"첫 선발 출전 기회 생겨\", 감독도 \"HWANG 좋은 옵션\" 평가",
+          "source": "스포탈코리아",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553639126"
+        }
+      ]
+    },
+    {
+      "id": "chelsea-vs-spurs",
       "rank": 3,
-      "keyword": "arsenal",
+      "keyword": "chelsea vs spurs",
       "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Arsenal vs Everton: Premier League preview, team news, stats & head-to-…' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Chelsea 0-2 Tottenham: Cole Palmer is sent off as Spurs stun Stamford B…' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Arsenal vs Everton: Premier League preview, team news, stats & head-to-head",
+          "title": "Chelsea 0-2 Tottenham: Cole Palmer is sent off as Spurs stun Stamford Bridge",
           "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c6vgj4p7dzd7t"
+          "url": "https://www.bbc.com/sport/football/live/cwj0l7zr4pd9t"
         },
         {
-          "title": "Team news: Eze one of five changes to face Everton",
-          "source": "Arsenal.com",
-          "url": "https://www.arsenal.com/news/team-news-eze-one-of-five-changes-to-face-everton-aZIZd3e0c1Yj"
+          "title": "Premier League - Chelsea v Tottenham Hotspur",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/premier-league-chelsea-v-tottenham-hotspur/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQU8xRUc5V0s"
         },
         {
-          "title": "Moyes Talks Team News & Nørgaard Fitness Ahead Of Arsenal Trip",
-          "source": "Everton FC",
-          "url": "https://www.evertonfc.com/news/2026/october/23/Moyes-Talks-Team-News---Norgaard-Fitness-Ahead-Of-Arsenal-Trip/"
+          "title": "Roberto De Zerbi reaction: What did Spurs boss say after rousing win at Chelsea?",
+          "source": "NBC Sports",
+          "url": "https://www.nbcsports.com/soccer/news/roberto-de-zerbi-reaction-what-did-spurs-boss-say-after-rousing-win-at-chelsea"
         }
       ]
     },
     {
-      "id": "웨스트-햄-대-사우샘프턴",
+      "id": "2026-롤드컵",
       "rank": 4,
-      "keyword": "웨스트 햄 대 사우샘프턴",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'West Ham United 2-3 Southampton: James Bree scores stunning volley in S…' (BBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "West Ham United 2-3 Southampton: James Bree scores stunning volley in Saints win",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cked35y808jjt"
-        },
-        {
-          "title": "West Ham vs Southampton LIVE! Championship match updates, score and free highlights from 5.15pm",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/13602189/west-ham-vs-southampton-live-championship-match-updates-score-and-free-highlights-from-5-15pm"
-        },
-        {
-          "title": "Press Conference part two: Eckert previews West Ham",
-          "source": "Southampton FC Official Site",
-          "url": "https://www.southamptonfc.com/en/video/press-conference-part-two-eckert-previews-west-ham"
-        }
-      ]
-    },
-    {
-      "id": "파이널-테이블",
-      "rank": 5,
-      "keyword": "파이널 테이블",
+      "keyword": "2026 롤드컵",
       "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '오늘 첫 방송 '파이널 테이블', 안효섭은 누굴 위해 진수성찬 차리나? - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'LCK 4전 전승 속 2R 내전 성사…LPL은 1패조 벼랑 끝 승부' (지디넷코리아) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "오늘 첫 방송 '파이널 테이블', 안효섭은 누굴 위해 진수성찬 차리나? - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/24/2026102413337246340"
+          "title": "LCK 4전 전승 속 2R 내전 성사…LPL은 1패조 벼랑 끝 승부",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261024110526"
         },
         {
-          "title": "함재현, '파이널 테이블' 출연…이현균 곁 지키는 수셰프 변신",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261023001173"
-        },
-        {
-          "title": "[사진]정유진, '손하트 멋지게'",
+          "title": "[고용준의 e스포츠 엿보기] 요란한 혜택보다 무거운 태극마크… '제카' 김건우가 보여준 프로의 진정성",
           "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112896716"
+          "url": "https://www.osen.co.kr/article/G1112897564"
+        },
+        {
+          "title": "[롤드컵 톡톡] '쵸비' 정지훈의 진심, \"월즈 탈락 아픔 깊이 고찰, 올해는 다른 모습 증명할 것\"",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261023113815311"
         }
       ]
     },
     {
-      "id": "อาร-เซนอล-พบ-เอฟเวอร-ต-น",
-      "rank": 6,
-      "keyword": "อาร เซนอล พบ เอฟเวอร ต น",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'แฟนปืนลุ้นระทึก! อาร์เตต้าอัปเดตอาการซาก้า-สื่อคาดอาจพักยาว 6 สัปดาห์' (Head Topics) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "แฟนปืนลุ้นระทึก! อาร์เตต้าอัปเดตอาการซาก้า-สื่อคาดอาจพักยาว 6 สัปดาห์",
-          "source": "Head Topics",
-          "url": "https://th.headtopics.com/news/364936153609361203015-89140084"
-        },
-        {
-          "title": "++[ＬＩＶＥＳｔｒｅａｍ]NOW!!] อาร์เซนอล vs เอฟเวอร์ตัน LIVE Updates",
-          "source": "FC東京オフィシャルホームページ",
-          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2R1a2Vucmd5MTQ3LmdpdGh1Yi5pby9uZXdzLyIvPjwva3JwYW5vPg==&id=arsenal-evertonlive-th-hd-92376625"
-        },
-        {
-          "title": "น่าห่วง! พี่ต้าไม่รู้ น้องบี คัมแบ็กตอนไหนหลังเจ็บต้นขา ซัดตารางแข่งแน่นขนัดมากเกินไป | Soccersuck",
-          "source": "LINE TODAY",
-          "url": "https://today.line.me/th/v3/article/JPyr1MK"
-        }
-      ]
-    },
-    {
-      "id": "한의사",
-      "rank": 7,
-      "keyword": "한의사",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '침 맞던 노인 심근파열로 숨져…업무상과실치사 한의사 벌금형' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "침 맞던 노인 심근파열로 숨져…업무상과실치사 한의사 벌금형",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023112600063"
-        },
-        {
-          "title": "허리 아파 한의원 갔는데 심장 파열로 사망…한의사 벌금 2000만원",
-          "source": "주간조선",
-          "url": ""
-        },
-        {
-          "title": "한의사가 가슴에 침, 90대 통증·호흡곤란→사망…벌금형",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003838695"
-        }
-      ]
-    },
-    {
-      "id": "qpr-대-스완지-시티",
-      "rank": 8,
-      "keyword": "qpr 대 스완지 시티",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Queens Park Rangers vs Swansea City: Championship stats & head-to-head' (BBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Queens Park Rangers vs Swansea City: Championship stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c6pvglrn2mj4t"
-        },
-        {
-          "title": "Queens Park Rangers v Swansea City | How to watch or listen",
-          "source": "Swansea City",
-          "url": "https://www.swanseacity.com/news/queens-park-rangers-v-swansea-city-how-watch-or-listen-1"
-        },
-        {
-          "title": "Away improvement down to choosing right tools - Matos",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/away-improvement-down-choosing-tools-065626654.html"
-        }
-      ]
-    },
-    {
-      "id": "잠수교",
-      "rank": 9,
-      "keyword": "잠수교",
+      "id": "cfo",
+      "rank": 5,
+      "keyword": "cfo",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[르포] “마지막 추억 남기자”… 슈퍼카·오토바이 몰린 잠수교의 밤 - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'NextGen Healthcare Appoints Anthony Palladino as Chief Financial Officer' (Business Wire) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[르포] “마지막 추억 남기자”… 슈퍼카·오토바이 몰린 잠수교의 밤 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/topics/topics_social/2026/10/23/HLG7PSAESFHBDHI6NFULH3KXDI/"
+          "title": "NextGen Healthcare Appoints Anthony Palladino as Chief Financial Officer",
+          "source": "Business Wire",
+          "url": "https://www.businesswire.com/news/home/20261023814950/en/NextGen-Healthcare-Appoints-Anthony-Palladino-as-Chief-Financial-Officer"
         },
         {
-          "title": "(카드뉴스) 잠수교! 서울 최초의 한강 보행전용교 된다!",
-          "source": "서울특별시",
-          "url": "https://mediahub.seoul.go.kr/archives/2019818"
+          "title": "NextGen Healthcare Appoints Anthony Palladino as Chief Financial Officer",
+          "source": "citybiz",
+          "url": "https://www.citybiz.co/article/923762/nextgen-healthcare-appoints-anthony-palladino-as-chief-financial-officer/"
         },
         {
-          "title": "주말에 잠수교서 치킨 먹을까, 김천서 김밥 먹을까…전국 미식 축제 ‘풍성’",
-          "source": "www.dt.co.kr",
-          "url": "https://www.dt.co.kr/article/12090881"
+          "title": "NextGen Healthcare Appoints Anthony Palladino as Chief Financial Officer",
+          "source": "01net",
+          "url": "https://www.01net.it/nextgen-healthcare-appoints-anthony-palladino-as-chief-financial-officer/"
+        }
+      ]
+    },
+    {
+      "id": "tes",
+      "rank": 6,
+      "keyword": "tes",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'NFL Fantasy 2026 Start 'Em, Sit 'Em: Tight ends for Week 7' (NFL.com) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "NFL Fantasy 2026 Start 'Em, Sit 'Em: Tight ends for Week 7",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/nfl-fantasy-2026-start-em-sit-em-tight-ends-for-week-7"
+        },
+        {
+          "title": "Week 7 Fantasy Football TE Rankings",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-week-7-start-sit-advice-tight-end-153811492.html"
+        },
+        {
+          "title": "Bets for National Tight Ends Day: Props and picks for Sunday's games",
+          "source": "ESPN",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50221073/nfl-week-7-odds-tight-ends-betting-props-preview"
+        }
+      ]
+    },
+    {
+      "id": "유영우",
+      "rank": 7,
+      "keyword": "유영우",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘전참시’ 유영우, 대학 축제 섭외에 당황 “뭔가 잘못됐다”' (iMBC 연예) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘전참시’ 유영우, 대학 축제 섭외에 당황 “뭔가 잘못됐다”",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522308"
+        },
+        {
+          "title": "유영우, 리센느 원이와 함께 탄 차인데..문콕 당하고 상심 \"범인 못 찾아\"(전참시)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/25/GFQWGNRSGBRWMZDFGFQTIZBSME/"
+        },
+        {
+          "title": "유영우, ‘역대급 짠돌이’ 매니저 등장…냉장고·세탁기도 없다 (전참시)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261023/134894485/1"
+        }
+      ]
+    },
+    {
+      "id": "이재성",
+      "rank": 8,
+      "keyword": "이재성",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[bundes.review] '모레노호에 반가운 소식! 이재성 헤더골 폭발'… 마인츠는 브레멘에 2-3 패배!' (포포투) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[bundes.review] '모레노호에 반가운 소식! 이재성 헤더골 폭발'… 마인츠는 브레멘에 2-3 패배!",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99776"
+        },
+        {
+          "title": "이재성 시즌 1호골 기록…마인츠, 브레멘에 2-3 패배 : 스포츠",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1047108"
+        },
+        {
+          "title": "[분데스 REVIEW] 이재성 시즌 1호골 터졌지만 빛바랬다! 추격의 헤더골로 반격 이끌었지만 역부족…마인츠, 브레멘에 2-3 패배",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697076"
+        }
+      ]
+    },
+    {
+      "id": "볼카노프스키",
+      "rank": 9,
+      "keyword": "볼카노프스키",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''타이틀전 최다승 도전' 볼카노프스키 화끈 도발 \"상대 패닉에 빠질 것... 피니시로 끝내주겠다\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'타이틀전 최다승 도전' 볼카노프스키 화끈 도발 \"상대 패닉에 빠질 것... 피니시로 끝내주겠다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/24/2026102411132621685"
+        },
+        {
+          "title": "[격투기] '챔피언' 얀·'도전자' 드발리쉬빌리, 모두 계체량 통과…진정한 맞대결 남아",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261024000057"
+        },
+        {
+          "title": "볼카노프스키, ‘20승 도전자’ 넘고 페더급 GOAT 될까",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20105460"
+        }
+      ]
+    },
+    {
+      "id": "내-새끼의-연애",
+      "rank": 10,
+      "keyword": "내 새끼의 연애",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이종혁 아들 이준수, 전희철 딸 전지우와 데이트…“겹사돈?” (내새끼의연애3)' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이종혁 아들 이준수, 전희철 딸 전지우와 데이트…“겹사돈?” (내새끼의연애3)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261023/134896455/1"
+        },
+        {
+          "title": "전희철 둘째 딸 미모에 이종혁 아들 \"너무 예뻐\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003839083"
+        },
+        {
+          "title": "윤후 출연한 '내 새끼의 연애', 시즌3엔 '이종혁子' 이준수 나온다... 11월 첫 방송",
+          "source": "금강일보",
+          "url": ""
         }
       ]
     }
