@@ -1,286 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-24T21:29:32.659Z",
+  "updatedAt": "2026-10-24T23:39:29.879Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "kf-21-보라매",
+      "id": "여행",
       "rank": 1,
-      "keyword": "kf-21 보라매",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "keyword": "여행",
+      "volumeLabel": "5000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '전투기는 국산인데 ‘심장’은 미국산…KF-21에 ‘한국 엔진’ 달면 생기는 일 [밀리터리+]' (나우뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“K드라마 보고 한국 왔는데, 일본 여행보다 불편”···외국인 관광객 발목 잡은 ‘번호 인증·앱 차단’' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "전투기는 국산인데 ‘심장’은 미국산…KF-21에 ‘한국 엔진’ 달면 생기는 일 [밀리터리+]",
-          "source": "나우뉴스",
-          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261022601023"
+          "title": "“K드라마 보고 한국 왔는데, 일본 여행보다 불편”···외국인 관광객 발목 잡은 ‘번호 인증·앱 차단’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610241414001"
         },
         {
-          "title": "MBC경남, 창사특집 다큐 '첨단 항공엔진이 온다' 22일 방송",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610211441398013"
+          "title": "‘일본보다 한국 관광이 낫다고? 누가 그래?’…외국인 불만 글, 日보다 1.6배↑",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625942"
         },
         {
-          "title": "독자개발 훈련기 '웅비'의 튀르키예 수출에 방위사업청이 당황한 이유",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026101913180001658"
+          "title": "김윤덕 의원, 외국인 관광객 불편 분석서 한국 디지털·교통·결제 문제 부각",
+          "source": "로이슈",
+          "url": "https://www.lawissue.co.kr/view.php?ud=20261024121901339204ead0791_12"
         }
       ]
     },
     {
-      "id": "사랑이-온다",
+      "id": "세균",
       "rank": 2,
-      "keyword": "사랑이 온다",
+      "keyword": "세균",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“손 씻다가 슈퍼박테리아 퍼진다?”…병원 세면대의 뜻밖의 위험' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“손 씻다가 슈퍼박테리아 퍼진다?”…병원 세면대의 뜻밖의 위험",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/It/article/all/20261023/134897068/2"
+        },
+        {
+          "title": "한 입 먹고 또 찍는 ‘더블 딥’…입 속 세균 옮겨갈까?",
+          "source": "레이디경향",
+          "url": "https://lady.khan.co.kr/health/article/202610231333001"
+        },
+        {
+          "title": "항생제도 소용없는 슈퍼세균, AI가 만든 바이러스로 잡는다?",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/kid/kid_nie/kid_upper-grades/2026/10/23/OSL4DKRYJVHFDGLJ3LJDVQXF7I/"
+        }
+      ]
+    },
+    {
+      "id": "이다해",
+      "rank": 3,
+      "keyword": "이다해",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이다해, '중국풍' 외모 지적에 \"조금씩 달라지는 내 모습 즐겨\"' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이다해, '중국풍' 외모 지적에 \"조금씩 달라지는 내 모습 즐겨\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261024_0003839708"
+        },
+        {
+          "title": "\"2시간 만에 200억\"…이다해 출연한 中 광군제 라이브커머스 '대박'",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026102008105864202"
+        },
+        {
+          "title": "이다해, 출산 앞두고 난데없는 성형설..'중국인' 스태프 때문이었다 [핫피플]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/25/MU3TKMZYMJRGMM3FME2TCZRTME/"
+        }
+      ]
+    },
+    {
+      "id": "สภาพอากาศ",
+      "rank": 4,
+      "keyword": "สภาพอากาศ",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘상속포기’ 하석진, ♥안희연 택했다… ‘사랑이 온다’ 폭풍 전야 예고' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'กรมอุตุฯ เตือน อากาศแปรปรวน อีสาน-เหนือ ลมแรง ภาคใต้ ฝนตกหนักมาก' (banmuang.co.th) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘상속포기’ 하석진, ♥안희연 택했다… ‘사랑이 온다’ 폭풍 전야 예고",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610242122003"
+          "title": "กรมอุตุฯ เตือน อากาศแปรปรวน อีสาน-เหนือ ลมแรง ภาคใต้ ฝนตกหนักมาก",
+          "source": "banmuang.co.th",
+          "url": "https://www.banmuang.co.th/news/region/495445"
         },
         {
-          "title": "[사랑이 온다] 안희연과 교제 조건으로 상속 포기 각서에 사인하는 하석진 “미련 없습니다”",
-          "source": "KBS연예",
-          "url": "https://kstar.kbs.co.kr/list_view.html?idx=413100"
+          "title": "รัฐกำชับกรมท่าอากาศยานเตรียมพร้อมสนามบินภาคใต้รับมือฝนตกหนัก 23-26 ต.ค.นี้ : อินโฟเควสท์",
+          "source": "สำนักข่าวอินโฟเควสท์",
+          "url": "https://www.infoquest.co.th/2026/668120"
         },
         {
-          "title": "‘사랑이 온다’ 하석진, 상속·증여 포기…”거렁뱅이 사랑할까?”",
-          "source": "싱글리스트",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=776074"
+          "title": "ฝนขยายตัวต่อเนื่อง! ปทุมธานี–อยุธยา–สุพรรณบุรี จับตากลุ่มฝนช่วงบ่าย 📍 วันที่ 24 ตุลาคม 2569 เวลา 15.00 น. พบกลุ่มฝนปานกลางถึงหนักบางแห่งบริเวณนนทบุรี ปทุมธานี นครปฐม และพระนครศรีอยุธยา โดยกลุ่มฝนมีแนวโน้มขยายตัวเพิ่มขึ้น ↖️ กลุ่มฝนส่วนใหญ่เคลื่อนตัวไปทางทิศตะวันต",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/tmd.go.th/posts/%E0%B8%9D%E0%B8%99%E0%B8%82%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87-%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B8%AD%E0%B8%A2%E0%B8%B8%E0%B8%98%E0%B8%A2%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5-%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%95%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%9D%E0%B8%99%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%9A%E0%B9%88%E0%B8%B2%E0%B8%A2-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-24-%E0%B8%95%E0%B8%B8%E0%B8%A5%E0%B8%B2%E0%B8%84/1588725536632909/"
         }
       ]
     },
     {
-      "id": "창신메모리테크놀로지",
-      "rank": 3,
-      "keyword": "창신메모리테크놀로지",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'CXMT 이어 YMTC까지… 삼전닉스 맹추격하는 중국 메모리의 공포 [반도체 투자 리포트]' (세계일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "CXMT 이어 YMTC까지… 삼전닉스 맹추격하는 중국 메모리의 공포 [반도체 투자 리포트]",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261023512647"
-        },
-        {
-          "title": "26년 만에 만든 'CHIP' 전시관…'반도체 굴기' 다시 힘주는 중국? - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/10/25/2026102310271946840"
-        },
-        {
-          "title": "中 지방 정부가 10년 동안 키운 CXMT… ‘회색 코뿔소’처럼 진격한다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/weeklybiz/2026/10/24/FVU5SGBEYVGLLIGAW5E3I2XH4Y/"
-        }
-      ]
-    },
-    {
-      "id": "황연주",
-      "rank": 4,
-      "keyword": "황연주",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '황연주 터졌다..김연경, 한일전 뼈아픈 패배 딛고 '소름 돋는 용병술' ('신인감독2') - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "황연주 터졌다..김연경, 한일전 뼈아픈 패배 딛고 '소름 돋는 용병술' ('신인감독2') - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/24/HE3TEYLDHA3TQZDGGM2DCYTGGA/"
-        },
-        {
-          "title": "김연경, 한일전 설욕 위해 승부수…황연주 교체 투입 통할까 (신인감독 김연경2)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261024/134901019/1"
-        },
-        {
-          "title": "김연경, 승부사 기질 발휘…한일전 리벤지 매치 승리할까 (신인감독 김연경2)",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522322"
-        }
-      ]
-    },
-    {
-      "id": "라리가",
+      "id": "박현호",
       "rank": 5,
-      "keyword": "라리가",
-      "volumeLabel": "200+",
+      "keyword": "박현호",
+      "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[라리가] 몸 날리는 가르시아' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '은가은♥박현호, 신나는 부부 동반 행사 | KBS 261024 방송' (대한민국 대표 공영미디어 KBS) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[라리가] 몸 날리는 가르시아",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3731555"
+          "title": "은가은♥박현호, 신나는 부부 동반 행사 | KBS 261024 방송",
+          "source": "대한민국 대표 공영미디어 KBS",
+          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026180240-01-000_MFSC3&program_code=T2016-0651&program_id=PS-2026180240-01-000&section_code=04&broadcast_complete_yn=N&section_id=10737"
         },
         {
-          "title": "이강인, 챔피언스리그 결장 후 라리가 선발 복귀…아틀레티코는 선두 추격 도전",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=845223"
+          "title": "은가은, 행사장서 헛구역질…박현호 임신테스트기 꺼냈다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261024_0003839415"
         },
         {
-          "title": "'이강인 부상 복귀하자마자 슈팅 폭발!' 전반에만 오른발·왼발 연속 시도...ATM, 데포르티보전 전반 0-0 마무리 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/25/202610250404774398O"
+          "title": "'박현호♥' 은가은, 헛구역질→둘째 임신설..\"딸이었으면\" 알고보니 '급체' ('살림남')",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261024072125682"
         }
       ]
     },
     {
-      "id": "cblol",
+      "id": "메이저-리그-사커",
       "rank": 6,
-      "keyword": "cblol",
+      "keyword": "메이저 리그 사커",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '손흥민이 대단한 거였다…레반돕 MLS서 실패한 영입 평가, 6경기 연속 무득점 ‘대굴욕’' (포포투) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "손흥민이 대단한 거였다…레반돕 MLS서 실패한 영입 평가, 6경기 연속 무득점 ‘대굴욕’",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99701"
+        },
+        {
+          "title": "손흥민보다 대단했다…미국서 18경기 13골 6도움 “입단 3개월만 팀 송두리째 바꿔놔”",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99696"
+        },
+        {
+          "title": "한 명은 손흥민 뛰어넘은 대활약, 한 명은 손흥민보다 수준 미달...MLS 적응 희비 엇갈린 '월클 공격수'",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/football/2026-10-24/202610240100153170009995"
+        }
+      ]
+    },
+    {
+      "id": "에코프로",
+      "rank": 7,
+      "keyword": "에코프로",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '에코프로, 창립 28주년 기념식 개최' (전기신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "에코프로, 창립 28주년 기념식 개최",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=373793"
+        },
+        {
+          "title": "에코프로 창립 28주년…“도전 정신으로 삼원계 양극재 미래 개척”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/region/article/all/20261023/134894162/1"
+        },
+        {
+          "title": "에코프로 이동채 “불황기에 미래를 준비한 기업이 진정한 강자”",
+          "source": "부산일보",
+          "url": "https://mobile.busan.com/view/election/view.php?code=2026102215041190027"
+        }
+      ]
+    },
+    {
+      "id": "유해란",
+      "rank": 8,
+      "keyword": "유해란",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Worlds 2026: ''Eu nunca fugi do meta'', diz LOS Curse às vésperas da es…' (Mais Esports) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '전반과 후반 '10타 차'…롤러코스터 탔던 최혜진' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Worlds 2026: ''Eu nunca fugi do meta'', diz LOS Curse às vésperas da estreia",
-          "source": "Mais Esports",
-          "url": "https://maisesports.com.br/worlds-2026-eu-nunca-fugi-do-meta-diz-los-curse-as-vesperas-da-estreia"
-        },
-        {
-          "title": "LØS Duduhh: \"Foi apenas um jogo, o próximo vai ser diferente\"",
-          "source": "Sheep Esports",
-          "url": "https://www.sheepesports.com/pt/articles/los-duduhh-it-was-just-one-game-the-next-one-will-be-different/pt"
-        },
-        {
-          "title": "LOS estreia contra a T1 nesta sexta no Mundial de LoL 2026; veja onde assistir",
-          "source": "arenaesports.com.br",
-          "url": "https://arenaesports.com.br/league-of-legends/los-estreia-contra-a-t1-nesta-sexta-no-mundial-de-lol-2026-veja-onde-assistir/"
-        }
-      ]
-    },
-    {
-      "id": "로스앤젤레스-fc",
-      "rank": 7,
-      "keyword": "로스앤젤레스 fc",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“제가 그 누구보다 가장 열렬한 팬” 떠난 지 1년 반 지났음에도… 여전한 ‘토트넘 사랑’ 손흥민 ‘오피셜’ 공식입장 “아직도 …' (Goal.com) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“제가 그 누구보다 가장 열렬한 팬” 떠난 지 1년 반 지났음에도… 여전한 ‘토트넘 사랑’ 손흥민 ‘오피셜’ 공식입장 “아직도 그립습니다”",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%8C%E1%85%A6%E1%84%80%E1%85%A1-%E1%84%80%E1%85%B3-%E1%84%82%E1%85%AE%E1%84%80%E1%85%AE%E1%84%87%E1%85%A9%E1%84%83%E1%85%A1-%E1%84%80%E1%85%A1%E1%84%8C%E1%85%A1%E1%86%BC-%E1%84%8B%E1%85%A7%E1%86%AF%E1%84%85%E1%85%A7%E1%86%AF%E1%84%92%E1%85%A1%E1%86%AB-%E1%84%91%E1%85%A2%E1%86%AB-%E1%84%84%E1%85%A5%E1%84%82%E1%85%A1%E1%86%AB-%E1%84%8C%E1%85%B5-1%E1%84%82%E1%85%A7%E1%86%AB-%E1%84%87%E1%85%A1%E1%86%AB-%E1%84%8C%E1%85%B5%E1%84%82%E1%85%A1%E1%86%BB%E1%84%8B%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%83%E1%85%A9--%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AB-%E1%84%90%E1%85%A9%E1%84%90%E1%85%B3%E1%84%82%E1%85%A5%E1%86%B7-%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%BC-%E1%84%89%E1%85%A9%E1%86%AB%E1%84%92%E1%85%B3%E1%86%BC%E1%84%86%E1%85%B5%E1%86%AB-%E1%84%8B%E1%85%A9%E1%84%91%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AF-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%8C%E1%85%A1%E1%86%BC-%E1%84%8B%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%A8%E1%84%83%E1%85%A9-%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%89%E1%85%B3%E1%86%B8%E1%84%82%E1%85%B5%E1%84%83%E1%85%A1/blt6a6769789d0804f2"
-        },
-        {
-          "title": "`메시와 리그 1위 경쟁` 손흥민, LAFC 역사 쓴다…`단일 시즌 최다 어시스트 눈앞`",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026102122345748951"
-        },
-        {
-          "title": "[동포의 창] 한인청소년합창단, 손흥민 출전 경기서 美 국가 제창·K팝 공연",
+          "title": "전반과 후반 '10타 차'…롤러코스터 탔던 최혜진",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261020034800371"
+          "url": "https://www.yna.co.kr/view/AKR20261024042500007"
+        },
+        {
+          "title": "그린 적중률 100% 유해란, 이글 두방으로 BMW레이디스 선두 등극",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8693999"
+        },
+        {
+          "title": "최혜진과 박민지가 마구 흔들었지만, 유해란은 꿈쩍 안했다 [BMW 레이디스 챔피언십 2026 3R]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112897694"
         }
       ]
     },
     {
-      "id": "춘천마라톤",
-      "rank": 8,
-      "keyword": "춘천마라톤",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '1946년 시작된 ‘가을의 전설’… 이번엔 선수·일반인 함께 달린다' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "1946년 시작된 ‘가을의 전설’… 이번엔 선수·일반인 함께 달린다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/transport-environment/2026/10/24/5SLMTIUOTZCIJL64TJ5S2ZRG2I/"
-        },
-        {
-          "title": "청도경찰서, 청도반시 마라톤대회 앞두고 교통안전 점검",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/region/article/all/20261023/134894159/1"
-        },
-        {
-          "title": "춘천마라톤 25일 개최…의암호 달리고 도심 교통 일부 통제",
-          "source": "유스연합",
-          "url": "https://www.youthassembly.kr/news/1015638"
-        }
-      ]
-    },
-    {
-      "id": "lcs",
+      "id": "앤트로픽",
       "rank": 9,
-      "keyword": "lcs",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'TL Yeon: \"We did ourselves a disservice today\"' (Sheep Esports) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "TL Yeon: \"We did ourselves a disservice today\"",
-          "source": "Sheep Esports",
-          "url": "https://www.sheepesports.com/en/articles/tl-yeon-we-did-ourselves-a-disservice-today/en"
-        },
-        {
-          "title": "Worlds 2026: CTBC Flying Oyster Outfight Team Liquid Behind Double-Buff Finish",
-          "source": "EGamersWorld",
-          "url": "https://egamersworld.com/lol/news/37997/ctbc-flying-oyster-punish-late-team-liquid-mistake-2YRCv0OsT"
-        },
-        {
-          "title": "\"We had a pretty good draw, but CFO probably feels the same\": TL Quid ahead of Worlds 2026 Swiss Stage",
-          "source": "Sheep Esports",
-          "url": "https://www.sheepesports.com/en/articles/we-had-a-pretty-good-draw-but-cfo-probably-feels-the-same-way-tl-quid-ahead-of-worlds-2026-swiss/en"
-        }
-      ]
-    },
-    {
-      "id": "한혜진",
-      "rank": 10,
-      "keyword": "한혜진",
-      "volumeLabel": "100+",
+      "keyword": "앤트로픽",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한혜진♥기성용 딸, 수영장서 아기 구했다…\"코까지 잠겨\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Anthropic의 고용 변화 - 신규 기술직 채용의 주니어 비중, 27%에서 9%로 감소' (GeekNews) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "한혜진♥기성용 딸, 수영장서 아기 구했다…\"코까지 잠겨\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/23/2026102313554282185"
+          "title": "Anthropic의 고용 변화 - 신규 기술직 채용의 주니어 비중, 27%에서 9%로 감소",
+          "source": "GeekNews",
+          "url": "https://news.hada.io/topic?id=35600"
         },
         {
-          "title": "한혜진·기성용 딸 시온, 호텔서 물에 빠진 아기 구조 '훈훈'…보상은 \"올리브영 데려가 줘\" 폭소 ('배우 한혜진')",
-          "source": "일간스포츠",
-          "url": "https://isplus.com/article/view/isp202610230048"
+          "title": "AI로 보고서·PPT 딸깍했더니…사람들 회의시간 20% 길어졌다는데",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/it/12179143"
         },
         {
-          "title": "\"지 엄마 닮아서..\" 기성용, 라면 먹는 딸에 ♥한혜진 소환 '폭소'",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-10-23/202610230100148160009624"
+          "title": "앤트로픽 직원 91% “2030년 AI가 노벨상급 발견” 예측...일반인은 39%",
+          "source": "AI타임스",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216398"
+        }
+      ]
+    },
+    {
+      "id": "여수세계박람회장",
+      "rank": 10,
+      "keyword": "여수세계박람회장",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '성리, '무명전설' 탑6와 여수 섬박람회 출격' (비즈엔터) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "성리, '무명전설' 탑6와 여수 섬박람회 출격",
+          "source": "비즈엔터",
+          "url": "https://enter.etoday.co.kr/news/view/304196"
+        },
+        {
+          "title": "장한별, 여수세계섬박람회 초대가수",
+          "source": "www.bntnews.co.kr",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202610230063"
+        },
+        {
+          "title": "\"요새 운동할 새가 없어\"…성리, '무명전설' 우승 후 바쁜 스케줄 소화 중인 근황",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16250586"
         }
       ]
     }
