@@ -1,270 +1,258 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-24T12:10:39.808Z",
+  "updatedAt": "2026-10-24T16:10:51.178Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "애스턴-빌라-대-맨-시티",
+      "id": "ufc",
       "rank": 1,
-      "keyword": "애스턴 빌라 대 맨 시티",
-      "volumeLabel": "10000+",
+      "keyword": "ufc",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Aston Villa vs Manchester City: Premier League preview, team news, stat…' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'UFC 333 ‘Volkanovski vs. Evloev’ play-by-play, results & round scoring' (Sherdog) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Aston Villa vs Manchester City: Premier League preview, team news, stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cj62ynzwg4pet"
+          "title": "UFC 333 ‘Volkanovski vs. Evloev’ play-by-play, results & round scoring",
+          "source": "Sherdog",
+          "url": "https://www.sherdog.com/news/news/UFC-333-Volkanovski-vs-Evloev-playbyplay-results-round-scoring-203314"
         },
         {
-          "title": "Maresca says Haaland is 100% available for Villa trip",
-          "source": "Manchester City FC",
-          "url": "https://www.mancity.com/news/mens/enzo-maresca-aston-villa-away-press-conference-written-63928256"
+          "title": "Volkanovski Eyes Featherweight GOAT Status Against Unbeaten Challenger",
+          "source": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/sports/2026/10/24/volkanovski-eyes-featherweight-goat-status-against-unbeaten"
         },
         {
-          "title": "City’s Perfect Start Faces First Real Test as Premier League Returns",
-          "source": "Dawan Africa",
-          "url": "https://www.dawan.africa/news/citys-perfect-start-faces-first-real-test-as-premier-league-returns"
+          "title": "UFC 333 Predictions, Odds, Picks, Previews for Every Fight (October 24)",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/ufc-333-predictions-odds-picks-024804358.html"
         }
       ]
     },
     {
-      "id": "교통-사고",
+      "id": "아스날",
       "rank": 2,
-      "keyword": "교통 사고",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김종철 경찰청장 대행 \"고속도로 사고수습 중 다친 경찰관 지원 총력\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김종철 경찰청장 대행 \"고속도로 사고수습 중 다친 경찰관 지원 총력\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6860446_36918.html"
-        },
-        {
-          "title": "‘순식간에 경찰 위로 덮친 6.5t 화물차’…고속도로 사고 수습하던 경찰 발목 절단 중상",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11625934"
-        },
-        {
-          "title": "강원 횡성 영동고속도로서 차량 3대 추돌…2명 사망·3명 부상",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261024008400062"
-        }
-      ]
-    },
-    {
-      "id": "코스피",
-      "rank": 3,
-      "keyword": "코스피",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[특징주] 삼성E&A, 증권가 목표주가 줄상향 속 8% 강세(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[특징주] 삼성E&A, 증권가 목표주가 줄상향 속 8% 강세(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023044651008"
-        },
-        {
-          "title": "반도체 투자 확대 기대에...1주일간 40% 오른 '이 종목'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610242271i"
-        },
-        {
-          "title": "[오늘 이 종목] 수주·주주환원 확대 삼성E&A·AI 데이터센터 확장 SGC에너지 ‘주목’ - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/23/2026102311197063713"
-        }
-      ]
-    },
-    {
-      "id": "경찰",
-      "rank": 4,
-      "keyword": "경찰",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"또 털리느니\" 직접 무장 나섰다…프랑스 주말 ‘최대 분수령’' (JTBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"또 털리느니\" 직접 무장 나섰다…프랑스 주말 ‘최대 분수령’",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12324569"
-        },
-        {
-          "title": "잠시 뒤 파리 대규모 집회...이 시각 바스티유 광장",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610242010074069"
-        },
-        {
-          "title": "[크랩] 교실에 나온 쥐 잡으려다 나라 뒤집힌 프랑스…대선 판까지 ‘출렁’",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694254"
-        }
-      ]
-    },
-    {
-      "id": "hd현대중공업",
-      "rank": 5,
-      "keyword": "hd현대중공업",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'HD현대중 노사, 올해 임단협 2차 잠정 합의…기본급 12만원 인상' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "HD현대중 노사, 올해 임단협 2차 잠정 합의…기본급 12만원 인상",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023076300057"
-        },
-        {
-          "title": "한화오션 하청노조, 한 달 넘는 생산시설 점거…“산재·교섭 오해, 대화 필요”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261023/134895094/1"
-        },
-        {
-          "title": "'단속 농성' 위원장 건강 악화, 지부장은 크레인 '고공 농성'",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6596006"
-        }
-      ]
-    },
-    {
-      "id": "서식스-공작-해리",
-      "rank": 6,
-      "keyword": "서식스 공작 해리",
+      "keyword": "아스날",
       "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '왜 아스날은 이번 시즌 프리미어 리그에서 코너킥으로 득점하지 못했을까요?' (Laodong.vn) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "왜 아스날은 이번 시즌 프리미어 리그에서 코너킥으로 득점하지 못했을까요?",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/vi-sao-arsenal-chua-ghi-ban-tu-phat-goc-tai-premier-league-mua-nay-1788514.ldo"
+        },
+        {
+          "title": "아스널 공격수 사카, 허벅지 부상으로 최소 6주 이탈",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261024015000007"
+        },
+        {
+          "title": "[EPL] 아스널 사카, 허벅지 부상으로 최소 6주 결장 전망",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261024000029"
+        }
+      ]
+    },
+    {
+      "id": "arsenal",
+      "rank": 3,
+      "keyword": "arsenal",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Arsenal vs Everton: Premier League preview, team news, stats & head-to-…' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Arsenal vs Everton: Premier League preview, team news, stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c6vgj4p7dzd7t"
+        },
+        {
+          "title": "Team news: Eze one of five changes to face Everton",
+          "source": "Arsenal.com",
+          "url": "https://www.arsenal.com/news/team-news-eze-one-of-five-changes-to-face-everton-aZIZd3e0c1Yj"
+        },
+        {
+          "title": "Moyes Talks Team News & Nørgaard Fitness Ahead Of Arsenal Trip",
+          "source": "Everton FC",
+          "url": "https://www.evertonfc.com/news/2026/october/23/Moyes-Talks-Team-News---Norgaard-Fitness-Ahead-Of-Arsenal-Trip/"
+        }
+      ]
+    },
+    {
+      "id": "웨스트-햄-대-사우샘프턴",
+      "rank": 4,
+      "keyword": "웨스트 햄 대 사우샘프턴",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'West Ham United 2-3 Southampton: James Bree scores stunning volley in S…' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "West Ham United 2-3 Southampton: James Bree scores stunning volley in Saints win",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cked35y808jjt"
+        },
+        {
+          "title": "West Ham vs Southampton LIVE! Championship match updates, score and free highlights from 5.15pm",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/13602189/west-ham-vs-southampton-live-championship-match-updates-score-and-free-highlights-from-5-15pm"
+        },
+        {
+          "title": "Press Conference part two: Eckert previews West Ham",
+          "source": "Southampton FC Official Site",
+          "url": "https://www.southamptonfc.com/en/video/press-conference-part-two-eckert-previews-west-ham"
+        }
+      ]
+    },
+    {
+      "id": "파이널-테이블",
+      "rank": 5,
+      "keyword": "파이널 테이블",
+      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "summary": "급상승 시점에 '오늘 첫 방송 '파이널 테이블', 안효섭은 누굴 위해 진수성찬 차리나? - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": []
+      "newsSignals": [
+        {
+          "title": "오늘 첫 방송 '파이널 테이블', 안효섭은 누굴 위해 진수성찬 차리나? - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/24/2026102413337246340"
+        },
+        {
+          "title": "함재현, '파이널 테이블' 출연…이현균 곁 지키는 수셰프 변신",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261023001173"
+        },
+        {
+          "title": "[사진]정유진, '손하트 멋지게'",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112896716"
+        }
+      ]
     },
     {
-      "id": "인플루엔자",
+      "id": "อาร-เซนอล-พบ-เอฟเวอร-ต-น",
+      "rank": 6,
+      "keyword": "อาร เซนอล พบ เอฟเวอร ต น",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'แฟนปืนลุ้นระทึก! อาร์เตต้าอัปเดตอาการซาก้า-สื่อคาดอาจพักยาว 6 สัปดาห์' (Head Topics) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "แฟนปืนลุ้นระทึก! อาร์เตต้าอัปเดตอาการซาก้า-สื่อคาดอาจพักยาว 6 สัปดาห์",
+          "source": "Head Topics",
+          "url": "https://th.headtopics.com/news/364936153609361203015-89140084"
+        },
+        {
+          "title": "++[ＬＩＶＥＳｔｒｅａｍ]NOW!!] อาร์เซนอล vs เอฟเวอร์ตัน LIVE Updates",
+          "source": "FC東京オフィシャルホームページ",
+          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2R1a2Vucmd5MTQ3LmdpdGh1Yi5pby9uZXdzLyIvPjwva3JwYW5vPg==&id=arsenal-evertonlive-th-hd-92376625"
+        },
+        {
+          "title": "น่าห่วง! พี่ต้าไม่รู้ น้องบี คัมแบ็กตอนไหนหลังเจ็บต้นขา ซัดตารางแข่งแน่นขนัดมากเกินไป | Soccersuck",
+          "source": "LINE TODAY",
+          "url": "https://today.line.me/th/v3/article/JPyr1MK"
+        }
+      ]
+    },
+    {
+      "id": "한의사",
       "rank": 7,
-      "keyword": "인플루엔자",
+      "keyword": "한의사",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '제주도, 26일부터 보건소서 독감 무료 예방접종' (제민일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "제주도, 26일부터 보건소서 독감 무료 예방접종",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=845175"
-        },
-        {
-          "title": "26일부터 제주서 인플루엔자 무료 예방 접종",
-          "source": "한라일보",
-          "url": "https://m.ihalla.com/article.php?aid=1792720837791946044"
-        },
-        {
-          "title": "괴산군, 독감·대상포진 등 예방접종 무료 지원 확대",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610211556069613"
-        }
-      ]
-    },
-    {
-      "id": "니케-4주년",
-      "rank": 8,
-      "keyword": "니케 4주년",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '레벨 인피니트, ‘승리의 여신: 니케’ 4주년 특별 방송 진행' (지디넷코리아) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "레벨 인피니트, ‘승리의 여신: 니케’ 4주년 특별 방송 진행",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261023132652"
-        },
-        {
-          "title": "용산 '스탬프 랠리'도 예고, 니케 4주년 라이브 24일 실시",
-          "source": "게임메카",
-          "url": "https://www.gamemeca.com/view.php?gid=1782296"
-        },
-        {
-          "title": "시프트업 '니케', 4주년 특별 방송 임박…'지상 탈환전' 새 국면 열리나",
-          "source": "스포츠한국",
-          "url": "https://sports.hankooki.com/news/articleView.html?idxno=6942093"
-        }
-      ]
-    },
-    {
-      "id": "고우림",
-      "rank": 9,
-      "keyword": "고우림",
-      "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '고우림♥김연아 결혼 4주년…日 여행 사진 공개' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '침 맞던 노인 심근파열로 숨져…업무상과실치사 한의사 벌금형' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "고우림♥김연아 결혼 4주년…日 여행 사진 공개",
+          "title": "침 맞던 노인 심근파열로 숨져…업무상과실치사 한의사 벌금형",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023112600063"
+        },
+        {
+          "title": "허리 아파 한의원 갔는데 심장 파열로 사망…한의사 벌금 2000만원",
+          "source": "주간조선",
+          "url": ""
+        },
+        {
+          "title": "한의사가 가슴에 침, 90대 통증·호흡곤란→사망…벌금형",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261024_0003839589"
-        },
-        {
-          "title": "고우림♥김연아, 결혼 4주년 삿포로 떠났다..야경 속 달달한 근황",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/23/GI2WCZRQGA2DOYZVGFQTAODDGQ/"
-        },
-        {
-          "title": "김연아♥고우림, 3주년 ‘까죽커플’→4주년 밤 10시 22분 아내 뒤태",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12184551"
+          "url": "https://www.newsis.com/view/NISX20261023_0003838695"
         }
       ]
     },
     {
-      "id": "상동광산",
-      "rank": 10,
-      "keyword": "상동광산",
-      "volumeLabel": "100+",
+      "id": "qpr-대-스완지-시티",
+      "rank": 8,
+      "keyword": "qpr 대 스완지 시티",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[르포] 화약 냄새에 푸른 광맥 '반짝'…32년 만에 깬 영월 상동광산' (매일경제 마켓) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Queens Park Rangers vs Swansea City: Championship stats & head-to-head' (BBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[르포] 화약 냄새에 푸른 광맥 '반짝'…32년 만에 깬 영월 상동광산",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1180548"
+          "title": "Queens Park Rangers vs Swansea City: Championship stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c6pvglrn2mj4t"
         },
         {
-          "title": "33년 만에 부활한 '영월 상동광산'··· 24일 텅스텐 첫 상업 출하",
-          "source": "그린포스트코리아",
-          "url": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307805"
+          "title": "Queens Park Rangers v Swansea City | How to watch or listen",
+          "source": "Swansea City",
+          "url": "https://www.swanseacity.com/news/queens-park-rangers-v-swansea-city-how-watch-or-listen-1"
         },
         {
-          "title": "영월 상동광산 32년 만에 재가동 채굴 돌입 : 경제",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1045729"
+          "title": "Away improvement down to choosing right tools - Matos",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/away-improvement-down-choosing-tools-065626654.html"
+        }
+      ]
+    },
+    {
+      "id": "잠수교",
+      "rank": 9,
+      "keyword": "잠수교",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[르포] “마지막 추억 남기자”… 슈퍼카·오토바이 몰린 잠수교의 밤 - 조선비즈' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[르포] “마지막 추억 남기자”… 슈퍼카·오토바이 몰린 잠수교의 밤 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/10/23/HLG7PSAESFHBDHI6NFULH3KXDI/"
+        },
+        {
+          "title": "(카드뉴스) 잠수교! 서울 최초의 한강 보행전용교 된다!",
+          "source": "서울특별시",
+          "url": "https://mediahub.seoul.go.kr/archives/2019818"
+        },
+        {
+          "title": "주말에 잠수교서 치킨 먹을까, 김천서 김밥 먹을까…전국 미식 축제 ‘풍성’",
+          "source": "www.dt.co.kr",
+          "url": "https://www.dt.co.kr/article/12090881"
         }
       ]
     }
