@@ -1,270 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-27T05:28:37.548Z",
+  "updatedAt": "2026-10-27T10:53:26.419Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "이상순",
+      "id": "사미자",
       "rank": 1,
-      "keyword": "이상순",
+      "keyword": "사미자",
+      "volumeLabel": "5000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"저렇게 싸가지 없나\"…사미자, 뇌경색 간병한 며느리에 독설 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"저렇게 싸가지 없나\"…사미자, 뇌경색 간병한 며느리에 독설 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/27/2026102717292271304"
+        },
+        {
+          "title": "사미자 “며느리, 마음 곱지만 가끔은 정말 냉정해”…35년 고부의 속내",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261027/134919041/2"
+        },
+        {
+          "title": "사미자, 뇌경색·아들 암투병 간호한 며느리에 “저렇게 싸가지가 없을까” 독설 왜 (오미자)",
+          "source": "뉴스엔",
+          "url": "https://www.newsen.com/news_view.php?uid=202610271457145710&code=100100"
+        }
+      ]
+    },
+    {
+      "id": "리그-오브-레전드-월드-챔피언십",
+      "rank": 2,
+      "keyword": "리그 오브 레전드 월드 챔피언십",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이효리, 이상순과 함께 반신욕 즐겨... \"얼마나 좋은데\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '페이커 뛰어넘은 새 ‘어시스트 킹’ 탄생··· ‘케리아’ 류민석, 1022개로 롤드컵 통산 최다' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이효리, 이상순과 함께 반신욕 즐겨... \"얼마나 좋은데\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/27/2026102705363812075"
-        },
-        {
-          "title": "'돌싱' 서장훈, 보디빌더女에 고백..\"어깨 넓은 여자가 이상형\"",
-          "source": "OSEN",
-          "url": ""
-        },
-        {
-          "title": "남편 이상순 아팠던 이효리 \"남편 없으면 다 의미 없다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261027_0003842028"
-        }
-      ]
-    },
-    {
-      "id": "강남대로",
-      "rank": 2,
-      "keyword": "강남대로",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '출근길 강남대로 ’만취녀 소동’…경찰이 사지 잡아 끌어내' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "출근길 강남대로 ’만취녀 소동’…경찰이 사지 잡아 끌어내",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261027092323Yne"
-        },
-        {
-          "title": "\"위험한 이별, 울면서 차선 하나 점령\"…강남대로 한복판 여성 끌려 나왔다[영상]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6331934"
-        },
-        {
-          "title": "출근길 강남대로에서 만취한 채 '엉엉' 활보한 여성 [앵커리포트]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610270635014207"
-        }
-      ]
-    },
-    {
-      "id": "hd현대중공업",
-      "rank": 3,
-      "keyword": "hd현대중공업",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'HD현대중공업 노조, 임단협 2차 잠정합의안 찬반투표 돌입' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "HD현대중공업 노조, 임단협 2차 잠정합의안 찬반투표 돌입",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261026145300057"
-        },
-        {
-          "title": "中 세계 선박 수주 76% 싹쓸이…K-조선은 파업 몸살",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20106070"
-        },
-        {
-          "title": "한화오션만 임단협 난항…삼성重 일찌감치 타결·HD현대重 임박",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1706208/%ED%95%9C%ED%99%94%EC%98%A4%EC%85%98-%EC%9E%84%EB%8B%A8%ED%98%91-%EB%82%9C%ED%95%AD%EC%82%BC%EC%84%B1%E9%87%8D-%EC%9D%BC%EC%B0%8C%EA%B0%90%EC%B9%98-2026"
-        }
-      ]
-    },
-    {
-      "id": "자산",
-      "rank": 4,
-      "keyword": "자산",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '(보도설명) 디지털자산시장거래소 등 디지털자산업자에 대한 교육세 과세 여부는 전혀 검토된 바 없습니다.' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "(보도설명) 디지털자산시장거래소 등 디지털자산업자에 대한 교육세 과세 여부는 전혀 검토된 바 없습니다.",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148974323"
-        },
-        {
-          "title": "민주당, ‘가상자산 과세 유예 연장 여부’ 최종 의견 조율... \"우려 잘안다 오늘 최종 의견 정부전달\"",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=202610271211293948b3279dfb36_12"
-        },
-        {
-          "title": "‘소득 있는 곳에 과세’ 실종…신뢰 잃는 조세정책",
+          "title": "페이커 뛰어넘은 새 ‘어시스트 킹’ 탄생··· ‘케리아’ 류민석, 1022개로 롤드컵 통산 최다",
           "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610262200015"
-        }
-      ]
-    },
-    {
-      "id": "yaxel-lendeborg",
-      "rank": 5,
-      "keyword": "yaxel lendeborg",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Flawless Stephen Curry finally gives Warriors a win after Dubs’ ugly st…' (New York Post) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Flawless Stephen Curry finally gives Warriors a win after Dubs’ ugly start to season",
-          "source": "New York Post",
-          "url": "https://nypost.com/2026/10/27/sports/flawless-stephen-curry-finally-gives-warriors-first-win/"
+          "url": "https://www.khan.co.kr/article/202610271216001"
         },
         {
-          "title": "What we learned as Yaxel Lendeborg dominates vs. Nuggets in Warriors' first win",
-          "source": "NBC Sports Bay Area & California",
-          "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/yaxel-lendeborg-steph-curry-denver-nuggets/1974756/?partner=yahoo"
+          "title": "DK 신인 '커리어'의 무서운 성장",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2640746"
         },
         {
-          "title": "Steph Curry revs up for perfect night, watches as Warriors finish rout in Denver for first win",
-          "source": "San Francisco Chronicle",
-          "url": "https://www.sfchronicle.com/sports/warriors/article/steph-curry-s-perfect-shooting-night-leads-22495852.php"
-        }
-      ]
-    },
-    {
-      "id": "아시아나",
-      "rank": 6,
-      "keyword": "아시아나",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '대한항공·아시아나항공, 청소년 진로교육·안전체험 지원' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "대한항공·아시아나항공, 청소년 진로교육·안전체험 지원",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027033300003"
-        },
-        {
-          "title": "대한항공·아시아나항공, 청소년 대상 항공 진로 특강 3회 실시",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261027500149"
-        },
-        {
-          "title": "대한항공-아시아나항공,교육기부·안전체험 지원으로 미래세대 꿈 응원",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038961"
-        }
-      ]
-    },
-    {
-      "id": "양산시",
-      "rank": 7,
-      "keyword": "양산시",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "교도관",
-      "rank": 8,
-      "keyword": "교도관",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '수형자가 유유히 교도소 정문 걸어나갔다? 천안서 '황당' 해프닝' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "수형자가 유유히 교도소 정문 걸어나갔다? 천안서 '황당' 해프닝",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027046700063"
-        },
-        {
-          "title": "\"안 잡네?\" 교도소 밖으로 걸어 나간 수형자…교도관 2명 '경고' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/27/2026102710460544121"
-        },
-        {
-          "title": "교도소 밖으로 제지없이 걸어 나온 수형자? 천안 교도소서 무슨 일이…",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261027580061"
-        }
-      ]
-    },
-    {
-      "id": "nuggets-vs-warriors",
-      "rank": 9,
-      "keyword": "nuggets vs warriors",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'How to watch Warriors vs Nuggets: NBA, live stream, TV channel' (The Big Lead) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "How to watch Warriors vs Nuggets: NBA, live stream, TV channel",
-          "source": "The Big Lead",
-          "url": "https://www.thebiglead.com/how-to-watch-warriors-vs-nuggets-nba-live-stream-tv-channel/"
-        },
-        {
-          "title": "Warriors vs. Nuggets injury report: Steph Curry and Draymond Green return",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/warriors-vs-nuggets-injury-report-010838755.html"
-        },
-        {
-          "title": "Game Thread: Denver Nuggets vs Golden State Warriors. October 26th, 2026.",
-          "source": "Denver Stiffs",
-          "url": "https://www.denverstiffs.com/game-thread-denver-nuggets-vs-golden-state-warriors-october-26th-2026/"
-        }
-      ]
-    },
-    {
-      "id": "양서류",
-      "rank": 10,
-      "keyword": "양서류",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[사이테크+] 바다에서만 산 양서류 있었다…\"뼈 갑옷으로 염분 장벽 극복\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[사이테크+] 바다에서만 산 양서류 있었다…\"뼈 갑옷으로 염분 장벽 극복\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261025051500017"
-        },
-        {
-          "title": "개구리는 못사는 바다… 2억3700만년 전 ‘갑옷 입은 양서류’ 살았다",
+          "title": "[롤드컵] T1, 4연패 향한 8강 눈앞…한화생명은 G2와 벼랑 끝 승부",
           "source": "조선일보",
-          "url": "https://www.chosun.com/economy/science/2026/10/27/X3I4JRQTBJBBHJBXHJJ3RDXGBQ/"
+          "url": "https://www.chosun.com/sports/sports_general/2026/10/27/MU3DAYZRGY4WENJVHFRTCNBZMI/"
+        }
+      ]
+    },
+    {
+      "id": "삼성라이온즈",
+      "rank": 3,
+      "keyword": "삼성라이온즈",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '선발 변화로 승부수...최형우·김호령 선발 출전' (YTN) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "선발 변화로 승부수...최형우·김호령 선발 출전",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0107_202610271802453559"
         },
         {
-          "title": "2억3700만년 전 바닷속 몸길이 70cm '갑옷개구리' 살았을까",
-          "source": "DongA Science",
-          "url": "https://www.dongascience.com/ko/news/80542"
+          "title": "박진만 삼성 감독 \"공격력 극대화 위해 경험 많은 최형우 출장\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027156100007"
+        },
+        {
+          "title": "승리팀, KS 진출 확률 77.1%…이 시각 플레이오프 1차전",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8695569"
+        }
+      ]
+    },
+    {
+      "id": "tving",
+      "rank": 4,
+      "keyword": "tving",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Watch: Bae Hyeon Seong, Cha Kang Yoon, And Park Yoon Ho Get Caught Up I…' (Soompi) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Watch: Bae Hyeon Seong, Cha Kang Yoon, And Park Yoon Ho Get Caught Up In A Dangerous Deal In “The Substitute” Teaser",
+          "source": "Soompi",
+          "url": "https://www.soompi.com/article/1881499wpp/watch-bae-hyeon-seong-cha-kang-yoon-and-park-yoon-ho-get-caught-up-in-a-dangerous-deal-in-the-substitute-teaser"
+        },
+        {
+          "title": "TVING Original ‘The Substitute’ Unveils Teaser for Bae Hyun-sung, Cha Kang-yoon and Park Yoon-ho’s Dangerous Deal",
+          "source": "씨네플레이",
+          "url": "https://www.cineplay.co.kr/en-us/articles/30479"
+        },
+        {
+          "title": "Bae Hyun-sung, Cha Kang-yoon and Park Yoon-ho’s ‘The Substitute’ Unveils Teaser Trailer for Uncontrollable Crime Thriller",
+          "source": "씨네플레이",
+          "url": "https://www.cineplay.co.kr/en-us/articles/30434"
+        }
+      ]
+    },
+    {
+      "id": "서울-sk-대-부산-kcc",
+      "rank": 5,
+      "keyword": "서울 sk 대 부산 kcc",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '전희철 SK 감독 “KCC는 공격 고점 높은 팀…해법은 리바운드와 속도”' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "전희철 SK 감독 “KCC는 공격 고점 높은 팀…해법은 리바운드와 속도”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610271902013"
+        },
+        {
+          "title": "프로농구 오늘(27일) 경기 일정…서울 SK VS 부산 KCC, 중계 채널→현재 순위?",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16258820"
+        },
+        {
+          "title": "‘충격 5연패’ KCC, 허훈은 ‘커리어 하이’ 기세→허웅이 살아야 팀이 산다 [SS시선집중]",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1643930"
+        }
+      ]
+    },
+    {
+      "id": "야구-중계",
+      "rank": 6,
+      "keyword": "야구 중계",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘욕망의 덫’ 전혜원, 설정환·주새벽 약혼에 “진심으로 축하”…결국 완벽한 이별' (위키트리) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘욕망의 덫’ 전혜원, 설정환·주새벽 약혼에 “진심으로 축하”…결국 완벽한 이별",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1168959"
+        },
+        {
+          "title": "장서희, 전혜원 돕는 장세현에 경고…\"적당히 까불어 분질러 놓기 전에\"",
+          "source": "싱글리스트",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=774965"
+        },
+        {
+          "title": "“남편 죽은 날 다 기억 나” 박소연, 유태웅 은폐 시도 폭로…’욕망의 덫’ 최고 긴장감",
+          "source": "MHN스포츠",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1603324"
+        }
+      ]
+    },
+    {
+      "id": "오승환",
+      "rank": 7,
+      "keyword": "오승환",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''돌부처'에서 '아들 바보'로…아들 안고 인터뷰 한 오승환' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'돌부처'에서 '아들 바보'로…아들 안고 인터뷰 한 오승환",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027179100007"
+        },
+        {
+          "title": "'보여주세요' 끝판대장 승리 세리머니",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8182345"
+        },
+        {
+          "title": "“시구 말고 9회에 올라와야 하는 거 아냐?” 끝판대장 돌아오자 팬들 술렁…후배들 위해 지갑까지 열었다 [PO2] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/27/202610271910771655O"
+        }
+      ]
+    },
+    {
+      "id": "김선빈",
+      "rank": 8,
+      "keyword": "김선빈",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"니가 다 쳐야 한다\"… '타격 보조' 자처한 베테랑과 '강심장' 슈퍼스타의 절묘한 케미스트리, 77.1% 선사[PO1 현장]' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"니가 다 쳐야 한다\"… '타격 보조' 자처한 베테랑과 '강심장' 슈퍼스타의 절묘한 케미스트리, 77.1% 선사[PO1 현장]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/27/MEYDQMTGGIYTGMRYGFSGEYZXMU/"
+        },
+        {
+          "title": "\"어? 타격 훈련을 하네\" 2년 전 가을처럼 근면 성실...대구 찾은 .588 KS MVP, 터지면 부담백배 타선된다",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112897995"
+        },
+        {
+          "title": "\"김도영만 과도하게 경계하다간 역효과 난다\"…윤석민 \"꼽은 키플레이어는 김도영보단 이 선수\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/baseball/2026-10-25/202610250100157070010239"
+        }
+      ]
+    },
+    {
+      "id": "트로트",
+      "rank": 9,
+      "keyword": "트로트",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[TMA 인터뷰] 임영웅, 3년 만에 돌아온 TMA서 2관왕…\"아직 배고파\"' (더팩트) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[TMA 인터뷰] 임영웅, 3년 만에 돌아온 TMA서 2관왕…\"아직 배고파\"",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/entertain/2380256.htm"
+        },
+        {
+          "title": "임영웅·연준·스키즈 등 ‘TMA 베스트 뮤직 – 가을’ 결선 투표 돌입",
+          "source": "비즈엔터",
+          "url": "https://enter.etoday.co.kr/news/view/304139"
+        },
+        {
+          "title": "임영웅, 압도적 인기 입증…함께 가을 옷 쇼핑하고 싶은 남자 트로트 가수 1위 [TEN차트]",
+          "source": "텐아시아",
+          "url": "https://www.tenasia.co.kr/article/2026102781754"
+        }
+      ]
+    },
+    {
+      "id": "김지찬",
+      "rank": 10,
+      "keyword": "김지찬",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'KIA 박재현 \"대구 오면 잘 풀려…주자 깔아주는 게 내 임무\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "KIA 박재현 \"대구 오면 잘 풀려…주자 깔아주는 게 내 임무\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261026152800007"
+        },
+        {
+          "title": "[포토] 박재현 '필 소 굿' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/27/2026102719274358246"
+        },
+        {
+          "title": "수비 실책으로 호된 준PO 신고식 치렀던 KIA 박재현, PO에선 호수비로 승리 쐐기",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261026/134913259/1"
         }
       ]
     }
