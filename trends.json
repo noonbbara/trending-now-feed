@@ -1,286 +1,258 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-27T16:23:15.035Z",
+  "updatedAt": "2026-10-27T20:53:49.868Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "송가-인",
+      "id": "반도체",
       "rank": 1,
-      "keyword": "송가 인",
-      "volumeLabel": "10000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“묶어불기 전에 가만히 있어”…송가인, 공연 방해 관객에 호통' (매일경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“묶어불기 전에 가만히 있어”…송가인, 공연 방해 관객에 호통",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12186914"
-        },
-        {
-          "title": "취객난동 그 후..송가인, 다시 평온한 일상 찾았다 '먹방'까지 쏘쿨!",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/27/GI4WMZRWGFRDCOBWMI3TQYRSGQ/"
-        },
-        {
-          "title": "송가인, 공연 중 취객 난동에 \"아버님, 묶어불기 전에 가만히\"",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610278107H"
-        }
-      ]
-    },
-    {
-      "id": "승리-결혼",
-      "rank": 2,
-      "keyword": "승리 결혼",
-      "volumeLabel": "1000+",
+      "keyword": "반도체",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '빅뱅 출신 승리, 아빠 된다...내년 1월 출산 후 결혼 예정 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '올해 3분기 GDP 1% '깜짝 성장'...민간소비는 하락세' (YTN) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "빅뱅 출신 승리, 아빠 된다...내년 1월 출산 후 결혼 예정 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/27/2026102722402430531"
-        },
-        {
-          "title": "“역시 승리답다” 승리, 특수폭행 피소 와중에 ‘혼전 임신·결혼’ 발표",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12187763"
-        },
-        {
-          "title": "\"빅뱅 출신 승리, 내년 1월 아빠 된다\"…20대 여친과 결혼 준비설",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6334023"
-        }
-      ]
-    },
-    {
-      "id": "앤-트로픽",
-      "rank": 3,
-      "keyword": "앤 트로픽",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''몸값 2조 달러' 앤트로픽‥시장에서 통할까' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'몸값 2조 달러' 앤트로픽‥시장에서 통할까",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861146_37004.html"
-        },
-        {
-          "title": "'2조 달러' 앤트로픽 상장...92쪽짜리 '경고장'",
+          "title": "올해 3분기 GDP 1% '깜짝 성장'...민간소비는 하락세",
           "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610280055219913"
+          "url": "https://www.ytn.co.kr/_ln/0102_202610280057491386"
         },
         {
-          "title": "[유미's 픽] 'AI 재앙' 경고한 앤트로픽, 삼성·SK HBM 의존 안고 상장 도전",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261027113417"
-        }
-      ]
-    },
-    {
-      "id": "3기신도시-남양주-왕숙지구",
-      "rank": 4,
-      "keyword": "3기신도시 남양주 왕숙지구",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '강동하남남양주선 2·5공구 4차례 유찰…경기도·도의회, 지연 최소화 대책 논의' (인천일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "강동하남남양주선 2·5공구 4차례 유찰…경기도·도의회, 지연 최소화 대책 논의",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335195"
-        },
-        {
-          "title": "왕숙3기신도시 ‘선교통, 후입주’ 실현…전철9호선 착공 속도낼까",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03444006645617184&mediaCodeNo=257"
-        },
-        {
-          "title": "입찰 네 번 무산 9호선 연장 “계약방식 다시 짠다”",
-          "source": "하남일보",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "id": "우주발사체",
-      "rank": 5,
-      "keyword": "우주발사체",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''고흥 우주발사체' 국가산업단지 조성…2032년 준공' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'고흥 우주발사체' 국가산업단지 조성…2032년 준공",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974355"
-        },
-        {
-          "title": "국토부, 고흥 우주발사체 국가산단 계획 심의…내년 보상 절차 착수",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=373968"
-        },
-        {
-          "title": "고흥 우주발사체 국가산단 조성 본격화…발사체 생태계 구축",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20106641"
-        }
-      ]
-    },
-    {
-      "id": "잠실",
-      "rank": 6,
-      "keyword": "잠실",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '경찰에 침 뱉은 ‘잠실 개표소’ 여성 징역 10개월…\"공권력 무시\"' (JTBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "경찰에 침 뱉은 ‘잠실 개표소’ 여성 징역 10개월…\"공권력 무시\"",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12325032"
-        },
-        {
-          "title": "경찰관에 침 뱉은 ‘올공 시위’ 여성에 징역 10개월 선고···“준법 의식 미약, 재범 우려”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610271507001"
-        },
-        {
-          "title": "잠실 올림픽공원 시위서 경찰에 침 뱉은 40대 여성 1심서 징역 10개월 선고",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6861094_36918.html"
-        }
-      ]
-    },
-    {
-      "id": "리그컵",
-      "rank": 7,
-      "keyword": "리그컵",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '카라바오컵 본머스 대 아스톤 빌라 축구 예측' (Laodong.vn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "카라바오컵 본머스 대 아스톤 빌라 축구 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-bournemouth-vs-aston-villa-tai-carabao-cup-1790133.ldo"
-        },
-        {
-          "title": "카라바오컵 플리트우드 타운 대 아스날 경기 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-fleetwood-town-vs-arsenal-tai-carabao-cup-1789887.ldo"
-        },
-        {
-          "title": "플리트우드 타운 vs 아스널 예측: 승리 시 다음 라운드 진출",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-fleetwood-town-vs-arsenal-thang-de-di-tiep"
-        }
-      ]
-    },
-    {
-      "id": "엄태웅",
-      "rank": 8,
-      "keyword": "엄태웅",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '윤혜진, 딸 엄지온 선화예중 합격 당시 회상 \"길거리서 울어\"' (파이낸셜뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "윤혜진, 딸 엄지온 선화예중 합격 당시 회상 \"길거리서 울어\"",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610240746156508"
-        },
-        {
-          "title": "엄태웅, ♥윤혜진·'178cm 성악 천재' 딸 향한 애정..감각적인 가족 사진",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-10-25/202610250100155880010184"
-        },
-        {
-          "title": "‘엄태웅♥’ 윤혜진, “비명에 오열”…딸 예고 합격 당시 회상→딸 지온도 울었다 [RE:뷰]",
-          "source": "TV리포트",
-          "url": "https://tvreport.co.kr/entertainment/article/1085829/"
-        }
-      ]
-    },
-    {
-      "id": "전쟁",
-      "rank": 9,
-      "keyword": "전쟁",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"그런 미군 믿을 수 있느냐\" 강신철 발언에 국방부 \"전체 맥락 봐야\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"그런 미군 믿을 수 있느냐\" 강신철 발언에 국방부 \"전체 맥락 봐야\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6861010_36911.html"
-        },
-        {
-          "title": "국방부 일일 정례 브리핑",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156786626"
-        },
-        {
-          "title": "[사설]“美 믿을 수 있나” “전작권 독자 환수”… 동맹 관리부터 섬세하게",
+          "title": "실질소득 49년만에 최대폭 늘었는데, 소비자는 지갑 더 닫아",
           "source": "동아일보",
-          "url": "https://www.donga.com/news/Opinion/article/all/20261027/134920991/2"
+          "url": "https://www.donga.com/news/Economy/article/all/20261028/134921066/2"
+        },
+        {
+          "title": "[기자메모]성장률 예측 또 실패…한은 어떻게 믿나",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610272057005"
         }
       ]
     },
     {
-      "id": "나의-유죄인간",
-      "rank": 10,
-      "keyword": "나의 유죄인간",
+      "id": "며느리",
+      "rank": 2,
+      "keyword": "며느리",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '결혼 한달만에 식물인간 된 며느리…17년 돌본 시모, 기적을 만들다' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "결혼 한달만에 식물인간 된 며느리…17년 돌본 시모, 기적을 만들다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261027/134916900/2"
+        },
+        {
+          "title": "결혼식 한달만 식물인간 된 며느리...병수발 17년만 시모에게 \"엄마\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/10/27/2026102709554679198"
+        },
+        {
+          "title": "\"내 자식과 마찬가지\"…식물인간 며느리 17년 간 돌본 中 시어머니 사연",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026102708145013250"
+        }
+      ]
+    },
+    {
+      "id": "홈런",
+      "rank": 3,
+      "keyword": "홈런",
+      "volumeLabel": "2000+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '최형우 가을야구 최고령 홈런... 삼성, 플레이오프 2차전서 웃었다' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "최형우 가을야구 최고령 홈런... 삼성, 플레이오프 2차전서 웃었다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/27/XOYWIEZGCFAP3AXGMS6BTZKBWM/"
+        },
+        {
+          "title": "[PO 포커스] 1차전은 KIA, 2차전은 삼성…하루 만에 뒤바뀐 중심타선의 희비",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261027001520"
+        },
+        {
+          "title": "‘좌익수 최형우’ 승부수 적중…삼성, 최형우 공·수 맹활약에 PO 2차전 8-3 승리",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261027/134921204/1"
+        }
+      ]
+    },
+    {
+      "id": "크랙",
+      "rank": 4,
+      "keyword": "크랙",
+      "volumeLabel": "500+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“330만 원짜리가 이 모양?”…돈값 못하는 아이폰 듀오 굴욕 [이코노픽]' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“330만 원짜리가 이 모양?”…돈값 못하는 아이폰 듀오 굴욕 [이코노픽]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8695320"
+        },
+        {
+          "title": "'애플 잘 안 접혀?' 광고 재소환‥\"우리 건 달라\" 날선 신경전",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6861036_36932.html"
+        },
+        {
+          "title": "'아이폰 듀오' 내구성 논란...부품 업체 \"접합부 결함 아냐\"",
+          "source": "YTN 사이언스",
+          "url": "https://m.science.ytn.co.kr/program/view.php?s_mcd=0082&key=202610271105445695"
+        }
+      ]
+    },
+    {
+      "id": "에코프로",
+      "rank": 5,
+      "keyword": "에코프로",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[1027시황레이더] 에코프로비엠, 유럽 中 배터리사와 조 단위 양극재 공급 계약 협의 소식 등 By 인포스탁데일리' (Investing.com 한국어) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[1027시황레이더] 에코프로비엠, 유럽 中 배터리사와 조 단위 양극재 공급 계약 협의 소식 등 By 인포스탁데일리",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2142350"
+        },
+        {
+          "title": "\"포기하지 않는 도전정신으로 미래 개척\"",
+          "source": "충청매일",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1106505"
+        },
+        {
+          "title": "고성능 EV·로봇 타깃…LFP 대세에도 에코프로 '삼원계 뚝심'",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/industry/general-industry/6330268"
+        }
+      ]
+    },
+    {
+      "id": "서장훈의-이웃집-백만장자",
+      "rank": 6,
+      "keyword": "서장훈의 이웃집 백만장자",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '서장훈, 100평 럭셔리 주택 쇼핑? “새로운 세상”(‘이웃집 백만장자’)' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "서장훈, 100평 럭셔리 주택 쇼핑? “새로운 세상”(‘이웃집 백만장자’)",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12187453"
+        },
+        {
+          "title": "“집을 쇼핑하고, 택배처럼 배송받는다?!” 한 달 매출 150억·기업 가치 2400억···모듈러 주택 CEO 박...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610280421003"
+        },
+        {
+          "title": "`월 매출 150억` 박정진, 공개 구혼…\"61평 펜트하우스 혼자 산다\" [이웃집 백만장자]",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026102716022660325"
+        }
+      ]
+    },
+    {
+      "id": "소넨호프-대-아우크스부르크",
+      "rank": 7,
+      "keyword": "소넨호프 대 아우크스부르크",
       "volumeLabel": "100+",
       "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '설인아 재벌 가족 모임…임시완 후계자 자리 위기 (나의 유죄인간)' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Confirmed DFB-Pokal lineups: SG Sonnenhof Großaspach vs. FC Augsburg' (Yahoo Sports) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "설인아 재벌 가족 모임…임시완 후계자 자리 위기 (나의 유죄인간)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261027/134916529/1"
+          "title": "Confirmed DFB-Pokal lineups: SG Sonnenhof Großaspach vs. FC Augsburg",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/confirmed-dfb-pokal-lineups-sg-161000460.html"
         },
         {
-          "title": "'나의 유죄인간' 설인아, 액션 연기 진가 발휘",
-          "source": "금강일보",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1189449"
+          "title": "Baum: \"We'll give it everything we’ve got\"",
+          "source": "FC Augsburg",
+          "url": "https://www.fcaugsburg.de/en/article/baum-we-ll-give-it-everything-we-ve-got-23613"
         },
         {
-          "title": "임시완, 천년의 이상형 만났나? 각종 사고 막아낸 '백마 탄 여기사' 설인아 의심('유죄인간')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/27/GYZWIYJQGM4DMN3BMQZTIZTBGU/"
+          "title": "Sonnenhof Großaspach vs Augsburg prediction: teams form analysis, possible lineups on October 27, 2026",
+          "source": "RatingBet",
+          "url": "https://ratingbet.com/predictions/sonnenhof-groaspach-vs-augsburg-prediction-teams-form-analysis-possible-lineups-on-october-27-2026/"
+        }
+      ]
+    },
+    {
+      "id": "fomc",
+      "rank": 8,
+      "keyword": "fomc",
+      "volumeLabel": "100+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '米国の中間選挙を控えているうえ、 FOMC金利引き上げの負担 ETFだけで1兆ウォンの純流出' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "米国の中間選挙を控えているうえ、 FOMC金利引き上げの負担 ETFだけで1兆ウォンの純流出",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/jp/stock/12187460"
+        },
+        {
+          "title": "Bitcoin現物ETF、週間で資金純流入 相場は8万ドル台に低迷",
+          "source": "디지털투데이",
+          "url": "https://www.digitaltoday.co.kr/jp/view/119238/bitcoin-spot-etfs-return-to-weekly-net-inflows-price-weak-in-80000s"
+        },
+        {
+          "title": "円ステーブルコインGYENが終幕へ、コインベースがUSDCに自動転換",
+          "source": "CRYPTO TIMES",
+          "url": "https://crypto-times.jp/news-gmo-gyen-stablecoin-redemption/"
+        }
+      ]
+    },
+    {
+      "id": "청송군",
+      "rank": 9,
+      "keyword": "청송군",
+      "volumeLabel": "100+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '청송황금사과 맛보세요…서울 주요 거점서 판매 행사' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "청송황금사과 맛보세요…서울 주요 거점서 판매 행사",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027126900053"
+        },
+        {
+          "title": "청송군, ‘청송황금사과’ 서울 직판으로 수도권 판로 확대",
+          "source": "뉴데일리 대구경북",
+          "url": "https://tk.newdaily.co.kr/site/data/html/2026/10/27/2026102700394.html"
+        },
+        {
+          "title": "민원 챙기던 군의원, 주민과의 약속 위해 운동화 끈 조였다",
+          "source": "매일신문",
+          "url": "https://www.imaeil.com/page/view/2026102613210805694"
         }
       ]
     }
