@@ -1,286 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-29T02:45:31.259Z",
+  "updatedAt": "2026-10-29T09:45:41.803Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "대우건설",
+      "id": "삼성-대-kia",
       "rank": 1,
-      "keyword": "대우건설",
+      "keyword": "삼성 대 kia",
+      "volumeLabel": "20000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '3차전이 분수령...시라카와-최원태, 맞대결' (YTN) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "3차전이 분수령...시라카와-최원태, 맞대결",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0107_202610291709116919"
+        },
+        {
+          "title": "KIA전 3전 전패, 설욕 벼르는 페덱 \"이젠 사적인 감정→PO 4차전 선발 등판은 감독님 뜻대로\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/29/2026102914082770382"
+        },
+        {
+          "title": "‘김영웅 대신 전병우’ 삼성, PO 3차전 선발 라인업 변화…최형우 2G 연속 좌익수 출장 [PO3]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112900371"
+        }
+      ]
+    },
+    {
+      "id": "005930",
+      "rank": 2,
+      "keyword": "005930",
       "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[속보] 27조 체코 원전 수주한 ‘팀코리아’ 갈라섰다…한수원, 시공계약 협상 결렬' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Samsung Chip Profit Misses Estimates Lifted by Resurgent AI Hope' (Bloomberg) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[속보] 27조 체코 원전 수주한 ‘팀코리아’ 갈라섰다…한수원, 시공계약 협상 결렬",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610290957001"
+          "title": "Samsung Chip Profit Misses Estimates Lifted by Resurgent AI Hope",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-29/samsung-chip-profit-misses-estimates-lifted-by-resurgent-ai-hope"
         },
         {
-          "title": "대우·두산 컨소 \"한수원이 10월초 갑자기 계약조건 변경 요구…원전 협상 재개해야\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/10/29/2026102911094165944"
+          "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html"
         },
         {
-          "title": "‘체코 원전 건설’ 한수원, 대우건설과의 시공협상 결렬",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/industry-company/2026/10/29/7VCVAU4RKZFARGGYDQ5XIIJ3SI/"
+          "title": "Samsung’s Chip Profit Drives Another Record Quarter",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/business/earnings/samsung-posts-fourth-straight-quarter-of-record-earnings-1373e927"
         }
       ]
     },
     {
-      "id": "개발제한구역",
-      "rank": 2,
-      "keyword": "개발제한구역",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '경기도 6곳 그린벨트 풀어... 신규 택지 7만6700가구 공급' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "경기도 6곳 그린벨트 풀어... 신규 택지 7만6700가구 공급",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/real_estate/2026/10/29/KIPBMLGA2ZFHLNMCLCGJDU5M6Q/"
-        },
-        {
-          "title": "김포·구리 등 수도권에 7만6천여 호 공급",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698405"
-        },
-        {
-          "title": "하남 미사섬‧감일2에 18,500가구 공급",
-          "source": "하남일보",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "id": "커플",
+      "id": "sk",
       "rank": 3,
-      "keyword": "커플",
+      "keyword": "sk",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'SK Hynix Plans $75 Billion in Shareholder Returns After Blockbuster Ear…' (WSJ) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "SK Hynix Plans $75 Billion in Shareholder Returns After Blockbuster Earnings",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/business/earnings/sk-hynix-plans-75-billion-in-shareholder-returns-after-blockbuster-earnings-f3a460b7"
+        },
+        {
+          "title": "Jim Cramer sees major implications from SK Hynix's home-run quarter",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/28/cramer-sk-hynix-ai-chip-stocks.html"
+        },
+        {
+          "title": "SK hynix Announces 3Q26 Financial Results",
+          "source": "SK hynix",
+          "url": "https://news.skhynix.com/en/q3-2026-business-results/"
+        }
+      ]
+    },
+    {
+      "id": "은가은",
+      "rank": 4,
+      "keyword": "은가은",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘미스트롯’ 은가은, 스케줄 때문에 유도분만 “진통 8시간” (‘살림남’)' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘미스트롯’ 은가은, 스케줄 때문에 유도분만 “진통 8시간” (‘살림남’)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/29/ME2TAYJSGY4TQOBVMQ4GINRYG4/"
+        },
+        {
+          "title": "은지원 \"어렸을 때 병원에서 살았다\" 고백",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261029_0003845638"
+        },
+        {
+          "title": "‘박현호♥’ 은가은, 딸 서원이 출산 때 진통 8시간…“유도분만에 고생”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261029/134929591/1"
+        }
+      ]
+    },
+    {
+      "id": "동굴",
+      "rank": 5,
+      "keyword": "동굴",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '강원도, 11월 지질·생태명소에 삼척 대이리 동굴지대 선정' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "강원도, 11월 지질·생태명소에 삼척 대이리 동굴지대 선정",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029063300062"
+        },
+        {
+          "title": "늦가을의 서정…강원도 11월 명소, 삼척 대이리 동굴지대",
+          "source": "프레시안",
+          "url": "https://www.pressian.com/pages/articles/2026102912550042150"
+        },
+        {
+          "title": "삼척 '대이리 동굴지대', 강원도 11월 지질·생태명소 선정",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/national/2382201.htm"
+        }
+      ]
+    },
+    {
+      "id": "england-vs-sri-lanka",
+      "rank": 6,
+      "keyword": "england vs sri lanka",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Dead-rubber blues for England as Sri Lanka tune up for final' (Cricinfo) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Dead-rubber blues for England as Sri Lanka tune up for final",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/england-vs-sri-lanka-6th-match-1550718/match-preview"
+        },
+        {
+          "title": "Sri Lanka v England: men’s cricket tri-series one-day international – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/sport/live/2026/oct/29/sri-lanka-v-england-mens-cricket-tri-series-one-day-international-live"
+        },
+        {
+          "title": "SL vs ENG Tri-Series: Sonny Baker Replaced Injured Jamie Overton, As Sri Lanka Won Toss And Chose To Bowl In 6th ODI",
+          "source": "Sportscape Magazine",
+          "url": "https://www.sportscapemagazine.com/blog/sl-vs-eng-tri-series-sonny-baker-replaced-injured-jamie-overton-as-sri-lanka-won-toss-and-chose-to-bowl-in-6th-odi"
+        }
+      ]
+    },
+    {
+      "id": "원자로",
+      "rank": 7,
+      "keyword": "원자로",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Couple to be charged after three children rescued from West Virginia ‘h…' (LiveNOW from FOX) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '두산에너빌, 美 뉴스케일 SMR 원자로 첫 제작 계약' (전기신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Couple to be charged after three children rescued from West Virginia ‘house of horrors’",
-          "source": "LiveNOW from FOX",
-          "url": "https://www.livenowfox.com/news/couple-charged-after-three-children-rescued-from-west-virginia-house-horrors"
+          "title": "두산에너빌, 美 뉴스케일 SMR 원자로 첫 제작 계약",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374099"
         },
         {
-          "title": "Couple charged in disturbing child abuse case in Jackson County, W.Va., sheriff says",
-          "source": "WCIV",
-          "url": "https://abcnews4.com/news/nation-world/couple-charged-erica-clifford-gale-sayre-evans-west-virginia-jackson-county-felony-child-abuse-neglect-injury-razor-blade-child-protective-services-sheriff?teaserSource=trending"
+          "title": "\"세계 최초 SMR 전용 공장\"…두산에너빌이 그린 AI 시대 전력 미래 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/10/28/2026102810494053438"
         },
         {
-          "title": "3 kids found living in \"House of Horrors\" faced \"disturbing mistreatment\" from West Virginia couple, officials say",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/pittsburgh/news/child-abuse-house-of-horrors-west-virginia/"
-        }
-      ]
-    },
-    {
-      "id": "화이트캡스-대-샌디에이고-fc",
-      "rank": 4,
-      "keyword": "화이트캡스 대 샌디에이고 fc",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Spectator Information: 'Caps host San Diego FC | Match presented by MNP' (www.whitecapsfc.com) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Spectator Information: 'Caps host San Diego FC | Match presented by MNP",
-          "source": "www.whitecapsfc.com",
-          "url": "https://www.whitecapsfc.com/news/spectator-info-vwfc-san-diego-fc-presented-by-mnp"
-        },
-        {
-          "title": "Vancouver Whitecaps vs San Diego: Major League Soccer stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c8p3g7wyre90t"
-        },
-        {
-          "title": "Guess the Starting XI – Match Thirty Two vs. San Diego",
-          "source": "The Third Sub",
-          "url": "https://thethirdsub.ca/2026/10/27/guess-the-starting-xi-match-thirty-two-vs-san-diego/"
-        }
-      ]
-    },
-    {
-      "id": "만두",
-      "rank": 5,
-      "keyword": "만두",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '닭뼈 갈아 만든 만두 속…생산업체마저 “먹지 마라”[아하중국]' (문화일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "닭뼈 갈아 만든 만두 속…생산업체마저 “먹지 마라”[아하중국]",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11627106"
-        },
-        {
-          "title": "[이 시각 핫뉴스] 중국 닭 목·뼈 갈아 소시지 생산…\"적게 먹어라\" 外",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261029054049rWF"
-        },
-        {
-          "title": "'닭 목' 갈아 만든 반죽이 소시지 속으로…\"제발 적게 먹어라\" 中 업체가 뜯어말린 이유",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20261028n38501"
-        }
-      ]
-    },
-    {
-      "id": "마이리얼트립",
-      "rank": 6,
-      "keyword": "마이리얼트립",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '마이리얼트립 개인정보 유출…일부 고객 여권번호까지 포함' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "마이리얼트립 개인정보 유출…일부 고객 여권번호까지 포함",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8698412"
-        },
-        {
-          "title": "여행 플랫폼 마이리얼트립, 이용자 여권번호 해킹당해",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1284754.html"
-        },
-        {
-          "title": "마이리얼트립 해킹으로 개인정보 유출…여권번호·암호화된 비밀번호까지 노출",
-          "source": "데일리시큐",
-          "url": "https://www.dailysecu.com/news/articleView.html?idxno=209150"
-        }
-      ]
-    },
-    {
-      "id": "손혁",
-      "rank": 7,
-      "keyword": "손혁",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '팬들의 '최강한화' 떳떳하게 듣고 싶었다…한화 떠나는 손혁 단장 \"앞으로 더 강한 팀 될 거라 믿는다\"' (OSEN) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "팬들의 '최강한화' 떳떳하게 듣고 싶었다…한화 떠나는 손혁 단장 \"앞으로 더 강한 팀 될 거라 믿는다\"",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112899013"
-        },
-        {
-          "title": "한화 떠나는 손혁 전 단장의 작별 인사 “죄송하고 감사했습니다”",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261027170331044"
-        },
-        {
-          "title": "한화 떠나는 손혁 단장 “팬들께 죄송한 마음 가장 커, 꾸준한 강팀 되었으면”",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20261028/134924613/1"
-        }
-      ]
-    },
-    {
-      "id": "삼성전자-컨퍼런스콜",
-      "rank": 8,
-      "keyword": "삼성전자 컨퍼런스콜",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '내일 삼성전자 컨퍼런스콜 '이것' 만큼은 꼭 주의하세요' (연합인포맥스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "내일 삼성전자 컨퍼런스콜 '이것' 만큼은 꼭 주의하세요",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441768"
-        },
-        {
-          "title": "[속보] 삼성전자 3분기 영업이익 107조 4천 원‥현금배당 30조 원",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6861574_36932.html"
-        },
-        {
-          "title": "[속보] 삼성전자, 주당 4601원 배당…3분기 30조원 현금배당",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610291020001"
-        }
-      ]
-    },
-    {
-      "id": "삼성전자-ir",
-      "rank": 9,
-      "keyword": "삼성전자 ir",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[오늘의 IR] 삼성전자ㆍ현대자동차ㆍ두산로보틱스 등' (이투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[오늘의 IR] 삼성전자ㆍ현대자동차ㆍ두산로보틱스 등",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2641423"
-        },
-        {
-          "title": "대한전선 29일 3분기 실적 공시…IR 중단기간 운영",
-          "source": "비건뉴스",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=394834"
-        },
-        {
-          "title": "한화오션·삼성전기·에코프로 등…줄줄이 다가오는 실적 발표, 날짜는 언제?",
-          "source": "CBC뉴스",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=617798"
-        }
-      ]
-    },
-    {
-      "id": "티앤이코리아",
-      "rank": 10,
-      "keyword": "티앤이코리아",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '인텔리빅스·크리에이츠 등 코스닥 신규상장…30일 거래 개시' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "인텔리빅스·크리에이츠 등 코스닥 신규상장…30일 거래 개시",
+          "title": "두산에너빌리티, 미국 뉴스케일파워 SMR 원자로 제작 수주",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028182600008"
+          "url": "https://www.yna.co.kr/view/AKR20261029129600003"
+        }
+      ]
+    },
+    {
+      "id": "풍자",
+      "rank": 8,
+      "keyword": "풍자",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '풍자, 37kg 감량하더니 확 달라졌다…신기루와 투샷서 물오른 미모 ‘눈길’' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "풍자, 37kg 감량하더니 확 달라졌다…신기루와 투샷서 물오른 미모 ‘눈길’",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/29/GRSDAYZSGZSWCNLGGUYWIN3CMQ/"
         },
         {
-          "title": "고속터보기계 '티앤이코리아' 코스닥 상장 첫날 주가 장중 2배 '따블' 달성",
+          "title": "풍자, 37㎏ 감량하더니 확 달라진 얼굴…이목구비 또렷 [N샷]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6335338"
+        },
+        {
+          "title": "‘37kg 감량’ 풍자, 신기루 옆에서 소두 인증…얼굴이 반쪽 됐네",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610281601003"
+        }
+      ]
+    },
+    {
+      "id": "항공기",
+      "rank": 9,
+      "keyword": "항공기",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '제주항공, 차세대 항공기 B737-8 구매 도입…\"기단 현대화\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "제주항공, 차세대 항공기 B737-8 구매 도입…\"기단 현대화\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029048900003"
+        },
+        {
+          "title": "제주항공 보잉 B737-8 14호기 도입, B737-8 여객기 비중 32.6%",
           "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450592"
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450606"
         },
         {
-          "title": "[모닝 리포트] 티앤아이코리아, 美 SOFC 공급망 진입…내년 영업익 130%",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261029000115"
+          "title": "제주항공, 연료 덜 쓰는 신형 항공기 추가 도입… “고유가 부담 완화”",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/industry/company/2026/10/29/Z2JXC2IOLJBRZA6HOFW6G6IK2I/"
+        }
+      ]
+    },
+    {
+      "id": "009830",
+      "rank": 10,
+      "keyword": "009830",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'AJP Factbox: Hanwha Solutions swings to Q3 2026 profit' (Aju Press) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "AJP Factbox: Hanwha Solutions swings to Q3 2026 profit",
+          "source": "Aju Press",
+          "url": "https://www.ajupress.com/view/20261029145024815"
+        },
+        {
+          "title": "Hanwha Systems Posts 831.6 Billion Won in Third-Quarter Revenue on Defense Growth",
+          "source": "THE ELEC, Korea Electronics Industry Media",
+          "url": "https://www.thelec.net/news/articleView.html?idxno=14974"
+        },
+        {
+          "title": "Hanwha Solutions returns to profit with 90.5 billion won Q3 operating profit on strong solar business",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/en/industry/2026/10/29/2026102914054918433"
         }
       ]
     }
