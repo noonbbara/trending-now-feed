@@ -1,286 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-30T01:48:41.995Z",
+  "updatedAt": "2026-10-30T08:28:08.294Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "농구",
+      "id": "젠슨-황",
       "rank": 1,
-      "keyword": "농구",
+      "keyword": "젠슨 황",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“젠슨 황 옆에서 술 마시던 女사업가, 중국 스파이였다”' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“젠슨 황 옆에서 술 마시던 女사업가, 중국 스파이였다”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261030/134939586/1"
+        },
+        {
+          "title": "中, 엔비디아 관련 스파이 의혹 부인…\"근거 없는 모함\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030153600083"
+        },
+        {
+          "title": "“엔비디아 젠슨 황에 접근한 중국 스파이…트럼프, 알고도 묵인?”",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261030580018"
+        }
+      ]
+    },
+    {
+      "id": "남편",
+      "rank": 2,
+      "keyword": "남편",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '프로농구 '디펜딩 챔피언' KCC, 현대모비스에 덜미…7연패 수렁' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[단독] 30대 역무원 ‘6개월 전’ 흉기 준비…피해자만 집중 공격' (JTBC) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "프로농구 '디펜딩 챔피언' KCC, 현대모비스에 덜미…7연패 수렁",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029205300007"
+          "title": "[단독] 30대 역무원 ‘6개월 전’ 흉기 준비…피해자만 집중 공격",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12325513"
         },
         {
-          "title": "'NBA 클래스 살아있네' 베즐리 23점·12리바·10도움 '시즌 1호 트리플더블'... 8위 현대모비스도 반등할까 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/30/2026103006384684479"
+          "title": "’원당역 흉기 습격’ 30대 남성 구속기로",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261030160816UYS"
         },
         {
-          "title": "현대모비스 베즐리, 시즌 1호 '트리플더블'",
+          "title": "[단독] \"무섭다\" 꾸준한 분리요청에도…\"참아라\" 예견된 범죄?",
           "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822334"
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821975"
         }
       ]
     },
     {
-      "id": "중공업",
-      "rank": 2,
-      "keyword": "중공업",
+      "id": "주식시장",
+      "rank": 3,
+      "keyword": "주식시장",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '외국인 투자자, 한달 만에 ‘사자’에서 ‘팔자’로 전환…19조1160억원 순매도' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "외국인 투자자, 한달 만에 ‘사자’에서 ‘팔자’로 전환…19조1160억원 순매도",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610300719001"
+        },
+        {
+          "title": "외국인, 9월 국내 주식 19.1조 순매도…채권까지 26.7조 순회수 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/10/30/2026102917020689333"
+        },
+        {
+          "title": "다시 ‘바이 코리아’ 시동 건 외국인…“AI 성장성·주주환원에 컴백 달려” [매플 인터뷰]",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1184563"
+        }
+      ]
+    },
+    {
+      "id": "스타벅스-광주지산유원지입구점",
+      "rank": 4,
+      "keyword": "스타벅스 광주지산유원지입구점",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '삼성중공업, 3분기 영업이익 3천384억원…작년보다 42%↑(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '스타벅스, '탱크데이' 불매운동 후 광주 대형매장 첫 폐점' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "삼성중공업, 3분기 영업이익 3천384억원…작년보다 42%↑(종합)",
+          "title": "스타벅스, '탱크데이' 불매운동 후 광주 대형매장 첫 폐점",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029112051527"
+          "url": "https://www.yna.co.kr/view/AKR20261030074300054"
         },
         {
-          "title": "삼성중공업, 중국 저가 공세에 FLNG로 승부…목표가↓-NH",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02948726645618168"
+          "title": "스벅, 광주·MBC '선택적' 폐점?…\"사실 아냐...계약만료에 따른 것\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/10/30/2026103014431551465"
         },
         {
-          "title": "삼성重, 3Q 영업익 3384억원…고부가 선박 효과로 조업감소 상쇄",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20261029025592842"
+          "title": "스타벅스, ‘탱크데이’ 논란 속 광주 대형 매장 폐점…“임대차 계약 종료”",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261030580101"
         }
       ]
     },
     {
-      "id": "보안뉴스",
-      "rank": 3,
-      "keyword": "보안뉴스",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독] 미래에셋생명 유출사고, ‘웹셸’ 업로드 취약점 때문이었다' (보안뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[단독] 미래에셋생명 유출사고, ‘웹셸’ 업로드 취약점 때문이었다",
-          "source": "보안뉴스",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=146869"
-        },
-        {
-          "title": "빗썸 해킹으로 고객 계좌번호·신분증 사본까지 털려(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029169152002"
-        },
-        {
-          "title": "빗썸, 고객정보 844건 유출...프라뱅은 자산 탈취까지",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202610292322274540"
-        }
-      ]
-    },
-    {
-      "id": "이용",
-      "rank": 4,
-      "keyword": "이용",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '미니창고 다락, 월 구독 없는 단기 보관 서비스 출시' (헬로티) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "미니창고 다락, 월 구독 없는 단기 보관 서비스 출시",
-          "source": "헬로티",
-          "url": "https://www.hellot.net/news/article.html?no=115815"
-        },
-        {
-          "title": "작은 창고에 맡긴 내 살림살이",
-          "source": "단비뉴스",
-          "url": "https://www.danbinews.com/news/articleView.html?idxno=34042"
-        },
-        {
-          "title": "셀프스토리지 미니창고 다락, 하루 2500원부터 ‘단기 이용’ 서비스 출시",
-          "source": "국민기자뉴스",
-          "url": "https://www.kmkj.kr/news/articleView.html?idxno=141969"
-        }
-      ]
-    },
-    {
-      "id": "cve-2026-98432",
+      "id": "new-zealand-vs-india",
       "rank": 5,
-      "keyword": "cve-2026-98432",
+      "keyword": "new zealand vs india",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'New Zealand seek answers as India's batting juggernaut rolls on' (Cricinfo) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "New Zealand seek answers as India's batting juggernaut rolls on",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-4th-t20i-1539435/match-preview"
+        },
+        {
+          "title": "Auckland weather forecast for New Zealand vs. India: Chances of rain, average temperature for NZ vs. IND 4th T20I",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/auckland-weather-forecast-zealand-vs-200001817.html"
+        },
+        {
+          "title": "Why Vaibhav Sooryavanshi Missed Out: India's Playing XI For 4th T20I Vs New Zealand",
+          "source": "Outlook India",
+          "url": "https://www.outlookindia.com/sports/cricket/why-vaibhav-sooryavanshi-is-not-playing-ishan-kishan-indias-playing-xi-vs-new-zealand-4th-t20i-auckland-2026"
+        }
+      ]
+    },
+    {
+      "id": "jtbc-마라톤",
+      "rank": 6,
+      "keyword": "jtbc 마라톤",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'HLB라이프케어, '코리아 러닝 엑스포' 참가' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "HLB라이프케어, '코리아 러닝 엑스포' 참가",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026103010261140892"
+        },
+        {
+          "title": "코지마, '2026 JTBC 서울마라톤' 공식 후원…러너 회복 지원",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/industry/general-industry/6336331"
+        },
+        {
+          "title": "웅진식품 이온더핏, 서울 도심 마라톤서 수분 보충 음료 맡아",
+          "source": "로이슈",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202610300908085387204ead0791_12"
+        }
+      ]
+    },
+    {
+      "id": "김서현",
+      "rank": 7,
+      "keyword": "김서현",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and O…' (The Hacker News) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“마무리훈련서 내 폼 확실히 잡아 오겠다”' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html"
+          "title": "“마무리훈련서 내 폼 확실히 잡아 오겠다”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610300900016"
         },
         {
-          "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html"
+          "title": "김서현 “구속·제구 되찾아 한화 마무리로 돌아간다”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610292023015"
         },
         {
-          "title": "Claude AI Exploits Linux Kernel Flaw to Execute Root Commands Without User Interaction",
-          "source": "CyberSecurityNews",
-          "url": "https://cybersecuritynews.com/linux-kernel-flaw-root-commands/"
+          "title": "'2루수 문현빈' 11월 안에 결판 난다…도쿄 찍고 미야자키, 강행군도 불사한 의지 \"안 되면 깔끔하게 포기\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/30/202610301344770376O"
         }
       ]
     },
     {
-      "id": "비트코인-시세",
-      "rank": 6,
-      "keyword": "비트코인 시세",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '비트코인 3.7% 하락해 7만8000달러대…이더리움·리플도 급락' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "비트코인 3.7% 하락해 7만8000달러대…이더리움·리플도 급락",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/finance/2026/10/30/ERCU7FYMIJBJVBETZDU7M326SQ/"
-        },
-        {
-          "title": "[코인 시황] 비트코인 8만달러 일시 붕괴…기술주 급락·연준 매파 기조에 위험자산 매도 확산",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261029001373"
-        },
-        {
-          "title": "린 알든이 본 월가의 진짜 공포, 반 토막에도 무너지지 않는 비트코인",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/joosikstudy/coinschool/contents/261029141954900ct"
-        }
-      ]
-    },
-    {
-      "id": "binance",
-      "rank": 7,
-      "keyword": "binance",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Crypto worth billions frozen after suspected Binance hack' (BBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Crypto worth billions frozen after suspected Binance hack",
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cwg7xp8kx4v5o"
-        },
-        {
-          "title": "Bitcoin tumbles below $78,000, extending losses as Binance security scare rattles crypto markets",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/30/bitcoin-ether-price-binance-security-scare-rattles-crypto-markets.html"
-        },
-        {
-          "title": "World's Largest Crypto Exchange Binance Hit by Apparent Hacking, Sparking Withdrawal Warnings in Korea",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008822705"
-        }
-      ]
-    },
-    {
-      "id": "카드뉴스",
+      "id": "김기현",
       "rank": 8,
-      "keyword": "카드뉴스",
+      "keyword": "김기현",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '나의 국민연금, 배우자와 자녀도 받을 수 있을까?ㅣ연금 로드맵 360' (네이버페이 머니스토리) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[속보]‘김건희 로저비비에 선물’ 의혹 김기현, 1심 무죄···배우자는 벌금형' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "나의 국민연금, 배우자와 자녀도 받을 수 있을까?ㅣ연금 로드맵 360",
-          "source": "네이버페이 머니스토리",
-          "url": "https://story.pay.naver.com/content/3795_40_C61"
+          "title": "[속보]‘김건희 로저비비에 선물’ 의혹 김기현, 1심 무죄···배우자는 벌금형",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610301502031"
         },
         {
-          "title": "배우자 떠나면 누구는 반토막, 누구는 전액…유족연금 논란",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029161900530"
+          "title": "’1심 무죄’ 김기현 “좀비 특검의 묻지마 기소는 정치 탄압“",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261030170916jYt"
         },
         {
-          "title": "배우자 사망 유족연금 수령액 연금 종류 따라 격차…형평성 논란",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261030580010"
+          "title": "김기현, '김건희 명품백 선물' 1심 무죄...\"특검, 말도 안 되는 기소\" [현장영상+]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610301512239256_005.html"
         }
       ]
     },
     {
-      "id": "항공대",
+      "id": "홍성찬",
       "rank": 9,
-      "keyword": "항공대",
+      "keyword": "홍성찬",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한국항공대, 동아리 문화 한마당서 진로·취업 지원 사업 홍보 활동' (한국대학신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '홍성찬, 서울오픈 챌린저 8강행…카츠마조프에 역전승' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "한국항공대, 동아리 문화 한마당서 진로·취업 지원 사업 홍보 활동",
-          "source": "한국대학신문",
-          "url": "https://news.unn.net/news/articleView.html?idxno=599579"
-        },
-        {
-          "title": "서해해경청 군산회전익항공대, 20년 무사고 비행 기록 달성",
+          "title": "홍성찬, 서울오픈 챌린저 8강행…카츠마조프에 역전승",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029174400054"
+          "url": "https://www.yna.co.kr/view/AKR20261029191600007"
         },
         {
-          "title": "서해해경청 군산항공대, '무사고 비행 20주년' 금자탑",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261029_0003846566"
+          "title": "'756위가 92위 잡았다' 정윤성, 664계단 위 강호 격파 '대이변'... 전 우승자 꺾고 '서울오픈 8강' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/29/2026102910155626258"
+        },
+        {
+          "title": "'세계 1079위' 홍성찬, 테니스 서울오픈 8강 진출…360위 카츠마조프에 역전승",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261029001368"
         }
       ]
     },
     {
-      "id": "미래에셋증권",
+      "id": "kbl",
       "rank": 10,
-      "keyword": "미래에셋증권",
+      "keyword": "kbl",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[게시판] 미래에셋투자와연금센터, 연금투자자 절세 안내서 발간' (매일경제 마켓) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''Defending Champion' KCC Falls into 7-Game Losing Streak' (SBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[게시판] 미래에셋투자와연금센터, 연금투자자 절세 안내서 발간",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1185354"
+          "title": "'Defending Champion' KCC Falls into 7-Game Losing Streak",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008822100"
         },
         {
-          "title": "\"연금투자도 절세 방법 있다\" 미래에셋투자와연금센터, 연금 세금상식 발간",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03552246645618168"
+          "title": "Darius Bezely Records Season's First Triple-Double, Suffers Injury",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/10/29/ATZ2CH6JMVG7PNZ52U6HUPQ6JY/"
         },
         {
-          "title": "퇴직연금 잘 받는 것도 재테크…내 노후 지켜줄 5가지 전략",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610294481i"
+          "title": "Two Winningest Clubs Meet in Losing-Streak Showdown",
+          "source": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/sports/2026/10/29/two-winningest-clubs-meet-in-losing-streak-showdown"
         }
       ]
     }
