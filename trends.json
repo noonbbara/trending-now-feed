@@ -1,270 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-30T15:16:09.351Z",
+  "updatedAt": "2026-10-30T20:03:24.383Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "원자력",
+      "id": "김혜자",
       "rank": 1,
-      "keyword": "원자력",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "keyword": "김혜자",
+      "volumeLabel": "10000+",
+      "startedLabel": "5시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한수원, ‘2026년 KHNP-EPRI 기계분야 통합 워크숍’ 개최' (전기저널) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '형사로, 아버지로, 이웃으로‥최불암이 남긴 67년' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "한수원, ‘2026년 KHNP-EPRI 기계분야 통합 워크숍’ 개최",
-          "source": "전기저널",
-          "url": "https://www.keaj.kr/news/articleView.html?idxno=6424"
-        },
-        {
-          "title": "원자력안전기술원, 2026 원전 기기건전성 워크숍 개최",
-          "source": "일렉트릭파워",
-          "url": "https://www.epj.co.kr/news/articleView.html?idxno=39680"
-        },
-        {
-          "title": "한국원자력안전기술원(KINS), 2026 원전 기기건전성 워크숍 개최",
-          "source": "에너지안전신문",
-          "url": "https://www.esnews.kr/news/articleView.html?idxno=7108"
-        }
-      ]
-    },
-    {
-      "id": "박현경",
-      "rank": 2,
-      "keyword": "박현경",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이예원, KLPGA 에쓰오일 대회 2라운드서 단독 선두(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "이예원, KLPGA 에쓰오일 대회 2라운드서 단독 선두(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030159151007"
-        },
-        {
-          "title": "1타 차이로 희비 엇갈린 김민솔과 박현경 [KLPGA 에쓰오일]",
-          "source": "골프한국",
-          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022467"
-        },
-        {
-          "title": "'통산 11승 도전' 이예원, KLPGA 투어 S-OIL 챔피언십 2R 단독 선두",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261030_0003848794"
-        }
-      ]
-    },
-    {
-      "id": "김민",
-      "rank": 3,
-      "keyword": "김민",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김민, '나혼산' 조작 의혹 이어 사생활 침해 피해…집 공개 후폭풍 [N이슈]' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김민, '나혼산' 조작 의혹 이어 사생활 침해 피해…집 공개 후폭풍 [N이슈]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6335823"
-        },
-        {
-          "title": "김민, 90년 된 집 공개 후 '사생활 침해' 시달려…\"사람들 계속 찾아와\" ('나혼산')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/30/MZSGGNJYMQ3DCNDBGE4TANBSMU/"
-        },
-        {
-          "title": "‘동두천 자연인’ 김민, 만 원짜리 운동화 신고 계주 도전 (나혼산)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261030/134941163/1"
-        }
-      ]
-    },
-    {
-      "id": "은마아파트",
-      "rank": 4,
-      "keyword": "은마아파트",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한보家와 소송 8건 얽힌 은마 … 분담금 '4억+α'로 늘어나나' (매일경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "한보家와 소송 8건 얽힌 은마 … 분담금 '4억+α'로 늘어나나",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12191747"
-        },
-        {
-          "title": "강남 은마 795㎡ 소유권 정태수 상속인에…\"재건축엔 지장 없어\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030179300004"
-        },
-        {
-          "title": "법원 \"은마 땅 240평 정태수 상속인에\"…조합 \"토지 매입 전제로 사업 준비\"",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026103022070429604"
-        }
-      ]
-    },
-    {
-      "id": "gs25",
-      "rank": 5,
-      "keyword": "gs25",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "intc",
-      "rank": 6,
-      "keyword": "intc",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Intel stock plunges nearly 30%, on pace for its worst day since 1974' (Yahoo Finance) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Intel stock plunges nearly 30%, on pace for its worst day since 1974",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/article/intel-stock-plunges-nearly-30-on-pace-for-its-worst-day-since-1974-135850305.html"
-        },
-        {
-          "title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html"
-        },
-        {
-          "title": "Intel Shares Plunge as Memory Crunch Hits PC Chip Demand",
-          "source": "Seoul Economic Daily",
-          "url": "https://en.sedaily.com/international/2026/10/30/intel-shares-plunge-as-memory-crunch-hits-pc-chip-demand"
-        }
-      ]
-    },
-    {
-      "id": "에릭남",
-      "rank": 7,
-      "keyword": "에릭남",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '에릭남 (ERIC NAM) - 천국의 문 | KBS 261030 방송' (대한민국 대표 공영미디어 KBS) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "에릭남 (ERIC NAM) - 천국의 문 | KBS 261030 방송",
-          "source": "대한민국 대표 공영미디어 KBS",
-          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026167494-01-000_MFSC14&program_code=T2022-1011&program_id=PS-2026167494-01-000&section_code=04&broadcast_complete_yn=N&section_id=16480"
-        },
-        {
-          "title": "에릭남, 3년 만 본업 컴백…'더 시즌즈'서 'Psycho' 첫 무대",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261030000148"
-        },
-        {
-          "title": "에릭남, 오늘(30일) '더 시즌즈' 출격…성시경 만난다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/music/2026/10/30/MMYDCMJSGE2WCOBVMNSDAZRVGA/"
-        }
-      ]
-    },
-    {
-      "id": "전두환",
-      "rank": 8,
-      "keyword": "전두환",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"조폭도 안 할 짓\"·\"폭언은 국민 모독\"‥또 김태규 배제 공방' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"조폭도 안 할 짓\"·\"폭언은 국민 모독\"‥또 김태규 배제 공방",
+          "title": "형사로, 아버지로, 이웃으로‥최불암이 남긴 67년",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6862025_36911.html"
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862070_37004.html"
         },
         {
-          "title": "[오늘 여의도] 정치권도 깊은 애도",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1773778"
+          "title": "[영상] 한 시대를 함께한 배우 최불암, 이제는 기억으로",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202610310433231146"
         },
         {
-          "title": "국힘 \"증인 막고 의혹 덮고 책임 피하는 게 민주당식 국감인가\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030086400001"
+          "title": "김혜자 \"그리운 사람, 곧 만날거야\" 빈소서 오열",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/10/31/H72LFWLOJBBZPJDIF436WTWADU/"
         }
       ]
     },
     {
-      "id": "박진영",
-      "rank": 9,
-      "keyword": "박진영",
+      "id": "르아브르-ac-대-psg",
+      "rank": 2,
+      "keyword": "르아브르 ac 대 psg",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Le Havre vs PSG Prediction, Betting Tips, Lineups & Odds | 30 Oct 2026' (Sportsgambler) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Le Havre vs PSG Prediction, Betting Tips, Lineups & Odds | 30 Oct 2026",
+          "source": "Sportsgambler",
+          "url": "https://www.sportsgambler.com/betting-tips/football/le-havre-vs-psg-prediction-lineups-odds-2026-10-30/"
+        },
+        {
+          "title": "Le Havre vs PSG: TV channel, live stream and kick-off time for Ligue 1 fixture",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-le-havre-v-paris-saint-germain/blt84f88295b2c143cd"
+        },
+        {
+          "title": "[WATCHLIVE]ＴＯＤＡＹ!] PARIS SAINT-GERMAIN VS. LE HAVRE Live free tv! 25 October 2026",
+          "source": "Port of Rotterdam",
+          "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3h2aWRlb2luZG8uZ2l0aHViLmlvL2xld3JhdmlkZW8vZmlsZTI1LnhtbCIvPjwva3JwYW5vPg==&id=paris-saint-germain-vs-le-havre-str-live-on-entv-4133-btwot87307"
+        }
+      ]
+    },
+    {
+      "id": "핼러윈",
+      "rank": 3,
+      "keyword": "핼러윈",
+      "volumeLabel": "1000+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '안전한 핼러윈, 소방이 함께합니다 - 카드/한컷 | 멀티미디어' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "안전한 핼러윈, 소방이 함께합니다 - 카드/한컷 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148974606"
+        },
+        {
+          "title": "주말 핼러윈 앞둔 '불금' 저녁‥이태원 '북적' 인파관리 '비상'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862064_37004.html"
+        },
+        {
+          "title": "핼러윈 데이 안전 관리 강화하는 경찰",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20261030_0021511963"
+        }
+      ]
+    },
+    {
+      "id": "le-havre-vs-psg",
+      "rank": 4,
+      "keyword": "le havre vs psg",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'DIRECT. Lille-Lens: suivez le match de la 9e journée de Ligue 1 en live' (www.live-mercato.com) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "DIRECT. Lille-Lens: suivez le match de la 9e journée de Ligue 1 en live",
+          "source": "www.live-mercato.com",
+          "url": "https://www.live-mercato.com/article/202117-direct-lille-lens-suivez-le-match-de-la-9e-journee-de-ligue-1-en-live"
+        },
+        {
+          "title": "🚨 Compos du Havre-PSG : Luis Enrique fait tourner en vue de Villarreal !",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/fr/news/compos-du-havre-psg-luis-enrique-fait-tourner-en-vue-de-villarreal-43698923"
+        },
+        {
+          "title": "PSG : le nouveau but de Mika Godts",
+          "source": "Foot Mercato",
+          "url": "https://www.footmercato.net/a1037020982020841676-psg-le-nouveau-but-de-mika-godts"
+        }
+      ]
+    },
+    {
+      "id": "카를로스-알카라스",
+      "rank": 5,
+      "keyword": "카를로스 알카라스",
+      "volumeLabel": "500+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[비엔나 오픈] 알카라스 '좋았어!'' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[비엔나 오픈] 알카라스 '좋았어!'",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738138"
+        },
+        {
+          "title": "알카라즈는 2026년 비엔나 오픈 준결승에서 메드베데프와 맞붙게 된다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/alcaraz-cham-tran-medvedev-o-ban-ket-vienna-open-2026"
+        },
+        {
+          "title": "알카라스, 하차노프 꺾고 비엔나오픈 16강⋯ATP 500 22연승",
+          "source": "이투데이",
+          "url": "https://m.etoday.co.kr/news/view/2640962?trc=right_categori_news"
+        }
+      ]
+    },
+    {
+      "id": "크랙",
+      "rank": 6,
+      "keyword": "크랙",
+      "volumeLabel": "500+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이통 3사, 아이폰듀오 추가 물량 '깜깜'...크랙게이트에 고객 불편↑' (지디넷코리아) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이통 3사, 아이폰듀오 추가 물량 '깜깜'...크랙게이트에 고객 불편↑",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261030144302"
+        },
+        {
+          "title": "애플 결함에 삼성도 '긴장'...기로에 선 폴더블 혁신",
+          "source": "YTN 사이언스",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202610291603054671"
+        },
+        {
+          "title": "“아이폰 듀오 또 고장?”…힌지 논란 조롱하는 삼성의 반전 광고",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202610291732001"
+        }
+      ]
+    },
+    {
+      "id": "트위치",
+      "rank": 7,
+      "keyword": "트위치",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '박진영 “데이식스 원필과 10시간 통화”…17세부터 이어진 우정' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '엔씨, 김택진 대표 중심 게임 경쟁력 강화… 글로벌 신작 확대' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "박진영 “데이식스 원필과 10시간 통화”…17세부터 이어진 우정",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261030/134937893/1"
+          "title": "엔씨, 김택진 대표 중심 게임 경쟁력 강화… 글로벌 신작 확대",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261030/134932454/1"
         },
         {
-          "title": "거미, 성시경과 귀호강 하모니…아이유 듀엣곡 ‘그대네요’ 완벽 소화 (고막남친)",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610301054003"
+          "title": "엔씨 '아이온2' 日 스팀 3주 연속 매출 1위",
+          "source": "MTN 머니투데이방송",
+          "url": "https://news.mtn.co.kr/article/2026103016220346703"
         },
         {
-          "title": "야윈 얼굴로 팬들 걱정 샀던 거미…2주 만에 밝아진 근황 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/29/2026102906032317441"
+          "title": "엔씨 '아이온2', 일본서 3주 연속 판매 1위…유럽·남미서도 흥행",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610306269i"
         }
       ]
     },
     {
-      "id": "경기도교육감",
-      "rank": 10,
-      "keyword": "경기도교육감",
+      "id": "나스닥",
+      "rank": 8,
+      "keyword": "나스닥",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '안민석 교육감, 동두천·양주서 교육현안 청취…지역별 해법 모색' (인천일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '알파벳 시총 5,000억 달러 증발, 뉴욕증시 일제히 하락' (네이버페이 머니스토리) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "안민석 교육감, 동두천·양주서 교육현안 청취…지역별 해법 모색",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335549"
+          "title": "알파벳 시총 5,000억 달러 증발, 뉴욕증시 일제히 하락",
+          "source": "네이버페이 머니스토리",
+          "url": "https://story.pay.naver.com/content/3824_2_C1"
         },
         {
-          "title": "경기도교육청 양주서 타운홀 미팅…옥정 과밀부터 서부권 교육 소외까지 집중 논의",
-          "source": "중부일보",
-          "url": "https://www.joongboo.com/news/articleView.html?idxno=363740947"
+          "title": "이번 주 주목할 주식: 알파벳·인텔·아마존 등 기술주 급락",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2152028"
         },
         {
-          "title": "안민석, 중학교까지 생성형 AI 금지 방안 검토",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821258"
+          "title": "돈은 더 버는데 주가 폭락?‥AI가 집어삼킨 현금",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862067_37004.html"
+        }
+      ]
+    },
+    {
+      "id": "중간선거",
+      "rank": 9,
+      "keyword": "중간선거",
+      "volumeLabel": "200+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '흔들리는 중서부 '딥 레드'...중도주의 내세워 파란' (YTN) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "흔들리는 중서부 '딥 레드'...중도주의 내세워 파란",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610310402484267"
+        },
+        {
+          "title": "美중간선거 역대최다 4천800만명 사전투표…상원 접전지서 급증",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261031004000071"
+        },
+        {
+          "title": "전쟁에 63조 쓴 미국도, 살인 물가 이란도…중간선거가 운명 가른다 [핫클립]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698857"
+        }
+      ]
+    },
+    {
+      "id": "trick-or-treat",
+      "rank": 10,
+      "keyword": "trick or treat",
+      "volumeLabel": "100+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Here’s Where Rain Could Dampen Your Spirits This Halloween' (The New York Times) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Here’s Where Rain Could Dampen Your Spirits This Halloween",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/30/weather/halloween-rain-forecast.html"
+        },
+        {
+          "title": "Halloween weather forecast: what to expect where you are",
+          "source": "The Weather Channel",
+          "url": "https://weather.com/2026/10/30/holiday/halloween/halloween-trick-or-treat-weather-forecast"
+        },
+        {
+          "title": "Coastal flooding expected through weekend, with rain chances Saturday across Bay Area",
+          "source": "KRON4",
+          "url": "https://www.kron4.com/weather/coastal-flooding-expected-through-weekend-with-rain-chances-saturday-across-bay-area/"
         }
       ]
     }
