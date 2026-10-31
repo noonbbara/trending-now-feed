@@ -1,182 +1,14 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-30T23:59:42.559Z",
+  "updatedAt": "2026-10-31T05:26:24.630Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "이수현",
+      "id": "전북-대-대전",
       "rank": 1,
-      "keyword": "이수현",
-      "volumeLabel": "10000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '악뮤 이찬혁 회사, 파격 입사조건 \"직원들 성씨 겹치면 안 돼\" ('전참시')' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "악뮤 이찬혁 회사, 파격 입사조건 \"직원들 성씨 겹치면 안 돼\" ('전참시')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/2026/10/30/GY4TKNBRGA4TOMTEHBQTQODFGE/"
-        },
-        {
-          "title": "‘소속사 대표’ 이찬혁, 직원 채용 조건도 독특 “성씨 겹치면 안 돼”",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261030/134937377/1"
-        },
-        {
-          "title": "이찬혁표 회사는 다르다…주 4일제+스윙댄스 파격 복지 (전참시)",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522977"
-        }
-      ]
-    },
-    {
-      "id": "테슬라",
-      "rank": 2,
-      "keyword": "테슬라",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[횡설수설/신광영]중국산 테슬라 ‘탈옥’' (동아일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[횡설수설/신광영]중국산 테슬라 ‘탈옥’",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Opinion/article/all/20261029/134936061/2"
-        },
-        {
-          "title": "한의약진흥원과 테슬라 FSD…국가의 보호막은 언제까지",
-          "source": "MEDI:GATE NEWS",
-          "url": "https://www.medigatenews.com/news/1376431761"
-        },
-        {
-          "title": "’테슬라 완전자율주행 환불 요구’ 차주들 패소",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261030014353QoP"
-        }
-      ]
-    },
-    {
-      "id": "증여",
-      "rank": 3,
-      "keyword": "증여",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“내 아들 대신 네 딸에게”…수상한 증여의 반전[세금, 그 후]' (이데일리) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“내 아들 대신 네 딸에게”…수상한 증여의 반전[세금, 그 후]",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01082406645618496&mediaCodeNo=257"
-        },
-        {
-          "title": "[포커스] '주가 누르기' 끝낼 수 없나‥정부안 부족하다면 어떻게?",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6861681_36974.html"
-        },
-        {
-          "title": "[단독] ＇주가누르기 방지＇ 끝장토론 한다…＂11월말 처리＂",
-          "source": "한국경제TV",
-          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610290166"
-        }
-      ]
-    },
-    {
-      "id": "포스코노동조합",
-      "rank": 4,
-      "keyword": "포스코노동조합",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '포스코노사 3차 파업 앞두고 극적 타결…기본급 2.6% 인상(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "포스코노사 3차 파업 앞두고 극적 타결…기본급 2.6% 인상(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030171151053"
-        },
-        {
-          "title": "140일 만에…포스코 노사, 기본급 2.6%↑ 임금교섭 잠정 합의",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026103019213680131"
-        },
-        {
-          "title": "파업 위기 넘긴 포스코…임단협 잠정 합의",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442277"
-        }
-      ]
-    },
-    {
-      "id": "박서진",
-      "rank": 5,
-      "keyword": "박서진",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '박서진, '세월이길 장사있나' 리메이크 이유? \"빛을 봤으면…그때와 다른 느낌 들지 않을까\"' (톱스타뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "박서진, '세월이길 장사있나' 리메이크 이유? \"빛을 봤으면…그때와 다른 느낌 들지 않을까\"",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264049"
-        },
-        {
-          "title": "박서진, 황혜선 등장에 귀까지 빨개졌다…母 “우리 서진이 어떤지?”",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261030/134937739/1"
-        },
-        {
-          "title": "박서진 첫 민화 전시회 썸녀 황혜선 깜짝 등장, 父도 “미래 며느리”(살림남)",
-          "source": "뉴스엔",
-          "url": "https://m.newsen.com/news_view.php?uid=202610300801061910"
-        }
-      ]
-    },
-    {
-      "id": "우주선",
-      "rank": 6,
-      "keyword": "우주선",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '美정보국 \"中, 위성요격무기 배치할듯…美동맹 위성도 공격대상\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "美정보국 \"中, 위성요격무기 배치할듯…美동맹 위성도 공격대상\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030000200071"
-        },
-        {
-          "title": "\"中, 조만간 우주 레이저·핵무기 실전 배치\"… 스타워즈 현실화되나",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/us/2026/10/31/WFO3EPKWOZA7PE3RRFWEL2HKX4/"
-        },
-        {
-          "title": "美 보고서에 포착된 中 기밀 우주선…고해상도 사진 보니",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261030083348"
-        }
-      ]
-    },
-    {
-      "id": "lcs",
-      "rank": 7,
-      "keyword": "lcs",
-      "volumeLabel": "100+",
+      "keyword": "전북 대 대전",
+      "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
@@ -185,86 +17,244 @@
       "newsSignals": []
     },
     {
-      "id": "직장폐쇄",
+      "id": "공휴일",
+      "rank": 2,
+      "keyword": "공휴일",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '노동절·제헌절 대체공휴일 첫 적용… 2027년 휴일 및 연차 활용법 총정리' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "노동절·제헌절 대체공휴일 첫 적용… 2027년 휴일 및 연차 활용법 총정리",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738221"
+        },
+        {
+          "title": "2027년 10월 연휴, 연차 4일로 10일 쉰다",
+          "source": "비건뉴스",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=398553"
+        },
+        {
+          "title": "2027년 공휴일 총정리, 연차 언제 쓰면 좋을까?",
+          "source": "잡플래닛",
+          "url": "https://www.jobplanet.co.kr/contents/news-8549?referrer=newsroom"
+        }
+      ]
+    },
+    {
+      "id": "이지현",
+      "rank": 3,
+      "keyword": "이지현",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"가족 때문에 불행\"…'싱글맘' 이지현, 11살 아들 가출 고백 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"가족 때문에 불행\"…'싱글맘' 이지현, 11살 아들 가출 고백 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/31/2026103023354313811"
+        },
+        {
+          "title": "“아빠랑 살고 싶어” 김현숙, 아들 한마디에 자책­…48세에 대학원 진학",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261030/134937445/1"
+        },
+        {
+          "title": "'막영애' 김현숙 \"싱글맘 자격지심 생겨…아들이 아빠랑 살고 싶어 해\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6338102"
+        }
+      ]
+    },
+    {
+      "id": "india-vs-uae",
+      "rank": 4,
+      "keyword": "india vs uae",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'India vs UAE, Hong Kong Sixes Highlights: UAE defeats IND by six wickets' (Sportstar) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "India vs UAE, Hong Kong Sixes Highlights: UAE defeats IND by six wickets",
+          "source": "Sportstar",
+          "url": "https://sportstar.thehindu.com/cricket/india-vs-uae-hong-kong-sixes-live-score-updates-highlights-commentary/article71648091.ece"
+        },
+        {
+          "title": "India vs UAE: After Pakistan loss, Krunal Pandya's men suffer another Hong Kong Sixes 2026 defeat; Afghanistan win",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/sports/cricket-news/india-vs-uae-after-pakistan-loss-krunal-pandyas-men-suffer-another-hong-kong-sixes-2026-defeat-afghanistan-win-11793421134657.html"
+        },
+        {
+          "title": "India vs UAE Live Streaming: When And Where To Watch Hong Kong Sixes 2026 Match Live In India",
+          "source": "NDTV Profit",
+          "url": "https://www.ndtvprofit.com/sports/india-vs-uae-live-streaming-when-and-where-to-watch-hong-kong-sixes-2026-match-live-in-india-12260007"
+        }
+      ]
+    },
+    {
+      "id": "jtbc",
+      "rank": 5,
+      "keyword": "jtbc",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Chefs discuss weight loss and similar looks in JTBC special video' (www.famtimes.co.kr) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Chefs discuss weight loss and similar looks in JTBC special video",
+          "source": "www.famtimes.co.kr",
+          "url": "https://www.famtimes.co.kr/en/news/articleView.html?idxno=703790"
+        }
+      ]
+    },
+    {
+      "id": "제주-삼다수",
+      "rank": 6,
+      "keyword": "제주 삼다수",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“삼다수인 줄 알았는데”…무라벨 생수 늘자 식별 혼선' (이데일리) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“삼다수인 줄 알았는데”…무라벨 생수 늘자 식별 혼선",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=05162726645618168&mediaCodeNo=257"
+        },
+        {
+          "title": "라벨 뗀 제주삼다수, 한라산 새기고 페트병 무게 줄였다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261030/134938632/1"
+        },
+        {
+          "title": "\"국가대표부터 지역 선수까지\" … 제주삼다수, 스포츠 후원 저변 넓힌다",
+          "source": "뉴데일리",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/30/2026103000155.html"
+        }
+      ]
+    },
+    {
+      "id": "jtbc-마라톤",
+      "rank": 7,
+      "keyword": "jtbc 마라톤",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '월치, 11월1일 JTBC 마라톤서 스포츠 케어 제품 체험 부스 운영' (시민일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "월치, 11월1일 JTBC 마라톤서 스포츠 케어 제품 체험 부스 운영",
+          "source": "시민일보",
+          "url": "https://siminilbo.co.kr/news/newsview.php?ncode=1160286451854054"
+        },
+        {
+          "title": "러닝에도 MBTI가 있다?…HLB라이프케어, 러닝 유형별 운동법 제안",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/bio/pharmaceutical-bio/6338001"
+        },
+        {
+          "title": "웅진식품 이온더핏, 서울 도심 마라톤서 수분 보충 음료 맡아",
+          "source": "로이슈",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202610300908085387204ead0791_12"
+        }
+      ]
+    },
+    {
+      "id": "warriors-vs-lakers",
       "rank": 8,
-      "keyword": "직장폐쇄",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "keyword": "warriors vs lakers",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'WS 우승 기쁨도 잠시… 밀워키, 직장폐쇄 위기' (문화일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Lakers make final decision on Ziaire Williams for Friday's game' (Lakers Wire) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "WS 우승 기쁨도 잠시… 밀워키, 직장폐쇄 위기",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11627545"
+          "title": "Lakers make final decision on Ziaire Williams for Friday's game",
+          "source": "Lakers Wire",
+          "url": "https://lakerswire.usatoday.com/story/sports/nba/lakers/2026/10/30/lakers-make-final-decision-on-ziaire-williams-for-fridays-game/92524282007/"
         },
         {
-          "title": "다저스 선수 영입도 중단되나…MLB 12월 직장폐쇄 위기",
-          "source": "라디오코리아",
-          "url": "https://www.radiokorea.com/news/article.php?uid=508309"
+          "title": "Los Angeles Lakers vs. Golden State Warriors Live NBA Updates, Scores and Highlights",
+          "source": "Bleacher Report",
+          "url": "https://bleacherreport.com/liveblogs/25527370-los-angeles-lakers-vs-golden-state-warriors-live-nba-updates-scores-and-highlights"
         },
         {
-          "title": "스몰마켓 WS 반작용? \"샐러리캡 필요해\" 더 커진 구단주들 목소리…결국 직장폐쇄 수순으로 가나",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/10/25/MUZWKYLDGZTDSOLGHBRDGYZYGI/"
+          "title": "Lakers vs. Warriors Injury Report – Oct. 30",
+          "source": "Fox Sports 990",
+          "url": "https://foxsports990.iheart.com/content/2026-10-30-lakers-vs-warriors-injury-report-oct-30/"
         }
       ]
     },
     {
-      "id": "실업급여",
+      "id": "인도네시아",
       "rank": 9,
-      "keyword": "실업급여",
+      "keyword": "인도네시아",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"실업급여로 일본 놀러 왔어\"…강레오, 철없는 청년들에 폭발' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '조현, 인도네시아와 외교장관회담…전략적소통 강화 논의' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"실업급여로 일본 놀러 왔어\"…강레오, 철없는 청년들에 폭발",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610292324H"
+          "title": "조현, 인도네시아와 외교장관회담…전략적소통 강화 논의",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030081400504"
         },
         {
-          "title": "\"세금으로 日여행 얌체 짓, 열 받아\"…강레오·박명수 화난 '실업급여' 얼마길래",
-          "source": "이코노미스트",
-          "url": "https://economist.co.kr/article/view/ecn202610290042"
+          "title": "김희상 셰르파, G20 정상회의 대비 차원 인도네시아 셰르파 면담",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6336823"
         },
         {
-          "title": "“실업급여로 日 여행와놓고 일자리 없다?”…강레오 “감자탕집 가봐라 할 일이 천지”",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261029000453"
+          "title": "한-인도네시아 외교장관 회담(10.29.) 결과",
+          "source": "서울Pn",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=454267"
         }
       ]
     },
     {
-      "id": "김재중",
+      "id": "bangladesh-vs-west-indies",
       "rank": 10,
-      "keyword": "김재중",
+      "keyword": "bangladesh vs west indies",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김재중 中 팬미팅 돌연 취소→3주째 환불 無…소속사 결국 법적 대응' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'BAN vs WI Cricket Scorecard, 1st Test at Dhaka, October 28 - November 0…' (Cricinfo) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "김재중 中 팬미팅 돌연 취소→3주째 환불 無…소속사 결국 법적 대응",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12189821"
+          "title": "BAN vs WI Cricket Scorecard, 1st Test at Dhaka, October 28 - November 01, 2026",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/west-indies-in-bangladesh-2026-27-1553291/bangladesh-vs-west-indies-1st-test-1553295/full-scorecard"
         },
         {
-          "title": "김재중, 중국 팬미팅 취소 후 환불 지연…주최사에 법적 대응",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/entertain/2382668.htm"
+          "title": "Chase sparks Bangladesh collapse as West Indies on top in Mirpur",
+          "source": "AFP.com",
+          "url": "https://www.afp.com/en/chase-sparks-bangladesh-collapse-west-indies-top-mirpur"
         },
         {
-          "title": "김재중 中 팬미팅, 취소 3주 지났는데도 환불 아직… 소속사 \"법적 대응\"",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026102916120003646"
+          "title": "Belief all that’s left for Tigers",
+          "source": "The Daily Star",
+          "url": "https://www.thedailystar.net/sports/cricket/news/belief-all-thats-left-tigers-4311426"
         }
       ]
     }
