@@ -1,13 +1,41 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-10-31T05:26:24.630Z",
+  "updatedAt": "2026-10-31T11:08:34.903Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "전북-대-대전",
+      "id": "재건축",
       "rank": 1,
-      "keyword": "전북 대 대전",
+      "keyword": "재건축",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '재건축 아파트값 '억' 소리나게 떨어져…몸테크 열풍 끝? [이슬기의 새집다오]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "재건축 아파트값 '억' 소리나게 떨어져…몸테크 열풍 끝? [이슬기의 새집다오]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102938986"
+        },
+        {
+          "title": "은마 30억선도 흔들 … 강남 재건축 매물 쌓인다",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/realestate/12191748"
+        },
+        {
+          "title": "압구정 재건축은 수십억 낮춰 거래…강남권 기축은 신고가",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/realestate/general/6336651"
+        }
+      ]
+    },
+    {
+      "id": "광주-fc-대-김천상무-순위",
+      "rank": 2,
+      "keyword": "광주 fc 대 김천상무 순위",
       "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
@@ -17,244 +45,210 @@
       "newsSignals": []
     },
     {
-      "id": "공휴일",
-      "rank": 2,
-      "keyword": "공휴일",
-      "volumeLabel": "2000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '노동절·제헌절 대체공휴일 첫 적용… 2027년 휴일 및 연차 활용법 총정리' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "노동절·제헌절 대체공휴일 첫 적용… 2027년 휴일 및 연차 활용법 총정리",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738221"
-        },
-        {
-          "title": "2027년 10월 연휴, 연차 4일로 10일 쉰다",
-          "source": "비건뉴스",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=398553"
-        },
-        {
-          "title": "2027년 공휴일 총정리, 연차 언제 쓰면 좋을까?",
-          "source": "잡플래닛",
-          "url": "https://www.jobplanet.co.kr/contents/news-8549?referrer=newsroom"
-        }
-      ]
-    },
-    {
-      "id": "이지현",
+      "id": "매매",
       "rank": 3,
-      "keyword": "이지현",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "keyword": "매매",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"가족 때문에 불행\"…'싱글맘' 이지현, 11살 아들 가출 고백 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '내놔도 안 팔리는 서울 아파트…매물 8만건 육박' (이데일리) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"가족 때문에 불행\"…'싱글맘' 이지현, 11살 아들 가출 고백 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/31/2026103023354313811"
-        },
-        {
-          "title": "“아빠랑 살고 싶어” 김현숙, 아들 한마디에 자책­…48세에 대학원 진학",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261030/134937445/1"
-        },
-        {
-          "title": "'막영애' 김현숙 \"싱글맘 자격지심 생겨…아들이 아빠랑 살고 싶어 해\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6338102"
-        }
-      ]
-    },
-    {
-      "id": "india-vs-uae",
-      "rank": 4,
-      "keyword": "india vs uae",
-      "volumeLabel": "1000+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'India vs UAE, Hong Kong Sixes Highlights: UAE defeats IND by six wickets' (Sportstar) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "India vs UAE, Hong Kong Sixes Highlights: UAE defeats IND by six wickets",
-          "source": "Sportstar",
-          "url": "https://sportstar.thehindu.com/cricket/india-vs-uae-hong-kong-sixes-live-score-updates-highlights-commentary/article71648091.ece"
-        },
-        {
-          "title": "India vs UAE: After Pakistan loss, Krunal Pandya's men suffer another Hong Kong Sixes 2026 defeat; Afghanistan win",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/sports/cricket-news/india-vs-uae-after-pakistan-loss-krunal-pandyas-men-suffer-another-hong-kong-sixes-2026-defeat-afghanistan-win-11793421134657.html"
-        },
-        {
-          "title": "India vs UAE Live Streaming: When And Where To Watch Hong Kong Sixes 2026 Match Live In India",
-          "source": "NDTV Profit",
-          "url": "https://www.ndtvprofit.com/sports/india-vs-uae-live-streaming-when-and-where-to-watch-hong-kong-sixes-2026-match-live-in-india-12260007"
-        }
-      ]
-    },
-    {
-      "id": "jtbc",
-      "rank": 5,
-      "keyword": "jtbc",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Chefs discuss weight loss and similar looks in JTBC special video' (www.famtimes.co.kr) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Chefs discuss weight loss and similar looks in JTBC special video",
-          "source": "www.famtimes.co.kr",
-          "url": "https://www.famtimes.co.kr/en/news/articleView.html?idxno=703790"
-        }
-      ]
-    },
-    {
-      "id": "제주-삼다수",
-      "rank": 6,
-      "keyword": "제주 삼다수",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“삼다수인 줄 알았는데”…무라벨 생수 늘자 식별 혼선' (이데일리) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“삼다수인 줄 알았는데”…무라벨 생수 늘자 식별 혼선",
+          "title": "내놔도 안 팔리는 서울 아파트…매물 8만건 육박",
           "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=05162726645618168&mediaCodeNo=257"
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02450166645618496&mediaCodeNo=257"
         },
         {
-          "title": "라벨 뗀 제주삼다수, 한라산 새기고 페트병 무게 줄였다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261030/134938632/1"
+          "title": "집주인 호가 안 낮춰서 집값 오르나?...\"그런 요인도 있지만...\" [Y녹취록]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0134_202610311900181788"
         },
         {
-          "title": "\"국가대표부터 지역 선수까지\" … 제주삼다수, 스포츠 후원 저변 넓힌다",
-          "source": "뉴데일리",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/30/2026103000155.html"
+          "title": "서울 노원구(蘆原區) · '26년 10월 부동산 흐름 (서울 +8.54% 앞지른 노원 +11.98% — 거래 +56.9%인데 84㎡ 중위가는 8.29억 제자리)",
+          "source": "네이버 프리미엄콘텐츠",
+          "url": "https://contents.premium.naver.com/plaform/bg/contents/261031081821198is"
         }
       ]
     },
     {
-      "id": "jtbc-마라톤",
+      "id": "전상현",
+      "rank": 4,
+      "keyword": "전상현",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '역투 조상우' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "역투 조상우",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261030_0021512209"
+        },
+        {
+          "title": "“4kg 빠졌다, 내 몸 따질 때 아니야” 30세 마무리의 투혼, 2이닝 퍼펙트 세이브→탈락 위기 KIA 구했다",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112901679"
+        },
+        {
+          "title": "[사진]이재희,'막아야해'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/10/31/GAZTCODDHE3TCYRSMMZDCZTEMQ/"
+        }
+      ]
+    },
+    {
+      "id": "충남-아산-fc-대-김포",
+      "rank": 5,
+      "keyword": "충남 아산 fc 대 김포",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''2경기 덜 치르고 6점 차' 6위 화성 패배에 충남아산 안드레 감독이 보인 반응은?' (스포츠니어스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'2경기 덜 치르고 6점 차' 6위 화성 패배에 충남아산 안드레 감독이 보인 반응은?",
+          "source": "스포츠니어스",
+          "url": "https://www.sports-g.com/news/articleView.html?idxno=217081"
+        },
+        {
+          "title": "[GOAL 아산] “모든 건 제 역량이 부족해서 일어난 일” 완패에 고개 숙인 고정운 감독 “팬분들에게 죄송”",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/goal-%E1%84%8B%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB--%E1%84%86%E1%85%A9%E1%84%83%E1%85%B3%E1%86%AB-%E1%84%80%E1%85%A5%E1%86%AB-%E1%84%8C%E1%85%A6-%E1%84%8B%E1%85%A7%E1%86%A8%E1%84%85%E1%85%A3%E1%86%BC%E1%84%8B%E1%85%B5-%E1%84%87%E1%85%AE%E1%84%8C%E1%85%A9%E1%86%A8%E1%84%92%E1%85%A2%E1%84%89%E1%85%A5-%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8B%E1%85%A5%E1%84%82%E1%85%A1%E1%86%AB-%E1%84%8B%E1%85%B5%E1%86%AF-%E1%84%8B%E1%85%AA%E1%86%AB%E1%84%91%E1%85%A2%E1%84%8B%E1%85%A6-%E1%84%80%E1%85%A9%E1%84%80%E1%85%A2-%E1%84%89%E1%85%AE%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB-%E1%84%80%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%AE%E1%86%AB-%E1%84%80%E1%85%A1%E1%86%B7%E1%84%83%E1%85%A9%E1%86%A8-%E1%84%91%E1%85%A2%E1%86%AB%E1%84%87%E1%85%AE%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6-%E1%84%8C%E1%85%AC%E1%84%89%E1%85%A9%E1%86%BC/blt14a2321c1c9ae667"
+        },
+        {
+          "title": "충남아산, 김포전에서 할로윈 테마 홈경기 ‘HAUNTED MISSION’ 개최...한교원 400경기 출전 대기록 기념식 진행",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697455"
+        }
+      ]
+    },
+    {
+      "id": "맨유-첼시",
+      "rank": 6,
+      "keyword": "맨유 첼시",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '말 그대로 '초대형 호재'...맨유 '성골유스 MF' 부상 복귀→첼시전 출전 예정! 여전히 캐릭 신뢰, \"진심으로 싸우고 싶은 …' (마이데일리) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "말 그대로 '초대형 호재'...맨유 '성골유스 MF' 부상 복귀→첼시전 출전 예정! 여전히 캐릭 신뢰, \"진심으로 싸우고 싶은 선수\"",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026102913083210826"
+        },
+        {
+          "title": "8경기 연속 못 이기면서 열차는 7분 지연시킨 맨유의 원정길… 분노한 팬들의 야유 세례, 캐릭 감독에게만 환호",
+          "source": "베스트일레븐",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=313616"
+        },
+        {
+          "title": "맨체스터 유나이티드, 첼시, 그리고 끝없는 감독 교체의 순환.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/man-united-chelsea-va-vong-xoay-thay-tuong-khong-hoi-ket"
+        }
+      ]
+    },
+    {
+      "id": "싱가포르",
       "rank": 7,
-      "keyword": "jtbc 마라톤",
-      "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
+      "keyword": "싱가포르",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '월치, 11월1일 JTBC 마라톤서 스포츠 케어 제품 체험 부스 운영' (시민일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '안산 청년 창업기업 7곳, 싱가포르서 투자·구매 의향서 체결… 해외시장 진출 모색' (천지일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "월치, 11월1일 JTBC 마라톤서 스포츠 케어 제품 체험 부스 운영",
-          "source": "시민일보",
-          "url": "https://siminilbo.co.kr/news/newsview.php?ncode=1160286451854054"
+          "title": "안산 청년 창업기업 7곳, 싱가포르서 투자·구매 의향서 체결… 해외시장 진출 모색",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3444767"
         },
         {
-          "title": "러닝에도 MBTI가 있다?…HLB라이프케어, 러닝 유형별 운동법 제안",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/bio/pharmaceutical-bio/6338001"
+          "title": "부산 스타트업 4개사, 싱가포르 혁신기술 전시회서 해외시장 진출 모색",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261030500434"
         },
         {
-          "title": "웅진식품 이온더핏, 서울 도심 마라톤서 수분 보충 음료 맡아",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=202610300908085387204ead0791_12"
+          "title": "안산시, 청년 창업 인큐베이팅 기업, 싱가포르서 글로벌 진출 가능성 넓혔다",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/realtime/sokbo_viewNew.htm?idxno=2026103110362098136"
         }
       ]
     },
     {
-      "id": "warriors-vs-lakers",
+      "id": "용인fc-대-서울-이랜드-fc-순위",
       "rank": 8,
-      "keyword": "warriors vs lakers",
+      "keyword": "용인fc 대 서울 이랜드 fc 순위",
       "volumeLabel": "200+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Lakers make final decision on Ziaire Williams for Friday's game' (Lakers Wire) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Lakers make final decision on Ziaire Williams for Friday's game",
-          "source": "Lakers Wire",
-          "url": "https://lakerswire.usatoday.com/story/sports/nba/lakers/2026/10/30/lakers-make-final-decision-on-ziaire-williams-for-fridays-game/92524282007/"
-        },
-        {
-          "title": "Los Angeles Lakers vs. Golden State Warriors Live NBA Updates, Scores and Highlights",
-          "source": "Bleacher Report",
-          "url": "https://bleacherreport.com/liveblogs/25527370-los-angeles-lakers-vs-golden-state-warriors-live-nba-updates-scores-and-highlights"
-        },
-        {
-          "title": "Lakers vs. Warriors Injury Report – Oct. 30",
-          "source": "Fox Sports 990",
-          "url": "https://foxsports990.iheart.com/content/2026-10-30-lakers-vs-warriors-injury-report-oct-30/"
-        }
-      ]
+      "newsSignals": []
     },
     {
-      "id": "인도네시아",
+      "id": "김태희",
       "rank": 9,
-      "keyword": "인도네시아",
+      "keyword": "김태희",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '조현, 인도네시아와 외교장관회담…전략적소통 강화 논의' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '김태희 드레스가 화제를 모은 진짜 이유' (YTN) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "조현, 인도네시아와 외교장관회담…전략적소통 강화 논의",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030081400504"
+          "title": "김태희 드레스가 화제를 모은 진짜 이유",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_sn/0117_202610300858270159"
         },
         {
-          "title": "김희상 셰르파, G20 정상회의 대비 차원 인도네시아 셰르파 면담",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6336823"
+          "title": "김태희, 외모 악플 무색하네…직접 공개한 사진 보니",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261026/134912721/1"
         },
         {
-          "title": "한-인도네시아 외교장관 회담(10.29.) 결과",
-          "source": "서울Pn",
-          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=454267"
+          "title": "47세 김태희, 때아닌 외모 악플 세례…\"저 나이에 이런 미모 가능?\" 갑론을박 [Oh!쎈 이슈]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/23/GQZTINBQMY4GMMTBMYZTQNBYGM/"
         }
       ]
     },
     {
-      "id": "bangladesh-vs-west-indies",
+      "id": "인턴",
       "rank": 10,
-      "keyword": "bangladesh vs west indies",
+      "keyword": "인턴",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'BAN vs WI Cricket Scorecard, 1st Test at Dhaka, October 28 - November 0…' (Cricinfo) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"올해 50세 9급 합격해 첫 출근\"…늦깎이 신입 공무원에 응원 봇물' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "BAN vs WI Cricket Scorecard, 1st Test at Dhaka, October 28 - November 01, 2026",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/west-indies-in-bangladesh-2026-27-1553291/bangladesh-vs-west-indies-1st-test-1553295/full-scorecard"
+          "title": "\"올해 50세 9급 합격해 첫 출근\"…늦깎이 신입 공무원에 응원 봇물",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261027112214sQI"
         },
         {
-          "title": "Chase sparks Bangladesh collapse as West Indies on top in Mirpur",
-          "source": "AFP.com",
-          "url": "https://www.afp.com/en/chase-sparks-bangladesh-collapse-west-indies-top-mirpur"
+          "title": "‘인턴’ 실사판?…50세에 9급 합격한 공무원 “질문 받아주는 선임들 고마워”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261031/134942733/2"
         },
         {
-          "title": "Belief all that’s left for Tigers",
-          "source": "The Daily Star",
-          "url": "https://www.thedailystar.net/sports/cricket/news/belief-all-thats-left-tigers-4311426"
+          "title": "\"50살 신입 공무원입니다!\"...인생 2막 '활짝' [나우쇼츠]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202610301235027550"
         }
       ]
     }
