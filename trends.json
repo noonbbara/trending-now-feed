@@ -1,254 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-11-03T18:20:49.166Z",
+  "updatedAt": "2026-11-03T23:36:05.529Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "코너-맥그리거",
+      "id": "더중앙플러스",
       "rank": 1,
-      "keyword": "코너 맥그리거",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
+      "keyword": "더중앙플러스",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '1분 만에 드러눕고 450억 번 맥그리거, 격투기 은퇴 시사' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"회사 다닐 때 어떻게 살았나\"…14억 모아 은퇴한 삼성맨의 일상 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "1분 만에 드러눕고 450억 번 맥그리거, 격투기 은퇴 시사",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/11/03/V565ESHVUVHKJBYCR2WRBCIPKA/"
-        },
-        {
-          "title": "UFC 레전드 코너 맥그리거, '라스트 댄스' 종합격투기 복귀 예고 | Hypebeast.KR",
-          "source": "Hypebeast.KR",
-          "url": "https://hypebeast.kr/2026/11/ufc-conor-mcgregor-announces-final-fight-last-dance-mma-return-news"
-        },
-        {
-          "title": "'69초 만에 402억' 맥그리거, 은퇴 예고했다…카넬로 경기 흥행 저격→\"내 마지막 경기는 제대로 홍보할 것\"",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2214467"
-        }
-      ]
-    },
-    {
-      "id": "종합부동산세",
-      "rank": 2,
-      "keyword": "종합부동산세",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“국세수입 0.5% 늘리자고…종부세 48만명 부담 키우나”' (마켓인) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“국세수입 0.5% 늘리자고…종부세 48만명 부담 키우나”",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05116806645642112"
-        },
-        {
-          "title": "“징벌적 과세” vs “방향은 옳아”...세제개편 공청회 보유세 공방",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20109806"
-        },
-        {
-          "title": "실거주 아니면 ‘세금 폭탄’…꼬이는 부동산 세제개편안 셈법",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12194970"
-        }
-      ]
-    },
-    {
-      "id": "대리기사",
-      "rank": 3,
-      "keyword": "대리기사",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "한국항공우주산업",
-      "rank": 4,
-      "keyword": "한국항공우주산업",
-      "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'KAI, 수출 호조에 3분기 매출 52% 증가…영업익도 32% 증가' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "KAI, 수출 호조에 3분기 매출 52% 증가…영업익도 32% 증가",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261103148500003"
-        },
-        {
-          "title": "한국항공우주산업 3분기 영업이익 794억원…작년 대비 32%↑",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1187834"
-        },
-        {
-          "title": "신규 수주 500% 급증…KAI, 부진 딛고 연말까지 달린다(종합)",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442802"
-        }
-      ]
-    },
-    {
-      "id": "폰지-사기",
-      "rank": 5,
-      "keyword": "폰지 사기",
-      "volumeLabel": "500+",
-      "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘부동산 전문가’ 믿었는데…125억 가로챈 스타 강사' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘부동산 전문가’ 믿었는데…125억 가로챈 스타 강사",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8702992"
-        },
-        {
-          "title": "'125억 원 투자사기' 유명 부동산 강사 구속 송치",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6862761_36918.html"
-        },
-        {
-          "title": "“미리 얘기하면 원금 반환” 수강생 꼬드긴 부동산 유튜버",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1774046"
-        }
-      ]
-    },
-    {
-      "id": "midterm-elections-2026",
-      "rank": 6,
-      "keyword": "midterm elections 2026",
-      "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'U.S. House Midterm Election Live Results 2026' (NBC News) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "U.S. House Midterm Election Live Results 2026",
-          "source": "NBC News",
-          "url": "https://www.nbcnews.com/politics/2026-elections/house-results"
-        },
-        {
-          "title": "How House districts might shift in the 2026 midterms",
-          "source": "CNN",
-          "url": "https://www.cnn.com/2026/11/03/politics/house-districts-midterms-trump-vis"
-        },
-        {
-          "title": "2026 U.S. House Election Results",
-          "source": "AP News",
-          "url": "https://apnews.com/projects/elections-2026/us-house-results/"
-        }
-      ]
-    },
-    {
-      "id": "small-business",
-      "rank": 7,
-      "keyword": "small business",
-      "volumeLabel": "200+",
-      "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘In the trenches’: Wisconsin’s struggling small businesses could turn a…' (The Guardian) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘In the trenches’: Wisconsin’s struggling small businesses could turn a Trump ally’s district blue",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/nov/03/small-business-economy-wisconsin-house-race"
-        },
-        {
-          "title": "Agriculture, small business shine in debut Ohio Proud holiday gift box",
-          "source": "WSYX",
-          "url": "https://abc6onyourside.com/news/local/ohio-agriculture-small-businesses-shines-in-debut-ohio-proud-holiday-gift-box-collection-oda-chocolate-buckeyes-jam-pumpkin-pretzels-maple-syrup-bourbon-pecans-america-250"
-        },
-        {
-          "title": "Shop Ohio Gift Guide -",
-          "source": "Northeast Ohio Parent",
-          "url": "https://www.northeastohioparent.com/things-to-do/shop-ohio-gift-guide/"
-        }
-      ]
-    },
-    {
-      "id": "사토시",
-      "rank": 8,
-      "keyword": "사토시",
-      "volumeLabel": "200+",
-      "startedLabel": "6시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Bitcoin's white paper turns 18, and small businesses are still paying f…' (CoinDesk) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
-          "source": "CoinDesk",
-          "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered"
-        },
-        {
-          "title": "Bitcoin got spooked this Halloween. Is a monster rebound brewing or another crypto nightmare?",
-          "source": "investingLive",
-          "url": "https://investinglive.com/cryptocurrency/bitcoin-got-spooked-this-halloween-is-a-monster-rebound-brewing-or-another-crypto-nightmare/"
-        },
-        {
-          "title": "One Paper, Infinite Markets: MEXC Marks 18 Years of the Bitcoin Whitepaper by Looking Beyond Bitcoin",
-          "source": "GlobeNewswire",
-          "url": "https://www.globenewswire.com/news-release/2026/11/02/3392929/0/en/one-paper-infinite-markets-mexc-marks-18-years-of-the-bitcoin-whitepaper-by-looking-beyond-bitcoin.html"
-        }
-      ]
-    },
-    {
-      "id": "최미나수",
-      "rank": 9,
-      "keyword": "최미나수",
-      "volumeLabel": "100+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "이재현",
-      "rank": 10,
-      "keyword": "이재현",
-      "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[포토] 김성윤 '다 잡았다' - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[포토] 김성윤 '다 잡았다' - 머니투데이",
+          "title": "\"회사 다닐 때 어떻게 살았나\"…14억 모아 은퇴한 삼성맨의 일상 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/03/2026110321404496971"
+          "url": "https://www.mt.co.kr/stock/2026/11/04/2026110314162668750"
         },
         {
-          "title": "\"셋 중 하나만 넘어갔더라면...\" 박진만의 장탄식, 흐름 바꾼 '파울홈런→적시타' 쏟아진 칭찬 세례 [KS1 현장]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/04/MQ4TSMRZMVSTSNZYGE3DAOLDME/"
+          "title": "1년 휴직 후 이 종목 몰빵했다…2000만원→19억 만든 92년생 [파이어 2.0 ②]",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25475309"
         },
         {
-          "title": "KT와 점수차 좁히는 이재현의 적시타",
+          "title": "“2억 넣고 月160 배당” 30대 파이어족 ETF 4종",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11627645"
+        }
+      ]
+    },
+    {
+      "id": "오현규",
+      "rank": 2,
+      "keyword": "오현규",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '韓 축구 최고 희소식! '국가대표 공격수' 오현규, 한국인 21호 프리미어리거 가능성…\"중앙 공격진 보강 위한 계획의 일환\"' (Nate News) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "韓 축구 최고 희소식! '국가대표 공격수' 오현규, 한국인 21호 프리미어리거 가능성…\"중앙 공격진 보강 위한 계획의 일환\"",
+          "source": "Nate News",
+          "url": "https://m.news.nate.com/view/20261103n10622"
+        },
+        {
+          "title": "주전 경쟁 밀린 오현규, 줄어드는 존재감",
+          "source": "뉴데일리",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/11/02/2026110200032.html"
+        },
+        {
+          "title": "모레노호 악재, 결승골 넣어도 안 변하는 오현규 팀내 입지, 경기당 평균 출전시간 '30분'…심지어 카슴파샤전엔 측면 공격수로 플레이",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/football/2026-11-02/202611020100009260000502"
+        }
+      ]
+    },
+    {
+      "id": "xrp-레저",
+      "rank": 3,
+      "keyword": "xrp 레저",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '스테이블코인을 허락 없이 발행?...XRP 레저, 권한 허점 긴급 봉쇄' (코인리더스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "스테이블코인을 허락 없이 발행?...XRP 레저, 권한 허점 긴급 봉쇄",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/267059"
+        },
+        {
+          "title": "fixCleanup3_4_0, 볼트·풀·대출 계산 오류도 고친다…일반 보유자엔 영향 없다",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1171554"
+        },
+        {
+          "title": "토큰 소각 권한으로 신규 발행 가능…XRPL 권한 위임 기능서 보안 결함",
+          "source": "비온미디어",
+          "url": "https://www.bonmedia.kr/news/articleView.html?idxno=8849"
+        }
+      ]
+    },
+    {
+      "id": "필라델피아-반도체-지수",
+      "rank": 4,
+      "keyword": "필라델피아 반도체 지수",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[속보]美 필라델피아 반도체지수 4거래일 만에 반등…2.64% 상승' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[속보]美 필라델피아 반도체지수 4거래일 만에 반등…2.64% 상승",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/international-economy/6342073"
+        },
+        {
+          "title": "필라델피아 반도체지수, 2일 3.37% 하락…나스닥100보다 낙폭 커",
+          "source": "토큰포스트",
+          "url": "https://www.tokenpost.kr/news/market/432005"
+        },
+        {
+          "title": "[속보] 필라델피아 반도체지수 2.63%↑⋯ 나스닥 소폭 상승 마감",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/20261104500044"
+        }
+      ]
+    },
+    {
+      "id": "나스닥-지수",
+      "rank": 5,
+      "keyword": "나스닥 지수",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '기술주 반등에 나스닥 0.83%↑…중간선거 앞두고 혼조 [뉴욕증시 브리핑]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "기술주 반등에 나스닥 0.83%↑…중간선거 앞두고 혼조 [뉴욕증시 브리핑]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026110442136"
+        },
+        {
+          "title": "뉴욕 증시, 중간선거 결과 주시하며 혼조세로 마감",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202611040658249726"
+        },
+        {
+          "title": "반도체 저가매수 반등…AI 투자 수익성 우려는 여전[뉴욕마감] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/11/04/2026110407145263529"
+        }
+      ]
+    },
+    {
+      "id": "ionq",
+      "rank": 6,
+      "keyword": "ionq",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'IonQ Secures $7.5M AFRL Award for Quantum Network Expansion' (IonQ) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "IonQ Secures $7.5M AFRL Award for Quantum Network Expansion",
+          "source": "IonQ",
+          "url": "https://www.ionq.com/news/ionq-awarded-7-5-million-follow-on-funding-from-afrl-to-advance-full-stack-quantum-networking"
+        },
+        {
+          "title": "Weekly Recap: Quantum-networking funding and Nov. 5 Q3 results",
+          "source": "TradingView",
+          "url": "https://www.tradingview.com/news/tradingview:9e88c001c492a:0-weekly-recap-quantum-networking-funding-and-nov-5-q3-results/"
+        },
+        {
+          "title": "How Risky Is IonQ Stock?",
+          "source": "Trefis",
+          "url": "https://www.trefis.com/stock/ionq/articles/622248/how-risky-is-ionq-stock/2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "욕망의-덫",
+      "rank": 7,
+      "keyword": "욕망의 덫",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“ 내가 궁금해? ” 장서희를 찾아간 전혜원 [욕망의 덫] | KBS 261103 방송' (대한민국 대표 공영미디어 KBS) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“ 내가 궁금해? ” 장서희를 찾아간 전혜원 [욕망의 덫] | KBS 261103 방송",
+          "source": "대한민국 대표 공영미디어 KBS",
+          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026179150-01-000_MFSC4&program_code=T2026-0209&program_id=PS-2026179150-01-000&section_code=03&broadcast_complete_yn=N&section_id=27853"
+        },
+        {
+          "title": "'욕망의 덫' 전혜원, 주미란 과거 캐묻기 시작…윤해영 \"결혼한 적 없어\"",
+          "source": "싱글리스트",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=778674"
+        },
+        {
+          "title": "‘욕망의 덫’ 50회 예고, 은설이 미란의 감춰 온 과거 파헤친다…국철은 해라 앞에",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1171235"
+        }
+      ]
+    },
+    {
+      "id": "파운드리",
+      "rank": 8,
+      "keyword": "파운드리",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '삼성전자, 2030년 8인치 파운드리 완전 철수' (디일렉) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "삼성전자, 2030년 8인치 파운드리 완전 철수",
+          "source": "디일렉",
+          "url": "https://www.thelec.kr/news/articleView.html?idxno=64709"
+        },
+        {
+          "title": "[종목상담 주식민원처리반] 삼성 8인치 파운드리 철수 따른 반사이익 기대 'DB하이텍' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/11/03/2026110318307087575"
+        },
+        {
+          "title": "[DB 창립 57주년] 8인치 특화로 일군 '알짜 반도체'… DB하이텍, ‘중국 추격’ 과제",
+          "source": "미디어펜",
+          "url": "https://www.mediapen.com/news/view/1134634"
+        }
+      ]
+    },
+    {
+      "id": "신속통합기획",
+      "rank": 9,
+      "keyword": "신속통합기획",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '신통기획 확정지 신정4동 922번지 재개발 2,170세대 대단지로 재개발' (TBS 서울) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "신통기획 확정지 신정4동 922번지 재개발 2,170세대 대단지로 재개발",
+          "source": "TBS 서울",
+          "url": "https://tbs.seoul.kr/news/newsView.do?typ_800=&idx_800=3538653&seq_800=20531554"
+        },
+        {
+          "title": "정비구역 지정도 안 됐는데 3억원 껑충…신정4동, 재개발 기대감에 들썩",
+          "source": "네이버 프리미엄콘텐츠",
+          "url": "https://contents.premium.naver.com/ledesk/agelimit/contents/261103153438972bx"
+        },
+        {
+          "title": "양천구, 신정4동 922번지 일대 최고 25층·2,170세대 재개발…4일 주민설명회 개최",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/RPR20261102001200353"
+        }
+      ]
+    },
+    {
+      "id": "간호조무사",
+      "rank": 10,
+      "keyword": "간호조무사",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '최저임금 올렸더니 요양원 '간호사'가 사라졌다' (대한경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "최저임금 올렸더니 요양원 '간호사'가 사라졌다",
+          "source": "대한경제",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031511509330464"
+        },
+        {
+          "title": "간호사 대신 조무사로 채운 요양시설…건보 부담 키운다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611032115005"
+        },
+        {
+          "title": "노인요양시설 숙련 간호인력 확충 효과 브리핑하는 권정현 KDI 연구위원",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261103_0021517730"
+          "url": "https://mobile.newsis.com/photo/NISI20261103_0021516199"
         }
       ]
     }
