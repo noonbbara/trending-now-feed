@@ -1,286 +1,270 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-11-03T23:36:05.529Z",
+  "updatedAt": "2026-11-04T05:57:53.738Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "더중앙플러스",
+      "id": "골프",
       "rank": 1,
-      "keyword": "더중앙플러스",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "keyword": "골프",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"회사 다닐 때 어떻게 살았나\"…14억 모아 은퇴한 삼성맨의 일상 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"MBK, 골프존카운티 계약 전날 협상 중단\"...법적대응 예고한 골프존홀딩스 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"회사 다닐 때 어떻게 살았나\"…14억 모아 은퇴한 삼성맨의 일상 - 머니투데이",
+          "title": "\"MBK, 골프존카운티 계약 전날 협상 중단\"...법적대응 예고한 골프존홀딩스 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/11/04/2026110314162668750"
+          "url": "https://www.mt.co.kr/living/2026/11/04/2026110409194480467"
         },
         {
-          "title": "1년 휴직 후 이 종목 몰빵했다…2000만원→19억 만든 92년생 [파이어 2.0 ②]",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25475309"
+          "title": "더 시에나 그룹, 골프존카운티 하이엔드 골프클럽 전환 추진… “경쟁력의 중심은 사람”",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261103000225"
         },
         {
-          "title": "“2억 넣고 月160 배당” 30대 파이어족 ETF 4종",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11627645"
+          "title": "권광석이 돌아왔다…1.8조 골프존카운티 인수전 전면에",
+          "source": "딜사이트",
+          "url": "https://dealsite.co.kr/articles/171915"
         }
       ]
     },
     {
-      "id": "오현규",
+      "id": "소득세",
       "rank": 2,
-      "keyword": "오현규",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "keyword": "소득세",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '韓 축구 최고 희소식! '국가대표 공격수' 오현규, 한국인 21호 프리미어리거 가능성…\"중앙 공격진 보강 위한 계획의 일환\"' (Nate News) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '국세청, 주식 양도세 더 낸 4천687명에게 21억원 돌려줘' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "韓 축구 최고 희소식! '국가대표 공격수' 오현규, 한국인 21호 프리미어리거 가능성…\"중앙 공격진 보강 위한 계획의 일환\"",
-          "source": "Nate News",
-          "url": "https://m.news.nate.com/view/20261103n10622"
-        },
-        {
-          "title": "주전 경쟁 밀린 오현규, 줄어드는 존재감",
-          "source": "뉴데일리",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/11/02/2026110200032.html"
-        },
-        {
-          "title": "모레노호 악재, 결승골 넣어도 안 변하는 오현규 팀내 입지, 경기당 평균 출전시간 '30분'…심지어 카슴파샤전엔 측면 공격수로 플레이",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/football/2026-11-02/202611020100009260000502"
-        }
-      ]
-    },
-    {
-      "id": "xrp-레저",
-      "rank": 3,
-      "keyword": "xrp 레저",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '스테이블코인을 허락 없이 발행?...XRP 레저, 권한 허점 긴급 봉쇄' (코인리더스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "스테이블코인을 허락 없이 발행?...XRP 레저, 권한 허점 긴급 봉쇄",
-          "source": "코인리더스",
-          "url": "https://www.coinreaders.com/267059"
-        },
-        {
-          "title": "fixCleanup3_4_0, 볼트·풀·대출 계산 오류도 고친다…일반 보유자엔 영향 없다",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1171554"
-        },
-        {
-          "title": "토큰 소각 권한으로 신규 발행 가능…XRPL 권한 위임 기능서 보안 결함",
-          "source": "비온미디어",
-          "url": "https://www.bonmedia.kr/news/articleView.html?idxno=8849"
-        }
-      ]
-    },
-    {
-      "id": "필라델피아-반도체-지수",
-      "rank": 4,
-      "keyword": "필라델피아 반도체 지수",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[속보]美 필라델피아 반도체지수 4거래일 만에 반등…2.64% 상승' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[속보]美 필라델피아 반도체지수 4거래일 만에 반등…2.64% 상승",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/international-economy/6342073"
-        },
-        {
-          "title": "필라델피아 반도체지수, 2일 3.37% 하락…나스닥100보다 낙폭 커",
-          "source": "토큰포스트",
-          "url": "https://www.tokenpost.kr/news/market/432005"
-        },
-        {
-          "title": "[속보] 필라델피아 반도체지수 2.63%↑⋯ 나스닥 소폭 상승 마감",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/20261104500044"
-        }
-      ]
-    },
-    {
-      "id": "나스닥-지수",
-      "rank": 5,
-      "keyword": "나스닥 지수",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '기술주 반등에 나스닥 0.83%↑…중간선거 앞두고 혼조 [뉴욕증시 브리핑]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "기술주 반등에 나스닥 0.83%↑…중간선거 앞두고 혼조 [뉴욕증시 브리핑]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026110442136"
-        },
-        {
-          "title": "뉴욕 증시, 중간선거 결과 주시하며 혼조세로 마감",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202611040658249726"
-        },
-        {
-          "title": "반도체 저가매수 반등…AI 투자 수익성 우려는 여전[뉴욕마감] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/11/04/2026110407145263529"
-        }
-      ]
-    },
-    {
-      "id": "ionq",
-      "rank": 6,
-      "keyword": "ionq",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'IonQ Secures $7.5M AFRL Award for Quantum Network Expansion' (IonQ) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "IonQ Secures $7.5M AFRL Award for Quantum Network Expansion",
-          "source": "IonQ",
-          "url": "https://www.ionq.com/news/ionq-awarded-7-5-million-follow-on-funding-from-afrl-to-advance-full-stack-quantum-networking"
-        },
-        {
-          "title": "Weekly Recap: Quantum-networking funding and Nov. 5 Q3 results",
-          "source": "TradingView",
-          "url": "https://www.tradingview.com/news/tradingview:9e88c001c492a:0-weekly-recap-quantum-networking-funding-and-nov-5-q3-results/"
-        },
-        {
-          "title": "How Risky Is IonQ Stock?",
-          "source": "Trefis",
-          "url": "https://www.trefis.com/stock/ionq/articles/622248/how-risky-is-ionq-stock/2026-11-03"
-        }
-      ]
-    },
-    {
-      "id": "욕망의-덫",
-      "rank": 7,
-      "keyword": "욕망의 덫",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“ 내가 궁금해? ” 장서희를 찾아간 전혜원 [욕망의 덫] | KBS 261103 방송' (대한민국 대표 공영미디어 KBS) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“ 내가 궁금해? ” 장서희를 찾아간 전혜원 [욕망의 덫] | KBS 261103 방송",
-          "source": "대한민국 대표 공영미디어 KBS",
-          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026179150-01-000_MFSC4&program_code=T2026-0209&program_id=PS-2026179150-01-000&section_code=03&broadcast_complete_yn=N&section_id=27853"
-        },
-        {
-          "title": "'욕망의 덫' 전혜원, 주미란 과거 캐묻기 시작…윤해영 \"결혼한 적 없어\"",
-          "source": "싱글리스트",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=778674"
-        },
-        {
-          "title": "‘욕망의 덫’ 50회 예고, 은설이 미란의 감춰 온 과거 파헤친다…국철은 해라 앞에",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1171235"
-        }
-      ]
-    },
-    {
-      "id": "파운드리",
-      "rank": 8,
-      "keyword": "파운드리",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '삼성전자, 2030년 8인치 파운드리 완전 철수' (디일렉) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "삼성전자, 2030년 8인치 파운드리 완전 철수",
-          "source": "디일렉",
-          "url": "https://www.thelec.kr/news/articleView.html?idxno=64709"
-        },
-        {
-          "title": "[종목상담 주식민원처리반] 삼성 8인치 파운드리 철수 따른 반사이익 기대 'DB하이텍' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/11/03/2026110318307087575"
-        },
-        {
-          "title": "[DB 창립 57주년] 8인치 특화로 일군 '알짜 반도체'… DB하이텍, ‘중국 추격’ 과제",
-          "source": "미디어펜",
-          "url": "https://www.mediapen.com/news/view/1134634"
-        }
-      ]
-    },
-    {
-      "id": "신속통합기획",
-      "rank": 9,
-      "keyword": "신속통합기획",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '신통기획 확정지 신정4동 922번지 재개발 2,170세대 대단지로 재개발' (TBS 서울) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "신통기획 확정지 신정4동 922번지 재개발 2,170세대 대단지로 재개발",
-          "source": "TBS 서울",
-          "url": "https://tbs.seoul.kr/news/newsView.do?typ_800=&idx_800=3538653&seq_800=20531554"
-        },
-        {
-          "title": "정비구역 지정도 안 됐는데 3억원 껑충…신정4동, 재개발 기대감에 들썩",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/ledesk/agelimit/contents/261103153438972bx"
-        },
-        {
-          "title": "양천구, 신정4동 922번지 일대 최고 25층·2,170세대 재개발…4일 주민설명회 개최",
+          "title": "국세청, 주식 양도세 더 낸 4천687명에게 21억원 돌려줘",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/RPR20261102001200353"
+          "url": "https://www.yna.co.kr/view/AKR20261103075200002"
+        },
+        {
+          "title": "국세청, 해외 주식 등 주식 양도소득세에서 기본공제 누락된 4687명에 21억원 환급 완료",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/economy_general/2026/11/03/GVDE3FMCNNGCFJPIJGZL3NSWAM/"
+        },
+        {
+          "title": "“주식 양도세 납세자 확인 필수”... 기본공제 누락 4600여명에 환급",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11628518"
         }
       ]
     },
     {
-      "id": "간호조무사",
-      "rank": 10,
-      "keyword": "간호조무사",
+      "id": "지민",
+      "rank": 3,
+      "keyword": "지민",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“함께할 시간 365일뿐”…‘부산 명소’ BTS 지민 아버지 카페 1년 뒤 문 닫는다' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“함께할 시간 365일뿐”…‘부산 명소’ BTS 지민 아버지 카페 1년 뒤 문 닫는다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261103/134954529/1"
+        },
+        {
+          "title": "BTS 지민父 카페, 돌연 폐업 예고…“내년 영업 종료”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11628280"
+        },
+        {
+          "title": "'아미 성지였는데' 방탄소년단 지민 父 카페, 돌연 폐업..\"365일 남았다\"[Oh!쎈 이슈]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/03/MJQTCNDBHAZDEYRYGIZTKMDEMY/"
+        }
+      ]
+    },
+    {
+      "id": "이수민",
+      "rank": 4,
+      "keyword": "이수민",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "국채",
+      "rank": 5,
+      "keyword": "국채",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 ''블루웨이브' 현실화?…AI 규제 강화 우려에 나스닥 선물 급락 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "'블루웨이브' 현실화?…AI 규제 강화 우려에 나스닥 선물 급락 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/11/04/2026110411132486111"
+        },
+        {
+          "title": "美 국채가, 이란 종전 협상 진전에 하락폭 축소",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442835"
+        },
+        {
+          "title": "유가 급락에 美 국채금리 하락세 지속",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261103023300009"
+        }
+      ]
+    },
+    {
+      "id": "마이크로소프트",
+      "rank": 6,
+      "keyword": "마이크로소프트",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Xbox Game Pass: 2025년 12월 구독 포함 게임 목록' (Sortir à Paris) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Xbox Game Pass: 2025년 12월 구독 포함 게임 목록",
+          "source": "Sortir à Paris",
+          "url": "https://www.sortiraparis.com/ko/palieseo-hal-il/noleum/articles/281796-xbox-game-pass-2026nyeon-11wol-singyu-geim-konsol-pc-mich-keullaudeu"
+        },
+        {
+          "title": "MS 게임패스, 11월 1차 신규 라인업 공개···〈FM27〉 등 출격",
+          "source": "글로벌E",
+          "url": "https://www.globale.co.kr/news/articleView.html?idxno=41414"
+        },
+        {
+          "title": "11월 중순에 구독이 시작됩니다. Xbox Game Pass 14경기를 남겨두고 떠날 것입니다",
+          "source": "GameGPU",
+          "url": "https://ko.gamegpu.com/news/igry/v-seredine-noyabrya-podpisku-xbox-game-pass-pokinut-14-igr"
+        }
+      ]
+    },
+    {
+      "id": "주한-미군",
+      "rank": 7,
+      "keyword": "주한 미군",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '최저임금 올렸더니 요양원 '간호사'가 사라졌다' (대한경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '군사우편으로 대마 밀수한 주한미군 구속' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "최저임금 올렸더니 요양원 '간호사'가 사라졌다",
-          "source": "대한경제",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031511509330464"
+          "title": "군사우편으로 대마 밀수한 주한미군 구속",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6863066_36932.html"
         },
         {
-          "title": "간호사 대신 조무사로 채운 요양시설…건보 부담 키운다",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611032115005"
+          "title": "보충제 통에 숨긴 '합성대마'...평택세관, 군사우편 밀수 주한미군 구속",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261104000486"
         },
         {
-          "title": "노인요양시설 숙련 간호인력 확충 효과 브리핑하는 권정현 KDI 연구위원",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261103_0021516199"
+          "title": "‘주한미군이 美 군사우편으로 액상대마 밀수’…평택세관, 주한미군·공범 적발",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11628768"
+        }
+      ]
+    },
+    {
+      "id": "강남구",
+      "rank": 8,
+      "keyword": "강남구",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '공인노무사가 노동법 실무교육…강남구 '고용노동대학'' (더팩트) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "공인노무사가 노동법 실무교육…강남구 '고용노동대학'",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/life/2384616.htm"
+        },
+        {
+          "title": "근로계약부터 임금관리까지 ‘테헤란밸리 고용노동대학’",
+          "source": "강남내일신문",
+          "url": ""
+        },
+        {
+          "title": "강남구, 중소기업 인사·노무 실무교육 5일 개강",
+          "source": "이뉴스투데이",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "greg-abbott",
+      "rank": 9,
+      "keyword": "greg abbott",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Texas U.S. Senate Election Live Results 2026' (AP News) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Texas U.S. Senate Election Live Results 2026",
+          "source": "AP News",
+          "url": "https://apnews.com/projects/elections-2026/texas-us-senate-results/"
+        },
+        {
+          "title": "Texas Governor 2026: Live Election Results, Abbott vs. Hinojosa",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-texas-governor.html"
+        },
+        {
+          "title": "Democrat Elected Texas Governor for First Time in 36 Years in Conservative Stronghold",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008830378"
+        }
+      ]
+    },
+    {
+      "id": "nyt",
+      "rank": 10,
+      "keyword": "nyt",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'EVA: Työllisyyden parantaminen ykköstoive seuraavalle hallitukselle' (STT Info) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "EVA: Työllisyyden parantaminen ykköstoive seuraavalle hallitukselle",
+          "source": "STT Info",
+          "url": "https://www.sttinfo.fi/tiedote/72464694/eva-tyollisyyden-parantaminen-ykkostoive-seuraavalle-hallitukselle?publisherId=3848&lang=fi"
+        },
+        {
+          "title": "Suomalaisten ykköstoiveena työllisyyden parantaminen, kertoo Evan kysely",
+          "source": "Karjalainen",
+          "url": "https://www.karjalainen.fi/uutissuomalainen/9924815"
+        },
+        {
+          "title": "Suomalaisten toiveet seuraavalle hallitukselle muuttuivat rajusti – yksi asia nousi ykköseksi",
+          "source": "Ilta-Sanomat",
+          "url": "https://www.is.fi/politiikka/art-2000012383770.html"
         }
       ]
     }
