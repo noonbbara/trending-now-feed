@@ -1,270 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-11-04T05:57:53.738Z",
+  "updatedAt": "2026-11-04T14:19:40.634Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "골프",
+      "id": "수사",
       "rank": 1,
-      "keyword": "골프",
+      "keyword": "수사",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"MBK, 골프존카운티 계약 전날 협상 중단\"...법적대응 예고한 골프존홀딩스 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"MBK, 골프존카운티 계약 전날 협상 중단\"...법적대응 예고한 골프존홀딩스 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/living/2026/11/04/2026110409194480467"
-        },
-        {
-          "title": "더 시에나 그룹, 골프존카운티 하이엔드 골프클럽 전환 추진… “경쟁력의 중심은 사람”",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261103000225"
-        },
-        {
-          "title": "권광석이 돌아왔다…1.8조 골프존카운티 인수전 전면에",
-          "source": "딜사이트",
-          "url": "https://dealsite.co.kr/articles/171915"
-        }
-      ]
-    },
-    {
-      "id": "소득세",
-      "rank": 2,
-      "keyword": "소득세",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '국세청, 주식 양도세 더 낸 4천687명에게 21억원 돌려줘' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "국세청, 주식 양도세 더 낸 4천687명에게 21억원 돌려줘",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261103075200002"
-        },
-        {
-          "title": "국세청, 해외 주식 등 주식 양도소득세에서 기본공제 누락된 4687명에 21억원 환급 완료",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/economy_general/2026/11/03/GVDE3FMCNNGCFJPIJGZL3NSWAM/"
-        },
-        {
-          "title": "“주식 양도세 납세자 확인 필수”... 기본공제 누락 4600여명에 환급",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11628518"
-        }
-      ]
-    },
-    {
-      "id": "지민",
-      "rank": 3,
-      "keyword": "지민",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“함께할 시간 365일뿐”…‘부산 명소’ BTS 지민 아버지 카페 1년 뒤 문 닫는다' (동아일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“함께할 시간 365일뿐”…‘부산 명소’ BTS 지민 아버지 카페 1년 뒤 문 닫는다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261103/134954529/1"
-        },
-        {
-          "title": "BTS 지민父 카페, 돌연 폐업 예고…“내년 영업 종료”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11628280"
-        },
-        {
-          "title": "'아미 성지였는데' 방탄소년단 지민 父 카페, 돌연 폐업..\"365일 남았다\"[Oh!쎈 이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/03/MJQTCNDBHAZDEYRYGIZTKMDEMY/"
-        }
-      ]
-    },
-    {
-      "id": "이수민",
-      "rank": 4,
-      "keyword": "이수민",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "국채",
-      "rank": 5,
-      "keyword": "국채",
-      "volumeLabel": "200+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''블루웨이브' 현실화?…AI 규제 강화 우려에 나스닥 선물 급락 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '여권 주도 '조작기소 특검법' 국회 법사위 통과‥야당 반발' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'블루웨이브' 현실화?…AI 규제 강화 우려에 나스닥 선물 급락 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/11/04/2026110411132486111"
-        },
-        {
-          "title": "美 국채가, 이란 종전 협상 진전에 하락폭 축소",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442835"
-        },
-        {
-          "title": "유가 급락에 美 국채금리 하락세 지속",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261103023300009"
-        }
-      ]
-    },
-    {
-      "id": "마이크로소프트",
-      "rank": 6,
-      "keyword": "마이크로소프트",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Xbox Game Pass: 2025년 12월 구독 포함 게임 목록' (Sortir à Paris) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Xbox Game Pass: 2025년 12월 구독 포함 게임 목록",
-          "source": "Sortir à Paris",
-          "url": "https://www.sortiraparis.com/ko/palieseo-hal-il/noleum/articles/281796-xbox-game-pass-2026nyeon-11wol-singyu-geim-konsol-pc-mich-keullaudeu"
-        },
-        {
-          "title": "MS 게임패스, 11월 1차 신규 라인업 공개···〈FM27〉 등 출격",
-          "source": "글로벌E",
-          "url": "https://www.globale.co.kr/news/articleView.html?idxno=41414"
-        },
-        {
-          "title": "11월 중순에 구독이 시작됩니다. Xbox Game Pass 14경기를 남겨두고 떠날 것입니다",
-          "source": "GameGPU",
-          "url": "https://ko.gamegpu.com/news/igry/v-seredine-noyabrya-podpisku-xbox-game-pass-pokinut-14-igr"
-        }
-      ]
-    },
-    {
-      "id": "주한-미군",
-      "rank": 7,
-      "keyword": "주한 미군",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '군사우편으로 대마 밀수한 주한미군 구속' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "군사우편으로 대마 밀수한 주한미군 구속",
+          "title": "여권 주도 '조작기소 특검법' 국회 법사위 통과‥야당 반발",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6863066_36932.html"
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6863228_36911.html"
         },
         {
-          "title": "보충제 통에 숨긴 '합성대마'...평택세관, 군사우편 밀수 주한미군 구속",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261104000486"
+          "title": "‘조작기소 특검법’ 민주당 주도로 법사위 통과…국민의힘 반발·퇴장",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8704190"
         },
         {
-          "title": "‘주한미군이 美 군사우편으로 액상대마 밀수’…평택세관, 주한미군·공범 적발",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11628768"
+          "title": "퇴장하는 국민의힘 의원들",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20261104087300013"
         }
       ]
     },
     {
-      "id": "강남구",
-      "rank": 8,
-      "keyword": "강남구",
-      "volumeLabel": "100+",
+      "id": "kbo",
+      "rank": 2,
+      "keyword": "kbo",
+      "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '공인노무사가 노동법 실무교육…강남구 '고용노동대학'' (더팩트) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[Photo] Diaz hits go-ahead hit in top of the 10th inning of extra innin…' (스타뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "공인노무사가 노동법 실무교육…강남구 '고용노동대학'",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/life/2384616.htm"
+          "title": "[Photo] Diaz hits go-ahead hit in top of the 10th inning of extra innings",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/en/sports/2026/11/04/2026110421485697730"
         },
         {
-          "title": "근로계약부터 임금관리까지 ‘테헤란밸리 고용노동대학’",
-          "source": "강남내일신문",
-          "url": ""
+          "title": "Lewin Díaz's Hesitation Costs Samsung in Korean Series Game 2",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/11/04/D5O4YMIPJ5D4LBW6HLBBSLE3HM/"
         },
         {
-          "title": "강남구, 중소기업 인사·노무 실무교육 5일 개강",
-          "source": "이뉴스투데이",
-          "url": ""
+          "title": "[Photo] Fedak and ##Díaz## collide while missing fly ball",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-photo-spo/2026/11/04/4CSNP44WGZGMPGAHQ3QCQTVDUI/?utm_source=google&utm_medium=referral&utm_campaign=amp-undefined"
         }
       ]
     },
     {
-      "id": "greg-abbott",
-      "rank": 9,
-      "keyword": "greg abbott",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Texas U.S. Senate Election Live Results 2026' (AP News) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Texas U.S. Senate Election Live Results 2026",
-          "source": "AP News",
-          "url": "https://apnews.com/projects/elections-2026/texas-us-senate-results/"
-        },
-        {
-          "title": "Texas Governor 2026: Live Election Results, Abbott vs. Hinojosa",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-texas-governor.html"
-        },
-        {
-          "title": "Democrat Elected Texas Governor for First Time in 36 Years in Conservative Stronghold",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008830378"
-        }
-      ]
-    },
-    {
-      "id": "nyt",
-      "rank": 10,
-      "keyword": "nyt",
-      "volumeLabel": "100+",
+      "id": "한국시리즈-연장전",
+      "rank": 3,
+      "keyword": "한국시리즈 연장전",
+      "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'EVA: Työllisyyden parantaminen ykköstoive seuraavalle hallitukselle' (STT Info) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '2차전 살얼음판 승부…디아즈는 왜 뛰었을까?' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "EVA: Työllisyyden parantaminen ykköstoive seuraavalle hallitukselle",
-          "source": "STT Info",
-          "url": "https://www.sttinfo.fi/tiedote/72464694/eva-tyollisyyden-parantaminen-ykkostoive-seuraavalle-hallitukselle?publisherId=3848&lang=fi"
+          "title": "2차전 살얼음판 승부…디아즈는 왜 뛰었을까?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8704214"
         },
         {
-          "title": "Suomalaisten ykköstoiveena työllisyyden parantaminen, kertoo Evan kysely",
-          "source": "Karjalainen",
-          "url": "https://www.karjalainen.fi/uutissuomalainen/9924815"
+          "title": "명품 투수전 이후, 결국 실책이 승부 갈랐다연장 12회 혈투 끝에 삼성 3-2 승리 ‘시리즈 원점’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611042304001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=people_news"
         },
         {
-          "title": "Suomalaisten toiveet seuraavalle hallitukselle muuttuivat rajusti – yksi asia nousi ykköseksi",
-          "source": "Ilta-Sanomat",
-          "url": "https://www.is.fi/politiikka/art-2000012383770.html"
+          "title": "삼성, 연장 12회 혈투 끝 KT에 3-2 승리…한국시리즈 1승 1패",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11628861"
+        }
+      ]
+    },
+    {
+      "id": "코시",
+      "rank": 4,
+      "keyword": "코시",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[엠빅뉴스] 8-0에서 8-7.. 1차전 꿀잼.. 그리고 수원 수호신 박영현 등판까지' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[엠빅뉴스] 8-0에서 8-7.. 1차전 꿀잼.. 그리고 수원 수호신 박영현 등판까지",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/original/mbig/6863119_29041.html"
+        },
+        {
+          "title": "[영상] 또 무너진 최원태·아픈 강민호…삼성의 딜레마?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8703715"
+        },
+        {
+          "title": "안현민·한승택·김현수 쾅쾅쾅…kt, KS 1차전서 삼성에 진땀승",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/IPT20261103000013365"
+        }
+      ]
+    },
+    {
+      "id": "박계범",
+      "rank": 5,
+      "keyword": "박계범",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이재현 '한점 더 달아나자'' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이재현 '한점 더 달아나자'",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8197854"
+        },
+        {
+          "title": "[사진]환호하는 삼성 김성윤, '찬스 만들었어'",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/04/MZQTSYTFHEYWEMZVG5TDKOJZGU/"
+        },
+        {
+          "title": "[사진]삼성 유격수 이재현, '위기는 병살로'",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112904243"
+        }
+      ]
+    },
+    {
+      "id": "알렉산더-즈베레프",
+      "rank": 6,
+      "keyword": "알렉산더 즈베레프",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '신네르·알카라스 양강 구도 균열 낸 츠베레프, 생애 첫 세계 1위 등극' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "신네르·알카라스 양강 구도 균열 낸 츠베레프, 생애 첫 세계 1위 등극",
+          "source": "뉴시스",
+          "url": "https://nwww.newsis.com/view/NISX20261030_0003848322"
+        },
+        {
+          "title": "'최고령 생애 첫 1위 등극' 츠베레프... 불안함 지우고 유지 가능할까",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026110315390000771"
+        },
+        {
+          "title": "'차세대’ 꼬리표 떼고 마침내 정상… 즈베레프, 생애 첫 세계 1위",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=05654726645618168&mediaCodeNo=257"
+        }
+      ]
+    },
+    {
+      "id": "야구중계",
+      "rank": 7,
+      "keyword": "야구중계",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘스포츠 명가’ 삼성의 부활…야구-축구-농구-배구 일제히 ‘파란 돌풍’' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘스포츠 명가’ 삼성의 부활…야구-축구-농구-배구 일제히 ‘파란 돌풍’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261103/134957943/1"
+        },
+        {
+          "title": "10구단 체제 KS, '업셋' 두 번…모두 PO 끝장 승부 승자가 정상",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/baseball/6341143"
+        },
+        {
+          "title": "\"후라도가 다 했다\"...삼성, KIA 꺾고 2년 만에 한국시리즈 진출",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_sn/0107_202611011858450055"
+        }
+      ]
+    },
+    {
+      "id": "원태인",
+      "rank": 8,
+      "keyword": "원태인",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '위기 상황 막아낸 원태인' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "위기 상황 막아낸 원태인",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8197749"
+        },
+        {
+          "title": "\"최원태 때문에\" 삼성, KT '비밀병기' 동반 선발복귀, 4차전서 맞불나[KS2 현장]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/04/GMYDOOJUGQZWKMDEGE4GIZLDMU/"
+        },
+        {
+          "title": "[사진]원태인, 김현수에게 동점 밀어내기 볼넷",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112904428"
+        }
+      ]
+    },
+    {
+      "id": "당기순이익",
+      "rank": 9,
+      "keyword": "당기순이익",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '하림, 3분기 영업이익 53억원…전년 대비 71% 감소' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "하림, 3분기 영업이익 53억원…전년 대비 71% 감소",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261104154900030"
+        },
+        {
+          "title": "하림, 3분기 영업익 54억원… 전년比 71%↓",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/distribution/food/2026/11/04/BK2O3FD7JFBR7BOMNVHQ7AB7IE/"
+        },
+        {
+          "title": "하림, 3Q 영업익 54억 전년比 71%↓…매출 4059억 2.0%↓",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261104_0003854710"
+        }
+      ]
+    },
+    {
+      "id": "이유리",
+      "rank": 10,
+      "keyword": "이유리",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이유리, 이사한 새집 최초 공개…“전문가 18명이 짐 정리, 15시간 걸렸다”' (서울경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이유리, 이사한 새집 최초 공개…“전문가 18명이 짐 정리, 15시간 걸렸다”",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20110100"
+        },
+        {
+          "title": "이유리, 띠동갑 ♥목사와 결혼하더니..17년만 새 집 공개 \"전문가 18인 도움\"(편스토랑)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/04/GE2TKY3EHA4TCZDGGI2DINZXGI/"
+        },
+        {
+          "title": "\"드레스룸도 대용량 여신\" 이유리, 연민정룩→'1279만뷰' 원피스 다 있다 '감탄'('편스토랑')",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017525"
         }
       ]
     }
