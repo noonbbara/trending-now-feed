@@ -1,258 +1,270 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-11-06T18:18:46.158Z",
+  "updatedAt": "2026-11-06T23:25:56.195Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "임형주",
+      "id": "치지직",
       "rank": 1,
-      "keyword": "임형주",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[OBITUARY] 더없이 따뜻했던 배우 최불암을 기리며, 배우 최불암(1939~2026)' (씨네21) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[OBITUARY] 더없이 따뜻했던 배우 최불암을 기리며, 배우 최불암(1939~2026)",
-          "source": "씨네21",
-          "url": "https://cine21.com/news/view/?mag_id=111222"
-        },
-        {
-          "title": "[지지대] 초록우산과 초록산타, 그리고 최불암",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261105580023"
-        },
-        {
-          "title": "나흘 내내 故최불암 곁 지킨 김혜수 “추모해 준 모든 분께 감사”",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25475818"
-        }
-      ]
-    },
-    {
-      "id": "겨울",
-      "rank": 2,
-      "keyword": "겨울",
+      "keyword": "치지직",
       "volumeLabel": "2000+",
-      "startedLabel": "4시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '갑자기 기온 뚝…내일 ’입동’ 서울 첫 영하권' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "적금",
+      "rank": 2,
+      "keyword": "적금",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '부산은행, BNK썸농구단 우승 기원 적금 출시…최고 4.9% 금리' (매일경제 마켓) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "갑자기 기온 뚝…내일 ’입동’ 서울 첫 영하권",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261106124747vqp"
+          "title": "부산은행, BNK썸농구단 우승 기원 적금 출시…최고 4.9% 금리",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1192202"
         },
         {
-          "title": "오늘 입동 추위… 서울 영하 1도, 춘천 대관령 등 영하 5도",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261106/134982236/2"
+          "title": "BNK부산은행, 'BNK썸농구단 우승기원적금' 출시...최고 연 4.9%",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611061036119498"
         },
         {
-          "title": "주말 서울 첫 영하권, '강풍·풍랑' 비상...휴일엔 첫눈",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0108_202611062145073803"
+          "title": "경기장 직관하면 금리 오른다… BNK부산은행, '농구 응원' 적금 선봬",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026110610503147434"
         }
       ]
     },
     {
-      "id": "디씨",
+      "id": "하지수",
       "rank": 3,
-      "keyword": "디씨",
-      "volumeLabel": "1000+",
-      "startedLabel": "4시간 전",
+      "keyword": "하지수",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Judge Promptly Blocks Work on Trump’s Triumphal Arch After It’s Approved' (The New York Times) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '이찬혁, 열애설 상대 하지수와 예능 포착… 손 꼭 잡고 스윙댄스' (한국일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Judge Promptly Blocks Work on Trump’s Triumphal Arch After It’s Approved",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-triumphal-arch-planning-commission.html"
+          "title": "이찬혁, 열애설 상대 하지수와 예능 포착… 손 꼭 잡고 스윙댄스",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026110507590005515"
         },
         {
-          "title": "Trump Launches Triumphal Arch Website Right As Judge Blocks Construction",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/politics/politics-news/trump-launches-arch-website-judge-shuts-down-construction-1235653978/"
+          "title": "‘주4일+월세 지원’ 꿈의 직장인데..‘소속사 대표’ 악뮤 “성 겹치면 입사 불가” ('전참시')",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/MRTDCNJTGE2GCODEHFSDQMLEMI/"
         },
         {
-          "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cq99zd93ryvko"
+          "title": "\"월세 지원에 주 4일 근무까지\"…이찬혁이 만든 기획사 파격 복지",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01859766645641456&mediaCodeNo=257"
         }
       ]
     },
     {
-      "id": "t1-kc",
+      "id": "토트넘-홋스퍼-fc",
       "rank": 4,
-      "keyword": "t1 kc",
+      "keyword": "토트넘 홋스퍼 fc",
       "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'BLG 벽 앞에 무너진 디플러스 기아…월즈 8강전서 0-3 패' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "BLG 벽 앞에 무너진 디플러스 기아…월즈 8강전서 0-3 패",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261106093800017"
-        },
-        {
-          "title": "[롤드컵]젠지, 4강서 중국 IG와 격돌…한중 자존심 대결",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261105_0003856558"
-        },
-        {
-          "title": "[롤드컵 톡톡] \"과거 기록 의미 없어, 다음 무대 중요\"... BLG '온' 러원쥔의 4강 출사표",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112905616"
-        }
-      ]
-    },
-    {
-      "id": "유튜버",
-      "rank": 5,
-      "keyword": "유튜버",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '자전거 여행 중 숨진 유튜버…\"마지막 여정을\" 친형의 글' (SBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "자전거 여행 중 숨진 유튜버…\"마지막 여정을\" 친형의 글",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833712"
-        },
-        {
-          "title": "‘볼리비아 사고 유튜버’ 故 진쓰레블, 마지막 영상 공개",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611061513013"
-        },
-        {
-          "title": "한국인 여행 유튜버, 남미서 뺑소니 사고로 사망…향년 33세",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11629265"
-        }
-      ]
-    },
-    {
-      "id": "노태문",
-      "rank": 6,
-      "keyword": "노태문",
-      "volumeLabel": "500+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '삼성전자 노태문 대표이사, 자사주 3천 주 매입‥6억 3천만 원 규모' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "삼성전자 노태문 대표이사, 자사주 3천 주 매입‥6억 3천만 원 규모",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6863796_36932.html"
-        },
-        {
-          "title": "노태문 삼성전자 사장, 증시 급락 속 자사주 6.3억원 어치 매입 \"책임경영\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261106_0003858472"
-        },
-        {
-          "title": "'20만전자' 무너지자…삼성전자 노태문, '3000주' 6억3000만원 규모 추가 매입",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261106000363"
-        }
-      ]
-    },
-    {
-      "id": "삼성증권",
-      "rank": 7,
-      "keyword": "삼성증권",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한미약품, 두 번째 'Bio Innovation Day' 개최···신약·AI 헬스케어 교류의 장' (녹색경제신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "한미약품, 두 번째 'Bio Innovation Day' 개최···신약·AI 헬스케어 교류의 장",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=354049"
-        },
-        {
-          "title": "한미약품·삼성증권, 유망 바이오벤처 투자 유치 지원 나선다",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20111140"
-        },
-        {
-          "title": "한미약품·삼성증권, 27일 바이오벤처·투자자 교류 행사 개최",
-          "source": "주간한국",
-          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7192626"
-        }
-      ]
-    },
-    {
-      "id": "일론-머스크",
-      "rank": 8,
-      "keyword": "일론 머스크",
-      "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '머스크, X에 ‘테슬라 태극기’ 공유…한국시장 1위 질주 ‘자축’' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“손흥민 발롱도르 축하 메시지는?” 묻자···케인, 활짝 웃으며 답했다' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "머스크, X에 ‘테슬라 태극기’ 공유…한국시장 1위 질주 ‘자축’",
+          "title": "“손흥민 발롱도르 축하 메시지는?” 묻자···케인, 활짝 웃으며 답했다",
           "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611062104001"
+          "url": "https://www.khan.co.kr/article/202611062132001"
         },
         {
-          "title": "E200 1000만원 낮춰 판매한 벤츠…BMW 제치고 2위 탈환",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20110290"
+          "title": "'일주일에 7억 2천만 원' \"단 1유로도 아깝지 않다!\" 바이에른 회네스, 케인 초대형 재계약에 대만족...발롱도르 수상자 향한 무한 신뢰 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/06/202611062039777851O"
         },
         {
-          "title": "“태극기에 테슬라 로고를 떡하니”…머스크가 올린 사진 ‘눈길’",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261106580392"
+          "title": "케인, 뮌헨과 두 시즌 연장 계약… 연봉 457억원 추정",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261107/134982588/2"
         }
       ]
     },
     {
-      "id": "화장실",
-      "rank": 9,
-      "keyword": "화장실",
-      "volumeLabel": "100+",
-      "startedLabel": "5시간 전",
+      "id": "vix",
+      "rank": 5,
+      "keyword": "vix",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '부산교통공사, 노포역 화장실 전국 75곳 중 동상…16번째 수상' (뉴스타운) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Phones 'explode' on Wall Street as 'steamroller' shows up for the AI tr…' (Reuters) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "부산교통공사, 노포역 화장실 전국 75곳 중 동상…16번째 수상",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721088"
+          "title": "Phones 'explode' on Wall Street as 'steamroller' shows up for the AI trade",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/wall-street-fear-gauge-jumps-most-since-liberation-day-ai-trade-stumbles-2026-11-05/"
         },
         {
-          "title": "벡스코 아름다운 화장실 국무총리상 수상 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/policy/2026/11/06/2026110613531167437"
+          "title": "Investors' fears are at their peak in the U.S. stock market. This is due to the sharp drop in artifi..",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/stock/12200729"
         },
         {
-          "title": "\"비싼 VIP 라운지 왜 가요? 여기가 명당인데\"…대통령상까지 받은 '전국 1위' 화장실 어디",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026110514373033168"
+          "title": "The VIX volatility index just spiked 70%. Here's what history suggests comes next.",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/article/the-vix-volatility-index-just-spiked-70-heres-what-history-suggests-comes-next-125333946.html"
+        }
+      ]
+    },
+    {
+      "id": "스페이스x",
+      "rank": 6,
+      "keyword": "스페이스x",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '美 민주당 압승 여파에 스페이스X 부도 위험 사상 최고치 By The Guru' (Investing.com 한국어) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "美 민주당 압승 여파에 스페이스X 부도 위험 사상 최고치 By The Guru",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2163176"
+        },
+        {
+          "title": "급락장 벗어난 스페이스X, 하루 만에 8.53% 반등… AI 사업 성장 기대와 규제 부담 교차",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=846380"
+        },
+        {
+          "title": "테슬라·스페이스X의 폭락...일론 머스크도 '직격탄' [굿모닝경제]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0134_202611060839595906"
+        }
+      ]
+    },
+    {
+      "id": "서영교",
+      "rank": 7,
+      "keyword": "서영교",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '李, 본인사건 수사 특검 ‘셀프 임명’ 할 수 있다' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "李, 본인사건 수사 특검 ‘셀프 임명’ 할 수 있다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/11/07/F3CQ5CKKLVGSNJZNGDMQKZPGTI/"
+        },
+        {
+          "title": "정청래의 ‘조희대 탄핵’ 주장이 대통령 공격인 이유…김웅의 분석",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11629487"
+        },
+        {
+          "title": "‘조작기소 특검’ 파견검사 20명에 수사권… “구법 적용 위헌 소지”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261106/134982618/2"
+        }
+      ]
+    },
+    {
+      "id": "송해",
+      "rank": 8,
+      "keyword": "송해",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '송해나, '이승철 주선' 소개팅에 \"술 별로 안 좋아했으면\"→이국주 \"네가?\" ('신랑수업2')' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "송해나, '이승철 주선' 소개팅에 \"술 별로 안 좋아했으면\"→이국주 \"네가?\" ('신랑수업2')",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/07/GYZDCYTFGQ4DMY3BME4TCMRYMY/"
+        },
+        {
+          "title": "디테일한 질문을 통해 가까워지는 해나&승우?! 그리고 타로 선생님 국주?!",
+          "source": "채널A",
+          "url": "https://ichannela.com/program/clip/000000558837.do"
+        },
+        {
+          "title": "송해나, 6살 연하 변호사와 소개팅…이승철 주선",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6346170"
+        }
+      ]
+    },
+    {
+      "id": "옥스퍼드-시티-fc-대-레스터-시티",
+      "rank": 9,
+      "keyword": "옥스퍼드 시티 fc 대 레스터 시티",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Oxford City 2-4 Leicester City: League One side advance in FA Cup' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Oxford City 2-4 Leicester City: League One side advance in FA Cup",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c98rz2612n2nt"
+        },
+        {
+          "title": "Josh Ashby slots in the goal for Oxford City",
+          "source": "ESPN",
+          "url": "https://www.espn.com/video/clip/_/id/50401800/josh-ashby-slots-goal-oxford-city"
+        },
+        {
+          "title": "Pollock 'meant' goal from corner as Hoops bow out of cup",
+          "source": "Yahoo",
+          "url": "https://ca.sports.yahoo.com/news/pollock-meant-goal-corner-hoops-230031534.html"
+        }
+      ]
+    },
+    {
+      "id": "박민지",
+      "rank": 10,
+      "keyword": "박민지",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '귀국일 미룬 박민지·임진영·강채연, 나란히 합격권…JLPGA 프로테스트 최종일 승부' (이데일리) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "귀국일 미룬 박민지·임진영·강채연, 나란히 합격권…JLPGA 프로테스트 최종일 승부",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=05854806645643096&mediaCodeNo=257"
+        },
+        {
+          "title": "박민지, 'JLPGA 최종 프로테스트' 첫날 단독 2위…\"새로운 환경에서 도전 기대\"",
+          "source": "골프한국",
+          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022539"
+        },
+        {
+          "title": "\"후회하기 싫었다\"…박민지, 日서 다시 신인으로",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026110211071"
         }
       ]
     }
