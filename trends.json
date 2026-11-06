@@ -1,238 +1,258 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-11-06T11:24:16.452Z",
+  "updatedAt": "2026-11-06T18:18:46.158Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "퇴직",
+      "id": "임형주",
       "rank": 1,
-      "keyword": "퇴직",
-      "volumeLabel": "20000+",
+      "keyword": "임형주",
+      "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '정부, 퇴직연금 사업자와 제도 개편 논의…기금형 연금 안착 지원' (전기신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[OBITUARY] 더없이 따뜻했던 배우 최불암을 기리며, 배우 최불암(1939~2026)' (씨네21) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "정부, 퇴직연금 사업자와 제도 개편 논의…기금형 연금 안착 지원",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374453"
+          "title": "[OBITUARY] 더없이 따뜻했던 배우 최불암을 기리며, 배우 최불암(1939~2026)",
+          "source": "씨네21",
+          "url": "https://cine21.com/news/view/?mag_id=111222"
         },
         {
-          "title": "연봉 7억인데 일 안하는 은행연합회장, 차라리 정치인에게?",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/06/2026110680001.html"
+          "title": "[지지대] 초록우산과 초록산타, 그리고 최불암",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261105580023"
         },
         {
-          "title": "판 커지는 증권사 퇴직연금, 수익률·편의성 경쟁 '활발'",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261105000148"
+          "title": "나흘 내내 故최불암 곁 지킨 김혜수 “추모해 준 모든 분께 감사”",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25475818"
         }
       ]
     },
     {
-      "id": "티빙",
+      "id": "겨울",
       "rank": 2,
-      "keyword": "티빙",
+      "keyword": "겨울",
       "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "4시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '합치겠다던 티빙·웨이브, 3년째 평행선…토종 OTT 연합 ’안갯속’ By EBN' (Investing.com 한국어) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '갑자기 기온 뚝…내일 ’입동’ 서울 첫 영하권' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "합치겠다던 티빙·웨이브, 3년째 평행선…토종 OTT 연합 ’안갯속’ By EBN",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2163527"
+          "title": "갑자기 기온 뚝…내일 ’입동’ 서울 첫 영하권",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261106124747vqp"
         },
         {
-          "title": "티빙·웨이브 합병 3년째 답보…방미통위 지원도 한계",
-          "source": "디지털투데이",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712272"
-        },
-        {
-          "title": "하나증권 \"CJ ENM, 간만의 TV 광고 회복세…목표가 상향\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261106026900008"
-        }
-      ]
-    },
-    {
-      "id": "안양-정관장-대-서울-sk",
-      "rank": 3,
-      "keyword": "안양 정관장 대 서울 sk",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "야구중계",
-      "rank": 4,
-      "keyword": "야구중계",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "구자욱",
-      "rank": 5,
-      "keyword": "구자욱",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[사진] 구자욱, 리드폭 늘리고 더그아웃 분위기 업' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[사진] 구자욱, 리드폭 늘리고 더그아웃 분위기 업",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/06/GU3TOYLGG5RDIOBXMQ3WCYRQGQ/"
-        },
-        {
-          "title": "[사진]2타점 적시타 환호하는 구자욱",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/06/HAZDMY3DMQYTGOLEHA3TOOLEGU/"
-        },
-        {
-          "title": "부상에 체력 이슈에도 헌신…삼성 베테랑 강민호·구자욱의 투혼[KS]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/baseball/6344305"
-        }
-      ]
-    },
-    {
-      "id": "tving",
-      "rank": 6,
-      "keyword": "tving",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "kt-삼성",
-      "rank": 7,
-      "keyword": "kt 삼성",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'KT·삼성전자, AI로 고속철도 통신 끊김 29% 줄였다' (전기신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "KT·삼성전자, AI로 고속철도 통신 끊김 29% 줄였다",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374397"
-        },
-        {
-          "title": "“열차 안이라 잘 안들려”…KT, 차내 통신 끊김 막을 기술 개발",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20110805"
-        },
-        {
-          "title": "KT·삼성전자, 시속 250km 고속철 '통신 끊김' AI로 잡는다",
-          "source": "AI타임스",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217041"
-        }
-      ]
-    },
-    {
-      "id": "배트맨",
-      "rank": 8,
-      "keyword": "배트맨",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Scarlett Johansson Breaks Silence on ‘The Batman Part II’ Role: “It Was…' (The Hollywood Reporter) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Scarlett Johansson Breaks Silence on ‘The Batman Part II’ Role: “It Was Very Hard to Figure Out”",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/scarlett-johansson-on-the-batman-part-ii-role-1236748021/"
-        },
-        {
-          "title": "Scarlett Johansson Says Batman Role Gave Her ‘a Lot of Existential Angst’",
-          "source": "Vulture",
-          "url": "https://www.vulture.com/article/scarlett-johansson-batman-existential-angst.html"
-        },
-        {
-          "title": "Mystery around 'The Batman: Part II' is growing. Scarlett Johansson has added to the suspense.",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/entertainment/movies/article/mystery-around-the-batman-part-ii-is-growing-scarlett-johansson-has-added-to-the-suspense-145208330.html"
-        }
-      ]
-    },
-    {
-      "id": "병사",
-      "rank": 9,
-      "keyword": "병사",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘강제 팔굽혀펴기’ 100회로 근육 녹게 한 軍간부, 재판 넘겨져' (동아일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘강제 팔굽혀펴기’ 100회로 근육 녹게 한 軍간부, 재판 넘겨져",
+          "title": "오늘 입동 추위… 서울 영하 1도, 춘천 대관령 등 영하 5도",
           "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261106/134978709/1"
+          "url": "https://www.donga.com/news/Society/article/all/20261106/134982236/2"
         },
         {
-          "title": "'강제 팔굽혀펴기'로 병사 근육 녹인 군 간부 가혹행위죄 기소",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261106074000062"
-        },
-        {
-          "title": "콜라색 소변 나올 때까지 '강제 팔굽혀펴기'…군 간부 기소 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/index.php/society/2026/11/06/2026110617374978702"
+          "title": "주말 서울 첫 영하권, '강풍·풍랑' 비상...휴일엔 첫눈",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0108_202611062145073803"
         }
       ]
     },
     {
-      "id": "한국시리즈-3차전",
-      "rank": 10,
-      "keyword": "한국시리즈 3차전",
+      "id": "디씨",
+      "rank": 3,
+      "keyword": "디씨",
+      "volumeLabel": "1000+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Judge Promptly Blocks Work on Trump’s Triumphal Arch After It’s Approved' (The New York Times) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Judge Promptly Blocks Work on Trump’s Triumphal Arch After It’s Approved",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-triumphal-arch-planning-commission.html"
+        },
+        {
+          "title": "Trump Launches Triumphal Arch Website Right As Judge Blocks Construction",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/politics/politics-news/trump-launches-arch-website-judge-shuts-down-construction-1235653978/"
+        },
+        {
+          "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cq99zd93ryvko"
+        }
+      ]
+    },
+    {
+      "id": "t1-kc",
+      "rank": 4,
+      "keyword": "t1 kc",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'BLG 벽 앞에 무너진 디플러스 기아…월즈 8강전서 0-3 패' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "BLG 벽 앞에 무너진 디플러스 기아…월즈 8강전서 0-3 패",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261106093800017"
+        },
+        {
+          "title": "[롤드컵]젠지, 4강서 중국 IG와 격돌…한중 자존심 대결",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261105_0003856558"
+        },
+        {
+          "title": "[롤드컵 톡톡] \"과거 기록 의미 없어, 다음 무대 중요\"... BLG '온' 러원쥔의 4강 출사표",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112905616"
+        }
+      ]
+    },
+    {
+      "id": "유튜버",
+      "rank": 5,
+      "keyword": "유튜버",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '자전거 여행 중 숨진 유튜버…\"마지막 여정을\" 친형의 글' (SBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "자전거 여행 중 숨진 유튜버…\"마지막 여정을\" 친형의 글",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833712"
+        },
+        {
+          "title": "‘볼리비아 사고 유튜버’ 故 진쓰레블, 마지막 영상 공개",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611061513013"
+        },
+        {
+          "title": "한국인 여행 유튜버, 남미서 뺑소니 사고로 사망…향년 33세",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11629265"
+        }
+      ]
+    },
+    {
+      "id": "노태문",
+      "rank": 6,
+      "keyword": "노태문",
+      "volumeLabel": "500+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '삼성전자 노태문 대표이사, 자사주 3천 주 매입‥6억 3천만 원 규모' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "삼성전자 노태문 대표이사, 자사주 3천 주 매입‥6억 3천만 원 규모",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6863796_36932.html"
+        },
+        {
+          "title": "노태문 삼성전자 사장, 증시 급락 속 자사주 6.3억원 어치 매입 \"책임경영\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261106_0003858472"
+        },
+        {
+          "title": "'20만전자' 무너지자…삼성전자 노태문, '3000주' 6억3000만원 규모 추가 매입",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261106000363"
+        }
+      ]
+    },
+    {
+      "id": "삼성증권",
+      "rank": 7,
+      "keyword": "삼성증권",
+      "volumeLabel": "200+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '한미약품, 두 번째 'Bio Innovation Day' 개최···신약·AI 헬스케어 교류의 장' (녹색경제신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "한미약품, 두 번째 'Bio Innovation Day' 개최···신약·AI 헬스케어 교류의 장",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=354049"
+        },
+        {
+          "title": "한미약품·삼성증권, 유망 바이오벤처 투자 유치 지원 나선다",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20111140"
+        },
+        {
+          "title": "한미약품·삼성증권, 27일 바이오벤처·투자자 교류 행사 개최",
+          "source": "주간한국",
+          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7192626"
+        }
+      ]
+    },
+    {
+      "id": "일론-머스크",
+      "rank": 8,
+      "keyword": "일론 머스크",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한국시리즈 3차전, 전설과 무대가 만난다..... 이승엽 시구·김소현 애국가…야구팬 기대감 고조' (제민일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '머스크, X에 ‘테슬라 태극기’ 공유…한국시장 1위 질주 ‘자축’' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "한국시리즈 3차전, 전설과 무대가 만난다..... 이승엽 시구·김소현 애국가…야구팬 기대감 고조",
-          "source": "제민일보",
-          "url": ""
+          "title": "머스크, X에 ‘테슬라 태극기’ 공유…한국시장 1위 질주 ‘자축’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611062104001"
         },
         {
-          "title": "[사진]선취 타점 힐리어드, 시작하자마자 KT가 앞서간다",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/06/ME3TCMDCMEZDMY3EGM4DMMBZGU/"
+          "title": "E200 1000만원 낮춰 판매한 벤츠…BMW 제치고 2위 탈환",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20110290"
         },
         {
-          "title": "'국민타자' 이승엽, 삼성라이온즈파크에 뜬다…3차전 시구[KS]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261106_0003858363"
+          "title": "“태극기에 테슬라 로고를 떡하니”…머스크가 올린 사진 ‘눈길’",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261106580392"
+        }
+      ]
+    },
+    {
+      "id": "화장실",
+      "rank": 9,
+      "keyword": "화장실",
+      "volumeLabel": "100+",
+      "startedLabel": "5시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '부산교통공사, 노포역 화장실 전국 75곳 중 동상…16번째 수상' (뉴스타운) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "부산교통공사, 노포역 화장실 전국 75곳 중 동상…16번째 수상",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721088"
+        },
+        {
+          "title": "벡스코 아름다운 화장실 국무총리상 수상 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/11/06/2026110613531167437"
+        },
+        {
+          "title": "\"비싼 VIP 라운지 왜 가요? 여기가 명당인데\"…대통령상까지 받은 '전국 1위' 화장실 어디",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026110514373033168"
         }
       ]
     }
