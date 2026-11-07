@@ -1,286 +1,270 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-11-07T03:06:14.651Z",
+  "updatedAt": "2026-11-07T10:37:15.244Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "잠수함",
+      "id": "전유성",
       "rank": 1,
-      "keyword": "잠수함",
-      "volumeLabel": "2000+",
+      "keyword": "전유성",
+      "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한국 원잠 사업 스타트, 암초는 美 민주당' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''불후의 명곡', 故전유성 특집…애제자 김신영 스페셜 MC' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "한국 원잠 사업 스타트, 암초는 美 민주당",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/diplomacy-defense/2026/11/07/H3XJMEDRAVFCBEQPI3MPYP4PAQ/"
-        },
-        {
-          "title": "한국형 핵잠, 타당성조사 면제…내년 착수 속도내기",
+          "title": "'불후의 명곡', 故전유성 특집…애제자 김신영 스페셜 MC",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261106104100504"
+          "url": "https://www.yna.co.kr/view/AKR20261106069500005"
         },
         {
-          "title": "\"존재 그 자체가 위협\"‥'8천 톤급' 국산 핵잠수함 내년 개발 착수",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863817_37004.html"
+          "title": "'불후' 이찬원, 김신영과 '행님아'로 정통 개그 도전 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110717007262146"
+        },
+        {
+          "title": "이경실-조혜련-안영미, ‘분장실의 이 선생님’으로 뭉친다 “이혼 앤 재혼” (불후)",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523946"
         }
       ]
     },
     {
-      "id": "보험",
+      "id": "혈당",
       "rank": 2,
-      "keyword": "보험",
+      "keyword": "혈당",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"혈당 재려 손 잡았는데\"...119구급대원 폭행한 60대 벌금 700만원' (KBC광주방송) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"혈당 재려 손 잡았는데\"...119구급대원 폭행한 60대 벌금 700만원",
+          "source": "KBC광주방송",
+          "url": "https://www.ikbc.co.kr/article/view/kbc202611070005"
+        },
+        {
+          "title": "\"뭐하냐\" 소리치며 얼굴 '퍽'…구급대원 때린 60대 벌금형 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/07/2026110713433748825"
+        },
+        {
+          "title": "쓰러진 환자 혈당 확인하려다 봉변…119구급대원 때린 60대",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611070756001"
+        }
+      ]
+    },
+    {
+      "id": "젠슨황",
+      "rank": 3,
+      "keyword": "젠슨황",
+      "volumeLabel": "2000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“젠슨 황 ‘中스파이 의혹’ 여성과 연인관계”…美정부 메모 파장' (중앙일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“젠슨 황 ‘中스파이 의혹’ 여성과 연인관계”…美정부 메모 파장",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25476575"
+        },
+        {
+          "title": "\"美 정보기관, 젠슨 황-'스파이 의혹' 사업가 '연인 사이' 판단\"(종합)",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/usa-canada/6346515"
+        },
+        {
+          "title": "젠슨 황, 중국 스파이 의심 여성과 연인 관계였나···미 정보당국 메모에 드러난 새로운 사실",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611071346001"
+        }
+      ]
+    },
+    {
+      "id": "하희라",
+      "rank": 4,
+      "keyword": "하희라",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“혼자 늙는 것도 서러운데, 다 가져가야만 했냐”…고령 1인가구 보험료 ‘쑥’' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''살림남', 최수종은 러브레터...은지원은 변명레터 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“혼자 늙는 것도 서러운데, 다 가져가야만 했냐”…고령 1인가구 보험료 ‘쑥’",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/economy/12201283"
+          "title": "'살림남', 최수종은 러브레터...은지원은 변명레터 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110709347264332"
         },
         {
-          "title": "4년 새 60% 폭증…소득보다 2.7배 더 뛴 60세 이상 1인 가구 보험료",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261107503545?OutUrl=google"
-        },
-        {
-          "title": "혼자 사는 어르신, 보험료 부담 4년새 60% 증가",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/economy/view/2026/11/605557/"
-        }
-      ]
-    },
-    {
-      "id": "유언",
-      "rank": 3,
-      "keyword": "유언",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '삼남매 두고 \"전재산은 사위에\" 유언장 남긴 父 속사정' (이데일리) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "삼남매 두고 \"전재산은 사위에\" 유언장 남긴 父 속사정",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=06064726645642768&mediaCodeNo=257"
-        },
-        {
-          "title": "“이 돈, 내연녀줘” 남편 마지막 유언...아내는 진짜 1억 뺏겼다",
+          "title": "최수종♥하희라도 싸운다..유일한 갈등 원인 '이것' 때문에 ('살림남')",
           "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261106130047620"
+          "url": "https://www.koreadaily.com/article/20261106152251067"
         },
         {
-          "title": "“삼남매 말고 사위에 전재산” 치매 아빠의 유언장",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11629202"
+          "title": "이요원 \"남편과 24시간 밀착? 정신건강에 안 좋아\"... 최수종·하희라와 극과극 (살림남)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/05/MM3DIZDEMZSDAZRSGAYWMNRRMI/"
         }
       ]
     },
     {
-      "id": "기뢰",
-      "rank": 4,
-      "keyword": "기뢰",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이란 연계 선박 4척, '공격 위협' 후 해저케이블 주변 포착' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "이란 연계 선박 4척, '공격 위협' 후 해저케이블 주변 포착",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261107023800009"
-        },
-        {
-          "title": "이란 연계 선박들, 호르무즈 오만만 해저 케이블 위 '수상한 배회'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/middleeast-africa/6346328"
-        },
-        {
-          "title": "이란 \"호르무즈 해협서 유조선 2척 기뢰 충돌‥미 드론도 격추\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6863853_36925.html"
-        }
-      ]
-    },
-    {
-      "id": "미래에셋",
+      "id": "김영철",
       "rank": 5,
-      "keyword": "미래에셋",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "keyword": "김영철",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '미래에셋증권, 해킹으로 고객 3천여 명·임직원 3만여 명 정보 유출' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"치킨 사 오겠다던 형, 그날 세상 떠나\"…김영철이 떠올린 35년 전 비극 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "미래에셋증권, 해킹으로 고객 3천여 명·임직원 3만여 명 정보 유출",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6863876_36932.html"
+          "title": "\"치킨 사 오겠다던 형, 그날 세상 떠나\"…김영철이 떠올린 35년 전 비극 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110710284750683"
         },
         {
-          "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261107025000011"
+          "title": "김영철·정선희, '재혼황후' 됐다..\"2시간 8분 통화, 이봉주 마라톤 기록 쯤\"",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112905732"
         },
         {
-          "title": "금융권 580여 개사 보안 전수점검…\"보안체계 전면 쇄신\"",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975098"
+          "title": "김영철 친형, 치킨 사러 나갔다가 교통사고⋯\"엄마는 어떻게 버텼을까\"",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2645327"
         }
       ]
     },
     {
-      "id": "new-zealand-vs-india",
+      "id": "불꽃축제-부산",
       "rank": 6,
-      "keyword": "new zealand vs india",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "keyword": "불꽃축제 부산",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'NZ vs Ind, 2nd ODI, Live Blog - Windy Wellington is rainy too' (Cricinfo) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '밤 하늘과 바다 수놓은 화려한 불꽃...'부산불꽃축제' [현장영상+]' (YTN) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "NZ vs Ind, 2nd ODI, Live Blog - Windy Wellington is rainy too",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-2nd-odi-1539438/live-match-blog"
+          "title": "밤 하늘과 바다 수놓은 화려한 불꽃...'부산불꽃축제' [현장영상+]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0115_202611071909593781"
         },
         {
-          "title": "India vs New Zealand | Unchanged visitors opt to bowl",
-          "source": "Deccan Herald",
-          "url": "https://www.deccanherald.com/sports/cricket/india-vs-new-zealand-unchanged-visitors-opt-to-bowl-4210906"
+          "title": "오늘 밤 부산 광안리서 불꽃축제… 100만 인파에 안전요원 7000명 투입",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/regional/2026/11/07/6PYYMYSQRBGXVKG2P2WXIWLAOM/"
         },
         {
-          "title": "Why Wellington's Weather Could Test India's Cricket Superstars",
-          "source": "The Times of India",
-          "url": "https://timesofindia.indiatimes.com/short-videos/briefs/why-wellingtons-weather-could-test-indias-cricket-superstars/videoshow/135618131.cms"
+          "title": "KT, 부산불꽃축제 특별 소통 대책 가동",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20261106013600013"
         }
       ]
     },
     {
-      "id": "blg",
+      "id": "수원-kt-대-대구-한국가스공사",
       "rank": 7,
-      "keyword": "blg",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "keyword": "수원 kt 대 대구 한국가스공사",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Karmine Corp vs T1: Why T1 Will Crush KC at Worlds 2026' (The Loadout) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Karmine Corp vs T1: Why T1 Will Crush KC at Worlds 2026",
-          "source": "The Loadout",
-          "url": "https://theloadout.com/karmine-corp-vs-t1"
-        },
-        {
-          "title": "AEW's Claudio Castagnoli Calls League of Legends ‘the Best Sport to Watch’",
-          "source": "The Sporting Tribune",
-          "url": "https://www.thesportingtribune.com/2026/11/06/claudio-castagnoli-worlds-2026-aew-league-of-legends"
-        },
-        {
-          "title": "T1 became the final Worlds 2026 semifinalist after beating Karmine Corp",
-          "source": "Sheep Esports",
-          "url": "https://www.sheepesports.com/en/articles/t1-become-the-final-worlds-2026-semifinalist-after-beating-karmine-corp/en"
-        }
-      ]
+      "newsSignals": []
     },
     {
-      "id": "지스타",
+      "id": "나탈리-하프",
       "rank": 8,
-      "keyword": "지스타",
+      "keyword": "나탈리 하프",
       "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'AGF 2026, 참가사 106곳 역대 최대…전년보다 49% 증가' (서울경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Trump Hands Natalie Harp New Deeply Personal Role' (The Daily Beast) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "AGF 2026, 참가사 106곳 역대 최대…전년보다 49% 증가",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20110777"
+          "title": "Trump Hands Natalie Harp New Deeply Personal Role",
+          "source": "The Daily Beast",
+          "url": "https://www.thedailybeast.com/trump-hands-natalie-harp-new-deeply-personal-role"
         },
         {
-          "title": "\"지스타 대신 AGF로 간다\"…'오타쿠'에 베팅하는 게임사들",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026110614741"
+          "title": "Trump’s constant companion aide Natalie Harp seems to have taken on a more personal role",
+          "source": "The Independent",
+          "url": "https://www.the-independent.com/news/world/americas/us-politics/trump-mobile-phone-natalie-harp-b3079434.html"
         },
         {
-          "title": "'귀멸의 칼날 무한성편' 막차 탔다…'AGF 2026' 참가사 106개 확정 최대 규모",
-          "source": "https://cinejin.co.kr/ko-kr",
-          "url": "https://cinejin.co.kr/article/395036564963"
+          "title": "Trump’s Favorite Aide Has Taken Control of His Personal Cell Phone",
+          "source": "The New Republic",
+          "url": "https://newrepublic.com/post/217623/donald-trump-natalie-harp-taken-control-cell-phone"
         }
       ]
     },
     {
-      "id": "수도권제2순환고속도로",
+      "id": "kgma-2026",
       "rank": 9,
-      "keyword": "수도권제2순환고속도로",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한강 아래 첫 도로터널 김포방향 굴진…국내 최대 TBM 적용' (전기신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "한강 아래 첫 도로터널 김포방향 굴진…국내 최대 TBM 적용",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374468"
-        },
-        {
-          "title": "2029년 개통, 김포~파주 고속도로 한강터널 김포방향 굴착 본격화",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611061408001"
-        },
-        {
-          "title": "수도권 제2순환고속도로 한강터널 굴진 완료…한강 아래 첫 도로터널",
-          "source": "부산일보",
-          "url": "https://www.busan.com/view/busan/view.php?code=2026110622223148541"
-        }
-      ]
-    },
-    {
-      "id": "이주승",
-      "rank": 10,
-      "keyword": "이주승",
+      "keyword": "kgma 2026",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이주승, 영화감독으로 승승장구 \"상금 1억 우승 이어 영화제 심사위원\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Korean Grand Music Awards 2026 Winners: Full List' (InMusic Blog) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이주승, 영화감독으로 승승장구 \"상금 1억 우승 이어 영화제 심사위원\" - 머니투데이",
+          "title": "Korean Grand Music Awards 2026 Winners: Full List",
+          "source": "InMusic Blog",
+          "url": "https://inmusicblog.com/k-pop/kgma-2026-winners-full-list/"
+        },
+        {
+          "title": "Stars Shine On Red Carpet At 2026 Korea Grand Music Awards (KGMA) Day 1",
+          "source": "Soompi",
+          "url": "https://www.soompi.com/article/1884817wpp/stars-shine-on-red-carpet-at-2026-korea-grand-music-awards-kgma-day-1"
+        },
+        {
+          "title": "Korean Grand Music Awards 2026: Lineup, Hosts and How to Watch",
+          "source": "InMusic Blog",
+          "url": "https://inmusicblog.com/k-pop/korean-grand-music-awards-2026-lineup-schedule-watch/"
+        }
+      ]
+    },
+    {
+      "id": "정철원",
+      "rank": 10,
+      "keyword": "정철원",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '정철원, ‘러브캐처’ 김지연 가정폭력·외도 주장에 “사실관계 다투는 중”' (매일경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "정철원, ‘러브캐처’ 김지연 가정폭력·외도 주장에 “사실관계 다투는 중”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12201436"
+        },
+        {
+          "title": "미래 연봉까지 재산분할?…롯데 정철원, 전처 김지연 폭로에 입 열었다 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110705363964338"
+          "url": "https://www.mt.co.kr/society/2026/11/06/2026110619540321491"
         },
         {
-          "title": "기안84, 이주승 AI 여친에 눈독..\"조심해, 바로 넘어온다\"",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/07/GQ4DCNTBGUZDQMTDGQ4GCYZZGQ/"
-        },
-        {
-          "title": "‘이감독’ 이주승, 의문의 남자 만났다…누구? (나 혼자 산다)",
-          "source": "MBC",
-          "url": "https://m.imbc.com/enews/view/523914"
+          "title": "'외도의혹' 정철원 \"양육권 포기\"..'전처' 김지연, 아들과 \"야호~\" 셀카자랑[핫피플]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112905745"
         }
       ]
     }
