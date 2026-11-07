@@ -1,270 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-11-06T23:25:56.195Z",
+  "updatedAt": "2026-11-07T03:06:14.651Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "치지직",
+      "id": "잠수함",
       "rank": 1,
-      "keyword": "치지직",
+      "keyword": "잠수함",
       "volumeLabel": "2000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "summary": "급상승 시점에 '한국 원잠 사업 스타트, 암초는 美 민주당' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": []
+      "newsSignals": [
+        {
+          "title": "한국 원잠 사업 스타트, 암초는 美 민주당",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/diplomacy-defense/2026/11/07/H3XJMEDRAVFCBEQPI3MPYP4PAQ/"
+        },
+        {
+          "title": "한국형 핵잠, 타당성조사 면제…내년 착수 속도내기",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261106104100504"
+        },
+        {
+          "title": "\"존재 그 자체가 위협\"‥'8천 톤급' 국산 핵잠수함 내년 개발 착수",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863817_37004.html"
+        }
+      ]
     },
     {
-      "id": "적금",
+      "id": "보험",
       "rank": 2,
-      "keyword": "적금",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '부산은행, BNK썸농구단 우승 기원 적금 출시…최고 4.9% 금리' (매일경제 마켓) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "부산은행, BNK썸농구단 우승 기원 적금 출시…최고 4.9% 금리",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1192202"
-        },
-        {
-          "title": "BNK부산은행, 'BNK썸농구단 우승기원적금' 출시...최고 연 4.9%",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611061036119498"
-        },
-        {
-          "title": "경기장 직관하면 금리 오른다… BNK부산은행, '농구 응원' 적금 선봬",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026110610503147434"
-        }
-      ]
-    },
-    {
-      "id": "하지수",
-      "rank": 3,
-      "keyword": "하지수",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이찬혁, 열애설 상대 하지수와 예능 포착… 손 꼭 잡고 스윙댄스' (한국일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "이찬혁, 열애설 상대 하지수와 예능 포착… 손 꼭 잡고 스윙댄스",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026110507590005515"
-        },
-        {
-          "title": "‘주4일+월세 지원’ 꿈의 직장인데..‘소속사 대표’ 악뮤 “성 겹치면 입사 불가” ('전참시')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/MRTDCNJTGE2GCODEHFSDQMLEMI/"
-        },
-        {
-          "title": "\"월세 지원에 주 4일 근무까지\"…이찬혁이 만든 기획사 파격 복지",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01859766645641456&mediaCodeNo=257"
-        }
-      ]
-    },
-    {
-      "id": "토트넘-홋스퍼-fc",
-      "rank": 4,
-      "keyword": "토트넘 홋스퍼 fc",
-      "volumeLabel": "500+",
+      "keyword": "보험",
+      "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“손흥민 발롱도르 축하 메시지는?” 묻자···케인, 활짝 웃으며 답했다' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“혼자 늙는 것도 서러운데, 다 가져가야만 했냐”…고령 1인가구 보험료 ‘쑥’' (매일경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“손흥민 발롱도르 축하 메시지는?” 묻자···케인, 활짝 웃으며 답했다",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611062132001"
-        },
-        {
-          "title": "'일주일에 7억 2천만 원' \"단 1유로도 아깝지 않다!\" 바이에른 회네스, 케인 초대형 재계약에 대만족...발롱도르 수상자 향한 무한 신뢰 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/06/202611062039777851O"
-        },
-        {
-          "title": "케인, 뮌헨과 두 시즌 연장 계약… 연봉 457억원 추정",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20261107/134982588/2"
-        }
-      ]
-    },
-    {
-      "id": "vix",
-      "rank": 5,
-      "keyword": "vix",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Phones 'explode' on Wall Street as 'steamroller' shows up for the AI tr…' (Reuters) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Phones 'explode' on Wall Street as 'steamroller' shows up for the AI trade",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/wall-street-fear-gauge-jumps-most-since-liberation-day-ai-trade-stumbles-2026-11-05/"
-        },
-        {
-          "title": "Investors' fears are at their peak in the U.S. stock market. This is due to the sharp drop in artifi..",
+          "title": "“혼자 늙는 것도 서러운데, 다 가져가야만 했냐”…고령 1인가구 보험료 ‘쑥’",
           "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/stock/12200729"
+          "url": "https://www.mk.co.kr/news/economy/12201283"
         },
         {
-          "title": "The VIX volatility index just spiked 70%. Here's what history suggests comes next.",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/article/the-vix-volatility-index-just-spiked-70-heres-what-history-suggests-comes-next-125333946.html"
+          "title": "4년 새 60% 폭증…소득보다 2.7배 더 뛴 60세 이상 1인 가구 보험료",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261107503545?OutUrl=google"
+        },
+        {
+          "title": "혼자 사는 어르신, 보험료 부담 4년새 60% 증가",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/economy/view/2026/11/605557/"
         }
       ]
     },
     {
-      "id": "스페이스x",
-      "rank": 6,
-      "keyword": "스페이스x",
-      "volumeLabel": "200+",
+      "id": "유언",
+      "rank": 3,
+      "keyword": "유언",
+      "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '美 민주당 압승 여파에 스페이스X 부도 위험 사상 최고치 By The Guru' (Investing.com 한국어) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '삼남매 두고 \"전재산은 사위에\" 유언장 남긴 父 속사정' (이데일리) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "美 민주당 압승 여파에 스페이스X 부도 위험 사상 최고치 By The Guru",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2163176"
-        },
-        {
-          "title": "급락장 벗어난 스페이스X, 하루 만에 8.53% 반등… AI 사업 성장 기대와 규제 부담 교차",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=846380"
-        },
-        {
-          "title": "테슬라·스페이스X의 폭락...일론 머스크도 '직격탄' [굿모닝경제]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202611060839595906"
-        }
-      ]
-    },
-    {
-      "id": "서영교",
-      "rank": 7,
-      "keyword": "서영교",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '李, 본인사건 수사 특검 ‘셀프 임명’ 할 수 있다' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "李, 본인사건 수사 특검 ‘셀프 임명’ 할 수 있다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/11/07/F3CQ5CKKLVGSNJZNGDMQKZPGTI/"
-        },
-        {
-          "title": "정청래의 ‘조희대 탄핵’ 주장이 대통령 공격인 이유…김웅의 분석",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11629487"
-        },
-        {
-          "title": "‘조작기소 특검’ 파견검사 20명에 수사권… “구법 적용 위헌 소지”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261106/134982618/2"
-        }
-      ]
-    },
-    {
-      "id": "송해",
-      "rank": 8,
-      "keyword": "송해",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '송해나, '이승철 주선' 소개팅에 \"술 별로 안 좋아했으면\"→이국주 \"네가?\" ('신랑수업2')' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "송해나, '이승철 주선' 소개팅에 \"술 별로 안 좋아했으면\"→이국주 \"네가?\" ('신랑수업2')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/07/GYZDCYTFGQ4DMY3BME4TCMRYMY/"
-        },
-        {
-          "title": "디테일한 질문을 통해 가까워지는 해나&승우?! 그리고 타로 선생님 국주?!",
-          "source": "채널A",
-          "url": "https://ichannela.com/program/clip/000000558837.do"
-        },
-        {
-          "title": "송해나, 6살 연하 변호사와 소개팅…이승철 주선",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6346170"
-        }
-      ]
-    },
-    {
-      "id": "옥스퍼드-시티-fc-대-레스터-시티",
-      "rank": 9,
-      "keyword": "옥스퍼드 시티 fc 대 레스터 시티",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Oxford City 2-4 Leicester City: League One side advance in FA Cup' (BBC) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Oxford City 2-4 Leicester City: League One side advance in FA Cup",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c98rz2612n2nt"
-        },
-        {
-          "title": "Josh Ashby slots in the goal for Oxford City",
-          "source": "ESPN",
-          "url": "https://www.espn.com/video/clip/_/id/50401800/josh-ashby-slots-goal-oxford-city"
-        },
-        {
-          "title": "Pollock 'meant' goal from corner as Hoops bow out of cup",
-          "source": "Yahoo",
-          "url": "https://ca.sports.yahoo.com/news/pollock-meant-goal-corner-hoops-230031534.html"
-        }
-      ]
-    },
-    {
-      "id": "박민지",
-      "rank": 10,
-      "keyword": "박민지",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '귀국일 미룬 박민지·임진영·강채연, 나란히 합격권…JLPGA 프로테스트 최종일 승부' (이데일리) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "귀국일 미룬 박민지·임진영·강채연, 나란히 합격권…JLPGA 프로테스트 최종일 승부",
+          "title": "삼남매 두고 \"전재산은 사위에\" 유언장 남긴 父 속사정",
           "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=05854806645643096&mediaCodeNo=257"
+          "url": "https://www.edaily.co.kr/News/Read?newsId=06064726645642768&mediaCodeNo=257"
         },
         {
-          "title": "박민지, 'JLPGA 최종 프로테스트' 첫날 단독 2위…\"새로운 환경에서 도전 기대\"",
-          "source": "골프한국",
-          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022539"
+          "title": "“이 돈, 내연녀줘” 남편 마지막 유언...아내는 진짜 1억 뺏겼다",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261106130047620"
         },
         {
-          "title": "\"후회하기 싫었다\"…박민지, 日서 다시 신인으로",
+          "title": "“삼남매 말고 사위에 전재산” 치매 아빠의 유언장",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11629202"
+        }
+      ]
+    },
+    {
+      "id": "기뢰",
+      "rank": 4,
+      "keyword": "기뢰",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이란 연계 선박 4척, '공격 위협' 후 해저케이블 주변 포착' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이란 연계 선박 4척, '공격 위협' 후 해저케이블 주변 포착",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261107023800009"
+        },
+        {
+          "title": "이란 연계 선박들, 호르무즈 오만만 해저 케이블 위 '수상한 배회'",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/middleeast-africa/6346328"
+        },
+        {
+          "title": "이란 \"호르무즈 해협서 유조선 2척 기뢰 충돌‥미 드론도 격추\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6863853_36925.html"
+        }
+      ]
+    },
+    {
+      "id": "미래에셋",
+      "rank": 5,
+      "keyword": "미래에셋",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '미래에셋증권, 해킹으로 고객 3천여 명·임직원 3만여 명 정보 유출' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "미래에셋증권, 해킹으로 고객 3천여 명·임직원 3만여 명 정보 유출",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6863876_36932.html"
+        },
+        {
+          "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261107025000011"
+        },
+        {
+          "title": "금융권 580여 개사 보안 전수점검…\"보안체계 전면 쇄신\"",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975098"
+        }
+      ]
+    },
+    {
+      "id": "new-zealand-vs-india",
+      "rank": 6,
+      "keyword": "new zealand vs india",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'NZ vs Ind, 2nd ODI, Live Blog - Windy Wellington is rainy too' (Cricinfo) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "NZ vs Ind, 2nd ODI, Live Blog - Windy Wellington is rainy too",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-2nd-odi-1539438/live-match-blog"
+        },
+        {
+          "title": "India vs New Zealand | Unchanged visitors opt to bowl",
+          "source": "Deccan Herald",
+          "url": "https://www.deccanherald.com/sports/cricket/india-vs-new-zealand-unchanged-visitors-opt-to-bowl-4210906"
+        },
+        {
+          "title": "Why Wellington's Weather Could Test India's Cricket Superstars",
+          "source": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/short-videos/briefs/why-wellingtons-weather-could-test-indias-cricket-superstars/videoshow/135618131.cms"
+        }
+      ]
+    },
+    {
+      "id": "blg",
+      "rank": 7,
+      "keyword": "blg",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Karmine Corp vs T1: Why T1 Will Crush KC at Worlds 2026' (The Loadout) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Karmine Corp vs T1: Why T1 Will Crush KC at Worlds 2026",
+          "source": "The Loadout",
+          "url": "https://theloadout.com/karmine-corp-vs-t1"
+        },
+        {
+          "title": "AEW's Claudio Castagnoli Calls League of Legends ‘the Best Sport to Watch’",
+          "source": "The Sporting Tribune",
+          "url": "https://www.thesportingtribune.com/2026/11/06/claudio-castagnoli-worlds-2026-aew-league-of-legends"
+        },
+        {
+          "title": "T1 became the final Worlds 2026 semifinalist after beating Karmine Corp",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/en/articles/t1-become-the-final-worlds-2026-semifinalist-after-beating-karmine-corp/en"
+        }
+      ]
+    },
+    {
+      "id": "지스타",
+      "rank": 8,
+      "keyword": "지스타",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'AGF 2026, 참가사 106곳 역대 최대…전년보다 49% 증가' (서울경제) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "AGF 2026, 참가사 106곳 역대 최대…전년보다 49% 증가",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20110777"
+        },
+        {
+          "title": "\"지스타 대신 AGF로 간다\"…'오타쿠'에 베팅하는 게임사들",
           "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026110211071"
+          "url": "https://www.hankyung.com/article/2026110614741"
+        },
+        {
+          "title": "'귀멸의 칼날 무한성편' 막차 탔다…'AGF 2026' 참가사 106개 확정 최대 규모",
+          "source": "https://cinejin.co.kr/ko-kr",
+          "url": "https://cinejin.co.kr/article/395036564963"
+        }
+      ]
+    },
+    {
+      "id": "수도권제2순환고속도로",
+      "rank": 9,
+      "keyword": "수도권제2순환고속도로",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '한강 아래 첫 도로터널 김포방향 굴진…국내 최대 TBM 적용' (전기신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "한강 아래 첫 도로터널 김포방향 굴진…국내 최대 TBM 적용",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374468"
+        },
+        {
+          "title": "2029년 개통, 김포~파주 고속도로 한강터널 김포방향 굴착 본격화",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611061408001"
+        },
+        {
+          "title": "수도권 제2순환고속도로 한강터널 굴진 완료…한강 아래 첫 도로터널",
+          "source": "부산일보",
+          "url": "https://www.busan.com/view/busan/view.php?code=2026110622223148541"
+        }
+      ]
+    },
+    {
+      "id": "이주승",
+      "rank": 10,
+      "keyword": "이주승",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '이주승, 영화감독으로 승승장구 \"상금 1억 우승 이어 영화제 심사위원\" - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "이주승, 영화감독으로 승승장구 \"상금 1억 우승 이어 영화제 심사위원\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110705363964338"
+        },
+        {
+          "title": "기안84, 이주승 AI 여친에 눈독..\"조심해, 바로 넘어온다\"",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/07/GQ4DCNTBGUZDQMTDGQ4GCYZZGQ/"
+        },
+        {
+          "title": "‘이감독’ 이주승, 의문의 남자 만났다…누구? (나 혼자 산다)",
+          "source": "MBC",
+          "url": "https://m.imbc.com/enews/view/523914"
         }
       ]
     }
