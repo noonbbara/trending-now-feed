@@ -1,258 +1,270 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-11-11T00:49:45.505Z",
+  "updatedAt": "2026-11-11T07:39:57.440Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "이효정",
+      "id": "담배",
       "rank": 1,
-      "keyword": "이효정",
-      "volumeLabel": "10000+",
+      "keyword": "담배",
+      "volumeLabel": "5000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"집안에 배우만 6명\"…이효정 아들 이유진, 장동윤과 동서된다 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"담뱃값 4500원→8500원으로\"…2015년 이후 11년 만에 인상 주장, 이유는?' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"집안에 배우만 6명\"…이효정 아들 이유진, 장동윤과 동서된다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/11/2026111105460011738"
-        },
-        {
-          "title": "동상이몽2_너는 내 운명 : 이유진, ‘아버지’ 이효정과 함께 가게 홍보용 릴스 촬영",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC483092133"
-        },
-        {
-          "title": "11월 결혼 이유진♥차경은, 혼전임신 고백 “살림 이미 합쳤다”",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112908014"
-        }
-      ]
-    },
-    {
-      "id": "광주시",
-      "rank": 2,
-      "keyword": "광주시",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"경기도교육감 개표 결과 달라져\"...특검, 압수수색' (YTN) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"경기도교육감 개표 결과 달라져\"...특검, 압수수색",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202611102211380963"
-        },
-        {
-          "title": "\"경기도교육감 개표 상황표 위조\"‥압수수색",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6864763_37012.html"
-        },
-        {
-          "title": "특검, 경기도·광주시 선관위 강제수사…임태희 전 교육감, 진상규명 촉구",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040495"
-        }
-      ]
-    },
-    {
-      "id": "훈련",
-      "rank": 3,
-      "keyword": "훈련",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''이제는 끈끈한 원팀!'…모레노호, 도하서 첫 완전체 훈련' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'이제는 끈끈한 원팀!'…모레노호, 도하서 첫 완전체 훈련",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/IPT20261111000001365?section=gallery/index"
-        },
-        {
-          "title": "주장 손흥민의 주문…\"다시 하나가 되자\"",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840131"
-        },
-        {
-          "title": "아시안컵 연기에 퇴색된 중동 평가전? “경기력으로 증명해야”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8709227"
-        }
-      ]
-    },
-    {
-      "id": "대구교도소",
-      "rank": 4,
-      "keyword": "대구교도소",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''3년 방치' 옛 교도소, 문화예술 공간으로 변신' (YTN) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'3년 방치' 옛 교도소, 문화예술 공간으로 변신",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0115_202611110331000220"
-        },
-        {
-          "title": "‘7년 표류’ 옛 대구교도소 터 개발 본격화",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261109514586"
-        },
-        {
-          "title": "옛 대구교도소 떠난 자리에 3500억 투입…달성군 문화명소 만든다",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261109071558241"
-        }
-      ]
-    },
-    {
-      "id": "ssg-랜더스",
-      "rank": 5,
-      "keyword": "ssg 랜더스",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[김노천의 베쓰볼] 약속을 지킨 SSG, 가을야구보다 빛났던 '최광야구'의 감동' (인천일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[김노천의 베쓰볼] 약속을 지킨 SSG, 가을야구보다 빛났던 '최광야구'의 감동",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336448"
-        },
-        {
-          "title": "[IS 포커스] 최정·김광현에 해커·루친스키까지? 비시즌의 ‘이벤트 매치’…잡아라 팬심",
-          "source": "일간스포츠",
-          "url": "https://isplus.com/article/view/isp202611050060"
-        },
-        {
-          "title": "대표팀 핵심으로 성장하나…성인 첫 태극마크 단 10명의 유망주",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20261111/135000412/1"
-        }
-      ]
-    },
-    {
-      "id": "신안산선",
-      "rank": 6,
-      "keyword": "신안산선",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '평택 안중~여의도 70분 시대 열리나…신안산선 연장 타당성 검증한다' (문화일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "평택 안중~여의도 70분 시대 열리나…신안산선 연장 타당성 검증한다",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11630300"
-        },
-        {
-          "title": "평택시 ‘신안산선 안중 연장사업’ 타당성 검증 용역 착수",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040515"
-        },
-        {
-          "title": "신안산선 평택 안중 연장 타당성 검증 용역 착수",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709231"
-        }
-      ]
-    },
-    {
-      "id": "수능날",
-      "rank": 7,
-      "keyword": "수능날",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '코레일, 수능 앞두고 수도권 철도 전력설비 점검' (전기신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "코레일, 수능 앞두고 수도권 철도 전력설비 점검",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374609"
-        },
-        {
-          "title": "수능 날 KTX·전철 단전 없도록…코레일 사장, 구로변전소 직접 점검",
+          "title": "\"담뱃값 4500원→8500원으로\"…2015년 이후 11년 만에 인상 주장, 이유는?",
           "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026111018231935878"
+          "url": "https://view.asiae.co.kr/article/2026111109323627428"
         },
         {
-          "title": "김태승 코레일 사장, 수능 앞두고 철도 전력설비 점검",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05651446645644408"
+          "title": "담배 속 유해성분 검사 대상 확대",
+          "source": "K-공감",
+          "url": "https://gonggam.korea.kr/newsContentView.es?mid=a12503000000&section_id=NCCD_POLICY&news_id=0f33944c-a1a4-4d51-a935-9af421afb8ae"
+        },
+        {
+          "title": "\"담뱃값 4500원→8500원으로\"…흡연자 긴장할 주장 나왔다",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20261110n22272"
         }
       ]
     },
     {
-      "id": "빼난지원금",
+      "id": "중국",
+      "rank": 2,
+      "keyword": "중국",
+      "volumeLabel": "5000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '구미시, 로봇·농식품 해외시장 개척 앞장' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "구미시, 로봇·농식품 해외시장 개척 앞장",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261111_0003864060"
+        },
+        {
+          "title": "춘천 푸드테크기업, 상하이서 100만 달러 감자맥주 수출 쾌거",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261111010004121"
+        },
+        {
+          "title": "첨단산업 투자로 구미 주택시장 '회복세'…'미분양' 1년 새 73.5%↓",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/daegu-gyeongbuk/6350238"
+        }
+      ]
+    },
+    {
+      "id": "남편",
+      "rank": 3,
+      "keyword": "남편",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“밑져야 본전”..장나라, ♥6살 연하 남편에 대시 후 결혼 직감 “나 시집 가겠는데” (‘살롱드립’)' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“밑져야 본전”..장나라, ♥6살 연하 남편에 대시 후 결혼 직감 “나 시집 가겠는데” (‘살롱드립’)",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/11/HFQTINJSGAZWCMTFGFQWGMZXGM/"
+        },
+        {
+          "title": "김혜윤, ‘스캐’ 예서가 로스쿨 갔다는 댓글에 “어떤 직업이든 잘됐네요” (‘살롱드립’)",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112908065"
+        },
+        {
+          "title": "“나 시집 가겠는데?”…장나라, ♥6살 연하 남편과 결혼 결심한 순간",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261111/135006703/1"
+        }
+      ]
+    },
+    {
+      "id": "지진",
+      "rank": 4,
+      "keyword": "지진",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"머리는 산발, 순발력은 폭발!\"...일본 아나운서 화제 [나우쇼츠]' (YTN) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"머리는 산발, 순발력은 폭발!\"...일본 아나운서 화제 [나우쇼츠]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202611111236008363"
+        },
+        {
+          "title": "\"또 그녀였다\"…지진 10분 만에 새벽 1시 '생얼' 등장한 아나운서",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/global-topic/6347739"
+        },
+        {
+          "title": "지진 10분 만에 맨얼굴에 안경 쓰고 속보…日 아나운서 화제",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261108190038698"
+        }
+      ]
+    },
+    {
+      "id": "흡연",
+      "rank": 5,
+      "keyword": "흡연",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[한 컷으로 보는 AI만평] 흡연은 부스에서, 연기는 시민에게' (중도일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[한 컷으로 보는 AI만평] 흡연은 부스에서, 연기는 시민에게",
+          "source": "중도일보",
+          "url": "https://m.joongdo.co.kr/view.php?key=20261111010003768"
+        },
+        {
+          "title": "[르포] 육교 아래 흡연부스…담배 연기 퍼지는 신탄진역 광장",
+          "source": "중도일보",
+          "url": "https://m.joongdo.co.kr/view.php?key=20261109010002971"
+        },
+        {
+          "title": "통영시, 퀴즈로 배우는 건강한 생활 습관",
+          "source": "경남연합일보",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "포틀랜드-대-오클라호마시티",
+      "rank": 6,
+      "keyword": "포틀랜드 대 오클라호마시티",
+      "volumeLabel": "1000+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[오클라호마시티 포틀랜드] 3점슛 넣는 아브디야' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[오클라호마시티 포틀랜드] 3점슛 넣는 아브디야",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3748963"
+        },
+        {
+          "title": "[오클라호마시티 포틀랜드] 파울 당하는 길저스-알렉산더",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3748917"
+        },
+        {
+          "title": "[오클라호마시티 포틀랜드] 드리블 하는 길저스-알렉산더",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3748914"
+        }
+      ]
+    },
+    {
+      "id": "총파업",
+      "rank": 7,
+      "keyword": "총파업",
+      "volumeLabel": "500+",
+      "startedLabel": "4시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '12월 10일 열차 멈추나…철도노조, 총파업 카드 꺼냈다' (JTBC) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "12월 10일 열차 멈추나…철도노조, 총파업 카드 꺼냈다",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12327526"
+        },
+        {
+          "title": "공항철도 노조, 13일 경고파업…일반열차 28.7% 감축 운행",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611111408001"
+        },
+        {
+          "title": "철도노조 \"12월 10일 오전 9시부터 무기한 총파업\"(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261111080851004"
+        }
+      ]
+    },
+    {
+      "id": "오유진",
       "rank": 8,
-      "keyword": "빼난지원금",
+      "keyword": "오유진",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "석유",
+      "rank": 9,
+      "keyword": "석유",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '빼빼로 못 받으면 ‘빼난지원금’?… 초등학생이 소개한 신조어 화제' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '석유관리원, 한중일 석유기술회 개최…친환경 연료 협력 논의' (파이낸셜뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "빼빼로 못 받으면 ‘빼난지원금’?… 초등학생이 소개한 신조어 화제",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/topics/topics_social/2026/11/11/2XDK6KHU2ZHRVAUMONFNISI5SA/"
+          "title": "석유관리원, 한중일 석유기술회 개최…친환경 연료 협력 논의",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611111556094195"
         },
         {
-          "title": "어느덧 빼빼로 데이…어른들은 모르는 ’빼난지원금’ 무슨 뜻?",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110173936oEF"
+          "title": "한·중·일 석유기술회 제주 개막… 친환경·저탄소 연료 기술 공조 모색",
+          "source": "에너지코리아뉴스",
+          "url": "https://www.energykorea.co.kr/news/articleView.html?idxno=66926"
         },
         {
-          "title": "\"빼빼로 못 받았다면 신청하세요\"…어른들은 모르는 '빼난지원금' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/10/2026111007574324321"
+          "title": "“한·중·일, 석유 혁신기술 통해 친환경 연료 협력 강화한다”",
+          "source": "에너지데일리",
+          "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=204975"
         }
       ]
     },
     {
-      "id": "노이-바이-국제-공항",
-      "rank": 9,
-      "keyword": "노이 바이 국제 공항",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "id": "굴착기",
+      "rank": 10,
+      "keyword": "굴착기",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '베트남, 하노이 노이바이공항 ‘국제선 전노선’ 자빈공항 이전 추진…2029~2030년' (인사이드비나) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“피땀 흘려 번 돈을 돌려줘” 중국 관공서 습격한 굴착기 [잇슈 SNS]' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "베트남, 하노이 노이바이공항 ‘국제선 전노선’ 자빈공항 이전 추진…2029~2030년",
-          "source": "인사이드비나",
-          "url": "https://www.insidevina.com/news/articleView.html?idxno=44466"
+          "title": "“피땀 흘려 번 돈을 돌려줘” 중국 관공서 습격한 굴착기 [잇슈 SNS]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709444"
         },
         {
-          "title": "지아빈 공항과 하노이 중심부를 연결하는 도시철도 건설 자금 지원에 우선순위를 두어야 합니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/uu-tien-von-xay-duong-sat-do-thi-noi-san-bay-gia-binh-voi-trung-tam-ha-noi"
+          "title": "中남성, 관공서에 굴착기 몰고 가 난동…철거 보상 불만 추정",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261110119700083"
         },
         {
-          "title": "이 제안은 자람 기차역을 자빈 공항과 연결되는 주요 허브로 활용할 것을 제안합니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/de-xuat-lay-ga-gia-lam-lam-dau-moi-ket-noi-san-bay-gia-binh"
+          "title": "당국 미지급 보상금에 앙심… 中 40대 굴착기 몰고 정부 청사 돌진",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3447802"
         }
       ]
     }
