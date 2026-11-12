@@ -1,286 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-11-12T03:44:35.329Z",
+  "updatedAt": "2026-11-12T12:29:55.869Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "소방",
+      "id": "부동산",
       "rank": 1,
-      "keyword": "소방",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
+      "keyword": "부동산",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '창녕군-소방서 합동훈련 실시…40여 명 참여, 화재대응 실습' (국제뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[단독] 이 대통령, 당대표 경험 공유하며 김민석 격려' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "창녕군-소방서 합동훈련 실시…40여 명 참여, 화재대응 실습",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3749714"
+          "title": "[단독] 이 대통령, 당대표 경험 공유하며 김민석 격려",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611121657011"
         },
         {
-          "title": "함평군 보건소, 함평소방서와 함께한 합동 소방 훈련 성료",
-          "source": "일간투데이",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=803063"
+          "title": "당청 ’한목소리’에도 종부세 이견…金·鄭 ’대화중재’도 파열음",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261112205932itn"
         },
         {
-          "title": "금산군의회, 소방서와 합동 소방훈련…청사 화재 상황 가정",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/daejeon-chungnam/6348873"
+          "title": "78일 만에 여당 지도부 만찬…이 대통령 ‘당정 한마음’ 강조",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12327675"
         }
       ]
     },
     {
-      "id": "제주항공",
+      "id": "천위페이",
       "rank": 2,
-      "keyword": "제주항공",
+      "keyword": "천위페이",
       "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '제주항공 주식 하락, 쪼그라든 제주도 자산? \"주식이 다가 아니다\"' (미디어제주) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "제주항공 주식 하락, 쪼그라든 제주도 자산? \"주식이 다가 아니다\"",
-          "source": "미디어제주",
-          "url": "https://www.mediajeju.com/news/articleView.html?idxno=367301"
-        },
-        {
-          "title": "제주도 '제주항공 주식' 평가액 319억 증발…지분율도 25→3% 뚝",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/jeju/6350354"
-        },
-        {
-          "title": "제주도, 제주항공 지분율 ‘뚝’…“대안 필요”",
-          "source": "제주도민일보",
-          "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=402222"
-        }
-      ]
-    },
-    {
-      "id": "apbc-중계",
-      "rank": 3,
-      "keyword": "apbc 중계",
-      "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '슈퍼스타 김도영, 도쿄돔을 휘저어라…12일 호주와 APBC 첫 경기' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''안세영 천적이라고 하지 마세요' 세계 36위 상대 '진땀승'→간신히 8강 진출…中 천위페이, AN과 격차 점점 벌어진다' (엑스포츠뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "슈퍼스타 김도영, 도쿄돔을 휘저어라…12일 호주와 APBC 첫 경기",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261111095900007"
+          "title": "'안세영 천적이라고 하지 마세요' 세계 36위 상대 '진땀승'→간신히 8강 진출…中 천위페이, AN과 격차 점점 벌어진다",
+          "source": "엑스포츠뉴스",
+          "url": "https://www.xportsnews.com/article/2218686"
         },
         {
-          "title": "선발 전환하자마자 국제대회까지…韓 우승 길목에서 중책 맡았다 \"SSG 위상 높이려면 우리가 잘해야\" [오!쎈 도쿄] - 머니투데이",
+          "title": "'71승 1패' 안세영 유일한 패배 안긴 선수인데...中 왕즈이, 이래서 '8개월 무관' 끊겠나? 세계 25위 상대 진땀승→8강 진출 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/12/202611121111771013O"
+          "url": "https://www.mt.co.kr/sports/2026/11/12/202611121734779265O"
         },
         {
-          "title": "컴투스, '2026 아시아 프로야구 챔피언십' 한국 대표팀 공식 후원",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261111140130"
+          "title": "'내가 안세영 이겨봤어!' 그런데 16강부터 휘청휘청…'세계 3위' 中 왕즈이 일본 마스터즈 8강 진출→25위 덴마크 2-0 제압",
+          "source": "www.xportsnews.com",
+          "url": "https://www.xportsnews.com/article/2218855"
         }
       ]
     },
     {
-      "id": "sk그룹",
+      "id": "지하철-파업",
+      "rank": 3,
+      "keyword": "지하철 파업",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '지하철·KTX에 공항까지 줄파업 예고…연말 국민들 발 묶이나' (국민일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "지하철·KTX에 공항까지 줄파업 예고…연말 국민들 발 묶이나",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/20261112501567"
+        },
+        {
+          "title": "철도노조 “12월 10일부터 총파업”…인력 충원 등 요구",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709898"
+        },
+        {
+          "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261111111400011"
+        }
+      ]
+    },
+    {
+      "id": "조희대",
       "rank": 4,
-      "keyword": "sk그룹",
+      "keyword": "조희대",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'SK그룹, 최태원 주재 CEO 세미나 연다…AI 사업 전략 점검' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '법원행정처장, '한덕수 석방시 조희대 탄핵' 주장에 \"부적절\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "SK그룹, 최태원 주재 CEO 세미나 연다…AI 사업 전략 점검",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261111/135007966/1"
+          "title": "법원행정처장, '한덕수 석방시 조희대 탄핵' 주장에 \"부적절\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6865234_36911.html"
         },
         {
-          "title": "SK그룹, 최태원 주재 CEO 세미나 시작…2박3일 간 ‘AI’ 놓고 토론",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/industry/company/2026/11/12/56NA3KFCVZF4VGFGBTNQDQ32EM/"
+          "title": "[단독] \"한덕수 석방 땐 재판 차질 우려\"…이진관 재판부에 ‘의견서’",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12327837"
         },
         {
-          "title": "[리포트 브리핑]SK, '포트폴리오 및 주주환원 강화 기대' 목표가 680,000원 - NH투자증권",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261111000965"
+          "title": "예결위, 내란 재판 지연·전작권 전환 등 안보 공방",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8711205"
         }
       ]
     },
     {
-      "id": "던파",
+      "id": "nol",
       "rank": 5,
-      "keyword": "던파",
+      "keyword": "nol",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '넥슨·크래프톤 1위 쟁탈전 격화…AI·신작 강화로 수익성 방어 총력' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Dubai students can soon use Nol cards for online, in-store shopping acr…' (Khaleej Times) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "넥슨·크래프톤 1위 쟁탈전 격화…AI·신작 강화로 수익성 방어 총력",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026111109253701835"
+          "title": "Dubai students can soon use Nol cards for online, in-store shopping across GCC",
+          "source": "Khaleej Times",
+          "url": "https://www.khaleejtimes.com/uae/transport/dubai-nol-student-card-upgrades-50-percent-discount-online-in-store-payment"
         },
         {
-          "title": "[속보] 넥슨, 3분기 영업익 3718억원…매출 1조2312억원 By EBN",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2169714"
+          "title": "RTA, Al Etihad Payments sign strategic agreement to launch next generation of nol–Jaywan cards",
+          "source": "www.wam.ae",
+          "url": "https://www.wam.ae/en/article/c3347i1-rta-etihad-payments-sign-strategic-agreement"
         },
         {
-          "title": "[단독] \"창립 이래 최대 위기\"…'게임 1위' 넥슨에 무슨 일이",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111084471"
+          "title": "Dubai's new nol–Jaywan card: Where you can use it, discounts and launch date",
+          "source": "Gulf News",
+          "url": "https://gulfnews.com/living-in-uae/transport/dubais-new-noljaywan-card-where-you-can-use-it-discounts-and-launch-date-1.500738705"
         }
       ]
     },
     {
-      "id": "이슬람-혁명-수비대",
+      "id": "페드로-아빌라",
       "rank": 6,
-      "keyword": "이슬람 혁명 수비대",
+      "keyword": "페드로 아빌라",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'SSG, MLB 출신 강속구 투수 리차드슨 100만 달러에 영입' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "SSG, MLB 출신 강속구 투수 리차드슨 100만 달러에 영입",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8711079"
+        },
+        {
+          "title": "[공식발표] 54억 화끈하게 질렀다! 폰세 능가 외인+ML 157km 유망주까지 품다…SSG 외국인투수 농사 끝",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/12/MU3DEYLDHA3DKZJYMU3TAZTGGI/"
+        },
+        {
+          "title": "“157㎞ 강속구 보유”…SSG랜더스, 새 외국인 투수 ‘라이언 리차드슨’ 영입",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261112580233"
+        }
+      ]
+    },
+    {
+      "id": "nepal-premier-league",
+      "rank": 7,
+      "keyword": "nepal premier league",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Sandeep takes hat-trick as Biratnagar knocks Pokhara out of NPL' (Nepalnews.com) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Sandeep takes hat-trick as Biratnagar knocks Pokhara out of NPL",
+          "source": "Nepalnews.com",
+          "url": "https://english.nepalnews.com/s/sports/sandeep-takes-hat-trick-as-biratnagar-knocks-pokhara-out-of-npl/"
+        },
+        {
+          "title": "Nepal Premier League Cricket: Two Crucial Matches Today",
+          "source": "Ratopati",
+          "url": "https://english.ratopati.com/story/86296/biratnagar-and-karnali-want-to-return-to-winning-ways-pokhara-has-a-chance-to-maintain-the-momentum"
+        },
+        {
+          "title": "Nepal Premier League 2026 match predictions: Kings vs Avengers and Yaks vs Lions",
+          "source": "Cricket World",
+          "url": "https://www.cricketworld.com/match-predictions-nepal-premier-league-2026-biratnagar-kings-vs-pokhara-avengers-karnali-yaks-vs-lumbini-lions-12th-november/114296.htm"
+        }
+      ]
+    },
+    {
+      "id": "원자력-잠수함",
+      "rank": 8,
+      "keyword": "원자력 잠수함",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '이란, ‘미사일 도시’ 공개…트럼프 “전쟁 곧 끝날 것”' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '日, 안보 전략에 '핵추진잠수함 검토 가능' 명기 방안 부상(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "이란, ‘미사일 도시’ 공개…트럼프 “전쟁 곧 끝날 것”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8710572"
+          "title": "日, 안보 전략에 '핵추진잠수함 검토 가능' 명기 방안 부상(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261111130751073"
         },
         {
-          "title": "이란 안보수장 \"美 공격 시 유럽에 있는 미국 군사기지도 공격 가능\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444274"
-        },
-        {
-          "title": "이란측 “美 ‘공격 불필요’는 기만, 곧 공습…우리가 선제공격할 수도”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20261112/135012496/1"
-        }
-      ]
-    },
-    {
-      "id": "류효승",
-      "rank": 7,
-      "keyword": "류효승",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'SSG, 베테랑 포수 김민식과 결별…선수단 추가 정비' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "SSG, 베테랑 포수 김민식과 결별…선수단 추가 정비",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8710823"
-        },
-        {
-          "title": "[공식발표] ‘SK→KIA→SSG’ 37살 우승 포수 전격 방출…‘고작 30살’ 거포 유망주 은퇴 선언 ‘SSG 선수단 칼바람’ - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/12/202611121010778945O"
-        },
-        {
-          "title": "프로야구 SSG, 김민식·류효승 등 5명 방출…선수단 재정비",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/baseball/6351552"
-        }
-      ]
-    },
-    {
-      "id": "베이비몬스터",
-      "rank": 8,
-      "keyword": "베이비몬스터",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '지수·이날치·NCT·베몬, 내년 ‘코첼라’ 선다' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "지수·이날치·NCT·베몬, 내년 ‘코첼라’ 선다",
+          "title": "일 ‘핵반입 금지 예외’ 검토에 피폭자들 반발…“비핵 원칙 훼손 말라”",
           "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611111901001"
+          "url": "https://www.khan.co.kr/article/202611121556011"
         },
         {
-          "title": "내년 코첼라 NCT 무대 베일 벗었다…127·드림, 동반 출격·합동 무대",
+          "title": "\"日, 안보3문서에 '집단성 강인성' 명기…우호국과 경제안보력 강화\"",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261112_0003864880"
-        },
-        {
-          "title": "블랙핑크부터 빅뱅까지..YG가 코첼라에서 쓴 역사, 다음은 베이비몬스터 [Oh!쎈 이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/music/2026/11/12/GFSDEYRRGU3TANRSGRTGCYRVMQ/"
+          "url": "https://www.newsis.com/view/NISX20261112_0003865210"
         }
       ]
     },
     {
-      "id": "천무-다연장로켓",
+      "id": "나경원",
       "rank": 9,
-      "keyword": "천무 다연장로켓",
-      "volumeLabel": "100+",
+      "keyword": "나경원",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한화, 美해상서 ‘천무’ 쏜다… 방산·조선 동시 확장' (서울경제) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '나경원 \"당나라 군대냐\" 지적에 강신철 \"말씀 취소하라\" 반발' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "한화, 美해상서 ‘천무’ 쏜다… 방산·조선 동시 확장",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20112039"
+          "title": "나경원 \"당나라 군대냐\" 지적에 강신철 \"말씀 취소하라\" 반발",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6865059_36911.html"
         },
         {
-          "title": "203조 투자 약속했지만 美 군함 발주는 아직…K-조선, 정책 분수령",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/economy/2387591.htm"
+          "title": "나경원 \"당나라 군대냐\"…국방부 장관 \"취소해달라\" 발끈 [소셜픽]",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12327681"
         },
         {
-          "title": "한화, 美상륙함 수주·태국 호위함 우선협상…글로벌 경쟁력 입증",
-          "source": "아시아타임즈",
-          "url": "https://www.asiatime.co.kr/article/20261110500200"
+          "title": "예결위서 안보·조작기소 특검 공방…野 \"정치 논리 개입\" 與 \"안보 정쟁화\"(종합)",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261112_0003866181"
         }
       ]
     },
     {
-      "id": "jyp",
+      "id": "백승호",
       "rank": 10,
-      "keyword": "jyp",
+      "keyword": "백승호",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Eugene Securities raises JYP Ent target as Stray Kids fuel Western gains' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''韓 초대박 경사' 터질까, 한국인 16호 프리미어리거는 백승호? '1위 질주' 버밍엄 \"꿈의 무대 EPL 복귀 예상\"' (스포츠조선) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Eugene Securities raises JYP Ent target as Stray Kids fuel Western gains",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-finance/2026/11/12/RSYHOSBQONFVNNXQJ2TGOCGSUE/"
+          "title": "'韓 초대박 경사' 터질까, 한국인 16호 프리미어리거는 백승호? '1위 질주' 버밍엄 \"꿈의 무대 EPL 복귀 예상\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/football/2026-11-11/202611110100078270007276"
         },
         {
-          "title": "JYP posts surprise earnings led by Stray Kids; rookie success is the next challenge",
-          "source": "파이낸셜뉴스",
-          "url": "https://en.fnnews.com/news/202611120722287101"
+          "title": "모레노호 '호재'… 드디어 긴 부상 털고 복귀한 한국 선수",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1172444"
         },
         {
-          "title": "JYP Entertainment Jumps 18% on Stray Kids Album Sales",
-          "source": "Seoul Economic Daily",
-          "url": "https://en.sedaily.com/market/2026/11/12/jyp-entertainment-jumps-18-percent-on-stray-kids-album-sales"
+          "title": "'韓 축구 희소식' 부상에서 돌아온 미드필더 백승호, 성공적인 복귀전...엄지성과 맞대결은 불발",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E9%9F%93-%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%80%E1%85%AE-%E1%84%92%E1%85%B4%E1%84%89%E1%85%A9%E1%84%89%E1%85%B5%E1%86%A8-%E1%84%87%E1%85%AE%E1%84%89%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5-%E1%84%83%E1%85%A9%E1%86%AF%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%A9%E1%86%AB-%E1%84%86%E1%85%B5%E1%84%83%E1%85%B3%E1%84%91%E1%85%B5%E1%86%AF%E1%84%83%E1%85%A5-%E1%84%87%E1%85%A2%E1%86%A8%E1%84%89%E1%85%B3%E1%86%BC%E1%84%92%E1%85%A9-%E1%84%89%E1%85%A5%E1%86%BC%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB-%E1%84%87%E1%85%A9%E1%86%A8%E1%84%80%E1%85%B1%E1%84%8C%E1%85%A5%E1%86%AB--%E1%84%8B%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%B5%E1%84%89%E1%85%A5%E1%86%BC%E1%84%80%E1%85%AA-%E1%84%86%E1%85%A1%E1%86%BD%E1%84%83%E1%85%A2%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8B%E1%85%B3%E1%86%AB-%E1%84%87%E1%85%AE%E1%86%AF%E1%84%87%E1%85%A1%E1%86%AF/blt30919edc8c447f31"
         }
       ]
     }
