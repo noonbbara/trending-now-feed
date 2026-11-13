@@ -1,270 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-11-13T17:06:16.883Z",
+  "updatedAt": "2026-11-13T22:48:12.434Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "김수현",
+      "id": "weather",
       "rank": 1,
-      "keyword": "김수현",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
+      "keyword": "weather",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“이미지 실추로 손해, 모델료 반환해야”···법원, 배우 김수현 측 11억여원 반환 판결' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Flights grounded at all US airports due to air traffic control ‘communi…' (The Guardian) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“이미지 실추로 손해, 모델료 반환해야”···법원, 배우 김수현 측 11억여원 반환 판결",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611131959001"
+          "title": "Flights grounded at all US airports due to air traffic control ‘communication issue’, transport secretary says – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer"
         },
         {
-          "title": "법원, 김수현 측에 '광고 중단' 모델료 11억여원 반환 판결",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261113171700061"
+          "title": "Breaking: US aviation administration orders grounding of all flights",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://www.abc.net.au/news/2026-11-14/us-aviation-admin-orders-grounding-of-all-flights/107385702"
         },
         {
-          "title": "[단독]법원 \"김수현 등, 프롬바이오에 11억6000만원 배상\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/13/2026111315280951965"
+          "title": "US grounds flights nationwide after air traffic control communications outage",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13/"
         }
       ]
     },
     {
-      "id": "민희진",
+      "id": "중앙일보",
       "rank": 2,
-      "keyword": "민희진",
-      "volumeLabel": "1000+",
-      "startedLabel": "4시간 전",
+      "keyword": "중앙일보",
+      "volumeLabel": "2000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '빌리프랩·쏘스뮤직, 민희진 상대 손배소 1심서 패소(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '용산구, '용산형 생활안심디자인'으로 대한민국 범죄예방대상 경찰청장 표창 수상' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "빌리프랩·쏘스뮤직, 민희진 상대 손배소 1심서 패소(종합)",
+          "title": "용산구, '용산형 생활안심디자인'으로 대한민국 범죄예방대상 경찰청장 표창 수상",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261113166651004"
+          "url": "https://www.yna.co.kr/view/RPR20261113001700353"
         },
         {
-          "title": "빌리프랩, '아일릿 표절' 주장 민희진 상대 손해배상 소송 패소",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6865528_36918.html"
+          "title": "안성 여성가구 안심특구 효과 톡톡…112신고 21.3% 감소",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261113_0003867261"
         },
         {
-          "title": "민희진에 패소한 하이브 레이블들, 즉각 항소…\"판결 납득 못해\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/13/2026111319430064691"
+          "title": "김해외국인근로자지원센터, 범죄예방대상 국무총리표창",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721843"
         }
       ]
     },
     {
-      "id": "대한민국",
+      "id": "สภาพอากาศ",
       "rank": 3,
-      "keyword": "대한민국",
-      "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
+      "keyword": "สภาพอากาศ",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '대한민국 초격차로의 첫 삽 - 영상 | 멀티미디어' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'สภาพอากาศวันนี้ -19 พ.ย.ลมหนาวพักยก ไทยอุณหภูมิสูงขึ้น ฝนฟ้าคะนองบางแห่ง' (thansettakij) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "대한민국 초격차로의 첫 삽 - 영상 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148975621&pWise=main&pWiseMain=A8"
+          "title": "สภาพอากาศวันนี้ -19 พ.ย.ลมหนาวพักยก ไทยอุณหภูมิสูงขึ้น ฝนฟ้าคะนองบางแห่ง",
+          "source": "thansettakij",
+          "url": "https://www.thansettakij.com/general-news/673733"
         },
         {
-          "title": "‘내분설’에 첫 심정 밝힌 손흥민…“주장 완장이 주는 무게감 견딜 것”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712566"
+          "title": "ชุมพรอ่วมฝนถล่มข้ามคืน น้ำท่วมถนนหลายสาย โรงพยาบาลเร่งป้องกันน้ำเข้า CT-SCAN",
+          "source": "www.topnews.co.th",
+          "url": "https://www.topnews.co.th/news/1746285"
         },
         {
-          "title": "모레노호, 반목 뒤로하고 나선 사우디전서 42년 만의 3실점 패배(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261114002051007"
+          "title": "เตือนภาคใต้ ยังมีฝนตกหนัก 70% เสี่ยงน้ำท่วมฉับพลัน | 13 พ.ย. 69 | ข่าวเย็นไทยรัฐ",
+          "source": "www.thairath.co.th",
+          "url": "https://www.thairath.co.th/video/channel/thairath_news/thairath-evening-news/1199340"
         }
       ]
     },
     {
-      "id": "쿠플",
+      "id": "天气",
       "rank": 4,
-      "keyword": "쿠플",
+      "keyword": "天气",
       "volumeLabel": "500+",
-      "startedLabel": "3시간 전",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "summary": "급상승 시점에 '2026年11月14日，义安省天气预报：气温28摄氏度，早晨有雾，少量降雨。' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": []
+      "newsSignals": [
+        {
+          "title": "2026年11月14日，义安省天气预报：气温28摄氏度，早晨有雾，少量降雨。",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/zh-cn/thoi-tiet-nghe-an-hom-nay-14-11-2026-troi-am-len-28c-sang-co-suong-mu-it-mua"
+        },
+        {
+          "title": "最新天气消息｜黄色暴雨警告信号一度生效 凌晨5时30分取消",
+          "source": "香港01",
+          "url": "https://global.hk01.com/%E5%A4%A9%E6%B0%94/60410538/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%94%E6%B6%88%E6%81%AF-%E9%BB%84%E8%89%B2%E6%9A%B4%E9%9B%A8%E8%AD%A6%E5%91%8A%E4%BF%A1%E5%8F%B7%E4%B8%80%E5%BA%A6%E7%94%9F%E6%95%88-%E5%87%8C%E6%99%A85%E6%97%B630%E5%88%86%E5%8F%96%E6%B6%88"
+        },
+        {
+          "title": "本港广泛地区下暴雨进行电力工作须注意安全｜即时新闻｜中港台｜on.cc东网",
+          "source": "on.cc東網",
+          "url": "https://hk.on.cc/hk/bkn/cnt/news/20261114/bkn-20261114040551299-1114_00822_001_cn.html"
+        }
+      ]
     },
     {
-      "id": "인벤",
+      "id": "погода",
       "rank": 5,
-      "keyword": "인벤",
-      "volumeLabel": "200+",
+      "keyword": "погода",
+      "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Innventure Q3 실적, 수익 에상치보다 저조' (Investing.com 한국어) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Петербург стал другим. Фоторепортаж «Фонтанки» с улиц' (ФОНТАНКА.ру) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Innventure Q3 실적, 수익 에상치보다 저조",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/earnings/article-2174000"
+          "title": "Петербург стал другим. Фоторепортаж «Фонтанки» с улиц",
+          "source": "ФОНТАНКА.ру",
+          "url": "https://www.fontanka.ru/2026/11/13/76763284/"
         },
         {
-          "title": "인벤처, 3분기 영업손실 3억 5138만 달러로 적자 확대…영업권 손상차손 영향",
-          "source": "데이터투자",
-          "url": "https://www.datatooza.com/article/20261113062315840052ef3bff6b_80"
+          "title": "В Санкт-Петербурге выпал первый снег",
+          "source": "GISMETEO.Новости",
+          "url": "https://www.gismeteo.ru/news/weather/v-sankt-peterburge-vypal-pervyj-sneg-2/"
         },
         {
-          "title": "인벤처 3분기 순손실 3억3384만달러…손상차손 반영 : 기업·산업",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1091968"
+          "title": "Ни зима, ни осень: Петербург 12 ноября накроет мокрая «каша» с Атлантики",
+          "source": "rosbalt.ru",
+          "url": "https://www.rosbalt.ru/news/2026-11-12/ni-zima-ni-osen-peterburg-12-noyabrya-nakroet-mokraya-kasha-s-atlantiki-5730216"
         }
       ]
     },
     {
-      "id": "박지현",
+      "id": "디에고-시메오네",
       "rank": 6,
-      "keyword": "박지현",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "keyword": "디에고 시메오네",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '나 혼자 산다' (MBC) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''이강인은 60분 만에 뺐으면서...' 시메오네 감독의 단호한 한마디 \"알바레스는 교체하지 않을 거야\"... 스페인 현지서도 논…' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "나 혼자 산다",
-          "source": "MBC",
-          "url": "https://m.imbc.com/VOD/VodView?progCode=1002831100000100000&broadcastID=1002831101572100000&type=Prevod"
+          "title": "'이강인은 60분 만에 뺐으면서...' 시메오네 감독의 단호한 한마디 \"알바레스는 교체하지 않을 거야\"... 스페인 현지서도 논란 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/11/2026111108070646917"
         },
         {
-          "title": "박지현, 코드쿤스트에 감동…‘대학가요제’서 깜짝 만남",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261114/135023608/1"
+          "title": "\"이강인이 공만 잡으면 축구가 달라진다\"…바르샤전 패배에도 스페인 언론이 감탄한 이유",
+          "source": "fn스타",
+          "url": "https://star.fnnews.com/article/202611091910232899"
         },
         {
-          "title": "박지현, 돈 많이 벌어도 여전히 ‘모텔 사랑’... 침대서 벌떡 “가만히 있으면 안 바뀌어”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/12/GU4DKZLFG4ZTENTCGE4TOMZTGM/"
+          "title": "'참담했던 일주일, 점유율 축구가 무너졌다'…'이강인 활약' 아틀레티코, UCL 토너먼트 진출·라리가 우승 경쟁 흔들",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026111209391266820"
         }
       ]
     },
     {
-      "id": "구성환",
+      "id": "天気",
       "rank": 7,
-      "keyword": "구성환",
+      "keyword": "天気",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '【冬の嵐】18日（水）「台風並み」に発達する低気圧 大雨だけでなく「暴風と高波」にも警戒【3時間ごと雨風シミュレーション19日（木）まで／ 3…' (TBS NEWS DIG) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "【冬の嵐】18日（水）「台風並み」に発達する低気圧 大雨だけでなく「暴風と高波」にも警戒【3時間ごと雨風シミュレーション19日（木）まで／ 3連休まで天気予報（23日まで）】気象庁",
+          "source": "TBS NEWS DIG",
+          "url": "https://newsdig.tbs.co.jp/articles/gallery/3085472"
+        },
+        {
+          "title": "週間天気予報 明日は広く本降りの雨 来週中頃は全国的に荒天注意",
+          "source": "ウェザーニュース",
+          "url": "https://weathernews.jp/news/202611/140031/"
+        },
+        {
+          "title": "【11/14朝イチ！】 秋晴れは北へ 西から雨雲",
+          "source": "mopita",
+          "url": "https://topic.life-ranger.jp/%E6%9C%9D%E3%82%A4%E3%83%81/120649/"
+        }
+      ]
+    },
+    {
+      "id": "김하성",
+      "rank": 8,
+      "keyword": "김하성",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"초콜릿에 러브레터 많이 받아\" 구성환, 4대 천왕 비주얼 공개 ('나혼산')' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '한국 돌아갈 일 없다! 타율 .116 최악의 해였는데…김하성 FA 인기 폭발 \"예상보다 높은 관심, 1년 계약 모색\" - 머니투…' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"초콜릿에 러브레터 많이 받아\" 구성환, 4대 천왕 비주얼 공개 ('나혼산')",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/14/MU3DAZJUMIZGCM3CMIYWMNZYGI/"
+          "title": "한국 돌아갈 일 없다! 타율 .116 최악의 해였는데…김하성 FA 인기 폭발 \"예상보다 높은 관심, 1년 계약 모색\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/13/202611121142773551O"
         },
         {
-          "title": "구성환, 첫사랑과 재회 “50일 사귀고 1년 더 좋아해” (나혼산)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261113/135023281/1"
+          "title": "타격 부진에 FA 인기 걱정했는데‥\"필라델피아, 김하성 영입 검토\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864665_37004.html"
         },
         {
-          "title": "\"조승우·손예진의 '클래식'이었다\"…구성환, 30년전 50일 사귄 동창 재회",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6353497"
+          "title": "'김하성 시애틀 링크' 초대박! 가성비 선택지 3인 거론→3루수 활용 가능성까지…부상 없이 타격 생산성 회복 기대",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/baseball/2026-11-12/202611120100087870008295"
         }
       ]
     },
     {
-      "id": "대한민국-기후에너지환경부",
-      "rank": 8,
-      "keyword": "대한민국 기후에너지환경부",
-      "volumeLabel": "200+",
-      "startedLabel": "4시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[인사] 기후에너지환경부' (이투뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[인사] 기후에너지환경부",
-          "source": "이투뉴스",
-          "url": ""
-        },
-        {
-          "title": "[인사] 기후에너지환경부 By EBN",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2172282"
-        },
-        {
-          "title": "[인사] 기후에너지환경부",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261112001466"
-        }
-      ]
-    },
-    {
-      "id": "포수",
+      "id": "제네시스-gv90",
       "rank": 9,
-      "keyword": "포수",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
+      "keyword": "제네시스 gv90",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '구자욱·원태인 등 28명, FA 공시…A등급 6명' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '제네시스 GV90 계약 시작, 1억 3,950만원부터 2억 4,710만원까지' (네이버페이 머니스토리) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "구자욱·원태인 등 28명, FA 공시…A등급 6명",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261113232604RDP"
+          "title": "제네시스 GV90 계약 시작, 1억 3,950만원부터 2억 4,710만원까지",
+          "source": "네이버페이 머니스토리",
+          "url": "https://story.pay.naver.com/content/3927_24_C62"
         },
         {
-          "title": "구자욱 어렵다면 스톱갭이라도 필요한 롯데 → 이택근 단장 기본 방침 \"그룹도 설득하겠다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/14/HAYDAODCMQ3TQYZVMY2TEMBYMU/"
+          "title": "\"차가 아니라 호텔방?\"…제네시스가 내놓은 2억짜리 SUV",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611110499g"
         },
         {
-          "title": "kt 위즈, 외야수 김민혁·배정대 FA 시장 나온다",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040879"
+          "title": "[경제 단신] 전동화 ‘GV90’ 출시… 최고 2억3950만원 외",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261110515889"
         }
       ]
     },
     {
-      "id": "광천동주택재개발",
+      "id": "은행나무",
       "rank": 10,
-      "keyword": "광천동주택재개발",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
+      "keyword": "은행나무",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '광천동 재개발 철거 착수…교통망 확충은 ‘난항’' (진일보 | 전남일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '100살 넘은 은행나무에 제초제‥환기미술관장 등 3명 송치' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "광천동 재개발 철거 착수…교통망 확충은 ‘난항’",
-          "source": "진일보 | 전남일보",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000082235"
+          "title": "100살 넘은 은행나무에 제초제‥환기미술관장 등 3명 송치",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6865440_36918.html"
         },
         {
-          "title": "광주 최대 규모 ‘광천동 재개발 사업’ 철거 본격화",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/society/2026/11/12/20261112500370"
+          "title": "'은행나무 독살' 의혹 부암동 환기미술관장 재물손괴로 송치",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261113102300004"
         },
         {
-          "title": "광주 최대 재개발지 광천동, 철거 공사 착수",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1196879"
+          "title": "“100년 넘은 은행나무를 이렇게까지?” 뿌리에 구멍 뚫고 제초제…유명 미술관장 송치",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20113913"
         }
       ]
     }
