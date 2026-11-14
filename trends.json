@@ -1,286 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-11-13T22:48:12.434Z",
+  "updatedAt": "2026-11-14T03:00:59.066Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "weather",
+      "id": "김지원",
       "rank": 1,
-      "keyword": "weather",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Flights grounded at all US airports due to air traffic control ‘communi…' (The Guardian) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Flights grounded at all US airports due to air traffic control ‘communication issue’, transport secretary says – live",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer"
-        },
-        {
-          "title": "Breaking: US aviation administration orders grounding of all flights",
-          "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-          "url": "https://www.abc.net.au/news/2026-11-14/us-aviation-admin-orders-grounding-of-all-flights/107385702"
-        },
-        {
-          "title": "US grounds flights nationwide after air traffic control communications outage",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13/"
-        }
-      ]
-    },
-    {
-      "id": "중앙일보",
-      "rank": 2,
-      "keyword": "중앙일보",
+      "keyword": "김지원",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '용산구, '용산형 생활안심디자인'으로 대한민국 범죄예방대상 경찰청장 표창 수상' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '전국환, 아동 성폭력 과거…김우석 피해자였다 ’충격’ (닥터X)' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "용산구, '용산형 생활안심디자인'으로 대한민국 범죄예방대상 경찰청장 표창 수상",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/RPR20261113001700353"
+          "title": "전국환, 아동 성폭력 과거…김우석 피해자였다 ’충격’ (닥터X)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261113/135023492/1"
         },
         {
-          "title": "안성 여성가구 안심특구 효과 톡톡…112신고 21.3% 감소",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261113_0003867261"
+          "title": "닥터X : 하얀 마피아의 시대 : [최종회 예고] “용케 살아서 여기까지 왔네” 김지원, 환자 수술 도중 중단 선언♨ (ft. 폐원)",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/drama/doctorx/clip/88586/OC483132189"
         },
         {
-          "title": "김해외국인근로자지원센터, 범죄예방대상 국무총리표창",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721843"
+          "title": "'닥터X', 김지원한테 결국 다 '계'며든 화기애애 현장 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/13/2026111314377253307"
         }
       ]
     },
     {
-      "id": "สภาพอากาศ",
-      "rank": 3,
-      "keyword": "สภาพอากาศ",
+      "id": "샌안토니오-대-골든-스테이트",
+      "rank": 2,
+      "keyword": "샌안토니오 대 골든 스테이트",
       "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'สภาพอากาศวันนี้ -19 พ.ย.ลมหนาวพักยก ไทยอุณหภูมิสูงขึ้น ฝนฟ้าคะนองบางแห่ง' (thansettakij) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Steph Curry Headlines 10-Player Injury Report for Warriors vs Spurs' (Yahoo Sports) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "สภาพอากาศวันนี้ -19 พ.ย.ลมหนาวพักยก ไทยอุณหภูมิสูงขึ้น ฝนฟ้าคะนองบางแห่ง",
-          "source": "thansettakij",
-          "url": "https://www.thansettakij.com/general-news/673733"
+          "title": "Steph Curry Headlines 10-Player Injury Report for Warriors vs Spurs",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/steph-curry-headlines-10-player-151824578.html"
         },
         {
-          "title": "ชุมพรอ่วมฝนถล่มข้ามคืน น้ำท่วมถนนหลายสาย โรงพยาบาลเร่งป้องกันน้ำเข้า CT-SCAN",
-          "source": "www.topnews.co.th",
-          "url": "https://www.topnews.co.th/news/1746285"
+          "title": "Is the Spurs-Warriors game still happening amid nationwide FAA ground stop?",
+          "source": "kens5.com",
+          "url": "https://www.kens5.com/article/sports/nba/spurs/spurs-warriors-game-nationwide-faa-ground-stop-wembanyama-curry-san-antonio-golden-state/273-ff9ec6e9-b162-47d5-8845-910f1d90b544"
         },
         {
-          "title": "เตือนภาคใต้ ยังมีฝนตกหนัก 70% เสี่ยงน้ำท่วมฉับพลัน | 13 พ.ย. 69 | ข่าวเย็นไทยรัฐ",
-          "source": "www.thairath.co.th",
-          "url": "https://www.thairath.co.th/video/channel/thairath_news/thairath-evening-news/1199340"
+          "title": "Warriors start Podz, Richard, Melton, Yaxel, Green",
+          "source": "NBC Sports",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-13/warriors-start-podz-richard-melton-yaxel-green"
         }
       ]
     },
     {
-      "id": "天气",
+      "id": "삼천당제약",
+      "rank": 3,
+      "keyword": "삼천당제약",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '삼천당제약 R&D 투자 3배 확대, 경구용 치료제 승부수' (의약뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "삼천당제약 R&D 투자 3배 확대, 경구용 치료제 승부수",
+          "source": "의약뉴스",
+          "url": "https://www.newsmp.com/news/articleView.html?idxno=259301"
+        },
+        {
+          "title": "삼천당제약 R&D 3배 폭증에도 실적 '무풍'…80% 자산화의 명암",
+          "source": "바이오북미디어",
+          "url": "https://www.biobookmedia.com/articles/9680"
+        },
+        {
+          "title": "'53억 승부수' 삼천당제약, 日 약가 등재 … 셀트리온과 맞대결",
+          "source": "뉴데일리",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/12/2026111200274.html"
+        }
+      ]
+    },
+    {
+      "id": "고용노동부",
       "rank": 4,
-      "keyword": "天气",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "keyword": "고용노동부",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '2026年11月14日，义安省天气预报：气温28摄氏度，早晨有雾，少量降雨。' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''가짜 3.3 계약'·'사업장 쪼개기' 잡는다…탈법 기획감독 착수' (대한민국 정책브리핑) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "2026年11月14日，义安省天气预报：气温28摄氏度，早晨有雾，少量降雨。",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/zh-cn/thoi-tiet-nghe-an-hom-nay-14-11-2026-troi-am-len-28c-sang-co-suong-mu-it-mua"
+          "title": "'가짜 3.3 계약'·'사업장 쪼개기' 잡는다…탈법 기획감독 착수",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975686&pWise=sub&pWiseSub=C1"
         },
         {
-          "title": "最新天气消息｜黄色暴雨警告信号一度生效 凌晨5时30分取消",
-          "source": "香港01",
-          "url": "https://global.hk01.com/%E5%A4%A9%E6%B0%94/60410538/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%94%E6%B6%88%E6%81%AF-%E9%BB%84%E8%89%B2%E6%9A%B4%E9%9B%A8%E8%AD%A6%E5%91%8A%E4%BF%A1%E5%8F%B7%E4%B8%80%E5%BA%A6%E7%94%9F%E6%95%88-%E5%87%8C%E6%99%A85%E6%97%B630%E5%88%86%E5%8F%96%E6%B6%88"
+          "title": "경비원·간병인도 개인사업자로…고령층 위장고용 확산 우려",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611081637001"
         },
         {
-          "title": "本港广泛地区下暴雨进行电力工作须注意安全｜即时新闻｜中港台｜on.cc东网",
-          "source": "on.cc東網",
-          "url": "https://hk.on.cc/hk/bkn/cnt/news/20261114/bkn-20261114040551299-1114_00822_001_cn.html"
+          "title": "노동법 피하려 '가짜 3.3'·사업장 쪼개기…노동부, 140곳 기획감독",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374720"
         }
       ]
     },
     {
-      "id": "погода",
+      "id": "ufc-335",
       "rank": 5,
-      "keyword": "погода",
-      "volumeLabel": "500+",
+      "keyword": "ufc 335",
+      "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Петербург стал другим. Фоторепортаж «Фонтанки» с улиц' (ФОНТАНКА.ру) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'UFC champion has his title stolen after no-showing press conference fea…' (Bloody Elbow) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Петербург стал другим. Фоторепортаж «Фонтанки» с улиц",
-          "source": "ФОНТАНКА.ру",
-          "url": "https://www.fontanka.ru/2026/11/13/76763284/"
+          "title": "UFC champion has his title stolen after no-showing press conference featuring Pereira and Oliveira",
+          "source": "Bloody Elbow",
+          "url": "https://bloodyelbow.com/2026/11/13/ufc-champion-has-his-title-stolen-after-no-showing-press-conference-featuring-pereira-and-oliveira/"
         },
         {
-          "title": "В Санкт-Петербурге выпал первый снег",
-          "source": "GISMETEO.Новости",
-          "url": "https://www.gismeteo.ru/news/weather/v-sankt-peterburge-vypal-pervyj-sneg-2/"
+          "title": "UFC 335/UFC 336 first faceoffs: BMF title, Pereira, Van-Kape, Prates-Morales",
+          "source": "MMA Junkie",
+          "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/13/ufc-335ufc-336-faceoffs-bmf-title-pereira-van-kape-prates-morales/92753027007/"
         },
         {
-          "title": "Ни зима, ни осень: Петербург 12 ноября накроет мокрая «каша» с Атлантики",
-          "source": "rosbalt.ru",
-          "url": "https://www.rosbalt.ru/news/2026-11-12/ni-zima-ni-osen-peterburg-12-noyabrya-nakroet-mokraya-kasha-s-atlantiki-5730216"
+          "title": "UFC 335 and UFC 336 press conference video",
+          "source": "MMA Fighting",
+          "url": "https://www.mmafighting.com/ufc/520942/ufc-335-and-ufc-336-press-conference-video"
         }
       ]
     },
     {
-      "id": "디에고-시메오네",
+      "id": "제물포구",
       "rank": 6,
-      "keyword": "디에고 시메오네",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''이강인은 60분 만에 뺐으면서...' 시메오네 감독의 단호한 한마디 \"알바레스는 교체하지 않을 거야\"... 스페인 현지서도 논…' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'이강인은 60분 만에 뺐으면서...' 시메오네 감독의 단호한 한마디 \"알바레스는 교체하지 않을 거야\"... 스페인 현지서도 논란 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/11/2026111108070646917"
-        },
-        {
-          "title": "\"이강인이 공만 잡으면 축구가 달라진다\"…바르샤전 패배에도 스페인 언론이 감탄한 이유",
-          "source": "fn스타",
-          "url": "https://star.fnnews.com/article/202611091910232899"
-        },
-        {
-          "title": "'참담했던 일주일, 점유율 축구가 무너졌다'…'이강인 활약' 아틀레티코, UCL 토너먼트 진출·라리가 우승 경쟁 흔들",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026111209391266820"
-        }
-      ]
-    },
-    {
-      "id": "天気",
-      "rank": 7,
-      "keyword": "天気",
-      "volumeLabel": "200+",
+      "keyword": "제물포구",
+      "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '【冬の嵐】18日（水）「台風並み」に発達する低気圧 大雨だけでなく「暴風と高波」にも警戒【3時間ごと雨風シミュレーション19日（木）まで／ 3…' (TBS NEWS DIG) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '제물포구, 방치·위험 간판 무상 철거 신청 접수' (뉴스타운) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "【冬の嵐】18日（水）「台風並み」に発達する低気圧 大雨だけでなく「暴風と高波」にも警戒【3時間ごと雨風シミュレーション19日（木）まで／ 3連休まで天気予報（23日まで）】気象庁",
-          "source": "TBS NEWS DIG",
-          "url": "https://newsdig.tbs.co.jp/articles/gallery/3085472"
+          "title": "제물포구, 방치·위험 간판 무상 철거 신청 접수",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721860"
         },
         {
-          "title": "週間天気予報 明日は広く本降りの雨 来週中頃は全国的に荒天注意",
-          "source": "ウェザーニュース",
-          "url": "https://weathernews.jp/news/202611/140031/"
+          "title": "하남시옥외광고협회, 겨울철 간판 안전점검…시민 안전 지킨다",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261112580244"
         },
         {
-          "title": "【11/14朝イチ！】 秋晴れは北へ 西から雨雲",
-          "source": "mopita",
-          "url": "https://topic.life-ranger.jp/%E6%9C%9D%E3%82%A4%E3%83%81/120649/"
+          "title": "인천 제물포구, 강풍·대설 앞두고 거리 위 ‘위험 간판’ 걷어낸다",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/region/article/all/20261113/135019673/1"
         }
       ]
     },
     {
-      "id": "김하성",
+      "id": "그랜드-테프트-오토",
+      "rank": 7,
+      "keyword": "그랜드 테프트 오토",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Travis Scott Shows Off What Appears to Be a Copy of ‘GTA 6’ Before Its …' (Yahoo) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Travis Scott Shows Off What Appears to Be a Copy of ‘GTA 6’ Before Its Release: ‘Bring Ya Own Controller’",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/entertainment/music/articles/travis-scott-shows-off-appears-205224176.html"
+        },
+        {
+          "title": "GTA VI Is Putting on a Music Festival",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/gta-vi-is-putting-on-a-music-festival/"
+        },
+        {
+          "title": "Cardi B, Travis Scott Set For 'GTA VI' Takeover Of Popular Miami Strip Club",
+          "source": "iHeart",
+          "url": "https://www.iheart.com/content/2026-11-12-cardi-b-travis-scott-set-for-gta-vi-takeover-of-popular-miami-strip-club/"
+        }
+      ]
+    },
+    {
+      "id": "광진구",
       "rank": 8,
-      "keyword": "김하성",
-      "volumeLabel": "200+",
+      "keyword": "광진구",
+      "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한국 돌아갈 일 없다! 타율 .116 최악의 해였는데…김하성 FA 인기 폭발 \"예상보다 높은 관심, 1년 계약 모색\" - 머니투…' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '광진구, 음식물 소형감량기 부산물 배출기준 완화…수분 25% 미만 종량제봉투 허용' (헤럴드경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "한국 돌아갈 일 없다! 타율 .116 최악의 해였는데…김하성 FA 인기 폭발 \"예상보다 높은 관심, 1년 계약 모색\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/13/202611121142773551O"
+          "title": "광진구, 음식물 소형감량기 부산물 배출기준 완화…수분 25% 미만 종량제봉투 허용",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10935627"
         },
         {
-          "title": "타격 부진에 FA 인기 걱정했는데‥\"필라델피아, 김하성 영입 검토\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864665_37004.html"
+          "title": "광진구, 가정용 소형감량기 부산물 일반 종량제봉투에 버리세요",
+          "source": "시사일보",
+          "url": ""
         },
         {
-          "title": "'김하성 시애틀 링크' 초대박! 가성비 선택지 3인 거론→3루수 활용 가능성까지…부상 없이 타격 생산성 회복 기대",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/baseball/2026-11-12/202611120100087870008295"
+          "title": "음식물 건조기 부산물, 이제 일반 종량제봉투에 버린다… 광진구, 배출 불편 ‘해소’",
+          "source": "시정일보",
+          "url": "https://www.sijung.co.kr/news/articleView.html?idxno=441265"
         }
       ]
     },
     {
-      "id": "제네시스-gv90",
+      "id": "기내식",
       "rank": 9,
-      "keyword": "제네시스 gv90",
-      "volumeLabel": "200+",
+      "keyword": "기내식",
+      "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '제네시스 GV90 계약 시작, 1억 3,950만원부터 2억 4,710만원까지' (네이버페이 머니스토리) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[데스크시각] 한앤코가 남긴 아이스크림' (Daum) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "제네시스 GV90 계약 시작, 1억 3,950만원부터 2억 4,710만원까지",
-          "source": "네이버페이 머니스토리",
-          "url": "https://story.pay.naver.com/content/3927_24_C62"
+          "title": "[데스크시각] 한앤코가 남긴 아이스크림",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/1vqWwIGhQg"
         },
         {
-          "title": "\"차가 아니라 호텔방?\"…제네시스가 내놓은 2억짜리 SUV",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611110499g"
+          "title": "[단독] 대한항공 ‘알짜’ 기내식 사업 결국 복수체제로...‘30년 계약’에 발묶여",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12206273"
         },
         {
-          "title": "[경제 단신] 전동화 ‘GV90’ 출시… 최고 2억3950만원 외",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261110515889"
+          "title": "벤슨·밴루엔·배라, 프리미엄 아이스크림 3파전…3色 전략 승부수",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261113_0003866417"
         }
       ]
     },
     {
-      "id": "은행나무",
+      "id": "삼양식품",
       "rank": 10,
-      "keyword": "은행나무",
-      "volumeLabel": "200+",
+      "keyword": "삼양식품",
+      "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '100살 넘은 은행나무에 제초제‥환기미술관장 등 3명 송치' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[주末머니]불닭은 식지 않는다…美핵심시장 침투에 멕시코·중국까지' (아시아경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "100살 넘은 은행나무에 제초제‥환기미술관장 등 3명 송치",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6865440_36918.html"
+          "title": "[주末머니]불닭은 식지 않는다…美핵심시장 침투에 멕시코·중국까지",
+          "source": "아시아경제",
+          "url": "https://core.asiae.co.kr/article/2026111310555774285"
         },
         {
-          "title": "'은행나무 독살' 의혹 부암동 환기미술관장 재물손괴로 송치",
+          "title": "[특징주] 삼양식품, 베트남 공장 설립 기대에 3%대 상승(종합)",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261113102300004"
+          "url": "https://www.yna.co.kr/view/AKR20261112040351008"
         },
         {
-          "title": "“100년 넘은 은행나무를 이렇게까지?” 뿌리에 구멍 뚫고 제초제…유명 미술관장 송치",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20113913"
+          "title": "밀양 찍고 중국 거쳐 베트남…삼양식품이 공장 계속 짓는 이유",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/ZA2fS09UNu"
         }
       ]
     }
