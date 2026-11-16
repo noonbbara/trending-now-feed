@@ -1,258 +1,260 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-11-16T00:55:32.171Z",
+  "updatedAt": "2026-11-16T07:50:49.486Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "한국은행",
+      "id": "당구",
       "rank": 1,
-      "keyword": "한국은행",
-      "volumeLabel": "10000+",
+      "keyword": "당구",
+      "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한국은행, 금 투자 늘렸는데… 시세 하락에 평가액 수백억원 줄어' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '조건휘, 시즌 3승 도전…프로당구 PBA-LPBA 6차 투어 열린다' (이데일리) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "한국은행, 금 투자 늘렸는데… 시세 하락에 평가액 수백억원 줄어",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/policy/policy_sub/2026/11/15/MKJ7VHDJRNAEDM7IP7QP2SXIUQ/"
+          "title": "조건휘, 시즌 3승 도전…프로당구 PBA-LPBA 6차 투어 열린다",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02187766645646376&mediaCodeNo=257"
         },
         {
-          "title": "한국은행, 3분기 금 ETF 1억달러어치 더 샀다",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01984406645646048"
+          "title": "PBA 시즌 후반부 돌입…21일부터 휴온스 챔피언십 개최",
+          "source": "데일리스포츠한국",
+          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435552"
         },
         {
-          "title": "한은, 3분기 금 ETF 41% 늘렸는데…금값 하락에 325억 증발",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261115500501"
+          "title": "프로당구 6차 투어 '휴온스 챔피언십' 21일 개막…조건휘 독주 이어질까",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2648475"
         }
       ]
     },
     {
-      "id": "윤석열",
+      "id": "카카오뱅크-애플페이",
       "rank": 2,
-      "keyword": "윤석열",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“국회 봉쇄는 상상”이라는 윤석열…항소심 마지막까지 사과도, 반성도 없었다' (한겨레) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“국회 봉쇄는 상상”이라는 윤석열…항소심 마지막까지 사과도, 반성도 없었다",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1287471.html"
-        },
-        {
-          "title": "尹 “계엄 해제됐는데 무슨 존속?”…내란 종료 시점 두고 설전",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712327"
-        },
-        {
-          "title": "‘탄핵소추 때까지 내란’ 2차 특검 주장에 피식 웃은 尹",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/11/13/FTZ3FTALNRC6TOX6AHL5BT6GNE/"
-        }
-      ]
-    },
-    {
-      "id": "김승수",
-      "rank": 3,
-      "keyword": "김승수",
-      "volumeLabel": "500+",
+      "keyword": "카카오뱅크 애플페이",
+      "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '미운 우리 새끼 : [11월 22일 예고] “전 안 돼요?” 김승수, 박혜연에게 진심 담아 조심스럽게 전한 고백' (programs.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[단독]카카오뱅크, 애플페이 서비스 시작' (전자신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "미운 우리 새끼 : [11월 22일 예고] “전 안 돼요?” 김승수, 박혜연에게 진심 담아 조심스럽게 전한 고백",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC483386268"
+          "title": "[단독]카카오뱅크, 애플페이 서비스 시작",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261116000304"
         },
         {
-          "title": "배우♥아나운서 커플 탄생하나..김승수, 박혜연에 고백 \"전 안 돼요?\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-11-16/202611160100101980009422"
+          "title": "카카오뱅크도 애플페이 뚫었다…체크·mini카드로 결제 가능 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/finance/2026/11/16/2026111614423465991"
         },
         {
-          "title": "김승수, 양정아에겐 ‘그냥 친구’…16세 연하 박혜연엔 “전 안 돼요?”",
+          "title": "“애플 지갑에 등록만 하면 바로 결제”…카뱅 애플페이 써보니",
           "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12209562"
+          "url": "https://www.mk.co.kr/news/economy/12209953"
         }
       ]
     },
     {
-      "id": "테니스-선수",
-      "rank": 4,
-      "keyword": "테니스 선수",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"허벅지가 호베르투 카를로스 같다\"…日 테니스 선수 미니스커트에 팬들 '환호'' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"허벅지가 호베르투 카를로스 같다\"…日 테니스 선수 미니스커트에 팬들 '환호'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261115_0003868557"
-        },
-        {
-          "title": "\"호베르투 카를로스 같은 허벅지!\"…日 미녀 테니스 선수 게시물 한 장에 '팬 14만명' 환호→\"힘이 넘쳐보이는 허벅지\"",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2219651"
-        },
-        {
-          "title": "\"허벅지가 호베르투 카를루스 같아\" 日 미녀 테니스 선수, 짧은 상의+미니스커트 조합에 찬사 폭발…14만 팬 사로잡았다",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019554"
-        }
-      ]
-    },
-    {
-      "id": "에어로케이",
-      "rank": 5,
-      "keyword": "에어로케이",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '에어로케이·후지드림항공 ‘일본 여행 위해 뭉쳤다’' (충청매일) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "에어로케이·후지드림항공 ‘일본 여행 위해 뭉쳤다’",
-          "source": "충청매일",
-          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1111184"
-        },
-        {
-          "title": "에어로케이항공, 후지드림항공과 일본 항공권 ‘1+1’ 이벤트",
-          "source": "중부매일",
-          "url": "https://www.jbnews.com/news/articleView.html?idxno=1515944"
-        },
-        {
-          "title": "에어로케이항공, 일본 후지드림항공과 공동 SNS 이벤트 진행",
-          "source": "세종충청뉴스",
-          "url": "https://www.sj-ccnews.com/news/articleView.html?idxno=63680"
-        }
-      ]
-    },
-    {
-      "id": "변상일",
-      "rank": 6,
-      "keyword": "변상일",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '신진서, 난적 당이페이에 불계승…삼성화재배 4강 진출' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "신진서, 난적 당이페이에 불계승…삼성화재배 4강 진출",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712926"
-        },
-        {
-          "title": "한국은 변상일-신진서, 중국은 리친청-구쯔하오…결승 한·중전 확정",
-          "source": "사이버오로",
-          "url": "https://www.cyberoro.com/news/N_news_view.oro?num=532950"
-        },
-        {
-          "title": "변상일, 후쿠오카에 극적인 뒤집기…삼성화재배 4강 진출",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261115041700007"
-        }
-      ]
-    },
-    {
-      "id": "고속도로-건설",
-      "rank": 7,
-      "keyword": "고속도로 건설",
-      "volumeLabel": "200+",
+      "id": "임현주",
+      "rank": 3,
+      "keyword": "임현주",
+      "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '경기 여주~충북 제천 잇는 ‘44㎞ 고속도로’ 건설 추진' (경기일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '임현주, MBC 퇴사 \"13년 8개월 재직…회사 밖 탐험할 것\"' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "경기 여주~충북 제천 잇는 ‘44㎞ 고속도로’ 건설 추진",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261115580186"
-        },
-        {
-          "title": "1시간 거리를 20분으로…울산 동서 잇는 새 길 열린다",
-          "source": "서울Pn",
-          "url": "https://m.go.seoul.co.kr/news/2026/11/15/20261115500050"
-        },
-        {
-          "title": "울산 동서 연결 ‘울산외곽순환고속도로’ 건설 공사 본격화",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261115.99099004282"
-        }
-      ]
-    },
-    {
-      "id": "미사일",
-      "rank": 8,
-      "keyword": "미사일",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '북한, 해킹 코인으로 ‘미사일 부품’ 사들이나' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "북한, 해킹 코인으로 ‘미사일 부품’ 사들이나",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/weeklybiz/2026/11/16/R5RD3V5JPBA6XD6H6TMXCRMXCE/"
-        },
-        {
-          "title": "北 해커, 얼굴 도용해 가상자산 5천억원 탈취…피해 영상만 900개",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261115580035"
-        },
-        {
-          "title": "FBI “북한, 소프트웨어 관리자 속여 대규모 악성코드 유포 시도”",
-          "source": "VOA 한국어 홈페이지",
-          "url": "https://www.voakorea.com/a/8223336.html"
-        }
-      ]
-    },
-    {
-      "id": "젠슨황-복귀",
-      "rank": 9,
-      "keyword": "젠슨황 복귀",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"젠슨 황, 엔비디아 CEO 복귀 논의 중‥백악관 설득 시도\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"젠슨 황, 엔비디아 CEO 복귀 논의 중‥백악관 설득 시도\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6865863_36925.html"
-        },
-        {
-          "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261116009100011"
-        },
-        {
-          "title": "젠슨 황 사퇴 나흘 만에 컴백 움직임…\"백악관 설득 시도\"",
+          "title": "임현주, MBC 퇴사 \"13년 8개월 재직…회사 밖 탐험할 것\"",
           "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111678157"
+          "url": "https://www.hankyung.com/article/202611169179H"
+        },
+        {
+          "title": "임현주 아나운서, MBC 떠난다 \"이제 회사 밖 세계 탐험\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261116_0003869250"
+        },
+        {
+          "title": "임현주 아나, 13년만에 MBC 퇴사 \"회사 밖 세상 탐험해보겠다\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6355292"
+        }
+      ]
+    },
+    {
+      "id": "논쟁",
+      "rank": 4,
+      "keyword": "논쟁",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '파키스탄 실종 여객기 PK404편, 위성 영상 공개로 37년 만의 재조사 논쟁' (글로벌이코노믹) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "파키스탄 실종 여객기 PK404편, 위성 영상 공개로 37년 만의 재조사 논쟁",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/20261116031224791720990b2dc5_1"
+        }
+      ]
+    },
+    {
+      "id": "신유열",
+      "rank": 5,
+      "keyword": "신유열",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘롯데 3세’ 신유열 롯데지주 부사장, 사장 승진… 그룹 전략 총괄 맡는다' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘롯데 3세’ 신유열 롯데지주 부사장, 사장 승진… 그룹 전략 총괄 맡는다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/market_trend/2026/11/16/CJULONS2TNETZL7ICZYE6RLNFQ/"
+        },
+        {
+          "title": "신동빈과 닮은꼴 행보 신유열 사장 승진…롯데, '젊은 피' 수혈",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1199622"
+        },
+        {
+          "title": "롯데 3세 신유열, 지주사 사장 승진…경영전략실 총괄(종합)",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444972"
+        }
+      ]
+    },
+    {
+      "id": "위메이드",
+      "rank": 6,
+      "keyword": "위메이드",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[기자수첩] 위메이드 창업주의 무책임한 침묵' (딜사이트) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[기자수첩] 위메이드 창업주의 무책임한 침묵",
+          "source": "딜사이트",
+          "url": "https://dealsite.co.kr/articles/172677"
+        },
+        {
+          "title": "박관호(최대주주), 위메이드 보유주식 계약 변경",
+          "source": "데일리인베스트",
+          "url": ""
+        },
+        {
+          "title": "레전드 오브 이미르 e스포츠 대회 세 번째 시즌, 28일 개최",
+          "source": "게임메카",
+          "url": "https://www.gamemeca.com/view.php?gid=1783479"
+        }
+      ]
+    },
+    {
+      "id": "낙상",
+      "rank": 7,
+      "keyword": "낙상",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"낙상 위험 미리 포착해 약사가 예방\"…새로운 약료 모델 '눈길'' (약사공론) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"낙상 위험 미리 포착해 약사가 예방\"…새로운 약료 모델 '눈길'",
+          "source": "약사공론",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=549019"
+        },
+        {
+          "title": "노인 낙상·섬망 위험 예측하는 약물 평가도구 개발…75만명 의료정보 분석",
+          "source": "메디컬투데이",
+          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623526"
+        },
+        {
+          "title": "낙상 막으려 쓴 신체억제대로 의사 유죄…무엇을 더 했어야 하나",
+          "source": "청년의사",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "서영교",
+      "rank": 8,
+      "keyword": "서영교",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '서영교 “의원 150석 이상이면 탄핵…다음 사람이 대법원장하면 돼” [정치시그널]' (채널A) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "서영교 “의원 150석 이상이면 탄핵…다음 사람이 대법원장하면 돼” [정치시그널]",
+          "source": "채널A",
+          "url": "https://ichannela.com/news/detail/000000560122.do"
+        },
+        {
+          "title": "민주당 박희승 의원 나리, 권력에 취한 겐가 [아침햇발]",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/opinion/column/1287400.html"
+        },
+        {
+          "title": "박희승, 유권자에 “미쳤나” 막말··· 논란되자 “정중히 사과”",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261113501764"
+        }
+      ]
+    },
+    {
+      "id": "신세계",
+      "rank": 9,
+      "keyword": "신세계",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "hiv",
+      "rank": 10,
+      "keyword": "hiv",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Zimbabwe’s HIV gains face a test among young people' (Al Jazeera) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Zimbabwe’s HIV gains face a test among young people",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/15/zimbabwes-hiv-gains-face-a-test-among-young-people"
+        },
+        {
+          "title": "Zimbabwe’s HIV Gains Face Test as Youth Infections Hit 4,400",
+          "source": "JournalArta",
+          "url": "https://journalarta.com/en/2026/11/15/zimbabwes-hiv-gains-face-test-young-people/"
+        },
+        {
+          "title": "Zimbabwe’s HIV success story faces a test among the youth",
+          "source": "Latest news from Azerbaijan",
+          "url": "https://news.az/news/zimbabwes-hiv-success-story-faces-a-test-among-the-youth"
         }
       ]
     }
