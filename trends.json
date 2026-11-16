@@ -1,286 +1,258 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-11-15T20:57:58.744Z",
+  "updatedAt": "2026-11-16T00:55:32.171Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "스페인-대-잉글랜드",
+      "id": "한국은행",
       "rank": 1,
-      "keyword": "스페인 대 잉글랜드",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "keyword": "한국은행",
+      "volumeLabel": "10000+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“스페인에 인종차별 있다고 한 적 없다”…투헬, 기자들에 격분' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '한국은행, 금 투자 늘렸는데… 시세 하락에 평가액 수백억원 줄어' (Chosunbiz) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“스페인에 인종차별 있다고 한 적 없다”…투헬, 기자들에 격분",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611150849003"
+          "title": "한국은행, 금 투자 늘렸는데… 시세 하락에 평가액 수백억원 줄어",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/policy/policy_sub/2026/11/15/MKJ7VHDJRNAEDM7IP7QP2SXIUQ/"
         },
         {
-          "title": "'야말 쉬어, 이강인 친구들이 끝냈다' 바에나-푸빌 연속골 폭발! 스페인, 체코 원정 2-0 완파..43경기 연속 무패 행진 질주",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/11/13/GVTGIZRYG5STSOJWGM4DIZRVMQ/"
+          "title": "한국은행, 3분기 금 ETF 1억달러어치 더 샀다",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01984406645646048"
         },
         {
-          "title": "스페인 공격수 예레미 피노, 프라하서 체코와 맞대결",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751818"
+          "title": "한은, 3분기 금 ETF 41% 늘렸는데…금값 하락에 325억 증발",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261115500501"
         }
       ]
     },
     {
-      "id": "한일전",
+      "id": "윤석열",
       "rank": 2,
-      "keyword": "한일전",
-      "volumeLabel": "5000+",
-      "startedLabel": "7시간 전",
+      "keyword": "윤석열",
+      "volumeLabel": "500+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '日 APBC 우승 제물은 3연속 한국... 11년째 일본전 무승 이어가' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“국회 봉쇄는 상상”이라는 윤석열…항소심 마지막까지 사과도, 반성도 없었다' (한겨레) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "日 APBC 우승 제물은 3연속 한국... 11년째 일본전 무승 이어가",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/15/236G5T6ILFDGNOMZQAC3BJM7M4/"
-        },
-        {
-          "title": "'3연속 준우승' 최원호 감독 \"韓 젊은 투수들 국제대회서 경쟁력 확인\" [APBC] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/16/2026111523234932942"
-        },
-        {
-          "title": "韓야구, 日에 13연패 수렁…2015년 이후 한 번도 못 이겼다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20261115/135029058/1"
-        }
-      ]
-    },
-    {
-      "id": "로스앤젤레스-fc",
-      "rank": 3,
-      "keyword": "로스앤젤레스 fc",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"손흥민 이적료 없이 다시 이적 가능\" 토트넘 깜짝 복귀 성사되나...내년 1월 협상 가능 선수로 등장, \"본격적인 카운트다운 …' (스포츠조선) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"손흥민 이적료 없이 다시 이적 가능\" 토트넘 깜짝 복귀 성사되나...내년 1월 협상 가능 선수로 등장, \"본격적인 카운트다운 시작\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/football/2026-11-14/202611140100095190008917"
-        },
-        {
-          "title": "'맙소사' 손흥민 충격 이적? LA FC와 결별 가능성 등장...스페인 매체 'FA 이적 가능성' 언급, \"이적료 없이 떠날 수 있다\"",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026111521553874736"
-        },
-        {
-          "title": "손흥민, 계약 만료 7개월 앞뒀는데… 거취에 ‘빨간불’ 켜진 이유",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1174799"
-        }
-      ]
-    },
-    {
-      "id": "공매도",
-      "rank": 4,
-      "keyword": "공매도",
-      "volumeLabel": "1000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“보스 돌려줘” 12만명 젠슨 황 복귀 청원…“타락한 실리콘밸리”' (한겨레) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“보스 돌려줘” 12만명 젠슨 황 복귀 청원…“타락한 실리콘밸리”",
+          "title": "“국회 봉쇄는 상상”이라는 윤석열…항소심 마지막까지 사과도, 반성도 없었다",
           "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1287402.html"
+          "url": "https://www.hani.co.kr/arti/society/society_general/1287471.html"
         },
         {
-          "title": "복귀 청원 15만 넘겨 vs \"겸손은 연기, 폭언 일삼아\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611160415444633_005.html"
-        },
-        {
-          "title": "창업자 한 명에 매달린 빅테크… '열쇠' 빠지자 뻥 뚫린 경영 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/11/16/2026111519385397101"
-        }
-      ]
-    },
-    {
-      "id": "필라데피아-대-인디애나",
-      "rank": 5,
-      "keyword": "필라데피아 대 인디애나",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '76ers' Joel Embiid out vs. Pacers due to plantar fascia management' (ESPN) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "76ers' Joel Embiid out vs. Pacers due to plantar fascia management",
-          "source": "ESPN",
-          "url": "https://www.espn.com/nba/story/_/id/50484216/76ers-joel-embiid-vs-pacers-due-plantar-fascia-management"
-        },
-        {
-          "title": "LeBron James Returns For Sixers As Back-To-Back Looms",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/lebron-james-returns-sixers-back-193834268.html"
-        },
-        {
-          "title": "Sixers vs. Pacers: Game Preview, Injury Report and How to Watch 11/15/2026",
-          "source": "NBA.com",
-          "url": "https://sixers.com/news/sixers-vs-pacers-game-preview-injury-report-and-how-to-watch-11-15-2026"
-        }
-      ]
-    },
-    {
-      "id": "주가순자산비율",
-      "rank": 6,
-      "keyword": "주가순자산비율",
-      "volumeLabel": "500+",
-      "startedLabel": "6시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '최대주주 지분 50% 이상인데 저PBR株 명단, 단독 공개합니다' (매일경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "최대주주 지분 50% 이상인데 저PBR株 명단, 단독 공개합니다",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/stock/12209219"
-        },
-        {
-          "title": "LG헬로비전·KT스카이라이프 '저PBR' 불명예…CJ ENM 등 PP는 사용료 '고수'",
-          "source": "MTN 머니투데이방송",
-          "url": "https://news.mtn.co.kr/article/2026111316373471161"
-        },
-        {
-          "title": "\"증시 저평가 기업, '비상장 전환'도 선택지\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/11/11/2026111114525184531"
-        }
-      ]
-    },
-    {
-      "id": "퇴직금",
-      "rank": 7,
-      "keyword": "퇴직금",
-      "volumeLabel": "500+",
-      "startedLabel": "7시간 전",
-      "change": "down",
-      "changeLabel": "-2",
-      "summary": "급상승 시점에 '가입자 192만 ‘노란우산’, 주민번호·전화번호 등 유출 가능성' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "가입자 192만 ‘노란우산’, 주민번호·전화번호 등 유출 가능성",
+          "title": "尹 “계엄 해제됐는데 무슨 존속?”…내란 종료 시점 두고 설전",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712930"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712327"
         },
         {
-          "title": "[사설] 뚫리지 않은 곳이 없다",
-          "source": "중부일보",
-          "url": ""
-        },
-        {
-          "title": "금융·대학·공공기관까지 줄줄이 뚫렸다…개인정보 유출 비상",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261115023400017"
-        }
-      ]
-    },
-    {
-      "id": "김민식",
-      "rank": 8,
-      "keyword": "김민식",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'KIA 1차지명 후보였는데…만년 유망주 끝내 방출, 그러나 은퇴는 없다 \"도전은 아직 끝나지 않았다\"' (SPOTV NEWS) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "KIA 1차지명 후보였는데…만년 유망주 끝내 방출, 그러나 은퇴는 없다 \"도전은 아직 끝나지 않았다\"",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019558"
-        },
-        {
-          "title": "두 번의 트레이드, 두 번의 우승…베테랑 포수 김민식, SSG 떠난다",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02791286645645064&mediaCodeNo=257"
-        },
-        {
-          "title": "SSG 떠난 ‘우승 포수’ 김민식, LG행 초읽기…계약 마무리 단계",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11631439"
-        }
-      ]
-    },
-    {
-      "id": "빙그레",
-      "rank": 9,
-      "keyword": "빙그레",
-      "volumeLabel": "100+",
-      "startedLabel": "3시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“한국인은 언제든 먹잖아요”에 우유 양보…빙그레도 나섰다 [잇슈#태그]' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“한국인은 언제든 먹잖아요”에 우유 양보…빙그레도 나섰다 [잇슈#태그]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8713167"
-        },
-        {
-          "title": "“뚱바 양보한 시민 찾습니다”…빙그레, 수소문 끝에 ‘명예 앰배서더’ 위촉",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261113/135023432/1"
-        },
-        {
-          "title": "공항서 ‘툭툭’ 치더니 “한국인이니까 양보해 달라”는 외국인…무슨 사연?",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20114331"
-        }
-      ]
-    },
-    {
-      "id": "스포츠조선",
-      "rank": 10,
-      "keyword": "스포츠조선",
-      "volumeLabel": "200+",
-      "startedLabel": "6시간 전",
-      "change": "down",
-      "changeLabel": "-4",
-      "summary": "급상승 시점에 '섹시 골퍼 불륜 탓 파혼 당했다고?..골프장서 포착된 다정한 모습 '발칵'' (스포츠조선) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "섹시 골퍼 불륜 탓 파혼 당했다고?..골프장서 포착된 다정한 모습 '발칵'",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-11-15/202611150100099060009211"
-        },
-        {
-          "title": "美 골프 여신, 상간녀 의혹 터졌다!…유명 유튜버 '약혼 취소' 연루 주장→404만 팔로워 스피라넥 \"절대 아냐\" 강한 부인",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2219668"
-        },
-        {
-          "title": "김민하 착시현상 뭐길래? 살구빛 '누드톤' 의상으로 존재감 과시",
+          "title": "‘탄핵소추 때까지 내란’ 2차 특검 주장에 피식 웃은 尹",
           "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/15/GU3TQNJVMQYWIM3DMUYDEOJUGA/"
+          "url": "https://www.chosun.com/national/court_law/2026/11/13/FTZ3FTALNRC6TOX6AHL5BT6GNE/"
+        }
+      ]
+    },
+    {
+      "id": "김승수",
+      "rank": 3,
+      "keyword": "김승수",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '미운 우리 새끼 : [11월 22일 예고] “전 안 돼요?” 김승수, 박혜연에게 진심 담아 조심스럽게 전한 고백' (programs.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "미운 우리 새끼 : [11월 22일 예고] “전 안 돼요?” 김승수, 박혜연에게 진심 담아 조심스럽게 전한 고백",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC483386268"
+        },
+        {
+          "title": "배우♥아나운서 커플 탄생하나..김승수, 박혜연에 고백 \"전 안 돼요?\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-11-16/202611160100101980009422"
+        },
+        {
+          "title": "김승수, 양정아에겐 ‘그냥 친구’…16세 연하 박혜연엔 “전 안 돼요?”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/entertain/12209562"
+        }
+      ]
+    },
+    {
+      "id": "테니스-선수",
+      "rank": 4,
+      "keyword": "테니스 선수",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"허벅지가 호베르투 카를로스 같다\"…日 테니스 선수 미니스커트에 팬들 '환호'' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"허벅지가 호베르투 카를로스 같다\"…日 테니스 선수 미니스커트에 팬들 '환호'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261115_0003868557"
+        },
+        {
+          "title": "\"호베르투 카를로스 같은 허벅지!\"…日 미녀 테니스 선수 게시물 한 장에 '팬 14만명' 환호→\"힘이 넘쳐보이는 허벅지\"",
+          "source": "엑스포츠뉴스",
+          "url": "https://www.xportsnews.com/article/2219651"
+        },
+        {
+          "title": "\"허벅지가 호베르투 카를루스 같아\" 日 미녀 테니스 선수, 짧은 상의+미니스커트 조합에 찬사 폭발…14만 팬 사로잡았다",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019554"
+        }
+      ]
+    },
+    {
+      "id": "에어로케이",
+      "rank": 5,
+      "keyword": "에어로케이",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '에어로케이·후지드림항공 ‘일본 여행 위해 뭉쳤다’' (충청매일) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "에어로케이·후지드림항공 ‘일본 여행 위해 뭉쳤다’",
+          "source": "충청매일",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1111184"
+        },
+        {
+          "title": "에어로케이항공, 후지드림항공과 일본 항공권 ‘1+1’ 이벤트",
+          "source": "중부매일",
+          "url": "https://www.jbnews.com/news/articleView.html?idxno=1515944"
+        },
+        {
+          "title": "에어로케이항공, 일본 후지드림항공과 공동 SNS 이벤트 진행",
+          "source": "세종충청뉴스",
+          "url": "https://www.sj-ccnews.com/news/articleView.html?idxno=63680"
+        }
+      ]
+    },
+    {
+      "id": "변상일",
+      "rank": 6,
+      "keyword": "변상일",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '신진서, 난적 당이페이에 불계승…삼성화재배 4강 진출' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "신진서, 난적 당이페이에 불계승…삼성화재배 4강 진출",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712926"
+        },
+        {
+          "title": "한국은 변상일-신진서, 중국은 리친청-구쯔하오…결승 한·중전 확정",
+          "source": "사이버오로",
+          "url": "https://www.cyberoro.com/news/N_news_view.oro?num=532950"
+        },
+        {
+          "title": "변상일, 후쿠오카에 극적인 뒤집기…삼성화재배 4강 진출",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261115041700007"
+        }
+      ]
+    },
+    {
+      "id": "고속도로-건설",
+      "rank": 7,
+      "keyword": "고속도로 건설",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '경기 여주~충북 제천 잇는 ‘44㎞ 고속도로’ 건설 추진' (경기일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "경기 여주~충북 제천 잇는 ‘44㎞ 고속도로’ 건설 추진",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261115580186"
+        },
+        {
+          "title": "1시간 거리를 20분으로…울산 동서 잇는 새 길 열린다",
+          "source": "서울Pn",
+          "url": "https://m.go.seoul.co.kr/news/2026/11/15/20261115500050"
+        },
+        {
+          "title": "울산 동서 연결 ‘울산외곽순환고속도로’ 건설 공사 본격화",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261115.99099004282"
+        }
+      ]
+    },
+    {
+      "id": "미사일",
+      "rank": 8,
+      "keyword": "미사일",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '북한, 해킹 코인으로 ‘미사일 부품’ 사들이나' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "북한, 해킹 코인으로 ‘미사일 부품’ 사들이나",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/weeklybiz/2026/11/16/R5RD3V5JPBA6XD6H6TMXCRMXCE/"
+        },
+        {
+          "title": "北 해커, 얼굴 도용해 가상자산 5천억원 탈취…피해 영상만 900개",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261115580035"
+        },
+        {
+          "title": "FBI “북한, 소프트웨어 관리자 속여 대규모 악성코드 유포 시도”",
+          "source": "VOA 한국어 홈페이지",
+          "url": "https://www.voakorea.com/a/8223336.html"
+        }
+      ]
+    },
+    {
+      "id": "젠슨황-복귀",
+      "rank": 9,
+      "keyword": "젠슨황 복귀",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"젠슨 황, 엔비디아 CEO 복귀 논의 중‥백악관 설득 시도\"' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"젠슨 황, 엔비디아 CEO 복귀 논의 중‥백악관 설득 시도\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6865863_36925.html"
+        },
+        {
+          "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261116009100011"
+        },
+        {
+          "title": "젠슨 황 사퇴 나흘 만에 컴백 움직임…\"백악관 설득 시도\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026111678157"
         }
       ]
     }
