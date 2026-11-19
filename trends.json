@@ -1,272 +1,288 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-11-19T01:24:54.943Z",
+  "updatedAt": "2026-11-19T09:22:32.409Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "시즌2",
+      "id": "수능-답지",
       "rank": 1,
-      "keyword": "시즌2",
-      "volumeLabel": "5000+",
-      "startedLabel": "1시간 전",
+      "keyword": "수능 답지",
+      "volumeLabel": "50000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '넷플릭스 '피지컬: 아시아' 시즌2 내년 공개' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[수능] EBS \"수학, 작년 수능과 비슷…입시업계 \"약간 어려울 수도\"(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "넷플릭스 '피지컬: 아시아' 시즌2 내년 공개",
+          "title": "[수능] EBS \"수학, 작년 수능과 비슷…입시업계 \"약간 어려울 수도\"(종합)",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261119043100005"
+          "url": "https://www.yna.co.kr/view/AKR20261119120151530"
         },
         {
-          "title": "‘피지컬: 아시아’, 2027년 시즌2로 귀환…더 커진 스케일·새 퀘스트 예고",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261119/135051869/1"
+          "title": "수능 영어, 지난해보다 쉽게 출제…9월 모평보다는 어려워[2027 수능]",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611191727001"
         },
         {
-          "title": "넷플릭스, '피지컬: 아시아' 시즌2 내년 공개",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261119_0003874452"
+          "title": "[2027 수능] 출제본부 “영어, 교육과정 수준에 맞춰 출제”",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/11/19/4NHSHAR4URAXFAHEFZYJWKSR5Y/"
         }
       ]
     },
     {
-      "id": "수능날-주식",
+      "id": "수능-등급컷",
       "rank": 2,
-      "keyword": "수능날 주식",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“10시까지 출근 아니었어요?”…대기업 직장인이 수능날 지각한 까닭' (매일경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“10시까지 출근 아니었어요?”…대기업 직장인이 수능날 지각한 까닭",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/business/12213210"
-        },
-        {
-          "title": "\"수능날 착각하지 마세요\"...프리마켓은 휴장, 정규장은 10시부터",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611185520i"
-        },
-        {
-          "title": "오늘 수능시험으로 증시 1시간 늦게 개장",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8716754"
-        }
-      ]
-    },
-    {
-      "id": "현금",
-      "rank": 3,
-      "keyword": "현금",
+      "keyword": "수능 등급컷",
       "volumeLabel": "2000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"현금 결제 안 된다\" 말에 내리려던 할아버지…함께 움직인 승객들' (연합뉴스TV) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[수능] 내 점수로 어디 갈까…오늘 저녁부터 입시학원 설명회' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"현금 결제 안 된다\" 말에 내리려던 할아버지…함께 움직인 승객들",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118171840KHo"
-        },
-        {
-          "title": "\"현금 안 돼요\" 어르신 버스 못 타게 되자…'감동'의 손길",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852779"
-        },
-        {
-          "title": "'천 원 두 장' 쥔 할아버지…\"현금 안 됩니다\" 거절에 옆 승객이 나섰다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261118_0003874008"
-        }
-      ]
-    },
-    {
-      "id": "이적-시장",
-      "rank": 4,
-      "keyword": "이적 시장",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '축구의 묘미는 역시 ‘바이시클킥’' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "축구의 묘미는 역시 ‘바이시클킥’",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716627"
-        },
-        {
-          "title": "포체티노, 맨체스터 도착해 맨유 감독 업무 시작…\"영광·특권\"",
+          "title": "[수능] 내 점수로 어디 갈까…오늘 저녁부터 입시학원 설명회",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261119020100007"
+          "url": "https://www.yna.co.kr/view/AKR20261118182700530"
         },
         {
-          "title": "'맨유행' 포체티노 감독 고별전…'풀리식 바이시클킥' 미국, 아이티에 2대 0 승리",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851818"
+          "title": "오디바이스, 2027학년도 정시 합격예측 서비스 ‘입시캐스트’ 오픈",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261119172357"
+        },
+        {
+          "title": "수능 이후 대학입시 대비전략은?[2027 수능]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261119_0003875583"
         }
       ]
     },
     {
-      "id": "홀드",
-      "rank": 5,
-      "keyword": "홀드",
+      "id": "주얼리",
+      "rank": 3,
+      "keyword": "주얼리",
       "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '올리아, 서울 주얼리 쇼룸에서 팝업 진행' (핸드메이커) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "올리아, 서울 주얼리 쇼룸에서 팝업 진행",
+          "source": "핸드메이커",
+          "url": "https://www.handmk.com/news/articleView.html?idxno=45236"
+        },
+        {
+          "title": "논논X하츠투하츠, ‘Lemon Tang’ 콜라보 주얼리 3종 선보여",
+          "source": "비욘드포스트",
+          "url": "https://www.beyondpost.co.kr/view.php?ud=20261119130424646637600e7ec7_30"
+        },
+        {
+          "title": "논논, 하츠투하츠와 협업한 ‘Lemon Tang’ 주얼리 컬렉션 공개",
+          "source": "스타데일리뉴스",
+          "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=602616"
+        }
+      ]
+    },
+    {
+      "id": "수능-끝",
+      "rank": 4,
+      "keyword": "수능 끝",
+      "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''파격 대우 거짓이었나' KBO 홀드왕, 연봉 대폭 깎이는데 재계약 거절했다' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '어쨌든 수능 끝! 수험생이여, 이제 할인을 즐겨라' (경향신문) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'파격 대우 거짓이었나' KBO 홀드왕, 연봉 대폭 깎이는데 재계약 거절했다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/19/MQZTINZXGQ3GGZTDMI3GGZRUHA/"
+          "title": "어쨌든 수능 끝! 수험생이여, 이제 할인을 즐겨라",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611191716001"
         },
         {
-          "title": "'삼성에 대참사' 1위팀 또 충격 소식 떴다! 홀드왕 연봉 인상 포기→결국 우승팀 간다 \"조만간 가계약 맺는다, 연봉 크게 줄어든다\"",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026111900561069830"
+          "title": "수험생을 위한 할인 이벤트",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8222601"
         },
         {
-          "title": "\"2년전 뇌질환, 10일간 의식불명\" 뒤늦은 난치병 고백, 미워할수 없는 남자의 뭉클한 작별인사 → \"나는 행운아입니다\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/baseball/2026-11-10/202611100100067290006304"
+          "title": "“목탁 스트레스볼에 퍼스널컬러까지”...‘합격 기원’에서 ‘경험·가족 소비’로 진화",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261118580425"
         }
       ]
     },
     {
-      "id": "올랜도-대-필라데피아",
+      "id": "lg-임원인사",
+      "rank": 5,
+      "keyword": "lg 임원인사",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'LG전자, 로보틱스·AIDC 냉각에 힘 싣는다…44명 승진·조직개편 단행' (지디넷코리아) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "LG전자, 로보틱스·AIDC 냉각에 힘 싣는다…44명 승진·조직개편 단행",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261119162858"
+        },
+        {
+          "title": "LG경영개발원 신임 대표에 하범종 ㈜LG 경영지원부문장",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261119137600003"
+        },
+        {
+          "title": "LG화학, 김무용·김상민 부사장 승진… 14명 임원 인사",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/industry/company/2026/11/19/3WYUUZM725BDZB2MGRFEL76KDM/"
+        }
+      ]
+    },
+    {
+      "id": "수능-결시율",
       "rank": 6,
-      "keyword": "올랜도 대 필라데피아",
+      "keyword": "수능 결시율",
       "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Philadelphia 76ers Visit Orlando Magic Wednesday Night' (NBA.com) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'AI 커닝 단속 강화 영향?…수능 결시자 3000명 넘게 늘었다(종합)' (뉴스1) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Philadelphia 76ers Visit Orlando Magic Wednesday Night",
-          "source": "NBA.com",
-          "url": "https://sixers.com/news/sixers-at-magic-game-preview-injury-report-and-how-to-watch-11-18-2026"
+          "title": "AI 커닝 단속 강화 영향?…수능 결시자 3000명 넘게 늘었다(종합)",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/education/6359569"
         },
         {
-          "title": "How Franz Wagner, Magic Can Make Biggest Statement Against LeBron James, 76ers",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/franz-wagner-magic-biggest-statement-185057625.html"
+          "title": "수능 1교시 응시자 49만 1천 명‥결시율 작년보다 높아",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6866952_36918.html"
         },
         {
-          "title": "Sixers head to Orlando for showdown with Franz Wagner and the Magic",
-          "source": "Liberty Ballers",
-          "url": "https://www.libertyballers.com/76ers-game-previews/102197/sixers-head-to-orlando-for-showdown-with-franz-wagner-and-the-magic"
+          "title": "경기도 수능 16만5천595명 응시…1교시 결시율 10.80%, 전년보다 상승",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261119580334"
         }
       ]
     },
     {
-      "id": "nginx",
+      "id": "대법관",
       "rank": 7,
-      "keyword": "nginx",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "keyword": "대법관",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE…' (wiz.io) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '조희대 대법원, 민주당에 대법관 월급을 20% 올려달라고 요청' (정경시사 FOCUS) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007",
-          "source": "wiz.io",
-          "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
+          "title": "조희대 대법원, 민주당에 대법관 월급을 20% 올려달라고 요청",
+          "source": "정경시사 FOCUS",
+          "url": "https://www.yjb0802.com/news/articleView.html?idxno=62750"
         },
         {
-          "title": "“World’s Best AI Hacker” Just Uncovered A Massive Web Vulnerability",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/thomasbrewster/2026/11/18/ai-finds-major-web-security-flaws/"
+          "title": "“조희대가 직접 나서라” 법원 공무직 노동자들 쟁의 선포",
+          "source": "민중의소리",
+          "url": "https://vop.co.kr/A00001697542.html"
         },
         {
-          "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html"
+          "title": "[속보] 대법원 \"계엄 선포 전, 국헌문란 목적 증명 어려워\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6866990_36918.html"
         }
       ]
     },
     {
-      "id": "전도연",
+      "id": "해군",
       "rank": 8,
-      "keyword": "전도연",
+      "keyword": "해군",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''53세' 전도연, 한뼘 초미니로 드러낸 각선미…美 아카데미도 반했다' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“전 세계가 날 주목해”…‘방중 관심’ 속 현지시찰 노출 [지금뉴스]' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'53세' 전도연, 한뼘 초미니로 드러낸 각선미…美 아카데미도 반했다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/celebrity/2026/11/18/MRSTIMZTMM3TGMZVMI2WMOBZGM/"
+          "title": "“전 세계가 날 주목해”…‘방중 관심’ 속 현지시찰 노출 [지금뉴스]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8717260"
         },
         {
-          "title": "뉴욕·LA…오스카 위해 뛰는 ‘가능한 사랑’",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261118070139540"
+          "title": "[속보] 경찰, 리트 만점자 \"사망으로 최종 판정시 감식 등 진행\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026111972367"
         },
         {
-          "title": "전도연, 오스카 레이스 뛰어드나…데뷔 후 첫 SNS 개설",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261118_0003873770"
+          "title": "북·미회담 기대감에도… 김정은은 지방 시찰, 美는 비핵화 원칙 재확인",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261119509212"
         }
       ]
     },
     {
-      "id": "gemini-neon",
+      "id": "한성숙",
       "rank": 9,
-      "keyword": "gemini neon",
+      "keyword": "한성숙",
       "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Introducing Gemini 4 Neon' (blog.google) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '한 총리 \"작년 수능 시험지 보관하라\" 긴급 지시' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Introducing Gemini 4 Neon",
-          "source": "blog.google",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+          "title": "한 총리 \"작년 수능 시험지 보관하라\" 긴급 지시",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6866921_36911.html"
         },
         {
-          "title": "Gemini 4 Hydrogen: a faster model for general purpose robotics",
-          "source": "Google for Developers Blog",
-          "url": "https://developers.googleblog.com/gemini-hydrogen-for-robotics/"
+          "title": "작년 수능 부정행위 찾나···교육부, 전국 시도교육청에 “지난해 수능 시험지 폐기 말라” 공문",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611191450011"
         },
         {
-          "title": "Google launches Gemini 4 Neon with Carbon quality at Flash speeds, live for AI Pro",
-          "source": "9to5Google",
-          "url": "https://9to5google.com/2026/11/18/gemini-4-neon-announcement/"
+          "title": "한성숙 총리, 작년 수능 시험지 보관 긴급 지시 \"별도 지시 있을 때까지\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/11/19/2026111915034124791"
         }
       ]
     },
     {
-      "id": "test-alert",
+      "id": "라미란",
       "rank": 10,
-      "keyword": "test alert",
+      "keyword": "라미란",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "summary": "급상승 시점에 ''보검 매직컬2' 측 \"고경표 음주운전 유감…시청 불편 최소화\"' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": []
+      "newsSignals": [
+        {
+          "title": "'보검 매직컬2' 측 \"고경표 음주운전 유감…시청 불편 최소화\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261118043900005"
+        },
+        {
+          "title": "유아인 마약에 3년 기다렸는데... 라미란, 고경표 음주운전에 차기작 날벼락",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/18/MVRTEMZXMQZGMZTFGQ2GMOJWGU/"
+        },
+        {
+          "title": "AI 부정행위 논란 속 고경표가 '최대 수혜자'? [앵커리포트]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202611181435551476"
+        }
+      ]
     }
   ]
 }
