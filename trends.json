@@ -1,270 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-11-20T23:56:34.744Z",
+  "updatedAt": "2026-11-21T06:53:51.022Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "연예인",
+      "id": "전북-대-fc-서울",
       "rank": 1,
-      "keyword": "연예인",
-      "volumeLabel": "2000+",
-      "startedLabel": "2시간 전",
+      "keyword": "전북 대 fc 서울",
+      "volumeLabel": "5000+",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''성폭행 유죄' 강지환도 고영욱처럼…틱톡 하루 만에 '삭제' 굴욕 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"두 개 다 잡을 수는 없지만, 승점 3점이 목표\" 김기동 감독, 아시아 무대에 무게...우승 확정한 서울의 남은 시즌 운영 계…' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'성폭행 유죄' 강지환도 고영욱처럼…틱톡 하루 만에 '삭제' 굴욕 - 머니투데이",
+          "title": "\"두 개 다 잡을 수는 없지만, 승점 3점이 목표\" 김기동 감독, 아시아 무대에 무게...우승 확정한 서울의 남은 시즌 운영 계획 [현장 인터뷰] - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/20/2026112020104015314"
+          "url": "https://www.mt.co.kr/sports/2026/11/21/202611211305774612O"
         },
         {
-          "title": "‘스태프 성폭행’ 강지환, 뜨개질로 복귀 시동…하루 만에 퇴출됐다",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261120064541041"
+          "title": "아시아 무대 절실한 전북 vs 챔피언 체면 걸린 서울...선발 라인업 공개 [오!쎈 전주]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/11/21/HA4GINRWGM4WKOBSGM3GCZTGHA/"
         },
         {
-          "title": "'성범죄 유죄' 강지환, 7년 만에 직접 전한 근황…뜨개질 하며 틱톡서 소통",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6360330"
+          "title": "'전주성에서 우승팀 잡는다' 전북 현대, FC서울 상대로 반격 준비...ACL 진출권 향한 중요한 승부 [오!쎈 프리뷰]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112912557"
         }
       ]
     },
     {
-      "id": "nvda",
+      "id": "손정의",
       "rank": 2,
-      "keyword": "nvda",
+      "keyword": "손정의",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“소프트뱅크 손정의, 최근 SK하이닉스 1조달러 인수안 검토”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“소프트뱅크 손정의, 최근 SK하이닉스 1조달러 인수안 검토”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611211309001"
+        },
+        {
+          "title": "“손정의, 1346조원에 SK하이닉스 인수 구상…월가에 자금 조달안 문의”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12215251"
+        },
+        {
+          "title": "“손정의 회장, SK하이닉스 1조달러에 인수 검토”",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/industry/company/2026/11/21/NSICUJZQJZG47HLINIL3KW7PK4/"
+        }
+      ]
+    },
+    {
+      "id": "마피아42",
+      "rank": 3,
+      "keyword": "마피아42",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '초겨울 추위에도 밤샘 대기…게임 열기 뜨거운 지스타 2026' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "초겨울 추위에도 밤샘 대기…게임 열기 뜨거운 지스타 2026",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261121029700017"
+        },
+        {
+          "title": "개장 직후 최대 4시간 대기…웹젠 ‘디펜폭’에 주말 지스타 관람객 몰려",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261121130015"
+        },
+        {
+          "title": "[게임위드인] AI로 외연 확장 노린 지스타…관람객은 게임에 몰렸다",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1203595"
+        }
+      ]
+    },
+    {
+      "id": "후티",
+      "rank": 4,
+      "keyword": "후티",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '리야드 80층 빌딩, 후티 미사일에 파손…네타냐후 “시기 조율만 남아”' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "리야드 80층 빌딩, 후티 미사일에 파손…네타냐후 “시기 조율만 남아”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8717995"
+        },
+        {
+          "title": "사우디 연합군 \"홍해 후티 반군 '무기 밀수 근거지' 타격\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261121001800079"
+        },
+        {
+          "title": "후티, 사우디 '1조달러' 국부펀드 본사 공격",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04063926645647688"
+        }
+      ]
+    },
+    {
+      "id": "농산물",
+      "rank": 5,
+      "keyword": "농산물",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[패트롤] 구리시-남양주시-양평군-포천시-하남시' (에너지경제신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[패트롤] 구리시-남양주시-양평군-포천시-하남시",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20261120024322794"
+        },
+        {
+          "title": "\"농가 물류비부터 아파트 관리비까지\"…인제군, 민생 체감형 지원 박차",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/kangwon/6359806"
+        },
+        {
+          "title": "인제군, 직거래 택배비 50% 지원…958농가 11월 30일까지 청구",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756325"
+        }
+      ]
+    },
+    {
+      "id": "유현-조",
+      "rank": 6,
+      "keyword": "유현 조",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sour…' (Reuters) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '유현조, LPGA 퀄리파잉 시리즈 2R 공동 6위…김민선은 공동 21위' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/"
+          "title": "유현조, LPGA 퀄리파잉 시리즈 2R 공동 6위…김민선은 공동 21위",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719082"
         },
         {
-          "title": "Nvidia stock extends $2.7 trillion rout as SEC probe reportedly investigates its accounting",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html"
-        },
-        {
-          "title": "Jensen Huang's — and Nvidia's — legal exposure balloons",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html"
-        }
-      ]
-    },
-    {
-      "id": "경찰관",
-      "rank": 3,
-      "keyword": "경찰관",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '서울대생도 경찰관도 \"내꺼 써\"...잇단 '수능 미담들' [나우쇼츠]' (YTN) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "서울대생도 경찰관도 \"내꺼 써\"...잇단 '수능 미담들' [나우쇼츠]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611201235515564_005.html"
-        },
-        {
-          "title": "수능날 '시계 문제' 겪은 수험생…경찰관도 서울대생도 손목시계 풀었다",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01981126645647688&mediaCodeNo=257"
-        },
-        {
-          "title": "\"엄마, 시계 멈췄어\" 당황한 삼수생...경찰이 '수백만원 시계' 건넸다[오따뉴] - 머니투데이",
+          "title": "'신인상→대상' 유현조, 이젠 LPGA가 보인다... Q시리즈 2R 공동 6위 점프 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/20/2026112006293468961"
+          "url": "https://www.mt.co.kr/culture/2026/11/21/2026112115073354729"
+        },
+        {
+          "title": "유현조, LPGA Q시리즈 최종전 1R서 공동 8위…선두와 3타 차",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261120014800007"
         }
       ]
     },
     {
-      "id": "경기남부",
-      "rank": 4,
-      "keyword": "경기남부",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"오를 곳은 더 오른다\"…경기 남부 집값 고공행진 속 공급 급감' (파이낸셜뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"오를 곳은 더 오른다\"…경기 남부 집값 고공행진 속 공급 급감",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611201430139857"
-        },
-        {
-          "title": "경기 남부 아파트값 고공행진…광교 22억 신고가에 서울 외곽 추월",
-          "source": "서울뉴스통신",
-          "url": ""
-        },
-        {
-          "title": "기흥 국평이 16억…반도체벨트 집값 줄줄이 전고점 돌파",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261119_0003875586"
-        }
-      ]
-    },
-    {
-      "id": "나스닥-100",
-      "rank": 5,
-      "keyword": "나스닥 100",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '나스닥 100, 사상 최고치 대비 약 20% 하락: 과거 데이터상 60거래일 후 상승 확률 80%' (TradingKey) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "나스닥 100, 사상 최고치 대비 약 20% 하락: 과거 데이터상 60거래일 후 상승 확률 80%",
-          "source": "TradingKey",
-          "url": "https://www.tradingkey.com/kr/analysis/stocks/us-stocks/262316128-nasdaq-100-drawdown-20-percent-intraday-15-percent-backtest-tradingkey"
-        },
-        {
-          "title": "나스닥 선물, 한때 26,280.5포인트로 밀려 4월 중순 이후 최저",
-          "source": "토큰포스트",
-          "url": "https://www.tokenpost.kr/news/breaking/441375"
-        },
-        {
-          "title": "나스닥 선물 0.74%, S&P500 선물 0.34% 하락",
-          "source": "토큰포스트",
-          "url": "https://www.tokenpost.kr/news/market/441360"
-        }
-      ]
-    },
-    {
-      "id": "공매도",
-      "rank": 6,
-      "keyword": "공매도",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“주식 어디가 바닥인데요?” 외국인은 이미 탈출…이건 7.4조 샀다는데' (매일경제 마켓) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "“주식 어디가 바닥인데요?” 외국인은 이미 탈출…이건 7.4조 샀다는데",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1203507"
-        },
-        {
-          "title": "외국인, 지난달 우리나라 주식 26조 원 '팔자'‥두 달 연속 순매도",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6867106_36932.html"
-        },
-        {
-          "title": "삼전닉스만 닷새간 7.6조…외국인, 두 달 새 국내 주식 45조 순매도",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04254166645647688"
-        }
-      ]
-    },
-    {
-      "id": "대전광역시",
+      "id": "피겨스케이팅",
       "rank": 7,
-      "keyword": "대전광역시",
+      "keyword": "피겨스케이팅",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "summary": "급상승 시점에 '피겨 김서영, 개인 최고점으로 시니어 그랑프리 5차 쇼트 3위' (MBC 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
-      "newsSignals": []
+      "newsSignals": [
+        {
+          "title": "피겨 김서영, 개인 최고점으로 시니어 그랑프리 5차 쇼트 3위",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6867446_36946.html"
+        },
+        {
+          "title": "피겨 김서영, 5차 그랑프리 쇼트 3위…김유성·이해인도 메달 도전",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261121/135064584/1"
+        },
+        {
+          "title": "피겨 김서영, 시니어 그랑프리 5차 쇼트 3위…개인 최고점",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261121000500007"
+        }
+      ]
     },
     {
-      "id": "mu",
+      "id": "카타르-축구-국가대표팀",
       "rank": 8,
-      "keyword": "mu",
+      "keyword": "카타르 축구 국가대표팀",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Micron Keeps Falling as Memory Stocks Get Agonizingly Cheap' (Barron's) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '중원의 핵 황인범의 소신발언 “임시 감독 체제 긍정적이지 않아”' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Micron Keeps Falling as Memory Stocks Get Agonizingly Cheap",
-          "source": "Barron's",
-          "url": "https://www.barrons.com/articles/micron-stock-memory-price-catalyst-58e84734"
+          "title": "중원의 핵 황인범의 소신발언 “임시 감독 체제 긍정적이지 않아”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8715445"
         },
         {
-          "title": "Micron Stock Draws Big Hedge Fund Bets as AI Memory Demand Surges",
-          "source": "TradingView",
-          "url": "https://www.tradingview.com/news/gurufocus:21138983e094b:0-micron-stock-draws-big-hedge-fund-bets-as-ai-memory-demand-surges/"
+          "title": "모레노 정식 사령탑 부임 보도에 선 그은 축구협회 \"사실무근\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261120_0003876995"
         },
         {
-          "title": "Micron Stock (MU) Crashes Over 11% to Historic Bargain Levels. Wall Street Still Sees 169% Upside.",
-          "source": "TipRanks",
-          "url": "https://www.tipranks.com/news/micron-stock-mu-crashes-over-11-to-historic-bargain-levels-wall-street-still-sees-169-upside"
+          "title": "“이강인, 기대 많이 했는데” 西 언론 차가운 일침 “LEE 이제는 한 단계 올라가서, 핵심 선수로 거듭나야 한...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611202010003"
         }
       ]
     },
     {
-      "id": "한국항공우주산업",
+      "id": "콜레라",
       "rank": 9,
-      "keyword": "한국항공우주산업",
+      "keyword": "콜레라",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[박성진의 국방 B컷](70) 무기 중개상은 왜 ‘KF-21, FA-50 미사일 전력화’의 잡음을 노리나' (주간경향) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '창원서 콜레라 환자 확인…10년 만에 ‘국내 발생 추정’' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[박성진의 국방 B컷](70) 무기 중개상은 왜 ‘KF-21, FA-50 미사일 전력화’의 잡음을 노리나",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202611201509001"
+          "title": "창원서 콜레라 환자 확인…10년 만에 ‘국내 발생 추정’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718881"
         },
         {
-          "title": "“한국항공우주, 10년전과 완전히 달라진 체급…엔진 공급이 병목”",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1202951"
+          "title": "10년 만에 국내서 콜레라 환자 발생‥질병청 \"감염 경로 파악 중\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6867275_36918.html"
         },
         {
-          "title": "[단독] [밀덕텔링] KF-21 ‘전자전기’ 첫 공개…재밍 포드 3개에 AI까지 달았다",
-          "source": "비즈한국",
-          "url": "https://bizhankook.com/articles/kf21-electronic-warfare-version-unveiled.html"
+          "title": "쇼크·사망 부르는 콜레라, 한국서 10년 만 발생…'쌀뜨물 설사' 의심을 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/thebio/2026/11/20/2026112014085876352"
         }
       ]
     },
     {
-      "id": "가덕도신공항",
+      "id": "의성군",
       "rank": 10,
-      "keyword": "가덕도신공항",
+      "keyword": "의성군",
       "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
+      "startedLabel": "3시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''모두의카드' 반값 할인, 내년 연중 상시화 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '지방소멸 위기 의성, 경북 첫 청년친화도시 됐다' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "'모두의카드' 반값 할인, 내년 연중 상시화 - 머니투데이",
+          "title": "지방소멸 위기 의성, 경북 첫 청년친화도시 됐다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261120042100053"
+        },
+        {
+          "title": "의성군, 국무조정실 주관 '2026년 청년친화도시' 선정…도내 최초 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/index.php/estate/2026/11/20/2026111920143897539"
+          "url": "https://www.mt.co.kr/policy/2026/11/20/2026112009040476615"
         },
         {
-          "title": "가덕도신공항 내년 예산, 2200억 원 더해져 총 6511억 원으로 늘어",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261120.99099006399"
-        },
-        {
-          "title": "경기 주요 철도·도로 사업 내년도 예산안 일부 증액",
-          "source": "경기신문",
-          "url": "https://www.kgnews.co.kr/news/article.html?no=920374"
+          "title": "춘천 ‘청년 친화도시’ 지정…“실험하는 도시 조성!”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716915"
         }
       ]
     }
