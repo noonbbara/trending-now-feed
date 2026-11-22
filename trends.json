@@ -1,270 +1,286 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-11-22T17:43:59.775Z",
+  "updatedAt": "2026-11-22T23:30:00.626Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "리버풀-대-맨유",
+      "id": "날씨",
       "rank": 1,
-      "keyword": "리버풀 대 맨유",
-      "volumeLabel": "10000+",
+      "keyword": "날씨",
+      "volumeLabel": "500000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '“새 감독 선임한 맨유가 어떤 축구를 할지 모르겠다”… 노스웨스트 더비 앞두고 경계심 드러낸 리버풀 감독, “경기 초반이 중요”' (베스트일레븐) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[날씨] 월요일 아침 영하권 추위…전국에 비·눈 소식' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "“새 감독 선임한 맨유가 어떤 축구를 할지 모르겠다”… 노스웨스트 더비 앞두고 경계심 드러낸 리버풀 감독, “경기 초반이 중요”",
-          "source": "베스트일레븐",
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=314241"
+          "title": "[날씨] 월요일 아침 영하권 추위…전국에 비·눈 소식",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261122040000004"
         },
         {
-          "title": "11월 22일 23시 30분, 프리미어 리그 11라운드 리버풀 대 맨체스터 유나이티드 경기 생중계 링크입니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/link-xem-truc-tiep-liverpool-vs-man-united-23h30-ngay-22-11-vong-11-ngoai-hang-anh"
-        },
-        {
-          "title": "리버풀·맨유 맞대결…이삭 7골 vs 음뵈모 4골 : EPL",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1114277"
-        }
-      ]
-    },
-    {
-      "id": "맨유",
-      "rank": 2,
-      "keyword": "맨유",
-      "volumeLabel": "1000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '맨유 포체티노, 데뷔전 앞두고 기자회견 지각…“샤워할 시간도 없었어”' (동아일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "맨유 포체티노, 데뷔전 앞두고 기자회견 지각…“샤워할 시간도 없었어”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20261121/135064952/1"
-        },
-        {
-          "title": "축구의 묘미는 역시 ‘바이시클킥’",
+          "title": "눈·비 ‘미끄럼’ 주의…서울 낮기온 10도",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8716627"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719524"
         },
         {
-          "title": "'얼마나 진심인지 감도 안 옴' \"죄송합니다, 방금까지 훈련했습니다\" 포체티노의 황당한 첫 기자회견...샤워도 못 하고 등장 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/21/202611211136770084O"
+          "title": "[날씨] 전국 점차 비·강원 산간 눈...출근길 중부 '어는 비'",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0108_202611230648220971_005.html"
         }
       ]
     },
     {
-      "id": "liverpool-vs-man-utd",
+      "id": "치매",
+      "rank": 2,
+      "keyword": "치매",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Bruce Willis Seen in New Photo with Daughter Tallulah amid His Dementia…' (People.com) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Bruce Willis Seen in New Photo with Daughter Tallulah amid His Dementia Diagnosis",
+          "source": "People.com",
+          "url": "https://people.com/bruce-willis-seen-in-new-photo-shared-by-daughter-tallulah-12270959"
+        },
+        {
+          "title": "Tallulah Willis apologizes for sharing ‘intimate’ photo with dad Bruce: ‘I can do better’",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/tallulah-willis-apologizes-sharing-intimate-190631378.html"
+        },
+        {
+          "title": "Bruce Willis' daughter apologizes for sharing 'intimate' photo of him",
+          "source": "USA Today",
+          "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/11/22/bruce-willis-daughter-tallulah-new-photo-apology/92913243007/"
+        }
+      ]
+    },
+    {
+      "id": "노시환",
       "rank": 3,
-      "keyword": "liverpool vs man utd",
+      "keyword": "노시환",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"4년간 116홈런에 강한 어깨까지\" 양키스 3루수 후보 노시환, 美 현지 매체가 짚은 약점은?' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"4년간 116홈런에 강한 어깨까지\" 양키스 3루수 후보 노시환, 美 현지 매체가 짚은 약점은?",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/22/MZQTGODGGQZDIZDDMEZGMYJZMI/"
+        },
+        {
+          "title": "\"日 사토보단 싸다\" 한화 노시환, ML 정말 가나! 주전 3루수 판 캔자스시티 급부상 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/22/2026112215404271386"
+        },
+        {
+          "title": "美 매체 야드바커, 노시환 '수비 최대 강점' 평가…MLB 가성비 3루수 후보로 떠올라",
+          "source": "데일리스포츠한국",
+          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435795"
+        }
+      ]
+    },
+    {
+      "id": "김호령",
+      "rank": 4,
+      "keyword": "김호령",
+      "volumeLabel": "2000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김호령 KIA 유턴 가능성? 김호령 이어 정수빈까지 시장 나오나… 중견수 시장 지각변동' (SPOTV NEWS) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김호령 KIA 유턴 가능성? 김호령 이어 정수빈까지 시장 나오나… 중견수 시장 지각변동",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021260"
+        },
+        {
+          "title": "김호령은 말할 것도 없고, FA는 C등급이 볼매…전병우와 김상수도? 삼성 ‘구원’만 지키면 안 되는구나",
+          "source": "마이데일리",
+          "url": "https://www.mydaily.co.kr/page/view/2026112305332992187"
+        },
+        {
+          "title": "김호령? KIA, 신중하게 접근해야…대안 있다면 과감하게 결단할 필요도, 김호령도 자신의 가치 인정하는 구단과 계약해야",
+          "source": "마니아타임즈",
+          "url": "https://www.maniareport.com/view.php?ud=20261122072216318291b55a0d56_19"
+        }
+      ]
+    },
+    {
+      "id": "울릉도",
+      "rank": 5,
+      "keyword": "울릉도",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Liverpool vs Manchester United LIVE: Premier League build-up, team news…' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[단독]울릉도 표류 北 주민 6명 조만간 송환하기로' (동아일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Liverpool vs Manchester United LIVE: Premier League build-up, team news, stats & updates",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cm62pqqw6d29t"
+          "title": "[단독]울릉도 표류 北 주민 6명 조만간 송환하기로",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20261123/135070407/2"
         },
         {
-          "title": "Liverpool v Manchester United: Premier League – live",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-premier-league-live"
+          "title": "에스더기도운동 2026년 11월 3주차 북한 및 국가 기도제목 : 선교",
+          "source": "크리스천투데이",
+          "url": "https://www.christiantoday.co.kr/news/378655"
         },
         {
-          "title": "Andoni Iraola programme notes | Why Liverpool need to be 'all in' from the off today",
-          "source": "Liverpool FC",
-          "url": "https://www.liverpoolfc.com/news/andoni-iraola-programme-notes-liverpool-all-in-manchester-united"
+          "title": "울릉공항 지정면세점, 여객선 관광객은 혜택 못 받나",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20261122094051322"
         }
       ]
     },
     {
-      "id": "ล-เวอร-พ-ล-พบ-แมนย",
-      "rank": 4,
-      "keyword": "ล เวอร พ ล พบ แมนย",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'การถ่ายทอดสดการแข่งขันระหว่างลิเวอร์พูลกับแมนยูฯ 2-0 (ครึ่งแรก): ลิเวอร…' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "การถ่ายทอดสดการแข่งขันระหว่างลิเวอร์พูลกับแมนยูฯ 2-0 (ครึ่งแรก): ลิเวอร์พูลยิงสองประตูอย่างรวดเร็ว",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/truc-tiep-liverpool-vs-mu-2-0-hiep-1-liverpool-ghi-2-ban-chong-vanh"
-        },
-        {
-          "title": "ทุกสิ่งที่ควรรู้ : ก่อนแดงจะเดือดครั้งที่219",
-          "source": "แนวหน้า",
-          "url": "https://www.naewna.com/n/sports/186865/"
-        },
-        {
-          "title": "ย้อนวันวานโหมโรงศึก ‘แดงเดือด’ มีเหตุการณ์ที่นำจดจำแบบไหนเกิดขึ้นบ้าง",
-          "source": "เดลินิวส์",
-          "url": "https://www.dailynews.co.th/articles/6379649/"
-        }
-      ]
-    },
-    {
-      "id": "fc-barcelona-vs-villarreal-cf-standings",
-      "rank": 5,
-      "keyword": "fc barcelona vs villarreal cf standings",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Barcelona Shuffles Defense for Villarreal Clash to Protect La Liga Lead…' (재경일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Barcelona Shuffles Defense for Villarreal Clash to Protect La Liga Lead : Sports : JKN",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/editions/english/post/1114598"
-        },
-        {
-          "title": "Licensable picture: Soccer 2026: LaLiga: FC Barcelona - Villarreal CF",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/soccer-2026-laliga-fc-barcelona-villarreal-cf/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBPWlVWMVg"
-        },
-        {
-          "title": "Mbappé curse strikes Yamal: disastrous historic record as Raphinha pays the price",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en/news/mbappe-curse-strikes-yamal-disastrous-historic-record-as-raphinha-pays-the-price/blt049a22c7245535b3"
-        }
-      ]
-    },
-    {
-      "id": "liverpool-đấu-với-man-utd",
+      "id": "thứ-hạng-của-barcelona-gặp-villarreal",
       "rank": 6,
-      "keyword": "liverpool đấu với man utd",
-      "volumeLabel": "200+",
+      "keyword": "thứ hạng của barcelona gặp villarreal",
+      "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Trực tiếp bóng đá Liverpool - MU: Fernandes hết lời khen Pochettino (Ng…' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Video bóng đá Barcelona - Villarreal: Ngược dòng không tưởng (La Liga)' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Trực tiếp bóng đá Liverpool - MU: Fernandes hết lời khen Pochettino (Ngoại hạng Anh)",
+          "title": "Video bóng đá Barcelona - Villarreal: Ngược dòng không tưởng (La Liga)",
           "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-liverpool-mu-ruc-lua-derby-nuoc-anh-ngoai-hang-anh-c48a1813227.html"
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-barcelona-villarreal-choang-vang-2-phut-2-ban-la-liga-c48a1813207.html"
         },
         {
-          "title": "Tin nóng bóng đá 22.11: Chờ màn lột xác tức thì của MU ở trận đại chiến với Liverpool",
-          "source": "Laodong.vn",
-          "url": "https://laodong.vn/video-the-thao/tin-nong-bong-da-2211-cho-man-lot-xac-tuc-thi-cua-mu-o-tran-dai-chien-voi-liverpool-1804242.ldo"
+          "title": "Chuyên gia tố trọng tài dung túng cho HLV Real và Barca",
+          "source": "bongda.com.vn",
+          "url": "https://bongda.com.vn/chuyen-gia-to-trong-tai-dung-tung-cho-hlv-real-va-barca-d856007.html"
         },
         {
-          "title": "Siêu máy tính dự đoán cơ hội chiến thắng của Man Utd trước Liverpool",
-          "source": "Báo Dân trí",
-          "url": "https://dantri.com.vn/the-thao/sieu-may-tinh-du-doan-co-hoi-chien-thang-cua-man-utd-truoc-liverpool-20261122060930236.htm"
+          "title": "Yamal lập kỷ lục đá hỏng phạt đền ở La Liga, Mbappe cũng dính “lời nguyền“",
+          "source": "tin.skydoor.net",
+          "url": "https://tin.skydoor.net/news/tay-ban-nha/yamal-lap-ky-luc-da-hong-phat-den-o-la-liga-mbappe-cung-dinh-8447943"
         }
       ]
     },
     {
-      "id": "빗썸",
+      "id": "콜레트-크레스",
       "rank": 7,
-      "keyword": "빗썸",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "keyword": "콜레트 크레스",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '업비트·빗썸, 사이버 CYBER 입출금 동시 중단…거래는 열고 송금은 막았다' (위키트리) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"젠슨 황 떠난 뒤\"…엔비디아 새 수장 말투가 화제 된 이유 [한명현의 오피스로그]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "업비트·빗썸, 사이버 CYBER 입출금 동시 중단…거래는 열고 송금은 막았다",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1176751"
+          "title": "\"젠슨 황 떠난 뒤\"…엔비디아 새 수장 말투가 화제 된 이유 [한명현의 오피스로그]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611185671i"
         },
         {
-          "title": "빗썸, 사이버(CYBER) 입출금 일시 중지 안내",
-          "source": "코인리더스",
-          "url": "https://www.coinreaders.com/272321"
+          "title": "‘1인 독주’ 젠슨 황 사태, 이사회가 멈췄다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/weeklybiz/2026/11/23/MLPUPUEVJZD3BKET4VXRPATAZI/"
         },
         {
-          "title": "업비트, 사이버(CYBER) 입출금 일시 중단…보안 사고 정황",
-          "source": "코인리더스",
-          "url": "https://www.coinreaders.com/272319"
+          "title": "미 재무 “엔비디아 수출통제 준수 여부가 핵심”…젠슨 황 복귀 가능성 배제 안 해",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719577"
         }
       ]
     },
     {
-      "id": "라싱-산탄데르-대-레알-소시에다드",
+      "id": "getafe-vs-atlético",
       "rank": 8,
-      "keyword": "라싱 산탄데르 대 레알 소시에다드",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "keyword": "getafe vs atlético",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Racing de Santander vs Real Sociedad: Spanish La Liga stats & head-to-h…' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Baena sostiene la llama de un buen Atlético en su victoria en Getafe' (EL PAÍS) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Racing de Santander vs Real Sociedad: Spanish La Liga stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c6kgr004pl7rt"
+          "title": "Baena sostiene la llama de un buen Atlético en su victoria en Getafe",
+          "source": "EL PAÍS",
+          "url": "https://elpais.com/deportes/futbol/2026-11-22/baena-sostiene-la-llama-de-un-buen-atletico-en-su-victoria-en-getafe.html"
         },
         {
-          "title": "Racing-Real Sociedad: Racing hosts with three players ruled out",
-          "source": "Tu Futbolero",
-          "url": "https://www.tufutbolero.com/en/news/racing-real-sociedad-racing-hosts-with-three-players-ruled-fcf0d2"
+          "title": "'Kill pass → PK + provocación de expulsión': Lee Kang-in brilló sin puntos ofensivos... El Atlético, victoria aplastante 3-0 ante el Getafe",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/es/sports/2026/11/23/2026112305521469120"
         },
         {
-          "title": "Racing Santander - Real Sociedad LIVE. LALIGA EA Sports latest updates",
-          "source": "MARCA",
-          "url": "https://www.marca.com/en/soccer/laliga-ea-sports/racing-santander-real-sociedad/2026/11/22/01_0101_20261122_189_188-live.html"
+          "title": "Recital del Atleti en el Coliseum",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/es/noticias/recital-del-atleti-en-el-coliseum-43821840"
         }
       ]
     },
     {
-      "id": "청년문화예술패스",
+      "id": "레임덕",
       "rank": 9,
-      "keyword": "청년문화예술패스",
-      "volumeLabel": "100+",
+      "keyword": "레임덕",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": []
-    },
-    {
-      "id": "라민-야말",
-      "rank": 10,
-      "keyword": "라민 야말",
-      "volumeLabel": "100+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '페이호 \"라민 야말의 활약은 특별하다\", 스페인이 2030 월드컵 결승전 개최해야' (AllFootball) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '시동 걸린 트럼프 레임덕…공화당發 국방부 고위직 인준 제동' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "페이호 \"라민 야말의 활약은 특별하다\", 스페인이 2030 월드컵 결승전 개최해야",
-          "source": "AllFootball",
-          "url": "https://www.allfootballapp.com/ko/articles/6037663-2030"
+          "title": "시동 걸린 트럼프 레임덕…공화당發 국방부 고위직 인준 제동",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261123001000071"
         },
         {
-          "title": "‘스페인 월드컵 개최 포기?’ 불타는 의지, 바르셀로나-레알 마드리드 안방에서? “챔피언이잖아...그렇게 될 것”",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%89%E1%85%B3%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB-%E1%84%8B%E1%85%AF%E1%86%AF%E1%84%83%E1%85%B3%E1%84%8F%E1%85%A5%E1%86%B8-%E1%84%80%E1%85%A2%E1%84%8E%E1%85%AC-%E1%84%91%E1%85%A9%E1%84%80%E1%85%B5-%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%8C%E1%85%A1%E1%86%BC-%E1%84%91%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8-%E1%84%87%E1%85%AE%E1%86%AF%E1%84%90%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%8B%E1%85%B4%E1%84%8C%E1%85%B5-%E1%84%87%E1%85%A1%E1%84%85%E1%85%B3%E1%84%89%E1%85%A6%E1%86%AF%E1%84%85%E1%85%A9%E1%84%82%E1%85%A1-%E1%84%85%E1%85%A6%E1%84%8B%E1%85%A1%E1%86%AF-%E1%84%86%E1%85%A1%E1%84%83%E1%85%B3%E1%84%85%E1%85%B5%E1%84%83%E1%85%B3-%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5--%E1%84%8E%E1%85%A2%E1%86%B7%E1%84%91%E1%85%B5%E1%84%8B%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%A1%E1%86%AD%E1%84%8B%E1%85%A1--%E1%84%80%E1%85%B3%E1%84%85%E1%85%A5%E1%87%82%E1%84%80%E1%85%A6-%E1%84%83%E1%85%AC%E1%86%AF-%E1%84%80%E1%85%A5%E1%86%BA/bltd770ea97e8d68e28"
+          "title": "공화당이 반기 들고 일어났다…트럼프 정부 구상 '휘청' [지금이뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0545_202611230719018671"
         },
         {
-          "title": "7분 만에 2실점→야말 PK 실축→3-2 역전승! 바르셀로나, 홈에서 비야레알에 진땀승…라리가 선두 수성",
-          "source": "마이데일리",
-          "url": "https://www.mydaily.co.kr/page/view/2026112300222443099"
+          "title": "트럼프 레임덕 시동?…공화당서 국방부 고위직 인준 제동",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611230544204Xc"
+        }
+      ]
+    },
+    {
+      "id": "메디게이트뉴스",
+      "rank": 10,
+      "keyword": "메디게이트뉴스",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"의대증원되는데 전문의 따야 하나요\"…전공의들이 의대생에게 전한 조언은' (MEDI:GATE NEWS) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"의대증원되는데 전문의 따야 하나요\"…전공의들이 의대생에게 전한 조언은",
+          "source": "MEDI:GATE NEWS",
+          "url": "https://www.medigatenews.com/news/3037552586"
+        },
+        {
+          "title": "“의대 증원한다고 흉부외과 지원하겠나”…대동맥 수술 대가의 반문",
+          "source": "청년의사",
+          "url": ""
+        },
+        {
+          "title": "사명감 너머의 현실, 젊은 의사들이 마주한 필수의료의 미래 : 병원·제약",
+          "source": "의약일보",
+          "url": "https://www.medicaldaily.co.kr/post/124368"
         }
       ]
     }
