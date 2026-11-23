@@ -1,286 +1,270 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-11-22T23:30:00.626Z",
+  "updatedAt": "2026-11-23T03:58:10.314Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "날씨",
+      "id": "lpga",
       "rank": 1,
-      "keyword": "날씨",
-      "volumeLabel": "500000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[날씨] 월요일 아침 영하권 추위…전국에 비·눈 소식' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "[날씨] 월요일 아침 영하권 추위…전국에 비·눈 소식",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261122040000004"
-        },
-        {
-          "title": "눈·비 ‘미끄럼’ 주의…서울 낮기온 10도",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719524"
-        },
-        {
-          "title": "[날씨] 전국 점차 비·강원 산간 눈...출근길 중부 '어는 비'",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0108_202611230648220971_005.html"
-        }
-      ]
-    },
-    {
-      "id": "치매",
-      "rank": 2,
-      "keyword": "치매",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Bruce Willis Seen in New Photo with Daughter Tallulah amid His Dementia…' (People.com) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Bruce Willis Seen in New Photo with Daughter Tallulah amid His Dementia Diagnosis",
-          "source": "People.com",
-          "url": "https://people.com/bruce-willis-seen-in-new-photo-shared-by-daughter-tallulah-12270959"
-        },
-        {
-          "title": "Tallulah Willis apologizes for sharing ‘intimate’ photo with dad Bruce: ‘I can do better’",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/entertainment/celebrity/articles/tallulah-willis-apologizes-sharing-intimate-190631378.html"
-        },
-        {
-          "title": "Bruce Willis' daughter apologizes for sharing 'intimate' photo of him",
-          "source": "USA Today",
-          "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/11/22/bruce-willis-daughter-tallulah-new-photo-apology/92913243007/"
-        }
-      ]
-    },
-    {
-      "id": "노시환",
-      "rank": 3,
-      "keyword": "노시환",
+      "keyword": "lpga",
       "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"4년간 116홈런에 강한 어깨까지\" 양키스 3루수 후보 노시환, 美 현지 매체가 짚은 약점은?' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Kim A-lim Finishes Tied for 7th at LPGA Season Finale... Jeeno Thitikul…' (news.sbs.co.kr) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"4년간 116홈런에 강한 어깨까지\" 양키스 3루수 후보 노시환, 美 현지 매체가 짚은 약점은?",
+          "title": "Kim A-lim Finishes Tied for 7th at LPGA Season Finale... Jeeno Thitikul Wins for 3rd Straight Year",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008858116"
+        },
+        {
+          "title": "Thitikul Ends Sörenstam's LPGA Earnings Reign",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/22/MZQTGODGGQZDIZDDMEZGMYJZMI/"
+          "url": "https://www.chosun.com/english/world-en/2026/11/23/DQZ7INLHRFAQPBZUYU3Z6LVYBU/"
         },
         {
-          "title": "\"日 사토보단 싸다\" 한화 노시환, ML 정말 가나! 주전 3루수 판 캔자스시티 급부상 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/22/2026112215404271386"
-        },
-        {
-          "title": "美 매체 야드바커, 노시환 '수비 최대 강점' 평가…MLB 가성비 3루수 후보로 떠올라",
-          "source": "데일리스포츠한국",
-          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435795"
+          "title": "Jeeno Thitikul Cashes in at Tiburon to Win $4M Prize for 3rd Straight Time",
+          "source": "LPGA",
+          "url": "https://www.lpga.com/news/2026/jeeno-thitikul-cashes-in-at-tiburon-to-win-4m-prize-for-3rd-straight-time"
         }
       ]
     },
     {
-      "id": "김호령",
-      "rank": 4,
-      "keyword": "김호령",
-      "volumeLabel": "2000+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '김호령 KIA 유턴 가능성? 김호령 이어 정수빈까지 시장 나오나… 중견수 시장 지각변동' (SPOTV NEWS) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "김호령 KIA 유턴 가능성? 김호령 이어 정수빈까지 시장 나오나… 중견수 시장 지각변동",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021260"
-        },
-        {
-          "title": "김호령은 말할 것도 없고, FA는 C등급이 볼매…전병우와 김상수도? 삼성 ‘구원’만 지키면 안 되는구나",
-          "source": "마이데일리",
-          "url": "https://www.mydaily.co.kr/page/view/2026112305332992187"
-        },
-        {
-          "title": "김호령? KIA, 신중하게 접근해야…대안 있다면 과감하게 결단할 필요도, 김호령도 자신의 가치 인정하는 구단과 계약해야",
-          "source": "마니아타임즈",
-          "url": "https://www.maniareport.com/view.php?ud=20261122072216318291b55a0d56_19"
-        }
-      ]
-    },
-    {
-      "id": "울릉도",
-      "rank": 5,
-      "keyword": "울릉도",
+      "id": "ssg-랜더스",
+      "rank": 2,
+      "keyword": "ssg 랜더스",
       "volumeLabel": "1000+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '[단독]울릉도 표류 北 주민 6명 조만간 송환하기로' (동아일보) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''원클럽맨' 문승원, 2+1년 총액 15억원에 SSG 잔류' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "[단독]울릉도 표류 北 주민 6명 조만간 송환하기로",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20261123/135070407/2"
+          "title": "'원클럽맨' 문승원, 2+1년 총액 15억원에 SSG 잔류",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261122016900007"
         },
         {
-          "title": "에스더기도운동 2026년 11월 3주차 북한 및 국가 기도제목 : 선교",
-          "source": "크리스천투데이",
-          "url": "https://www.christiantoday.co.kr/news/378655"
+          "title": "[공식발표] '와 미쳤다' 93억에 내부 FA 전원 단속 성공! 37살 베테랑 왜 15억에 붙잡았나 \"헌신+경기운영능력 최우선 평가\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/22/MZRDMMJUHA3DCNZSHA4DAZBWMM/"
         },
         {
-          "title": "울릉공항 지정면세점, 여객선 관광객은 혜택 못 받나",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20261122094051322"
+          "title": "프로야구 SSG, 투수 문승원과 최대 3년·15억원 FA 계약",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611230611191Xq"
         }
       ]
     },
     {
-      "id": "thứ-hạng-của-barcelona-gặp-villarreal",
-      "rank": 6,
-      "keyword": "thứ hạng của barcelona gặp villarreal",
+      "id": "제주특별자치도",
+      "rank": 3,
+      "keyword": "제주특별자치도",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "사채",
+      "rank": 4,
+      "keyword": "사채",
       "volumeLabel": "500+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Video bóng đá Barcelona - Villarreal: Ngược dòng không tưởng (La Liga)' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '단독 쿠팡·배민도 손 못 대는 '배달 사채'...금감원, 실태 점검' (YTN) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Video bóng đá Barcelona - Villarreal: Ngược dòng không tưởng (La Liga)",
-          "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/video-bong-da-barcelona-villarreal-choang-vang-2-phut-2-ban-la-liga-c48a1813207.html"
-        },
-        {
-          "title": "Chuyên gia tố trọng tài dung túng cho HLV Real và Barca",
-          "source": "bongda.com.vn",
-          "url": "https://bongda.com.vn/chuyen-gia-to-trong-tai-dung-tung-cho-hlv-real-va-barca-d856007.html"
-        },
-        {
-          "title": "Yamal lập kỷ lục đá hỏng phạt đền ở La Liga, Mbappe cũng dính “lời nguyền“",
-          "source": "tin.skydoor.net",
-          "url": "https://tin.skydoor.net/news/tay-ban-nha/yamal-lap-ky-luc-da-hong-phat-den-o-la-liga-mbappe-cung-dinh-8447943"
-        }
-      ]
-    },
-    {
-      "id": "콜레트-크레스",
-      "rank": 7,
-      "keyword": "콜레트 크레스",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"젠슨 황 떠난 뒤\"…엔비디아 새 수장 말투가 화제 된 이유 [한명현의 오피스로그]' (한국경제) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"젠슨 황 떠난 뒤\"…엔비디아 새 수장 말투가 화제 된 이유 [한명현의 오피스로그]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611185671i"
-        },
-        {
-          "title": "‘1인 독주’ 젠슨 황 사태, 이사회가 멈췄다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/weeklybiz/2026/11/23/MLPUPUEVJZD3BKET4VXRPATAZI/"
-        },
-        {
-          "title": "미 재무 “엔비디아 수출통제 준수 여부가 핵심”…젠슨 황 복귀 가능성 배제 안 해",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719577"
-        }
-      ]
-    },
-    {
-      "id": "getafe-vs-atlético",
-      "rank": 8,
-      "keyword": "getafe vs atlético",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Baena sostiene la llama de un buen Atlético en su victoria en Getafe' (EL PAÍS) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Baena sostiene la llama de un buen Atlético en su victoria en Getafe",
-          "source": "EL PAÍS",
-          "url": "https://elpais.com/deportes/futbol/2026-11-22/baena-sostiene-la-llama-de-un-buen-atletico-en-su-victoria-en-getafe.html"
-        },
-        {
-          "title": "'Kill pass → PK + provocación de expulsión': Lee Kang-in brilló sin puntos ofensivos... El Atlético, victoria aplastante 3-0 ante el Getafe",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/es/sports/2026/11/23/2026112305521469120"
-        },
-        {
-          "title": "Recital del Atleti en el Coliseum",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/es/noticias/recital-del-atleti-en-el-coliseum-43821840"
-        }
-      ]
-    },
-    {
-      "id": "레임덕",
-      "rank": 9,
-      "keyword": "레임덕",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '시동 걸린 트럼프 레임덕…공화당發 국방부 고위직 인준 제동' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "시동 걸린 트럼프 레임덕…공화당發 국방부 고위직 인준 제동",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261123001000071"
-        },
-        {
-          "title": "공화당이 반기 들고 일어났다…트럼프 정부 구상 '휘청' [지금이뉴스]",
+          "title": "단독 쿠팡·배민도 손 못 대는 '배달 사채'...금감원, 실태 점검",
           "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0545_202611230719018671"
+          "url": "https://www.ytn.co.kr/_ln/0103_202611230524034356"
         },
         {
-          "title": "트럼프 레임덕 시동?…공화당서 국방부 고위직 인준 제동",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611230544204Xc"
+          "title": "금융감독원, '배달 사채' 실태 파악 착수…불법 대부업 근절 나서",
+          "source": "nbn 시사경제",
+          "url": "https://www.nbnbiz.co.kr/news/articleView.html?idxno=47336"
+        },
+        {
+          "title": "배달기사 옥죄는 '배달 사채'…금감원, 불법 대부 실태 조사",
+          "source": "더퍼블릭",
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=327956"
         }
       ]
     },
     {
-      "id": "메디게이트뉴스",
-      "rank": 10,
-      "keyword": "메디게이트뉴스",
+      "id": "삼성증권",
+      "rank": 5,
+      "keyword": "삼성증권",
+      "volumeLabel": "500+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '삼성증권 고객 개인정보 8241건 유출... ‘고객의소리’ 서비스 노린 해킹' (보안뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "삼성증권 고객 개인정보 8241건 유출... ‘고객의소리’ 서비스 노린 해킹",
+          "source": "보안뉴스",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=147441"
+        },
+        {
+          "title": "삼성증권도 해킹 피해‥고객 8천2백 명 개인정보 유출",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6867771_36932.html"
+        },
+        {
+          "title": "[속보]삼성증권 ‘고객의 소리’ 해킹…고객 8241명 계좌번호·운전면허번호 유출",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611231030001"
+        }
+      ]
+    },
+    {
+      "id": "새마을금고",
+      "rank": 6,
+      "keyword": "새마을금고",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '구로구-하나은행·동구로새마을금고·든솔신협, 전용계좌 협약' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "구로구-하나은행·동구로새마을금고·든솔신협, 전용계좌 협약",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261122_0003878041"
+        },
+        {
+          "title": "새마을금고·신협도 지방보조금 전용계좌…구로구, 금융기관 선택 폭 넓힌다",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10944889"
+        },
+        {
+          "title": "양주시, 새마을금고·신협과 지방보조금 전용계좌 업무 협약…접근성 높인다",
+          "source": "한국사회복지저널",
+          "url": "https://www.ksw-news.com/news/articleView.html?idxno=3063791"
+        }
+      ]
+    },
+    {
+      "id": "삼성물산",
+      "rank": 7,
+      "keyword": "삼성물산",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '삼성물산 건설부문장에 최영재 사장 승진 임명' (전기신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "삼성물산 건설부문장에 최영재 사장 승진 임명",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=375138"
+        },
+        {
+          "title": "삼성물산, 6년 만에 건설부문 수장 교체…신임 사장에 최영재(종합)",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445999"
+        },
+        {
+          "title": "삼성물산 건설부문 사장에 최영재 부사장 승진",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261123039000003"
+        }
+      ]
+    },
+    {
+      "id": "국가장학금",
+      "rank": 8,
+      "keyword": "국가장학금",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '내년 1학기 국가장학금 신청하세요…내일부터 내년 1월7일까지' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "내년 1학기 국가장학금 신청하세요…내일부터 내년 1월7일까지",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261123047100530"
+        },
+        {
+          "title": "국가장학금 1차 24일부터 신청…내년 지방 국립대 등록금 전액 지원",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/education/6362413"
+        },
+        {
+          "title": "2027학년도 국가장학금 24일부터 신청…소득구간 10개→5개 개편",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261123000075"
+        }
+      ]
+    },
+    {
+      "id": "치이카와-클리닉",
+      "rank": 9,
+      "keyword": "치이카와 클리닉",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"의대증원되는데 전문의 따야 하나요\"…전공의들이 의대생에게 전한 조언은' (MEDI:GATE NEWS) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '치이카와 클리닉 @삿포로 아피아' (domingo.ne.jp) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"의대증원되는데 전문의 따야 하나요\"…전공의들이 의대생에게 전한 조언은",
-          "source": "MEDI:GATE NEWS",
-          "url": "https://www.medigatenews.com/news/3037552586"
+          "title": "치이카와 클리닉 @삿포로 아피아",
+          "source": "domingo.ne.jp",
+          "url": "https://domingo.ne.jp/ko/event/55460"
         },
         {
-          "title": "“의대 증원한다고 흉부외과 지원하겠나”…대동맥 수술 대가의 반문",
-          "source": "청년의사",
-          "url": ""
+          "title": "내 지갑은 치료 불가···'치이카와 클리닉' 더현대 서울 상륙",
+          "source": "캠페인 인사이트",
+          "url": "https://www.campaigninsight.co.kr/news/articleView.html?idxno=7399"
         },
         {
-          "title": "사명감 너머의 현실, 젊은 의사들이 마주한 필수의료의 미래 : 병원·제약",
-          "source": "의약일보",
-          "url": "https://www.medicaldaily.co.kr/post/124368"
+          "title": "'치이카와 클리닉' 팝업 스토어, 오늘(23일) 1차 사전 예약 오픈…시간·방법?",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16283185"
+        }
+      ]
+    },
+    {
+      "id": "네이버-주가",
+      "rank": 10,
+      "keyword": "네이버 주가",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '네이버 주가 장중 9%대 내려, 데이터센터 투심 위축에 관련주 약세' (비즈니스포스트) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "네이버 주가 장중 9%대 내려, 데이터센터 투심 위축에 관련주 약세",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452626"
+        },
+        {
+          "title": "[특징주] 네이버, 목표주가 잇단 하향에 7%대 급락…본업 둔화 우려",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2651549"
+        },
+        {
+          "title": "주가 40% 폭락했는데 쓸어담았다…외인 매수 1위 '이 종목'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026111981651"
         }
       ]
     }
