@@ -1,276 +1,237 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-11-24T22:42:33.816Z",
+  "updatedAt": "2026-11-25T05:21:21.095Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "마녀",
+      "id": "공휴일",
       "rank": 1,
-      "keyword": "마녀",
-      "volumeLabel": "500+",
-      "startedLabel": "1시간 전",
+      "keyword": "공휴일",
+      "volumeLabel": "5000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '마법 세계로 빨려든 모녀 마녀의 모험…디즈니 '헥스: 마녀왕국'' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '12·3 국민주권의 날이 “자화자찬 굿판”이라는 나경원' (한겨레) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "마법 세계로 빨려든 모녀 마녀의 모험…디즈니 '헥스: 마녀왕국'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261124173200005"
+          "title": "12·3 국민주권의 날이 “자화자찬 굿판”이라는 나경원",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1288879.html"
         },
         {
-          "title": "`디즈니표` 마법소녀 탄생…신작 `헥스: 마녀왕국` 25일 개봉",
-          "source": "매일신문",
-          "url": "https://www.imaeil.com/page/view/2026112417072450634"
+          "title": "'12·3 국민주권의 날' 정부기념일 지정…국민 용기와 행동 기린다",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976397&pWise=sub&pWiseSub=R4"
         },
         {
-          "title": "수십 년간 디즈니 공주들 괴롭혔던 마녀… '헥스'에선 유쾌한 구원자가 됐다",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026112417300005393"
+          "title": "12월 3일 '국민주권의날' 기념일 지정...공휴일은 아냐",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202611242333403642"
         }
       ]
     },
     {
-      "id": "컨테이너선",
+      "id": "트레킹",
       "rank": 2,
-      "keyword": "컨테이너선",
+      "keyword": "트레킹",
+      "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘거북이는오른다’, 북한산 둘레길 21코스 완주' (DWBNEWS) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘거북이는오른다’, 북한산 둘레길 21코스 완주",
+          "source": "DWBNEWS",
+          "url": "https://www.dwbnews.kr/news/articleView.html?idxno=125981"
+        },
+        {
+          "title": "\"해발 1,614m 정상까지 37분이면 도착하네\"... 시니어도 편히 정상 오르는 곤도라·트레킹 코스",
+          "source": "아던트뉴스",
+          "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=21994"
+        },
+        {
+          "title": "[르포] 눈 덮인 팔공산... 초겨울에 만난 겨울왕국",
+          "source": "충남일보",
+          "url": "https://www.chungnamilbo.co.kr/news/articleView.html?idxno=922177"
+        }
+      ]
+    },
+    {
+      "id": "오현규",
+      "rank": 3,
+      "keyword": "오현규",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '‘韓 국가대표’ 오현규, 베식타스 입단 1년도 안 돼 러시아 무대 향하나…“스파르타크 모스크바와 긴밀하게 접촉 중”' (인터풋볼) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "‘韓 국가대표’ 오현규, 베식타스 입단 1년도 안 돼 러시아 무대 향하나…“스파르타크 모스크바와 긴밀하게 접촉 중”",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=699157"
+        },
+        {
+          "title": "'韓 주전 공격수' 오현규의 대굴욕...주전 경쟁 완전히 밀렸다! 코냐스포르전서 단 '1분' 출전, '경쟁자'는 멀티골→\"동료-감독-팬들 덕분\"",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026112314492476641"
+        },
+        {
+          "title": "韓 축구 초비상! '국가대표 공격수' 오현규, '16호 프리미어리거' 등극 무산 위기...손흥민 강력 추천에도 러시아행 가능성 급부상→예상 이적료 441억",
+          "source": "MHN스포츠",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1709382"
+        }
+      ]
+    },
+    {
+      "id": "대전광역시",
+      "rank": 4,
+      "keyword": "대전광역시",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "에디차",
+      "rank": 5,
+      "keyword": "에디차",
       "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '머스크, 헝리조선에 2만4000TEU급 LNG 이중연료 컨테이너선 24척 발주' (해사신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 ''코리안 좀비' 정찬성 스승 에디 차 사망설 확산…MMA계 애도 물결' (위키트리) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "머스크, 헝리조선에 2만4000TEU급 LNG 이중연료 컨테이너선 24척 발주",
-          "source": "해사신문",
-          "url": ""
+          "title": "'코리안 좀비' 정찬성 스승 에디 차 사망설 확산…MMA계 애도 물결",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1177635"
         },
         {
-          "title": "\"머스크, 헝리重에 2만4000TEU급 컨선 20척 발주\"",
-          "source": "해양통신",
-          "url": "https://www.oceanpress.co.kr/news/article.html?no=31877"
-        },
-        {
-          "title": "세계 최대 선사 MSC, 미주 정기 노선에 부산항 추가",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261124500346"
+          "title": "정찬성 지도했던 한국계 UFC 코치 별세 비보…UFC 파이터도 해설위원도 애도",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021708"
         }
       ]
     },
     {
-      "id": "테슬라",
-      "rank": 3,
-      "keyword": "테슬라",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '테슬라-스페이스X 합병 '본격' 시작되나...특별위원회 구성' (마켓인) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "테슬라-스페이스X 합병 '본격' 시작되나...특별위원회 구성",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01613766645649328"
-        },
-        {
-          "title": "스페이스X·테슬라 합병특위 이사 5명 결정…역대급 합병 시동 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/11/24/2026112416594231003"
-        },
-        {
-          "title": "스페이스X-테슬라, '사상 최대 합병' 속도전…\"연내 마무리\"",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611250327007129"
-        }
-      ]
-    },
-    {
-      "id": "man-city-vs-napoli",
-      "rank": 4,
-      "keyword": "man city vs napoli",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Manchester City Survives Late Equalizer vs Napoli' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Manchester City Survives Late Equalizer vs Napoli",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/25/NSKPCV7OH5B2PAGGPKG36KA3WM/"
-        },
-        {
-          "title": "3 Man City winners and 3 unlucky losers in brutal draw with Napoli",
-          "source": "Man City Square",
-          "url": "https://mancitysquare.com/man-city-winners-unlucky-losers-brutal-draw-napoli"
-        },
-        {
-          "title": "\"It's a dream for us!\" - Massimiliano Allegri reveals what victory over Manchester City would mean for Napoli's Champions League hopes",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en-us/news/-massimiliano-allegri-victory-manchester-city-napoli-champions-league-/blt3a5fed9556d45cde"
-        }
-      ]
-    },
-    {
-      "id": "알테오젠",
-      "rank": 5,
-      "keyword": "알테오젠",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '알테오젠, 전환가액 15% 낮춰…잠재 매물 9만주 증가 By EBN' (Investing.com 한국어) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "알테오젠, 전환가액 15% 낮춰…잠재 매물 9만주 증가 By EBN",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2184781"
-        },
-        {
-          "title": "알테오젠 4.27% 조정…ALT-B4 후속 개발 일정에 무게",
-          "source": "잡포스트",
-          "url": "https://www.job-post.co.kr/news/articleView.html?idxno=240514"
-        },
-        {
-          "title": "“알테오젠, 올해 영업익 3050억 전망…美 약가 인하 영향은 변수” [Why 바이오]",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20116245"
-        }
-      ]
-    },
-    {
-      "id": "이용철",
+      "id": "홍익표",
       "rank": 6,
-      "keyword": "이용철",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "keyword": "홍익표",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '야 “공소취소 지휘 않겠단 얘기 못하나”…이용철 “예, 그렇다”' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '\"강금실? 대통령 생각을 모르겠다\" 與서도 국정원장 후보 지명 우려' (조선일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "야 “공소취소 지휘 않겠단 얘기 못하나”…이용철 “예, 그렇다”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611242140015"
-        },
-        {
-          "title": "'공소취소' 묻자‥이용철 \"무리한 지휘 않을 것\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6868318_37012.html"
-        },
-        {
-          "title": "유동규와 ‘닭백숙집 포커’ 의혹에… 이용철 “난 육식 못한다” 부인",
+          "title": "\"강금실? 대통령 생각을 모르겠다\" 與서도 국정원장 후보 지명 우려",
           "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/11/24/OUQIZJON75AVZG54TTGQRMJXPQ/"
+          "url": "https://www.chosun.com/politics/assembly/2026/11/25/IIJNLNP45NFGZKCN5H3XQ7PLMU/"
+        },
+        {
+          "title": "美, 韓 외교안보라인 교체에 \"한미동맹 내 긴밀한 협력 중요\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261125002400071"
+        },
+        {
+          "title": "윤건영 “강금실이 중국 간첩? 안철수 논리면 한덕수도 간첩”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1288988.html"
         }
       ]
     },
     {
-      "id": "슬로반-브라티슬라바-대-레알-베티스",
+      "id": "miss-universe-2026",
       "rank": 7,
-      "keyword": "슬로반 브라티슬라바 대 레알 베티스",
+      "keyword": "miss universe 2026",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '슬로반 브라티슬라바 vs 레알 베티스 예측: 좋은 컨디션을 유지하고 있는 두 팀의 맞대결입니다.' (Vietnam.vn) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 'Where to Watch the Miss Universe 2026 Pageant Streaming Online for Free' (WWD) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "슬로반 브라티슬라바 vs 레알 베티스 예측: 좋은 컨디션을 유지하고 있는 두 팀의 맞대결입니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-slovan-bratislava-vs-real-betis-man-so-tai-cua-hai-doi-vao-phom"
+          "title": "Where to Watch the Miss Universe 2026 Pageant Streaming Online for Free",
+          "source": "WWD",
+          "url": "https://wwd.com/shop/shop-fashion/watch-miss-universe-2026-livestream-online-free-streaming-1239462551/"
+        },
+        {
+          "title": "Miss Universe 2026 celebrates unity and beauty in Puerto Rico",
+          "source": "USA Today",
+          "url": "https://www.usatoday.com/picture-gallery/entertainment/celebrities/2026/11/24/miss-universe-2026-crowns-new-winner-photos/92935065007/"
+        },
+        {
+          "title": "Meet the 116 women competing to be Miss Universe 2026",
+          "source": "Business Insider",
+          "url": "https://www.businessinsider.com/miss-universe-pageant-contestants-photos-2026-11"
         }
       ]
     },
     {
-      "id": "인천광역시",
+      "id": "김희애",
       "rank": 8,
-      "keyword": "인천광역시",
+      "keyword": "김희애",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '인천시교육청, AI 시대 맞춤 독서교육 실천 방안 모색' (뉴스타운) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '‘59세’ 김희애, 자기관리 대단하네…생애 첫 하프 마라톤 완주 [DA★]' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "인천시교육청, AI 시대 맞춤 독서교육 실천 방안 모색",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=723138"
+          "title": "‘59세’ 김희애, 자기관리 대단하네…생애 첫 하프 마라톤 완주 [DA★]",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261125/135085175/1"
         },
         {
-          "title": "인천광역시교육청, 독서교육 전문적학습공동체 15팀 연구 성과 공유",
-          "source": "일간투데이",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=806042"
-        },
-        {
-          "title": "인천시교육청·한국독서학회, '읽걷쓰AI' 독서교육 협약",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3760801"
-        }
-      ]
-    },
-    {
-      "id": "박지현",
-      "rank": 9,
-      "keyword": "박지현",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘한국 여배우 최초 후보’ 박지현, 국제에미상 수상 불발···‘하이퍼나이프’도 고배' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘한국 여배우 최초 후보’ 박지현, 국제에미상 수상 불발···‘하이퍼나이프’도 고배",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611242206001"
-        },
-        {
-          "title": "제54회 국제 에미상 시상식 도착한 박지현",
+          "title": "59세 김희애, 블랙 드레스에 가죽 장갑…모델 포스",
           "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261124_0002300518&pID=1&cID=&sID=1&type=Main&idx=6"
+          "url": "https://www.newsis.com/view/NISX20261124_0003880299"
         },
         {
-          "title": "\"후보 꿈만같아\"..박지현, '韓최초' 국제에미상 연기상 수상 불발",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/MQ2TEMRXMMYDKMDDGAYDQOJZGE/"
+          "title": "김희애, 노화 지적에 맨 얼굴로 응수하더니..59세 첫 마라톤 성공 '완벽 몸매' [핫피플]",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261124001135923"
         }
       ]
     },
     {
-      "id": "미들즈브러-대-스완지-시티",
-      "rank": 10,
-      "keyword": "미들즈브러 대 스완지 시티",
+      "id": "채권",
+      "rank": 9,
+      "keyword": "채권",
       "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Middlesbrough 2-1 Swansea City: Myles Peart-Harris and Will Lankshear s…' (BBC) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '한화투자증권, 채권 순입고 이벤트…최대 50만원 혜택' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Middlesbrough 2-1 Swansea City: Myles Peart-Harris and Will Lankshear strike as leaders win",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cmkgd1j51wx1t"
+          "title": "한화투자증권, 채권 순입고 이벤트…최대 50만원 혜택",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261125_0003882422"
         },
         {
-          "title": "Ashley Williams | We know the size of the task, and it will need our full focus",
-          "source": "Swansea City",
-          "url": "https://www.swanseacity.com/news/ashley-williams-we-know-size-task-and-it-will-need-our-full-focus"
+          "title": "삼성증권, IRP·연금저축 절세 페스타 행사 실시",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261125000189"
         },
         {
-          "title": "Derby day looms - but Williams focuses on Boro",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/derby-day-looms-williams-focuses-040652591.html"
+          "title": "한화투자증권, '채권투자에 혜택 더하기' 비대면 행사",
+          "source": "아시아경제",
+          "url": "https://core.asiae.co.kr/article/2026112510345342588"
         }
       ]
     }
