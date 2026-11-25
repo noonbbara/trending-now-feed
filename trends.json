@@ -1,99 +1,211 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-11-25T05:21:21.095Z",
+  "updatedAt": "2026-11-25T15:58:03.547Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "공휴일",
+      "id": "시그널",
       "rank": 1,
-      "keyword": "공휴일",
-      "volumeLabel": "5000+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '12·3 국민주권의 날이 “자화자찬 굿판”이라는 나경원' (한겨레) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "12·3 국민주권의 날이 “자화자찬 굿판”이라는 나경원",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1288879.html"
-        },
-        {
-          "title": "'12·3 국민주권의 날' 정부기념일 지정…국민 용기와 행동 기린다",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976397&pWise=sub&pWiseSub=R4"
-        },
-        {
-          "title": "12월 3일 '국민주권의날' 기념일 지정...공휴일은 아냐",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202611242333403642"
-        }
-      ]
-    },
-    {
-      "id": "트레킹",
-      "rank": 2,
-      "keyword": "트레킹",
+      "keyword": "시그널",
       "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘거북이는오른다’, 북한산 둘레길 21코스 완주' (DWBNEWS) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“소년범이 TV에 나와도 되나요?”…‘시그널2’ 첫 티저에 싸늘한 반응' (스포츠경향) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘거북이는오른다’, 북한산 둘레길 21코스 완주",
-          "source": "DWBNEWS",
-          "url": "https://www.dwbnews.kr/news/articleView.html?idxno=125981"
+          "title": "“소년범이 TV에 나와도 되나요?”…‘시그널2’ 첫 티저에 싸늘한 반응",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611240740003"
         },
         {
-          "title": "\"해발 1,614m 정상까지 37분이면 도착하네\"... 시니어도 편히 정상 오르는 곤도라·트레킹 코스",
-          "source": "아던트뉴스",
-          "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=21994"
+          "title": "김은희 작가의 '시그널2', 조진웅 복귀 무대 되나",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202611240841278214"
         },
         {
-          "title": "[르포] 눈 덮인 팔공산... 초겨울에 만난 겨울왕국",
-          "source": "충남일보",
-          "url": "https://www.chungnamilbo.co.kr/news/articleView.html?idxno=922177"
+          "title": "’시그널2’ 첫 티저 공개…이제훈·김혜수 목소리만",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611250516386A8"
         }
       ]
     },
     {
-      "id": "오현규",
-      "rank": 3,
-      "keyword": "오현규",
+      "id": "성유리",
+      "rank": 2,
+      "keyword": "성유리",
       "volumeLabel": "1000+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '성유리, 중학교 성적표 공개…전 과목 '수' 받은 모범생' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "성유리, 중학교 성적표 공개…전 과목 '수' 받은 모범생",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261125_0003882889"
+        },
+        {
+          "title": "\"오빠가 의사\"..성유리, 의대 대신 핑클 데뷔..전 과목 '올 수' 성적표 공개",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/G4YDQZTGMM3GIOBYGVSTSZRZMU/"
+        },
+        {
+          "title": "성유리, 중학생 때 모든 과목 '수' 성적표 공개…교수父· 의사 오빠 잇던 수재",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6365969"
+        }
+      ]
+    },
+    {
+      "id": "세계의-주인",
+      "rank": 3,
+      "keyword": "세계의 주인",
+      "volumeLabel": "1000+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '40주 만에 1위, 청룡이 선택한 남자 오정세 [O! STAR 숏폼]' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "40주 만에 1위, 청룡이 선택한 남자 오정세 [O! STAR 숏폼]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/HBSGMMRYMVRTKY3GGRQWMMLEG4/"
+        },
+        {
+          "title": "40주 만에 1위 한 ‘만년 2등 가수’…청룡서 당당히 립싱크",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611252259003"
+        },
+        {
+          "title": "오정세, 청룡 뜬 최성곤",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8233244"
+        }
+      ]
+    },
+    {
+      "id": "추미애",
+      "rank": 4,
+      "keyword": "추미애",
+      "volumeLabel": "500+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘韓 국가대표’ 오현규, 베식타스 입단 1년도 안 돼 러시아 무대 향하나…“스파르타크 모스크바와 긴밀하게 접촉 중”' (인터풋볼) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '추미애 \"공직자의 판단 기준은 상부 지시 아닌 헌법\"... 새내기 공무원에 강조' (OhmyNews) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "‘韓 국가대표’ 오현규, 베식타스 입단 1년도 안 돼 러시아 무대 향하나…“스파르타크 모스크바와 긴밀하게 접촉 중”",
-          "source": "인터풋볼",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=699157"
+          "title": "추미애 \"공직자의 판단 기준은 상부 지시 아닌 헌법\"... 새내기 공무원에 강조",
+          "source": "OhmyNews",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003288477"
         },
         {
-          "title": "'韓 주전 공격수' 오현규의 대굴욕...주전 경쟁 완전히 밀렸다! 코냐스포르전서 단 '1분' 출전, '경쟁자'는 멀티골→\"동료-감독-팬들 덕분\"",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026112314492476641"
+          "title": "추미애 \"상부 지시보다 헌법 기준으로 판단해야\"…신규 공직자 특강",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/gyeonggi/6366005"
         },
         {
-          "title": "韓 축구 초비상! '국가대표 공격수' 오현규, '16호 프리미어리거' 등극 무산 위기...손흥민 강력 추천에도 러시아행 가능성 급부상→예상 이적료 441억",
-          "source": "MHN스포츠",
-          "url": "https://mhnse.com/news/articleView.html?idxno=1709382"
+          "title": "추미애 지사, 신규 공직자에게 \"상부 지시에 익숙해질 때면 헌법을 기준 삼으세요\"",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026112517290794068"
         }
       ]
     },
     {
-      "id": "대전광역시",
-      "rank": 4,
-      "keyword": "대전광역시",
-      "volumeLabel": "1000+",
+      "id": "공포탐욕지수",
+      "rank": 5,
+      "keyword": "공포탐욕지수",
+      "volumeLabel": "200+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '업비트 종합지수 전주 대비 6.04% 하락…\"새 상장종목 대응전략 공유 활발\"' (빅데이터뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "업비트 종합지수 전주 대비 6.04% 하락…\"새 상장종목 대응전략 공유 활발\"",
+          "source": "빅데이터뉴스",
+          "url": "https://www.thebigdata.co.kr/view.php?ud=202611231439246548d0a8833aad_23"
+        },
+        {
+          "title": "공포·탐욕 지수 '극단적 공포'...암호화폐 6종, 90일간 12% 이상 급등",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/273266"
+        },
+        {
+          "title": "[주간 디지털 자산 시장 브리핑] 업비트 지수 10.59% 하락, 거래대금은 21.47% 상승",
+          "source": "경향게임스",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=310539"
+        }
+      ]
+    },
+    {
+      "id": "금연",
+      "rank": 6,
+      "keyword": "금연",
+      "volumeLabel": "200+",
       "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '\"술은 관계와 관계없다\"…음주폐해 예방의 달 기념식' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "\"술은 관계와 관계없다\"…음주폐해 예방의 달 기념식",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261125054000530"
+        },
+        {
+          "title": "모임·회식 많아지는 연말연시…\"술은 관계와 관계없어요\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261125_0003882164"
+        },
+        {
+          "title": "천선휴 뉴스1 기자, 음주폐해예방 유공 복지부 장관 표창",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/bio/welfare-medical/6365989"
+        }
+      ]
+    },
+    {
+      "id": "유은성",
+      "rank": 7,
+      "keyword": "유은성",
+      "volumeLabel": "200+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '김정화·유은성, 부부싸움에 경찰까지 출동…뉴욕서 무슨 일 - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "김정화·유은성, 부부싸움에 경찰까지 출동…뉴욕서 무슨 일 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/25/2026112516172443727"
+        },
+        {
+          "title": "김정화, 남편과 뉴욕서 첫 부부싸움…경찰까지 출동했다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261125_0003882970"
+        },
+        {
+          "title": "유은성 \"♥김정화와 뉴욕서 부부 싸움…한밤중 호텔 나가 경찰까지 와\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6366117"
+        }
+      ]
+    },
+    {
+      "id": "공포지수",
+      "rank": 8,
+      "keyword": "공포지수",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
       "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
@@ -101,137 +213,58 @@
       "newsSignals": []
     },
     {
-      "id": "에디차",
-      "rank": 5,
-      "keyword": "에디차",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 ''코리안 좀비' 정찬성 스승 에디 차 사망설 확산…MMA계 애도 물결' (위키트리) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "'코리안 좀비' 정찬성 스승 에디 차 사망설 확산…MMA계 애도 물결",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1177635"
-        },
-        {
-          "title": "정찬성 지도했던 한국계 UFC 코치 별세 비보…UFC 파이터도 해설위원도 애도",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021708"
-        }
-      ]
-    },
-    {
-      "id": "홍익표",
-      "rank": 6,
-      "keyword": "홍익표",
-      "volumeLabel": "500+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"강금실? 대통령 생각을 모르겠다\" 與서도 국정원장 후보 지명 우려' (조선일보) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "\"강금실? 대통령 생각을 모르겠다\" 與서도 국정원장 후보 지명 우려",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/assembly/2026/11/25/IIJNLNP45NFGZKCN5H3XQ7PLMU/"
-        },
-        {
-          "title": "美, 韓 외교안보라인 교체에 \"한미동맹 내 긴밀한 협력 중요\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261125002400071"
-        },
-        {
-          "title": "윤건영 “강금실이 중국 간첩? 안철수 논리면 한덕수도 간첩”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1288988.html"
-        }
-      ]
-    },
-    {
-      "id": "miss-universe-2026",
-      "rank": 7,
-      "keyword": "miss universe 2026",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Where to Watch the Miss Universe 2026 Pageant Streaming Online for Free' (WWD) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Where to Watch the Miss Universe 2026 Pageant Streaming Online for Free",
-          "source": "WWD",
-          "url": "https://wwd.com/shop/shop-fashion/watch-miss-universe-2026-livestream-online-free-streaming-1239462551/"
-        },
-        {
-          "title": "Miss Universe 2026 celebrates unity and beauty in Puerto Rico",
-          "source": "USA Today",
-          "url": "https://www.usatoday.com/picture-gallery/entertainment/celebrities/2026/11/24/miss-universe-2026-crowns-new-winner-photos/92935065007/"
-        },
-        {
-          "title": "Meet the 116 women competing to be Miss Universe 2026",
-          "source": "Business Insider",
-          "url": "https://www.businessinsider.com/miss-universe-pageant-contestants-photos-2026-11"
-        }
-      ]
-    },
-    {
-      "id": "김희애",
-      "rank": 8,
-      "keyword": "김희애",
-      "volumeLabel": "100+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '‘59세’ 김희애, 자기관리 대단하네…생애 첫 하프 마라톤 완주 [DA★]' (스포츠동아) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "‘59세’ 김희애, 자기관리 대단하네…생애 첫 하프 마라톤 완주 [DA★]",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261125/135085175/1"
-        },
-        {
-          "title": "59세 김희애, 블랙 드레스에 가죽 장갑…모델 포스",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261124_0003880299"
-        },
-        {
-          "title": "김희애, 노화 지적에 맨 얼굴로 응수하더니..59세 첫 마라톤 성공 '완벽 몸매' [핫피플]",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261124001135923"
-        }
-      ]
-    },
-    {
-      "id": "채권",
+      "id": "acl-two",
       "rank": 9,
-      "keyword": "채권",
+      "keyword": "acl two",
+      "volumeLabel": "200+",
+      "startedLabel": "3시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 'Group E: Melbourne Victory (AUS) 0-0 The Cong - Viettel FC (VIE)' (The AFC) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "Group E: Melbourne Victory (AUS) 0-0 The Cong - Viettel FC (VIE)",
+          "source": "The AFC",
+          "url": "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-e-melbourne-victory-aus-0-0-the-cong-viettel-fc-vie"
+        },
+        {
+          "title": "The Cong team was eliminated early in the Asian Cup.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/en/the-cong-bi-loai-som-o-cup-chau-a"
+        },
+        {
+          "title": "Victory draw in ACL Two",
+          "source": "Melbourne Victory Football Club",
+          "url": "https://melbournevictory.com.au/news/victory-draw-in-acl-two/"
+        }
+      ]
+    },
+    {
+      "id": "박보검",
+      "rank": 10,
+      "keyword": "박보검",
       "volumeLabel": "100+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '한화투자증권, 채권 순입고 이벤트…최대 50만원 혜택' (뉴시스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '사라진 고경표, 나타난 조진웅...연예인 직업의식은 어디에 [자막뉴스]' (YTN) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "한화투자증권, 채권 순입고 이벤트…최대 50만원 혜택",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261125_0003882422"
+          "title": "사라진 고경표, 나타난 조진웅...연예인 직업의식은 어디에 [자막뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0134_202611251034284891"
         },
         {
-          "title": "삼성증권, IRP·연금저축 절세 페스타 행사 실시",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261125000189"
+          "title": "'만취 음주운전' 고경표 하차에 박보검도 대책 세웠다..지수·안은진 투입(보검매직컬2)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/MNSDEYRZMQ2DKYRUHAYDANRWHA/"
         },
         {
-          "title": "한화투자증권, '채권투자에 혜택 더하기' 비대면 행사",
-          "source": "아시아경제",
-          "url": "https://core.asiae.co.kr/article/2026112510345342588"
+          "title": "박보검 이번엔 통영 바닷가로…‘보검 매직컬2’ 촬영지 관심",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261125/135079946/1"
         }
       ]
     }
