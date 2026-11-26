@@ -1,260 +1,256 @@
 {
   "schemaVersion": 2,
   "rankingMethod": "search-velocity-v1",
-  "updatedAt": "2026-11-26T00:11:59.405Z",
+  "updatedAt": "2026-11-26T08:49:00.477Z",
   "sourceLabel": "Google Trends RSS 기반 급상승 데이터",
   "items": [
     {
-      "id": "롯데-자이언츠",
+      "id": "이승우",
       "rank": 1,
-      "keyword": "롯데 자이언츠",
+      "keyword": "이승우",
+      "volumeLabel": "10000+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '격차 이 정도로 커졌나···‘5전 전패에 0골 11실점’ 일본 원정 다섯 경기서 K리그 ‘대망신’' (경향신문) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "격차 이 정도로 커졌나···‘5전 전패에 0골 11실점’ 일본 원정 다섯 경기서 K리그 ‘대망신’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611261438001"
+        },
+        {
+          "title": "이승우, 일본 선수 멱살 잡고 거친 몸싸움…이유 있는 분노?",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261126091016eUW"
+        },
+        {
+          "title": "K리그1 전북, ACLE 5차전 원정서 가시마에 0-3 완패",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261125179300007"
+        }
+      ]
+    },
+    {
+      "id": "코레일",
+      "rank": 2,
+      "keyword": "코레일",
       "volumeLabel": "1000+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '\"레이예스 조만간 좋은 소식 있을 것\" 日 이적설에 롯데 이택근 단장 직접 입 열었다, 3년 600안타 복덩이 결국 지키나 - …' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '철도노조, '안전운행 투쟁' 돌입…열차 지연에 승객 불편 불가피(종합)' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "\"레이예스 조만간 좋은 소식 있을 것\" 日 이적설에 롯데 이택근 단장 직접 입 열었다, 3년 600안타 복덩이 결국 지키나 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/25/2026112510195353254"
+          "title": "철도노조, '안전운행 투쟁' 돌입…열차 지연에 승객 불편 불가피(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261125182951063"
         },
         {
-          "title": "타 구단 외인 퍼즐 맞추는데…거인은 신중 모드",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20261126.22015008107"
-        },
-        {
-          "title": "[프로야구] 롯데, '3년 연속 안타왕' 레이예스와 동행 이어가나…\"곧 단년 계약 발표\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261125001340"
-        }
-      ]
-    },
-    {
-      "id": "심우정",
-      "rank": 2,
-      "keyword": "심우정",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '박성재, 심우정 재판서 “검사 파견 지시 안 해” 주장' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "박성재, 심우정 재판서 “검사 파견 지시 안 해” 주장",
+          "title": "철도노조 준법 투쟁 여파로 일반 열차 3대 운행 중지",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8721048"
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723502"
         },
         {
-          "title": "박성재 \"계엄 당시 심우정에게 검사 파견 지시 안 해\" 법정 증언",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261124099500004"
-        },
-        {
-          "title": "박성재 \"계엄 당일 심우정과 세 차례 통화…검사 파견 지시 안했다\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/24/2026112411170078862"
+          "title": "서울지하철 노사, 500명 충원 합의",
+          "source": "매일노동뉴스",
+          "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237926"
         }
       ]
     },
     {
-      "id": "리플",
+      "id": "마이클-버리",
       "rank": 3,
-      "keyword": "리플",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "keyword": "마이클 버리",
+      "volumeLabel": "1000+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '튀르키예 은행에 리플 보관 기술…XRP 결제는 빠졌다' (코인리더스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '마이클 버리, 나스닥 100 풋옵션 전량 매도…“포트폴리오는 롱 중심”' (Investing.com 한국어) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "튀르키예 은행에 리플 보관 기술…XRP 결제는 빠졌다",
-          "source": "코인리더스",
-          "url": "https://www.coinreaders.com/273373"
+          "title": "마이클 버리, 나스닥 100 풋옵션 전량 매도…“포트폴리오는 롱 중심”",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2190694"
         },
         {
-          "title": "리플, 튀르키예 Yapı Kredi 자체 시설에 커스터디 구축…95% 보관 규정 대응",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1177825"
+          "title": "‘빅쇼트’ 버리, 나스닥 하락 베팅 청산…엔비디아 재매도 예고",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/2026112608153972229a1f309431_1"
         },
         {
-          "title": "야피 크레디, 리플 수탁 기술 도입해 계열 플랫폼 고객 자산 보관",
-          "source": "토큰포스트",
-          "url": "https://www.tokenpost.kr/news/cryptocurrency/444199"
+          "title": "'빅쇼트' 버리 \"엔비디아, 200달러 근접하면 다시 공매도\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446580"
         }
       ]
     },
     {
-      "id": "지하철",
+      "id": "김민식",
       "rank": 4,
-      "keyword": "지하철",
-      "volumeLabel": "200+",
-      "startedLabel": "1시간 전",
+      "keyword": "김민식",
+      "volumeLabel": "500+",
+      "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '출근길 지하철에 KTX까지 ‘주의보’…오늘부터 철도노조 준법투쟁 돌입' (JTBC) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '프로야구 LG, 2회 우승 포수 김민식 영입' (중앙일보) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "출근길 지하철에 KTX까지 ‘주의보’…오늘부터 철도노조 준법투쟁 돌입",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12329874"
+          "title": "프로야구 LG, 2회 우승 포수 김민식 영입",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25482153"
         },
         {
-          "title": "1부 오늘의 주요뉴스",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6868630_37012.html"
+          "title": "프로야구 LG, SSG 떠난 베테랑 포수 김민식 영입",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261126062000007"
         },
         {
-          "title": "지하철 파업 또 넘겼지만…‘만성 적자·2212명 감축’ 불씨",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611252052025"
+          "title": "FA 박동원 놓칠 경우 대비일까...SSG 방출 김민식, LG 전격 계약 \"풍부한 경험으로 포수 뎁스 강화\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/26/202611261003774987O"
         }
       ]
     },
     {
-      "id": "thứ-hạng-của-sporting-gặp-man-utd",
+      "id": "골든글러브",
       "rank": 5,
-      "keyword": "thứ hạng của sporting gặp man utd",
+      "keyword": "골든글러브",
       "volumeLabel": "200+",
       "startedLabel": "2시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Video bóng đá Sporting Lisbon - MU: Mãn nhãn màn rượt đuổi tỉ số (Cúp C…' (Tin tức 24h) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '[사진]정준재,'수비상 수상 영광이에요' - 머니투데이' (머니투데이) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "Video bóng đá Sporting Lisbon - MU: Mãn nhãn màn rượt đuổi tỉ số (Cúp C1)",
-          "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/video-bong-da-sporting-lisbon-mu-man-nhan-man-ruot-duoi-ti-so-cup-c1-c48a1814104.html"
+          "title": "[사진]정준재,'수비상 수상 영광이에요' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/26/202611261508774846O"
         },
         {
-          "title": "Tội đồ Lammens khiến MU rơi chiến thắng ở Champions League",
-          "source": "Znews",
-          "url": "https://znews.vn/toi-do-lammens-khien-mu-roi-chien-thang-o-champions-league-post1699060.html"
+          "title": "소감 밝히는 박성한",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8234996"
         },
         {
-          "title": "Trọng tài chung kết World Cup bị chỉ trích vì 'xử ép' Man Utd",
-          "source": "VnExpress",
-          "url": "https://vnexpress.net/trong-tai-chung-ket-world-cup-bi-chi-trich-vi-xu-ep-man-utd-5148951.html"
+          "title": "[SW포토]수비상 받은 박성한",
+          "source": "스포츠월드",
+          "url": "https://www.sportsworldi.com/newsView/20261126513304"
         }
       ]
     },
     {
-      "id": "주한-중국-대사",
+      "id": "이집트",
       "rank": 6,
-      "keyword": "주한 중국 대사",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 '다이빙 중국대사 “어떤 것이 중국에 들어올지는 결정은 중국 주권 문제”…한·중 문화교류 관련' (경향신문) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "다이빙 중국대사 “어떤 것이 중국에 들어올지는 결정은 중국 주권 문제”…한·중 문화교류 관련",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611251819001"
-        },
-        {
-          "title": "中대사, 이 대통령 ’친중’ 비판에 “中과 잘 지내면 불리?“",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261125224806buJ"
-        },
-        {
-          "title": "다이빙 주한중국대사 특강",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20261125076700013"
-        }
-      ]
-    },
-    {
-      "id": "mu",
-      "rank": 7,
-      "keyword": "mu",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'Micron Stock and Other Memory Plays Will Bear the Brunt of This AI Pain' (Barron's) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "Micron Stock and Other Memory Plays Will Bear the Brunt of This AI Pain",
-          "source": "Barron's",
-          "url": "https://www.barrons.com/articles/micron-stock-memory-ai-pain-2d9a14da"
-        },
-        {
-          "title": "Micron: This Is A Fire Sale (NASDAQ:MU)",
-          "source": "Seeking Alpha",
-          "url": "https://seekingalpha.com/article/4972001-micron-this-is-a-fire-sale"
-        },
-        {
-          "title": "Micron Faces DRAM and NAND Pricing Pressure as Shares Slide",
-          "source": "cwibc.co.id",
-          "url": "https://cwibc.co.id/en/micron-dram-nand-pricing-pressure"
-        }
-      ]
-    },
-    {
-      "id": "금융감독원",
-      "rank": 8,
-      "keyword": "금융감독원",
-      "volumeLabel": "200+",
-      "startedLabel": "2시간 전",
-      "change": "new",
-      "changeLabel": "NEW",
-      "summary": "급상승 시점에 'AI 금융사기 어떻게 막나…KT·금감원, 여의도서 체험관 운영' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
-      "relatedQueries": [],
-      "newsSignals": [
-        {
-          "title": "AI 금융사기 어떻게 막나…KT·금감원, 여의도서 체험관 운영",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261125140600017"
-        },
-        {
-          "title": "금감원, '2026 세계투자자주간'…\"AI 금융사기 대응 강화\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261125_0003882882"
-        },
-        {
-          "title": "AI로 만든 가짜 투자 권유…금감원·KT, 금융사기 예방 나서",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03437446645649328"
-        }
-      ]
-    },
-    {
-      "id": "대한민국-고용노동부",
-      "rank": 9,
-      "keyword": "대한민국 고용노동부",
+      "keyword": "이집트",
       "volumeLabel": "100+",
       "startedLabel": "1시간 전",
       "change": "new",
       "changeLabel": "NEW",
-      "summary": "급상승 시점에 '육아휴직해도 승진심사·금요 조기퇴근…일생활 균형 124곳 시상' (연합뉴스) 관련 뉴스가 함께 포착됐어요.",
+      "summary": "급상승 시점에 '“탈출할 시간조차 없었다”…이집트 유조차 충돌 화재 최소 30명 사망 [현장영상]' (KBS 뉴스) 관련 뉴스가 함께 포착됐어요.",
       "relatedQueries": [],
       "newsSignals": [
         {
-          "title": "육아휴직해도 승진심사·금요 조기퇴근…일생활 균형 124곳 시상",
+          "title": "“탈출할 시간조차 없었다”…이집트 유조차 충돌 화재 최소 30명 사망 [현장영상]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723106"
+        },
+        {
+          "title": "[쇼츠] 치솟은 시뻘건 화염과 연기…유조차 폭발에 아비규환",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261125077000530"
+          "url": "https://www.yna.co.kr/view/AKR20261126156100704"
         },
         {
-          "title": "(주)비알코스 와이드, ‘2026년 대한민국 일·생활균형 우수기업’ 수상",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1775379"
-        },
-        {
-          "title": "30분 단위 연차도 OK…NS홈쇼핑, 일·생활 균형 우수기업 선정",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261126_0003883803"
+          "title": "이집트 카이로 외곽도로서 충돌 사고로 30여 명 사망",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261126083352Pjf"
         }
       ]
+    },
+    {
+      "id": "김시아",
+      "rank": 7,
+      "keyword": "김시아",
+      "volumeLabel": "100+",
+      "startedLabel": "1시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '[청룡영화상] \"거친 파도 품고 있는 잔잔한 바다 같아\"…격론에 격론 더한 6시간, 청룡 심사표 공개' (스포츠조선) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "[청룡영화상] \"거친 파도 품고 있는 잔잔한 바다 같아\"…격론에 격론 더한 6시간, 청룡 심사표 공개",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-11-26/202611260100162780015024"
+        },
+        {
+          "title": "한지민 맞아? 훅 파인 과감한 드레스에 '깜짝' [포토]",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/26/GRSTEODCHAZTAM3CMJRGIYLBMU/"
+        },
+        {
+          "title": "HK직캠｜이제훈-한지민, '선남선녀의 우아한 등장'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611260712H"
+        }
+      ]
+    },
+    {
+      "id": "36사단",
+      "rank": 8,
+      "keyword": "36사단",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
+    },
+    {
+      "id": "우재준",
+      "rank": 9,
+      "keyword": "우재준",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "급상승 시점에 '“당 꼬라지하고는” “탈당해라”… 국힘 최고위서 ‘윤리위 내홍’' (조선일보) 관련 뉴스가 함께 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": [
+        {
+          "title": "“당 꼬라지하고는” “탈당해라”… 국힘 최고위서 ‘윤리위 내홍’",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/assembly/2026/11/26/UJ3U7E2OLFEIPCXQTFYQBUYSJU/"
+        },
+        {
+          "title": "국민의힘 ‘조작징계’ 논란 두고 최고위 충돌…정점식 “당 꼬라지 하고는”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611261716001"
+        },
+        {
+          "title": "‘난장판’ 국힘, 공개 회의서 우재준·김민수 충돌…정점식, 자리 박차고 이탈",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12329971"
+        }
+      ]
+    },
+    {
+      "id": "35사단",
+      "rank": 10,
+      "keyword": "35사단",
+      "volumeLabel": "100+",
+      "startedLabel": "2시간 전",
+      "change": "new",
+      "changeLabel": "NEW",
+      "summary": "Google Trends에서 검색량이 빠르게 늘어난 검색어로 포착됐어요.",
+      "relatedQueries": [],
+      "newsSignals": []
     }
   ]
 }
